@@ -33,3 +33,20 @@ Esta parte se encarga de buscar las coincidencias y posibles partes plagiadas de
     /vri/indexacion
     /vri/busqueda
 para mas detalles revise `/routes/web.php`
+
+***Instalacion***
+- Descargar la ultima version del proyecto
+- dirigirse a la carpeta del projecto
+- Instalar las dependencias de Laravel con "composer install" en la consola
+- configurar la base de datos en el archivo .env , puede usar .env.example para guiarse
+- migrar la base de datos con el comando "php artisan migrate"
+- crear un grupo por defecto en la tabla "grupo" de la base de datos
+- en linux configurar persmisos con el comando "sudo chmod -R 777 ."
+- OPCIONAL: instalar las dependencias de nodeJS con npm con el comando "npm install" en consola
+- OPCIONAL: instalar gulp con "npm install gulp" en consola
+
+***comandos utiles***
+- para iniciar el servidor de laravel "php artisan serve"
+
+***recomendaciones***
+- puede usar vagrant Laravel homestead, para no estar instalando cada uno de los componentes mencionados, mas info sobre la instalacion en la pagina oficial de laravel
