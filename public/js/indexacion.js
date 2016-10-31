@@ -3,7 +3,7 @@ Vue.component('vue-archivos', {
     data: function(){
         return {
             c_url: false,
-            url: 'http://localhost/p/dev/response/',
+            url: 'http://localhost/p/dev/laravel-5.3/public/php/',
             src: 'src',
             lista: {},
             respuesta: false
@@ -11,7 +11,7 @@ Vue.component('vue-archivos', {
     },
     methods: {
         escanear: function(){
-            $.getJSON('http://localhost/p/dev/response/escaner.php', {
+            $.getJSON('http://localhost/p/dev/laravel-5.3/public/php/escaner.php', {
                 src: this.src
             },function(data){
                 console.log(data);
@@ -19,7 +19,7 @@ Vue.component('vue-archivos', {
             }.bind(this))
         },
         ver: function(ruta){
-            $.getJSON('http://localhost/p/dev/response/contenido.php', {
+            $.getJSON('http://localhost/p/dev/laravel-5.3/public/php/contenido.php', {
                 ruta: ruta
             },function(data){
                 console.log(data);
@@ -27,7 +27,7 @@ Vue.component('vue-archivos', {
             }.bind(this))
         },
         indexar: function(ruta){
-            $.getJSON('http://localhost/p/dev/response/indexar.php', {
+            $.getJSON('http://localhost/p/dev/laravel-5.3/public/php/indexar.php', {
                 ruta: ruta
             },function(data){
                 console.log(data);

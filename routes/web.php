@@ -39,6 +39,9 @@ Route::group(['prefix' => 'models'], function(){
 
 //grupo de rutas de la plicacion del VRI
 Route::group(['prefix' => 'vri'], function(){
+    Route::get('', function(){
+        return view('vri.index');
+    });
     Route::group(['prefix' => 'indexacion'], function(){
         Route::get('', function(){
             return view('vri.indexacion.index');

@@ -1,0 +1,48 @@
+10/8/2016
+
+Comparación de dos versiones de un archivo PDF en Adobe Acrobat.
+
+Comparación de dos versiones de un archivo PDF en Adobe Acrobat.
+
+Comparación de dos versiones de un archivo PDF
+Puede utilizar la función Comparar documentos para encontrar las diferencias entre dos archivos PDF. Después de comparar dos archivos, Acrobat DC proporciona un informe detallado de cada cambio, incluyendo texto, fuentes, imágenes e incluso el orden de las páginas.
+1. Elija Herramientas > Comparar documentos.
+2. Elija los documentos que desea comparar. Puede limitar la comparación a una parte de los documentos introduciendo los números de página en los campos Primera y Última bajo cada nombre de archivo.
+3. En Descripción del documento, seleccione el tipo de documento que está comparando.  Para ignorar las diferencias entre los elementos gráficos, seleccione Comparar solo texto. Haga clic en Aceptar.
+Acrobat DC muestra los resultados en un documento nuevo. En la primera página se resumen los resultados de la comparación de los documentos.
+
+a  Diferencias entre archivos, b  Archivos comparados, c  Hipervínculo Procedimientos iniciales, que le conducen a la primera diferencia, d  Páginas movidas o eliminadas, e  Leyenda de los símbolos utilizados en el informe
+4. Seleccione cómo revisar las diferencias.
+
+a. Utilice el panel Comparar de la parte izquierda (predeterminado).
+
+Avance por las miniaturas en el panel Comparar. Si bajo la miniatura hay un icono, significa que hay una diferencia. Una flecha verde significa páginas movidas o eliminadas. Una flecha púrpura designa un cambio en la página.
+
+https://helpx.adobe.com/es/acrobat/using/comparedocuments.html
+
+1/2
+
+10/8/2016
+
+Comparación de dos versiones de un archivo PDF en Adobe Acrobat.
+
+Vuelva a la primera página y haga clic en Procedimientos iniciales para ir a la primera diferencia. 
+
+Los cambios se muestran resaltados en la pantalla principal. Sitúe el cursor sobre el resaltado para
+
+ver los detalles. La leyenda de colores situada en la parte superior derecha le servirá de guía.
+
+b. Utilice la vista en paralelo.
+
+En el panel Comparar de la parte izquierda, haga clic en el icono de opciones y seleccione Mostrar documentos contiguos.
+
+Los cambios se muestran resaltados en la pantalla principal. Sitúe el cursor sobre el resaltado para ver los detalles. La leyenda de colores situada en la parte superior derecha le servirá de guía.
+
+Las opciones de comparación le proporcionan herramientas para personalizar la comparación de los documentos.
+ Los términos de Creative Commons no cubren las publicaciones en TwitterTM y Facebook.
+
+https://helpx.adobe.com/es/acrobat/using/comparedocuments.html
+
+2/2
+
+

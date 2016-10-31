@@ -74,5 +74,5 @@
 @endsection
 
 @section('script')
-<script src="{{url('js/busqueda.js')}}"></script>
+<!--<script src="{{url('js/busqueda.js')}}"></script>-->
 @endsection
