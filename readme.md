@@ -4,7 +4,7 @@ APLICACION DEL VRI DETECCIÓN DE PLAGIO EN TESIS DE LA UNIVERSIDAD NACIONAL DEL 
 ------------------------------------------------------------------------
 
 **Tecnologias usadas**
-- laravel
+ - laravel 5.3
  - Vue JS 2
  - Angular - No confirmado -
  - MySQL
@@ -34,7 +34,7 @@ Esta parte se encarga de buscar las coincidencias y posibles partes plagiadas de
     /vri/busqueda
 para mas detalles revise `/routes/web.php`
 
-***Instalacion***
+**Instalacion**
 - Descargar la ultima version del proyecto
 - dirigirse a la carpeta del projecto
 - Instalar las dependencias de Laravel con "composer install" en la consola
@@ -45,8 +45,8 @@ para mas detalles revise `/routes/web.php`
 - OPCIONAL: instalar las dependencias de nodeJS con npm con el comando "npm install" en consola
 - OPCIONAL: instalar gulp con "npm install gulp" en consola
 
-***comandos utiles***
+**comandos utiles**
 - para iniciar el servidor de laravel "php artisan serve"
 
-***recomendaciones***
+**recomendaciones**
 - puede usar vagrant Laravel homestead, para no estar instalando cada uno de los componentes mencionados, mas info sobre la instalacion en la pagina oficial de laravel
