@@ -14,6 +14,9 @@ APLICACION DEL VRI DETECCIÓN DE PLAGIO EN TESIS DE LA UNIVERSIDAD NACIONAL DEL 
 - PHP 5.6 ^
 - MySQL o MariaDB
 - navegador compatible con ECMAScript5 ^
+- composer (para los componentes de laravel)
+- npm (para gulp)
+- gulp (para empaquetar los sass y js)
 
 **Descripcion**
 La aplicacion tiene dos partes fundamentales, la parte de indexacion y la de busqueda/reportes
