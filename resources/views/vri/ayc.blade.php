@@ -10,7 +10,8 @@
             <div class="panel panel-default">
                 <div class="panel-heading"><h3 class="text-center">ADMINISTRACION DE ARCHIVOS Y CARPETAS</h3></div>
                 <div class="panel-body">
-                    <div is="vue-archivos"></div>
+                    <!--<div is="vue-archivos"></div>-->
+                    
                 </div>
             </div>
         </div>
