@@ -1,0 +1,3153 @@
+  UNIVERSIDAD NACIONAL DEL ALTIPLANO - PUNO
+ FACULTAD DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
+  ESCUELA PROFESIONAL DE INGENIERÍA ESTADÍSTICA E INFORMATICA
+
+
+
+
+                            TESIS
+
+ CONTROL ESTADÍSTICO DE LA CALIDAD DEL AGUA RESPECTO AL
+
+CLORO RESIDUAL Y TURBIDEZ EN LA PLANTA DE TRATAMIENTO SEDA
+
+                       JULIACA DE 2015.
+
+
+                      PRESENTADA POR:
+
+
+         Bach. YESICA BEATRIZ MURILLO CUEVAS
+
+           PARA OPTAR EL TÍTULO PROFESIONAL DE:
+
+
+        INGENIERO ESTADÍSTICO E INFORMÁTICO
+
+                        PUNO - PERÚ
+
+
+                             2015
+ÁREA: Estadística
+TEMA: Control estadístico de calidad
+                 DEDICATORIAS
+
+
+El presente trabajo es dedicado a mis padres Juan C. Murillo
+
+Ayamamani y Julia T. Cuevas Calapuja por su paciencia y
+
+apoyo incondicional que me han brindado en todo momento y
+
+por el esfuerzo que han hecho por darme todo lo necesario.
+
+
+A mis hermanitos Giovanna Elizabeth, Wilber Gonzalo y
+
+RosmeryFeliciana Murillo Cuevas por brindarme su apoyo y
+
+estar pendientes de mi en todo momento.
+
+
+
+
+                                                 Yesica Murillo
+                  AGRADECIMIENTOS
+
+
+Le doy Gracias a Dios por darme la fuerza y la
+
+esperanza para lograr mis metas y objetivos.
+
+
+
+Agradezco con todo respeto y cariño a la Universidad
+
+Nacional del Altiplano por su formación profesional y
+
+académico durante mi vida estudiantil.
+
+
+
+Mi más profundo y sincero agradecimiento a la
+
+Facultad de Ingeniería Estadística e Informática a cada
+
+uno de sus docentes por sus enseñanzas y ejemplo de
+
+valores, dedicación y profesionalización.
+
+
+
+Al Gerente de Operaciones de la Empresa Prestadora
+
+de Servicios SEDA Juliaca por el apoyo en la obtención
+
+de información.
+                                       ÍNDICE
+
+
+
+                                                                             Pág.
+
+RESUMEN…………………………………………………………………………….........i
+
+ABSTRACT……………………………………………………………………….............. ii
+
+INTRODUCCIÓN……………………………………………………………………........ iii
+
+
+
+CAPITULO I PLAN DE INVESTIGACIÓN……………..............……………..……......1
+
+1.1. PROBLEMA……..……...……………………………..…….............. ......................1
+
+1.2. FORMULACIÓN Y DEFINICIÓN DEL PROBLEMA…….....................................3
+
+1.3. JUSTIFICACIÓN DE LA INVESTIGACIÓN……………..…………………...….….3
+
+1.4. OBJETIVOS DE LA INVESTIGACIÓN………………………………………......... 5
+
+1.5. HIPÓTESIS DE LA INVESTIGACIÓN……………………………………...............5
+
+
+
+CAPÍTULO II MARCO TEÓRICO………………………………………………...……...7
+
+2.1. ANTECEDENTES DE LA INVESTIGACIÓN……………………………………….7
+
+2.2. BASE TEÓRICA…………………………………………………………………….....9
+
+2.3. DEFINICIÓN DE TÉRMINOS BÁSICOS…………………………………............26
+
+2.4. OPERACIONALIZACIÓN DE VARIABLES……………………………………….30
+
+
+
+CAPITULO III MATERIALES Y MÉTODOS……………………..……………………31
+
+3.1. METODOLOGÍA Y PROCEDIMIENTO……………………………………………31
+
+   3.1.1. METODOLOGÍA……………………………………………………………...31
+
+          POBLACIÓN………………...………………………………………………..31
+
+          MUESTRA………………………………………………………...................32
+   3.1.2. MÉTODOS DE RECOPILACIÓN DE DATOS………………………….....32
+
+   3.1.3. MÉTODO DE TRATAMIENTO DE DATOS…………………….…………33
+
+   3.1.4. MATERIAL EXPERIMENTAL……………………………………………….33
+
+
+
+CAPÍTULO IV RESULTADOS Y DISCUSIÓN………………...………..…...............34
+
+4.1. ANÁLISIS EL CLORO RESIDUAL DEL AGUA MEDIANTE EL CONTROL
+
+   ESTADÍSTICO DE LA CALIDAD.…….…………………………………………....34
+
+4.2. ANÁLISIS PARA VERIFICAR SI LA TURBIDEZ SE ENCUENTRAN BAJO
+
+  CONTROL ESTADÍSTICO DE LA CALIDAD………………………………...……46
+
+
+
+CONCLUSIONES…………………………………………………………………………57
+
+RECOMENDACIONES Y SUGERENCIAS…………………………………...….……58
+
+BIBLIOGRAFÍA……………………………………………...……………………………59
+
+ANEXOS………………………………………………………………………….............62
+                             ÍNDICE DE GRÁFICOS
+
+                                                                                                       Pág.
+
+GRÁFICO Nº 01: Gráfico de Control del rango para el cloro residual..............37
+
+GRÁFICO Nº 02: Gráfico de control de la media del cloro residual................ 38
+
+GRÁFICO Nº 03: gráfico de control de la desviacion estandar del cloro
+
+                   residual...……………………………………….............………40
+
+GRÁFICO Nº 04: Capacidad de proceso de muestras diarias del cloro
+
+                   residual.................................................................................44
+
+GRÁFICO Nº 05: Gráfico de control para el rango de la turbiedad................ 48
+
+GRÁFICO Nº 06: Gráfico de control para la media de la turbiedad..............…49
+
+GRÁFICO Nº 07: Gráfico de control para la desviacion estandar de la
+
+                   turbiedad………………………………………………………...51
+
+GRÁFICO Nº 08: Capacidad de proceso de la turbidez.................…………...55
+                         ÍNDICE DE TABLAS
+
+                                                                            Pág.
+
+TABLA Nº 01:    Muestras diarias del cloro residual según las fechas (media,
+
+                rango y desviación estándar) de la Planta tratamiento Seda
+
+                Juliaca 2015.………………………………………...………….35
+
+TABLA Nº 02:    muestras diarias de turbidez según las fechas (media, rango
+
+                y desviación estándar) de la Planta tratamiento Seda Juliaca
+
+                2015.………………………………............................……....46
+
+TABLANº 03:     Constantes para Límites de Control media y
+
+                desviación.………………………………………………………63
+
+TABLA Nº 04:    Constantes para Límites de Control del rango…………...…64
+
+
+
+                        ÍNDICE DE FIGURAS
+
+                                                                            Pág.
+
+FIGURA Nº 01:   Muestras          de          cloro         residual         con
+
+                colorimetro…………...………………………………………....66
+
+FIGURA Nº 02:   muestras de turbiedad con turbidimetro...................……....66
+
+
+
+                           ÍNDICE DE MAPA
+MAPA Nº 01:      de la planta de tratamiento SEDA Juliaca…………...……65
+                                  RESUMEN
+
+
+La Presente investigación tuvo como objetivo principal, Determinar mediante
+
+control Estadístico de Calidad si el cloro residual y la turbidez del agua de la
+
+planta   de   tratamiento   EPS    SEDAJULIACA        S.A    cumplen    con    las
+
+especificaciones establecidas por el Ministerio de Salud en el año 2015. La
+
+hipótesis que se estructuro fue El cloro residual y la turbidez del agua de la
+
+planta de tratamiento EPS SEDAJULIACA S.A no cumplen con las
+
+especificaciones establecidas por el Ministerio de Salud, en el año 2015. Los
+
+métodos que se emplearon en el presente estudio fueron descriptivo aplicativo
+
+La Metodología que se usó en este trabajo de investigación fueron las cartas
+
+de control de Walter A. Shewhart para variables cuantitativas. Para la
+
+validación del control estadístico de la calidad, se usó la capacidad del proceso.
+
+
+Como resultado se obtuvo que el proceso es capaz de cumplir con las normas
+
+del Ministerio de Salud Reglamento de la Calidad del Agua para Consumo
+
+Humano – DS N° 031-2010-SA. Las cuales son 0,5 - 5 mg/l para cloro residual
+
+y 0 – 5 UNT para turbiedad.
+
+
+Se concluye con el rechazo de la hipótesis general e hipótesis especifico.
+
+
+Palabra Clave: Agua, Control De Calidad, Cloro Residual, Turbiedad
+
+
+
+
+                                                                                 ii
+                                   ABSTRACT
+
+
+The present investigation had as main objective, to determine through statistical
+
+control of quality if the residual chlorine and the water turbidity of the treatment
+
+plant EPS SILK JULIACA S.A meet the specifications established by the
+
+Ministry of Health in the year 2015. The hypotheses that were estructurowas the
+
+residual chlorine and the water turbidity of the treatment plant EPS SILK
+
+JULIACA S.A does not meet the specifications established by the Ministry of
+
+Health, in the year 2015. The methods that were used in the present study were
+
+descriptive application the methodology that was used in this research were the
+
+control charts of Walter A. Shewhart for quantitative variables. For the validation
+
+of the statistical control of quality, used the capacity of the process.
+
+
+As a result, it was observed that the process is able to comply with the
+
+standards of the Ministry of Health Regulation of the quality of water for human
+
+consumption - DS no. 031-2010 - SA. Which are 0.5 - 5 mg/l for residual
+
+chlorine and 0 - 5 NTU to turbidity
+
+It was concluded with the rejection of the general assumptions and hypotheses.
+
+specific
+
+
+Keyword: Water, Quality Control, residual chlorine, Turbidity
+
+
+
+
+                                                                                  iii
+                               INTRODUCCIÓN
+
+El Presente estudio demuestra, que las herramientas de control estadístico son
+
+una base para la mejora continua de cualquier proceso, ya que se obtienen
+
+grandes beneficios para cualquier empresa interesada en satisfacer las
+
+necesidades y la demanda del cliente, cumpliendo así con las especificaciones
+
+establecidas por normas.
+
+
+EPS SEDA Juliaca es la que presta servicios a la población, existen
+
+inconvenientes a cerca de la calidad y abastecimiento del agua ya que están en
+
+riesgo por el progresivo proceso de contaminación por las poblaciones
+
+inmigrantes, estas aguas son captadas, administradas y distribuidas por Seda
+
+Juliaca la cual realiza un tratamiento de tipo convencional
+
+
+Este estudio se estructuró en cuatro capítulos, el primer capítulo contiene, el
+
+plan de investigación: el problema, la justificación, los objetivos y la hipótesis de
+
+la investigación, en el segundo capítulo se describe, el marco teórico: los
+
+antecedentes de la investigación, la base teórica y la definición de términos
+
+básicos, en el tercer capítulo se describe, los materiales y métodos: la
+
+metodología, el método de recolección de datos, el método de tratamiento de
+
+datos y el material experimental, el cuarto capítulo contiene, los resultados y la
+
+discusión: el análisis para verificar si el cloro residual está bajo control
+
+estadístico de la calidad, el análisis para verificar si la turbidez se encuentran
+
+bajo control estadístico de la calidad, conclusiones, bibliografía y anexos.
+
+
+
+
+                                                                                   iv
+                                   CAPÍTULO I
+
+                     PLAN DE INVESTIGACIÓN
+
+
+1.1. DESCRIPCIÓN DEL PROBLEMA
+
+
+   El agua es un elemento vital para la vida y todas las personas deben
+
+   disponer de un suministro satisfactorio que sea suficiente, limpia y
+
+   accesible, que requiera mayor higiene. La mejora del acceso al agua
+
+   potable puede proporcionar beneficios tangibles para la salud, para ello
+
+   debe realizarse el máximo esfuerzo para lograr la mejor calidad del agua.
+
+
+   La ciudad de Juliaca, se encuentra ubicada al sur del Perú, en el
+
+   departamento de Puno, provincia de San Román, es la provincia que más
+
+   crece en la Región Puno, según los pronósticos del Instituto Nacional de
+
+   Estadística   e   informática    (INEI)   cuenta    con    una    población
+
+   de298,395habitantesal año 2015. Esta ciudad es abastecida con agua del
+
+   río Coata, (ver figura Nº 01) a la altura del sector conocido como
+
+   Ayabacas, al noroeste de Juliaca. Desde allí el agua es captada, tratada y
+
+   distribuida a través de la red Pública de agua hacia los diferentes sectores
+
+   urbanos.
+
+
+   Uno de los problemas más graves de la ciudad de Juliaca es la
+
+   contaminación del agua, se ha visto que a lo largo del tiempo la población
+
+   en los alrededores y a lo largo del cauce del río Coata ha ido creciendo de
+                                                                               1
+manera exponencial, generando serios problemas para la integridad y
+
+calidad de las aguas, Según la información de los estudios realizados por
+
+el Proyecto Especial Binacional Lago Titicaca (PELT) y Empresa
+
+Prestadora de Servicios (EPS)SEDA Juliaca S.A., se ha comprobado el
+
+elevado grado de contaminación en el río Coata causada por el arrojo de
+
+residuos sólidos a sus cauces y el vertimiento de aguas servidas.
+
+
+El agua de consumo humano ha sido definida en las Guías de Calidad del
+
+Agua de Bebida de la Organización Mundial de la Salud (OMS), como
+
+adecuada para consumo humano. Está implícito en esta definición el
+
+requerimiento de que el agua no debe presentar ningún tipo de riesgo que
+
+pueda causar irritación química, intoxicación o infección microbiológica
+
+que sea perjudicial a la salud humana. Teniendo como guía los
+
+estándares Nacionales de calidad del agua la Superintendencia Nacional
+
+de Servicio de Saneamiento (SUNASS), Ministerio de Salud Reglamento
+
+de la calidad del agua para consumo humano DSN° 031-2010-SA.Que
+
+tiene el fin de preservar la Salud de los usuarios y establecer estándares
+
+de elementos físicos, químicos y bacteriológicos que deben reunir las
+
+aguas de bebida para ser consideradas potables.
+
+
+La planta de tratamiento de la EPS SEDAJULIACA S.A. brinda servicios
+
+de agua potable y alcantarillado a la ciudad de Juliaca, la cual realiza un
+
+tratamiento de tipo convencional y de remoción de turbiedad y
+
+desinfección   con   cloro   que   disminuye    ciertos   microorganismos
+
+resistentes, causantes de enfermedades de origen hídrico, como el virus
+
+de la hepatitis A, y otras enfermedades, si esto se consume en exceso es
+
+                                                                          2
+    un problema al sistema digestivo, irritante para los ojos y las vías
+
+    respiratorias. El consumo de forma regular por niños, causa anemia.
+
+
+    Respecto a la turbidez a nadie le gusta el aspecto del agua sucia es poco
+
+    estético, también es esencial eliminar la turbidez para desinfectar
+
+    efectivamente el agua que va ser bebida ya que el agua con alta turbidez
+
+    puede presentar graves problemas para la salud por presencia
+
+    bacteriana, así como grandes dificultades para su correcta desinfección.
+
+
+    La planta de tratamiento de EPS SEDAJULIACA S.A. y redes matrices
+
+    tienen colapso en los periodos de lluvia y escasea el agua en tiempo de
+
+    sequía el punto de captación es muy pequeños y antiguas para abastecer
+
+    correctamente a la población de Juliaca, ya no están en capacidad de
+
+    atender a más usuarios.
+
+
+1.2. FORMULACIÓN Y DEFINICIÓN DEL PROBLEMA
+
+
+    ¿Cómo se encuentra el control Estadístico de Calidad del agua con
+
+    respecto al cloro residual y la turbidez en la planta de tratamiento EPS
+
+    SEDAJULIACA S.A de acuerdo a las especificaciones establecidas por el
+
+    Ministerio de Salud en el año 2015?
+
+
+1.3. JUSTIFICACIÓN DE LA INVESTIGACIÓN
+
+
+    La finalidad fundamental del estudio es realizar la verificación del cloro
+
+    residual y la turbidez del agua en la planta de tratamiento de EPS SEDA
+
+    Juliaca.
+
+
+
+
+                                                                               3
+Debido a los problemas que se viene presentando en la provincia de San
+
+Román respecto a la mala calidad del agua que brinda              EPSSEDA
+
+Juliaca, con el presente trabajo se quiere detectar y recomendar que se
+
+realicen mayor atención al tratamiento del agua de consumos se
+
+encuentra fuera de control y así poder prevenir enfermedades bacterianas
+
+y víricas que pueden ser perjudiciales para la salud.
+
+
+La desinfección final del agua es uno de los procesos más importantes y
+
+hay que poner mayor atención, ya que constituye una de las etapas
+
+básicas en la potabilización del agua y para lo cual se utiliza como agente
+
+desinfectante el cloro, para lo cual se debe realizar un análisis periódico a
+
+la cantidad de cloro adicionado de forma que sea saludable y beneficie a
+
+la población.
+
+
+Conociendo que la Estadística es la ciencia de la medición para las
+
+especificaciones y registros, el análisis del control de calidad de un
+
+producto ya sea de una industria, planta, fábrica y otros, es importante
+
+para conocer que el producto final se encuentre en buenas condiciones
+
+para su posterior demanda por los consumidores finales, por lo cual se
+
+considera realizar el estudio del control Estadístico de la Calidad con
+
+fichas de control del agua para mejorar la producción y así dar solución a
+
+la problemática de las variaciones de los datos.
+
+
+Es importante determinar diariamente la cantidad de cloro residual, ya que
+
+su medición indica la presencia de un remanente del desinfectante capaz
+
+de asegurar la inhibición o muerte de las bacterias patógenas y garantiza
+
+de este modo sus óptimas condiciones para el consumo.
+                                                                            4
+1.4. OBJETIVOS
+
+
+    OBJETIVO GENERAL
+
+
+     Determinar mediante control Estadístico de Calidad si el cloro residual
+
+      y la turbidez del agua de la planta de tratamiento EPS SEDAJULIACA
+
+      S.A cumplen con las especificaciones establecidas por el Ministerio de
+
+      Salud en el año 2015.
+
+
+    OBJETIVOS ESPECÍFICOS
+
+
+     Analizar y determinar si el cloro residual del aguade la planta de
+
+      tratamiento EPS SEDAJULIACA S.A. se encuentran dentro de los
+
+      límites de especificaciones establecidas por el Ministerio de Salud.
+
+     Analizar y determinar si la turbidez del agua de la planta de tratamiento
+
+      EPS SEDAJULIACA S.A. se encuentran dentro de los límites de
+
+      especificaciones establecidas por el Ministerio de Salud.
+
+
+1.5. HIPÓTESIS
+
+
+    HIPÓTESIS GENERAL
+
+     El cloro residual y la turbidez del agua de la planta de tratamiento EPS
+
+      SEDAJULIACA S.A no cumplen con las especificaciones establecidas
+
+      por el Ministerio de Salud, en el año 2015.
+
+
+    HIPÓTESIS ESPECÍFICAS
+
+
+     El cloro residual del agua de la planta de tratamiento EPS
+
+      SEDAJULIACA S.A. no se encuentra dentro de los límites de control
+
+      establecidos por el Ministerio de Salud en el año 2015.
+                                                                             5
+ La turbidez del agua de la planta de tratamiento EPS SEDAJULIACA
+
+  S.A.no se encuentra dentro de los límites de control establecidos por el
+
+  Ministerio de Salud en el año 2015.
+
+
+
+
+                                                                         6
+                                  CAPÍTULO II
+
+                            MARCO TEÓRICO
+
+
+2.1. ANTECEDENTES DE LA INVESTIGACIÓN
+
+
+   REFERENCIA A NIVEL LOCAL
+
+   Aquize y Fernando (1997).Concluye que el agua potable se encuentra
+
+   bajo control estadístico de calidad, desde el proceso de su tratamiento.
+
+
+   El proceso del control de calidad de los análisis físico, químico,
+
+   bacteriológico utilizo cartas de control estadístico de calidad, para detectar
+
+   y corregir posibles errores en el control, generando de esta forma un
+
+   producto confiable.
+
+
+   Mamani (2013). Concluye de acuerdo a las especificaciones dadas por la
+
+   empresa donde los pesos de los quesos deberían estar dentro de los
+
+   límites de 900 a 1100 gramos se verificó que los pesos de los quesos no
+
+   cumplieron con las especificaciones puesto que estaban fuera del límite
+
+   de especificación superior por lo que se concluye que el proceso del peso
+
+   de los quesos estuvo fuera de control.
+
+
+   Al verificar las cartas de control para los tres casos de:          , para el
+
+   número de quesos defectuosos en la producción, el proceso fue estable
+
+                                                                               7
+bajo control estadístico porque no se observó quesos defectuosos fuera
+
+de los límites de control, para un promedio   y estandarizado.
+
+
+REFERENCIA A NIVEL INTERNACIONAL
+
+Gutiérrez y Torres (2013).Concluyen que, una vez que el agua de
+
+ingreso pasó por el tratamiento adecuado para su potabilización en cada
+
+planta, se pudo constatar que los valores de los parámetros de
+
+temperatura, pH, color, turbiedad, dureza total y dureza cálcica en las
+
+plantas de tratamiento de EMAPAL, PI disminuyen alcanzando en su
+
+mayoría los límites establecidos por la NTE INEN 1108:11. Sin embargo,
+
+en la planta de tratamiento del FISE el parámetro de color se encuentra
+
+en el límite de referencia, el valor de turbiedad sobrepasa el valor de
+
+referencia, teniendo claro que para una desinfección eficiente el valor de
+
+la turbiedad debe estar en 1NTU. Por su parte, la conductividad del agua,
+
+la cantidad de sólidos totales disueltos, los niveles de cloro residual y los
+
+cloruros se incrementan en todas las plantas luego del tratamiento físico-
+
+químico realizado debido a la mejora en la calidad de la misma,
+
+cumpliendo con la normativa de referencia.
+
+
+Carrillo y Villalobos (2011).Llegaron a las siguientes conclusiones:
+
+El río Cazones en sus cuatro puntos de muestreo presenta el mismo
+
+Índice de Calidad del Agua “regular “cumpliéndose la hipótesis particular.
+
+No obstante, se observan diferencias notables, ya que en el puente
+
+Cazones tres existe mucha variación en sus resultados a diferencia de la
+
+bocatoma, esto nos indica que en ese tramo atraviesa la ciudad de Poza
+
+Rica y es impactado por las actividades Antropogénicas. Al observarse en
+
+                                                                            8
+    el gráfico que las cajas son simétricas se puede inferir que la información
+
+    de los resultados en general presenta equilibrio
+
+    A partir del análisis de los gráficos, se concluye que los ICA de los ríos
+
+    son totalmente diferentes, observando simetría o normalidad en la
+
+    información y destacando que la información recogida en el río Tecolutla
+
+    es más variable que la del río Cazones.
+
+
+    Jiménez (2011).Concluye que en el recorrido realizado por la planta de
+
+    tratamiento de la Empresa de Servicios Públicos Tribunas Córcega, se
+
+    evidenció que el agua se veía afectada por la baja concentración de cloro
+
+    residual en el proceso de desinfección, logrando con ello una proliferación
+
+    de microorganismos.
+
+
+2.2. BASE TEÓRICA
+
+    2.2.1.   CONTROL DE CALIDAD
+
+             Según Ishikawa (1969), el control de calidad consiste en el
+
+             desarrollo, diseño, producción y comercialización de productos y
+
+             servicios con una eficacia del coste y una utilidad óptima, todo ello
+
+             equilibrado con una compra satisfactoria por parte de los clientes.
+
+             En el control de calidad total se busca que todos los
+
+             departamentos de la empresa tengan que empeñarse en crear
+
+             sistemas que faciliten la cooperación y en preparar y poner en
+
+             prácticas finalmente las normas internas (Carot, 2001)
+
+
+             Por otro lado, según las Normas Industriales Japonesas (norma
+
+             JIS), el control de calidad se define como un sistema de métodos
+
+
+                                                                                9
+para la provisión coste-eficaz de bienes o servicios cuya calidad
+
+es adecuada a los requisitos del comprador. También esta
+
+definición contempla el control de calidad como una nueva
+
+manera de pensar en la dirección y de dirigir, y considera que la
+
+prueba en práctica eficaz del control de calidad requiere la
+
+participación y la cooperación de todos los empleados de una
+
+empresa, desde la alta dirección, pasando por los directivos
+
+medios y supervisores, hasta los trabajadores de base. Así mismo
+
+contempla que el control de calidad moderno ha de hacer uso de
+
+los métodos estadísticos, por lo que a veces se le denomina
+
+control estadístico de calidad (Gutiérrez, 2004)
+
+
+CALIDAD
+
+
+Uno de los autores más prestigiosos del Control de Calidad fue
+
+Juran, que definió la calidad como:
+
+
+Un conjunto de características de un producto que satisfacen las
+
+necesidades y que en consecuencia hacen satisfactorio el
+
+producto (Carot, 2001)
+
+
+Por otra parte, la Sociedad Americana para el control de calidad
+
+(A.S.Q.C) define la calidad como:
+
+
+Un conjunto de características de un producto, proceso o servicio
+
+que le confieren su aptitud para satisfacer las necesidades del
+
+usuario o cliente.
+
+
+Podemos definir control como:
+                                                               10
+La medición de los resultados actuales y pasados, en relación con
+
+los esperados, ya sea total o parcialmente, con el fin de corregir,
+
+mejorar y formular nuevos planes.
+
+
+El control no es posible llevarlo si no existen “estándares” ó
+
+“especificaciones” de alguna manera prefijada y entre más precisa
+
+y cuantitativas serán de mejor utilidad.
+
+
+Un producto o servicio es de calidad cuando satisface las
+
+necesidades del cliente o usuario en cuanto a seguridad (que el
+
+producto o servicio confiere al cliente), fiabilidad (capacidad que
+
+tiene el producto o servicio         para cumplir las funciones
+
+especificadas sin fallo y por un periodo determinado de tiempo) y
+
+servicio (medida en que el fabricante y distribuidor responde en
+
+caso de fallo del producto o servicio).
+
+
+Es el juicio que el cliente tiene producto o servicio, resultado del
+
+grado con el cual un conjunto de características inherentes al
+
+producto cumple con sus requerimientos.
+
+
+Por otra parte, la Sociedad Americana para el control de calidad
+
+(A.S.Q.C) define la calidad como:
+
+
+Un conjunto de características de un producto, proceso o servicio
+
+que le confieren su aptitud para satisfacer las necesidades del
+
+usuario o cliente.
+
+
+Criterio subjetivo de gusto personal, hay dos clases:
+
+
+                                                                 11
+         a. Calidad de Diseño.- (Oficina Técnica) cuando cumplen
+
+         Ciertas condiciones técnicas.
+
+
+         b. Calidad de Conformidad.- (Departamento de Control),
+
+              cuando cumple con las especificaciones dadas por una
+
+              oficina técnica (Gutiérrez, 2004)
+
+
+2.2.2.   CONTROL ESTADÍSTICO DEL PROCESO
+
+
+         El Control Estadístico del Proceso es el uso de técnicas de
+
+         estadística, tales como de control, para analizar un proceso, de tal
+
+         manera que puedan tomarse las acciones apropiadas para lograr
+
+         y mantener un proceso en control y para mejorar la habilidad del
+
+         proceso. El estado de control estadístico es la condición que
+
+         describe un proceso en el que han sido eliminadas todas las
+
+         causas especiales de variación y únicamente permanecen las
+
+         causas comunes, pero un estado de control estadístico no es un
+
+         estado natural de un proceso, de manufactura, implica un logro,
+
+         implica alcanzar la eliminación de cada una de las causas
+
+         especiales de excesiva variación de un proceso y prevenir su
+
+         repetición (Montgomery D. C., 2005)
+
+         También, el Control Estadístico de Procesos tiene como finalidad
+
+         el auxilio en la percepción de tendencias en los procesos, de
+
+         manera que pueda predecirse su comportamiento en el plazo
+
+         inmediato y se puedan tomar acciones correctivas a las causas de
+
+         variación y establecer medidas preventivas permanentes, que
+
+
+
+                                                                          12
+   además de evitar la producción de artículos o trabajos
+
+   defectuosos, permitan ir mejorando el proceso gradualmente.
+
+   La información que proporcionan las técnicas empleadas tiene
+
+   validez probabilística basada en la historia del proceso.
+
+   Puede decirse que el Control Estadístico de Proceso es
+
+   básicamente la forma de acumular conocimientos y experiencia,
+
+   de una manera coherente y consistente en relación al
+
+   comportamiento de un proceso, para estar en condiciones de
+
+   modificar los factores de entrada que permitan obtener un
+
+   resultado conforme a las expectativas.
+
+   Es muy importante señalar tres conceptos básicos para el Control
+
+   Estadístico de Procesos:
+
+ El estado de control estadístico no es natural para un proceso
+
+   productivo, más bien, ello es un logro alcanzado por la eliminación
+
+   de las causas de variación, una por una.
+
+ El control estadístico debe usarse para alcanzar la mejora
+
+   continua de los procesos más que el simple cumplimiento con las
+
+   especificaciones.
+
+ La mejora continua de los procesos se deriva del uso permanente
+
+   de las gráficas de control, de su adecuada interpretación y del uso
+
+   de la información que de ellas se deriva para instituir los controles
+
+   del proceso necesarios.
+
+   La aplicación práctica del Control Estadístico del Proceso requiere
+
+   la utilización de datos generados por el proceso que se desea
+
+   controlar, para conocer el comportamiento de un proceso
+
+                                                                     13
+   cualquiera, se tienen tres posibles opciones:
+
+   Observar y medir el comportamiento del proceso tomando una
+
+   pieza producida y en base a dicha observación asumir el
+
+   comportamiento del proceso.
+
+ Observar y medir la totalidad de lo producido en el proceso para
+
+   obtener una verdadera realidad de su comportamiento.
+
+ Observar parte de lo producido en el proceso y utilizar esa
+
+   información para inferir el verdadero comportamiento del mismo.
+
+   En el Control Estadístico del Proceso se ocupan las herramientas
+
+   siguientes:(Gutiérrez, 2004)
+
+
+1. DIAGRAMA DE PARETO
+
+
+   El Diagrama de Pareto es una gráfica en donde se organizan
+
+   diversas clasificaciones de datos por orden descendente, de
+
+   izquierda a derecha por medio de barras sencillas después de
+
+   haber reunido los datos para calificar las causas. De modo que se
+
+   pueda asignar un orden de prioridades.
+
+
+   Mediante el Diagrama de Pareto, se pueden detectar los
+
+   problemas que tienen más relevancia mediante la aplicación del
+
+   principio de Pareto (pocos vitales, muchos triviales) que indica
+
+   que hay muchos problemas sin importancia frente a solo unos
+
+   graves. Ya que por lo general, el 80% de los resultados totales se
+
+   originan en el 20% de los elementos (Montgomery D. C., 2005)
+
+
+
+
+                                                                  14
+  2. HISTOGRAMAS
+
+
+    Es una representación gráfica de una distribución de frecuencias
+
+    agrupadas en el intervalo de clase, mediante una serie de
+
+    rectángulos contiguos que tienen:
+
+    Sus bases sobre el eje horizontal (eje de las X) con centros en las
+
+    marcas de clases y longitud igual al tamaño de los intervalos de
+
+    clase.
+
+    Las alturas proporcionales a la frecuencia (absoluta o relativa)
+
+    tomados sobre el eje de las Y.
+
+    Representación gráfica de la distribución de un conjunto de datos
+
+    o de una variable, donde los datos se clasifican por su magnitud
+
+    en cierto número de clases. Permite visualizar la tendencia
+
+    central, la dispersión y la forma de la distribución (Mitacc, 1992)
+
+
+2.2.4 GRÁFICA DE CONTROL
+
+
+    Es una herramienta útil para estudiar la variación, así mismo es
+
+    una representación gráfica de la variación en la estadística
+
+    calculada en el proceso.
+
+    El objetivo básico de una gráfica de control es observar y analizar
+
+    con datos estadísticos la variabilidad y el comportamiento de un
+
+    proceso a través del tiempo. Esto permitirá distinguir entre
+
+    variaciones por causas comunes y especiales (atribuibles), lo que
+
+    ayudará a cauterizar el funcionamiento del proceso y así decidir
+
+    las mejores acciones de control y de mejora.
+
+
+
+                                                                          15
+Cuando se habla de variabilidad nos referimos principalmente, a
+
+las variables de salida (características de calidad), pero las
+
+gráficas también pueden aplicarse a analizar la variabilidad de
+
+alguna variable de entrada o del control del proceso mismo.
+
+Una gráfica de control indica que es un proceso estable (bajo
+
+control estadístico) cuando sus puntos caen dentro de límites de
+
+control y fluctúan o varían aleatoriamente a lo ancho de la carta,
+
+con mayor frecuencia caen cerca de la línea central. Para facilitar
+
+la identificación de patrones no aleatorios lo primero que se hace
+
+es dividir la carta de control en seis zonas o bandas iguales.
+
+Lo definimos como la separación gráfico cronológico, hora-hora,
+
+día-día, de la característica actual de la calidad del producto con
+
+los límites que identifican la posibilidad de la norma factura de
+
+acuerdo con las experiencias anteriores que han obtenido del
+
+producto.
+
+La gráfica de control recae en su posibilidad de esperar las
+
+causas asignables de la variación de calidad.
+
+En la Abscisa.- Se numeran las muestras tomadas de la
+
+producción en función del tiempo, indicándose el número de orden
+
+de la muestra y el tiempo en que se tomó.
+
+En la Ordenada.- Las medidas estadísticas (tendencia central,
+
+dispersión), tales como: media, recorrido, desviación estándar,
+
+etc. o bien el tanto por uno de los defectos si se trata de atributos
+
+de los subgrupos o muestras. Se pueden señalar las siguientes
+
+líneas:
+
+                                                                  16
+  El parámetro (promedio); valor del parámetro o estimación del
+
+  mismo por ejemplo:      ,    , , , etc.(son cuantitativas).
+
+  LTS y LTI (límite de tolerancia superior y límite de tolerancia
+
+  inferior)
+
+  LCS y LCI (límite de control superior y limite control inferior).
+
+  LPCs y LPCi (límite de pre control superior y límite de pre control
+
+  inferior).
+
+  LAs y LAi (límite de atención superior y límite de atención
+
+  inferior)(Gutiérrez, 2004)
+
+
+1. Límites De Gráficas De Control
+
+
+a. Límite de Especificación (LE).- Representa aquello que se exige
+
+  en el proyecto para que el producto pueda atender la finalidad
+
+  para lo cual se le destina.
+
+
+b. Límites de Control (LC).- La distancia entre los límites de control
+
+  y la línea del valor medio depende del tamaño de la muestra y de
+
+  la amplitud media del rango (R).
+
+  La carta de control se puede considerar como “test” para
+
+  comprobar el valor de un parámetro señalado “θ”. Al comprobar
+
+  un parámetro se tendrían los valores: θ0, θ1, etc. según ellos
+
+  obtendrían el límite superior y del límite inferior.
+
+c. Límite de Atención (LA).- Señala la aproximación posible de un
+
+  desperfecto de la máquina y nos indican que debemos llamarla la
+
+  atención del personal sobre la fabricación. Regula la decisión de
+
+  un aumento provisional de control. Si encontramos un punto entre
+                                                                      17
+  límites de control y atención, principio de reglaje o efecto del
+
+  azar.(Gutiérrez, 2004)
+
+
+2. Los Límites De Control
+
+  La selección a los límites de control equivale pues a determinar la
+
+  región crítica para probar la hipótesis nula Ho de que el proceso
+
+  está bajo control estadístico: alejando dichos límites de la línea
+
+  central se reduce (o probabilidad de cometer un error de tipo I,
+
+  que un punto caiga fuera de los límites de control sin que haya
+
+  una causa especial), si bien también se eleva con ello (o riesgo de
+
+  cometer un error tipo II, que un punto caiga entre dichos límites
+
+  cuando el proceso se encuentra en realidad fuera de control).
+
+  Los límites de una gráfica de control no son las especificaciones,
+
+  tolerancias o deseos para el proceso. Por lo contrario éstos se
+
+  calculan a partir de la variación del estadístico (datos)que se
+
+  representa en la carta.
+
+  Para calcular los límites de control se debe proceder de forma
+
+  que, bajo condiciones de control estadístico, los datos que se
+
+  grafican en la carta tengan alta probabilidad de caer dentro de
+
+  tales límites. Por lo que una forma de proceder es encontrar la
+
+  distribución de probabilidades de la variable, estimar parámetros y
+
+  ubicar los límites de forma que un alto porcentaje (99.73%) de la
+
+  distribución está dentro de ellos. Esta forma de proceder se
+
+  conoce como límites de probabilidad.(Gutiérrez, 2004)
+
+
+
+
+                                                                  18
+3. Gráficos De Control Para Variables
+
+
+   Son las que considera características medibles en las unidades
+
+   de control, siendo las más importantes: ficha        siendo las de
+
+   este tipo usados en el presente trabajo.
+
+
+   Variable
+
+
+   Es una expresión que sirve para determinar una característica de
+
+   los elementos de un conjunto a los cuales se estudia (García,
+
+   1993)
+
+
+    Variable Dependiente.- Son variables que influyen en el
+
+   conjunto de relaciones y a su vez están influidas por las variables
+
+   independientes.
+
+
+    Variable Independiente.- Son variables que influyen en el
+
+   conjunto de relaciones pero no están influenciadas por ella.
+
+
+4. Gráficos De Control Para Variables Cuantitativas
+
+
+   Una característica de la calidad que se mide en una escala
+
+   numérica se le llama variable. Por ejemplo influyen dimensiones
+
+   tales como largo ancho, temperatura, etc. se presentan las cartas
+
+   de control de Sherwhart para estos tipos de características de la
+
+   calidad. Las cartas de control para la media y el rango (   y   ), se
+
+   usan ampliamente para monitorear la media y la variabilidad de
+
+   las variables. Se presentan asimismo algunas variantes de las
+
+
+
+                                                                     19
+ cartas      ( , ),   incluyendo     procedimientos   para   adaptar   las
+
+ mediciones individuales.
+
+ Diagramas que se aplican a variables o características de calidad
+
+ de tipo continuo (peso, volumen, longitud, etc). Las cartas para
+
+ variables tipo Shewhart más usuales son:              , ,   , ( ,   ), ( ,
+
+   ).(Montgomery D. C., 2005).
+
+
+a. CARTA DE CONTROL PARA LA MEDIA
+
+
+ Supone que una característica de la calidad tiene una distribución
+
+ normal con media            y desviación estándar , donde   como      son
+
+ conocidas. Si                    es una muestra de tamaño , entonces
+
+ el promedio de la muestra es:(Montgomery D. C., 2005)
+
+
+
+
+ Y se sabe que           sigue una distribución normal con media         y
+
+ desviación estándar                  , además la probabilidad de que
+
+ cualquier media muestral se halla entre:
+
+
+                            
+       x           
+         2              2   n   ………………………(1)
+
+
+                           
+       x         
+        2              2  n  ………………………(2)
+
+
+
+
+                                                                        20
+Es      por o tanto, si se conocen        y   se pueden utilizar las
+
+ecuaciones (1) y (2) como limites superior e inferior de control en
+
+un diagrama de control para medias muestrales. Si una muestra
+
+cae fuera de estos límites, ello indica que la media del proceso ya
+
+no es igual a 
+
+
+Criterio
+
+
+En el caso de valores moderados de n, digamos                   , la
+
+amplitud pierde rápidamente su eficiencia pues no toma en cuenta
+
+toda la información en la muestra, entre             . Sin embargo,
+
+para los valores pequeños de los tamaños muestrales que se
+
+usan a menudo en los diagramas de control de variables
+
+           , es del todo satisfactorio.
+
+
+Si se utilizan    como un estimador de         , y        como un
+
+estimador de , los parámetros de      son
+
+
+
+
+Línea central
+
+
+
+
+Se observa que la cantidad:
+
+
+
+
+                                                                 21
+   En una constante que depende únicamente del tamaño muestral
+
+   por lo tanto, es posible volver a expresar como
+
+
+
+
+   La contante    se encuentra tabulada en anexo (tabla Nº 03)
+
+
+b. Carta de control para el rango
+
+
+
+
+            ……………..línea central
+
+
+   La amplitud muestral está relacionada con la desviación estándar
+
+   del proceso. Por consiguiente, la variabilidad del proceso puede
+
+   controlarse representando los valores de         muestras sucesivas
+
+   en un diagrama de control, el cual se llama diagrama de        . Es
+
+   posible determinar con facilidad los parámetros de dicho
+
+   diagrama. La línea central corresponderá a        . Para obtener los
+
+   límites de control se necesita un estimador de     . Suponiendo que
+
+   la característica de calidad está distribuida normalmente, puede
+
+   encontrarse     a partir de la distribución de la amplitud relativa
+
+              La desviación estándar de W, digamos            , es una
+
+   función conocida de   . Así, puesto que.
+
+
+                                                                     22
+La desviación estándar de    es.
+
+
+
+
+Como se desconoce , es posible estimar        con.
+
+
+
+
+Por lo tanto, los parámetros de diagrama de    , con los límites de
+
+control de tres sigmas habituales, son.
+
+
+
+
+Si se toma
+
+
+
+
+Criterio
+
+
+Pueden redefinirse los parámetros de la gráfica de R como
+
+                                                                23
+           Tabulando para diferentes valores de n (anexo No 04)
+
+
+c. CARTA DE CONTROL PARA LA DESVIACIÓN ESTÁNDAR
+
+
+  Caso A: Cuando se conoce
+
+
+               …………………línea central
+
+
+  La desviación estándar de    es
+
+
+                                    , si
+
+
+
+  Si         el coeficiente                   ya no es necesario.
+
+
+  Criterio
+
+
+
+
+       ,   Tabulado para diferentes valores de n. (anexo tabla No
+
+  03)(Montgomery D. C., 2005)
+
+
+
+                                                                    24
+d. CAPACIDAD DE PROCESO
+
+
+  Es la amplitud del proceso para producir productos dentro de los
+
+  límites de especificaciones de calidad. La variabilidad natural del
+
+  proceso es:
+
+
+  Si la variabilidad del proceso es muy grande en comparación de la
+
+  amplitud de tolerancia, aparecen unidades defectuosas por qué
+
+  no cumple con las especificaciones de la calidad.(Montgomery D.
+
+  C., 2005)
+
+
+e. CAPACIDAD POTENCIAL DEL PROCESO (CP)
+
+
+  Si
+
+
+
+
+f. RELACIÓN DE CAPACIDAD DEL PROCESO(RCP)
+
+
+
+
+g. CAPACIDAD REAL DEL PROCESO (CPK)
+
+
+  Es un proceso potencialmente capaz si u esta distanciado
+
+  suficientemente de M, se generan unidades defectuosas, puede
+
+  estar produciendo fuera de los límites de tolerancia.
+
+
+                                                                  25
+2.3. DEFINICIÓN DE TÉRMINOS BÁSICOS
+
+
+    El agua
+
+    El agua es un líquido esencial para la vida animal y vegetal, constituye el
+
+    medio ideal para la vida, es imprescindible para los seres vivos que
+
+    habitan en él convirtiéndose cada vez en un recurso más escaso
+
+    (Coronel, 2006)
+
+
+    Agua Potable
+
+    El término se aplica al agua que ha sido tratada para su consumo humano
+
+    sin riesgo de contraer enfermedades según las normas de calidad
+
+    promulgadas por las autoridades locales e internacionales.(SEDA, 2007)
+
+
+    Calidad del Agua
+
+
+    La calidad del agua es un parámetro importante que afecta a todos los
+
+    aspectos de los ecosistemas y del bienestar humano, como la salud de
+
+    una comunidad, el alimento que se ha de producir, las actividades
+
+    económicas,    la   salud   de    los   ecosistemas    y   la   diversidad
+
+    biológica.(Coronel, 2006)
+
+
+    Captación
+
+    El agua superficial es captada del río en su extremidad un sistema de
+
+    cribado tipo canastilla metálica que tiene por finalidad retener material
+                                                                            26
+flotante conducido por el río. Estas conducen el agua por gravedad a dos
+
+cisternas de succión denominados cámaras de reunión a partir de las
+
+cuales se bombea hacia la planta de tratamiento de agua.(SEDA, 2007)
+
+
+Contaminación Del Agua
+
+El peligro más común con relación al agua de consumo humano es el de
+
+su contaminación de las aguas puede proceder de fuentes naturales o de
+
+actividades humanas. En la actualidad la más importante, sin duda es la
+
+provocada por el hombre que ha volcado sus desechos en las aguas
+
+(Avila, 1982)
+
+
+Cloración
+
+Método de desinfección del agua mediante la adición de cloro, cuyo
+
+propósito es destruir o inactivar los organismos patógenos que pudieran
+
+estar presentes en el agua.
+
+
+Cloro Residual
+
+El cloro es la concentración de cloro      presente en el agua, tras la
+
+aplicación de la dosis considerada y transcurrido el tiempo de contacto
+
+necesario para realizar su acción oxidante, en el que se ha consumido
+
+parte del mismo.
+
+
+Es un gas amarillo verdoso de olor picante e irritante y soluble en agua el
+
+cloro se aplica al agua por inyectores de cloro gaseoso.(Orellana, 2005)
+
+
+Colorímetro
+
+Es una herramienta que identifica el color y el matiz para una medida más
+
+objetiva del color, permite medir la absorbencia de una solución en una
+
+                                                                           27
+específica frecuencia de luz camilogena ser determinada. Es por eso, que
+
+hacen posible descubrir la concentración de un soluto conocido que sea
+
+proporcional a la absorción (ver figura Nº 02).
+
+
+Dpd
+
+El DPD es una mezcla sólida homogénea que se emplea para determinar
+
+la presencia de cloro libre o cloro total en aguas desinfectadas con
+
+insumos químicos clorados y se presenta en polvo, envasado en sachets
+
+de un material trilaminado que evita el contacto con la luz UV, la
+
+contaminación y la humedad.
+
+
+Normas Internacionales
+
+Los estándares de calidad también se usan para vigilar los procesos de
+
+tratamiento y corregirlos de ser necesario.
+
+
+Organización Mundial de Salud (OMS)
+
+La OMS se encarga de mejorar la calidad del agua potable y la salud
+
+humana y establecer las pautas, las cuales son adoptadas e impuestas
+
+por algunos países voluntariamente, ya que cada país es libre de
+
+establecer sus propias normas, las cuales pueden ser menores, iguales
+
+y/o más estrictas que las recomendadas por la OMS.
+
+
+Planta de Tratamiento
+
+La planta de tratamiento denominada sistemas de clarificación primaria,
+
+01 convencional y 02 unidades compactas Patente Degremont. Esta
+
+planta fue construida en los años 1957 – 1960, inicialmente para una
+
+capacidad de 100 l/s y ampliada con decantadores de alta tasa Patente
+
+                                                                      28
+Degremont para un caudal de 280 l/s, unidades que fueron instaladas
+
+incompletas. Para el año 2002 se ha realizado ampliación de la planta de
+
+tratamiento para un caudal de 300 l/s, que a la fecha algunas unidades de
+
+tratamiento no operan de acuerdo al caudal proyectado.
+
+
+Tratamiento del Agua
+
+Se denomina estación de tratamiento de agua potable al conjunto de
+
+estructuras en las que se trata el agua de manera que se vuelva apta para
+
+el consumo humano.
+
+
+Turbidez
+
+La apreciación de la turbidez en el agua de bebida es causada por
+
+materia articulada o coloidal, como consecuencia de un tratamiento de
+
+potabilización   inadecuado       o   por   la   resuspensión   de   partículas
+
+sedimentadas en la red de distribución el agua se aclara con poli cloruro
+
+de aluminio (ver figura Nº 03).
+
+
+Tratamiento
+
+Es el conjunto de operaciones y procesos que se realizan sobre el agua
+
+cruda, con el fin de modificar sus características físicas, químicas y
+
+microbiológicas, para hacerla apta para el consumo humano.
+
+
+Nefelometría
+
+Técnica analítica basada en la dispersión de la luz por partículas en
+
+suspensión en el seno de una disolución, midiendo el haz de luz en la
+
+dirección que forma un ángulo recto (90º).
+
+
+
+
+                                                                            29
+2.4. OPERACIONALIZACIÓN DE VARIABLE
+
+
+   CUADRO Nº 01: OPERACIONALIZACIÓN DE VARIABLES
+
+                                                            UNIDAD DE
+
+                                                            MEDIDA
+    VARIABLE          INDICADORES             MATERIAL                  VALOR
+
+
+    CLORO             Satisface              Colorímetro    MG/l        0.5 -2 mg/l
+
+
+    RESIDUAL          No satisface
+
+
+                      Satisface              Turbidímetro   UNT         0-5 UNT
+
+
+    TURBIDEZ          No satisface
+
+   FUENTE: Elaboración Propia De La Investigadora
+
+
+
+
+                                                                                30
+                               CAPÍTULO III
+
+                        MATERIALES Y MÉTODOS
+
+
+3.1. METODOLOGÍA Y PROCEDIMIENTO
+
+
+   3.1.1.   METODOLOGÍA
+
+
+   A. TIPO DE INVESTIGACIÓN
+
+     El presente trabajo, es una investigación de tipo básica, por cuanto
+
+     presenta la teorización del control estadístico de calidad, como los
+
+     gráficos de control, normas de calidad del agua.
+
+
+   B. MÉTODO DE INVESTIGACIÓN
+
+     El tipo de investigación cuantitativa, no experimental; dentro de ella es
+
+     descriptivo aplicativo.
+
+
+   C. POBLACIÓN DE ESTUDIO
+
+     EPS SEDAJULIACA es la que presta servicios a la población, existen
+
+     inconvenientes a cerca de la calidad y abastecimiento del agua ya que
+
+     están en riesgo por el progresivo proceso de contaminación por las
+
+     poblaciones inmigrantes, estas aguas son captadas, administradas y
+
+     distribuidas por SEDAJULIACA la cual realiza un tratamiento de tipo
+
+     convencional.
+
+                                                                           31
+    Para el estudio se tomó una población dinámica del agua de 228 a 324
+
+    l/s contenido en la línea de impulsión 24” que se capta del río Coata
+
+    que cambia en forma diaria en la planta de tratamiento, según el tiempo
+
+    de estudio febrero y marzo 2015.
+
+
+  D. TOMA DE MUESTRAS
+
+
+    Se tomó una (01) muestra diaria de cloro residual con 6 sub muestras
+
+    de la línea de impulsión de 24”. En distintos horarios durante los meses
+
+    de febrero, marzo 2015 con un total de 59 muestras.
+
+
+    Para el análisis de la turbidez, se tomó una (01) muestra diaria con 3
+
+    sub muestras de la línea de impulsión de 24” durante los meses de
+
+    febrero, marzo 2015 con un total de 59 muestras.
+
+
+3.1.2. MÉTODO DE RECOLECCIÓN DE DATOS
+
+
+    Se recogió la información en tablas de registros diarios de cloro
+
+    residual y turbidez.
+
+    Elcloro residual se obtuvo mediante el método colorimétrico con DPD,
+
+    el cloro libre reacciona instantáneamente con la DPD produciendo un
+
+    complejo de color rosa, la intensidad de este es proporcional a la
+
+    cantidad de cloro libre presente en la muestra.
+
+    Los datos de la Turbiedad se han obtenido mediante el turbidímetro de
+
+    campo que miden la turbiedad del agua.
+
+
+
+
+                                                                         32
+3.1.3. MÉTODO DE TRATAMIENTO DE DATOS
+
+
+     Se construyeron gráficas de control del cloro residual, turbidez
+
+     mediante Excel 2007, Minitab versión 14.
+
+
+     La Metodología que se usó en este trabajo de investigación fue las
+
+     cartas de control de media, rango, desviación estándar de Walter A.
+
+     Shewhart para variables cuantitativas. Para la validación del control
+
+     estadístico de la calidad, se usó la capacidad del proceso.
+
+
+3.1.4. MATERIAL EXPERIMENTAL
+
+
+     En la presente investigación se tomó como unidad de análisis el cloro
+
+     residual y la turbidez. Los equipos utilizados fueron un turbidímetro y
+
+     un colorímetro.
+
+
+
+
+                                                                         33
+                                   CAPÍTULO IV
+
+                          RESULTADOS Y DISCUSIÓN
+
+
+4.1. Análisis el cloro residual del agua mediante el control estadístico de
+
+    proceso
+
+    4.1.1. Verificación del cumplimiento de los límites de especificación
+
+
+           Para el análisis del cloro residual del agua de la planta de
+
+           tratamiento SEDAJuliaca, se construyeron gráficos de control para
+
+           variables cuantitativas media, rango, desviación estándar; (1
+
+           muestra al día de tamaño 6, para un promedio              y el gráfico
+
+           estandarizado). La capacidad del proceso se analizó en función de
+
+           los límites de especificación del Ministerio de Salud (              )
+
+           para determinar si el proceso, fue capaz de tener el agua con cloro
+
+           que se requiere de estas especificaciones. A continuación se
+
+           muestra la tabla Nº 01 de cloro residual recolectados desde el 01
+
+           de febrero al 31 de marzo del 2015.
+
+
+
+
+                                                                              34
+Tabla N° 01: Muestras diarias del cloro residual de la planta de
+
+tratamiento SEDA Juliaca durante los meses enero, febrero del 2015
+
+y    sus       estadísticos          (media,    rango,      desviación        estándar).
+
+Especificaciones: 2,75 ± 1,1067 ml/l.
+
+                                         CLORO RESIDUAL
+MUES.     FECHAS      6:00AM 9:00AM 12:00PM 2:00PM 6:00PM 9:00PM             R
+     1   01/02/2015     3,5    2,3     2,2     2,8   2,4    2,2    2,56667    1,30   0,50859
+     2   02/02/2015     2,5    2,5     2,6       3   2,1    2,5    2,53333    0,90   0,28752
+     3   03/02/2015       3    3,5     2,4     2,2     2    2,2    2,55000    1,50   0,57879
+     4   04/02/2015     2,8    3,4     2,2     2,3   2,1    2,1    2,48333    1,30   0,51929
+     5   05/02/2015     2,7    2,4     2,1     2,3   1,9      2    2,23333    0,80   0,29439
+     6   06/02/2015     3,3    2,2     2,2     2,1     3    2,1    2,48333    1,20   0,52694
+     7   07/02/2015     2,1    2,2     2,1       2   2,6    3,2    2,36667    1,20   0,45898
+     8   08/02/2015       2    2,1     2,2       2   2,2      2    2,08333    0,20   0,09832
+     9   09/02/2015       2      2       2     2,9   2,3    2,1    2,21667    0,90   0,35449
+    10   10/02/2015     3,4    2,1     2,1       2   2,3    2,3    2,36667    1,40   0,52026
+    11   11/02/2015     2,4    3,5     2,8     2,3   2,2    2,2    2,56667    1,30   0,50859
+    12   12/02/2015     2,5    2,5     2,3     2,2   2,1    2,5    2,35000    0,40   0,17607
+    13   13/02/2015     3,1    2,4       2     2,3   2,6      3    2,56667    1,10   0,42269
+    14   14/02/2015     2,1      3     2,3       2   2,2      3    2,43333    1,00   0,45019
+    15   15/02/2015     3,3    2,1     3,3     2,1     2    2,4    2,53333    1,30   0,60882
+    16   16/02/2015     2,5    2,5     2,5     1,8   2,3    2,2    2,30000    0,70   0,27568
+    17   17/02/2015     3,4      2     2,5     2,1   2,1    2,2    2,38333    1,40   0,52694
+    18   18/02/2015     2,4    3,4     2,4       2   2,2    2,1    2,41667    1,40   0,50761
+    19   19/02/2015     2,7      2     2,3       2   1,8      2    2,13333    0,90   0,32042
+    20   20/02/2015     2,5    2,1     2,2     2,1     2      2    2,15000    0,50   0,18708
+    21   21/02/2015     2,1    2,3     2,1       2   2,1    2,2    2,13333    0,30   0,10328
+    22   22/02/2015     2,2    2,5       2     2,1   2,2    2,5    2,25000    0,50   0,20736
+    23   23/02/2015     2,5    2,4     2,8     2,2   2,2    2,4    2,41667    0,60   0,22286
+    24   24/02/2015     2,6    2,5     2,4     2,4   2,3    2,1    2,38333    0,50   0,17224
+    25   25/02/2015     2,8    3,5     2,2       2   2,2    1,9    2,43333    1,60   0,60882
+    26   26/02/2015     2,7      2       2     2,1     2      2    2,13333    0,70   0,28048
+    27   27/02/2015       3    2,2     2,3     2,1   1,9    2,1    2,26667    1,10   0,38297
+    28   28/02/2015     2,3    2,8     2,5     2,3     2    2,8    2,45000    0,80   0,31464
+    29   01/03/2015     2,5    2,1     2,8       2   2,4    2,2    2,33333    0,80   0,29439
+    30   02/03/2015       3    2,3     2,2     1,8   2,1      2    2,23333    1,20   0,41312
+    31   03/03/2015     3,3    2,8     2,4     2,4     2    2,1    2,50000    1,30   0,48166
+    32   04/03/2015     3,5    3,5     2,5     2,3   2,1      2    2,65000    1,50   0,68044
+    33   05/03/2015     2,5    2,5     1,9       2     2    2,6    2,25000    0,70   0,31464
+    34   06/03/2015     2,5    2,3       2     2,1   2,6    2,7    2,36667    0,70   0,28048
+    35   07/03/2015     2,3      2     2,1     2,6   2,2    2,4    2,26667    0,60   0,21602
+
+                                                                                       35
+     36   08/03/2015    2,4   2,1    2,6     2,5    2,1    2,3 2,33333 0,50 0,20656
+     37   09/03/2015    3,5     2      2     2,3    2,3      2 2,35000 1,50 0,58224
+     38   10/03/2015    2,4   2,8    2,4     2,4      2      2 2,33333 0,80 0,30111
+     39   11/03/2015    2,5   2,9      2     2,2    2,1    2,1 2,30000 0,90 0,34059
+     40   12/03/2015    2,6   2,9      2     2,3    2,2      2 2,33333 0,90 0,35590
+     41   13/03/2015      2   2,2    2,1     2,1      2    2,6 2,16667 0,60 0,22509
+     42   14/03/2015    2,1   2,3    2,2     2,3    2,8    2,4 2,35000 0,70 0,24290
+     43   15/03/2015    2,5   2,1      3       3    2,2    2,5 2,55000 0,90 0,38341
+     44   16/03/2015    3,5   2,2    2,5     3,2    2,2    2,4 2,66667 1,30 0,55015
+     45   17/03/2015    3,4   2,7    2,3     2,1    2,1    2,3 2,48333 1,30 0,49967
+     46   18/03/2015    3,5   3,5    2,2     2,2    2,3    2,3 2,66667 1,30 0,64704
+     47   19/03/2015    2,6   2,5    2,1     2,1      2    2,1 2,23333 0,60 0,25033
+     48   20/03/2015    2,5   2,3    2,3     2,3    2,6    2,7 2,45000 0,40 0,17607
+     49   21/03/2015    2,3     2    2,7     2,5    2,2    2,8 2,41667 0,80 0,30605
+     50   22/03/2015    2,5   2,3    2,8     2,4    2,2    2,3 2,41667 0,60 0,21370
+     51   23/03/2015    3,5   2,4    2,8     2,5    2,2    2,4 2,63333 1,30 0,46762
+     52   24/03/2015    3,5   3,3    2,4     2,5    2,1      2 2,63333 1,50 0,62503
+     53   25/03/2015    2,5   3,4    2,2     2,3    2,3    2,5 2,53333 1,20 0,44121
+     54   26/03/2015    2,4   2,6    2,3       2      2    2,6 2,31667 0,60 0,27142
+     55   27/03/2015      2   2,4    2,4     2,1    2,6    2,5 2,33333 0,60 0,23381
+     56   28/03/2015    2,1   2,3    2,1     2,2    1,8    2,4 2,15000 0,60 0,20736
+     57   29/03/2015    2,5   2,1    2,8     2,3    2,2    2,1 2,33333 0,70 0,27325
+     58   30/03/2015    2,8   2,5    2,4       2    2,2      2 2,31667 0,80 0,31252
+     59   31/03/2015    3,5     3      2     2,5    2,3    2,3 2,60000 1,50 0,55136
+                                                             ∑ 140,6833 55,50 21,76948
+                                                               2,38446   0,94   0,36282
+
+Fuente: Empresa Prestadora de Servicios SEDAJuliaca 2014
+
+a.        Límite de Control para la gráfica R para el Cloro Residual
+
+
+
+
+      Para muestras de                 , se obtiene de la tabla Nº 04(del
+
+      anexo) D3  0 , D4  2,004 por lo tanto, los límites de control para la
+
+      gráfica de       son:
+
+
+
+
+                                                                                  36
+   Gráfico Nº 01: Carta de Control del rango para el cloro residual
+                      2,0
+                                                                                         UCL=1,883
+
+
+                      1,5
+     Cloro Residual
+
+
+
+
+                      1,0                                                                _
+                                                                                         R=0,940
+
+
+
+                      0,5
+
+
+
+
+                      0,0                                                                LCL=0
+
+                            1   7     13   19   25     31    37     43   49         55
+                                                 Muestras
+
+  Fuente: Planta de tratamiento SEDA Juliaca – Enero, febrero– 2015
+
+  En el gráfico N° 01, se observa que las 59 amplitudes del diagrama no
+
+  reflejan indicios de una condición fuera de control, se encontró que los
+
+  datos                         son         cíclicos           en             las         muestras
+
+  6,7,20,21,22,32,33.34,54,55,56,57,58;                           siendo        también          estos
+
+  ocasionados por alguna anomalía asignables, denominados rachas
+
+  siendo la causa de amplitud.
+
+
+
+
+b. Límite de control para la gráfica                        para el cloro residual
+
+
+
+
+                                                                                                     37
+Con el fin de determinar los límites de control del diagrama de la                        se
+
+utiliza A2 = 0,483, Para muestras de n= 6, del anexo (tabla Nº 03) por
+lo tanto, los límites de control para la gráfica de la                 son:
+
+
+
+
+     Gráfico Nº 02: Carta de control de la media del cloro residual
+                    3,0
+
+                                                                              UCL=2,872
+                    2,8
+   Cloro residual
+
+
+
+
+                    2,6
+
+                                                                              __
+                    2,4                                                        X=2,384
+
+
+                    2,2
+
+
+                    2,0
+                                                                              LCL=1,897
+
+                          1   7   13   19   25   31     37   43   49   55
+                                             Muestras
+
+
+
+Fuente: Planta de tratamiento SEDA Juliaca – Junio, julio – 2014
+
+
+En el gráfico N° 02, se presenta el diagrama de la mediase observa
+
+que los datos tienen precisión entre los límites 1,897 mg/l a 2,872mg/l
+
+no se observa indicio alguno de una condición fuera de control
+
+cuando se grafica las medias muéstrales.
+
+
+
+
+                                                                                          38
+   Por consiguiente, se concluye que el proceso está controlado a los
+
+   niveles establecidos, ya que ambos diagramas indican, y se adoptan
+
+   los límites de control de prueba para utilizarlos en el control en línea
+
+   del proceso.
+
+
+   Los diagramas de       X   y R proporcionan información sobre la
+
+   capacidad de funcionamiento del proceso. Con el diagrama de
+
+    X puede estimar la media del cloro residual
+
+
+   También existen datos cíclicos en los puntos 36, 37, 38,39 y 40 del
+
+   gráfico por fallas del personal que trabaja en la planta de tratamiento
+
+   Seda Juliaca.
+
+
+c. Límite de control para la gráfica S para el cloro residual
+
+
+
+
+   En caso que no se conozca S se toma el valor de                    para
+
+   muestra de n=6, se encuentra en la tabla los límites de especificación
+
+   del cloro residual son 2,75± 1,1067mg/l.
+
+
+
+
+                                                                        39
+           Gráfico Nº 03: Carta de control de la desviación estandar del cloro residual
+                          0,8
+                                                                                 UCL=0,7266
+                          0,7
+
+         Cloro Residual   0,6
+
+                          0,5
+
+                          0,4                                                    _
+                                                                                 S=0,3689
+                          0,3
+
+                          0,2
+
+                          0,1
+
+                          0,0                                                    LCL=0,0112
+
+                                1   7   13   19   25   31   37   43   49   55
+                                                  Muestras
+
+      Fuente: Planta de tratamiento SEDA Juliaca – Junio, julio – 2014
+
+      En el gráfico Nº 03 se tiene el grafico de la desviación estándar del
+
+      cloro residual, donde se puede observar que                          tiene variación las
+
+      muestras, está dentro de los límites de especificación que es de
+
+      0,0112 a 0,73mg/l.
+
+
+4.1.2. Verificación del cumplimiento de los límites de especificación
+
+
+      Para el análisis del cloro residual, en la planta de tratamiento SEDA
+
+      Juliaca, se construyeron las cartas de control para variables
+
+      cuantitativas, media, rango y desviación estándar. La capacidad del
+
+      proceso se analiza en función de los límites de especificación del
+
+      Ministerio de Salud, en la tabla Nº 01 se muestra las cantidades del
+
+      cloro residual de la muestra recolectados desde el 01 de febrero al 31
+
+      de marzo del 2015.
+
+
+      ANÁLISIS DE LA CAPACIDAD DE PROCESO
+
+                                                                                              40
+El análisis de la capacidad del proceso involucra las siguientes
+
+verificaciones:
+
+
+a. Análisis de la Distribución de Probabilidad
+
+
+Analizar la fracción o proporción que cumple con las especificaciones
+
+2,75±1,1067mg/l
+
+
+
+
+                                  , estandarizando
+
+
+
+
+   0,022361761
+
+    2,23617%
+
+Es decir, que el 97,76% del cloro residual estarían dentro de los
+
+límites de especificaciones.
+
+
+Índice de Capacidad Potencial del Proceso (Pcr)
+
+
+                                                                   41
+  Con esta verificación se calculó el porcentaje de Cloro residual que
+
+  cumplieron las especificaciones dadas por elMinisterio de Salud.
+
+
+  A continuación se describe el proceso de cálculo:
+
+
+
+
+  Se muestra un proceso RCP=1, se observa que los límites de
+
+  especificación quedan fuera de los límites de tolerancia naturalpor
+
+  consiguiente, no se producirán virtualmente unidades disconformes.
+
+
+  Por lo tanto el proceso fue potencialmente capaz de realizar una
+
+  eficiente cloración de agua y cumple con la tolerancia que tiene el
+
+  Ministerio de salud de 0.5 mg/la 5 mg/l, puesto que los límites de
+
+  tolerancia natural en el proceso de cloración son inferiores a los
+
+  límites de especificación.
+
+
+
+
+b. Capacidad Real del Proceso (Cpk)
+
+
+  Con esta verificación se determinó la utilización del porcentaje de la
+
+  variabilidad entre los elementos de la misma muestra.
+
+
+
+
+                                                                       42
+Remplazando en la fórmula
+
+
+
+
+k*100 = 0,33071*100=33.07129%
+
+La media del proceso esta desviada por más del 33% hacia la
+
+derecha o hacia el límite superior porque el centrado del proceso es
+
+inadecuado, esto contribuye de manera significativa a la baja
+
+capacidad del proceso para cumplir con la especificación superior
+
+
+
+
+Las muestras presentaron un desfasamiento al lado del límite de
+
+especificación superior; por tanto, la capacidad real del proceso
+
+disminuye en 33,29 como consecuencia del centrado.
+
+
+
+
+                                                                    43
+                   Gráfico Nº 04 Capacidad de proceso para cloro residual
+
+                                       LSL                                                     USL
+            P rocess Data                                                                                   Within
+     LSL               1,6433                                                                               Overall
+     Target            *
+     U SL              3,8567                                                                        Potential (Within) C apability
+     Sample Mean       2,38446                                                                              Cp        1,26
+     Sample N          354                                                                                  C PL      0,85
+     StDev (Within) 0,291825                                                                                C PU 1,68
+     StDev (O v erall) 0,39387                                                                              C pk      0,85
+                                                                                                            C C pk 1,26
+                                                                                                          O v erall C apability
+                                                                                                             Pp       0,94
+                                                                                                             PPL      0,63
+                                                                                                             PPU      1,25
+                                                                                                             Ppk      0,63
+                                                                                                             C pm        *
+
+
+
+
+                                      1,6       2,0        2,4     2,8        3,2        3,6
+     O bserv ed P erformance     Exp. Within Performance    Exp. O v erall Performance
+       PP M < LSL 0,00            PPM < LSL 5546,53          PP M < LSL 29935,15
+       PP M > U SL 0,00           PPM > U SL        0,23     PP M > U SL         92,79
+       PP M Total      0,00       PPM Total 5546,76          PP M Total      30027,94
+                                                                                                                                      F
+
+   uente: Planta de tratamiento SEDA Juliaca – febrero,marzo– 2015
+
+
+   En el gráfico N° 04 se ha dibujado el histograma de muestras diarias
+
+   de cloro residual las cuales fueron comparadas con límites de
+
+   especificación de 1,6 a 2,6 mg/l. En esta gráfica se aprecia la
+
+   distribución normal la cual nos indica que los datos de cloro residual
+
+   estuvieron sobrecargados al lado del límite de especificación inferior y
+
+   se observó la capacidad potencialmente capaz el cual indica que el
+
+   proceso utiliza más del 100% de la banda de la especificación, esto
+
+   estima que el porcentaje del proceso de la producción estuvo dentro
+
+   de control estadístico.
+
+
+c. Función de Operación
+
+
+   Con esta verificación se determinó el corrimiento de la media.
+
+
+                                                                                    Si
+                                                                                                                                      44
+                                 ó 0.01%.
+
+   Por tanto él      es la probabilidad de no detectar el corrimiento con
+
+   la primera muestra subsecuente y la probabilidad de detectar el
+
+   corrimiento con la primera muestra subsecuente fue de 0.01 %.
+
+
+
+
+4.2. Análisis para verificar si la turbidez está bajo control estadístico
+   de la calidad
+
+   Para el análisis de turbiedad del agua en la planta de tratamiento
+
+   Seda Juliaca, se construyeron las cartas de control para variables
+
+   cuantitativas media, rango, desviación estándar; (muestras de tamaño
+
+   3, para un promedio      y el gráfico estandarizado). La capacidad del
+
+   proceso se analizó en función de los límites de especificación
+                                                                      45
+planteadas por el Ministerio de Salud (       ) para determinar si el
+
+proceso fue capaz de tener agua limpia que se requiere de estas
+
+especificaciones. A continuación se muestra la tabla Nº 02 muestras
+
+diarias de turbidez que se recolecto desde el 01 de febrero al 31 de
+
+marzo del 2015.
+
+
+
+
+                                                                  46
+Tabla N. 02: Muestras diarias de turbidez del agua de la planta de
+tratamiento SEDA Juliaca 2015 según la fecha de tratamiento y
+sus estadísticos (media, rango, desviación estándar).
+Especificaciones: 2,5 ± 1,158 UNT.
+                                  TURBIDEZ
+Nº DE      FECHA DE
+MUESTRAS   MUESTRAS   9:00AM 2:00PM 9:00PM                 R
+      1 01/02/2015      1,32     1,41    1,52    1,4167      0,2   0,10017
+      2 02/02/2015      1,22     0,87    1,39    1,1600    0,52    0,26514
+      3 03/02/2015        1,4    1,43    1,53    1,4533    0,13    0,06807
+      4 04/02/2015     0,979    0,975    1,32    1,0913   0,345    0,19804
+      5 05/02/2015     0,618     1,26    1,54    1,1393   0,922    0,47270
+      6 06/02/2015     0,446    0,636    1,26    0,7807   0,814    0,42585
+      7 07/02/2015     0,606    0,802    1,33    0,9127   0,724    0,37447
+      8 08/02/2015        0,5    1,19    1,48    1,0567    0,98    0,50342
+      9 09/02/2015     0,364     1,05    1,04    0,8180   0,686    0,39321
+     10 10/02/2015      0,99     1,43    1,24    1,2200    0,44    0,22068
+     11 11/02/2015     0,864     0,78    1,18    0,9413      0,4   0,21092
+     12 12/02/2015     0,594     1,21    1,36    1,0547   0,766    0,40594
+     13 13/02/2015     0,838    0,809    1,18    0,9423   0,371    0,20634
+     14 14/02/2015      1,21    0,821    1,97    1,3337   1,149    0,58440
+     15 15/02/2015        1,1   0,661    1,38    1,0470   0,719    0,36242
+     16 16/02/2015      1,36     1,59    1,42    1,4567    0,23    0,11930
+     17 17/02/2015      1,63    0,982    1,16    1,2573   0,648    0,33479
+     18 18/02/2015      1,21    0,951    1,02    1,0603   0,259    0,13413
+     19 19/02/2015      1,14     1,76    1,81    1,5700    0,67    0,37323
+     20 20/02/2015      1,14     1,41    1,72    1,4233    0,58    0,29023
+     21 21/02/2015        1,1    1,21    1,57    1,2933    0,47    0,24583
+     22 22/02/2015      0,75    0,852    1,09    0,8973    0,34    0,17447
+     23 23/02/2015     0,563     1,11    1,71    1,1277   1,147    0,57370
+     24 24/02/2015     0,629     1,52      1,5   1,2163   0,891    0,50874
+     25 25/02/2015      1,91     0,87    1,34    1,3733    1,04    0,52080
+     26 26/02/2015     0,684     1,51    1,41    1,2013   0,826    0,45081
+     27 27/02/2015     0,702     1,17    1,61    1,1607   0,908    0,45407
+     28 28/02/2015      1,65     1,07    1,81    1,5100    0,74    0,38936
+     29 01/03/2015     0,669     1,15    1,51    1,1097   0,841    0,42195
+     30 02/03/2015     0,718     1,62    1,45    1,2627   0,902    0,47929
+     31 03/03/2015     0,624     1,36    1,53    1,1713   0,906    0,48157
+     32 04/03/2015      1,62    0,498    1,71    1,2760   1,212    0,67527
+     33 05/03/2015     0,939     1,38   0,995    1,1047   0,441    0,24008
+     34 06/03/2015      1,59     1,06    1,37    1,3400    0,53    0,26627
+     35 07/03/2015     0,697    0,987    1,36    1,0147   0,663    0,33236
+     36 08/03/2015      1,26    0,815    1,51    1,1950   0,695    0,35203
+     37 09/03/2015      1,29     1,45    1,42    1,3867    0,16    0,08505
+     38 10/03/2015      1,51     1,52    1,54    1,5233    0,03    0,01528
+                                                                             47
+         39 11/03/2015   0,975    0,918       1,5    1,1310 0,582 0,32083
+         40 12/03/2015    1,31     1,14     1,46     1,3033   0,32 0,16010
+         41 13/03/2015   0,743    0,776     1,32     0,9463 0,577 0,32403
+         42 14/03/2015   0,688    0,988     1,19     0,9553 0,502 0,25259
+         43 15/03/2015   0,841     1,34     1,51     1,2303 0,669 0,34772
+         44 16/03/2015   0,755     1,49     1,42     1,2217 0,735 0,40566
+         45 17/03/2015   0,641    0,669    0,918     0,7427 0,277 0,15249
+         46 18/03/2015   0,354    0,319     1,14     0,6043 0,821 0,46423
+         47 19/03/2015   0,424     1,74    0,901     1,0217 1,316 0,66625
+         48 20/03/2015   0,489    0,349     0,86     0,5660 0,511 0,26406
+         49 21/03/2015    0,47     0,69    0,999     0,7197 0,529 0,26574
+         50 22/03/2015   0,349    0,791     1,16     0,7667 0,811 0,40605
+         51 23/03/2015    1,14     1,11     1,45     1,2333   0,34 0,18824
+         52 24/03/2015   0,473    0,668     1,43     0,8570 0,957 0,50572
+         53 25/03/2015   0,531    0,412       1,1    0,6810 0,688 0,36771
+         54 26/03/2015   0,472     1,51     1,26     1,0807 1,038 0,54174
+         55 27/03/2015   0,864    0,816     1,33     1,0033 0,514 0,28392
+         56 28/03/2015   0,395    0,806     1,35     0,8503 0,955 0,47904
+         57 29/03/2015   0,501    0,594     1,35     0,8150 0,849 0,46565
+         58 30/03/2015   0,328    0,488     1,11     0,6420 0,782 0,41312
+         59 31/03/2015   0,524    0,511         1    0,6783 0,489 0,27865
+                                                ∑   64,3493 38,557 20,26389
+                                                      1,0907 0,6535   0,34346
+
+Fuente: Empresa Prestadora de Servicios SEDA Juliaca 2015
+
+
+a. Límite de Control para el de la gráfica para la turbiedad
+
+
+
+
+                   =
+
+
+   Para muestras de n=3, se obtiene de la tabla que D3 =0, D4 =2,575. Por
+
+   lo tanto, los límites de control para la gráfica de R son:
+
+
+
+
+                                                                                48
+          Gráfico Nº 05: Carta de control para el rango de la turbiedad
+                  1,8
+                                                                             UCL=1,682
+                  1,6
+
+                  1,4
+
+                  1,2
+      Turbiedad
+
+
+
+
+                  1,0
+
+                  0,8
+                                                                             _
+                                                                             R=0,653
+                  0,6
+
+                  0,4
+
+                  0,2
+
+                  0,0                                                        LCL=0
+
+                        1   7   13     19   25   31    37   43   49    55
+                                            Muestras
+
+
+   Fuente: Planta de tratamiento SEDA Juliaca – febrero, marzo– 2015
+
+
+   En el gráfico Nº 05: Se observa en la gráfica de 59 amplitudes no
+
+   existen indicios de una condición fuera de control.
+
+   Como el diagrama R indica que la variabilidad del proceso está bajo
+
+   control, puede trazarse ahora el diagrama de .
+
+
+b.Límite de control para la gráfica               para la turbidez
+
+
+
+                                     = 1,0907
+
+   Con el fin de determinar los límites de control del diagrama de la                    se
+
+   utiliza A2 = 1,023, Para muestras de n= 3, (ver anexo de la tabla Nº
+   03)por lo tanto, los límites de control para la gráfica de la            son:
+
+
+
+
+                                                                                         49
+        Gráfico Nº 06: Carta de control para la media de la turbidez
+                 1,75                                                                                 UCL=1,740
+
+
+                 1,50
+                                                           2
+                                                   2
+                 1,25                          2
+      Turbidez
+
+
+
+
+                                                       2                                              _
+                                                                                                      _
+                                                                                                      X=1,091
+                 1,00
+
+                                                                                     6
+                 0,75
+                                                                                 6
+                                                                             6
+                                                                                         6        6
+
+                 0,50                                                    5
+                                                                                                      LCL=0,441
+
+                        1   7   13   19   25   31              37   43   49                  55
+                                          Muestras
+
+   Fuente: Planta de tratamiento SEDA Juliaca – febrero, marzo– 2014
+
+
+   En el gráfico N° 07, en el diagrama de X no se observa indicio alguno
+
+   de una condición fuera de control cuando se grafica las medias
+
+   muéstrales preliminares en este diagrama. Por consiguiente, se
+
+   concluye que el proceso está controlado a los niveles establecidos.
+
+
+   Las muestras tomadas tuvieron precisión dentro de los límites de
+
+   especificación planteadas por el Ministerio de Salud que es de 0 a
+
+   5UNT, por tanto estos datos cumplen con los límites de especificación.
+
+
+c. Límite de Control para la gráfica S de la turbiedad
+
+
+
+
+                                                                                                                  50
+Donde el valor de                       para muestra de n=3 se encuentra en la
+
+tabla los límites de especificación de la turbiedad son 2,5 ± 2,5 UNT. Es
+
+posible usar la gráfica, se estima la fracción de cloro residual que no
+
+cumplen con las especificaciones, con una variable aleatoria normal,
+
+con media 2,5 UNT y desviación estándar 0,65 de la siguiente manera:
+
+
+
+
+      Gráfico Nº 07: Carta de control para la desviación estandar de la turbiedad
+               1,0                                                       UCL=0,990
+
+
+               0,8
+   Turbiedad
+
+
+
+
+               0,6
+
+
+                                                                         _
+               0,4                                                       S=0,386
+
+
+               0,2
+
+
+               0,0                                                       LCL=0
+
+                     1   7   13   19   25   31     37   43    49    55
+                                        Muestras
+                                                                                     F
+
+uente: Planta de tratamiento SEDA Juliaca – febrero, marzo – 2014
+
+
+En el gráfico Nº 07: se muestra que los datos se encuentran dentro de
+
+los límites de control que está entre 0 a 0,99 UNT y se ve que existe
+
+mucha variación en los datos.
+
+
+
+                                                                                     51
+4.2.1.            Verificación   del   cumplimiento    de    los   límites   de
+
+         especificación
+
+
+         Para el análisis de la turbiedad, en la planta de tratamiento SEDA
+
+         Juliaca, se construyeron las cartas de control para variables
+
+         cuantitativas, media, rango y desviación estándar. La capacidad del
+
+         proceso se analizó en función de los límites de especificación del
+
+         Ministerio de Salud. Para las muestras de turbidez que se recolectaros
+
+         desde el 01 de febrero al 31 de marzo del 2015.
+
+
+         Análisis de la Capacidad de Proceso
+
+
+         El análisis de la capacidad del proceso involucra las siguientes
+
+         verificaciones:
+
+
+    a. Estimación de la Capacidad de Proceso
+
+
+         Con esta verificación se calculó el porcentaje de turbidez que
+
+         cumplieron dentro de las especificaciones dadas por el Ministerio de
+
+         Salud.
+
+
+         A continuación se describe el proceso de cálculo:
+
+
+    b.Análisis de la Distribución de Probabilidad
+
+
+         Analizar la fracción o proporción que cumple con las especificaciones
+
+         2,5 1,158 UNT
+
+
+
+
+                                                                             52
+                                   , estandarizando
+
+
+
+
+      1,257762
+
+   Es decir, el 100% de los datos de la turbidez del agua de la planta de
+
+   tratamiento de Seda Juliaca se encuentran dentro de los límites de
+
+   especificación.
+
+
+c. Índice de Capacidad Potencial del Proceso (Pcr)
+
+
+   Con esta verificación se determinó la utilización del porcentaje de la
+
+   banda de especificación.
+
+
+   A continuación se describe el proceso: Dada los límites de
+
+   especificación por el Ministerio De Salud son:
+
+
+
+
+                                                                       53
+   Por tanto el proceso de tratamiento fue potencialmente capaz de estar
+
+   dentro de los límites de especificación de 0,091a 3,658 UNT, puesto
+
+   que los límites de tolerancia natural en el proceso de turbidez se
+
+   encuentran dentro de los límites de especificación.
+
+
+   Si la inversa de             , mide el porcentaje de banda de las
+
+   especificaciones. Si la estimación de la capacidad potencial del
+
+   proceso es menor a 1, se dice que el proceso de tratamiento del agua
+
+   estuvo utilizando más del 100% de la banda de especificaciones.
+
+
+d. Capacidad Real del Proceso (Cpk)
+
+
+   Con esta verificación se determinó la utilización del porcentaje de la
+
+   variabilidad entre los elementos de la misma muestra.
+
+
+
+
+   Remplazando en la fórmula
+
+
+
+
+                                                                      54
+Las muestras presentaron un desfasamiento al lado del límite de
+
+especificación inferior; por tanto, la capacidad real del proceso
+
+disminuye en -1,22 como consecuencia del centrado.
+
+
+                    Gráfico Nº 08: Capacidad de Proceso de la Turbidez
+
+                                                      LSL                                   USL
+         P rocess Data                                                                                   Within
+  LSL               1,342                                                                                Overall
+  Target            *
+                                                                                                  Potential (Within) C apability
+  U SL              3,6588
+  Sample M ean      1,09067                                                                              Cp        1,33
+  Sample N          177                                                                                  C PL     -0,29
+                                                                                                         C PU      2,96
+  StDev (Within) 0,289682
+  StDev (O v erall) 0,395139                                                                             C pk     -0,29
+                                                                                                         C C pk 1,33
+                                                                                                       O v erall C apability
+                                                                                                         Pp         0,98
+                                                                                                         PPL       -0,21
+                                                                                                         PPU        2,17
+                                                                                                         P pk      -0,21
+                                                                                                         C pm          *
+
+
+
+
+                                       0,5      1,0     1,5      2,0      2,5      3,0     3,5
+   O bserv ed Performance      Exp.   Within Performance      Exp. O v erall Performance
+  PP M < LSL 672316,38         PP M   < LSL 807198,22         P PM < LSL 737632,40
+  PP M > U SL         0,00     PP M   > U SL         0,00     P PM > U SL           0,00
+  PP M Total     672316,38     PP M   Total    807198,22      P PM Total      737632,40
+
+
+Fuente: Planta de tratamiento SEDA Juliaca – febrero, marzo – 2014
+
+
+ En el gráfico N° 08 se ha dibujado un histograma con las muestras de
+
+ la turbidez                   las cuales fueron comparadas con límites de
+
+ especificación de 1,342 a 3,6588 UNT. En esta gráfica se aprecia
+
+ una distribución normal la cual nos indica que los datos de la turbidez
+
+ estuvieron sobrecargados al lado del límite de especificación inferior,
+
+ pero que se encuentran dentro de los límites de específicos que tiene
+
+ Ministerio de Salud para controlar la calidad de agua para consumo
+
+ humano.
+
+                                                                                                                                   55
+e. FUNCIÓN DE OPERACIÓN
+
+
+  Con esta verificación se determinó el corrimiento de la media.
+
+
+                                             Si
+
+
+
+
+                                ó 0.15%.
+
+
+  Por tanto él 98,42% es la probabilidad de no detectar el corrimiento
+
+  con la primera muestra subsecuente y la probabilidad de detectar el
+
+  corrimiento con la primera muestra subsecuente fue de 0.158 %.
+
+
+
+
+                                                                    56
+                              CONCLUSIÓN
+
+Se concluye con el rechazo de la hipótesis general e hipótesis especifico de
+
+acuerdo a las especificaciones dadas por el Ministerio de Salud Reglamento de
+
+la Calidad del Agua para Consumo Humano – D.S. N° 031-2010-SA.
+
+
+
+El cloro residual se encuentra bajo control estadístico de calidad ya que los
+
+límites de especificación de la planta de tratamiento SEDA Juliaca fue LIC:
+
+1,897 mg/l LCS: 2,872 mg/l mientras los límites de tolerancia LIC: 1,6433 mg/l,
+
+LCS: 3,8567 mg/l.
+
+
+
+Del mismo modo se verifico las muestras de turbiedad y se encuentra bajo
+
+control estadístico de calidad con límites de especificación de la planta de
+
+tratamiento SEDA Juliaca fue LIC: 0,441 UNT LCS: 1,74 UNT mientras los
+
+límites de tolerancia LIC: 1.342 UNT LCS: 3,6588 UNT
+
+
+
+
+                                                                            57
+                          RECOMENDACIONES
+
+
+Se recomienda a los funcionarios de SEDA JULIACA que tengan mayor
+
+cuidado con el tratamiento del agua antes de distribuirlas a los domicilios, ya
+
+que el agua tratada es bombeada hacia los reservorios a partir de dos cisternas
+
+ubicadas en la planta de tratamiento, en el transcurso se pierde el cloro
+
+residual por la distancia que recorre porque las tuberías están oxidadas, la sala
+
+de cloración está deteriorada y el equipamiento en su conjunto no tiene la
+
+capacidad suficiente, se tiene que rehabilitar y equipar totalmente esta unidad
+
+de tratamiento para garantizar la calidad del agua producida en la planta de
+
+agua.
+
+
+Sensibilizar y capacitar a los operadores que se encuentran laborando en la
+
+planta de tratamiento, sobre las consecuencias que con lleva un deficiente
+
+proceso de cloración ya que el costo del cloro es alto, el exceso de cloro
+
+presenta problemas al sistema digestivo, el consumo regular en niños también
+
+causa anemia.
+
+
+También se recomiendan a los estudiantes de la Facultad de Ingeniería
+
+Estadística e Informática que sigan realizando trabajos de investigación a cerca
+
+de la calidad del agua, con respecto a otros elementos químicos, análisis de
+
+muestras de cloro residual en viviendas, realizar pronósticos de consumo del
+
+agua en la Provincia de San Román Distrito de Juliaca, ya que el agua es uno
+
+de los problemas más grandes que tiene la ciudad.
+
+
+
+
+                                                                              58
+                                BIBLIOGRAFÍA
+
+Avila, L. (1982). Manejo y Control de la Calidad del agua en la Bahía de puno.
+Puno- Peru.
+
+Carot, A. V. (2001). Control Estadistico de Calidad. Alfaomega.
+
+Coronel, P. J. (2006). agua potable.
+
+Escalante, E. J. (2003). Seis Sigma Metodologia y técnica. limusa.
+
+Escalante, V. (2003). Seis Sigma Metodologia y Técnicas. Limusa Willey,
+segunda edición.
+
+Fernandez, M. R. y Solorzano, D. Prado, J.M. (1990). Calidad de Las Aguas del
+río Anllons III.
+
+García, O. (1993). Estadística Descriptiva y Probabilidades. Macro.
+
+Gutiérrez, H. (2004). Control Estadistico de CAlidad y seis Sigma. Mc Graw Hill
+segunda edicion.
+
+Mitacc, M. (1992). Topicos de estadistica descriptiva y probabilidad. Perú.
+
+Montesde Oca, B. C. (2012). Determinacion del Cloro Residual y cloro total.
+The Arch Of Europe , 5.
+
+Montgomery, D. C. (2005). Control Estadístico de Calidad. limusa wiley tercera
+edición.
+
+Montgomery, D. C. (2005). Probabilidad y estadística aplicadas a la Ingenieria.
+limusa wiley, segunda edición.
+
+Orellana, A. J. (2005). Caracteristicas del Agua Potable. Ingeniería Sanitaria ,
+7.
+
+Rivas, M. G. (2001). Abastecimiento de agua Potable y Alcantarillado. caracas:
+Segunda edición Editorial Vegas.
+
+Roberto S., Carlos F., Pilar Baptista L,. (2006). Metodologia de la Investigación.
+Graw Hill.
+
+Rojas, R. (2002). elementos de vigilancia y control. guia para la vigilancia y
+control de la calidada delagua para consumo humano. lima: cepis/ops.
+
+Salsona, F. (2002). guias para elaborar normas de calidad del agua de bebida
+en los paises en desarrollo. Lima: Cepis/ops.
+
+Salud, O. M. (09 de marzo de 2014). http://es.wikipedia.org/wiki/Agua_potable.
+Recuperado el 2014, de http://es.wikipedia.org/wiki/Agua_potable.
+                                                                               59
+Salud, O. M. (7 de febrero de 2003).                     http://www.aquagest-
+regiondemurcia.es/img/contenidos/1/ficha-sobre-calidad-del-agua.pdf. Obtenido
+de        http://www.aquagest-regiondemurcia.es/img/contenidos/1/ficha-sobre-
+calidad-del-agua.pdf.
+
+saneamiento, S. N. (1995). Reglamento de Calidad del Agua de consumo
+Huamano. Normas Oficiales para la calidad del agua Perú , 57.
+
+SEDA, J. (2007). PLAN MAESTRO OPTIMIZADO SEDAJULIACA S.A.
+JULIACA.
+
+Seminario Mohme, G. (23 de marzo de 2014). El Agua, la paradoja. La
+Republica , pág. 1.
+
+Truque, B. P. (2010). Armonizacion de los Estandares de Agua Potable en las
+Americas.
+
+TESIS
+
+
+Aquize y Fernando (1997). “Control Estadístico de calidad del análisis del
+
+agua potable (Aziruni)”. Universidad Nacional del Altiplano – Facultad de
+
+Ingeniería Estadística e Informática, tesis pregrado
+
+
+Mamani (2013).“Control estadístico de la calidad de queso respecto al
+
+peso y unidades defectuosas para mejorar la producción en la planta
+
+quesera del centro poblado de Chijnaya – Pucará - 2013”. Universidad
+
+Nacional del Altiplano – Facultad de Ingeniería Estadística e Informática, tesis
+
+pregrado
+
+
+Gutiérrez y Torres (2013). “Estudio comparativo y Estadístico de la calidad
+
+del agua potable en las redes de distribución de la parroquia Guapán del
+
+cantón Azogues” de la ciudad de la Cuenca Ecuador”. Facultad de Ciencias
+
+Químicas, tesis pregrado.
+
+
+Carrillo y Villalobos (2011), “Análisis comparativo de los índices de calidad
+
+del agua (ICA) de los ríos Tecolutca y Cazones en el periodo marzo –
+                                                                             60
+diciembre 2010” Universidad Veracruzana Facultad de Ciencias Químicas
+
+Región Poza Rica – Tuxpam, tesis pregrado
+
+
+WEB GRAFÍA
+
+Salud, O. M. (09 de marzo de 2014). http://es.wikipedia.org/wiki/Agua_potable.
+
+Recuperado el 2014, de http://es.wikipedia.org/wiki/Agua_potable.
+
+
+Salud,      O.   M.   (7   de    febrero     de    2003).    http://www.aquagest-
+
+regiondemurcia.es/img/contenidos/1/ficha-sobre-calidad-del-agua.pdf. Obtenido
+
+de   http://www.aquagest-regiondemurcia.es/img/contenidos/1/ficha-sobre-calidad-del-
+
+agua.pdf.
+
+
+
+
+                                                                                 61
+ANEXOS
+
+
+
+
+         62
+TABLA Nº 03:CONSTANTES PARA LÍMITES DE CONTROL DE LA MEDIA Y
+             DESVIACIÓN ESTÁNDAR
+
+              Carta para promedios              Carta para desviaciones normales
+    No de
+              Factores para límites       Factores para      Factores para límites de
+ observacione
+                    de control             línea central             control
+       s
+                 A                                  1/
+       2       2.121 3.760 1.88          0.5642    1.7725     0       1.843     0     3.267
+       3       1.732 2.394 1.023         0.7236    1.382      0       1.858     0     2.568
+       4       1.500 1.880 0.729         0.7979    1.2533     0       1.808     0     2.266
+       5       1.342 1.596 0.577         0.8407    1.1894     0       1.756     0     2.089
+       6       1.225 1.410 0.483         0.8686    1.1512   0.026     1.711   0.030   1.970
+       7       1.134 1.277 0.419         0.8882    1.1259   0.105     1.672   0.118   1.882
+       8       1.061 1.175 0.373         0.9027    1.1078   0.167     1.638   0.185   1.815
+       9       1.000 1.094 0.337         0.9139    1.0942   0.219     1.609   0.239   1.761
+      10       0.949 1.028 0.308         0.9227    1.0837   0.262     1.584   0.284   1.716
+      11       0.905 0.973 0.285         0.9300    1.0753   0.299     1.561   0.321   1.679
+      12       0.866 0.925 0.266         0.9359    1.0684   0.331     1.541   0.354   1.646
+      13       0.832 0.884 0.249         0.9410    1.0627   0.359     1.523   0.382   1.618
+      14       0.802 0.848 0.235         0.9453    1.0579   0.384     1.507   0.406   1.594
+      15       0.775 0.816 0.223         0.9490    1.0537   0.406     1.492   0.428   1.572
+      16       0.750 0.788 0.212         0.9523    1.0501   0.427     1.478   0.448   1.552
+      17       0.728 0.762 0.203         0.9551    1.0470   0.445     1.465   0.466   1.534
+      18       0.707 0.738 0.194         0.9576    1.0442   0.461     1.454   0.482   1.518
+      19       0.688 0.717 0.187         0.9599    1.0418   0.477     1.443   0.497   1.503
+      20       0.671 0.679 0.180         0.9619    1.0396   0.491     1.433   0.510   1.490
+      21       0.655 0.679 0.173         0.9638    1.0376   0.504     1.424   0.523   1.477
+      22       0.640 0.662 0.167         0.9655    1.0358   0.516     1.415   0.534   1.466
+      23       0.626 0.647 0.162         0.9670    1.0342   0.527     1.407   0.545   1.455
+      24       0.612 0.632 0.157         0.9684    1.0327   0.538     1.399   0.555   1.445
+      25       0.600 0.619 0.153         0.9696    1.0313   0.548     1.392   0.565   1.435
+Fuente: Libro Control Estadístico de Calidad: Douglas C. Montgomery
+
+
+
+
+                                                                                          63
+TABLA Nº 04: CONSTANTES PARA LÍMITES DE CONTROL DEL RANGO
+
+                                          Carta para rangos
+                  Factores para
+      o
+                                             Factores para límites de control
+    N de           línea central
+ observacione
+       s
+      2          1.128    0.8865     0.853        0        3.686        0       3.267
+      3          1.693    0.5907     0.888        0        4.358        0       2.575
+      4          2.059    0.4857     0.880        0        4.698        0       2.282
+      5          2.326    0.4299     0.864        0        4.918        0       2.115
+      6          2.543    0.3946     0.848        0        5.078        0       2.004
+      7          2.704    0.3698     0.833      0.205      5.203      0.076     1.924
+      8          2.847    0.3512     0.820      0.387      5.307      0.136     1.864
+      9          2.970    0.3367     0.808      0.546      5.394      0.184     1.816
+      10         3.078    0.3249     0.797      0.687      5.469      0.223     1.777
+      11         3.173    0.3152     0.787      0.812      5.534      0.256     1.744
+      12         3.258    0.3069     0.778      0.924      5.592      0.284     1.717
+      13         3.336    0.2998     0.770      1.026      5.646      0.308     1.693
+      14         3.407    0.2935     0.762      1.121      5.693      0.329     1.672
+      15         3.472    0.2880     0.755      1.207      5.737      0.348     1.653
+      16         3.532    0.2831     0.749      1.285      5.779      0.364     1.637
+      17         3.588    0.2787     0.743      1.359      5.817      0.379     1.622
+      18         3.640    0.2747     0.738      1.426      5.854      0.392     1.608
+      19         3.689    0.2711     0.733      1.490      5.888      0.404     1.597
+      20         3.735    0.2677     0.729      1.548      5.922      0.414     1.585
+      21         3.778    0.2647     0.724      1.606      5.950      0.425     1.575
+      22         3.819    0.2618     0.720      1.659      5.979      0.434     1.560
+      23         3.858    0.2592     0.716      1.710      6.006      0.443     1.557
+      24         3.895    0.2567     0.712      1.759      6.031      0.452     1.548
+      25         3.931    0.2544     0.709      1.804      6.058      0.459     1.541
+Fuente: Libro Control Estadístico de Calidad: Douglas C. Montgomery
+
+
+
+
+                                                                                        64
+Mapa Nº 01: croquis de la planta de tratamiento seda Juliaca
+
+
+
+
+Fuente:https://www.google.com.pe/maps/place/Juliaca/data.
+
+
+
+
+                                                               65
+Figura Nº 01: Muestra de cloro residual con Colorimetro
+
+
+
+
+FUENTE: https://www.google.com.pe/colorimetro
+
+
+Figura Nº 02: muestra de turbiedad con turbidimetro
+
+
+
+
+         Fuente: https://www.google.com.pe/search?q=turbidimetro&
+
+
+
+
+                                                                    66
+

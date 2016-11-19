@@ -1,0 +1,49 @@
+<?php
+require('../Clases/Archivos.php');
+require('../Clases/Convertir.php');
+
+
+function imprimir($frase){
+    echo $frase . PHP_EOL;
+}
+function buscar($repositorios, $ruta_archivo_verificar, &$resultados){
+    //$resultados = [];
+    $resultados_p = [];
+
+    $archivo_verificar = file_get_contents($ruta_archivo_verificar);
+
+    foreach ($repositorios as $repositorio) {
+        foreach ($repositorio['archivos'] as $clave => $archivo) {
+            $archivo_string = file_get_contents($archivo['direccion']);
+
+            $similitud = 0;
+            $resultados_p[] = similar_text($archivo_verificar, $archivo_string, $similitud);
+
+            $resultados[] = [
+                'ruta' => $archivo['direccion'],
+                'coincidencias' => $resultados_p,
+                'similitud' => $similitud
+            ];
+            
+            imprimir($clave+1 . " de " . count($repositorio['archivos']));
+        }
+    }
+    arsort($resultados_p);
+    return $resultados_p;
+}
+
+$repositorios = [
+    'pruebas' => Archivos::lista_c('../src')
+];
+
+$ruta_archivo_verificar = '../src/¿Por qué Michael Phelps puede tomar 12.txt';
+
+$tiempo_inicio = microtime(true);
+$resultados_p = buscar($repositorios,$ruta_archivo_verificar, $resultados);
+$tiempo_fin = microtime(true);
+$tiempo = bcsub($tiempo_fin, $tiempo_inicio, 4);
+ 
+imprimir("Tiempo empleado: " . ($tiempo) . "s");
+
+print_r($resultados_p);
+?>

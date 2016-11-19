@@ -1,0 +1,5479 @@
+          “UNIVERSIDAD NACIONAL DEL ALTIPLANO”
+ “FACULTAD DE INGENIERIA MECANICA ELECTRICA, ELECTRONICA Y
+                          SISTEMAS”
+     “ESCUELA PROFESIONAL DE INGENIERIA DE SISTEMAS”
+
+
+
+
+“SISTEMA DE INFORMACION GEOGRAFICO CON INTERFAZ WEB
+                 DE LA CIUDAD DE PUNO”
+
+                          TESIS
+                       PRESENTADO POR:
+
+                   MORAN ESPINOZA MILAGROS
+                   MALMA MONTAÑO JESUS DANIEL
+
+
+
+                    PARA OPTAR EL TITULO DE:
+
+                     INGENIERO DE SISTEMAS
+
+
+
+
+                       PUNO          PERU
+                              2013
+ÁREA: Informática
+TEMA: Sistemas de información tradicionales y expertos
+                                      DEDICATORIA
+
+
+A Dios.
+Por habernos permitido llegar hasta este punto
+y habernos dado salud para lograr nuestros
+objetivos, además de su infinita bondad y amor.
+
+
+
+
+                                                  A mi Madre Celia; mis Tíos Bonifacio y
+                                                  Amparo; mis Primos María y Ricardo a mi
+                                                  ángel guardián Thiago por su constante
+                                                  apoyo y cariño por ser mi fuente de
+                                                  Inspiración, por su amor, comprensión y
+                                                  unión familiar indispensable para culminar el
+                                                  presente trabajo.
+                                                                             Milagros Moran.
+
+
+
+
+A mi madre Ayde, por su constante apoyo y
+cariño. A mi esposa Yesenia y a mis hijos
+Álvaro y Andriu por ser mi fuente de
+Inspiración, por su amor, comprensión y unión
+familiar indispensable para culminar el
+presente trabajo.
+                              Daniel Malma.
+
+
+
+
+                                                  A nuestro Asesor Personal Hugo y Amigo
+                                                  Incondicional por su interminable apoyo, por
+                                                  transferirnos sus conocimientos en todo
+                                                  momento.
+                                                                            Milagros y Daniel
+                                AGRADECIMIENTO
+
+
+A la Universidad Nacional del Altiplano – Puno, en especial a la Escuela Profesional De
+
+Ingenieria de Sistemas; que nos da la oportunidad para desarrollarnos como
+
+profesionales, para asi aportar en el desarrollo de nuestra Región y por ende a nuestro
+
+País.
+
+
+A las Autoridades, Doctores y Magister de la Facultad de Ingenieria Mecanica Electrica,
+
+Electronica y Sistemas de la Universidad Nacional del Altiplano – Puno, por haber
+
+compartido con nosotros sus experiencias academicas y Profesionales que coadyuvaron
+
+en nuestra formación Académica.
+
+
+A mis jurados Ing. Hugo Yosef Gómez Quispe, M.Sc. Ing. Milder Zanabria Ortega, M.Sc.
+
+Ing. Pablo Cesar Tapia Catacora; nuestro Director de tesis M.Sc. Ing. Marco Antonio
+
+Quispe Barra y a nuestro Asesor M.Sc. Ing Oliver Amadeo Vilca Huayta por sus acertadas
+
+observaciones y orientación en el desarrollo y culminación de este trabajo de
+
+Investigación.
+
+
+
+
+                                                                    A ellos mi gratitud.
+ÍNDICE GENERAL.
+
+  RESUMEN ........................................................................................................................ 1
+  ABSTRACT ....................................................................................................................... 2
+  INTRODUCCIÓN ............................................................................................................... 3
+  CAPITULO I ...................................................................................................................... 5
+  PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES Y OBJETIVOS DE LA INVESTIGACION ... 5
+  1.1       PLANTEAMIENTO DEL PROBLEMA ......................................................................... 6
+  1.1.1        DEFINICION DEL PROBLEMA .............................................................................. 6
+  1.1.2        FORMULACION DEL PROBLEMA......................................................................... 7
+  1.2       ANTECEDENTES DE LA INVESTIGACION .................................................................. 7
+  1.3       OBJETIVOS DE LA INVESTIGACION ....................................................................... 12
+  1.3.1        OBJETIVO GENERAL......................................................................................... 12
+  1.3.2        OBJETIVOS ESPECÍFICOS .................................................................................. 12
+  CAPITULO II ................................................................................................................... 14
+  MARCO TEORICO E HIPOTESIS DE LA INVESTIGACION ..................................................... 14
+  2.1       BASE TEORICA .................................................................................................... 15
+  2.1.1        DEFINICIONES DE SISTEMA DE INFORMACIÓN GEOGRÁFICO. ........................... 15
+  2.1.2        CONCEPTO DE UN SIG ..................................................................................... 15
+  2.1.3        COMO TRABAJA UN SIG .................................................................................. 21
+  2.1.4        CARACTERÍSTICA DE UN SIG ............................................................................ 21
+  2.1.5        BASE DE DATOS EN LOS SIG ............................................................................. 24
+  2.1.6        REFERENCIAS GEOGRÁFICAS ........................................................................... 25
+  2.1.7        SISTEMAS DE POSICIONAMIENTO GLOBAL (GPS).............................................. 28
+  2.1.8        DIGITALIZACIÓN DE INFORMACIÓN GEOGRÁFICA ............................................ 29
+  2.1.9        PUNTOS, ARCOS Y POLÍGONOS........................................................................ 30
+  2.1.10       MODOS DE DIGITALIZACIÓN ............................................................................ 31
+  2.1.11       TOLERANCIA ................................................................................................... 31
+  2.1.12       MODELO VECTOR Y RASTER ............................................................................ 32
+  2.1.13       VENTAJAS Y DESVENTAJAS FORMATO RASTER Y VECTOR. ................................ 35
+  2.1.14       TAREAS DE UN SIG .......................................................................................... 39
+  2.1.15       OBTENCIÓN DE DATOS .................................................................................... 44
+  2.1.16       TECNOLOGÍAS RELACIONADAS ........................................................................ 46
+  2.1.17       INTERPOLACIÓN ............................................................................................. 47
+  2.1.18       PRECISIÓN Y ERRORES ..................................................................................... 47
+  2.1.19       AJAX ............................................................................................................... 48
+2.1.20       API DE GOOGLE MAPS ..................................................................................... 49
+2.1.21       CREAR UN MAPS EN GOOGLE .......................................................................... 50
+CAPITULO III .................................................................................................................. 58
+METODOS DE LA INVESTIGACION ................................................................................... 58
+3.1       VARIABLES DE INVESTIGACIÓN ........................................................................... 59
+3.2       OPERACIONALIZACION DE VARIABLES ................................................................. 59
+3.3       METODOLOGÍA................................................................................................... 61
+3.3.1        TIPO Y DISEÑO DE INVESTIGACION .................................................................. 61
+3.4       POBLACION Y MUESTRA ..................................................................................... 61
+3.4.1        POBLACIÓN .................................................................................................... 61
+3.4.2        MUESTRA ....................................................................................................... 61
+3.5      MÉTODOS DE RECOPILACIÓN DE DATOS (DESCRIPCIÓN DE INSTRUMENTOS). ....... 62
+3.6       MÉTODOS DE TRATAMIENTO DE DATOS.............................................................. 62
+3.7      INSTRUMENTOS. ................................................................................................. 62
+3.7.1        HARDWARE .................................................................................................... 62
+3.7.2        SOFTWARE ..................................................................................................... 62
+3.7.3        SERVICIOS ....................................................................................................... 63
+CAPITULO IV .................................................................................................................. 64
+RESULTADOS Y DISCUSION............................................................................................. 64
+4.1      PLATAFORMA TECNOLOGICA .............................................................................. 65
+4.1.1 ANALISIS DE LA INFORMACION PARTIDA ............................................................. 65
+4.1.2 REQUERIMIENTOS TECNOLOGICOS ...................................................................... 65
+4.2      IMPLEMENTACION DEL SISTEMA ......................................................................... 72
+4.2.1        DIAGRAMA DE CASO DE USO DEL SISTEMA ...................................................... 72
+4.2.2        DIAGRAMA DE SECUENCIA DEL SISTEMA ......................................................... 73
+4.2.3        DISEÑO DE LA BASE DE DATOS DEL SISTEMA.................................................... 75
+4.3      DESARROLLO E IMPLEMENTACION DE LA APLICACION ......................................... 76
+4.3.1        ESTRUCTURA DE LA CONEXIÓN DEL CLIENTE WEB CON EL API DE GOOGLE ....... 76
+4.3.2        ESTRUCTURA DE LA CONEXIÓN ENTRE EL CLIENTE WEB Y LA BASE DE DATOS ... 78
+4.3.3        PANTALLAS DEL SISTEMA ................................................................................ 82
+4.4      ENCUESTA........................................................................................................... 92
+CAPITULO V ................................................................................................................. 102
+CONCLUSIONES Y RECOMENDACIONES ........................................................................ 102
+CONCLUSIONES ........................................................................................................... 103
+RECOMENDACIONES .................................................................................................... 104
+BIBLIOGRAFÍA.............................................................................................................. 105
+ANEXOS....................................................................................................................... 107
+CODIGO FUENTE DEL SISTEMA ..................................................................................... 108
+INDICE DE ILUSTRACIÓN
+
+
+Ilustración Nro. 1. Diferencia de un SIG .............................................................................. 17
+Ilustración Nro. 2. Componentes de un SIG ......................................................................... 18
+Ilustración Nro. 3. Concepto de capas................................................................................. 21
+Ilustración Nro. 4. Organización de un SIG .......................................................................... 22
+Ilustración Nro. 5. Sistema de coordenadas geográficas ..................................................... 26
+Ilustración Nro. 6. Datum geodésico .................................................................................. 26
+Ilustración Nro. 7. Elipsoide llamado "internacional 1924" ................................................. 27
+Ilustración Nro. 8. Sistemas de posicionamiento global (GPS) ............................................. 28
+Ilustración Nro. 9. Puntos, arcos y polígonos ...................................................................... 30
+Ilustración Nro. 10. Distancia de selección .......................................................................... 31
+Ilustración Nro. 11. Distancia entre vértices....................................................................... 32
+Ilustración Nro. 12. Distancia de fusión de nodos ................................................................ 32
+Ilustración Nro. 13. Modelo raster y vectorial .................................................................... 33
+Ilustración Nro. 14. Forma de representa objetos espaciales ............................................... 34
+Ilustración Nro. 15. Almacenaje del atributo en el sistema raster ........................................ 35
+Ilustración Nro. 16. Almacenaje del atributo del sistema vectorial ..................................... 35
+Ilustración Nro. 17. Ejemplo de ambos modelos raster y vectorial ...................................... 38
+Ilustración Nro. 18. Raster: modelo digital del terreno (MDT) ............................................. 38
+Ilustración Nro. 19. Vector: curvas de nivel ......................................................................... 39
+Ilustración Nro. 20. Tareas de un SIG: entrada .................................................................... 39
+Ilustración Nro. 21. Funciones de un SIG: manejo y administración..................................... 41
+Ilustración Nro. 22. Funciones de un SIG: las preguntas y el análisis .................................... 42
+Ilustración Nro. 23. Ejemplo: buffering ............................................................................... 42
+Ilustración Nro. 24. Ejemplo sobre análisis: overlay o unión espacial .................................. 43
+Ilustración Nro. 25. Mapa base. ......................................................................................... 44
+Ilustración Nro. 26 Mapa para uso comercial ..................................................................... 45
+Ilustración Nro. 27. Mapa para uso ambiental. ................................................................... 45
+Ilustración Nro. 28. Mapa general. ..................................................................................... 45
+Ilustración Nro. 29. Web service de google ......................................................................... 49
+Ilustración Nro. 30. Tutorial google maps acceso ................................................................ 51
+Ilustración Nro. 31. Tutorial crear mapa ............................................................................ 51
+Ilustración Nro. 32. Tutorial descripción crear mapa .......................................................... 52
+Ilustración Nro. 33. Tutorial mis mapas .............................................................................. 52
+Ilustración Nro. 34. Tutorial editar ..................................................................................... 53
+Ilustración Nro. 35. Tutorial añadir marcas, líneas y formas................................................ 53
+Ilustración Nro. 36. Tutorial tipos de marcadores 1 ............................................................. 54
+Ilustración Nro. 37. Tutorial tipos de marcadores 2-3.......................................................... 54
+Ilustración Nro. 38. Tutorial insertar un video YouTube ...................................................... 55
+Ilustración Nro. 39. Tutorial guardar cambios..................................................................... 56
+Ilustración Nro. 40. Tutorial final del maps ......................................................................... 56
+Ilustración Nro. 41. Esquema de funcionamiento de la tecnología empleada. ...................... 68
+Ilustración Nro. 42. Diagrama de caso de uso ..................................................................... 73
+Ilustración Nro. 43. Diagrama de secuencia - registró ......................................................... 74
+Ilustración Nro. 44. Diagrama de secuencia - modificar ...................................................... 75
+Ilustración Nro. 45. Diagrama de secuencia – eliminar........................................................ 75
+Ilustración Nro. 46. Modelo lógico de la base de datos ....................................................... 76
+Ilustración Nro. 47. Pantalla Índex (www.mipuno.org) ....................................................... 83
+Ilustración Nro. 48. Pantalla-sector educativo .................................................................... 84
+Ilustración Nro. 49. Pantalla-sector educativo ejemplo ....................................................... 85
+Ilustración Nro. 50. Pantallas - sector turístico.................................................................... 86
+Ilustración Nro. 51. Pantallas - sector turístico ejemplo ...................................................... 87
+Ilustración Nro. 52. Pantallas - sector comercial ................................................................. 88
+Ilustración Nro. 53. Pantallas - sector comercial ejemplo .................................................... 89
+Ilustración Nro. 54. Pantalla rutas...................................................................................... 90
+Ilustración Nro. 55. Pantalla búsqueda............................................................................... 91
+INDICE DE GRAFICOS
+
+Gráfico Nro. 1. Grafico de barras de la pregunta Nº1- post test cliente ............................... 92
+Gráfico Nro. 2. Grafico de barras de la pregunta Nº2- post test cliente ............................... 93
+Gráfico Nro. 3. Grafico de barras de la pregunta Nº3- Post test cliente ............................... 94
+Gráfico Nro. 4. Grafico de barras de la pregunta Nº4- post test cliente ............................... 95
+Gráfico Nro. 5. Grafico de barras de la pregunta Nº5- post test cliente ............................... 96
+Gráfico Nro. 6. Grafico de barras de la pregunta Nº 6- post test cliente ............................. 97
+Gráfico Nro. 7. Grafico de barras de la pregunta Nº1- post test usuario.............................. 98
+Gráfico Nro. 8. Grafico de barras de la pregunta Nº2- post test usuario.............................. 99
+Gráfico Nro. 9. Grafico de barras de la pregunta Nº3- post test usuario............................ 100
+Gráfico Nro. 10. Grafico de barras de la pregunta Nº4- post test usuario .......................... 101
+INDICE DE TABLAS
+
+Tabla Nro. 1 Tecnologías adoptadas para el desarrollo de la aplicación. ............................. 68
+Tabla Nro. 2. Cuadro estadístico encuesta post test- clientes .............................................. 92
+Tabla Nro. 3. Cuadro estadístico de la pregunta Nº2- post test cliente ................................ 93
+Tabla Nro. 4. Cuadro estadístico de la pregunta Nº3-post test cliente ................................. 94
+Tabla Nro. 5. Cuadro estadístico de la pregunta Nº4-post test cliente ................................. 95
+Tabla Nro. 6. Cuadro estadístico de la pregunta Nº5-post test cliente ................................. 96
+Tabla Nro. 7. Cuadro estadístico de la pregunta Nº6-post test cliente ................................. 97
+Tabla Nro. 8. Cuadro estadístico de la pregunta Nº1-post test usuario ................................ 98
+Tabla Nro. 9. Cuadro estadístico de la pregunta Nº2-post test usuario ................................ 99
+Tabla Nro. 10. Cuadro estadístico de la pregunta Nº3-post test usuario ............................ 100
+Tabla Nro. 11. Cuadro estadístico de la pregunta Nº4-post test usuario ............................ 101
+                                          RESUMEN
+
+El presente trabajo de investigación tiene como objetivo la implementación de un SISTEMA DE
+
+INFORMACIÓN GEOGRAFICO CON INTERFAZ WEB que facilita la Información de la CIUDAD DE
+
+PUNO, como soporte para la toma de decisiones, proporcionando información en el momento
+
+oportuno. Así mismo analizamos todos los requerimientos del Sistema de Información
+
+Geográfico y Diseñamos una Base de Datos Geográfica consistente y capaz de soportar
+
+información confiable y por ultimo Implementamos una Interfaz Web amigable e intuitiva, que
+
+permite al usuario interactuar con el sistema con facilidad.
+
+
+Usamos herramientas Web como los APIs de Google, los Script Query – Ajax, Iframe, Php y
+
+MySql que permite a los usuarios personalizar sus mapas, desarrollar entornos de consultas,
+
+publicar actividades y servicios, e incrementar la comunicación entre los usuarios para mejorar,
+
+optimizar y facilitar la usabilidad, accesibilidad del usuario con el Sistema de Información
+
+Geográfico. Evaluando las distintas Fases del Sistema de Información Geográfico que determino
+
+que están adecuadamente integradas. Para este proyecto hemos utilizado como herramientas
+
+de recolección de datos a las encuestas y la observación directa que se le han aplicado al
+
+usuario. El presente estudio es de tipo concluyente, debido a que es una investigación que se
+
+realiza a través de un diseño de investigación y nos permite de manera objetiva, seleccionar y
+
+evaluar alternativas de acción al problema planteado. El diseño es experimental porque permite
+
+establecer una relación causal entre una o más variables denominada dependiente (X) y otra
+
+variable independiente (y) en una situación estrictamente controlada es decir, la influencia que
+
+ejerce la información obtenida del sistema en el Sistema de Información Geográfico en cada
+
+uno de los sectores de la ciudad de Puno.
+
+Palabras clave: SIG, DB, APIs, QUERY-AJAX, IFRAME, PHP, MYSQL
+
+
+
+
+                                                                                               1
+                                         ABSTRACT
+
+The present research work aims at implementing a GEOGRAPHIC INFORMATION SYSTEM WITH
+
+WEB INTERFACE facilitating CITY Information PUNO, as support for decision-making by providing
+
+information in a timely manner. Also look at all the requirements of Geographic Information
+
+System and designed a Geographic Database and able to withstand consistently reliable and
+
+finally implemented a friendly and intuitive Web interface that allows the user to interact with
+
+the system easily.
+
+
+We use Web tools such as Google APIs, the Query Script - Ajax, Iframe, PHP and MySQL that
+
+allows users to customize their maps, develop query environments, publishing activities and
+
+services, and enhance communication between users to improve, enhance and facilitate
+
+usability, user accessibility to the Geographic Information System. Assessing the various phases
+
+of Geographic Information System to determine that they are properly integrated.
+
+For this project we used as data collection tools to surveys and direct observation have been
+
+applied to the user.
+
+
+The present study is concluyente, because it is an investigation that is conducted through a
+
+research design and allows us to objectively select and evaluate alternative courses of action to
+
+the problem. The experimental design is that it allows to establish a causal relationship between
+
+one or more variables called dependent (X) and one independent variable (y) in a situation that
+
+is strictly controlled, the influence of the information obtained from the system in the
+
+Geographic Information System in each of the sectors of the city of Puno.
+
+
+Keywords: GIS, DB, APIs, QUERY, AJAX, IFRAME, PHP, MYSQL
+
+
+
+
+                                                                                               2
+                                   INTRODUCCIÓN
+
+En los últimos años la industria geoespacial ha desarrollado cuantiosos productos en
+
+función de las crecientes necesidades del mercado. Hoy en día asistimos a la emergencia
+
+de una nueva serie de herramientas cartográficas online de bajo coste como Google
+
+Earth y Google Maps, NASA World Wind, Yahoo Maps entre otros. La ventaja comercial
+
+está relacionada con la gran masa de usuarios que consultan estos productos y con las
+
+posibilidades de desarrollo y personalización que brindan muchos de estos proveedores
+
+de servicios geoespaciales. El desarrollo de APIs, permite a los usuarios personalizar sus
+
+mapas, desarrollar entornos de consultas, publicar actividades y servicios, e incrementar
+
+la comunicación con los clientes. Es por ello, que se convierte en una necesidad contar
+
+con un Sistema de Información Geográfica en la Ciudad de Puno, como soporte para la
+
+toma de decisiones, proporcionando información en el momento oportuno.
+
+
+Esta investigación está organizado en cinco capítulos.
+
+
+PRIMERO: comprende el Planteamiento del Problema, Definición del Problema,
+
+Formulación del Problema, Antecedentes de la Investigación, Objetivo General de la
+
+Investigación, Objetivos Específicos de la Investigación.
+
+
+SEGUNDO: comprende el Marco Teórico e Hipótesis de la Investigación.
+
+
+TERCERO: comprende Materiales y Métodos, Variables de la Investigación,
+
+Operacionalizacion de Variables , Metodología referente al tipo y diseño de la
+
+Investigación, Población y Muestra, los Métodos de Recopilación y Tratamiento,
+
+Instrumentos referente al Hardware, Software y Servicios.
+
+
+
+
+                                                                                        3
+CUARTO: comprende los Resultados y Discusión, que básicamente es la Plataforma
+
+Tecnológica, análisis de la Información, Requerimientos Tecnológicos, Implementación
+
+del Sistema realizado con casos de uso, diagrama de secuencia y Diseño de la Base de
+
+Datos.
+
+
+CINCO: se presenta las Conclusiones y Recomendaciones de la Investigación.
+
+
+De acuerdo a las pruebas y encuestas se obtuvo que los pobladores de la ciudad de
+
+puno en sus diversos sectores tanto Educativo, Turístico y Comercial se beneficien del
+
+sistema de Información Geográfico. Se obtuvo como resultado de la Encuesta hechos a
+
+20 clientes y 20 usuarios tenemos un 90% de aceptación y un 10% negación por lo tanto
+
+se llega a la conclusión que el Sistema de Información Geográfica con Interfaz web
+
+optimiza la información de la ciudad de puno.
+
+
+
+
+                                                                                    4
+           CAPITULO I
+
+PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES
+
+     Y OBJETIVOS DE LA INVESTIGACION
+
+
+
+
+                                       5
+1.1   PLANTEAMIENTO DEL PROBLEMA
+
+
+      1.1.1   DEFINICION DEL PROBLEMA
+
+
+              Los sistemas de información se han convertido en herramientas muy efectivas
+
+              de la ingeniería y de las ciencias básicas. Son tres las características que han
+
+              propiciado que los sistemas de información geográficos se estén desarrollando
+
+              en forma considerable y estas características son: el resolver problemas de
+
+              manera eficiente, rápida y oportuna. Los SIG son un tipo especializado de
+
+              sistemas que se distinguen por su capacidad de manejar información
+
+              espacialmente referenciadle y que permiten además su representación gráfica.
+
+
+              La forma de organizar la información en un SIG es fundamental. Dicha
+
+              información puede ser muy variada ya que tomamos en cuenta características
+
+              del mundo real, por lo que podemos tener información tanto de cuerpos y
+
+              figuras regulares que son bien representados por la geometría tradicional o de
+
+              información que no podrán ser representada de manera clara y trivial, si
+
+              tomamos en cuenta que la mayoría de los datos espaciales que representan
+
+              información real no es regular, entonces, tendremos que tener una manera
+
+              eficiente de organizar, manejar y manipular ésta información.
+
+
+              En la actualidad tenemos al alcance herramientas Web Mapping Server y APIs,
+
+              que nos permite a los usuarios personalizar sus mapas, desarrollar entornos de
+
+              consultas, publicar actividades y servicios e incrementar la comunicación entre
+
+              los usuarios brindando información oportuna que es de vital importancia para
+
+              poder realizar estudios, análisis sobre la ubicación, y densidad poblacional como
+
+              lo es de la Ciudad de Puno, utilizando un interfaz web que nos permita la
+
+              factibilidad y usabilidad de dicha información.
+
+
+                                                                                             6
+        1.1.2     FORMULACION DEL PROBLEMA
+
+
+                  ¿En qué medida el Sistema de Información Geográfico con interfaz Web
+
+                  proporciona información confiable de la Ciudad de Puno?
+
+
+
+
+1.2     ANTECEDENTES DE LA INVESTIGACION
+
+
+
+
+        Título:          Aplicación del Sistema de Información Geográfica (SIG) en el
+
+                         modelamiento del río Ucayali
+
+
+        Autor:           Carlos Peña Herrera del Águila
+
+
+        Año:             2012
+
+
+        Conclusión:      El río Ucayali se desplaza en sentido noroeste y noreste, en una
+
+        superficie de pendiente inferior a 1° en el área deforestada, orillares recientes y de
+
+        depósito fluvial y aluvial Qh-al3. Viene socavando al depósito aluvial Qh-al2 y
+
+        ocasionando daños en las periferias de la ciudad de Pucallpa. 1
+
+
+        El mapa de peligros y de los cambios del río Ucayali nos muestran la evolución y el
+
+        estrangulamiento de los meandros Nueva Italia y Nuevo Bagazán. Asimismo, se observa
+
+        el gran avance del río Ucayali hacia la ciudad de Pucallpa a razón de 142 m/año, en
+
+        dirección noroeste y con un crecimiento de sus aguas en su máxima expresión en los
+
+        meses de marzo. Los niveles máximos del río son: 147.28 msnmm (1986), 146.1344
+
+        msnmm (1991), 146.2649 msnmm (1996), 146.7555 msnmm (1997), 146.6723 msnmm
+
+        (1998), 147.318 msnmm (2000), 147.336 msnmm (2001), 147.175 msnmm (2002),
+
+
+1
+ Peña herrera del Águila Carlos (2012). Tesis: Aplicación del Sistema de Información Geográfica (SIG)
+en el modelamiento del río Ucayali.
+URL: http://industrial.unmsm.edu.pe/upg/archivos/libros/meza/SIGcorregido.pdf
+                                                                                                   7
+        146.833 msnmm (2003), 145.592 msnmm (2004), 146.128 msnmm (2005) y 146.947
+
+        msnmm (2006). Como producto de esta crecida se producen los desbordes del agua, las
+
+        inundaciones, etc.
+
+
+        Como resultado se identificaron los centros urbanos y rurales ubicados en las áreas de
+
+        peligro muy alto; donde se producen las variaciones del curso del río; por lo que se
+
+        requiere realizar una propuesta de ordenamiento ambiental que permita organizar el
+
+        territorio y el uso de los recursos naturales.
+
+
+
+
+        Título:          Desarrollo de un Módulo SIG para el manejo de Imágenes Multi-
+
+                         espectrales Orientado a la Agricultura de Precisión.
+
+
+        Autor:           Mario Balcázar Guerrero
+
+
+        Año:             2011
+
+
+        Conclusión:      El software SIG GRASS permite procesar las imágenes adquiridas tanto
+
+        del censado remoto como las imágenes adquiridas desde un satélite. Lo que lo convierte
+
+        en un software lo suficientemente potente para cumplir con los requerimientos de la
+
+        tesis; es decir, la manipulación de imágenes multiespectrales, el cálculo en base a estas
+
+        de un índice vegetativo llamado NDVI y su posterior visualización. 2
+
+
+        El método por el cual se crea una imagen GeoTIFF que integra la información de las
+
+        imágenes multiespectrales adquiridas con sus respectivos datos GPS, permite ingresar
+
+        ambos datos al sistema de información para su posterior manipulación.
+
+
+
+
+2
+ Balcázar Guerrero Mario (2011). Tesis: Desarrollo de un Módulo SIG para el manejo de Imágenes Multi-
+espectrales Orientado a la Agricultura de Precisión.
+URL: http://tesis.pucp.edu.pe/repositorio/handle/123456789/1132
+
+                                                                                                   8
+        El factor NDVI permite diferenciar entre la vegetación sana y otros elementos presentes
+
+        en las imágenes adquiridas, tales como suelo árido o incluso la presencia de zonas
+
+        cubiertas de agua. A través de los comandos y los módulos de GRASS se obtiene la
+
+        información de interés; es decir, los valores NDVI y las coordenadas geográficas
+
+        asociadas a las imágenes analizadas en dicho sistema de manera visual.
+
+
+
+
+        Título:           Análisis, Diseño e Implementación de un Sistema de Información
+
+                          Geográfico Web Turístico.
+
+
+        Autor:           Martínez, G.(1) ; Zambrano, F. (1); Urquizo, J. (2)
+
+
+        Año:             2009 – Guayaquil, Ecuador
+
+
+        Conclusión:      Un SIG es una herramienta poderosa para el modelamiento de datos.
+
+        Puede estar enfocado para el manejo de diferentes tipos de información de acuerdo a
+
+        las temáticas del mismo como pueden ser: análisis de flujos de tránsito, flujo de
+
+        conexiones eléctricas, flujos de tuberías de gas, análisis de impacto ambiental, catastro,
+
+        valoración de terrenos entre otros. 3 “SIG Turístico”, al ser una aplicación Web, está
+
+        diseñada para trabajar bajo cualquier plataforma Windows y solo es necesario instalar
+
+        un software de libre acceso como es java para que funcione correctamente, presentará
+
+        al usuario una guía de referencia a los diferentes puntos de la ciudad donde él lo
+
+        establezca, permitiendo tener un mayor conocimiento de todos los atractivos turísticos,
+
+        así como también podrá obtener una mayor orientación del camino que debe tomar
+
+        hacia estos atractivos o cualquier punto de la misma de acuerdo a los límites de alcance
+
+
+
+
+3
+ Martínez, G.(1) ; Zambrano, F. (1); Urquizo, J. (2) (2009). Tesis: Análisis, Diseño e Implementación de
+un Sistema de Información Geográfico Web Turístico.
+URL: http://www.dspace.espol.edu.ec/handle/123456789/8686
+
+                                                                                                      9
+del prototipo. “SIG Turístico” ha sido realizado pensando en la ciudadanía en general
+
+que desconoce las calles y avenidas para llegar a un determinado lugar, a futuro podría
+
+ser implementado completamente para toda la ciudad de Guayaquil y posteriormente
+
+para otras ciudades principales del Ecuador, esta sería una aplicación muy importante
+
+ya que proyectaría el país internacionalmente.
+
+
+Al ser una aplicación Web está orientada a aquellos usuarios que tienen acceso a una
+
+conexión de Internet y al ser interactivo ya no tendrán que utilizar planos o croquis para
+
+poder ubicar o encontrar alguna dirección. Para que la aplicación llegue a usuarios
+
+extranjeros se debe cambiar su enfoque hacia la tecnología móvil, para hacer esto
+
+posible se debería estudiar el uso de “Geomedia Web Enterprise” el cual permite
+
+visualizar el resultado de los análisis de los mapas en dispositivos móviles. Cabe recalcar
+
+que las características y funcionalidades que se deseen agregar se ven limitadas al valor,
+
+el mismo puede variar tanto en el valor de implementación como en valor de licencias
+
+para nuevas aplicaciones dependiendo del cambio que se vaya a realizar. El
+
+desarrollador debe balancear la relación costo – beneficio con el objeto de que la
+
+aplicación final cubra con las necesidades requeridas. Las herramientas utilizadas para
+
+la elaboración del prototipo brindaron las funcionalidades básicas para captura y edición
+
+de datos espaciales ayudando a completar los objetivos y alcances iniciales del proyecto,
+
+obteniendo como resultado una aplicación muy intuitiva y de fácil uso. La aplicación “SIG
+
+Turístico” fue realizada con “Geomedia WebMap” que es un herramienta comercial,
+
+pero a su vez puede ser elaborada con herramientas libres como por ejemplo
+
+“Mapserver” , con el uso de herramientas libres el valor invertido sería para la
+
+elaboración y mantenimiento, a diferencia de las herramientas comerciales en las que
+
+el valor total incluiría la renovación de licencias, pero el soporte que ofrecen las
+
+herramientas comerciales es mucho mejor que el de una herramienta libre, debido a
+
+que como clientes de una empresa, se tiene acceso a documentos, manuales, o solución
+                                                                                        10
+        de problemas presentados además de que una herramienta comercial viene con más
+
+        características que nos ayudan a enriquecer la aplicación y su programación es mucho
+
+        más abstracta gracias al uso de sus componentes integrados lo cual facilitó que del mapa
+
+        inicial creado en AutoCAD pueda ser acoplado a Geomedia y de esta forma se hizo
+
+        posible su edición y digitalización de las rutas. Turístico es una aplicación SIG cuya
+
+        evolución depende de su facilidad de acceso para llegar a los usuarios, la aplicación
+
+        posee características de búsqueda de calles que van ayudar al usuario a determinar
+
+        mejor su ubicación, ingreso de imágenes a diversas ubicaciones lo cual la hace
+
+        interactiva, además de que es flexible en acoplarse a nuevos sectores digitalizados por
+
+        lo cual su crecimiento no se encuentra limitado. Adaptarla y orientarla a la tecnología
+
+        móvil será un peldaño que habrá que cruzar para obtener un producto que se podría
+
+        explotar comercialmente.
+
+
+
+
+        Título:         Diseño e implementación de mapa interactivo utilizando Web
+
+                        Mapping y base de datos espacial: ciudad de Quevedo.
+
+
+        Autor:          Erazo Moreta, Orlando Ramiro
+
+
+        Fecha:          Julio-2009
+
+
+        Conclusión:     En el Ecuador, las aplicaciones de tipo Web Mapping han tenido acogida
+
+        principalmente en los últimos años sin que la ciudad de Quevedo sea la excepción, en
+
+        donde incluso personas e instituciones que tienen relación con el empleo de los
+
+        Sistemas de Información Geográfica desconocen las bondades que el Web Mapping
+
+        ofrece y el provecho que podrían obtener.4
+
+
+
+4
+ Erazo Moreta, Orlando Ramiro (2009). Tesis: Diseño e implementación de mapa interactivo utilizando
+Web Mapping y base de datos espacial: ciudad de Quevedo.
+URL: http://repositorio.usfq.edu.ec/handle/23000/984
+                                                                                                11
+      En muchos casos, el uso del Web Mapping y/o de una base de datos con capacidad de
+
+      manejo de información espacial, ha estado limitado a grandes empresas debido a los
+
+      gastos requeridos. Esta situación ha empezado a cambiar con el uso de Software Libre,
+
+      que por tener una licencia de comercialización gratuita, permite disminuir
+
+      considerablemente los costos, lo cual no implica que los productos así creados sean de
+
+      mala calidad. No obstante, varias herramientas Open Source presentan como
+
+      desventaja la dificultad para instalarlas y configurarlas. Aprovechando las bondades que
+
+      brinda el software de libre distribución se ha implementado un Mapa Interactivo para la
+
+      ciudad Quevedo basado en el Web, utilizando para ello sistema operativo (Linux Fedora
+
+      Core), servidor Web (Apache), lenguaje de programación (PHP), servidor de mapas
+
+      (MapServer), sistema de gestión de base de datos (PostgreSQL). Estas herramientas han
+
+      proporcionado las funcionalidades necesarias para alcanzar los objetivos planteados.
+
+
+
+
+1.3   OBJETIVOS DE LA INVESTIGACION
+
+      1.3.1   OBJETIVO GENERAL
+
+
+              Desarrollar un Sistema de Información Geográfico con Interfaz Web de la Ciudad
+
+              de Puno.
+
+
+      1.3.2   OBJETIVOS ESPECÍFICOS
+
+
+              -   Analizar los requerimientos para el desarrollo del sistema de Información
+
+                  Geográfico.
+
+              -   Diseñar una Base de Datos Geográfica consistente y capaz de soportar
+
+                  información confiable.
+
+              -   Implementar una Interfaz Web amigable e intuitiva, que le permita al
+
+                  usuario interactuar con el sistema con facilidad.
+
+                                                                                           12
+-   Evaluar las distintas Fases del Sistema de Información Geográfico para
+
+    determinar que estén adecuadamente integradas.
+
+
+
+
+                                                                        13
+      CAPITULO II
+MARCO TEORICO E HIPOTESIS DE LA
+       INVESTIGACION
+
+
+
+
+                                  14
+2.1       BASE TEORICA
+
+
+      2.1.1   DEFINICIONES DE SISTEMA DE INFORMACIÓN GEOGRÁFICO.
+
+                -   Según Burrough (1988) los define como un conjunto de herramientas
+
+                    potentes para recoger, almacenar, recuperar, transformar y mostrar los
+
+                    espaciales del mundo real para unos propósitos particulares. (1)
+
+                -   Una definición semejante es la de Aranoff (1989) que los considera como
+
+                    un sistema informático que permite cuatro grupos de operaciones para
+
+                    manejar     datos    georreferenciados:     entrada,   almacenamiento      y
+
+                    recuperación, manipulación y análisis, y salida. (2)
+
+                -   El Environmental Systems Research Institute Inc (ESRI, 1995) que es la
+
+                    principal empresa que comercializa este tipo de herramientas informáticas,
+
+                    los define como un conjunto organizado de hardware, software y datos
+
+                    geográficos, diseñados específicamente para capturar, almacenar,
+
+                    actualizar, manipular, analizar y mostrar todo tipo de información
+
+                    referenciada geográficamente. (3)
+
+
+
+
+      2.1.2   CONCEPTO DE UN SIG
+
+                El término SIG procede del acrónimo de Sistema de Información Geográfica (en
+
+                inglés GIS, Geographic Information System). Técnicamente se puede definir un
+
+                SIG como una tecnología de manejo de información geográfica formada por
+
+                equipos electrónicos (hardware) programados adecuadamente (software) que
+
+                permiten manejar una serie de datos espaciales (información geográfica),
+
+                Metodología: los procedimientos, técnicas y formas de usar SIG y datos SIG en
+
+                diversos tipos de aplicaciones. Y realizar análisis complejos con éstos siguiendo
+
+
+
+
+                                                                                              15
+los criterios impuestos por el equipo científico (personal). Son por tanto cinco
+
+los elementos constitutivos de un sistema de estas características:
+
+
+                1.       Hardware.
+
+                2.       Software.
+
+                3.       Datos geográficos.
+
+                4.       Metodología.
+
+                5.       Equipo humano.
+
+Aunque todos ellos han de cumplir con su cometido para que el sistema sea
+
+funcional, existen diferencias en cuanto a su importancia relativa. A lo largo del
+
+tiempo, el peso de cada uno de los elementos dentro de un proyecto S.I.G. ha
+
+ido cambiando mostrando una clara tendencia: mientras los equipos
+
+informáticos condicionan cada vez menos los proyectos S.I.G. por el
+
+abaratamiento de la tecnología, los datos geográficos se hacen cada vez más
+
+necesarios y son los que consumen hoy día la mayor parte de las inversiones en
+
+términos económicos y de tiempo. Así, hoy día el condicionante principal a la
+
+hora de afrontar cualquier proyecto basado en SIG lo constituye la
+
+disponibilidad de datos geográficos del territorio a estudiar, mientras que hace
+
+diez años lo era la disponibilidad de ordenadores potentes que permitieran
+
+afrontar los procesos de cálculo involucrados en el análisis de datos territoriales.
+
+
+Pero además de ser un factor limitante, la información geográfica es a su vez el
+
+elemento diferenciador de un Sistema de Información Geográfica frente a otro
+
+tipo de Sistemas de Información; así, la particular naturaleza de este tipo de
+
+información contiene dos vertientes diferentes: por un lado está la vertiente
+
+espacial y por otro la vertiente temática de los datos. Mientras otros Sistemas
+
+de Información (como por ejemplo puede ser el de un banco) contienen sólo
+
+                                                                                 16
+datos alfanuméricos (nombres, direcciones, números de cuenta, etc.), las bases
+
+de datos de un S.I.G. han de contener además la delimitación espacial de cada
+
+uno de los objetos geográficos (Ilustración Nro. 1).
+
+
+
+
+            Ilustración Nro. 1. Diferencia de un SIG
+
+
+
+
+Por ejemplo, un lago que tiene su correspondiente forma geométrica plasmada
+
+en un plano, tiene también otros datos asociados como niveles de
+
+contaminación. Pongamos otro ejemplo para que esto se entienda mejor:
+
+supongamos que tenemos un suelo definido en los planos de clasificación de un
+
+planeamiento urbanístico como "urbanizable". Este suelo urbanizable tiene una
+
+serie de atributos, tales como su uso, su sistema de gestión, su edificabilidad,
+
+etc. Pero es que además, el urbanizable tiene una delimitación espacial concreta
+
+correspondiente con su propia geometría definida en el plano.
+
+
+Por tanto, el SIG tiene que trabajar a la vez con ambas partes de información: su
+
+forma perfectamente definida en plano y sus atributos temáticos asociados. Es
+
+decir, tiene que trabajar con cartografía y con bases de datos a la vez, uniendo
+
+ambas partes y constituyendo con todo ello una sola base de datos geográfica.
+
+
+Esta capacidad de asociación de bases de datos temáticas junto con la
+
+descripción espacial precisa de objetos geográficos y las relaciones entre los
+
+
+                                                                              17
+   mismos (topología) es lo que diferencia a un SIG de otros sistemas informáticos
+
+   de gestión de información.
+
+
+   Para comprender mejor como es que se trabaja en un sistema de información
+
+   geográfico es importante conocer cuáles son los elementos que lo constituyen.
+
+   (4) Un SIG puede llegar a ser visto como una caja negra, ya que manipulan datos
+
+   reales, es decir localización de entidades en un espacio físico. Ilustración Nro. 2.
+
+
+
+
+             Ilustración Nro. 2. Componentes de un SIG
+
+
+
+
+   Un elemento importante en estos sistemas es el almacenamiento de su
+
+   información para la cual se utiliza una Base de Datos, Por lo que podemos
+
+   mencionar que los componentes para dicho sistema son hardware, software,
+
+   datos, las personas y los métodos a utilizar.
+
+
+En conjunto los componentes de un SIG nos permiten:
+
+
+          Representar de manera digital los datos geográficos (adquisición,
+           codificación y almacenamiento).
+
+          Manejar de manera eficiente la codificación, para que permita editar,
+           actualizar, manejar y almacenar los datos.
+
+          Brindar datos eficientes para consultas complejas.
+                                                                                    18
+          Crear formas de salidas compatibles para diferentes usuarios, como
+           puede ser con tablas, gráficas, etc.
+
+A continuación describiremos en detalle los componentes de un SIG.
+
+  a.   Hardware
+
+
+       El Hardware es el equipo sobre la que un SIG opera (estaciones de trabajo,
+
+       terminales, impresoras, plotters y tabletas digitalizadoras). Hoy, los
+
+       software de SIG corren sobre una amplia gama de hardware, desde
+
+       servidores centralizados de computadora a computadoras usadas en
+
+       "stand-alone" o "networked configuration".
+
+  b.   Software
+
+
+       Un software de SIG provee las funciones y las herramientas necesarias para
+
+       almacenar, analizar, y mostrar información geográfica. Los componentes
+
+       claves de software son:
+
+
+                  Herramientas para el aporte y manipulación de información
+                   geográfica.
+
+                  Un sistema de gestión de base de datos (DBMS).
+
+                  Las herramientas que apoyan a preguntas geográficas, análisis y
+                   visualización.
+
+                  Una interfaz gráfica de usuario (GUI) para el acceso fácil a las
+                   herramientas.
+
+
+
+  c.   Datos
+
+
+       Posiblemente el componente más importante de un SIG son los datos. Los
+
+       datos geográficos y los datos tabulares relacionados pueden colectarse
+
+       internamente o comprados con un proveedor comercial de datos. Un SIG
+                                                                                19
+     integrará datos espaciales con los otros recursos de datos y pueden igualar
+
+     su uso con un DBMS, usado por la mayoría de las organizaciones para
+
+     mantener sus datos y para administrar sus datos espaciales.
+
+d.   Las Personas
+
+
+     La tecnología SIG es de un valor limitado sin la gente que maneje el sistema
+
+     y desarrolle aplicaciones para el mundo real, ya que sin ellos esto no podría
+
+     ser posible. Entre los usuarios de SIG oscilan especialistas técnicos quienes
+
+     diseñan y mantiene el sistema. También la participación de especialistas en
+
+     muchas áreas, una de ellas: Geomática.
+
+e.   Los métodos
+
+
+     Un SIG exitoso opera bajo un buen plan de diseño y reglas comerciales, los
+
+     cuales son los modelos y operaciones prácticas únicas de cada
+
+     organización. Que como ya fue mencionado antes, es donde se piensa en
+
+     la forma de los datos y lo que se puede realizar con ellos (su manipulación),
+
+     como pueden ser las consultas. Esto se debe a la gran utilidad en uso de los
+
+     sistemas de información geográfico para la toma de decisiones por lo que
+
+     es importante analizar antes un ejemplo. Supongamos que queremos
+
+     movilizarnos de un punto en la ciudad a otro o que queremos saber cuáles
+
+     son las ciudades más cercanas a cierto punto dado y que cuenten con
+
+     servicio telefónico. Los resultados serán mostrados en pantalla y
+
+     dependiendo de las respuestas que nos otorgue el sistema serán las
+
+     decisiones que se tomen. Ahora bien, la información que nos genere el
+
+     sistema de información geográfico es detallada y por lo cual puede no ser
+
+     utilizada de manera inmediata, y es aquí donde entran los sistemas tipo
+
+
+
+
+                                                                               20
+              consulta que nos ayudan a dar una respuesta más concreta de la
+
+              información.
+
+
+2.1.3   COMO TRABAJA UN SIG
+
+          Un SIG almacena información sobre el mundo como un recaudo de capas
+
+          temáticas que pueden ser vinculadas junto con la geografía. Este simple pero
+
+          sumamente poderoso y versátil concepto ha sido probado para resolver muchos
+
+          problemas del mundo real, desde investigar los vehículos de entrega, para
+
+          grabar detalles de aplicaciones de planeación, para modelar la climatología (5).
+
+          En manejo de capas puede ser visto en la Ilustración Nro. 3.
+
+
+
+
+                          Ilustración Nro. 3. Concepto de capas
+
+
+
+2.1.4   CARACTERÍSTICA DE UN SIG
+
+          Los SIG poseen características técnicas que los distinguen de otros sistemas de
+
+          información y permiten definirlos con mayor claridad y precisión. (6)
+
+
+          Permiten organizar la información geográfica en capas. Los SIG modelan el
+
+          espacio geográfico en conjuntos de datos denominados "capas de información".
+
+          Cada una de estas capas corresponde a un aspecto particular del espacio (por
+
+                                                                                       21
+ejemplo: usos del suelo, predios, edificaciones, etc.) y están georreferenciadas
+
+en un mismo sistema de coordenadas, lo que permite su visualización y
+
+tratamiento en forma conjunta. Esta manera de organizar los datos geográficos
+
+permite, al usuario de un SIG, seleccionar sólo la información del espacio
+
+geográfico que le interesa y trabajar con ella, prescindiendo del resto de los
+
+datos del modelo, para agilizar la obtención de los resultados (Ilustración Nro.
+
+4).
+
+
+
+
+                   Ilustración Nro. 4. Organización de un SIG
+
+
+
+
+Las capas de información pueden ser representaciones puntuales, lineales o
+
+superficiales de los elementos de la realidad (como el caso de los mapas
+
+tradicionales) o bien, otro tipo de representaciones como las fotografías aéreas,
+
+las imágenes satelitales y los modelos digitales de elevación (MDE).
+
+
+Permiten almacenar información descriptiva de los elementos geográficos.
+
+Esta característica es exclusiva de los SIG y los diferencia de otros tipos de
+
+sistemas. Los SIG combinan y administran de manera integrada información
+
+geográfica (planos, mapas, fotografías, dibujos, etc.) y alfanumérica
+
+(direcciones, propietarios, avalúos, etc.).
+
+
+
+                                                                              22
+Este modelo de datos permite desarrollar aplicaciones en las que se puede
+
+ubicar geográficamente un elemento buscado en la base de datos alfanumérica
+
+o bien, consultar la información alfanumérica de un elemento geográfico
+
+seleccionado sobre un mapa. La administración integrada de datos gráficos y
+
+alfanuméricos hace que, en una base de datos SIG, cada elemento gráfico (que
+
+modela algún objeto geográfico de la realidad) posea información descriptiva en
+
+los registros de las tablas de atributos de la base de datos, existiendo de esta
+
+manera una relación entre elementos gráficos y registros alfanuméricos.
+
+
+Permiten analizar espacialmente los datos. La posibilidad de analizar
+
+espacialmente los datos es una de las características sobresalientes de los SIG.
+
+Las consultas espaciales, que deben considerar los datos de ubicación u otros
+
+datos cartográficos de los elementos consultados para poder obtener las
+
+respuestas, sólo pueden resolverse adecuadamente con un SIG. Este tipo de
+
+análisis no sólo considera consultas y procesos espaciales sobre una capa de
+
+datos, sino también la realización de operaciones conjuntas entre distintas
+
+capas a fin de obtener "nuevos conjuntos de información" que antes no eran
+
+"visibles".
+
+
+Permiten generar y almacenar datos topológicos. Permiten generar y
+
+almacenar datos de relaciones espaciales entre los elementos geográficos. La
+
+identificación de este tipo de relaciones y su almacenamiento posibilita la
+
+realización eficiente de análisis geográficos especiales.
+
+
+Permiten integrar datos de distintas fuentes. Permiten integrar datos de
+
+fuentes tales como mapas digitales en otros formatos, fotografías aéreas,
+
+imágenes satelitales, archivos de datos GPS, archivos provenientes de
+
+levantamientos topográficos, bases de datos corporativas, etc.
+                                                                             23
+2.1.5   BASE DE DATOS EN LOS SIG
+
+        Un aspecto fundamental dentro de los sistemas SIG es la forma de almacenar la
+
+        información. Si bien en el inicio de estos sistemas era habitual que la gestión de
+
+        esta información se realizara mediante programas propios, la tendencia actual es
+
+        la de desligar el producto SIG del gestor de la base de datos utilizado, de forma que
+
+        sea posible utilizar cualquiera de los productos que para este fin existen en el
+
+        mercado.
+
+
+        Las bases de datos de los SIG contienen datos gráficos y alfanuméricos, integrados
+
+        para formar una completa fuente de información. La exactitud y el nivel de
+
+        resolución son elementos importantes en el desarrollo de una base de datos de un
+
+        SIG, y vienen determinados por el uso al que vaya destinado el sistema. Así, un SIG
+
+        diseñado para aplicaciones de ingeniería requerirá, en general, un alto nivel de
+
+        exactitud y una gran resolución. Sin embargo, sistemas pensados para
+
+        planificaciones o análisis parcelarios no requieren ese alto nivel de exactitud y
+
+        detalle, sobre todo teniendo en cuenta que el precio de una base de datos gráfica
+
+        aumenta exponencialmente cuando se incrementa el nivel de resolución. Ambos
+
+        aspectos, coste y nivel de detalle, deben ser analizados cuidadosamente con objeto
+
+        de optimizar el diseño de una base de datos para un Sistema de Información
+
+        Geográfica.
+
+
+        La generación de la base de datos inicial incluye la captura e integración de datos
+
+        que generalmente proceden de fuentes diversas. Estas fuentes a menudo
+
+        presentan diferentes escalas y formatos que deben ser unificados.
+
+
+        Una base de datos completamente integrada requiere unas entidades de control y
+
+        referencia a las que se deben ajustar otras entidades que se incorporan en las
+
+        distintas capas de la BD.
+                                                                                          24
+        Cada una de las capas y entidades tienen una serie de características que influirán
+
+        en el desarrollo de la BD inicial, en los procesos de mantenimiento y en las
+
+        aplicaciones en las que vayan a ser utilizadas.
+
+
+2.1.6   REFERENCIAS GEOGRÁFICAS
+
+           SISTEMA DE COORDENADAS GEOGRÁFICAS
+
+
+           En la actualidad, los mapas utilizan dos tipos principales de sistemas de
+
+           coordenadas: coordenadas geográficas y coordenadas UTM. El sistema de
+
+           coordenadas geodésicas se utiliza principalmente para representaciones
+
+           geográficas muy extensas – continentes, el mundo entero – globos terráqueos,
+
+           atlas, pasos de satélite etc. Sin embargo, al no ser rectas ni tener una separación
+
+           constante, estas coordenadas no pueden ser reproducidas en ninguna forma de
+
+           proyección. Además, no es conveniente para usos técnicos, ya que dificulta el
+
+           proceso de medir distancia, área y dirección. Por eso, se han buscado sistemas
+
+           diferentes, que permitan el uso de líneas rectas que se corten
+
+           perpendicularmente (p.ej.: sistema UTM).
+
+
+           Las coordenadas geográficas, o coordenadas geodésicas, pueden considerarse
+
+           como coordenadas esféricas: señalan la posición en grados y minutos (y
+
+           segundos) sobre una superficie esférica a lo largo de paralelos (Latitudes N y S)
+
+           y meridianos (Longitudes O y E). Es el más antiguo y universal de los sistemas de
+
+           referencia (Ilustración Nro. 5).
+
+
+
+
+                                                                                           25
+        Ilustración Nro. 5. Sistema de coordenadas geográficas
+
+
+
+
+DATUM GEODÉSICO
+
+
+El geoide es la superficie de referencia que se utiliza en la geodesia. Es un
+
+modelo ideal de la superficie terrestre en ausencia de montañas (toda la
+
+superficie a nivel de mar).
+
+
+Técnicamente define la superficie donde la gravedad equivale la del nivel del
+
+mar, un poco más en el ecuador, un poco menos en los polos, o sea, en forma
+
+de un elipsoide. Los instrumentos tradicionales de geodesia y navegación
+
+utilizan esta característica para situar la posición sobre la superficie terrestre
+
+(Ilustración Nro. 6).
+
+
+
+
+                        Ilustración Nro. 6. Datum geodésico
+
+
+                                                                               26
+                 Desgraciadamente, el geoide no es tan regular como parece a primera vista. El
+
+                 material de los fondos oceánicos es más pesado que el de los continentes, las
+
+                 montañas producen cambios en el balance isostático etc. Por ello, la geodesia
+
+                 moderna utiliza elipsoides abstractos, que son aproximaciones con una forma
+
+                 mucho más regular. Existen muchos elipsoides diferentes; normalmente se elige
+
+                 el modelo que mejor se ajusta al área de interés. En Europa utilizamos el
+
+                 elipsoide “International 1924”5 (Ilustración Nro. 7).
+
+
+
+
+                            Ilustración Nro. 7. Elipsoide llamado "internacional 1924"
+
+
+
+
+                 El datum define el elipsoide de referencia y la distancia entre elipsoide y geoide.
+
+                 La mayoría de los datums (hay centenares) no intentan describir la superficie de
+
+                 la tierra entera, sino solo una parte local. En España utilizamos el datum
+
+                 “Europeo 50” o “ED50”.
+
+
+                 En cambio, el datum WGS (World Geodetic System) sí intenta describir la
+
+                 superficie entera de la tierra. El WGS es especialmente adecuado para sistemas
+
+                 que no utilizan la gravedad para localizar la posición, como es el GPS. El utilizado
+
+                 (por defecto) en un GPS es el WGS84.
+
+
+5
+ El elipsoide Hayford también se conoce como el elipsoide internacional de 1924 después de haber sido
+aprobado por la Unión Internacional de Geodesia y Geofísica UIGG en 1924.
+                                                                                                    27
+2.1.7   SISTEMAS DE POSICIONAMIENTO GLOBAL (GPS)
+
+          NAVSTAR GPS
+
+
+          El Sistema de Posicionamiento Global Navstar (Navstar Global Positioning
+
+          System), o GPS, es una solución innovadora al problema de conocer nuestra
+
+          ubicación exacta en el planeta. Navstar consiste en una constelación de más de
+
+          24 satélites en órbita sobre la tierra que de manera continua transmiten
+
+          información que permite el geo-posicionamiento de objetos.
+
+
+          Esta información ha de ser recibida por receptores de GPS para identificar
+
+          coordenadas sobre la tierra con una precisión determinada. El sistema fue
+
+          desarrollado por el Departamento de Defensa de EE.UU. para aplicaciones
+
+          militares, pero también está disponible para uso civil (Ilustración Nro. 8).
+
+
+
+
+               Ilustración Nro. 8. Sistemas de posicionamiento global (GPS)
+
+
+
+
+          Estos receptores utilizan el principio geométrico de la triangulación para
+
+          determinar su posición. El receptor determina la distancia a la que se encuentra
+
+          en relación a 1 o más satélites de la constelación Navstar. La distancia a un
+
+          satélite reduce las posibilidades de encontrarse en el universo a una esfera de
+
+          radio la distancia y centro el satélite. La intersección de tan sólo tres de estas
+
+                                                                                         28
+          esferas ya produce un punto en la superficie terrestre, y la precisión de esta
+
+          localización aumenta con el número de satélites utilizados. Los receptores GPS
+
+          miden las distancias mediante señales de radio y relojes muy precisos.
+
+
+          Tanto el receptor como los satélites generan códigos exactamente al mismo
+
+          tiempo. El GPS compara los códigos recibidos con el que ha generado y,
+
+          conociendo la velocidad de las ondas, calcula las distancias a partir del tiempo
+
+          de desfase.
+
+
+2.1.8   DIGITALIZACIÓN DE INFORMACIÓN GEOGRÁFICA
+
+          Además de la georreferenciación de imágenes ráster, la creación de nueva
+
+          cartografía digital puede realizarse de varias maneras:
+
+
+                  1.      Importación de puntos tomados con el GPS. La creación de la
+
+                          capa vectorial se realiza a través de un fichero de texto con las
+
+                          coordenadas de sus elementos.
+
+
+                  2.      Digitalización con el ratón en pantalla sobre una imagen de
+
+                          satélite, fotografía aérea o cualquier otra cartografía base. De
+
+                          este modo puede digitalizarse el recorrido de un río, de una
+
+                          carretera, u otros objetos visibles a la escala de trabajo.
+
+
+                  3.      Digitalización con un ratón con punto de mira (puc) sobre un
+
+                          mapa montado en una tableta de digitalización. La tableta es el
+
+                          dispositivo ideal para la digitalización de mapas impresos y la
+
+                          creación de coberturas grandes o complejas.
+
+
+
+
+                                                                                        29
+2.1.9   PUNTOS, ARCOS Y POLÍGONOS
+
+          Puntos: El punto es el elemento más básico, que por definición no tiene
+
+          extensión (árbol, nido, estación meteorológica). Otra función de los puntos es
+
+          constituir el localizador de las etiquetas o anotaciones (en muchos programas,
+
+          también cada polígono debe llevar un punto en su interior).
+
+
+          Arcos: Un arco consiste en una serie de vértices interconectados por segmentos
+
+          rectos. Los vértices de los extremos son los nodos. Dos arcos no pueden cruzarse
+
+          y solo pueden unirse mediante los nodos, formando así una red. Para conectar
+
+          dos arcos en un punto no previsto inicialmente, hay que romper el arco en el
+
+          punto de intersección y crear así un nuevo nodo.
+
+
+          Polígonos: Un polígono está constituido por uno o más arcos (poli líneas),
+
+          perfectamente cerrados, formando así un área. Los polígonos adyacentes están
+
+          separados por un solo arco (comparten un arco). Los polígonos pueden tener
+
+          otros polígonos en su interior (polígonos isla). Durante la edición de los arcos
+
+          suele perderse la información topológica de los polígonos, por lo que debe
+
+          reconstruirse la topología al finalizar la edición (Ilustración Nro. 9).
+
+
+
+
+                            Ilustración Nro. 9. Puntos, arcos y polígonos
+
+
+
+
+                                                                                       30
+2.1.10   MODOS DE DIGITALIZACIÓN
+
+           Existen dos métodos para digitalizar líneas y polígonos: Modo de puntos (Point
+
+           mode) y modo de flujo (Stream mode). El Point mode pone vértices solamente
+
+           como respuesta a un click del ratón. El Strean mode, por el contrario, pone
+
+           vértices de forma continua durante el movimiento del ratón manteniendo el
+
+           botón apretado (ver Weed tolerance más abajo).
+
+
+           Normalmente se digitaliza en Point mode, dando un click con el ratón para
+
+           marcar cada vértice. Los objetos muy curvados requieren más densidad de
+
+           vértices que los objetos rectos. Las líneas muy largas se digitalizan mejor en
+
+           Stream mode, sin tener que apretar el botón para cada uno de los vértices.
+
+
+
+
+2.1.11   TOLERANCIA
+
+           Se distinguen tres tipos de tolerancia que tienen importancia a la hora de
+
+           controlar la precisión de la digitalización (en pantalla y en tableta), y de la
+
+           selección de objetos a editar:
+
+
+                     Distancia de selección (Selection tolerance): Determina a que distancia
+
+                      se puede seleccionar un objeto con el ratón (Ilustración Nro.10).
+
+
+
+
+                                 Ilustración Nro. 10. Distancia de selección
+
+                      Distancia entre vértices de una línea (Weed tolerance): Determina la
+
+                       densidad de vértices en una línea, es decir, la distancia entre dos
+
+                       vértices consecutivos. Sólo afecta durante la digitalización en modo
+                                                                                          31
+                    Stream, donde se crea un flujo continuo de vértices en un intervalo de
+
+                    tiempo de forma automática mientras se desplaza el ratón sobre el
+
+                    mapa (Ilustración Nro.11).
+
+
+
+
+                            Ilustración Nro. 11. Distancia entre vértices
+
+                  Distancia de fusión de nodos (Snap tolerance): Determina la distancia
+
+                   dentro de la cual los nodos se fusionan automáticamente con otros
+
+                   nodos. Es importante para poder unir arcos y cerrar los polígonos. Si la
+
+                   tolerancia es demasiado pequeña (distancia corta) es muy difícil acercar
+
+                   los nodos lo suficiente para que se unan, y si la tolerancia es demasiado
+
+                   grande los nodos pueden resultar fusionados con otros nodos no
+
+                   deseados (Ilustración Nro.12).
+
+
+
+
+                            Ilustración Nro. 12. Distancia de fusión de nodos
+
+
+
+2.1.12   MODELO VECTOR Y RASTER
+
+           Los sistemas geográficos de información trabajan con dos tipos diferentes de
+
+           modelos geográficos --"El vector" y "El raster". En el primero, la información se
+
+           trabaja sobre puntos, líneas, y polígonos son codificados y almacenados como
+
+           una colección de coordenadas x, y. La ubicación de un punto, puede ser descrito
+
+           por una única coordenada x, y. Los aspectos lineales, tales como caminos y los
+                                                                                         32
+ríos, pueden almacenarse como una colección de coordenadas de punto. Los
+
+aspectos poligonales, tales como el río y territorios, pueden almacenarse como
+
+un bucle cercano de las coordenadas. El modelo "vector" es sumamente útil
+
+para describir aspectos discretos, pero menos útiles para describir aspectos
+
+continuos variando aspectos tales como: accesibilidad o tipo de suelo,
+
+superficies territoriales. (7)
+
+
+El modelo "raster" ha evolucionado para modelar tales aspectos continuos. En
+
+un modelo raster la imagen comprende una recopilación de celdas más bien
+
+como un barrido en un mapa. Ambos modelos "El vector" y "El raster" son útiles
+
+para almacenar datos geográficos aunque tienen ventajas y desventajas. Las
+
+aplicaciones de SIG modernas son capaces de manejar ambos modelos. Un
+
+aspecto de cómo son representados gráficamente puede verse en la Ilustración
+
+Nro.13.
+
+
+
+
+                  Ilustración Nro. 13. Modelo raster y vectorial
+
+
+
+Son dos modelos o formatos muy diferentes, que se distinguen por su manera
+
+de almacenar los objetos geográficos (la base de datos geográfica), su manera
+
+de almacenar los atributos de estos objetos (la información temática) y en
+
+segundo lugar por su apariencia. (8)
+
+
+                                                                           33
+En el formato vectorial, la información del mundo real es representada por los
+
+puntos y líneas que definen sus límites o fronteras, estableciendo un sistema de
+
+coordenadas para localizar cada objeto (Ilustración Nro.14).
+
+
+
+
+     Ilustración Nro. 14. Forma de representa objetos espaciales
+
+
+
+
+Un punto es representado por un par de coordenadas (X,Y); una línea es un
+
+conjunto de coordenadas que corresponden a sus vértices (X1Y1; X2Y2; X3Y3....)
+
+y un área, o sea un polígono es una línea cerrada, y rellena. En el formato ráster,
+
+el espacio está representado por un conjunto de celdas adyacentes llamadas
+
+pixels, que representan las unidades de información espacial. Estas establecen
+
+su localización por un sistema de referencia en filas y columnas, acompañado
+
+por la extensión del mapa y el tamaño de la celda. Los píxeles en realidad no
+
+mantienen una relación mutua entre sí. En la cobertura de tipo ráster, cada
+
+celda tiene un valor o código asignado, correspondiente al tipo de información
+
+temática que representa la celda (Ilustración Nro.15).
+
+
+
+
+                                                                                34
+                  Ilustración Nro. 15. Almacenaje del atributo en el sistema raster
+
+
+
+
+           Esto es diferente en el formato vectorial, en el que cada objeto representa una
+
+           unidad homogénea de información, con una topología que define sus relaciones
+
+           con los demás objetos de la cobertura temática (en el caso de superficies
+
+           compuestas por polígonos adyacentes o de líneas que forman una red). La
+
+           asignación de atributos en el formato vectorial se realiza a través de o tabla de
+
+           atributos asociada a la cobertura vectorial, en la cual un identificador conecta el
+
+           objeto con su registro en dicha Ilustración 16.
+
+
+
+
+                 Ilustración Nro. 16. Almacenaje del atributo del sistema vectorial
+
+
+
+2.1.13   VENTAJAS Y DESVENTAJAS FORMATO RASTER Y VECTOR.
+
+           El modelo de SIG ráster o de retícula se centra en las propiedades del espacio
+
+           más que en la precisión de la localización. Divide el espacio en celdas regulares
+
+           donde cada una de ellas representa un único valor. Cuanto mayor sean las
+
+
+                                                                                           35
+dimensiones de las celdas menor es la precisión o detalle en la representación
+
+del espacio geográfico (resolución). En el caso del modelo de SIG vectorial, el
+
+interés de las representaciones se centra en la precisión de localización de los
+
+elementos sobre el espacio y donde los fenómenos a representar son discretos,
+
+es decir, de límites definidos.
+
+
+Los SIG vectoriales son más populares en el mercado. No obstante, los SIG ráster
+
+son muy utilizados en estudios que requieran la generación de capas continuas,
+
+necesarias en fenómenos no discretos; también en estudios medioambientales
+
+donde no se requiere una excesiva precisión espacial (contaminación
+
+atmosférica, distribución de temperaturas, localización de especies marinas,
+
+análisis geológicos, etc.).
+
+
+El método de almacenamiento de datos vectoriales permite que se almacenen
+
+los datos en un espacio mínimo. Mucho menos memoria es necesaria para
+
+almacenar solo unas coordenadas y la información sobre su ”relleno“ en
+
+comparación con una cobertura compuesta por píxeles, que repite el código en
+
+cada celda. Además, si la unidad geográfica (la forma de los objetos) es idéntica
+
+en mapas de distintos temas, se almacena toda la información temática en una
+
+misma tabla. Naturalmente se puede visualizar solo un tema a la vez.
+
+
+Por ejemplo: Los datos espaciales son polígonos que representan parcelas
+
+(=unidad geográfica) de bosque. La tabla contiene información temática, por
+
+campos: especie dominante, su edad, último año de planteamiento, tipo de
+
+tratamiento fitosanitario,
+
+
+
+
+                                                                              36
+En el formato ráster, aunque las parcelas tienen la misma extensión, esta misma
+
+información (3 temas) requiere 3 coberturas – cada píxel puede almacenar un
+
+solo código, que representa o el año, o el código de la especie.
+
+
+Así es el formato vectorial él más adecuado a la hora de almacenar y tratar
+
+grandes bases de datos relacionadas con las mismas unidades espaciales
+
+(municipios, parcelas). Otro lado fuerte del formato vectorial es que las
+
+estructuras lineales realmente son continuas, lo que permite hacer análisis de
+
+redes. Además, el formato vectorial se asemeja más a lo que conocemos de la
+
+cartografía tradicional. El mapa de salida es más nítido, se puede poner a los
+
+polígonos un borde negro para resaltar los colores del relleno, es más fácil
+
+colocar etiquetas con los nombres de los objetos.
+
+
+El formato ráster está limitado en la presentación de puntos y líneas, que por
+
+definición no tienen extensión (punto) o anchura (línea). En el formato ráster
+
+obtienen automáticamente una extensión – la que corresponde al tamaño del
+
+píxel. Sin embargo muchos temas que son importantes en ecología varían de
+
+forma continua: Por ejemplo la altitud, la temperatura, la precipitación, la
+
+densidad de la vegetación, el riesgo de incendio forestal o la probabilidad de
+
+encontrar la especie X en un sitio dado. Estos temas encuentran una
+
+representación más operativa en el formato ráster. Además, esta estructura
+
+ráster matricial es muy similar a la arquitectura digital del ordenador y por tanto
+
+más rápida en cálculos matemáticos combinando mapas de distintos temas. Por
+
+lo tanto el formato ráster tiene mucho más potencial analítico en ecología que
+
+el formato vectorial. Además es el mismo formato de las imágenes de satélite y
+
+fotos aéreas (digitales), con lo cual pueden ser incorporadas y tratadas en un SIG
+
+fácilmente.
+
+                                                                                37
+En resumen, el sistema vectorial predomina donde el objetivo es analizar
+
+movimientos a través de una red, operar con una extensa base de datos o
+
+plotear mapas en alta calidad. En cambio, el sistema ráster se orienta más a
+
+operaciones analíticas en SIG y al tratamiento de imágenes de satélite. Cada
+
+sistema tiene sus ventajas e inconvenientes, de hecho se trabaja con ambos
+
+formatos aprovechando las ventajas de los dos (Ilustración Nro. 17-19).
+
+
+
+
+     Ilustración Nro. 17. Ejemplo de ambos modelos raster y vectorial
+
+
+
+
+        Ilustración Nro. 18. Raster: modelo digital del terreno (MDT)
+
+
+
+
+                                                                          38
+                            Ilustración Nro. 19. Vector: curvas de nivel
+
+2.1.14   TAREAS DE UN SIG
+
+           El propósito general de un sistema de información geográfico es esencialmente
+
+           desempeñar seis procesos o tareas:
+
+               1. Entrada
+
+
+                  Antes de que los datos geográficos puedan usarse en un SIG, los datos
+
+                  deben convertirse en un formato digital apropiado. El proceso de
+
+                  convertir datos desde el papel hasta los archivos de computadora se
+
+                  llama digitalización. Un SIG puede automatizar este proceso totalmente
+
+                  para proyectos grandes usando la exploración de tecnologías; los
+
+                  trabajos menores pueden requerir alguna digitalización manual (usando
+
+                  una tabla digitalizadora). Hoy muchos tipos de datos geográficos ya
+
+                  tienen formatos compatibles con SIG. Estos datos pueden obtenerse
+
+                  desde suministradores de datos y cargados directamente en un SIG
+
+                  (Ilustración Nro. 20).
+
+
+
+
+                                  Ilustración Nro. 20. Tareas de un SIG: entrada
+
+                                                                                     39
+2. La Manipulación
+
+
+   Es probable que los tipos de datos requeridos de un SIG en particular
+
+   necesiten ser transformados o manipulados de alguna manera para
+
+   hacerlos compatibles con su sistema. Por ejemplo, la información
+
+   geográfica es disponible a escalas diferentes (la calle detallada con
+
+   líneas centrales; menos detalles en sus límites; y códigos postales a un
+
+   nivel regional). Antes que ésta información pueda integrarse, debe
+
+   transformarse a la misma escala (grado de detalle o exactitud). Esto
+
+   podría ser una transformación temporal para los propósitos de
+
+   exhibición o una requisición permanente para un análisis. Un SIG ofrece
+
+   muchas herramientas para manipular datos espaciales y para
+
+   deshacerse de datos innecesarios.
+
+
+
+
+3. El Almacenamiento
+
+
+   Para un SIG pequeño proyectar puede ser suficiente para almacenar
+
+   información geográfica en archivos simples. Sin embargo, cuando los
+
+   volúmenes de datos llegan a ser grandes y el número de los usuarios es
+
+   más de uno, es mejor usar una base de datos (DBMS) para ayudar a
+
+   almacenar, organizar, y administrar dichos datos. Un DBMS es nada más
+
+   para administrar la base de datos.
+
+
+   Hay muchos diseños diferentes de DBMS, pero en SIG el diseño
+
+   relacional ha sido el más útil. En éste, los datos se almacenan
+
+   conceptualmente como una colección de tuplas, Los campos comunes
+
+   en las tuplas diferentes se usan para vincularlos. Este diseño
+
+
+                                                                        40
+     sorprendentemente simple es ampliamente usado primeramente a
+
+     causa de su flexibilidad y despliegue muy amplio en las aplicaciones
+
+     tanto fuera como dentro de un SIG (Ilustración Nro. 21).
+
+
+
+
+   Ilustración Nro. 21. Funciones de un SIG: manejo y administración
+
+
+
+4. Las preguntas y Análisis
+
+
+   Una vez que se tiene en funcionamiento un SIG, se puede comenzar a
+
+   pedir preguntas simples tales como:
+
+
+            ¿Cuál es la distancia entre dos lugares?
+
+            ¿Dónde está una zona de tierra disponible para construcción?
+
+             Preguntas analíticas tal como:
+
+            ¿Dónde se encuentran los sitios apropiados para construir casas
+             nuevas?
+
+            ¿Si construyo una nueva carretera aquí, como afectaría ésta
+             zona?
+
+     Un SIG provee consultas point-and-click y sofisticadas herramientas de
+
+     análisis para proveer información oportuna a gerentes y analistas. Un
+
+                                                                         41
+SIG realmente viene en sus propios usos para analizar datos geográficos
+
+para utilizar modelos y tendencias. Un SIG actual tiene muchas
+
+herramientas analíticas poderosas, la cual nos permite una utilización
+
+más amigable y una utilización más eficiente de la información
+
+(Ilustración Nro. 22).
+
+
+
+
+    Ilustración Nro. 22 Funciones de un SIG: las preguntas y el análisis
+
+
+Otro tipo de análisis espacial es el de proximidad. Algunas preguntas de
+
+análisis de proximidad son las siguientes:
+
+
+       ¿Cuántas casas se encuentran alrededor de 100 m de este
+        punto?
+
+       ¿Qué es el número total de clientes alrededor de 1 km de este
+        almacén?
+
+Para contestar tales preguntas, ésta tecnología usa un proceso llamado
+
+buffering que es mostrado en la Figura como una línea gruesa que se
+
+
+
+
+        Ilustración Nro. 23. Ejemplo: buffering
+
+                                                                     42
+       sobrepone a la línea roja, y que determina la proximidad entre objetos
+
+       espaciales (Ilustración Nro. 23).
+
+
+
+5. Sobre el Análisis
+
+
+    La integración de las diferentes capas de datos que involucra un proceso es
+
+    llamado overlay, como el mostrado en la Figura, en donde se ven
+
+    involucradas varias capas sobre una superficie inicial. Esto podría ser una
+
+    operación visual, pero las operaciones analíticas requieren uno o más capas
+
+    de datos para ser unidas físicamente. Este overlay, o unión espacial, pueden
+
+    integrar datos sobre suelos, inclinaciones, y vegetación, o titularidad
+
+    terrestre con la evaluación impositiva (Ilustración Nro. 24).
+
+
+
+
+         Ilustración Nro. 24. Ejemplo sobre análisis: overlay o unión espacial
+
+
+
+6. La Visualización
+
+
+   Para muchos tipos de operaciones geográficas el resultado es tener
+
+   visualizado un mapa o diagrama. Los mapas son muy eficientes para
+
+   almacenar y comunicar la información gráfica. Mientras los cartógrafos han
+
+   creado mapas por milenios, un SIG provee nuevas herramientas excitantes
+
+   para extender el arte y ciencia de la cartografía. Combinar exhibiciones para
+
+                                                                             43
+               poder integrarse con informes, vistas tridimensionales, imágenes
+
+               fotográficas, y otros, tales como datos multimedia.
+
+
+2.1.15   OBTENCIÓN DE DATOS
+
+           ¿Cómo combinar los datos que se necesitan de un mapa?
+
+
+           Si no se está relacionado con los datos de un mapa, piense primero como le
+
+           gustaría usar esos datos. Muchas de las necesidades de un proyecto se
+
+           encuentran siguiendo los tipos comunes de datos de un mapa. Entonces al
+
+           explorar estos nexos se puede aprender más sobre los datos de nos ofrecen los
+
+           mapas. Algunos tipos de mapas son explicados a continuación.
+
+
+           Mapas Base--Incluyen calles y carreteras; los límites para un censo, áreas
+
+           postales y políticas; los ríos y lagos; estacionamientos y parques; y mapas raster
+
+           USGS (Ilustración Nro. 25).
+
+
+
+
+                               Ilustración Nro. 25. Mapa base.
+
+
+
+           El Negocio de Mapas y Datos--Incluye datos relacionados con censo
+
+           /demográficos, los productos de consumo, servicios financieros, salud pública,
+
+           bienes raíces, telecomunicaciones, la preparación de emergencia, crimen,
+
+           publicidad, establecimientos de negocio, y el transporte (Ilustración Nro. 26).
+
+
+
+                                                                                          44
+             Ilustración Nro. 26 Mapa para uso comercial
+
+
+
+
+Los Mapas Ambientales y Datos--Incluye datos relativos al ambiente, riesgo
+
+ambiental, imágenes de satélite, topografía, y recursos naturales (Ilustración
+
+Nro. 27).
+
+
+
+
+            Ilustración Nro. 27. Mapa para uso ambiental.
+
+
+
+Mapas Generales--Mapas mundiales y de países y datos que pueden ser una
+
+fundación para una base de datos (Ilustración Nro. 28).
+
+
+
+
+                  Ilustración Nro. 28. Mapa general.
+
+                                                                           45
+2.1.16   TECNOLOGÍAS RELACIONADAS
+
+           Los SIG son estrechamente relativos a otros tipos de sistemas de información,
+
+           pero es el que tiene capacidad para manipular y analizar datos geográficos que
+
+           coloca la tecnología de un SIG aparte. Aunque no hay reglas específicas sobre
+
+           como clasificar la información, la discusión siguiente debería ayudar a
+
+           diferenciar un SIG desde desktop mapping, el diseño asistido por computadora
+
+           (CAD), un DBMS, y los sistemas de ubicación de puntos (GPS).
+
+           1. "Desktop Mapping"
+
+
+              Un sistema "desktop mapping" usa la metáfora de mapa para organizar sus
+
+              datos y la interacción con el usuario. El foco de tales sistemas es la creación
+
+              de mapas: el mapa es la base de datos. Los sistemas desktop mapping tienen
+
+              gestión de datos más limitados, el análisis espacial. Desktop mapping traza
+
+              sistemas que operan sobre computadoras tales como: computadoras
+
+              personales, Mac´s, y UNIX las estaciones de trabajo.
+
+           2. CAD
+
+
+              Estos sistemas han evolucionado para crear diseños y planos de edificios e
+
+              infraestructura. Esta actividad requirió que los componentes de
+
+              características fijos se armaran a una estructura entera. Estos sistemas
+
+              requieren de pocas reglas que especifiquen como los componentes pueden
+
+              armarse y limitadas capacidades analíticas. Estos sistemas se han extendido
+
+              para apoyar mapas pero típicamente para el manejo y análisis de bases de
+
+              datos geográficos grandes.
+
+           3. "Remote Sensing" y GPS
+
+
+              "Remote Sensing" es el arte y la ciencia de hacer medidas de la tierra usando
+
+              los sensores tales como: cámaras llevadas sobre aviones, GPS de receptores,
+                                                                                          46
+               u otros dispositivos. Estos sensores cobran datos en forma de imágenes y
+
+               proveen capacidades especializadas para manipular, analizar, y visualizar
+
+               dichas imágenes. Careciendo fuerte de la gestión geográfica de datos y
+
+               operaciones analíticas, ellos no pueden llamarse ciertamente un SIG.
+
+           4. DBMS
+
+
+               Los sistemas de manejo de base de datos se especializan en el almacenaje y
+
+               gestión de todo tipo de datos incluyendo datos geográficos. Los DBMS se
+
+               perfeccionan para almacenar y recuperar datos y muchos SIG confían en
+
+               ellos para este fin. Ellos no tienen herramientas de visualización común a
+
+               SIG.
+
+
+2.1.17   INTERPOLACIÓN
+
+           La interpolación es un procedimiento que permite calcular el valor de estimado
+
+           de una variable en una posición del espacio, conociendo los valores reales de
+
+           esa variable en otras posiciones del espacio. Se trata de una técnica de gran
+
+           utilidad y de aplicación a una amplia variedad de cuestiones diferentes.
+
+
+           Los procedimientos de interpolación son muy distintos según el tipo de
+
+           información de partida y el mecanismo matemático empleado en la
+
+           interpolación. Los métodos directos utilizan funciones matemáticas generales
+
+           (p.ej.: media ponderada por la distancia), mientras los métodos analíticos
+
+           utilizan funciones complejas que tienen en cuenta el tipo y grado de
+
+           autocorrelación espacial de la variable (p.ej.: kriging).
+
+
+2.1.18   PRECISIÓN Y ERRORES
+
+           El re-muestreo hace que las nuevas coordenadas de los puntos de control se
+
+           aproximen mucho a las coordenadas definidas en el fichero original de puntos
+
+
+                                                                                      47
+           de control. Sin embargo, las ecuaciones polinómicas no pueden conseguir que
+
+           sean exactamente las mismas, pues el proceso de transformación queda
+
+           restringido por la complejidad de estas ecuaciones, lo cual siempre implica un
+
+           cierto error.
+
+
+           Para estimar el error o la precisión asociada al proceso de georreferenciación de
+
+           la imagen, se calculan las nuevas coordenadas de los puntos de control, y se
+
+           comparan estas coordenadas estimadas con la regresión polinómica con las
+
+           observadas por el usuario sobre la cartografía base. El error cuadrático medio
+
+           (RMS; Root Mean Squared Error) indica la precisión del re muestreo. Se calcula
+
+           como el promedio de los residuos, o sea la raíz cuadrada de las desviaciones
+
+           entre los valores observados y los estimados por la regresión. De este modo,
+
+           tenemos la posibilidad de mejorar la precisión eliminando del cálculo un punto
+
+           mal tomado (RMS elevado). En general, un RMS total menor que 1 (unidad =
+
+           píxel) puede considerarse adecuado.
+
+
+2.1.19   AJAX
+
+           Acrónimo de Asynchronous JavaScript And XML (JavaScript asíncrono y XML), es
+
+           una técnica de desarrollo web para crear aplicaciones interactivas o RIA (Rich
+
+           Internet Applications). Estas aplicaciones se ejecutan en el cliente, es decir, en
+
+           el navegador de los usuarios mientras se mantiene la comunicación asíncrona
+
+           con el servidor en segundo plano. De esta forma es posible realizar cambios
+
+           sobre las páginas sin necesidad de recargarlas, la interactividad, velocidad y
+
+           usabilidad en las aplicaciones. (9)
+
+
+           Ajax es una tecnología asíncrona, en el sentido de que los datos adicionales se
+
+           solicitan al servidor y se cargan en segundo plano sin interferir con la
+
+           visualización ni el comportamiento de la página. JavaScript es el lenguaje
+                                                                                          48
+            interpretado (scripting language) en el que normalmente se efectúan las
+
+            funciones de llamada de Ajax mientras que el acceso a los datos se realiza
+
+            mediante XMLHttpRequest, objeto disponible en los navegadores actuales. En
+
+            cualquier caso, no es necesario que el contenido asíncrono esté formateado en
+
+            XML.
+
+
+            Ajax es una técnica válida para múltiples plataformas y utilizable en muchos
+
+            sistemas operativos y navegadores dados que está basado en estándares
+
+            abiertos como JavaScript y Document Object Model (DOM).
+
+
+2.1.20   API DE GOOGLE MAPS
+
+
+         API - Application Programming Interface. Métodos que el desarrollador de
+
+         cualquier aplicación ofrece a otros desarrolladores para que puedan interactuar
+
+         con su aplicación.
+
+
+         Web Service de Google (ver Ilustracion Nro. 29)
+
+
+
+
+                              Ilustración Nro. 29. Web service de google
+
+
+
+
+                                                                                      49
+           TIPO DE MAPA BÁSICO
+
+
+           El API de Google Maps permite utilizar muchos tipos de mapas. Además de los
+
+           conocidos mosaicos de mapas de carreteras "pintados", el API de Google Maps
+
+           también ofrece otros tipos de mapas.
+
+
+           A continuación se indican los tipos de mapas que se encuentran disponibles en
+
+           el API de Google Maps.
+
+
+                     MapTypeId.ROADMAP muestra la vista de mapa de carretera
+
+                      predeterminada.
+
+                     MapTypeId.SATELLITE muestra imágenes de satélite de Google
+
+                      Earth.
+
+                     MapTypeId.HYBRID muestra una mezcla de vistas normales y de
+
+                      satélite.
+
+                     MapTypeId.TERRAIN muestra un mapa físico basado en información
+
+                      del relieve.
+
+
+
+2.1.21   CREAR UN MAPS EN GOOGLE
+
+
+           1) Previamente, hay que tener una cuenta de Google. Si todavía no la tienes,
+
+           puedes crear una aquí de forma totalmente gratuita. La cuenta será de este
+
+           estilo: nirekontua@gmail.com (10)
+
+
+           2) Accede a Google Maps e inicia una sesión haciendo clic en el vínculo Acceder
+
+           situado en la esquina superior derecha de la pantalla. Ver Ilustración Nro. 30
+
+
+
+
+                                                                                            50
+               Ilustración Nro. 30. Tutorial google maps acceso
+
+
+
+3) Haz clic en la pestaña "Mis mapas" y, seguidamente, en “Crear un mapa
+
+nuevo”. Ver Ilustración Nro. 31
+
+
+
+
+                   Ilustración Nro. 31. Tutorial crear mapa
+
+4) Añade un título y una descripción para el mapa. Elige si quieres que sea de
+uso público o restringido. Haz clic en Guardar. Ver Ilustración Nro. 32
+
+                                                                             51
+             Ilustración Nro. 32. Tutorial descripción crear mapa
+
+
+
+5) Ahora busca en el cuadro de búsqueda el lugar de donde quieres hacer el
+mapa. Una vez allí, amplía la imagen para acercarte más. A continuación, haz
+clic en la pestaña "Mis mapas" para regresar al mapa. Ver Ilustración Nro. 33
+
+
+
+
+                     Ilustración Nro. 33. Tutorial mis mapas
+
+6) El mapa se puede ver de tres formas: mapa, satélite y relieve. Si seleccionas
+ver el mapa en satélite, obtienes una imagen aérea e información sobre las
+calles. Elige ésta y acerca la imagen hasta visualizar lo que quieres. Selecciona el
+mapa marcando su casilla y haz clic en “editar”. Ver Ilustración Nro. 34
+
+                                                                                 52
+                      Ilustración Nro. 34. Tutorial editar
+
+
+7) Al editarlo ya podemos añadirle marcas, líneas y formas. Los marcadores
+aparecen sobre el mapa. Ver Ilustración Nro. 35
+
+
+
+
+         Ilustración Nro. 35. Tutorial añadir marcas, líneas y formas
+
+8) Hay tres tipos de marcadores. Ver Ilustración Nro. 36 y 37
+
+
+
+
+                                                                             53
+             Ilustración Nro. 36. Tutorial tipos de marcadores 1
+
+
+
+
+            Ilustración Nro.37. Tutorial tipos de marcadores 2-3
+
+
+
+Insertar texto: Solo tienes que escribir el texto directamente en el cuadro
+
+Insertar un enlace: Busca primero el sitio Web que quieres enlazar. Copia la
+
+
+
+
+                                                                         54
+dirección URL del sitio. Subraya el texto que quieres enlazar, haz clic en el icono,
+
+pega la dirección en la ventana y acepta.
+
+
+Insertar una imagen. La imagen debe de estar en Internet. Busca y localiza la
+
+imagen que desees. Coloca el puntero sobre ella y con el botón derecho del
+
+ratón elige “copiar la ruta de la imagen”. Después haz clic en el icono y pégala.
+
+Acepta.
+
+
+Insertar un vídeo. Como en el caso anterior, debe estar “subido” a la Red. Se
+
+pueden insertar vídeos de youtube y Google vídeo. Una vez localizado el vídeo,
+
+buscamos el código “insertar” o “embed” lo copiamos y lo pegamos en la opción
+
+HTML de la ventana. Acepta. Ver Ilustración Nro. 38
+
+
+
+
+            Ilustración Nro. 38. Tutorial insertar un video YouTube
+
+
+
+
+No olvides pulsar “aceptar” siempre que insertes estos elementos. Después
+
+guarda el mapa pulsando “listo”. Ver Ilustración Nro. 39
+
+
+
+
+                                                                                 55
+                Ilustración Nro. 39. Tutorial guardar cambios
+
+El resultado será algo como esto, Ver Ilustración Nro. 40
+
+
+
+
+                  Ilustración Nro. 40. Tutorial final del maps
+
+
+
+
+                                                                 56
+2.2   HIPOTESIS
+
+      El Sistema de Información Geográfico con interfaz Web proporcionara información
+
+      confiable de la Ciudad de Puno.
+
+
+
+
+                                                                                        57
+    CAPITULO III
+METODOS DE LA INVESTIGACION
+
+
+
+
+                              58
+3.1   VARIABLES DE INVESTIGACIÓN
+
+
+
+             VARIABLE INDEPENDIENTE (X):
+
+
+
+                     X: Sistema de Información Geográfico.
+
+
+
+             VARIABLE DEPENDIENTE (Y):
+
+
+
+                     Y: Información generada por el Sistema de Información Geográfico.
+
+
+
+
+3.2   OPERACIONALIZACION DE VARIABLES
+
+
+      La operacionalización de variables para la presente investigación, se planteó en el
+
+      siguiente cuadro:
+
+
+
+
+                                                                                         59
+                          VARIABLES              INDICADORES                           INSTRUMENTOS
+                                                                      INDICES
+TIPO DE VARIABLES
+
+
+                                                                0 – 20 % Baja
+
+                                                                21 – 49 % Media
+
+                                                 Integración   50 – 74% Buena
+
+                                                                75 – 100% Excelente
+
+
+
+                    Sistema de Información                      0 – 20 % Baja
+
+                    Geográfico                                  21 – 49 % Media
+ INDEPENDIENTE
+                                                 Escalable     50 – 74% Buena        Encuesta,
+
+                                                                75 – 100% Excelente   Entrevista
+
+
+
+                                                                0 – 20 % Baja
+
+                                                                21 – 49 % Media
+
+                                                 Eficiente     50 – 74% Buena
+
+                                                                75 – 100% Excelente
+
+                                                                0 – 20 % Baja
+
+                                                                21 – 49 % Media
+
+                    Información generada         Completa      50 – 74% Buena
+
+                    por el Sistema de                           75 – 100% Excelente
+
+  DEPENDIENTE       Información                                                       Encuesta,
+
+                    Geográfico.                                 0 – 20 % Baja         Entrevista
+
+                                                                21 – 49 % Media
+
+                                                 Accesible     50 – 74% Buena
+
+                                                                75 – 100% Excelente
+
+
+
+
+                                                                                                   60
+3.3    METODOLOGÍA
+
+
+      3.3.1 TIPO Y DISEÑO DE INVESTIGACION
+
+
+               La presente investigación, de acuerdo con las características del problema, los
+
+               objetivos y la hipótesis se enmarca dentro del tipo concluyente, debido a que es
+
+               una investigación que se realiza a través de un diseño de investigación y nos
+
+               permite de manera objetiva, seleccionar y evaluar alternativas de acción al
+
+               problema planteado.
+
+
+               El diseño es experimental porque permite establecer una relación causal entre
+
+               una o más variables denominada dependiente (X) y otra variable independiente
+
+               (y) en una situación estrictamente controlada.
+
+
+
+
+3.4    POBLACION Y MUESTRA
+
+
+       3.4.1   POBLACIÓN
+
+
+               La población son todos los usuarios que buscan Información de la Ciudad de
+
+               Puno.
+
+       3.4.2   MUESTRA
+
+
+               La muestra está dividida por sectores EDUCACION, TURISTICO Y COMERCIO
+
+               que buscan Información de la Ciudad de Puno en forma específica.
+
+
+
+
+                                                                                            61
+3.5   MÉTODOS DE RECOPILACIÓN DE DATOS (DESCRIPCIÓN DE INSTRUMENTOS).
+
+
+      La técnica que se utilizó para la demostración de la hipótesis se realizó mediante
+
+      encuestas y la observación directa.
+
+
+
+
+3.6   MÉTODOS DE TRATAMIENTO DE DATOS.
+
+      Se tendrá que efectuar los siguientes pasos para el tratamiento de los datos:
+
+                     Selección de los datos para determinar su validez.
+
+                     Codificación y tabulación.
+
+                     Técnicas estadísticas.
+
+                     Representaciones gráficas.
+
+
+
+
+3.7   INSTRUMENTOS.
+
+
+      Para el desarrollo de la investigación se utilizaron los siguientes instrumentos:
+
+      3.7.1   HARDWARE
+
+                       2 Computadoras Personales
+                       Impresora Láser.
+                       Memoria USB.
+                       Cámara Fotográfica.
+
+
+      3.7.2   SOFTWARE
+
+                       Microsoft Windows XP © SP3.
+                       Microsoft Office 2010 ©.
+                       Adobe Reader.
+                       Mozilla Firefox 4.0.
+                       Adobe PhotoshopCS5.
+                       Macromedia Flash CS5.
+                       MySQL Server.
+                                                                                          62
+            Php.
+            Apis de Google.
+            MySQL Workbench 5.2 CE
+            IBM Rational Rose Enterprise Edition 7.0
+
+
+3.7.3   SERVICIOS
+
+            Conexión a Internet.
+
+
+
+
+                                                        63
+ CAPITULO IV
+RESULTADOS Y DISCUSION
+
+
+
+
+                         64
+4.1   PLATAFORMA TECNOLOGICA
+
+
+  4.1.1   ANALISIS DE LA INFORMACION PARTIDA
+
+
+          El análisis de requisitos permitió determinar con claridad sobre lo que desea el
+
+          usuario; identificando el problema, los actores, los procesos, los objetos y
+
+          responsabilidades principales que realizan. Se identificó mediante Entrevistas y
+
+          Observación Directa.
+
+
+  4.1.2   REQUERIMIENTOS TECNOLOGICOS
+
+
+          Los requerimientos tecnológicos para el desarrollo de esta aplicación son los
+
+          siguientes:
+
+
+              1. Un servidor de bases de datos, así como una herramienta para su gestión.
+
+
+              2. Alojamiento Web (Web Hosting) y Dominio.
+
+
+              3. Un entorno de desarrollo de la aplicación. IDE (Integrated development
+
+                  environment)
+
+
+          Los sistemas de gestión de bases de datos (SGBD) son software muy específicos
+
+          desarrollados principalmente para servir de interfaz entre las bases de datos, los
+
+          usuarios y las aplicaciones. Su propósito es manejar de manera clara, sencilla y
+
+          ordenada un conjunto de datos que posteriormente se convertirán en información
+
+          relevante para una organización.
+
+
+          Un servidor web es un programa que está diseñado para transferir hipertextos,
+
+          páginas web o páginas HTML (HyperText Markup Language): textos complejos con
+
+          enlaces, figuras, formularios, botones y objetos incrustados como animaciones o
+
+          reproductores de música. El programa implementa el protocolo HTTP (HyperText
+
+                                                                                          65
+               Transfer Protocol) que pertenece a la capa de aplicación del modelo OSI. El término
+
+               también se emplea para referirse al ordenador que ejecuta el programa. El Servidor
+
+               web se ejecuta continuamente en un ordenador, manteniéndose a la espera de
+
+               peticiones por parte de un cliente (un navegador web) y que responde a estas
+
+               peticiones adecuadamente, mediante una página web que se exhibirá en el
+
+               navegador o mostrando el respectivo mensaje si se detectó algún error. Además de
+
+               la transferencia de código HTML, los Servidores web pueden entregar aplicaciones
+
+               web. Éstas son porciones de código que se ejecutan cuando se realizan ciertas
+
+               peticiones o respuestas HTTP. Hay que distinguir entre aplicaciones en el lado del
+
+               cliente y en el lado del servidor. En este caso se usó la del lado del cliente web. Este
+
+               es el encargado de ejecutarlas en la máquina del usuario. Son las aplicaciones donde
+
+               el servidor proporciona el código de las aplicaciones al cliente y éste, mediante el
+
+               navegador, las ejecuta. Es necesario, por tanto, que el cliente disponga de un
+
+               navegador con capacidad para ejecutar aplicaciones. Comúnmente, los navegadores
+
+               permiten ejecutar aplicaciones escritas en lenguaje JavaScript y Java, aunque pueden
+
+               añadirse más lenguajes mediante el uso de PLUGINS.6 Es frecuente requerir de estos
+
+               complementos que amplían las funciones de las páginas web para ver contenidos
+
+               interactivos. Un ejemplo conocido es FlashPlayer de Adobe. Un complemento que
+
+               carga animaciones multimedia y aplicaciones interactivas desde el cliente web.
+
+
+               El alojamiento web (en inglés web hosting) es el servicio que provee a los usuarios
+
+               de Internet un sistema para poder almacenar información, imágenes, vídeo, o
+
+               cualquier contenido accesible vía web. Es una analogía de "hospedaje o alojamiento
+
+               en hoteles o habitaciones" donde uno ocupa un lugar específico, en este caso la
+
+
+
+
+6
+  PLUGIN: Un complemento es una aplicación que se relaciona con otra para aportarle una función nueva y generalmente muy
+específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la API. También se lo conoce
+como plugin (del inglés "enchufable"), add-on(agregado), complemento, conector o extensión.
+                                                                                                                                  66
+analogía alojamiento web o alojamiento de páginas web, se refiere al lugar que ocupa
+
+una página web, sitio web, sistema, correo electrónico, archivos etc. en internet o
+
+más específicamente en un servidor que por lo general hospeda varias aplicaciones
+
+o páginas web. Los dominios son los "nombres" de las páginas en internet, así de
+
+simple. Cuando quieres entrar a una página, normalmente escribes el nombre, por
+
+ejemplo: www.mipuno.org.
+
+
+En el caso del entorno de desarrollo integrado para desarrollo de aplicaciones web
+
+existen también muchas en el mercado. Sin embargo en los últimos años se han
+
+venido desarrollando una filosofía de desarrollo web conocido como RIA (Rich
+
+Internet Applications) o Aplicaciones de internet enriquecidas.
+
+
+Son aplicaciones web que tienen la mayoría de las características de las aplicaciones
+
+tradicionales. Estas aplicaciones utilizan un “navegador web” estandarizado para
+
+ejecutarse y por medio de “plugins” o independientemente una “virtual machine” o
+
+“sandbox”, se agregan las características adicionales. Surge como una combinación
+
+de las ventajas que ofrecen las aplicaciones Web y las aplicaciones tradicionales.
+
+Buscan mejorar la experiencia del usuario
+
+
+Normalmente en las aplicaciones Web, hay una recarga continua de páginas cada vez
+
+que el usuario pulsa sobre un enlace. De esta forma se produce un tráfico muy alto
+
+entre el cliente y el servidor, llegando muchas veces, a recargar la misma página con
+
+un mínimo cambio.
+
+
+En los entornos RIA, en cambio, no se producen recargas de página, ya que desde el
+
+principio se carga toda la aplicación, y sólo se produce comunicación con el servidor
+
+cuando se necesitan datos externos como datos de una Base de Datos o de otros
+
+ficheros externos.
+
+
+                                                                                  67
+   Hay muchas herramientas para la creación de entornos RIA. Entre las más usadas se
+
+   pueden mencionar las plataformas Adobe Flash, Adobe Flex, de Adobe, Silverlight de
+
+   Microsoft, la trilogía HTML/JavaScript/Ajax, y OpenLaszlo entre otros.
+
+
+   En la siguiente tabla se muestra la tecnología adoptada para cada caso. Para escoger
+
+   cada una se tuvo en cuenta los objetivos propuestos, las características de cada una
+
+   de estas tecnologías y como se complementan cada una de ellas entre sí, con el fin
+
+   de optimizar el rendimiento y las prestaciones de la aplicación final. Tabla Nro. 01.
+
+
+                       TECNOLOGIA                          SOFTWARE
+        Alojamiento Web:                          HTTP Apache
+        Sistema de Gestión de Base de Datos:      MySQL
+        Administrador de Base de Datos:           PHPMyAdmin
+        Desarrollo Cliente Web:                   Api Google Maps
+                                Lenguaje de Desarrollo
+                                 Cliente: MXML, AS3.
+                                  Servidor: PHP, SQL.
+       Tabla Nro. 1 Tecnologías adoptadas para el desarrollo de la aplicación.
+
+
+El esquema de funcionamiento e interacción entre estas tecnologías se muestra en la
+siguiente Ilustración Nro. 41.
+
+
+
+
+    Ilustración Nro. 41. Esquema de funcionamiento de la tecnología empleada.
+
+
+
+
+                                                                                       68
+A continuación se describe las características principales de cada una de las
+
+tecnologías utilizadas:
+
+
+
+
+Servidor WEB HTTP Apache
+
+
+El servidor HTTP Apache es un servidor web HTTP de código abierto para plataformas
+
+Unix (BSD, GNU/Linux, etc.), Windows, Macintosh y otras, que implementa el
+
+protocolo HTTP/1.1 y la noción de sitio virtual. El servidor Apache se desarrolla
+
+dentro del proyecto HTTP Server (httpd) de la Apache Software Foundation.
+
+
+Apache presenta entre otras características altamente configurables, bases de datos
+
+de autenticación y negociación de contenido, pero fue criticado por la falta de una
+
+interfaz gráfica que ayude en su configuración. Tiene amplia aceptación en la red.
+
+Desde 1996 es el servidor HTTP más usado. Alcanzó su máxima cuota de mercado en
+
+2005 siendo el servidor empleado en el 70% de los sitios web en el mundo.
+
+
+Apache es usado primariamente para enviar páginas web estáticas y dinámicas en la
+
+World Wide Web. Es el componente de servidor web en la popular plataforma de
+
+aplicaciones LAMP, junto a MySQL y los lenguajes de programación PHP, Perl, Python
+
+entre otros.
+
+
+La mayor parte de la configuración se realiza en el fichero apache2.conf o httpd.conf
+
+según el sistema donde se esté ejecutando. Cualquier cambio en éste archivo
+
+requiere reiniciar el servidor, o forzar la lectura de los archivos de configuración
+
+nuevamente.
+
+
+La licencia Apache (Apache License o Apache Software License para versiones
+
+anteriores a 2.0) es una licencia de software libre creada por la Apache Software
+
+Foundation (ASF). La licencia Apache (con versiones 1.0, 1.1 y 2.0) requiere la
+
+                                                                                  69
+conservación del aviso de copyright y el disclaimer, pero no es una licencia copyleft,
+
+ya que no requiere la redistribución del código fuente cuando se distribuyen
+
+versiones modificadas.
+
+
+Como cualquier otra de las licencias de software libre, la Licencia Apache permite al
+
+usuario del software la libertad de usarlo para cualquier propósito, distribuirlo,
+
+modificarlo, y distribuir versiones modificadas de ese software. La Licencia Apache
+
+sólo exige que se mantenga una noticia que informe a los receptores que en la
+
+distribución se ha usado código con la Licencia Apache. (Bib. c. h.)
+
+
+
+
+Sistema de Gestión de Bases de Datos MySQL
+
+
+MySQL es un sistema de gestión de base de datos relacional y multiusuario con más
+
+de seis millones de instalaciones. Es desarrollado como software libre en un esquema
+
+de licenciamiento dual por MySQL AB, una subsidiaria de Sun Microsystems y ésta a
+
+su vez de Oracle Corporation.
+
+
+Al contrario de proyectos como Apache, donde el software es desarrollado por una
+
+comunidad pública y el copyright del código está en poder del autor individual,
+
+MySQL es propietario y está patrocinado por una empresa privada, que posee el
+
+copyright de la mayor parte del código.
+
+
+MySQL es muy utilizado en aplicaciones web, como Drupal o phpBB, en plataformas
+
+(Linux/Windows‐Apache‐MySQL‐PHP/Perl/Python),           y   por    herramientas    de
+
+seguimiento de errores como Bugzilla. Su popularidad como aplicación web está muy
+
+ligada a PHP, que a menudo aparece en combinación con MySQL. MySQL es una base
+
+de datos muy rápida en la lectura cuando utiliza el motor no transaccional MyISAM,
+
+pero puede provocar problemas de integridad en entornos de alta concurrencia en
+
+
+                                                                                   70
+la modificación. En aplicaciones web hay baja concurrencia en la modificación de
+
+datos y en cambio el entorno es intensivo en lectura de datos, lo que hace a MySQL
+
+ideal para este tipo de aplicaciones.
+
+
+
+
+Lenguaje de programación PHP
+
+
+Este es un lenguaje de programación interpretado, diseñado originalmente para la
+
+creación de páginas web dinámicas. Es usado principalmente en interpretación del
+
+lado del servidor (server‐side scripting) pero actualmente puede ser utilizado desde
+
+una interfaz de línea de comandos o en la creación de otros tipos de programas
+
+incluyendo aplicaciones con interfaz gráfica.
+
+
+PHP es un acrónimo recursivo que significa PHP Hypertext Preprocessor (inicialmente
+
+PHP Tools, o, Personal Home Page Tools). Fue creado originalmente por Rasmus
+
+Lerdorf en 1994 y publicado bajo la PHP License. La Free Software Foundation
+
+considera esta licencia como software libre.
+
+
+Generalmente se ejecuta en un servidor web, tomando el código en PHP como su
+
+entrada y creando páginas web como salida. Puede ser desplegado en la mayoría de
+
+los servidores web y en casi todos los sistemas operativos y plataformas sin costo
+
+alguno. PHP se encuentra instalado en más de 20 millones de sitios web y en un
+
+millón de servidores, aunque el número de sitios en PHP ha compartido algo de su
+
+preponderante sitio con otros nuevos lenguajes no tan poderosos desde agosto de
+
+2005. Es también el módulo Apache más popular entre las computadoras que utilizan
+
+Apache como servidor web.
+
+
+
+
+                                                                                 71
+          API Google Maps
+
+
+          Esta API permite a los desarrolladores Flex insertar Google Maps en aplicaciones
+
+          Flash. De forma similar a la versión Java Script, esta API de ActionScript proporciona
+
+          varias utilidades para manipular y añadir contenido a mapas a través de distintos
+
+          servicios, lo que te permite insertar aplicaciones de mapas interactivas y complejas
+
+          en un sitio web. El equipo de Google Maps publica constantemente nuevos datos de
+
+          mapas y mejora la cobertura internacional. No existe ningún límite relativo al número
+
+          de visitas de la página de mapas del sitio web. El API de Google Maps está disponible
+
+          para todos los sitios de acceso gratuito. Se puede utilizar en sitios web comerciales y
+
+          sin ánimo de lucro, siempre que dichos sitios cumplan las condiciones del servicio. Se
+
+          puede utilizar siempre que el sitio sea accesible desde el punto de vista general a los
+
+          clientes de forma gratuita.
+
+
+
+
+4.2   IMPLEMENTACION DEL SISTEMA
+
+  4.2.1   DIAGRAMA DE CASO DE USO DEL SISTEMA
+
+
+          A continuación se muestra el Diagrama de Caso de Uso del Sistema en base a los
+
+          requerimientos y las funciones que realizan los actores que intervienen en el sistema.
+
+
+          En la Ilustración Nro. 42 muestra las acciones que se llevan a cabo dentro del sistema
+
+          de forma general.
+
+
+
+
+                                                                                              72
+                            Ilustración Nro. 42. Diagrama de caso de uso
+
+
+
+
+4.2.2   DIAGRAMA DE SECUENCIA DEL SISTEMA
+
+
+        A continuación se muestra los Diagramas de Secuencia del Sistema en base a los
+
+        requerimientos y las funciones que realizan los actores que intervienen en el sistema.
+
+
+
+
+                   Diagrama de Secuencia – REGISTRO (Ver Ilustración Nro. 43)
+                                                                                           73
+        Ilustración Nro. 43. Diagrama de secuencia - registró
+
+
+
+
+Diagrama de Secuencia – MODIFICAR (Ver Ilustración Nro. 44)
+
+                                                                74
+                      Ilustración Nro. 44. Diagrama de secuencia - modificar
+
+
+
+
+                   Diagrama de Secuencia – ELIMINAR (Ver Ilustración Nro. 45)
+
+
+
+
+                      Ilustración Nro. 45 Diagrama de secuencia – eliminar
+
+4.2.3   DISEÑO DE LA BASE DE DATOS DEL SISTEMA
+
+        A continuación se muestra el Modelo lógico de la Base de Datos del Sistema (Ver
+
+
+                                                                                          75
+              Ilustración Nro. 46)
+
+
+
+
+                         Ilustración Nro. 46. Modelo lógico de la base de datos
+
+
+
+
+4.3       DESARROLLO E IMPLEMENTACION DE LA APLICACION
+
+      4.3.1   ESTRUCTURA DE LA CONEXIÓN DEL CLIENTE WEB CON EL API DE GOOGLE
+
+              function initialize()
+                  {
+                            $.superbox();
+                                                                                  76
+             var popup;
+             var n=1;
+             var options =
+             {       zoom: <?php if ($codmod==0) echo "14"; else echo "18"; ?>
+                     , center: new google.maps.LatLng(<?php if ($codmod==0) echo
+"-15.8346, -70.0239"; else echo $lat.",".$lng; ?>)
+                     , mapTypeId: google.maps.MapTypeId.ROADMAP
+     };
+
+               var map = new google.maps.Map($("#map_canvas").get(0), options);
+
+               var place = new Array();
+               var foto = new Array();
+               var url = new Array();
+               var fono = new Array();
+               var name = new Array();
+               var dire = new Array();
+               var email = new Array();
+               <?php
+                        if ($codmod==0)
+                        {
+                                while ($registro = mysql_fetch_array($tabla))
+                                {       $lng=$registro['longitud'];
+                                        $lat=$registro['latitud'];
+                                        $nomb=$registro['codmodular'];
+                                        $img=$registro['imagen'];
+                                        $url=$registro['web'];
+                                        $fono=$registro['telefono'];
+                                        $nomb=$registro['nombre'];
+                                        $dire=$registro['direccion'];
+                                        $email=$registro['email'];
+               ?>
+                                        foto['<?php echo $nomb; ?>'] = '<?php echo
+$img; ?>';
+                                      url['<?php echo $nomb; ?>'] = '<?php echo
+$url; ?>';
+                                      fono['<?php echo $nomb; ?>'] = '<?php echo
+$fono; ?>';
+                                      name['<?php echo $nomb; ?>'] = '<?php echo
+$nomb; ?>';
+                                      dire['<?php echo $nomb; ?>'] = '<?php echo
+$dire; ?>';
+                                      email['<?php echo $nomb; ?>'] = '<?php echo
+$email; ?>';
+                                  place['<?php echo $nomb; ?>'] = new
+google.maps.LatLng(<?php echo $lat; ?>, <?php echo $lng; ?>);
+           <?php
+                          }
+                   }
+                   else
+                   {
+           ?>
+                                                                                     77
+                                  foto['<?php echo $nomb; ?>'] = '<?php echo $img; ?>';
+                                  url['<?php echo $nomb; ?>'] = '<?php echo $url; ?>';
+                                  fono['<?php echo $nomb; ?>'] = '<?php echo $fono;
+        ?>';
+                                  name['<?php echo $nomb; ?>'] = '<?php echo $nomb;
+        ?>';
+                                  dire['<?php echo $nomb; ?>'] = '<?php echo $dire; ?>';
+                                  email['<?php echo $nomb; ?>'] = '<?php echo $email;
+        ?>';
+                                  place['<?php echo $nomb; ?>'] = new
+        google.maps.LatLng(<?php echo $lat; ?>, <?php echo $lng; ?>);
+                   <?php
+                           }
+                   ?>
+
+
+4.3.2   ESTRUCTURA DE LA CONEXIÓN ENTRE EL CLIENTE WEB Y LA BASE DE DATOS
+
+        <?php
+
+             $codmod = $_GET['codmod'];
+             $type = $_GET['type'];
+        // Ejemplo de acceso a base de datos en PHP
+        $direc="mpuno.db.11064294.hostedresource.com";
+        $database="mpuno";
+        $user="mpuno";
+        $password="M1l@gr0s";
+        /*$direc="localhost";
+        $database="mpuno";
+        $user="root";
+        $password="";*/
+
+        $conexion=mysql_connect ($direc, $user, $password) or die ('problema conectando
+        porque :' . mysql_error());
+        mysql_select_db ($database,$conexion);
+        if ($codmod==0)
+              $cadena ="SELECT * FROM lugares where activado ='si' and tipolugar =
+        '".$type."'";
+        else
+              $cadena ="SELECT * FROM lugares where codmodular ='".$codmod."' and
+        tipolugar = '".$type."'";
+        $tabla = mysql_query($cadena, $conexion) or die ("problema con cadena de
+        conexion<br><b>" . mysql_error()."</b>");
+        //$registros = mysql_num_rows($tabla);
+        //echo "Encontrados: ".$registros."<br>";
+        ?>
+        <!DOCTYPE html>
+        <html>
+        <head>
+        <style type="text/css">
+        #detail {
+              clear: both;
+                                                                                      78
+     font-family: verdana;
+}
+#detail h2 {
+     color: green;
+     font-size: 1em;
+     text-align: center;
+}#info {
+     font-size: .9em;
+     font-family: verdana;
+     width: 250px;
+     height: 150px;
+}
+#detail p {
+     font-size: .8em
+}
+
+</style>
+<link rel="stylesheet" type="text/css" href="jquery.superbox.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript"
+src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="js/jquery.superbox.js"></script>
+<script type="text/javascript">
+
+    <?php
+    if ($codmod!=0)
+    {       while ($registro = mysql_fetch_array($tabla))
+            {
+                    $lng=$registro['longitud'];
+                    $lat=$registro['latitud'];
+                    $nomb=$registro['nombre'];
+                    $cod=$registro['codmodular'];
+
+                    $url=$registro['web'];
+                    $img=$registro['imagen'];
+                    $desc=$registro['descripcion'];
+                    $fono=$registro['telefono'];
+                    $dire=$registro['direccion'];
+                    $email=$registro['email'];
+             }
+     }
+     ?>
+     function initialize()
+     {
+             $.superbox();
+             var popup;
+             var n=1;
+             var options =
+             {         zoom: <?php if ($codmod==0) echo "14"; else echo "18"; ?>
+                       , center: new google.maps.LatLng(<?php if ($codmod==0) echo
+"-15.8346, -70.0239"; else echo $lat.",".$lng; ?>)
+                       , mapTypeId: google.maps.MapTypeId.ROADMAP
+                                                                                 79
+     };
+
+               var map = new google.maps.Map($("#map_canvas").get(0), options);
+
+               var place = new Array();
+               var foto = new Array();
+               var url = new Array();
+               var fono = new Array();
+               var name = new Array();
+               var dire = new Array();
+               var email = new Array();
+               <?php
+                        if ($codmod==0)
+                        {
+                                while ($registro = mysql_fetch_array($tabla))
+                                {       $lng=$registro['longitud'];
+                                        $lat=$registro['latitud'];
+                                        $nomb=$registro['codmodular'];
+                                        $img=$registro['imagen'];
+                                        $url=$registro['web'];
+                                        $fono=$registro['telefono'];
+                                        $nomb=$registro['nombre'];
+                                        $dire=$registro['direccion'];
+                                        $email=$registro['email'];
+               ?>
+                                        foto['<?php echo $nomb; ?>'] = '<?php echo
+$img; ?>';
+                                      url['<?php echo $nomb; ?>'] = '<?php echo
+$url; ?>';
+                                      fono['<?php echo $nomb; ?>'] = '<?php echo
+$fono; ?>';
+                                      name['<?php echo $nomb; ?>'] = '<?php echo
+$nomb; ?>';
+                                      dire['<?php echo $nomb; ?>'] = '<?php echo
+$dire; ?>';
+                                      email['<?php echo $nomb; ?>'] = '<?php echo
+$email; ?>';
+                                  place['<?php echo $nomb; ?>'] = new
+google.maps.LatLng(<?php echo $lat; ?>, <?php echo $lng; ?>);
+           <?php
+                          }
+                   }
+                   else
+                   {
+           ?>
+                          foto['<?php echo $nomb; ?>'] = '<?php echo $img; ?>';
+                          url['<?php echo $nomb; ?>'] = '<?php echo $url; ?>';
+                          fono['<?php echo $nomb; ?>'] = '<?php echo $fono;
+?>';
+                          name['<?php echo $nomb; ?>'] = '<?php echo $nomb;
+?>';
+                          dire['<?php echo $nomb; ?>'] = '<?php echo $dire; ?>';
+                                                                               80
+                               email['<?php echo $nomb; ?>'] = '<?php echo $email;
+?>';
+                                  place['<?php echo $nomb; ?>'] = new
+google.maps.LatLng(<?php echo $lat; ?>, <?php echo $lng; ?>);
+               <?php
+                         }
+               ?>
+               for(var i in place)
+               { var marker = new google.maps.Marker(
+                         { position: place[i]
+                                  , map: map
+                                  , title: i
+      //        , icon: 'http://gmaps-
+samples.googlecode.com/svn/trunk/markers/orange/marker' + n++ + '.png'
+                                  , icon: '../icons/icon.png'
+                         });
+                         google.maps.event.addListener(marker, 'click', function()
+                         {
+                                  if(!popup)
+                                  {
+                                             popup = new google.maps.InfoWindow();
+                                  }
+                                  var note = '<div id="info" style="text-align:center; font-
+size: .7em"><img style="width: 162px; height:70px" src="../images/'+
+foto[this.title]+'"><br><div><b>' + name[this.title]+'</b></div><br><div style="font-
+size:.8em; text-align:left"><b>Para mas info</b>: <a href="'+url[this.title]+'">'+
+url[this.title] +'</a><br><b>Direccion: '+dire[this.title]+'</b><br><b>Telefono:
+</b>'+ fono[this.title] +'<br><b>Email: </b>'+email[this.title]+'</div></div>';
+                                  popup.setContent(note);
+                                  popup.open(map, this);
+                         })
+               }
+      }
+      function procesaClick()
+      {
+               alert("Marcador: " + this.title + ", ID: " + this.idColegio);
+      }
+</script>
+</head>
+<body onload="initialize()">
+      <?php
+      if($codmod > 6)
+      {?>
+               <div id="detail">
+                         <h2 style="clear:both"><?php echo $nomb; ?></h2>
+                         <div align="center">
+                                  <img src="../images/<?php echo $img; ?>">
+                         </div>
+                         <div>
+                                  <p>
+                                             <label><b>URL</b>:</label><a href="#"
+target="_blank"><?php echo $url; ?></a><br>
+                                                                                          81
+                                             <label><b>Telefono</b>:</label><?php echo
+        $fono; ?>
+                                             <br><br>
+                                             <?php echo $desc; ?></p>
+                            </div>
+                            <div>
+                                     <?php
+                                             $tabla = mysql_query("SELECT * FROM galeria
+        where id_lugar ='".$cod."'", $conexion);
+                                             while ($registro = mysql_fetch_array($tabla))
+                                             {
+                                                     echo '<a
+        href="../images/foto/'.$registro["foto_grande"].'"
+        rel="superbox[gallery][my_gallery]"><img
+        src="../images/foto/chico/'.$registro["foto"].'" width="75" height="75" alt=""
+        /></a>';
+                                              }?>
+                            </div>
+                     </div>
+             <?php }
+             ?>
+             <div id="map_canvas" style="width: 650px; height: 550px;"></div>
+        </body>
+        </html>
+        <?php
+             mysql_close();
+        ?>
+
+
+
+
+4.3.3   PANTALLAS DEL SISTEMA
+
+    -   Se desarrolló la primera pantalla Índex del sistema usando el Lenguaje PHP y la
+
+        base de datos MySql. (www.mipuno.org) Ver Ilustración Nro. 47
+
+
+
+
+                                                                                          82
+Ilustración Nro. 47 Pantalla Índex (www.mipuno.org)
+
+
+
+
+                                                      83
+-   Interfaz del Sistema de Información Geográfico “SECTOR EDUCATIVO”.
+
+    (www.mipuno.org) Ver Ilustración Nro. 48
+
+
+
+
+                       Ilustración Nro. 48. Pantalla-sector educativo
+
+
+
+
+                                                                        84
+Ejemplo (Ver Ilustración Nro. 49)
+
+
+
+
+        Ilustración Nro. 49. Pantalla-sector educativo ejemplo
+
+
+
+
+                                                                 85
+-   Interfaz   del   Sistema    de   Información     Geográfico    “SECTOR   TURISMO”.
+
+    (www.mipuno.org) Ver Ilustración Nro. 50
+
+
+
+
+                     Ilustración Nro. 50. Pantallas - sector turístico
+
+
+
+
+                                                                                   86
+Ejemplo (Ver Ilustración Nro. 51)
+
+
+
+
+        Ilustración Nro. 51. Pantallas - sector turístico ejemplo
+
+
+
+
+                                                                    87
+-   Interfaz del Sistema de Información Geográfico “SECTOR COMERCIAL”.
+
+    (www.mipuno.org) Ver Ilustración Nro. 52
+
+
+
+
+              Ilustración Nro. 52. Pantallas - sector comercial
+
+
+
+
+                                                                   88
+Ejemplo (Ver Ilustración Nro. 53)
+
+
+
+
+       Ilustración Nro. 53. Pantallas - sector comercial ejemplo
+
+
+
+
+                                                                   89
+-   Sistema de Información Geográfico - Rutas (www.mipuno.org). Ver Ilustración
+
+    Nro.54
+
+
+
+
+                          Ilustración Nro. 54. Pantalla rutas
+
+
+
+
+                                                                            90
+-   Sistema de Información Geográfico - Búsqueda (www.mipuno.org). Ver Ilustración
+
+    Nro.55
+
+
+
+
+                  Ilustración Nro. 55. Pantalla búsqueda
+
+
+
+
+                                                                               91
+4.4   ENCUESTA
+
+      RESULTADOS DE LA ENCUESTA POST TEST- CLIENTES
+
+      1. El diseño de las pantallas presentadas (interfaz web) del SIG usted considera que
+         son:
+
+          Bueno ________ Malo________
+
+
+
+              Tabla Nro. 2. Cuadro estadístico encuesta post test- clientes
+
+                   Alternativa                 Numero     %
+
+
+                   Bueno                       18         90 %
+
+                   Malo                        2          10%
+
+
+                   Total de Encuestados        20         100%
+
+
+
+
+            Representación Gráfica:
+
+
+
+
+                                         Pregunta Nro 01
+                    100%
+                     90%
+                     80%
+                     70%
+                     60%
+                     50%
+                     40%
+                     30%
+                     20%
+                     10%
+                      0%
+                                 BUENO       MALO
+
+
+                 Gráfico Nro. 1. Gráfico de barras de la pregunta Nº1- post test cliente
+
+
+
+
+                                                                                           92
+2. Al momento de interactuar con el sistema, usted comprueba que el uso del SIG es:
+
+   Fácil ________ Difícil________
+
+
+
+   Tabla Nro. 3. Cuadro estadístico de la pregunta Nº2- post test cliente
+
+             Alternativa                  Numero   %
+
+             Fácil                        18       90%
+
+             Difícil                      2        10%
+
+             Total de Encuestados         20       100%
+
+
+
+
+      Representación Gráfica:
+
+
+
+
+                               Pregunta Nro 02
+             100%
+              90%
+              80%
+              70%
+              60%
+              50%
+              40%
+              30%
+              20%
+              10%
+               0%
+                       FACIL        DIFICIL
+
+
+         Gráfico Nro. 2. Gráfico de barras de la pregunta Nº2- post test cliente
+
+
+
+
+                                                                                   93
+3. Cuando le indica al sistema realizar alguna acción, la información proporcionada
+   por el sistema como respuesta a dicha acción es:
+
+   Interpretable ________ No Interpretable_________
+
+
+
+   Tabla Nro. 4. Cuadro estadístico de la pregunta Nº3-post test cliente
+
+              Alternativa                  Numero   %
+
+              Interpretable                18       90%
+
+              No Interpretable             2        10%
+
+              Total de Encuestados         20       100%
+
+
+
+
+      Representación Gráfica:
+
+
+
+                            Pregunta Nro 03
+       100%
+        90%
+        80%
+        70%
+        60%
+        50%
+        40%
+        30%
+        20%
+        10%
+         0%
+               INTERPRETABLE          NO
+                                 INTERPRETABLE
+
+
+          Gráfico Nro. 3. Gráfico de barras de la pregunta Nº3- Post test cliente
+
+
+
+
+                                                                                    94
+4. La información proporcionada por el sistema acerca de los resultados es:
+
+   Integra ________ Errónea ________
+
+
+
+
+   Tabla Nro. 5. Cuadro estadístico de la pregunta Nº4-post test cliente
+
+             Alternativa                  Numero    %
+
+
+             Integra                      18        90%
+
+             Errónea                      2         10%
+
+
+             Total de Encuestados         20        100%
+
+
+
+
+       Representación Gráfica:
+
+
+
+
+                                 Pregunta Nro 04
+           100%
+            90%
+            80%
+            70%
+            60%
+            50%
+            40%
+            30%
+            20%
+            10%
+             0%
+                       INTEGRA      ERRONEA
+
+
+           Gráfico Nro. 4. Gráfico de barras de la pregunta Nº4- post test cliente
+
+
+
+
+                                                                                     95
+5. Al momento de interactuar con el sistema solicitando realizar alguna funcionalidad
+   el comportamiento del sistema es:
+
+   Adecuado ________ Inadecuado _________
+
+
+
+   Tabla Nro. 6. Cuadro estadístico de la pregunta Nº5-post test cliente
+
+             Alternativa                  Numero    %
+
+             Adecuado                     18        90%
+
+             Inadecuado                   2         10%
+
+             Total de Encuestados         20        100%
+
+
+
+
+       Representación Gráfica:
+
+
+
+
+                           Pregunta Nro 05
+         100%
+          90%
+          80%
+          70%
+          60%
+          50%
+          40%
+          30%
+          20%
+          10%
+           0%
+                 ADECUADO    INADECUADO
+
+
+          Gráfico Nro. 5. Gráfico de barras de la pregunta Nº5- post test cliente
+
+
+
+
+                                                                                    96
+6. El tiempo de acceso para utilizar el sistema es de:
+
+    Rápido (1-20 s.) ________ Lento (20 a más s.)_________
+
+
+
+   Tabla Nro. 7. Cuadro estadístico de la pregunta Nº6-post test cliente
+
+             Alternativa                 Numero      %
+
+             Rápido(1-20 segundos)       18          90%
+
+             Lento(20 segundos a mas) 2              10%
+
+             Total de Encuestados        20          100%
+
+
+
+
+       Representación Gráfica:
+
+
+
+
+                                Pregunta Nro 06
+              100%
+               90%
+               80%
+               70%
+               60%
+               50%
+               40%
+               30%
+               20%
+               10%
+                0%
+                       RAPIDO       LENTO
+
+
+
+         Gráfico Nro. 6. Gráfico de barras de la pregunta Nº 6- post test cliente
+
+
+
+
+                                                                                    97
+RESULTADOS DE LA ENCUESTA POST TEST- USUARIO
+
+
+1. El tiempo que se demoran en atenderlo utilizando el SIG considera usted que es:
+
+   Rápido (1-5 m.) ________ Lento (5 a más m.)_________
+
+
+
+   Tabla Nro. 8. Cuadro estadístico de la pregunta Nº1-post test usuario
+
+             Alternativa                Numero     %
+
+
+             Rápido(1-5 min)            18         90%
+
+             Lento(5 min a mas)         2          10%
+
+
+             Total de Encuestados       20         100%
+
+
+
+
+     Representación Gráfica:
+
+
+
+
+                               Pregunta Nro 01
+             100%
+              90%
+              80%
+              70%
+              60%
+              50%
+              40%
+              30%
+              20%
+              10%
+               0%
+                      RAPIDO        LENTO
+
+
+          Gráfico Nro. 7. Gráfico de barras de la pregunta Nº1- post test usuario
+
+
+
+
+                                                                                    98
+2.   La información que el SIG emite y le son entregados son:
+
+     Íntegros ________ Erróneos ________
+
+
+
+
+     Tabla Nro. 9. Cuadro estadístico de la pregunta Nº2-post test usuario
+
+              Alternativa                 Numero     %
+
+
+              Íntegros                    18         90%
+
+
+              Erróneos                    2          10%
+
+
+              Total de Encuestados        20         100%
+
+
+
+
+        Representación Gráfica:
+
+
+
+
+                                Pregunta Nro 02
+               100%
+                90%
+                80%
+                70%
+                60%
+                50%
+                40%
+                30%
+                20%
+                10%
+                 0%
+                         INTEGROS   ERRONEOS
+
+
+            Gráfico Nro. 8. Gráfico de barras de la pregunta Nº2- post test usuario
+
+
+
+
+                                                                                      99
+3. Al momento de realizar algún trámite la información que se le solicita considera
+   usted que es:
+
+   Simple ________ Compleja ________
+
+
+
+  Tabla Nro. 10. Cuadro estadístico de la pregunta Nº3-post test usuario
+
+             Alternativa                Numero     %
+
+             Simple                     18         90%
+
+
+             Compleja                   2          10%
+
+             Total de Encuestados       20         100%
+
+
+
+
+      Representación Gráfica:
+
+
+
+
+                                    Pregunta Nro 03
+                  100%
+                   90%
+                   80%
+                   70%
+                   60%
+                   50%
+                   40%
+                   30%
+                   20%
+                   10%
+                      0%
+                           SIMPLE     COMPLEJO
+
+
+          Gráfico Nro. 9. Gráfico de barras de la pregunta Nº3- post test usuario
+
+
+
+
+                                                                                    100
+        4. Obtiene beneficio con el sistema:
+
+            Sí ________ No ________
+
+
+
+           Tabla Nro. 11. Cuadro estadístico de la pregunta Nº4-post test usuario
+
+                      Alternativa                        Numero      %
+
+
+                      Si                                 18          90%
+
+
+                      No                                 2           10%
+
+
+                      Total de Encuestados               20          100%
+
+
+
+
+               Representación Gráfica:
+
+
+                                           Pregunta Nro 04
+                           100%
+                            90%
+                            80%
+                            70%
+                            60%
+                            50%
+                            40%
+                            30%
+                            20%
+                            10%
+                             0%
+                                      SI            NO
+
+                      Gráfico Nro. 10. Gráfico de barras de la pregunta Nº4- post test usuario
+
+
+
+
+Se obtuvo como resultado de la Encuesta el 90% de aceptación y un 10% negación por lo tanto
+
+se llega a la conclusión que el Sistema de Información Geográfica con Interfaz web optimiza la
+
+información de la ciudad de puno.
+
+
+
+
+                                                                                                 101
+      CAPITULO V
+CONCLUSIONES Y RECOMENDACIONES
+
+
+
+
+                                 102
+                                 CONCLUSIONES
+
+PRIMERA. Que el análisis de requerimiento del desarrollo del sistema fue primordial
+
+porque ayudo a reunir todas las necesidades, problemas e inconvenientes obteniendo
+
+como resultado mejor calidad del Sistema de Información Geográfico y la satisfacción
+
+del mismo.
+
+
+
+SEGUNDA. La lógica de programación empleada es lineal, limpia, modular y sólida.
+
+Cubre las exigencias corporativas y permite posteriores mejoras y modificaciones tanto
+
+en el diseño como en el funcionamiento, empleando un mínimo de cambios en la
+
+estructura del código escrito.
+
+
+
+TERCERA. En la implementación del Sistema las herramientas web utilizadas (APIs de
+
+Google, los Script Query – Ajax, Iframe, Php y MySql) se han adecuado a las exigencias
+
+del problema. La interfaz de usuario es sencilla, intuitiva, amigable y eficiente desde el
+
+punto de vista funcional. Desde el punto de vista visual su diseño es atractivo y trasmite
+
+la identidad corporativa.
+
+
+
+CUARTA. En cuanto a la selección tecnológica y la implementación de la base de datos
+
+se puede concluir que existe una sincronía entre las plataformas utilizadas optimizando
+
+el flujo de información entre el servidor y el cliente, con una alta calidad en su
+
+representación de cara al usuario final.
+
+
+
+QUINTA. La estructura de la base de datos cubre las exigencias tanto de la aplicación
+
+como de los intereses corporativos de difusión de su información.
+
+
+
+
+                                                                                      103
+                          RECOMENDACIONES
+
+PRIMERA. Se recomienda que al desarrollar una aplicación es necesario seguir un
+
+proceso de Análisis y Diseño para que estos ayuden a mejorar la funcionalidad, la
+
+implementación e implantación del Sistema.
+
+
+
+SEGUNDA. Se recomienda el uso de APIs de Google, los Script Query – Ajax, Iframe, Php
+
+y MySql como herramientas web por que permiten a los usuarios personalizar sus
+
+mapas, desarrollar entornos de consultas, publicar actividades y servicios, e incrementa
+
+la comunicación entre los usuarios mejorarando, optimizando y facilitando la usabilidad,
+
+accesibilidad del usuario con el Sistema de Información Geográfico.
+
+
+
+TERCERA. Se recomienda en la recopilación de datos el uso del método de comunicación
+
+para este tipo de investigaciones por que ayudan a extraer información real para su
+
+mejor análisis.
+
+
+
+CUARTO. Elaborar una base de datos única y centralizada de gestión de la información
+
+relacionada con la Información de cada uno de los sectores.
+
+
+
+QUINTO. Personalizar los marcadores.
+
+
+
+
+                                                                                    104
+BIBLIOGRAFÍA
+
+
+1. burrough, Peter Alan. Principles of Geographical Information Systems. Principles of
+
+Geographical Information Systems. s.l. : theClarendon Press, 1986.
+
+2. Aranoff. Geographic Information System: A Management Perspective. Otawa : WDL.
+
+Publications, 1989.
+
+3. (ESRI), Environmental Systems Research Institute Inc. company specializing in the
+
+development of geographic information systems (GIS). New York : s.n., 1969.
+
+4. Sistema de Informacion Geografico (SIG) en Salud Animal. Componente de un SIG. [Online]
+
+[Cited:                           enero                               21,                        2013.]
+
+http://www.rlc.fao.org/es/prioridades/transfron/sig/intro/compo.htm.
+
+5.    GIS   TOOL.      Introduccion     a    los   SIG.    [Online]    [Cited:    ENERO    21,   2013.]
+
+http://www.geogra.uah.es/gisweb/1modulosespanyol/IntroduccionSIG/GISModule/GISThe
+
+ory.htm.
+
+6.    Sistema     de     Informacion    Geografico.        [Online]    [Cited:    ENERO    21,   2013.]
+
+http://enciclopedia.us.es/index.php/Sistema_de_informaci%C3%B3n_geogr%C3%A1fica.
+
+7. S.I.G Definiciones Basicas. [Online] Ayuga Tellez Esperanza, 2008. [Cited: ENERO 21, 2013.]
+
+http://www.upanamericana.edu.ec/upac/templates/upac/descargas/sigelementosbasicos.p
+
+df.
+
+8. Olmos, Pablo Sastre. Sistemas de Información Geográfica (SIG): Técnicas básicas para
+
+estudios     de        biodiversidad.       [Online]      2010.   [Cited:        ENERO    21,    2013.]
+
+http://www.gbif.es/ficheros/TallerSiG-Geolocate2011/CuadernilloSIG_2011.pdf.
+
+9. AJAX. [Online] http://es.wikipedia.org/wiki/AJAX..
+
+10. Etxebarria, Pilar. Utilización Didáctica de Google Maps. Google Maps. [Online]
+
+https://maps.google.com.pe/maps?hl=es&tab=wl.
+
+
+
+
+                                                                                                   105
+11.   Sistemas    De    Informacion.    [Online]   [Cited:   ENERO     21,   2013.]
+
+http://enciclopedia.us.es/index.php/Sistema_de_informaci%C3%B3n_geogr%C3%A1fica.
+
+
+
+
+                                                                                   106
+ANEXOS
+
+
+
+
+         107
+                               CODIGO FUENTE DEL SISTEMA
+
+CODIGO FUENTE DEL INDEX.PHP
+
+<!DOCTYPE html>
+<html lang="en"><head>
+   <title></title>
+   <meta charset="utf-8">
+   <link rel="stylesheet" type="text/css" href="css/style_common.css" />
+   <link rel="stylesheet" type="text/css" href="css/style1.css" />
+   <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
+   <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+   <link rel="stylesheet" href="css/layout.css" type="text/css" media="screen">
+   <link href='http://fonts.googleapis.com/css?family=Adamina' rel='stylesheet'
+type='text/css'>
+   <link rel="stylesheet" type="text/css" href="Estilos/index.css" media="screen" />
+   <link rel="stylesheet" type="text/css" href="Estilos/estilo1.css" media="screen" />
+   <link rel="shortcut icon" href="icons/peru.png" type="image/x-icon">
+  <script type="text/javascript" src="Ajax/jquery.js"></script>
+          <script type="text/javascript" src="Ajax/jquery-ui.js"></script>
+          <script src="Ajax/slider.js" type="text/javascript"></script>
+          <script type="text/javascript" src="Ajax/index.js"></script>
+          <script type="text/javascript" src="Ajax/jquery-cross-slide.js"></script>
+          <script type="text/javascript" src="Ajax/jquery.tipsy.js"></script><script
+type="text/javascript"></script>
+   <script src="js/jquery-1.6.3.min.js" type="text/javascript"></script>
+   <script src="js/cufon-yui.js" type="text/javascript"></script>
+   <script src="js/cufon-replace.js" type="text/javascript"></script>
+   <script src="js/Lobster_13_400.font.js" type="text/javascript"></script>
+   <script src="js/NewsGoth_BT_400.font.js" type="text/javascript"></script>
+   <script src="js/FF-cash.js" type="text/javascript"></script>
+   <script src="js/easyTooltip.js" type="text/javascript"></script>
+          <script src="js/script.js" type="text/javascript"></script>
+   <script src="js/bgSlider.js" type="text/javascript"></script>
+   <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
+   <script src="js/tms-0.3.js" type="text/javascript"></script>
+   <script src="js/tms_presets.js" type="text/javascript"></script>
+          <!--[if lt IE 7]>
+   <div style=' clear: both; text-align:center; position: relative;'>
+      <a href="http://windows.microsoft.com/en-US/internet-
+explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+          <img
+src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg
+" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster,
+safer browsing experience, upgrade for free today." />
+      </a>
+   </div>
+          <![endif]-->
+   <!--[if lt IE 9]>
+                     <script type="text/javascript" src="js/html5.js"></script>
+      <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+          <![endif]-->
+                                                                                         108
+</head>
+<body id="page1">
+         <div id="bgSlider"></div>
+   <div class="bg_spinner"></div>
+         <div class="extra">
+     <!--==============================header=================================-->
+     <?php
+                         $activo=1;
+                         include("librerias/cabecera.php");
+     ?>
+     <!--==============================content================================-->
+     <?php
+                         include("librerias/selector.php");
+     ?>
+<div class="bg">
+<div class="padding">
+<div class="wrapper">
+<article class="col-1">
+<div id="container">
+<div id="dropdown">
+<ul>
+    <h4><strong>Historia de</strong> <em>Puno</em></h4>
+ <li class="drop">Los antecedentes de la Ciudad del Lago se remontan hasta los primeros
+pobladores altiplánicos; después están asociados a las diversas aldeas puquinas y aymaras que
+florecieron en el área donde hoy se encuentra esta ciudad. Las aldeas puquinas resultaron
+establecidas por los qaluyos, pukaras y tiwanakus y las aldeas aymaras por los qollas y lupaqas.
+En este medio geográfico, hace medio siglo, surgió un pueblo inka, con la denominación de
+Puñuy; sin embargo, este espacio logró mayor notoriedad cuando el pueblo minero de San Luis
+de Alba hizo de capital de corregimiento y cuando se fundó la villa de Nuestra Señora de la
+Concepción y San Carlos; se consolidó cuando se convirtió en sede de intendencia, que es
+equivalente a capital departamental.
+</li>
+</ul>
+
+</div></div>
+      <div class="relative">
+    <a class="button-2" href="puno.php">Leer Mas</a>
+</div>
+</article>
+<article class="col-1">
+<div id="container">
+<h4><strong>Sabes</strong> <em>¿Qué es un SIG?</em></h4>
+<li class="drop">¿Qué es un SIG?
+Un Sistema de Información Geográfica (SIG o GIS, en su acrónimo inglés [Geographic Information
+System]) es una integración organizada de hardware, software ydatos geográficos diseñada para
+capturar, almacenar, manipular, analizar y desplegar en todas sus formas la información
+geográficamente referenciada con el fin de resolver problemas complejos de planificación y de
+gestión.
+FUNCIONAMIENTO DE UN SIG
+El SIG funciona como una base de datos con información geográfica (datos alfanuméricos) que
+se encuentra asociada por un identificador común a los objetos gráficos de un mapa digital. De
+
+                                                                                            109
+esta forma, señalando un objeto se conocen sus atributos e, inversamente, preguntando por un
+registro de la base de datos...
+</li>
+</ul><div id="menu">
+<a class="button-2" href="puno.php">Leer Mas</a>
+</div>
+</div>
+</article>
+<?
+ // get GPC data:
+ if(isset($_REQUEST['date'])) $date = $_REQUEST['date'];
+ if(isset($_REQUEST['year'])) $year = $_REQUEST['year'];
+ if(isset($_REQUEST['month'])) $month = $_REQUEST['month'];
+ if(isset($_REQUEST['offset'])) $offset = $_REQUEST['offset'];
+
+ // set PHP_SELF:
+ if(isset($_SERVER['PHP_SELF'])) $PHP_SELF = $_SERVER['PHP_SELF'];
+?>
+
+Selecional año y mes:
+<form action="<? echo $PHP_SELF; ?>" method="post">
+<?
+ // if year is empty, set year to current year:
+ if($year == '') $year = date('Y');
+
+ // if month is empty, set month to current month:
+ if($month == '') $month = date('n');
+
+?>
+<input type="text" name="year" size="4" maxlength="4" value="<? echo $year; ?>">
+<select name="month">
+<?
+ // build selection (months):
+ $months = array('Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio',
+               'Julio', 'Agosto', 'Setiembre', 'Octubre', 'Noviembre', 'Diciembre');
+ for($i = 1; $i <= 12; $i++) {
+   echo '<option value="' . $i . '"';
+   if($i == $month) echo ' selected';
+   echo '>' . $months[$i-1] . "</option>\n";
+ }
+?>
+</select>
+<input type="submit" value="Avance">
+</form>
+<p>
+<?
+ // include calendar class:
+ include('calendar.inc.php');
+
+ // create calendar:
+ $cal = new CALENDAR($year, $month);
+ $cal->offset = $offset;
+                                                                                        110
+ $cal->link = $PHP_SELF;
+ echo $cal->create();
+
+ // if a day is clicked, view that date:
+ if(isset($date)) echo '<p>You clicked ' . $date . '.';
+?>
+
+ <div class="relative">
+ </div>
+ </article>
+ </div>
+ </div>
+</div>
+<div class="padding-2">
+<div class="indent-top">
+<div class="wrapper">
+<div id="container">
+<article class="col-3">
+<h4><strong>Bienvenido</strong> <em>Al SIG Puno</em></h4>
+<p class="color-2 p1">En Puno actualmente tenemos al alcance herramientas Web, que nos
+proporciona información de los distintos establecimientos y la forma de llegar a ellos, pero
+usando referencias simples, que no permiten hacer análisis para determinar la correcta
+ubicación de un nuevo establecimiento, tampoco se tiene referencia de las rutas de transporte,
+la ubicación de los centros educativos y otros. Información que es de vital importancia para
+poder realizar estudios, análisis sobre la ubicación, y densidad poblacional usando un interfaz
+web que sea más factible su usabilidad. Es por lo que el presente trabajo de Investigación
+pretende dar respuesta a la siguiente interrogante:
+¿En qué medida el Sistema de Información Geográfico con interfaz Web proporciona
+información confiable de la Ciudad de Puno?
+</p>
+ </article>
+ <div class="extra-wrap">
+ <div class="main">
+  <div class="view view-first">
+   <img src="images/banner-1.jpg" />
+    <div class="mask">
+ <h4><strong><em>S.I.G</em></strong></h4>
+ <p>SI DESEAS MAS ESTADISTICA E INFORMACION DETALLADA ACERCA DE LOS COLEGIOS,
+LUGARES TURISTICOS Y COMERCIO ENTRAR ACA.</p>
+ <a href="puno.php" class="info">SEGUIR LEENDO</a>
+</div>
+</div>
+</div>
+ </div>
+</section>
+<div class="block"></div>
+</div>
+</div>
+</div>
+<!--==============================footer=================================-->
+   <footer>
+         <div class="padding">
+                                                                                           111
+        <div class="main">
+         <div class="wrapper">
+                 <div class="fleft footer-text">
+                 <span>Copyright &copy; 2013 mipuno.org- Puno- Derechos Reservados &copy;
+Autor 2013</p></span>
+              <!-- {%FOOTER_LINK} -->
+            </div>
+            <ul class="list-services">
+                 <li>Siguenos En:</li>
+                 <li><a class="tooltips" title="facebook"
+href="www.facebook.com/mi.puno.39"></a></li>
+              <li class="item-1"><a class="tooltips" title="twitter"
+href="twitter.com/mipuno1"></a></li>
+             </ul>
+         </div>
+       </div>
+    </div>
+  </footer>
+  <script type="text/javascript"> Cufon.now(); </script>
+  <script type="text/javascript">
+                 $(window).load(function() {
+                          $('.slider')._TMS({
+                                   duration:1000,
+                                   easing:'easeOutQuart',
+                                   preset:'simpleFade',
+                                   slideshow:10000,
+                                   banners:'fade',
+                                   pauseOnHover:true,
+                                   waitBannerAnimation:false,
+                                   pagination:'.pags'
+                          });
+                 });
+  </script>
+</body>
+</html>
+
+
+
+
+CODIGO FUENTE DE LA CABECERA
+
+<?php
+
+//      $activo=$_GET['activo'];
+
+?>
+
+     <header>
+
+        <div class="top-row">
+
+        <div class="main">
+
+                <div class="wrapper">
+                                                                                     112
+           <h1><a href="index.php">GoodCook</a></h1>
+
+               <ul class="pagination">
+
+                  <li class="current"><a href="images/bg-img1.jpg">1</a></li>
+
+                  <li><a href="images/bg-img2.jpg">2</a></li>
+
+                  <li><a href="images/bg-img3.jpg">3</a></li>
+
+               </ul>
+
+               <strong class="bg-text">Imagen de Fondo:</strong>
+
+           </div>
+
+         </div>
+
+      </div>
+
+      <div class="menu-row">
+
+        <div class="menu-border">
+
+                  <div class="main">
+
+               <nav>
+
+            <ul class="topnav BordeInferior">
+
+                    <li><a <?php if ($activo == 1) echo 'class="active"';?> href="index.php">Mi
+Puno</a></li>
+
+                               <li><a <?php if ($activo == 2) echo 'class="active"';?>
+href="pagina.php?activo=2">Educativo</a></li>
+
+                <li><a <?php if ($activo == 3) echo 'class="active"';?>
+href="pagina.php?activo=3">Turístico</a>
+
+                        <ul class="subnav">
+
+                              <li><a href="pagina.php?activo=7">Rutas</a></li>
+
+                          </ul>
+
+                    </li>
+
+                <li><a <?php if ($activo == 4) echo 'class="active"';?>
+href="pagina.php?activo=4">Comercial</a></li>
+
+                <li class="last"><a <?php if ($activo == 5) echo 'class="active"';?>
+href="pagina.php?activo=5">Nosotros</a></li>
+
+                       <li>
+
+      <a href="pagina.php?activo=6">Buscar</a>
+
+                              </li>
+
+                  </ul>
+                                                                                              113
+                 </nav>
+
+            </div>
+
+          </div>
+
+        </div>
+
+                          <div class="ic">Diseñado por mipuno.org</div>
+
+    </header>
+
+
+
+
+CODIGO DE BUSQUEDA
+
+<script type="text/javascript">
+$(document).ready(function () {
+         $("#search").keyup(function (e) {
+                $.ajax({
+                      type: "POST",
+                      url: "librerias/buscarrpta.php",
+                      data: "key="+$("#search").val(),
+                      success: function(datos){
+                          if(datos == "NO"){
+                                   $("#result").html("<h2>NO HAY RESULTADOS</h2>");
+                          }
+                          else
+                          {
+                                   $("#result").html(datos);
+                          }
+                    }
+                });
+         });
+});
+</script>
+
+
+
+CÓDIGO ALGORITMO BÚSQUEDA
+
+<?php
+
+$direc="localhost";
+$database="mpuno";
+$user=" ";
+$password=" ";
+
+$key = $_REQUEST["key"];
+/*$direc="localhost";
+$database="mpuno";
+$user="root";
+$password="";*/
+                                                                                      114
+$val = "";
+
+if($key!=""){
+
+$conexion=mysql_connect ($direc, $user, $password) or die ('problema conectando porque :' .
+mysql_error());
+mysql_select_db ($database,$conexion);
+$cadena ="SELECT * FROM lugares where nombre LIKE '%$key%'";
+
+$tabla = mysql_query($cadena, $conexion) or die ("problema con cadena de
+conexion<br><b>" . mysql_error()."</b>");
+
+while ($registro = mysql_fetch_array($tabla))
+                 {
+                          $val = '<h3>'.$registro['nombre'].'</h3>
+        <label>(<a href="pagina.php?activo='.$registro['tipolugar'].'">ver mas</a>)
+</label><br>
+        <label><b>Categoria: </b>'. (($registro['tipolugar'] == 2)?"Educativo":
+(($registro['tipolugar']==3)?"Turistico":"Comercial") ).'</label><br>
+        <label><b>Tel&eacute;fono: </b>'.$registro['telefono'].'</label><br>
+        <label><b>URL: </b> <a href="'.$registro['web'].'">'.$registro['web'].'</a> </label>
+        <p>'.$registro['descripcion'].'</p>';
+                 }
+}
+                 if($val =="")
+                 {
+                          echo "NO";
+                 }
+                 else
+                 {
+                          echo $val;
+                 }
+
+?>
+
+
+
+DIV PARA SELECCIONAR
+<link rel="stylesheet" type="text/css" href="Estilos/estilo1.css" media="screen" />
+
+<link href="../Estilos/index22.css" rel="stylesheet" type="text/css" />
+
+<link href="../Estilos/estilo1.css" rel="stylesheet" type="text/css" />
+
+
+
+<div class="inner">
+
+<div class="main">
+
+ <section id="content">
+
+ <div class="slider">
+
+                                                                                               115
+ <ul class="items">
+
+ <li>
+
+ <img src="images/slider-img1.jpg" alt="" />
+
+  <div class="banner">
+
+ <strong class="title">
+
+  <h3 align="center">Links de Interes Educativo</h3>
+
+ </strong>
+
+ <div id="Derecha">
+
+                  <div id="Cuerpo">
+
+                  <div id="menu">
+
+                                 <ul class="lin">
+
+                          <li><a href="http://www.minedu.gob.pe">MINEDU</a>
+
+                            <li><a
+href="http://www.drepuno.gob.pe">D.R.E.P.PUNO</a></li>
+
+                                 <li><a href="http://escale.minedu.gob.pe/">ESCALE</a></li>
+
+       <li><a href="http://siagie.minedu.gob.pe">SIAGIE</a></li>
+
+<li><a href="http://www.minedu.gob.pe/normatividad/">NORMAS Y LEYES</a></li>
+
+<li><a href="http://www.perueduca.edu.pe/">PERU EDUCA</a></li>
+
+
+</ul>
+
+</div>
+
+
+
+</div>
+
+</li>
+
+<li>
+
+<img src="images/slider-img2.jpg" alt="" />
+
+<div class="banner">
+
+<strong class="title">
+
+<h3 align="center">Links de Interes Turistico</h3>
+
+</strong>
+
+<div id="Derecha">
+
+                  <div id="Cuerpo">
+                                                                                         116
+                 <div id="menu">
+
+                               <ul class="lin">
+
+                                   <li><a
+href="http://www.mincetur.gob.pe">MINCETUR</a></li>
+
+        <li><a href="http://www.dirceturpuno.gob.pe">DIRCETUR</a>
+
+                            <li><a href="http://www.prensatur.pe">PRENSATUR</a></li>
+
+   <li><a href="http://www.cofide.com.pe">COFIDE</a></li>
+
+</div>
+
+</div>
+
+ </li>
+
+ <li>
+
+<img src="images/slider-img3.jpg" alt="" />
+
+<div class="banner">
+
+<strong class="title">
+
+<h3 align="center">Links de Interes Comercio</h3>
+
+</strong>
+
+ <div id="Derecha">
+
+                 <div id="Cuerpo">
+
+                 <div id="menu">
+
+                               <ul class="lin">
+
+                         <li><a href="http://www.empleosperu.gob.pe">EMPLEOS
+PERU</a></li>
+
+                       <li><a href="http://www.sunat.gob.pe/cl-ti-
+itmrconsruc/jcrS00Alias">CONSULTA. RUC</a></li>
+
+         <li><a href="http://www.sunat.gob.pe">SUNAT</a></li>
+
+         <li><a href="http://www.mintra.gob.pe/">MINTRA</a>
+
+                         <li><a href="http://www.camarapuno.org">CAMARA DE
+COMERCIO</a></li>
+
+
+
+         </ul>
+
+</div>
+
+  </li>
+
+
+                                                                                       117
+  </ul>
+
+<a class="banner-2" href="#"></a>
+
+</div>
+
+          <ul class="pags">
+
+             <li><a href="#">1</a></li>
+
+             <li><a href="#">2</a></li>
+
+             <li><a href="#">3</a></li>
+
+           </ul>
+
+
+
+
+CODIGO SELECTOR
+
+
+<link rel="stylesheet" type="text/css" href="Estilos/estilo1.css" media="screen" />
+
+<link href="../Estilos/index22.css" rel="stylesheet" type="text/css" />
+
+<link href="../Estilos/estilo1.css" rel="stylesheet" type="text/css" />
+
+
+
+<div class="inner">
+
+<div class="main">
+
+ <section id="content">
+
+ <div class="slider">
+
+ <ul class="items">
+
+ <li>
+
+ <img src="images/slider-img1.jpg" alt="" />
+
+  <div class="banner">
+
+ <strong class="title">
+
+  <h3 align="center">Links de Interes Educativo</h3>
+
+ </strong>
+
+ <div id="Derecha">
+
+                                                                                      118
+                  <div id="Cuerpo">
+
+                  <div id="menu">
+
+                                 <ul class="lin">
+
+                         <li><a href="http://www.minedu.gob.pe">MINEDU</a>
+
+                            <li><a
+href="http://www.drepuno.gob.pe">D.R.E.P.PUNO</a></li>
+
+                                 <li><a href="http://escale.minedu.gob.pe/">ESCALE</a></li>
+
+       <li><a href="http://siagie.minedu.gob.pe">SIAGIE</a></li>
+
+<li><a href="http://www.minedu.gob.pe/normatividad/">NORMAS Y LEYES</a></li>
+
+<li><a href="http://www.perueduca.edu.pe/">PERU EDUCA</a></li>
+
+
+
+
+</ul>
+
+</div>
+
+
+
+</div>
+
+</li>
+
+<li>
+
+<img src="images/slider-img2.jpg" alt="" />
+
+<div class="banner">
+
+<strong class="title">
+
+<h3 align="center">Links de Interes Turistico</h3>
+
+</strong>
+
+<div id="Derecha">
+
+                  <div id="Cuerpo">
+
+                  <div id="menu">
+
+                                 <ul class="lin">
+
+                                   <li><a
+href="http://www.mincetur.gob.pe">MINCETUR</a></li>
+
+        <li><a href="http://www.dirceturpuno.gob.pe">DIRCETUR</a>
+
+                             <li><a href="http://www.prensatur.pe">PRENSATUR</a></li>
+
+   <li><a href="http://www.cofide.com.pe">COFIDE</a></li>
+
+                                                                                         119
+</div>
+
+</div>
+
+ </li>
+
+ <li>
+
+<img src="images/slider-img3.jpg" alt="" />
+
+<div class="banner">
+
+<strong class="title">
+
+<h3 align="center">Links de Interes Comercio</h3>
+
+</strong>
+
+ <div id="Derecha">
+
+                   <div id="Cuerpo">
+
+                   <div id="menu">
+
+                                  <ul class="lin">
+
+                           <li><a href="http://www.empleosperu.gob.pe">EMPLEOS
+PERU</a></li>
+
+                       <li><a href="http://www.sunat.gob.pe/cl-ti-
+itmrconsruc/jcrS00Alias">CONSULTA. RUC</a></li>
+
+         <li><a href="http://www.sunat.gob.pe">SUNAT</a></li>
+
+         <li><a href="http://www.mintra.gob.pe/">MINTRA</a>
+
+                           <li><a href="http://www.camarapuno.org">CAMARA DE
+COMERCIO</a></li>
+
+
+
+         </ul>
+
+</div>
+
+  </li>
+
+  </ul>
+
+<a class="banner-2" href="#"></a>
+
+</div>
+
+            <ul class="pags">
+
+                 <li><a href="#">1</a></li>
+
+                 <li><a href="#">2</a></li>
+
+                 <li><a href="#">3</a></li>
+
+                                                                                 120
+           </ul>
+
+
+
+
+CODIGO FUENTE CONEXIÓN DE BD
+
+<?php
+
+        $codmod = $_GET['codmod'];
+
+        $type = $_GET['type'];
+
+// Ejemplo de acceso a base de datos en PHP
+
+$direc="mpuno.db.11064294.hostedresource.com";
+
+$database="mpuno";
+
+$user="mpuno";
+
+$password="M1l@gr0s";
+
+/*$direc="localhost";
+
+$database="mpuno";
+
+$user="root";
+
+$password="";*/
+
+$conexion=mysql_connect ($direc, $user, $password) or die ('problema conectando porque :' .
+mysql_error());
+
+mysql_select_db ($database,$conexion);
+
+if ($codmod==0)
+
+        $cadena ="SELECT * FROM lugares where activado ='si' and tipolugar = '".$type."'";
+
+else
+
+        $cadena ="SELECT * FROM lugares where codmodular ='".$codmod."' and tipolugar =
+'".$type."'";
+
+$tabla = mysql_query($cadena, $conexion) or die ("problema con cadena de
+conexion<br><b>" . mysql_error()."</b>");
+
+//$registros = mysql_num_rows($tabla);
+                                                                                             121
+//echo "Encontrados: ".$registros."<br>";
+
+?>
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style type="text/css">
+
+#detail {
+
+           clear: both;
+
+           font-family: verdana;
+
+}
+
+#detail h2 {
+
+           color: green;
+
+           font-size: 1em;
+
+           text-align: center;
+
+}#info {
+
+           font-size: .9em;
+
+           font-family: verdana;
+
+           width: 250px;
+
+           height: 150px;
+
+}
+
+#detail p {
+
+           font-size: .8em
+
+}
+
+</style>
+
+<link rel="stylesheet" type="text/css" href="jquery.superbox.css">
+
+<script type="text/javascript" src="js/jquery.js"></script>
+
+<script type="text/javascript"
+src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<script type="text/javascript" src="js/jquery.superbox.js"></script>
+
+<script type="text/javascript">
+
+           <?php
+
+
+                                                                       122
+       if ($codmod!=0)
+
+       {       while ($registro = mysql_fetch_array($tabla))
+
+               {
+
+                        $lng=$registro['longitud'];
+
+                        $lat=$registro['latitud'];
+
+                        $nomb=$registro['nombre'];
+
+                        $cod=$registro['codmodular'];
+
+                        $url=$registro['web'];
+
+                        $img=$registro['imagen'];
+
+                        $desc=$registro['descripcion'];
+
+                        $fono=$registro['telefono'];
+
+                        $dire=$registro['direccion'];
+
+                        $email=$registro['email'];
+
+               }
+
+       }
+
+       ?>
+
+       function initialize()
+
+       {
+
+               $.superbox();
+
+               var popup;
+
+               var n=1;
+
+               var options =
+
+               {        zoom: <?php if ($codmod==0) echo "14"; else echo "18"; ?>
+
+                        , center: new google.maps.LatLng(<?php if ($codmod==0) echo "-
+15.8346, -70.0239"; else echo $lat.",".$lng; ?>)
+
+                        , mapTypeId: google.maps.MapTypeId.ROADMAP
+
+       };
+
+               var map = new google.maps.Map($("#map_canvas").get(0), options);
+
+               var place = new Array();
+
+               var foto = new Array();
+
+               var url = new Array();
+
+
+                                                                                         123
+               var fono = new Array();
+
+               var name = new Array();
+
+               var dire = new Array();
+
+               var email = new Array();
+
+               <?php
+
+                       if ($codmod==0)
+
+                       {
+
+                               while ($registro = mysql_fetch_array($tabla))
+
+                               {         $lng=$registro['longitud'];
+
+                                         $lat=$registro['latitud'];
+
+                                         $nomb=$registro['codmodular'];
+
+                                         $img=$registro['imagen'];
+
+                                         $url=$registro['web'];
+
+                                         $fono=$registro['telefono'];
+
+                                         $nomb=$registro['nombre'];
+
+                                         $dire=$registro['direccion'];
+
+                                         $email=$registro['email'];
+
+               ?>
+
+                                         foto['<?php echo $nomb; ?>'] = '<?php echo $img; ?>';
+
+                                         url['<?php echo $nomb; ?>'] = '<?php echo $url; ?>';
+
+                                         fono['<?php echo $nomb; ?>'] = '<?php echo $fono;
+?>';
+
+                                         name['<?php echo $nomb; ?>'] = '<?php echo $nomb;
+?>';
+
+                                         dire['<?php echo $nomb; ?>'] = '<?php echo $dire; ?>';
+
+                                         email['<?php echo $nomb; ?>'] = '<?php echo $email;
+?>';
+
+                                      place['<?php echo $nomb; ?>'] = new
+google.maps.LatLng(<?php echo $lat; ?>, <?php echo $lng; ?>);
+
+               <?php
+
+                               }
+
+                       }
+
+
+                                                                                             124
+                       else
+
+                       {
+
+               ?>
+
+                                foto['<?php echo $nomb; ?>'] = '<?php echo $img; ?>';
+
+                                url['<?php echo $nomb; ?>'] = '<?php echo $url; ?>';
+
+                                fono['<?php echo $nomb; ?>'] = '<?php echo $fono; ?>';
+
+                                name['<?php echo $nomb; ?>'] = '<?php echo $nomb; ?>';
+
+                                dire['<?php echo $nomb; ?>'] = '<?php echo $dire; ?>';
+
+                                email['<?php echo $nomb; ?>'] = '<?php echo $email; ?>';
+
+                             place['<?php echo $nomb; ?>'] = new
+google.maps.LatLng(<?php echo $lat; ?>, <?php echo $lng; ?>);
+
+               <?php
+
+                       }
+
+               ?>
+
+               for(var i in place)
+
+               { var marker = new google.maps.Marker(
+
+                       { position: place[i]
+
+                                , map: map
+
+                                , title: i
+
+       //      , icon: 'http://gmaps-
+samples.googlecode.com/svn/trunk/markers/orange/marker' + n++ + '.png'
+
+                                , icon: '../icons/icon.png'
+
+                       });
+
+                       google.maps.event.addListener(marker, 'click', function()
+
+                       {
+
+                                if(!popup)
+
+                                {
+
+                                             popup = new google.maps.InfoWindow();
+
+                                }
+
+                                var note = '<div id="info" style="text-align:center; font-size:
+.7em"><img style="width: 162px; height:70px" src="../images/'+
+foto[this.title]+'"><br><div><b>' + name[this.title]+'</b></div><br><div style="font-size:.8em;
+text-align:left"><b>Para mas info</b>: <a href="'+url[this.title]+'">'+ url[this.title]
+                                                                                            125
++'</a><br><b>Direccion: '+dire[this.title]+'</b><br><b>Telefono: </b>'+ fono[this.title]
++'<br><b>Email: </b>'+email[this.title]+'</div></div>';
+
+                                 popup.setContent(note);
+
+                                 popup.open(map, this);
+
+                        })
+
+               }
+
+       }
+
+       function procesaClick()
+
+       {
+
+               alert("Marcador: " + this.title + ", ID: " + this.idColegio);
+
+       }
+
+</script>
+
+</head>
+
+<body onload="initialize()">
+
+       <?php
+
+       if($codmod > 6)
+
+       {?>
+
+               <div id="detail">
+
+                        <h2 style="clear:both"><?php echo $nomb; ?></h2>
+
+                        <div align="center">
+
+                                 <img src="../images/<?php echo $img; ?>">
+
+                        </div>
+
+                        <div>
+
+                                 <p>
+
+                                     <label><b>URL</b>:</label><a href="#"
+target="_blank"><?php echo $url; ?></a><br>
+
+                                         <label><b>Telefono</b>:</label><?php echo $fono; ?>
+
+                                         <br><br>
+
+                                         <?php echo $desc; ?></p>
+
+                        </div>
+
+                        <div>
+
+                                 <?php
+                                                                                           126
+                                       $tabla = mysql_query("SELECT * FROM galeria where
+id_lugar ='".$cod."'", $conexion);
+
+                                       while ($registro = mysql_fetch_array($tabla))
+
+                                       {
+
+                                                 echo '<a
+href="../images/foto/'.$registro["foto_grande"].'" rel="superbox[gallery][my_gallery]"><img
+src="../images/foto/chico/'.$registro["foto"].'" width="75" height="75" alt="" /></a>';
+
+                                       }?>
+
+                           </div>
+
+                  </div>
+
+        <?php }
+
+        ?>
+
+        <div id="map_canvas" style="width: 650px; height: 550px;"></div>
+
+</body>
+
+</html>
+
+<?php
+
+        mysql_close();
+
+?>
+
+
+
+
+                                                                                          127
+

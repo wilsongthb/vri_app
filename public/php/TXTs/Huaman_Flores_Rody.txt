@@ -1,0 +1,1587 @@
+           UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+              FACULTAD DE MEDICINA HUMANA
+
+
+
+
+                            TESIS
+
+“DETERMINACION DE LOS FACTORES DE RIESGO PARA COMPLIACION CON
+ PERITONITIS BACTERIANA ESPONTANEA EN PACIENTES CON CIRROSIS
+                  HEPATICA EN EL HCMM 2012”
+
+                      PRESENTADA POR:
+
+                Bachiller RODY HUAMAN FLORES
+
+             PARA OPTAR EL TITULO PROFESIONAL DE:
+
+                      MEDICO CIRUJANO
+
+                         PUNO – PERU
+
+                             2013
+
+
+
+                                                               1
+AREA: CIENCIAS CLINICAS
+TEMA: Patología quirúrgica
+
+
+
+
+                             2
+                                         ÍNDICE
+TITULO                                            1
+INDICE                                            3
+DEDICATORIA                                       4
+AGRADECIMIENTO                                    5
+RESUMEN                                           6
+ABSTRACT                                          7
+CAPITULO I: GENERALIDADES
+I.1 Introducción                                  8
+I.2 Antecedentes                                  10
+I.3 Justificación                                 12
+CAPITULO II: MARCO TEÓRICO                        13
+CAPITULO III: EL PROBLEMA DE INVESTIGACIÓN
+III.1 Objetivo Principal                          24
+III.2 Objetivos Secundarios                       24
+III.3 Hipótesis                                   25
+CAPITULO III: METODOLOGÍA
+IV.1 Tipo de investigación                        26
+IV.2 Población y muestra                          26
+IV.3 Variables De Estudio                         27
+IV.4 Procesamiento y Análisis De Datos            29
+IV.5 Ámbito de estudio                            30
+IV.6 Recursos                                     31
+CAPITULO V: RESULTADOS                            32
+CAPITULO VI: DISCUSIÓN                            39
+CONCLUSIONES                                      43
+RECOMENDACIONES                                   45
+REFERENCIAS BIBLIOGRÁFICAS                        46
+ANEXOS                                            52
+                                                       3
+     A mis padres Herminio y
+
+Juana, mis hermanos y mi amado
+
+sobrino por el cariño, confianza y
+
+apoyo incondicional, mi inmenso
+
+respeto y mi dedicatoria por todo lo
+
+que me dan      para no dejar de
+
+perseguir mis sueños.
+
+
+
+
+                                   4
+                            AGRADECIMIENTO
+
+
+
+
+A Dios por permitirme despertar cada día y permitirme seguir soñando.
+A la Universidad Nacional del Altiplano “Alma Mater” de mi formación profesional
+por haberme acogido en sus aulas durante los años de formación y culminación de
+mí instrucción medica.
+A la Facultad de Medicina Humana, por haberme dado la oportunidad de
+formarme como Médico Cirujano.
+Al Hospital Carlos Monge Medrano por las facilidades que brindaron durante la
+ejecución del presente trabajo.
+A mis amigos verdaderos por su apoyo incondicional a cada instante.
+
+
+
+
+                                                                               5
+RESUMEN:
+
+ “FACTORES DE RIESGO DE PERITONITIS BACTERIANA ESPONTANEA EN PACIENTES CON
+                          CIRROSIS HEPATICA EN EL HCMM 2012”
+
+       Introducción: La Peritonitis Bacteriana Espontanea es una complicación frecuente
+y grave de los pacientes con cirrosis y ascitis. Se trata de una infección del líquido ascítico
+en ausencia de un       foco infeccioso intraabdominal. La presencia de más de 250
+polimorfonucleares por mm3 define esta condición clínica.
+
+       Objetivos: determinar la asociación entre estado nutricional, cumplimiento del
+tratamiento profiláctico y tiempo de ingesta de bebidas alcohólicas con la incidencia de
+peritonitis bacteriana espontanea.
+
+       Metodología: estudio transversal de casos y controles, retrospectivo, se tomo un
+número de 20 pacientes con diagnostico de peritonitis bacteriana espontanea y 20
+pacientes de control sin peritonitis bacteriana espontanea.
+
+       Resultados: se hallo un total de 61 casos de cirrosis hepática de los cuales un
+32.78% presento peritonitis bacteriana espontanea, se hallo también que la relación de
+este diagnostico con el cumplimiento de profilaxis es considerado un factor de protección
+con un Odds Ratio <1, y estado nutricional y el tiempo de bebidas alcohólicas da como
+resultado un Odds Ratio de ›1 considerándose estos como un factor de riesgo con una
+asociación estadísticamente significativa.
+
+       Conclusiones: solo se demostró como factor de riesgo al tiempo de ingesta de
+bebidas alcohólicas, afirmando nuestra hipótesis; sin embrago el cumplimiento de
+profilaxis y estado nutricional no muestran incidencia significativa.
+
+       PALABRAS CLAVES: peritonitis, espontanea, profilaxis.
+
+
+
+
+                                                                                             6
+ABSTRACT
+
+        "RISK FACTORS SPONTANEOUS BACTERIAL PERITONITIS IN PATIENTS WITH LIVER
+                                  CIRRHOSIS HCMM IN 2012"
+
+        Introduction: Spontaneous bacterial peritonitis is a frequent and serious
+complication in patients with cirrhosis and ascites. It is an infection of ascites in the
+absence of an infectious intraabdominal. The presence of more than 250 per mm3
+polymorphonuclear defines this clinical condition.
+
+        Objectives: To determine the association between nutritional status, prophylactic
+treatment compliance and time of alcohol intake with the incidence of spontaneous
+bacterial peritonitis.
+
+        Methodology: A case-control cross, retrospective, it took a number of 20 patients
+with a diagnosis of spontaneous bacterial peritonitis and 20 control patients without
+spontaneous bacterial peritonitis.
+
+        Results: We found a total of 61 cases of liver cirrhosis of which 32.78% showed
+spontaneous bacterial peritonitis, it was found that the relationship of this diagnosis to
+compliance with prophylaxis is considered a protective factor with an odds ratio <1, and
+nutritional status and time of alcohol results in an odds ratio of> 1 considering these as a
+risk factor with a statistically significant association.
+
+        Conclusions: only demonstrated as a risk factor while alcohol intake, affirming our
+hypothesis no clutch compliance with prophylaxis and nutritional status showed no
+significant effect.
+
+        KEYWORDS: peritonitis, spontaneous, prophylaxis.
+
+
+
+
+                                                                                          7
+                                       CAPITULO I
+
+I.1 INTRODUCCION
+
+La cirrosis hepática es una enfermedad crónica caracterizada por una alteración difusa de
+la arquitectura hepática con presencia de fibrosis y nódulos de regeneración. Estos
+cambios conducen al desarrollo de hipertensión portal e insuficiencia hepática que
+condicionan las posibles complicaciones que se pueden presentar.
+
+
+La Peritonitis Bacteriana Espontánea es definida como la infección del líquido ascítico en
+ausencia de un foco infeccioso intraabdominal.
+
+Debido a que los factores predisponentes a Peritonitis Bacteriana Espontánea en
+pacientes cirróticos con ascitis que ingresan al Servicio de Gastroenterología del Hospital
+Carlos Monge Medrano no ha sido estudiado y a las implicancias mencionadas que este
+diagnóstico, se decidió realizar el presente estudio para determinar su incidencia, esto
+ayudaría al conocimiento de factores de riesgo para desarrollar Peritonitis Bacteriana
+Espontánea y así tomar medidas necesarias para disminuir el desarrollo de esta
+complicación mejorando así la calidad de vida de estos pacientes.
+
+El diagnóstico de PBE se realiza por un cuadro clínico compatible de dolor abdominal,
+fiebre y distensión (aunque muchas veces este cuadro es asintomático) y con un análisis
+de líquido ascítico que revele más de 250 leucocitos polimorfonucleares por mililitro y un
+cultivo bacteriano positivo en ausencia de un foco infeccioso intra abdominal.
+
+En la última década el pronóstico de los pacientes con PBE ha mejorado
+considerablemente, lo cual es debido a la detección precoz de la enfermedad y a la
+introducción de terapia antibiótica precoz y eficaz, con una tasa de curación de la
+infección y una sobrevida hospitalaria del 85% y 70% respectivamente, comparado con
+una sobrevida hospitalaria de 40% antes de la introducción de antibióticos eficaces.
+Debido a las implicancias de un episodio de PBE en la mortalidad a corto plazo y a la pobre
+
+                                                                                          8
+sobrevida a mediano plazo, este hecho constituye una indicación de Trasplante
+Hepático.(1-3)
+
+En el Perú, la cirrosis hepática con una tasa de mortalidad de 9,48 por 100,000 habitantes,
+ocupa el 5° lugar, en orden de magnitud entre las defunciones generales, el 2° lugar entre
+las enfermedades digestivas y hepatobiliares y es la 2° causa de muerte entre las
+defunciones registradas para el grupo etáreo de 20 a 64 años. Además, constituye
+actualmente, una de las primeras causas de demanda efectiva de hospitalización y una de
+las principales de consulta externa registrada en el Servicio de Gastroenterología del
+Hospital Carlos Monge Medrano.
+
+Enunciado del Planteamiento del Problema:
+
+¿Qué factores de riesgo están implicados con la complicación con peritonitis bacteriana
+espontanea en pacientes con cirrosis hepática?
+
+
+
+
+                                                                                         9
+I.2 ANTECEDENTES
+
+La malnutrición en enfermedad hepática crónica está definida como malnutrición
+energética proteica.
+La prevalencia y la severidad de la malnutrición energética proteica, está relacionada con
+el estadio clínico de la enfermedad hepática crónica y la severidad del daño hepático, pero
+no parece estar tan relacionado con la etiología.
+El efecto del estado nutricional depende de la duración de la enfermedad y de la presencia
+de algunas complicaciones como ascitis, encefalopatía hepática, hemorragia digestiva, las
+cuales pueden comprometer aun más el estado nutricional.
+La patogénesis de la malnutrición energética proteica en la enfermedad hepática involucra
+muchos factores incluyendo pobre ingesta oral, mala absorción de nutrientes, y
+anormalidades metabólicas similares al stress.
+Independientemente de la etiología de la cirrosis el pobre estado nutricional se asocia con
+mal pronóstico de sobrevida.
+
+
+El Dr. Sebastián Alfonso Mathurin Lasave. Realizo un estudio en la ciudad de la Habana
+realizó un estudio descriptivo, retrosprospectivo para analizar la prevalencia de la
+peritonitis   bacteriana    espontánea,      manifestaciones     clínicas,   características
+microbiológicas y factores pronósticos para mortalidad en 218 internaciones de 125
+pacientes con cirrosis y ascitis, entre abril 2004 a mayo 2008. Se hizo análisis univariado
+mediante la prueba de la t de Student y la prueba exacta de Fisher. Se usó el método de
+regresión logística para determinar factores asociados a mortalidad. Se incluyeron 39
+episodios de peritonitis bacteriana espontánea en 31 pacientes, 83,8 % hombres, edad
+media 49,1 años, 93,6 % alcohólicos, con una prevalencia de 39/218 (17,9 %). Fallecieron
+10 pacientes (32,2 %). Fue adquirida en la comunidad en 59 %; sintomática en 82 %.
+Tuvieron cultivo positivo de líquido ascítico 41%. Fueron por gérmenes gram-positivos
+13/24 (54 %) cultivos positivos de líquido ascítico y/o hemocultivos. En el análisis
+univariado se identificaron como factores predictores de mortalidad, el mal estado
+
+                                                                                         10
+nutricional de estos pacientes, este dio como resultado que 85% de la muestra se
+encontraba dentro del grupo de desnutrición. el score de Child-Pügh, el score de hepatitis
+alcohólica de Glasgow, sitio de adquisición, encefalopatía hepática, control por
+paracentesis a las 48 h del inicio antibiótico sin respuesta, presencia de shock séptico,
+insuficiencia renal, hiponatremia y bilirrubinemia total > 250 μmol/L (> 14,6 mg/dL). La
+presencia de shock séptico, bilirrubinemia total > 250 μmol/L y la creatininemia > 114,4
+μmol/L (> 1,5 mg/dL) fueron los factores pronósticos independientes para mortalidad, Los
+que aumentaron más de 20 veces el riesgo de muerte las 2 primeras, y de 14 veces la
+insuficiencia renal.
+
+
+
+En el año 2007 Bustíos y col. realizaron un estudio en el HNERM en el que se concluyo la
+infección del tracto urinario, peritonitis bacteriana espontánea, infecciones dérmicas y
+neumonía son las infecciones más frecuentemente encontradas en pacientes con
+enfermedad hepática crónica (7,8). A diferencia de algunos reportes se encontró que la
+infección del tracto urinario fue la infección más frecuente, seguida por la neumonía y la
+peritonitis bacteriana espontánea a pesar del cumplimiento de profilaxis primaria, datos
+que se asemejan a los encontrados en dos últimos estudios (9,10). Se postula que la alta
+prevalencia de estas infecciones está correlacionada con el volumen residual urinario por
+una posible disfunción vesical, frecuentemente encontrada en estos pacientes (10).
+
+
+
+
+                                                                                       11
+I.3 JUSTIFICACION
+
+La identificación de la relevancia de los factores de riesgo se hace con el fin de establecer
+pautas para una guía de atención, para la prevención, y mejorar en la atención de este
+tipo de pacientes.
+
+
+Por lo mencionado y por la nula existencia de trabajos de investigación en nuestra región
+que demuestren factores relacionados a peritonitis bacteriana en pacientes con cirrosis
+hepática por ser este un problema de salud pública que aumenta la morbimortalidad en la
+población de nuestra región es que creemos importante la realización del presente
+estudio ya que ayudaría al conocimiento de esta patología a nivel local, contribuyendo de
+esta manera al conocimiento científico en general, a favor de la población en general y de
+los pacientes.
+
+
+
+
+                                                                                          12
+                                        CAPITULO II
+MARCO TEORICO
+
+CIRROSIS HEPÁTICA
+
+
+DEFINICIÓN:
+
+La cirrosis hepática se deﬁne como un cambio de la arquitectura parenquimal del hígado
+en donde se aprecia presencia de nódulos separados por septos ﬁbrosos. Es el resultado
+ﬁnal de una variedad de procesos crónicos que pueden afectar al hígado tales como
+agentes biológicos (principalmente virus de hepatitis viral B, C, D), químicos (lista
+encabezada largamente por el etanol pero también algunos fármacos), procesos
+inmunológicos (hepatitis autoinmune, cirrosis biliar primaria, colangitis esclerosante
+primaria), ó también enfermedades hereditarias (hemocromatosis, deﬁciencia de alfa 1
+antitripsina, enfermedad de Wilson) para citar algunos ejemplos. Se ha establecido en la
+última década que los septos ﬁbrosos que caracterizan a este proceso no consisten en
+simple depósito de colágeno, sino que obedecen a un complejo proceso denominado
+extinción parenquimal. Como su nombre lo indica, este tejido contiene remanentes de
+tejido dañado irreversiblemente, elementos vasculares (shunts arteriovenosos) y también
+ﬁbrosis y neovascularización. Las áreas de tejido no viable colapsado pueden llegar a
+conﬂuir eventualmente a manera de puentes que con el tiempo delimitan nódulos de
+tejido aún viable. Importantes estudios anátomo-patológicos conducidos por Wanless y
+col. demuestran que en casi todos los casos la extinción parenquimal tiene un elemento
+obstructivo microvascular, generalmente secundario a necroinﬂamación. Otro hito en el
+entendimiento de la ﬁbrogénesis es el rol protagónico de las células esteladas, tambien
+conocidas como células de Ito, que normalmente tienen la función de almacenar vitamina
+A y se localizan entre el sinusoide hepático y el hepatocito (Espacio de Disse). Estas células
+son activadas por mediadores de la inﬂamación (citoquinas) convirtiéndose en células
+productoras de colágeno y con capacidad contráctil (mioﬁbroblastos), contribuyendo a la
+ﬁbrosis parenquimal y a la hipertensión portal que caracteriza al cirrótico.
+                                                                                           13
+La hipertensión portal es el fenómeno responsable de la mayoría de las complicaciones
+que marcan la transición entre cirrosis compensada y descompensada, principalmente
+ascitis, várices esofagogástricas y encefalopatía hepática. Uno de los fundadores de la
+patología, el griego Erasístratos (310-250 a.C.) describe en sus escritos la asociación
+frecuente de un hígado nodular con acumulación de ﬂuído en la cavidad abdominal.
+
+
+La mayoría de las complicaciones de la cirrosis se producen como consecuencia del
+desarrollo de hipertensión portal. Este es un síndrome muy frecuente, caracterizado por
+un aumento patológico de la presión hidrostática en el territorio venoso portal y la
+consiguiente formación de colaterales porto-sistémicas, que derivan gran parte del flujo
+sanguíneo portal hacia la circulación general, sin pasar por el hígado. La cirrosis hepática
+constituye la causa de más del 90% de los casos de hipertensión portal en los países
+occidentales. El 10% restante incluyen casos de trombosis del eje esplenoportal,
+hipertensión portal idiopática y una amplia serie de enfermedades. La esquistosomiasis es
+la causa más frecuente de hipertensión portal en el norte de África y en gran parte de
+Iberoamérica. (11)
+
+
+Etiología de la cirrosis hepática.
+   1. Alcohol (12)
+   2. Hepatitis virales: B, C y D.
+   3. Hepatitis autoinmune
+   4. Trastornos metabólicos:
+           o Hemocromatosis
+           o Enfermedad de Wilson
+           o Porfiria cutánea tarda.
+           o Otras: Galactosemia, Tirosinemia, Mucoviscidosis, Abetalipoproteinemia,
+   5. Enfermedad de Gaucher.
+   6. Tóxicos: Fármacos, Tetracloruro de carbono, Dimetilnitrosamina.
+   7. Obstrucción biliar primaria:
+
+                                                                                         14
+                o Cirrosis biliar primaria.
+                o Colangitis esclerosante primaria.
+                o Atresia biliar.
+    8. Obstrucción biliar secundaria: Litiasis, Estenosis benignas y malignas de la vía biliar,
+           Colangitis secundarias.
+    9. Obstrucción del retorno venoso:
+                o Insuficiencia cardiaca congestiva.
+                o Pericarditis constrictiva.
+                o Síndrome de Budd-Chiari.
+                o Enfermedad veno-oclusiva.
+    10. Miscelánea: Esteatohepatitis no alcohólica, Enfermedad de Rendu-Osler, By-pass
+           intesial, Sarcoidosis, Malnutrición, Esquistosomiasis, cirrosis infantil de la India.
+
+Medición                    1 punto    2 puntos                    3 puntos            unidades
+
+Bilirrubina (total)         <34 (<2)   34-50 (2-3)                 >50 (>3)            μmol/l (mg/dl)
+
+Albúmina sérica             >3.5       2.8-3.5                     <2.8                g/l
+
+INR / Tiempo de             <1.7 /                                                     sin unidades
+                                       1.71-2.20 / 30 - 50         > 2.20 / <30
+protrombina                 >50                                                        /%
+
+Ascitis                     Ausente    Suprimida con medicinas     Refractaria         sin unidad
+
+                                       Grado I-II (o suprimida con Grado III-IV (o
+Encefalopatía hepática      Ausente                                                    sin unidad
+                                       medicinas)                  refractaria)
+
+
+
+          Puntos Clase Supervivencia al cabo de 1 año Supervivencia al cabo de 2 años
+
+          5-6      A      100%                               85%
+
+          7-9      B      81%                                57%
+
+          10-15    C      45%                                35%
+
+
+
+
+                                                                                                    15
+CLÍNICA:
+
+
+La cirrosis compensada puede ser clínicamente latente, asintomática y ser descubierta
+fortuitamente en un examen clínico efectuado por otro motivo. Otros pacientes se
+diagnostican cuando son explorados por síntomas inespecíficos, o en el seguimiento de
+una hepatitis crónica viral, en algunos otros casos los datos son muy floridos aunados a los
+antecedentes de relevancia (ingesta intensa de alcohol). (13)
+Los signos y síntomas que pueden acompañar a la cirrosis son múltiples y muy variados, si
+bien no todos se presentan en todos los casos ni tiene un carácter patognomónico se
+pueden observar en la gran mayoría de estos enfermos. (14)
+
+
+SIGNOS Y SÍNTOMAS DE LA CIRROSIS HEPÁTICA
+
+
+Síntomas generales:
+
+
+    Astenia
+    Adinamia
+    Signos cutáneos-ungueales
+    Arañas vasculares
+    Telangiectasias
+    Eritema palmar
+    Hipertrofia parotídea
+    Contractura de Dupuytren
+    Acropaquia
+    Uñas en vidrio de reloj
+    Desaparición de la lúnula (leuconiquia)
+    Exploración abdominal
+    Hepatomegalia
+
+                                                                                         16
+    Disminución de la libido
+    Ginecomastia
+    Trastorno del ciclo menstrual
+    Amenorrea
+    Anormalidad de la distribución del vello (axilas y pubis)
+    Manifestaciones hemorrágicas
+    Equimosis
+    Gingivorragias
+    Epistaxis
+    Hemorragia de tubo digestivo alto y/o bajo
+
+
+Exámenes de Laboratorio:
+
+
+Las alteraciones relacionadas con el funcionamiento hepático se ponen en evidencia
+mediante la determinación de una serie de parámetros analíticos de fácil obtención que
+permiten valorar si existe algún déficit en las funciones de síntesis y depuración en las que
+interviene el hígado. (15)
+    Disminución de la síntesis
+    Hipoalbuminemia
+    Hipocolesterolemia
+    Descenso de la tasa de pro trombina
+    Anormalidad de la depuración
+    Hipergammaglobuliemia
+    Otras alteraciones
+    Hiperbilirrubinemia
+    Hipertransaminasemia
+    Aumento de la gammaglutamil transpeptidasa.
+
+
+
+                                                                                          17
+DIAGNÓSTICO:
+
+
+El diagnóstico de certeza se efectúa mediante el examen histológico del hígado. La
+ecografía abdominal puede revelar cambios de valor diagnóstico que ahorren la práctica
+de una biopsia hepática, estos cambios son una estructura heterogénea del hígado,
+asociada a veces con un contorno nodular, junto con signos de hipertensión portal, como
+aumento del calibre de la vena porta (>12 mm de diámetro), presencia de circulación
+colateral y esplenomegalia.
+La realización de una punción biopsia hepática deberá ser planteada solo en aquellos
+casos en los cuales las pruebas indirectas (como son las pruebas convencionales de
+función hepática y la ecografía abdominal) no permitan asegurar razonablemente la
+existencia de una cirrosis establecida. (16)
+En el diagnóstico diferencial de la cirrosis deben tenerse en cuenta enfermedades como la
+pericarditis, constrictiva, la insuficiencia cardiaca, la infiltración neoplásica masiva del
+hígado y el síndrome de Budd-Chiari, entre otras. Para la valoración integral del enfermo y
+sobre todo para evaluar las complicaciones se sugiere que en forma individual se solicite
+también: tele de tórax, USG doppler de hígado, esplenoportografía, paracentesis
+diagnostica, paneneoscopia, etc.
+
+
+
+PERITONITIS BACTERIANA ESPONTÁNEA
+
+
+La peritonitis bacteriana espontánea (PBE) se define como la infección bacteriana del
+líquido ascítico que se produce en ausencia de un foco infeccioso intra-abdominal.
+Constituye una complicación frecuente y grave de la cirrosis hepática, presentándose con
+una incidencia del 10- 30% de los pacientes cirróticos que ingresan en el hospital (30). En
+la mayoría de los pacientes (70%), los gérmenes responsables del desarrollo de esta
+complicación son bacilos aerobios gram negativos procedentes de la propia flora intestinal
+
+
+
+                                                                                         18
+del enfermo, entre estos el más frecuente es la Escherichia coli, seguido de especies del
+género Estreptococcus.
+
+
+Factores de riesgo
+
+Consumo de alcohol
+
+El alcohol puede ejercer un efecto deletéreo mediante una depresión neurológica,
+favoreciendo neumonías aspirativas, descompensaciones de la enfermedad de base
+mediante hepatitis alcohólica o por alteraciones en el sistema inmune.
+
+
+En pacientes con consumo crónico de alcohol se produce una neutropenia, usualmente
+leve y reversible con la abstinencia. Este fenómeno es provocado por una depresión
+medular; la liberación de PMN desde la médula ósea no está afectada. La ingestión crónica
+de alcohol afecta la quimiotaxis de los PMN hacia los sitios de inflamación; sin embargo, la
+fagocitosis y muerte intracelular de bacterias no se afectan directamente por el alcohol
+(15).
+
+
+La respuesta inmune celular también es afectada por el consumo de alcohol. Las pruebas
+de hipersensibilidad retardada están deprimidas en pacientes con hepatitis alcohólica y el
+consumo de este compuesto puede provocar linfopenia, especialmente si se asocia a
+hepatitis alcohólica (15). El alcohol disminuye también la capacidad de transformación
+blástica y citotoxicidad de las células natural killer (específicamente en pacientes con
+cirrosis y desnutrición). En pacientes con cirrosis establecida, las infecciones son más
+frecuentes en pacientes que consumen alcohol en comparación a otras causas de cirrosis
+(16).
+
+
+Mal estado nutricional
+
+
+Un 30 a 70% de los pacientes con cirrosis hepática presentan sobrecrecimiento bacteriano
+intestinal. La presencia de SBI tiene efectos deletéreos en la evolución de los pacientes
+                                                                                         19
+con cirrosis por su asociación con malabsorción de nutrientes y vitaminas, diarrea y
+anemia megaloblástica.
+
+
+DIAGNOSTICO
+
+
+Estudio del líquido ascítico.- Las indicaciones para la realización de una paracentesis
+diagnóstica en un paciente cirrótico con ascitis son: primera manifestación de ascitis,
+ascitis en el momento de la hospitalización, ascitis con síntomas y signos de infección,
+ascitis y deterioro clínico durante la hospitalización, ascitis y deterioro en los resultados de
+los análisis de laboratorio.
+
+Las determinaciones a realizar en el líquido ascítico son: cultivos, tinción Gram, proteínas
+totales, leucocitos, número de polimorfonucleares, deshidrogenasa láctica (LDH),
+adenosindeaminasa (ADA), glucosa y amilasa.
+
+La tinción Gram suele ser negativa debido al número escaso de gérmenes en el líquido
+ascítico y el diagnóstico se establece cuando se encuentre un número de
+polimorfonucleares mayor de 250 por mililitro; Si el líquido fuera hemorrágico se debe
+restar 1 leucocito polimorfonuclear por cada 250 hematíes que se encuentren.
+
+El diagnóstico por excelencia es con un cultivo positivo; En medios convencionales la
+determinación de la bacteria alcanza solo el 30%, pero cuando se inocula líquido ascítico
+en frascos de hemocultivo, la sensibilidad puede llegar hasta 80%. El cultivo debe
+realizarse al pie de cama del paciente, ya que el retraso en la inoculación disminuye su
+positividad en 25%. Los gérmenes que con mayor frecuencia se evidencian en los cultivos
+son los Gram negativos aerobios de origen intestinal: Escherichiacoli, Klebsiella
+neumoniae, seguidos de los Gram positivos: Streptococoneumoniae. Son excepcionales
+los gérmenes anaeróbicos (1%), probablemente por la elevada presión parcial de oxígeno
+existente en líquido ascítico. El hallazgo de gérmenes Gram negativos, ya que nunca
+colonizan la piel, debe ser tomado siempre como patógeno. El hallazgo de gérmenes Gram
+
+                                                                                             20
+positivos en cambio, que son frecuentes en piel, deben valorarse en un principio como
+contaminantes     principalmente    en   ausencia    de    respuesta   de    aumento     de
+polimorfonucleares.
+
+El diagnóstico diferencial debe realizarse con la peritonitis bacteriana secundaria, dada la
+necesidad de tratamiento quirúrgico en ésta. En la PBE la glucosa del líquido ascítico es
+mayor de 50 mg/dl, la LDH es normal, las proteínas totales son menores de 1 gr/dl y el
+germen hallado es único. En la Peritonitis Bacteriana Secundaria la glucosa del líquido
+ascítico es menor de 50mg/dl, la LDH es mayor de 240 U, las proteínas totales son
+mayores a 1 gr/dl y los gérmenes encontrados son múltiples.(1-7)
+
+Sedimento del líquido ascítico:
+
+
+Un recuento de PMN mayor o igual a 250 /mm3 indica un diagnóstico altamente probable
+de PBE por lo que debe iniciarse tratamiento empírico antimicrobiano. Cuando existe una
+ascitis hemorrágica (mayor de 10000 hematíes por mm3) existe infección si hay un PMN
+por cada 250 hematíes (32).
+Cuando el recuento de PMN menor de 250 por mm3, se descarta la presencia de PBE.
+
+
+Cultivo del líquido ascítico:
+
+
+La muestra para cultivo de líquido ascítico debe recogerse inoculando una cantidad
+mínima de
+10 ml en frascos de hemocultivo (aerobios y anaerobios) en la propia cabecera del
+enfermo para evitar la contaminación del mismo. El 30-50% de los cultivos son negativos
+por existir una baja concentración bacteriana en el líquido. La tinción de gram positiva
+para varios gérmenes es sugestiva de peritonitis bacteriana secundaria.
+
+
+
+
+                                                                                         21
+TRATAMIENTO
+
+
+Tratamiento antibiótico:
+
+
+En todo paciente con neutrófilos > de 250 / mm3 en líquido ascítico debe iniciarse
+tratamiento antibiótico empírico sin esperar el resultado de los cultivos. El tratamiento de
+elección hoy día es la Cefotaxima, con una resolución del cuadro en el 80% de los casos. El
+tratamiento antiobiótico debe mantenerse al menos durante 5 días suspendiéndose
+siempre que hayan desaparecido los signos y síntomas de infección. Se recomienda la
+realización de paracentesis de control a las 48 horas del comienzo de la antibioterapia
+para valorar la respuesta a la misma (disminución mayor del 25% del recuento de PMN)
+(33).
+• Antibioterapia empírica: Cefotaxima 2gr/12 horas durante 5 días.
+• Si no existe profilaxis antibiótica previa con quinolonas y se trata de una PBE no
+complicada se puede realizar el tratamiento antibiótico oral con Ofloxacino o
+ciprofloxacino.
+• En pacientes con hipersensibilidad a beta-lactámicos el antibiótico de elección es el
+ciprofloxacino iv.
+
+
+Profilaxis secundaria:
+
+
+En todos los pacientes que han presentado un episodio de PBE está indicada la prevención
+de nuevos episodios mediante la administración de Norfloxacino 400 mg/día vía oral.
+Esta profilaxis debe ser a largo plazo y se puede abandonar sólo si desaparece la ascitis
+(por ejemplo en la hepatitis de origen etílico) o se realiza un transplante hepático.
+
+
+
+
+                                                                                          22
+Profilaxis primaria:
+
+
+Debe instaurarse tratamiento preventivo antibiótico en los pacientes cirróticos con ascitis
+que ingresan por un episodio de hemorragia digestiva alta y esta se realiza mediante la
+administración de Norfloxacino 400 mg/12horas vía oral o por sonda nasogástrica durante
+7 días (34).
+En los enfermos que por cualquier causa no toleran la administración vía oral se puede
+administrar la antibioterapia por vía parenteral.
+Otra indicación reciente de profilaxis primaria es la presencia de una concentración de
+proteínas totales en líquido ascítico menor de 1 gr por dl junto con alguna de las
+siguientes características: bilirrubina sérica mayor de 3 mg/dl, recuento plaquetario
+menor de 90000, los pacientes ingresados en el hospital por cualquier causa o en lista de
+espera para transplante hepático
+
+
+
+
+                                                                                        23
+                                      CAPITULO III
+
+OBJETIVOS
+
+III.1 Objetivo Principal
+
+Determinar la asociación de los factores de riesgo para el desarrollo      de Peritonitis
+Bacteriana Espontánea (PBE) en los pacientes cirróticos con ascitis Hospital Carlos Monge
+Medrano, mediante al análisis los de factores: estado nutricional, seguimiento del
+tratamiento profiláctico e ingesta de bebidas alcohólicas.
+
+III.2 Objetivos Secundarios
+
+   1. Conocer la asociación de factores que se asocian a un incremento del riesgo de
+       PBE.
+   2. Establecer la asociación de estado nutricional en la atención hospitalaria del
+       paciente y su asociación al incremento de riesgo.
+   3. Establecer la asociación de seguimiento del tratamiento profiláctico en la atención
+       hospitalaria del paciente su asociación al incremento de riesgo.
+   4. Establecer la asociación de ingesta de bebidas alcohólicas su asociación al
+       incremento de riesgo.
+
+
+
+
+                                                                                      24
+III.3 HIPOTESIS
+
+Existe asociación de pacientes cirróticos con ascitis que presentan un cuadro de Peritonitis
+bacteriana espontanea, debido a la variabilidad los siguientes factores: mal estado
+nutricional, incumplimiento de tratamiento profiláctico o ingesta de bebidas alcohólicas.
+
+
+
+
+                                                                                         25
+                                       CAPITULO IV
+
+METODO DE INVESTIGACION
+
+IV.1 Tipo de estudio: transversal de casos y control, Retrospectivo
+
+Unidad de Análisis: pacientes con diagnostico de cirrosis complicada con peritonitis
+bacteriana espontanea.
+
+Criterios de Inclusión
+
+Varones y Mujeres con diagnóstico de cirrosis hepática y presencia de ascitis.
+
+
+      Grupo Casos: Pacientes con cirrosis hepática y presencia de ascitis complicada con
+       peritonitis bacteriana espontanea
+      Grupo control: pacientes con cirrosis hepática y presencia de ascitis no complicada.
+
+Criterios de Exclusión
+
+
+   -   Pacientes sin diagnóstico de cirrosis hepática.
+   -   Pacientes con otros diagnósticos diferentes a cirrosis hepática.
+   -   Pacientes con hepatopatías agudas.
+   -   Pacientes con hepatopatías congénitas.
+
+
+IV.2 Población y muestra de estudio:
+
+La población está conformada por Pacientes con el diagnóstico de cirrosis hepática por
+medio de técnicas de imagen (Ej Ultrasonografia dopleer, Tomografía Computarizada), o
+pruebas laboratoriales (estudio de líquido ascítico, estudios de función hepática) o
+anatomopatologico, para la asignación del grupo de casos y controles se emplea del
+siguiente modo: el grupo de Casos, pacientes con cirrosis hepática y presencia de ascitis
+complicada con peritonitis bacteriana espontanea, 20 pacientes ; Control pacientes con
+cirrosis hepática y presencia de ascitis no complicada, una muestra de 20 pacientes.
+                                                                                        26
+IV.3 Variables de investigación:
+
+-      Variable Dependiente: Diagnostico de Peritonitis Bacteriana Espontanea
+
+-      Variables Independientes: Continuidad del tratamiento profilactico, ingesta de
+       bebidas alcohólicas, estado nutricional.
+
+       Variables Operacionales
+
+           VARIABLE                           ESCALA                  INDICADOR
+
+           Edad                               Numérica                    Años
+
+           Sexo                                                           Femenino
+
+                                                                          Masculino
+
+           Diagnostico     de      peritonitis Nominal                    Si
+           bacteriana espontanea
+                                                                          No
+
+           Estado nutricional                 Ordinal                     Bueno
+
+                                                                          Malo
+
+           Cumplimiento del tratamiento       Nominal                     Si
+
+                                                                          No
+
+           Ingesta de bebidas alcohólicas     Ordinal                 Numero de meses o
+                                                                      años
+
+
+
+
+                                                                                   27
+Técnicas e instrumentos:
+
+Instrumentos:
+
+       - Ficha de recolección de datos
+
+       - Historias clínicas
+
+       - Estudio Bioquímico de Liquido Ascítico
+
+       - Estudio Citológico de Liquido Ascítico
+
+Técnicas:
+
+Recolección de datos en Ficha de recolección de datos, de pacientes diagnosticados de
+Cirrosis hepática. Mediante una ficha de recolección de datos elaborada con por la autora,
+precisada por el asesor, y correcciones correspondientes de los jurados.
+
+1º.    Recolectar los estudios bioquímico y citológico de líquido ascítico de todos los
+       pacientes diagnosticados con Cirrosis Hepática complicada con ascitis.
+2º.    Seleccionar en dos grupos Casos y Controles: Casos: Pacientes con diagnósticos de
+       cirrosis hepática complicada con peritonitis bacteriana espontanea, Controles:
+       Pacientes con diagnóstico de cirrosis hepática y ascitis no complicada, con criterios
+       homogéneos.
+3º.    A partir de la ficha de recolección de datos, se clasificó por sexo, edad y factor de
+       riesgo asociado.
+4º.    Se realizó el Procesamiento y análisis de datos para su análisis y conclusión.
+
+
+
+
+                                                                                         28
+IV.4 Procesamiento y análisis de datos:
+
+El análisis de datos se realizó con la ayuda del programa estadístico SPSS versión 17.0, y se
+describió:
+
+1º.    Medidas asociación causal Odds Ratio para la asociación entre casos y controles
+       para cada variable.
+2º.    Incidencia por sexo.
+3º.    Incidencia por grupo etáreo
+
+
+
+La elaboración de los gráficos para la presentación se realizó mediante el programa de
+Microsoft Excel 2010.
+
+
+
+
+                                                                                          29
+IV.5 AMBITO DE ESTUDIO
+
+El presente trabajo se realizara en la Ciudad de Puno, Distrito de Juliaca, provincia San
+Román, Hospital Carlos Monge Medrano, en el hospital con mayor numero de población a
+su cargo en la Región de Norte de Puno.
+
+
+
+
+                                                                                      30
+IV.6 RECURSOS
+
+Recursos Humanos:
+
+      -   Autor
+      -   Internos de Medicina del servicio de Medicina
+      -   Servicio de Medicina
+      -   Servicio de Laboratorio Clínico
+      -   Asesor y Director de tesis
+      -   Pacientes
+
+
+
+
+                                                          31
+                                       CAPITULO V
+
+RESULTADOS
+
+Desde el 01 de enero al 31 de diciembre del 2012, se registraron 20 pacientes con el
+diagnostico de peritonitis bacteriana espontanea el cual representa el grupo CASOS y 20
+en este mismo periodo se eligieron el mismo número de pacientes sin el diagnostico de
+peritonitis bacteriana espontanea de criterios homogéneos el cual representa el grupo
+CONTROL, hospitalizados en el servicio de Medicina Interna del Hospital Carlos Monge
+Medrano de la ciudad de Juliaca, se tomaron los datos de forma directa CASOS Y
+CONTROLES de las historias clínicas de los pacientes con diagnostico confirmado.
+
+Para responder la interrogante, si hay asociacion entre el estado nutricional,
+cumplimiento de profilaxis e ingesta de bebidas alcoholicas con el desarrollo de Peritonitis
+Bacteriana Espontanea es necesario analizar cual es el nivel de asociacion entre los
+factores mencionados y PBE.
+
+Cuadro N°1 Muestra un analisis de la relacion entre el sexo y el diagnostico de Peritonitis
+Bacteriana Espontanea en pacientes del HCMM 2012.
+
+             tabla de contingencia: sexo * peritonitis bacteriana espontanea
+
+                                                   SITUACION              Total
+                                               Con            sin
+                                            peritonitis   peritonitis
+                            Recuento                  14            13         27
+                  Masculino % del
+                                                  35,0%         32,5%      67,5%
+                            total
+          SEXO
+                            Recuento                   6             7         13
+                  Femenino % del
+                                                  15,0%         17,5%      32,5%
+                            total
+                            Recuento                 20             20         40
+          Total             % del
+                                                  50,0%         50,0%    100,0%
+                            total
+
+
+
+                                                                                         32
+Cuadro N°2 Nos muestra el analisis de la relacion entre los grupos de edad y el desarrollo
+de Peritonitis Bacteriana Espontanea en pacientes del HCMM 2012.
+
+
+
+                               PERITONITIS BACTERIANA
+                                       ESPONTANEA
+              EDAD                SI                NO               TOTAL
+             [28 - 38›           7.5%              2.5%              10.0%
+             [38 - 48›          10.0%              12.5%             22.5%
+             [48 - 58›          15.0%              10.0%             25.0%
+             [58 - 68›          10.0%              10.0%             20.0%
+             [68 - 78›           7.5%              5.0%              12.5%
+             [78 - 88]           0.0%              10.0%             10.0%
+              TOTAL             50.0%              50.0%             100.0%
+
+
+
+
+                                                                                       33
+Cuadro N°3 Nos muestra el resultado del analisis Odds Ratio entre el cumplimiento de
+profilaxis y el diagnostico de peritonitis bacteriana espontanea en pacientes del HCMM
+2012.
+
+          tabla de contingencia: cumplimiento profilaxis * peritonitis bacteriana
+                                       espontánea
+
+                                                        SITUACION               Total
+                                                    Con       sin peritonitis
+                                                 peritonitis
+                                  Recuento            7             14            21
+                            NO
+                                  % del total      17,5%          35,0%         52,5%
+   RECIBE PROFILAXIS
+                                  Recuento           13             6             19
+                             SI
+                                  % del total      32,5%          15,0%         47,5%
+                                  Recuento           20             20            40
+                Total
+                                  % del total      50,0%          50,0%         100,0%
+
+
+   Estimación de riesgo
+
+                                         Valor         Intervalo de confianza al 95%
+                                                        Inferior          Superior
+      Razón de las ventajas para
+                                         0,231           0,061              0,869
+     RECIBE PROFILAXIS (NO / SI)
+    Para la cohorte SITUACION =
+                                         0,487           0,247              0,959
+            Con peritonitis
+   Para la cohorte SITUACION = sin
+                                         2,111           1,020              4,371
+              peritonitis
+          N de casos válidos               40
+
+
+    Como muestra el cuadro Nº 3 el OR <1, donde indica que la asociación es negativa.
+        Por lo tanto se le considera un Factor de Protección.
+    Los límites del intervalo de confianza para el 95% de un OR de 0.231 están entre
+        0.061 y 0.869, lo que indica que se trata de una asociación estadísticamente
+        significativa
+
+
+
+                                                                                         34
+Cuadro N°4 Nos muestra el resultado del analisis entre el tiempo de cumplimiento de
+profilaxis y el diagnostico de peritonitis bacteriana espontanea en pacientes del HCMM
+2012.
+
+                                       Estadísticos
+                             TIEMPO DE PROFILAXIS
+
+                                       Válidos            40
+                             N
+                                       Perdidos            0
+                             Media                     14,73
+                             Mediana                     ,00
+                             Moda                          0
+                             Suma                        589
+
+
+                                 TIEMPO DE PROFILAXIS
+
+                          Frecuencia Porcentaje        Porcentaje       Porcentaje
+                                                         válido         acumulado
+                  0               23         57,5               57,5           57,5
+                  3                1             2,5              2,5          60,0
+                  7                4         10,0               10,0           70,0
+                  14               2             5,0              5,0          75,0
+
+         Válidos 20                1             2,5              2,5          77,5
+                  30               3             7,5              7,5          85,0
+                  60               4         10,0               10,0           95,0
+                  90               2             5,0              5,0         100,0
+                  Total           40        100,0              100,0
+
+
+
+
+                                                                                      35
+Cuadro N°5 Nos muestra analisis Odds Ratio entre el estado nutricional y el diagnostico
+de peritonitis bacteriana espontanea en pacientes del HCMM 2012.
+
+      tabla de contingencia: estado nutricional * peritonitis bacteriana espontanea
+                                                          Situación             Total
+                                                     con              sin
+                                                  peritonitis     peritonitis
+                                    Recuento          18              17         35
+                           bueno
+                                    % del total     45,0%           42,5%      87,5%
+     estado nutricional
+                                    Recuento           2               3          5
+                            malo
+                                    % del total      5,0%            7,5%      12,5%
+                                    Recuento          20              20         40
+                 Total
+                                    % del total     50,0%           50,0%      100,0%
+
+
+                                  Estimación de riesgo
+
+                                                 Valor     Intervalo de confianza al
+                                                                      95%
+                                                         Inferior    Superior
+   Razón de las ventajas para ESTADO
+                                                 1,588   ,236       10,704
+   NUTRICIONAL (BUENO / MALO)
+
+   Para la cohorte SITUACION = Con peritonitis 1,286     ,419       3,944
+
+   Para la cohorte SITUACION = sin peritonitis   ,810    ,366       1,789
+   N de casos válidos                            40
+
+
+    Como muestra el cuadro Nº 5 el OR resulta de >1 donde indica que la asociación es
+       positiva; es decir, si la presencia del factor se asocia a mayor ocurrencia del
+       evento. Se le considera como factor de Riesgo.
+    Los límites del intervalo de confianza para el 95% de un OR de 1.588 están entre
+       0.236 y 10.704, lo que indica que se trata de una asociación estadísticamente
+       significativa
+
+
+
+
+                                                                                        36
+Cuadro N°6 Nos muestra el resultado del analisis Odds Ratio entre el tiempo de ingesta
+de bebidas alcohólicas y el diagnostico de peritonitis bacteriana espontanea.
+
+         tabla de contingencia: tiempo de ingesta de bebidas alcohólicas * situación
+
+                                                        SITUACION                      Total
+                                               Con peritonitis sin peritonitis
+tiempo de                          Recuento                15              13              28
+                 MENOR DE 100 DIAS
+ingesta de                         % del total         37,5%            32,5%           70,0%
+bebidas                            Recuento                  5               7             12
+alcohólicas      MAYOR DE 100 DIAS
+                                   % del total         12,5%            17,5%           30,0%
+                                   Recuento                20              20              40
+Total
+                                   % del total         50,0%            50,0%          100,0%
+
+
+                                  Estimación de riesgo
+                                       Valor          Intervalo de confianza al 95%
+                                                       Inferior           Superior
+
+Razón de las ventajas para
+TIEMPO_ING (MENOR DE 100               1,615             0,412              6,338
+DIAS / MAYOR DE 100 DIAS)
+
+Para la cohorte SITUACION = Con
+                                       1,286             0,605              2,730
+peritonitis
+Para la cohorte SITUACION = sin
+                                       0,796             0,427              1,483
+peritonitis
+N de casos válidos                       40
+
+
+
+
+    Como muestra el cuadro Nº6 el OR resulta de >1 donde indica que la asociación es
+        positiva; es decir, si la presencia del factor se asocia a mayor ocurrencia del
+        evento. Se le considera como factor de Riesgo.
+    Los límites del intervalo de confianza para el 95% de un OR de 1.588 están entre
+        0.412 y 6.338, lo que indica que se trata de una asociación estadísticamente
+        significativa.
+
+
+
+                                                                                         37
+De acuerdo al marco teorico la indicacion de profilaxis primaria tiene como objetivo
+disminuir la incidencia de peritonitis bacteriana espontanea, lo cual se cumple y es
+indicacion importante para disminuir la comorbilidad de un paciente cirrotico, condicion
+que según este resultado difiere con nuestro estudio ya que muestra que no existe
+diferencia significativa entre cumplir con el tratamiento profilactico o no, ya que 13
+pacientes si cumplieron con la indicacion de profilaxis presentaron PBE y 14 pacientes no
+cumplieron la indicacion de profilaxis primaria y NO desarrollaron PBE.
+
+La condicion de     un mal estado nutricional aumentaria la incidencia deperitonitis
+bacteriana espontanea, lo cual ses una condicion importante relacionado a la
+comorbilidad de un paciente cirrotico, condicion que según este resultado difiere tambien
+con nuestro estudio ya que 18 pacientes presentan peritonitis bacteriana espontanea aun
+con una condicion de un buen estado nutricional.
+
+La ingesta de bebidas alcoholicas luego de realizado el diagnostico de cirrosis hepatica
+aumentaria el riesgo de una peritonitis bacteriana espontanea.
+
+
+
+
+                                                                                      38
+                              CAPITULO VI
+
+DISCUSION
+
+  El análisis odds ratio entre el estado nutricional e ingesta de bebidas
+  alcohólicas y el desarrollo de peritonitis bacteriana espontanea nos da un
+  resultado de › 1 lo cual se interpreta como un FACTOR DE RIESGO en los dos
+  factores.
+
+  Además este análisis muestra que la relación entre el cumplimiento de
+  profilaxis y el desarrollo de peritonitis bacteriana espontanea nos da un Odds
+  Ratio < 1 lo cual se interpreta como un FACTOR DE PROTECCION.
+
+  Este análisis nos indica que a pesar de que los pacientes que recibieron más
+  tiempo de profilaxis no disminuyo el riesgo de desarrollar peritonitis bacteriana
+  espontanea ya que 32.5% de los pacientes de HCMM 2012 cumplió la profilaxis
+  y desarrollo peritonitis bacteriana espontanea comparado con un 35% que no
+  recibió profilaxis y no desarrollo peritonitis bacteriana espontanea.
+
+   En comparación con un estudio en Veterans Affairs Medical Center, West Palm
+   Beach, FL, EE.UU publicado en junio del año 2010 revelo que un gran número
+   de ensayos que examinan norfloxacina como profilaxis secundaria encontrado
+   ocurrencia disminución significativa de la Peritonitis bacteriana espontanea,
+   pero ninguna diferencia significativa en las tasas de mortalidad y el tiempo de
+   profilaxis siendo este entre dos meses y dos años. En estudios de profilaxis
+   primaria   no encontraron diferencias significativas en la incidencia de
+   infecciones, incluyendo la Peritonitis bacteriana espontanea. Estudios de
+   población mixta encontró una incidencia significativamente disminuida de la
+   Peritonitis bacteriana espontanea, pero ninguna diferencia significativa en la
+   mortalidad. En las 3 meta-análisis se observó una disminución significativa de
+   la mortalidad y una disminución general de la incidencia de la Peritonitis
+
+                                                                                39
+bacteriana espontanea en los grupos de tratamiento. Lo cual difiere con
+nuestro estudio ya que no muestra una disminución del desarrollo de
+peritonitis bacteriana espontanea, esto se debería a que en nuestro estudio se
+observo periodos de tiempo de profilaxis mínimo de 7 días y máximo de 3
+meses lo cual nos indica que no hubo adecuado cumplimiento del tiempo de
+profilaxis.
+
+Se realizó una búsqueda de la Base de Datos de Revisiones Sistemáticas,
+MEDLINE       bibliografías de los estudios identificados, y los informes
+presentados en los principales congresos científicos. Ocho estudios, con un
+total de 647 pacientes fueron identificados e incluidos en este análisis. El
+análisis combinado mostró Grupos tratados con antibióticos profilácticos
+también demostró una incidencia más baja de todas las infecciones
+(incluyendo PBE) de 6,2% en comparación con los de control de los grupos con
+una tasa del 22,2%. El análisis de subgrupos mostró un beneficio en la
+supervivencia a los 3 meses, lo cual difiere también de nuestro estudio por qué
+no muestra una incidencia más baja sino por el contrario no existe una
+diferencia significativa del porcentaje entre el grupo que no cumplió con la
+profilaxis, esto podría deberse a que en nuestra sociedad la población no es
+consciente de la importancia de recibir una correcta profilaxis por lo tanto no
+logra el cumplimiento de esta.
+
+May AK, Gleason TG, Sawyer RG, Pruett TL defienden que en la actualidad la
+mortalidad de la peritonitis espontánea del cirrótico es inferior al 30%
+(43) pero la recurrencia dentro del primer año es del 70%. La
+descontaminación selectiva intestinal con norfloxacina oral o cotrimoxazol a
+días alternos ó 5 días por semana disminuye la frecuencia de la peritonitis
+espontánea del cirrótico (del 68-22% al 20-3%). Sin embargo en la mayoría de
+los estudios randomizados (excepto los pacientes con hemorragia digestiva) no
+se ha demostrado una mejoría en la supervivencia de los pacientes con
+
+                                                                            40
+hepatopatías muy avanzadas (44). Lo cual apoyaría a nuestro estudio y daría la
+posibilidad de hepatopatías avanzadas entre nuestros pacientes.
+
+El análisis odds ratio también informa que la relación entre el estado
+nutricional y el desarrollo de peritonitis bactriana espontanea es › 1 lo cual se
+interpreta como un factor de riesgo, pero no siendo significativa la diferencia
+porcentual entre los pacientes que desarrollaron o no peritonitis bacteriana
+espontanea con un buen estado nutricional.
+
+Según Campillo B, Richardet JP y Bories PN más de 50% de los pacientes
+cirróticos internados presentan desnutrición debido a reducción de la ingesta
+alimentaria, incremento del catabolismo de lípidos y proteínas y malabsorción.
+La desnutrición afecta la evolución clínica en términos de supervivencia y
+complicaciones y constituye un factor pronóstico siendo uno de las
+complicaciones directamente relacionadas el desarrollo de peritonitis
+bacteriana espontanea. El presente estudio difiere de este punto ya que el 45%
+de los pacientes que a pesar de presentan un buen estado nutricional
+desarrollaron peritonitis bacteriana espontanea. Este dato podría ser erróneo
+ya que en se tomo como indicador el IMC lo cual solo uno de los parámetros
+para evaluar el estado nutricional en este tipo de pacientes se debió tener en
+cuenta también parámetros antropométricos, gravedad de la insuficiencia
+hepática, ingesta alimentaria espontánea al ingreso, aporte dietario total de la
+Nutrición Enteral y duración de la misma además de haberse medido el peso, la
+altura, la circunferencia media del brazo (CMB), el pliegue tricipital (PT), los
+parámetros biológicos de rutina y la proteína C reactiva.
+
+El análisis odds ratio también informa que la relación entre el tiempo de
+ingesta de bebidas alcohólicas y el desarrollo de peritonitis bactriana
+espontanea es de › 1 lo cual se interpreta como un FACTOR DE RIESGO, siendo
+en este caso significativa la diferencia entre los grupos por el tiempo de ingesta
+de alcohol.
+                                                                               41
+Hakozaki Y, Yoshiba M, Sekiyama K, Seike E, Iwamoto J, Mitani K estudiaron
+que en pacientes con consumo crónico de alcohol se produce una neutropenia,
+usualmente leve y reversible con la abstinencia. Este fenómeno es provocado
+por una depresión medular; la liberación de PMN desde la médula ósea no está
+afectada. La ingestión crónica de alcohol afecta la quimiotaxis de los PMN hacia
+los sitios de inflamación; sin embargo, la fagocitosis y muerte intracelular de
+bacterias no se afectan directamente por el alcohol, lo cual fundamenta
+nuestros resultados con una asociación directa entre al aumento de número de
+casos de peritonitis bacteriana espontanea y un consumo mayor de 100 dias en
+promedio luego del diagnostico, observándose aumento de la incidencia en
+este último grupo.
+
+MacGregor R R. en su estudio Alcohol and immune defense demuestra que en
+pacientes con cirrosis establecida, las infecciones son más frecuentes en
+pacientes que consumen alcohol en comparación a otras causas de cirrosis.
+
+
+
+
+                                                                             42
+CONCLUSIONES
+
+  1. Durante el año de estudio se hallo un total de 61 casos de cirrosis hepática de los
+     cuales un 20 pacientes equivalente al 32.78% presentaron el diagnostico de
+     peritonitis bacteriana espontanea en el Departamento de Medicina del HCMM en
+     el periodo enero- diciembre 2012 que se encontraban dentro de los criterios de
+     inclusión del presente estudio y 20 pacientes de control los cueles cumplían con
+     criterios clínicos similares pero no laboratoriales el cual ayudo a que se aplicara el
+     método del Odds Ratio.
+
+
+  2. El factor de cumplimiento de profilaxis de acuerdo con el análisis Odds Ratio es de
+     <1 lo que se considera como un FACTOR DE PROTECCION, lo cual indica que un
+     pacientes que cumple con adecuadamente con la profilaxis tiene menor riesgo de
+     desarrollar peritonitis bacteriana espontanea pero no significa que un paciente
+     que no cumpla con una adecuada profilaxis tenga mayor riesgo de desarrollar
+     peritonitis bacteriana espontanea. Este análisis no muestra una diferencia
+     porcentual significativa ya que 32.5% de los pacientes que cumplieron con la
+     profilaxis desarrollaron peritonitis bacteriana espontanea y un 35% no cumplieron
+     con la profilaxis y no desarrollaron peritonitis bacteriana espontanea.
+
+
+  3. El factor de estado nutricional en pacientes con PBE con un Odds Ratio >1 se
+     considera FACTOR DE RIESGO, pero no muestra diferencia porcentual significativa
+     entre desarrollar o no esta complicación, ya que el número de pacientes con buen
+     estado nutricional representa un 87.5% del total de la población y un 12.5% un mal
+     estado nutricional. Además de que un 45% de pacientes con un buen estado
+     nutricional desarrollaron además peritonitis bacteriana espontanea y 42,5% con un
+     buen estado nutricional no desarrollaron peritonitis bacteriana espontanea.
+
+
+
+
+                                                                                        43
+4. La relación entre el tiempo de ingesta de bebidas alcohólicas y el desarrollo de PBE
+   da como resultado un Odds Ratio >1 considerándose este como un FACTOR DE
+   RIESGO, además un 12,5% de pacientes con tiempo de ingesta mayor al promedio
+   desarrollo peritonitis bacteriana espontanea en comparación a un 17,5% que no lo
+   desarrollo. Este factor afirma nuestra hipótesis ya que a mayor tiempo de ingesta
+   de bebidas alcohólicas se observó mayor riesgo de desarrollar peritonitis
+   bacteriana espontanea.
+
+
+5. Por último se concluye que el primer factor no cumple objetivo, pero los dos
+   factores siguientes descritos cumplen con nuestros objetivos de ser considerados
+   factores de riesgo.
+
+
+
+
+                                                                                    44
+RECOMENDACIONES:
+
+  1. La cirrosis hepática es una enfermedad con pronostico ominoso a partir del
+     diagnostico clínico y laboratorial, es poco estudiada en nuestro medio por lo que
+     se recomienda mayor hincapié en su diagnostico, adecuado manejo, y seguimiento
+     adecuado de estos pacientes.
+
+
+  2. Se recomienda mejorar el seguimiento al cumplimiento del tiempo de profilaxis ya
+     que este dato favorecería al desarrollo de futuros estudios sobre este factor.
+
+
+  3. Se debe poner énfasis en el estudio del estado nutricional de los pacientes con
+     cirrosis hepática y ascitis con una ampliación de los parámetros para obtener un
+     resultado optimo.
+
+
+
+  4. Se debe mejorar la anamnesis sobre el tiempo de ingesta de bebidas alcohólicas y
+     debe realizar seguimiento continuo de este ya que mejoraría nuestros resultados
+     estadísticamente.
+
+
+  5. Optimizar los sistemas administrativos y evitar perdida de información para
+     realizar estudios de investigación en la región.
+
+
+
+
+                                                                                      45
+BIBLIOGRAFIA
+
+1.      Gines P, Arroyo V, Rodes J: Pathophysiology, Complications, and Treatment of Ascites.
+ClinLivDis 1:129-153,1997
+2.      Yu A, Hu K: Management of Ascites. ClinLivDis 5:355-360,2001
+3.      Mowat C, Stanley J: Review article: spontaneous bacterial peritonitis-diagnosis, treatment
+and prevention. AlimentPharmacolTher 15:1851-1859,2001
+4.      Johnson D, Cunha B: infections in cirrhosis. Infect Dis Clin North Am 15:355-360,2001
+5.      Ho H, Zuckerman M, Ho T, et al: Prevalence of associated in community-acquired
+spontaneous bacterial peritonitis. Am J Gastroenterol 91:735-745,1996
+6.      Garcia-Tsao G: Current management of the complications of cirrhosis and portal
+hypertension: variceal hemorrhage, ascites, and spontaneous bacterial peritonitis.
+
+
+7. ROSA H, SILVÉRIO AO, PERINI R, ARRUDA C. Bacterial infection in cirrhotic patients and
+its relationship with alcohol. Am J Gastroenterol 2000;95:1290-3.
+
+
+8. MATTOS, ANGELO A. DE; CORAL, GABRIELA P; MENTI, EDUARDO; ET AL. Arq.
+gastroenterol 2003; 40(1):11-15
+
+
+9. SILVANO FASOLATO, PAOLO ANGELI, et al. Renal failure and bacterial infections in
+patients with cirrhosis: Epidemiology and clinical features Hepatol.2007; 45: 223-229
+
+
+10. BERCOFF E, DÉCHELOTTE P, WEBER J, MORCAMP D, DENIS P, BOURREILLE J. Urinary
+tract infection in cirrhotic patients, a urodynamic explanation. Lancet 1985;1:1987. 11.
+MEDINA E. y KAEMPFFER A. Cirrosis hepática en Chile. Revista Chilena de Salud Pública
+2002; Vol 6 (1): 3.
+
+
+11. MEDINA E. y KAEMPFFER A. Cirrosis hepática en Chile. Revista Chilena de Salud Pública
+2002; Vol 6 (1): 3.
+
+
+12. VARVASOVSZKY Z, MCKEE M. Problem drinking among hospitalized patients in
+Hungary. Alcohol & Alcohol 2000;35(6):574-579.
+
+                                                                                                46
+13. FARFAN G, CABEZAS C. Mortalidad por enfermedades digestivas y hepatobilares en el
+Perú, 1995-2000. Rev Gastroenterol Perú 2002;22(4):212-233.
+
+14. GREENBERG NJ. History Taking and Physical Examination in the Patient with Liver
+Disease. In: Chapter 6. Diseases of the Liver 7th Ed. Philadelphia: Lippincot-Raven
+Publishers. 1999.
+
+15: 140-8 35. BORZIO M, SALERNO F, PLANTONI L, et al. Bacterial infection in patients with
+advanced cirrhosis: a multicentre prospective study. Digest. Liver Dis 2001; 33: 41-8
+
+
+16. LAY CS, TSAI YT, TEG C, et al. Endoscopic variceal prophylaxis of fi rst variceal in
+bleeding in cirrhotic patients with high risk esophageal varices. Hepatology 1997; 25:
+1346-1350.
+
+
+
+17. Bosch J y García-Pagán JC. Prevención de la hemorragia digestiva por hipertesión
+portal. En:Berenguer J, Bruguera M, García-Bengoechea M y Rodrigo L eds. Tratamiento
+de las enfermedades hepáticas y biliares. ELBA SA; 2001: 161-168.
+
+
+18. Piqueras B, Bañares R, Rincón D., Matilla A., Casado M, Salcedo M, Alonso S, Vaquero
+J.Factores predictivos de mortalidad de la hemorragia digestiva por varices esofágicas en
+pacientes ancianos. Gastroenterol Hepatol 2001; 24:51-55.
+
+
+19. Siringo S, Borroughs AK, Bolondi L, Muia A, DiFebo G, Miglioli M, et al. Peptic ulcer and
+its course in cirrhosis: An endoscopic and clinical prospective study. J Hepatol 1995;
+22:633-641.
+
+
+20. Bosch J y AK. Burroughs. Manifestaciones clínicas y tratamiento de los episodios
+hemorrágicos en pacientes cirróticos. En: Rodés J, Benhamou JP, Bircher J, McIntyre N
+Rizzeto M eds. Tratado de Hepatología Clínica, Tomo I. Barcelona: Masson, 2001; 749 775.
+
+                                                                                           47
+21. Elizalde JI, Moitinho E, García-Pagán JC, Cirera I, Escorsell A, Bandi JC, Jiménez W,
+Bosch J, Piqué JM, Rodes J. Effects of increasing blood hemoglobin levels on systemic
+hemodynamics of acutely anemic cirrhotic patients. Journal of Hepatology 1998; 29: 789
+795.
+
+
+22. Arroyo V, Ginés P, Planas R, Rodés J. Patogenia, diagnóstico y tratamiento de la ascitis
+en la cirrosis. En: Rodés J, Benhamou JP, Bircher J, McIntyre N, Rizzeto M eds. Tratado de
+Hepatología Clínica, Tomo I. Barcelona: Masson, 2001; 779-818.
+
+
+23. Ginés P, Quintero E, Arroyo V. Compensated cirrhosis: natural history and prognosis.
+Hepatology 1987;7:122-128.
+
+
+24. Goldberg BB, Goodman GA, Clearfield HR. Evaluation of ascites by ultrasound.
+Radiology 1970;96:15-22.
+
+
+25. Runyon BA. Paracentesis of ascitic fluid: A safe procedure. Arch Intern Med 1986;146:
+2259.
+
+
+26. McVayPA, Toy PTCY. Lack of increased bleeding after paracentesis and thoracocentesis
+in patients with mild coagulation abnormalities. Transfusion 1991;31:164-171.
+
+
+27. Runyon BA. Care of patients with ascites. N Engl J Med 1994;330: 337-342.
+
+
+28. Runyon BA, Montano AA, Akribiadis EA, Antillon MR, Irving MA, McHutchinson JG. The
+serum-ascites albumin gradient is superior to the exudates-transudate concept in the
+differential diagnosis of ascites. Ann Intern Med 1992;117: 215-220.
+
+
+
+
+                                                                                         48
+29. Arroyo V.Ascitis. En: Berenguer J, Bruguera M, García-Bengoechea M y Rodrigo L eds.
+Tratamiento de las enfermedades hepáticas y biliares. ELBA SA; 2001: 105-109.
+
+
+
+30. Runyon BA, Hoefs JC. Ascitic fluid analysis in the differentiation of spontaneous
+bacterial peritonitis from gastrointestinal tract perforation into ascitic fluid. Hepatology
+1984; 4: 447-450.
+
+
+31. Wu SS, Lin OS, Chen YY, Hwang KL, Soon MS, Keeffe EB. Ascitic fluid carcinoembryonic
+antigen and alkaline phosphatase levels for the differentiation of primary from secondary
+bacterial peritonitis with intestinal perforation. J Hepatol 2001;34:215-221.
+
+
+32. Navasa M, Casafount F, Clemente G, Guarner C, De La Mata M, Planas R, Solá R, Suh J,
+en representación de la Sociedad Española para el Estudio del Hígado. Consenso sobre
+peritonitis bacteriana espontanea en la cirrosis hepática: diagnóstico, tratamiento y
+profilaxis. Gatsroenterol Hepatol 2001; 24: 37-46.
+
+
+33. Sort P, Navasa M, Arroyo V, Aldeguer X, Planas R, Ruiz del Arbol L, et al. Effect of
+intravenous albumin on renal impairment and mortality in patients with cirrhosis and
+spontaneous bacterial peritonitis. N Eng J Med 1999; 341:403-409.
+
+
+34. Cabrera J.Hidrotórax hepático. En: Berenguer J, Bruguera M, García-Bengoechea M y
+Rodrigo L eds. Tratamiento de las enfermedades hepáticas y biliares. ELBA SA; 2001: 111-
+117.
+
+
+35. Ginés A, Scorcell A, Ginés P, Salo J, Jiménez W, Inglada L, et al. Incidence, predictive
+factors, and prognosis of hepatorenal syndrome in cirrhosis with ascites. Gastroenterology
+1993; 105: 229- 236.
+
+
+
+                                                                                         49
+36. Ginés P, Ortega R, Uriz J. Síndrome Hepatorrenal: nuevos aspectos fisiopatológicos y
+terapéuticos. Med Clin (Barc) 2000;115:549-557.
+
+
+37. Arroyo V, Ginés P, Gerbes A, Dudley FJ, Gentillini P, Laffi G, et al. Definition and
+diagnostic criteria of refractory ascites and hepatorenal syndrome in cirrhosis. Hepatology
+1996; 23:164-176.
+
+
+38. Blei AT. Encefalopatía hepática. En: Rodés J, Benhamou JP, Bircher J, McIntyre N,
+Rizzeto M eds; Tratado de Hepatología Clínica, volumen I. Masson S.A.; 2001. P. 855-876.
+
+
+39. Fernéndez Vázquez I. Encefalopatía hepática. Gastroenterología interhospitalaria
+1997; 1: 83- 87.
+
+
+40. Aguilar J, Serrano P. Encefalopatía hepática. En: Berenguer J, bruguera M, García
+Bengoechea M, Rodrigo L eds; Tratamiento de las enfermedades hepáticas y biliares.
+ELBA, S.A.; 2001: 139- 145.
+
+
+41. Lange PA, Stoller JK. The hepatopulmonary syndrome. Ann Intern Med 1995; 122: 521-
+529.135.Navasa M y Agusti C. Síndrome hepatopulmonar. En: Berenguer J, Bruguera M,
+García-1Bengoechea M y Rodrigo L eds. Tratamiento de las enfermedades hepáticas y
+biliares. ELBA SA;12001: 169-173.
+
+
+42. Soderman C, Juhlin-Dannfelt A, Lagerstrand L, Eriksson LS. Ventilation-perfusion
+relationships and central hemodynamics in patients with cirrhosis: effects of a
+somatostain analogue. J Hepatol 1994; 21: 52.
+
+
+
+
+                                                                                        50
+43. May AK, Gleason TG, Sawyer RG, Pruett TL. Contribution of Escherichia coli alpha-
+hemolysin to bacterial virulence and to intraperitoneal alterations in peritonitis. Infect
+Immun 2000; 68:176-83.
+44. Pascual JA, Iñarrea P, Martín J, García Borda J. Factores celulares de defensa local en la
+peritonitis experimental. Cir Esp 1986; 40:338-44
+
+
+
+
+                                                                                             51
+                                             ANEXOS
+
+                                  FICHA DE RECOLECCION DE DATOS
+
+               “DETERMINACION DE LOS FACTORES DE RIESGO PARA COMPLICACION CON
+           PERITONITIS BACTERIANA ESPONTANEA EN PACIENTES CON CIRROSIS HEPATICA EN EL
+                                            HCMM 2012”
+
+
+
+
+                      FICHA N°
+
+                APELLIDOS Y NOMBRES
+
+                   HISTORIA CLINICA
+
+                          EDAD
+
+                          SEXO                              M                     F
+
+
+
+TIEMPO DE ENFERMEDAD (desde el
+diagnostico)
+
+
+Estado nutricional -IMC
+
+
+Cumplimiento de tratamiento (tiempo de
+cumplimiento establecido)
+Ingesta de bebidas alcohólicas (tiempo de
+ingesta)
+
+
+
+
+                                                                                      52
+                                           GRAFICOS
+
+GRAFICO Nº1: Nos muestra la relación entre el sexo y el diagnostico de Peritonitis Bacteriana
+Espontanea de los pacientes del HCCM 2012
+
+
+
+
+                                                                                                53
+GRAFICO Nº 2: El siguiente grafico nos muestra la relacion entre el los grupos etareos y el
+diagnostico de peritonitis bacteriana espontanea en los pacientes del HCMM 2012
+
+
+
+
+                                                                                         54
+Grafico Nº 3: Nos muestra la relacion entre el diagostico de Peritonitis Bacteriana Espontanea y el
+cumplimiento de profilaxis en los pacientes del HCMM 2012
+
+
+
+
+                                                                                                55
+GRAFICO Nº 4: El siguiente grafico nos muestra la relacion entre el estado nutricional y el
+diagnostico de peritonitis bacteriana espontanea en los pacientes del HCMM 2012
+
+
+
+
+                                                                                          56
+GRAFICO Nº 5: Nos muestra la relacion entre el tiempo de ingesta de bebidas alcoholicas y el
+diagnostico de Peritonitis Bacteriana Espontanea en los pacientes del HCMM 2012.
+
+
+
+
+                                                                                         57
+

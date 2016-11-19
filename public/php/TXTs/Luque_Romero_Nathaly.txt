@@ -1,0 +1,3314 @@
+            UNIVERSIDAD NACIONAL DEL ALTIPLANO
+FACULTAD DE INGENIERIA GEOLOGICA E INGENIERIA METALURGICA
+      ESCUELA PROFESIONAL DE INGENIERIA METALURGICA
+
+
+
+
+                         TESIS
+
+SISTEMA DE GESTION DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL
+        AREA DE INYECCION DE PRODUCTOS PLASTICOS
+
+
+
+
+                    PRESENTADA POR:
+
+             Bach. NATHALY LUQUE ROMERO
+
+
+
+                  PARA OPTAR EL TÍTULO DE
+
+                 INGENIERO METALURGISTA
+
+
+                     PUNO - PERU
+                           2015
+ÁREA: Metalurgia transformativa
+TEMA: seguridad e higiene industrial
+                       DEDICATORIA
+
+
+
+
+Dedico este trabajo
+principalmente a mis
+queridos      padres
+Alejandro y Esther
+
+
+
+
+                              A mi esposo Julbert y a
+                              mis     adorados      hijos
+                              Samanta y Nicolas. Por
+                              su     cariño    y   apoyo
+                              incondicional.
+
+
+
+
+                                                            Nathaly.
+                             Agradecimientos
+
+
+Considero necesario mencionar en el presente trabajo a las personas que con
+su tiempo, apoyo y paciencia me ayudaron a iniciar, persistir y culminar esta
+tesis:
+
+
+A mis padres Alejandro y Esther, gracias por haberme dado la vida, una
+correcta educación y especialmente todo el amor que siempre siento, por
+enseñarme sobre el respeto y los valores cristianos, por motivarme para
+convertirme en un excelente profesional y por servirme de ejemplo de personas
+de bien.
+
+
+A mis hermanos Josep y Victoria Isabel por comprenderme y apoyarme en los
+momentos mas difíciles.
+
+
+
+
+                                                                   NATHALY
+
+
+
+
+                                                                            4
+                                                    INDICE
+
+
+
+CAPITULO I ......................................................................................................11
+
+  GENERALIDADES ........................................................................................11
+
+     1.1.     Introducción ......................................................................................11
+
+     1.2.     PLANTEAMIENTO DEL PROBLEMA ...............................................12
+
+     1.3.     OBJETIVOS......................................................................................13
+
+        1.3.1.      Objetivo general .........................................................................13
+
+        1.3.2.      Objetivos específicos .................................................................13
+
+     1.4.     JUSTIFICACIÓN ...............................................................................13
+
+CAPITULO II .....................................................................................................14
+
+  MARCO TEÓRICO ........................................................................................14
+
+     2.1.     ASPECTOS GENERALES ................................................................14
+
+        2.1.1. SEGURIDAD Y SALUD OCUPACIONAL ...................................14
+
+        2.1.2. Seguridad: Ocupacional, Del Trabajo, Industrial .........................15
+
+        2.1.3. Salud ocupacional .......................................................................15
+
+        2.1.4. Higiene .......................................................................................15
+
+        2.1.5. Higiene industrial ........................................................................16
+
+        2.1.6. Ergonomía ..................................................................................16
+
+        2.1.7. Accidente de trabajo ...................................................................16
+
+        2.1.8. Peligro ............................................................................................17
+
+     2.2. OHSAS 18001 ..................................................................................17
+
+     2.3. Sistemas gestión de seguridad y salud en el trabajo ............................18
+
+        2.3.1. Introducción ...................................................................................18
+
+            2.3.1.1. Objeto y campo de aplicación .................................................21
+
+        2.3.2. Términos y definiciones ................................................................22
+
+            2.3.2.1. Riesgo aceptable ....................................................................22
+
+
+                                                                                                                   5
+      2.3.2.2. Auditoría .................................................................................22
+
+2.4. Mejora continua ..................................................................................23
+
+   2.4.1. Acción correctiva ...........................................................................23
+
+2.5. Documento .........................................................................................23
+
+2.6. Peligro ................................................................................................23
+
+2.7. Identificación de peligros ....................................................................24
+
+2.8. Deterioro de la salud ..........................................................................24
+
+2.9. Incidente ..............................................................................................24
+
+2.10. Parte interesada ...............................................................................24
+
+2.11. No conformidad ................................................................................25
+
+2.12. Seguridad y salud en el trabajo (SST) ..............................................25
+
+2.13. Sistema de gestión de la SST .............................................................25
+
+2.14. Objetivo de SST ................................................................................26
+
+2.15. Desempeño de la SST .......................................................................26
+
+2.16. Política de SST...................................................................................26
+
+2.17. Organización .....................................................................................27
+
+2.18. Acción preventiva .............................................................................27
+
+2.19. Procedimiento ..................................................................................27
+
+2.20. Registro Documento .........................................................................27
+
+2.21. Riesgo ................................................................................................28
+
+2.22. Evaluación de riesgos.......................................................................28
+
+2.23. Lugar de trabajo ...............................................................................28
+
+2.24. Requisitos del sistema de gestión de la SST 2.24.1 .........................28
+
+   2.24.1. Requisitos generales ..................................................................28
+
+   2.24.2. Política de SST ...........................................................................29
+
+   2.24.3. Planificación ...............................................................................29
+
+      2.24.3.1. Identificación de peligros, evaluación de riesgos ....................29
+
+
+                                                                                                             6
+           2.24.3.2. Requisitos legales y otros requisitos ...................................31
+
+           2.24.3.3. Objetivos y programas ........................................................32
+
+        2.24.4. Implementación y operación.....................................................33
+
+           2.24.4.1. Recursos, funciones, responsabilidad y autoridad..................33
+
+           2.24.4.2. Competencia, formación y toma de conciencia .....................34
+
+           2.24.4.3. Comunicación, participación y consulta ...............................35
+
+              2.24.4.3.1. Comunicación ................................................................35
+
+              2.24.4.3.2 Participación y consulta ....................................................35
+
+           2.24.4.4. Documentación ..................................................................36
+
+           2.24.4.5. Control de documentos ......................................................37
+
+           2.24.4.6. Control operacional ............................................................38
+
+           2.24.4.7. Preparación y respuesta ante emergencias ....................38
+
+        2.24.5. Verificación .................................................................................39
+
+           2.24.5.1. Medición y seguimiento del desempeño .................................39
+
+CAPITULO III ....................................................................................................41
+
+  METODOLOGÍA PARA LA IMPLEMENTACIÓN DEL SISTEMA ..................41
+
+     3.1. Diagnóstico de la situación actual .......................................................41
+
+     3.2. Definición de la Política .......................................................................42
+
+     3.3. Planificación y organización ................................................................42
+
+        3.3.1. Identificación de peligros y evaluación de riesgos .........................43
+
+     3.4. Programación de la implementación y operación ................................44
+
+        3.4.1. Estructura y responsabilidades .....................................................44
+
+        3.4.2. Control operativo ...........................................................................45
+
+        3.4.3. Difusión – Capacitación .................................................................45
+
+        3.4.4. Comunicación y participación ........................................................46
+
+        3.4.5. Documentación .............................................................................46
+
+        3.4.6. Respuesta ante emergencias ........................................................47
+
+
+                                                                                                                 7
+CAPITULO IV ...................................................................................................48
+
+  ESTUDIO DE LA EMPRESA .........................................................................48
+
+     4.1.     Descripción y organización de la empresa .......................................48
+
+     4.2.     Descripción de la distribución de la planta ........................................48
+
+     4.3. Descripción del área de Inyección ......................................................50
+
+     4.4 . Proceso de producción .......................................................................50
+
+CAPITULO V ....................................................................................................53
+
+  PROPUESTA DE IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN ..........53
+
+     5.1.     Diagnóstico de la situación actual .....................................................53
+
+        5.1.1. Recopilación de información para el análisis de riesgos ..............54
+
+        5.1.2. Estudio y análisis de la situación actual ........................................54
+
+     5.2. Conclusiones del análisis de la situación actual .................................58
+
+     5.3.     Definición de la Política ....................................................................59
+
+     5.4.     Planificación y organización..............................................................61
+
+        5.4.1. Identificación de peligros y evaluación de riesgos .........................61
+
+        5.4.2. Objetivos .......................................................................................62
+
+     5.5.     Implementación y operación .............................................................64
+
+        5.5.1. Estructura y responsabilidades .....................................................64
+
+        5.5.2. Control operativo ...........................................................................67
+
+        5.5.3. Difusión – Capacitación .................................................................72
+
+        5.5.4. Comunicación y participación ........................................................73
+
+        5.5.5. Documentación .............................................................................74
+
+        5.5.7. Respuesta ante emergencias ........................................................75
+
+CAPITULO VI ...................................................................................................76
+
+  EVALUACIÓN DEL IMPACTO DE LA PROPUESTA DE IMPLEMENTACIÓN
+  DEL SISTEMA DE GESTIÓN ........................................................................76
+
+     6.1.     Costo de implementar medidas por SST ..........................................77
+
+
+                                                                                                                8
+CONCLUSIONES .............................................................................................81
+
+RECOMENDACIONES .....................................................................................82
+
+BIBLIOGRÁFIAS ..............................................................................................83
+
+
+
+
+                                                                                                            9
+                                  RESUMEN
+
+
+El presente estudio analiza la propuesta de implementación de un Sistema de
+Gestión de Seguridad y Salud en el Trabajo para una empresa fabricante de
+productos plásticos. En la actualidad se está dando mucha importancia a la
+seguridad y salud ocupacional en los países de esta parte del continente. El
+mismo que incide en mejorar las condiciones de vida de los trabajadores
+mediante la promoción y protección de su salud, así como la prevención de los
+accidentes de trabajo y enfermedades ocupacionales.
+
+
+En los capitulos se describen definiciones generales sobre seguridad, salud e
+higiene ocupacional, se comenta el marco legal vigente sobre el tema
+considerando regulaciones nacionales y normativas internacionales, en
+especial la adecuación de los procedimientos de la empresa a los
+requerimientos del D.S. Nº 009–2005–TR, según lo cual se elige como
+referencia el Sistema de Gestión OHSAS 18001.
+
+
+Asi tambien se desarrolla el estudio de la empresa tomando en consideración
+las características de la misma y la normatividad vigente, para poder adecuar
+apropiadamente el sistema de gestión a utilizar. Se define la propuesta de
+implementación, se evalúa la situación actual de la seguridad y salud
+ocupacional en la empresa.
+
+
+El estudio también realiza la evaluación del costo de la implementación de la
+propuesta, con la finalidad de demostrar la viabilidad de este tipo de proyectos
+se presentan algunas conclusiones y recomendaciones finales para el presente
+caso.
+
+
+
+
+                                                                             10
+                                  CAPITULO I
+
+
+
+                               GENERALIDADES
+
+
+
+
+1.1.   Introducción
+
+
+Los avances tecnológicos y la constante presión competitiva entre las
+empresas originan cambios a todo nivel en las organizaciones: variaciones en
+la estructura orgánica, procesos, condiciones de trabajo, etc. Debido a ello se
+establecen leyes y desarrollan normas que permitan mantener en un nivel
+óptimo la protección de la seguridad y salud de los trabajadores, así como de
+los procesos e instalaciones de las empresas.
+
+
+Según la Dirección General de Salud Ambiental (2005: 7): “La Organización
+Internacional del Trabajo (OIT), informa en el año 2002, que cada año en el
+mundo 270 millones de asalariados son víctimas de accidentes de trabajo, y
+160 millones contraen enfermedades profesionales”. Se entiende que es
+inevitable la existencia de peligros en las instalaciones de una planta industrial,
+ya que tanto los trabajadores, máquinas e instalaciones se encuentran
+expuestos a una serie de agentes (físicos, químicos, biológicos, mecánicos,
+ergonómicos, psicosociales, eléctricos, locativos, de tránsito, naturales y otros)
+
+
+                                                                                11
+que generan riesgos en el ambiente de trabajo y la probabilidad de ocasionar
+accidentes o enfermedades ocupacionales.
+
+
+Actualmente las empresas se encuentran en un contexto que demanda mayor
+cuidado en temas de seguridad y salud, todas las empresas del sector público
+y privado tienen la obligación de implementar un Sistema de Gestión de
+Seguridad y Salud en el Trabajo; mientras que internacionalmente es más
+amplia la normatividad establecida, destacando la serie de Normas OHSAS
+18000.
+Un adecuado Sistema de Gestión de Seguridad y Salud busca mantener los
+riesgos en niveles tan bajos como sea posible, evitando perjudicar la
+productividad operacional y financiera en la empresa, logrando un efecto
+positivo global (para trabajadores y empresarios) cuidando la seguridad y salud
+laboral, la continuidad de las operaciones y se podrían ahorrar los altos costos
+que generan los accidentes y enfermedades ocupacionales.
+
+
+1.2.   PLANTEAMIENTO DEL PROBLEMA
+
+
+La Inyección de plásticos, al igual que otros sectores productivos que son
+considerados como de alto riesgo para la seguridad y la salud de los
+trabajadores, lo cual ameritan muy especialmente un tratamiento detallado de
+las condiciones de trabajo y su seguridad que rodean a los trabajadores.
+
+
+El sector Metalúrgico especialmente en la metalurgia transformativa, también
+se realiza la inyección de metales de bajo punto de fusión en general, realizan,
+trabajos con altas temperaturas, corte etc. Y en la mayoría de casos el trabajo
+en caliente genera el incremento de riesgos para los trabajadores de la salud
+de los mismos. La eficacia de ese servicio es importante para asegurar a su
+vez un trabajo productivo y de calidad.
+
+
+   -   FORMULACION DEL PROBLEMA
+
+
+¿Los trabajadores del área de inyectado de plásticos necesita un sistema de
+gestión de la seguridad y salud en el trabajo?
+
+                                                                             12
+1.3.   OBJETIVOS
+
+
+1.3.1. Objetivo general
+
+
+Reducir el número de incidentes y consecuentemente el número de accidentes
+fatales ocurridos en las labores realizadas en el inyectado de plásticos.
+
+
+
+
+1.3.2. Objetivos específicos
+
+
+- Implementar un sistema de gestión para la reducción de incidentes
+- Poner al alcance de los interesados un Sistema de Gestión en Seguridad y
+Salud Ocupacional que éste basado en especificaciones internacionales
+técnicas como es la OSHAS 18001.
+
+
+
+1.4.   JUSTIFICACIÓN
+
+
+
+Se entiende por seguridad y salud en el trabajo a “condiciones y factores que
+afectan, o podrían afectar a la salud y la seguridad de los empleados o de otros
+trabajadores (incluyendo a los trabajadores temporales y personal contratado),
+visitantes o cualquier otra persona en el lugar de trabajo” (BSI 2007: 4), de
+manera que se incluye bajo dicha denominación a todo lo que pueda perturbar
+el normal desarrollo de las actividades productivas dentro de una organización,
+abarcando a colaboradores de la empresa y otras personas que se encuentren
+dentro de las instalaciones de la misma.
+
+
+
+
+                                                                             13
+                                  CAPITULO II
+
+
+
+                               MARCO TEÓRICO
+
+
+
+2.1.   ASPECTOS GENERALES
+
+
+Se presentan los principales términos asociados a la seguridad y salud
+ocupacional que serán utilizados en el desarrollo del tema.
+
+2.1.1. SEGURIDAD Y SALUD OCUPACIONAL
+
+
+Se entiende por seguridad y salud en el trabajo a “condiciones y factores que
+afectan, o podrían afectar a la salud y la seguridad de los empleados o de otros
+trabajadores (“incluyendo a los trabajadores temporales y personal contratado),
+visitantes o cualquier otra persona en el lugar de trabajo”, de manera que se
+incluye bajo dicha denominación a todo lo que pueda perturbar el normal
+desarrollo de las actividades productivas dentro de una organización,
+abarcando a colaboradores de la empresa y otras personas que se encuentren
+dentro de las instalaciones de la misma (trabajadores de terceros, visitas, etc.).
+Un adecuado Sistema de Gestión de Seguridad y Salud en el Trabajo se enfoca
+en desarrollar una cultura de seguridad y salud ocupacional, para lo que se
+debe contar primero con leyes y reglamentos a nivel nacional, así como con
+
+                                                                                14
+estatutos y normativas a nivel internacional, con la finalidad de orientar los
+aspectos legales y jurídicos que sirvan como base para la correcta aplicación e
+implementación de dichos sistemas.
+
+
+
+2.1.2. Seguridad: Ocupacional, Del Trabajo, Industrial
+
+
+Se define la seguridad como “...todas aquellas acciones y actividades que
+permiten al trabajador laborar en condiciones adecuadas en el trabajo tanto
+ambientales como personales...” Por Seguridad del Trabajo se puede entender a
+la “técnica no médica de prevención cuya finalidad se centra en la lucha contra los
+accidentes de trabajo, evitando y controlando sus consecuencias”, encargándose
+de todo lo relacionado con la prevención de los accidentes de trabajo.
+
+
+
+
+2.1.3. Salud ocupacional
+
+
+La “salud en los centros laborales, tal como lo plantea la Organización Mundial
+de la Salud. La salud se desarrolla y se mantiene por una acción recíproca
+entre el genotipo y el medio total. Como el medio ambiente de trabajo
+constituye una parte importante del medio total en que vive el hombre, la salud
+depende en gran medida de las condiciones del trabajo”.
+
+
+
+
+2.1.4. Higiene
+
+
+La Higiene Ocupacional se puede definir como la “ciencia que tiene por objeto
+el reconocimiento, la evaluación y el control de los agentes ambientales
+generados en el lugar de trabajo y que pueden causar enfermedades
+ocupacionales. Estudia, evalúa y controla los factores ambientales existentes
+en el lugar de trabajo, cuyo objetivo es prevenir las enfermedades
+profesionales, que afectan la salud y bienestar del trabajador”
+
+
+
+
+                                                                                15
+2.1.5. Higiene industrial
+
+
+La Higiene industrial es la “la prevención de enfermedades profesionales
+causadas por los contaminantes físicos, químicos o biológicos que actúan
+sobre los trabajadores. La metodología de aplicación de la Higiene Industrial
+está basada en la identificación, medición, evaluación y control de los
+contaminantes presentes en el ambiente de trabajo.”
+
+
+
+
+2.1.6. Ergonomía
+
+
+
+La DIGESA precisa que es “el conjunto de disciplinas y técnicas orientadas a
+lograr la adaptación de los elementos y medios de trabajo al hombre, que tiene
+como finalidad hacer más efectiva las acciones humanas, evitando la posible
+fatiga, lesiones, enfermedades ocupacionales y accidentes laborales”; según lo
+cual se puede afirmar que los medios de trabajo (herramientas, máquinas,
+equipos) deben ser los que se adecuen a la forma de trabajo del hombre,
+previniendo probables consecuencias perjudiciales.
+
+
+
+2.1.7. Accidente de trabajo
+
+
+Se especifica como accidente a todo “acontecimiento no deseado que resulta
+en daño físico a las personas, daño a la propiedad y/o pérdida en los procesos,
+que resulta del contacto con una sustancia o fuente de energía por sobre la
+resistencia del cuerpo o estructura” En el mismo sentido un cuasi accidente,
+también llamado incidente, es todo “acontecimiento no deseado que bajo
+condiciones levemente diferentes pudo haber resultado en daño físico a las
+personas, daño a la propiedad y/o pérdida en los procesos”.
+
+
+
+
+                                                                            16
+2.1.8. Peligro
+
+
+
+
+El peligro se puede definir como “cualquier condición de la que se pueda
+esperar con certeza que cause lesiones o daños a la propiedad y/o al medio
+ambiente y es inherente a las cosas materiales.
+
+
+
+2.2. OHSAS 18001
+
+
+
+
+“La Norma OHSAS 18001:1999 ha sido diseñada en los mismos parámetros y
+como herramienta de gestión y mejora; toman como base para su elaboración
+las normas 18000 de la British Standard, basada en el ciclo de mejora
+continua”. A la fecha la última actualización de esta norma corresponde a la
+versión del año 2007, se trata de un sistema de gestión desarrollado por la
+British Standard Institution (BSI) junto con las principales certificadoras del
+mundo, el cual brinda directrices y requisitos para controlar los riesgos
+laborales que se puedan presentar, evitando los accidentes de trabajo y las
+enfermedades profesionales.
+
+
+La finalidad de estas normas consiste básicamente en lograr una mejora
+sustancial de la seguridad y salud en los centros de trabajo a través de un
+enfoque sistemático, para lo cual plantea un ciclo basado en la mejora continua
+y que consta de los siguientes puntos:
+
+
+      Revisión inicial de la situación de la empresa.
+      Política de Seguridad y Salud.
+      Planificación y organización del sistema.
+      Implementación y operación del sistema.
+      Verificación y Acciones Correctivas.
+      Revisión por parte de la Gerencia
+
+
+
+
+                                                                             17
+2.3. Sistemas gestión de seguridad y salud en el trabajo
+
+
+
+2.3.1. Introducción
+
+Organizaciones de todo tipo están cada vez más interesadas en alcanzar y
+demostrar un sólido desempeño de la Seguridad y Salud en el Trabajo (SST)
+mediante el control de sus riesgos para la SST, acorde con su política y objetivos de
+SST. Lo hacen en el contexto de una legislación cada vez más exigente, del
+desarrollo de políticas económicas y otras medidas para fomentar las buenas
+prácticas de SST, y de un aumento de la preocupación expresada por las partes
+interesadas en materia de SST.
+
+Muchas organizaciones han emprendido “revisiones” o “auditorías” de SST para
+evaluar su desempeño de la SST. Sin embargo, esas “revisiones” y “auditorías”,
+por sí mismas, pueden no ser suficientes para proporcionar a una organización la
+seguridad de que su desempeño no sólo cumple, sino que continuará cumpliendo
+los requisitos legales y de su política. Para ser eficaces, necesitan estar
+desarrolladas dentro de un sistema de gestión estructurado que esté integrado en
+la organización.
+
+Los estándares OHSAS sobre gestión de la SST tienen como finalidad
+proporcionar a las organizaciones los elementos de un sistema de gestión de la
+SST eficaz que puedan ser integrados con otros requisitos de gestión, y para
+ayudar a las organizaciones a lograr los objetivos de SST y económicos. Estos
+estándares, al igual que otras normas internacionales, no tienen como fin ser
+usados para crear barreras comerciales no arancelarias, o para incrementar o
+cambiar las obligaciones legales de una organización.
+
+Este estándar OHSAS especifica los requisitos para un sistema de gestión de la
+SST que permita a una organización desarrollar e implementar una política y unos
+objetivos que tengan en cuenta los requisitos legales y la información sobre los
+riesgos para la SST. Pretende ser aplicable a todos los tipos y tamaños de
+organizaciones y ajustarse a diversas condiciones geográficas, culturales y
+sociales. El éxito del sistema depende del compromiso de todos los niveles y
+funciones de la organización y especialmente de la alta dirección. Un sistema de
+
+
+                                                                                  18
+este tipo permite a una organización desarrollar una política de SST, establecer
+objetivos y procesos para alcanzar los compromisos de la política, tomar las
+acciones necesarias para mejorar su desempeño y demostrar la conformidad del
+sistema con los requisitos de este estándar OHSAS. El objetivo global de este
+estándar OHSAS es apoyar y promover las buenas prácticas en SST en equilibrio
+con las necesidades socioeconómicas. Debería resaltarse que muchos de los
+requisitos pueden ser aplicados simultáneamente, o reconsiderados en cualquier
+momento.
+La segunda edición de este estándar OHSAS está enfocada a proporcionar
+claridad sobre la primera edición, y se han tenido en cuenta las disposiciones
+de las Normas ISO 9001, e ISO 14001 y otras normas o publicaciones sobre
+sistemas de gestión de la SST con el fin de mejorar la compatibilidad de estos
+estándares para beneficio de la comunidad de usuarios.
+
+
+Existe una diferencia importante entre este estándar OHSAS, que describe los
+requisitos para el sistema de gestión de la SST de una organización y que se
+puede usar para certificación/registro y/o la autodeclaración de un sistema de
+gestión de la SST de una organización, y una directriz no certificable destinada a
+proporcionar asistencia genérica a una organización para establecer, implementar
+o mejorar un sistema de gestión de la SST.
+La gestión de la SST abarca una serie completa de temas, incluidos aquellos con
+implicaciones estratégicas y competitivas. El demostrar que este estándar OHSAS
+se ha implementado con éxito puede servir para que una organización garantice a
+las partes interesadas que cuenta con un sistema de gestión de la SST apropiado.
+
+Cualquier referencia a otras normas internacionales se hace únicamente con
+propósitos informativos incluyendo la mejora continua.
+
+       Planificar: establecer los objetivos y procesos necesarios para
+    conseguir resultados de acuerdo con la política de SST de la organización.
+
+       Hacer: implementar los procesos.
+
+       Verificar: realizar el seguimiento y la medición de los procesos respecto
+    a la política de SST, los objetivos, las metas y los requisitos legales y otros
+    requisitos, e informar sobre los resultados.
+
+                                                                                19
+       Actuar: tomar acciones para mejorar continuamente el desempeño del
+    sistema de gestión de la SST.
+
+Muchas organizaciones gestionan sus operaciones por medio de la aplicación
+de un sistema de procesos y sus interacciones, que se puede denominar como
+“enfoque basado en procesos”. La Norma ISO 9001 promueve el uso del
+enfoque basado en procesos. Ya que la metodología PHVA se puede aplicar a
+todos los procesos, las dos metodologías se consideran compatibles.
+
+Este    estándar OHSAS      contiene   requisitos      que   pueden   ser auditados
+objetivamente; sin embargo, no establece requisitos absolutos para el desempeño
+de la SST más allá de los compromisos incluidos en la política de SST, de cumplir
+con los requisitos legales aplicables y con otros requisitos que la organización
+suscriba para la prevención de daños y del deterioro de la salud y de la mejora
+continua. Por tanto, dos organizaciones que realizan actividades similares con
+diferente desempeño de la SST pueden ambas cumplir con sus requisitos.
+
+Este estándar OHSAS no incluye requisitos específicos para otros sistemas de
+gestión, tales como los relativos a la gestión de la calidad, gestión ambiental,
+gestión de la seguridad o gestión financiera, aunque sus elementos pueden
+alinearse o integrarse con los de otros sistemas de gestión. Es posible que una
+organización adapte su sistema o sistemas de gestión existentes para establecer
+un sistema de gestión de la SST que sea conforme con los requisitos de este
+estándar OHSAS. Sin embargo, se señala que la aplicación de los distintos
+elementos del sistema de gestión podría variar dependiendo del propósito previsto
+y de las diferentes partes interesadas involucradas.
+
+El nivel de detalle y complejidad del sistema de gestión de la SST, la extensión
+de la documentación y los recursos que se dedican dependen de varios
+factores tales como el alcance del sistema, el tamaño de la organización, la
+naturaleza de sus actividades, productos y servicios y la cultura de la
+organización. Este podría ser el caso en particular de las pequeñas y medianas
+empresas.
+
+
+
+
+                                                                                 20
+2.3.1.1. Objeto y campo de aplicación
+
+
+Este estándar de la Serie de Evaluación de la Seguridad y Salud en el Trabajo
+(OHSAS) especifica los requisitos para un sistema de gestión de la Seguridad y
+Salud en el Trabajo (SST), destinados a permitir que una organización controle
+sus riesgos para la SST y mejore su desempeño de la SST. No establece
+criterios de desempeño de la SST ni proporciona especificaciones detalladas
+para el diseño de un sistema de gestión.
+
+
+Este estándar OHSAS se aplica a cualquier organización que desee:
+
+
+      a)   Establecer un sistema de gestión de la SST para eliminar o
+           minimizar los riesgos al personal y a otras partes interesadas que
+           podrían estar expuestas a peligros para la SST asociados con sus
+           actividades;
+      b)   Implementar, mantener y mejorar de manera continua un sistema
+           de gestión de la SST;
+      c)   asegurarse de su conformidad con su política de SST establecida;
+      d)   demostrar la conformidad con este estándar OHSAS por:
+
+
+          La realización de una autoevaluación y autodeclaración;
+          La búsqueda de confirmación de dicha conformidad por las partes
+           interesadas en la organización, tales como clientes; o
+          La búsqueda de confirmación de su autodeclaración por una parte
+           externa a la organización; o
+          La búsqueda de la certificación/registro de su sistema de gestión
+           de la SST por una organización externa.
+
+
+Todos los requisitos de este estándar OHSAS tienen como fin su incorporación
+a cualquier sistema de gestión de la SST. Su grado de aplicación depende de
+factores tales como la política de SST de la organización, la naturaleza de sus
+actividades y los riesgos y la complejidad de sus operaciones.
+
+
+
+
+                                                                            21
+Este estándar OHSAS está previsto para tratar la seguridad y salud en el
+trabajo, y no otras áreas de la seguridad y salud como programas para el
+bienestar de los empleados, seguridad de los productos, daños a la propiedad
+o impactos ambientales.
+
+
+
+2.3.2. Términos y definiciones
+
+
+
+Para los fines de este documento son aplicables los siguientes términos y
+definiciones.
+
+
+
+       2.3.2.1. Riesgo aceptable
+
+
+
+Riesgo que se ha reducido a un nivel que puede ser tolerado por la
+organización teniendo en consideración sus obligaciones legales y su propia
+política de SST.
+
+
+
+       2.3.2.2. Auditoría
+
+
+
+Proceso sistemático, independiente y documentado para obtener “evidencias
+de la auditoría” y evaluarlas de manera objetiva con el fin de determinar el
+grado en que se cumplen los “criterios de auditoría”.
+
+Nota 1: Independiente no significa necesariamente externo a la organización. En
+muchos casos, la independencia puede demostrarse al estar el auditor libre de
+responsabilidades en la actividad que se audita.
+
+
+
+
+                                                                            22
+2.4. Mejora continua
+
+
+
+Proceso recurrente de optimización del sistema de gestión de la SST para
+lograr mejoras en el desempeño de la SST global de forma coherente con la
+política de SST de la organización.
+
+Nota 1: No es necesario que dicho proceso se lleve a cabo de forma
+simultánea en todas las áreas de actividad.
+
+Nota 2: Adaptada a la Norma ISO 14001:2004.
+
+
+
+2.4.1. Acción correctiva
+
+Acción tomada para eliminar la causa de una no conformidad detectada u
+otra situación indeseable.
+
+Nota 1: Puede haber más de una causa para una no conformidad.
+
+Nota 2: La acción correctiva se toma para prevenir que algo vuelva a
+producirse mientras que la acción preventiva se toma para prevenir que algo
+suceda.
+
+
+
+2.5. Documento
+Información y su medio de soporte.
+
+
+
+2.6. Peligro
+
+
+
+Fuente, situación o acto con potencial para causar daño en términos de daño
+humano deterioro de la salud, o una combinación de éstos.
+
+
+
+
+                                                                         23
+2.7. Identificación de peligros
+
+
+
+Proceso mediante el cual se reconoce que existe un peligro y se definen sus
+características.
+
+
+
+
+2.8. Deterioro de la salud
+
+
+
+Condición física o mental identificable y adversa que surge y/o empeora por la
+actividad laboral y/o por situaciones relacionadas con el trabajo.
+
+
+
+2.9. Incidente
+
+
+
+Suceso o sucesos relacionados con el trabajo en el cual ocurre o podría haber
+ocurrido un daño, o deterioro de la salud (sin tener en cuenta la gravedad), o una
+fatalidad.
+
+
+
+Nota 1: Un accidente es un incidente que ha dado lugar a un daño, deterioro de la
+salud o a una fatalidad.
+
+Nota 2: Se puede hacer referencia a un incidente donde no se ha producido un
+daño, deterioro de la salud
+       o      una fatalidad como cuasi accidente.
+
+
+
+2.10. Parte interesada
+
+
+
+Persona o grupo, dentro o fuera del lugar de trabajo que tiene interés o está
+afectado por el desempeño de la SST de una organización.
+
+
+
+
+                                                                               24
+2.11. No conformidad
+
+
+
+Incumplimiento de un requisito.
+
+[ISO 9000:2005 ; ISO 14001]
+
+
+
+Nota: Una no conformidad puede ser una desviación de:
+     Las normas de trabajo, prácticas, procedimientos, requisitos legales, etc.
+  pertinentes.
+     Los requisitos del sistema de gestión de la SST .
+
+
+
+2.12. Seguridad y salud en el trabajo (SST)
+
+
+
+Condiciones y factores que afectan, o podrían afectar a la salud y la seguridad de
+los empleados o de otros trabajadores (incluyendo a los trabajadores temporales y
+personal contratado), visitantes o cualquier otra persona en el lugar de trabajo.
+Nota: Las organizaciones pueden estar sujetas a requisitos legales sobre la
+salud y la seguridad de las personas más allá del lugar de trabajo inmediato, o
+que estén expuestas a las actividades del lugar de trabajo.
+
+
+
+2.13. Sistema de gestión de la SST
+
+
+Parte del sistema de gestión de una organización, empleada para desarrollar e
+implementar su política de SST y gestionar sus riesgos para la SST.
+
+Nota 1: Un sistema de gestión es un grupo de elementos interrelacionados
+usados para establecer la política y los objetivos y para cumplir estos objetivos.
+
+Nota 2: Un sistema de gestión incluye la estructura de la organización, la
+planificación    de   actividades,   las   responsabilidades,   las   prácticas,    los
+procedimientos, los procesos y los recursos.
+
+Nota 3: Adaptada del apartado 3.8 de la Norma ISO 14001:2004.
+
+
+                                                                                    25
+2.14. Objetivo de SST
+
+
+
+Es el fin de SST, en términos de desempeño de la SST, que una organización
+se fija alcanzar.
+
+Nota 1: Los objetivos deberían cuantificarse cuando sea posible.
+
+Nota 2: Requiere que los objetivos de SST sean coherentes con la política de SST.
+
+
+
+2.15. Desempeño de la SST
+
+
+
+Resultados medibles de la gestión que hace una organización de sus riesgos
+para la SST.
+
+Nota 1: La medición del desempeño de la SST incluye la medición de la
+eficacia de los controles de la organización.
+
+Nota 2: En el contexto de los sistemas de gestión de la SST, los resultados se
+pueden medir respecto a la política de SST, los objetivos de SST            de la
+organización y otros requisitos de desempeño de la SST.
+
+
+
+2.16. Política de SST
+
+
+
+Intenciones y dirección generales de una organización relacionadas con su
+desempeño de la SST, como las ha expresado formalmente la alta dirección.
+
+Nota 1: La política de SST proporciona una estructura para la acción y para el
+establecimiento de los objetivos de SST.
+
+
+
+
+                                                                                26
+2.17. Organización
+
+
+
+Compañía, corporación, firma, empresa, autoridad o institución o parte o
+combinación de ellas, sean o no sociedades, pública o privada, que tiene sus
+propias funciones y administración.
+Nota: Para organizaciones con más de una unidad operativa, una unidad
+operativa por sí sola puede definirse como una organización.
+
+
+
+2.18. Acción preventiva
+
+
+
+Acción tomada para eliminar la causa de una no conformidad potencial, o
+cualquier otra situación potencial indeseable.
+
+
+Nota 1: Puede haber más de una causa para una no conformidad potencial.
+Nota 2: La acción preventiva se toma para prevenir que algo suceda mientras
+que la acción correctiva se toma para prevenir que vuelva a producirse. [ISO
+9000:2005, 3.6.4]
+
+
+
+2.19. Procedimiento
+
+Forma específica para llevar a cabo una actividad o un proceso.
+
+Nota: Los procedimientos pueden estar documentados o no.
+[ISO 9000:2005, 4.5]
+
+
+
+2.20. Registro Documento
+
+
+
+Que presenta resultados obtenidos o proporciona evidencias de las
+actividades desempeñadas. [ISO 14001:2004, 3.20]
+
+
+
+
+                                                                          27
+2.21. Riesgo
+
+
+
+Combinación de la probabilidad de que ocurra un suceso o exposición
+peligrosa y la severidad del daño o deterioro de la salud que puede causar el
+suceso o exposición.
+
+
+
+2.22. Evaluación de riesgos
+
+
+
+Proceso de evaluar el riesgo o riesgos que surgen de uno o varios peligros,
+teniendo en cuenta lo adecuado de los controles existentes, y decidir si el
+riesgo o riesgos son o no aceptables.
+
+
+
+2.23. Lugar de trabajo
+
+
+
+Cualquier lugar físico en el que se desempeñan actividades relacionadas con el
+trabajo bajo el control de la organización.
+
+
+
+2.24. Requisitos del sistema de gestión de la SST 2.24.1
+
+
+
+2.24.1. Requisitos generales
+
+
+
+La organización debe establecer, documentar, implementar, mantener y mejorar
+continuamente un sistema de gestión de la SST de acuerdo con los requisitos de
+este estándar OHSAS, y determinar cómo cumplirá estos requisitos.
+La organización debe definir y documentar el alcance de su sistema de gestión
+de la SST.
+
+
+
+
+                                                                            28
+2.24.2. Política de SST
+
+
+
+La alta dirección debe definir y autorizar la política de SST de la organización y
+asegurarse de que, dentro del alcance definido de su sistema de gestión de la
+SST, ésta:
+
+
+
+  a) Es   apropiada a la naturaleza y magnitud de los riesgos para la SST de la
+       organización;
+
+  b) Incluye     un compromiso de prevención de los daños y el deterioro de la
+       salud, y de mejora continua de la gestión de la SST y del desempeño de la
+       SST;
+
+  c) Incluye     un compromiso de cumplir al menos con los requisitos legales
+       aplicables y con otros requisitos que la organización suscriba relacionados
+       con sus peligros para la SST;
+
+  d) Proporciona     el marco de referencia para establecer y revisar los objetivos de
+       SST;
+
+  e) Se   documenta, implementa y mantiene;
+
+  f)   Se comunica a todas las personas que trabajan para la organización, con el
+       propósito de hacerles conscientes de sus obligaciones individuales en materia
+       de SST;
+
+  g) Está     a disposición de las partes interesadas; y
+
+  h) Se    revisa periódicamente para asegurar que sigue siendo pertinente y
+       apropiada para la organización.
+
+2.24.3. Planificación
+
+2.24.3.1. Identificación de peligros, evaluación de riesgos
+
+
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para la identificación continua de peligros, evaluación de riesgos y
+la determinación de los controles necesarios.
+
+
+                                                                                   29
+El procedimiento o procedimientos para la identificación de peligros y la
+evaluación de riesgos deben tener en cuenta:
+
+
+
+   a) Las actividades rutinarias y no rutinarias;
+   b) Las actividades de todas las personas que tengan acceso al lugar de
+      trabajo (incluyendo contratistas y visitantes);
+   c) El comportamiento humano, las capacidades y otros factores humanos;
+   d) Los peligros identificados originados fuera del lugar de trabajo, capaces
+      de afectar adversamente a la salud y seguridad de las personas bajo el
+      control de la organización en el lugar de trabajo;
+   e) Los peligros originados en las inmediaciones del lugar de trabajo por
+      actividades relacionadas con el trabajo bajo el control de la organización;
+
+     Nota 1: Puede ser más apropiado que dichos peligros se evalúen como un
+     aspecto ambiental.
+
+ f) La infraestructura, el equipamiento y los materiales en el lugar de trabajo,
+     tanto si los proporciona la organización como otros;
+
+ g) Los cambios o propuestas de cambios en la organización, sus actividades
+     o materiales;
+
+ h) Las modificaciones en el sistema de gestión de la SST, incluyendo los
+     cambios temporales y su impacto en las operaciones, procesos y
+     actividades;
+
+ i) Cualquier obligación legal aplicable relativa a la evaluación de riesgos y la
+     implementación de los controles necesarios (véase también la nota del
+     apartado ;
+
+ j) El diseño de las áreas de trabajo, los procesos, las instalaciones, la
+     maquinaria/     equipamiento,    los   procedimientos   operativos    y   la
+     organización del trabajo, incluyendo su adaptación a las capacidades
+     humanas.
+
+La metodología de la organización para la identificación de peligros y la
+evaluación de riesgos debe:
+
+
+
+                                                                               30
+     a)          Estar definida con respecto a su alcance, naturaleza y momento
+     en el tiempo, para asegurarse de que es más proactiva que reactiva, y
+
+     b)          Prever la identificación, priorización y documentación de los
+     riesgos, y la aplicación de controles, según sea apropiado.
+
+Para la gestión de los cambios, la organización debe identificar los peligros para la
+SST y los riesgos para la SST asociados con los cambios en la organización, el
+sistema de gestión de la SST, o sus actividades, antes de la incorporación de
+dichos cambios.
+
+La organización debe asegurarse de que se consideran los resultados de estas
+evaluaciones al determinar los controles.
+
+Al establecer los controles o considerar cambios en los controles existentes se
+debe considerar la reducción de los riesgos de acuerdo con la siguiente
+jerarquía:
+
+     a)          Eliminación;
+
+     b)          Sustitución;
+
+     c)          Controles de ingeniería;
+
+     d)          Señalización/advertencias y/o controles administrativos;
+     e)          Equipos de protección personal.
+
+
+La organización debe documentar y mantener actualizados los resultados de la
+identificación     de   peligros,   la   evaluación   de   riesgos   y los controles
+determinados.
+La organización debe asegurarse de que los riesgos para la SST y los
+controles determinados se tengan en cuenta al establecer, implementar y
+mantener su sistema de gestión de la SST.
+
+
+
+2.24.3.2. Requisitos legales y otros requisitos
+
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para identificar y tener acceso a los requisitos legales y otros
+requisitos de SST que sean aplicables.
+
+                                                                                  31
+La organización debe asegurarse de que estos requisitos legales aplicables y
+otros requisitos que la organización suscriba se tengan en cuenta en el
+establecimiento, implementación y mantenimiento de su sistema de gestión de
+la SST.
+
+La organización debe mantener esta información actualizada.
+
+La organización debe comunicar la información pertinente sobre los requisitos
+legales y otros requisitos a las personas que trabajan para la organización y a
+otras partes interesadas.
+
+
+
+2.24.3.3. Objetivos y programas
+
+
+
+La organización debe establecer, implementar y mantener objetivos de SST
+documentados, en los niveles y funciones pertinentes dentro de la
+organización.
+
+Los objetivos deben ser medibles cuando sea factible y deben ser coherentes
+con la política de SST, incluidos los compromisos de prevención de los daños y
+deterioro de la salud, de cumplimiento con los requisitos legales aplicables y
+otros requisitos que la organización suscriba, y de mejora continua.
+
+Cuando una organización establece y revisa sus objetivos, debe tener en cuenta los
+requisitos legales y otros requisitos que la organización suscriba, y sus riesgos para
+la SST. Además, debe considerar sus opciones tecnológicas, sus requisitos
+financieros, operacionales y comerciales, así como las opiniones de las partes
+interesadas pertinentes.
+
+La organización debe establecer, implementar y mantener uno o varios
+programas para alcanzar sus objetivos. Estos programas deben incluir al
+menos:
+
+     a) la   asignación de responsabilidades y autoridad para lograr los objetivos
+     en las funciones y niveles pertinentes de la organización; y
+
+     b) los   medios y plazos para lograr estos objetivos.
+
+
+
+
+                                                                                   32
+Se deben revisar los programas a intervalos de tiempo regular y planificado, y se
+deben ajustar según sea necesario, para asegurarse de que se alcanzan los
+objetivos.
+
+
+
+2.24.4. Implementación y operación
+
+
+
+       2.24.4.1. Recursos, funciones, responsabilidad y autoridad
+
+
+La alta dirección debe ser el responsable en última instancia de la seguridad y
+salud en el trabajo y del sistema de gestión de la SST.
+La alta dirección debe demostrar su compromiso:
+     a)      Asegurándose de la disponibilidad de los recursos esenciales
+     para establecer, implementar, mantener y mejorar el sistema de gestión
+     de la SST;
+
+     Nota 1: Los recursos incluyen los recursos humanos y habilidades
+     especializadas, la infraestructura de la organización y los recursos
+     tecnológicos y financieros.
+
+     b)      Definiendo    las     funciones,   asignando   responsabilidades   y
+     delegando autoridad para facilitar una gestión de la SST eficaz; y se
+     deben documentar y comunicar las funciones, responsabilidades y
+     autoridad.
+
+La organización debe designar a uno o varios miembros de la alta dirección con
+responsabilidad    específica      en   SST,    independientemente     de   otras
+responsabilidades, y que debe tener definidas sus funciones y autoridad para:
+
+     a)      Asegurarse de que el sistema de gestión de la SST se establece,
+     implementa y mantiene de acuerdo con este estándar OHSAS;
+
+     b)      Asegurarse de que los informes del desempeño del sistema de
+     gestión de la SST se presentan a la alta dirección para su revisión y se
+     utilizan como base para la mejora del sistema de gestión de la SST.
+
+     Nota 2: La persona designada por la alta dirección (por ejemplo, en una
+     organización grande, un miembro de la junta directiva o del comité ejecutivo)
+
+                                                                                33
+      puede delegar alguno de sus deberes a uno o varios representantes de la
+      dirección subordinados, conservando la responsabilidad.
+
+La identidad de la persona designada por la alta dirección debe estar disponible
+para todas las personas que trabajen para la organización.
+
+Todos aquellos con responsabilidades en la gestión deben demostrar su
+compromiso con la mejora continua del desempeño de la SST.
+
+La organización debe asegurarse de que las personas en el lugar del trabajo
+asuman la responsabilidad de los temas de SST sobre los que tienen control,
+incluyendo la adhesión a los requisitos de SST aplicables de la organización.
+
+
+
+        2.24.4.2. Competencia, formación y toma de conciencia
+
+
+
+La organización debe asegurarse de que cualquier persona que trabaje para
+ella y que realice tareas que puedan causar impactos en la SST, sea
+competente tomando como base una educación, formación o experiencia
+adecuadas, y deben mantener los registros asociados.
+
+
+La organización debe identificar las necesidades de formación relacionadas con
+sus riesgos para la SST y su sistema de gestión de la SST. Debe proporcionar
+formación o emprender otras acciones para satisfacer estas necesidades,
+evaluar la eficacia de la formación o de las acciones tomadas, y debe mantener
+los registros asociados.
+
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para que las personas que trabajan para ella sean conscientes
+de:
+
+      a) Las   consecuencias para la SST reales o potenciales, de sus actividades
+      laborales, de su comportamiento y de los beneficios para la SST de un
+      mejor desempeño personal;
+
+      b) Sus    funciones y responsabilidades y la importancia de lograr la
+      conformidad con la política y procedimientos de SST y con los requisitos
+
+                                                                                34
+      del sistema de gestión de la SST, incluyendo los requisitos de la
+      preparación y respuesta ante emergencias.
+
+      c) Las    consecuencias potenciales de desviarse de los procedimientos
+      especificados.
+
+Los procedimientos de formación deben tener en cuenta los diferentes niveles
+de:
+
+      a) Responsabilidad,    aptitud, dominio del idioma y alfabetización; y
+
+      b) Riesgo.
+
+
+
+
+      2.24.4.3. Comunicación, participación y consulta
+
+
+
+
+                 2.24.4.3.1. Comunicación
+
+
+
+En relación con sus peligros para la SST y su sistema de gestión de la SST, la
+organización        debe   establecer,   implementar   y   mantener    uno     o   varios
+procedimientos para:
+
+      a) La    comunicación interna entre los diversos niveles y funciones de la
+      organización;
+
+      b) La   comunicación con los contratistas y otros visitantes al lugar de trabajo;
+
+      c) Recibir,   documentar y responder a las comunicaciones pertinentes de
+      las partes interesadas externas.
+
+        2.24.4.3.2 Participación y consulta
+
+
+
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para:
+
+  a) La participación de los trabajadores mediante su:
+
+               Adecuada involucración en la identificación de los peligros, la
+                evaluación de riesgos y la determinación de los controles;
+                                                                                      35
+            Adecuada participación en la investigación de incidentes;
+
+           Involucración en el desarrollo y la revisión de las políticas y objetivos
+            de SST;
+
+            Consulta cuando haya cualquier cambio que afecte a su SST;
+            Representación en los temas de SST.
+
+
+   Se debe informar a los trabajadores acerca de sus acuerdos de
+   participación, incluido quién o quiénes son sus representantes en temas de
+   SST.
+  b) La consulta con los contratistas cuando haya cambios que afecten a su
+     SST.
+
+La organización debe asegurarse de que, cuando sea apropiado, se consulte a
+las partes interesadas externas sobre los temas de SST pertinentes.
+
+
+
+      2.24.4.4. Documentación
+
+
+
+La documentación del sistema de gestión de la SST debe incluir:
+
+     a)      La política y los objetivos de SST;
+
+     b)      La descripción del alcance del sistema de gestión de la SST;
+
+     c)      La descripción de los elementos principales del sistema de
+             gestión de la SST y su interacción, así como la referencia a los
+             documentos relacionados;
+
+     d)      Los documentos, incluyendo los registros, requeridos por este
+             estándar OHSAS; y
+
+     e)      Los documentos, incluyendo los registros, determinados por la
+             organización como necesarios para asegurar la eficacia de la
+             planificación, operación y control de los procesos relacionados
+             con la gestión de los riesgos para la SST.
+
+
+
+
+                                                                                  36
+Nota: Es importante que la documentación sea proporcional al nivel de
+complejidad, peligros y riesgos concernientes, y que se mantenga al mínimo
+requerido para alcanzar la eficacia y eficiencia.
+
+
+
+
+        2.24.4.5. Control de documentos
+
+
+
+Los documentos requeridos por el sistema de gestión de la SST y por este
+estándar OHSAS se deben controlar. Los registros son un tipo especial de
+documento y se deben controlar de acuerdo con los requisitos establecidos en
+el apartado.
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para:
+
+       a)       Aprobar los documentos con relación a su adecuación antes de
+       su emisión;
+
+       b)       Revisar y actualizar los documentos cuando sea necesario, y
+       aprobarlos nuevamente;
+
+       c)       Asegurarse de que se identifican los cambios y el estado de
+       revisión actual de los documentos;
+
+       d)       Asegurarse de que las versiones pertinentes de los documentos
+       aplicables están disponibles en los puntos de uso;
+
+       e)       Asegurarse de que los documentos permanecen legibles y
+       fácilmente identificables;
+  f)   Asegurarse de que se identifican los documentos de origen externo que la
+       organización ha determinado que son necesarios para la planificación y
+       operación del sistema de gestión de la SST y se controla su distribución; y
+  g)   Prevenir el uso no intencionado de documentos obsoletos y aplicarles una
+       identificación adecuada en el caso de que se conserven por cualquier
+       razón.
+
+
+
+
+                                                                                37
+  2.24.4.6. Control operacional
+
+
+
+La organización debe identificar aquellas operaciones y actividades que están
+asociadas con los peligros identificados para los que es necesaria la
+implementación de controles para gestionar el riesgo o riesgos para la SST. Esto
+debe incluir la gestión de cambios.
+
+Para esas operaciones y actividades, la organización debe implementar y
+mantener:
+
+    a) Controles     operacionales cuando sea aplicable para la organización y sus
+      actividades; la organización debe integrar estos controles operacionales
+      dentro de su sistema de gestión de la SST global;
+
+    b) Controles      relacionados con los bienes, equipamiento y servicios
+      adquiridos;
+
+    c) Controles     relacionados con los contratistas y otros visitantes al lugar de
+      trabajo;
+
+    d) Procedimientos     documentados, para cubrir las situaciones en las que su
+      ausencia podría llevar a desviaciones de su política y sus objetivos de
+      SST;
+
+    e) Los   criterios operativos estipulados en los que su ausencia podría llevar
+      a desviaciones de su política y sus objetivos de SST.
+
+
+
+    2.24.4.7. Preparación y respuesta ante emergencias
+
+
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para:
+
+    a) Identificar   situaciones de emergencia potenciales;
+
+    b) Responder      a tales situaciones de emergencia.
+
+La organización debe responder ante situaciones de emergencia reales y
+prevenir o mitigar las consecuencias adversas para la SST asociadas.
+
+
+                                                                                  38
+La organización también debe realizar pruebas periódicas de su procedimiento
+o procedimientos para responder a situaciones de emergencia, cuando sea
+factible, implicando a las partes interesadas pertinentes según sea apropiado.
+
+La organización debe revisar periódicamente, y modificar cuando sea necesario
+sus procedimientos de preparación y respuesta ante emergencias, en particular
+después de las pruebas periódicas y después de que ocurran situaciones de
+emergencia
+
+
+
+2.24.5. Verificación
+
+
+
+      2.24.5.1. Medición y seguimiento del desempeño
+
+
+
+La organización debe establecer, implementar y mantener uno o varios
+procedimientos para hacer el seguimiento y medir de forma regular el
+desempeño de la SST. Los procedimientos deben incluir:
+
+     a)      Las medidas cualitativas y cuantitativas apropiadas a las
+     necesidades de la organización;
+
+     b)      El seguimiento del grado de cumplimiento de los objetivos de SST de la
+     organización;
+
+     c)      El seguimiento de la eficacia de los controles (tanto para la salud
+     como para la seguridad);
+
+     d)      Las medidas proactivas del desempeño que hacen un seguimiento de
+     la conformidad con los programas, controles y criterios operacionales de la
+     SST;
+
+     e)      Las medidas reactivas del desempeño que hacen un seguimiento
+     del deterioro de la salud, los incidentes (incluyendo los cuasi accidentes) y
+     otras evidencias históricas de un desempeño de la SST deficiente;
+
+Si se necesitan equipos para el seguimiento y la medición del desempeño, la
+organización debe establecer y mantener procedimientos para la calibración y el
+
+
+
+                                                                                 39
+mantenimiento de dichos equipos cuando sea apropiado. Se deben conservar los
+registros de las actividades y los resultados de calibración y mantenimiento.
+
+
+
+
+                                                                                40
+                                 CAPITULO III
+
+
+
+       METODOLOGÍA PARA LA IMPLEMENTACIÓN DEL SISTEMA
+
+
+
+
+3.1. Diagnóstico de la situación actual
+
+
+
+Como paso preliminar, se debe realizar un diagnóstico inicial de la situación
+actual de la empresa referida al estado de la seguridad y salud principalmente
+de los trabajadores, procesos, maquinarias, resguardos, equipos de seguridad.
+Para realizar éste diagnóstico se debe recopilar la mayor cantidad de
+información disponible sobre lo planificado, desarrollado e implementado por la
+empresa en temas de seguridad y salud ocupacional, asimismo se toman en
+cuenta las estadísticas, características e indicadores de accidentes e incidentes
+de trabajo de los últimos años (naturaleza de la lesión, área de ocurrencia, días
+de descanso médico generados, principales gastos incurridos, etc.), así como
+las investigaciones y acciones correctivas realizadas para dichos accidentes;
+también se deben considerar las opiniones de los colaboradores relacionados
+con el tema como los gerentes, jefes y supervisores de planta, encargados de
+seguridad, entre otros.
+
+
+
+                                                                              41
+Con los resultados de éste análisis se podrán conocer los principales peligros y
+riesgos que se encuentren actualmente o que pueden generarse en la
+empresa, es decir, los problemas primordiales que deben ser solucionados de
+inmediato. El diagnóstico debe servir como base y punto de partida sobre el
+cual se realice la planificación y organización para la posterior implementación
+del sistema.
+
+
+
+3.2. Definición de la Política
+
+
+Para una correcta implementación del SGSST se debe definir una política que
+refleje el compromiso, orientación y principios de la Alta Dirección de la
+empresa, dado que es ésta quien la representa y toma las decisiones
+trascendentales; para lo cual se necesita que los mismos representantes sean
+quienes la elaboren, evalúen, aprueben, difundan y pongan en práctica.
+Con la finalidad de obtener un documento con la política de seguridad y salud
+en el trabajo deseada, se deben mantener reuniones con los Gerentes y
+Directores de la empresa (como representantes de los accionistas) así como
+con jefes de área o encargados de sección que puedan aportar detalles en
+temas de seguridad y salud ocupacional, como se pueden considerar a: los
+jefes de departamento de la Gerencia de Producción, los jefes de Recursos
+Humanos, Logística y Seguridad, los encargados de control de la Calidad y de
+Seguridad Industrial, entre otros. Es preferible contar con la mayor participación
+posible, dado que ello contribuye a lograr un enfoque integral en la elaboración
+de la política.
+
+
+
+3.3. Planificación y organización
+
+
+
+Una vez definidos los principales lineamientos a seguir en la Política de
+Seguridad y Salud en el Trabajo, se debe realizar la planificación de las
+actividades a efectuar para la adecuada implementación del sistema.
+
+
+
+
+                                                                               42
+3.3.1. Identificación de peligros y evaluación de riesgos
+
+
+
+Se explica la metodología para realizar el análisis de Identificación de Peligros
+y posteriormente la Evaluación de los Riesgos asociados, con la finalidad de
+conocer los riesgos presentes y potenciales que se puedan advertir en el
+desarrollo de las operaciones de la empresa, así como su grado de
+peligrosidad (para lo cual se establecerán ponderaciones considerando los
+niveles de control, exposición y consecuencias).
+El proceso del análisis de riesgos se inicia con la identificación de los peligros
+existentes y probables que puedan llegar a afectar a los trabajadores,
+procesos, maquinarias, resguardos, equipos de seguridad, materiales y otros,
+determinando el tipo de peligro y el riesgo asociado que se genera en cada
+caso. Una vez registrados estos datos, deben ser evaluados y se determinarán
+los niveles de cada riesgo, para lo cual se deberán tomar en consideración los
+niveles de control y exposición a los peligros, así como el nivel de las
+consecuencias que se puedan originar. Con la finalidad de poder consignar,
+analizar y documentar adecuadamente toda esta información.
+Los principales puntos a desarrollar en el proceso son los siguientes:
+
+
+a) Análisis de Riesgos
+Se deben determinar y registrar los procedimientos generales de trabajo, así
+como los particulares que puedan realizarse en el área en estudio.
+Además se debe realizar un estudio minucioso de las investigaciones y
+estadísticas de los accidentes de trabajo ocurridos durante los últimos años,
+tomando especial cuidado y atención para los accidentes que ocurren con
+mayor frecuencia, los que por su naturaleza ocasionan lesiones más graves y
+los que ocasionan mayores pérdidas a la empresa.
+A partir del análisis de la información de los puntos anteriores se debe elaborar
+un listado de áreas, procesos y materiales críticos con la finalidad de poder
+identificar claramente los peligros y determinar los riesgos.
+b) Matriz de análisis de riesgos
+Después de haber identificado los peligros, riesgos asociados y haberlos
+evaluado     se deben presentar los resultados en matrices previamente
+
+                                                                               43
+establecidas. Para una mejor visualización y comprensión, se debe incluir la
+información acerca de: área analizada, máquina o actividad donde se presenta
+el peligro, descripción y tipo de peligro, riesgo asociado, valoración de los
+niveles de control, exposición y consecuencias según los cuales se calcula
+finalmente el nivel del riesgo.
+Estas matrices deben ser difundidas, analizadas y revisadas continuamente,
+con la finalidad de informar a los trabajadores sobre los peligros que presenten
+mayores niveles de riesgo y realizar las acciones adecuadas para mantenerlos
+bajo control; para el presente caso se analizarán básicamente los riesgos que
+hayan alcanzado el nivel de intolerable. Estas ponderaciones para los niveles
+de control, exposición y consecuencias se deben revisar y evaluar anualmente
+para mantener actualizados los niveles de riesgo respectivos.
+
+
+
+3.4. Programación de la implementación y operación
+
+
+
+Tomando como base la planificación efectuada en el ítem anterior, se proceden
+a explicar los principales puntos a considerar para realizar la implementación y
+operación del SGSST:
+    Estructura y Responsabilidades.
+    Control Operativo.
+    Difusión, Capacitación y Formación.
+    Comunicación y Participación.
+    Documentación.
+    Respuesta ante Emergencias.
+
+
+
+3.4.1. Estructura y responsabilidades
+
+
+Se debe determinar la estructura organizativa del SGSST identificando a los
+principales encargados en los distintos niveles y áreas de la empresa, según lo
+cual   se   establecerán     y    asignarán   las   funciones,   obligaciones   y
+responsabilidades propias a cada integrante.
+
+
+
+                                                                                44
+3.4.2. Control operativo
+
+
+Para este punto se procederán a plantear las medidas de control necesarias
+con la finalidad de eliminar los riesgos encontrados o reducir su nivel hasta
+límites tolerables para la normal operatividad de los trabajadores y procesos.
+Como se mencionó anteriormente, para el presente análisis sólo se tomarán en
+cuenta los riegos más importantes hallados, es decir aquellos que hayan
+alcanzado niveles intolerables en las matrices de análisis de riesgos obtenidas
+del proceso de Identificación de Peligros y Evaluación de Riesgos.
+Dependiendo del peligro y el riesgo específico determinados en cada caso, se
+podrían establecer medidas de control operativas como utilización de guardas
+de protección para las maquinarias, uso de equipos de protección personal
+(EPP) para los trabajadores, estandarización y mejora de los procedimientos
+internos de trabajo, planificación de actividades de capacitación para el
+personal sobre métodos de trabajo seguro y con relación a su labor específica,
+programación de actividades de mantenimiento preventivo y correctivo para las
+maquinarias y equipos que lo requieran, entre otros.
+
+
+
+3.4.3. Difusión – Capacitación
+
+
+Para lograr implementar adecuadamente el SGSST, éste debe ser conocido
+por todas las personas directamente involucradas con el mismo, todos los
+colaboradores de la compañía, los trabajadores de empresas terceras que
+brinden servicios y, en general, por todas las personas que ingresen y circulen
+por las instalaciones de la empresa; para lo cual se deben utilizar los distintos
+medios de difusión que se encuentren a disposición, como pueden ser las
+charlas, campañas de publicidad interna, afiches, carteleras, boletines, entre
+otros, con la finalidad de dar a conocer los principales lineamientos y el proceso
+de implementación del nuevo sistema de gestión.
+
+
+Además, para que el sistema pueda funcionar eficaz y correctamente, se debe
+capacitar a los colaboradores de acuerdo a sus necesidades específicas de
+trabajo, las cuales dependen básicamente de las labores que realicen dentro
+
+                                                                               45
+del sistema de gestión y en su propio puesto de trabajo. Por ello y con la
+finalidad de mejorar las aptitudes y capacidades del personal, se deben
+establecer programas de capacitación especialmente en temas de seguridad y
+salud ocupacional, acorde a los diferentes niveles jerárquicos y puestos con
+que cuente la empresa.
+
+
+
+3.4.4. Comunicación y participación
+
+
+La participación activa de los trabajadores es un elemento fundamental para la
+correcta implementación del sistema, por ello se debe buscar que el personal
+se encuentre adecuada y constantemente informado sobre todo lo relacionado
+con el SGSST; para lo cual se pueden definir programas apropiados de
+comunicación que deben ser apoyados principalmente por los miembros del
+Comité Paritario, quienes deben reunirse mensualmente para revisar los temas
+relacionados al avance de la implementación del sistema de gestión, analizar
+las propuestas de mejora presentadas y determinar su ejecución.
+
+
+
+3.4.5. Documentación
+
+
+Con la finalidad de tener un fundamento de la correcta implementación del
+sistema de gestión, así como contar con sustentos para efectuar el proceso de
+mantenimiento y revisión periódica, se debe documentar y registrar
+apropiadamente todo lo relacionado con la planificación, implementación y
+puesta en funcionamiento del SGSST, dentro de lo que se puede considerar
+principalmente: actualización de los manuales de organización y funciones para
+asignar   responsabilidades,   reglamento    interno   de   seguridad   y   salud
+ocupacional, actas de reuniones del Comité, planes de contingencias,
+indicadores de gestión, registros de reporte e investigación de accidentes, entre
+otros.
+
+
+
+
+                                                                               46
+3.4.6. Respuesta ante emergencias
+
+
+En base a los principales riesgos encontrados, los desastres naturales o los
+peligros generales que se puedan presentar en la empresa, se debe diseñar un
+Plan de Contingencia que incluya información sobre la forma de accionar ante
+la ocurrencia de diversos peligros.
+Se deben definir las funciones y responsabilidades de los encargados de actuar
+ante las diversas ocurrencias que se puedan presentar, principalmente se
+pueden determinar la formación de una brigada de intervención en casos de
+emergencias,    planes    operativos   para   realizar   acciones   de   riesgo,
+procedimientos para actuar en casos de emergencia, entre otros. También se
+deben precisar los equipos, capacitaciones y entrenamientos para todo el
+personal involucrado en actuar ante situaciones de emergencia.
+
+
+
+
+                                                                             47
+                                 CAPITULO IV
+
+
+
+
+                         ESTUDIO DE LA EMPRESA
+
+
+
+4.1.   Descripción y organización de la empresa
+
+
+La empresa se dedica a la fabricación de productos inyectados de plástico,
+siendo necesario indicar que no se especifica el producto pero si los productos
+son diseñados para cumplir con las especificaciones de sus clientes; cuenta
+con personal adecuadamente capacitado, maquinaria de última generación, lo
+que permite desarrollar productos de primer nivel.
+
+
+
+4.2.   Descripción de la distribución de la planta
+
+
+Para el desarrollo de sus procesos productivos y administrativos la empresa
+cuenta con un local de aproximadamente 3,000 m2 de dimensión distribuidos
+en oficinas administrativas, plantas de producción, almacenes, corredor central,
+patios, vestuarios, comedor y áreas verdes; algunas de sus construcciones
+cuentan hasta con dos niveles, y en general está adecuadamente
+acondicionada para uso industrial.
+
+
+
+                                                                             48
+Las   labores   administrativas     se   desarrollan   en   áreas   correctamente
+acondicionadas, se cuenta con oficinas de las Gerencias de Administración y
+Finanzas y Ventas, y otra área para las oficinas de la Gerencia de Producción y
+Proyectos.
+
+
+                                   Organigrama
+
+
+                                      Gerencia
+
+
+
+
+                            Gerencia de marketing
+                                      Y ventas
+
+
+
+
+                                   Dto. Plásticos
+
+
+
+
+                             Dto. Planeamiento y
+                            control de producción.
+
+
+
+
+                                  Dto. de Inyección
+
+
+
+
+                           Dto. de comercialización
+
+
+
+
+                                                                               49
+4.3. Descripción del área de Inyección
+
+
+El área de Inyección cuenta salidas exclusivas y señalizadas para montacargas
+y para personal operario, respectivamente. Internamente se encuentra dividida
+por el área de la de Mantenimiento (máquinas y oficinas), lo cual permite
+diferenciar dos zonas: Inyección 1, donde se realizan los procesos de inyección
+para la obtención de los productos plásticos, e Inyección 2, donde se realizan
+los procesos de impresión de los productos que así lo requieran.
+
+
+
+4.4 . Proceso de producción
+
+
+El proceso se inicia con la recepción de la materia prima que llega a las
+instalaciones de la empresa en costales o sacos debidamente embalados, pasa
+por control de calidad y es trasladado a los almacenes. Al momento de
+formalizarse una orden de producción para cierto producto, se realiza la
+programación de cantidades a producir, insumo necesario, máquinas a utilizar,
+tiempos y otros parámetros para determinada línea; en caso el producto
+requiera pasar luego por el área de impresión, también se realiza la
+programación de dicha línea.
+
+
+Una vez lista la programación se deben fijar los parámetros (temperatura,
+tiempos principalmente) en la maquinaria, preparar los moldes y asegurarse de
+contar con los insumos necesarios (se traslada la materia prima a planta). Para
+empezar con el proceso, el insumo debe ser depositado en los silos que sirven
+para alimentar automáticamente a las maquinas inyectoras; en caso la máquina
+no funcione con el sistema de alimentación automática, un operario debe verter
+el insumo a la máquina manualmente.
+
+
+El proceso que realizan las máquinas básicamente es similar para todas: se
+calienta el insumo a altas temperaturas a través del tornillo, para inyectarlo a
+través de una unidad de cierre en el molde correspondiente; una vez
+transcurrido el tiempo predeterminado se procede a la abertura del molde y el
+producto semiterminado cae a una bandeja; dependiendo de la máquina y del
+
+                                                                             50
+molde, se pueden producir 2 ó 4 cuerpos del producto por vez. Posteriormente
+el operario a cargo de la máquina recoge los productos para realizar los
+acabados necesarios y colocarlos sobre un sistema automatizado con brazos
+mecánicos y sensores donde se van apilando. Luego de cierto número de
+productos, el grupo se traslada por la faja transportadora a una zona de
+almacenamiento transitorio, donde esperará a ser verificada por el personal
+para asegurarse que no tiene desperfectos. Los productos que pasen la
+inspección son agrupados en números de 8 ó 10 (dependiendo de los
+requerimientos del cliente) para ser envueltos con una bolsa protectora, tras lo
+cual son llevados a la zona de impresión o a la zona de almacén.
+
+
+Se debe tener en cuenta que la producción de dos o más accesorios por
+ejemplo de los baldes, tapas y asas, se realiza de manera independiente en
+distintas máquinas, aunque generalmente en simultaneo. El proceso es
+básicamente el mismo, variando los moldes utilizados y los parámetros
+programados en las máquinas.
+
+
+Para el proceso de impresión se cuenta con dos tipos de máquinas (una
+automatizada    y   otra   semiautomatizada).   El    proceso   con    el    sistema
+automatizado inicia con el traslado de los productos por una faja transportadora
+que lleva los productos a la máquina y un operario los coloca en la máquina
+que cuenta con un cabezal con cuatro mangos giratorios (un producto en cada
+uno), a continuación todo el cabezal se traslada hasta la posición de impresión
+donde un producto por vez empezará a girar sobre su eje y será pintado por
+rodillos con los cuatros colores principales (a partir de los cuales se hacen las
+combinaciones necesarias) de acuerdo a               la programación        y diseño
+previamente establecidos. Una vez finalizada la impresión, se espera un tiempo
+mínimo de secado, el producto cae sobre una bandeja y es trasladado por otra
+pequeña faja hasta un punto de inspección, continúa por otro puesto donde se
+colocarán accesorios si es necesario o que lo requieran y finalmente llega a la
+zona de productos terminados donde se acumulan y son embalados.
+
+
+En el otro proceso, la impresora cuenta con un sistema semiautomatizado en el
+cual los productos son colocados manualmente sobre una faja que los traslada
+                                                                                  51
+a través de la máquina donde se les imprime el logo o diseño que requieran.
+Una vez realizada la impresión, a la salida de la máquina deben ser
+inspeccionados por el operario encargado, quien se encarga de apilarlos, para
+ser embalados posteriormente.
+
+
+
+
+                                                                           52
+                                 CAPITULO V
+
+
+
+       PROPUESTA DE IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN
+
+
+
+
+Se desarrolla y explica la propuesta de implementación del Sistema de Gestión
+de Seguridad y Salud en el Trabajo en la empresa en estudio, para lo cual se
+seguirán los pasos planteados anteriormente.
+
+
+
+5.1.   Diagnóstico de la situación actual
+
+
+Se presenta el diagnóstico de la situación actual de la empresa referida al
+estado de la seguridad y salud de sus trabajadores, procesos, maquinarias,
+resguardos, equipos de seguridad, entre otros, a partir de lo cual se
+presentarán propuestas de mejora que serán detalladas en el punto de
+Implementación y operación. Se debe recopilar toda la información disponible
+sobre la empresa en temas de seguridad y salud ocupacional, revisar y analizar
+los indicadores de gestión y la información de los reportes sobre los accidentes
+de trabajo, así como realizar un recorrido de campo por el área de producción
+para poder reconocer in situ los principales peligros presentes.
+
+
+
+
+                                                                             53
+El análisis de los resultados y conclusiones de la situación actual permite
+conocer los principales peligros y riesgos presentes, lo cual servirá de base
+para el proceso de identificación de peligros y evaluación de riesgos que se
+desarrolla en Planificación y organización, producto del cual se obtendrán
+Matrices de Análisis de Riesgos por cada área considerada en el estudio; para
+las cuales se realizará el análisis detallado de los peligros más importantes
+encontrados en el punto de Control Operativo.
+
+
+
+5.1.1. Recopilación de información para el análisis de riesgos
+
+
+Se solicitó y obtuvo toda la información posible sobre los procedimientos
+generales de trabajo que se realizan en las áreas en estudio, asimismo se
+recogieron e investigaron los trabajos eventuales o periódicos que puedan
+llegar a realizarse. Se recogió información y se analizaron las estadísticas e
+investigaciones de los accidentes de trabajo ocurridos durante los últimos años,
+en especial los que sucedieron en los últimos 5 años (2008-2013).
+
+
+Mediante visitas realizadas a la planta de Inyección, recorriendo las áreas de
+Inyección 1 y 2, Control de Calidad y Mantenimiento, se identificaron las
+condiciones y actos subestándar, los cuales fueron añadidos a un listado de
+peligros que sirve de base para la elaboración de las matrices de Análisis de
+Riesgos por cada área.
+
+
+A continuación se explica el análisis de la situación actual y toda información
+disponible que se considere pertinente para el presente estudio.
+
+
+
+5.1.2. Estudio y análisis de la situación actual
+
+
+En la tabla 5.1 se pueden observar las estadísticas de los accidentes de trabajo
+que se han registrado en la empresa durante los últimos años, considerando
+que se cuenta con información de que la empresa inició formalmente el registro
+de los accidentes en el año 2008 como parte de la implementación del sistema
+
+
+                                                                             54
+de gestión de calidad ISO 9001. Se debe tomar en cuenta que desde finales
+del año 2010 se realiza un seguimiento más completo y minucioso para el
+registro de los datos de accidentes, debido a la presión del Estado para que las
+empresas se adecuen al “Reglamento Interno de Seguridad y Salud en el
+Trabajo” (MTPE 2005), por lo que los bajos índices de accidentes durante los
+años anteriores (principalmente durante el período 2004–2008) podrían
+deberse a que no se registraron todos los accidentes de trabajo que
+verdaderamente ocurrieron.
+
+
+                Tabla 5.1: Cuadro estadístico de accidentes
+
+
+          ENE    FEB    MAR ABR      MAY    JUN   JUL    AGO DIC      TOTAL
+
+AÑO 2002 1       2      2     0      1      0     1      2      4     13
+
+AÑO 2003 5       0      2     4      2      2     3      1      5     24
+
+AÑO 2004 0       2      2     1      0      0     0      0      0     5
+
+AÑO 2005 2       0      1     3      0      0     0      0      0     6
+
+AÑO 2006 2       2      3     2      1      2     0      0      1     13
+
+AÑO 2007 0       1      0     0      3      1     1      3      1     10
+
+AÑO 2008 1       1      0     0      2      0     0      0      1     5
+
+AÑO 2009 4       1      0     1      0      1     4      1      2     14
+
+AÑO 2010 3       2      3     1      4      1     3      2      1     20
+
+AÑO 2011 2       1      1     1      3      1     0      4      1     14
+
+AÑO 2012 3       2      2     2      2      1     2      1      2     17
+
+AÑO 2013 3       2      2     0      4      1     3      1      2     18
+
+Fuente: Información de accidentes de trabajo de la empresa
+
+
+Sobre la base de la información que se recopiló y como se puede observar en
+el gráfico 5.1, en los últimos cinco años se ha incrementado considerablemente
+la cantidad de accidentes de trabajo con relación a los años anteriores (sin
+considerar el pico que se tuvo en el año 2003 cuando se registraron un total de
+24 accidentes), aunque se debe considerar que desde la promulgación del D.S.
+Nº 009–2005–TR se están registrando con mayor cuidado los accidentes de
+                                                                              55
+trabajo. Este incremento constante de la cantidad de accidentes se puede
+calificar como una primera señal de alerta para la empresa que representa un
+peligroso descuido en su política de velar por unas condiciones de trabajo
+adecuadas para sus colaboradores.
+
+
+Tabla 5.3: Resumen de Accidentes de Trabajo por tipo lesión (2006-2010)
+
+
+
+   TOTAL   CORTES             QUEMAD       GOLPES Y LUXAC/FR     TOTAL
+   2006    4                  2            3        10           19
+   EMPRESA                                 CONT     ACT/AT
+   2007    5                  1            7        9            22
+                                                    RIC
+   2008           4           3            2        10           19
+
+   2009           4           2            5           9         20
+   2010           4           3            4           9         20
+
+   TOTAL          21          11           21          47        100
+Fuente: Información de la empresa / Elaboración: Propia
+
+
+Tabla 5.4: Resumen de Accidentes de Trabajo área de inyeccion (2006-
+2010)
+
+ PLANTA DE CORTES         QUEMAD       GOLPES Y LUXAC/FR TOTAL
+ INYECCION
+ 2006      2              0            3
+                                       CONT     5
+                                                ACT/AT   10
+ 2007         4           1            4           RIC
+                                                   6           15
+ 2008         4           2            2           9           17
+ 2009         2           2            5           7           16
+ 2010         3           2            2           8           15
+
+ TOTAL        15          7            16          35          73
+Fuente: Información de la empresa / Elaboración: Propia
+
+
+Adicionalmente, como parte de su sistema de gestión de calidad, a la fecha la
+empresa también cuenta con indicadores detallados de los accidentes de
+trabajo ocurridos durante últimos años; a continuación se presenta un resumen
+de la información de accidentes del año 2010.
+
+
+                                                                           56
+También se puede analizar la información de la tabla 5.5, donde se muestran
+los días de descanso médico que han ocasionado los accidentes de trabajo en
+el último año (diferenciando empleados administrativos y operarios), dado que
+éstos se consideran costos directos de dichos accidentes por tratarse de
+horas–hombre pérdidas para la producción.
+
+
+   Tabla 5.5: Número de días de descanso médico por accidente 2010
+
+              TRABAJADOR ÁREA                 EMP. OPE. D.M.
+              Trabajador 1    Inyección             x    7
+              Trabajador 2    Offset                x    5
+              Trabajador 3    Inyección             x    0
+              Trabajador 4    Inyección             x    3
+              Trabajador 5    Inyección             x    21
+              Trabajador 6    Inyección             x    8
+              Trabajador 7    Inyección             x    5
+              trabajador 8    Inyección             x    10
+              Trabajador 9    Inyección             x    0
+              Trabajador 10 Almacén                 x    120
+              Trabajador 11 Inyección               x    14
+              Trabajador 12 Inyección               x    0
+              Trabajador 13 Inyección               x    0
+              Trabajador 14 Inyección               x    3
+              Trabajador 15 Inyección               x    15
+              Trabajador 16 Acabados                x    31
+              Trabajador 17 Inyección               x    16
+              Trabajador 18 Inyección               x    13
+              Trabajador 19 Mantenimiento x              0
+              Trabajador 20 Mantenimiento           x    0
+              TOTAL                                      271
+
+            Fuente: Información de la empresa / Elaboración: Propia.
+
+
+                                                                           57
+Asimismo en la tabla se muestran los resultados del análisis por porcentajes
+según área de trabajo, donde nuevamente se puede observar el cuidado
+especial que se debe tener sobre el área de Inyección dado que cuenta con un
+alto porcentaje del total de días perdidos (42.4%), siendo superados para éste
+caso únicamente por el área de Almacén.
+
+
+    Tabla 5.5: Número de días de descanso médico por accidente 2010
+
+          AREAS                           D.M.          %
+
+          OFICINAS DE PRODUCCION 0                      0.0%
+          PLANTA DE INYECCION             115           42.4%
+          PLANTA         OFFSET         -5              1.8%
+          CONVERSION
+          PLANTA DE ACABADOS              31            11.4%
+          ALMACEN                         120           44.3%
+          TALLER                     DE 0               0.0%
+          MANTENIMIENTO
+          OFICINAS                        0             0.0%
+          ADMINISTRATIVAS
+          PATIO DE MANIOBRAS              0             0.0%
+          OTROS                           0             0.0%
+          TOTAL                           271           100%
+
+           Fuente: Información de la empresa / Elaboración: Propia.
+
+
+
+5.2. Conclusiones del análisis de la situación actual
+
+
+Los accidentes de trabajo ocurridos en la empresa se han incrementado
+notablemente durante los últimos años, especialmente en el periodo 2006
+2010, desde la promulgación del D.S. Nº 009–2005–TR.
+
+
+Las estadísticas indican que existe tendencia a que ocurran accidentes de
+trabajo si no se toma conciencia del sistema de SST. También se deben
+considerar como causa de los accidentes a las condiciones y actos
+subestándar presentes en las áreas y procedimientos de trabajo.
+
+
+
+                                                                            58
+El área de Inyección se establece como la “más peligrosa” de la empresa o la
+“más crítica” en cuanto a ocurrencia de accidentes de trabajo, dado que en
+dicha planta se han producido más del 70% de los accidentes registrados en
+los últimos cinco años.
+
+
+Según las investigaciones realizadas, ocurren principalmente debido a factores
+como: deficiencias en las máquinas inyectoras, falta de resguardos protectores,
+poco conocimiento del proceso de trabajo o insuficiente capacitación para la
+función asignada.
+
+
+Según las conclusiones del análisis de la situación actual, se puede precisar
+que en la planta de Inyección es donde se han producido la mayoría de los
+accidentes y donde actualmente se encuentran la mayor cantidad de peligros y
+riesgos potenciales para los trabajadores dentro de la empresa, por ello se
+determina que dicha área específica será motivo de análisis para el presente
+tema de estudio y sobre la cual se basará la propuesta de implementación del
+sistema de gestión de seguridad y salud en el trabajo.
+
+
+Finalmente con la información disponible de los registros de los accidentes de
+trabajo se elaboró un listado inicial de los peligros y riesgos asociados, el cual
+se debe completar al momento de realizar la inspección de campo por las
+diferentes áreas en estudio (Inyección, Control de Calidad, Mantenimiento)
+para establecer los niveles de riesgo para cada peligro; los resultados de dicho
+análisis se presentan en el punto de Identificación de peligros y evaluación de
+riesgos.
+
+
+
+5.3.   Definición de la Política
+
+
+Para elaborar la política primero se debe comprometer a los miembros de la
+Alta Dirección de aceptar y avalar la implementación del sistema de gestión en
+el empresa, para lo cual se les debe realizar una presentación en la que se
+expongan los beneficios que se generarían: disminución de los accidentes de
+trabajo y días de descanso médico, lo que resultaría en el incremento de las
+
+                                                                               59
+horas productivas (por la menor cantidad de días de descansos médicos por
+accidentes), así como menores pagos por primas de seguro, disminución de los
+gastos directos en tratamientos de accidentes o enfermedades profesionales;
+también se pueden considerar beneficios indirectos como la mejora del clima
+organizacional en los trabajadores por la mayor preocupación en sus
+condiciones de trabajo, lo que podría impactar en el incremento de su
+productividad.
+
+
+La Alta Dirección debe asumir la responsabilidad principal de la implementación
+del SGSST dado que son los principales responsables de sus trabajadores. Al
+contar con el compromiso, los directivos y personal relacionado a la seguridad
+y salud ocupacional deben analizar y establecer funciones, tiempos y
+responsabilidades para plantear un borrador de la política, el cual debe ser
+revisado y corregido, para ser presentado en un plazo estimado no mayor de
+30 días a la Gerencia General para la revisión, firma y aprobación final.
+
+
+Una vez definida la Política de Seguridad y Salud Ocupacional (SSO) se debe
+registrar como norma en el Sistema de Gestión de Calidad y empezar con la
+difusión entre los trabajadores. Se deben emitir copias controladas a cada área
+de la empresa, las cuales deben ser colocadas en los paneles principales junto
+con la Política de Calidad; también se deben brindar charlas a todo el personal
+con la finalidad de presentar y explicar la política y los lineamientos básicos del
+sistema de gestión que se está implementando.
+Se puede entonces definir la Política de SSO, basado en un trabajo con los
+responsables de la empresa, como se muestra a continuación:
+
+
+1)    Asegurar la integridad física de las personas que ingresan a nuestras
+      instalaciones y de las que permanecen en ellas trabajando.
+2)    Proteger a las personas que permanecen en la empresa a través de un
+      adecuado sistema de seguridad en equipos, maquinarias e instalaciones
+      y con el cumplimiento de las normas de seguridad y salud en el trabajo
+      de la legislación vigente.
+3)    Para lograr y mantener una cultura de seguridad y prevención de los
+      riesgos de trabajo, la empresa integra el Sistema de Seguridad con los
+
+                                                                                60
+       otros sistemas de gestión de la empresa, con el objeto de garantizar la
+       fuente de trabajo y mejorar la productividad.
+
+
+
+5.4.   Planificación y organización
+
+
+En el presente paso se procede a definir un plan de trabajo para la
+implementación del sistema, para lo cual se deben mantener reuniones entre
+los diversos jefes de área o encargados de sección que puedan aportar
+detalles en temas de seguridad y salud ocupacional, los jefes de departamento
+de la Gerencia de Producción, el jefe de Recursos Humanos, el jefe de
+Logística, Seguridad y Servicios, los Encargados de Aseguramiento de la
+Calidad y de Seguridad Industrial, entre otros.
+
+
+Se realiza un análisis de identificación de peligros y evaluación de riesgos
+considerando además la información recopilada en el diagnóstico de la
+situación inicial. También se definen los objetivos del sistema de gestión, con la
+finalidad de poder realizar el seguimiento y revisión periódica del nivel de
+cumplimiento del mismo.
+
+
+
+5.4.1. Identificación de peligros y evaluación de riesgos
+
+
+En el diagnóstico inicial se identificaron los principales peligros y riesgos
+presentes o probables en la empresa, los cuales se han agrupado de acuerdo a
+la máquina/actividad donde se encuentren y se han detallado en un listado, con
+el cual se debe recorrer la planta de Inyección para asignar una calificación a
+cada peligro evaluado, utilizando para ello las escalas de valores definidas en
+la metodología previamente.
+
+
+Toda la información debe ser resumida en las matrices de análisis de riesgos, a
+continuación se señalan los principales resultados para el área de Inyección,
+área de Control de Calidad y área de Mantenimiento, básicamente los
+principales riesgos encontrados que han sido calificados como “intolerables”.
+
+
+                                                                                61
+Según la Matriz de análisis de riesgos – Área Inyección, como se había
+mencionado en las conclusiones del diagnóstico de la situación actual, las
+máquinas inyectoras y los molinos son las principales fuentes de riesgo de alto
+nivel. Entre   los   principales   peligros   se   pueden   encontrar   están   el
+sobrecalentamiento de las máquinas, ruido con niveles mayores a los límites
+permitidos para una jornada de trabajo continua, fuga de material a alta
+presión, cierre del molde, manipulación de cuchillas, entre otros.
+
+
+Para la Matriz de análisis de riesgos – Área Control de Calidad el principal
+peligro encontrado es el almacenamiento de sustancias inflamables o químicos,
+que generan riesgos de incendio o explosión.
+
+
+La Matriz de análisis de riesgos – Área Mantenimiento no muestra riesgos que
+hayan alcanzado niveles “intolerables”, pero la gran mayoría han sido
+calificados como riesgos “importantes”, tal es el caso del trabajo en el tornillo
+de banco/fresadora/taladro, trabajo con el equipo de soldadura eléctrica, el
+trabajo a alta tensión en la subestación eléctrica.
+
+
+Los riesgos considerados como “intolerables” serán analizados en el punto de
+Control operativo, con la finalidad de brindar directrices y medidas de control
+para lograr reducirlos o mitigarlos hasta niveles tolerables para el normal
+desarrollo de las actividades productivas por parte de los trabajadores.
+
+
+
+5.4.2. Objetivos
+
+
+Se procede de manera similar que para la definición de la política: la Alta
+Dirección debe asumir la responsabilidad principal, determinar, evaluar y
+aprobar los objetivos, los mismos que serán utilizados para conocer la
+efectividad y el nivel de cumplimiento de la implementación del sistema de
+gestión.
+
+
+Se deben efectuar reuniones de trabajo con el personal encargado de definir la
+política, pudiendo incluir a representantes de los trabajadores para apoyar en el
+
+                                                                                62
+proceso; se deben discutir posibles objetivos de seguridad y salud, evaluar su
+impacto en el sistema y determinar si son realmente alcanzables.
+
+
+A partir de reuniones con los responsables de la empresa, se pueden plantear
+los siguientes Objetivos de Seguridad y Salud Ocupacional:
+
+
+1)    Instaurar, difundir, fomentar y sostener la Política de SSO de la empresa,
+      con el fin de prevenir los accidentes en las diferentes áreas de la misma,
+      cuidando la seguridad y salud de los trabajadores.
+      Para lo cual se buscará obtener un 85% de conocimiento sobre la
+      Política de SSO, en la Encuesta Anual de Clima Organizacional.
+2)    Promover la cultura de seguridad y prevención de los riesgos de trabajo
+      en el personal de la empresa, buscando reducir al mínimo los niveles de
+      riesgo y peligros potenciales.Se espera dictar mensualmente una charla
+      (en temas de seguridad y salud ocupacional) por los Supervisores o
+      Jefes en cada área.Además, se mantiene la expectativa de alcanzar un
+      número menor de accidentes de trabajo que los registrados en el año
+      anterior.
+3)    Establecer el procedimiento de actuación del personal para el desarrollo
+      de las acciones de respuesta ante emergencias, a fin de controlarlas de
+      manera oportuna, efectiva y en el menor tiempo posible.Incluir en el Plan
+      Anual de Seguridad la realización cada trimestre de al menos un
+      simulacro de incendios como preparación para el personal de la brigada
+      contra emergencias.
+4)    Determinar los niveles de coordinación entre los responsables de la
+      administración de las diferentes zonas de trabajo, para desarrollar
+      acciones mutuas de apoyo en la prevención y control de emergencias,
+      optimizando el uso de los recursos humanos y materiales disponibles.
+      Fijar un cronograma de talleres a dictar en cada área, que permitan
+      mejorar el desempeño para la prevención y control de emergencias
+      (mínimo de una actividad por mes).
+5)    Fijar los procedimientos estandarizados adecuados para la prevención
+      de riesgos en cada puesto de trabajo, para conocer las causas de los
+      accidentes e incidentes, prevenirlos y evitarlos.
+
+                                                                             63
+       Se espera obtener al menos una propuesta de acción preventiva anual
+       por trabajador o como participante de un grupo de trabajo.
+       También se deben planificar fechas para reuniones periódicas de
+       revisión de los objetivos, incluyendo a todo el personal que desee apoyar
+       en el proceso; como propuesta se estima que deberán realizarse al
+       menos una vez al año.
+
+
+
+5.5.   Implementación y operación
+
+
+Se toma en cuenta la metodología planteada, así como el plan de trabajo
+definido. Se asignan los recursos humanos, financieros y materiales a los
+responsables designados, con la finalidad de poner en práctica y operativo todo
+el sistema de gestión de seguridad y salud.
+
+
+
+5.5.1. Estructura y responsabilidades
+
+
+Se define la estructura organizativa del sistema, para lo cual la Alta Dirección
+debe designar a un representante que se encargue de disponer de todo lo
+necesario para la adecuada implementación y el correcto funcionamiento del
+sistema de gestión; entre sus principales funciones estarán:
+
+
+    Designar y dirigir a los encargados responsables del sistema para las
+       distintas áreas de la empresa, asignando los recursos necesarios para la
+       correcta implementación del SGSST.
+    Analizar los resultados del proceso de identificación de peligros y
+       evaluación de riesgos, con la finalidad de conocer los riesgos
+       intolerables presentes, así como asignar los recursos necesarios para
+       reducir dichos riesgos a niveles tolerables.
+    Evaluar los informes de los accidentes de trabajo, para disponer las
+       acciones correctivas o preventivas que se consideren necesarias en
+       coordinación con el departamento de Aseguramiento de la Calidad.
+    Requerir reportes mensuales sobre el nivel de cumplimiento de los
+       objetivos de seguridad y salud ocupacional.
+
+                                                                             64
+    Presentar informes trimestrales a los otros miembros de la Alta
+       Dirección, con la finalidad de evaluar en conjunto la correcta
+       operatividad del sistema de gestión, analizar el nivel de cumplimiento de
+       los objetivos y plantear las correcciones que se estimen necesarias.
+
+
+El representante de la Alta Dirección debe definir un “Grupo de trabajo
+permanente en SST” entre sus principales colaboradores y coordinar
+responsabilidades para brindar el soporte y vigilar el adecuado funcionamiento
+del sistema de gestión, principalmente podrían ser: el jefe de Logística,
+Seguridad y Servicios, el encargado de Seguridad Industrial, el jefe de
+Aseguramiento de la Calidad, el jefe de Recursos Humanos, los tres jefes de
+planta de producción. La estructura organizativa del SGSST se puede observar
+en el gráfico.
+
+
+                                 Alta dirección
+Encargado de la alta dirección
+      Comité de SST                           Grupo permanente de SST
+
+
+                                                    Jefe de Logística
+
+
+                                                    Jefe de planta SST
+
+
+                                            Jefe de producción de inyección
+
+
+                                              Jefe de control de calidad
+
+
+                                                    Acabados
+
+
+Además se debe conformar el Comité de Seguridad y Salud en el Trabajo de la
+empresa, (cumplimiento de los requerimientos del D.S. Nº 009–2005–TR) con
+igual cantidad de miembros representantes de la empresa y de los
+trabajadores; para lo cual la Alta Dirección elige a sus delegados que pueden
+ser el representante de la directiva encargado de la implementación del SGSST
+y algunos de sus principales colaboradores señalados en el párrafo anterior,
+
+                                                                              65
+mientras que los representantes de los trabajadores deben ser elegidos entre
+ellos mediante votación simple, considerando que se tendrá un delegado de
+cada una de las plantas productivas (Inyección, Offset, Acabados) y uno de
+Almacén, con la finalidad de contar con la mayor representatividad posible del
+grupo de trabajadores de la empresa.
+
+
+Según las consideraciones presentadas, la conformación del Comité Paritario
+de SST de la empresa puede establecerse como se muestra:
+
+
+            Tabla 5.7: Conformación del Comité de Seguridad y Salud
+
+
+
+                         Cargo               Persona
+                     President Gerente General
+                     e
+                     Secretario Encargado        de    Seguridad
+                             Industrial
+                     Miembro Jefe  de Aseguramiento de la
+                     1
+                     Miembro Calidad
+                             Jefe de Recursos Humanos
+                     2
+                     Miembro Operario de Inyección
+                     3
+                     Miembro Operario de Offset
+                     4
+                     Miembro Operario de Acabados
+                     5
+                     Miembro Operario de Almacén
+                     6
+           Fuente: Información de la empresa / Elaboración: Propia
+
+
+Entre las principales funciones del Comité es:
+
+
+    Velar por el cumplimiento de las medidas de prevención en seguridad y
+      salud ocupacional, tanto por parte de la empresa y los trabajadores.
+    Investigar las causas de los accidentes de trabajo y enfermedades
+      ocupacionales, siendo considerada como la última instancia para
+      determinar si éstos se debieron a negligencia del trabajador o por
+      condiciones de trabajo inseguras.
+    Proponer, analizar y realizar el seguimiento a la implementación de las
+      medidas necesarias para mitigar los riesgos intolerables que se puedan
+
+                                                                             66
+       presentar, así como fomentar en los trabajadores la generación de
+       propuestas de mejora para el sistema de gestión.
+    Impulsar la educación de los trabajadores en la cultura de prevención de
+       riesgos y las implicancias de la implementación del SGSST.
+    Promover la realización de cursos de entrenamiento para los
+       trabajadores en temas de seguridad y salud ocupacional, así como la
+       formación de instructores internos para dichas capacitaciones.
+    Cumplir las demás funciones que encomiende la Alta Dirección en
+       cuanto al adecuado funcionamiento del SGSST.
+
+
+También se recomienda que los miembros del comité deban reunirse al menos
+una vez al mes con la finalidad de evaluar la implementación y el desarrollo del
+SGSST, examinar las acciones en seguridad y salud ocupacional, así como
+analizar los informes sobre los accidentes de trabajo que hayan ocurrido. La
+agenda de cada reunión del comité y toda la información revisada debe
+registrarse en el acta de la reunión, la cual deberá ser firmada por los
+miembros asistentes y adecuadamente archivada; además debe informarse a
+la Alta Dirección de los principales puntos revisados y acuerdos alcanzados.
+
+
+
+5.5.2. Control operativo
+
+
+Se analizan los peligros que hayan alcanzado niveles de riesgo “intolerable” en
+el proceso IPER, también se considera un riesgo “importante” en el área de
+Mantenimiento. Para cada uno de estos riesgos se identifican las causas de los
+accidentes, condiciones subestándar o faltas de control, con la finalidad de
+brindar recomendaciones y reducir los riesgos hasta niveles tolerables.
+
+
+A. Área de Inyección
+Comprende las zonas de Inyección 1 y 2 donde se ubican las máquinas
+inyectoras, los molinos y sus instalaciones eléctricas; es donde se desarrollan
+los principales procesos productivos y se han encontrado los riesgos con
+niveles “intolerables”.
+
+
+
+                                                                               67
+Sobrecalentamiento de las máquinas inyectoras
+
+
+       Tabla 5.8: Nivel de Riesgo – Sobrecalentamiento de las máquinas
+                                  inyectoras
+        Fuente: Información de la empresa / Elaboración: Propia
+
+
+   -     Máquinas inyectoras
+Estas máquinas forman parte principal del proceso productivo y funcionan
+prácticamente las 24 horas del día todos los días del año (salvo algunos
+feriados excepcionales); además según el análisis de la situación inicial, las
+estadísticas, indicadores y reportes de accidentes de trabajo, en estas
+máquinas y los procesos relacionados se producen la gran mayoría de
+accidentes en la empresa.
+
+
+La alta tensión a la que trabajan las máquinas inyectoras y la probable
+aparición de chispas de fuego y pequeñas explosiones producto del
+sobrecalentamiento son las condiciones subestándar que considera este
+peligro, que podrían desencadenar en incendios los que podrían afectar a los
+trabajadores y los materiales que se encuentren siendo procesados. Asimismo
+la presencia cercana del personal que opera las máquinas y recoge o realiza
+los acabados a los productos, se debe considerar como un acto subestándar.
+
+
+
+
+TIPO           DE RIESGOS N.CON N.EXP N.CON NIVEL DE RIESGO
+PELIGRO
+Mecánico         Quemadur TR.
+                            6       OS.
+                                    4          SEC.
+                                               6      144 INTOLER
+Fuga de material aplástico caliente                         ABLE
+
+
+
+
+                                                                             68
+Tabla 5.9: Nivel de Riesgo – Fuga de material plástico caliente
+
+
+
+TIPO DE PELIGRO          RIESGOS       N.CONTR.   N.EXPOS.   N.CONSEC. NIVEL DE RIESGO
+
+
+
+Eléctrico / Físico-Químico Incendios   6          4          10        A     INTOLERABL
+
+Fuente: Información de la empresa / Elaboración: Propia                      E
+
+
+
+
+Según el análisis detallado en la tabla 5.9 este peligro mecánico puede causar
+básicamente quemaduras, se considera como causa inmediata la manipulación
+de maquinaria o dispositivos en mal estado, que no cuenten con los equipos de
+protección adecuados (actos subestándar) o que no hayan recibido los
+mantenimientos apropiados (condiciones subestándar). De acuerdo a lo cual se
+identifican como causas básicas: factores personales como la falta de
+conocimiento, capacitación o habilidad propia de los operarios para
+desempeñar correctamente sus labores, así como factores propios del trabajo
+como maquinaria sin mantenimiento o con reparaciones inapropiadas, falta de
+guardas de seguridad convenientes, entre otros.
+
+
+Para mitigar el nivel de este riesgo se plantea instruir al personal en el
+adecuado procedimiento de trabajo seguro, para lo cual se pueden dictar
+capacitaciones mensuales a cargo de los jefes de línea, así como incidir en el
+tema en las charlas diarias que tienen los supervisores con los miembros de su
+grupo momentos antes de iniciar cada turno operativo. En este sentido y como
+parte de la implementación inmediata del SGSST, se dictarán los cursos de
+“Métodos de trabajo seguro en el área de inyección” y “Correcto uso de los
+equipos de protección personal”, los mismos que serán realizados por los jefes
+y supervisores de área respectivamente.
+
+
+
+
+                                                                                          69
+ Ruido mayor al límite máximo permitido
+
+
+        Tabla 5.10: Nivel de Riesgo – Ruido mayor al límite permitido
+
+TIPO            DE RIESGOS     N.CON N.EXP N.CON NIVEL DE RIESGO
+PELIGRO           Afecciones TR.       OS.      SEC.         INTOLERABL
+físico / Mecánico            6         4        6      144
+                  auditivas                                  E
+
+ Fuente: Información de la empresa / Elaboración: Propia
+
+
+ Este peligro puede causar afecciones auditivas en diversos niveles al personal
+ que opere sin las protecciones adecuadas en las cercanías de las áreas donde
+ se registran altos niveles de ruido; la principal causa secundaria se ha
+ encontrado en la vibración de ciertas partes móviles de las máquinas
+ inyectoras; ante lo cual se atribuye como principales causas básicas la
+ antigüedad de las maquinarias, su continuo uso durante toda la jornada de
+ trabajo, así como el mal estado o degradación de los anclajes de las máquinas
+ o de los cimientos, todos los cuales se consideran como factores de trabajo
+ que deben ser revisados y reparados para poder eliminar o reducir el ruido
+ producido.
+
+
+   Tabla 5.10: Nivel de exposiciones permisibles en dBA según el criterio
+                                    utilizado
+          Duración       Criterio       Criterio ISO   Criterio ACG
+          (h/día)
+          16             OHSAS
+                         85             -              IH
+                                                       80 (TL Vs)
+          8              90             90             85
+          4              95             93             90
+          2              100            96             95
+          1              105            99             100
+          1/2            110            102            105
+          1/4            115            105            110
+          1/8            115            108            115
+          Techo          115            115            115
+                Fuente: Cortés (2007: 443). / Elaboración: Propia
+
+                                                                             70
+Básicamente el control para este peligro se encuentra en brindar el adecuado
+programa de mantenimiento a los cimientos de las máquinas inyectoras y a sus
+dispositivos que tengan partes móviles, con la finalidad de recuperar la
+consistencia y buen estado de los cimientos y disminuir la vibración producida,
+con lo cual se espera reducir el nivel del ruido generado.
+
+
+Para ello se implementará inmediatamente un mantenimiento integral en
+soportes, anclajes y cimientos de máquinas inyectoras que se encuentren en
+las zonas donde se han registrado los niveles más altos en las mediciones de
+ruido.
+
+
+En el mismo sentido, se debe considerar como medida preventiva la
+adquisición de nuevos EPP como guantes industriales y lentes de protección.
+
+
+Cierre de molde
+Tabla 5.10: Nivel de exposiciones permisibles en dBA según el criterio
+utilizado
+
+TIPO           DE               N.CON N.EXP N.CON
+                    RIESGOS                                   NIVEL DE RIESGO
+PELIGRO                         TR.      OS.         SEC.
+                                                                    INTOLER
+Mecánico            Atricción 6          4           6        144
+                                                                    ABLE
+Fuente: Información de la empresa / Elaboración: Propia
+
+
+De acuerdo a lo indicado, este peligro básicamente mecánico genera el riesgo
+de atricción de alguna parte del cuerpo de los operarios que manipulan las
+máquinas.    Se   identifican     las   siguientes       causas   secundarias:   realizar
+operaciones de forma incorrecta, no utilizar los equipos de protección personal
+asignados, no respetar la señalización en las maquinarias e instalaciones
+(actos subestándar); así como protecciones inadecuadas o falta de
+mantenimiento a equipos y dispositivos (condiciones subestándar). Como
+causas básicas por factores personales se deben considerar principalmente la
+falta de capacitación a los operarios sobre los procedimientos seguros de
+trabajo y la poca habilidad para realizar las actividades de forma rápida y
+segura; también se han identificado factores de trabajo como el inapropiado
+
+                                                                                      71
+diseño de las partes en movimiento de la maquinaria, así como los
+inadecuados accesos para manos y brazos.
+
+
+La falta de control para este riesgo se encuentra principalmente en el
+inapropiado mantenimiento a los moldes, como se planteó en el riesgo de fuga
+de material plástico caliente se propone como medida de implementación del
+SGSST realizar una revisión exhaustiva de los moldes (especialmente los que
+hayan presentado fallas en los últimos años), además se debe definir un
+programa de mantenimiento preventivo para estos dispositivos, según lo cual
+deberían ser verificados al menos una vez al mes.
+
+
+También se debe considerar la falta de estándares de seguridad adecuados
+(guardas o sistemas de parada de emergencia), es por ello que como medida
+de control por la implementación del SGSST se instalarán seis protecciones
+para los moldes de las máquinas inyectoras.
+
+
+
+5.5.3. Difusión – Capacitación
+
+
+Éste paso es fundamental para la correcta implementación del sistema de
+gestión, por ello se deben brindar las condiciones y recursos necesarios a
+todos los trabajadores de la empresa para que conozcan el trabajo que se está
+realizando, mejorar sus capacidades y generar cambios favorables en la
+conducta de los mismos hacia una cultura de prevención de riesgos. Para ello
+se plantea implementar y desarrollar un conjunto de actividades que deben
+estar incluidas en el Programa Anual de Seguridad y Salud, las cuales
+significarán horas de capacitación para el personal en temas de seguridad y
+salud ocupacional (colaborando a incrementar el índice correspondiente). Entre
+las principales actividades a realizar se consideran:
+
+
+Charlas de difusión del SGSST, en las que se expongan detalles sobre el
+proyecto de implementación, los lineamientos principales y utilidades, así como
+las responsabilidades, funciones, deberes y derechos de los trabajadores en el
+sistema   de   gestión; básicamente      se espera      sensibilizar   al personal
+
+                                                                                72
+(especialmente a los operarios) sobre los beneficios proyectados, con la
+finalidad de lograr su apoyo y colaboración.
+
+
+Difusión de la Política y Objetivos de SST en toda la empresa, a cargo de los
+jefes, supervisores o responsables en cada una de las áreas.
+Publicar toda la información sobre los últimos acontecimientos relacionados a
+la seguridad y salud en la empresa, para lo cual se deben colocar carteleras y
+paneles en los que se expongan las principales
+
+
+
+5.5.4. Comunicación y participación
+
+
+Una correcta implementación del SGSST depende considerablemente del
+apoyo, identificación y colaboración de todos los trabajadores, para el presente
+caso especialmente de los operarios quienes realizan las principales
+actividades de mayor riesgo en la empresa, por lo que se considera
+fundamental contar con un mecanismo de retroalimentación de información de
+los operarios hacia la empresa sobre la percepción del funcionamiento del
+SGSST y de las diversas actividades ejecutadas en relación con el mismo.
+Como parte de estas acciones se consideran implementar ánforas de
+sugerencias u opiniones con la finalidad de que los trabajadores puedan
+expresar libremente sus ideas, propuestas de mejora u otros comentarios sobre
+el funcionamiento del SGSST. Para ello se colocarán cuadernos y buzones de
+sugerencias en las puertas principales de cada área, cuya revisión semanal
+estará a cargo de los representantes del Comité quienes deberán comunicarse
+directamente los trabajadores para explicar y afinar los requerimientos y
+comentarios expresados, con el objetivo de exponerlos y sustentarlos en la
+siguiente reunión de comité.
+
+
+Otro medio para fomentar la comunicación y participación de los trabajadores
+en el SGSST es la publicación mensual de los indicadores de gestión del
+sistema, para lo cual se pueden considerar: Índice de Frecuencia, Índice de
+Duración Media e Índice de Seguridad. El adecuado análisis de la evolución de
+los indicadores, la discusión y el compromiso que se pueda generar con los
+
+                                                                             73
+trabajadores por mejorarlos, favorecerá la retroalimentación de ideas y mejoras
+al sistema.
+
+
+
+5.5.5. Documentación
+
+
+Para realizar un correcto proceso de documentación, es necesario ingresar
+primero al sistema de normas y registros los diversos formatos que serán
+utilizados por el SGSST, como son principalmente: la Política y los Objetivos de
+Seguridad y Salud Ocupacional, indicadores de gestión, formatos de reporte de
+accidentes, manual de funciones y responsabilidades del Comité de seguridad,
+entre otros, Adicionalmente, como parte de la optimización de registros,
+procesos y funciones de los sistemas de gestión de la empresa, se deben
+revisar las normas y registros existentes relacionados a la seguridad y salud
+ocupacional, en especial los de las áreas de Inyección, Mantenimiento y
+Logística, Seguridad y Servicios, con la finalidad de actualizar la información y
+orientarla hacia los requerimientos y funcionalidades del SGSST.
+
+
+De acuerdo a los requerimientos legales vigentes, la empresa debe mantener
+documentados los siguientes registros:
+
+
+   -   De accidentes y enfermedades ocupacionales.
+   -   De exámenes médicos.
+   -   De las investigaciones y medidas correctivas adoptadas en cada caso.
+   -   Del monitoreo de agentes físicos, químicos, biológicos y factores de
+       riesgo
+   -   Ergonómicos.
+   -   De inspecciones y evaluaciones de seguridad y salud.
+   -   Estadísticas de seguridad y salud.
+   -   De incidentes y sucesos peligrosos.
+   -   De equipos de seguridad o emergencia.
+   -   De inducción, capacitación, entrenamiento y simulacros de emergencia.
+   -   Otro punto importante que debe ser documentado es el proceso de
+       elección, conformación y funcionamiento del Comité de SST.
+
+                                                                              74
+Toda la información documentada correspondiente a la planificación,
+implementación y puesta en funcionamiento del SGSST debe archivarse
+adecuada y ordenadamente junto con los documentos del Sistema de Gestión
+de Calidad de la empresa, para lo cual se utilizarán medios físicos
+(cuadernillos, ficheros, archivadores) o medios electrónicos (archivos de
+computadora, CDs). Esto permitirá contar con sustentos reales ante futuras
+auditorías o inspecciones laborales, asimismo podría servir como respaldo para
+que la empresa aplique a la certificación de la norma OHSAS 18000.
+
+
+
+5.5.7. Respuesta ante emergencias
+
+
+La empresa también debe implementar planes de contingencia ante los
+diversos riesgos latentes que puedan ocurrir en las áreas de trabajo así como
+para los procesos que representen peligros extremos, sean éstos comunes o
+muy poco frecuentes.
+Para ello la Alta Dirección en coordinación con el Comité, el área de Seguridad
+y las áreas de producción deben definir las responsabilidades y funciones,
+asignar recursos e integrar los diversos procedimientos operativos para el
+control de emergencias con que cuenta la empresa, con la finalidad de contar
+con planes de respuesta ante emergencias, como pueden ser: incendios,
+terremotos, inundaciones, plagas, entre otros.
+Estos planes de respuesta ante emergencia deberán ser presentados a la Alta
+Dirección para su correspondiente análisis y aprobación, dado que ante
+cualquier incidencia son los responsables directos de los daños, lesiones y
+pérdidas que puedan ocurrir; asimismo los planes deben estar adecuadamente
+documentados en los sistemas de normas de la empresa y encontrarse a
+disposición de todos los trabajadores para consulta.
+
+
+
+
+                                                                            75
+                                CAPITULO VI
+
+EVALUACIÓN DEL IMPACTO DE LA PROPUESTA DE IMPLEMENTACIÓN
+                         DEL SISTEMA DE GESTIÓN
+
+
+En el presente capítulo se presenta la evaluación costo/beneficio para la
+implementación del SGSST, para lo cual se consideran variables cualitativas y
+cuantitativas relacionadas con la seguridad y salud en la empresa y que
+actualmente generan costos explícitos e implícitos que se esperan disminuir
+progresivamente durante los siguientes diez años según el desarrollo de la
+implementación del proyecto, al final de los cuales se espera lograr el ideal de
+cero accidentes de trabajo.
+
+
+Para el análisis se consideran costos directos (en materia de prevención de
+riesgos de trabajo) como la inversión en medidas y dispositivos de seguridad,
+instalaciones, equipo de protección específico, señalización, cursos de
+capacitación, entre otros, así como las aportaciones que está obligado a pagar
+el empleador al seguro social u otras organizaciones similares por concepto de
+seguro de riesgos de trabajo, las primas o costos de los seguros adicionales
+para la empresa y los trabajadores. Así también se incluirán costos indirectos
+(pérdidas económicas tangibles que sufren las empresas como consecuencia
+de los riesgos de trabajo) como el tiempo perdido de la jornada laboral, el
+deterioro del ritmo de producción, los daños causados a las instalaciones,
+
+
+                                                                             76
+maquinaria,   equipo   y   herramientas,   las   pérdidas   de   materia    prima,
+subproductos o productos, entre otros.
+
+
+Para una explicación más práctica, los costos para el presente estudio se
+dividen en tres categorías: costo de implementar medidas por SST (inversión
+inicial de la propuesta de implementación), costo en materia de prevención de
+riesgos y costo por accidentes de trabajo. De igual manera, los ahorros que se
+esperan generar al aplicar la propuesta de mejora, se dividen en: reducción del
+costo en materia de prevención de riesgos y reducción del costo por
+accidentes.
+
+
+Para los cálculos, se considerarán como base los costos promedio de los
+últimos cinco años (2008-2013); en un primer momento de implementación del
+SGSST se aplican las mejoras propuestas como inversión inicial, con lo cual se
+espera ir reduciendo progresivamente en los siguientes años la cantidad de
+accidentes de trabajo, lo que impacta directamente en los costos generados
+por este concepto; asimismo se espera la disminución de los costos en materia
+de prevención de riesgos, gracias a la mejora continua del sistema de gestión y
+su autorregulación (la reducción de costos no implica que se descuide la
+prevención, sino que con el transcurso del tiempo se necesitará de menos
+dinero para lograr mejores resultados, gracias al aprendizaje realizado).
+
+
+
+6.1.   Costo de implementar medidas por SST
+
+
+Se presentan las principales acciones a ejecutar en un primer momento como
+parte de la implementación del SGSST y las mejoras correspondientes para
+mitigar los riesgos actuales, las cuales constituyen la inversión inicial del
+proyecto.
+
+
+Se distinguen principalmente los siguientes rubros:
+
+
+Equipos de protección personal faltantes, desgastados o malogrados. En la
+tabla 6.1 se muestra el detalle de los ítems que deben comprarse con la
+
+                                                                                77
+finalidad de renovar o completar los equipos de protección personal para el
+personal de las áreas en estudio.
+
+
+ Tabla 6.1: Inversión inicial por implementación de medidas de seguridad
+                                      en EPP
+
+Cantidad                  Item                 Costo Unitario Costo Total
+50         Guantes                             S/.    14.00     S/. 700.00
+50         Cascos                              S/.    30.00     S/. 1,500.0
+50         Fajas                               S/.    30.00               0
+                                                                S/. 1,500.0
+45         Uniformes estándar                  S/.    20.00              0
+                                                                S/. 900.00
+5          Uniformes no inflamables            S/.    40.00     S/. 200.00
+25         Tampones / Orejeras                 S/.    10.00     S/. 250.00
+50         Botas                               S/.    35.00     S/. 1,750.0
+50         Lentes                              S/.    20.00               0
+                                                                S/. 1,000.0
+20         Chalecos                            S/.    10.00              0
+                                                                S/. 200.00
+Sub-       Equipos de protección personal                     S/. 8,000.0
+Total 1 Información de la empresa / Elaboración: Propia
+Fuente:                                                           0
+
+
+Como parte de la implementación del SGSST cada operario debe contar con
+sus implementos de protección personal en estado óptimo según las
+necesidades de su trabajo, además la empresa debe contar con equipamiento
+extra en caso de pérdida o deterioro. Se considera renovar la totalidad de los
+implementos dependiendo del equipo, uso y desgaste de los mismos, para lo
+cual se destinará un importe específico dentro del presupuesto anual de
+compras de implementos de seguridad para los siguientes años. Asimismo se
+considerar costos de mantenimiento, reparaciones, primeros auxilios charlas de
+seguridad, capacitación y otros.
+Reducción del costo por accidentes de trabajo
+
+
+
+
+                                                                              78
+Tabla 6.1: Inversión inicial por implementación de medidas de seguridad
+en EPP
+  Año              Número               de Costo           Total
+  Proyectado
+       2011        accidentes
+                            10             Estimado    S/. 3,971
+         2012                 7                        S/. 2,780
+         2013                 5                        S/. 1,986
+         2014                 4                        S/. 1,589
+         2015                 3                        S/. 1,191
+         2016                 2                          S/. 794
+         2017                 2                          S/. 794
+         2018                 1                          S/. 397
+         2019                 1                          S/. 397
+         2020                 0                             S/. 0
+
+
+Fuente: elaboración propia
+
+
+Con el objetivo de evaluar integralmente el impacto económico que genera la
+implementación del SGSST, se efectúa una simulación de un flujo de ingresos
+y egresos del proyecto. La inversión inicial de implementar las medidas en SST
+significa un fuerte desembolso de dinero para mitigar los riesgos actuales.
+Se han calculado costos base por medidas de prevención de riesgos y por
+accidentes de trabajo según información de los últimos cinco años, los cuales
+significarían los montos constantes que se seguirían gastando en caso no se
+apliquen las mejoras del SGSST.
+
+
+Se estima que los costos por medidas de prevención de riesgos se reduzcan
+en 35% el primer año y al cuarto año en 14% más.
+
+
+Asimismo la cantidad de accidentes de trabajo (y sus costos relacionados) se
+reducen a la mitad en el primer año y continúan disminuyendo hasta llegar al
+ideal de cero accidentes en el décimo año.
+
+
+
+
+                                                                              79
+Los ahorros generados por la implementación del SGSST, es decir, las
+diferencias entre los costos base y los costos reducidos, se consideran como
+ingresos para el flujo a presentar.
+
+
+En la tabla 6.13 se presentan los costos y ahorros estimados para los diez años
+siguientes a la implementación del proyecto.
+
+
+            Tabla 6.13: Costos y ahorros estimados (2011 – 2020)
+
+
+                                               2011      2012          2013
+       AÑO                                        1             2         3
+       COSTO                           (S/. 19,00 (S/.          (S/.      (S/.
+       Costo de Prevención                   0)    10,471)
+                                                   S/.       9,280)
+                                                       6,500 S/.       8,486)
+                                                                 6,500 S/. 6,500
+       Costo por Accidentes                        S/. 3,971 S/. 2,780 S/. 1,986
+       Costo implem. medidas de S/.          19,00 S/. 0     S/. 0     S/. 0
+       Número
+       SST     de Accidentes                 20
+                                             0     10        7         5
+
+
+       AHORRO                                        S/. 7,466 S/. 8,658 S/. 9,452
+       Ahorro     en           Costo                 S/. 3,500 S/. 3,500 S/. 3,500
+       Ahorro
+       Prevención en           Costo                 S/. 3,966 S/. 5,158 S/. 5,952
+       Accidentes
+      BENEFICIO (COSTO)               (S/. 19,00 (S/. 3,005) (S/. 622) S/. 966
+      FLUJO         DE         CAJA          0)
+                                             19,00
+                                      (S/.
+                                        (S/. 22,005) 22,627 21,661
+      ACUMULADO                    0)
+          Fuente: Información de la empresa / Elaboración: Propia
+
+
+Entre los principales beneficios que se esperan lograr, destacan:
+
+
+En los primeros tres años de funcionamiento del SGSST, se estima ahorrar
+aproximadamente S/.25,500, con lo cual se lograría cubrir el total de la
+inversión inicial realizada.
+
+
+Se espera que a partir del tercer año los montos de los ahorros propios del
+sistema superen a los costos del mismo, por lo que anualmente se generarían
+beneficios económicos cada vez mayores.
+
+                                                                                     80
+                               CONCLUSIONES
+
+
+-   Implementar adecuadamente el SGSST que permitirá mejorar las
+    condiciones de los trabajadores en cuanto a la protección de su
+    seguridad y salud, así como por la prevención ante la ocurrencia de
+    accidentes y enfermedades ocupacionales. Esto implica de forma
+    beneficiosa en el clima organizacional de la empresa y la productividad
+    de los trabajadores.
+
+
+-   La aplicación de las medidas planteadas implica cumplir con la
+    normatividad       legal   vigente,    además       de   adoptar    estándares
+    internacionales en temas de seguridad y salud ocupacional (utilizando
+    como modelo el Sistema de Gestión OHSAS 18001), lo cual permitirá a
+    cualquier empresa posicionarse como líder en el mercado.
+
+
+
+
+-   El correcto funcionamiento del Comité de SST de la empresa se
+    establece de gran importancia para la implementación y desarrollo del
+    SGSST, por lo que debe tener continua comunicación con la Alta
+    Dirección, para poder implementar las mejoras que se estimen
+    necesarias.
+
+
+-   Incidir en la capacitación y entrenamiento del personal en temas de
+    seguridad y salud ocupacional se establece como una de las principales
+    medidas a implementar para mitigar los actuales riesgos intolerables, se
+    utilizarán    de   preferencia   a    expositores   internos como     jefes y
+    supervisores de área con la finalidad de reducir costos y favorecer el
+    desarrollo de la cultura interna de prevención de riesgos.
+
+
+-   Las máquinas inyectoras constituyen como los principales focos donde
+    se presentan los riesgos intolerables, por lo cual se implementa como
+    medida       básica   el   mantenimiento      integral   de   las   máquinas,
+    especialmente aquellas donde han ocurrido accidentes.
+
+
+                                                                                81
+                             RECOMENDACIONES
+
+
+-   Aplicar las iniciativas de mejora presentadas para la planta de inyección,
+    con la finalidad de mejorar las condiciones laborales de los trabajadores,
+    lo
+    cual se espera influya en el aumento de su productividad.
+
+
+-   Desarrollar adecuadamente cada uno de los pasos de la implementación
+    del SGSST, llevando especial cuidado en la documentación de los
+    mismos, con el propósito de contar con el sustento adecuado para poder
+    aplicar a la certificación de la norma OHSAS 18001 en el mediano plazo.
+
+
+-   La importancia del compromiso que asume la Alta Dirección en la
+    implementación del SGSST debe ser complementada con una
+    comunicación sencilla y continua principalmente con los miembros del
+    Comité de SST y todos los involucrados en la seguridad y salud
+    ocupacional de la empresa.
+
+
+
+
+                                                                           82
+                                 BIBLIOGRÁFIAS
+
+
+
+
+ ASFAHL, C. RAY 2000              Seguridad Industrial y Salud. Cuarta edición.
+  México: Prentice Hall.
+ BRITISH STANDARD INSTITUTION (BSI) 2007 OHSAS 18001:2007 –
+  Sistemas de Gestión de Seguridad y Salud en el Trabajo –
+  Especificación. Reino Unido.
+ OHSAS 18002:2008 – Sistemas de Gestión de Seguridad y Salud en el
+  Trabajo – Guía para la Implementación de OHSAS 18001. Reino Unido.
+ CENTRO DE DESARROLLO INDUSTRIAL (CDI) 2007                                 Metodología
+  para     la   identificación     de     Peligros    y    Evaluación        de    Riesgos.
+  Material de enseñanza. Lima: Pacífico Salud.
+ CHINCHILLA SIBAJA, Ryan 2002                     Salud y Seguridad en el Trabajo.
+  Costa            Rica:             Editorial             Universidad              Estatal
+  a       Distancia.        Consulta:       14        de       agosto        de      2011.
+  <http://books.google.com.pe/books?id=Y35TDM74KmUC&printsec=front
+  co                       ver&hl=es&source=gbs                   ge               summary
+  r&cad=0#v=onepage&q&f=false>
+ CONFEDERACIÓN               DE   LA     PEQUEÑA          Y   MEDIANA            EMPRESA
+  ARAGONESA (CEPYME ARAGON) 2003 Proyecto: Procedimientos
+  basados en las normas OSHAS 18000 para su implantación en PYMES
+  del subsector fabricación de productos metálicos. Aragón, España.
+  Consulta             19            de              agosto             de           2011.
+  <http://www.conectapyme.com/files/publica/OHSAS completo.pdf>
+ CONGRESO DE LA REPÚBLICA DEL PERÚ DIRECCIÓN GENERAL
+  DE SALUD AMBIENTAL (DIGESA) 2005 Manual de Salud Ocupacional.
+ HERMOZA LANAO, Aníbal 2007 Capítulo 5 – Sistemas de gestión de
+  seguridad representativos [diapositivas]. Material de enseñanza. Lima:
+  Pontificia Universidad Católica del Perú, Facultad de Ciencias e
+  Ingeniería.
+ HERNÁNDEZ, Alfonso 2005                  Seguridad e Higiene Industrial. México
+  DF:             Editorial               Limusa               S.A.                Consulta
+  15 de agosto de 2011.
+
+                                                                                         83
+ <http://books.google.com/books?id=Eo
+   kObpifcMC&printsec=frontcover&hl =es#v=onepage&q&f=false>
+ INSTITUTO LABORAL ANDINO (ILA) 2010 “Las Funciones del Comité
+   Paritario de Higiene y Seguridad”. Programa de Economía del Trabajo-
+   Área      Social    Consulta        31    de     agosto   de       2011.
+   <http://www.ila.org.pe/publicaciones/docs/funciones   comite   paritario
+   hs.pdf>
+ INSTITUTO NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+   (INSHT) 2011        Documentación relacionada. España. Consulta 22 de
+   agosto de 2011.
+   <http://www.insht.es>
+ INTERACTIVE TRAINING ADVANCED COMPUTER APPLICATION,
+   S.L. (ITACA) 2006 Riesgos físicos ambientales. Barcelona, España:
+   Ediciones CEAC y MARCOMBO S.A. Consulta 3 de septiembre de
+   2011.
+   <http://books.google.cl/books?id=fcpYdnyObJ0C&printsec=frontcover&hl
+   =e s#v=onepage&q&f=false>
+ LETAYF       ACAR,       Jorge   y    Carlos    GONZÁLEZ    GONZÁLEZ
+   1994Seguridad, Higiene y Control Ambiental. México: McGraw-Hill.
+ 2011 Ley N° 29783. 20 de agosto.
+
+
+
+
+                                                                         84
+

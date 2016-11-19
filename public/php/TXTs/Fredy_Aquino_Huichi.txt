@@ -1,0 +1,4670 @@
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+ FACULTAD DE INGENIERÍA ECONÓMICA
+  ESCUELA PROFESIONAL DE INGENIERÍA ECONÓMICA
+
+
+
+
+ “Análisis de los factores determinantes en la
+producción orgánica de quinua en el Distrito de
+        Cabana: Campaña 2010-2013”
+
+
+                   TESIS
+                PRESENTADA POR:
+
+
+          Bach. Fredy Aquino Huichi
+
+
+ PARA OPTAR EL TÍTULO PROFESIONAL DE
+        INGENIERO ECONOMISTA
+
+              PROMOCION 2005
+
+               PUNO     PERÚ
+                   2015
+                                                  1
+ UNIVERSIDAD NACIONAL DEL ALTIPLANO
+      FACULTAD DE INGENIERÍA ECONÓMICA
+
+“ANÁLISIS DE LOS FACTORES DETERMINANTES
+EN LA PRODUCCIÓN ORGÁNICA DE QUINUA EN
+EL DISTRITO DE CABANA: CAMPAÑA 2010-2013”
+
+                              TESIS
+
+                        Presentado por:
+
+                     FREDY AQUINO HUICHI
+
+                    Para Optar el Titulo de:
+
+                 INGENIERO ECONOMISTA
+
+APROBADO POR EL JURADO DICTAMINADOR:
+
+
+PRESIDENTE                :
+
+
+
+
+PRIMER JURADO             :
+
+
+
+
+SEGUNDO JURADO            :
+
+
+
+
+DIRECTOR DE TESIS         :
+
+ÁREA : POLÍTICA PÚBLICAS Y SOCIALES
+TEMA : PRODUCCIÓN AGRÍCOLA
+
+
+
+
+                                               2
+DEDICATORIA
+
+
+
+     A Dios.
+     Por haberme permitido llegar hasta este punto y
+     haberme dado salud para lograr mis objetivos,
+     además de su infinita bondad y amor.
+     A mi madre.
+     Por haberme apoyado en todo momento, por sus
+     consejos, sus valores, por la motivación constante
+     que me ha permitido ser una persona de bien,
+     pero más que nada, por su amor.
+     A mi padre.
+     Por los ejemplos de perseverancia y constancia
+     que lo caracterizan y que me ha infundado
+     siempre, por el valor mostrado para salir adelante
+     y por su amor.
+
+
+
+
+                                                     3
+                              AGRADECIMIENTO
+
+
+
+Este presente trabajo de investigación no hubiera sido posible sin el apoyo a los
+
+Docentes de la Facultad de Ingeniería Económica, por compartir sus
+
+conocimientos y experiencias profesionales con mí persona.
+
+
+
+Muy especialmente quiero agradecer al Director de la presente tesis, Ing. Eliseo
+
+Canahuire Sejje, por el asesoramiento en la culminación del presente documento.
+
+
+
+Con todo cariño a mis padres: como un tributo más invaluable amor y educación
+
+que han sembrado en mí, su hijo que los quiere Fredy.
+
+
+
+A mis hermanos, porque muchas de estas páginas estarían vacías si no hubiera
+
+sido por su constante apoyo en la conclusión de esta meta tan importante.
+
+
+
+A mi esposa Milady, por su apoyo y ánimo que me brinda día con día para
+
+alcanzar nuevas metas, tanto profesionales como personales.
+
+
+
+A mis jurados por sus valiosas sugerencias para la culminación del presente
+
+trabajo de investigación.
+
+
+
+Por último, quiero agradecer a todos aquellos que durante los cinco años que
+
+duró este sueño lograron convertirlo en una realidad. Gracias
+
+
+
+
+                                                                               4
+                                                            ÍNDICE
+
+Lista de cuadros
+Lista de gráficos
+
+   RESUMEN ........................................................................................................................ 7
+   INTRODUCCIÓN ............................................................................................................. 9
+   CAPÍTULO I: PLANTEAMIENTO DEL PROBLEMA Y OBJETIVOS DE
+   INVESTIGACIÓN .......................................................................................................... 12
+1.1.      PLANTEAMIENTO DEL PROBLEMA ................................................................ 12
+1.2 DEFINICION DEL PROBLEMA ................................................................................. 14
+1.2. OBJETIVOS DE ESTUDIO ........................................................................................ 15
+1.2.1. OBJETIVO GENERAL ............................................................................................ 15
+1.2.2. OBJETIVOS ESPECÍFICOS .................................................................................... 15
+   CAPÍTULO II: MARCO REFERENCIAL, MARCO CONCEPTUAL, MARCO
+   TEÓRICO E HIPÓTESIS DE LA INVESTIGACIÓN ................................................. 16
+2.1. MARCO REFERENCIAL ........................................................................................... 16
+2.2. MARCO CONCEPTUAL ............................................................................................ 19
+2.3. MARCO TEÓRICO ..................................................................................................... 23
+2.4. HIPÓTESIS DE LA INVESTIGACIÓN ..................................................................... 40
+2.4.1. HIPÓTESIS GENERAL ........................................................................................... 40
+2.4.2. HIPÓTESIS ESPECÍFICAS ..................................................................................... 41
+   CAPÍTULO III: METODOLOGÍA DE LA INVESTIGACIÓN .................................... 42
+3.1.1. MATERIALES .......................................................................................................... 42
+3.1.2. MÉTODO .................................................................................................................. 42
+3.1.3. POBLACIÓN EN ESTUDIO .................................................................................... 42
+3.1.4. DISEÑO MUESTRAL ESTRATIFICADO .............................................................. 43
+3.1.5. VARIABLES DE ESTIMACIÓN ............................................................................. 45
+3.2. EL MODELO PROBIT. ............................................................................................... 46
+3.3. EL MODELO LOGIT. ................................................................................................. 51
+3.4. INFERENCIA EN MODELOS DE ELECCIÓN DISCRETA .................................... 54
+3.5. MODELO ECONÓMICO DE ADOPCIÓN DE PRODUCCIÓN ORGÁNICA ........ 57
+   CAPÍTULO IV: CARACTERIZACIÓN DEL AREA DE INVESTIGACIÓN ............. 59
+4.1. AMBITO DE ESTUDIO .............................................................................................. 59
+   CAPÍTULO V: RESULTADOS Y DISCUSION ........................................................... 60
+5.1. BASE DE DATOS Y FUENTES DE INFORMACIÓN ............................................. 60
+5.2. ESTADÍSTICAS DESCRIPTIVAS ............................................................................. 60
+5.3. ESTIMACIÓN ECONOMÉTRICA ............................................................................. 65
+5.4. ANALISIS E INTERPRETACION ............................................................................. 69
+
+                                                                                                                                   5
+6. CONCLUSIONES ........................................................................................................... 73
+7. RECOMENDACIONES ................................................................................................. 74
+8. BIBLIOGRAFÍA ............................................................................................................. 75
+   ANEXOS ......................................................................................................................... 78
+
+
+                                                  LISTA DE CUADROS
+
+CUADRO Nº 1 COMPARACIÓN DE COMPONENTES DE LA QUINUA CON
+
+OTROS PRODUCTOS .................................................................................................... 21
+
+CUADRO Nº 2 SOCIOS DE LOS SECTORES ASOCIADAS ACENPROMUL ..... 43
+
+CUADRO Nº 3 ESTRATIFICACIÓN DE LA MUESTRA ........................................... 44
+
+CUADRO Nº 4 RESUMEN DE LOS MODELOS ECONOMÉTRICOS ................... 57
+
+CUADRO Nº 5 RESUMEN DE ESTADÍSTICAS DESCRIPTIVAS .......................... 61
+
+CUADRO Nº 6 RESULTADOS ECONOMÉTRICOS DEL MODELO DE
+
+ADOPCIÓN DE TECNOLOGÍA ORGÁNICA ............................................................... 67
+
+CUADRO Nº 7 RESULTADOS DE ESTIMACIÓN DE MODELOS
+
+ECONOMÉTRICOS ......................................................................................................... 68
+
+
+
+                                                 LISTA DE GRAFICOS
+
+GRÁFICO Nº 1 NIVEL EDUCATIVO DE LOS PRODUCTORES DE QUINUA ...... 63
+
+GRÁFICO Nº 2 NIVEL EDUCATIVO DE PRODUCTORES DE QUINUA POR
+
+SEXO .................................................................................................................................. 64
+
+GRÁFICO Nº 3 PARTICIPACIÓN DE LOS PRODUCTORES EN DIFERENTES
+
+ASOCIACIONES ............................................................................................................... 65
+
+
+
+
+                                                                                                                                        6
+                                    RESUMEN
+
+
+      El presente trabajo de investigación se realiza entre los años 2010 y
+
+2013, se intenta identificar y analizar los determinantes para la producción de
+
+quinua orgánica de la Asociación Central de Productores Multisectoriales
+
+(ASCENPROMUL) del distrito de Cabana, provincia de San Román, en el
+
+departamento de Puno; bajo el contexto de crecimiento sostenido de la
+
+demanda del mercado internacional de este producto, considerada como
+
+producto bandera de la región Puno y del Perú. Via un modelo de estimación
+
+Logit y Probit, el objetivo es identificar y analizar los determinantes que influyen
+
+en la adopción de tecnología orgánica de los productores de Cabana. Se utilizó
+
+información a partir de la aplicación de una encuesta a 180 productores
+
+asociados a ASCENPROMUL.
+
+      Según los resultados, los agroquímicos son nocivos para la salud, el
+
+nivel de conocimiento sobre las ventajas, desventajas y características de la
+
+agricultura orgánica, aumentan la probabilidad de producir quinua orgánica. La
+
+probabilidad de adoptar tecnología orgánica también aumenta a medida que el
+
+costo de producción es menor y cuando el ingreso de los productores
+
+incrementa tal como predice la teoría económica. Se demuestra que la edad
+
+del productor influye de manera negativa la probabilidad de adoptar producción
+
+orgánica. Así mismo, se encontró que la educación, el área de la chacra y la
+
+motivación económica conllevan a una mayor probabilidad de adoptar
+
+tecnología orgánica.
+
+
+
+Palabras claves: producción orgánica, quinua orgánica
+
+
+
+                                                                                  7
+                                   SUMMARY
+
+
+
+This research is carried out between the years 2010 to 2013, aims to identify
+
+the determinants for the production of organic quinoa of the Central Association
+
+of multi-sector producers (ASCENPROMUL) of the District of Cabana, San
+
+Román province, in the Department of Puno, in a context of significant growth in
+
+the international market for this product, considered as product flag in the region
+
+Puno. Through Logit and Probit models, the goal is to identify the determinants
+
+that influence the adoption of organic technology. Information from the
+
+application of a survey was used to 164 producers associated with
+
+ASCENPROMUL. The econometric estimation is performed by the method of
+
+maximum likelihood, which solves the problem of heteroscedasticity typical in
+
+cross-sectional   data.   The   results   show    that   the   consideration   that
+
+agrochemicals are harmful to health, the level of knowledge about the
+
+advantages, disadvantages and characteristic of organic agriculture, increase
+
+the likelihood of producing organic quinoa. The likelihood of adopting organic
+
+technology also increases to the cost of production is minor and when the
+
+income of producers increases as economic theory predicts. It shows that the
+
+age of the producer influences negatively the likelihood of adopting organic
+
+production. Likewise, found that education, the area of the farm and the
+
+economic motivation leads to more likely to adopt organic technology.
+
+Key terms: organic produce, organic quinoa
+
+
+
+
+                                                                                 8
+                               INTRODUCCIÓN
+
+
+        Actualmente la demanda mundial del consumo de productos agrícolas
+
+orgánicos tiende a ser creciente principalmente en países desarrollados, ningún
+
+otro grupo de productos agropecuarios registra tasas de crecimiento de la
+
+producción por arriba del 28% anual y tiene además, la particularidad de un
+
+mercado insatisfecho (demanda mayor a la oferta), a esto se suma que los
+
+países que demandan en mayor porcentaje productos orgánicos son: Europa,
+
+Japón y América del Norte (Gómez, et.al,2003).
+
+        Los alimentos orgánicos crecieron en varias zonas del mundo: de 10.000
+
+millones de dólares en 1997 a 20.000 millones en el 2000 (Willer, et.al, 2001).
+
+Para el caso de la quinua orgánico, el mercado representa por lo menos US$
+
+5.000 millones de dólares anuales del comercio orgánico mundial (Leibovich,
+
+et.al, 1999). Dentro del mercado de los productos orgánicos, la quinua es uno
+
+de los productos que se posesionara con mayor demanda en los próximos
+
+años.
+
+        La producción de quinua organica de la región de Puno, se centra en el
+
+distrito de Cabana de la región de Puno, organizados en la Asociación Central
+
+de Productores Multisectoriales (ASCENPROMUL) - Cabana, con el esfuerzo
+
+de varios años de trabajo, han logrado tener una presencia expectante en el
+
+mercado de quinua orgánica. En el año 2007 comenzaron con la certificación
+
+orgánica de sus campos de cultivo con 286 Hás, teniendo al 2010, 410 Hás, lo
+
+que les permitió vender 309 TM de quinua orgánica en la campaña agrícola
+
+anterior (año 2009).
+
+
+
+                                                                             9
+      Actualmente se encuentran en el cuarto año de certificaciones orgánicas
+
+(inicio la certificadora IMO – Control; en la actualidad con BCS). El programa de
+
+quinua orgánica de ASCENPROMUL, se inició en el 2007con 206 productores,
+
+actualmente hay 278 socios dentro del programa de quinua orgánica que
+
+produjeron en el 2009 alrededor de 600 TM (410Hás) de quinua orgánica
+
+certificada (ASCENPROMUL, 2010).
+
+      Investigar sobre los determinantes de adopción de tecnología orgánica
+
+en la producción de quinua, constituye un elemento muy importante para
+
+difundir información entre los productores no adoptantes de tecnología orgánica
+
+y fomentar esta línea de producción en un contexto internacional de mayor
+
+demanda por este tipo de productos, entre ellos los orgánicos (quinua).
+
+      Es asi que resulta relevante el planteamiento de recomendaciones en
+
+términos de formas de promover economías de escala para esta producción,
+
+inversión y financiamiento, saneamiento de la propiedad de la tierra y
+
+organización entre productores. En nuestro País son escasos los estudios
+
+sobre producción orgánica, no existiendo análisis empírico que evalúen los
+
+determinantes de adopción de producción agrícola orgánica en el distrito de
+
+Cabana.
+
+      El objetivo general de la presente investigación es, identificar y analizar
+
+los determinantes que influyen en la adopción de producción de quinua
+
+orgánico en el distrito de Cabana, como primer productor a nivel distrital; de
+
+forma específica se trata mostrar la importancia socioeconómica y ambiental en
+
+la adopción de tecnología orgánica y establecer sugerencias que contribuyan al
+
+establecimiento de políticas públicas que estimulen la producción de quinua a
+
+nivel regional y nacional.
+
+
+                                                                              10
+      De esta manera, realizando la estimación de modelos econométricos
+
+logit y probit se trata de identificar y cuantificar los determinantes de adopción
+
+de producción orgánica, presentándose un modelo que trata de caracterizar las
+
+relaciones entre edad, nivel educativo, ingreso, número de hectáreas, mano de
+
+obra, costos de producción, características ambientales y motivación para
+
+producir orgánicamente.
+
+      El estudio está constituido por los siguientes capítulos: En el capítulo
+
+primero se realiza el planteamiento del problema con el propósito de identificar
+
+el problema principal y específico para analizar la situación actual en que se
+
+encuentra la producción de quinua orgánica y finalizando en el capítulo se
+
+presenta los objetivos de la investigación con la finalidad de determinar qué
+
+factores de producción influyen en la producción. En el capítulo segundo, se
+
+desarrolla el marco teórico ya que son sustentos utilizados para resolver el
+
+problema planteado, en seguida el marco conceptual para poder conocer los
+
+términos utilizados en el presente trabajo, en seguida el marco referencial que
+
+nota algunos estudios realizados por diferentes autores sobre estudios de
+
+producción orgánica y finalizando el capítulo se desarrolla la hipótesis de la
+
+investigación. En el capítulo tercero,    se desarrolla    la metodología de la
+
+investigación a utilizar en el presente trabajo de investigación, así como el uso
+
+de los materiales, el método, la determinación de la población, la muestra y la
+
+identificación de las variables   de estimación. En el capítulo cuarto,        se
+
+desarrolla la caracterización del área de investigación. En el capítulo quinto,
+
+se desarrolla los resultados del trabajo de investigación con la finalidad de
+
+comprobar las hipótesis planteadas y finalmente en el capítulo sexto, se
+
+desarrolla las conclusiones y recomendaciones.
+
+
+                                                                               11
+    CAPÍTULO I: PLANTEAMIENTO DEL PROBLEMA Y OBJETIVOS DE
+                        INVESTIGACIÓN
+
+
+1.1. PLANTEAMIENTO DEL PROBLEMA
+
+      En la región de Puno, el distrito de Cabana es considerado como primer
+
+centro piloto en la producción orgánica de quinua; los productores de quinua
+
+están organizados en la Asociación Central de Productores Multisectoriales
+
+(ASCENPROMUL)- Cabana, con el esfuerzo de varios años de trabajo, han
+
+logrado tener una presencia expectante en el mercado de quinua orgánica. En
+
+el año 2007 comenzaron con la certificación orgánica de sus campos de cultivo
+
+con 286 Hás, teniendo al 2010, 410 Hás, lo que les permitió vender 309 TM de
+
+quinua orgánica en la campaña agrícola anterior.
+
+      Actualmente se encuentran en el tercer año de certificaciones orgánicas
+
+(inicio la certificadora IMO – Control; en la actualidad con BCS). El programa de
+
+quinua orgánica de ASCENPROMUL, en el 2007 inicio con 206 productores de
+
+quinua, actualmente hay       278 socios productores de quinua dentro del
+
+
+
+
+                                                                              12
+programa de producción orgánica que produjeron en el 2009 alrededor de 600
+
+TM (410Hás) de quinua orgánica certificada (ASCENPROMUL, 2010).
+
+      Investigar las determinantes de adopción de tecnología orgánica en la
+
+producción de quinua, constituye un elemento muy importante para difundir
+
+información entre los productores no adoptantes de la tecnología orgánica y
+
+fomentar esta línea de producción en un contexto internacional de mayor
+
+demanda por productos verdes, entre ellos, los orgánicos. También resulta
+
+relevante el planteamiento de recomendaciones en términos de formas de
+
+promover   economías     de   escala   para   esta   producción,   inversión   y
+
+financiamiento, saneamiento de la propiedad de la tierra y organización entre
+
+productores.
+
+En el Perú y en especial en la región Puno son escasos los estudios sobre
+
+producción orgánica, no existiendo análisis empírico que evalúen los
+
+determinantes de adopción de producción agrícola orgánica. Bajo este
+
+enunciado se formula las siguientes interrogantes:
+
+
+
+
+                                                                               13
+1.2 DEFINICION DEL PROBLEMA
+
+1.1.2. PROBLEMA GENERAL
+
+¿Qué variables son los determinantes que influyen en la adopción de
+
+producción de quinua orgánica en el distrito de Cabana: campaña 2010-2013?
+
+
+
+1.1.3. PROBLEMAS ESPECÍFICOS
+
+¿Cómo es la tendencia del comportamiento individual de cada una de las
+
+variables que afectan la adopción en la producción de quinua orgánica?
+
+
+
+¿Cuál es el impacto de las variables ambientales, sociales y económicas en la
+
+adopción de producción de quinua orgánica durante la campaña 2010-2013?
+
+
+
+¿Cuál son los efectos marginales del impacto de las variables ambientales,
+
+sociales y económicas en la adopción de producción de quinua orgánica
+
+durante la campaña 2010-2013?
+
+
+
+
+                                                                          14
+1.2. OBJETIVOS DE ESTUDIO
+
+
+1.2.1. OBJETIVO GENERAL
+Identificar y analizar los determinantes que influyen en la adopción de
+
+producción de quinua orgánica en el distrito de Cabana: campaña 2010-2013.
+
+
+
+1.2.2. OBJETIVOS ESPECÍFICOS
+Determinar la tendencia del comportamiento individual de cada una de las
+
+variables que afectan la adopción en la producción de quinua orgánica.
+
+
+
+Identificar el impacto de las variables ambientales, sociales y económicas en la
+
+adopción de producción de quinua orgánica durante la campaña 2010-2013.
+
+
+
+Cuantificar los efectos marginales del impacto de las variables ambientales,
+
+sociales y económicas en la adopción de producción de quinua orgánica
+
+durante la campaña 2010-2013.
+
+
+
+
+                                                                             15
+  CAPÍTULO II: MARCO REFERENCIAL, MARCO CONCEPTUAL, MARCO
+           TEÓRICO E HIPÓTESIS DE LA INVESTIGACIÓN
+
+2.1. MARCO REFERENCIAL
+
+En el escenario internacional cada vez va adquiriendo mayor importancia el
+
+consumo de productos orgánicos que cumplan con dos criterios básicos de
+
+sustentabilidad: protección del medio ambiente y justicia social. Los
+
+productores orientan su producción hacia prácticas más respetuosas con el
+
+medio ambiente, procurando tener mayores beneficios económicos y sociales.
+
+La presente investigación pretende trabajar con modelos probados los que se
+
+mencionan a continuación.
+
+Tapia (1976) y Mujica (1993). Coinciden en que generalmente se obtiene de 600
+
+a 800 kg/ha en variedades tradicionales (Kancolla). Con tecnología moderna, la
+
+variedad Sajama ha producido hasta 3000 Kg/ha, siendo el promedio comercial
+
+1500 kg/ha.    Los rendimientos en broza varían también de acuerdo a la
+
+fertilización, obteniéndose en promedio 5000 Kg/ha de broza (kiri) y 200 kg de
+
+hojuela pequeña, formada por perigonios y partes menudas de hojas y tallos (jipi).
+                                                                               16
+Este componente tiene el mayor valor nutritivo para la alimentación del ganado.
+
+La quinua se cultiva hasta una altitud de 4000 msnm. , en el Perú se cultiva
+
+mayormente en el área andino desde la Region de Puno, hasta Cajamarca
+
+incluyendo valles interandinos, y se viene expandiendo en los valles de la
+
+costa, especialmente en el departamento de Arequipa.
+
+Rahm y Huffman (1984), concluyen que la probabilidad de adoptar una
+
+tecnología depende de las características específicas de cada finca productora;
+
+del suelo, de los sistemas de producción, el tamaño de la finca y el nivel
+
+educativo del productor, características que en cada productor son diferentes.
+
+Los estudios anteriores ilustran la importancia de la agricultura orgánica y los
+
+procesos de adopción de tecnologías orgánicas. En el caso de adopción de
+
+tecnología orgánica no se puede generalizar el comportamiento de los
+
+productores, así se evalúen con el mismo modelo econométrico, por lo que
+
+resulta, necesario generar evidencia empírica afín de encontrar productores
+
+cafetaleros Sandinos con mayor probabilidad de adoptar tecnologías y
+
+procesos de producción orgánica.
+
+Alvarado(2004), ofrece un análisis conceptual de la agricultura orgánica y se
+
+detiene en el tratamiento de temas críticos, como la compatibilidad entre el
+
+conocimiento campesino y el científico, los impactos de la agricultura orgánica
+
+sobre la pobreza rural y la seguridad alimentaria, la viabilidad económica de la
+
+misma, las exigencias del mercado y las capacidades requeridas para poder
+
+afrontarla y por último el autor relata experiencias concretas en el desarrollo de
+
+la agricultura orgánica en el Perú durante los últimos veinte años. Sin embargo,
+
+en el estudio no se genera evidencia empírica que contraste los costos y
+
+beneficios de la agricultura orgánica.
+
+
+                                                                               17
+Otero (2003), Desarrolla un modelo de probabilidad logística (Logit) para
+
+identificar los determinantes que tienen en cuenta los productores cafetaleros
+
+para adoptar la caficultura orgánica en la República de Colombia, evidenciando
+
+que el sobre precio, la motivación por la conservación del medio ambiente, el
+
+área del predio y pertenecer a una asociación son los factores que aumentan la
+
+probabilidad de adoptar la tecnología, mientras que la edad del productor baja
+
+la probabilidad de adoptar tecnología. Por otro lado el autor indica que la
+
+caficultura orgánica representa una salida ante la incertidumbre y la poca
+
+rentabilidad de la producción de café convencional. Del estudio se puede
+
+desprender que las variables socioeconómicas y ambientales tienen un efecto
+
+significativo en la adopción de tecnología orgánica.
+
+Tudela (2006), En su investigación Determinantes de la Producción Orgánica:
+
+Caso del Café Orgánico en los Valles de San Juan del Oro – Puno, ha
+
+identificado los factores que influyen en la adopción de tecnología orgánica de
+
+los productores cafetaleros asociados a CECOVASA, para tal efecto se han
+
+utilizo modelos de probabilidad logit y probit. Con la metodología utilizada pudo
+
+mostrar la importancia socioeconómica y ambiental en el proceso de adopción.
+
+Encontró que la consideración de que los agroquímicos son nocivos a la salud
+
+y el conocimiento de las ventajas, desventajas y características de la
+
+agricultura orgánica, elevan significativamente la probabilidad del productor
+
+cafetalero para adoptar tecnología orgánica.
+
+
+
+
+                                                                              18
+2.2. MARCO CONCEPTUAL
+
+2.2.1. AGRICULTURA ORGÁNICA, ECOLÓGICA O BIOLÓGICA
+
+      Se define como un sistema de producción que utiliza insumos naturales
+
+(rechaza los insumos sintéticos (fertilizantes, insecticidas, plaguicidas) y los
+
+organismos genéticamente modificados) mediante prácticas especiales como
+
+composta, abonos verdes, control biológico, repelentes naturales a partir de
+
+plantas, asociación y rotación de cultivos, etc. Esta forma de producción,
+
+además de considerar la filosofía, mejora las condiciones de vida de sus
+
+practicantes, de tal modo que aspira a una sostenibilidad integral del sistema
+
+de producción (económica, social y ecológica). O sea, la producción orgánica
+
+se basa en estándares específicos y precisos de producción que pretenden
+
+alcanzar un agro ecosistema social, ecológico y económicamente sustentable
+
+(Kortbech-Olesen, 2000).
+
+      El proceso por el cual los productores pasan de un sistema convencional
+
+a uno orgánico puede durar años, con avance y retrocesos, hasta completarse
+
+o quedarse trunco por mucho tiempo (Alvarado, 2004). Este proceso obedece a
+
+factores socioeconómicos, culturales y ambientales, los cuales pueden variar
+
+entre productores y regiones. Por lo tanto, resulta relevante identificar los
+
+factores que hacen que el productor adopte tecnología orgánica.
+
+      Existen dos tipos de estudios empíricos sobre tecnologías orgánicas: el
+
+descriptivo y el econométrico. Entre los trabajos descriptivos destacan los de
+
+Espinal, et.al (2005), Alvarado (2004) y Álvarez (2003). Por su parte los
+
+
+                                                                             19
+trabajos econométricos hacen énfasis en la cuantificación de los determinantes
+
+de adopción de tecnologías orgánicas, en este sentido, sobresalen los trabajos
+
+de Novella y Salcedo (2005), Otero (2003), Flores (2001) y Rahm y Huffman
+
+(1984).
+
+       Uno de los estudios minuciosos sobre las posibilidades que ofrece el
+
+mercado mundial para los productos orgánicos es el de Espinal, et.al (2005),
+
+quienes evalúan la importancia y oportunidad que ofrecen los mercados de
+
+productos orgánicos como una opción económica y ambientalmente viable para
+
+los productos agrícolas.
+
+2.2.2. DESCRIPCIÓN DE LA QUINUA
+
+       La quinua (Chenopodiumquinoa Willd.), especie que posee una gran
+
+variabilidad y diversidad, con cualidades nutricionales, fundamentalmente en el
+
+de la proteína, considerada a la de los cereales. La quinua ha tomado una
+
+inusitada   importancia    entre      los   agricultores   y   agroindustriales,   como
+
+consecuencia de la promoción sobre sus bondades nutricionales que la quinua
+
+ofrece en sus granos, hojas e inflorescencias, para la alimentación humana. A
+
+su vez la saponina de los granos pueden ser utilizado como detergente (Apaza
+
+y Delgado, 2005)
+
+       Planta de hojas anchas, herbáceas dicotiledónea de entre 1 a 2 metros
+
+de altura. El tallo leñoso posee hojas pubescentes alternadas, pueden o no
+
+tener ramas dependiendo de la variedad y de la densidad de siembra puede
+
+ser purpura, roja o verdes. Posee una raíz ramificada de unos 20 a 25 cm, la
+
+raíz forma una densa telaraña que penetra cerca de la misma profundidad en
+
+la tierra que el alto de la planta.
+
+
+
+
+                                                                                     20
+      Generalmente son hermafroditas y se auto polinizan, poseen semillas
+
+de 2 mm de diámetro encerradas en el cáliz. La quinua puede crecer bajo
+
+condiciones    particularmente    desfavorables,   tierras   altas,    pobremente
+
+drenadas, regiones frías y bajo sequias.
+
+2.2.3. IMPORTANCIA DE LA QUINUA
+
+La importancia del cultivo radica principalmente en los siguientes aspectos:
+
+2.2.3.1. ASPECTO NUTRITIVO
+
+      La quinua es la fuente natural de proteína vegetal económica, de alto
+
+valor nutritivo por la combinación de una mayor proporción de aminoácidos
+
+esenciales, el valor calórico es mayor que otros cereales, tanto en grano y en
+
+harina alcanza 350 Cal/100g, que lo caracteriza como un alimento apropiado
+
+para zonas y épocas frías (Apaza y Delgado, 2005).
+
+      Es el único alimento de origen vegetal con un balance ideal de
+
+aminoácidos. Entre sus 21 aminoácidos se encuentra la Lisina, que juega un
+
+papel muy importante en el desarrollo tanto físico intelectual, y la Metionina, de
+
+gran importancia para el metabolismo de la insulina. La composición de los
+
+aminoácidos esenciales, le confiere un valor biológico comparable solo con la
+
+leche, el huevo y las menestras, constituyéndose por lo tanto en uno de los
+
+principales alimentos de los consumidores (Mujica, 1993).
+
+CUADRO Nº 1 COMPARACIÓN DE COMPONENTES DE LA QUINUA CON
+                   OTROS PRODUCTOS
+
+Componentes %        Quinua      Kañihua Trigo       Cebada Maíz          Arroz
+
+Humedad              12.60       9.80      14.50     12.10     17.20      11.90
+
+Proteína             14.22       15.18     8.60      6.90      8.40       5.90
+
+Grasa                5.10        8.40      1.50      1.80      1.10       2.00
+
+
+
+
+                                                                                  21
+Carbohidratos        59.70     58.60     73.70     76.60     69.40    74.70
+
+Fibra                4.10      3.80      3.00      7.30      3.80     9.90
+
+Ceniza               3.40      3.40      1.70      2.60      1.20     4.50
+
+FUENTE: INIA, 2004
+
+
+
+
+2.2.3.2. ASPECTO SOCIAL
+
+        Por su calidad nutricional, y adaptación a diferentes ecosistemas y su
+
+fácil conservación garantiza la seguridad alimentaria de la población, es decir
+
+asegura la disponibilidad de los alimentos en cantidad y oportunidad
+
+constituyendo además una fuente de trabajo (Mujica, 1993).
+
+2.2.3.3. ASPECTO ECONÓMICO
+
+        El aumento de la productividad, la mejora de la calidad física y
+
+presentación del grano en sus diversas formas, ha generado una oportunidad
+
+para incrementar sus ingresos económicos de los productores (Mujica, 1993).
+
+2.2.3.4. ASPECTO CULTURAL
+
+        En   la cultura andina el cultivo de la quinua está relacionada a los
+
+aspectos religiosos, danzas, canto, costumbres del poblador rural, en todo el
+
+proceso productivo (Murra, 2002).
+
+
+
+2.2.3.5. ASPECTO TECNOLÓGICO
+
+        Permite realizar innovaciones tecnológicas, en aspectos de producción,
+
+agroindustrias, diseño de máquinas, comercialización; así como los aspectos
+
+
+
+
+                                                                              22
+de germinación, vigor, desarrollo de la semilla, deterioro de la semilla,
+
+etc.(MTPQ, 2006).
+
+2.2.4. FACTORES CLIMATOLÓGICOS Y EDÁFICOS ADVERSOS
+
+      La quinua presenta una alta resistencia a los principales factores
+
+ambientales que afectan los cultivos, es muy resistente al déficit de humedad,
+
+resistente al frió    y puede soportar suelos salinos en concentraciones
+
+considerables, en los que otros cultivos no prosperan adecuadamente. Por
+
+estas razones este grano andino tiene un gran potencial y futuro para poder
+
+conquistar los terrenos marginales para la producción de la quinua, estas
+
+características de resistencia y tolerancia lo desarrolla debido a mecanismos
+
+morfológicos, anatómicos, fenológicos, fisiológicos y bioquímicos presentes en
+
+los diferentes genotipos, los cuales le confieren características excepcionales y
+
+únicas para producir cosechas en contra de dichos factores adversos,
+
+acumulando energías y produciendo órganos de interés antropocéntrico como
+
+son los granos y las hojas para la alimentación humana (Valdivia, Paredes, et,
+
+al. 1997)
+
+
+
+2.3. MARCO TEÓRICO
+
+2.3.1 Producción de quinua orgánica
+
+Zonas de producción
+
+      La quinua se cultiva en la zona andina desde 4° latitud Norte hasta 40°
+
+latitud Sur y de 0 msnm hasta 4000 msnm. En Perú constituye un cultivo de
+
+importancia económica pues su producción se orienta a satisfacer las
+
+demandas del mercado interno como el de exportación. El Perú tiene una
+
+superficie cultivada de alrededor de 30000 ha, similar al área de Bolivia.
+
+
+                                                                              23
+Mejoramiento genético
+
+      Los objetivos del mejoramiento genético de la quinua dependerán del
+
+uso que se le quiera dar. Hasta el momento se ha dado énfasis a los
+
+requerimientos del productor relacionados con el incremento en el rendimiento,
+
+resistencia a plagas y precocidad. En un segundo plano se ha priorizado los
+
+requerimientos de mercado tales como la quinua blanca de grano grande, sin
+
+contenido de saponinas. Actualmente también se buscan quinuas de color, con
+
+aptitud de procesamiento, y un alto rendimiento molinero, dureza de pericarpio
+
+y contenido alto de grasa.
+
+Importancia de semillas de buena calidad
+
+      Se recomienda el uso de semilla de buena calidad, seleccionada y
+
+certificada, para garantizar mejores rendimientos y calidad de la cosecha. Es
+
+importante mantener la pureza varietal, es decir que la semilla que utilicemos
+
+represente la variedad y no sea una mezcla de variedades. Además, es
+
+importante que la semilla tenga un alto poder germinativo, mayor al 80 %.
+
+Tenemos dos opciones para obtener semilla de buena calidad: comprar
+
+semilla certificada o seleccionar y mantener nosotros mismos semilla de buena
+
+calidad. La primera opción es la mejor, pero significa que debemos hacer una
+
+inversión en dinero, la segunda es igual de buena, pero debemos invertir
+
+tiempo, cuidado y dedicación.
+
+      Cuando nosotros producimos la semilla en nuestra chacra, podemos
+
+seleccionar una parte de la chacra como semillero, donde, a medida que crece
+
+el cultivo, se debe eliminar las plantas de otras variedades o quinua silvestres
+
+(ayaras), se deben eliminar las malezas y se recomienda abonar con estiércol,
+
+humus y biol. A la cosecha se debe eliminar plantas enfermas o que no sean
+
+
+                                                                             24
+de la variedad, se cosecha a parte y con cuidando de no hacer mezclas. Esta
+
+semilla se seca y guarda para la próxima siembra.
+
+Preparación del suelo
+
+       Por lo general se cultiva la quinua en suelos pobres de poca aptitud
+
+agrícola, en zonas con condiciones climáticas de alto riesgo, como heladas o
+
+granizadas. La preparación del suelo es una de las labores más importantes y
+
+de ella depende en gran parte el éxito del cultivo. Esta labor puede realizarse
+
+con tractor, yunta o manualmente.
+
+       Es necesaria una labor de arado y una o dos pases de rastra para mullir
+
+o desmenuzar el suelo. Si la siembra es manual o con sembradora manual se
+
+recomienda surcar y si la siembra es mecanizada se debe nivelar el suelo. La
+
+preparación del suelo consiste en lograr la descomposición de residuos en
+
+materia orgánica y facilitar la aireación del suelo, a través de un buen mullido y
+
+conseguir un suelo parejo con la nivelación.
+
+Rotación del cultivo
+
+       La rotación es la sucesión de diferentes cultivos dentro del mismo campo
+
+a través del tiempo. Es uno de los componentes vitales de la agricultura
+
+orgánica, tiene como objetivo mantener y aumentar la productividad del suelo,
+
+controlar en forma ecológica las plagas, enfermedades y malas hierbas, y
+
+diversificar la producción. Tomando en cuenta el sistema productivo de los
+
+agricultores y zona de siembra se recomienda la rotación papa o tarwi, seguido
+
+de quinua, luego habas y por último cebada, avena o forrajes (pastos
+
+cultivados).
+
+Siembra
+
+
+
+
+                                                                               25
+      El poder germinativo de la semilla debe tomarse en cuenta a la siembra,
+
+a mayor porcentaje de germinación posible. Esto es importante tenerlo en
+
+cuenta ya que la densidad de siembra, es decir la cantidad de plantas por área
+
+que obtengamos, afectará el rendimiento. Menos plantas por hectárea,
+
+obtenemos panojas grandes, pero cosechamos menos, de igual manera ocurre
+
+con exceso de plantas por hectárea, mas panojas de menor tamaño y
+
+rendimientos más bajos.
+
+      La siembra debe realizarse en las mejores condiciones de temperatura
+
+(15- 20°C) y buena humedad del suelo (¾ de capacidad de campo),
+
+profundidad 1-2 cm para la buena germinación de la quinua. La época
+
+adecuada óptima para la siembra de quinua se encuentra entre el 15 de
+
+septiembre al 15 de noviembre, dependiendo de la disponibilidad de agua y a la
+
+precocidad o duración del período vegetativo de los genotipos ha sembrarse.
+
+En zonas más frías se acostumbra adelantar la fecha de siembra sobre todo si
+
+se usan genotipos tardíos.
+
+      La época de cosecha debe coincidir con la época seca. Las lluvias
+
+durante la cosecha provocan pudrición del grano o su germinación en la planta.
+
+Se tiene que tomar en cuenta el clima de la zona con el ciclo vegetativo de la
+
+variedad de quinua.
+
+Sistema de siembra
+
+La siembra de la quinua puede realizarse al voleo o en surcos
+
+Siembras al voleo
+
+      En ese sistema la semilla se entierra desuniformemente, lo que dificulta
+
+los trabajos del deshierbo y se requiere una mayor cantidad de semilla para
+
+compensar faltas de germinación.
+
+
+                                                                           26
+Siembras en surco
+
+        Es el sistema más recomendable, requiere menos cantidad de semilla,
+
+facilita los trabajos del deshierbe y aporque y control de plagas. Los surcos se
+
+puede hacer manualmente con yunta o con máquina, los surcos deben tener de
+
+15 a 20 cm de profundidad y la distancia entre surcos debe ser de 40 a 50 cm.
+
+La siembra en surcos se puede hacer a mano a chorro o con sembradoras
+
+manuales.
+
+Profundidad de siembra
+
+        La profundidad de siembra debe ser pareja para conseguir una
+
+emergencia alta y un desarrollo uniforme de las plantas. La profundidad
+
+recomendada es de 1 a 2 cm., sembrando profundo en suelos secos y
+
+superficialmente en suelos húmedos. La semilla se puede tapar con tierra fina,
+
+usando ramas o rastras manuales.
+
+Densidad de siembra
+
+        La densidad de siembra está referida a la cantidad de semilla necesaria
+
+para un área determinada y depende de la zona, de la variedad y del poder
+
+germinativo de la semilla utilizada. En general se recomienda una cantidad
+
+entre 10 a 12 kg. por ha., de semilla de buena calidad (porcentaje de
+
+germinación sobre 80%).
+
+Raleo
+
+        El raleo que se realiza junto con el deshierbe sirve para conseguir una
+
+densidad uniforme y óptima de la quinua, y eliminar plantas enfermas débiles o
+
+fuera de tipo. La finalidad es obtener una densidad final de 20 a
+
+30 plantas por m2 (200,000 a 300,000 plantas por ha).
+
+Abonamiento
+
+
+                                                                             27
+       La quinua requiere un buen abonamiento si se desea un nivel de
+
+producción y una calidad alta. Los niveles a utilizar dependen del contenido de
+
+nutrientes del suelo y la rotación de cultivos. Por lo general, en la producción
+
+tradicional se abona a la papa y no a la quinua, que se alimenta de los residuos
+
+de la papa. Cuando se siembra después de la papa el contenido de materia
+
+orgánica y de nutrientes favorece al cultivo de la quinua, por la descomposición
+
+lenta del estiércol no aprovechado por la papa. Cuando se siembra después de
+
+cebada o avena es necesario utilizar mayor cantidad de materia orgánica,
+
+hasta 5 t/ha.
+
+       Para la producción orgánica de quinua en sierra se recomienda el uso de
+
+estiércol (vacuno, ovino, camélido, gallinaza), guano de islas, humus de
+
+lombriz, compost, biol e incorporación de abonos verdes, principalmente
+
+leguminosas en floración. Se recomienda la aplicación del abono junto con la
+
+preparación de suelo de tal manera que pueda descomponerse y estar
+
+disponible para el cultivo.
+
+       Otro abono es el Jamallachi que es producto de la descomposición del
+
+estiércol y orina en el propio corral en forma natural, ubicándose en la capa
+
+más inferior y teniendo una consistencia pastosa de color verde oscuro petróleo
+
+y olor penetrante, el cual contiene no solo nutrientes de fácil asimilación sino
+
+propiedades desinfectantes de la semilla y actúa como regulador del
+
+crecimiento por el alto contenido de auxinas, citoquininas y giberelinas.
+
+       El biol es la mezcla líquida del estiércol y agua, adicionando insumos
+
+como alfalfa picada, roca fosfórica, leche, pescado entre otros, que se
+
+descarga en un digestor, donde se produce el abono foliar orgánico. La
+
+
+
+
+                                                                             28
+composición del biol es: N 4%, P disponible 68 ppm, K disponible 480 ppm, y
+
+C.E. 2 mS/cm.
+
+      El humus de lombriz es producido por la lombriz roja (Eisenia foetida),
+
+que se alimenta no de la tierra como la lombriz de tierra, pero de materia
+
+orgánica descompuesto, y tiene una reproducción alta. El humus de lombriz es
+
+abono orgánico muy rico en micronutrientes y microorganismos que
+
+descomponen la materia orgánica en minerales utilizados por las plantas. La
+
+composición del humus de lombriz es: N 2.1%, P 1.42%, K 1.44%, además
+
+calcio, magnesio, hierro, manganeso, cobre, zinc y cobalto. Cada lombriz
+
+puede producir 500 a 1500 lombrices al año en clima templado. Se alimenta de
+
+hojas, tallos y de excrementos de animales.
+
+Las fuentes, dosis y épocas de aplicación depende de la disponibilidad en la
+
+finca, pero en general para la producción orgánica de la quinua se recomienda:
+
+Estiércol, utilizar 5 t/ha aplicada antes o durante la preparación de los suelos,
+
+incorporándola inmediatamente.
+
+Humus de lombriz: utilizar 2 t/ha después del primer deshierbo.
+
+Biol: utilizar 500 l/ha: 300 l /ha en la fase fenológica de 8 hojas verdaderas, 350
+
+l/ha al inicio del panojamiento y 350 l/ha durante la floración; el biol se debe
+
+aplicar en la proporción de 1 de biol por uno de agua, asperjando sobre las
+
+hojas en forma descendente del ápice de la planta a la base.
+
+Compost, utilizar 5 t/ha fraccionado a la siembra y después del prime
+
+deshierbo.
+
+Gallinaza, utilizar 6 t/ha a la siembra y después del primer deshierbo.
+
+Guano de islas, utilizar 0.5 t /ha a la siembra y después del primer deshierbo.
+
+Deshierbos y aporques
+
+
+                                                                                  29
+      En las primeras etapas de crecimiento la quinua carece de fuerza
+
+suficiente para competir con la maleza. Por esto es necesario eliminarlas
+
+tempranamente para evitar reducciones en el rendimiento, a medida que el
+
+cultivo toma altura va a cubrir con follaje los espacios donde aparecen las
+
+malezas y reduciendo la competencia por luz, agua y nutrientes. Cuando no se
+
+controlan las malezas se obtienen plantas de quinuas pequeñas, raquíticas,
+
+que resulta en bajos rendimientos.
+
+      El número de deshierbos depende de la incidencia y tipo de malezas
+
+presentes en el cultivo. En general se recomienda efectuar dos deshierbos
+
+durante el ciclo vegetativo de la quinua, uno cuando las plántulas tengan un
+
+tamaño de 15 cm. o cuando hayan transcurrido 40 días después de la
+
+emergencia, y el segundo antes de la floración o cuando hayan transcurrido 90
+
+días después de la siembra. Esta operación puede efectuarse en forma manual
+
+o mecanizada, en casos de siembras extensivas los controles mecanizados
+
+son los más recomendados por la menor cantidad de uso de mano de obra.
+
+Para ello se emplea cultivadoras de dos o tres rejas, lo cual también permitirá
+
+hacer un pequeño aporque que facilitará el sostenimiento de la planta y al
+
+mismo tiempo el tapado de abono complementario colocado al pie de la planta.
+
+Los aporques son necesarios para sostener la planta sobre todo en los valles
+
+interandinos donde la quinua crece en forma bastante exuberante y requiere
+
+acumulación de tierra para mantenerse de pie y sostener las grandes panojas
+
+que se desarrollan evitando de este modo el tumbado o vuelco de las plantas.
+
+Generalmente se recomienda un buen aporque antes de la floración y junto al
+
+abono complementario, lo que permitirá un mayor enraizamiento y por lo tanto
+
+mayor sostenibilidad.
+
+
+                                                                            30
+Control de plagas
+
+      El uso de las plantas para controlar las plagas y enfermedades
+
+constituye una herramienta muy difundida en la producción orgánica, acorde a
+
+las nuevas corrientes de preservación y conservación del medio ambiente y
+
+con productos que no son nocivos para los agricultores o las personas que
+
+consumen los productos. El cultivo de quinua tiene diferentes plagas, siendo la
+
+principal la qhona qhona (Eurysacca sp.), que se alimenta de los granos de
+
+quinua, causando reducciones de hasta 40% de la producción anual.
+
+Entre las principales ventajas de utilizar plantas biocidas para controlar plagas
+
+se encuentran:
+
+No dejan residuos tóxicos en el cultivo o en el medio ambiente
+
+Son de bajo costo en su preparación y uso.
+
+Son fáciles de conseguir ya que existen en los campos de los agricultores
+
+Son fáciles de preparar y aplicar
+
+Algunas plantas biocidas utilizadas en el control de qhona qhona (Eurysacca
+
+sp.) son: el Kamisayre (Nicotiana undulata), el ajenjo (Artemisa sp.), el tarwi
+
+(Lupinus mutabilis) y el sasawí (Leuceria lacinata). Los adherentes se utilizan
+
+para mejorar el pegado a la planta tratada y para evitar que la solución
+
+fumigada escurra de la planta. Se puede utlizar penca de caribuya o penca de
+
+tuna. Se ha demostrado que el uso de plantas biocidas, por ej. La harina del
+
+ajenjo (Artemisa absinibium L.), reduce el daño de la qhona qhona, resultando
+
+en un incremento del rendimiento de 42%.
+
+Cosecha
+
+      Una de las etapas críticas de la producción orgánica de quinua es la
+
+cosecha. Esta debe realizarse con la debida oportunidad para evitar las
+
+
+                                                                              31
+pérdidas por desgrane o ataque de aves, y el deterioro de la calidad del grano
+
+por las inesperadas lluvias, granizadas o nevadas. Si luego de la madurez del
+
+cultivo hay un exceso de humedad ambiental se produce germinación de los
+
+granos en la panoja, amarillamiento o fermentación de los mismos. La quinua
+
+debe ser cosechada cuando los granos han adquirido una consistencia tal que
+
+ofrezcan resistencia a la presión con las uñas, o las plantas se hayan defoliado
+
+y presenten un color amarillo pálido. A continuación se describe la cosecha
+
+tradicional que es totalmente manual y consta de cinco etapas: siega,
+
+emparvado, trilla, limpieza y almacenamiento.
+
+Siega
+
+         La siega se realiza con hoz, se corta a una altura de 20 a 30 cm. del
+
+suelo a madurez fisiológica. Esta labor debe efectuarse en las mañanas a
+
+primera hora para evitar el desprendimiento de los granos que con el sol se
+
+resecan. En ningún caso se debe arrancar las plantas junto con las raíces,
+
+porque la tierra o arenilla se mezcla durante la trilla con el grano, disminuyendo
+
+totalmente la calidad del producto.
+
+Emparve
+
+         Consiste en apilar las plantas segadas, formando arcos o parvas con la
+
+finalidad que las panojas sequen y evitar que se malogre la cosecha por
+
+condiciones climáticas adversas (lluvias y granizadas extemporáneas), y en
+
+consecuencia se manche el grano. Las panojas permanecen así hasta que los
+
+granos tengan la humedad adecuada para la trilla (12-15%), el tiempo es de 10
+
+a 15 días. Las pérdidas en el emparvado se deben a la germinación del grano,
+
+amarillamiento, fermentación, o por ataque de pájaros y roedores.
+
+Trilla
+
+
+                                                                               32
+      Se transportan las panojas a lugares planos y apisonados cubierto con
+
+plástico, denominados eras, donde son trilladas por golpes de garrote, no por
+
+camión que contaminará el producto final con piedras y aceite. En este estado
+
+la humedad es alrededor del 15%. Hay que evitar que la quinua este nunca en
+
+contacto con el suelo La trilla tiene la función de separar los granos de la
+
+panoja y de desprenderlos del perigonio. Antes de iniciarla, es importante tener
+
+en cuenta la humedad del grano, que no debe ser mayor del 15%.
+
+En el caso de usar trilladoras estacionarias se saca la planta seca de la parva y
+
+se coloca solo la panoja en el mecanismo de entrada de la trilladora, para evitar
+
+mayor esfuerzo de la máquina en triturar los tallos que generalmente son duros
+
+y gruesos, por el alto contenido de lignina.
+
+
+
+
+Poscosecha
+
+Aventado y limpieza del grano
+
+      El aventado y limpieza consiste en separar el grano de la broza
+
+(fragmentos de hojas, pedicelos, perigonio, inflorescencias y pequeñas ramas),
+
+aprovechando las corrientes de aire que se producen en las tardes, de tal
+
+manera que el grano esté completamente limpio. Actualmente existen
+
+aventadoras mecánicas manuales o propulsadas por un motor, cuya labor es
+
+eficiente y relativamente fáciles de operar y permiten obtener un grano limpio
+
+sin impurezas.
+
+Secado del grano
+
+
+
+
+                                                                              33
+      Después de la trilla es necesario que el grano pierda humedad hasta
+
+obtener una humedad comercial y permitir su almacenamiento adecuado. Esto
+
+se consigue exponiendo el grano trillado, limpio y extendido en mantas a los
+
+rayos solares durante todo el día, debiendo remover y voltear el grano varias
+
+veces hasta que pierda completamente la humedad.
+
+En caso contrario se corre el riesgo de producirse fermentaciones o
+
+amarillamiento del grano en almacén. Se considera que el grano de quinua
+
+está seco cuando las semillas contengan máximo un 10% de humedad.
+
+Selección del grano
+
+      Una vez que el grano está completamente seco, se debe proceder a la
+
+selección y clasificación del grano, puesto que la panoja produce granos
+
+grandes, medianos y pequeños. Así mismo, se tiene presencia de granos
+
+inmaduros lo cuales en gran parte ya fueron eliminados con el venteo. Esta
+
+clasificación permitirá un mejor uso de los granos, los pequeños para la
+
+molienda y productos transformados a partir de harina, los medianos para su
+
+uso como sémola, hojuelas, expandidos, pop quinua y otros usos en los que el
+
+grano entero no esté visible y los granos grandes para los perlados y
+
+embolsados como grano natural. Con ello se obtendrá mejor presentación,
+
+mayores precios y ganancias.
+
+Actualmente existen clasificadoras por tamaño variando el diámetro de las
+
+cribas y mallas por las que tienen que pasar los granos. Cada variedad tiene un
+
+tamaño y composición diferente de tamaños de grano. La quinua se clasifica
+
+por el tamaño de grano en dos grupos:
+
+Quinua grande o de primera calidad: diámetro mayor a 18 mm
+
+Quinua pequeña o de segunda calidad: diámetro menor a 18 mm.
+
+
+                                                                            34
+Almacenamiento
+
+      El almacenamiento es un paso importante dentro del manejo de pos-
+
+cosecha de los productos agrícolas. El grano húmedo de la quinua no se puede
+
+almacenar más de 48 horas porque se calienta, se desarrollan hongos que
+
+deterioran la calidad, por este motivo, es determinante guardar la quinua a una
+
+humedad de grano no mayor al 12% y a una humedad relativa baja, en
+
+almacenes limpios, y adecuadamente ventilados. Se debe almacenar en
+
+lugares frescos, secos y en envases apropiados, de presencia silos metálicos
+
+que evitarán la presencia de roedores y polillas, en ningún caso usar envases
+
+de plástico o polipropileno; puestos que ellos facilitan la conservación de
+
+humedad, dando olores inadecuados al producto.
+
+Mercado
+
+      El mercado de la quinua está creciendo rápido, tanto nacional como
+
+internacionalmente. En los EEUU la quinua está incluida en menús de
+
+restaurantes famosos, hay una constante demanda de grandes cantidades de
+
+quinua, de color blanca y roja. Uno de los mayores problemas detectados es la
+
+inconstancia e impredisibilidad de la oferta de quinua por parte de los
+
+productores, que dificulta la concertación de contratos y flujos constantes de los
+
+tipos de quinuas requeridas por mercados internacionales.
+
+      Actualmente se reconoce la importancia nutricional de la quinua y chefs
+
+alrededor del mundo recomiendan su consumo para niños y adultos. Aun
+
+cuando se cuenta con problemas de abastecimiento la quinua se encuentra
+
+cada vez más en tiendas en Europa y Estados Unidos, en mayor grado
+
+importado de Bolivia. El consumidor más grande es Francia, donde los
+
+supermercados están buscando productos como barras energéticas en
+
+
+                                                                               35
+grandes cantidades. En Lima hay una demanda insatisfecha que es más alta
+
+que la producción total de la quinua del país, las presentaciones más comunes
+
+en los supermercados son la quinua perlada, quinua pop o en mezclas con
+
+avena. La producción total de la quinua del Perú se ha incrementado durante
+
+los últimos diez años en un 50%, de 20000 a 30000 t por año, de los cuales
+
+27000 t está es consumida directamente por los agricultores (seguridad
+
+alimentaria) y el resto destinado al mercado. Es importante mantener la
+
+cantidad de la quinua usada como alimento a los agricultores y a la población
+
+urbana del Peru. El monto pequeño de los 3000 t ofrecido al mercado
+
+anualmente debería ser incrementado significativamente
+
+La Función de Producción.
+
+La función de Producción muestra la relación existentes entre los insumos o
+
+factores y el producto total, x, dado un nivel determinado de tecnología, lo que
+
+se denota frecuentemente como,
+
+                             X = f(F1, F2, F3, ... , Fn)
+
+      Donde F1, F2, F3,..., Fn son los distintos factores e insumos.
+
+
+
+Las funciones de producción homogéneas corresponden a un tipo especial de
+
+función de producción según las cuales incrementos proporcionales en los
+
+insumos llevan a mayores, menores o iguales incrementos en la producción.
+
+Esto permite distinguir” grados“de funciones de producción homogéneas. Si por
+
+ejemplo, al aumentar el uso de todos y cada uno de los factores en 10%, el
+
+producto aumenta en menos de 10%, entonces se dice que la función es
+
+homogénea de grado menor a 1. En cambio, si el aumento en el uso de
+
+factores en un 10% da lugar a que la producción se incremente en más del
+
+
+                                                                             36
+10%, entonces la función de producción será homogénea de grado mayor a 1.
+
+Finalmente si el aumento de la producción también fuera el 10%, entonces la
+
+función sería de grado 1º “linealmente homogénea” El término retorno o
+
+rendimientos a escala” se refiere precisamente a esta distinción entre los
+
+distintos grados de funciones de producción. Se dice que los retornos o
+
+rendimientos a escala son crecientes, cuando la función de producción es de
+
+grado mayor a 1; los retornos a escala serán decrecientes si la función es de
+
+grado menor a 1; los retornos o rendimientos a escala serán constantes si la
+
+función es de grado 1. Debe resaltarse el término “a escala”, debido a que los
+
+insumos aumentan en la misma proporción por ende, “a escala” a diferencia del
+
+caso en que solo uno de los insumos o factores aumenta y se mantiene el resto
+
+de los factores constantes o cuando uno de los insumos aumente
+
+proporcionalmente más que los demás. En otras palabras, han de distinguirse
+
+rendimientos constantes de rendimientos a escala constantes.
+
+      Si se formaliza lo anterior, puede decirse que una función de producción
+
+es homogénea si un cambio proporcional t en su uso lleva a un cambio t n en la
+
+cantidad producida, es decir que, f(t F1,t F2,t F3, ... , t Fn) = tnX ;donde n es el
+
+grado de la función de producción homogénea. Al igual que al analizar el
+
+comportamiento de consumidor se habló, para simplificar, de dos bienes ( lo
+
+que facilitaba la construcción de los gráficos relevantes), de puede aquí hablar
+
+de dos factores de producción importantes: trabajo y capital, o L y K en la
+
+nomenclatura tradicional; por el momento, basta decir que el trabajo se refiere
+
+al uso de servicios de mano de obra, mientras el capital se refiere a los activos
+
+físicos “tangibles” requeridos en la producción (máquinas, edificios, equipos,
+
+etc.) y que pueden ser tanto alquilados como vendidos (Nótese , de paso, que
+
+
+                                                                                 37
+la ausencia de esclavitud, se alquilan servicios de mano de obra y no se
+
+compran). L puede medirse en horas-hombre mientras que K en horas-
+
+máquina. Si cada máquina y cada hombre trabajan una hora, entonces L es
+
+directamente el número de hombres y K es directamente el número de
+
+máquinas. Puede verse, en este contexto, que es necesario separar el stock de
+
+capital del flujo de servicios al que da lugar el capital.
+
+       Para cualquier artículo es una ecuación, tabla o gráfica que muestra la
+
+cantidad (máxima) de ese artículo que se puede producir por unidad de tiempo
+
+por cada una de una serie de insumos alternos, cuando se usan las mejores
+
+técnicas de producción disponibles.
+
+       Una curva sencilla de producción agrícola se obtiene usando diversas
+
+cantidades alternas de trabajo por unidad de tiempo para cultivar una
+
+determinada extensión de tierra, y registrando las correspondientes cantidades
+
+del producto. (Los casos como este, en que por lo menos uno de los factores o
+
+insumos de la producción es fijo, los denominamos de corto plazo) El producto
+
+promedio del trabajo (PPT) se define entonces como el producto total (PT)
+
+dividido por el número de unidades del trabajo que se empleen. El producto
+
+marginal del trabajo (PMT) lo da el cambio en PT por unidad de cambio de la
+
+cantidad de trabajo empleado.
+
+
+
+Ecotipos en la quinua.
+
+       Entre los ecotipos de quinua que crecen en el Altiplano boliviano, están
+
+los denominados noventones o precoces, estos ecotipos incluyen a las
+
+variedades reales claramente identificadas como la Mañiqueña, Cariquimeña, y
+
+las coloridas Canchis o Qanchis rojas, amarillas, anaranjadas (pirita o perita) y
+
+
+                                                                              38
+blancas. Muchas veces los productores denominan genéricamente como
+
+noventonas a las variedades precoces pudiendo darse este denominativo a
+
+diferentes     variedades.     Estos   ecotipos tienen   un   ciclo    fenológico   de
+
+aproximadamente de 130 a 160 días dependiendo la fecha de siembra, días a
+
+la emergencia y lugar de producción.
+
+          Se recomienda la siembra de estas variedades en los meses de
+
+Noviembre a Diciembre, para de esta manera planificar su cosecha en Marzo y
+
+Abril junto o anticipadamente a la cosecha de las variedades de ciclo regular y
+
+tardío.
+
+          Los tamaños del grano varía dependiendo de la variedad, así el grano de
+
+las variedades reales supera los 2,2 mm en cambio el diámetro de accesiones
+
+del altiplano central está entre los 1,86 mm diámetro.
+
+          Sin embargo la precocidad no depende solamente del genotipo de la
+
+variedad; sino también lo factores ambientales pueden inducir o retrasar el ciclo
+
+fenológico en algunas variedades más que en otras, por ejemplo algunos
+
+ecotipos de la variedad Real Phisankalla suele madurar precozmente en el
+
+Altiplano central, pese a que el ciclo normal de desarrollo de esta variedad en
+
+el Altiplano Sur es tardío.
+
+          Por supuesto no podemos dejar de mencionar al cultivar precoz Aynoq’a
+
+de grano grande con poco contenido de saponina pero susceptible al Mildiu;
+
+por ello se recomienda su cultivo en el Altiplano Central de Oruro y La Paz.
+
+
+          La   variedad   de    producción   orgánica    de   quinua    en   Cabana,
+
+principalmente se incide en la pasancalla, cancolla e INIA salcedo, los cuales
+
+contienen más proteínas que ningún otro grano 16.2 % comparado con un 7.5
+
+
+
+                                                                                    39
+% del arroz, y con un 14 % del trigo. Su proteína es de alta calidad, contiene
+
+aminoácidos similares a la leche.
+
+
+
+
+2.4. HIPÓTESIS DE LA INVESTIGACIÓN
+
+
+2.4.1. HIPÓTESIS GENERAL
+
+Deficiente identificación y cuantificación de los determinantes de   adopción
+
+orgánica influye de manera negativa en la producción de quinua en el distrito
+
+de Cabana campaña 2010-2013.
+
+
+
+                                                                           40
+2.4.2. HIPÓTESIS ESPECÍFICAS
+
+El comportamiento de cada una de las variables que afectan la producción de
+
+quinua orgánica es heterogéneo para variables ambientales, sociales y
+
+económicas.
+
+
+
+Las variables ambientales y económicas afectan de manera positiva y variables
+
+sociales afectan de manera negativa en la adopción de producción de quinua
+
+orgánica durante la campaña 2010-2013.
+
+
+
+Los efectos marginales de variables ambientales y económicas son mayores a
+
+uno y efectos marginales de variables sociales son menores a uno en la
+
+adopción de producción de quinua orgánica durante la campaña 2010-2013.
+
+
+
+
+                                                                          41
+           CAPÍTULO III: METODOLOGÍA DE LA INVESTIGACIÓN
+
+3.1.1. MATERIALES
+
+La información estadística y teorías relacionadas al presente trabajo de
+
+investigación han sido acopiadas de las diferentes instituciones que disponen
+
+de la información requerida. Entre los cuales podemos citar:
+
+*      Instituto Nacional de Investigación Agraria (INIA).
+
+*      Investigaciones en Productos Andinos (PROINPA).
+
+*      Instituto de Investigaciones de la Amazonia Peruana (IIAP)
+
+*      Proyecto Quinua CIP-DANIDA-UNA.
+
+*      Revista de Fomento agrario y desarrollo sostenido
+
+*      Proyecto Quinua-Puno.
+
+3.1.2. MÉTODO
+
+a) ANALÍTICO: el método científico para abordar el análisis es el hipotético
+
+deductivo, consiste en un procedimiento que parte de una aseveración en
+
+calidad de hipótesis y busca refutar o falsear tales hipótesis, deduciendo de
+
+ellos conclusiones que deben confrontarse con los hechos (Bernal, 2006, Pag.
+
+56).
+
+b)     DEDUCTIVO:      se    aplicara   en    la   simplificación   del   modelo
+
+sobreparametrizado hasta obtener una especificación robusta y parsimoniosa
+
+del proceso generador de datos (PGD), especificados.
+
+3.1.3. POBLACIÓN EN ESTUDIO
+
+       La población está conformada por los productores que se dedican al
+
+cultivo de la quinua en el distrito de Cabana, individual y asociado de habla
+
+
+
+
+                                                                              42
+quechua y castellano de nivel socioeconómico bajo y que tienen como la
+
+principal actividad la agricultura y ganadera.
+
+3.1.4. DISEÑO MUESTRAL ESTRATIFICADO
+
+      El universo está conformado por la totalidad de socios activos de la
+
+Asociación Central      de Productores Multisectoriales (ASCENPROMUL), el
+
+número de socios activos al año 2012, es de 278 socios activos distribuidos en
+
+ocho sectores, que para efectos de la presente investigación constituyen
+
+estratos. Es importante recalcar que los socios muestran características
+
+similares, lo cual lo califica como probable encuestado de la totalidad de socios.
+
+ CUADRO Nº 2 SOCIOS DE LOS SECTORES ASOCIADAS ACENPROMUL
+
+
+                        SECTORES           SOCIOS ACTIVOS
+
+                    Collana                        49
+                    Vizallani                      41
+                    Yapuscachi                     35
+                    Cieneguillas                   25
+                    Corcoroni                      10
+                    Huancarani                     45
+                    Mayco                          30
+                    Collana – san isidro           43
+                          TOTAL                   278
+
+                      FUENTE: ASCENPROMUL – 2010
+
+
+
+La selección muestral está dada mediante la técnica de muestreo probabilístico
+
+estratificado, para lo cual los estratos estarán conformados por los sectores
+
+asociados. Siguiendo el desarrollo propuesto por Hernández (1999) se plantea
+
+que el error estándar sea no mayor de 0,025 y con una probabilidad de
+
+ocurrencia del 50%.
+
+                                 S2
+                            n' 
+                                 N2
+
+                                                                               43
+                   p(1  p)   0.5(1  0.5)
+        nP               2
+                                           435
+                  (0.025)      0.000625
+
+
+
+Muestra optima:
+
+                     n'      435
+        n                         180
+                       n'      435
+                  1        1
+                     278       278
+
+Entonces 180 es el tamaño de la muestra. Por lo tanto se distribuye en todos
+
+los sectores productores de quinua las 180 encuestas.
+
+
+
+Estratificación de la muestra:
+
+
+
+        n              164
+ fh       ksh  fh       0.58992806
+        N              278
+
+
+
+
+            CUADRO Nº 3 ESTRATIFICACIÓN DE LA MUESTRA
+
+ Nº               SECTORES           SOCIOS             fh          nh
+                                     ACTIVOS
+  1   Collana                          49         0.58992806        38
+
+  2   Vizallani                          41       0.58992806        27
+
+  3   Yapuscachi                         35       0.58992806        25
+
+  4   Cieneguillas                       25       0.58992806        15
+
+  5   Corcoroni                          10       0.58992806         6
+                                                                         44
+ 6     Huancarani                                        45             0.58992806             27
+
+ 7     Mayco                                             30             0.58992806             18
+
+ 8     Collana- San Isidro                               43             0.58992806             25
+
+                   TOTAL                                278                                   180
+
+
+3.1.5. VARIABLES DE ESTIMACIÓN
+
+Variables                         Indicador
+
+Variable dependiente
+
+X19, la probabilidad del          valores de 1 = si cumple con las condiciones de adopción y
+
+productor de quinua de adoptar    0 = no cumple
+
+tecnología orgánica
+
+
+
+Variable Independiente
+
+Edad (X1)                         Variable continua que representa la edad del productor de quinua.
+
+Experiencia (X2)                  Variable continua que representa los años como productor de quinua.
+
+                                  Variable binaria que representa el sexo del productor, si es hombre (1) y (0)
+Sexo (X3)
+                                  si es mujer.
+
+                                  Variable discreta categórica ordenada que representa el nivel de educación
+Educación (X4)
+                                  del productor de quinua.
+
+Participación en organizaciones   Variable discreta categórica ordenada que representa el grado de
+
+(X5)                              participación en organizaciones o programas.
+
+                                  Variable continua que representa el ingreso anual del productor de quinua
+Ingreso anual (X6)
+                                  en nuevos soles.
+
+                                  Variable continua que representa el área estimada de la chacra (Predio) del
+Área del terreno (X7)
+                                  productor de quinua.
+
+                                  Variable binaria que representa el tipo de tenencia de la chacra, si es
+Tenencia del terreno (X8)
+                                  propietario (1) y (0) si no lo es.
+
+                                  Variable binaria que representa la obtención de otras fuentes de ingreso,
+Otros Ingresos adicionales (X9)
+                                  (1) si obtiene y (0) si no obtiene.
+
+                                  Variable binaria que representa el tipo de mano de obra, (1) si es
+Mano de obra contratada (X10)
+                                  contratado y (0) si no lo es.
+
+
+                                                                                                       45
+                                   Variable binaria que representa el tipo de mano de obra, (1) si es familiar y
+ Mano de obra familiar (X11)
+                                   (0) si no lo es.
+
+                                   Variable discreta categórica no ordenada que representa las fuentes de
+ Financiamiento (X12)
+                                   financiamiento del productor de quinua.
+
+ Costo de producción anual         Variable continua que representa el costo promedio de producción anual
+
+ (X13)                             del productor de quinua en nuevos soles.
+
+                                   Variable binaria que representa la implementación de medidas contra la
+ Medida ambiental (X14)
+                                   contaminación, (1) si ha tomado alguna medida y (0) si no.
+
+                                   Variable binaria que representa la clasificación de residuos sólidos, (1) si
+ Residuos sólidos (X15)
+                                   clasifica y (0) si no clasifica.
+
+                                   Variable binaria que representa el conocimiento de los agroquímicos, (1) si
+ Agroquímicos (X16)
+                                   considera que son nocivos para la salud y (0) si no considera.
+
+                                   Variable binaria que representa la erosión del suelo, (1) si tiene problemas
+ Erosión del suelo (X17)
+                                   de erosión del suelo y (0) si no tiene.
+
+                                   Variable binaria que representa el nivel de conocimiento del productor de
+
+ Conocimiento (X18)                quinua sobre la producción orgánica, (1) si conoce en que consiste la
+
+                                   agricultura orgánica y (0) si no conoce.
+
+                                   Variable binaria que representa la motivación para la producción orgánica,
+ Motivación económica (X20)
+                                   (1) si la motivación es económica y (0) no económica.
+
+ Motivación ecológica              X21: Variable binaria que representa la motivación para la producción
+
+ (X21)                             orgánica, (1) si la motivación es ecológica y (0) en otro caso.
+
+                                   X22: Variable binaria que representa la motivación para la producción
+ Presión institucional (X22)
+                                   orgánica, (1) si la motivación fue por presión institucional y (0) en otro caso.
+
+                                   X23: Variable binaria que representa la motivación para la producción
+
+ Expectativas de apoyo (X23)       orgánica, (1) si la motivación fue por expectativas de apoyo y (0) en otro
+
+                                   caso.
+
+
+
+
+3.2. EL MODELO PROBIT.
+
+Si se elige como función F,                la función de distribución  de una variable
+
+normal (0, 1), se tiene:
+
+                                                        
+         Pi  EYi xi   PYi  1 xi   P I i*  I i   xi'  
+
+                                                                                                          46
+De modo que: xi'    1 Pi 
+
+La probabilidad correspondiente a un vector xi es ahora:
+
+                       1        xi' 
+               Pi                     e t 2 dt
+                                           2
+
+
+                      2    
+
+
+
+Que es una función creciente del valor numérico del indicador I i  xi'  .
+
+3.2.1. Estimación de mínimos cuadrados con observaciones repetidas.
+
+El modelo original relaciona las frecuencias observadas                                   pi   con las
+
+probabilidades teóricas Pi por medio de:
+
+               pi  Pi  ui por lo que  1  pi    1 Pi  ui 
+
+3.2.2. Aproximación lineal al modelo Probit:
+
+El desarrollo en serie de Taylor de la función  1  pi  o  1 Pi  ui  al rededor
+
+del punto Pi (probabilidad poblacional, desconocida) es:
+
+                                                           d 1 Pi 
+                        1  pi    1 Pi                        ui
+                                                             dPi
+
+Donde hemos ignorado los términos de orden superior a 2. Ahora bien, como
+
+la función de distribución  :                       0, 1 tiene una función inversa  -1 : 0, 1 
+
+bien definida, con  1 Pi   xi'  , el teorema de la función inversa garantiza que:
+
+                           d 1 Pi        1
+                                       
+                             dPi                     
+                                         '  1 Pi        
+Donde ' denota la derivada de  , lo que sugiere una regla del tipo: “La
+
+derivada de la función inversa es el inverso de la derivada de la función
+
+original”, excepto por el hecho de que el dominio de una función es el rango de
+
+la otra. Por eso es que en la expresión anterior, mientras el argumento de la
+
+
+
+
+                                                                                                     47
+derivada d 1 dPi es Pi , con valores en 0, 1 , el argumento de la derivada '
+
+es  1 Pi , con valores en todo            .
+
+                  d 1 Pi       1          1
+                                         
+Por consiguiente:
+                    dPi                 
+                                f  Pi 
+                                   1
+                                            f xi'         
+Donde f denota la función de densidad de la Normal (0, 1) y se tiene
+
+finalmente:
+
+                           1  pi    1 Pi  
+                                                         1
+                                                         
+                                                       f xi' 
+                                                               ui
+
+
+Y por tanto:  1  pi  ~
+                                       1
+                          xi'  
+                                         
+                                     f xi' 
+                                             ui
+
+
+El modelo probit puede estimarse de modo aproximado, por una regresión de
+
+los llamados “probits” muestrales  1  pi               sobre el vector   xi se trata de calcular
+
+las frecuencias muestrales p i , obtener los valores  1  pi                a partir de las tablas
+de distribución normal estandarizada N(0,1) y estimar la regresión descrita.
+
+Ahora bien los residuos tienen heteroscedasticidad, puesto que:
+
+                        ui         P 1  Pi 
+                  Var           i
+                           
+                            '
+                                           
+                        f xi   ni f xi 
+                                           '    2
+                                                                (2)
+
+Por lo que habría que utilizar mínimos cuadrados generalizados.
+
+                   X '  1 X  X '  1
+                                   1
+
+
+
+
+Con una matriz  diagonal, con elementos genéricos dados por (2), donde 
+
+es el vector de probits muestrales. Como la matriz  es desconocida, hay que
+
+estimarla, para lo que se puede utilizar: a) las frecuencias observadas p i , o
+
+bien b) las predicciones P̂i , obtenidas a partir de un modelo de probabilidad
+
+lineal previamente estimado.
+
+
+
+                                                                                                  48
+3.2.3.   Estimación                  de           máxima        verosimilitud     para   observaciones
+
+individuales.
+
+El procedimiento de estimación por máxima verosimilitud es preciso cuando no
+
+es posible agrupar las observaciones según los valores del vector xi .                             En
+
+dichos casos, la estimación por máxima verosimilitud evita los problemas ya
+
+citados acerca de la estimación Mínimos Cuadrados Generalizados del modelo
+
+de probabilidad lineal. Por otra parte, el estimador de máxima verosimilitud es
+
+eficiente, y se calcula sobre el modelo original, sin necesidad de ninguna
+
+aproximación.
+
+En el caso del modelo probit, la función de verosimilitud es:
+
+                                 1  x  
+                       N
+                                                             1Yi
+                L    xi' 
+                                             Yi        '
+                                                       i
+                       i 1
+
+
+Nótese que para cada individuo i el término correspondiente en la función de
+
+verosimilitud es simplemente xi'   o 1  xi'   , dependiendo de que Yi  1 o
+
+Yi  0 . Por tanto, la función logaritmo neperiano de la verosimilitud es:
+
+
+                                                                         
+                              N                        N
+              ln L   Yi ln  xi'    1  Yi  ln 1   xi' 
+                              i 1                    i 1
+
+
+Y tomando derivadas con respecto al vector  se tienen las k condiciones
+
+necesarias de optimalidad:
+
+                N
+                               
+                        f xi'        N
+                                                    f xi'        
+              Yi
+                i 1           
+                         xi' 
+                                xi  
+                                     i 1
+                                           1  Yi i
+                                                    1   xi' 
+                                                                xi  0k
+                                                                      
+
+             O S    
+                                     N
+                                                     
+                                              Yi   xi' 
+                                                                f xi'  xi  0
+                                     i 1        
+                                             xi'  1   xi'                             (3)
+
+Donde S   denota el vector gradiente de la función de verosimilitud.                             Si
+
+derivamos de nuevo la expresión (3) con respecto al vector  , se obtiene la
+
+
+
+                                                                                                    49
+matriz hessiana, y tomando esperanza en ésta y cambiando de signo se
+
+obtiene finalmente la matriz de información, I   :
+
+
+                     I    
+                               N
+                                     f x   x x  '        2
+
+
+                                x  1  x  
+                                                     i                       '
+                                             '                    '      i   i
+                               i 1          i                    i
+
+
+Conviene hacer hincapié en que en las expresiones anteriores N denota el
+
+número total de observaciones, por lo que, prescindiendo de clasificaciones,
+
+hay que considerar un sumando para cada observación muestral. La inversa
+
+de la matriz de información será además la matriz de covarianzas del estimador
+
+de máxima verosimilitud del vector  . El procedimiento de estimación por
+
+máxima verosimilitud utilizaría las expresiones anteriores del modo indicado, es
+
+decir:
+
+                     ˆn  ˆn1  I ˆn1    S ˆ 
+                                                     1
+                                                                  n 1
+
+
+Que proporciona la corrección que hay que introducir en el estimador del vector
+
+ en cada iteración.         Al sustituir las expresiones                        de I   y S   antes
+
+obtenidas puede verse fácilmente que si se hace el cambio de variables:
+
+
+                     x 
+                      *
+                                         , donde j = 1, 2,…, k
+                                       xij f xi' 
+                              x  1  x  
+                      ij
+                                       '                  '
+                                       i                  i
+
+
+
+Que forma, para cada observación i, un vector de dimensión k, e:
+
+
+
+
+                     yi* 
+                                         
+                                      yi   xi' 
+                              x  1  x  
+                                       '
+                                       i
+                                                          '
+                                                          i
+
+
+
+Entonces la corrección a introducir en el estimador ˆ n 1 coincide con los
+
+coeficientes estimados por mínimos cuadrados ordinarios en una regresión que
+
+
+
+
+                                                                                                      50
+utilizase   y i* como variable a explicar, y                            xij* como vector de variables
+
+explicativas, utilizando los ˆ n 1 para calcular xij* e y i* .
+
+3.3. EL MODELO LOGIT.
+
+Este modelo surge cuando, para representar la probabilidad de que un
+
+individuo escoja la opción Yi  1 , se utiliza la función de distribución logística:
+
+                            ez
+                F z           , donde    z  
+                           1 ez
+
+Que tiene como función de densidad:
+
+                f z                   F z 1  F z  , donde    z  
+                              1
+                           1  e 
+                                  z 2
+
+
+
+
+Y como inversa:
+
+                           F 1 w  ln
+                                             w
+                                            1 w                                                (4)
+
+                             ez                       
+                                                      
+Puesto que: F F z   ln  1  e z                    ln e z  z
+                                    z
+             1
+                                 e                    
+                            1                        
+                             1 ez                    
+
+                                                                                   e xi 
+                                                                                      '
+
+
+Bajo este supuesto tenemos: Pi  PYi  1  F x                    '
+                                                                        i
+                                                                                 1  e xi 
+                                                                                            '
+
+                                                                                                (5)
+
+                                          e xi 
+                                             '
+
+
+ De modo que: pi  Pi  ui                             ui
+                                        1  e xi 
+                                                   '
+
+
+
+
+3.3.1. Aproximación lineal al modelo logit:
+
+Podemos aproximar el valor de la inversa de la función logística en el punto
+
+pi  Pi  ui alrededor del punto Pi .
+
+                                                                dF 1 Pi 
+                F 1  pi   F 1 Pi  ui   F 1 Pi                  ui
+                                                                  dPi
+
+
+
+
+                                                                                                      51
+                  pi           Pi  ui           P         1
+Es decir: ln            ln                 ln i                 ui
+                1  pi      1  Pi  ui      1  Pi Pi 1  Pi 
+
+Donde hemos sustituido la derivada de F 1 Pi  por el inverso de la derivada de
+
+F, evaluada en F 1 Pi  , es decir:
+
+                  dF 1 Pi       1           1
+                                        
+                    dPi                    
+                                f F Pi  Pi 1  Pi 
+                                   1
+
+
+
+
+Utilizando la propiedad de que, en la distribución logit: f z   F z 1  F z 
+
+3.3.2. Estimación por máxima verosimilitud con observaciones repetidas.
+
+Utilizando la expresión de la aproximación lineal de la serie de Taylor:
+
+               pi           Pi  ui           P         ui                     ui
+        ln           ln                 ln i                  xi'  
+             1  pi      1  Pi  ui      1  Pi Pi 1  Pi            Pi 1  Pi     (6)
+
+Donde hemos utilizado (5)
+
+La expresión (6) sugiere que en el caso de disponer de observaciones
+
+repetidas, es decir, de grupos de observaciones con iguales valores del vector
+
+de características x i , podrían calcularse las frecuencias muestrales p i y
+
+estimar la regresión anterior. Es claro que, en un intento de ganar eficiencia,
+
+debería utilizarse el estimador MCG, con una matriz  diagonal cuyo elemento
+
+genérico sea igual a:
+
+                                ui                   1
+                          Var                
+                                Pi 1  Pi   ni Pi 1  Pi 
+
+                                                                  Pi 1  Pi 
+Ya que, como vimos con anterioridad Var u i                                 .   Al desconocer el
+                                                                      ni
+
+valor de los parámetros Pi habría que obtenerlos de una estimación previa por
+
+MCO, o de la estimación de un modelo de probabilidad lineal.
+
+
+
+
+                                                                                                52
+3.3.3.       Estimación                            de    máxima                verosimilitud          con   observaciones
+
+individuales.
+
+La función de verosimilitud muestral es:
+
+                                                           N          
+                                                       exp  Yi xi'                          
+                                              
+                         L   F xi'   1  F xi'   N  i1       
+                                                                       
+                             Yi 1     Yi 0
+                                                       1  exp xi 
+                                                                     '
+                                                                                               
+                                                                                   Yi 1
+
+
+
+O, lo que es lo mismo:
+
+                                                  N        
+                                                                                                       
+                 N            N                                   N
+         ln L   Yi xi'    ln 1  exp xi'    Yi xi'    ln 1  exp xi' 
+                i 1         i 1                 i 1         i 1
+
+
+                                              N
+Y denotando por z '   Yi xi' un vector fila de 1xk se tiene:
+                                            i 1
+
+
+
+                              e xi  xi
+                                                   '
+              ln L      N
+Y S              z                   0k
+                      i 1 1  e
+                                     xi' 
+
+
+
+Y este sistema de k ecuaciones no lineales debería, en principio, resolverse por
+
+procedimientos numéricos, para obtener el vector de estimadores  . La matriz
+
+de información es:
+
+                e xi  xi xi'
+                   '
+         N                                N
+I                                 xi Pi 1  Pi xi'
+         i 1   1  e  xi' 
+                                 2
+                                          i 1
+
+
+
+Para estimar el valor  por el algoritmo del “scoring” se comienza de un
+
+estimador  0 y se actualiza por medio de:
+
+                                          1  0   I ( 0 ) S (0 )
+                                                                       1
+
+
+
+
+En realidad, la matriz S (  ) puede escribirse también:
+
+                                          N             N                      N
+                                                                  xi
+                         S     Yi xi                                   Yi  Pi xi
+                                                               1  e xi 
+                                                                       '
+                                          i 1          i 1                  i 1
+
+
+                   N
+                                 1
+Donde Pi                                 , por lo que el algoritmo puede describirse como sigue:
+                         1  e  xi 
+                                      '
+                  i 1
+
+
+                                                                                                                       53
+                                                            
+A partir de un estimador inicial ˆ 0 , calcular Pˆi 1  Pˆi .        
+Transformar las variables:
+
+
+                        xi*  xi              
+                                    Pˆi 1  Pˆi e Yi* 
+                                                          Yˆ  Pˆ 
+                                                            i     i
+
+                                                           Pˆ 1  Pˆ 
+                                                            i         i
+
+
+
+Y el cambio a introducir en el vector ˆ 0 viene dado por los coeficientes
+
+estimador por mínimos cuadrados ordinarios de Yi* sobre el vector xi* .
+
+El algoritmo se itera hasta conseguir su convergencia, y se utiliza la inversa de
+
+la matriz de información evaluada en el último estimador obtenido, como
+
+estimación de la matriz de covarianzas de  .                             El estimador de máxima
+
+verosimilitud     encontrado         tiene         distribución       normal   asintótica.   Las
+
+probabilidades de que un individuo con características xi escoja la acción que
+
+hemos catalogado como Yi  1 se estiman mediante la expresión:
+
+
+                                            e xi 
+                                               '
+
+
+                                   Pi 
+                                          1  e xi 
+                                                     '
+
+
+
+
+3.4. INFERENCIA EN MODELOS DE ELECCIÓN DISCRETA
+
+3.4.1. INTERPRETACIÓN DE LOS COEFICIENTES ESTIMADOS
+
+Al interpretar las estimaciones de los coeficientes del modelo, hay que tener en
+
+cuenta que en los modelos probit y logit los coeficientes estimados miden la
+
+relación existente entre I i 1 y las variables xij , es decir, que indican el efecto
+
+que las variables xij tienen sobre F 1 Pi  . A diferencia del modelo lineal de
+
+probabilidad lineal, la influencia que las variables explicativas tienen sobre la
+
+probabilidad de escoger la opción Yi  1 no son simplemente los valores de los
+
+
+
+1
+Prob(Y=1)
+                                                                                              54
+coeficientes estimados, sino que dependen también de los valores de las
+
+variables explicativas.
+
+En cualquier modelo, dicha influencia viene indicada por la derivada parcial de
+
+la variable endógena con respecto a las variables exógenas que, dependiendo
+
+de las de las especificaciones, son las siguientes:
+
+                                           Pi  Y
+En el modelo de probabilidad lineal:            i   k independientemente del
+                                           xik xik
+
+valor del vector de características x i . Como vamos a ver seguidamente, lo
+
+contrario ocurre en los modelos probit y logit.
+
+                       Pi  Y
+En el modelo probit:
+                       xik xik
+                                          
+                            i  f xi'   k donde f es la función de densidad
+
+
+de una variable N(0,1), que tiene una distribución normal estándar con media
+
+cero y varianza igual a uno pero no logística.             Como consecuencia, los
+
+coeficientes entre valores estimados de dos parámetros ˆ j ˆk             mide la
+
+importancia relativa de los efectos que las variables x j y xk tienen sobre la
+
+probabilidad de escoger la alternativa Yi  1 . Debido a esta propiedad, si bien
+
+los coeficientes de un modelo probit no son directamente interpretables, sus
+
+valores relativos si lo son.
+
+
+En el modelo logit:
+                          Pi Yi
+                                 
+                                            
+                                     exp xi' 
+                                                       k , por lo que, de nuevo, el
+                                            
+                          xk xk 1  exp xi'    2
+
+
+
+
+comentario anterior acerca de los valores relativos de los parámetros estimador
+
+ˆ j y ˆk es también válido en este modelo.
+
+Hay que tener presente que al representar estos modelos únicamente
+
+comparaciones bivariantes entre pares de alternativas, entonces las variables
+
+
+
+                                                                                 55
+socioeconómicas que toman el mismo valor para las distintas alternativas
+
+pierden todo poder explicativo.
+
+Si los coeficientes estimados en los modelos probit y logit no admiten una
+
+interpretación inmediata, mucho menos son comparables entre si o con las
+
+estimaciones de los coeficientes que se obtienen en el modelo de probabilidad
+
+lineal. Amemiya (1981) sugirió efectuar las siguientes transformaciones para
+
+llevar a cabo comparaciones entre las distintas estimaciones:
+
+ˆ MPL  0.25ˆ LOGIT y para el intercepto ˆ0 MPL  0.25ˆ0 LOGIT  0.50
+
+
+                ˆ PROBIT o ˆ LOGIT 0.625  ˆ PROBIT
+           3
+ˆ LOGIT
+           
+
+3.4.2. INFERENCIA
+
+La validez sobre los resultados del modelo estimado es de vital importancia
+
+para estudios empíricos, sin ellos no es posible recomendar la aplicación de
+
+estos. Asimismo, es conveniente evaluar los estimadores encontrados. Las
+
+siguientes pruebas son recomendables respecto a la inferencia:
+
+3.4.3. PRUEBAS DE DEPENDENCIA: Estas pruebas se efectúan a los
+
+modelos estimados, para ver el nivel de confianza con respecto a la
+
+especificación del modelo. Para ello, se utilizan los test asintóticos como son:
+
+a) Prueba de Wald, b) Razón de verosimilitud, c) Multiplicador de la grange.
+
+Estas pruebas garantizan la significancia estadística de las variables
+
+explicativas.
+
+3.4.4. PRUEBAS DE RELEVANCIA: Estas pruebas se realizan sobre los
+
+coeficientes estimados, de manera que puedan encontrarse suficiente
+
+evidencia estadística sobre la validez de las hipótesis, de su significancia.
+
+3.4.5. LA BONDAD DE AJUSTE DEL MODELO
+
+
+                                                                                56
+Al no ser lineales, para los modelo probit y logit, no deben utilizarse los
+
+estadísticos usados para modelos lineales, para juzgar la bondad de ajuste del
+
+modelo. Para llevar a cabo dicha evaluación se utilizan los siguientes criterios:
+
+                     ln L1
+R 2 McFadden  1 
+                     ln L0
+
+Representaciones de modelo lineal y no lineal, para datos agrupados.
+
+     CUADRO Nº 4 RESUMEN DE LOS MODELOS ECONOMÉTRICOS
+
+                                                Variable
+     Modelo            Probabilidad                              Varianza
+                                              dependiente
+                       p j  x          pj                 p j 1  p j 
+ Lineal
+                                                                 nj
+                       p j  exp x    Ln p j           p j 1  p j 
+ Log-Lineal
+                                                                 nj
+                       p j  x j      1  p j        p j 1  p j 
+                                                             n p j 
+ Probit o Normit                                                        2
+
+
+                       p j  x j        pj                     1
+                                         Ln            
+ Logit                                     1 p           n j p j 1  p j 
+                                                j      
+
+
+3.5. MODELO ECONÓMICO DE ADOPCIÓN DE PRODUCCIÓN ORGÁNICA
+
+         Siguiendo el esquema planteado por Tudela (2006), dado un nuevo
+
+escenario de producción orgánica, el objetivo del productor consiste en
+
+maximizar su beneficio, por lo tanto este decide adoptar una tecnología
+
+orgánica si los beneficios son mayores frente a la alternativa de no adoptar
+
+tecnología orgánica. El beneficio del productor se define como:
+
+              Prob (SI) = â0 + â1X1+ â2X2+…+ âNXN+ µt                            (1)
+
+La ecuación se estima por medio del método de máxima verosimilitud, a través
+
+del programa econométrico STATA 12. El modelo econométrico específico a
+
+estimar es el siguiente:
+
+Prob(X19=1)= â0 + â1 X1+ â2 X2+ â3 X3 + â4X4+ â5X5+ â6X6+ â7X7+ â8X8
+
+
+                                                                                       57
+                          (-)     (+)     (¿?)     (+)    (+)   (+)   (+)         (+)
+
+
++ â9X9+ â10X10+ â11X11+ â12X12+ â13X13+ â14X14+ â15X15+ â16X16 + â17X17
+
+  (+)    (¿?)       (¿?)        (+)     (-)      (+)     (+)    (+)         (-)
+
+
++ â18X18+ â20X20+ â21X21+ â22X22+ â23X23 + µt                                     (2)
+
+   (+)     (+)      (+)          (+)      (+)
+
+
+Los signos debajo de cada una de las variables en el modelo corresponden a
+
+los signos esperados para cada una de ellas. El signo de interrogación significa
+
+que para estas variables no se espera un efecto definido a priori.
+
+La variable dependiente Prob(X19=1) representa la probabilidad del productor
+
+de quinua de adoptar tecnología orgánica, toma valores de 0 ó 1 (1=si adopta,
+
+0=si no adopta). Las variables explicativas del modelo econométrico
+
+especificado en la ecuación (2) se obtendrán directamente de la encuesta. El
+
+detalle e identificación de las variables se presenta en el punto 3.5 variables de
+
+la investigación.
+
+
+
+
+                                                                                        58
+    CAPÍTULO IV: CARACTERIZACIÓN DEL AREA DE INVESTIGACIÓN
+
+4.1. AMBITO DE ESTUDIO
+
+       El presente estudio, se realizara en el ámbito del distrito de Cabana,
+
+considerando las zonas Productoras del recurso quinua. Comprende el ámbito
+
+jurisdiccional   de   las   comunidades   de   Collana,   Vizallani,   Yapuscachi,
+
+Cieneguillas, Corcoroni, Huancarani, Mayco y Collana- San Isidro, distrito de
+
+Cabana, Provincia      San Román de la Región de Puno. Sus pobladores se
+
+caracterizan principalmente por la agricultura, la ganadera y el comercio; en
+
+todo el distrito hay aproximadamente 4,465 agricultores distribuidos en los
+
+sectores que producen quinua con mayor intensidad.
+
+       Con ámbitos supracomunales, de modo que los derechos y deberes
+
+comunitarios de los productores son un tanto difusos, los suyos se estructuran
+
+
+                                                                                59
+sobre la complejidad jurisdiccional de los territorios comunales, sin que ello
+
+produzca tensión entre las diferentes comunidades colindantes.
+
+
+
+
+                 CAPÍTULO V: RESULTADOS Y DISCUSION
+
+5.1. BASE DE DATOS Y FUENTES DE INFORMACIÓN
+
+      La información (muestra) recolectada fue de corte transversal, las
+
+mismas que han sido tabulados a partir de la aplicación de encuestas a los
+
+productores de quinua organizados en la Asociación Central de Productores
+
+Multisectoriales (ASCENPROMUL)- Cabana. Se aplicaron un total de 180
+
+encuestas, que incluyen productores orgánicos y productores no adoptantes de
+
+producción orgánica, de los cuales 155 son productores adoptantes de
+
+producción orgánica y 25 son no adoptantes.
+
+5.2. ESTADÍSTICAS DESCRIPTIVAS
+
+      En el cuadro Nº 05 se hace una descripción de algunas de las variables
+
+que se utilizan para el análisis estadístico y la estimación econométrica, en esta
+
+
+                                                                               60
+tabla se incluye la denominación y abreviación de cada variable, la media,
+
+desviación estándar, el valor mínimo y máximo. Para un mayor análisis de los
+
+coeficientes de asimetría, curtosis, etc. Tal como se observa en el siguiente
+
+cuadro.
+
+        CUADRO Nº 5 RESUMEN DE ESTADÍSTICAS DESCRIPTIVAS
+
+ Variables                   Media      Desv. Est         V. Min      V. Max
+ Adoptantes y no adoptantes de tecnología orgánica
+ Edad (X1)                   47.88      13.81             17          79
+ Experiencia (X2)            26.45      15.07             2           60
+ Ingreso Anual (X6)          6,064.27   6452.95           528         68,040
+ Área del Terreno (X7)       1.42       1.04              0.14        5.89
+ Costo de Producción (X13)   671.11     472.82            20          2680
+ Adoptantes de tecnología orgánica
+ Edad (X1)                   47.82      13.88             17          79
+ Experiencia (X2)            26.15      15.17             2           60
+ Ingreso Anual (X6)          5,944.51   6,621.36          528         68,040
+ Área del Terreno (X7)       1.38       1.02              0.14        5.89
+ Costo de Producción (X13)   644.48     459.30            20          2,680
+ No adoptantes de tecnología orgánica
+ Edad (X1)                   44.64      13.94             21          69
+ Experiencia (X2)            26.07      15.14             4           50
+ Ingreso Anual (X6)          4,545.26   3,241.00          768         11,328
+ Área del Terreno (X7)       1,57       0.87              0.50        3.50
+ Costo de Producción (X13)   830.57     465.95            225         1,680
+Fuente: elaboración propia. Resultados de estimación
+
+De acuerdo al cuadro Nº 05, las variables continuas que merecen destacar son
+
+la edad promedio del productor el cual es de 48 años aproximadamente, la
+
+experiencia como productor que bordea los 26 años en promedio y el ingreso
+
+anual del productor de quinua que obtienen por la venta de la quinua orgánica y
+
+quinua convencional, el cual asciende a S/.6,064.27 nuevos soles en promedio,
+
+los ingresos de otras actividades económicas se establecen en un rango el cual
+
+ascienden de S/.75.00 - S/.130.00 nuevos soles mensuales, que en promedio
+
+representa un ingreso de S/100.00 nuevos soles, haciendo que el productor
+
+presente un ingreso total promedio S/. 7,064.27 nuevos soles. Por su parte, los
+
+costos anuales de producción en promedio ascienden a S/.671.11 nuevos
+
+                                                                            61
+soles, esta estructura de costos no tienen en cuenta la mano de obra del
+
+productor, solamente toma en cuenta los gastos de las siguientes actividades
+
+agrícolas: semillas, abonos y fertilizantes, compra de sacos u otros envases
+
+para conservar la quinua, transporte, almacenamiento, pago a jornaleros,
+
+asistencia técnica y otros gastos como alquiler de maquinaria. Suponiendo que
+
+la mano de obra del productor se contabiliza según la remuneración mínima
+
+vital que asciende a S/.650,00 nuevos soles, el costo total de producción anual
+
+asciende a S/.6.714,27 nuevos soles. En consecuencia, la relación beneficio
+
+costo equivale a S/.1,05 nuevos soles, es decir por cada nuevo sol invertido en
+
+la actividad agrícola de quinua, el productor recupera el nuevo sol y
+
+adicionalmente obtiene 0,05 céntimos de nuevo sol, reflejando de esta manera
+
+una rentabilidad positiva.
+
+      Así mismo, teniendo en cuenta los ingresos adicionales a la venta de la
+
+quinua y los costos de mano de obra del productor de quinua, podemos
+
+analizar la rentabilidad de los productores adoptantes de tecnología orgánica y
+
+de los productores no adoptantes, en consecuencia, para los productores
+
+adoptantes de tecnología orgánica se tiene un ingreso total anual de S/.
+
+7.092,66 nuevos soles anuales, los costos totales anuales suman S/.5.616,08
+
+nuevos soles, obteniéndose de esta manera una relación beneficio costo de
+
+S/.1,26 nuevos soles. Por su parte, los productores no adoptantes de
+
+tecnología orgánica obtienen ingresos anuales totales de S/.3.661,34 nuevos
+
+soles y los costos totales anuales de producción ascienden a S/.4.602,1 nuevos
+
+soles, resultando una relación beneficio costo de S/. 0,79 nuevos soles.
+
+      Claramente los niveles de rentabilidad son significativamente mayores
+
+en los productores adoptantes de tecnología orgánica. Otro aspecto a resaltar,
+
+
+                                                                            62
+es el área del terreno, el mismo que es de 1,42 hectáreas en promedio por
+
+productor, es decir, son mayoritariamente minifundistas.
+
+
+
+      El nivel educativo de los productores de quinua organizados en la
+
+Asociación   Central       de   Productores       Multisectoriales        (ASCENPROMUL)-
+
+Cabana, se ilustra en el gráfico Nº 01, el 1% de los productores no tiene nivel
+
+educativo, mientras que el 50% tienen nivel de educación primaria (completa e
+
+incompleta) y el 37% tiene nivel de educación secundaria (completa e
+
+incompleta), por su parte solo un 4% tienen nivel de educación superior
+
+(superior no universitaria completa e incompleta).
+
+ GRÁFICO Nº 1 NIVEL EDUCATIVO DE LOS PRODUCTORES DE QUINUA
+
+
+
+                                0% 4% 2%           6% 1%
+
+                       24%                                         29%
+
+                   13%
+                                                  21%
+
+
+
+
+               Sin Nivel             Primaria Incompleta   Primaria Completa
+               Secundaria Incompleta Secundaria Completa   Sup. No Univ. Incom.
+               Sup. No Univ. Comp    Sup. Univ. Incom      Sup. Univ. Comp
+
+
+
+
+                                                                                      63
+Estos resultados reflejan que predomina la educación primaria; analizando las
+
+variables por sexo se aprecia una ventaja de los hombres frente a las mujeres,
+
+en efecto, la educación primaria predomina en los hombres (25%), y la
+
+educación secundaria en los hombres (20%), esto nos demuestra que el
+
+analfabetismo es mayor en las mujeres, comparado con los hombres (gráfico
+
+Nº 02).
+
+ GRÁFICO Nº 2 NIVEL EDUCATIVO DE PRODUCTORES DE QUINUA POR
+                            SEXO
+
+
+
+    100%
+     90%
+     80%
+     70%
+     60%
+     50%
+     40%
+     30%
+     20%
+     10%
+      0%
+           Sin Nivel    Primaria       Secundaria   Sup. No Univ.   Sup. Univ.
+                       Completa         Completa       Comp           Comp       64
+
+                                   Hombres    Mujeres
+Por otro lado, aparte de pertenecer a la Asociación Central de Productores
+
+Multisectoriales (ASCENPROMUL)- Cabana, ha participado de algunas de las
+
+siguientes organizaciones (gráfico Nº 03). Es necesario precisar, que la
+
+mayoría de los productores perteneció a la asamblea de la comunidad (34%),
+
+en segundo lugar los productores también pertenecieron a la asociación de
+
+padres de familia (30%) y finalmente el (23%) pertenecieron a una asociación
+
+de club de madres, este último representa básicamente a mujeres asociadas a
+
+dicho club, sin embargo es necesario precisar que el resto de asociaciones a
+
+los cuales pertenecieron los productores representan menores porcentajes.
+
+GRÁFICO Nº 3 PARTICIPACIÓN DE LOS PRODUCTORES EN DIFERENTES
+                        ASOCIACIONES
+
+
+
+                   34%
+            35%                     30%
+            30%
+            25%
+                         23%
+
+            20%
+            15%                                       10%
+            10%
+                               4%
+             5%                            0%    0%         0%    0%
+             0%
+
+
+
+
+5.3. ESTIMACIÓN ECONOMÉTRICA
+
+      La estimación del modelo de adopción de tecnología orgánica se realiza
+
+mediante un proceso de análisis de varias regresiones econométricas. Para la
+
+                                                                            65
+elección de las mejores regresiones se siguen los criterios económicos y
+
+estadísticos, que nos proporcione los diferentes modelos econométricos
+
+estimados. Que los coeficientes de las variables tengan los signos esperados,
+
+es decir, que los signos de los coeficientes estimados para las variables
+
+explicativas reflejen una relación lógica con la variable dependiente.
+
+       Que los coeficientes de las variables independientes sean significativos
+
+a un cierto nivel aceptable de confiabilidad, según los criterios estadísticos.
+
+       Que el logaritmo de máxima verosimilitud del modelo (log-likelihood) sea
+
+grande. Según el modelo de adopción (ecuación estimada) la variable
+
+dependiente es binaria (solo toma dos valores), por lo que, resultó necesario
+
+trabajar con modelos de elección binaria, los modelos de probabilidad utilizados
+
+son el modelo logit y el modelo probit, los parámetros de estos modelos se
+
+estimaron mediante el método de máxima verosimilitud. Presentan en el cuadro
+
+Nº 06. Los resultados muestran que los signos de los coeficientes estimados
+
+son los correctos y sus magnitudes razonables, hay un buen ajuste (53%) en
+
+términos del Índice de Cociente de Verosimilitudes (ICV), el modelo predice
+
+correctamente (82%) según el porcentaje de predicción, hay buena
+
+dependencia en el modelo en términos del estadístico de Cociente de
+
+Verosimilitudes (LR), los estadísticos Chi-cuadrado son, por tanto,160,39 en el
+
+modelo Logit y 165,2342 en el modelo Probit. El valor crítico de una chi-
+
+cuadrado al 5% de significancia con 20 grados de libertad es 46,765, por lo que
+
+se rechaza la hipótesis conjunta de que los coeficientes de todas las variables
+
+explicativas son todos cero. Por su parte, según el estadístico de
+
+multiplicadores de Lagrange (ML) no existe problemas de heterocedasticidad
+
+en el modelo Probit, el estadístico ML es de 142,1624, contrastando con una
+
+
+                                                                                  66
+chi-cuadrado al 5% de significancia con 20 grados de libertad (46,765) se
+
+rechaza la hipótesis de heterocedasticidad.
+
+      Como una primera aproximación de las estimaciones, en el cuadro Nº6
+
+se presenta la estimación general del modelo econométrico, es decir cada
+
+modelo estimado está en función a la totalidad de las variables explicativas,
+
+para luego ir reparametrizando posteriormente hasta obtener el modelo
+
+ganador, que cumpla con los requerimientos exigidos desde el punto de vista
+
+estadístico y económico.
+
+
+
+
+   CUADRO Nº 6 RESULTADOS ECONOMÉTRICOS DEL MODELO DE
+             ADOPCIÓN DE TECNOLOGÍA ORGÁNICA
+
+                              Modelos Logit             Modelos Probit
+ Variable                                     Efectos                    Efectos
+                              Coeficientes              Coeficientes
+                                              Marg.                      Marg.
+ Constante                    -30.6402                  -9.1137
+ Edad (X1)                    -0.0298         -0.0047   -0.0182          -0.0058
+ Experiencia (X2)             0.0154          0.0024    0.0093           0.0029
+ Sexo (X3)                    0.0895          0.0142    0.0442           0.0140
+ Educación (X4)               0.1232          0.0197    0.0758           0.0242
+ Participación en Org. (X5)   -0.1205         -0.0193   -0.0721          -0.0231
+ Ingreso anual (X6)            0.0049*         0.0041    0.0017*          0.0005
+ Area del terreno (X7)        1.0227*         0.1647    0.6359*          0.2032
+ Tenencia del terreno (X8)    0.0621          0.0101    0.0937           0.0307
+ Otros ingresos adicionales   0.0692          0.0109    0.0496           0.0157
+ (X9)
+ Mano de obra contratada      0.5462**        0.0893    0.3192**         0.1031
+ (X10)
+ Mano de obra familiar        0.7715**        0.1236    0.4414**         0.1411
+ (X11)
+ Financiamiento (X12)         -0.0175         -0.0028   -0.0046          -0.0014
+ Costo de producción anual    -0.0002         -0.0003   -0.0002          -0.0005
+ (X13)
+ Residuos sólidos (X15)       0.1377          0.0215    0.0957           0.0299
+ Agroquímicos (X16)           -0.6127**       -0.1120   -0.3712**        -0.1287
+
+                                                                            67
+ Erosión del suelo (X17)                0.0104                0.0017        0.0134                 0.0043
+ Conocimiento (X18)                     0.2778                0.0414        0.1883                 0.0569
+ Motivación       económica             15.5925               0.9635        4.7409                 0.7735
+ (X20)
+ Motivación ecológica (X21)             15.8697               0.4209        4.8894                 0.3677
+ Presión institucional (X22)            15.8127               0.9985        4.8709                 0.9837
+ Función de verosimilitud               -45.7229                            -45.8001
+ logarítmica
+ Función de verosimilitud               -149.51                             -149.51
+ logarítmica restringida
+ ICV (índice de cociente de             0.5272                              0.5272
+ verosimilitudes)
+ Porcentaje de predicción               0.8245                              0.8241
+ LR        (cociente      de            160.39                              160.24
+ verosimilitudes)
+Los números entre paréntesis son los t-valúes, (*) indica significancia a un nivel de 5 por ciento de nivel
+de significancia y (**) al 10 por ciento de nivel de significancia.
+
+
+
+        Según el análisis de la información referente a las estimaciones
+
+econométricas, es necesario ver la significancia estadística de los parámetros;
+
+sometiendo a un proceso de reparametrización al modelo original con la
+
+finalidad de poder extraer variables no significativas y volver a estimar el
+
+modelo que nos pueda proporcionar coherencia en términos económicos y
+
+estadísticos.
+
+        Antes de mostrar las estimaciones definitivas, es necesario precisar que
+
+muchas variables consideradas en la tabla inicial de los resultados son no
+
+significativas y no relevantes en este estudio, los mismos que pueden deberse
+
+a una clara falta de experiencia en reportar información primaria por parte de
+
+los productores. La información insuficiente afecta al final los resultados.
+
+         CUADRO Nº 7 RESULTADOS DE ESTIMACIÓN DE MODELOS
+                          ECONOMÉTRICOS
+
+                                         Modelos Logit                        Modelos Probit
+ Variable                                             Efectos                              Efectos
+                                         Coeficientes                         Coeficientes
+                                                      Marg.                                Marg.
+ Constante                               0.9376                               0.5898
+ Edad (X1)                               -0.0171**    -0.0035                 -0.0107**    -0.0037
+ Educación (X4)                          1.1496**     1.0312                  1.0921**     1.0320
+
+                                                                                                        68
+ Participación en Org. (X5)              -0.1265**           -0.0263          -0.0768**            -0.0267
+ Ingreso anual (X6)                      0.5833*             0.2331           0.2117*              0.1906
+ Área del terreno (X7)                   0.9324*             0.1941           0.5614*              0.1953
+ Mano de obra familiar                   0.6702**            0.1395           0.3596**             0.1251
+ (X11)
+ Agroquímicos (X16)                      -0.3036**           -0.0661          -0.1697**            -0.0609
+ Función de verosimilitud
+ logarítmica                             -48.3738                             -48.5348
+ Función de verosimilitud
+ logarítmica restringida                 -148.42                              -149.51
+ ICV (índice de cociente de
+ verosimilitudes)           0.5962                                            0.6062
+
+
+ Porcentaje de predicción                0.8322                               0.8402
+ LR        (cociente               de
+ verosimilitudes)                        110.09                               110.77
+Los números entre paréntesis son los t-valúes, (*) indica significancia a un nivel de 5 por ciento de nivel
+de significancia y (**) al 10 por ciento de nivel de significancia.
+
+
+
+        Según el cuadro anterior los modelos econométricos estimados, en
+
+cuanto a su resultado, en ambos casos (Logit y Probit) se asemejan mucho, por
+
+lo que la interpretación y análisis de resultados se hará solo para el modelo
+
+Logit; porque la diferencia radica principalmente en las funciones de
+
+distribución con la cual trabaja cada modelo; modelo Probit (distribución
+
+normal) y modelo Logit (distribución logística).
+
+5.4. ANALISIS E INTERPRETACION
+
+5.4.1. Análisis: Edad del productor en la adopción de tecnología orgánica
+
+        La variable edad presenta un comportamiento particular, en efecto, se
+
+encontró una relación negativa entre la edad del productor de la Asociación
+
+Central de Productores Multisectoriales (ASCENPROMUL)- Cabana y la
+
+probabilidad de adoptar tecnología orgánica, sin embargo, según la estimación
+
+esta variable es significativa, pero su efecto marginal es muy bajo. Este
+
+resultado aparentemente contraintuitivo, se debe a que la mayoría de los
+
+encuestados sobre pasan los 45 años edad, según la tabla de las estadísticas
+                                                                                                        69
+descriptivas, se aprecia que la edad promedio de los productores es de 48
+
+años, así mismo la edad promedio de los productores adoptantes de tecnología
+
+orgánica es de 47 y la edad promedio de los no adoptantes es de 45 años. Sin
+
+embargo, se corrobora lo esperado a priori, es decir a mayor edad del
+
+productor de quinua, es más reacio a cambiar su forma de producir, lo que
+
+implica, menor probabilidad de adoptar tecnología orgánica.
+
+      Resulta interesante comparar los resultados de esta investigación con
+
+aquellos obtenidos en otras investigaciones sobre determinantes de producción
+
+orgánica. De acuerdo al presente estudio, la edad influye de manera negativa
+
+en la probabilidad de adoptar tecnología orgánica (-0,0035), resultado cercano
+
+al encontrado por F. Otero (2004) en Colombia y W. Tudela (2005) en Perú,
+
+cuya estimación al relacionar la edad del productor caficultor con la
+
+probabilidad de adoptar tecnología orgánica es inversa, encontrando un efecto
+
+marginal de -0,022 y -0,0002.
+
+5.4.2. Análisis: educación en la adopción de tecnología orgánica
+
+      De acuerdo a un análisis previo que se realizó anteriormente, se
+
+encontró que el 1% de los productores no tiene nivel educativo, mientras que el
+
+50% tienen nivel de educación primaria (completa e incompleta) y el 37% tiene
+
+nivel de educación secundaria (completa e incompleta), por su parte solo un
+
+4% tienen nivel de educación superior (superior no universitaria completa e
+
+incompleta). Esto contrastado con el parámetro estimado, la educación influye
+
+de manera negativa en la probabilidad de adoptar tecnología orgánica (-
+
+0,0312), resultado similar a lo encontrado en otras investigaciones, la razón
+
+principal reside en que los productores del Distrito de Cabana en su mayoría
+
+solo presentan educación primaria incompleta.
+
+
+                                                                            70
+5.4.3. Análisis: participación en diversas organizaciones
+
+      La participación en diversas organizaciones de los productores del
+
+distrito de Cabana influye de manera negativa en la adopción de quinua
+
+orgánica(-0.0263);es necesario precisar, que la mayoría de los productores
+
+perteneció a la asamblea de la comunidad (34%), en segundo lugar los
+
+productores también pertenecieron a la asociación de padres de familia (30%) y
+
+finalmente el (23%) pertenecieron a una asociación de club de madres, este
+
+último representa básicamente a mujeres asociadas a dicho club, esta
+
+participación en diversas organizaciones de alguna manera distrae a los
+
+productores de quinua para que ellos puedan efectivamente concentrarse en
+
+las capacitaciones en lo que respecta a la adopción orgánica de quinua.
+
+
+
+5.4.4. Análisis: ingreso anual de los productores de quinua orgánica
+
+      La variable ingreso afecta de manera positiva a la adopción orgánica de
+
+quinua de los productores del distrito de Cabana, se tiene un promedio de
+
+ingreso anual de S/. 6,064.27 nuevos soles, con una desviación estándar de S/.
+
+6,452.95 nuevos soles, que representa una elevada desviación estándar
+
+respecto del ingreso promedio, esto se explica por la contribución marginal del
+
+efecto (0.23). Los mayores ingresos se concentran en una cantidad significativa
+
+de los productores del distrito de Cabana, lo que de alguna manera es
+
+consistente con la teoría económica, que nos estaría indicando que a mayores
+
+niveles de ingreso de una cantidad significativa de productores la probabilidad
+
+de adoptar producción orgánica de quinua es mayor. Sin embargo para
+
+productores que presentan un ingreso por debajo del mínimo vital, su
+
+probabilidad de adoptar una producción de quinua orgánica es menor.
+
+
+                                                                            71
+5.4.5. Análisis: área del terreno de los productores de quinua orgánica
+
+      El promedio de tenencia de terreno por productor asciende a 1.42
+
+hectáreas, la cual afecta de manera positiva en términos de efectos marginales
+
+(0,1941), el efecto positivo implica la importancia de la cantidad de hectáreas
+
+para la adopción de producción quinua orgánica por parte de los productores.
+
+El efecto marginal encontrado presenta cierta relación con trabajos de
+
+investigación en la misma línea; a mayor cantidad de hectáreas de terreno por
+
+parte de los productores de quinua, mayor será la probabilidad de la adopción
+
+de producción de quinua orgánica, esta es una variable a tomar en cuenta por
+
+los productores.
+
+
+
+5.4.6. Análisis: mano de obra familiar en la adopción de quinua orgánica
+
+      Se aprecia que la mano de obra familiar influye de manera positiva en la
+
+probabilidad de adopción de tecnología orgánica, esta relación resultó ser
+
+estadísticamente significativo a un nivel del 10%, según el efecto marginal
+
+(0.1395), un incremento en la mano de obra familiar aumenta la probabilidad de
+
+adoptar producción orgánica en 13,95%. Esto se explica, en el distrito de
+
+Cabana por las costumbres de los productores es común utilizar mano de obra
+
+familiar para los cultivos agrícolas. La producción de quinua orgánica al interior
+
+de una unidad familiar del distrito de Cabana, es algo novedoso, porque
+
+representa una forma alternativa de producir tal cultivo, ya que los miembros de
+
+la familia preferirán trabajar en la misma propiedad del terreno antes de
+
+generar otros ingresos en otras actividades, a excepción de las actividades
+
+complementarias que generan ingresos complementarios.
+
+
+
+
+                                                                               72
+5.4.7. Análisis: Variables ambientales en la adopción de tecnología
+
+orgánica
+
+      El sustento de porque la tecnología de la adopción de quinua orgánica,
+
+es que se considera que los agroquímicos son nocivos para la salud por parte
+
+de los productores del distrito de Cabana, el análisis del parámetro estimado
+
+resultó ser estadísticamente significativo a un nivel del 10% y relevante desde
+
+el punto de vista económico, es decir, a mayor consideración de que los
+
+agroquímicos son nocivos a la salud aumenta la probabilidad de adoptar
+
+tecnología de producción orgánica, según el efecto marginal de la variable, esta
+
+probabilidad aumenta en 6,6%.
+
+
+
+
+6. CONCLUSIONES
+
+
+El presente trabajo de investigación ha identificado los determinantes       que
+
+influyen en la adopción de tecnología orgánica de los productores del distrito de
+
+Cabana, para tal efecto se han utilizado modelos de probabilidad logit y probit.
+
+Con la metodología utilizada se pudo mostrar la importancia socioeconómica y
+
+ambiental en el proceso de adopción.
+
+En cuanto a la edad del productor de quinua orgánica, se encontró una relación
+
+negativa con la probabilidad de adoptar tecnología orgánica. Así mismo, se
+
+encontró que la educación influye de manera negativa por la baja formación
+
+educativa de los productores del distrito de Cabana. El área de la chacra influye
+
+positivamente la probabilidad de adoptar tecnología orgánica.
+
+                                                                              73
+La participación en diversas organizaciones así como el ingreso anual de los
+
+productores del distrito de Cabana, influye de manera negativa en la adopción
+
+orgánica de quinua por parte de los productores. Así mismo la mano de obra
+
+familiar influye de manera positiva en la adopción de quinua orgánica.
+
+Se encontró que los agroquímicos son nocivos a la salud y el conocimiento de
+
+las ventajas, desventajas y características de la agricultura orgánica, elevan
+
+significativamente la probabilidad del productor distrital de Cabana, para
+
+adoptar tecnología orgánica.
+
+
+
+
+7. RECOMENDACIONES
+
+La viabilidad de adoptar tecnología orgánica será mucho mayor si los
+
+productores conocen sobre los efectos nocivos de los agroquímicos en la salud
+
+y cuando disponen de información sobre las ventajas, desventajas y
+
+características de la producción orgánica.
+
+Adaptar la producción orgánica, porque esta actividad implica realizar
+
+inversiones, muchas veces los productores que no cuentan con efectivo
+
+necesario para cubrir capital de trabajo se ven a larga decepcionados, es
+
+importante generar la sostenibilidad de los cultivos orgánicos, el retorno de esta
+
+actividad es generalmente por campaña agrícola en este proceso el productor
+
+tiene que ser capaz de generar ingresos adicionales a la venta de la quinua.
+
+
+                                                                               74
+La mano de obra familiar es otro aspecto importante a señalar, la práctica de la
+
+agricultura orgánica es intensivo en mano de obra, por lo tanto existe un
+
+exceso de demanda por mano de obra sobre todo en temporada de siembra y
+
+cosecha que hace que el precio (jornales) suba, por lo tanto los miembros de la
+
+familia se verán incentivados y/o tentados por trabajar por una mayor
+
+remuneración.
+
+La ampliación de la frontera agrícola es muy importante, considerando que el
+
+área de terreno promedio de un productor es de aproximadamente 1,42
+
+hectáreas, en la medida que se amplíe las hectáreas sembradas se podrían
+
+tener mayores niveles de competitividad por las economías de escala.
+
+
+
+
+8. BIBLIOGRAFÍA
+
+Alvarado C. (2004). “Adopción de Tecnología Agrícola, Caso: Café Orgánico en
+
+      los Municipios de San Gil y Apia”. Tesis Magíster PEMAR. Universidad
+
+      de los Andes, Bogota-Colombia.
+
+Apaza, V. y Delgado, P. 2005. Manejo y mejoramiento de quinua orgánica.
+
+      Estación experimental agraria Illpa – Puno.
+
+Espinal G., Carlos F., et.al. 2005. “la Cadena de Cultivos Ecológicos en
+
+      Colombia: Una Mirada Global de su Estructura y Dinámica 1991-2005”.
+
+
+
+
+                                                                             75
+      Ministerio de Agricultura y Desarrollo Rural – Observatorio Agrocadenas;
+
+      Colombia.
+
+Kortbech-Olesen, R. 2000. World Trends in Consumption and Trade of Exotic
+
+      Food and Beverages with Emphasis on Organic Products. Buyer/Sellers
+
+      Meeting on Exotic Food and Beverages, Johannesburgo, Sudáfrica.
+
+MUJICA.1993. Cultivo de la quinua Instituto Nacional de Investigación Agraria.
+
+      Dirección General de Investigación Agraria, Puno Perú.
+
+MURRA JOHN V. 2002. El Mundo Andino. Población, Medio Ambiente y
+
+      Economía. Fondo Editorial de la Pontificia Universidad Católica del Perú.
+
+      Lima – Perú.
+
+MTPQ – MESA DE TRABAJO PRODUCTO QUINUA – PUNO (POP) Plan
+
+      Operativo 2006.
+
+Novella, R. y Salcedo R. 2005. “Determinantes de la Adopción de Tecnologías
+
+      deProducción Orgánica: El caso del Café”. SEPIA XI.
+
+Otero L. 2004. Determinantes de Adopción de Tecnología Agrícola, Caso: Café
+
+      Orgánico en los Municipios de San Gil y Apia. Tesis Magíster PEMAR.
+
+      Universidad de los Andes, Bogota-Colombia.
+
+Rahm M; Huffman W.1984. The adoption of reduce tillage: the role of human
+
+      capital and other variables. American Journal of agricultural Economics.
+
+Tudela, J. 2006. Determinantes de la Producción Orgánica: Caso del Café
+
+      Orgánico en los Valles de San Juan del Oro – Puno
+
+VALDIVIA, R. PAREDES, S. ZEGARRA, A. CHOQUEHUANCA, V. y
+
+      REINOSO, R. 1997. Manual del productor de quinua, centro de
+
+      investigación de Recursos Naturales y Medio Ambiente, Editorial
+
+      Altiplano, Puno – Perú
+
+
+                                                                             76
+http://www.comexperu.org. pe/oportunidad.asp.
+
+
+
+
+                                                77
+                                                   ANEXOS
+
+
+
+
+ANEXO N° 01:                  MODELO DE ENCUESTA
+
+
+
+                                   ENCUESTA DE EVALUACIÓN
+Previo saludo. Le pedimos su colaboración, estamos realizando la presente encuesta con la finalidad e recabar la
+
+información veraz y real sobre el recurso quinua, la información recolectada es estrictamente confidencial y netamente
+
+para fines académicos
+
+I. INFORMACION PERSONAL
+
+1. Nombres y apellidos del productor:   __________________________________________________
+
+2. Comunidad / Sector donde reside o vive:_______________________________________________
+
+3. ASOCIACION      a la que pertenece:___________________________________________________
+
+                                                                                                                  78
+II. INFORMACION SOCIOECONOMICA
+
+
+
+4. Edad del productor:                                         Años
+
+5. Años como productor de quinua:                              Años
+
+6. Sexo del productor:                            Masculino                              Femenino
+
+
+
+7. Nivel educativo del productor: (marque una sola opción)
+                          1                                                    5                                       9
+Sin nivel                               Secundaria completa                              Super. Univ. Completa
+                          2                                                    6
+Primaria incompleta                     Sup. No Univ. Incompleta
+                          3                                                    7
+Primaria completa                       Sup. No Univ. Completa
+                          4                                                    8
+Secundaria incompleta                   Sup. Univ. Incompleta
+
+
+
+8. A parte de pertenecer a ASCENPROMUL, ha participado de alguna de las siguientes organizaciones o programas?
+
+Asamblea de la comunidad                Comité de salud
+
+Club de madres                          Asoc. de promotores
+
+Vaso de leche                           JASS (Junta Administradora de Servicios de Saneamiento)
+
+Asoc.padres de familia                  Otro……………………………
+
+Junta vecinal
+
+9. El material predominante en las paredes exteriores de la vivienda es:
+
+¿Ladrillo o bloque de cemento?                    ¿Otro material?...................................
+
+¿Adobe o tapial?
+
+¿Piedra con cemento?
+
+¿Piedra con barro?
+
+10. El material predominante en los pisos de la vivienda es:
+
+¿Losetas Vinilicos?                                ¿Tierra?
+
+¿Madera (entablados)?                             ¿Otro material?...................................
+
+¿Cemento?
+
+11. ¿Cuál es la fuente de abastecimiento de agua que utilizan en su hogar?
+
+     Red pública                                      Agua de pozo                                     Agua de superficie
+
+¿Dentro de la vivienda?                           ¿Pozo en la casa?                                    ¿Manantial?
+
+¿Pilon/grifo público?                             ¿Pozo público?                                       ¿Rio/acequia?
+
+¿Agua de lluvia?
+
+
+
+12. ¿El agua que con más frecuencia usan en su hogar para beber?
+
+La hierven
+
+Le echan lejía/cloro
+
+Tal como viene de la fuente
+
+
+                                                                                                                            79
+Otro………………………………….
+
+            Especificar
+
+13. ¿Qué tipo de servicio higiénico tiene su hogar?
+
+Conectado a la red pública:                            Pozo ciego o negro (letrina)
+
+Dentro de la vivienda                                  Rio, acequia o canal
+
+Fuera de la vivienda                                   Matorral / campo
+
+                                                       Otro……………………………
+
+                                                                 Especificar
+
+14. Cuál es el tipo de alumbrado que tiene su hogar?
+
+Electricidad                                           Vela
+
+Kerosene (mechero/lámpara)                             Generador
+
+Petróleo/gas (lámpara)                                 Otro……………………………
+
+                                                              Especifique
+
+15. Ingresos anuales obtenidos de la venta de quinua ____________ Nuevos Soles
+
+16. Área estimada de la chacra (en hectáreas): __________ Hectáreas (Corresponde a la totalidad de tierra trabajada)
+
+17. Número de hectáreas de tierra cultivadas con quinua y nivel de producción:
+
+                           Producto                    Área cultivada (hectáreas)       Nivel de producción (Kilos)
+
+                           Quinua convencional
+
+                           Quinua orgánica
+
+18. Cuáles son los cultivos de mayor importancia a parte de la quinua (Detallar en orden de importancia):
+
+                                        Producto                               Área cultivada (hectáreas)
+
+
+
+
+19. Régimen de tenencia del terreno (chacra) y porcentaje de terreno usado:
+
+                                             Régimen                        Porcentaje de terreno
+
+Propia
+
+Alquilada
+
+Prestada o cedida
+
+Al partir
+
+Otro………………………….
+
+             Especificar
+
+20. El terreno cuenta con:
+
+Título inscrito en registros públicos
+
+Título PETT no inscrito
+
+Título sin registrar
+
+
+                                                                                                                      80
+Título en trámite
+
+Certificado de posesión del MINAG
+
+Certificado de posesión de la comunidad campesina
+
+Contrato de compra-venta
+
+Propietario sin título
+
+Herencia
+
+Otro……………………………………………
+
+           Especificar
+
+
+
+
+                                                    81
+21. ¿Obtiene ingresos de otras actividades económicas?
+
+                      Si                              No
+
+                                                                             (Pase a la pregunta 22)
+
+¿A cuánto asciende este ingreso en forma mensual?
+
+                      S/.
+
+¿Qué tipo de actividad económica?
+
+Producción de algún bien                                       Prestación de servicios
+
+Compra y venta de mercaderías                               Otro……………………………….
+
+                                                                     Especificar
+
+22. Mano de obra (señalar los distintos tipos de mano de obra utilizados por el productor)
+
+Tipo de mano de obra (en cosecha)                             Cantidad mano de obra          Jornal en S/. (en cosecha)
+
+Contratada                           Si              No
+
+Familiar                             Si              No
+
+Otra:……………………                        Si              No
+
+Especificar
+
+
+
+23. El dinero que utiliza para financiar el capital de trabajo en su proceso productivo, proviene de (marque con una X
+
+las opciones que aplican, puede ser más de una opción. En la línea que esta al lado del cuadro ponga el orden de
+
+importancia de cada opción, por ejemplo si su principal fuente de financiamiento son recursos propios debe poner en la
+
+línea de al lado 1, si la segunda fuente de ingresos son préstamos bancarios y/o cajas debe poner en la línea de al lado
+
+2 y así sucesivamente).
+
+                                                    (Orden de Importancia)
+
+Recursos propios                             ____     Préstamos de bancos y/o cajas                    ______
+
+Recursos familiares                          ____     Otras fuentes: ……………………………..                      ______
+
+                                                                        Especificar
+
+24. Durante el último año, cuánto gasto en las siguientes actividades agrícolas:
+
+
+
+Semillas                                                                                               S/.
+
+Abonos y fertilizantes                                                                                 S/.
+
+Pesticidas, insecticidas, fungicidas, etc.                                                             S/.
+
+Compra de sacos, cajones u otros envases para conservar la quinua                                      S/.
+
+Transporte (Alquiler de medios de transporte y/o gastos en gasolina, lubricantes, et                   S/.
+
+Almacenamiento S/.Pago a jornaleros o peones                                                           S/.
+
+Arrendamiento de tierra                                                                                S/.
+
+Asistencia técnica                                                                                     S/.
+
+Otros gastos como alquiler de maquinaria, mantenimiento y reparaciones de maquinaria                   S/.
+
+III. INFORMACION AMBIENTAL
+
+
+
+
+                                                                                                                          82
+25. ¿Ha tomado algún tipo de medida para reducir la contaminación? (control de plagas y malas yerbas a través de
+
+mantenimiento preventivo, desyerbamiento manual, conservación del agua y suelo)
+
+                             Si:                                               No:
+
+Cuales? ______________________________________________________________________
+
+26. ¿Realiza algún tipo de clasificación o disposición de residuos sólidos? (empaques, envases, productos
+
+defectuosos)
+
+                             Si:                                               No:
+
+Cuales?______________________________________________________________________
+
+
+
+27. ¿Cuál de los siguientes agroquímicos, considera usted que tienen efectos nocivos sobre la salud?
+
+Abonos químicos                        Herbicidas                     Otros…………………………
+
+Insecticidas                           Funguicidas                             Especificar
+
+
+
+28. Tiene problemas de erosión del suelo en su chacra?
+
+                                                           Si:                           No:
+
+Aproximadamente en que porcentaje?____________________________________
+
+IV. AGRICULTURA ORGANICA
+
+29. ¿Sabe en qué consiste la agricultura orgánica?
+
+                                                           Si:                           No:
+
+30. Cuáles considera que son las ventajas de la agricultura orgánica sobre la agricultura convencional?
+
+_______________________________________________________________________________________________
+
+31. ¿Cómo productor de quinua, en cuál de las siguientes categorías se encuentra?:
+
+ADOPTA TECNOLOGIA ORGANICA:
+
+Produce con agricultura orgánica
+
+Produce con agricultura orgánica y también de manera convencional                                  SI ADOPTA
+
+En proceso para producir con agricultura orgánica
+
+
+
+NO ADOPTA TECNOLOGIA ORGANICA:
+
+Produjo con agricultura orgánica, pero ahora ya no
+
+                                                                                                   NO ADOPTA
+
+Produce de manera convencional
+
+
+
+LA SIGUIENTE PREGUNTA SOLO SE RESPONDE SI EN LA PREGUNTA ANTERIOR RESPONDE QUE PRODUCE
+
+BAJO AGRICULTURA ORGANICA. Y SI SE ENCUENTRA EN PROCESO PARA PRODUCIR CON AGRICULTURA
+
+ORGANICA
+
+
+
+32. Las principales motivaciones por las cuales tomó la decisión de producir bajo agricultura orgánica fue: (marque con
+
+una X y en la línea de al lado ponga el orden de las motivaciones, por ejemplo si la principal motivación fue el hecho
+
+
+                                                                                                                   83
+de que la agricultura orgánica hacia menos daño al medio ambiente marque 1, si después tuvo en cuenta el hecho de
+
+que le pagaban mejor precio marque 2 y así sucesivamente).                                (Orden           de          las
+
+motivaciones)
+
+
+
+Económica                       ____ (Por que existe en el mercado internacional un sobre precio)
+
+Ecológica                       _____ (Por que no es dañino al medio ambiente)
+
+Presión Institucional           ____ (Por que ASCENPROMUL obliga a sus asociados a desarrollar agricultura orgánica)
+
+Expectativas de apoyo           _____(Por que creían que les iban a dar algún subsidio y/o dinero)
+
+
+
+ESTA PREGUNTA SE RESPONDE INDEPENDIENTEMENTE DE QUE PRODUZCA O NO BAJO AGRICULTURA
+
+ORGANICA
+
+33. Comparada con la producción convencional, considera que la agricultura orgánica es:
+
+Más costosa                           Más barata                                          Igual de costosa
+
+Más rentable                          Menos rentable                                      Igual de rentable
+
+Mejor ambientalmente                  Peor ambientalmente                                 Es indiferente
+
+Restringe mercados                    Le permite acceder a mercados                       Es indiferente
+
+Reconoce un precio menor              Le permite obtener un precio mayor                  Dificulta la venta
+
+Aumenta riesgo de perdidas            Disminuye el riesgo de perdidas                     Tiene el mismo riesgo
+
+
+
+
+OBERVACIONES:________________________________________________________________________________
+
+_______________________________________________________________________________________________
+
+__________________________________________________________________________________________
+
+Fecha de la entrevista: _______________________________________
+
+
+
+
+                                                                                                                       84
+       ANEXO N° 02: BASE DE DATOS
+
+
+
+Variables Variable dependiente.            Varables Independientes
+            X19, la probabilidad del                                                                          Participación                                               Otros
+                                                                                                                                                                                                 Mano de obra
+            productor de quinua de                          Experiencia                       Educación       en              Ingreso         Área       del Tenencia del Ingresos
+                                           Edad (X1)                          Sexo (X3)                                                                                                          contratada
+            adoptar tecnología                              (X2)                              (X4)            organizacion    anual (X6)      terreno (X7) terreno (X8) adicionales
+                                                                                                                                                                                                 (X10)
+            orgánica                                                                                          es (X5)                                                     (X9)
+                                                                                                                 Variable
+                                                                                                 Variable        discreta                                        Variable
+                                                                                                                                 Variable        Variable                          Variable         Variable
+                                                                Variable                         discreta       categórica                                      binaria que
+                                                  Variable                                                                    continúa que    continúa que                       binaria que       binaria que
+                                     Variable                 binaria que                       categórica      ordenada                                      representa el
+                                                continua que                                                                  representa el   representa el                     representa la    representa el
+          valores de 1 = si cumple continua que              representa el                      ordenada           que                                            tipo de
+                                                 representa                                                                       ingreso          área                         obtención de     tipo de mano
+           con las condiciones de representa la                 sexo del                           que        representa el                                    tenencia de
+Indicador                                         los años                                                                       anual del    estimada de                       otras fuentes     de obra, (1)
+             adopción y 0 = no       edad del                 productor, si                   representa el      grado de                                      la chacra, si
+                                                    como                                                                       productor de     la chacra                        de ingreso,          si es
+                   cumple          productor de                es hombre                         nivel de     participación                                          es
+                                                productor de                                                                    quinua en      (Predio) del                     (1) si obtiene    contratado y
+                                     quinua.                 (1) y (0) si es                    educación           en                                          propietario
+                                                   quinua.                                                                        nuevos      productor de                        y (0) si no      (0) si no lo
+                                                                 mujer.                       del productor   organizacion                                    (1) y (0) si no
+                                                                                                                                   soles.        quinua.                           obtiene.            es.
+                                                                                                de quinua.         es o                                            lo es.
+                                                                                                               programas.
+        1                              1               43             24                  0               9               4            6528             1.3                 1                0                1
+        2                              1               51             39                  1               2               1           10929            2.53                 1                1                1
+        3                              1               29                 4               0               9               7            4704            1.03                 1                1                1
+        4                              0               41             23                  0               5               4           68040             1.5                 1                1                1
+        5                              1               46             20                  0               2               1           15120             3.5                 1                1                1
+        6                              0               51             34                  0               5               1           10713             2.4                 1                                 1
+        7                              1               21                 4               0               5               2            6960            1.58                 1                1                1
+        8                              1               66             50                  0               3               2           10926            2.53                 1                1                0
+        9                              0               37             20                  0               5               4            6620             1.5                 1                1                0
+       10                              1               39             18                  0               3               4            2256             0.5                 1                1                1
+       11                              1               35             20                  0               5               4            3940            0.87                 1                1                1
+       12                              0               62             44                  0               2               2            6720             1.5                 1                0                1
+       13                              1               69             50                  0               3               1            2350            0.53                 1                1                0
+       14                              0               35             15                  0               5               1            2976            0.76                 1                1                1
+       15                              1               43             24                  0               4               2            3120            1.07                 1                1                1
+       16                              1               46             29                  1               5               1            4420            1.08                 1                1                0
+       17                              0               54             20                  0               2               1            1632            0.31                 1                1                0
+       18                              1               54             32                  1               5               1            8928            2.04                 1                1                1
+       19                              1               39             20                  0               3               1            3216            0.84                 1                0                0
+       20                              0               40             22                  0               3               3            4560            0.99                 1                1                0
+
+
+
+
+                                                                                                                                                                                         85
+21   1   70   50   0   2   1   4560    0.58   1        0   0
+22   1   37   18   0   2   4   5424    1.45   1        1   0
+23   0   48   29   1   4   1   22272   5.74   1        1   1
+24   1   54   36   0   2   1   23232   5.34   1        1   1
+25   1   42   15   0   5   4   2688    1.39   1        1   1
+26   0   37   20   0   5   1   8400      2    1        1   1
+27   1   26   7    1   8   4   6000    1.25   1        1   0
+28   1   74   55   1   2   1   6432    1.64   1        0   0
+29   0   35   17   0   5   2   9550     2.6   1        1   1
+30   1   26   2    1   9   7    528    0.14   1        1   0
+31   1   51   20   1   3   1   2064    0.44   1        1   0
+32   1   79   40   1   2   1   6096    1.54   1        0   0
+33   0   36   5    0   3   4   2352     0.9   1        1   1
+34   1   47   12   1   7   1   1008    0.22   1        1   0
+35   1   60   40   1   2   1   17952   3.15   1        0   1
+36   0   40   10   0   2   4   2256    0.71   1        1   0
+37   1   54   20   0   3   2   3648    0.86   1        1   0
+38   1   49   10   1   4   1   6000    1.58   1        1   0
+39   1   40   15   0   2   1   7392    1.36   1        1   1
+40   1   61   40   0   2   2   1440    0.35   1        1   0
+41   0   56   17   0   2   4   2352    0.68   1        1   0
+42   1   59   30   1   3   2   6624    1.59   1        1   0
+43   1   47   18   0   2   2   1536    0.52   1        1   0
+44   1   66   20   1   4   1   3312    1.27   1        1   1
+45   1   70   54   0   1   3   2112    0.47   1        0   0
+46   1   33   7    0   5   4   5568    1.52   1        1   0
+47   1   34   4    1   5   4   1920    0.41   1        1   0
+48   0   34   8    0   5   4   6096    1.36   1        1   1
+49   1   39   5    0   4   4   2064    0.63   1        1   1
+50   1   44   15   0   4   4   8256     2.1   1        1   1
+
+
+
+
+                                                  86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+                                          ANEXO N° 03
+Resultados: Estadísticas descriptivas-adoptantes y no adoptantes de tecnología orgánica
+
+                        X1             X2             X6             X7            X13
+Mean                 47.88415       26.45732       6064.274       1.427012       671.1159
+Median               47.00000       25.00000       4632.000       1.200000       585.0000
+Maximum              79.00000       60.00000       68040.00       5.890000       2680.000
+Minimum              17.00000       2.000000       528.0000       0.140000       20.00000
+Std. Dev.            13.81890       15.07745       6452.954       1.047186       472.8246
+Skewness             0.165508       0.171301       5.852550       1.798578       1.426727
+Kurtosis             2.319741       2.145141       53.63076       7.034483       5.435807
+
+Jarque-Bera          3.910880       5.795766       18453.30       199.6466       96.18164
+Probability          0.141502       0.055140       0.000000       0.000000       0.000000
+
+Sum                  7853.000       4339.000       994541.0       234.0300       110063.0
+Sum Sq. Dev.         31126.80       37054.70       6.79E+09       178.7456       36440785
+
+Observations            180            180            180            180            180
+
+
+                                           ANEXO N° 04
+              Resultados: Estadísticas descriptivas-adoptantes de tecnología orgánica
+
+                        X1             X2             X6             X7            X13
+Mean                 47.82667       26.14667       5944.513       1.382867       644.4867
+Median               46.50000       25.00000       4560.000       1.200000       574.0000
+Maximum              79.00000       60.00000       68040.00       5.890000       2680.000
+Minimum              17.00000       2.000000       528.0000       0.140000       20.00000
+Std. Dev.            13.88676       15.16636       6621.365       1.020663       459.3063
+Skewness             0.206562       0.219812       5.960835       2.026902       1.625044
+Kurtosis             2.367171       2.205304       53.35409       8.321045       6.488544
+
+Jarque-Bera          3.569649       5.155074       16735.38       279.6677       142.0813
+Probability          0.167826       0.075961       0.000000       0.000000       0.000000
+
+Sum                  7174.000       3922.000       891677.0       207.4300       96673.00
+Sum Sq. Dev.         28733.49       34272.77       6.53E+09       155.2213       31433373
+
+Observations            155            155            155            155            155
+
+                                           ANEXO N° 05
+            Resultados: Estadísticas descriptivas-no adoptantes de tecnología orgánica
+
+                        X1             X2             X6             X7            X13
+Mean                 44.64286       26.07143       11341.57       1.573571       830.5714
+Median               42.00000       21.50000       6670.000       1.500000       770.0000
+Maximum              69.00000       50.00000       68040.00       3.500000       1680.000
+Minimum              21.00000       4.000000       2256.000       0.500000       225.0000
+Std. Dev.            13.94830       15.14781       16751.50       0.877440       465.9517
+Skewness             0.306561       0.269349       3.042534       0.711431       0.324196
+Kurtosis             2.294256       2.028091       10.89859       2.683740       1.992225
+
+Jarque-Bera          0.509828       0.720302       57.99255       1.239324       0.837680
+Probability          0.774983       0.697571       0.000000       0.538126       0.657809
+
+Sum                  625.0000       365.0000       158782.0       22.03000       11628.00
+Sum Sq. Dev.         2529.214       2982.929       3.65E+09       10.00872       2822443.
+
+                                                                                            97
+ Observations                 25                25                 25                 25                 25
+                                                   ANEXO N° 06
+Primer modelo: Resultados de estimación
+
+logit y x1 x2 x3 x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x15 x16 x17 x18 x20 x21 x22
+
+Iteration 0: log likelihood = -103.92012
+Iteration 1: log likelihood = -97.97955
+Iteration 2: log likelihood = -95.992189
+Iteration 3: log likelihood = -95.755766
+Iteration 4: log likelihood = -95.728705
+Iteration 5: log likelihood = -95.724327
+Iteration 6: log likelihood = -95.723271
+Iteration 7: log likelihood = -95.723048
+Iteration 8: log likelihood = -95.723001
+Iteration 9: log likelihood = -95.722991
+Iteration 10: log likelihood = -95.722988
+
+Logistic regression                                                                 Number of obs =               180
+                                                                                    LR chi2(20) =             160.39
+                                                                                    Prob > chi2 =             0.6919
+Log likelihood = -45.722988                                                         Pseudo R2          =      0.3789
+------------------------------------------------------------------------------------------------------------------------
+         y|                      Coef.              Std. Err.               z       P>|z| [95% Conf. Interval]
+-------------+---------------------------------------------------------------------------------------------------------
+        x1 |                    -.0298629            .0364142             -0.82 0.412 -.1012334 .0415077
+        x2 |                    .015419               .0324401             0.48 0.635 -.0481625 .0790004
+        x3 |                    -.0895751             .4808459            -0.19 0.852 -1.032016 .8528655
+        x4 |                     -.1232008            .1325705            -0.93 0.353 -.3830342 .1366327
+        x5 |                      -.1205071           .1281148            -0.94 0.347 -.3716074 .1305932
+        x6 |                    -.0003004             .0001424            -2.11 0.035 -.0005796 -.0000213
+        x7 |                      1.02795             .6345543             1.72 0.105 -.2157539 2.271653
+        x8 |                     -.0621402            .7184163            -0.09 0.931 -1.47021 1.34593
+        x9 |                     .0692009             .6063375              0.11 0.909 -1.119199 1.257601
+       x10 |                     .5462666             .5123854              1.77 0.286 -.4579904 1.550523
+       x11 |                     .7715285             .5818554              1.83 0.185 -.3688871 1.911944
+       x12 |                     -.0175935           .4371586             -0.04 0.968 -.8744087 .8392216
+       x13 |                    -.0002015             .0009682            -0.21 0.835 -.0020991 .001696
+       x15 |                     .1377414             .464703               0.30 0.767 -.7730597 1.048543
+       x16 |                    -.6127717             .6419991            -1.95 0.340 -1.871067 .6455235
+       x17 |                     .0104889             .3596482              0.03 0.977 -.6944085 .7153864
+       x18 |                      .27784              .6607876             0.42 0.674 -1.01728 1.57296
+       x20 |                      15.59258            1473.282             0.01 0.992 -2871.987 2903.172
+       x21 |                     15.86972             1473.282             0.01 0.991 -2871.71 2903.449
+       x22 |                    15.81274             1473.282              0.01 0.991 -2871.767 2903.392
+     _cons |                    -30.64028             2946.565            -0.01 0.992 -5805.801 5744.52
+------------------------------------------------------------------------------
+Note: 1 failure and 0 successes completely determined.
+
+
+
+
+                                                                                                                      98
+                                                      ANEXO N° 07
+
+
+                     Primer modelo: Resultados de estimación efectos marginales
+
+
+
+Marginal effects after logit
+     y = Pr(y) (predict)
+       = .20050157
+------------------------------------------------------------------------------------------------------------------------------
+variable |            dy/dx              Std. Err.                z     P>|z|         [ 95% C.I. ]               X
+---------+-------------------------------------------------------------------------------------------------------------------
+     x1 |            -.004787             .15467                -0.03 0.975 -.307926 .298351 47.8841
+     x2 |            .0024717             .07997                 0.03 0.975 -.154266 .15921 26.4573
+     x3*|            -.0142089            .46899                -0.03 0.976 -.933417 .904999 .304878
+     x4 |            -.0197492             .63798               -0.03 0.975 -1.27016 1.23067 3.92683
+     x5 |            -.0193174            .62402                -0.03 0.975 -1.24238 1.20375 2.79268
+     x6 |             -.0000482            .00155               -0.03 0.975 -.003096 .002999 6064.27
+     x7 |              .164781            5.32107               0.03 0.975 -10.2643 10.5939 1.42701
+     x8*|             -.0101218           .34325                -0.03 0.976 -.68288 .662637 .932927
+     x9*|             .0109306             .36967               0.03 0.976 -.713601 .735463 .853659
+    x10*|              .0893338           2.79927               0.03 0.975 -5.39714 5.5758 .439024
+    x11 |            .1236765             3.99413               0.03 0.975 -7.70467 7.95202 .829268
+    x12 |            -.0028203             .11489              -0.02 0.980 -.228006 .222365 1.72561
+    x13 |             -.0000323           .00105               -0.03 0.976 -.002099 .002035 671.116
+    x15*|             .0215266            .71342                0.03 0.976 -1.37676 1.41981 .804878
+    x16*|            -.1120935            3.07227              -0.04 0.971 -6.13363 5.90944 .890244
+    x17 |            .0016814             .07918                0.02 0.983 -.153515 .156878 .121951
+    x18*|             .0414957            1.41838               0.03 0.977 -2.73848 2.82147 .914634
+    x20*|             .9635776             13.559               0.07 0.943 -25.6122 27.5393 .70122
+    x21*|             .4209851            10.949                0.04 0.969 -21.0389 21.8808 .932927
+    x22*|            .9985288              .83119               1.20 0.230 -.630565 2.62762 .329268
+------------------------------------------------------------------------------------------------------------------------------
+(*) dy/dx is for discrete change of dummy variable from 0 to 1
+
+
+
+
+                                                                                                                          99
+                                             ANEXO N° 08
+                                 Segundo modelo: Resultados de estimación
+
+. probit y x1 x2 x3 x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x15 x16 x17 x18 x20 x21 x22
+
+Iteration 0:     log likelihood = -103.92012
+Iteration 1:     log likelihood = -97.647518
+Iteration 2:     log likelihood = -95.915115
+Iteration 3:     log likelihood = -95.810926
+Iteration 4:     log likelihood = -95.801862
+Iteration 5:     log likelihood = -95.800449
+Iteration 6:     log likelihood = -95.800185
+Iteration 7:     log likelihood = -95.80015
+Iteration 8:     log likelihood = -95.800143
+
+
+
+Probit regression                                                                   Number of obs =   180
+                                                                                    LR chi2(20) = 160.24
+                                                                                    Prob > chi2 = 0.7016
+Log likelihood = 45.800143                                                          Pseudo R2   = 0.3882
+
+------------------------------------------------------------------------------------------------------------------------------
+         y|               Coef.              Std. Err.            z        P>|z|                [95% Conf. Interval]
+-------------+---------------------------------------------------------------------------------------------------------------
+        x1 |         -.0182715             .022185              -0.82 0.410                     -.0617532 .0252102
+        x2 |          .0093086             .0198468              0.47       0.639              -.0295904 .0482076
+        x3 |          -.0442912            .2919881             -0.15       0.879               -.6165773 .5279949
+        x4 |          -.0758806            .0815543             -0.93       0.352               -.2357242 .0839629
+        x5 |          -.0721462            .0776558             -0.93       0.353               -.2243487 .0800563
+        x6 |          -.0001784            .0000859            -2.08        0.038               -.0003467 -.0000101
+        x7 |         .6359466             .3806567              1.77        0.095               -.1101268 1.38202
+        x8 |         -.093771             .4280865             -0.22        0.827               -.932805 .7452631
+        x9 |         .049656              .365138               0.14        0.892               -.6660013 .7653133
+       x10 |         .3192576              .3124621            1.82         0.307               -.2931568 .931672
+       x11 |         .4414216              .3483405            1.77         0.205               -.2413132 1.124156
+       x12 |         -.0046843              .2622482            -0.02        0.986              -.5186812 .5093127
+       x13 |         -.0001479              .0005508           -0.27         0.788              -.0012275 .0009316
+       x15 |           .0957428             .2844399            0.34         0.736               -.4617491 .6532348
+       x16 |         -.3711823              .3923981           -1.75         0.344              -1.140269 .3979039
+       x17 |         .0134801                .221147             0.06       0.951               -.4199601 .4469203
+       x18 |         .1883318               .3975523             0.47        0.636              -.5908564 .96752
+       x20 |         4.740929               191.2023             0.02       0.980                 -370.0086 379.4905
+       x21 |         4.889458               191.2024             0.03        0.980               -369.8605 379.6394
+       x22 |         4.870965               191.2023             0.03        0.980               -369.8786 379.6205
+     _cons |         -9.113739              382.4062            -0.02        0.981               -758.6162 740.3887
+------------------------------------------------------------------------------------------------------------------------------
+Note: 1 failure and 0 successes completely determined.
+
+
+                                                                                                                        100
+                                           ANEXO N° 09
+                    Segundo modelo: Resultados de estimación efectos marginales
+
+Marginal effects after probit
+     y = Pr(y) (predict)
+       = .2528068
+------------------------------------------------------------------------------------------------------------------------------
+variable |           dy/dx                 Std. Err. z         P>|z|         [ 95% C.I. ]                   X
+---------+-------------------------------------------------------------------------------------------------------------------
+     x1 |             -.0058406            .0281 -0.21 0.835 -.060924 .049242                            47.8841
+     x2 |              .0029756            .01524 0.20 0.845 -.026889 .03284                             26.4573
+     x3*|             -.0140756             .11368 -0.12 0.901 -.236879 .208728                          .304878
+     x4 |             -.0242558             .11589 -0.21 0.834 -.251401 .20289                           3.92683
+     x5 |             -.0230621             .11022 -0.21 0.834 -.239084 .19296                           2.79268
+     x6 |             -.000057              .00027 -0.21 0.831 -.00058 .000466                           6064.27
+     x7 |              .203285              .954       0.21 0.831 -1.66652 2.07309                       1.42701
+     x8*|             -.0307634             .19691 -0.16 0.876 -.416702 .355175                          .932927
+     x9*|              .0156852             .13635 0.12 0.908 -.251554 .282924                           .853659
+    x10*|             .1031093              .47319 0.22 0.828 -.824323 1.03054                           .439024
+    x11 |             .1411036               .66638 0.21 0.832 -1.16498 1.44719                          .829268
+    x12 |            -.0014974             .08412 -0.02 0.986 -.166361 .163367                           1.72561
+    x13 |             -.0000473           .00028 -0.17 0.867 -.0006 .000505                              671.116
+    x15*|            .0299972             .16977 0.18 0.860 -.302749 .362744                             .804878
+    x16*|            -.1287592             .48581 -0.27 0.791 -1.08093 .823415                           .890244
+    x17 |              .004309             .07347 0.06 0.953 -.139698 .148316                            .121951
+    x18*|             .0569406             .31625 0.18 0.857 -.562904 .676785                            .914634
+    x20*|            .7735846               15.107 0.05 0.959 -28.836 30.3832                              .70122
+    x21*|             .3677826              2.19719 0.17 0.867 -3.93863 4.67419 .932927
+    x22*|            .9837403               3.76526 0.26 0.794 -6.39604 8.36352 .329268
+------------------------------------------------------------------------------------------------------------------------------
+(*) dy/dx is for discrete change of dummy variable from 0 to 1
+
+
+
+
+                                                ANEXO N° 10
+                                   Tercer modelo: Resultados de estimación
+
+logit y x1 x4 x5 x6 x7 x10 x11 x16
+
+Iteration 0:     log likelihood = -103.92012
+Iteration 1:     log likelihood = -100.34953
+Iteration 2:     log likelihood = -98.456374
+Iteration 3:     log likelihood = -98.373977
+Iteration 4:     log likelihood = -98.373894
+Iteration 5:     log likelihood = -98.373894
+
+Logistic regression                                                                 Number of obs =   180
+                                                                                    LR chi2(8) = 110.09
+                                                                                    Prob > chi2 = 0.1965
+
+                                                                                                                        101
+Log likelihood = -48.373894                                                         Pseudo R2          = 0.5534
+------------------------------------------------------------------------------------------------------------------------------
+         y|               Coef.             Std. Err.                z    P>|z|               [95% Conf. Interval]
+-------------+---------------------------------------------------------------------------------------------------------------
+        x1 |         -.0171028            .0169148               -1.81 0.312                   -.0502551 .0160495
+        x4 |         -.149599              .1112138              -1.85 0.179                   -.3675741 .0683761
+        x5 |         -.1265901             .1214779              -1.94 0.297                   -.3646824 .1115023
+        x6 |         -.0003051              .0001362              -2.24 0.025                  -.0005721 -.0000381
+        x7 |          .9324138             .5208543                1.99 0.073                  -.088442 1.95327
+       x10 |          .4298163             .4589775                0.94 0.349                  -.469763 1.329396
+       x11 |          .6702816            .5613254                  1.99 0.232                 -.429896 1.770459
+       x16 |         -.3036368             .5743663                -1.93 0.597                 -1.429374 .8221005
+     _cons |           .9376085            1.415875                 0.66 0.508                 -1.837455 3.712672
+------------------------------------------------------------------------------------------------------------------------------
+Note: 1 failure and 0 successes completely determined.
+
+
+
+                                            ANEXO N° 11
+                      Tercer modelo: Resultados de estimación efectos marginales
+
+Marginal effects after logit
+     y = Pr(y) (predict)
+       = .2957113
+------------------------------------------------------------------------------------------------------------------------------
+variable |               dy/dx             Std. Err.              z     P>|z|          [ 95% C.I. ]                   X
+---------+-------------------------------------------------------------------------------------------------------------------
+     x1 |            -.0035619              .00352              -1.01 0.312 -.010466 .003342                       47.8841
+     x4 |             -.0311564             .02308              -1.35 0.177 -.076385 .014072                       3.92683
+     x5 |             -.0263644             .02522              -1.05 0.296 -.075803 .023074                       2.79268
+     x6 |             -.0000635             .00003              -2.36 0.018 -.000116 -.000011                       6064.27
+     x7 |              .1941902              .10461              1.86 0.063 -.010832 .399212                        1.42701
+    x10*|              .0902838              .0966               0.93 0.350 -.099041 .279609                        .439024
+    x11 |              .139597              .11598               1.20 0.229 -.087723 .366917                       .829268
+    x16*|            -.0660991              .12982               -0.51 0.611 -.320545 .188347                      .890244
+------------------------------------------------------------------------------
+(*) dy/dx is for discrete change of dummy variable from 0 to 1
+
+                                              ANEXO N° 12
+                                  Cuarto modelo: Resultados de estimación
+
+probit y x1 x4 x5 x6 x7 x10 x11 x16
+
+Iteration 0:     log likelihood = -103.92012
+Iteration 1:     log likelihood = -100.24698
+Iteration 2:     log likelihood = -98.568283
+Iteration 3:     log likelihood = -98.534846
+Iteration 4:     log likelihood = -98.534843
+
+Probit regression                                                                   Number of obs =   180
+                                                                                    LR chi2(8) = 110.77
+                                                                                    Prob > chi2 = 0.2150
+
+                                                                                                                        102
+Log likelihood = -48.534843                                                         Pseudo R2          = 0.5534
+------------------------------------------------------------------------------------------------------------------------------
+         y|               Coef.             Std. Err.              z               P>|z|         [95% Conf. Interval]
+-------------+---------------------------------------------------------------------------------------------------------------
+        x1 |          -.0107164           .0103207               -1.94               0.299 -.0309447 .0095119
+        x4 |         -.0921347            .0675101               -1.76               0.172 -.224452 .0401826
+        x5 |         -.0768298             .0728874              -1.95               0.292 -.2196865 .0660269
+        x6 |          -.000177             .0000808              -2.19               0.028 -.0003353 -.0000187
+        x7 |          .5614657             .31854                 1.96                0.078 -.0628612 1.185793
+       x10 |          .2318854             .27312                 1.65                0.396 -.30342             .7671908
+       x11 |         .3596178              .328264                1.90                0.273 -.2837679 1.003004
+       x16 |          -.1697452            .3466867              -1.95                0.624 -.8492386 .5097481
+     _cons |          .5898846            .8714637                0.68                0.498 -1.118153 2.297922
+------------------------------------------------------------------------------------------------------------------------------
+Note: 1 failure and 0 successes completely determined.
+
+
+
+                                           ANEXO N° 13
+                     Cuarto modelo: Resultados de estimación efectos marginales
+
+Marginal effects after probit
+     y = Pr(y) (predict)
+       = .30047231
+------------------------------------------------------------------------------------------------------------------------------
+variable |              dy/dx            Std. Err.              z        P>|z|          [ 95% C.I. ]              X
+---------+-------------------------------------------------------------------------------------------------------------------
+     x1 |             -.0037287            .00359              -1.04 0.299 -.010768 .003311 47.8841
+     x4 |             -.0320573            .02345              -1.37 0.172 -.078013 .013898 3.92683
+     x5 |             -.0267322            .02532              -1.06 0.291 -.076368 .022903 2.79268
+     x6 |             -.0000616            .00003              -2.27 0.023 -.000115 -8.3e-06 6064.27
+     x7 |            .1953563             .10812                 1.81 0.071 -.016557 .40727 1.42701
+    x10*|            .0811382              .09584               0.85 0.397            -.1067       .268977 .439024
+    x11 |            .1251254              .11402               1.10 0.272 -.098349 .3486                       .829268
+    x16*|            -.0609514             .12792               -0.48 0.634 -.311664 .189761 .890244
+------------------------------------------------------------------------------------------------------------------------------
+(*) dy/dx is for discrete change of dummy variable from 0 to 1
+
+
+
+
+                                                                                                                        103
+              ANEXO N° 14: PRODUCCION DE QUINUA A NIVEL DISTRITO DE CABANA
+
+SERIES HISTORICAS
+CAMPAÑAS AGRICOLAS POR DISTRITOS DE LA PROV. DE SAN ROMAN - PRODUCCION DE QUINUA
+
+   DISTRITO          VARIABLES          2000-2001 2001-2002 2002-2003 2003-2004 2004-2005 2005-2006 2006-2007 2007-2008 2008-2009 2009-2010 2010-2011 2011-2012
+                   Cosechas (Ha.)           620.00      1,000.00     1,210.00     1,300.00   1,315.00   1,375.00   1,319.00   1,010.00   1,480.00   1,505.00 1,700.00   1,850.00
+                   Precio Chacra(S/Kg.)        1.06          1.04          1.05       1.05       1.15       1.13       1.23       1.41       3.81      4.00      3.77       4.09
+                   Produccion (T.)          545.00      1,200.00     1,581.00     1,524.00   1,840.00   1,512.00   1,531.00   1,011.00   2,250.00   2,401.00 2,712.00   2,312.00
+    CABANA         Rendimiento (Kg./Ha.)    879.03      1,200.00     1,306.61     1,172.31   1,399.24   1,099.64   1,160.73   1,000.99   1,520.27   1,595.35 1,595.29   1,249.73
+                   Siembras (Ha.)           710.00      1,000.00     1,210.00     1,300.00   1,315.00   1,375.00   1,465.00   1,480.00   1,480.00   1,505.00 1,700.00   2,160.00
+                   Sup. Perdida (Ha.)         90.00                                                                 146.00     470.00                                    310.00
+                   Sup. Verde (Ha.)
+                   Cosechas (Ha.)           165.00        200.00         300.00    260.00     270.00     280.00     340.00     265.00     370.00     390.00    490.00    500.00
+                   Precio Chacra(S/Kg.)        1.05          1.04          1.05       1.04       1.10       1.10       1.26       1.41       3.89      3.93      3.52       4.17
+                   Produccion (T.)          135.00        234.00         406.00    305.00     356.00     292.00     379.00     245.00     487.00     568.00    662.00    509.00
+  CABANILLAS       Rendimiento (Kg./Ha.)    818.18      1,170.00     1,353.33     1,173.08   1,318.52   1,042.86   1,114.71    924.53    1,316.22   1,456.41 1,351.02   1,018.00
+                   Siembras (Ha.)           205.00        200.00         300.00    260.00     270.00     280.00     340.00     310.00     370.00     390.00    490.00    600.00
+                   Sup. Perdida (Ha.)         40.00                                                                             45.00                                    100.00
+                   Sup. Verde (Ha.)
+                   Cosechas (Ha.)           155.00        249.00         247.00    332.00     335.00     355.00     470.00     455.00     620.00     650.00    660.00    800.00
+                   Precio Chacra(S/Kg.)        1.05          1.03          1.05       1.03       1.06       1.10       1.25       1.66       3.62      3.83      3.84       4.06
+                   Produccion (T.)          118.00        250.00         341.00    363.00     396.00     328.00     461.00     399.00     757.00     840.00    709.00    738.00
+  CARACOTO         Rendimiento (Kg./Ha.)    761.29      1,004.02     1,380.57     1,093.37   1,182.09    923.94     980.85     876.92    1,220.97   1,292.31 1,074.24    922.50
+                   Siembras (Ha.)           200.00        250.00         247.00    332.00     335.00     355.00     470.00     485.00     620.00     700.00    660.00    820.00
+                   Sup. Perdida (Ha.)         45.00          1.00                                                               30.00                 50.00               20.00
+                   Sup. Verde (Ha.)
+                   Cosechas (Ha.)           320.00        390.00         395.00    482.00     500.00     529.00     575.00     495.00     770.00     580.00 1,010.00     690.00
+                   Precio Chacra(S/Kg.)        1.05          1.03          1.05       1.04       1.10       1.14       1.31       1.60       3.79      4.00      3.67       4.62
+                   Produccion (T.)          253.00        441.00         486.00    480.00     594.00     447.00     581.00     397.00    1,019.00    787.00 1,253.00     641.00
+    JULIACA        Rendimiento (Kg./Ha.)    790.63      1,130.77     1,230.38      995.85    1,188.00    844.99    1,010.43    802.02    1,323.38   1,356.90 1,240.59    928.99
+                   Siembras (Ha.)           340.00        390.00         395.00    490.00     500.00     529.00     575.00     670.00     770.00     760.00 1,010.00    1,020.00
+                   Sup. Perdida (Ha.)         20.00                                   8.00                                     175.00                180.00              330.00
+                   Sup. Verde (Ha.)
+FUENTE: MINISTERIO DE AGRICULTURA- OFICINA DE ESTDISTICA E INFORMATICA
+
+
+
+
+                                                                                                                                                              104
+ANEXO N° 15: TENDENCIAS CRECIENTES DE PRODUCCION DE QUINUA
+                      A NIVEL NACIONAL
+
+
+
+
+  ANEXO N° 16: PRODUCCION Y PRODUCTIVIDAD DE QUINUA POR
+               DEPARTAMENTOS DEL PERU 2012
+
+
+
+
+                                                          105
+106
+

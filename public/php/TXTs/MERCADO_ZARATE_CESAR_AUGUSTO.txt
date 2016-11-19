@@ -1,0 +1,4223 @@
+     UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+ FACULTAD DE INGENIERIA CIVIL Y ARQUITECTURA
+
+   ESCUELA PROFESIONAL DE INGENIERIA CIVIL
+
+
+
+
+ESTIMACIÓN Y COMPARACIÓN DE MÉTODOS TEÓRICOS
+
+CON MODELOS MATEMÁTICOS EN LA PRODUCCIÓN DE
+
+  SEDIMENTOS. APLICACIÓN A LA CUENCA DEL RIO
+                 ALLAHUALLA
+
+
+
+                      TESIS
+
+           PARA OPTAR AL TITULO DE:
+
+               INGENIERO CIVIL
+
+
+
+                    AUTOR:
+
+       MERCADO ZARATE CESAR AUGUSTO
+
+
+
+              DIRECTOR DE TESIS:
+
+         Ing.: ZENON MELLADO VARGAS
+
+
+
+
+               C.U. PUNO, JUNIO 2014
+
+                                               -1-
+          DEDICATORIA
+          Este informe de Tesis se la dedico a mi familia:
+
+          A mi madre Rosario, quien en todo momento se preocupó por mi
+
+          educación y bienestar.
+
+          A mi padre Augusto, que fue, es y será un guía en toda mi
+
+          formación.
+
+          A mis hermanos Erik y Samantha, de quienes tengo el apoyo
+
+          infinito.
+
+          A la familia Mercado y Zárate por su apoyo.
+
+          A mis ángeles de la guarda Filomena, Elisa, Gervasio, Florentino y
+
+          Gerardo quienes han estado escuchándome en todo momento.
+
+
+
+
+TEMA:   INGENIERÍA DE PRESAS
+
+ÁREA:   HIDRAULICA
+
+
+
+
+                                                                               -2-
+AGRADECIMIENTO
+            A la Universidad Nacional del Altiplano – Puno, mi casa de estudios por
+
+   abrirme las puertas .
+
+            Este trabajo que he llevado a cabo no sería posible sin las personas que
+
+   voy a mencionar:
+
+            Mi Director de tesis el Ing. Zenón Mellado Vargas, y mi Asesor de tesis
+
+   el Ing. Roberto Campaña, por haberme apoyado en la realización de este trabajo.
+
+            Mi Jurado Revisor de tesis el Ing. Raúl Echegaray, José Luis Cutipa y
+
+   Néstor Fernández, por haberme apoyado en la realización de este trabajo.
+
+            A mis compañeros de la escuela, compañeros de trabajo y amigos:
+
+   Héctor Romero, Oscar Urquiaga, Eddy Chura, Miguel Mamani, Uber Pariente,
+
+   Moisés Mendoza, Ronald Valdivia, Ferdy Flores, Manuel Cano, Freddy Collarani,
+
+   Yohana Delgado, Edwing Arapa, David Apaza,, Carlos Holguín, Henry Condori,
+
+   Edgar Arapa, … Muchas gracias!
+
+
+
+
+                                                                                       -3-
+        CONTENIDO
+
+
+
+1. INTRODUCCIÓN..................................................................................................... 12
+1.1.- Antecedentes....................................................................................................... 13
+1.2.- Justificación del Proyecto .................................................................................. 14
+1.3.- Planteamiento del Problema ............................................................................. 15
+1.4.- Objetivos del Proyecto ....................................................................................... 16
+2.- REVISIÓN BIBLIOGRÁFICA................................................................................ 17
+2.1.- Precipitación ........................................................................................................ 17
+2.2.- Erosión.................................................................................................................. 18
+2.2.1.- Erosión Laminar o Erosión Hídrica .............................................................. 18
+2.2.2.- Erosión por Movimiento de Masas................................................................ 22
+2.3.- Producción de Sedimentos................................................................................ 22
+2.4.- Relación Entre la Producción de Sedimentos y la Deforestación ............... 25
+2.5.- Relación entre la Hidrología y el Transporte de Sedimentos ...................... 26
+3.- ANALISIS DE METODOLOGÍAS PARA LA ESTIMACIÓN DE
+SEDIMENTOS .............................................................................................................. 27
+3.1.- Métodos Teóricos................................................................................................ 27
+3.1.1.- Método de Dendy y Bolton (1976) ................................................................ 27
+3.1.2.- Método de Gavrilovic (1976, 1988)............................................................... 28
+3.1.3.- Método de Fleming (1993) ............................................................................. 30
+3.1.4.- Método de USLE. ............................................................................................ 32
+3.2.- Modelos Matemáticos ........................................................................................ 38
+3.2.1.- Modelo Matemático Sed Cad 4 ..................................................................... 38
+3.2.2.- Modelo Matemático Kineros 2 ....................................................................... 41
+4. APLICACION A LA CUENCA DEL RIO ALLAHUALLA .................................... 48
+4.1.- Área de Aplicación .............................................................................................. 48
+4.2.- Caracterización Hidrológica de la Cuenca Allahualla .................................. 49
+4.3.- Aplicación de las Metodologías Propuestas................................................... 50
+4.3.1.- Aplicación con los Métodos Teóricos ........................................................... 50
+Aplicación del Método Teórico Gavrilovic ................................................................ 50
+Aplicación del Método Teórico USLE ....................................................................... 51
+4.3.2.- Aplicación con el Modelo Sed Cad 4........................................................... 53
+
+
+
+                                                                                                                            -4-
+4.3.3.- Aplicación con el Modelo Kineros ................................................................. 63
+5. SIMULACIÓN, GENERACION DE RESULTADOS. .......................................... 76
+5.1.- Cálculos Teóricos y Simulación de los Modelos........................................... 76
+5.2.- Generación de Resultados ................................................................................ 76
+6. CONCLUSIONES Y RECOMENDACIONES...................................................... 82
+6.1.- Conclusiones ....................................................................................................... 82
+Precipitación.................................................................................................................. 82
+Caudales........................................................................................................................ 82
+Sedimentos ................................................................................................................... 82
+6.2.- Recomendaciones .............................................................................................. 83
+7. BIBLIOGRAFIA. ....................................................................................................... 84
+
+
+
+
+                                                                                                                            -5-
+INDICE DE TABLAS
+
+
+
+Tabla 2.1: Tipos de Precipitación.
+
+Tabla 3.1: Factores descriptivos utilizados en el Modelo de Gavrilovic.
+
+Tabla 3.2: Valores de las constantes a y n según Cobertura Vegetal.
+
+Tabla 3.1: Parámetros de cálculo para el Factor Topológico de C.
+
+Tabla 4.1: Evento de Lluvia (Estación Quechua).
+
+Tabla 4.2: Clasificación de Partículas Según la AGU.
+
+Tabla 4.3: Parámetros Hidráulicos y Sedimentológicos de ingreso a la Cuenca
+
+           en el Sed Cad 4.
+
+Tabla 4.4: Parámetros Hidráulicos y Sedimentológicos de ingreso a la Cuenca
+
+            en el Kineros 2.
+
+Tabla 4.5: Recomendación de Coeficientes de Número de Manning para Flujo
+
+            Superficial.
+
+Tabla 4.6: Parámetros hidráulicas del suelo.
+
+Tabla 4.7: Parámetros de Intercepción.
+
+Tabla 5.1. Producción de Sedimentos en el Modelo Sed Cad.
+
+Tabla 5.2. Producción de Sedimentos en el Modelo Kineros.
+
+Tabla 5.3. Producción de Sedimentos con el Método Gavrilovic.
+
+Tabla 5.4. Producción de Sedimentos con el Método USLE.
+
+
+
+
+                                                                          -6-
+INDICE DE FIGURAS
+
+
+
+Figura 2.1: Erosión de la Superficie como resultado del impacto de Lluvia y
+
+            Turbulencia (Brooks, 1997).
+
+Figura 2.2: Sistema Típico de erosión y depósito de sedimentos en una
+
+            Cuenca (Vanoni, 1977).
+
+Figura 2.3: Inicio de erosión por gotas de lluvia (Rivera Trejo et al., 2006).
+
+Figura 2.4: Tasa de sedimentación afectada por la capacidad de transporte y
+
+             suministro de sedimentos apara diferentes tamaños de partículas
+
+            (Brooks 1997).
+
+Figura 3.1: Monográfico para la Estimación del Factor K.
+
+Figura 3.2: Esquema del Balance de Masa en el Kineros 2.
+
+Figura 4.1: Mapa de Ubicación de la Cuenca Allahualla.
+
+Figura 4.2: Caracterización hidrológica de la Cuenca Allahualla.
+
+Figura 4.3: Información de la Tormenta en el Modelo SC4.
+
+Figura 4.4: Distribución Granulométrica del Material Sólido de la cuenca Río
+
+             Allahualla.
+
+Figura 4.5: Información Sedimentológica en el Modelo SC4.
+
+Figura 4.6: Caracterización hidrológica de la Cuenca Allahualla para el Modelo
+
+             Matemático Sed Cad 4.
+
+Figura 4.7: Información hidrológica en el Modelo SC4.
+
+Figura 4.8: Información Subwatershed en el Modelo SC4.
+
+Figura 4.9: Caracterización hidrológica de la Cuenca Allahualla para el Modelo
+
+             Matemático Kineros 2.
+
+Figura 5.1: Comparativo de Resultados Obtenidos en la Estimación de la
+
+             producción de Sedimentos.
+
+Figura 5.2: Comparativo de Resultados Obtenidos del Modelo Kineros 2 con el
+
+Monitoreo Sedimentológico.
+
+
+                                                                                 -7-
+GLOSARIO DE TERMINOS
+
+
+
+Input:               Parámetros de ingreso al modelo matemático.
+
+Ouput:              Parámetros de salida del modelo matemático.
+
+Hietograma:         Gráfico de tiempo versus precipitación.
+
+Número de Curva: Parámetro adimensional que define la infiltración.
+
+Escurrimiento:      Flujo superficial.
+
+PRE:                Datos de entrada al modelo Kineros.
+
+PAR:                Datos de entrada al modelo Kineros.
+
+OUT:                Datos de salida del modelo Kineros.
+
+SC4:                 Modelo Sed Cad 4.
+
+NRCS:               Servicio de Conservación de Recursos Naturales.
+
+USLE:               Ecuación Universal de la Pérdida de Suelo.
+
+EIA:                Estudio de Impacto Ambiental.
+
+
+
+
+SIMBOLOGIA
+
+
+
+S   : Volumen de sedimentos producido (m³).
+
+Q : Escorrentía media anual (mm).
+
+G : Descarga media de material erosionado(m³/año).
+
+W : Producto de la producción de sedimentos(m³/año).
+
+R : Coeficiente de retención.
+
+    : Temperatura media(ºC).
+
+F   : Superficie de la zona de estudio (km²).
+
+Z   : Coeficiente de erosión.
+
+    : Coeficiente de resistencia del suelo erosivo.
+
+I   : Pendiente media de la cuenca.
+
+
+                                                                      -8-
+     : Transporte medio anual de sedimento (m³/s).
+
+P    : Precipitación media (mm).
+
+S    : Superficie de la cuenca (m²).
+
+R    : Factor de erosividad pluvial (J.m-².cm.h).
+
+E    : Pérdida anual de suelo (Tn/ha).
+
+K : Factor de Erosionabilidad del suelo (Tn.m².h / (ha.J.cm)).
+
+L.S : Factor topológico que está en función a la pendiente y longitud de
+
+          declive.
+
+C     : Factor de cobertura vegetal.
+
+P    : Factor de prácticas de conservación.
+
+fc    :   Capacidad de Infiltración (m/s).
+
+Ks : Conductividad hidráulica saturada (m/s).
+
+Ki : Conductividad hidráulica inicial (m/s).
+
+θs   : Contenido de agua del suelo.
+
+θi   : Contenido inicial de agua del suelo.
+
+G    : Capilaridad (m).
+
+P    : Tasa de precipitación (mm/s).
+
+Y    : Parámetro Smith - Parlange (0-1).
+
+F    : Lluvia acumulada (mm).
+
+B    : Parámetro de capilaridad (m).
+
+Cs : Concentración de Sedimentos(L³/ L³).
+
+Q    : Tasa de Descarga de Agua(L³/T).
+
+A    : Área de la sección del Flujo(L²).
+e    : Tasa de Erosión del Lecho de Suelo(L²/T).
+
+q    : Tasa de Sedimentación Lateral del Cauce(L²/T/L).
+
+
+
+
+                                                                           -9-
+RESUMEN
+
+
+
+  Del informe de Tesis con título "Estimación y Comparación de Métodos
+
+  Teóricos con Modelos Matemático en la Producción de Sedimentos.
+
+  Aplicación a la cuenca del Río Allahualla" se resumen lo siguiente:
+
+
+
+  En el estudio se presenta una comparación en la producción de Sedimentos
+
+  de la Cuenca del río Allahualla (distrito de Yauri, provincia de Espinar, región
+
+  Cusco) para un evento tormenta de lluvia de 42.3 mm. Esta comparación se
+
+  realizará entre Modelos Matemáticos Determinísticos (Sed Cad 4 y Kineros
+
+  2) y Metodologías Teóricas (Gavrilovic y USLE).
+
+
+
+  Los modelos hidrológicos están debidamente implementados, también tienen
+
+  el respaldo técnico y son usados con mucha frecuencia en los campos de
+
+  la hidráulica y medio ambiente. Los métodos teóricos también tienen buena
+
+  aceptación   dado    que    se   han   estado    mejorando     y   actualizando
+
+  continuamente.
+
+
+
+  Los resultados obtenidos de la Producción de Sedimentos en la cuenca
+
+  Allahualla alcanzan con las simulaciones: a 7 900 Tn con el modelo Sed cad
+
+  y 29 760 Tn con el modelo Kineros. Con el método teórico del Gavrilovic se
+
+  obtiene 34 480 y con el método teórico USLE se obtiene 17 686.
+
+
+
+
+                                                                               10
+ABSTRACT
+
+
+
+  Thesis titled. "Estimation and Comparison of Theoretical Methods with
+
+  Mathematical Models in Sediment Production. Application to River Basin
+
+  Allahualla" are summarized as follows:
+
+
+
+  In the study, is presented a comparison in the production of Sediments Basin
+
+  Allahualla River (Yauri district, province of Espinar, Cusco region) for a storm
+
+  rainfall of 42.3 mm. This comparison will be made between Mathematical
+
+  Deterministic Models (Sed Cad 4 and Kineros 2) and Theoretical
+
+  Methodologies (Gavrilovic and USLE).
+
+
+
+  The Hydrological models are properly implemented, It is also have technical
+
+  support and are used extensively in the fields of hydraulics and environment.
+
+  The Theoretical methods also have good acceptance since it has been
+
+  continually improving.
+
+
+
+  The results of Sediment Production in the basin river Allahualla, reach to :
+
+  with model Sed Cad 4 7900 Tn and 29 760 with Kineros 2 model. With the
+
+  theoretical method Gavrilovic     is obtained 34 480 and with the theoretical
+
+  method USLE is obtained 17 686.
+
+
+
+
+                                                                               11
+1. INTRODUCCIÓN
+
+
+
+El presente estudio tiene por objetivo determinar la cantidad de sedimentos
+
+producidos en la Cuenca del río Allahualla, ubicado en el distrito de Yauri,
+
+provincia de Espinar, región de Cusco y país de Perú. En las figuras 1 se puede
+
+observar la ubicación de la cuenca de estudio.
+
+
+
+         Figura 1. Mapa de Ubicación de la Cuenca del Río Allahualla
+
+
+
+
+Fuente: Elaboración propia.
+
+
+
+
+                                                                            12
+        Figura 1. Mapa de Ubicación de la Cuenca del Río Allahualla
+
+
+
+
+Fuente: Elaboración propia.
+
+
+
+1.1.- Antecedentes
+
+
+
+Los primeros avances en la hidráulica y en el transporte de sedimentos se
+
+remontan a China 4,000 años a.C. Durante el mismo periodo hubo avances
+
+importantes en Mesopotamia, donde se construyeron canales que partían del
+
+Tigris y del Éufrates con fines de riego, además de obras de control e
+
+inundaciones.
+
+
+
+Ya en tiempos contemporáneos es cuando se ha alcanzado un mayor logro en
+
+las ciencias y en la hidráulica no es la excepción, ni tampoco la cuestión fluvial y
+
+la producción de sedimentos en cuencas. Numerosos investigadores como Lois
+
+Navier, Ademar, Jean-Clude Barré de Saint Venant, W. Froude, R Manning, G.
+
+Stokes, H. Bazin, O. Reynolds, J. Boussinesq, Dupuit y DuBoys, entre otros,
+
+                                                                                 13
+cambiaron la forma de hacer hidráulica. En materia fluvial y específicamente en
+
+el transporte de sedimentos Dupuit y DuBoys destacaron (Levi, 1986).
+
+
+
+En Estados Unidos las primeras investigaciones comenzaron en 1907. Miller
+
+llevó a cabo sus primeros experimentos en Missouri en 1917 (Hudson, 1982).
+
+Con la creación del Servicio de Conservación de Suelo EE.UU.(1935), se
+
+desarrolló el conocimiento de los procesos erosivos (MMA_M, 1998). H. Benett
+
+y L.A. Jones midieron la erosión de parcelas experimentales entre 1928 y
+
+1933(Colotti, 2004). Hacia 1936 Cook ya intuía la relación entre la erosión, el
+
+suelo, la lluvia, la pendiente y la cobertura vegetal (López Cárdenas, 2003).
+
+Siendo Zingg (1940) el primero en proponer la primera ecuación para estimar la
+
+pérdida del suelo (Hudson, 1982). Laws en 1940 y Ellison en1944 identificaron
+
+a la lluvia como factor de peso en la erosión (Hudson, 1982). Hacia 1941 Smith
+
+añade los factores de cultivo y prácticas de conservación a la ecuación de Zingg.
+
+poco después, en 1947 Browning incorpora el factor de suelo, mientras que
+
+Musgrave en el mismo año presenta su ecuación, la cual toma en cuenta la
+
+intensidad de la lluvia, el tipo de suelo, el relieve y la cubierta vegetal (Simons y
+
+Sentürk, 1992). Para 1959 con base en el trabajo de sus predecesores y
+
+experimentación Wischmeir propone la primera versión de la ecuación universal
+
+de la pérdida de suelo (USLE), la cual se mejora para 1965 y 1978 en conjunto
+
+con Smith (Wischmeir y Smith, 1965 y 1978). Esta ecuación es la más aceptada
+
+para la estimación de producción de sedimentos.
+
+
+
+1.2.- Justificación del Proyecto
+
+
+
+Las Obras hidráulicas de conducción y almacenamiento en Perú tienen un papel
+
+importe en el desarrollo del país. Su construcción es ejemplo del avance
+
+tecnológico nacional y ha respondido permanentemente al objetivo de
+
+
+
+                                                                                  14
+aprovechar racionalmente un recurso como el agua, que es estratégico para el
+
+desarrollo sostenible del país.
+
+
+
+En tal sentido, estimar la producción de sedimentos más acertadamente resulta
+
+necesario. Ya que la sobreestimación de sedimentos añade un innecesario costo
+
+a las estructuras involucradas, por otro lado subestimarlos llevará a dejar fuera
+
+de servicio infraestructura antes de tiempo. Queda claro que las obras hidráulicas
+
+son costosas, y al quedar fuera de operación ocasionan una pérdida económica.
+
+
+
+En la costa norte y sur de Perú existen estructuras de almacenamiento donde
+
+se subestimó el aporte de sedimentos, lo que ha significado que estos proyectos
+
+queden fuera de operación antes de lo previsto. Esto ha motivado a elaborar este
+
+proyecto de tesis que permitirá brindar alternativas de diseño en la estimación
+
+del volumen muerto de sedimentos en estructuras de almacenamiento como
+
+embalses de recurso hídrico para proyecto de irrigaciones, agua potable, etc.
+
+
+
+Este proyecto de tesis, también será de utilidad en estudios de Impacto
+
+Ambiental en el Perú, pues el Ministerio del Ambiente en el Perú pide a empresas
+
+mineras, empresas de generación eléctrica y otras empresas de inversión
+
+privada que incorporen en el EIA un estudio de línea base en el tema de
+
+sedimentos, donde se evalúa el impacto de la construcción y operación del
+
+proyecto.
+
+
+
+1.3.- Planteamiento del Problema
+
+
+
+Es necesario revisar criterios de diseño en toda obra hidráulica considerando a
+
+la erosión hídrica laminar en cuencas como un parámetro importante a ser
+
+
+
+
+                                                                                15
+tomado en cuenta. De esta manera se pretende contribuir en la confiabilidad de
+
+los cálculos.
+
+
+
+Para los fines de estudio, se realizará una comparación entre los resultados de
+
+métodos teóricos y los resultados de la simulación en los modelos matemáticos
+
+Sed Cad 4 y Kineros 2. Así se pretende contribuir en la concepción y diseño de
+
+la cuantificación de sedimentos en cuencas producidos por la erosión hídrica
+
+laminar, especialmente en cuencas hidrográficas del Perú.
+
+
+
+1.4.- Objetivos del Proyecto
+
+
+
+Los objetivos de este proyecto de tesis son: Estimar y comparar los resultados
+
+de producción de sedimentos en la cuenca Allahualla entre los métodos teóricos
+
+y los Modelos Matemáticos Determinísticos Sed Cad 4 de la Universidad de
+
+Kentucky de los EE.UU y el Modelo Matemático Kineros 2 del Departamento de
+
+Agricultura de los EE.UU.
+
+
+
+
+                                                                            16
+2.- REVISIÓN BIBLIOGRÁFICA
+
+
+
+2.1.- Precipitación
+
+
+
+Generalmente se ha tomado en cuenta el tamaño de gotas y el estado del agua,
+
+usualmente líquida o sólida. En la tabla 2.1 se ofrece un resumen de los tipos
+
+de precipitación más comunes.
+
+
+
+Los hidrólogos se encuentran involucrados mayormente con la lluvia y la nieve,
+
+debido a que estas proporcionan las cargas para el diseño de estructuras. La
+
+lluvia es de sumo interés en el momento y el lugar que ocurre, mientras que la
+
+nieve adquiere su importancia durante su derretimiento, lo cual después de un
+
+periodo importante de acumulación. La ocurrencia de eventos de lluvia y nieve,
+
+así como el tamaño y forma de la gota de lluvia o los copos de nieve, está en
+
+función de las condiciones atmosféricas en el lugar de formación y la temperatura
+
+promedio de la atmósfera.
+
+
+
+                      Tabla 2.1. Tipos de Precipitación
+
+         Nombre              Descripción                     Tamaño
+
+                             Pequeñas gotas de
+
+         Llovizna            agua, intensidad                0.1-0.5mm
+
+                             (1mm/h).
+
+                             Ligera:      < 2.5mm/h
+
+         Lluvia              Moderada: 2.5-7.6mm/h           0.5mm
+
+                             Fuerte:          > 7.6mm/h
+
+                             Capa de hielo, formada
+                                                             Gravedad
+         Helada              por   llovizna     o   lluvia
+                                                             Específica 0.8
+                             congelada.
+
+
+
+                                                                              17
+                                                          Gravedad
+                              Depósito de hielo opaco
+         Llovizna Helada                                  Específica
+                              y granular.
+                                                          0.2-0.3
+
+                              Cristales hexagonales de Gravedad
+         Nieve
+                              hielo.                      Específica 0.1
+
+                              Fragmentos      irregulares De 5 a mas de
+         Granizo
+                              de hielo.                   125mm
+
+         Hielo Granulado      Hielo Traslúcido.           5mm
+         Fuente: Adaptada de Vente Te Chow.
+
+
+
+2.2.- Erosión
+
+
+
+2.2.1.- Erosión Laminar o Erosión Hídrica
+
+
+
+Trata de la erosión causada por la acción del agua, a través de la lluvia y el
+
+escurrimiento. La combinación de estos mecanismos da como resultado la
+
+erosión de la superficie (MMA_M, 1998).
+
+
+
+Erosión: desgaste o destrucción producida en la superficie de un cuerpo por la
+
+fricción continúa (Brooks, 1997). En hidrología, erosión se puede definir como: el
+
+desgaste de la superficie terrestre por agentes externos como el agua o el viento.
+
+
+
+Lluvia: La lluvia actúa de manera directa e indirecta. La acción directa se refiere
+
+al impacto de las gotas de lluvia en la superficie del suelo. La energía cinética
+
+liberada por el impacto es suficientemente grande para romper los lazos
+
+existentes entre las partículas, pudiendo esparcir más de 200T/ha en un suelo
+
+sin vegetación, salpicando las gotas hasta 50cm de altura y 1.50m de longitud
+
+
+
+
+                                                                                18
+(Brooks et al., 1997). Este es el fenómeno más importante, ya que, es el que
+
+disgrega las partículas que forman la estructura ( ver Figuras 2.1 y 2.2).
+
+Las características del impacto de las gotas de lluvia dependen del tamaño de la
+
+gota y del tirante del escurrimiento. El esfuerzo cortante que produce el impacto
+
+puede llegar a ser 100 veces el esfuerzo cortante de flujo laminar somero, sin
+
+embargo el esfuerzo cortante producido por la gota de lluvia puede despreciarse
+
+si, el tirante del escurrimiento es mayor a 3 veces el diámetro de la gota de lluvia
+
+(Julien, 2002).
+
+
+
+En la acción indirecta, el suelo se mezcla con el agua y lleva de manera lateral
+
+el movimiento de las partículas a otro punto de la ladera. Este desplazamiento
+
+no tiene consecuencias si no existe una fuerza que las haga moverse aguas
+
+abajo, es la gravedad que actúa por medio de la pendiente del terreno. Aunado
+
+a esto se asocia la compactación y la velocidad de infiltración, entonces el agua
+
+que sería absorbida por el suelo se quede en la superficie, formando así el
+
+escurrimiento (MMA_M, 1998). (Ver figura 2.2 y 2.3).
+
+
+
+Escurrimiento: Se forma cuando la intensidad de la lluvia es mayor que la
+
+velocidad de infiltración. La corriente erosiona por medio de dos acciones: una
+
+disgregadora y otra transportadora. La primera se produce cuando las fuerzas
+
+tractivas del flujo superan a las fuerzas resistentes de las partículas del suelo. La
+
+segunda se lleva a cabo cuando se satura el suelo y el agua empieza a escurrir,
+
+trasladando los sólidos hacia aguas abajo. Estas partículas son muy finas y van
+
+a componer la carga de lavado de los cauces (MMA_M, 1998).
+
+
+
+El proceso de erosión consiste en el desprendimiento y transporte de partículas
+
+de la superficie del suelo debido al agua (hídrica) y al viento (eólica), siendo el
+
+agua el principal agente de erosión. Al encontrarse las partículas sobre la
+
+
+
+                                                                                  19
+superficie pueden ser desprendidas por las gotas de lluvia (figura 2.1), por los
+
+escurrimientos y viento. Entonces, pueden ser transportados por el viento, agua
+
+o gravedad. Tanto para el desprendimiento como para transporte de partículas
+
+el proceso requiere energía. Esta llega a la superficie por el impulso que produce
+
+el momento (masa x velocidad) , que ocasiona la caída de las gotas de lluvia, el
+
+escurrimiento o el viento. Además del desprendimiento se produce el transporte,
+
+en algunas ocasiones el suelo que fue arrastrado por la erosión llega a los ríos,
+
+en ellos la arena y el limo arrastrado pueden llegar a formar bancos de
+
+sedimentos (Brooks et al., 1997; Rivera Trejo et al., 2006).
+
+
+
+Erosión Laminar, significa: remoción de delgadas capas del suelo extendida más
+
+o menos uniformemente en toda la superficie (Vanoni, 1977). producto del
+
+impacto de las gotas de lluvia y por el escurrimiento, mientras que al formarse el
+
+flujo, este transporta el material erosionado. El escurrimiento circula lentamente
+
+sin cauce en régimen laminar, y no es permanente (López Cárdenas, 2003).
+
+
+
+La erosión laminar causa grandes aportaciones de sedimentos a los cuerpos de
+
+agua, además de generar la pérdida de nutrientes en los suelos debido a que se
+
+afectan las partículas más finas (López Cárdenas, 2003).
+
+
+
+       Figura 2.1. Erosión de la Superficie como resultado del impacto de
+
+                        Lluvia y Turbulencia (Brooks, 1997).
+
+
+
+
+                                                                               20
+                        Fuente: Brooks, 1997.
+
+Pérdida de Suelo: Cantidad de suelo removida por erosión de cuencas
+
+hidrográficas.
+
+
+
+Producción de Sedimentos: Total de sedimentos que salen de una cuenca
+
+hidrográfica.
+
+
+
+Tasa de Entrega de Sedimentos: Medida de la disminución de sedimento
+
+erosionado.
+
+
+
+Velocidad de Erosión: Velocidad a la cual el suelo es erosionado una cierta
+
+área.
+
+
+
+        Figura 2.2. Sistema Típico de erosión y depósito de sedimentos en
+
+                                 una Cuenca (Vanoni, 1977)
+
+
+
+
+                Fuente: Vanoni, 1977.
+
+
+
+
+                                                                        21
+       Figura 2.3. Inicio de erosión por gotas de lluvia (Rivera Trejo et al.,
+
+                                               2006).
+
+
+
+
+           Fuente; Rivera Trejo et al. 2006.
+
+
+
+2.2.2.- Erosión por Movimiento de Masas
+
+
+
+Erosión por movimiento de masa se lleva a cabo al saturarse el suelo, cuando
+
+este se encuentra en pendiente y carece de vegetación, ocasionando una falla
+
+por acción de la gravedad. Otra circunstancia que propicia este tipo
+
+desplazamientos sucede cuando el agua alcanza un horizonte de suelo apoyado
+
+sobre una capa impermeable, lubricándolo y, si esta en pendiente, puede crear
+
+una línea de desequilibrio en toda la zona de suelo situada por encima (López
+
+Cárdenas, 2003).
+
+
+
+2.3.- Producción de Sedimentos
+
+
+
+El sedimento es un material fragmentario, principalmente formado por la
+
+desintegración física química de las rocas de la corteza terrestre. Sus partículas
+
+varían en tamaño desde grandes rocas hasta fragmentos de tamaños coloidales.
+
+También varían en el peso específico y su composición mineral, los materiales
+
+                                                                               22
+predominantes son minerales de cuarzo y minerales de arcilla (caolinita, ilita,
+
+montmorillonita y clorita). Estos últimos tienen una estructura similar a una lámina
+
+que puede cambiar fácilmente (floculación) bajo la influencia de fuerzas
+
+electrostáticas (fuerzas de cohesión) en un ambiente salino. En consecuencia
+
+hay una diferencia fundamental en el comportamiento sedimentario entre la
+
+arena y la arcilla (Leo C. Van Rijn)
+
+
+
+Los sedimentos se pueden clasificar de acuerdo a su origen genético:
+
+
+
+Sedimento Lithogeneous, que son productos detríticos. de desintegración de
+
+rocas pre-existentes.
+
+Sedimentos Biogeneous, que son restos de organismos principalmente
+
+carbonato, ópalo y calcio fosfato.
+
+Sedimentos Hydrogeneous, que son resultantes de agua de mar o de agua
+
+intersticial.
+
+
+
+Descriptivamente, la clasificación de sedimentos también puede estar
+
+relacionado con características como: color, textura, tamaño de grano, contenido
+
+orgánico, etc. Por ejemplo una mezcla de arena y arcilla es clasificada como una
+
+arcilla de arena cuando el porcentaje de arena es entre en 25 y 50 %. Del mismo
+
+modo, está la clasificación de arenas arcillosas, arenas, gravas, grava arenosa,
+
+grava arcillosa y arcillas de gravas.
+
+
+
+Los sedimentos son el producto de los distintos tipos de erosión. Del material
+
+desprendido de la cuenca, sólo una pequeña parte atraviesa la cuenca y llega a
+
+la salida de ésta. El resto de los sedimentos son depositados en las colinas,
+
+planicies de inundación y las áreas entre riachuelos. Según Brooks et al. (1997),
+
+menos del 25% de los sedimentos generados son descargados al mar. Mientras
+
+
+
+                                                                                 23
+que la producción de sedimentos consiste en el total de material que sale de la
+
+cuenca o sistema de drenaje, medido para un cierto periodo y un punto
+
+específico (Vanoni, 1977).
+
+
+
+La erosión de una cuenca es directamente proporcional a la producción de
+
+sedimentos de la misma. Ésta última se ve afectada por la cubierta vegetal
+
+existente; por consiguiente en las zonas áridas se tiene una producción mayor.
+
+En ese sentido, puede haber cuencas pequeñas con una producción de
+
+sedimentos más importante que cuencas más extensas (Ramirez, 2009).
+
+
+
+La cantidad de sedimentos en una corriente depende del suministro de material,
+
+de las características del cauce, del gasto y de las características físicas del
+
+sedimento. El suministro de material y el gasto son función de la climatología, la
+
+topografía, la geología, la cubierta vegetal y el uso del suelo de la cuenca. Las
+
+características del cauce dependen de la morfología, de la pendiente del cauce,
+
+de la rugosidad y del material de fondo. Por otro lado las características físicas
+
+de las partículas son función del tipo de suelo, de la geología y del estado de
+
+intemperismo de la cuenca y el cauce (Ramirez, 2009).
+
+
+
+Cuando la energía de la corriente excede el suministro de sedimentos, ocurre
+
+una degradación en los cauces. Por el contrario si el suministro de sedimentos
+
+sobrepasa la energía de la corriente se depositaran sedimentos elevando el
+
+fondo del río. En la Figura 2.4, se muestra la cantidad de material que puede
+
+llevar una corriente sin que se altere la sección del mismo (Brooks 1997).
+
+
+
+
+                                                                               24
+         Figura 2.4. Tasa de sedimentación afectada por la capacidad de
+
+       transporte y suministro de sedimentos apara diferentes tamaños de
+
+                               partículas (Brooks 1997).
+
+
+
+
+               Fuente: Brooks, 1997.
+
+
+
+2.4.- Relación Entre la Producción de Sedimentos y la Deforestación
+
+
+
+Se ha demostrado que la producción de sedimentos se incrementa
+
+sustancialmente después de la deforestación. Posteriormente, conforme el
+
+bosque se recupera y madura se reduce la tasa de sedimentos. Otra
+
+consecuencia de la deforestación es la compactación del suelo, lo que reduce
+
+su velocidad de infiltración (Stott y Mount,2004).
+
+
+
+El incremento de la producción de sedimentos provoca el arrastre de un número
+
+mayor de agregados finos y gruesos, que se ven reflejados como carga en
+
+suspensión y carga de fondo respectivamente. Ambas son transportadas aguas
+
+abajo. La carga de fondo a tasas mucho más lentas que la carga en suspensión.
+
+Una vez en las zonas bajas y/o planas se almacenan en forma de barras,
+
+provocando un desvió del flujo o inestabilidad en el cauce (Scott y Mount, 2004).
+
+
+
+                                                                              25
+2.5.- Relación entre la Hidrología y el Transporte de Sedimentos
+
+
+
+Dado que la producción de sedimentos es directamente proporcional al material
+
+erosionado de la cuenca, y siendo el proceso de lluvia-escurrimiento la principal
+
+fuente de energía para la erosión, además proveer transporte a las partículas,
+
+encontramos que se puede estimar la producción de sedimentos a partir de la
+
+hidrología.
+
+
+
+Un aumento de erosión en la cuenca implica un incremento de material en
+
+suspensión en el cauce, que se puede sedimentar en los cuerpos de agua. Lo
+
+que va mermando la capacidad hidráulica en los cauces, de almacenamiento y
+
+regulación de los embalses. Por otro lado una menor erosión en la cuenca
+
+implica una reducción de suministro al sistema de drenaje de la misma, lo que
+
+pudiera reproducir como socavación en los cauces.
+
+
+
+La erosión no es buena ni mala, sino que es un proceso que tiende a estar en
+
+equilibrio, cuando es alterado existen consecuencias positivas y/o negativas. Lo
+
+interesante es pronosticar la cantidad de suelo que va a erosionarse
+
+naturalmente así como el impacto asociado (Simons y Senturk, 1992).
+
+
+
+
+                                                                              26
+3.- ANALISIS DE METODOLOGÍAS PARA LA ESTIMACIÓN DE
+
+SEDIMENTOS
+
+
+
+3.1.- Métodos Teóricos
+
+
+
+Estimación de Sedimentos por Métodos Teóricos
+
+
+
+       Método de Dendy y Bolton (1976).
+
+       Método de Gavrilovic (1976, 1988).
+
+       Método de Fleming.
+
+       Método USLE.
+
+
+
+3.1.1.- Método de Dendy y Bolton (1976)
+
+
+
+Se proponen relaciones entre volúmenes de sedimentos depositados,
+
+escorrentía y superficie de la Cuenca.
+
+
+                        .
+            =     .
+                                ∗ 1.43 − 0.26 ∗          .
+                                                             ,       para Q<50mm/Año;
+
+
+
+                            .
+       = 685.79 ∗ ( )              .   ∗ 1.43 − 0.26 ∗           .
+                                                                       ,   para Q≥50mm/Año.
+
+
+
+Donde S es el volumen de sedimentos producidos en Tn/Km²/Año, Q es la
+
+escorrentía media anual en mm y A es el área de la cuenca en Km².
+
+
+
+La ecuación presenta buenos resultados en cuencas grandes y no montañosas
+
+(USACE, 1995).
+
+
+
+
+                                                                                              27
+3.1.2.- Método de Gavrilovic (1976, 1988)
+
+
+
+La metodología propuesta cuantifica el proceso erosivo en función de las
+
+características morfológicas, geolitológicas, vegetación y uso del suelo,
+
+distribución de precipitaciones y temperatura. Se define de este modo la
+
+descarga media anual de material erosionado (G) como el producto de la
+
+producción de sedimentos (W) y el coeficiente de retención (R).
+
+                                          =    R
+
+
+
+La producción media anual de sedimentos por erosión superficial se determina
+
+como:
+
+
+                                                   /
+                                       = ℎ
+
+
+
+Siendo G el volumen de sedimentos producidos en la cuenca (m³/año), W
+
+reducción media anual de sedimento bruto por erosión (m³/año), T coeficiente de
+                                                                                    .
+temperatura definido a partir de la temperatura media t      como: T =      + 0.1       ,
+
+t   es la temperatura media en ºC, h precipitación media anual (mm/año), F
+
+superficie de la zona de estudio (km²), Z coeficiente de erosión definido como
+               /
+Z = XY(φ + I       ), X coeficiente de uso del suelo, Y coeficiente de resistencia del
+
+suelo a la erosión, φ coeficiente correspondiente al tipo de proceso erosivo
+
+observado, I pendiente media de la cuenca ( % ).
+
+
+
+Los valores de los coeficientes X, Y, φ son propuestos por el autor de la
+
+metodología (ver tabla 3.1) y representan respectivamente el grado de
+
+protección del suelo dado por la vegetación y la intervención antrópica, el grado
+
+de resistencia a la erosión del suelo considerando sus características
+
+geolitológicas y el estado de inestabilidad erosiva de la cuenca.
+
+
+                                                                                    28
+Tabla 3.1: Factores descriptivos utilizados en el modelo de Gavrilovic .
+
+         COBERTURA Y USO DEL SUELO                    X
+
+         Bosques                                  0.05-0.20
+
+         Bosques de coníferas con pequeña
+                                                  0.20-0.40
+         cobertura
+
+         Bosque dañado, pastos                    0.40-0.60
+
+         Pastos dañados y cultivos                0.60-0.80
+
+         Suelo desnudo                             0.80-1.0
+
+         RESISTENCIA DEL SUELO A LA
+                                                      Y
+         EROSION
+
+         Material duro, resistente a la erosión    0.2-0.6
+
+         Material con resistencia moderada a
+                                                   0.6-1.0
+         la erosión
+
+         Esquistos, material débil                 1.0-1.3
+
+         Sedimentos, morrenas, material con
+                                                   1.3-1.8
+         poca resistencia
+
+         Sedimentos finos y suelos sin
+                                                   1.8-2.0
+         resistencia al erosión
+
+         TIPO DE PROCESO EROSIVO Y
+                                                      Φ
+         ESTADO
+
+         Sin erosión o pocos signos de erosión     0.1-0.2
+
+         Erosión laminar y regueros en un 20-
+                                                   0.3-0.5
+         50% de la cuenca.
+
+         Erosión en ríos, cárcavas, depósitos
+                                                   0.6-0.7
+         aluviales, erosión kárstica.
+
+         50-85% de la cuenca afectada por
+                                                   0.8-0.9
+         erosión superficial y deslizamientos.
+
+         Toda la cuenca afectada por erosión.        1.0
+
+
+                                                                       29
+         Fuente: J. Almorox Alonso et al., 2010.
+
+La ecuación del coeficiente de retención de sedimento de acuerdo a Zemlijc
+
+(1991)se determina como:
+
+                                         (L + L ) + √OD
+                                     =
+                                            (L + 10)F
+
+Donde O es el perímetro de la cuenca (km²), D altura media de la cuenca (km),
+
+L longitud total acumulada de afluentes y cauces secundarios (km), L longitud
+
+de cauce principal (km), F superficie de la cuenca (km²).
+
+
+
+La base para la implementación de esta metodología son los diferentes mapas
+
+temáticos y el modelo digital del terreno.
+
+
+
+
+3.1.3.- Método de Fleming (1993)
+
+
+
+Este método de estimación de sedimentos en suspensión en cuencas, fue
+
+elaborado por Fleming en Estados Unidos, y para ello utilizó datos de más de
+
+250 cuencas en diferentes países del mundo.
+
+
+
+En base a estos antecedentes definió una tasa media anual de sedimentos de
+
+transporte de sedimentos , en función del caudal medio anual y de los grados
+
+de cobertura vegetal.
+
+
+
+La ecuación propuesta para esta estimación es:
+
+                                            =
+
+Donde:
+
+Q    : Transporte medio anual en suspensión.
+
+    ∶ Caudal medio anual.
+
+a y n: Constantes según la cobertura vegetal.
+
+
+                                                                               30
+Fleming desarrollo los valores de la tabla 3.2 para a y n de cobertura vegetal
+
+
+
+   Tabla 3.2: Valores de las constantes a y n según Cobertura Vegetal.
+
+                 Cobertura vegetal                     a     n
+
+               Bosques de hoja ancha
+                                                    1.02    117
+                      y coníferas
+
+               Bosques de coníferas y
+                                                    0.82   3 523
+                     pastos altos
+
+               Pastos bajos y arbustos              0.65   19 260
+
+                Desiertos y arbustos                0.72   37 730
+             Fuente: J. Almorox Alonso et al., 2010.
+
+
+
+Para el caudal media anual en cuencas sin datos, se pueden obtener los valores
+
+por fórmulas empíricas, de los cuales existen un sin número de literaturas (Ayres,
+
+1970). Se pueden encontrar distintas variantes para obtener el caudal, por eso
+
+es necesario saber de ante mano las condiciones donde se van a aplicar y
+
+determinar la factibilidad de emplearlas en función de los requerimientos y
+
+deducción de cada una de ellas (Mintegui Robredo ,1991).
+
+
+
+Como ejemplo se puede aplicar la siguiente fórmula:
+
+
+                                              PSe
+                                          =
+                                               b
+Donde:
+
+
+
+P: Precipitación anual de la cuenca(mm).
+
+S : Superficie de la cuenca(m²).
+
+e : Coeficiente de escorrentía.
+
+
+                                                                                 31
+b : Número de segundos que posee un año.
+
+3.1.4.- Método de USLE.
+
+
+
+Es la estimación de la pérdida de suelo debido a erosión laminar y en canalillos.
+
+La ecuación ha sido empleada especialmente en los E.U.A. desde 1959. Debido
+
+a que la USLE fue desarrollada para una zona específica mediante el análisis
+
+estadístico de las pérdidas de suelo por erosión en lotes experimentales, las
+
+correlaciones matemáticas presentan niveles aceptables de pronóstico para
+
+dicha zona, para emplear este modelo en otra área se debe de emplear con
+
+cautela (Figueroa et al., 1991).
+
+
+
+A continuación se describe la ecuación universal de la pérdida de suelo USLE:
+
+
+
+                                   E=RxKxLSxCxP
+
+
+
+Donde:
+
+E= Pérdida anual del suelo (Tn/ha).
+
+R= Factor de Erosividad pluvial (J.m-².cm.h ).
+
+K= Factor de Erosionabilidad del suelo (Tn.m².h / (ha.J.cm)).
+
+L.S= Factor topológico que está en función a la pendiente y longitud de declive.
+
+C= Factor de cobertura vegetal
+
+P= Factor de prácticas de conservación
+
+Los factores L.S, C, y P son adimensionales.
+
+
+
+Erosividad de la lluvia-escorrentía(R).
+
+
+
+El factor R tiene como principal influencia la energía de las gotas de lluvia al
+
+caer sobre la superficie terrestre, convirtiendo en una fuerza de erosión
+
+
+
+                                                                              32
+específica producto de la energía cinética total de la tormenta. El Factor R
+
+representa los valores de la IE de tormenta promedio durante una lluvia y la
+
+intensidad máxima sostenida a lo largo de un periodo prolongado como se
+
+muestra en la ecuación (Brown y Foster 1999).
+
+
+                                     ∑( ∗   )
+                                R=
+
+
+
+       Siendo:
+
+
+
+       E: Energía cinética de la tormenta de diseño.
+
+       I: Intensidad de la lluvia para un periodo dado.
+
+       N: Número de intervalos en el periodo de intensidad.
+
+
+
+A partir de la ecuación diversos autores establecieron nuevas ecuaciones
+
+empíricas, con base a fundamentos muy aceptables publicados en diferentes
+
+revistas científicas, entre los más utilizados:
+
+
+
+Roose (1995),
+
+                                   R = 0.865 ∗ P
+
+       Siendo:
+
+       P : Precipitación Total Anual (mm).
+
+
+
+Wischmeier and Smith (1978),
+                                      9.28 ∗ Pt ∗ 75
+                                 R=
+                                          1000
+
+
+Donde:
+
+       R = Erosividad media anual (MJ.mm/ha.h.año).
+
+
+
+                                                                         33
+       Pt = Precipitación media anual (mm).
+
+
+
+
+Rogler & Schwertmann (1981),
+
+                            R = 10(−1.48 + 1.48. NS)
+
+Donde:
+
+              R = Erosividad media anual (MJ.mm/ha.h.año).
+
+              NS = Precipitación media de los meses de lluvia.
+
+
+
+Erosionabilidad del suelo (K)
+
+
+
+Representa la susceptibilidad del suelo a la erosión, depende de la resistencia al
+
+desprendimiento de partículas del suelo, tanto al arranque como al transporte de
+
+partículas.
+
+
+
+Un suelo que mantiene una buena agregación hace difícil el proceso de erosión
+
+porque las partículas se mantienen unidas, no permitiendo el flujo de agua en su
+
+interior. Cuando los agregados se dispersan, las partículas son fácilmente
+
+erosionables, los poros se llenan de agua en lugar de infiltrarse fluye en
+
+superficie; Los factores que influyen sobre la erosionabilidad de un suelo son su
+
+permeabilidad y su contenido en materia orgánica(López Cárdenas, F, 2003)
+
+El factor K es difícil de determinar, normalmente se obtiene a partir de tablas o
+
+nomograma empíricos. K se expresa en T ha hr / ha MJ mm.
+
+
+
+Originalmente Wischmeir y Smith (1965) proponen valores de K para tipos de
+
+suelos específicos, mismos que habían correlacionado y experimentado, que en
+
+el 1978 presentan tablas que permiten evaluar el factor usando cinco
+
+parámetros. En la figura 3.1 se visualiza dicha propuesta.
+
+
+
+                                                                               34
+      1. Porcentaje de limos y arenas muy finas, diámetro de 0.002-0.10 mm.
+
+      2. Porcentaje de arena, partículas de diámetro 0.10-2.0 mm.
+
+      3. Porcentaje de materia orgánica.
+
+      4. Estructura del suelo.
+
+      5. Permeabilidad.
+
+
+
+          Figura 3.1: Monográfico para la Estimación del factor K.
+
+
+
+
+      Fuente: Foster at al., 1981.
+
+
+
+Factor de Cobertura Vegetal (C)
+
+
+
+Representa la cobertura vegetal del suelo. El factor de erosionabilidad debido a
+
+la cobertura vegetal (C ) representa la relación entre la pérdida de suelo de un
+
+terreno cultivado y la pérdida de suelo de un terreno sin ningún cultivo.
+
+
+
+A fin de obtener el valor de C para una zona en particular es necesario conocer
+
+cómo se distribuye la lluvia a través del año. Además se debe saber cuánta
+
+
+
+                                                                             35
+protección a la erosión ofrecen los cultivos, los residuos de cultivo y las prácticas
+
+de cultivo cuando se presenten tormentas (Figueroa et al., 1991).
+
+
+
+Para conocer el valor de C anual se cuenta con porcentajes de cobertura vegetal
+
+para cada tipo de cultivo bajo condiciones específicas de su manejo. Para cada
+
+etapa de cultivo se asigna un porcentaje de cobertura que se afecta por el
+
+porcentaje acumulado del índice de erosividad R. El acumulado de este producto
+
+arroja el valor de C promedio anual. Una descripción más detallada se puede
+
+encontrar en: Wischemeier y Smith, 1978; Figueroa et al., 1991; y López
+
+Cárdenas, 2003.
+
+
+
+Factor de longitud de la pendiente(LS).
+
+
+
+La pérdida de suelo por efecto de la longitud de la pendiente (L) de campo a
+
+partir de 22,1 metros, es causante de la erosión en el mismo tipo de suelo, pero
+
+no siempre es sensible la longitud de la pendiente de + 0 - 10%, estas están
+
+condicionadas por la rugosidad, en especial la vegetación (Mannaerts 1999).
+
+La inclinación de la pendiente. Representa el efecto de la inclinación de la
+
+pendiente en la erosión. La pérdida de suelo aumenta más rápidamente con la
+
+calidad de pendiente de lo que hace con la longitud de la pendiente.
+
+
+
+El factor de L y el factor S se suelen considerar juntos denominado factor
+
+topológico, que a partir de un modelo digital de elevaciones y un mapa de
+
+pendientes es posible calcular celda a celda los valores de LS (Wischmeier y
+
+Smith (1978).
+                       x
+              Ls =           ∗ (65.41 ∗ sen α + 4.45 ∗ senα + 0.065)
+                     22.13
+
+
+Donde:
+
+
+                                                                                  36
+x = longitud de la ladera (metros);
+
+α= pendiente de la ladera (grados);
+
+m = exponente que depende de la pendiente.
+
+
+
+
+      Tabla 3.1: Parámetros de cálculo para el factor topológico de C.
+
+                                  S(%)                   M
+
+                                    >5                   0,5
+
+                                 3,5 - 4,5               0,4
+
+                                   1 -3                  0,3
+
+                                   <1                    0,2
+                          Fuente: Wischmeier y Smith 1978
+
+
+
+Para pendientes menores del 20% y longitudes de declive menores de 350
+
+metros, Wischmeier (1982) ha obtenido la siguiente relación:
+                             .
+                       λ
+                  . =            . [0.065 + 0.0454. + 0.00065.   ]
+                      22.1
+
+
+Para pendientes mayores del 20% y longitudes de declive menores de 350
+
+metros, Wischmeier (1982) también ha obtenido la siguiente relación:
+                                             λ   .        .
+                                    . =      .
+                                                     .
+
+Dónde λ es la longitud de declive en metros y S es la pendiente del declive en
+
+porcentaje (%).
+
+
+
+Factor de la práctica de apoyo (P).
+
+
+
+
+                                                                           37
+Por definición el factor P de la USLE representa la relación de la pérdida de suelo
+
+bajo una práctica de conservación específica respecto a la pérdida de suelo de
+
+la misma zona sin ningún tipo de práctica (Wischmeier y Smith, 1978).
+
+
+
+3.2.- Modelos Matemáticos
+
+Los modelos matemáticos determinísticos Sed Cad 4 y Kineros 2, están
+
+debidamente implementadas por Universidad de Kentucky de los EE.UU y el
+
+Departamento de Agricultura de los EE.UU respectivamente.
+
+3.2.1.- Modelo Matemático Sed Cad 4
+
+
+
+Este modelo contempla aspectos hidrológicos, hidráulicos y sedimentológicos.
+
+En el aspecto hidráulico utiliza conceptos de tiempos de concentración, caudales
+
+instantáneos y transiciones que permiten evaluar la atenuación de los caudales.
+
+
+
+Tormentas y Caudales Instantáneos:
+
+
+
+Las tormentas o hietogramas son inputs que se ingresa al modelo hidrológico,
+
+Este genera caudales instantáneos con criterios de tiempos de concentración,
+
+números de curva y respuestas de hidrogramas que pueden tener las
+
+subcuencas de estudio.
+
+
+
+Tránsito de hidrogramas:
+
+
+
+Consiste en conocer cómo evoluciona un hidrograma a medida que discurre a lo
+
+largo de un cauce o través de un embalse. También es conocido como tránsito
+
+de avenidas.
+
+Existen varias metodologías para efectuar estos comportamientos que se
+
+agrupan en dos categorías (F, Javier Sánchez San Román).
+
+
+
+                                                                                38
+Métodos hidrológicos: se basan en la ecuación de continuidad, que para un
+
+tramo de un cauce establece que:
+
+
+
+          Volumen Entrada ∆t − Volumen Salida ∆t = Δt Almacenamiento
+
+
+
+      Dividido entre por ∆t:
+
+           Caudal Entrada − Caudal Salida = (Δt Almacenamiento)/Δt
+
+      ó
+
+                                 I − O = (ΔS)/Δt
+
+
+
+                                 I − O = (ΔS)/Δt
+
+
+
+                               I − O = (S2 − S1)/Δt
+
+      I= Caudal medio de entrada;
+
+      O= Caudal medio de salida;
+
+      ΔS =Incremento del almacenamiento.
+
+
+
+Métodos hidráulicos: Además de las ecuaciones de continuidad, utilizan las
+
+ecuaciones del movimiento del fluido, de modo que para canales y cauces en
+
+régimen no permanente se utilizan ecuaciones diferenciales:
+
+
+
+      Método Muskingum:
+
+      Método Muskingum - Cunge:
+
+
+
+El modelo Sed Cad 4 hace uso de la fórmula de la Ecuación Universal de la
+
+pérdida de Suelo Modificada(Manual de Diseño SC4, 2010). MUSLE estima la
+
+
+
+
+                                                                       39
+pérdida de suelo en una ladera causado por el impacto de las gotas de lluvia en
+
+la superficie.
+
+
+
+La ecuación de la pérdida de suelo está en función a:
+
+
+
+                                   = (       )
+
+       donde:
+
+       S = Concentración de sedimentos en (Tn/tormenta).
+
+           = Volumen de escurrimiento por tormenta en (acres-ft).
+
+           = Máximo Caudal Instantáneo en (Ft^3/s).
+
+       K = Factor de erosionabilidad del suelo, es una medida de la
+
+             susceptibilidad de las partículas del suelo a ser removidas de su
+
+             generatriz por la lluvia.
+
+       C = Factor de la cobertura del suelo, .
+
+       LS = Factor topográfico.
+
+        P = Factor de práctica de conservación.
+
+
+
+Sed Cad 4 requiere de inputs de la tormenta, hietograma, tiempos de
+
+concentración . A esto se requiere acoplar la caracterización hidrológica con
+
+tiempos de concentración de dicho evento y número de curva en el área de
+
+estudio.
+
+
+
+El volumen de escurrimiento por tormenta, que está definido por la siguiente
+
+expresión:
+                                         ( − 0.2 )
+                                     =
+                                           + 0.8
+
+
+para P > 0.2S.
+
+
+
+                                                                                 40
+                                          1000
+                                      =          − 10
+
+Donde:
+
+NC: Número de curva de la cuenca de análisis.
+
+S: Abstracción inicial.
+
+P: Precipitación de la tormenta de diseño.
+
+
+
+3.2.2.- Modelo Matemático Kineros 2
+
+
+El modelo determinístico distribuido Kineros 2 hace uso de fórmulas de la
+
+Ecuación de Balance de Masa, además de la Ecuación Cinemática
+
+Unidimensional.
+
+En el balance se masa el modelo contabiliza tres parámetros fundamentales, las
+
+cuales son: la precipitación, la infiltración y la escorrentía. La idealización de este
+
+balance se muestra en la figura 3.2, que es aplicado al flujo superficial en planos
+
+o subcuencas y canales o cauces.
+
+
+
+             Figura 3.2: Esquema del balance de masa en el Kineros 2.
+
+
+
+
+                     Fuente: http://www.tucson.ars.ag.gov/kineros/
+
+
+
+Kineros tiene cuatro componentes que se describirán a continuación:
+
+
+
+
+                                                                                    41
+Flujo Superficial: Proceso de flujo Unidimensional en el que el flujo está
+
+relacionado con el almacenamiento de unidad de área.
+
+
+
+                                          =∝ℎ
+
+Donde:
+
+ : Descarga por ancho unitario.
+
+ℎ: Almacenamiento por unidad de área.
+
+∝ y m : Parámetros que están en función a la pendiente de terreno.
+
+
+
+El flujo superficial, también está gobernado por la ecuación de continuidad, ya
+
+que el proceso de flujo es unidimensional .
+                                  ℎ
+                                      +    = ( , )
+
+Donde:
+t: Es el tiempo;
+
+x: Distancia a lo largo de la dirección de la pendiente;
+
+q: Tasa de flujo lateral;
+
+
+
+Las ecuaciones de onda cinemática son simplificaciones de las ecuaciones de
+
+Saint Venant y no conservan todas las propiedades de las ecuaciones más
+
+complejas, como remanso y atenuación de la onda difusiva. El método de
+
+enrutamiento cinemático es una muy buena aproximación para las condiciones
+
+de flujo superficial (Woolhiser y Liggett, 1967; Morris y Woolhiser, 1980).
+
+
+
+Flujo Superficial en canales: El proceso de flujo superficial en canales también
+
+considera aproximaciones de la ecuación cinemática. La ecuación de
+
+continuidad en flujos de secciones están representados por;
+
+
+
+
+                                                                              42
+                                     +    =       ( , )
+
+Donde:
+A: Sección del área por donde pasa el flujo;
+
+Q: Descarga del canal:
+
+  ( , ): Entrada neta lateral de descarga por unidad de longitud del canal;
+
+
+
+Además Q puede expresarse en función de A, es decir:
+
+
+
+
+                                 +            =    ( , )
+
+
+
+La simplificación de la ecuación cinemática se basa en relacionar la descarga
+
+del canal con la forma de la sección transversal.
+
+
+
+                                     =∝
+
+Donde:
+
+
+
+R: Radio hidráulico;
+           /
+∝ = 1.49       / ;
+
+m: 5/3;
+
+
+
+Infiltración: Kineros requiere tres parámetros básicos para describir las
+
+propiedades de infiltración del suelo: La conductividad hidráulica saturada
+
+efectiva( ), la capilaridad (G) y la porosidad (φ).
+
+
+
+
+                                                                              43
+En el tema de infiltración considera la propuesta de Smith and Parlange(1978),
+
+que son metodologías para modelar la infiltración, los inputs que se consideran
+
+son los siguientes:
+
+
+
+      fc   :   Capacidad de Infiltración (m/s)
+
+      Ks : Conductividad hidráulica saturada (m/s)
+
+      Ki : Conductividad hidráulica inicial (m/s)
+
+      θs   : Contenido de agua del suelo
+
+      θi   : Contenido inicial de agua del suelo
+
+      G    : Capilaridad (m)
+
+      P    : Tasa de precipitación (mm/s)
+
+      Y    : Parámetro Smith - Parlange (0-1)
+
+      F    : Lluvia acumulada (mm)
+
+      B    : Parámetro de capilaridad (m)
+
+                             =     +   ∗(      +   )   ∗
+
+
+                                               ó
+
+                            =     ∗     ( )/               −
+
+                                        =   ∗(     −   )
+
+
+
+Estas relaciones se encuentran sustentadas en el manual de usuario del Modelo
+
+Kineros (1990).
+
+
+
+Erosión y Transporte de Sedimento: Kineros cuenta por separado la erosión
+
+causada por la energía de la lluvia y la erosión causada por el agua que fluye.
+
+
+
+La ecuación general que utiliza KINEROS para determinar la dinámica del
+
+sedimento en cualquier parte a lo largo de la trayectoria en un flujo superficial es
+
+
+
+                                                                                 44
+una ecuación de balance de masa similar a la del flujo de agua cinemática
+
+(Bennett, 1974).
+
+
+
+
+                        (    )       (   )
+                                 +           − ( , )= ( , )
+
+Donde:
+
+
+
+      Cs = Concentración de Sedimentos(L³/ L³);
+
+      Q =Tasa de Descarga de Agua(L³/T);
+
+      A =Área de la sección del Flujo(L²);
+
+      e =Tasa de Erosión del Lecho de Suelo(L²/T);
+
+      q =Tasa de Sedimentación Lateral del Cauce(L²/T/L).
+
+
+
+Para terrenos en pendiente se asume que e se constituye de dos principales
+
+componentes: Producción de suelo erosionado por precipitación y erosión (o
+
+deposición) hidráulica por la interacción entre la fuerza del agua sobre el suelo y
+
+la tendencia de las partículas de suelo de establecerse por acción de la fuerza
+
+de la gravedad.     De esta manera puede ser positiva (incremento de la
+
+concentración en el agua) o negativa(deposición). La erosión neta es la suma de
+
+las tasas de erosión por salpicadura es y la tasa de erosión hidráulica eh.
+
+
+
+                                         =     +
+
+
+
+Erosión por Salpicadura ( ): Basado en evidencia experimental, la tasa de
+
+erosión por salpicadura se puede aproximar como una función del cuadrado de
+
+la intensidad de la lluvia (Meyer y Wischmeier, 1969). En Kineros la tasa de
+
+erosión por salpicadura se da de la siguiente manera:
+
+
+
+
+                                                                                45
+                                     =       (ℎ) ²
+
+
+
+Donde:
+
+
+
+  : Constante relacionada con la propiedad del suelo y la superficie;
+
+ (ℎ): Factor que representa la reducción por salpicadura causada por el aumento
+
+de la profundidad del agua. La función         (ℎ) tiene el valor de 1.0 antes de la
+
+escorrentía y el valor de 0.0 para cuando se produce la escorrentía y se tiene un
+
+tirante alto, y viene dada por la expresión:
+
+
+                                               (     )
+                                  (ℎ) =
+
+
+
+  : Representa el amortiguamiento del agua de superficie.
+
+
+
+Erosión hidráulica( ): Representa la tasa de intercambio de sedimentos entre
+
+el agua que fluye y el suelo sobre el que fluye y puede ser positivo o negativo.
+
+Kineros asume que para cualquier condición de flujo de agua superficial hay una
+
+concentración de equilibrio de los sedimentos . La erosión hidráulica o
+
+sedimentación se modela como un proceso de transferencia cinética.
+
+
+
+                                   =     (     −     )
+
+
+
+Donde:
+
+
+
+  : capacidad de equilibrio de transporte de concentración;
+
+  =    ( , ): Actual concentración de sedimentos local;
+
+  : Coeficiente de velocidad de transferencia;
+
+
+
+
+                                                                                 46
+Conceptualmente, cuando se está produciendo la deposición,            es teóricamente
+
+igual a la velocidad de sedimentación de partículas dividida por la profundidad
+
+hidráulica, h. Para las condiciones de erosión en suelos cohesivos, el valor de
+
+debe reducirse, y   /   se utiliza como un límite superior para   .
+
+
+
+
+                                                                                  47
+4. APLICACION A LA CUENCA DEL RIO ALLAHUALLA
+
+
+
+4.1.- Área de Aplicación
+
+
+
+La cuenca Allahualla está ubicada al sur este de la Región de Cusco, en el distrito
+
+de Yauri perteneciente a la provincia de Espinar. La cuenca Allahualla tiene una
+
+extensión de 89.5 km² aproximadamente. En la figura 4.1            se muestra la
+
+ubicación de la cuenca.
+
+
+
+           Figura 4.1: Mapa de Ubicación de la Cuenca Allahualla.
+
+
+
+
+         Fuente: Elaboración Propia
+
+
+
+
+                                                                                48
+La Cuenca del río Allahualla es un afluente del río Cañipia. el río Cañipia entrega
+
+sus aguas al río Salado, y este finalmente desemboca en el río Apurímac de la
+
+vertiente del Océano Atlántico.
+
+
+
+4.2.- Caracterización Hidrológica de la Cuenca Allahualla
+
+
+
+En la figura 4.2 se visualiza la red caracterizada para ambos modelos
+
+distribuidos. Esta red está conformada por 14 subcuencas, 34 sectores (planos)
+
+y 14 cursos (canales).
+
+
+
+     Figura 4.2: Caracterización hidrológica de la Cuenca Allahualla.
+
+
+
+
+      Fuente: El--aboración Propia.
+
+
+
+
+                                                                                49
+En la figura 1 del Anexo, se muestra la clasificación de las 14 subcuencas de
+
+donde se construyó la caracterización hidrológica.
+
+4.3.- Aplicación de las Metodologías Propuestas
+
+
+
+4.3.1.- Aplicación con los Métodos Teóricos
+
+
+
+Para cuantificar la producción de sedimentos se hará uso de los métodos
+
+Gavrilovic y USLE explicado en los Items 3.1.2 y 3.1.4, ya que éstos métodos
+
+tienen como resultado a la cantidad de sedimentos por evento de una tormenta,
+
+lo que también ocurre en los modelos hidrológicos Sed Cad 4 y Kineros 2.
+
+
+
+Aplicación del Método Teórico Gavrilovic
+
+
+
+Determinando los factores descriptivos (según la tabla 3.1) para la cuenca del
+
+río Allahualla según la visita de campo, fotografías y ortofotos , se tiene:
+
+
+
+                      Diagrama de Flujo de GAVRILOVIC
+
+
+
+
+                  Fuente: Elaboración Propia
+
+
+
+      Cobertura y uso del suelo (X): 0.6;
+
+
+                                                                               50
+      Resistencia del suelo a la erosión (Y): 1.0;
+
+      Tipo de proceso erosivo y estado (φ): 0.50, además se conoce los valores
+
+       de:
+
+      Pendiente media de la cuenca Allahualla (I): 15.6%;
+
+      Temperatura media de la zona de estudio (           ): 15ºC, se calculan los
+
+       valores de T y Z:
+
+      Coeficiente de temperatura (T): 1.26, también son conocidos los
+
+       parámetros de F y h:
+
+      Superficie de la cuenca Allahualla (F): 89.4 km²;
+
+      Precipitación por evento de tormenta (h): 43 mm/tormenta;
+
+      Coeficiente de erosión(Z): 2.67, luego se llega a determinar el valor de W;
+
+      Producción media anual de sedimento por erosión superficial (W): 177
+
+       782 Tn,
+
+      Para determinar R: Se conoce los siguientes parámetros morfológicos:
+
+       L=23 km, Li=69km, O=49km, D=0.8km, F=89.4km²;
+
+      Coeficiente de retención (R): 0.195;
+
+      Descarga media del material erosionado (G): 34 480 Tn.
+
+
+
+
+Aplicación del Método Teórico USLE
+
+
+
+Siguiendo el análisis desarrollado en el Item 3.1.4 se realizará la aplicación para
+
+la cuenca del río Allahualla como el anterior método. Se conoce que:
+
+
+
+
+                                                                                51
+                         Diagrama de Flujo de USLE
+
+
+
+
+             Fuente: Elaboración Propia
+
+
+
+   La tormenta de lluvia (P): 43 mm, calculando el parámetro R (Roose,
+
+    1995);
+
+   Erosividad pluvial (R): 37.2 MJ.mm/ ha.h.año, determinando el factor K
+
+    con el monograma de Foster (figura 3.1);
+
+   Erosionabilidad del suelo (K): 0.45, calculando el factor L.S., según las
+
+    relaciones de Wischmeier. Sabiendo que los parámetros declive y
+
+    pendiente son 305m y 20 % ;
+
+   Factor topológico (L.S): 14.77;
+
+   Factor de cobertura vegetal (C): 0.008, según C. T. Haan;
+
+   Factor de prácticas de conservación (P): 1.0, según C. T. Haan;
+
+   Pérdida Anual del Suelo (E): 1.978 Tn/ha; Considerando el área de la
+
+    cuenca Allahualla que tiene una extensión de 89.4 km² se tiene que;
+
+   Pérdida Anual del Suelo (E): 17 686 Tn.
+
+
+
+
+                                                                          52
+4.3.2.- Aplicación con el Modelo Sed Cad 4
+
+
+
+En el Ítem 3.2.1 se explicó los conceptos que considera este modelo hidrológico.
+
+en los Ítem siguientes se hablará de cada elemento que compone el modelo
+
+matemático distribuido.
+
+
+
+Storm Information (Información de Tormenta)
+
+
+
+Aquí es donde se introducen al modelo hidrológico todos los inputs relacionados
+
+a la energía producida por las precipitaciones. En la figura 4.3 se muestra los
+
+tipos y parámetros de precipitación que se incorporan.
+
+
+
+         Figura 4.3: Información de la Tormenta en el Modelo SC4.
+
+
+
+
+Fuente: Modelo Sed Cad.
+
+
+
+Storm Type (Tipo de Tormenta)
+
+
+
+En este opción es donde se especifica el hietograma de diseño(Rain Event)
+
+acumulado en 24 horas (información horaria), En la Tabla 4.1 se reporta tal
+
+información.
+
+
+                                                                             53
+              Tabla 4.1: Evento de lluvia (Estación Quechua).
+                                                             Rain
+                                                Rain
+                        Data       Time                  Acumulated
+                                               (pulg)
+                                                            (pulg)
+                     24/01/2010    4:00 PM     0.00          0.00
+                     24/01/2010    5:00 PM     0.69          0.69
+                     24/01/2010    6:00 PM     0.10          0.79
+                     24/01/2010    7:00 PM     0.13          0.91
+                     24/01/2010    8:00 PM     0.11          1.02
+                     24/01/2010    9:00 PM     0.06          1.08
+                     24/01/2010   10:00 PM     0.06          1.14
+                     24/01/2010   11:00 PM     0.06          1.20
+                     25/01/2010   12:00 AM     0.03          1.23
+                     25/01/2010    1:00 AM     0.02          1.24
+                     25/01/2010    2:00 AM     0.02          1.26
+                     25/01/2010    3:00 AM     0.04          1.30
+                     25/01/2010    4:00 AM     0.06          1.35
+                     25/01/2010    5:00 AM     0.06          1.41
+                     25/01/2010    6:00 AM     0.04          1.45
+                     25/01/2010    7:00 AM     0.02          1.47
+                     25/01/2010    8:00 AM     0.01          1.48
+                     25/01/2010    9:00 AM     0.06          1.54
+                     25/01/2010   10:00 AM     0.04          1.58
+                     25/01/2010   11:00 AM     0.09          1.68
+                     25/01/2010   12:00 PM     0.02          1.69
+                     25/01/2010    1:00 PM     0.01          1.70
+                     25/01/2010    2:00 PM     0.00          1.70
+                     25/01/2010    3:00 PM     0.00          1.70
+                     25/01/2010    4:00 PM     0.00          1.70
+
+               Fuente: Ministerio de Ambiente del Peru
+
+
+
+De no tener tal información se puede elegir un tipo de tormenta del Servicio de
+
+Conservación de Recursos Naturales (NRCS tipo IA, tipo I, Tipo II y Tipo II) que
+
+el modelo ofrece como alternativa.
+
+
+
+NRCS Distribution Determination (Determinación de la Distribución)
+
+
+
+Una descripción muy simplificada de la metodología para determinar las
+
+distribuciones del NRCS son lo siguiente:
+
+
+
+
+                                                                             54
+Suponga que los valores de los incrementos de precipitaciones se conocen
+
+desde hace 10 años de tormentas en la región de aplicación de un tipo de
+
+distribución. Luego de ello analizar los 10, 15, 30 valores más altos de 5 minutos
+
+se determinan para toda el área geográfica. También, la más alta 1, 2, 3 ... lluvia
+
+horas intensidades se indican. Estas intensidades observadas más altas se
+
+colocan en una precipitación 24 de distribución para luego compararlas con las
+
+tormentas propuestas del NRCS. De esa manera podríamos asumir un tipo de
+
+tormenta para la región de aplicación (Manual de diseño SC4, 2010).
+
+
+
+Design Storm (Diseño de tormenta)
+
+
+
+La tormenta de diseño se describe por la frecuencia (intervalo de frecuencia-año)
+
+y tormenta Duración (horas). Se puede elegir entre una lista de las tormentas de
+
+diseño que son utilizados frecuentemente y el diseño de tormenta deseado.
+
+
+
+Rainfall Depth (Altura de lluvia)
+
+
+
+En éste ítem se hace mención de la información sobre la altura de la tormenta
+
+de diseño, que está asociada a una frecuencia y duración específica.
+
+
+
+El valor de la tormenta de diseño asciende a 43.2mm (1.7 pulgadas) y una
+
+intensidad de 17.4 mm/hra, estos valores han sido extraídos de la Estación
+
+Meteorológica Quechua, los registros de la estación son a nivel horario.
+
+Considerando la clasificación de Ven Te Chow la tormenta está considerada
+
+como una fuerte lluvia. En la figura 2 del Anexo se ilustra espacialmente la
+
+ubicación de la estación pluviométrica mencionada.
+
+
+
+Sedimentology (Sedimentología)
+
+
+
+                                                                                55
+En esta componente del modelo Kineros se consideran las distribuciones del
+
+tamaño de partículas erosionables de la cuenca o sector en estudio, es decir la
+
+granulometría de las muestras de suelo erosionable. En la figura 4.4 se muestra
+
+la distribución granulométrica del Río Allahualla.
+
+
+
+La granulometría es un factor determinante para calcular la erosión laminar
+
+producida en una cuenca, esta distribución de partículas proviene de los
+
+muestreos realizados de suelos erosionables en el área de estudio.
+
+En los libros de "Introducción al estudio de Transporte de sedimentos " de Rocha
+
+Felices y "Principios de Transporte de Sedimentos en Ríos, Estuarios y Mares
+
+Costeros" de Van Rijn se muestran una clasificación de partículas de acuerdo a
+
+la American Geophysical Union (AGU), y en la tabla 4.2 se reportan.
+
+
+
+            Tabla 4.2: Clasificación de Partículas Según la AGU.
+
+
+
+
+                    Fuente: American Geophysical Union
+
+
+
+
+                                                                             56
+La granulometría con la que trabajó incorpora las cuatro últimas clasificaciones
+
+que son: Gravas, Arenas, Limos y Arcillas.
+
+                    Figura 4.4: Distribución Granulométrica del Material
+                              Sólido de la cuenca Río Allahualla
+                                                                                 120
+
+
+
+
+                                                                                       Porcentaje que Pasa (%)
+                                                                                 100
+                                                                                 80
+                                                                                 60
+                                                                                 40
+                                                                                 20
+                                                                                  0
+           10               1               0.1               0.01           0.001
+                                Diámetro de Partículas (mm)
+
+        Fuente: Ministerio de Ambiente del Perú.
+
+
+
+La distribución granulométrica muestra que el material sólido está constituido
+
+por gravas, arenas, limos y arcillas. En su mayoría está constituido por arena y
+
+limo.
+
+
+
+Como input sedimentológico se incluye también                        la gravedad específica de
+
+dichos muestreos (2.65 Tn/m³). En la figura 4.5 se señala la opción introducen
+
+las características mencionadas.
+
+
+
+           Figura 4.5: Información Sedimentológica en el Modelo SC4
+
+
+
+
+                                                                                                                 57
+      Fuente: Modelo Sed Cad.
+
+Networking (Redes y Conexiones)
+
+
+
+En esta componente se considera las redes de subcuencas y cauces del sistema
+
+de la cuenca de estudio Allahualla que se han obtenido de la delimitación de
+
+sectores en la zona de estudio, en esta opción se enlaza como están distribuidos
+
+los cauces naturales y subcuencas en cuestión. En la figura 4.6, se idealiza una
+
+caracterización para el modelo determinístico Sed Cad 4.
+
+
+
+  Figura 4.6: Caracterización hidrológica de la Cuenca Allahualla para el
+
+                        Modelo Matemático Sed Cad 4.
+
+
+
+
+                                                                             58
+  Fuente: Elaboración Propia.
+
+
+
+La caracterización hecha (34 sectores y 14 cauces ) en la figura 4.5 se introduce
+
+en la opción Networking de la figura 4.7.
+
+
+
+            Figura 4.7: Información hidrológica en el Modelo SC4
+
+
+
+
+        Fuente: Modelo Sed Cad.
+
+
+                                                                              59
+Otro a considerar son las transiciones       que ofrece el modelo, es decir la
+
+atenuación que se dan en las quebradas y ríos.
+
+
+
+Subwatershed Information - Desingn (Información de la Cuenca - Diseño)
+
+
+
+En la componente Design de Estructure se considera el cuerpo del modelo dado
+
+a que se introducen los parámetros hidrológicos, hidráulicos y sedimento lógicos.
+
+          Figura 4.8: Información Subwatershed en el Modelo SC4
+
+
+
+
+      Fuente: Modelo Sed Cad.
+
+Dentro de esta ventana se encuentra el cuerpo del modelo. Aquí se introducen
+
+las áreas, tiempos de concentración, números de curva (NC), curvas
+
+granulométricas, factor de erosionabilidad del suelo (K), factor de la cobertura
+
+del suelo (C), factor topológico del suelo (LS), factor de práctica de conservación
+
+(P). De ser el caso también se llegan a incorporar pozas sedimentadoras o pozas
+
+de atenuación. En la tabla 4.3 se muestran los inputs que corresponden a la
+
+estructura Design del modelo.
+
+
+
+  Tabla 4.3: Parámetros hidráulicos y sedimentológicos de ingreso a la
+
+                           Cuenca en el Sed Cad 4.
+
+
+
+
+                                                                                60
+ID                    Area       NC
+       Element (2)                        L (m)      K (4)   L (m)     S (%)     C (5)   P (5)
+(1)                   (km²)       (3)
+
+
+45         F1         12.8        80       4443      0.45      305      19.3     0.008    1
+
+46         F2          2.1        80       747       0.45      305      5.9      0.008    1
+
+47         F3          0.2        80       1126      0.45      305      21.4     0.008    1
+
+42         G1          8.2        80       2142      0.45      305      25.9     0.008    1
+
+43         G2          9.2        80       3969      0.45      305      12.5     0.008    1
+
+35         H1          0.2        80       968       0.45      305      16.4     0.008    1
+
+36         H2          3.2        80       5772      0.45      305          18   0.008    1
+
+29         11          0.6        80       1164      0.45      305      22.7     0.008    1
+
+30         I2          0.6        80       1205      0.45      305      10.2     0.008    1
+
+19         J1          1.9        80       1669      0.45      305      22.4     0.008    1
+
+20         J2          1.5        80       2655      0.45      305          14   0.008    1
+
+9          K1          5.6        80       1166      0.45      305      19.2     0.008    1
+
+10         K2          1.2        80       860       0.45      305      10.7     0.008    1
+
+1          L1          5.1        80       1293      0.45      305      20.8     0.008    1
+
+2          L2          8.1        80       2643      0.45      305      22.6     0.008    1
+
+3          L3          2.4        80       1723      0.45      305      15.2     0.008    1
+
+38         S1          1.5        80       2643      0.45      305          27   0.008    1
+
+39         S2          2.5        80       2329      0.45      305      24.1     0.008    1
+
+40         S3          1.3        80       1862      0.45      305      32.3     0.008    1
+
+32         T1          0.7        80       694       0.45      305      10.6     0.008    1
+
+33         T2          2.2        80       2682      0.45      305          16   0.008    1
+
+25         U1          0.3        80       232       0.45      305      18.6     0.008    1
+
+26         U2          0.7        80       1235      0.45      305      22.7     0.008    1
+
+27         U3          2.1        80       1768      0.45      305      27.1     0.008    1
+
+22         V1          0.9        80       713       0.45      305      16.6     0.008    1
+
+23         V2          2.3        80       2799      0.45      305      15.4     0.008    1
+
+15         W1          0.4        80       693       0.45      305      26.5     0.008    1
+
+16         W2          0.1        80       260       0.45      305      20.1     0.008    1
+
+17         W3          1.4        80       3454      0.45      305      24.6     0.008    1
+
+12         X1          0.2        80       292       0.45      305      7.8      0.008    1
+
+13         X2          1.0        80       2373      0.45      305      11.9     0.008    1
+
+5          Y1          3.9        80       1252      0.45      305          26   0.008    1
+
+6          Y2          3.1        80       2562      0.45      305          27   0.008    1
+
+7          Y3          1.9        80       1465      0.45      305      37.6     0.008    1
+
+ (1) Caracterización hidrológica de la cuenca Allahualla(ver figura 4.2).
+
+
+
+                                                                                                 61
+      (2) Caracterización Sed Cad 4(ver figura 4.6).
+
+      (3) Ven Te Chow, Hidrología aplicada 1994.
+
+      (4) Monograma de Foster (ver figura 3.1).
+
+      (5) C. T. Haan, Diseño hidrológico y sedimentológicos para cuencas pequeñas 1994.
+
+
+
+
+Aplicación de la Ecuación MUSLE
+
+
+
+Dado que el modelo Sed Cad 4 determina la cantidad de sedimentos en función
+
+al criterio MUSLE que ha sido analizado en el Ítem 3.2.1, a continuación se harán
+
+unos cálculos que simulen la secuencia del modelo.
+
+                     Diagrama de Flujo de MUSLE - SED CAD
+
+
+
+
+          Fuente: Elaboración Propia
+
+Son conocidos los parámetros K, L.S, C, y P.
+
+   1. Erosionabilidad del suelo (K): 0.45, que fue determinado del monograma
+
+      de Foster (figura 3.1);
+
+   2. Factor topológico (L.S): 14.77, determinado de las relaciones de
+
+      Wischmeier. Sabiendo que los parámetros declive y pendiente son 305m
+
+      y 20 % ;
+
+   3. Factor de cobertura vegetal (C): 0.008, según C. T. Haan;
+
+   4. Factor de prácticas de conservación (P): 1.0, según C. T. Haan;
+
+   5. Volumen de escurrimiento por descarga (Q): 743 530 m³ Según la
+
+      simulación Sed Cad 4;
+
+
+                                                                                          62
+   6. Máximo caudal instantáneo (q): 24 m³/s Según la simulación Sed Cad 4;
+
+   7. Concentración de Sedimentos (S): 7 218 Tn/ tormenta.
+
+
+
+4.3.3.- Aplicación con el Modelo Kineros
+
+
+
+En el Ítem 3.2.2 se explicó los conceptos que considera este modelo hidrológico.
+
+en los Ítem siguientes se hablará de cada elemento que compone el modelo
+
+matemático distribuido.
+
+Creation de Input Files (Creación de los archivos de Ingreso al modelo)
+
+
+
+KINEROS lee los datos de entrada de los dos archivos de entrada: Uno con
+
+extensión PRE y otra con extensión PAR:
+
+      Un archivo contiene los datos de lluvia (extensión PRE) para todos las
+
+       estaciones pluviométricas sobre o cerca de la cuenca que se utilizan en
+
+       la simulación, tal archivo se puede visualizar en el Anexo Kineros.
+
+
+
+      El segundo archivo contiene datos que describen las características
+
+       hidrológicas de las superficies y canales de la cuenca (extensión PAR).
+
+       En este archivo están los datos que describen la red de las cuencas y los
+
+       canales, su tamaño y la pendiente, rugosidad hidráulica de cada uno, y de
+
+       infiltración y erosión parámetros de cada elemento, tal archivo se puede
+
+       visualizar en el Anexo Kineros.
+
+
+
+Watershed Geometry - Selection of Planes and Channels (Geometría de la
+
+Cuenca - Selección de los Planos y Canales).
+
+
+
+El objetivo es seleccionar un conjunto de planos y canales y la vinculación de
+
+flujo que preserve las variaciones espaciales más significativos de la topografía,
+
+
+
+                                                                               63
+los suelos, la cubierta, y las precipitaciones. Aunque no existe un método objetivo
+
+para la selección de la red de planos y canales, Lane et al. (1975) proporciona
+
+algunas pautas y puntos de vista sobre los efectos de la simplificación
+
+geométrica de los valores de los parámetros y simulación hidrograma. En la
+
+figura 4.9 se muestra la vinculación entre los planos y los canales (34 planos y
+
+14 canales).
+
+
+
+
+  Figura 4.9: Caracterización hidrológica de la Cuenca Allahualla para el
+
+                        Modelo Matemático Kineros 2.
+
+
+
+
+                                                                                64
+Fuente: Elaboración Propia.
+
+
+
+Los parámetros que intervienen en la caracterización de los planos de la cuenca
+
+son:
+
+Conductividad hidráulica efectiva (Ks), Capilaridad (G), Porosidad(ϕ), Fracción
+
+de la distribución de partículas, Intercepción de la lluvia, Manning(n) de los
+
+planos o subcuencas, geometría de la cuenca.
+
+
+
+En la Tabla 4.4 se muestran estos parámetros de ingreso de los planos de la
+
+cuenca.
+
+
+
+
+   Tabla 4.4: Parámetros hidráulicos y sedimentológicos de ingreso a la
+
+                              Cuenca en el Kineros 2.
+
+
+                                                                            65
+ID Kineros (2)
+
+
+
+
+                                                                       Mannlng (n)(3)
+
+
+
+
+                                                                                                       Ksat [mm/ hr]
+                 Elemento (1)
+
+
+
+
+                                                                                                                                     Poroslty ϕ (4)
+                                                         Slope [m/m]
+
+
+
+
+                                                                                        Interception
+
+
+
+
+                                                                                                                                                                                              Fractions of
+                                                                                                                        Capilary G
+
+
+
+
+                                                                                                                                                                                              the particle
+                                Length [m]
+
+
+
+
+                                                                                                                                                                                                               Rain splas
+                                                                                                                                                                    Size distri
+
+
+
+
+                                                                                                                                                                                                                            Coheslon
+                                                                                                                                                      Vol. fract.
+                                             Width [m]
+
+
+
+
+                                                                                                                                                                                  CV of Ks
+
+
+
+
+                                                                                                                                                                                                sizes (6)
+                                                                                          [mm] (4)
+
+
+
+
+                                                                                                                         [mm] (4)
+
+
+
+
+                                                                                                                                                                      bution
+
+
+
+
+                                                                                                                                                                                                                 coeff.
+                                                                                                                                                        Rock
+
+
+
+
+                                                                                                                                                                                                                              coeff
+                                                                                                                  (5)
+                                                                                                                                                                                             0.0015, 0.1105,
+   11              F1           9304         1381        0.193         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   12              F2           5947         358         0.059                              1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                       0.15                                                                                                                  0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   13              F3           1126         194         0.214         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   14              G1           7242         1137        0.259         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   15            G12            10569        870         0.125         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   16              H1            968         229         0.164         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   17              H2           5772         561         0.180         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   18              11           1964         314         0.227         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   19               I2          2205         286         0.102         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   20              J1           3169         596         0.224         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   21              J2           3955         381         0.140         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   22              K1           7166         784         0.192         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   23              K2           2860         415         0.107         0.15                 1                4           260           0.4             0.2           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   24              L1           9793         524         0.208         0.15                 1                4           260           0.4             0.1           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   25              L2           7443         1082        0.226         0.15                 1                4           260           0.4             0.1           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   26              L3           4223         567         0.152         0.15                 1                4           260           0.4             0.1           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   43              S1           4643         330         0.270         0.15                     1                4       260           0.4             0.1           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   44              S2           4329         588         0.241         0.15                     1                4       260           0.4             0.1           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+                                                                                                                                                                                             0.0015, 0.1105,
+   45              S3           1862         693         0.323         0.15                     1                4       260           0.4             0.1           0.33         0.8        0.3530, 0.3620,     50          0.1
+                                                                                                                                                                                             0.1730.
+
+
+
+
+                                                                                                                                                                                                                            66
+                                                                                        0.0015, 0.1105,
+  46    T1    2694     259   0.106   0.15   1      4   260    0.4   0.2    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  47    T2    4682     477   0.160   0.15   1      4   260    0.4   0.2    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  48    U1    2632     124   0.186   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  49    U2    2635     248   0.227   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  50    U3    3268     656   0.271   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  51    V1    2413     353   0.166   0.15   1      4   260    0.4   0.2    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  52    V2    5199     438   0.154   0.15   1      4   260    0.4   0.2    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  53   W1     1193     331   0.265   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  54   W2     960      118   0.201   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  55   W3     3454     404   0.246   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  56    X1    1092     173   0.078   0.15   1      4   260    0.4   0.2    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  57    X2    4373     230   0.119   0.15   1      4   260    0.4   0.2    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  58    Y1    8252     474   0.260   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  59    Y2    7362     417   0.270   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+                                                                                        0.0015, 0.1105,
+  60    Y3    2265     830   0.376   0.15   1      4   260    0.4   0.1    0.33   0.8   0.3530, 0.3620,   50    0.1
+                                                                                        0.1730.
+(1) Caracterización hidrológica de la cuenca Allahualla(ver figura 4.2).
+
+(2) Caracterización Kineros 2(ver figura 4.9).
+
+(3) Woolhiser (1975) and Engman (1986).
+
+(4) http://www.tucson.ars.ag.gov/kineros/
+
+(5) Mannaerts, 1999.
+
+(6) Minera Quechua.
+
+
+
+
+                                                                                                               67
+Estimation of Hydraulic Resistance Parameters (Estimación de los
+
+parámetros de Resistencia Hidráulica)
+
+
+
+EL parámetro de resistencia que aplica a la cuenca en estudio, es el número de
+
+manning, tanto en los planos como en los canales. En la tabla 4.5 se muestra
+
+algunas recomendaciones para adoptar la resistencia según sea el material.
+
+
+
+  Tabla 4.5: Recomendación de Coeficientes de Número de Manning para
+
+                                Flujo Superficial.
+
+
+
+
+             Fuente: (Woolhiser (1975) and Engman (1986))
+
+
+
+
+                                                                             68
+Infiltration Parameter Estimation (Estimación de los parámetros de
+
+Infiltración)
+
+
+
+Kineros requiere de tres parámetros básicos para describir las propiedades de
+
+infiltración de un suelo: La conductividad hidráulica efectiva saturada de campo
+
+(Ks), la capilaridad del suelo (G) y la porosidad del suelo (ϕ).
+
+
+
+Los parámetros también se pueden determinar a partir de las características
+
+hidráulicas del suelo insaturados, pero estos datos son lo más a menudo
+
+disponible. Si se conoce la clase textural del suelo por ejemplo, franco arcilloso,
+
+franco limoso, franco arcillo arenoso los parámetros pueden ser estimados con
+
+base en las tabulaciones de Rawls et al. (1982). En la tabla 4.6 se reporta
+
+algunos valores de los parámetros que provocan la infiltración en las
+
+subcuencas.
+
+
+
+                  Tabla 4.6: Parámetros hidráulicas del suelo.
+
+
+
+
+       (1) UNSODA (Unsaturated Soil Hydraulic database).
+
+       (2) Manual de Usuario Kineros, 1990.
+
+
+
+
+                                                                                69
+El método utilizado para determinar los parámetros de infiltración depende de la
+
+cantidad y el tipo de datos disponibles para una aplicación determinada y la
+
+experiencia individual del modelador del KINEROS.
+
+
+
+Erosion Parameters (Parámetros de Erosión)
+
+
+
+Básicamente se considera la distribución de partículas que se obtiene en los
+
+muestreos de campo, además de las densidades de los suelos analizados.
+
+
+
+El modelo limita a utilizar solo cinco tamaños de partículas representativas, las
+
+cuales son: 0.001 (coloide), 0.002(arcilla). 0.010(limo), 0.6 (arena) y 3.0 mm
+
+(grava). Existe el conocimiento suficiente para utilizar los siguientes supuestos
+
+en nuestra formulación del modelo, sin embargo:
+
+
+
+1 . Si el tamaño de partícula más grande en un terreno de tamaños mixtos es por
+
+debajo de su umbral de la erosión, la erosión de los tamaños más pequeños será
+
+limitado, ya que de otra armadura pronto detener el proceso de erosión.
+
+2 . Cuando existen condiciones erosivas para todos los tamaños de partículas,
+
+las tasas de erosión de partículas será proporcional a la ocurrencia relativa de
+
+los tamaños de partícula en la superficie del suelo. Lo mismo puede decirse de
+
+la erosión por salpicadura de la lluvia .
+
+3. Partícula asentando velocidades, cuando las concentraciones exceden
+
+transportabilidad, son independientes de la concentración de otros tamaños de
+
+partículas.
+
+
+
+
+                                                                               70
+Rainfall and Interception (Precipitación e Intercepción)
+
+
+
+Los datos pluviométricos, se introducen como una altura de lluvia acumulada.
+
+Esta información es a nivel horario. Las precipitaciones se modelan como
+
+espacialmente uniforme sobre cada elemento, sino que varía entre los elementos
+
+si hay más de un pluviómetro.
+
+
+
+La tormenta representativa a la cuenca de interés asciende a 43.2 mm, y
+
+corresponde a la estación Meteorológica Quechua (ver tabla 4.1). En la figura 2
+
+del Anexo se observa la ubicación espacial de las estaciones pluviométricas.
+
+
+
+El efecto de la intercepción está controlada por dos parámetros, la altura de
+
+intercepción y la fracción de la superficie cubierta por la intercepción de la
+
+vegetación. El primer parámetro refleja la altura media de precipitación retenido
+
+por el tipo particular de vegetación. En la tabla 4.7 se resume algunos valores
+
+publicados (Horton,1919) para la altura de intercepción . Estos valores reflejan
+
+la temporada, etapa de crecimiento, densidad de la población y la velocidad de
+
+viento.
+
+
+
+                     Tabla 4.7: Parámetros de Intercepción.
+
+
+
+
+          Fuente: http://www.tucson.ars.ag.gov/kineros/
+
+
+
+                                                                               71
+Resumen de la Aplicación de Conceptos del Modelo Kineros 2
+
+
+
+                        Diagrama de Flujo de KINEROS
+
+
+
+
+      Fuente: Elaboración Propia
+
+
+
+Flujo Superficial: Proceso de flujo Unidimensional en el que el flujo está
+
+relacionado con el almacenamiento de unidad de área.
+
+
+
+                                     =∝ℎ
+
+Donde:
+
+ : Descarga por ancho unitario.
+
+ℎ: Almacenamiento por unidad de área.
+
+∝ y m : Parámetros que están en función a la pendiente de terreno.
+
+
+
+
+El flujo superficial, también está gobernado por la ecuación de continuidad, ya
+
+que el proceso de flujo es unidimensional.
+
+
+
+                                                                              72
+                                  ℎ
+                                      +    = ( , )
+
+Donde:
+t: Es el tiempo;
+
+x: Distancia a lo largo de la dirección de la pendiente;
+
+q: Tasa de flujo lateral;
+
+
+
+
+Flujo Superficial en canales: El proceso de flujo superficial en canales también
+
+considera aproximaciones de la ecuación cinemática. La ecuación de
+
+continuidad en flujos de secciones están representados por;
+
+
+
+                                      +    =       ( , )
+
+
+
+Donde:
+A: Sección del área por donde pasa el flujo;
+
+Q: Descarga del canal:
+
+   ( , ): Entrada neta lateral de descarga por unidad de longitud del canal;
+
+
+
+Además Q puede expresarse en función de A, es decir:
+
+
+
+                                 +             =    ( , )
+
+
+
+La simplificación de la ecuación cinemática se basa en relacionar la descarga
+
+del canal con la forma de la sección transversal.
+
+
+
+                                      =∝
+
+
+                                                                               73
+Donde:
+
+
+
+R: Radio hidráulico;
+           /
+∝ = 1.49       / ;
+
+m: 5/3;
+
+
+
+Infiltración: Kineros requiere tres parámetros básicos para describir las
+
+propiedades de infiltración       del suelo: La conductividad hidráulica saturada
+
+efectiva ( ), la capilaridad (G) y la porosidad (φ).
+
+
+
+Erosión y Transporte de Sedimento: Kineros cuenta por separado la erosión
+
+causada por la energía de la lluvia y la erosión causada por el agua que fluye.
+
+
+
+La ecuación general que utiliza KINEROS para determinar la dinámica del
+
+sedimento en cualquier parte a lo largo de la trayectoria en un flujo superficial es
+
+una ecuación de balance de masa similar a la del flujo de agua cinemática
+
+(Bennett, 1974).
+                        (     )       (   )
+                                  +           − ( , )= ( , )
+
+
+
+
+Donde:
+
+
+
+       Cs = Concentración de Sedimentos (L³/ L³);
+
+       Q =Tasa de Descarga de Agua (L³/T);
+
+       A =Área de la sección del Flujo (L²);
+       e =Tasa de Erosión del Lecho de Suelo (L²/T);
+
+       q =Tasa de Sedimentación Lateral del Cauce (L²/T/L).
+
+
+                                                                                 74
+Para terrenos en pendiente se asume que e se constituye de dos principales
+
+componentes: Producción de suelo erosionado por precipitación y erosión (o
+
+deposición) hidráulica por la interacción entre la fuerza del agua sobre el suelo y
+
+la tendencia de las partículas de suelo de establecerse por acción de la fuerza
+
+de la gravedad.     De esta manera puede ser positiva (incremento de la
+
+concentración en el agua) o negativa(deposición). La erosión neta es la suma de
+las tasas de erosión por salpicadura es y la tasa de erosión hidráulica eh.
+
+
+
+                                      =    +
+
+
+
+
+                                                                                75
+5. SIMULACIÓN, GENERACION DE RESULTADOS.
+
+
+
+5.1.- Cálculos Teóricos y Simulación de los Modelos
+
+
+
+Se ha calculado la cuantificación del aporte de sedimentos en la cuenca
+
+Allahualla con las metodologías teóricas Gavrilovic y USLE, con la finalidad de
+
+contrastar los resultados con los modelos matemáticos.
+
+
+
+Se ha modelado la respuesta hidrológica y sedimentológica de las áreas de
+
+interés empleando los modelos hidrológicos determinísticos SEDCAD 4(de la
+
+Universidad de Kentucky) y el KINEROS 2(del Departamento de Agricultura de
+
+los estados Unidos).
+
+
+
+5.2.- Generación de Resultados
+
+
+
+En las tablas 5.1 y 5.2 se reportan los resultados de los cálculos con los métodos
+
+teóricos Gavrilovic y USLE respectivamente. Los cálculos previos se
+
+desarrollaron en el Ítem 4.3.1.
+
+
+
+      Tabla 5.1. Producción de Sedimentos con el Método Gavrilovic
+
+                           Área                                     G
+         Cuenca                         R        W(m³/año)
+                          (km²)                                   (Tn)
+
+        Allahualla         89.4       0.195        66 640        34 480
+      Fuente: Elaboración propia.
+
+
+
+
+                                                                               76
+        Tabla 5.2. Producción de Sedimentos con el Método USLE
+
+                                                    R
+                                  Área                                 E
+                Cuenca                            (J.m-
+                                  (km²)                               (Tn)
+                                                  ².cm.h)
+
+                Allahualla        89.4              37               17 686
+            Fuente: Elaboración propia.
+
+
+
+En la tabla 5.3 se reportan los resultados en la simulación con el modelo Sed
+
+Cad 4. Se muestran los caudales instantáneos y la producción de sedimentos
+
+producidos en un evento de tormenta .
+
+
+
+       Tabla 5.3. Producción de Sedimentos en el Modelo Sed Cad.
+           ID         Subcuencas          Área            Caudal           Sedimentos
+
+       KINEROS       Nomenclatura         (km²)             (m³/s)             (Tn)
+
+           11                F1           12.8              3.06              822.10
+
+           12                F2            2.1              0.47              18.30
+
+           13                F3            0.2              0.07              11.00
+
+           14                G1            8.2              2.32              763.20
+
+           15                G2            9.2              1.87              303.70
+
+           16                H1            0.2              0.07               8.00
+
+           17                H2            3.2              0.92              178.10
+
+           18                11            0.6              0.21              39.80
+
+           19                I2            0.6              0.20              14.20
+
+           20                J1            1.9              0.63              138.60
+
+           21                J2            1.5              0.46              58.30
+
+           22                K1            5.6              1.50              345.60
+
+           23                K2            1.2              0.38              32.20
+
+           24                L1            5.1              1.19              318.50
+
+           25                L2            8.1              2.21              635.40
+
+           26                L3            2.4              0.74              109.00
+
+
+
+                                                                                        77
+           43               S1           1.5         0.48         127.10
+
+           44               S2           2.5         0.80         199.40
+
+           45               S3           1.3         0.46         137.90
+
+           46               T1           0.7         1.21         38.35
+
+           47               T2           2.2         0.66         104.20
+
+           48               U1           0.3         0.10         14.30
+
+           49               U2           0.7         0.24         46.70
+
+           50               U3           2.1         0.71        1918.00
+
+           51               V1           0.9         0.31         42.80
+
+           52               V2           2.3         0.67         102.40
+
+           53              W1            0.4         0.14         30.00
+
+           54              W2            0.1         0.04          4.70
+
+           55              W3            1.4         0.46         108.80
+
+           56               X1           0.2         0.07          2.20
+
+           57               X2           1.0         0.29         290.80
+
+           58               Y1           3.9         1.05         323.90
+
+           59               Y2           3.1         0.88         268.70
+
+           60               Y3           1.9         0.67         245.70
+
+                         SALIDA         89.4         23.98        7 900
+
+      Fuente: Elaboración propia.
+
+
+
+Las salidas, donde se muestran los resultados de la simulación del Modelo Sed
+
+Cad 4 se reportan en el Anexo.
+
+
+
+En la tabla 5.4 se reportan los resultados en la simulación con el modelo Kineros.
+
+Se muestran los caudales instantáneos y la producción de sedimentos
+
+producidos en un evento de tormenta .
+
+
+
+
+                                                                               78
+Tabla 5.4. Producción de Sedimentos en el Modelo Kineros
+  ID       Subcuencas     Área       Caudal    Sedimentos
+
+KINEROS   Nomenclatura    (km²)       (m³/s)      (Tn)
+
+  11           F1          12.8       2.07       1641.09
+
+  12           F2          2.1        1.17        89.68
+
+  13           F3          0.2        0.15       143.72
+
+  14           G1          8.2        3.21       4766.36
+
+  15           G2          9.2        1.33       443.12
+
+  16           H1          0.2        0.15        84.09
+
+  17           H2          3.2        0.39       271.68
+
+  18           11          0.6        0.41        30.52
+
+  19           I2          0.6        0.27        67.94
+
+  20           J1          1.9        0.86       1062.73
+
+  21           J2          1.5        0.35       151.59
+
+  22           K1          5.6        3.60       2791.87
+
+  23           K2          1.2        0.77       186.88
+
+  24           L1          5.1        2.68       2083.41
+
+  25           L2          8.1        2.10       1766.49
+
+  26           L3          2.4        0.76       287.61
+
+  43           S1           1.5       0.42       546.65
+
+  44           S2           2.5       0.75       736.73
+
+  45           S3           1.3       0.55       1093.71
+
+  46           T1           0.7       0.52       360.86
+
+  47           T2           2.2       0.53       302.90
+
+  48           U1           0.3       0.66       165.10
+
+  49           U2           0.7       0.40       360.86
+
+  50           U3           2.1       0.88       216.60
+
+  51           V1           0.9       0.81       413.79
+
+  52           V2           2.3       0.52       273.11
+
+  53           W1           0.4       0.42       393.22
+
+
+
+
+                                                            79
+           54                                       W2                 0.1            0.21            65.56
+
+           55                                       W3                 1.4            0.28            151.59
+
+           56                                       X1                 0.2            0.33            23.00
+
+           57                                       X2                 1.0            0.23            71.66
+
+           58                                       Y1                 3.9            2.37           2689.27
+
+           59                                       Y2                 3.1            0.89           1132.62
+
+           60                                       Y3                 1.9            1.18           2807.54
+
+                                                  SALIDA              89.4           21.77            29 760
+
+    Fuente: Elaboración propia.
+
+
+
+Las salidas, donde se muestran los resultados de la simulación del Modelo
+
+Kineros 2 se reportan en el Anexo.
+
+
+
+Haciendo una comparación entre las metodologías empleadas se obtiene la
+
+figura 5.1, que muestra la estimación y comparación de métodos teóricos con
+
+modelos matemático en la producción de sedimentos.
+
+
+
+
+ Figura 5.1: Comparativo de Resultados Obtenidos en la Estimación de la
+
+                                                   producción de Sedimentos.
+
+
+
+                                           Estimación y Comparación de Sedimentos
+                                                         (Toneladas)
+                                                   GAVRILOVIC,
+                                         40,000      34480                                   KINEROS 2,
+             Aporte de Sedimentos (Tn)
+
+
+
+
+                                         35,000                                                29760
+                                         30,000
+                                         25,000
+                                         20,000                  USLE, 17686
+                                         15,000                                SEC CAD 4,
+                                         10,000                                  7900
+                                          5,000
+                                              0
+                                                         METODOS USADOS PARA LA ESTIMACION DE
+                                                                     SEDIMENTOS
+
+
+
+
+                                                                                                               80
+                                 Fuente: Elaboración Propia
+
+
+
+En la figura 5.1 se observa que los métodos Gavrilovic y Kineros 2 muestran
+
+cierta similitud en la estimación de sedimentos, por que se podría considerar
+
+como resultados aceptables en este informe. En la figura 5.2 se compara el
+
+hidrograma del caudal sólido del Modelo Kineros 2 con un aforo de concentración
+
+de sedimentos realizado en abril del 2011 a la salida de la cuenca de estudio.
+
+
+
+ Figura 5.2: Comparativo de Resultados Obtenidos del Modelo Kineros 2
+
+                                             con el Monitoreo Sedimentológico.
+
+
+
+                           Hidrograma del Caudal Sólido - A la Salida de la
+                           4
+                                        Cuenca Allahualla
+                           3.5
+   Caudal Sñolido (kg/s)
+
+
+
+
+                            3                            Hidrograma de Salida -
+                           2.5                           Cuenca Allahualla
+                            2                            Monitoreo Abril-2012
+                           1.5
+                            1
+                           0.5
+                            0
+                                  0       200      400        600       800       1000   1200
+
+                                                         Tiempo (min)
+
+
+ Fuente: Elaboración Propia
+
+
+
+
+                                                                                                81
+6. CONCLUSIONES Y RECOMENDACIONES.
+
+
+
+6.1.- Conclusiones
+
+
+
+Precipitación
+
+
+
+   1. El hietograma usado en los modelos pertenecen a la estación Quechua,
+
+      que es controlada por la Empresa Minera Quechua. La información con la
+
+      que se cuenta es a nivel horario.
+
+   2. El evento de lluvia con la que se calcularon y simularon alcanzan una
+
+      altura de 43.2 mm y una lluvia media anual de 997 mm.
+
+
+
+Caudales
+
+
+
+   1. Los Caudales que resultan a la Salida de la cuenca Allahualla son de
+
+      23.98 m³/s empleando el modelo Sed Cad 4 y 21.77 m³/s empleando el
+
+      modelo Kineros.
+
+
+
+Sedimentos
+
+
+
+   1. Los sedimentos resultantes de la simulación con modelos determinísticos
+
+      en la salida de la cuenca Allahualla ascienden a 7 900 Tn empleando el
+
+      Sed Cad 4 y 29 760 Tn empleando el Kineros 2.
+
+   2. Considerando la metodología teórica de Gavrilovic se estima 34 480Tn y
+
+      mediante la metodología USLE se llega a estimar un aporte de sedimento
+
+      de 17 686 Tn para un evento de tormenta de 43.2mm.
+
+
+
+
+                                                                             82
+  3. La Cuenca del río Allahualla presenta un aporte se Sedimento de 29 760
+
+     Tn para una tormenta de 43.2mm y una tasa promedio anual de 799 444
+
+     Tn/Año .
+
+6.2.- Recomendaciones
+
+
+
+  1. Según sea la importancia del proyecto de la cuantificación de aporte de
+
+     sedimento, se recomienda tener registros de campo en todos los sectores
+
+     distribuidos para contrastar con los resultados de los cálculos y
+
+     simulaciones.
+
+
+
+  2. Según sea la importancia del proyecto de de la cuantificación de aporte
+
+     de sedimento, se recomienda construir modelos físicos para validar los
+
+     resultados de los modelos matemáticos.
+
+
+
+  3. Los registros de campo como sondeos granulométricos, registros de
+
+     caudales instantáneos, etc. deberán estar ubicados y emplazados, de tal
+
+     manera que sean representativos a la cuenca de estudio.
+
+
+
+
+                                                                         83
+7. BIBLIOGRAFIA.
+
+
+
+  1. Arturo Rocha Felices, 1998. Introducción a la Hidráulica Fluvial, Facultad
+
+     de Ingeniería Civil - Perú.
+
+
+
+  2. Bennett, 1974. Kineros, A Kinematic Runoff and Erosion Model - User
+
+     Manual, United States Departament of Agriculture.
+
+
+
+  3. Brooks, K. N.; Ffolliot, P. F.; Gregersen, H.M., 1997. Hydrology and the
+
+     Management of Wathersheds, Iowa University States - USA.
+
+
+
+  4. Colotti, E, 2004. Aplicabilidad de los datos de lluvia horaria en el cálculo
+
+     de la erosividad, Departamento de Publicaciones. Universidad Central de
+
+     Venezuela.
+
+
+
+  5. Figueroa, B., 1991. Manual de Predicción de Pérdida de Suelo por Erosión
+
+     Hídrica, Colegio de Posgraduados, SAHR, México.
+
+
+
+  6. Foote G.R. and Du Toit, 1969. Terminal Velocity of raindrops aloft, J.
+
+     Applied Meteor.
+
+
+
+  7. Hudson, N., 1982. Conservación del Suelo, Universidad Autónoma de
+
+     México.
+
+
+
+  8. José Ramirez, 2009. Producción de Sedimentos en Cuencas, Universidad
+
+     Autónoma de México
+
+
+
+
+                                                                              84
+9. Julien, P.Y., 2002. Rivers Mechanics. Cambridge, Cambridge University
+
+   press.
+
+
+
+10. Kinnell, 1990. The mechanics of raindrop induced flow transport,
+
+   University of Canberra - Australia.
+
+
+
+11. Levi, E., 1986. El agua según la ciencia, evolución de la hidráulica.
+
+   Volumen II, Series del Instituto de Ingeniería, D24, UNAM. - México.
+
+
+
+12. Leo C. Van Rijn, 1993. Principios de Transporte de Sedimentos en Ríos,
+
+   Estuarios y Mares Costeros, Aqua Publication P.O. Box 9896 Amsterdam
+
+   The Netherlands.
+
+
+
+13. López Cárdenas, 2003. La Ingeniería en los procesos de desertificación,
+
+   Grupo TRAGSA, Ediciones Mundi-Prensa - México.
+
+
+
+14. Manual de Diseño SC4, 2010. Manual de Diseño y Guía de Usuario,
+
+   Richar C. Warner - Universidad Kentucky.
+
+
+
+15. Manual de Usuario Kineros, 1990. Kineros, A Kinematic Runoff and
+
+   Erosion Model - User Manual, United States Departament of Agriculture.
+
+
+
+16. MMA_M, 1998. Restauración Hidrológico Forestal de Cuencas y Control
+
+   de la Erosión - Ingeniería Medio Ambiental, TRAGSA.
+
+
+
+17. Moss A.J. and Green, 1983. Movement of solids in air and water by
+
+   raindrop impact, American Society of Agriculture Engineer - Australia.
+
+
+
+
+                                                                            85
+18. Rivera Trejo, F., Gutiérrez López, A., 2006. La Medición de Sedimentos
+
+   en México, IMTA, UJAT y UNESCO.
+
+
+
+19. Scott y Mount, 2004. Plantation Forestry Impacts on Sediment Yields and
+
+   Downstream Channel Dynamics in the UK., Progress in Physical
+
+   geography.
+
+
+
+20. Simons, D. B. y Sentürk, F., 1992. Sediment Transport tecnology: Water
+
+   and Sediment Dynamics, Editorial: Water Resources Publications, USA.
+
+
+
+21. Smith and Parlange, 1978. Kineros, A Kinematic Runoff and Erosion
+
+   Model - User Manual, United States Departament of Agriculture.
+
+
+
+22. Varoni, V.A., 1977. Sedimentation Engineering. Manuals and reports on
+
+   Engineering practice, No 54, ASCE -USA.
+
+
+
+23. Vente Te Chow, 1994. Hidrología Aplicada, McGraw-Hill Interamericana -
+
+   Colombia.
+
+
+
+24. Wischmeir y Smith, 1965. Predicting Rainfall-erosion losses from cropland
+
+   east of the rocky mountains, guide for selection of practices for soil and
+
+   water conservation, Agriculture Handbook USDA -ARS - USA.
+
+
+
+25. Wischmeir y Smith, 1978. Predicting Rainfall-Erosion Losses, A Guide to
+
+   Conservation Planning., Agriculture Handbook USDA -ARS - USA.
+
+
+
+
+                                                                          86
+

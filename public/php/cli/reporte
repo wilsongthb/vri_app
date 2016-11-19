@@ -1,0 +1,10 @@
+<?php
+//reporte
+require('../Clases/Archivos.php');
+$str1 = "bienvenido a php";
+$str2 = "bienvenido a js";
+
+for($i = 0; $i < strlen($str1); $i++){
+    echo $str1[$i] . PHP_EOL;
+}
+?>

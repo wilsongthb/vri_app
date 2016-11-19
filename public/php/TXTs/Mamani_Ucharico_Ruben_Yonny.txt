@@ -1,0 +1,4565 @@
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+ FACULTAD DE CIENCIAS CONTABLES Y ADMINISTRATIVAS
+    ESCUELA PROFESIONAL DE CIENCIAS CONTABLES
+
+
+
+
+INCIDENCIA DEL COSTO DE CAPITAL EN LA CREACIÓN DE
+VALOR EN LAS EMPRESAS DEL SECTOR MINERO – PERÚ,
+                   2013 - 2014”
+
+                    TESIS
+                 PRESENTADO POR:
+
+   Bach. RUBEN YONNY MAMANI UCHARICO
+              PARA OPTAR EL TÍTULO DE:
+
+
+           CONTADOR PÚBLICO
+
+
+                   PUNO – PERÚ
+                      2015
+                                                   DEDICATORIA
+
+
+
+
+                                       A mis queridos padres: Francisco y
+                                       Benita, por su apoyo incondicional en mi
+                                       formación, enseñándome a perseverar y
+                                       luchar para alcanzar mis propósitos de
+                                       vida; a pesar de todo.
+
+                                       A mis amistades y        familiares con
+                                       quienes       compartimos        gratas
+                                       experiencias de vida.
+
+
+
+
+TEMA : Costo de capital
+
+LINEA : Costos de producción y servicios
+         AGRADECIMIENTO
+
+
+Mi   Profundo    agradecimiento       a    la
+Universidad Nacional del Altiplano-Puno.
+
+A la Facultad de Ciencias Contables y
+Administrativas y a cada uno de mis
+Docentes por su acertada dirección y
+apoyo   desinteresado    que    me        han
+brindado en mi formación profesional y
+personal.
+
+Mis sinceros agradecimientos a mi
+Director de Tesis M.Sc. Heber David
+Poma Cornejo por su acertada dirección
+y asesoramiento desinteresado que me
+han brindado en el desarrollo del
+siguiente trabajo de investigación.
+
+                         YONNY.
+Contenido
+RESUMEN ................................................................................................... 12
+
+INTRODUCCIÓN ......................................................................................... 16
+
+CAPÍTULO I: PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES Y
+OBJETIVOS DE LA INVESTIGACIÓN. ....................................................... 18
+
+   1.1. Planteamiento del problema ........................................................... 18
+
+   1.2. Antecedentes. ................................................................................. 22
+
+   1.3. Objetivos de investigación .............................................................. 26
+
+CAPÍTULO II: MARCO TEÓRICO, MARCO CONCEPTUAL E HIPÓTESIS
+DE LA INVESTIGACIÓN ............................................................................. 27
+
+   2.1. Marco teórico. ................................................................................. 27
+
+   2.2. Marco conceptual. ........................................................................... 44
+
+   2.3. Hipótesis. ........................................................................................ 50
+
+CAPÍTULO III: METODOLOGÍA DE LA INVESTIGACIÓN ......................... 53
+
+   3.1. Metodología de investigación .......................................................... 53
+
+   3.2. Técnicas e instrumentos para obtener datos .................................. 54
+
+   3.3. Técnicas para procesar la información .......................................... 55
+
+   3.4. Población y muestra........................................................................ 56
+
+CAPÍTULO IV: CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN .... 58
+
+   4.1. Ámbito de estudio ........................................................................... 58
+
+CAPÍTULO V: EXPOSICIÓN Y ANÁLISIS DE RESULTADOS................... 61
+
+   5.1. Con relación al objetivo específico “A”.............................................. 61
+
+   5.2. Con relación al objetivo específico “B”.............................................. 68
+
+   5.3. Con relación al objetivo específico “C”. ............................................ 77
+
+   5.4. Contrastación de hipótesis ............................................................... 91
+
+CONCLUSIONES ........................................................................................ 96
+
+RECOMENDACIONES ................................................................................ 99
+BIBLIOGRAFÍA ......................................................................................... 100
+
+ANEXOS .................................................................................................... 103
+ÍNDICE DE ESQUÉMAS
+
+                                                          Pág.
+
+ESQUÉMA N° 01
+
+Determinación de la muestra…………………………………………………….57
+
+ESQUÉMA N° 02
+
+Determinación del rendimiento promedio del sector………………………….63
+
+ESQUÉMA N° 03
+
+Determinación del rendimiento promedio de mercado………………………..63
+
+ESQUÉMA N° 04
+
+Determinación de la varianza……………………………………………………64
+
+ESQUÉMA N° 05
+
+Determinación de la covarianza…………………………………………………64
+
+ESQUÉMA N° 06
+
+Determinación del Beta……………….……………………………………….…64
+
+ESQUÉMA N° 07
+
+Determinación del costo de capital……………………………………………..66
+
+ESQUÉMA N° 08
+
+Rentabilidad económica…………………………………………….……………69
+
+ESQUÉMA N° 09
+
+Rentabilidad financiera………………………….………………………………..70
+
+ESQUÉMA N° 10
+
+Promedio geométrico…………………………..…………………………………74
+
+ESQUÉMA N° 11
+
+Valor económico agregado…………………..…………………………………..77
+ESQUÉMA N° 12
+
+Utilidad operativa neta…………….……………………………………………...77
+
+ESQUÉMA N° 13
+
+Costo promedio ponderado de capital………………………………………….77
+ÍNDICE DE GRÁFICOS
+
+                                                    Pág.
+
+GRÁFICO N° 01
+
+ROA – sector minero……………………………………………………………..70
+
+GRÁFICO N° 02
+
+ROE – sector minero……………………………………………………………..72
+
+GRÁFICO N° 03
+
+ROA y ROE promedio del sector minero...…………………………………….74
+ÍNDICE DE IMAGEN
+
+                                               Pág.
+
+IMAGEN N° 01
+
+Índice de la BVL…………………………………………………………………...62
+
+IMAGEN N° 02
+
+Índice del sector minero………………………………………………………….62
+
+IMAGEN N° 03
+
+Información financiera…………….……………………………………………...68
+ÍNDICE DE TABLAS
+
+                                                               Pág.
+
+TABLA N° 01
+
+Coeficiente de volatilidad beta del sector minero………..……………………63
+
+TABLA N° 02
+
+Determinación del costo de capital………….…………………………………..67
+
+TABLA N° 03
+
+ROA – sector minero……………….……………………………………….........70
+
+TABLA N° 04
+
+ROE – sector minero……………………..………………………………………72
+
+TABLA N° 05
+
+ROA y ROE promedio del sector……..……………………………………....…73
+
+TABLA N° 06
+
+Rentabilidad del sector minero - CAPM………………………………………..75
+
+TABLA N° 07
+
+Cálculo   del   EVA   de   la   compañía   de   minas   Buenaventura
+
+S.A.A………………………………………………………………………………..79
+
+TABLA N° 08
+
+Cálculo del EVA de la compañía minera Milpo S.A.A………………………...82
+
+TABLA N° 09
+
+Cálculo del EVA de la compañía minera Poderosa S.A.…………………..…85
+
+TABLA N° 10
+
+Cálculo del EVA de Volcan compañía minera S.A.A.,………………………..88
+                                RESUMEN
+
+
+Conocer los factores que influyen en la economía de un país es fundamental
+
+para gestionar con eficiencia una organización, entendiendo la forma en que
+
+se genera o destruye valor se pueden prever escenarios, al mismo tiempo
+
+tener conciencia de las consecuencias a partir de una muy buena
+
+información contable.
+
+En nuestra investigación titulado “Incidencia del costo de capital en la
+
+creación de valor en las empresas del sector minero – Perú, 2013 - 2014”,
+
+tomamos como unidades de análisis a las empresas mineras que cotizan en
+
+la bolsa de valores de lima representados por acciones comunes en moneda
+
+nacional, en tal sentido adoptamos el estudio de la teoría financiera
+
+enfocado desde distintos puntos de vista, quienes han analizado conceptos
+
+tan importantes como el costo de capital y la generación de valor de las
+
+inversiones.
+
+Consideramos que el sector minero en el Perú es el eje principal para el
+
+desarrollo de la economía del país, “sin la minería, el Perú tendría
+
+muchísimas dificultades para crecer, pues ninguna industria está en
+
+condiciones de generar la extraordinaria cantidad de divisas que produce
+
+esta actividad”. Con la aplicación del modelo CAPM (Capital Assets Pricing
+
+Model), desarrollado por William F. Sharpe, se pretende incorporar a nuestra
+
+investigación esta teoría aplicable de mercados desarrollados a economías
+
+emergentes como la nuestra.
+
+
+
+
+                                                                          12
+Nuestro objetivo principal fue “Determinar el costo de capital y la rentabilidad
+
+de las inversiones para evaluar el valor empresarial del sector minero –
+
+Perú, 2013 – 2014”.
+
+La hipótesis general fue “El costo de capital y la rentabilidad de las
+
+inversiones inciden directamente en el valor empresarial del sector minero –
+
+Perú, 2013 – 2014”.
+
+La metodología aplicada a nuestra investigación es de carácter descriptivo y
+
+deductivo para relacionar la inferencia predictiva (observación a través de los
+
+sentidos), con la proposición de dar conclusión a través de la razón.
+
+Nuestra muestra se obtuvo por el muestreo no probabilístico intencional o
+
+selectivo, tomando el 30% del total, siendo las siguientes empresas:
+
+compañía de minas Buenaventura S.A.A., compañía minera Milpo S.A.A.,
+
+compañía minera Poderosa S.A. y Volcan compañía minera S.A.A.
+
+Nuestras conclusiones fueron las siguientes:
+
+
+Objetivo Específico 1:
+
+      El modelo CAPM, manifiesta que toda inversión riesgosa (empresa)
+
+       debe tener una tasa de rendimiento superior a la tasa libre de riesgo,
+
+       en tal sentido esta representa el 3.53%, a la que se le adiciona la
+
+       prima de riesgo multiplicado por el coeficiente Beta, obteniéndose así
+
+       un costo de capital del 12.28%, para el sector minero.
+
+      La cuantificación del riesgo implica considerar aspectos propios del
+
+       país receptor de la inversión, es decir que el riesgo país es un tema
+
+       que adquiere gran importancia en el cálculo del costo de capital en
+
+
+                                                                             13
+       países emergentes como el Perú. En ese sentido se          adiciona el
+
+       riesgo país, que es el 1.62% al costo de capital determinado,
+
+       obteniendo así un costo de capital para el Perú en el sector minero de
+
+       13.90%. y que es el instrumento fundamental para poder evaluar las
+
+       expectativas de sus inversionistas.
+
+
+Objetivo Específico 2:
+
+      Existe una disminución en la rentabilidad sobre activos (ROA) del
+
+       10.20% a 7.58% y del 9.28% a 7.13% en rentabilidad sobre
+
+       patrimonio (ROE), en el año 2014 respecto al 2013.
+
+      Existe una diferencia, entre el retorno de las empresas frente al
+
+       retorno del sector, que refleja su productividad al 13.90 % frente a la
+
+       productividad de las empresas: compañía de minas Buenaventura
+
+       S.A.A., compañía minera Milpo S.A.A., compañía minera Poderosa
+
+       S.A. y Volcan compañía minera S.A.A., que operan en el Perú que
+
+       están al 8.52%, esto significa que existe una diferencia de 5.38%
+
+       indicando que las empresas están rindiendo por debajo del
+
+       rendimiento   del   mercado,   afectando   así   directamente   a   los
+
+       inversionistas.
+
+
+Objetivo Específico 3:
+
+      La empresa compañía de minas Buenaventura S.A.A. durante el 2013
+
+       y 2014 ha destruido valor por $ - 463,954.85         y $ - 495,651.95
+
+       respectivamente. Esto refleja el gran impacto que tuvo la economía
+
+
+
+
+                                                                           14
+       mundial, en la caída de los precios de los minerales, afectando a la
+
+       empresa; en la disminución de sus ventas.
+
+      La empresa compañía minera Milpo S.A.A., durante el 2013 ha
+
+       destruido valor por $ - 1,099.38 y en el 2014 ha creado valor por $
+
+       14,257.10. Esta superación se dio, a la aplicación de estrategias
+
+       basada en pilares importantes reduciendo costos y gastos operativos.
+
+      La empresa compañía minera Poderosa S.A., durante el 2013 ha
+
+       creado valor en S/. 2,773.45 y el 2014 ha destruido valor           S/. -
+
+       6,049.46. Esto refleja la caída de los precios de los minerales, en la
+
+       economía mundial, afectando a la empresa; ya que solo pudo
+
+       incrementar sus ingresos en un 2.13 % en el 2014 respecto al 2013,
+
+       el cual no tuvo impacto en la creación de valor para el año 2014.
+
+      La empresa Volcan compañía minera S.A.A., durante el 2013 y 2014
+
+       ha destruido valor       por   $    - 46,888.34,     $ - 177,602.61
+
+       respectivamente. Esto es el reflejo del impacto que tuvo la economía
+
+       mundial, en la caída de los precios de los minerales, afectando a la
+
+       empresa; en la disminución de los ingresos en un 10.36%, además de
+
+       que se incrementó sus costos en 8.58%, lo que al final afecto
+
+       claramente en la reducción de su utilidad en un 67.22% en el 2014
+
+       respecto al 2013.
+
+Palabras clave: Costo de capital, minería, rentabilidad, valor económico
+agregado y valor empresarial.
+
+
+
+
+                                                                             15
+                             INTRODUCCIÓN
+
+El Perú es sinónimo de riqueza, un país de antigua tradición minera,
+
+tradición que mantiene y cultiva gracias a la presencia de empresas líderes a
+
+nivel internacional. La nación peruana alberga una enorme riqueza minera,
+
+expresada en yacimientos de mineral metálico y metales preciosos.
+
+El Perú al 2013, fue el séptimo productor minero más grande del mundo,
+
+esta privilegiada posición tiene mucho que ver con la diversificación de su
+
+oferta de commodities, la cual excede a la de sus competidores de la región.
+
+En particular, Perú posee grandes recursos y reservas de los tres metales
+
+más demandados a nivel mundial: hierro, cobre y oro. La explotación de
+
+estos recursos es la base fundamental para su economía.
+
+La economía mundial decreció durante el 2014 por tercer año consecutivo,
+
+acumulando una desaceleración de 3.1% según las estimaciones del Fondo
+
+Monetario Internacional. Fueron varios los factores que influyeron en dicho
+
+resultado. Por un lado, las economías desarrolladas se vieron afectadas por
+
+la débil demanda interna que acrecentó los riesgos de caer en deflación,
+
+especialmente en Europa y Japón. Asimismo, las tensiones geopolíticas por
+
+el conflicto entre Rusia y Ucrania disminuyeron la confianza empresarial. La
+
+economía China, motor importante del crecimiento mundial, presentó
+
+señales de moderación durante el 2014. El crecimiento de la economía
+
+China fue de 7.4%, por debajo de lo esperado por el consenso.
+
+El 2014 fue un año lleno de retos para la economía mundial, el
+
+decrecimiento en Europa y Japón, la desaceleración en China y las
+
+
+
+
+                                                                          16
+tensiones geopolíticas impactaron a la economía global y a diferencia de
+
+otros años, la economía peruana no pudo hacerle frente al contexto
+
+internacional. La economía peruana siguió la misma tendencia que la
+
+economía global mostrando mejores indicadores durante el primer semestre
+
+y deteriorándose en la segunda mitad del año.
+
+La economía peruana depende de la minería, el comportamiento de este
+
+define el rumbo del país; en los últimos cinco años, la minería represento
+
+aproximadamente entre el 15% y 33% de la recaudación total del impuesto a
+
+las ganancias. Esa fue la razón para realizar este trabajo de investigación,
+
+acerca la incidencia del costo de capital en la creación de valor para las
+
+empresas del sector minero, teniendo como objetivos:
+
+Primero: Determinar el costo de capital para evaluar la creación de valor
+
+empresarial del sector minero en el Perú, 2013 – 2014.
+
+Segundo: Analizar la rentabilidad de las inversiones para conocer su impacto
+
+en la creación del valor empresarial del sector minero en el Perú, 2013 –
+
+2014.
+
+Tercero: Conocer la creación de valor empresarial del sector minero en el
+
+Perú, 2013 – 2014.
+
+En tal sentido nuestro trabajo se concentra en determinar el costo de capital
+
+y la rentabilidad de las inversiones, para evaluar la creación de valor en las
+
+empresas: compañía de minas Buenaventura S.A.A., compañía minera Milpo
+
+S.A.A., compañía minera Poderosa S.A. y Volcan compañía minera.
+
+
+
+
+                                                                                 17
+                                 CAPÍTULO I
+
+
+
+PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES Y OBJETIVOS DE
+                    LA INVESTIGACIÓN.
+
+
+
+1.1.   PLANTEAMIENTO DEL PROBLEMA
+         El Perú posee riquezas culturales,         ecológicas,   climáticas,
+
+         minerales, etc. Pero la explotación de sus recursos minerales es la
+
+         base fundamental para su economía.
+
+         La economía peruana lleva más de una década liderando el
+
+         crecimiento en la región con un 6% de una media anual que es la
+
+         mayor tasa en sud América, la tasa de inflación más baja,
+
+         reducción de la pobreza entre otros. Nada de esto se entiende, sin
+
+         la explosión de las materias primas. El Perú es el tercer productor
+
+         mundial de cobre, plata y zinc y el sexto de oro que lo llevó a
+
+         duplicar el precio de las exportaciones en menos de diez años y
+
+         que desde entonces hoy constituye el eje de desarrollo y
+
+         crecimiento del país.
+
+
+
+
+                                                                          18
+El Perú, es un importante productor de minerales, su ascenso
+
+comenzó con el auge de las inversiones en la década de los
+
+noventa; ha logrado ocupar una posición destacada en los ránkings
+
+de los principales metales, se ha identificado que la minería
+
+constituye el factor condicionante del extraordinario crecimiento de
+
+la economía peruana de los últimos quince años, inclusive mirando
+
+hacia el futuro la minería es un sector irremplazable por la
+
+magnitud de su contribución al crecimiento, Sin embargo es una
+
+actividad que trae dependencia por los precios de mercado y la
+
+solución de conflictos socio ambientales y responsabilidad social.
+
+Entonces no es exagerado afirmar que el crecimiento económico
+
+que ha experimentado el Perú, con todo lo que ha significado la
+
+reducción de la pobreza ha sido gracias a la minería.
+
+Siempre nos han enseñado que el Perú es un país exportador de
+
+materias primas, es decir un exportador primario y que la
+
+posibilidad de desarrollo se encuentra en la posibilidad de exportar
+
+materias primas con valor agregado, ya que los productos
+
+terminados tiene mayor margen de ganancia. Pero si revisamos los
+
+precios de las materias primas de los últimos quince años los
+
+precios de las materias primas han subido más que los precios de
+
+los productos terminados, entonces se ha volteado esa teoría que
+
+se tenía antes, así podemos identificar que el Perú ha crecido
+
+porque tiene minerales por ejemplo si observamos el precio de la
+
+onza de oro pasó de USD$ 290.25 el año 2000 a USD$ 1182.92 al
+
+
+
+                                                                 19
+2014, generando una variación del 307.55%, caso similar ocurre
+
+con los demás minerales.
+
+Todas estas actividades asociadas a las finanzas empresariales,
+
+implican conocer , identificar y administrar el riesgo implícito en el
+
+costo de capital del sector económico en el que operan las
+
+empresas mineras, donde cada uno de estas situaciones tiene
+
+injerencia en la toma de decisiones financieras, puesto que estas
+
+decisiones afectan el riesgo o el éxito de una organización que
+
+permitan medir la generación o destrucción del valor, ya que el
+
+concepto de rentabilidad y utilidad es de corto plazo y muy vago
+
+como indicador de creación de valor, pero que también si es
+
+necesario conocerlo. Por lo tanto se debe considerar decisiones
+
+que incrementen y no deterioren el valor de la empresa, es decir
+
+que le den competitividad sostenido en tiempo.
+
+
+
+
+                                                                   20
+1.1.1. FORMULACIÓN DEL PROBLEMA.
+
+
+
+
+ PROBLEMA GENERAL
+
+ ¿De qué manera inciden el costo de capital y la rentabilidad de
+
+ las inversiones en la evaluación del valor empresarial del sector
+
+ minero – Perú, 2013 – 2014?
+
+
+
+
+ PROBLEMAS ESPECÍFICOS
+
+
+
+
+  A) ¿Cómo se determina el        costo de capital que permita
+
+      evaluar la creación de valor empresarial del sector minero
+
+      – Perú, 2013 – 2014?
+
+
+
+  B) ¿Cuál    es   el   rendimiento   mínimo   para   crear   valor
+
+      empresarial en el sector minero – Perú, 2013 – 2014?
+
+
+
+
+  C) ¿Es posible medir la creación de valor empresarial en el
+
+      sector minero – Perú, 2013 – 2014?
+
+
+
+
+                                                                21
+1.2. ANTECEDENTES.
+
+
+   VELASQUEZ APAZA, Mario Leonidas (Velasquez, 2006). En su
+
+   tesis “El valor empresarial, como método de medición del
+
+   rendimiento en los aserraderos de la ciudad de Puno, años 2003 y
+
+   2004” concluye:
+
+
+   Las empresas industriales en estudio dedicadas al aserrío de la
+
+   madera en la ciudad de Puno, no aplican los métodos de creación
+
+   de valor empresarial y por ende desconocen sus niveles de
+
+   rendimiento real.
+
+   PACHECO MEXZON, Raimundo Renaun (Pacheco, 2009). En su
+
+   tesis “El EVA y la creación de valor en las empresas peruanas:
+
+   periodo 1999 - 2003” concluye:
+
+    - En el sector minero, de las diez primeras empresas que cotizan
+
+       en bolsa, sólo dos están creando valor económico en todo el
+
+       periodo de análisis (1,999 – 2,003). Las otras, en algunos años,
+
+       tienen EVA negativo lo que indica que no tienen valor
+
+       económico agregado cuando esta situación se da. Esto
+
+       demuestra la hipótesis que la creación de valor de las
+
+       principales empresas que cotizan en Bolsa no repercutió
+
+       significativamente en el crecimiento y desarrollo del sector
+
+       productivo al que pertenecen. Esta situación también se
+
+       aprecia en el subsector de alimentos, bebidas y tabaco.
+
+
+
+
+                                                                    22
+    - Las principales empresas que cotizan en Bolsa no están todas
+
+      ellas generando valor económico, pese a que en algunos casos
+
+      se aprecia un incremento de su patrimonio y sus activos.
+
+    - Las empresas que cotizan en Bolsa y están creando valor
+
+      económico no necesariamente mejoraron el valor de sus
+
+      acciones en el mercado.
+
+POMA CORNEJO, Heber David (Poma, 2011). En su tesis “El
+
+valor de las empresas del sector electricidad de la región de Puno y
+
+su competitividad”, concluye:
+
+    - La determinación del costo de oportunidad de capital,
+
+      constituye el criterio fundamental para poder medir la
+
+      competitividad de las empresas del sector electricidad de la
+
+      región de Puno en un entorno de economía globalizada.
+
+    - La generación del valor es una métrica que permite conocer la
+
+      eficiencia en el uso del dinero.
+
+    - El flujo de caja después de impuestos es el instrumento
+
+      condicionante     para   la   aplicación   de   indicadores   de
+
+      competitividad.
+
+
+CHAVÉZ CANAHUIRE, Yolanda (Chavez, 2012). En su tesis “El
+
+costo de capital en la evaluación económica y financiera” concluye:
+
+-    La evaluación económica de las inversiones se aplica al Flujo
+
+     de caja económico neta del impuesto a la renta.
+
+
+
+
+                                                                    23
+-   La evaluación financiera de las inversiones se aplica al flujo de
+
+    caja financiero neta del impuesto a la renta.
+
+-   Los ingresos representados por los flujos positivos están
+
+    afectos al pago del impuesto a la renta.
+
+-   Los egresos representados por los flujos negativos generan
+
+    ingreso tributario o escudo fiscal.
+
+-   El capital de trabajo se considera ingreso, pero no está afecto al
+
+    pago del impuesto a la renta.
+
+
+MENDOZA BARREZUETA, Marisabel (Mendoza, 2012). En su
+
+tesis “Análisis dinámico de la estructura de capital de las empresas
+
+cotizadas en la bolsa de valores de Lima: un modelo de ajuste
+
+parcial”, concluye:
+
+De los resultados de la investigación se concluye que las empresas
+
+peruanas utilizan sus fondos generados internamente para
+
+financiar sus inversiones de corto y largo plazo. Esto se explica
+
+principalmente porque se ha utilizado a las grandes empresas que
+
+cotizan en bolsa que son solventes y en su composición de la
+
+estructura de capital es más predominante los recursos propios que
+
+la deuda. Finalmente esta investigación analiza el impacto de las
+
+diferencias entre sectores de la economía peruana. Mostrando en
+
+que el corto plazo el sector servicios y agrario tienen un
+
+comportamiento distinto respecto al nivel de endeudamiento, pero
+
+en el largo plazo, este comportamiento es corregido y todos los
+
+sectores de la economía actúan de manera similar.
+
+
+                                                                   24
+ARREDONDO ZUÑIGA, Charles Rolando (Arredondo, 2012). En
+
+su tesis “El riesgo empresarial como elemento condicionante de
+
+creación de valor en la Empresa de Generación Eléctrica San
+
+Gabán S.A. al año 2010”, concluye:
+
+ - El costo de oportunidad de capital obtenido para el sector
+
+   electricidad del Perú y de la región Puno, es de 6.96% y 9.36%
+
+   y que son el instrumento fundamental para poder evaluar las
+
+   expectativas de sus inversionistas.
+
+ - La Empresa de Generación Eléctrica San Gabán durante el
+
+   año 2010 ha destruido valor por S/. 5’146,359.24 esto refleja la
+
+   ineficiencia en el manejo de recursos financieros, corroborando
+
+   los resultados obtenidos en el objetivo1, que presenta una
+
+   limitada competitividad respecto al mercado.
+
+ - Con la información del costo de oportunidad económica para el
+
+   Perú, estimada en la primera parte de la investigación, se
+
+   procede a estimar el valor presente neto (VPN) y la tasa interna
+
+   de retorno (TIR) que se aplican al flujo de caja después de
+
+   impuestos (FCDI) y que manifiesta que la empresa en estudio
+
+   crea valor para sus accionistas en el largo plazo.
+
+
+
+
+                                                                25
+1.3. OBJETIVOS DE INVESTIGACIÓN
+
+
+
+    1.3.1. OBJETIVO GENERAL
+
+
+         Determinar el costo de capital y la rentabilidad de las
+
+         inversiones para   evaluar el valor empresarial del sector
+
+         minero – Perú, 2013 – 2014.
+
+
+
+
+    1.3.2. OBJETIVOS ESPECÍFICOS
+
+
+
+         A) Determinar el costo de capital para evaluar la creación
+
+            de valor empresarial del sector minero – Perú, 2013 –
+
+            2014.
+
+
+
+         B) Analizar la rentabilidad de las inversiones para conocer
+
+            su impacto en la creación del valor empresarial del
+
+            sector minero – Perú, 2013 – 2014.
+
+
+
+         C) Conocer la creación de valor empresarial del sector
+
+            minero – Perú, 2013 – 2014.
+
+
+
+
+                                                                  26
+                         CAPÍTULO II:
+
+
+MARCO TEÓRICO, MARCO CONCEPTUAL E HIPÓTESIS DE LA
+                 INVESTIGACIÓN
+
+
+
+
+2.1. MARCO TEÓRICO.
+
+
+   FINANZAS
+
+   El campo de las finanzas es amplio y dinámico. Afecta
+
+   directamente la vida de toda persona y organización. Existen
+
+   muchas áreas y oportunidades de carrera en este campo. Los
+
+   principios básicos de finanzas, como los que aprenderá en este
+
+   libro, pueden aplicarse de forma universal en organizaciones
+
+   empresariales de diferentes tipos.
+
+   Las finanzas se definen como el arte y la ciencia de administrar el
+
+   dinero. Casi todos los individuos y organizaciones ganan o
+
+   recaudan dinero y lo gastan o lo invierten. Las finanzas se ocupan
+
+   del proceso, de las instituciones, de los mercados y de los
+
+
+
+
+                                                                   27
+instrumentos que participan en la transferencia de dinero entre
+
+individuos, empresas y gobiernos (Gitman, 2007).
+
+INSTITUCIONES Y MERCADOS FINANCIEROS
+
+La mayoría de las empresas exitosas tienen necesidades
+
+constantes de fondos y los obtienen a partir de tres fuentes
+
+externas. La primera fuente es una institución financiera que capta
+
+ahorros y los transfiere a los que necesitan fondos. Una segunda
+
+fuente son los mercados financieros, foros organizados en los que
+
+proveedores y solicitantes de diversos tipos de fondos realizan
+
+transacciones. Una tercera fuente es la colocación privada.
+
+ 1. Instituciones Financieras
+
+
+   Las instituciones financieras sirven como intermediarios al
+
+   canalizar los ahorros de los individuos, empresas y gobiernos
+
+   hacia    préstamos    o   inversiones.   Muchas     instituciones
+
+   financieras pagan directa o indirectamente intereses sobre
+
+   fondos depositados a los ahorradores; otras proporcionan
+
+   servicios a cambio de una comisión (por ejemplo, las cuentas
+
+   de cheques por las cuales los clientes pagan cuotas de
+
+   servicios). Algunas instituciones financieras aceptan depósitos
+
+   de ahorros de clientes y prestan este dinero a otros clientes o
+
+   empresas; otras invierten los ahorros de clientes en activos
+
+   productivos, como bienes raíces o acciones y bonos, y algunas
+
+   hacen ambas cosas.
+
+
+
+                                                                 28
+2. Mercados Financieros
+
+
+  Los mercados financieros se componen del mercado de dinero
+
+  y el mercado de capitales. El mercado del dinero es quel en el
+
+  cual circulan valores que asumen la forma la forma de deuda y
+
+  que deben liquidarse en el corto plazo (generalmente menos de
+
+  un año). El mercado de capitales es aquel en el cual circula la
+
+  deuda a largo plazo. (Ross, Westerfield, & Jaffe, 2002).
+
+
+      Mercado del dinero: Los instrumentos del mercado de
+
+       dinero incluyen valores a corto plazo, negociables, valores
+
+       con alta liquidez y valores de Bajo riesgo. Los mercados
+
+       monetarios son a veces conocidos por el nombre de alta
+
+       liquidez o simplemente liquidez. (Bodie, Kane, & Marcus,
+
+       2004)
+
+      Mercado de capitales: El mercado de capitales es un
+
+       mercado que permite realizar transacciones a proveedores
+
+       y solicitantes de fondos a largo plazo. Están incluidas las
+
+       emisiones de valores de empresas y gobiernos. La
+
+       columna vertebral del mercado de capitales está integrada
+
+       por las diversas bolsas de valores que proporcionan un
+
+       foro para las transacciones de bonos y acciones. (Gitman,
+
+       2007).
+
+
+
+
+                                                               29
+LA EMPRESA Y SU VALOR
+
+Valor y precio
+
+En cuanto al valor no tangible la empresa tiene distinto valor para
+
+diferentes compradores y para el vendedor. El valor no debe
+
+confundirse con el precio, que es la cantidad a la que el vendedor y
+
+comprador acuerdan realizar una operación de compra-venta de
+
+una empresa. Esta diferencia en el valor de una empresa concreta
+
+se puede explicar mediante múltiples razones. Por ejemplo, una
+
+gran empresa extranjera muy avanzada en tecnología desea
+
+comprar otra empresa nacional, ya conocida, para entrar en
+
+nuestro mercado aprovechando el renombre de la marca local. En
+
+este caso, el comprador extranjero tan solo valorara la marca pero
+
+no valorara las instalaciones, maquinaria etc. (Fernandez, 2012)
+
+Hay tantos valores en una empresa como personas diferentes que
+
+la estén valorando o momentos distintos en que se la valore. El
+
+valor de una empresa es relativo porque el valor de una empresa
+
+en funcionamiento depende principalmente de las expectativas de
+
+quien la valora.
+
+Las expectativas que se mueven en la compra venta de una
+
+empresa afectan tanto al comprador como al vendedor y giran
+
+sobre dos conceptos:
+
+1. Expectativas sobre el beneficio de la empresa y el riesgo del
+
+negocio: Es lo que cada uno cree, por su lado, que podrá dar de
+
+
+                                                                   30
+beneficios netos la empresa y lo que cada uno piensa sobre los
+
+riesgos del negocio y, por tanto, la probabilidad que se den los
+
+beneficios esperados.
+
+2. Expectativas de rentabilidad en inversiones alternas: son las
+
+posibilidades de rentabilidad alternativa que tiene el vendedor en
+
+caso que venda y las expectativas que el comprador cree tener con
+
+otras inversiones alternativas en caso de no comprar. Una
+
+referencia para ambos casos es la renta del dinero sin riesgo. Hay
+
+que conseguir un valor bueno para todos. Una forma para antes de
+
+negociar se debe considerar:
+
+ A) El beneficio neto esperado: La cifra de beneficio se debe
+
+ obtener de manera intuitiva, más que de una manera científica. El
+
+ mayor reto de la fijación de esta variable es su estimación; el
+
+ beneficio contable que ha registrado la empresa en su último
+
+ ejercicio no es suficiente. Las expectativas y las estimaciones
+
+ están sometidas a multitud de presunciones: de demanda, de
+
+ precios, costo de impacto de estructura, costos financieros, etc.
+
+ Para hacer una proyección de beneficio neto distribuible se suele
+
+ partir de la evolución de prevista de sus componentes:
+
+
+    Crecimiento en volumen y/o precios de venta.
+
+
+    Evolución del % en margen bruto.
+
+
+    Evolución de los costos de estructura.
+
+
+    Evolución de los intereses de deuda.
+
+
+
+                                                                31
+   Evolución de los impuestos.
+
+
+   Evolución de las inversiones de reposición.
+
+B) La tasa de rentabilidad requerida: Es la estimación del costo de
+
+oportunidad que tiene el inversionista respecto al capital
+
+comprometido en la compra de la empresa. Dicho costo de
+
+oportunidad es una apreciación personal y por lo tanto puede ser
+
+distinto entre el comprador y el vendedor. La tasa de rentabilidad
+
+tiene dos componentes:
+
+ 1. El costo de la rentabilidad del dinero sin riesgo: El costo del
+
+    dinero sin riesgo que se suele tomar como referencia en las
+
+    valoraciones de empresas es la rentabilidad media que en el
+
+    momento de la inversión se pudiera obtener invirtiendo el
+
+    dinero en bonos u obligaciones del estado.
+
+ 2. La prima de riesgo que el inversor le asigne a la empresa: Es
+
+    el plus de rentabilidad que se le pide a toda inversión que
+
+    tenga un riesgo implícito. Tiene dos componentes, basados
+
+    en el grado de probabilidad o incertidumbre respecto a la
+
+    ocurrencia de un acontecimiento determinado:
+
+
+      Riesgo de quiebra.
+
+
+      Riesgo de volatilidad de resultados.
+
+     También puede descomponerse el riesgo según el sujeto o
+
+        la causa del mismo:
+
+
+
+
+                                                                32
+       Riesgo implícito de la empresa, debido a su modelo de
+
+         negocio o su inexperiencia.
+
+
+       El riesgo genérico del sector, debido a las características
+
+         de su entorno de competencia.
+
+
+       El riesgo país o países en que la empresa desarrolla su
+
+         negocio.
+
+
+       El riesgo global del sistema económico, debido a la
+
+         variación propio de los ciclos económicos y los riesgos
+
+         globales geopolíticos.
+
+CREACIÓN DE VALOR EMPRESARIAL
+
+El objetivo de la empresa, y por tanto de todos los gerentes y
+
+empleados, consiste en maximizar la riqueza de los propietarios
+
+para quienes opera, crear valor (Apaza, 2005).
+
+La creación de      valor debe ser     el   objetivo de   toda buena
+
+gerencia. Si hasta ahora el objetivo ha sido la maximización del
+
+beneficio, ahora este objetivo de beneficio ha sido sustituido por el
+
+de creación de valor. Pero, ¿cómo se mide el valor creado? Esta
+
+cuestión, muy sencilla en su planteamiento, no lo es tanto a la hora
+
+de ponerla en práctica. En síntesis podemos medir el valor creado
+
+en la empresa considerando no solamente el beneficio sino
+
+también el coste que ha supuesto generar ese beneficio. En
+
+definitiva, si el beneficio obtenido supera el coste de los recursos
+
+
+
+
+                                                                  33
+implicados, podremos decir que se ha creado valor. Si esto lo
+
+trasladamos a la toma de decisiones de inversión significa que
+
+para que se cree valor en la empresa el valor actual neto (VAN) de
+
+la inversión deberá ser positivo y por tanto estaremos invirtiendo en
+
+activos que generan un valor adicional para la empresa. (Bonmatí,
+
+2011).
+
+Se crea valor en la empresa cuando la utilidad o riqueza que
+
+genera es lo suficientemente grande para cubrir el coste de todas
+
+las fuentes de financiamiento     de los recursos invertidos en el
+
+negocio. (Bonmatí, 2011).
+
+Entre los indicadores tradicionales de la creación de valor para el
+
+accionista y de la gestión de los directivos, se destacan:
+
+
+  El precio de mercado de las acciones.
+
+  La utilidad neta.
+
+  Los dividendos.
+
+  El flujo de caja.
+
+  La rentabilidad del activo (ROA).
+
+  La rentabilidad del patrimonio (ROE). (Apaza, 2005).
+
+
+No importa que pague impuestos como si tuviera una utilidad real.
+
+La empresa aun deja una utilidad económica menor a los recursos
+
+que devora; mientras esto sucede no crea riqueza, la destruye.
+
+
+
+
+                                                                  34
+EVA:     ECONOMIC      VALUE     ADDED      (VALOR      ECONÓMICO
+
+AGREGADO)
+
+EL valor económico agregado EVA (Economic Value Added); es
+
+una herramienta que permite calcular y evaluar la riqueza generada
+
+por la empresa, teniendo en cuenta el nivel de riesgo con el que
+
+ésta ópera.     El EVA aporta elementos para los accionistas,
+
+inversionistas, entidades de crédito y otras personas con intereses
+
+en la empresa, puedan tomar decisiones con más conocimiento de
+
+causa.
+
+El valor económico agregado (EVA) pretende cubrir las deficiencias
+
+de los índices tradicionales, por esta razón debería:
+
+
+  Poder calcularse para cualquier empresa y            no solo para
+
+    aquellas que cotizan en la bolsa.
+
+  Poder aplicarse a la empresa y cualquier unidad.
+
+  Considerar todos los costos de la empresa y el costo de
+
+    financiamiento de los accionistas.
+
+  Considerar el riesgo del negocio de la empresa, eliminar el
+
+    impacto de los maquillajes contables.
+
+  Ser confiable cuando se comparan con datos de otras
+
+    empresas.
+
+
+El EVA recoge el concepto de creación de valor con el propósito de
+
+establecer una nueva orientación en la medición del desempeño de
+
+los negocios. Una de las funciones de las finanzas corporativas es
+
+
+
+                                                                  35
+la de poder medir de manera adecuada el comportamiento de cada
+
+una de las variables que afectan el valor de una empresa o
+
+proyecto. (Cruz, Villareal, & Rosillo, 2007)
+
+El EVA es el importe que queda una vez que se han deducido de
+
+los ingresos la totalidad de los gastos, incluidos los costos de
+
+oportunidad y los impuestos. (Apaza, 2005).
+
+El EVA (Economic Value Added) o Valor Economico Agregado
+
+mide si la utilidad neta es suficiente para cubrir el costo del capital
+
+empleado en la generación de utilidad.
+
+EVA = Utilidad Operativa Neta (d.t.) – Costo de Capital
+
+O mejor expresado, en términos absolutos:
+
+EVA =       Utilidad Operativa Neta (d.t.) – Costo de Capital *
+
+Capital Empleado
+
+Si definimos la rentabilidad del capital o ROI (Return on
+
+Investment) como utilidad operativa neta (d.t.) /capital; podemos
+
+concluir:
+
+EVA = (Rentabilidad de Capital – Costo de Capital) * Capital
+
+Como es de apreciar el EVA es una mediad absoluta ya que
+
+multiplica por el capital empleado, la diferencia entre la rentabilidad
+
+y el costo del capital.
+
+El capital empleado se define como la suma de todos aquellos
+
+recursos invertidos o aportados a la empresa para el desarrollo de
+
+
+                                                                    36
+su actividad; en general, la suma de fondos propios y recursos
+
+ajenos, excluyendo de estos, aquellos que no presenten un costo
+
+explicito o implícito, como por ejemplo la financiación de
+
+proveedores
+
+A su vez, el costo de capital se define en base al concepto de
+
+WACC (Weighted Average Cost of Capital) en español “Costo
+
+Promedio Ponderado de Capital”, es el modelo más comúnmente
+
+usado para el descuento de los flujos de caja de la firma; mide el
+
+promedio ponderado de los costos de las fuentes de financiación,
+
+como una aproximación a la tasa de interés de oportunidad o a la
+
+rentabilidad mínima requerida por un inversionista específico.
+
+(Cruz, Villareal, & Rosillo, 2007)
+
+Donde
+
+WACC = Costo de FF.PP. * (FF.PP / Total Capital) + Costo de la
+
+Deuda * (Deuda / Total Capital)
+
+Sustituyendo las magnitudes descritas, podemos concluir:
+
+EVA = (ROI – WACC) * Capital Empleado
+
+WACC: Weighted Average Cost of Capital (Costo Promedio
+
+Ponderado de Capital).
+
+Es el costo promedio de cada una de las fuentes de financiamiento
+
+para su uso respectivo en la situación dada; tomando un promedio
+
+ponderado, podemos ver que cuanto interés la empresa tiene que
+
+
+
+                                                               37
+pagar por cada sol de préstamos. El WACC de una empresa es en
+
+conjunto el rendimiento requerido global en la empresa; es la tasa
+
+de descuento apropiado para usar en los flujos de capital similar en
+
+el riesgo a la empresa global; las empresas crean valor para los
+
+accionistas ganando un rendimiento en el capital invertido que este
+
+sobre el costo de ese capital; WACC es una expresión de este
+
+costo y se utiliza para ver ciertas inversiones o estrategias o
+
+proyectos o compras previstas vale la pena emprender. (Apaza,
+
+2005).
+
+LA CONTABILIDAD ESTRATEGICA DEL EVA
+
+Debido a los grandes cambios en el mundo de los negocios
+
+(desarrollo de la tecnología de información y comunicaciones,
+
+competencia más agresiva en todos los niveles y un enfoque de
+
+mercado), la profesión del contador, ha tenido que reaccionar de
+
+igual manera, cambiando y adaptándose al entorno. Por lo que
+
+surge en la actualidad, el enfoque de la contabilidad estratégica,
+
+que es más que la búsqueda de un sistema de información integral.
+
+Por consiguiente podemos definir a la contabilidad estratégica
+
+como el sistema de información que incluye información financiera
+
+y no financiera para la toma de decisiones que soporta, mantiene e
+
+incrementa la posición competitiva de una organización.
+
+El análisis de la creación de valor para el accionista, es un
+
+instrumento de la contabilidad estratégica, en las empresas. Para
+
+
+
+                                                                 38
+ello, se evalúan tanto los parámetros específicos que determinan la
+
+competitividad de estas empresas, como los elementos básicos
+
+para configurar el desarrollo de carácter estratégico para los
+
+sistemas informativos contables.
+
+La   contabilidad    estratégica   reemplaza    a   la   contabilidad
+
+administrativa como esquema para la toma de decisiones al
+
+demostrar que la contabilidad administrativa carece de importancia
+
+en el campo de la estrategia de la empresa. (Apaza, 2005).
+
+EL ORIGEN DEL CAPM
+
+El CAPM fue desarrollado en forma simultánea por varios
+
+anteriores autores. Para cuando Sharpe culmino la elaboración de
+
+su famoso artículo “Capital Asset Prices: A Theory of Market
+
+Equilibrium under Conditions of Risk”, el cual fue publicado en
+
+setiembre de 1964, Jack L. Treynor había escrito con anterioridad,
+
+en 1961, un trabajo que formulaba un modelo bastante similar al de
+
+Sharpe: “Toward a Theory of the Market Value of Risk Assets”,
+
+articulo que hasta entonces no fue publicado pero del cual Sharpe
+
+tomo conocimiento.
+
+En febrero de 1965; apenas cinco meses después de publicado el
+
+trabajo de Sharpe, Lintner publica “The Valuation of Risk Assets
+
+and the selection of Risky Investments in Stock Portfolios and
+
+Capital Budgets”, según manifiesta Lintener, el había culmiando su
+
+trabajo con anterioridad a la publicación del artículo de Sharpe.
+
+
+
+                                                                    39
+Lintner complemnto el trabajo desarrollado con la publicación de un
+
+segundo artículo e diciembre de ese mismo año: “Security Prices,
+
+Risk amd Maximal Gains from Diversification”. Finalmente, en
+
+octubre del siguiente año, en 1966, Mossin publica su trabajo
+
+“Equilibrium in a Capital Asets Market”. La doctrina financiera
+
+atribuye a Sharpe, Lintener y Mossin el desarrollo del CAPM. Sin
+
+embargo, como todos sabemos Sharpe quien recibioel premio
+
+Nobel en 1990. (Bravo, 2008).
+
+EL CAPM
+
+El modelo de valoración de los activos de capital (CAPM) es un
+
+modelo económico para valorar el activo de capital, títulos,
+
+derivados y/o activos relacionados al riesgo y rendimiento
+
+esperado. CAPM se basa en la idea que el rendimiento esperado
+
+previsto adicional de demanda de los inversionistas (llamado prima
+
+de riesgo), si les permiten que asignen riesgo adicional.
+
+La fórmula del CAPM es:
+
+RENDIMIENTO ESPERADO = rendimiento de la pérdida de
+
+riesgo + xbeta (prima de riesgo previsto de mercado) o:
+
+R = Rf + x beta (RM – Rf).
+
+El coeficiente Beta es un indicador del riesgo sistemático o no
+
+diversificable de la inversión en acciones que permite establecer
+
+que tan sensible es la rentabilidad de una acción cuando se
+
+presentan cambios en la rentabilidad del mercado. (Gomero, 2005)
+
+
+                                                                40
+Cada empresa también tiene un beta. Un beta de una empresa es
+
+el riesgo de la empresa comparada al beta (riesgo) del mercado
+
+total. Si la empresa tiene un beta 3.0, se dice que es tres veces
+
+más riesgosa que el mercado total. El beta mide la volatilidad del
+
+título, concerniente a la clase del activo. (Apaza, 2005).
+
+  1. SUPUESTOS DEL CAPM:
+
+
+     Para la construcción del modelo CAPM se asumen los
+
+     siguientes supuestos:
+
+
+       Los inversionistas son personas adversas al riesgo.
+
+
+       Los inversionistas cuidan el balance entre retorno y su
+
+         varianza asociada para componer sus portafolios.
+
+
+       Existe una tasa libre de riesgo a la cual los inversionistas
+
+         pueden endeudarse o colocar sus fondos.
+
+
+       No existe asimetría de información y los inversionistas son
+
+         racionales, lo cual implica que todos los inversionistas
+
+         tiene las mismas conclusiones acerca de los retornos
+
+         esperados y las desviaciones estándar de todos los
+
+         portafolios factibles. (Bravo, 2008).
+
+MINERÍA PERUANA
+
+El Perú es el séptimo país más rico en recursos minerales en el
+
+mundo. En la actualidad se calcula que apenas una octava parte de
+
+
+
+
+                                                                 41
+los recursos mineros de nuestro país son explotados. (Quispe,
+
+2015).
+
+A escala global, sin duda, el Perú es un destacado productor de
+
+minerales. Su ascenso comenzó con el auge de las inversiones en
+
+la década de los noventa. Desde entonces, la producción se ha
+
+expandido en forma impresionante hasta la actualidad.
+
+Ha logrado así ocupar un lugar destacado en todos los rankings
+
+mundiales de los principales metales, con excepción del hierro y el
+
+níquel. Perú se ubica en el cuarto puesto en la producción de
+
+cobre.
+
+En producción de oro, Perú comparte con Sudáfrica el sexto
+
+puesto. En zinc, nuestro país es el tercer mayor productor del
+
+mundo. Igualmente en producción de plata y estaño, el Perú se
+
+sitúa en el tercer puesto. (Albuquerque, 2015).
+
+  BOOM ECONÓMICO
+
+  Entonces, no es exagerado afirmar que el boom económico por
+
+  el que ha atravesado el país, con todo lo que ha significado para
+
+  la reducción de la pobreza y el crecimiento de la clase media, ha
+
+  sido posible gracias a la minería.
+
+  Sin la minería, el Perú tendría muchísimas dificultades para
+
+  crecer, pues ninguna industria está en condiciones de generar la
+
+  extraordinaria cantidad de divisas que produce esta actividad.
+
+
+
+
+                                                                   42
+En efecto, los otros rubros más importantes dentro de nuestras
+
+exportaciones son el petróleo y los productos agropecuarios,
+
+pero representan solo el 9% y 8% respectivamente del total. No
+
+se compara con el 52 % que constituye las exportaciones
+
+mineras. (Priale, 2015).
+
+
+
+
+                                                            43
+2.2. MARCO CONCEPTUAL.
+
+
+   ACCIONES
+
+   Títulos financieros, cada uno de los cuales da una participación en
+
+   una compañía. Los accionistas adquieren el derecho a una
+
+   participación en los ingresos remanentes de la compañía después
+
+   de haber cumplido con todas sus otras obligaciones a cambio de
+
+   poner en riesgo su capital. (Bishop, 2010).
+
+
+
+
+   ACCIONES ORDINARIAS.
+
+   También conocidas como títulos de propiedad, o renta variable,
+
+   representan el accionariado de una empresa. (Ross, Westerfield, &
+
+   Jaffe, 2002).
+
+
+
+
+   ACREEDOR
+
+   Un prestador ya sea que otorga un préstamo, que compra un bono,
+
+   o que permite que el dinero adeudado ahora, se pague en el futuro.
+
+
+
+
+   ACTIVOS
+
+   Las cuentas que integran el activo refleja los bienes y derechos que
+
+   posee la empresa a la fecha de la elaboración del estado de
+
+   situación financiera. Las condiciones que prueban el derecho de
+
+
+
+                                                                    44
+propiedad son fundamentalmente la existencia física del bien en la
+
+empresa y el documento que muestre ese derecho de propiedad de
+
+la empresa sobre el bien. (Franco, 2013).
+
+
+
+
+ANALISIS DE ESCENARIO
+
+Consiste en probar los planes respecto de los posibles escenarios
+
+para comprobar que podría suceder si las cosas salieran como uno
+
+lo pensaba.
+
+Es otro análisis que se usa para evaluar el riesgo de un proyecto;
+
+determina la rentabilidad para escenarios alternativos en los que
+
+las variables claves son mutuamente excluyentes, es decir,
+
+diferentes para cada situación. (Mendiola, Carlos, Ccopa, Ortiz,
+
+Flores, & Castillo, 2014).
+
+
+
+
+BETA
+
+Parte de una teoría económica para evaluar Títulos financieros y
+
+calcular el Costo de Capital, conocido como Modelo de Valuación
+
+de Activos, beta mide la sensibilidad del precio de un activo
+
+determinado a los cambios en el mercado en general.
+
+
+
+
+                                                                45
+COSTO DE CAPITAL
+
+El costo de capital es la tasa de retorno que una empresa debe
+
+obtener de los proyectos en los que invierte para mantener el valor
+
+de mercado de sus acciones. También es visto como la tasa de
+
+retorno que requieren los proveedores del mercado de capitales
+
+para proporcionar sus fondos a la empresa. Si el riesgo permanece
+
+constante, los proyectos con una tasa de retorno mayor que el
+
+costo de capital aumentarán el valor de la empresa, y los proyectos
+
+con una tasa de retorno menor que el costo de capital disminuirán
+
+el valor de la empresa.
+
+El costo de capital es un concepto financiero elemental. Actúa
+
+como un vínculo importante entre las decisiones de inversión a
+
+largo plazo de la empresa y la riqueza de los propietarios
+
+determinada por los inversionistas del mercado.
+
+
+
+
+EFICIENCIA
+
+El Indicador de Eficiencia relaciona dos variables, permitiendo
+
+mostrar la optimización de los insumos (entendiéndose como la
+
+mejor combinación y la menor utilización de recursos para producir
+
+bienes y servicios) empleados para el cumplimiento de las Metas
+
+Presupuestarias. Los insumos son los recursos financieros,
+
+humanos y materiales empleados para la consecución de las
+
+metas.
+
+
+                                                                46
+FINANAZAS
+
+Las finanzas se definen como el arte y la ciencia de administrar el
+
+dinero. Casi todos los individuos y organizaciones ganan o
+
+recaudan dinero y lo gastan o lo invierten. Las finanzas se ocupan
+
+del proceso, de las instituciones, de los mercados y de los
+
+instrumentos que participan en la transferencia de dinero entre
+
+individuos, empresas y gobiernos.
+
+
+
+
+GESTIÓN
+
+Es la acción de administrar o gestionar un negocio. A través de una
+
+gestión se llevarán a cabo diversas diligencias, trámites, las cuales,
+
+conducirán al logro de un objetivo determinado, de un negocio o de
+
+un deseo que lleva largo tiempo en carpeta, como se dice
+
+popularmente.
+
+
+
+
+PASIVO
+
+Está conformado por las obligaciones vigentes que la empresa
+
+mantiene con sus acreedores a la fecha de la elaboración del
+
+estado de situación financiera. (Franco, 2013).
+
+
+
+
+                                                                   47
+PATRIMONIO NETO
+
+El patrimonio neto está conformado por los derechos de los
+
+propietarios sobre la empresa, entre quienes se encuentran los
+
+socios fundadores y los accionistas, internos y externos.
+
+
+
+
+RENDIMIENTO
+
+Ganancia o pérdida total experimentada sobre una inversión
+
+durante un periodo específico; se calcula al dividir las distribuciones
+
+en efectivo del activo durante el periodo, más su cambio en valor,
+
+entre su valor de inversión al inicio del periodo.
+
+
+
+
+RENTABILIDAD
+
+La capacidad de un capital colocado o invertido de generar renta,
+
+ingresos, utilidades, expresada en términos financieros.
+
+
+
+
+RIESGO
+
+El riesgo guarda una relación inversa con el valor de una empresa.
+
+A menor riesgo, menor tasa de descuento y mayor valor. A mayor
+
+riesgo, mayor tasa de descuento y menor valor. Si podemos de
+
+alguna manera reducir el riesgo, estaremos aumentando el valro de
+
+una empresa.
+
+
+
+
+                                                                    48
+ROA
+
+El rendimiento sobre los activos totales, por sus siglas en inglés,
+
+(return on total assets), denominado con frecuencia retorno de la
+
+inversión (ROI, por sus siglas en inglés, return on investment), mide
+
+la eficacia general de la administración para generar utilidades con
+
+sus activos disponibles. Cuanto más alto es el rendimiento sobre
+
+los activos totales de la empresa, mejor.
+
+
+
+
+ROE
+
+El retorno sobre el patrimonio, por sus siglas en inglés, (return on
+
+common equity), es la relación entre el BDT y el patrimonio neto.
+
+Mide la capacidad de la empresa para remunerar a los capitales
+
+propios. (Óscar, 2011).
+
+La rentabilidad para el accionista no solo está condicionada por la
+
+mayor o menor eficacia de la empresa en el manejo de sus
+
+inversiones, sino que además, y en principio, dicha rentabilidad
+
+será mayor cuanto más elevado sea el apalancamiento, es decir,
+
+cuanto menos recursos financieros financien los recursos propios.
+
+(Sánchez, 1994).
+
+
+
+
+                                                                  49
+2.3. HIPÓTESIS.
+
+
+
+    2.3.1. HIPÓTESIS GENERAL.
+
+
+         El costo de capital y la rentabilidad de las inversiones inciden
+
+         directamente    en    el   valor   empresarial     del   sector
+
+         minero – Perú, 2013 – 2014
+
+
+
+
+    2.3.2. HIPÓTESIS ESPECÍFICOS.
+
+         A) El costo de capital es el modelo financiero que nos
+
+             permite determinar la creación del valor empresarial del
+
+             sector minero – Perú, 2013 – 2014.
+
+
+
+         B) La rentabilidad de las inversiones incide directamente en
+
+             la   creación    del   valor   empresarial     del   sector
+
+             minero – Perú, 2013 – 2014.
+
+
+
+
+         C) El valor económico agregado (EVA) es la métrica
+
+             financiera que permite conocer la creación del valor
+
+             empresarial del sector minero – Perú, 2013 – 2014.
+
+
+
+
+                                                                      50
+2.3.3. VARIABLES
+
+
+     HIPÓTESIS GENERAL
+
+
+       Variable   Independiente:     Costo   de   capital   y   la
+
+        rentabilidad de las inversiones.
+
+        Indicadores:
+
+       - COK
+
+       - ROE
+
+       - ROA
+
+       - CAPM
+
+       - EVA.
+
+       Variable Dependiente: Valor empresarial.
+
+
+
+
+     HIPÓTESIS ESPECÍFICA 1
+
+
+       Variable Independiente: Costo de capital
+
+        Indicadores:
+
+       - Capital Asset Pricing Model (CAPM).
+
+       - Tasa del riesgo de Mercado.
+
+       - Beta desapalancado
+
+       - Tasa libre de riesgo.
+
+       - Tasa del riesgo país.
+
+
+       Variable Dependiente: Valor empresarial.
+
+
+
+
+                                                                 51
+HIPÓTESIS ESPECÍFICA 2
+
+
+  Variable          Independiente:     Rentabilidad   de   las
+
+      inversiones.
+
+      Indicadores:
+
+     - Rentabilidad sobre los activos
+
+     - Rentabilidad patrimonial.
+
+
+      Variable Dependiente: Valor empresarial.
+
+
+
+
+HIPÓTESIS ESPECÍFICA 3
+
+
+      Variable Independiente: Valor económico agregado
+
+       (EVA).
+
+      Indicadores:
+
+     - Costo promedio ponderado (WACC)
+
+     - NOPAT.
+
+     - Ke
+
+     - KoA
+
+      Variable Dependiente: Valor empresarial.
+
+
+
+
+                                                            52
+                             CAPÍTULO III
+
+
+
+             METODOLOGÍA DE LA INVESTIGACIÓN
+
+
+
+3.1. METODOLOGÍA DE INVESTIGACIÓN
+
+
+   La investigación es de carácter descriptivo y deductivo para
+
+   relacionar la inferencia predictiva (observación a través de los
+
+   sentidos), con la proposición de dar conclusión a través de la
+
+   razón.
+
+   3.1.1. Método Descriptivo
+
+            Según Luna (1996), el método descriptivo es de aplicación
+
+            en la investigación de temas relacionados a las ciencias
+
+            sociales donde a través de la descripción:
+
+               -   Se analiza individualmente cada pregunta.
+
+               -   Se conjuga las respuestas que tratan sobre el mismo
+
+                   factor.
+
+               -   Se redacta el documento con el análisis.
+
+
+
+
+                                                                    53
+         Este    método   permitió   conocer   de   manera     clara   la
+
+         información de los Estados Financieros de las empresas,
+
+         además del costo de capital, introduciendo en la afectación a
+
+         la creación de valor empresarial del sector minero.
+
+   3.1.2. Método Deductivo
+
+         Es aquella orientación que va de lo general a lo específico;
+
+         es decir que, de un enunciado general del que se va
+
+         desentrañando partes o elementos específicos. (Caballero,
+
+         2004)
+
+         Este método permitió lograr los objetivos planteados en el
+
+         presente trabajo de investigación, dando así un resultado
+
+         reflejado en las conclusiones.
+
+
+
+3.2. TÉCNICAS E INSTRUMENTOS PARA OBTENER DATOS
+
+   Las técnicas son los medios que durante la investigación nos
+
+   permitió la recolección de información requerida para realizar, los
+
+   análisis respectivos, en este caso utilizaremos las siguientes
+
+   técnicas:
+
+   3.2.1. Observación
+
+         En el desarrollo del trabajo fue necesaria la observación en
+
+         forma directa e indirecta para percibir la situación actual de
+
+         las empresas del sector minero 2013 – 2014. En generación
+
+         de valor empresarial.
+
+
+
+
+                                                                       54
+   3.2.2. Documental
+
+
+         En el desarrollo del trabajo de investigación se utilizaron
+
+         datos bibliográficos y fuentes de información documental
+
+         como los Estados Financieros de las empresas del sector
+
+         minero 2013 – 2014. Como el Estado de Situación
+
+         Financiera y Estado de Resultados, lo cual permitió la
+
+         obtención de resultados reales y objetivos.
+
+
+
+
+3.3. TÉCNICAS PARA PROCESAR LA INFORMACIÓN
+
+   Consiste   en   procesar los     datos (dispersos,   desordenados,
+
+   individuales) obtenidos de la población objeto de estudio y tiene
+
+   como fin generar el resultado (datos agrupados y ordenados), a
+
+   partir de los cuales se realizo el análisis según los objetivos de
+
+   hipótesis de la investigación realizada.
+
+
+   3.3.1. PROCESAMIENTO DE INFORMACIÓN
+
+         En el procesamiento de la información recopilada, se
+
+         clasificó los datos de acuerdo a los objetivos planteados,
+
+         utilizando las siguientes técnicas: tabulación y conversión de
+
+         cantidades a porcentajes
+
+   3.3.2. TRATAMIENTO ESTADÍSTICO
+
+         El costo de capital (K) se determina aplicando el modelo
+
+         CAPM, donde el coeficiente de volatilidad Beta se calcula
+
+         sobre la base estadística inferencial de la Covarianza y la
+
+
+
+                                                                    55
+         Varianza del rendimiento de mercado y el rendimiento del
+
+         título. El cual consistió en la aplicación de formulas, para la
+
+         determinación del beta, asimismo para presentar los
+
+         gráficos.
+
+
+
+
+3.4. POBLACIÓN Y MUESTRA
+
+
+   Población
+
+   La población de la investigación está constituida por las empresas
+
+   mineras que cotizan en la bolsa de valores de lima representados
+
+   por acciones comunes en moneda nacional. Como son:
+
+
+        MINERA ANDINA DE EXPLORACIONES S.A.A.
+
+        COMPAÑÍA MINERA ATACOCHA S.A.A.
+
+        SOCIEDAD MINERA EL BROCAL S.A.A.
+
+        COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.
+
+        CASTROVIRREYNA COMPAÑÍA MINERA S.A.
+
+        CORPORACION DE GESTION MINERA S.A.
+
+        FOSFATOS DEL PACIFICO S.A.
+
+        COMPAÑÍA MINERA MILPO S.A.A.
+
+        SOCIEDAD MINERA CORONA S.A.
+
+        COMPAÑÍA MINERA SAN IGNACIO DE MOROCOCHA
+
+         S.A.A.
+
+        COMPAÑÍA MINERA PODEROSA S.A.
+
+        SHOUGANG HIERRO PERU S.A.A.
+
+
+                                                                     56
+     VOLCAN COMPAÑÍA MINERA S.A.A.
+
+
+Muestra
+
+El método de muestreo es no probabilístico intencional o selectivo,
+
+consistente en decidir voluntariamente la selección; en tal sentido
+
+se tomara el 30% del total
+
+                         ESQUÉMA N° 01
+               DETERMINACIÓN DE LA MUESTRA
+
+
+
+Donde:
+
+N: Población
+
+%n: 30% de la población.
+
+13 empresas x 30%
+
+Muestra = 4 Empresas.
+
+   1. COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.
+
+   2. COMPAÑÍA MINERA MILPO S.A.A.
+
+   3. COMPAÑÍA MINERA PODEROSA S.A.
+
+   4. VOLCAN COMPAÑÍA MINERA S.A.A.
+
+
+
+
+                                                                57
+                          CAPÍTULO IV
+
+
+
+     CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN
+
+
+4.1. ÁMBITO DE ESTUDIO
+
+    Comprende la parte de análisis de influencia del costo de capital en
+
+    la creación de valor empresarial de las empresas mineras que
+
+    cotizan en la bolsa de valores de Lima representados por acciones
+
+    comunes en moneda nacional.
+
+
+
+    COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.
+
+    Dedica (por cuenta propia y asociada con terceros) a la
+
+    exploración, extracción, concentración y comercialización de
+
+    minerales   polimetálicos    y   metales.    Buenaventura     opera
+
+    directamente nueve unidades mineras ubicadas en el Perú
+
+    (Uchucchacua,    Orcopampa,      Poracota,   Julcani,   Recuperada,
+
+    Antapite, Ishihuinca, Mallay y Breapampa) y tiene el control de dos
+
+    compañías peruanas que poseen las minas de Colquijirca, Shila y
+
+    Paula. Asimismo mantiene inversiones en acciones de otras
+
+
+
+                                                                      58
+empresas dedicadas a la actividad minera, entre las que se
+
+encuentran Minera Yanacocha S.R.L. y Sociedad Minera Cerro
+
+Verde S.A.A.
+
+Durante el año 2014, la producción total acumulada en las minas
+
+que opera Compañía de Minas Buenaventura S.A.A. (cuatro minas
+
+subterráneas (Orcopampa, Uchucchacua, Julcani y Mallay) y tres
+
+minas a tajo abierto (Breapampa, La Zanja y Tantahuatay))
+
+
+
+
+COMPAÑÍA MINERA MILPO S.A.A.
+
+Dedicada a llevar a cabo todas las actividades que comprenden la
+
+industria minera y particularmente la exploración y explotación de
+
+yacimientos mineros y el beneficio de estos últimos, así como el
+
+tratamiento, comercialización, fundición y refinación y todas las
+
+demás actividades conexas. Sus unidades operativas son la
+
+Unidad Minera El Porvenir (concentrados de zinc, plomo y cobre),
+
+la Unidad Minera Cerro Lindo (concentrados de zinc, plomo y
+
+cobre), así como la Unidad Minera Atacocha (concentrados de zinc,
+
+plomo y cobre), la Unidad Minera Chapi (sulfatos y cátodos de
+
+cobre) y la Unidad Minera Iván (actualmente únicamente realiza
+
+actividades exploración), éstas tres últimas a través de sus
+
+subsidiarias Compañía Minera Atacocha S.A.A., Minera Pampa de
+
+Cobre S.A. y Minera Rayrock Limitada, respectivamente.
+
+
+
+
+                                                                59
+COMPAÑÍA MINERA PODEROSA S.A.
+
+La sociedad se dedica al desarrollo de actividades mineras en
+
+general, siendo su actividad principal la explotación, extracción,
+
+precipitación y fundición de oro para producir oro bullón,
+
+actividades que realiza en la provincia de Pataz, departamento de
+
+La Libertad.
+
+
+
+
+VOLCAN COMPAÑÍA MINERA S.A.A.
+
+Dedicada a la exploración y explotación de denuncios mineros, y la
+
+correspondiente extracción y tratamiento de minerales metalíferos
+
+no ferrosos, excepto minerales de Uranio y de Torio, así como su
+
+posterior comercialización, tanto en el mercado interno como
+
+externo.
+
+
+
+
+                                                                60
+                           CAPÍTULO V
+
+
+
+           EXPOSICIÓN Y ANÁLISIS DE RESULTADOS
+Los resultados se presentan de acuerdo a los objetivos:
+
+
+ 5.1. DETERMINAR EL COSTO DE CAPITAL PARA EVALUAR LA
+     CREACIÓN DE VALOR EMPRESARIAL DEL SECTOR
+     MINERO – PERÚ, 2013 – 2014.
+
+
+     Para la evaluación de la creación de valor empresarial, se requiere
+
+     del COK, que puede estimarse a través de la información, que se
+
+     presenta en la Bolsa de Valores de Lima, aplicando a estos datos
+
+     estadísticos.
+
+     A continuación se resume la metodología aplicada para determinar
+
+     el COK del sector minero.
+
+     PRIMERO: Se estimara el coeficiente Beta para el sector minero.
+
+     Para el cual se requiere del Índice General de la Bolsa de Valores
+
+     de Lima (IGVBL), y del índice del sector.
+
+     Ingresando a la página web: http: //bvl.com.pe, se obtiene el
+
+     rendimiento anual de de la Bolsa de Valores de Lima.
+
+
+
+
+                                                                     61
+                             IMAGEN N° 01
+                          ÍNDICE DE LA B.V.L.
+
+
+
+
+Fuente: www.bvl.com.pe.
+
+         Luego se obtiene el rendimiento anual del sector minero.
+
+                             IMAGEN N° 02
+                     INDICE DEL SECTOR MINERO
+
+
+
+
+  Fuente: www.bvl.com.pe.
+
+        Teniendo esta información, se introduce en el cuadro de
+
+        determinación del Beta del sector minero, en el cual se determinará
+
+        el Beta. Para el cálculo del Beta se usa las formulas que presenta.
+
+        Nicko Gomero, en su libro Finanzas & Proyectos de Inversión.
+
+
+                                                                         62
+                                         TABLA N° 01
+        COEFICIENTE DE VOLATILIDAD (BETA) DEL SECTOR MINERO
+                                              RENDIMIENTO
+                    RENDIMIENTO RENDIMIENTO
+     RENDIMIENTO                               PROMEDIO
+                       DEL       PROMEDIO
+AÑOS DEL SECTOR
+                     MERCADO DEL SECTOR
+                                                  DEL     RS-RSP RM-RMP     (RS-RSP)*(RM-RMP)   (RM-RMP)2
+         (RS)                                  MERCADO
+                       (RM)        (RSP)
+                                                 (RMP)
+ 2013     -0.4217      -0.2363    -0.16665      -0.11975  -0.2551 -0.1166        0.0297          0.0136
+ 2014      0.0884      -0.0032    -0.16665      -0.11975   0.2551 0.1166         0.0297          0.0136
+         -0.16665     -0.11975                                                   0.0595          0.0272
+Fuente: Imagen N° 01 e Imagen N° 02
+Elaboración Propia.
+
+
+            Como se aprecia, para el cálculo del rendimiento promedio del
+
+            sector (RSP), se utilizo la siguiente fórmula:
+
+                                              ESQUÉMA N° 02
+                    DETERMINACIÓN DEL RENDIMIENTO PROMEDIO DEL
+                                      SECTOR
+
+
+
+
+            De igual manera para la determinación del rendimiento promedio
+
+            del mercado se utilizo la formula:
+
+
+
+
+                                              ESQUÉMA N° 03
+                    DETERMINACIÓN DEL RENDIMIENTO PROMEDIO DE
+                                    MERCADO
+
+
+
+
+                                                                                                    63
+Para el cálculo de la varianza se utilizo la siguiente fórmula:
+
+                            ESQUÉMA N° 04
+               DETERMINACIÓN DE LA VARIANZA
+
+                                   (                    )
+
+
+
+
+Para la determinación de la covarianza o coeficiente de variabilidad
+
+se utilizo la siguiente fórmula:
+
+                            ESQUÉMA N° 05
+             DETERMINACIÓN DE LA COVARIANZA
+
+
+                            (              )(               )
+
+
+
+
+Teniendo ya la covarianza y la varianza, podemos calcular el Beta
+
+con la siguiente formula.
+
+
+
+
+                            ESQUEMA N° 06
+                   DETERMINACIÓN DEL BETA
+
+
+                                       (            )
+                                           (    )
+
+
+
+
+                                                                  64
+Teniendo ya, el cálculo del Beta, se puede apreciar que existe
+
+mayor riesgo de la acción del sector minero a la del mercado, lo
+
+que en términos generales, indica mayor volatilidad a la del
+
+mercado.
+
+SEGUNDO: Se estima la tasa libre de riesgo.
+
+La información fue tomada del portal de Damodaran on line:
+
+http://pages.stern.nyu.edu/~adamodar/. Se tomara el promedio
+
+aritmético (1928 – 2014) de rendimiento de la inversión anual en
+
+T-Bills (Bonos de tesoro americano), porque son la inversión más
+
+segura que se pueda hacer, ya que además de no tener riesgo de
+
+incumplimiento, su corto plazo de vencimiento      hace que los
+
+precios de estos instrumentos sean relativamente estables. Siendo
+
+el promedio aritmético 3.53%.
+
+TERCERO: Se estima la tasa de rendimiento de mercado.
+
+Se aplica el promedio aritmético (1928 – 2014) tomado del portal
+
+on line: http://pages.stern.nyu.edu/~adamodar/. Siendo el promedio
+
+aritmético de 11.53%.
+
+CUARTO: Se incorpora la tasa de Riesgo país del Perú.
+
+Esta información se obtuvo del portal del ministerio de economía y
+
+finanzas:
+
+
+
+
+                                                                65
+http://www.mef.gob.pe/DNEP/riesgo_pais/riesgo_pais.php, la tasa
+
+de Riesgo país es 1.62%.
+
+QUINTO: Se estima la tasa requerida de rendimiento del sector.
+
+                             ESQUÉMA N° 07
+           DETERMINACIÓN DEL COSTO DE CAPITAL
+
+
+                                     (       )
+
+Donde:
+
+(Rm – rf) = Prima de riesgo sobre la acción promedio.
+
+  = Índice de riesgo de la acción.
+
+rf = Tasa libre de riesgo.
+
+Obtenido todos los datos anteriores se procede a estimar el costo
+
+de capital (Modelo CAPM), quedando el siguiente resultado:
+
+                         (               )
+
+
+
+
+El costo de oportunidad de capital para ser aplicado en la presente
+
+investigación, que tomamos como muestra empresas que cotizan
+
+en la bolsa de valores de Lima; deberá adicionarse el riesgo país.
+
+
+ (    )
+
+
+
+SEXTO: Se presenta el resumen en el siguiente cuadro:
+
+
+
+
+                                                                     66
+                                 TABLA N° 02
+              DETERMINACIÓN DEL COSTO DE CAPITAL
+         DESCRIPCION                                       FUENTE
+         Rm            11.53%    http://pages.stern.nyu.edu/~adamodar/
+          rf           3.53%     http://pages.stern.nyu.edu/~adamodar/
+                     1.0941656   Esquema N° 06
+         rp            1.62%     http://www.mef.gob.pe/DNEP/riesgo_pais/riesgo_pais.php
+          K           13.90%
+
+Elaboración Propia.
+         La tabla N° 02 permite apreciar el retorno esperado del sector y de
+
+         la forma de su composición de riesgos, así el modelo CAPM,
+
+         manifiesta que toda inversión riesgosa (empresa) debe tener una
+
+         tasa de rendimiento superior a la tasa libre de riesgo, en tal sentido
+
+         esta representa el 3.53%, a la que se le adiciona la prima de riesgo
+
+         multiplicado por el coeficiente Beta, obteniéndose así un costo de
+
+         capital del 12.28%. Cabe mencionar que el modelo CAPM es
+
+         aplicable en economías que cotizan en mercados del primer mundo
+
+         globalizado donde las inversiones se dirigen a distintos países, la
+
+         cuantificación del riesgo implica considerar aspectos propios del
+
+         país receptor de la inversión, es decir que el riesgo país es un tema
+
+         que adquiere gran importancia en el cálculo del costo de capital en
+
+         países emergentes como el Perú. En ese sentido se adiciona el
+
+         riesgo país, que es el 1.62% al costo de capital determinado,
+
+         obteniendo así un costo de capital para el Perú en el sector minero
+
+         de 13.90%.
+
+
+
+
+                                                                                      67
+   5.2. ANALIZAR LA RENTABILIDAD DE LAS INVERSIONES PARA
+        CONOCER SU IMPACTO EN LA CREACIÓN DE VALOR
+        EMPRESARIAL DEL SECTOR MINERO – PERÚ, 2013 – 2014.
+
+
+
+        El objetivo de los estados financieros es suministrar información
+
+        acerca de la situación financiera, desempeño y cambios en la
+
+        situación financiera de una empresa que sea útil a una amplia
+
+        gama de usuarios con el objeto de tomar decisiones; ahí la
+
+        importancia de la información que trae los estados financieros.
+
+        Para la obtención de la información se ingreso a la página web:
+
+                             IMAGEN N° 03
+                      INFORMACIÓN FINANCIERA
+
+
+
+
+Fuente: http://www.smv.gob.pe/.
+        Para tener una mejor comprensión de los estados financieros; se
+
+        consolidó. Una de las razones más importantes por la que una
+
+        empresa entra en funcionamiento; es para generar beneficios para
+
+        todos los involucrados directa e indirectamente con la empresa. De
+
+
+
+
+                                                                          68
+ahí la importancia de saber cómo esta encaminando el ente; medir
+
+el resultado es importante para todos, desde los individuos hasta
+
+las empresas, porque deben conocer bien su desempeño
+
+económico. La utilidad es una herramienta de control. Pero
+
+cuantificarla no es una tarea sencilla. Generalmente, se le
+
+considera como una medida del aumento de “riqueza” de una
+
+cantidad, durante un determinado periodo, pero ¿Qué es la riqueza
+
+y como se mide a lo largo de cierto lapso?
+
+Para determinar la rentabilidad de las empresas del sector minero,
+
+se debe calcular el rendimiento; en ese sentido el indicador
+
+pertinente respecto a la inversión es el ROA y el ROE, que se
+
+representa como el Rentabilidad sobre activos o Rentabilidad
+
+económica (ROA) y Rentabilidad sobre patrimonio o Rentabilidad
+
+financiero (ROE).
+
+Para el cálculo del ROA se utilizo la formula:
+
+                         ESQUÉMA N° 08
+                    RENTABILIDAD ECONÓMICA
+
+
+
+
+                                                                69
+             Para el cálculo del ROE se utilizo la formula:
+
+                                                        ESQUÉMA N° 09
+                                            RENTABILIDAD FINANCIERA
+
+
+
+
+                                                     TABLA N° 03
+                                        ROA - SECTOR MINERO
+
+                      COMPAÑÍA DE MINAS              COMPAÑÍA MINERA MILPO             COMPAÑÍA MINERA           VOLCAN COMPAÑÍA MINERA
+   DESCRIPCION
+                     BUENAVENTURA S.A.A.                     S.A.A.                     PODEROSA S.A.                     S.A.A.
+
+                       2013             2014           2013               2014          2013         2014          2013             2014
+UTILIDAD OPERATIVA      132,302.00       61,596.00     140,783.00         185,051.00   108,441.00    78,501.00     267,933.00        95,388.00
+  TOTAL ACTIVOS       4,560,375.00    4,672,274.00   1,211,276.00       1,310,586.00   617,073.00   640,558.00   2,911,246.00     2,997,055.00
+   ROA = UO / T.A.    2.90%            1.32%          11.62%            14.12%         17.57%      12.26%         9.20%            3.18%
+     PROMEDIO                 2.11%                            12.86%                        14.88%                       6.15%
+Fuente: Estados Financieros.
+Elaboración Propia.
+
+
+                                                 GRÁFICO N° 01
+                                       ROA - SECTOR MINERO
+
+                                                                              14.88%
+                                               12.86%
+
+
+
+                                                                                                        6.15%
+
+                     2.11%
+
+
+
+
+           COMPAÑÍA DE                COMPAÑÍA                  COMPAÑÍA                       VOLCAN
+              MINAS                  MINERA MILPO                MINERA                       COMPAÑÍA
+          BUENAVENTURA                  S.A.A.                 PODEROSA S.A.                 MINERA S.A.A.
+              S.A.A.
+
+Fuente: Tabla N° 03.
+
+
+
+                                                                                                                                       70
+Para poder calcular el índice ROA necesitamos la utilidad operativa
+
+y el total de la inversión que se refleja en el total activo. El resultado
+
+de 2.11% para Buenaventura S.A.A., 12.86% para Milpo S.A.A.,
+
+14.88% para Poderosa S.A. y 6.15% para Volcan S.A.A. Significa
+
+que estos generan un 2.11%, 12.86%, 14.88% y 6.15% de
+
+rendimiento operativo o económico sobre la inversión realizada. En
+
+el caso de la Compañía de Minas Buenaventura S.A.A., se ve un
+
+rendimiento mínimo; lo cual se explica que al 31 de diciembre de
+
+2014, las ventas netas ascendieron a US$ 1,165,172.00 frente a
+
+las ventas de US$ 1,285,441.00 realizadas en el ejercicio 2013, lo
+
+que ha representado una disminución de 9.36%, el cual incidió en
+
+la rentabilidad económica. Por el otro lado la Compañía Minera
+
+Poderosa S.A. presenta el rendimiento económico más alto del
+
+sector en estudio, como se observa en el cuadro estadístico. A
+
+pesar de la persistente disminución del precio del oro; la compañía
+
+mantuvo su programa de inversiones menor al de años anteriores,
+
+esa es la razón principal por lo que obtuvo buena rentabilidad
+
+económica, no invirtió mucho y genero beneficios para la
+
+compañía. Además logro mejorar sus reservas minerales.
+
+
+
+
+                                                                       71
+                                                    TABLA N° 04
+                                      ROE - SECTOR MINERO
+
+                       COMPAÑÍA DE MINAS             COMPAÑÍA MINERA MILPO           COMPAÑÍA MINERA         VOLCAN COMPAÑÍA MINERA
+   DESCRIPCION
+                      BUENAVENTURA S.A.A.                    S.A.A.                   PODEROSA S.A.                   S.A.A.
+
+                        2013           2014            2013             2014          2013         2014         2013           2014
+  UTILIDAD NETA          -74,154.00    -61,640.00       65,670.00       104,252.00    62,580.00 43,448.00       173,360.00      56,823.00
+   PATRIMONIO          3,832,529.00 3,762,125.00       563,078.00       649,696.00   378,067.00 390,015.00    1,475,127.00 1,491,046.00
+ ROE = UN / PATRIM.   -1.93%          -1.64%          11.66%           16.05%        16.55%       11.14%       11.75%         3.81%
+    PROMEDIO                   -1.79%                         13.83%                        13.81%                      7.71%
+Fuente: Estados Financieros.
+Elaboración Propia.
+
+
+                                                GRÁFICO N°02
+                                       ROE – SECTOR MINERO
+
+
+
+
+                                                    13.83%                   13.81%
+
+                                                                                                       7.71%
+
+
+                       -1.79%
+
+
+                COMPAÑÍA DE            COMPAÑÍA                  COMPAÑÍA                      VOLCAN
+                   MINAS              MINERA MILPO                MINERA                      COMPAÑÍA
+               BUENAVENTURA              S.A.A.                 PODEROSA S.A.                MINERA S.A.A.
+                   S.A.A.
+
+Fuente: Tabla N° 04.
+
+              El resultado de 13.83% para Milpo S.A.A., 13.81% para Poderosa
+
+              S.A. y 7.71% para Volcan S.A.A. Indica que la utilidad disponible
+
+              para los accionistas o utilidad neta financiera, ha generado
+
+              beneficios, resultando la empresa Compañía Minera Milpo S.A.A. y
+
+              la Compañía Minera Poderosa S.A. Milpo S.A.A. con los más altos
+
+              rendimientos. Esto fue debido a que durante el 2014, el Grupo
+
+
+                                                                                                                                 72
+          Milpo registró un incremento de 8% en el volumen de concentrados
+
+          vendidos con respecto al 2013 debido a la mayor producción en las
+
+          Unidades Mineras, vendiendo un total de 723 mil toneladas de
+
+          concentrados y la Compañía Minera Poderosa S.A. también
+
+          incremento sus ventas en un 2.13%, pero además mantuvo su
+
+          programa de inversiones menor al de años anteriores. La empresa
+
+          Compañía de Minas Buenaventura S.A.A., tuvo un rendimiento
+
+          negativo de - 1.79%, el cual significa que la compañía generó
+
+          pérdidas en -1.79%, debido a la disminución en sus ventas en
+
+          9.36% en el 2014 respecto al 2013, además de la reducción del
+
+          precios de los metales y a la menor contribución de nuestra
+
+          empresa afiliada Minera Yanacocha.
+
+
+
+
+                                    TABLA N° 05
+              ROA Y ROE PROMEDIO DEL SECTOR MINERO
+                                                     2013                     2014
+                  EMPRESA
+                                             ROA             ROE      ROA            ROE
+COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.       2.90%           -1.93%    1.32%          -1.64%
+COMPAÑÍA MINERA MILPO S.A.A.                11.62%          11.66%   14.12%          16.05%
+COMPAÑÍA MINERA PODEROSA S.A.               17.57%          16.55%   12.26%          11.14%
+VOLCAN COMPAÑÍA MINERA S.A.A.               9.20%           11.75%    3.18%          3.81%
+            PROMEDIO GEOMÉTRICO             10.20%          9.28%    7.58%           7.13%
+Fuente: Estados Financieros.
+Elaboración Propia.
+
+
+
+
+                                                                                              73
+                               GRÁFICO N°03
+            ROA Y ROE PROMEDIO DEL SECTOR MINERO
+
+
+               10.20%                        9.28%
+                          7.58%                         7.13%
+
+
+
+
+                  ROA                          ROE
+Fuente: Tabla N° 05.
+
+        Tener una información en promedio, es mucho más relevante
+
+        cuando se habla de un sector, para poder observar                los
+
+        indicadores. Tal fue la razón para aplicar el promedio geométrico,
+
+        Para realizar el cálculo del promedio, primero se consolidó          la
+
+        información de los cálculos determinados del ROA y ROE, por cada
+
+        año del 2013 y 2014.
+
+        Se realiza el cálculo del promedio algebraico del ROA y ROE, por
+
+        cada año del 2013 al 2014.
+
+        Para el promedio algebraico se utilizo la formula:
+
+                                  ESQUÉMA N° 10
+                            PROMEDIO GEOMÉTRICO
+
+
+                                               ( )
+                                       ( )      √
+
+
+
+
+                                                                             74
+   En el cuadro estadístico     del promedio del sector minero se
+
+   observa una disminución en la Rentabilidad sobre activos (ROA)
+
+   del 10.20% a 7.58% y del 9.28% a 7.13% en Rentabilidad sobre
+
+   patrimonio (ROE). Esta disminución es a causa de que, la
+
+   economía mundial, en general, se debilitó con la confirmación de la
+
+   desaceleración en el crecimiento de China y el inicio de una
+
+   recesión en Japón, el letargo económico que vive la Eurozona con
+
+   pocos indicios de una pronta recuperación; el cual afecto
+
+   directamente en la reducción de precios de los minerales.
+
+
+
+                         TABLA N°06
+        RENTABILIDAD DEL SECTOR MINERO - CAPM
+    INDICADORES            ROA           ROE         CAPM
+         2013             10.20%        9.28%
+         2014             7.58%         7.13%
+      PROMEDIO            8.89%         8.20%        13.90%
+Fuente: Tablas 4 y 5.
+Elaboración Propia.
+
+
+   El índice de rentabilidad económico (ROA), ha medir el retorno que
+
+   nos proporciona el negocio, independientemente de cómo ha sido
+
+   financiado este, mientras el índice de rentabilidad financiera (ROE)
+
+   de medir el retorno de los accionistas después de pagar la deuda.
+
+   En ambos casos, es importante considerar que lo que genera la
+
+   empresa se convierte en utilidad y está en ganancia de la empresa
+
+   (punto de vista económico) o el accionista (Punto de Vista
+
+
+
+
+                                                                    75
+financiero). Lo que finalmente interesa son las utilidades que luego
+
+se convertirá en flujo de diversos.
+
+Si esta ganancia que se genera en un periodo como retorno a una
+
+inversión realizada es suficiente para justificar el rendimiento
+
+esperado, entonces se vería una satisfacción en la inversión
+
+realizada. En tal sentido se debe comparar el rendimiento a valor
+
+de mercado de las empresas del sector que se calcula a través del
+
+costo de capital (K). Como se puede apreciar existe una diferencia,
+
+entre el retorno de las empresas frente al retorno del sector, que
+
+refleja su productividad al 13.90 % frente a la productividad de las
+
+empresas compañía de minas Buenaventura S.A.A., compañía
+
+minera Milpo S.A.A., compañía minera poderosa s.a. y Volcan
+
+compañía minera S.A.A. que operan en el Perú que están al
+
+8.52%, esto significa que existe una diferencia de 5.38% indicando
+
+que las empresas están rindiendo por debajo del rendimiento del
+
+mercado, afectando así directamente a los inversionistas.
+
+
+
+
+                                                                 76
+5.3. CONOCER LA CREACIÓN DE VALOR EMPRESARIAL DEL
+     SECTOR MINERO – PERÚ, 2013 – 2014.
+
+
+
+   Para alcanzar este objetivo se precisa de la aplicación de modelos
+
+   que incluyan el costo de capital en la contabilidad específicamente
+
+   en los estados financieros. El EVA (Economic Value Added), es un
+
+   modelo que mide la generación de valor y que incluye el concepto
+
+   de riesgo empresarial en los Estados financieros de la contabilidad.
+
+   El esquema es el siguiente:
+
+                            ESQUÉMA N° 11
+                  VALOR ECONÓMICO AGREGADO
+
+
+                                             (           )
+
+   Donde:
+
+
+   1.
+
+                           ESQUÉMA N° 12
+                     UTILIDAD OPERATIVA NETA
+
+                                                     (       )
+
+
+
+   2.
+
+
+                            ESQUÉMA N° 13
+            COSTO PROMEDIO PONDERADO DE CAPITAL
+
+
+
+                       *,         (     )-       (               )+
+
+        Donde:
+
+
+                                                                      77
+     (   )   ( )
+
+
+
+3.
+
+
+
+
+                   78
+                                      TABLA N° 07
+  CÁLCULO DEL EVA DE LA COMPAÑÍA DE MINAS BUENAVENTURA
+                     S.A.A., 2013 – 2014.
+
+
+                          RUBRO                                         2013              2014
+Ingresos de actividades ordinarias                                 1,285,441          1,165,172
+Costo de Ventas                                                   -1,016,779           -949,529
+Ganancia (Pérdida) Bruta                                             268,662            215,643
+Gastos de Ventas y Distribución                                      -16,035            -16,605
+Gastos de Administración                                             -77,476           -101,102
+Otros Ingresos Operativos                                             97,886             81,894
+Otros Gastos Operativos                                             -140,735           -118,234
+Ganancia (Pérdida) por actividades de operación                      132,302             61,596
+Ingresos Financieros                                                   6,623             68,260
+Gastos Financieros                                                   -10,970            -11,318
+Diferencias de Cambio neto                                             -7012             -8,452
+Participación en los Resultados Netos de Asociadas y
+Negocios Conjuntos Contabilizados por el Método de la
+Participación                                                      -108,483              -74,600
+Resultado antes de Impuesto a las Ganancias                          12,460               35,486
+Gasto por Impuesto a las Ganancias                                  -86,614              -66,012
+Ganancia (pérdida) procedente de operaciones
+discontinuadas, neta del impuesto a las ganancias                          0             -31,114
+Ganancia (Pérdida) Neta del Ejercicio                               -74,154              -61,640
+Ganancia (Pérdida) por Accion                                              0                    0
+Ganancias (pérdida) básica por acción común                             -0.4                 -0.3
+Ganancias (pérdida) básica por acción de inversión                      -0.4                 -0.3
+Ganancias (Pérdida) Diluida por Acción Común
+Ganancias (Pérdida) Diluida por Acción Inversión
+WACC                                                             12.0339%              11.8141%
+COK                                                                13.90%                13.90%
+r(a)                                                                 4.68%                 2.49%
+CAPITAL INVERTIDO                                             4,624,973.00          4,560,375.00
+NOPAT                                                            92,611.40             43,117.20
+EVA                                              $             -463,954.85           -495,651.95
+
+Fuente: Estados Financieros
+Elaboración Propia.
+
+
+
+          Calculo del EVA: 2013
+
+
+                                     *,              (   )-   (                )+
+
+
+
+
+                                                                                              79
+Remplazando:
+
+                    (                           )
+
+
+
+
+Calculo del EVA: 2014
+
+
+                        *,       (     )-   (          )+
+
+
+Remplazando:
+
+                    (                           )
+
+
+
+
+Para el cálculo del EVA, con mucha más precisión, el Capital de
+
+inversión que se utilizó fue, con la que termino el año anterior; vale
+
+decir que para el año 2013 se tomo el capital invertido con la que
+
+cerró al 31 de diciembre del 2012 y para el 2014 se tomo el capital
+
+de inversión con la que cerró al 31 de diciembre del 2013.
+
+El EVA es una medida de actuación financiera que traza su poder
+
+de correlación con la actuación del mercado. Esencialmente toma
+
+los activos operativos de una empresa y asigna un costo de capital
+
+como medida de riesgo de la empresa. Su metodología consiste en
+
+comparar el rendimiento económico con el costo de financiamiento,
+
+donde se puede identificar la generación o destrucción de valor.
+
+Para nuestra investigación podemos apreciar que la empresa
+
+compañía de minas Buenaventura S.A.A. durante el 2013 y 2014
+
+
+
+
+                                                                   80
+ha destruido valor por $ - 463,954.85      y $ - 495,651.95
+
+respectivamente.    Esto refleja el gran impacto que tuvo la
+
+economía mundial, en la caída de los precios de los minerales,
+
+afectando a la empresa; en la disminución de sus ventas     y
+
+corroborando el objetivo 2, el cual presenta una mínima
+
+rentabilidad para la empresa.
+
+
+
+
+                                                            81
+                                     TABLA N° 08
+       CÁLCULO DEL EVA DE LA COMPAÑÍA MINERA MILPO S.A.A.,
+                           2013 – 2014.
+                        RUBRO                                            2013              2014
+Ingresos de actividades ordinarias                                    720,164           758,117
+Costo de Ventas                                                       -442,482          -459,098
+Ganancia (Pérdida) Bruta                                              277,682           299,019
+Gastos de Ventas y Distribución                                        -24,694           -27,617
+Gastos de Administración                                               -36,492           -32,822
+Otros Ingresos Operativos                                              24,891              3,026
+Otros Gastos Operativos                                               -100,604           -56,555
+Ganancia (Pérdida) por actividades de operación                       140,783           185,051
+Ingresos Financieros                                                    2,587              2,850
+Gastos Financieros                                                     -17,786           -19,515
+Resultado antes de Impuesto a las Ganancias                           125,584           168,386
+Gasto por Impuesto a las Ganancias                                     -59,914           -64,134
+Ganancia (Pérdida) Neta del Ejercicio                                  65,670           104,252
+Ganancias (Pérdida) por Acción:                                             0                 0
+Ganancias (pérdida) básica por acción ordinaria                         0.059              0.079
+Ganancias (Pérdida) Básica por Acción Inversión                         0.059              0.079
+Ganancias (pérdida) diluida por acción ordinaria                        0.076              0.079
+Ganancias (Pérdida) Diluida por Acción Inversión                        0.076              0.079
+WACC                                                                  9.6450%           9.5171%
+COK                                                                    13.90%            13.90%
+r(a)                                                                    4.71%             5.40%
+CAPITAL INVERTIDO                                               1,033,150.00      1,211,276.00
+NOPAT                                                                98,548.10        129,535.70
+EVA                                                    $             -1,099.38         14,257.10
+
+Fuente: Estados Financieros
+Elaboración Propia.
+
+
+
+          Calculo del EVA: 2013
+
+
+                                    *,             (       )-    (               )+
+
+
+          Remplazando:
+
+
+
+
+                                                                                               82
+                    (                           )
+
+
+
+
+Calculo del EVA: 2014
+
+
+                        *,       (     )-   (           )+
+
+
+Remplazando:
+
+                        (                           )
+
+
+
+
+Para el cálculo del EVA, con mucha más precisión, el Capital de
+
+inversión que se utilizó fue, con la que termino el año anterior; vale
+
+decir que para el año 2013 se tomo el capital invertido con la que
+
+cerró al 31 de diciembre del 2012 y para el 2014 se tomo el capital
+
+de inversión con la que cerró al 31 de diciembre del 2013.
+
+El resultado muestra que la empresa compañía minera Milpo
+
+S.A.A., durante el 2013 ha destruido valor por $ - 1,099.38 y en el
+
+2014 ha creado valor por $ 14,257.10. Esta superación en el 2014
+
+después de haber destruido valor en el año 2013; es positivo para
+
+el grupo Milpo, ya que continuaron obteniendo importantes logros
+
+en términos operativos, financieros y de crecimiento. Los mejores
+
+resultados operativos, traducidos en el incremento de la producción
+
+tanto de mineral tratado como de concentrados, permitieron
+
+contrarrestar los efectos provocados por la disminución de los
+
+precios internacionales de los metales durante el año, fortaleciendo
+
+
+                                                                   83
+la situación financiera del grupo en términos de mayores ingresos,
+
+aún en una coyuntura volátil. Así, la facturación consolidada
+
+alcanzó los US$ 758 millones, un incremento de 5% con respecto a
+
+lo registrado en el 2013.
+
+
+
+
+                                                                84
+                                  TABLA N° 09
+  CÁLCULO DEL EVA DE LA COMPAÑÍA MINERA PODEROSA S.A.,
+                       2013 – 2014.
+                       RUBRO                                 2013           2014
+Ingresos de actividades ordinarias                      544,373       556,239
+Costo de Ventas                                         -392,618      -429,997
+Ganancia (Pérdida) Bruta                                151,755       126,242
+Gastos de Ventas y Distribución                             -1,854         -2,085
+Gastos de Administración                                 -44,881          -45,122
+Otros Ingresos Operativos                                    4,036           987
+Otros Gastos Operativos                                       -615         -1,521
+Ganancia (Pérdida) por actividades de
+operación                                               108,441           78,501
+Ingresos Financieros                                          594          4,551
+Gastos Financieros                                       -12,932           -4,061
+Diferencias de Cambio neto                                  -5,717        -10,071
+Resultado antes de Impuesto a las Ganancias                 90,386        68,920
+Gasto por Impuesto a las Ganancias                       -27,806          -25,472
+Ganancia (Pérdida) Neta del Ejercicio                       62,580        43,448
+Ganancias (Pérdida) por Acción:                                 0              0
+Ganancias (pérdida) básica por acción ordinaria              0.417          0.29
+Ganancias (Pérdida) Básica por Acción Inversión                 0              0
+Ganancias (Pérdida) Diluida por Acción Común                    0              0
+Ganancias (Pérdida) Diluida por Acción de
+Inversión                                                       0              0
+
+WACC                                                   13.0588%       9.8854%
+COK                                                      13.90%           13.90%
+r(a)                                                     12.30%            3.87%
+CAPITAL INVERTIDO                                  560,047.00 617,073.00
+NOPAT                                                  75,908.70     54,950.70
+EVA                                    S/.              2,773.45     -6,049.46
+
+Fuente: Estados Financieros
+Elaboración Propia.
+
+
+
+         Calculo del EVA: 2013
+
+
+                                  *,         (    )-    (            )+
+
+
+
+                                                                                    85
+Remplazando:
+
+                    (                       )
+
+
+
+
+Calculo del EVA: 2014
+
+
+                        *,       (     )-   (          )+
+
+
+Remplazando:
+
+                    (                       )
+
+
+
+
+Para el cálculo del EVA, con mucha más precisión, el capital de
+
+inversión total que se utilizo fue, el Capital de inversión con la que
+
+termino el año anterior; vale decir que para el año 2013 se tomo el
+
+capital invertido con la que cerró al 31 de diciembre del 2012 y para
+
+el 2014 se tomo el capital de inversión con la que termino al 31 de
+
+diciembre del 2013.
+
+Para nuestra investigación podemos apreciar que la empresa
+
+Compañía Minera Poderosa S.A., durante el 2013 ha creado valor
+
+en S/. 2,773.45 y el 2014 ha destruido valor S/. - 6,049.46. Esto
+
+refleja el gran impacto que tuvo la economía mundial, en la caída
+
+de los precios de los minerales, afectando a la empresa; ya que
+
+solo pudo incrementar sus ingresos en un 2.13 % en el 2014
+
+respecto al 2013, el cual no tuvo impacto en la creación de valor
+
+
+
+
+                                                                   86
+para el año 2014;    el cual corrobora el objetivo 2, donde se
+
+presenta una disminución de la rentabilidad tanto económica como
+
+financiera.
+
+
+
+
+                                                              87
+                                     TABLA N° 10
+       CÁLCULO DEL EVA DE VOLCAN COMPAÑÍA MINERA S.A.A.,
+                          2013 – 2014.
+                        RUBRO                                        2013               2014
+Ingresos de actividades ordinarias                               1,162,823         1,042,351
+Costo de Ventas                                                   -791,433          -865,746
+Ganancia (Pérdida) Bruta                                          371,390            176,605
+Gastos de Ventas y Distribución                                    -46,274            -49,050
+Gastos de Administración                                           -60,813            -54,558
+Otros Ingresos Operativos                                          55,623            186,000
+Otros Gastos Operativos                                            -51,993          -163,609
+Ganancia (Pérdida) por actividades de operación                   267,933             95,388
+Ingresos Financieros                                               12,530             10,331
+Gastos Financieros                                                 -23,824            -33,321
+Diferencias de Cambio neto                                            -815             2,145
+Resultado antes de Impuesto a las Ganancias                       255,824             74,543
+Gasto por Impuesto a las Ganancias                                 -82,464            -17,720
+Ganancia (Pérdida) Neta del Ejercicio                             173,360             56,823
+Ganancias (Pérdida) por Acción:                                         0                  0
+Ganancias (pérdida) básica por acción ordinaria                     0.059              0.059
+Ganancias (Pérdida) Básica por Acción Inversión                         0                  0
+Ganancias (pérdida) diluida por acción ordinaria                        0                  0
+Ganancias (Pérdida) Diluida por Acción Inversión                        0                  0
+WACC                                                              8.8696%           8.3941%
+COK                                                                13.90%             13.90%
+r(a)                                                                2.92%              3.52%
+CAPITAL INVERTIDO                                           2,643,213.00      2,911,246.00
+NOPAT                                                        187,553.10            66,771.60
+EVA                                           $               -46,888.34          -177,602.61
+Fuente: Estados Financieros
+Elaboración Propia.
+
+
+
+          Calculo del EVA: 2013
+
+
+                                    *,             (   )-    (               )+
+
+
+
+                                                                                            88
+Remplazando:
+
+                        (                           )
+
+
+
+
+Calculo del EVA: 2014
+
+
+                        *,       (     )-   (             )+
+
+
+Remplazando:
+
+                    (                           )
+
+
+
+
+Para el cálculo del EVA, con mucha más precisión, el capital de
+
+inversión total que se utilizo fue, el capital de inversión con la que
+
+termino el año anterior; vale decir que para el año 2013 se tomo el
+
+capital invertido con la que cerró al 31 de diciembre del 2012 y para
+
+el 2014 se tomo el capital de inversión con la que termino al 31 de
+
+diciembre del 2013.
+
+Para nuestra investigación podemos apreciar que la empresa
+
+Volcan   compañía minera S.A.A.,       durante el 2013 y 2014 ha
+
+destruido valor       por    $    - 46,888.34,          $ - 177,602.61
+
+respectivamente.        Esto refleja el gran impacto que tuvo la
+
+economía mundial, en la caída de los precios de los minerales,
+
+afectando a la empresa; en la disminución de los ingresos en un
+
+10.36%, además se incrementó sus costos en 8.58%, lo que al final
+
+
+
+
+                                                                    89
+afecto claramente en la reducción de su utilidad en un 67.22% en
+
+el 2014 respecto al 2013.
+
+La notable diferencia en la disminución de la utilidad, tiene que ver
+
+también con que la empresa, recién a mediados del 2014, se
+
+reorganizó el área de exploraciones y geología para realizar un
+
+trabajo sistemático en toda la cadena de valor del negocio y se
+
+inició un agresivo programa de exploración.
+
+
+
+
+                                                                  90
+5.4. CONTRASTACIÓN DE HIPÓTESIS
+
+      Para la contrastación de las hipótesis propuestas en este trabajo
+
+      de investigación, se procedió a exponer de acuerdo a los
+
+      resultados obtenidos, el cual se detalla:
+
+
+
+      HIPÓTESIS ESPECÍFICA “A”
+
+      El costo de capital es el modelo financiero que nos permite
+
+      determinar la creación del valor empresarial del sector
+
+      minero – Perú, 2013 – 2014.
+
+      Para el análisis del trabajo de investigación, fue necesario
+
+      determinar el costo de capital, el cual se determinó por el CAPM,
+
+      este es un modelo económico para valorar el activo de capital,
+
+      títulos, derivados y/o activos relacionados al riesgo y rendimiento
+
+      esperado. El      CAPM se basa en la idea que el rendimiento
+
+      esperado previsto adicional de demanda de los inversionistas
+
+      (llamado prima de riesgo), si les permiten que asignen riesgo
+
+      adicional. Para    la determinación del COK, se usó la siguiente
+
+      fórmula:
+
+                 (       )
+
+
+      El coeficiente Beta es un indicador del riesgo sistemático o no
+
+      diversificable, de la inversión en acciones que permite establecer
+
+      que tan sensible es la rentabilidad de una acción cuando se
+
+      presentan cambios en la rentabilidad de mercado. El cálculo del
+
+      Beta se resume en el cuadro N° 01, donde básicamente se toma el
+
+
+                                                                      91
+rendimiento del sector y el rendimiento del mercado para el cálculo
+
+respectivo. Además del Beta, para determinar el costo de capital,
+
+se incluyen términos de cómo el riesgo financiero y la prima de
+
+riesgo de mercado, estos datos que se llegaron a utilizar son datos
+
+reales tomados de fuentes confiables como es la Bolsa de valores
+
+de Lima, y de http//:www.damodaran.com. Para utilizar este costo
+
+de capital en el Perú, se introdujo el riesgo país, de esa manera
+
+hacer posible un mejor estudio. Por lo que el costo de capital es un
+
+modelo financiero que nos permite determinar la creación de valor
+
+empresarial del sector minero en el Perú.
+
+Por lo tanto la hipótesis específica planteada es ACEPTADA
+
+
+
+
+                                                                 92
+HIPÓTESIS ESPECÍFICA “B”
+
+La rentabilidad de las inversiones incide directamente en la
+
+creación de valor empresarial del sector minero – Perú,
+
+2013 – 2014.
+
+Una de las razones más importantes por la que una empresa entra
+
+en funcionamiento; es para generar beneficios para todos los
+
+involucrados directa e indirectamente con la empresa. De ahí la
+
+importancia de saber cómo esta encaminando el ente; medir el
+
+resultado es importante para todos, desde los individuos hasta las
+
+empresas, porque deben conocer bien su desempeño económico.
+
+La utilidad es una herramienta de control. Pero cuantificarla no es
+
+una tarea sencilla. Generalmente, se le considera como una
+
+medida del aumento de “riqueza” de una cantidad, durante un
+
+determinado periodo, pero ¿Qué es la riqueza y como se mide a lo
+
+largo de cierto lapso?
+
+Para determinar la rentabilidad de las empresas del sector minero,
+
+se debe calcular el rendimiento; en ese sentido el indicador
+
+pertinente respecto a la inversión es el ROA y el ROE, que se
+
+representa como el Rentabilidad sobre activos o Rentabilidad
+
+económica (ROA) y Rentabilidad sobre patrimonio o Rentabilidad
+
+financiero (ROE). Los que permiten ver cuánto valor se ha creado
+
+en determinado periodo, con una cantidad aportada, haciendo que
+
+la rentabilidad de las inversiones inciden directamente en la
+
+creación de valor en las empresas.
+
+
+
+                                                                93
+Por lo tanto la hipótesis específica planteada es ACEPTADA.
+
+
+
+
+                                                              94
+HIPÓTESIS ESPECÍFICA “C”
+
+El valor económico agregado (EVA) es la métrica financiera
+
+que permite conocer la creación del valor empresarial del
+
+sector minero – Perú, 2013 - 2014.
+
+El EVA (Economic Value Added), es un modelo que mide la
+
+generación de valor y que incluye el concepto de riesgo
+
+empresarial en los Estados financieros de la contabilidad.
+
+El esquema es el siguiente:
+
+                     (        )
+
+El EVA es una medida de actuación financiera que traza su poder
+
+de correlación con la actuación del mercado. Esencialmente toma
+
+los activos operativos de una empresa y asigna un costo de capital
+
+como medida de riesgo de la empresa. Su metodología consiste en
+
+comparar el rendimiento económico con el costo de financiamiento,
+
+donde se puede identificar la generación o destrucción de valor.
+
+Por lo tanto el EVA es una métrica que nos permite conocer la la
+
+creación de valor en las empresas.
+
+Por lo tanto la hipótesis específica planteada es ACEPTADA.
+
+
+
+
+                                                                95
+                             CONCLUSIONES
+
+
+De acuerdo al desarrollo de este trabajo de investigación los resultados
+
+obtenidos han arribado a las siguientes conclusiones:
+
+
+
+
+Objetivo Específico 1:
+
+      El modelo CAPM, manifiesta que toda inversión riesgosa (empresa)
+
+       debe tener una tasa de rendimiento superior a la tasa libre de riesgo,
+
+       en tal sentido esta representa el 3.53%, a la que se le adiciona la
+
+       prima de riesgo multiplicado por el coeficiente Beta, obteniéndose así
+
+       un costo de capital del 12.28%, para el sector minero.
+
+      La cuantificación del riesgo implica considerar aspectos propios del
+
+       país receptor de la inversión, es decir que el riesgo país es un tema
+
+       que adquiere gran importancia en el cálculo del costo de capital en
+
+       países emergentes como el Perú. En ese sentido se         adiciona el
+
+       riesgo país, que es el 1.62% al costo de capital determinado,
+
+       obteniendo así un costo de capital para el Perú en el sector minero de
+
+       13.90%. y que es el instrumento fundamental para poder evaluar las
+
+       expectativas de sus inversionistas.
+
+
+Objetivo Específico 2:
+
+      Existe una disminución en la rentabilidad sobre activos (ROA) del
+
+       10.20% a 7.58% y del 9.28% a 7.13% en rentabilidad sobre
+
+       patrimonio (ROE), en el año 2014 respecto al 2013.
+
+
+
+
+                                                                           96
+      Existe una diferencia, entre el retorno de las empresas frente al
+
+       retorno del sector, que refleja su productividad al 13.90 % frente a la
+
+       productividad de las empresas compañía de minas Buenaventura
+
+       S.A.A., compañía minera Milpo S.A.A., compañía minera poderosa
+
+       s.a. y Volcan compañía minera S.A.A. que operan en el Perú que
+
+       están al 8.52%, esto significa que existe una diferencia de 5.38%
+
+       indicando que las empresas están rindiendo por debajo del
+
+       rendimiento   del   mercado,   afectando    así   directamente   a    los
+
+       inversionistas.
+
+
+Objetivo Específico 3:
+
+      La empresa Compañía de Minas Buenaventura S.A.A. durante el
+
+       2013 y 2014 ha destruido valor por $ - 463,954.85 y $ - 495,651.95
+
+       respectivamente. Esto refleja el gran impacto que tuvo la economía
+
+       mundial, en la caída de los precios de los minerales, afectando a la
+
+       empresa; en la disminución de sus ventas.
+
+      La empresa compañía minera Milpo S.A.A., durante el 2013 ha
+
+       destruido valor por $ - 1,099.38 y en el 2014 ha creado valor por $
+
+       14,257.10. Esta superación se dio, a la aplicación de estrategias
+
+       basada en pilares importantes reduciendo costos y gastos operativos.
+
+      La empresa compañía minera Poderosa S.A., durante el 2013 ha
+
+       creado valor en S/. 2,773.45 y el 2014 ha destruido valor            S/. -
+
+       6,049.46. Esto refleja la caída de los precios de los minerales, en la
+
+       economía mundial, afectando a la empresa; ya que solo pudo
+
+
+
+
+                                                                              97
+    incrementar sus ingresos en un 2.13 % en el 2014 respecto al 2013,
+
+    el cual no tuvo impacto en la creación de valor para el año 2014.
+
+   La empresa Volcan compañía minera S.A.A., durante el 2013 y 2014
+
+    ha destruido valor      por    $    - 46,888.34,     $ - 177,602.61
+
+    respectivamente. Esto es el reflejo del impacto que tuvo la economía
+
+    mundial, en la caída de los precios de los minerales, afectando a la
+
+    empresa; en la disminución de los ingresos en un 10.36%, además de
+
+    que se incrementó sus costos en 8.58%, lo que al final afecto
+
+    claramente en la reducción de su utilidad en un 67.22% en el 2014
+
+    respecto al 2013.
+
+
+
+
+                                                                        98
+                        RECOMENDACIONES
+
+
+1. La gerencia del sector minero debe incorporar el concepto del costo
+
+   de capital en su análisis financiero como indicador de competitividad.
+
+
+
+2. Para el cálculo del costo de capital, según los parámetros del CAPM,
+
+   se recomienda las reglas de consistencia propuestas por Damodaran,
+
+   que explica un panorama general.
+
+
+         Estimar una tasa libre de riesgo (rf) basado en los bonos del
+
+          tesoro de los Estados Unidos.
+
+         Estimar la tasa de retorno de mercado o riesgo de mercado
+
+          (RM).
+
+         Conocer el coeficiente beta (B), por la relación de la covarianza
+
+          y varianza. Tomando el rendimiento del mercado y el
+
+          rendimiento del sector.
+
+
+
+3. La gerencia debe aplicar estrategias basados en pilares importantes
+
+   con la finalidad de reducir los    costos y   gastos, para mejorar la
+
+   rentabilidad económica y financiera.
+
+
+
+4. La gerencia debe evaluar de forma permanente la medición del valor
+
+   a través de nuevos conceptos como el EVA, análisis de sensibilidad y
+
+   criterios de decisión.
+
+
+
+
+                                                                        99
+                                       BIBLIOGRAFÍA
+Albuquerque, V. (2015). Minería Peruana. BUSINESS , 13.
+
+
+Apaza, M. (2005). Contabilidad Estrategica del EVA. Lima: Editora y distribuidora Real S.R.L.
+
+
+Arredondo, C. (2012). El riesgo empresarial como elemento condicionante de creacion de
+
+valor en al Empresa de Generación Eléctrica San Gaban S.A. al año 2010. Puno.
+
+
+Bishop, M. (2010). Económia de Hoy. Lima, Perú: El Comercio S.A.
+
+
+Bodie, Z., Kane, A., & Marcus, A. (2004). Principios de Inversiones. Madrid, España: Silvia
+
+Figueras.
+
+
+Bonmatí, J. (2011). El Valor de una Empresa y la Creacion de Valor en esa Empresa. Madrid:
+
+Aece.
+
+
+Bravo, S. (2008). Teoría Financiera y Costo de Capital. Lima: Esan.
+
+
+Caballero, A. (2004). Guias Metodológicas para los Planes y Tesis de Maestria y Doctorado.
+
+Lima, Perú: Ugraph S.A.C.
+
+
+Chavez, Y. (2012). El costo de capital en la evaluación económica y financiera. Puno .
+
+
+Cruz, S., Villareal, J., & Rosillo, J. (2007). Finanzas Corporativas: Valoracion, politica de
+
+financiamiento y riesgo. Mexico: Thomson.
+
+
+Fernandez, P. (2012). Valoración de Empresas. Barcelona - España: Gestion 200.
+
+
+Franco, P. (2013). Evaluación de Estados Fiancieros. Lima: Editorial U. Pacifico.
+
+
+Gitman, L. (2007). Administracion Financiera. México: Pearson Educación.
+
+
+Gomero, N. (2005). Finanzas & Proyectos de Inversión. Lima: San Marcos.
+
+
+Luna, A. (1996). Metodología de la Tesis. Mexico: Trillas.
+
+
+
+
+                                                                                                100
+Mendiola, A., Carlos, A., Ccopa, M., Ortiz, R., Flores, L., & Castillo, C. (2014). Valoracion de
+
+una Empresa con Opciones Reales: El caso mineria aurifera peruana. Lima, Perú:
+
+ESAN:ediciones.
+
+
+Mendoza, M. (2012). Analisis dinámico de la estructura de capital de las empresas cotizadas
+
+en la bolsa de valores de Lima: un modelo de ajuste parcial. Lima.
+
+
+Óscar, E. (2011). Análisis Contable Financiero. España: Paraninfo.
+
+
+Pacheco, R. (2009). El EVA y la creacion de valor en las empresas peruanas: periodo 1999-
+
+2003. Lima.
+
+
+Poma, H. (2011). El valor de las empresas del sector electricidad de la region de Puno y su
+
+competitividad. Puno.
+
+
+Priale, R. (2015). Minería Peruana. BUSINESS , 13.
+
+
+Quispe, B. (2015). Minería Peruana. BUSINESS , 15.
+
+
+Ross, S., Westerfield, R., & Jaffe, J. (2002). Finanzas Corporativas. México: Litografica
+
+Ingramex.
+
+
+Sánchez, A. (1994). La Rentabilidad Económica y Financiera de las Empresas Españolas
+
+Análisis de los Faactores Determiantes. Española de Financiación y Contabilidad. , 159 - 179.
+
+
+Velasquez, M. (2006). El valor empresarial, como metodo de medición del rendimiento en
+
+los aserraderos de la ciudad de Puno, años 2003 y 2004. Puno.
+
+
+WEBGRAFÍA
+
+http: //bvl.com.pe.
+
+http://pages.stern.nyu.edu/~adamodar/.
+
+
+
+                                                                                              101
+http://pages.stern.nyu.edu/~adamodar/.
+
+http://www.mef.gob.pe/DNEP/riesgo_pais/riesgo_pais.php
+
+http://www.smv.gob.pe/.
+
+
+
+
+                                                         102
+ANEXOS
+
+
+
+         103
+                               INCIDENCIA DEL COSTO DE CAPITAL EN LA CREACIÓN DE VALOR EN LAS EMPRESAS DEL
+                                                               SECTOR MINERO – PERÚ, 2013 - 2014
+                                                                        MATRIZ DE CONSISTENCIA
+        PROBLEMA                              OJETIVOS                          HIPOTESIS                        VARIABLES                       INDICADORES
+¿De qué manera incide el del         Determinar el costo de capital y   El costo de capital y la VI: Costo de capital y la                    COK
+costo de capital y la rentabilidad   la     rentabilidad   de     las   rentabilidad de las inversiones rentabilidad de las inversiones.      ROE
+de las inversiones en la             inversiones para evaluar el        inciden directamente en el valor                                      ROA
+evaluación del valor empresarial     valor empresarial del sector       empresarial del sector minero -                                       CAPM
+del sector minero - Perú, 2013 –     minero - Perú, 2013 – 2014?        Perú, 2013 – 2014.               VD: Valor empresarial.               EVA.
+2014?
+¿Cómo se determina el costo          Determinar el costo de capital     El costo de capital es el modelo VI: Costo de capital               Capital Asset Pricing Model
+de capital que permita evaluar       para evaluar la creación de        financiero que nos permite                                           (CAPM).
+la creación de valor empresarial     valor empresarial del sector       determinar la creación del valor                                    Tasa del riesgo de Mercado.
+del sector minero - Perú, 2013 –     minero - Perú, 2013 – 2014.        empresarial del sector minero -                                     Beta desapalancado
+2014?                                                                   Perú, 2013 – 2014.                                                  Tasa libre de riesgo.
+                                                                                                         VD: Valor empresarial.             Tasa del riesgo país.
+¿Cuál es el rendimiento mínimoAnalizar la rentabilidad de las           La     rentabilidad    de    las VI:   Rentabilidad     de las      Rentabilidad     sobre    los
+para crear valor empresarial en
+                              inversiones para conocer su               inversiones incide directamente inversiones.                         activos
+                              impacto en la creación del valor
+el sector minero - Perú, 2013 –                                         en la creación del valor                                            Rentabilidad patrimonial.
+2014?                         empresarial del sector minero -           empresarial del sector minero -
+                              Perú, 2013 – 2014.                        Perú, 2013 – 2014.               VD: Valor empresarial.
+¿Es posible medir la creación Conocer la creación de valor              El valor económico agregado VI: Valor económico agregado            Costo promedio ponderado
+de valor empresarial en el empresarial del sector minero -              (EVA) es la métrica financiera (EVA).                                (WACC)
+sector minero - Perú, 2013 – Perú, 2013 – 2014.                         que permite conocer la creación                                     NOPAT.
+2014?                                                                   del valor empresarial del sector                                    Ke
+                                                                        minero - Perú, 2013 – 2014.                                         KoA
+
+                                                                                                         VD: Valor empresarial.
+                       COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.
+                   ESTADO DE SITUANCION FINANCIERA (EN MILES DE DOLARES)
+
+                           RUBRO                                  2013        2014
+Activos                                                               0           0
+Activos Corrientes                                                    0           0
+Efectivo y Equivalentes al Efectivo                              61,898      78,512
+Otros Activos Financieros                                         1857        3688
+
+Cuentas por cobrar comerciales y otras cuentas por cobrar       260,434     281,604
+Inventarios                                                     175,719     150,284
+Activos por Impuestos a las Ganancias                            37,370      53,746
+Otros Activos no financieros                                     14,597      16,954
+Activos no Corrientes Mantenidos para la Venta                        0      18,683
+Total Activos Corrientes                                        551,875     603,471
+Activos No Corrientes                                                 0           0
+Inversiones en subsidiarias, negocios conjuntos y
+asociadas                                                     2,358,410    2,224,381
+
+Cuentas por cobrar comerciales y otras cuentas por cobrar        20,607       26,651
+Propiedades de Inversión                                              0       11,200
+Propiedades, Planta y Equipo (neto)                           1,515,460    1,715,452
+Activos por impuestos diferidos                                  83,525       47,675
+Otros Activos no financieros                                     30498        43,444
+Total Activos No Corrientes                                   4,008,500    4,068,803
+TOTAL DE ACTIVOS                                              4,560,375    4,672,274
+Pasivos y Patrimonio                                                  0            0
+Pasivos Corrientes                                                    0            0
+Otros Pasivos Financieros                                        11370       119,022
+Cuentas por pagar comerciales y otras cuentas por pagar         284,107      254,000
+Provisión por Beneficios a los Empleados                         26,004            0
+Otras provisiones                                                62,593       67,895
+Pasivos por Impuestos a las Ganancias                             2,140        3,556
+Pasivos incluidos en Grupos de Activos para su Disposición
+Clasificados como Mantenidos para la Venta                            0       28,890
+Total Pasivos Corrientes                                        386,214      473,363
+Pasivos No Corrientes                                                 0            0
+Otros Pasivos Financieros                                       223027       336,381
+Cuentas por pagar comerciales y otras cuentas por pagar          12229        15,240
+Otras provisiones                                               106,376       63,571
+Pasivos por impuestos diferidos                                       0       21,594
+Total Pasivos No Corrientes                                     341,632      436,786
+Total Pasivos                                                   727,846      910,149
+Patrimonio                                                            0            0
+Capital Emitido                                                 750,497      750,497
+Primas de Emisión                                               219,055      219,055
+Acciones de Inversión                                             1,396        1,396
+Otras Reservas de Capital                                       162,932      162,979
+Resultados Acumulados                                         2,421,238    2,328,423
+Otras Reservas de Patrimonio                                        104        1,755
+Participaciones No Controladoras                                277307       298,020
+Total Patrimonio                                              3,832,529    3,762,125
+TOTAL PASIVO Y PATRIMONIO                                     4,560,375    4,672,274
+                       COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.
+                       ESTADO DE RESULTADOS (EN MILES DE DOLARES)
+
+                          RUBRO                                  2013        2014
+Ingresos de actividades ordinarias                          1,285,441    1,165,172
+Costo de Ventas                                            -1,016,779     -949,529
+Ganancia (Pérdida) Bruta                                      268,662      215,643
+Gastos de Ventas y Distribución                               -16,035      -16,605
+Gastos de Administración                                      -77,476     -101,102
+Otros Ingresos Operativos                                      97,886       81,894
+Otros Gastos Operativos                                      -140,735     -118,234
+Ganancia (Pérdida) por actividades de operación               132,302       61,596
+Ingresos Financieros                                            6,623       68,260
+Gastos Financieros                                            -10,970      -11,318
+Diferencias de Cambio neto                                      -7012       -8,452
+Participación en los Resultados Netos de Asociadas y
+Negocios Conjuntos Contabilizados por el Método de la
+Participación                                                -108,483      -74,600
+Resultado antes de Impuesto a las Ganancias                    12,460       35,486
+Gasto por Impuesto a las Ganancias                            -86,614      -66,012
+Ganancia (pérdida) procedente de operaciones
+discontinuadas, neta del impuesto a las ganancias                    0     -31,114
+Ganancia (Pérdida) Neta del Ejercicio                         -74,154      -61,640
+Ganancia (Pérdida) por Accion                                        0            0
+Ganancias (pérdida) básica por acción común                       -0.4         -0.3
+Ganancias (pérdida) básica por acción de inversión                -0.4         -0.3
+Ganancias (Pérdida) Diluida por Acción Común
+Ganancias (Pérdida) Diluida por Acción Inversión
+                      COMPAÑÍA MINERA MILPO S.A.A.
+              ESTADO DE SITUANCION FINANCIERA (EN MILES DE DOLARES)
+
+                         RUBRO                              2013          2014
+Activos                                                        0             0
+Activos Corrientes                                             0             0
+Efectivo y Equivalentes al Efectivo                      342,406       436,693
+Cuentas por cobrar comerciales y otras cuentas por
+cobrar                                                   172,118       149,388
+Inventarios                                               64,576        63,252
+Total Activos Corrientes                                 579,100       649,333
+Activos No Corrientes                                          0             0
+Inversiones Contabilizadas Aplicando el Método de la
+Participación                                                 19            19
+Propiedades, Planta y Equipo (neto)                      452,346       435,826
+Activos intangibles distintos de la plusvalia            156,971       148,555
+Activos por impuestos diferidos                           22,840        23,853
+Otros Activos no financieros                                   0        53,000
+Total Activos No Corrientes                              632,176       661,253
+TOTAL DE ACTIVOS                                       1,211,276      1,310,586
+Pasivos y Patrimonio                                           0             0
+Pasivos Corrientes                                             0             0
+Otros Pasivos Financieros                                 20,545         9,686
+Cuentas por pagar comerciales y otras cuentas por
+pagar                                                    127,741       155,980
+Provisión por Beneficios a los Empleados                  13,785        12,243
+Otras provisiones                                         21,020        19,287
+Pasivos por Impuestos a las Ganancias                      8,471        10,675
+Total Pasivos Corrientes                                 191,562       207,871
+Pasivos No Corrientes                                          0             0
+Otros Pasivos Financieros                                356,926       351,859
+Otras provisiones                                         98,610       101,160
+Pasivos por impuestos diferidos                            1,100             0
+Total Pasivos No Corrientes                              456,636       453,019
+Total Pasivos                                            648,198       660,890
+Patrimonio                                                     0             0
+Capital Emitido                                          347,024       423,830
+Acciones de Inversión                                      3,296         4,551
+Otras Reservas de Capital                                 65,291        71,838
+Resultados Acumulados                                    108,658       112,878
+Otras Reservas de Patrimonio                               2,522         1,892
+Participaciones No Controladoras                          36,287        34,707
+Total Patrimonio                                         563,078       649,696
+TOTAL PASIVO Y PATRIMONIO                              1,211,276      1,310,586
+                           COMPAÑÍA MINERA MILPO S.A.A.
+                     ESTADO DE RESULTADOS (EN MILES DE DOLARES)
+
+                        RUBRO                                2013        2014
+Ingresos de actividades ordinarias                        720,164     758,117
+Costo de Ventas                                           -442,482    -459,098
+Ganancia (Pérdida) Bruta                                  277,682     299,019
+Gastos de Ventas y Distribución                            -24,694     -27,617
+Gastos de Administración                                   -36,492     -32,822
+Otros Ingresos Operativos                                   24,891      3,026
+Otros Gastos Operativos                                   -100,604     -56,555
+Ganancia (Pérdida) por actividades de operación           140,783     185,051
+Ingresos Financieros                                         2,587      2,850
+Gastos Financieros                                         -17,786     -19,515
+Resultado antes de Impuesto a las Ganancias               125,584     168,386
+Gasto por Impuesto a las Ganancias                         -59,914     -64,134
+Ganancia (Pérdida) Neta del Ejercicio                       65,670    104,252
+Ganancias (Pérdida) por Acción:                                   0         0
+Ganancias (pérdida) básica por acción ordinaria              0.059      0.079
+Ganancias (Pérdida) Básica por Acción Inversión              0.059      0.079
+Ganancias (pérdida) diluida por acción ordinaria             0.076      0.079
+Ganancias (Pérdida) Diluida por Acción Inversión             0.076      0.079
+              COMPAÑÍA MINERA PODEROSA S.A.
+     ESTADO DE SITUANCION FINANCIERA ( EN MILES DE NUEVOS SOLES )
+
+                      RUBRO                         2013        2014
+Activos                                                 0           0
+Activos Corrientes                                      0           0
+Efectivo y Equivalentes al Efectivo                48,662     22,276
+Cuentas por cobrar comerciales y otras cuentas
+por cobrar                                         35,500     36,808
+Inventarios                                        19,525     25,409
+Otros Activos no financieros                        9,150      9,809
+Total Activos Corrientes                          112,837     94,302
+Activos No Corrientes                                  0           0
+Otros Activos Financieros                          12011       12011
+Propiedades, Planta y Equipo (neto)               257,290    294,373
+Activos intangibles distintos de la plusvalia     234,935    239,872
+Otros Activos no financieros                            0           0
+Total Activos No Corrientes                       504,236    546,256
+TOTAL DE ACTIVOS                                  617,073    640,558
+Pasivos y Patrimonio                                    0           0
+Pasivos Corrientes                                      0           0
+Otros Pasivos Financieros                          44,112     62,205
+Cuentas por pagar comerciales y otras cuentas
+por pagar                                          69,389     78,226
+Provisión por Beneficios a los Empleados                0           0
+Otras provisiones                                   3,221      3,319
+Total Pasivos Corrientes                          116,722    143,750
+Pasivos No Corrientes                                   0           0
+Otros Pasivos Financieros                          60,998     42,717
+Cuentas por pagar comerciales y otras cuentas
+por pagar                                           9,399      8,379
+Otras provisiones                                  26,562     30,709
+Pasivos por impuestos diferidos                    25,325     24,988
+Total Pasivos No Corrientes                       122,284    106,793
+Total Pasivos                                     239,006    250,543
+Patrimonio                                              0           0
+Capital Emitido                                   150,000    150,000
+Otras Reservas de Capital                          30,000     30,000
+Resultados Acumulados                             198,067    210,015
+Total Patrimonio                                  378,067    390,015
+TOTAL PASIVO Y PATRIMONIO                         617,073    640,558
+                  COMPAÑÍA MINERA PODEROSA S.A.
+          ESTADO DE RESULTADOS ( EN MILES DE NUEVOS SOLES )
+
+                       RUBRO                         2013        2014
+Ingresos de actividades ordinarias                544,373     556,239
+Costo de Ventas                                   -392,618    -429,997
+Ganancia (Pérdida) Bruta                          151,755     126,242
+Gastos de Ventas y Distribución                     -1,854      -2,085
+Gastos de Administración                           -44,881     -45,122
+Otros Ingresos Operativos                           4,036         987
+Otros Gastos Operativos                              -615       -1,521
+Ganancia (Pérdida) por actividades de
+operación                                         108,441      78,501
+Ingresos Financieros                                  594       4,551
+Gastos Financieros                                 -12,932      -4,061
+Diferencias de Cambio neto                          -5,717     -10,071
+Resultado antes de Impuesto a las Ganancias        90,386      68,920
+Gasto por Impuesto a las Ganancias                 -27,806     -25,472
+Ganancia (Pérdida) Neta del Ejercicio              62,580      43,448
+Ganancias (Pérdida) por Acción:                         0           0
+Ganancias (pérdida) básica por acción ordinaria     0.417         0.29
+Ganancias (Pérdida) Básica por Acción Inversión         0           0
+Ganancias (Pérdida) Diluida por Acción Común            0           0
+Ganancias (Pérdida) Diluida por Acción de
+Inversión                                               0           0
+                       ESTADO DE SITUANCION FINANCIERA
+                  VOLCAN COMPAÑÍA MINERA S.A.A. (EN MILES DE DOLARES)
+
+                         RUBRO                                 2013         2014
+Activos                                                            0           0
+Activos Corrientes                                                 0           0
+Efectivo y Equivalentes al Efectivo                         182,864      174,363
+Otros Activos Financieros                                     82,806      32,528
+Cuentas por Cobrar Comerciales (neto)                       525,433      444,529
+Inventarios                                                 108,235      197,236
+Total Activos Corrientes                                    899,338      848,656
+Activos No Corrientes                                              0           0
+Otros Activos Financieros                                     18,154          92
+Inversiones Contabilizadas Aplicando el Método de la
+Participación                                                 67,517       4,333
+Cuentas por cobrar comerciales y otras cuentas por
+cobrar                                                        12,212      40,765
+Propiedades, Planta y Equipo (neto)                        1,030,051    1,245,825
+Activos intangibles distintos de la plusvalia               865,060      767,623
+Activos por impuestos diferidos                               18,914      89,761
+Total Activos No Corrientes                                2,011,908    2,148,399
+TOTAL DE ACTIVOS                                           2,911,246    2,997,055
+Pasivos y Patrimonio                                               0           0
+Pasivos Corrientes                                                 0           0
+Otros Pasivos
+Cuentas       Financieros
+        por pagar comerciales y otras cuentas por           196,309      314,034
+pagar                                                       362,855      293,891
+Total Pasivos Corrientes                                    559,164      607,925
+Pasivos No Corrientes                                              0           0
+Otros Pasivos Financieros                                   618,346      632,311
+Otras provisiones                                           108,891       74,781
+Pasivos por impuestos diferidos                             149,718      190,992
+Total Pasivos No Corrientes                                 876,955      898,084
+Total Pasivos                                              1,436,119    1,506,009
+Patrimonio                                                         0           0
+Capital Emitido                                            1,427,768    1,531,743
+Acciones Propias en Cartera                                 -233,856     -240,342
+Otras Reservas de Capital                                   124,945      139,060
+Resultados Acumulados                                       159,344       82,516
+Otras Reservas de Patrimonio                                  -3,074      -21,931
+Total Patrimonio                                           1,475,127    1,491,046
+TOTAL PASIVO Y PATRIMONIO                                  2,911,246    2,997,055
+                          VOLCAN COMPAÑÍA MINERA S.A.A.
+                     ESTADO DE RESULTADOS (EN MILES DE DOLARES)
+
+                        RUBRO                                2013         2014
+Ingresos de actividades ordinarias                       1,162,823    1,042,351
+Costo de Ventas                                           -791,433     -865,746
+Ganancia (Pérdida) Bruta                                   371,390     176,605
+Gastos de Ventas y Distribución                            -46,274      -49,050
+Gastos de Administración                                   -60,813      -54,558
+Otros Ingresos Operativos                                   55,623     186,000
+Otros Gastos Operativos                                    -51,993     -163,609
+Ganancia (Pérdida) por actividades de operación            267,933      95,388
+Ingresos Financieros                                        12,530      10,331
+Gastos Financieros                                         -23,824      -33,321
+Diferencias de Cambio neto                                    -815       2,145
+Resultado antes de Impuesto a las Ganancias                255,824      74,543
+Gasto por Impuesto a las Ganancias                         -82,464      -17,720
+Ganancia (Pérdida) Neta del Ejercicio                      173,360      56,823
+Ganancias (Pérdida) por Acción:                                   0          0
+Ganancias (pérdida) básica por acción ordinaria              0.059       0.059
+Ganancias (Pérdida) Básica por Acción Inversión                   0          0
+Ganancias (pérdida) diluida por acción ordinaria                  0          0
+Ganancias (Pérdida) Diluida por Acción Inversión                  0          0
+  los rendimientos historicos en Acciones, Bonos y Letras - Estados Unidos.
+            Annual Returns on Investments in           Compounded Value of $ 100
+Year   S&P 500 3-month T.Bill 10-year T. Bond   Stocks         T.Bills    T.Bonds Stocks - BillsStocks - Bonds
+1928    43.81%       3.08%            0.84%      $      143.81 $ 103.08 $ 100.84      40.73%         42.98%
+1929    -8.30%       3.16%            4.20%      $      131.88 $ 106.34 $ 105.07     -11.46%        -12.50%
+1930   -25.12%       4.55%            4.54%      $       98.75 $ 111.18 $ 109.85     -29.67%        -29.66%
+1931   -43.84%       2.31%           -2.56%      $       55.46 $ 113.74 $ 107.03     -46.15%        -41.28%
+1932    -8.64%       1.07%            8.79%      $       50.66 $ 114.96 $ 116.44      -9.71%        -17.43%
+1933    49.98%       0.96%            1.86%      $       75.99 $ 116.06 $ 118.60      49.02%         48.13%
+1934    -1.19%       0.32%            7.96%      $       75.09 $ 116.44 $ 128.05      -1.51%         -9.15%
+1935    46.74%       0.18%            4.47%      $      110.18 $ 116.64 $ 133.78      46.57%         42.27%
+1936    31.94%       0.17%            5.02%      $      145.38 $ 116.84 $ 140.49      31.77%         26.93%
+1937   -35.34%       0.30%            1.38%      $       94.00 $ 117.19 $ 142.43     -35.64%        -36.72%
+1938    29.28%       0.08%            4.21%      $      121.53 $ 117.29 $ 148.43      29.21%         25.07%
+1939    -1.10%       0.04%            4.41%      $      120.20 $ 117.33 $ 154.98      -1.14%         -5.51%
+1940   -10.67%       0.03%            5.40%      $      107.37 $ 117.36 $ 163.35     -10.70%        -16.08%
+1941   -12.77%       0.08%           -2.02%      $       93.66 $ 117.46 $ 160.04     -12.85%        -10.75%
+1942    19.17%       0.34%            2.29%      $      111.61 $ 117.85 $ 163.72      18.84%         16.88%
+1943    25.06%       0.38%            2.49%      $      139.59 $ 118.30 $ 167.79      24.68%         22.57%
+1944    19.03%       0.38%            2.58%      $      166.15 $ 118.75 $ 172.12      18.65%         16.45%
+1945    35.82%       0.38%            3.80%      $      225.67 $ 119.20 $ 178.67      35.44%         32.02%
+1946    -8.43%       0.38%            3.13%      $      206.65 $ 119.65 $ 184.26      -8.81%        -11.56%
+1947     5.20%       0.57%            0.92%      $      217.39 $ 120.33 $ 185.95       4.63%          4.28%
+1948     5.70%       1.02%            1.95%      $      229.79 $ 121.56 $ 189.58       4.68%          3.75%
+1949    18.30%       1.10%            4.66%      $      271.85 $ 122.90 $ 198.42      17.20%         13.64%
+1950    30.81%       1.17%            0.43%      $      355.60 $ 124.34 $ 199.27      29.63%         30.38%
+1951    23.68%       1.48%           -0.30%      $      439.80 $ 126.18 $ 198.68      22.20%         23.97%
+1952    18.15%       1.67%            2.27%      $      519.62 $ 128.29 $ 203.19      16.48%         15.88%
+1953    -1.21%       1.89%            4.14%      $      513.35 $ 130.72 $ 211.61      -3.10%         -5.35%
+1954    52.56%       0.96%            3.29%      $      783.18 $ 131.98 $ 218.57      51.60%         49.27%
+1955    32.60%       1.66%           -1.34%      $    1,038.47 $ 134.17 $ 215.65      30.94%         33.93%
+1956     7.44%       2.56%           -2.26%      $    1,115.73 $ 137.60 $ 210.79       4.88%          9.70%
+1957   -10.46%       3.23%            6.80%      $      999.05 $ 142.04 $ 225.11     -13.69%        -17.25%
+1958    43.72%       1.78%           -2.10%      $    1,435.84 $ 144.57 $ 220.39      41.94%         45.82%
+1959    12.06%       3.26%           -2.65%      $    1,608.95 $ 149.27 $ 214.56       8.80%         14.70%
+1960     0.34%       3.05%          11.64%       $    1,614.37 $ 153.82 $ 239.53      -2.71%        -11.30%
+1961    26.64%       2.27%            2.06%      $    2,044.40 $ 157.30 $ 244.46      24.37%         24.58%
+1962    -8.81%       2.78%            5.69%      $    1,864.26 $ 161.67 $ 258.38     -11.59%        -14.51%
+1963    22.61%       3.11%            1.68%      $    2,285.80 $ 166.70 $ 262.74      19.50%         20.93%
+1964    16.42%       3.51%            3.73%      $    2,661.02 $ 172.54 $ 272.53      12.91%         12.69%
+1965    12.40%       3.90%            0.72%      $    2,990.97 $ 179.28 $ 274.49       8.50%         11.68%
+1966    -9.97%       4.84%            2.91%      $    2,692.74 $ 187.95 $ 282.47     -14.81%        -12.88%
+1967    23.80%       4.33%           -1.58%      $    3,333.69 $ 196.10 $ 278.01      19.47%         25.38%
+1968    10.81%       5.26%            3.27%      $    3,694.23 $ 206.41 $ 287.11       5.55%          7.54%
+1969    -8.24%       6.56%           -5.01%      $    3,389.77 $ 219.96 $ 272.71     -14.80%         -3.23%
+1970     3.56%       6.69%          16.75%       $    3,510.49 $ 234.66 $ 318.41      -3.12%        -13.19%
+1971    14.22%       4.54%            9.79%      $    4,009.72 $ 245.32 $ 349.57       9.68%          4.43%
+1972    18.76%       3.95%            2.82%      $    4,761.76 $ 255.01 $ 359.42      14.80%         15.94%
+1973   -14.31%       6.73%            3.66%      $    4,080.44 $ 272.16 $ 372.57     -21.03%        -17.97%
+1974   -25.90%       7.78%            1.99%      $    3,023.54 $ 293.33 $ 379.98     -33.68%        -27.89%
+    1975        37.00%    5.99%     3.61%   $     4,142.10   $    310.90 $ 393.68           31.01%       33.39%
+    1976        23.83%    4.97%    15.98%   $     5,129.20   $    326.35 $ 456.61           18.86%        7.85%
+    1977        -6.98%    5.13%     1.29%   $     4,771.20   $    343.09 $ 462.50          -12.11%        -8.27%
+    1978         6.51%    6.93%    -0.78%   $     5,081.77   $    366.87 $ 458.90           -0.42%        7.29%
+    1979        18.52%    9.94%     0.67%   $     6,022.89   $    403.33 $ 461.98            8.58%       17.85%
+    1980        31.74%   11.22%    -2.99%   $     7,934.26   $    448.58 $ 448.17           20.52%       34.72%
+    1981        -4.70%   14.30%     8.20%   $     7,561.16   $    512.73 $ 484.91          -19.00%       -12.90%
+    1982        20.42%   11.01%    32.81%   $     9,105.08   $    569.18 $ 644.04            9.41%       -12.40%
+    1983        22.34%    8.45%     3.20%   $    11,138.90   $    617.26 $ 664.65           13.89%       19.14%
+    1984         6.15%    9.61%    13.73%   $    11,823.51   $    676.60 $ 755.92           -3.47%        -7.59%
+    1985        31.24%    7.49%    25.71%   $    15,516.60   $    727.26 $ 950.29           23.75%        5.52%
+    1986        18.49%    6.04%    24.28%   $    18,386.33   $    771.15 $ 1,181.06         12.46%        -5.79%
+    1987         5.81%    5.72%    -4.96%   $    19,455.08   $    815.27 $ 1,122.47          0.09%       10.77%
+    1988        16.54%    6.45%     8.22%   $    22,672.40   $    867.86 $ 1,214.78         10.09%        8.31%
+    1989        31.48%    8.11%    17.69%   $    29,808.58   $    938.24 $ 1,429.72         23.37%       13.78%
+    1990        -3.06%    7.55%     6.24%   $    28,895.11   $  1,009.08 $ 1,518.87        -10.61%        -9.30%
+    1991        30.23%    5.61%    15.00%   $    37,631.51   $  1,065.69 $ 1,746.77         24.62%       15.23%
+    1992         7.49%    3.41%     9.36%   $    40,451.51   $  1,101.98 $ 1,910.30          4.09%        -1.87%
+    1993         9.97%    2.98%    14.21%   $    44,483.33   $  1,134.84 $ 2,181.77          6.98%        -4.24%
+    1994         1.33%    3.99%    -8.04%   $    45,073.14   $  1,180.07 $ 2,006.43         -2.66%        9.36%
+    1995        37.20%    5.52%    23.48%   $    61,838.19   $  1,245.15 $ 2,477.55         31.68%       13.71%
+    1996        22.68%    5.02%     1.43%   $    75,863.69   $  1,307.68 $ 2,512.94         17.66%       21.25%
+    1997        33.10%    5.05%     9.94%   $   100,977.34   $  1,373.76 $ 2,762.71         28.05%       23.16%
+    1998        28.34%    4.73%    14.92%   $   129,592.25   $  1,438.70 $ 3,174.95         23.61%       13.42%
+    1999        20.89%    4.51%    -8.25%   $   156,658.05   $  1,503.58 $ 2,912.88         16.38%       29.14%
+    2000        -9.03%    5.76%    16.66%   $   142,508.98   $  1,590.23 $ 3,398.03        -14.79%       -25.69%
+    2001       -11.85%    3.67%     5.57%   $   125,622.01   $  1,648.63 $ 3,587.37        -15.52%       -17.42%
+    2002       -21.97%    1.66%    15.12%   $    98,027.82   $  1,675.96 $ 4,129.65        -23.62%       -37.08%
+    2003        28.36%    1.03%     0.38%   $   125,824.39   $  1,693.22 $ 4,145.15         27.33%       27.98%
+    2004        10.74%    1.23%     4.49%   $   139,341.42   $  1,714.00 $ 4,331.30          9.52%        6.25%
+    2005         4.83%    3.01%     2.87%   $   146,077.85   $  1,765.59 $ 4,455.50          1.82%        1.97%
+    2006        15.61%    4.68%     1.96%   $   168,884.34   $  1,848.18 $ 4,542.87         10.94%       13.65%
+    2007         5.48%    4.64%    10.21%   $   178,147.20   $  1,933.98 $ 5,006.69          0.84%        -4.73%
+    2008       -36.55%    1.59%    20.10%   $   113,030.22   $  1,964.64 $ 6,013.10        -38.14%       -56.65%
+    2009        25.94%    0.14%   -11.12%   $   142,344.87   $  1,967.29 $ 5,344.65         25.80%       37.05%
+    2010        14.82%    0.13%     8.46%   $   163,441.94   $  1,969.84 $ 5,796.96         14.69%        6.36%
+    2011         2.10%    0.03%    16.04%   $   166,871.56   $  1,970.44 $ 6,726.52          2.07%       -13.94%
+    2012        15.89%    0.05%     2.97%   $   193,388.43   $  1,971.42 $ 6,926.40         15.84%       12.92%
+    2013        32.15%    0.07%    -9.10%   $   255,553.31   $  1,972.72 $ 6,295.79         32.08%       41.25%
+    2014        13.48%    0.05%    10.75%   $   289,995.13   $  1,973.77 $ 6,972.34         13.42%        2.73%
+                                                                   Risk Premium                Standard Error
+Arithmetic Average                                           Stocks - T.Bills
+                                                                           Stocks - T.Bonds
+                                                                                        Stocks - T.Bills
+                                                                                                    Stocks - T.Bonds
+  1928-2014     11.53%   3.53%    5.28%                            8.00%         6.25%       2.17%             2.32%
+  1965-2014     11.23%   5.04%    7.11%                            6.19%         4.12%       2.42%             2.74%
+  2005-2014      9.37%   1.44%    5.31%                            7.94%         4.06%       6.05%             8.65%
+                                                             Risk Premium
+Geometric Average                                            Stocks - T.Bills
+                                                                           Stocks - T.Bonds
+  1928-2014     9.60%    3.49%    5.00%                            6.11%         4.60%
+  1965-2014     9.84%    4.99%    6.70%                            4.84%         3.14%
+  2005-2014     7.60%    1.42%    4.88%                            6.18%         2.73%
+

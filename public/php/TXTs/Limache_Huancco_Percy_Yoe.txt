@@ -1,0 +1,4532 @@
+           Universidad Nacional Del Altiplano
+
+  FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA,
+           ELECTRÓNICA Y SISTEMAS
+
+ ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+
+
+
+ SISTEMA NOTARIAL PARA LA AUTOMATIZACIÓN DEL
+ PROCESO DE GESTIÓN DE INSTRUMENTOS PÚBLICOS
+  NOTARIALES ELABORADOS POR LOS NOTARIOS DEL
+            DEPARTAMENTO DE PUNO
+
+                      TESIS
+                 PRESENTADO POR:
+
+          PERCY YOE LIMACHE HUANCCO
+
+
+
+PARA OPTAR EL TÍTULO PROFESIONAL DE: INGENIERO DE
+                    SISTEMAS
+
+
+                      Puno – Perú
+
+                         2014
+
+
+
+
+                   Page 1 of 117
+ÁREA: Informática
+TEMA: Sistemas de información tradicionales y expertos
+
+
+
+
+                                          Page 2 of 117
+                              AGRADECIMIENTOS
+
+Quiero iniciar agradeciendo a Dios por cuidarme y permitirme plasmar mis proyectos
+
+personales y familiares, también quiero agradecer de manera muy especial a mis padres
+
+por que se esforzaron enormemente por contribuir en mi formación personal y
+
+profesional, además de acompañarme en todo momento para guiarme en la búsqueda del
+
+camino correcto en la vida.
+
+Al mismo tiempo quiero agradecer a todos los docentes de la Escuela Profesional de
+
+Ingeniería de Sistemas de la Universidad Nacional del Altiplano, quienes me capacitaron
+
+a raíz de sus conocimientos y experiencias, y contribuyeron sustantivamente a mi
+
+formación profesional.
+
+Del mismo modo agradezco a los Notarios del Departamento de Puno quienes me han
+
+brindado la información necesaria para el desarrollo del presente trabajo de investigación
+
+y de manera especial agradezco al Abogado Notario Eva Marina Centeno Zavala y los
+
+trabajadores que conforman su oficio notarial.
+
+Finalmente quiero agradecer a mis hermanos y amigos, debido a que me apoyaron
+
+incondicionalmente en la ejecución del presente trabajo de investigación.
+
+
+
+
+                                                                              Percy Yoe
+
+
+
+
+                                  Page 3 of 117
+                DEDICATORIA
+
+
+
+    A mis padres: Arcadio y Adela, por que ellos
+
+    fueron los impulsores del presente trabajo de
+
+    investigación, además de su apoyo incondicional
+
+    que siempre me brindan.
+
+    A mi hijo Daniel Alejandro de quien me siento
+
+    muy orgulloso y que me inspira a seguir
+
+    superándome día a día, para ser posteriormente
+
+    un ejemplo para él.
+
+
+
+                                        Percy Yoe
+
+
+
+
+Page 4 of 117
+                                       INDICE
+RESUMEN                                                                 12
+
+ABSTRACT                                                                13
+
+INTRODUCCION                                                            14
+
+CAPÍTULO I: PLANTEAMIENTO DEL PROBLEMA DE INVESTIGACIÓN
+
+1.1    Descripción del Problema                                         18
+
+1.1.1 Formulación del Problema                                          20
+
+1.2    Justificación de la Investigación                                21
+
+1.3    Objetivos de la Investigación                                    22
+
+       1.3.1 Objetivo General                                           22
+
+       1.3.2   Objetivos Específicos                                    22
+
+CAPÍTULO II: MARCO TEÓRICO
+
+2.1    Antecedentes de la Investigación                                 24
+
+2.2    Sustento teórico                                                 24
+
+2.2.1 Medición de la Calidad                                            24
+
+2.2.2 Métrica orientadas a función                                      26
+
+2.2.3 Instrumento público notarial                                      26
+
+2.2.4 Generación de Índices                                             28
+
+2.2.5 PDT de Notarios                                                   29
+
+2.2.6 Operaciones Sospechosas                                           30
+
+2.2.7 Registro Nacional de Protestos y Moras de la Cámara de Comercio   30
+
+2.2.8 Trámites de Instrumentos Públicos                                 31
+
+2.2.9 Derecho Notarial                                                  31
+
+2.2.10 Desarrollo Ágil                                                  32
+
+2.2.11 Programación Extrema (XP)                                        35
+
+
+
+
+                                  Page 5 of 117
+2.3    Glosario de términos básicos                  43
+
+2.3.1 Acto jurídico                                  43
+
+2.3.2 Base de Datos                                  44
+
+2.3.3 Diseño de investigación cuasiexperimental      45
+
+2.3.4 Escalamiento tipo Likert                       45
+
+2.3.5 Experimento                                    45
+
+2.3.6 Información                                    45
+
+2.3.7 La fe pública notarial                         46
+
+2.3.8 Notario                                        46
+
+2.3.9 Modelado CRC (Tarjeta CRC)                     46
+
+2.3.10 Muestra no probalística                       46
+
+2.3.11 MySQL                                         47
+
+2.3.12 PHP                                           47
+
+2.3.13 Registro Notarial                             48
+
+2.3.14 Sistema                                       48
+
+2.3.15 Sistemas de Información                       49
+
+2.3.16 Sistema de administración de base de datos    49
+
+2.3.17 SQL                                           49
+
+2.3.18 Tecnologías de Información y Comunicaciones   50
+
+2.3.19 UML                                           50
+
+2.3.20 Diagrama de Clases de UML                     51
+
+2.3.21 Visual C#                                     51
+
+2.4    Hipótesis de la investigación                 52
+
+2.5    Operacionalización de Variables               53
+
+
+
+
+                                 Page 6 of 117
+CAPÍTULO III: DISEÑO METODOLÓGICO DE INVESTIGACIÓN
+
+3.1    Tipo y diseño de la Investigación                     55
+
+3.2    Población y Muestra                                   56
+
+3.2.1 Población                                              56
+
+3.2.2 Muestra                                                56
+
+3.3    Ubicación y descripción de la población               57
+
+3.4    Técnicas e instrumentos para recolectar información   57
+
+3.5    Técnicas para el procesamiento y análisis de datos    57
+
+3.6    Plan de tratamiento de datos                          57
+
+3.7    Diseño estadístico para la prueba de hipótesis        58
+
+CAPÍTULO IV: ANÁLISIS E INTERPRETACIÓN DE RESULTADOS DE LA
+
+INVESTIGACIÓN
+
+4.1.   Desarrollo del Sistema Notarial                       61
+
+4.1.1. Planeación del Sistema                                61
+
+4.1.1.1 Historia de Usuarios                                 61
+
+4.1.1.2 División de Iteraciones                              65
+
+4.1.1.3 Plan de entrega de las iteraciones                   65
+
+4.1.2 Diseño del Sistema                                     66
+
+4.1.2.1 Tarjeta CRC                                          66
+
+4.1.2.2 Soluciones en Punta                                  67
+
+4.1.2.3 Diagrama de Clases                                   68
+
+4.1.3 Codificación Sistema                                   69
+
+4.1.3.1 Usuario siempre presente                             69
+
+4.1.3.2 Codificar primero la prueba                          70
+
+4.1.3.3 Integración secuencial                               70
+
+
+
+
+                                   Page 7 of 117
+4.1.3.4 Iteraciones frecuentes                   71
+
+4.1.3.5 Refactorización                          72
+
+4.1.4 Prueba del Sistema                         72
+
+4.1.4.1 Pruebas Unitarias                        73
+
+4.1.4.2 Pruebas Funcionales                      73
+
+4.2.   Análisis de datos obtenidos               73
+
+4.2.1 Comparación de los Grupos Pre – Test       73
+
+4.2.2 Prueba de Hipótesis                        76
+
+CONCLUSIONES                                     80
+
+SUGERENCIAS                                      82
+
+BIBLIOGRAFIA                                     83
+
+ANEXOS                                           85
+
+
+
+
+                                 Page 8 of 117
+                             INDICE DE CUADROS
+
+Cuadro N° 1: Operacionalización de variable.                                     53
+
+Cuadro N° 2: Hardware utilizado.                                                 58
+
+Cuadro N° 3: Software utilizado.                                                 58
+
+Cuadro N° 4: Historia de usuario: Acceso de Usuario y/o Trabajadores.            62
+
+Cuadro N° 5: Historia de usuario: Generación de autorización de viaje al interior. 63
+
+Cuadro N° 6: Historia de usuario: Certificación de apertura de libros.           63
+
+Cuadro N° 7: Relación de historias de usuario                                    64
+
+Cuadro N° 8: Entrega de iteraciones.                                             66
+
+Cuadro N° 9: Resultados de comparación de medias de pre – test                   75
+
+Cuadro N° 10: Resultados de comparación de medias de post– test                  78
+
+
+
+
+                                   Page 9 of 117
+                            INDICE DE GRAFICOS
+
+Grafico N° 1. Proceso de la programación extrema.   39
+
+Grafico N° 2. División de Iteraciones.              65
+
+
+
+
+                                Page 10 of 117
+                              INDICE DE FIGURAS
+
+Figura N° 1. Exportación de Datos al PDT de Notarios.           67
+
+Figura N° 2. Generación del Anexo 5 de la UIF.                  68
+
+Figura N° 3. Diagrama de Clases General del Sistema Notarial.   69
+
+Figura N° 4. Cinta como complemento del Word.                   71
+
+Figura N° 5: Ingreso de datos de la escala Pre – Test.          74
+
+Figura N° 6: t de tabla para α = 0.025 y 25 g.l.                75
+
+Figura N° 7. t calculado para Pre – Test.                       76
+
+Figura N° 8. Ingreso de datos de la escala Post – Test          77
+
+Figura N° 9. t de tabla para α = 0.025 y 25 g.l.                78
+
+Figura N° 10. t calculado para post – test.                     79
+
+
+
+
+                                 Page 11 of 117
+                       INDICE DE ANEXOS
+
+ANEXO 01: ESCALAS DE MEDICIÓN DE ACTITUDES TIPO LIKERT PRE –
+
+TEST DE EVALUACIÓN DE LA GESTIÓN DE INSTRUMENTOS PÚBLICOS
+
+NOTARIALES.                                               85
+
+ANEXO 02: ESCALAS DE MEDICIÓN DE ACTITUDES TIPO LIKERT POST –
+
+TEST DE EVALUACIÓN DE LA GESTIÓN DE INSTRUMENTOS PÚBLICOS
+
+NOTARIALES.                                               89
+
+ANEXO 3 Y 4 : HISTORIAS DE USUARIOS.                      93
+
+ANEXO 5 Y 6 : TARJETA CRC.                                95
+
+ANEXO 7: MANUAL DE USUARIO.                               97
+
+ANEXO 8: CODIGO FUENTE.                                   111
+
+
+
+
+                          Page 12 of 117
+                                      RESUMEN
+
+Los Notarios en el Perú tienen la necesidad de hacer uso de Tecnologías en Información
+
+para brindar sus servicios, esto se da por la creciente inmersión de nuestro país en el uso
+
+de la Tecnología y a partir de los cambios normativos en el Derecho Notarial del año
+
+2008; en la investigación se ha planteado como objetivo “Desarrollar un Sistema Notarial,
+
+para automatizar el proceso de gestión de Instrumentos Públicos Notariales elaborados
+
+por los Notarios del departamento de Puno”, para el desarrollo del Sistema Notarial se
+
+utilizó la Ley del Notariado y su normas complementarias, se contó con la colaboración
+
+de los trabajadores notariales y se utiliza la Metodología ágil Programación Extrema
+
+(XP); el diseño de investigación es cuasiexperimental porque se utilizó grupos que ya
+
+formados antes del experimento es decir son grupos intactos que surgieron
+
+independientemente del experimento; el instrumento para la recolección de datos
+
+utilizado son las escalas de medición de actitudes tipo likert y la prueba hipótesis se
+
+realiza utilizando la prueba t; finalmente de acuerdo a los resultados obtenidos de la
+
+pruebas se concluye que el desarrollo de un Sistema Notarial optimizará la Gestión de
+
+Instrumentos Públicos Notariales en los Notarios de la Región Puno.
+
+
+Palabras claves: Notarios, Tecnologías en Información, Derecho Notarial, Instrumentos
+
+Públicos, Programación Extrema.
+
+
+
+
+                                                                                        12
+
+                                 Page 13 of 117
+                                     ABSTRACT
+
+Notaries in Peru have the need to make use of Information Technologies to provide their
+
+services, this is given by the increasing immersion of our country in the use of technology
+
+and from regulatory changes in the Notarial Law of 2008; research has set targets
+
+"Developing a Notarial System to automate the process of managing Notaries Public
+
+Documents prepared by notaries department of Puno" for the development of Notarial
+
+System Law Notaries and its complementary rules used , he had the collaboration of
+
+notarial workers and agile methodology Extreme Programming (XP) is used; research
+
+design is quasi-experimental because groups already formed before the experiment was
+
+used ie they are intact groups that emerged independently of the experiment; the
+
+instrument for data collection are used measurement scales Likert attitudes and
+
+hypothesis test is performed using the t test; Finally according to the results of the tests
+
+concluded that the development of an optimized Notarial System Management Tools
+
+Notaries Public Notaries in the Puno region.
+
+
+
+Keywords: Notaries, Information Technologies, Law Attorney, Public Instruments,
+
+Extreme Programming.
+
+
+
+
+                                                                                         13
+
+                                  Page 14 of 117
+                                 INTRODUCCION
+
+En el Perú se ha promulgado normas en distintas materias a partir de la firma del Acuerdo
+
+de Promoción Comercial Perú – Estados Unidos, una de las materias comprendidas es la
+
+Ley de Notariado que fue promulgado en junio del año 2008; dentro de la nueva Ley del
+
+Notariado se incluye artículos que faciliten la incorporación de los Notarios al uso de
+
+Tecnologías de Información para brindar sus servicios, consecuentemente con ello se ha
+
+seguido emitiendo normas desde distintos organismos nacionales que de alguna manera
+
+obligan a los notarios a implementar sus despachos con las nuevas Tecnologías de
+
+Información.
+
+Los Notarios del departamento de Puno presentan serios inconvenientes en la generación
+
+de los Instrumentos Públicos, debido a que la generación se realiza mediante el reemplazo
+
+de datos de los otorgantes, bienes, medios de pagos y otros en una plantilla del Microsoft
+
+Word; asimismo se tienen inconvenientes para elaborar diariamente los índices
+
+cronológicos y alfabéticos exigidos por ley de cada tipo de Instrumentos Públicos.
+
+Los Notarios deben facilitar la información a la SUNAT mediante el Programa de
+
+Declaración Telemática y el formulario 3520 – Notarios, a la Unidad de Inteligencia
+
+Financiera enviando mensualmente el Registro de Operaciones Sospechosas y reportar
+
+de ser el caso las Operaciones Inusuales, al Ministerio de Relaciones Exteriores las
+
+autorizaciones de viaje al Ministerio de Relaciones Exteriores, a la Cámara de Comercio
+
+de Puno los protestos realizados y otros.
+
+El objetivo de la investigación es desarrollar un Sistema Notarial acorde a las necesidades
+
+de los Notarios y trabajadores notariales (usuarios), y posteriormente probar el
+
+mejoramiento en la gestión de Instrumentos Públicos Notariales.
+
+
+
+
+                                                                                        14
+
+                                 Page 15 of 117
+Los Notarios básicamente elaboran tres tipos de Instrumentos públicos que son:
+
+protocolares, extraprotocolares y certificaciones; en torno a los tres tipos de instrumentos
+
+públicos se elaboran los actos jurídicos requeridos por los clientes (otorgantes); hay que
+
+tener en cuenta que los actos jurídicos y contratos celebrados ante los notarios pueden ser
+
+de conocimiento público para distintos fines, sin generar ningún tipo de perjuicio a los
+
+clientes (otorgantes).
+
+La investigación cuenta con cuatro capítulos que se detallan brevemente a continuación:
+
+CAPITULO I: En este capítulo se encuentra el planteamiento, la formulación del
+
+problema, justificación de la investigación, objetivos de la investigación.
+
+CAPITULO II: En este capítulo se presenta el marco teórico de la investigación que está
+
+compuesto de tres partes: antecedentes de la investigación, en esta parte se presentan
+
+resúmenes de investigaciones anteriores que sirvieron de base para la investigación;
+
+marco teórico, en donde señala toda la teoría necesaria utilizada en la investigación;
+
+finalmente el marco conceptual, conformado por definiciones de los términos básicos
+
+utilizados a lo largo de la investigación.
+
+CAPITULO III: En este capítulo se encuentra el ámbito de estudio de la investigación,
+
+alcance de la investigación, diseño de la investigación, la población y muestra definida
+
+en la investigación, método de recopilación de datos utilizado, la metodología utilizada
+
+para el desarrollo del Sistema Notarial y finalmente el Hardware y Software utilizado en
+
+la investigación.
+
+CAPITULO IV: En este capítulo se encuentra el detalle del desarrollo del Sistema
+
+Notarial compuesto por cuatro fases: Planeación del Sistema, Diseño del Sistema,
+
+Codificación Sistema y Prueba del Sistema; seguidamente podemos encontrar el análisis
+
+de datos obtenidos mediante la comparación de los grupos y la prueba de hipótesis.
+
+
+                                                                                         15
+
+                                  Page 16 of 117
+Finalmente se encuentran las conclusiones, sugerencias, bibliografía utilizada en la
+
+investigación y se incorpora los anexos que permiten sustentar y aclarar algunos aspectos
+
+de la investigación.
+
+
+
+
+                                                                                      16
+
+                                 Page 17 of 117
+CAPÍTULO I
+
+PLANTEAMIENTO       DEL       PROBLEMA   DE
+
+INVESTIGACIÓN
+
+
+
+
+                                          17
+
+             Page 18 of 117
+1.1    Descripción del Problema
+
+       El oficio notarial constituye el paso natural por el que transitan todos los actos de
+
+inversión ya que el Notario es el profesional privado a quien se le delega dar fe de la
+
+actividad contractual privada y su intervención constituye un importante eslabón dentro
+
+de la cadena del desarrollo económico, pues ante él se condensa un gran número de actos
+
+y contratos de tráfico patrimonial, por lo que la modernización de la actuación notarial
+
+resulta fundamental a efectos de proteger las inversiones, tutelar los derechos y la
+
+propiedad, fomentar la actividad crediticia, facilitar los negocios, propender a la creación
+
+de empresas y simplificar las transacciones. (Gonzales & Ochoa, 2011, p. 17).
+
+       El departamento de Puno cuenta con 22 Notarios quienes brindan sus servicios en
+
+los diferentes distritos y provincias, los cuales están encargados de elaborar, administrar,
+
+gestionar y otros los Instrumentos Públicos: Protocolares, Extra Protocolares y
+
+Certificaciones; en la elaboración, administración, gestión y otros los Notarios encuentran
+
+serios problemas provenientes de distintas razones como: humanas, tecnológicas,
+
+administrativas, operacionales entre otros. A continuación se menciona los problemas
+
+más frecuentes encontrados:
+
+a)     Los Notarios del departamento de Puno presentan serios inconvenientes en la
+
+       generación de los Instrumentos Públicos, debido a que la generación se realiza
+
+       mediante el reemplazo de datos de los otorgantes, bienes, medios de pagos y otros
+
+       en una plantilla del Microsoft Word; las consecuencias encontradas son: realizar
+
+       reemplazos con datos que no corresponden a los otorgantes, bienes, medios de
+
+       pagos y otros, omitir datos necesarios para la validez del Instrumento Público,
+
+       demorar prolongadamente en la generación del Instrumento y otros.
+
+b)     Los Notarios deben confeccionar diariamente los índices cronológicos y
+
+       alfabéticos exigidos por la ley con datos de cada tipo de Instrumentos Públicos
+
+
+
+                                                                                         18
+
+                                  Page 19 of 117
+     celebrados (datos de otorgantes, bienes, medios de pagos y otros); la problemática
+
+     presentada en la confección de los índices es que actualmente los datos que
+
+     conforma el Instrumento Público se ingresan manualmente en una hoja de cálculo
+
+     por cada tipo, además que son datos que anteriormente fueron registrados en la
+
+     generación del Instrumento.
+
+c)   Los notarios deben informar anualmente los Instrumentos Públicos celebrados en
+
+     sus oficios notariales a la SUNAT mediante el Programa de Declaración
+
+     Telemática y el formulario 3520 – Notarios, el llenado del formulario se realiza
+
+     también de forma manual.
+
+d)   Los Notarios deben elaborar mensualmente el Registro de Operaciones
+
+     Sospechosas y reportar de ser el caso las Operaciones Inusuales exigidos por la
+
+     Unidad de Inteligencia Financiera, para tal fin los Notarios tienen serios
+
+     inconvenientes puesto que los otorgantes celebran distintos tipos de Instrumentos
+
+     Públicos y los umbrales son definidos por operación individual y operaciones
+
+     múltiples en un mes.
+
+e)   Los Notarios deben informar de los Instrumentos Públicos celebrados en sus
+
+     oficios notariales al sector de competencia por ejemplo: las autorizaciones de viaje
+
+     al Ministerio de Relaciones Exteriores, los Protestos a la Cámara de Comercio de
+
+     Puno, entre otros; para tal fin los Notarios realizan los informes manualmente el
+
+     cual implica la pérdida de tiempo por parte de los trabajadores.
+
+f)   Los Notarios deben extender segundo, tercero, cuarto y más testimonios de los
+
+     Instrumentos Públicos celebrados, pero para la ubicación del tomo y registro
+
+     donde fue archivado el Instrumento hay mucha lentitud puesto que la búsqueda es
+
+     manual.
+
+
+
+
+                                                                                      19
+
+                               Page 20 of 117
+g)     Actualmente algunos Instrumentos Públicos celebrados no se concluyen en el
+
+       oficio notarial y en ocasiones es necesario realizar trámites subsiguientes con
+
+       plazos establecidos como: inscribir en Registros Públicos, realizar publicaciones
+
+       en medios oficiales, inscribir en la SUNAT y otros; el problema presentado con
+
+       relación al presente punto es de que los Notarios no cuentan con un mecanismo
+
+       de seguimiento de trámites el cual acarrea el incumplimientos de los plazos y
+
+       debido a ello se legajan los Instrumentos Públicos celebrados.
+
+h)     Los Notarios del departamento de Puno no cuentan con una herramienta que les
+
+       permita tomar decisiones acerca de la organización interna de sus oficios
+
+       notariales, debido a que no cuentan con un medio que refleje el comportamiento
+
+       real de cada despacho notarial, no tienen estadísticas por tipo de Instrumento
+
+       Públicos celebrados, tampoco cuentan con la herramienta que mida el desempeño
+
+       de cada colaborador Notarial.
+
+       Finalmente se puede notar que existen un gran número de incidencias en la gestión
+
+adecuada de los Instrumentos Públicos Notariales elaborados por los Notarios del
+
+departamento de Puno, teniendo como consecuencia una elevada carga laboral dentro de
+
+cada despacho notarial, el cual conlleva a que el colaborador del Notario descuide sus
+
+labores principales para el ejercicio de sus funciones.
+
+1.1.1 Formulación del Problema
+
+       En base a lo expresado en el planteamiento del problema se formuló la siguiente
+
+interrogante:
+
+       ¿En qué medida influirá el desarrollo de un Sistema Notarial, en la automatización
+
+de procesos de gestión de Instrumentos Públicos Notariales elaborados por los Notarios
+
+del departamento de Puno?
+
+
+
+
+                                                                                      20
+
+                                 Page 21 of 117
+1.2    Justificación de la Investigación
+
+       La investigación es realizada en el departamento de Puno con la colaboración de
+
+los Notarios pertenecientes al Colegio de Notarios de Puno, inicia la investigación el 01
+
+de abril del 2013 y concluye el 31 de octubre del 2013; las necesidades de cumplimiento
+
+normativo para el desempeño notarial son los siguientes:
+
+a)     En el inciso i) del artículo 16° de la Ley del Notariado (2008) se menciona que el
+
+       Notario está obligado a: “Contar con una infraestructura tecnológica mínima que
+
+       permita la interconexión con su Colegio de Notarios, la informatización que
+
+       facilite la prestación de servicios notariales de intercambio comercial nacional e
+
+       internacional y de gobierno electrónico seguro”. (p. 374812)
+
+b)     En el Decreto Supremo Nº 003-2009-JUS reglamento de la Ley del Notariado
+
+       artículo 10°, numeral 5.1 items d y e, señalan que los Notarios deben contar con:
+
+       Software de seguimiento de contratos con información centralizada, uso de base
+
+       de datos y Software para confección de índices.
+
+       Los Notarios tienen la necesidad de optimizar el flujo de datos e información de
+
+los Instrumento Públicos celebrados con las entidades gubernamentales y no
+
+gubernamentales que lo requieran, debido a esto con el presente trabajo de investigación
+
+buscamos insertar a los Notarios del departamento de Puno, en el uso de las nuevas
+
+Tecnologías de Información y Comunicaciones para el cumplimiento de sus funciones,
+
+así mejorar el servicio a la población en la elaboración de Instrumentos Públicos
+
+Notariales.
+
+       Posteriormente para el desarrollo del Sistema Notarial se ha utilizado la
+
+metodología ágil de desarrollo de software Programación Extrema, el diseño de la
+
+investigación es cuasiexperimental que se un tipo del diseño experimental y la
+
+
+
+
+                                                                                      21
+
+                                 Page 22 of 117
+herramienta utilizada para la recolección de datos son las escalas de medición de actitudes
+
+tipo likert.
+
+1.3     Objetivos de la Investigación
+
+        Para la investigación se plantearon los siguientes objetivos:
+
+1.3.1 Objetivo General
+
+        Desarrollar un Sistema Notarial, para automatizar el proceso de gestión de
+
+Instrumentos Públicos Notariales elaborados por los Notarios del departamento de Puno.
+
+1.3.2 Objetivos Específicos
+
+a)      Planear el desarrollo del Sistema Notarial utilizando la información actual de los
+
+        Instrumentos Públicos Notariales elaborados por los Notarios del departamento
+
+        de Puno.
+
+b)      Diseñar el Sistema Notarial para la gestión de Instrumentos Públicos Notariales,
+
+        de tal forma que cubra todas las necesidades y problemáticas presentadas a los
+
+        Notarios del departamento de Puno.
+
+c)      Codificar módulos de software orientado a objetos de los distintos procesos que
+
+        componen los Instrumentos Públicos Notariales elaborados por los Notarios del
+
+        departamento de Puno.
+
+d)      Probar el Sistema Notarial desarrollado para la gestión de Instrumentos Públicos
+
+        Notariales.
+
+
+
+
+                                                                                        22
+
+                                  Page 23 of 117
+CAPÍTULO II
+
+MARCO TEÓRICO
+
+
+
+
+                               23
+
+              Page 24 of 117
+2.1    Antecedentes de la Investigación
+
+a)     “Sistema de gestión de servicios basado en ITIL para optimizar el servicio
+
+       informático en la municipalidad provincial de San Román - Juliaca”, elaborado
+
+       por Ana Luisa Paricahua Gutierrez y Larisa Quispe Mamani, con el Objetivo
+
+       General: “Implementar un sistema de gestión de servicios basados en ITIL para
+
+       optimizar el servicio informático en la Municipalidad Provincial de San Román -
+
+       Juliaca”. (Paricahua & Quispe, 2011).
+
+b)     “Sistema integral de gestión educativa – SIGE – para la automatización de
+
+       procesos académicos y contables del área de e-learning del centro de
+
+       investigaciones VE multimedios, Lima – Perú”; el autor de trabajo de
+
+       investigación es Edward Raúl Rojas Menendez de la Universidad Nacional de
+
+       Altiplano de Puno, y toma un punto de partida en área de e-learning del centro de
+
+       investigaciones VE multimedios denominada Cirlus, área dedicada a la práctica
+
+       de la educación a distancia por Internet; una gran parte de la investigación se
+
+       desarrolla un Sistema de información computacional basado en tecnologías Web
+
+       denominado Sistema Integral de Gestión Educativa – SIGE – que permitió
+
+       automatizar los procesos de administración académica y contable del área de e-
+
+       learning. (Rojas, 2008).
+
+2.2    Sustento teórico
+
+2.2.1 Medición de la Calidad
+
+       Gilb (1988) citado por Pressman (2010) decía que aunque existen muchas medidas
+
+de la calidad de software, la exactitud, capacidad de mantenimiento, integridad y
+
+usabilidad proporcionan útiles indicadores para el equipo del proyecto y sugiere
+
+definiciones y medidas para cada una de ellas como sigue:
+
+
+
+
+                                                                                     24
+
+                                  Page 25 of 117
+a)   Exactitud, un programa de operar correctamente o proporcionará poco valor a sus
+
+     usuarios. La exactitud es el grado en el cual el software realiza la función
+
+     requerida. La medida más común de la exactitud son los defectos por Miles de
+
+     Líneas de Código, donde un defecto se define como una falta verificada de
+
+     acuerdo a los requerimientos.
+
+b)   Capacidad de Mantenimiento, el mantenimiento y soporte del software
+
+     representan más esfuerzo que cualquier otra actividad de ingeniería de software.
+
+     La capacidad de mantenimiento es la facilidad con la que un programa puede
+
+     corregirse si se encuentra un error, la facilidad con que se adapta si su entorno
+
+     cambia o de mejorar si el cliente quiere un cambio en requerimientos. No hay
+
+     forma de medir directamente la capacidad de mantenimiento, por tanto deben
+
+     usarse medidas indirectas. Una métrica simple orientada al tiempo es el tiempo
+
+     medio al cambio, el tiempo que tarda en analizarse la petición de cambio, diseñar
+
+     una modificación adecuada, implementar el cambio, probarlo y distribuirlo a
+
+     todos los usuarios. En promedio los programas con capacidad de mantenimiento
+
+     tendrán un tiempo medio al cambio más bajo que los que los que no tienen dicha
+
+     capacidad.
+
+c)   Integridad, la integridad del software se ha vuelto cada vez más importante en
+
+     la era de los ciberterrorristas y hackers. Este atributo mide la habilidad de un
+
+     sistema para resistir ataques (tanto accidentales como intencionales) a su
+
+     seguridad. Los ataques pueden hacerse en los tres componentes de software:
+
+     programas, datos y documentación. Para medir la integridad deben definirse dos
+
+     atributos adicionales: amenaza y seguridad. Amenaza es la probabilidad de que
+
+     un ataque de un tipo específico ocurrirá dentro de un tiempo dado. Seguridad es
+
+     la probabilidad de que el ataque de un tipo específico se repelerá
+
+
+
+                                                                                   25
+
+                               Page 26 of 117
+d)      Usabilidad, Si un programa no es fácil de usar está condenado al fracaso, incluso
+
+       si las funciones que realiza son valiosas. Además Constantine (1995) citado por
+
+       Pressman (2010) afirma que la usabilidad no proviene de la estética, de
+
+       mecanismos de interacción avanzados o de interfaces inteligentes; en vez de eso
+
+       se obtiene cuando la arquitectura de interfaz se ajusta a las necesidades de las
+
+       personas que la emplearán.
+
+2.2.2 Métrica orientadas a función
+
+       Las métricas de software orientadas a función usan una medida de la funcionalidad
+
+entregada por la aplicación como un valor de normalización. La métrica orientada a
+
+función de mayor es el punto de función. El cálculo de punto de función se basa en
+
+características del dominio y la complejidad de información de software. El punto de
+
+función como la medida de líneas de código es controvertido, quienes lo proponen
+
+afirman que el punto de función es independiente del lenguaje de programación, lo que
+
+hace ideal para aplicaciones que usan lenguajes convencionales y no procedurales, y que
+
+se basa en datos que es más probable que se conozcan tempranamente en la evolución de
+
+un proyecto, lo que hace al punto de función más atractivo como enfoque de estimación.
+
+Sus opositores afirman que el método requiere de cierta maña, pues su cálculo se basa en
+
+datos subjetivos más que objetivos, que en el conteo de dominio de información (y otras
+
+dimensiones) puede ser difícil de recopilar después del hecho y que el punto de función
+
+no tiene significado físico directo: es sólo un número. (Pressman, 2010).
+
+2.2.3 Instrumento público notarial
+
+       El artículo 23° de la Ley de Notariado (2008) menciona que son Instrumentos
+
+Públicos Notariales los que el Notario por mandato de la ley o a solicitud de parte,
+
+extienda o autorice en ejercicio de su función, dentro de los límites de su competencia y
+
+con las formalidades de ley y se puede distinguir tres grandes tipos de Instrumentos:
+
+
+
+                                                                                        26
+
+                                 Page 27 of 117
+a)    Instrumento Público extraprotocolar, Son aquellos instrumentos públicos
+
+      otorgados o autorizados por un Notario, en original, fuera del protocolo. Es decir,
+
+      no se lleva en ninguno de los registros de la notaría, ni existe obligación legal de
+
+      conservarlos en el archivo notarial. Estos documentos se redactan dentro o fuera
+
+      de la notaría. (Tambini, 2006). En el artículo 94° de la Ley del Notariado (2008)
+
+      se menciona que son Instrumentos Públicos Extra – Protocolares:
+
+1.    De autorización para viaje de menores.
+
+2.    De destrucción de bienes.
+
+3.    De entrega.
+
+4.    De juntas, directorios, asambleas, comités y demás actuaciones corporativas.
+
+5.    De licitaciones y concursos.
+
+6.    De inventarios; y subastas de conformidad con el Decreto Legislativo Nº 674, Ley
+
+      de Promoción de la Inversión Privada de las Empresas del Estado.
+
+7.    De sorteos y de entrega de premios.
+
+8.    De constatación de identidad, para efectos de la prestación de servicios de
+
+      certificación digital.
+
+9.    De transmisión por medios electrónicos de la manifestación de voluntad de
+
+      terceros; y,
+
+10.   De verificación de documentos y comunicaciones electrónicas en general.
+
+11.   Otras que la ley señala.
+
+b)    Instrumentos Públicos Protocolares, El protocolo notarial es la colección
+
+      ordenada de registros sobre la misma materia en los que el notario extiende los
+
+      instrumentos públicos protocolares con arreglo a ley. (Ley del Notariado, 2008, p.
+
+      374813). Forman el protocolo notarial los siguientes registros:
+
+1.    De escrituras públicas.
+
+
+
+                                                                                       27
+
+                                 Page 28 of 117
+2.     De testamentos.
+
+3.     De protesto.
+
+4.     De actas de transferencia de bienes muebles registrables.
+
+5.     De actas y escrituras de procedimientos no contenciosos.
+
+6.     De instrumentos protocolares denominados de constitución de garantía mobiliaria
+
+       y otras afectaciones sobre bienes muebles; y,
+
+7.     Otros que señale la ley.
+
+c)     Certificaciones, en la Ley del Notariado (2008) se definen como clases de
+
+       certificaciones:
+
+1.     La entrega de cartas notariales.
+
+2.     La expedición de copias certificadas.
+
+3.     La certificación de firmas.
+
+4.     La certificación de reproducciones.
+
+5.     La certificación de apertura de libros.
+
+6.     La constatación de supervivencia.
+
+7.     La constatación domiciliaria; y,
+
+8.     Otras que la ley determine.
+
+2.2.4 Generación de Índices
+
+       El artículo 91° de la Ley de Notariado (2008) menciona que el Notario llevará
+
+índices cronológico y alfabético de instrumentos públicos protocolares, a excepción del
+
+registro de protestos que solo llevará el índice cronológico. El índice consignará los datos
+
+necesarios para individualizar cada instrumento.
+
+       Estos índices podrán llevarse en tomos o en hojas sueltas, a elección del notario,
+
+en el caso de llevarse en hojas sueltas deberá encuadernarse y empastarse dentro del
+
+semestre siguiente a su formación. Asimismo, podrá llevar estos registros a través de
+
+
+
+                                                                                         28
+
+                                  Page 29 of 117
+archivos electrónicos, siempre y cuando la información de los mismos sea suministrada
+
+empleando la tecnología de firmas y certificados digitales de conformidad con la
+
+legislación de la materia.
+
+2.2.5 PDT de Notarios
+
+       La Resolución de Superintendencia N° 138- 99/SUNAT publicada el 14 de
+
+diciembre de 1999 en el Artículo 1º dice: “Apruébese el "Reglamento para la presentación
+
+de la Declaración Anual de Notarios", que forma parte integrante de la presente resolución
+
+y consta de nueve (9) artículos, tres (3) disposiciones transitorias y un anexo”.
+
+       El PDT Notarios es un producto informático dirigido a los Notarios que, durante
+
+el ejercicio a declarar, hayan realizado:
+
+a)     Autorización de libros y registros,
+
+b)     Otorgado una escritura pública que contenga operaciones patrimoniales,
+
+c)     Legalizado un formulario registral,
+
+d)     Participado en la transferencia de bienes muebles registrables o no registrables,
+
+e)     Certificado un Formulario de Inscripción.
+
+       Los Notarios que no se encuentren en alguno de estos casos deberán presentar el
+
+formato "Constancia de no tener información a declarar".
+
+       Cuando se produzca el cese del Notario, quien se encargue del oficio y cierre de
+
+registros deberá presentar, a nombre del Notario que cesa, la declaración, o la "Constancia
+
+de no tener información a declarar", según lo que resulte obligado, correspondiente al
+
+ejercicio en el que se produjo el cese.
+
+2.2.6 Operaciones Sospechosas
+
+       La Resolución S.B.S. N° 5709-2012 emitido el 10 de agosto del 2012 en el
+
+Artículo 3º de definiciones y abreviaturas ítem n) se define a las operaciones sospechosas
+
+a aquellas que involucran cualquier información relevante sobre manejo de activos o
+
+
+
+                                                                                        29
+
+                                  Page 30 of 117
+pasivos u otros recursos, cuya cuantía o características no guarden relación con la
+
+actividad económica de sus clientes, o sobre transacciones de sus usuarios que por su
+
+número, por las cantidades transadas o por sus características particulares, puedan
+
+conducir razonablemente a sospechar que se está utilizando a la entidad para transferir,
+
+manejar, aprovechar o invertir recursos provenientes de actividades delictivas o
+
+destinados a su financiación.
+
+       Además en el Artículo 13º de la Resolución S.B.S. N° 5709-2012 menciona que
+
+el Notario está obligado a comunicar a la UIF-Perú el reporte de Operaciones Sospechosas
+
+(ROS) , a través de su Oficial de Cumplimiento, las operaciones realizadas o que se haya
+
+intentado realizar, sin importar los montos involucrados, que sean consideradas como
+
+sospechosas, de acuerdo a lo dispuesto en la Ley, el Reglamento y las presentes normas
+
+especiales, de forma inmediata y suficiente, es decir en un plazo que de acuerdo a la
+
+naturaleza y complejidad de la operación sospechosa permita la elaboración,
+
+documentación y remisión del ROS a la UIF-Perú, el cual en ningún caso deberá exceder
+
+de los quince (15) días hábiles de detectada.
+
+2.2.7 Registro Nacional de Protestos y Moras de la Cámara de Comercio
+
+       Es la entidad que tiene como función básica registrar los protestos (letras, pagarés,
+
+cheques, warrants, factura conformada entre otras), las moras de títulos valores así como
+
+los procesos judiciales sobre cheques a nivel nacional.
+
+       De conformidad con la Ley Nº 27287, Ley de Títulos Valores, el RNPM se
+
+encuentra bajo la conducción de la Cámara de Comercio y la Producción de Puno (CCPP)
+
+y es de carácter público.
+
+       Su base de datos constituye la fuente de información de primera línea para el
+
+sistema crediticio del país y son reportados por las notarías, los bancos, el Poder Judicial,
+
+a nivel nacional.
+
+
+
+                                                                                          30
+
+                                  Page 31 of 117
+       El Registro Especial de Protestos y Moras, registra la relación de clientes que se
+
+encuentran Protestados y en morosidad. En esta central se registran a todas las personas
+
+naturales y jurídicas que no han cancelado sus deudas en el sistema financiero y
+
+comercial. Para lo cual deberá acercarse a nuestras oficinas a regularizar las deudas
+
+vigentes y no seguir figurando como moroso.
+
+2.2.8 Trámites de Instrumentos Públicos
+
+       La Ley de Competencia Notarial en Asuntos No Contenciosos Ley N° 26662 en
+
+el Artículo 13 menciona que para las Rectificación de partidas, Adopción de personas
+
+capaces, Patrimonio familiar, Inventarios, Comprobación de Testamentos y Sucesión
+
+intestada se deben realizar las publicaciones de avisos por una sola vez en el diario oficial
+
+y en otro de amplia circulación, en el aviso debe consignarse el nombre y la dirección del
+
+Notario ante quien se realiza el trámite. Además la misma norma indica que una vez
+
+cumplido el trámite notarial, el Notario remitirá partes a la Oficina Registral donde el
+
+causante tenga bienes o derechos inscritos, a fin que se inscriba el Instrumento Público.
+
+2.2.9 Derecho Notarial
+
+       Para Tambini, (2006) el Derecho Notarial es el conjunto de normas legislativas,
+
+reglamentarias, usos, decisiones jurisprudenciales y doctrinas rigen la función notarial y
+
+el instrumento público notarial constituye el Derecho Notarial; forman igualmente parte
+
+de esta rama del Derecho las reglas que rigen la intervención del Notario, que modelan
+
+su actividad y determinan su trascendencia jurídica. Además consideramos que el
+
+Derecho Notarial al que también podemos llamar Derecho de la forma, porque es una
+
+rama del Derecho Público que regula:
+
+a)     La actuación del Notario en su calidad de funcionario público que actúa por
+
+       delegación del poder del Estado.
+
+b)     La organización de la función notarial.
+
+
+
+                                                                                          31
+
+                                  Page 32 of 117
+c)     La teoría formal del instrumento público, asegurando en forma plena los hechos,
+
+       actos y relaciones jurídicas que se originan de la libre manifestación de la
+
+       voluntad.
+
+2.2.10 Desarrollo Ágil
+
+       Pressman (2010) menciona que en 2001 Kent Beck y otros 16 notables
+
+desarrolladores de software, escritores y consultores firmaron el “Manifiesto por el
+
+desarrollo ágil de software”, donde se establece lo siguiente: Estamos descubriendo
+
+formas mejores de desarrollar software, por medio de hacerlo y ayudar a los otros que
+
+hagan. Ese trabajo nos ha hecho valorar:
+
+a)     Los individuos y sus interacciones, sobre los procesos y las herramientas.
+
+b)     El software que funciona, más que la documentación exhaustiva.
+
+c)     La colaboración con el cliente, y no tanto la negociación del contrato.
+
+d)     Responder al cambio, mejor que apegarse a un plan.
+
+       Es decir aunque hay valor en los elementos de la derecha, valoramos más los de
+
+la izquierda. (Pressman, 2010, p. 55).
+
+2.2.10.1 Principios de la Agilidad
+
+       La alianza ágil define 12 principios de agilidad para aquellos que la quieran
+
+alcanzar y son: (Pressman, 2010, p. 58).
+
+
+
+1.     Nuestra principal prioridad es satisfacer al cliente a través de la entrega temprana
+
+       y continua de software de valor.
+
+2.     Son bienvenidos los requisitos cambiantes, incluso si llegan tarde al desarrollo.
+
+       Los procesos ágiles se doblegan al cambio como ventaja competitiva para el
+
+       cliente.
+
+
+
+
+                                                                                        32
+
+                                 Page 33 of 117
+3.    Entregar con frecuencia software que funcione, en periodos de un par de semanas
+
+      hasta un par de meses, con preferencia en los periodos breves.
+
+4.    Las personas del negocio y los desarrolladores deben trabajar juntos de forma
+
+      cotidiana a través del proyecto.
+
+5.    Construcción de proyectos en torno a individuos motivados, dándoles la
+
+      oportunidad y el respaldo que necesitan y procurándoles confianza para que
+
+      realicen la tarea.
+
+6.    La forma más eficiente y efectiva de comunicar información de ida y vuelta dentro
+
+      de un equipo de desarrollo es mediante la conversación cara a cara.
+
+7.    El software que funciona es la principal medida del progreso.
+
+8.    Los procesos ágiles promueven el desarrollo sostenido. Los patrocinadores,
+
+      desarrolladores y usuarios deben mantener un ritmo constante de forma
+
+      indefinida.
+
+9.    La atención continua a la excelencia técnica enaltece la agilidad.
+
+10.   La simplicidad como arte de maximizar la cantidad de trabajo que no se hace, es
+
+      esencial.
+
+11.   Las mejores arquitecturas, requisitos y diseños emergen de equipos que se auto-
+
+      organizan.
+
+12.   En intervalos regulares, el equipo reflexiona sobre la forma de ser más efectivo y
+
+      ajusta su conducta en consecuencia.
+
+13.   No todo Modelo del proceso ágil aplica los 12 principios con igual intensidad y
+
+      algunos eligen ignorar la importancia de uno o más de ellos; sin embargo definen
+
+      el espíritu ágil que se mantiene en cada uno de los modelos del desarrollo ágil.
+
+
+
+
+                                                                                     33
+
+                                Page 34 of 117
+2.2.10.2 Factores Humanos
+
+       Los defensores del desarrollo ágil se toman muchas molestias para enfatizar la
+
+importancia de los “factores personales”; si los miembros del equipo de software son los
+
+que van a generar las características del proceso que van aplicarse a la elaboración del
+
+software, entre ellos debe existir un cierto número de características claves, mismas que
+
+debe compartir el equipo ágil como tal: (Pressman, 2010, p. 60).
+
+a)     Competencia. En un contexto de desarrollo ágil la “competencia” incluye un
+
+       talento innato, las habilidades específicas relacionadas con el software y el
+
+       conocimiento general del proceso.
+
+b)     Enfoque común. Aunque los miembros del equipo ágil realicen diferentes tareas
+
+       y aporten habilidades distintas al proyecto, todos deben centrarse en una meta,
+
+       entregar a cliente en la fecha prometida el incremento del software que funcione.
+
+c)     Colaboración. La ingeniería de software trata de evaluar, analizar y usar la
+
+       información que se comunica al equipo de software, es decir crear información
+
+       que ayudará a todos los participantes a entender el trabajo en equipo; y generar
+
+       información que aporten al cliente valor del negocio.
+
+d)     Habilidad para toma de decisiones. Cualquier equipo bueno de software debe
+
+       tener la libertad para controlar su destino.
+
+e)     Capacidad para resolver problemas difusos. Los gerentes de software deben
+
+       reconocer que el equipo ágil tendrá que tratar de forma continua con la
+
+       ambigüedad y que será sacudido de manera permanente por el cambio.
+
+f)     Confianza y respetos mutuos. El equipo ágil debe convertirse en un equipo
+
+       pegado que tiene confianza y respeto, que son necesarios para hacer “su tejido tan
+
+       fuerte que el todo es más que la suma de las partes”.
+
+
+
+
+                                                                                      34
+
+                                 Page 35 of 117
+g)       Organización Propia. Implica tres aspectos: el equipo ágil se organiza a sí mismo
+
+         para hacer el trabajo, en equipo organiza la programación del trabajo a fin de que
+
+         se logre de lo mejor posible la entrega del incremento de software.
+
+2.2.11 Programación Extrema (XP)
+
+         Es una metodología ágil centrada en potenciar las relaciones interpersonales como
+
+clave para el éxito en desarrollo de software, promoviendo el trabajo en equipo,
+
+preocupándose por el aprendizaje de los desarrolladores, y propiciando un buen clima de
+
+trabajo; además se basa en realimentación continua entre el cliente y el equipo de
+
+desarrollo, comunicación fluida entre todos los participantes, simplicidad en las
+
+soluciones implementadas y coraje para enfrentar los cambios. La programación extrema
+
+(XP) se define como especialmente adecuada para proyectos con requisitos imprecisos y
+
+muy cambiantes, y donde existe un alto riesgo técnico. (Canós, Letelier, & Penadés,
+
+2003).
+
+2.2.11.1 Valores de la Programación Extrema XP
+
+         Canós et al, (2003) consideran que los valores originales de la programación
+
+extrema son: simplicidad, comunicación, retroalimentación (feedback) y coraje; el quinto
+
+valor respeto, fue añadido en la segunda edición de la programación extrema; los cinco
+
+valores se detallan a continuación:
+
+a)       Simplicidad. La simplicidad es la base de la programación extrema, se simplifica
+
+         el diseño para agilizar el desarrollo y facilitar el mantenimiento. Para mantener la
+
+         simplicidad es necesaria la refactorización del código, ésta es la manera de
+
+         mantener el código simple a medida que crece.
+
+         También se aplica la simplicidad en la documentación, de esta manera el código
+
+         debe comentarse en su justa medida, intentando eso sí que el código esté
+
+         autodocumentado; para ello se deben elegir adecuadamente los nombres de las
+
+
+
+                                                                                          35
+
+                                   Page 36 of 117
+     variables, métodos y clases.    Aplicando la simplicidad junto con la autoría
+
+     colectiva del código y la programación por parejas se asegura que cuanto más
+
+     grande se haga el proyecto, todo el equipo conocerá más y mejor el sistema
+
+     completo.
+
+b)   Comunicación. La comunicación se realiza de diferentes formas, para los
+
+     programadores el código comunica mejor cuanto más simple sea; si el código es
+
+     complejo hay que esforzarse para hacerlo inteligible, además el código
+
+     autodocumentado es más fiable que los comentarios ya que éstos últimos pronto
+
+     quedan desfasados con el código a medida que es modificado, debe comentarse
+
+     sólo aquello que no va a variar, por ejemplo el objetivo de una clase o la
+
+     funcionalidad de un método; las pruebas unitarias son otra forma de comunicación
+
+     ya que describen el diseño de las clases y los métodos al mostrar ejemplos
+
+     concretos de cómo utilizar su funcionalidad.
+
+     Los programadores se comunican constantemente gracias a la programación por
+
+     parejas; la comunicación con el cliente es fluida ya que el cliente forma parte del
+
+     equipo de desarrollo.
+
+c)   Retroalimentación. Al estar el cliente integrado en el proyecto, su opinión sobre
+
+     el estado del proyecto se conoce en tiempo real, y al realizarse ciclos muy cortos
+
+     tras los cuales se muestran resultados, se minimiza el tener que rehacer partes que
+
+     no cumplen con los requisitos y ayuda a los programadores a centrarse en lo que
+
+     es más importante.
+
+d)   Coraje. Muchas de las prácticas implican valentía, una de ellas es siempre diseñar
+
+     y programar para hoy y no para mañana. Esto es un esfuerzo para evitar
+
+     empantanarse en el diseño y requerir demasiado tiempo y trabajo para
+
+     implementar el resto del proyecto.
+
+
+
+                                                                                     36
+
+                               Page 37 of 117
+      La valentía le permite a los desarrolladores que se sientan cómodos con reconstruir
+
+      su código cuando sea necesario, esto significa revisar el sistema existente y
+
+      modificarlo si con ello los cambios futuros se implementaran más fácilmente.
+
+      Otra forma de coraje es saber cuándo desechar un código, coraje para quitar
+
+      código fuente obsoleto, sin importar cuanto esfuerzo y tiempo se invirtió en crear
+
+      ese código; finalmente coraje significa persistencia: un programador puede
+
+      permanecer sin avanzar en un problema complejo por un día entero, y luego lo
+
+      resolverá rápidamente al día siguiente, sólo si es persistente.
+
+e)    Respeto. Los miembros del equipo se respetan los unos a otros, porque los
+
+      programadores no pueden realizar cambios que hacen que las pruebas existentes
+
+      fallen o que demore el trabajo de sus compañeros. Los miembros respetan su
+
+      trabajo porque siempre están luchando por la alta calidad en el producto y
+
+      buscando el diseño óptimo o más eficiente para la solución a través de la
+
+      refactorización del código. Los miembros del equipo respetan el trabajo del resto
+
+      no haciendo menos a otros, una mejor autoestima en el equipo y elevando el ritmo
+
+      de producción en el equipo.
+
+
+
+2.2.11.2 Roles en la Programación Extrema
+
+      Los roles de acuerdo con la propuesta original de Beck son:
+
+a)    Programador. El programador escribe las pruebas unitarias y produce el código
+
+      del sistema.
+
+b)    Cliente. Escribe las historias de usuario y las pruebas funcionales para validar su
+
+      implementación. Además, asigna la prioridad a las historias de usuario y decide
+
+      cuáles se implementan en cada iteración centrándose en aportar mayor valor al
+
+      negocio.
+
+
+
+                                                                                      37
+
+                                Page 38 of 117
+c)     Encargado de pruebas (Tester). Ayuda al cliente a escribir las pruebas
+
+       funcionales. Ejecuta las pruebas regularmente, difunde los resultados en el equipo
+
+       y es responsable de las herramientas de soporte para pruebas.
+
+d)     Encargado de seguimiento (Tracker). Proporciona realimentación al equipo.
+
+       Verifica el grado de acierto entre las estimaciones realizadas y el tiempo real
+
+       dedicado, para mejorar futuras estimaciones. Realiza el seguimiento del progreso
+
+       de cada iteración.
+
+e)     Entrenador (Coach). Es responsable del proceso global. Debe proveer guías al
+
+       equipo de forma que se apliquen las prácticas XP y se siga el proceso
+
+       correctamente.
+
+f)     Consultor. Es un miembro externo del equipo con un conocimiento específico en
+
+       algún tema necesario para el proyecto, en el que puedan surgir problemas.
+
+g)     Gestor (Big boss). Es el vínculo entre clientes y programadores, ayuda a que el
+
+       equipo trabaje efectivamente creando las condiciones adecuadas. Su labor
+
+       esencial es de coordinación. (Canós et al, 2003).
+
+
+
+
+2.2.11.3 El Proceso de Programación Extrema
+
+       La programación extrema es un enfoque orientado a objetos como paradigma
+
+preferido de desarrollo, y engloba un conjunto de reglas y prácticas que ocurren en el
+
+contexto de cuatro actividades estructurales: planeación, diseño, codificación y pruebas;
+
+en la siguiente figura ilustra el proceso XP y resalta algunas de las ideas y tareas clave
+
+que se asocian con cada actividad estructural. (Pressman, 2010).
+
+
+
+
+                                                                                       38
+
+                                 Page 39 of 117
+                   Grafico N° 01. Proceso de la programación extrema
+
+     En los siguientes párrafos se resume las actividades XP clave:
+
+a)   Planeación. Esta actividad es denominada también como juego de la planeación
+
+     comienza escuchando, esta actividad sirve para recabar requerimientos que
+
+     permite a los miembros técnicos de equipo XP entiendan el contexto del negocio
+
+     para el software y adquieran la sensibilidad de la salida y características
+
+     principales y funcionalidad que se requieren. Escuchar lleva a la creación de
+
+     “historias” también denominados historias de los usuarios, que describen la salida
+
+     necesaria, características y funcionalidad del software que se va a elaborar.
+
+b)   Diseño. El diseño XP sigue rigurosamente el principio de “mantenlo sencillo”, un
+
+     diseño sencillo siempre se prefiere sobre una presentación más compleja; además
+
+     el diseño guía la implementación de una historia conforme se escribe y se
+
+     desalienta el diseño funcional adicional por que el desarrollador supone que se
+
+     requerirá después. Si en el diseño de una historia se encuentra un problema de
+
+     diseño difícil, XP recomienda la creación inmediata de un prototipo operativo de
+
+     esa porción del diseño; entonces se implementa y se evalúa el prototipo del diseño
+
+
+                                                                                     39
+
+                               Page 40 of 117
+       que es denominado solución en punta. El objetivo es disminuir el riesgo cuando
+
+       comience la implementación verdadera y validar las estimaciones originales para
+
+       la historia que contiene el problema de diseño.
+
+c)     Codificación. Después que las historias han sido desarrolladas y de que se ha
+
+       hecho el trabajo de diseño preliminar, el equipo no inicia la codificación sino que
+
+       desarrolla una serie de pruebas unitarias a cada una de las historias que se van a
+
+       incluir en la entrega en curso (incremento de software); una vez creada la prueba
+
+       unitaria el desarrollador está mejor capacitado para centrarse en lo que debe
+
+       implementarse para pasar la prueba. Una vez que el código está terminado, se le
+
+       aplica de inmediato una prueba unitaria con lo que se obtiene retroalimentación
+
+       instantánea para los desarrolladores.
+
+       Un concepto clave durante la actividad de codificación es la programación por
+
+       parejas, XP recomienda que dos personas trabajen juntas en una estación de
+
+       trabajo con el objeto de crear código para la historia; esto da un mecanismo para
+
+       la solución de problemas a tiempo real y al aseguramiento de la calidad en tiempo
+
+       real
+
+d)     Pruebas. La creación de pruebas unitarias antes de la codificación es un elemento
+
+       clave para el enfoque XP; las pruebas unitarias que se crean deben implementarse
+
+       con el uso de una estructura que permita automatizarlas de modo que puedan
+
+       ejecutarse en repetidas veces y con facilidad.
+
+2.2.11.4 Prácticas de la Programación Extrema
+
+                La principal suposición que se realiza en XP es la posibilidad de
+
+disminuir la mítica curva exponencial del costo del cambio a lo largo del proyecto, lo
+
+suficiente para que el diseño evolutivo funcione. Esto se consigue gracias a las
+
+
+
+
+                                                                                       40
+
+                                 Page 41 of 117
+tecnologías disponibles para ayudar en el desarrollo de software y a la aplicación
+
+disciplinada de las siguientes prácticas. (Canós et al, 2003).
+
+a)     El juego de la planificación. Hay una comunicación frecuente el cliente y los
+
+       programadores. El equipo técnico realiza una estimación del esfuerzo requerido
+
+       para la implementación de las historias de usuario y los clientes deciden sobre el
+
+       ámbito y tiempo de las entregas y de cada iteración.
+
+b)     Entregas pequeñas. Producir rápidamente versiones del sistema que sean
+
+       operativas, aunque no cuenten con toda la funcionalidad del sistema. Esta versión
+
+       ya constituye un resultado de valor para el negocio. Una entrega no debería tardar
+
+       más 3 meses.
+
+c)     Metáfora. El sistema es definido mediante una metáfora o un conjunto de
+
+       metáforas compartidas por el cliente y el equipo de desarrollo. Una metáfora es
+
+       una historia compartida que describe cómo debería funcionar el sistema (conjunto
+
+       de nombres que actúen como vocabulario para hablar sobre el dominio del
+
+       problema, ayudando a la nomenclatura de clases y métodos del sistema).
+
+d)     Diseño simple. Se debe diseñar la solución más simple que pueda funcionar y ser
+
+       implementada en un momento determinado del proyecto.
+
+e)     Pruebas. La producción de código está dirigida por las pruebas unitarias. Éstas
+
+       son establecidas por el cliente antes de escribirse el código y son ejecutadas
+
+       constantemente ante cada modificación del sistema.
+
+f)     Refactorización (Refactoring). Es una actividad constante de reestructuración
+
+       del código con el objetivo de remover duplicación de código, mejorar su
+
+       legibilidad, simplificarlo y hacerlo más flexible para facilitar los posteriores
+
+       cambios. Se mejora la estructura interna del código sin alterar su comportamiento
+
+       externo.
+
+
+
+                                                                                      41
+
+                                  Page 42 of 117
+g)    Programación en parejas. Toda la producción de código debe realizarse con
+
+      trabajo en parejas de programadores. Esto conlleva ventajas implícitas (menor tasa
+
+      de errores, mejor diseño, mayor satisfacción de los programadores).
+
+h)    Propiedad colectiva del código. Cualquier programador puede cambiar cualquier
+
+      parte del código en cualquier momento.
+
+i)    Integración continúa. Cada pieza de código es integrada en el sistema una vez
+
+      que esté lista. Así, el sistema puede llegar a ser integrado y construido varias veces
+
+      en un mismo día.
+
+j)    40 horas por semana. Se debe trabajar un máximo de 40 horas por semana. No
+
+      se trabajan horas extras en dos semanas seguidas. Si esto ocurre, probablemente
+
+      está ocurriendo un problema que debe corregirse. El trabajo extra desmotiva al
+
+      equipo.
+
+k)    Cliente in-situ. El cliente tiene que estar presente y disponible todo el tiempo para
+
+      el equipo. Éste es uno de los principales factores de éxito del proyecto XP. El
+
+      cliente conduce constantemente el trabajo hacia lo que aportará mayor valor de
+
+      negocio y los programadores pueden resolver de manera inmediata cualquier duda
+
+      asociada. La comunicación oral es más efectiva que la escrita.
+
+2.3   Estándares de programación. XP enfatiza que la comunicación de los
+
+      programadores es a través del código, con lo cual es indispensable que se sigan
+
+      ciertos estándares de programación para mantener el código legible.
+
+
+
+
+                                                                                         42
+
+                                 Page 43 of 117
+2.4     Glosario de términos básicos
+
+2.3.1 Acto jurídico
+
+        Se denomina acto jurídico al acto humano voluntario y consciente, que tiene la
+
+finalidad de establecer relaciones de tipo jurídico entre las personas, como ser, entre otras,
+
+crear, modificar y extinguir los derechos. A través de este acto se producirá ya sea en las
+
+cosas o en el mudo exterior, una modificación, porque así lo dispone el ordenamiento
+
+jurídico que corresponda, generando lo que se conoce como consecuencias jurídicas,
+
+entonces básicamente un acto jurídico será la manifestación de la voluntad con el claro
+
+objetivo de generar consecuencias de derecho. (Definicion ABC, 2013).
+
+        A instancias de la formación de un acto jurídico, será preciso y casi condición sine
+
+qua non1 la observación de algunas solemnidades o formalidades tales como la escritura
+
+del acto en cuestión, la presencia de testigos, la presencia de un notario o escribano
+
+público o con el concurso de un juez del lugar en el cual se lleva a cabo el mismo.
+
+        Los actos jurídicos pueden ser clasificados de diversas maneras, entre otros se
+
+cuentan los siguientes:
+
+a)      Formales, su eficacia dependerá de las formalidades establecidas en la ley.
+
+b)      No formales, no dependen de solemnidad alguna.
+
+c)      Actos positivos, son aquellos en los cuales, el nacimiento, la extinción o
+
+        modificación dependen sí o sí de la realización del acto, por ejemplo la firma de
+
+        un pagaré.
+
+d)      Actos negativos, supondrán una omisión o una abstención.
+
+e)      Unilaterales, cuando requieren de la voluntad de una sola parte que puede estar
+
+        encarnada en una sola persona, por ejemplo en los testamentos.
+
+
+
+
+1
+ Proviene del latín: "sin la-cual no...": Una condición "sine qua non" es una condición NECESARIA, si no
+se da la cual, no es posible que algo ocurra o tenga efecto.
+
+                                                                                                     43
+
+                                      Page 44 of 117
+f)     Bilaterales, exigen la participación y consentimiento de dos voluntades, por
+
+       ejemplo los contratos.
+
+g)     Patrimoniales, se trata de actos estrictamente económicos.
+
+h)     Familia, refieren derechos y deberes de familia.
+
+i)     Onerosos, implicará obligaciones recíprocas.
+
+j)     Gratuitos, la obligación recae en una sola de las partes.
+
+2.3.2 Base de Datos
+
+       Sabana (2006) manifiesta que una base de datos es una colección de datos
+
+estructurados según un modelo que refleje las relaciones y restricciones existentes en el
+
+mundo real. Los datos, son compartidos por diferentes usuarios y aplicaciones, y deben
+
+mantenerse independiente de éstas. Asimismo, los tratamientos que sufran estos datos
+
+tendrán que conservar la integridad y seguridad. (p. 23).
+
+       Una base de datos es una estructura computarizada compartida e integrada que
+
+guarda un conjunto de: (Coronel, et al, 2011, p. 7).
+
+a)     Datos del usuario final, es decir, datos sin elaborar que son de interés para el
+
+       usuario final.
+
+b)     Metadatos, o datos acerca de los datos, por medio de los cuales los datos del
+
+       usuario final son integrados y manejados.
+
+
+
+2.3.3 Diseño de investigación cuasiexperimental
+
+       El diseño cuasiexperimental manipulan deliberadamente una o más variables
+
+independientes para observar su efecto y relación con una o varias dependientes, sólo
+
+que trabajan con “grupos intactos”, formados por motivos ajenos al experimento: en
+
+los diseños cuasiexperimenta les los participantes no se asignan al azar a los grupos
+
+
+
+
+                                                                                      44
+
+                                 Page 45 of 117
+ni   se     emparejan, sino que dichos grupos ya estaban integrados previamente al
+
+experimento. (Sampieri, Collado, & Lucio, 2010).
+
+2.3.4 Escalamiento tipo Likert
+
+          Conjunto de ítems que se presentan en forma de afirmaciones para medir la
+
+reacción del sujeto en tres, cinco o siete categorías. (Sampieri et al, 2010).
+
+2.3.5 Experimento
+
+          Sampieri et al, (2010) considera una acepción particular de experimento y más
+
+armónica con un sentido científico del término, y se refiere a un estudio en el que se
+
+manipulan intencionalmente una o más variables independientes (supuestas causas –
+
+antecedentes) para analizar las consecuencias que la manipulación tiene sobre una o más
+
+variables dependientes (supuestos efectos –consecuentes) dentro de una situación de
+
+control para el investigador.
+
+          Creswell (2009) citado por Sampieri et al, (2010) denomina a los experimentos
+
+como estudios de intervención, porque un investigador genera una situación para tratar
+
+de explicar cómo afecta a quienes participan en ella en comparación con quienes no lo
+
+hacen. Es posible experimentar con seres humanos, seres vivos y ciertos objetos.
+
+2.3.6 Información
+
+          Es el resultado de procesar datos sin elaborar para dejar ver su significado. El
+
+procesamiento de datos puede ser tan sencillo como organizar éstos para revelar patrones,
+
+o tan complejos como hacer pronósticos o sacar inferencias con el uso de modelos
+
+estadísticos. (Coronel, Steven, & Rob, 2011, p. 5).
+
+2.3.7 La fe pública notarial
+
+          La palabra fe proviene del latín fide, recoge la idea de creencia en todas su
+
+modalidades. (Tambini, 2006, p. 39).
+
+
+
+
+                                                                                       45
+
+                                   Page 46 of 117
+       La fe pública notarial es, pues, la certeza, confianza, veracidad y autoridad
+
+legítima atribuida al Notario respecto a los actos, hechos y dichos realizados u ocurridos
+
+en su presencia, los mismos que se tienen por verdaderos, auténticos, ciertos, con toda la
+
+fuerza probatoria mientas no se demuestre lo contrario. (Tambini, 2006, p. 40).
+
+2.3.8 Notario
+
+       En el artículo 2° de la Ley de Notariado (2008), se define al Notario como el
+
+profesional del derecho que está autorizado para dar fe de los actos y contratos que ante
+
+él se celebran. Para ello formaliza la voluntad de los otorgantes, redactando los
+
+instrumentos a los que confiere autenticidad, conserva los originales y expide los
+
+traslados correspondientes.
+
+       Su función también comprende la comprobación de hechos y la tramitación de
+
+asuntos no contenciosos previstos en las leyes de la materia. (p. 374810).
+
+2.3.9 Modelado CRC (Tarjeta CRC)
+
+       El modelado clase – responsabilidad – colaborador (CRC) proporciona una
+
+manera sencilla de identificación y organización de las clases que son relevantes para los
+
+requerimientos de un sistema o producto. (Pressman, 2010, p.148).
+
+2.3.10 Muestra no probalística
+
+       En las muestras no probabilísticas, la elección de los elementos no depende de la
+
+probabilidad, sino de causas relacionadas con las características de la investigación o de
+
+quien hace la muestra. Aquí el procedimiento no es mecánico ni con base en fórmulas de
+
+probabilidad, sino que depende del proceso de toma de decisiones de un investigador o
+
+de un grupo de investigadores y, desde luego, las muestras seleccionadas obedecen a otros
+
+criterios de investigación. Elegir entre una muestra probabilística o una no probabilística
+
+depende de los objetivos del estudio, del esquema de investigación y de la contribución
+
+que se piensa hacer con ella. (Sampieri, et al, 2010).
+
+
+
+                                                                                        46
+
+                                  Page 47 of 117
+2.3.11 MySQL
+
+Es un gestor de base de datos sencillos de usar e increíblemente rápido. También es uno
+
+de los motores de base de datos más usados en Internet. (Sabana, 2006, p. 313). La
+
+ventajas de usar MySQL son:
+
+a)     Es gratis en ciertas circunstancias.
+
+b)     Para usos comerciales, es una solución más barata que otros sistemas de base de
+
+       datos.
+
+c)     Es muy rápido para recuperar información.
+
+d)     Es una versión perfectamente estable en Windows.
+
+e)     Se puede acceder a ella mediante ODBC y mediante drivers específicos si
+
+       accedemos desde Visual Basic .NET.
+
+f)     Podemos usar integridad referencial.
+
+2.3.12 PHP
+
+       PHP es un lenguaje de programación de uso general de código del lado del
+
+servidor originalmente diseñado para el desarrollo web de contenido dinámico. Fue uno
+
+de los primeros lenguajes de programación del lado del servidor que se podían incorporar
+
+directamente en el documento HTML en lugar de llamar a un archivo externo que procese
+
+los datos. El código es interpretado por un servidor web con un módulo de procesador de
+
+PHP que genera la página Web resultante. PHP ha evolucionado por lo que ahora incluye
+
+también una interfaz de línea de comandos que puede ser usada en aplicaciones gráficas
+
+independientes. PHP puede ser usado en la mayoría de los servidores web al igual que en
+
+casi todos los sistemas operativos y plataformas sin ningún costo. (Wikipedia, 2013).
+
+2.3.13 Registro Notarial
+
+       Al respecto el artículo 38° de la Ley de Notariado (2008) señala que el registro se
+
+compondrá de cincuenta fojas ordenadas correlativamente según su numeración.
+
+
+
+                                                                                        47
+
+                                 Page 48 of 117
+       Podrán ser llevados de dos maneras:
+
+a)     En veinticinco pliegos de papel emitido por el colegio de notarios, los mismos que
+
+       se colocarán unos dentro de otros, de modo que las fojas del primer pliego sean la
+
+       primera y la última; que las del segundo pliego sean la segunda y la penúltima y
+
+       así sucesivamente; y,
+
+b)     En cincuenta hojas de papel emitido por el colegio de notarios, que se colocarán
+
+       en el orden de su numeración seriada, para permitir el uso de sistemas de
+
+       impresión computarizado.
+
+       Cabe señalar que los pliegos de papel en el que se escriben o imprimen las
+
+escrituras que forman los registros notariales, son expedidos a los Notarios, previo pago
+
+de los derechos respectivos al Colegio de Notarios de su jurisdicción, siendo el papel
+
+fabricado por una empresa particular especializada que elabora con exigentes medidas de
+
+seguridad a fin de evitar falsificaciones y fácil deterioro del mismo. (Tambini, 2006, p.
+
+93).
+
+2.3.14 Sistema
+
+       Un sistema es un conjunto de funciones que operan en armonía o con un mismo
+
+propósito, y que puede ser ideal o real. Por su propia naturaleza, un sistema posee reglas
+
+o normas que regulan su funcionamiento y, como tal, puede ser entendido, aprendido y
+
+enseñado. Por consiguiente, si hablamos de sistemas, podemos referirnos a cuestiones tan
+
+distintas como el funcionamiento de una nave espacial o la lógica de una lengua.
+
+(Definicion ABC, 2013).
+
+2.3.15 Sistemas de Información
+
+       Podemos plantear la definición técnica de un sistema de información como un
+
+conjunto de componentes interrelacionados que recolectan (o recuperan), procesan,
+
+almacenan y distribuyen información para apoyar los procesos de toma de decisiones y
+
+
+
+                                                                                       48
+
+                                 Page 49 of 117
+de control en una organización. Además de apoyar la toma de decisiones, la coordinación
+
+y el control, los sistemas de información también pueden ayudar a los gerentes y
+
+trabajadores del conocimiento a analizar los problemas, visualizar temas complejos y
+
+crear nuevos productos. (Laudon, & Laudon 2012).
+
+2.3.16 Sistema de administración de base de datos
+
+       Es un conjunto de programas que maneja la estructura de la base de datos y
+
+controla el acceso a los datos guardados en ella. (Coronel, el at, 2011, p. 7).
+
+2.3.17 SQL
+
+       Lenguaje de Consulta Estructurado (Structured Query Languaje). Es el lenguaje
+
+que permite la comunicación con el Sistema Gestor de Base de Datos. Es una herramienta
+
+para organizar, gestionar y recuperar datos almacenados en una base de datos informática,
+
+tiene las siguientes características: (Sabana, 2006).
+
+a)     El SQL es un lenguaje unificado, lo utilizan todo tipo de usuarios, desde el
+
+       administrador de la base de datos, DBA, hasta el usuario final.
+
+b)     El SQL es un lenguaje procedimental, el usuario especifica que quiere, no como
+
+       ni donde conseguirlo.
+
+c)     El SQL es relacionalmente completo, permite la realización de cualquier consulta
+
+       de datos.
+
+d)     SQL = DDL + DML, las sentencias SQL pertenecen a dos categorías principales:
+
+       Lenguaje de Definición de Datos (DDL) y Lenguaje de Manipulación de Datos
+
+       (DML).
+
+
+
+
+                                                                                      49
+
+                                  Page 50 of 117
+2.3.18 Tecnologías de Información y Comunicaciones
+
+       Las tecnologías de la información y la comunicación (TIC), a veces denominadas
+
+nuevas tecnologías de la información y la comunicación (NTIC) son un concepto muy
+
+asociado al de informática. Si se entiende esta última como el conjunto de recursos,
+
+procedimientos y técnicas usadas en el procesamiento, almacenamiento y transmisión de
+
+información, esta definición se ha matizado de la mano de las TIC, pues en la actualidad
+
+no basta con hablar de una computadora cuando se hace referencia al procesamiento de
+
+la información. Internet puede formar parte de ese procesamiento que, quizás, se realice
+
+de manera distribuida y remota. Y al hablar de procesamiento remoto, además de
+
+incorporar el concepto de telecomunicación, se puede estar haciendo referencia a un
+
+dispositivo muy distinto a lo que tradicionalmente se entiende por computadora pues
+
+podría llevarse a cabo, por ejemplo, con un teléfono móvil o una computadora ultra-
+
+portátil, con capacidad de operar en red mediante Comunicación inalámbrica y con cada
+
+vez más prestaciones, facilidades y rendimiento
+
+2.3.19 UML
+
+       El Lenguaje de Modelamiento Unificado (UML - Unified Modeling Language) es
+
+un lenguaje de modelado visual que se utiliza para especificar, visualizar, construir y
+
+documentar los artefactos de sistemas de software; UML se usa para entender, diseñar
+
+hojear, configurar, mantener y controlar la información sobre tales sistemas. Está pensado
+
+para usarse con todos los métodos de desarrollo, etapas del ciclo de vida, dominio s de
+
+aplicación y medios; además pretende unificar la experiencia pasada sobre técnicas de
+
+modelado e incorporar las mejores prácticas actuales en un acercamiento estándar.
+
+       UML permite modelar sistemas de información y su objetivo es lograr modelos
+
+que además de describir con cierto grado de formalismo, tales sistemas puedan ser
+
+entendidos por clientes o usuarios de aquello que se modela; para ello es muy importante
+
+
+
+                                                                                       50
+
+                                 Page 51 of 117
+que el idioma en el que estén las palabras y textos que aparezcan en tales modelos sea el
+
+propio de estas personas. (Booch, Rumbaugh, & Jacobson, 2000).
+
+2.3.20 Diagrama de Clases de UML
+
+       La finalidad de los diagramas es presentar diversas perspectivas de un sistema las
+
+cuales se les conoce como modelo; el modelo de UML de es un sistema es similar al
+
+modelo a escala de un edificio junto con la interpretación del artista del edificio. Es
+
+importante destacar que el modelo UML describe lo que supuestamente hará un sistema,
+
+pero no dice cómo implementar dicho sistema. (Schmuller, 2000).
+
+       El diagrama de Clases muestra las clases (descripciones de objetos que comparten
+
+características comunes) que componen el sistema y cómo se relacionan entre sí.
+
+2.3.21 Visual C#
+
+  Visual C# es una implementación del lenguaje de C# de Microsoft. Visual Studio
+
+ofrece compatibilidad con Visual C# con un completo editor de código, un compilador,
+
+plantillas de proyecto, diseñadores, asistentes para código, un depurador eficaz y de fácil
+
+uso y otras herramientas. La biblioteca de clases de .NET Framework ofrece acceso a
+
+numerosos servicios de sistema operativo y a otras clases útiles y adecuadamente
+
+diseñadas que aceleran el ciclo de desarrollo de manera significativa. (MSDN, 2013).
+
+
+
+
+                                                                                        51
+
+                                 Page 52 of 117
+2.5    Hipótesis de la investigación
+
+       En la Investigación se planteó dos hipótesis: la primera permite probar         la
+
+equivalencia inicial de los grupos participantes del experimento dado que el diseño de la
+
+investigación es cuasiexperimental y la segunda es para probar si el Sistema Notarial
+
+optimizará la gestión de Instrumentos Públicos Notariales y son:
+
+a)     Al inicio del experimento, la Gestión de Instrumentos Públicos Notariales del
+
+       Grupo 1 no difiere en la Gestión de Instrumentos Públicos Notariales del Grupo
+
+       2.
+
+b)     El Desarrollo de un Sistema Notarial automatizará la gestión de Instrumentos
+
+       Públicos Notariales elaborados por los Notarios del Departamento de Puno.
+
+2.6    Operacionalización de Variables
+
+       El siguiente cuadro muestra la operacionalización de la Variable Independiente
+
+“Sistema Notarial” y la Variable Dependiente “Gestión de Instrumentos Públicos
+
+Notariales”.
+
+
+
+
+                                                                                      52
+
+                                 Page 53 of 117
+     Cuadro N° 1: Operacionalización de variables.
+
+ VARIABLE        DIMENSIONES         INDICADORES                 UNIDADES Y
+                                                                CATEGORIAS
+                                                               Defectos por Miles
+                                         Exactitud             de Líneas de
+                                                               Código
+                                       Capacidad de            Tiempo promedio
+                                       Mantenimiento           al cambio
+                                                               Probabilidad de
+                                                               repeler un ataque
+   Variable         Calidad                                    específico
+Independiente:
+                                         Integridad            Probabilidad de
+   Sistema
+                                                               que un tipo de
+   Notarial
+                                                               ataque específico
+                                                               ocurrirá
+                                                               Escala de
+                                         Usabilidad            satisfacción del
+                                                               cliente
+                   Función           Punto de Función          Cálculo de Punto
+                                                               de Función
+                                                               Tiempo en
+                                 Elaboración de                elaboración
+                                 Instrumentos Públicos
+                  Generación     Notariales                    Complejidad en la
+                                                               elaboración
+                                 Generación de Índices         Tiempo
+                                 Ingreso de datos de           Complejidad en el
+                                 Instrumentos Públicos al      ingreso
+                                 PDT Notarios                  Tiempo de ingreso
+                                                               Tiempo de
+                                 Detección de operaciones
+  Variable                                                     generación de los
+                                 sospechosas e inusuales
+Dependiente:       Procesos                                    reportes
+ Gestión de
+Instrumentos                     Consolidar información de
+   Públicos                      los Instrumentos Públicos     Tiempo en
+  Notariales                     para enviar a organismos      elaboración
+                                 estatales y privados
+                                 (Cámara de Comercio)
+                                 Atención de consultas a los   Tiempo de
+                                 clientes                      Atención
+                                 Ubicación de Instrumentos
+                                                           Tiempo búsqueda
+                   Consultas     Públicos elaborados
+                                 Ubicación de estado de
+                                                               Tiempo de
+                                 trámites de los
+                                                               búsqueda
+                                 Instrumentos
+
+
+
+     Fuente: Elaboración Propia.
+
+
+
+
+                                                                                    53
+
+                               Page 54 of 117
+CAPÍTULO III
+
+DISEÑO         METODOLÓGICO     DE
+
+INVESTIGACIÓN
+
+
+
+
+                                 54
+
+               Page 55 of 117
+3.1    Tipo y diseño de la Investigación
+
+       La presente investigación está basado en el enfoque cuantitativo, dado que para
+
+contestar las preguntas de investigación y probar hipótesis, se recolecta y analiza datos
+
+establecidos previamente; asimismo se utiliza la medición numérica.
+
+       El alcance de la investigación es el explicativo por que se busca encontrar las
+
+razones o causas que provocan ciertos fenómenos o comportamientos de los grupos,
+
+además con el alcance explicativo analizaremos el comportamiento de los oficios
+
+notariales en la Gestión de Instrumentos Públicos Notariales haciendo uso del Sistema
+
+Notarial. Sampieri et al, (2010) menciona que el propósito del alcance explicativo de la
+
+investigación está dirigido a responder por las causas de los eventos y fenómenos físicos
+
+o sociales, se enfoca en explicar por qué ocurre un fenómeno y en qué condiciones se
+
+manifiesta, o por qué se relacionan dos o más variables.
+
+       El diseño de la investigación constituye el plan o la estrategia que permite
+
+responder las preguntas de investigación, dentro del enfoque cuantitativo la calidad de la
+
+investigación se encuentra relacionada con el grado en que apliquemos el diseño tal como
+
+fue preconcebido, asimismo desde luego en cualquier tipo de investigación el diseño se
+
+debe ajustar ante posibles contingencias o cambios en la situación. En el diseño de la
+
+investigación existen dos tipos: el experimental y el no experimental, la investigación
+
+experimental se subdividen a la vez en experimentos “puros”, cuasiexperimentos y
+
+preexperimentos, y la investigación no experimental se subdivide en transversales y
+
+evolutivos. (Sampieri et al, 2010).
+
+       En el presente trabajo de investigación se utiliza el diseño cuasiexperimental que
+
+se deriva del diseño experimental propiamente dicho, en los cuasiexperimentos no se
+
+asignan al azar los sujetos a los grupos experimentales, sino que se trabaja con grupos
+
+intactos y la validez interna se alcanza en la medida en que demuestran la equivalencia
+
+
+
+                                                                                       55
+
+                                 Page 56 of 117
+inicial de los grupos participantes y la equivalencia en el proceso de experimentación;
+
+además el diseño cuasiexperimental nos permite manipular la variable independiente y
+
+nos permite ver el efecto que tiene en la variable dependiente.
+
+        La manipulación o variación de una variable independiente puede realizarse en
+
+dos o más grados, el nivel mínimo de manipulación es de presencia – ausencia de la
+
+variable independiente, esto implica que un grupo se expone a la presencia de la variable
+
+independiente y el otro no, posteriormente los dos grupos se comparan para saber si el
+
+grupo expuesto a la variable independiente difiere del grupo que no fue expuesto este.
+
+        El diseño específico a seguir es con prueba - posprueba y grupo intacto (uno de
+
+ellos de control) es decir ambos grupos se les administra una preprueba, el cual permite
+
+verificar la equivalencia inicial de los grupos (si son equiparables no debe haber
+
+diferencias significativas entre las prepruebas de los grupos). El esquema general es
+
+el siguiente:
+
+                                G1             O1      X      O2
+
+                                G2             O3      -      O4
+
+3.2     Población y Muestra
+
+3.2.1 Población
+
+        La población para el trabajo de investigación está conformado por 22 Notarios
+
+que operan en la Región Puno, quienes a la vez son miembros del Colegio de Notarios de
+
+Puno.
+
+3.2.2 Muestra
+
+        En virtud al diseño de investigación seleccionado necesitamos contar con dos
+
+grupos, motivo por el cual utilizaremos el tipo de muestra no probabilística, el cual está
+
+conformado de la siguiente forma: un grupo al cual someteremos al uso del Sistema
+
+
+
+
+                                                                                         56
+
+                                 Page 57 of 117
+Notarial, y el otro grupo que será estrictamente de control. Los mencionados grupos se
+
+muestran a continuación:
+
+a)      Grupo 1 (Grupo Intacto): Trabajadores de la Notaría Manrique Salas2,
+
+        constituido por 12 trabajadores.
+
+b)      Grupo 2 (Grupo Experimental): Trabajadores de la Notaría Centeno3,
+
+        constituido por 15 trabajadores.
+
+3.3     Ubicación y descripción de la población
+
+        El ámbito de estudio en la presente investigación es el desempeño funcional que
+
+cumplen los Notarios en la Región Puno, quienes tienen sus despachos notariales en la
+
+diferentes provincias y distritos de la Región, además dichos Notarios pertenecen al
+
+Colegio de Notarios de Puno cuya sede está ubicado en la provincia y distrito de Puno.
+
+3.4     Técnicas e instrumentos para recolectar información
+
+        En el presente trabajo de investigación utilizaremos como instrumento de
+
+recopilación de datos a las escalas de medición de actitudes tipo Likert, en consecuencia
+
+se formulan afirmaciones de la variable dependiente “Gestión de Instrumentos Públicos
+
+Notariales”.
+
+3.5     Técnicas para el procesamiento y análisis de datos
+
+        Para realizar el análisis de los datos es necesario procesar los datos obtenidos, por
+
+ello la investigación se apoyará en el uso del software IBM SPSS Statistics Versión
+
+21.0.0.0.
+
+3.6     Plan de tratamiento de datos
+
+
+
+
+2
+  Notario: Luis Eduardo Manrique Salas con despacho notarial ubicado en Jr. Cajamarca N° 515 del
+distrito de Puno.
+3
+  Notario: Eva Marina Centeno Zavala con despacho notarial ubicado en Jr. Cajamarca N° 330 del distrito
+de Puno.
+
+
+                                                                                                    57
+
+                                      Page 58 of 117
+       Para el tratamiento de datos es necesario contar con los siguientes equipos y
+
+tecnologías
+
+a) Hardware
+
+               Cuadro N° 2: Hardware utilizado.
+
+                             Computador de Escritorio
+                   Procesador     AMD FX™ 8120
+                   Memoria RAM 8 Gb.
+                   Disco Duro     2 Tb.
+                   Tarje de Video 2 Gb. GeForce GT630
+                   Monitor        Hp 21"
+
+                                  Impresora Laser
+                   Marca            HP Laserjet
+                   Modelo           1020
+
+
+
+                            Fuente: Elaboración propia.
+
+b) Software
+
+                 Cuadro N° 3: Software utilizado.
+
+                       Windows 7 Profesional 64 bits
+                       Microsoft Office 2010
+                       Microsoft Visual C# 2010 Ultimate
+                       PHP Versión 5.3.0
+                       IBM SPSS Statistics Versión 21.0.0
+                       Apache 2.2.11
+                       MySQL versión 5.1.36
+                       ArgoUML versión 0.32.1
+                       Notepad ++ 5.6
+                       Google Chrome versión 29.0.1547.76 m
+
+
+                            Fuente: Elaboración propia.
+
+3.7    Diseño estadístico para la prueba de hipótesis
+
+       En la presente investigación para la prueba de hipótesis se utiliza la prueba t-
+
+Student dado que Sampieri et al, menciona que la prueba t-Student “ es una prueba
+
+
+                                                                                    58
+
+                                Page 59 of 117
+estadística para evaluar si dos grupos difieren entre sí de manera significativa respecto a
+
+sus medias en una variable”; además esta prueba se utiliza para contrastar hipótesis sobre
+
+medias en poblaciones con distribución normal y proporciona resultados aproximados
+
+para los contrastes de medias en muestras suficientemente grandes cuando estas
+
+poblaciones no se distribuyen normalmente. Los pasos a cumplir en la prueba de hipótesis
+
+son:
+
+a)     Formulación de la Hipótesis
+
+b)     Establecer el nivel de significancia
+
+c)     Elección de la prueba estadística
+
+d)     Calcular p – valor ( t CALCULADA)
+
+e)     Toma de decisión
+
+
+
+
+                                                                                        59
+
+                                 Page 60 of 117
+CAPÍTULO IV
+
+ANÁLISIS   E      INTERPRETACIÓN   DE
+
+RESULTADOS DE LA INVESTIGACIÓN
+
+
+
+
+                                    60
+
+               Page 61 of 117
+4.1.   Desarrollo del Sistema Notarial
+
+       El desarrollo del Sistema Notarial, se ejecutó utilizando la Programación Extrema
+
+(XP) que es una metodología ágil de desarrollo de software; cabe mencionar que no es
+
+requisito de la Programación Extrema el diagrama de clases, pero se decidió incorporar
+
+en el presente trabajo de investigación en virtud a que dichos diagrama corresponde al
+
+Lenguaje de Modelamiento Unificado que se utiliza para especificar, visualizar, construir
+
+y documentar un sistemas de software.
+
+       En el desarrollo del Sistema Notarial se ha utilizado la normatividad existente
+
+relacionado al Derecho Notarial y las normas complementarias que definen el ejercicio
+
+de los Notarios, además se contó con la estrecha participación de los usuarios y
+
+colaboradores notariales quienes dieron a conocer los requerimientos mínimos necesarios
+
+en el Sistema Notarial.
+
+4.1.1. Planeación del Sistema
+
+4.1.1.1 Historia de Usuarios
+
+       Para obtener las historias de usuarios se coordinó con la Notaría Centeno Zavala
+
+de la ciudad Puno, y se llevó en reuniones de varios días con cada uno de sus trabajadores;
+
+si bien los usuarios no fueron quienes escribieron personalmente las historias, pero fueron
+
+ellos quienes diseñaron su contenido y dirigieron la redacción de las mismas; esto se dio
+
+por que los usuarios no tenían los conocimientos necesarios para llenar los formatos.
+
+       A pesar de lo mencionado en el párrafo anterior, el propósito de las mismas no se
+
+vio alterado de alguna forma, manteniendo no solamente la terminología del cliente al
+
+punto en que este fuera autosuficiente en la comprensión de su contenido, sino también
+
+su oficio como punto de partida en la planificación del Sistema Notarial.
+
+       Con las historias se logró abstraer la información suficiente de ellas para realizar
+
+su implementación sin requerir demasiadas aclaraciones por parte de los usuarios; es muy
+
+
+
+                                                                                        61
+
+                                 Page 62 of 117
+importante resaltar el papel fundamental que jugaron las historias de usuario en la
+
+estimación de los tiempos requeridos para el desarrollo del proyecto.
+
+       A continuación presentamos algunas historias de usuarios que fueron transcritos
+
+en su totalidad y su fuente se encuentra en el ANEXO 3 y 4.
+
+Cuadro N° 4: Historia de usuario: Acceso de Usuario y/o Trabajadores.
+
+   Historia de Usuario               Sistema Notarial – 2013
+
+   Nombre: Acceso de Usuarios y/o Trabajadores.
+
+   Número: 01                                              Fecha: 01/04/2013
+
+   Modificación o extensión de historia:
+
+   Usuario: Notario                                           Iteración Asignada: 01
+
+   Prioridad en Negocio: (Alta / Media / Baja)             Puntos Estimados : 1.5
+
+   Riesgo en Desarrollo : (Alta / Media / Baja)            Puntos Reales : 1.1
+
+   Descripción:
+
+   Los trabajadores (colaboradores) deben acceder al sistema en dos niveles:
+
+   Administrador y usuario; el nivel administrador puede realizar exportaciones al
+
+   PDT, UIF y otros que son necesarios para otras instituciones u organismos.
+
+   Observaciones:
+
+   El acceso para los usuarios (colaboradores) es limitado, puesto que ellos solo
+
+   se dedican al ingreso de datos y la generación de actos jurídicos.
+
+   Además el administrador debe poder crear nuevos usuarios.
+
+
+
+Fuente: Elaboración propia.
+
+
+
+
+                                                                                       62
+
+                                Page 63 of 117
+Cuadro N° 5: Historia de usuario: Generación de autorización de viaje al interior.
+
+Historia de Usuario                 Sistema Notarial – 2013
+Nombre: Generación de autorización de viaje al Interior
+Número: 07                                          Fecha: 01/04/2013
+Modificación o extensión de historia:
+Usuario: Carlos Paucar Galindo                      Iteración Asignada: 01
+Prioridad en Negocio: (Alta / Media / Baja)         Puntos Estimados : 1.8
+Riesgo en Desarrollo : (Alta / Media / Baja)        Puntos Reales : 1.5
+Descripción: Para la autorización de viaje al interior del país es necesario la presencia
+de uno de los padres obligatoriamente, se ingresan datos del padre, datos del hijo, lugar
+de viaje ruta de viaje, motivo del viaje y observaciones; con los datos se debe generar
+la plantilla en Word de la autorización de viaje.
+Observaciones: En este acto puede participar solo el padre o sola la madre, también
+ambos padres; además se puede autorizar hasta 3 hijos en una sola autorización. Existe
+un correlativo de autorizaciones y listado de autorizaciones realizados.
+
+
+Fuente: Elaboración propia.
+
+Cuadro N° 6: Historia de usuario: Certificación de apertura de libros.
+
+Historia de Usuario                 Sistema Notarial – 2013
+Nombre: Certificación de apertura de libros
+Número: 11                                          Fecha: 02/04/2013
+Modificación o extensión de historia:
+Usuario: Blanca Nina Huaman                         Iteración Asignada: 01
+Prioridad en Negocio: (Alta / Media / Baja)         Puntos Estimados : 1.7
+Riesgo en Desarrollo : (Alta / Media / Baja) Puntos Reales : 1.4
+Descripción: Los libros contables, libros de actas, padrón de socios, hojas sueltas,
+cuadernos de obra y otros libros; ante de su uso deben ser aperturados por el Notario
+para el cual se registran los siguientes datos: solicitante, tipo de libro, número, etc.
+Observaciones: Necesariamente debe existir un listado de certificación de apertura
+de libros por usuario y general que se debe exportar al Excel en una plantilla.
+
+
+
+Fuente: Elaboración propia.
+
+                                                                                           63
+
+                                  Page 64 of 117
+       Finalmente se obtuvo un total de veintiocho historias de usuarios, que a
+
+continuación se presenta en el siguiente cuadro la relación de las historias; el contenido
+
+de cada una de las historias de usuarios se encuentran en el anexo del presente trabajo de
+
+investigación.
+
+
+                        Cuadro N° 7: Relación de historias de usuario
+
+                                 Historias de Usuarios
+                 Número              Nombre de la historia
+                    1   Acceso de usuarios y/o trabajadores
+                    2   Generación de minutas y escrituras públicas
+                    3   Generación de actas de transferencia
+                    4   Generación de testamentos
+                    5   Registro de protestos
+                    6   Generación de Procesos no contenciosos
+                    7   Generación de autorización de viaje al interior
+                    8   Generación de autorización de viaje al exterior
+                    9   Entrega de cartas notariales
+                   10   Expedición de copias certificadas
+                   11   Certificación de apertura de libros
+                   12   Constatación de supervivencia
+                   13   Poder fuera de registro
+                   14   Constatación domiciliaria
+                   15   Trámites – Seguimiento
+                   16   Base legal
+                   17   Requisitos para actos jurídicos
+                   18   Calculadora notarial
+                   19   Foliación de registros
+                   20   Oposiciones vigentes
+                   21   Comunicación interna
+                   22   Documentos Extraviados
+                   23   Exportar al PDT
+                   24   Registro de operaciones para la UIF
+                   25   Generación de índices cronológico y alfabético
+                   26   Caja
+                   27   Accesos directos
+                   28   Generación de garantías mobiliarias
+
+
+                               Fuente: Elaboración propia.
+
+
+                                                                                       64
+
+                                  Page 65 of 117
+4.1.1.2 División de Iteraciones
+
+       Una vez recolectadas todas las historias de usuario, se coordinó con el Notario y
+
+los usuarios del Sistema Notarial las prioridades de las historias, y se analizó los riesgos
+
+y esfuerzos que implicaran la implementación de cada una de las historias; para ello se
+
+dividió el desarrollo del Sistema Notarial en cuatro iteraciones que se muestran a
+
+continuación en el siguiente gráfico.
+
+
+
+
+                      Gráfico N° 02. División de Iteraciones
+
+4.1.1.3 Plan de entrega de las iteraciones
+
+       Como se ha mencionado el proyecto fue dividido en cuatro iteraciones, por
+
+consiguiente se obtuvo un total de cuatro entregas para las cuales se desarrollaron partes
+
+de la aplicación completamente funcionales.
+
+       Las entregas se realizan en los últimos días de la última semana de cada iteración,
+
+para ello se ha elaborado el siguiente cuadro:
+
+
+
+
+                                                                                         65
+
+                                  Page 66 of 117
+                           Cuadro N° 8: Entrega de iteraciones
+
+                    Iteración       Historias de Usuarios         Duración
+                     Primera      01, 07, 08, 11, 16, 17, 18, del 01 de abril al
+                     Iteración    19, 23, 24, 25, 27              28 de abril
+                     Segunda                                   del 29 de abril al
+                                  09, 05, 03, 02
+                     Iteración                                    2 de junio
+                     Tercera                                   del 3 de junio al
+                                  22, 20, 14, 13, 12, 10, 04
+                     Iteración                                   30 de junio
+                      Cuarta                                   del 1 de julio al
+                                  26, 21, 15, 06,28
+                     Iteración                                    28 de julio
+
+
+
+                   Fuente: Elaboración propia.
+
+4.1.2 Diseño del Sistema
+
+4.1.2.1 Tarjeta CRC
+
+          Para el diseño se empleó las tarjetas CRC (Clases, Responsabilidades y
+
+Colaboradores) tarjetas que sirvieron para definir la columna vertebral del sistema, y
+
+además dichas tarjetas se utilizaron para modelar la base de datos. (ANEXO 5 Y 6)
+
+          En las primeras iteraciones las tarjetas CRC fueron supremamente útiles e
+
+importantes, brindando una idea clara de la arquitectura del sistema, distribución de
+
+clases, paquetes y la ubicación de las diferentes responsabilidades sobre el Sistema
+
+Notarial.
+
+          En el proceso de elaboración de las tarjetas CRC se tomó muy en cuenta la Ley
+
+del Notariado4 y la experiencia de campo vivida por los usuarios del sistema. Cabe
+
+mencionar que en la Programación Extrema el proceso de diseño es iterativo e
+
+incremental, motivo por el cual las tarjetas CRC no fueron creadas todas en la primera
+
+iteración; más bien al inicio de cada iteración se fueron agregando tarjetas CRC con
+
+
+
+4
+    Decreto Legislativo N° 1049
+
+                                                                                    66
+
+                                       Page 67 of 117
+responsabilidades y colaboradores, de modo tal que el diseño se convirtió en un proceso
+
+dinámico que se adapta a las necesidades planteadas por los usuarios.
+
+4.1.2.2 Soluciones en Punta
+
+       En caso de encontrar una historia de usuario de difícil diseño, Programación
+
+Extrema recomienda la creación inmediata de un prototipo operativo de la historia; para
+
+el Sistema Notarial se implementó las siguientes soluciones en Punta, que se detallan a
+
+continuación:
+
+a)     Exportación de datos al PDT
+
+       La SUNAT mediante el formulario 3520 requiere que los Notarios presente
+
+anualmente los datos de los Instrumentos Protocolares y Certificación de apertura de
+
+libros; esta operación se realiza ingresando los datos el en Programa de Declaración
+
+Telemática (PDT Notarios Versión 3.3), pero en el Sistema Notarial en desarrollo se debe
+
+contemplar la exportación de datos de la base de datos del Sistema. Al ser esta una historia
+
+de difícil diseño se implementó un prototipo operativo como se muestra en la figura.
+
+
+
+
+                Figura N° 01. Exportación de Datos al PDT de Notarios
+
+b)     Generación del Anexo 5 de la UIF
+
+       Para los Instrumentos Protocolares según el Decreto Legislativo N° 1106 y la
+
+Resolución S.B.S. N° 5709-2012, los otorgantes que transfieran u otro acto de disposición
+
+de bien mueble e inmueble a título oneroso o gratuito y/o garantía hipotecaria por mayor
+
+                                                                                         67
+
+                                  Page 68 of 117
+a $ 2,500.00 (Dos mil quinientos dólares americanos) o su equivalente en moneda
+
+nacional, deben llenar el formulario denominado “Anexo 5” de la mencionada resolución;
+
+además se debe llenar el mismo formulario si en operaciones múltiples efectuadas en el
+
+mismo mes superan los $ 10,000.00 (Diez mil dólares americanos) o su equivalente en
+
+moneda nacional, para tal caso se implementó el siguiente prototipo.
+
+
+
+
+       Figura N° 02. Generación del Anexo 5 de la UIF
+
+4.1.2.3 Diagrama de Clases
+
+       Para elabora el diagrama de clases se puso mucha atención a las conversaciones
+
+en la hora de elaborar las historias de usuarios, los nombres de cada historia (sustantivos)
+
+representa las clases en nuestro diagrama; los verbos que se utilizaron en la parte de
+
+responsabilidades de las Tarjetas CRC constituyen las operaciones de las clases, y los
+
+atributos surgirán de los datos que necesitan en cada clase; así se tiene el siguiente
+
+diagrama de clases general.
+
+
+
+
+                                                                                         68
+
+                                  Page 69 of 117
+              Figura N° 03. Diagrama de Clases General del Sistema Notarial.
+
+4.1.3 Codificación Sistema
+
+       La codificación del Sistema Notarial es un proceso que se lleva a cabo en paralelo
+
+con el diseño del sistema, además en la codificación se ha cumplido las siguientes
+
+prácticas de la Programación Extrema: usuario siempre presente, codificar primero la
+
+prueba, integración secuencial e integraciones frecuentes.
+
+       Uno de las prácticas de la Programación Extrema es la programación en parejas,
+
+porque cuando se trabaja en parejas se obtiene un diseño de mejor calidad y un código
+
+más organizado y con menores errores que si se trabajase solo, además de la ventaja que
+
+representa contar con un compañero que ayude a solucionar inconvenientes en tiempo de
+
+codificación, los cuales se presentan con mucha frecuencia; pero en el presente trabajo de
+
+investigación no se ha podido cumplir con dicha práctica en virtud a que este trabajo está
+
+desarrollado por un solo integrante.
+
+4.1.3.1 Usuario siempre presente
+
+       Uno de los requerimientos de la Programación Extrema es que el usuario (cliente)
+
+esté siempre disponible, con relación a esta práctica podemos mencionar que en el
+
+
+
+                                                                                       69
+
+                                 Page 70 of 117
+desarrollo del Sistema Notarial se ha contado siempre con la presencia de los usuarios,
+
+esto por la disponibilidad impuesta por el Notario a sus trabajadores para el desarrollo del
+
+Sistema.
+
+       El usuario presente no solamente para solucionar las dudas en la implementación
+
+sino también para apoyar en el diseño del sistema; en este sentido el usuario se convierte
+
+en gran ayuda al solucionar todas las dudas que puedan surgir, especialmente cara a cara
+
+para garantizar que lo implementado cubre con las necesidades planteadas en las historias
+
+de usuario.
+
+4.1.3.2 Codificar primero la prueba
+
+       En el Diseño del Sistema Notarial se codificó dos prototipos denominados
+
+“Soluciones en Punta” que son: Exportación de Datos al PDT y Generación del Anexo 5
+
+de la UIF; una de las ventajas de crear una prueba antes que el código, es que permite
+
+identificar los requerimientos de dicho código; en otras palabras, al escribir primero las
+
+pruebas se encuentran de una forma más sencilla y con mayor claridad todos los casos
+
+especiales que debe considerar el código a implementar.
+
+       Cuando se crea primero una prueba, se ahorra mucho tiempo elaborando el código
+
+final que haga pasar las iteraciones, siendo menor el tiempo de implementación de las
+
+historias de usuarios complejas y de difícil diseño.
+
+4.1.3.3 Integración secuencial
+
+       Para el desarrollo del Sistema de cumplió con la integración secuencial, este
+
+debido a que el proyecto se ha dividido en cuatro iteraciones y en cada integración se ha
+
+ordenado las historias de usuario en función a su prioridad; en tal sentido la codificación
+
+de las historias se realizó respetando la prioridad asignada a cada historia, el cual era
+
+incorporado una vez concluido al Sistema Notarial.
+
+
+
+
+                                                                                         70
+
+                                  Page 71 of 117
+        Uno de los mayores inconvenientes presentados en los proyectos de software tiene
+
+que ver mucho con la integración; la manera de cumplir con la integración secuencial en
+
+la codificación fue por que inicialmente se definió una cinta5 que contiene las historias de
+
+usuarios como un complemento del Word, al cual se fue añadiendo las historias de usuario
+
+ya codificadas y concluidas.
+
+        Para tal caso presentamos a continuación la cinta definida como complemento del
+
+Word.
+
+
+
+
+                Figura N° 04. Cinta como complemento del Word
+
+4.1.3.4 Iteraciones frecuentes
+
+        Las iteraciones de deben realizar en pocos días y si es posible en pocas horas;
+
+siempre que sea posible no debe transcurrir más un día entre una iteración y otra, de esta
+
+forma se garantiza que surjan problemas en alguna clase que pueden ser solucionados
+
+oportunamente.
+
+        Es evidente que entre más se tarde en encontrar un problema más costoso será
+
+resolverlo y con la iteración frecuente se garantiza que dichos problemas se encuentre
+
+más rápido o aún mejor, sean evitados por completo.
+
+
+
+
+5
+ La cinta de opciones es una manera de organizar comandos relacionados para que sean más fáciles de
+encontrar. Los comandos aparecen como controles en la cinta de opciones. Los controles se organizan en
+grupos a lo largo de una franja horizontal en la parte superior de una ventana de aplicación.
+
+                                                                                                   71
+
+                                     Page 72 of 117
+4.1.3.5 Refactorización
+
+       Al transcurrir el desarrollo del Sistema Notarial se revisó constantemente el diseño
+
+con los usuarios, de la misma surgieron situaciones que no fueron tomadas en cuenta al
+
+comienzo del diseño por distintos motivos; por lo que como salida a estos problemas se
+
+optó por la refactorización de las partes afectadas, buscando las          soluciones más
+
+convenientes y sencillas, conservando la simplicidad del código.
+
+       Una de estas situaciones se presentó cuando el 03 de julio del 2013 la
+
+Superintendencia de Banca y Seguros publicó la Resolución SBS 4034-2013 modificando
+
+el artículo 3º incisos 8.2.1 y 8.6 , artículo 8°, artículo 9º, numerales 10.2.1 y 10.2.2 del
+
+inciso 10.2 y el inciso 10.5 del artículo 10°, artículo 11º, inciso 14.1 del artículo 14°,
+
+artículo 18° y el artículo 22° de las Normas Especiales para la Prevención del Lavado de
+
+Activos y del Financiamiento del Terrorismo aplicable a los Notarios, aprobadas por la
+
+Resolución SBS N° 5709-2012; para tal caso optó por la refactorización del código
+
+concerniente a la Unidad de Inteligencia Financiera puesto que se habían modificado las
+
+cuotas asignadas para determinar el registro de operaciones, operaciones sospechosas,
+
+operaciones inusuales y los formatos anexos a la resolución en mención.
+
+4.1.4 Prueba del Sistema
+
+       La Programación Extrema enfatiza en la realización de un sin número de pruebas
+
+a lo largo del desarrollo del Sistema, con el fin de asegurar en todo momento la realización
+
+de lo planteado en el diseño; en este proceso también participan los usuarios del Sistema
+
+y es muy importante su intervención sobre todo en las pruebas de aceptación.
+
+
+
+
+                                                                                         72
+
+                                  Page 73 of 117
+4.1.4.1 Pruebas Unitarias
+
+       Para ejecutar las pruebas unitarias se realizó las pruebas de las clases y módulos
+
+de manera independiente de las otras y se destacó la autonomía que deben tener dichas
+
+pruebas a la hora de su ejecución, lo que implicaba la manipulación de las clases y la
+
+recuperación de su estado inicial al finalizar la prueba.
+
+       Las pruebas unitarias de clases y módulos del Sistema se efectuaron
+
+constantemente siempre en coordinación con los usuarios, acogiendo en cada prueba las
+
+observaciones recibidas para lograr un producto sumamente valioso para el usuario.
+
+4.1.4.2 Pruebas Funcionales
+
+       El proceso de desarrollo de las pruebas funcionales ayuda al usuario y al
+
+desarrollador a clarificar y concretar la funcionalidad de la historia de usuario, a la vez
+
+favorece la comunicación para su mejor implementación del Sistema Notarial.
+
+       Las pruebas funcionales se realizaron en presencia de los usuarios del Sistema
+
+donde se deben cubrir todos los aspectos descritos en cada una de las historias de usuarios,
+
+       El resultado es un Sistema más seguro y robusto que soporte cambios en el tiempo;
+
+con estas pruebas se identifican y corrigen las fallas u omisiones en las historias de
+
+usuario.
+
+4.2.   Análisis de datos obtenidos
+
+4.2.1 Comparación de los Grupos Pre – Test
+
+       Al inicio del experimento que corresponde al 01 de agosto del 2013, se realizó las
+
+prueba iniciales al grupo intacto con la observación 1 y al grupo experimental con la
+
+observación 3, el instrumento utilizado son las escalas de medición de actitudes tipo
+
+Likert Pre – Test (ANEXO 01), y cuyos datos son ingresados al software estadístico IBM
+
+SPSS Statistics 21.0.0.0 que se muestra a continuación:
+
+
+
+
+                                                                                         73
+
+                                  Page 74 of 117
+               Figura N° 5: Ingreso de datos de la escala Pre – Test
+
+       Para definir la equivalencia inicial de los grupos se realiza la prueba de hipótesis
+
+utilizando es estadístico t y es como sigue:
+
+a)     Formulación de la Hipótesis
+
+Ho :   Al inicio del experimento, la Gestión de Instrumentos Públicos Notariales del
+
+       Grupo 1 no difiere en la Gestión de Instrumentos Públicos Notariales del Grupo
+
+       2.
+
+H1 :   Al inicio del experimento, la Gestión de Instrumentos Públicos Notariales del
+
+       Grupo 1 difiere en la Gestión de Instrumentos Públicos Notariales del Grupo 2
+
+b)     Establecer el nivel de significancia
+
+       El nivel de significancia estadística equivale a la magnitud del error que se está
+
+dispuesto a correr de rechazar la hipótesis nula verdadera, para la presente prueba
+
+definimos α = 0.05
+
+                                                                                        74
+
+                                 Page 75 of 117
+c)     Elección de la prueba estadística
+
+       En este caso el estadístico de prueba es t, definido en el método de análisis de
+
+datos del capítulo III de la investigación; para hallar el valor de tabla trabajaremos con
+
+dos colas, lo que significa que en cada lado tenemos α = 0.025, así mismo tenemos 25
+
+grados de libertad (n1 + n2 – 2); con dichos datos obtenemos t TABLA = 2.0595
+
+
+
+
+                      Figura N° 6: t de tabla para α = 0.025 y 25 g.l.
+
+d)     Calcular p – valor ( t CALCULADA)
+
+       Para hallar el p – valor utilizaremos el programa estadístico SPSS y se tiene la
+
+siguiente tabla:
+
+       Cuadro N° 9: Resultados de comparación de medias de pre – test
+
+
+
+
+       Fuente: Resultados de IBM SPSS Statistics 21.0.0.0
+
+                                                                                       75
+
+                                 Page 76 of 117
+e)         Toma de decisión
+
+           Del paso anterior se obtiene el valor calculado para el estadístico t que es = –.189
+
+y se tiene la siguiente gráfica:
+
+
+
+
+                           Figura N° 7: t calculado para pre – test
+
+           En tal sentido nos toca aceptar la hipótesis nula por haber caído la t CALCULADA en
+
+la región de aceptación de la Ho por lo que podemos afirmar que: “Al inicio del
+
+experimento, la Gestión de Instrumentos Públicos Notariales del Grupo 1 no difiere en
+
+la Gestión de Instrumentos Públicos Notariales del Grupo 2”.
+
+4.2.2 Prueba de Hipótesis
+
+           El inicio del experimento se fijó para el 01 de agosto del 2013, fecha en que al
+
+grupo experimental6 se le impuso el uso de Sistema Notarial desarrollado para la Gestión
+
+de Instrumentos Públicos Notariales; la conclusión del experimento esta fijado para el 31
+
+de octubre del 2013.
+
+           Para realizar la prueba de hipótesis de la investigación se utilizó el instrumento de
+
+escalas de medición de actitudes tipo Likert Post – test (ANEXO 02)y se efectuó las
+
+pruebas finales al grupo intacto con la observación 2 y al grupo experimental con la
+
+observación 4; posteriormente los datos obtenidos son ingresados al software estadístico
+
+IBM SPSS Statistics 21.0.0.0 para su análisis y se muestra a continuación:
+
+
+
+
+6
+    Grupo 2: Trabajadores de la Notaría Centeno
+
+                                                                                             76
+
+                                        Page 77 of 117
+                 Figura N° 8: Ingreso de datos de la escala Post – Test
+
+       A continuación en los siguientes 5 pasos se realiza la prueba de hipótesis de la
+
+investigación.
+
+a)     Formulación de la Hipótesis
+
+Ho :   El desarrollo de un Sistema Notarial no optimizará la Gestión de Instrumentos
+
+       Públicos Notariales.
+
+H1 :   El desarrollo de un Sistema Notarial optimizará la Gestión de Instrumentos
+
+       Públicos Notariales.
+
+b)     Establecer el nivel de significancia
+
+       El nivel de significancia estadística equivale a la magnitud del error que se está
+
+dispuesto a correr de rechazar la hipótesis nula verdadera, para la presente prueba
+
+definimos α = 0.05
+
+
+
+                                                                                      77
+
+                                  Page 78 of 117
+c)     Elección de la prueba estadística
+
+       En este caso el estadístico de prueba es t, definido en el método de análisis de
+
+datos del capítulo III de la investigación; para hallar el valor de tabla trabajaremos con
+
+dos colas, lo que significa que en cada lado tenemos α = 0.025, así mismo tenemos 25
+
+grados de libertad (n1 + n2 – 2); con dichos datos obtenemos t TABLA = 2.0595
+
+
+
+
+                       Figura N° 9: t de tabla para α = 0.025 y 25 g.l.
+
+d)     Calcular p – valor ( t CALCULADA)
+
+Para hallar el p – valor utilizaremos el programa estadístico SPSS y se tiene la siguiente
+
+       tabla:
+
+       Cuadro N° 10: Resultados de comparación de medias de post– test
+
+
+
+
+                Fuente: Resultados de IBM SPSS Statistics 21.0.0.0
+
+                                                                                       78
+
+                                 Page 79 of 117
+e)     Toma de decisión
+
+       Del paso anterior se obtiene el valor calculado para el estadístico t que es = –
+
+38.994 y se tiene la siguiente gráfica:
+
+
+
+
+                       Figura N° 10: t calculado para post – test
+
+       En tal sentido nos toca rechazar la hipótesis nula por haber caído la t CALCULADA
+
+en la región de rechazo de la Ho en tal sentido a raíz de la prueba de hipótesis efectuada
+
+podemos afirmar que: “El desarrollo de un Sistema Notarial optimizará la Gestión de
+
+Instrumentos Públicos Notariales”, con lo que quedaría demostrada la hipótesis de la
+
+investigación.
+
+
+
+
+                                                                                       79
+
+                                  Page 80 of 117
+                                 CONCLUSIONES
+
+En el trabajo de investigación se llegó a las siguientes conclusiones:
+
+PRIMERO.- El Desarrollo de un Sistema Notarial permite optimizar la gestión de los
+
+Instrumentos Público Notariales de los Notarios del departamento de Puno; esta
+
+conclusión es derivada de la prueba de hipótesis (t-student) realizada al comportamiento
+
+promedio que tiene el grupo intacto y el grupo experimental de la investigación con
+
+respecto a la variable dependiente “Gestión de Instrumentos Público Notariales”.
+
+SEGUNDO.- En el proceso de planeación se tuvo la interacción permanente con los
+
+usuarios recopilando las historias de usuarios como lo requiere la Programación Extrema,
+
+esto ha permitido captar todas las necesidades y problemáticas que se deben incorporar
+
+en el Sistema Notarial, de ahí que se consideró soluciones prácticas a los inconvenientes
+
+presentados en la gestión de Instrumentos Públicos Notariales como es la generación de
+
+un complemento para el Microsoft Word del Sistema Notarial.
+
+TERCERO.- El diseño del Sistema Notarial se realizó utilizando las tarjetas CRC
+
+(Clases, Responsabilidades y Colaboradores) el cual permitió definir los aspectos
+
+importantes a considerar en el Sistema Notarial (Instrumentos Protocolares, Instrumentos
+
+Extraprotocolares, Certificaciones, Trámite Documentario y otros); de acuerdo a las
+
+metodologías ágiles de desarrollo de software y la Programación extrema en las primeras
+
+iteraciones las tarjetas CRC son supremamente útiles e importantes brindando una idea
+
+clara de la arquitectura del sistema, distribución de clases, paquetes y la ubicación de las
+
+diferentes responsabilidades del Sistema.
+
+CUARTO.- En la codificación del Sistema Notarial se utilizó los criterios de Soluciones
+
+Punta de la Programación Extrema, el cual ha permitido desarrollar módulos de software
+
+independientes para los problemas más complejos en la gestión de Instrumentos Públicos
+
+Notariales como son: La exportación de datos al PDT Notarios formulario 3520,
+
+
+                                                                                         80
+
+                                  Page 81 of 117
+Generación del Anexo 5 para la Unidad de Inteligencia Financiera, Elaboración de índices
+
+cronológico – alfabético y otros.
+
+
+
+
+                                                                                     81
+
+                                    Page 82 of 117
+                                  SUGERENCIAS
+
+En el trabajo de investigación se llegó a las siguientes sugerencias:
+
+PRIMERO.- Con el objetivo de mejorar el análisis de los resultados del Sistema Notarial
+
+en la optimización de los Instrumentos Públicos Notariales se sugiere utilizar el análisis
+
+de varianza unidireccional de un factor (ANOVA one-way) dado que según Sampieri et
+
+al. es una prueba estadística que permite analizar si más de dos grupos difieren
+
+significativamente entre sí en cuanto a sus medias y varianzas.
+
+SEGUNDO.- En el proceso de planificación del Sistema Notarial se sugiere recopilar
+
+historias de usuarios de los clientes de los Notarios del departamento de Puno, dado que
+
+las historias de usuarios recopiladas de los colaboradores de los Notarios puede obviar
+
+algún punto importante que se deba incorporar en el Sistema Notarial.
+
+TERCERO.- En el diseño del Sistema Notarial además de contar con la colaboración
+
+activa de los colaboradores de los Notarios del Departamento de Puno, se debe considerar
+
+los puntos contemplados en la Ley del Notariado y sus normas complementarias que
+
+definen el ejercicio Notarial.
+
+CUARTO.- La codificación del Sistema Notarial debe realizarse en módulos separados
+
+y orientado a objetos, puesto que de otro modo la manipulación e integración de Sistema
+
+Notarial se tornaría muy compleja.
+
+
+
+
+                                                                                       82
+
+                                 Page 83 of 117
+                                BIBLIOGRAFÍA
+
+1.    Booch, G., Rumbaugh, J., & Jacobson, I. (2000). El lenguaje unificado de
+      modelado. Madrid: Addison Wesley.
+2.    Canós, J., Letelier, P., & Penadés, M. C. (2003). Metodologías Ágiles en el
+      desarrollo de Software. Recuperado el 01 de marzo del 2013 de
+      http://noqualityinside.com.ar/nqi/nqifiles/XP_Agil.pdf.
+3.    Coronel, C., Steven, M., Peter, Rob. (2011). Base de Datos Diseño,
+      implementación y Administración (9a. ed.). Mexico, D.F.: Cengage Learning
+      Editores.
+4.    Definicion ABC. (2013). Definición de Acto Jurídico. Recuperado el 01 de marzo
+      del          2013         de        http://www.definicionabc.com/derecho/acto-
+      juridico.php#ixzz2f18FkyVM.
+5.    Definicion ABC. (2013). Definición de Sistema. Recuperado el 01 de marzo de
+      2013 de http://www.definicionabc.com/general/sistema.php#ixzz2f76JoTgg.
+6.    Gonzales, G., & Ochoa, J. (2011). Derecho Notarial – Temas Actuales.
+      Recuperado el 01 de marzo del 2013 de              http:// books.google.com.pe/
+      books?hl=es&lr=&id=wdFWqo58_XsC&oi=fnd&pg=A5&dq=derecho+notarial
+      +peru&ots=3QMOoMq3Sj&sig=uBBGlMOuVkJzOdrvQyaVzA4Vm-c&redir_e
+      sc=y#v=onepage&q=derecho%20notarial%20peru&f=false.
+7.    Laudon, K., & Laudon, J. (2012). Sistemas de Información Gerencial (12a. Ed.).
+      México: Pearson Educación.
+8.    Ley del Notariado. Decreto Legislativo N° 1049 (2008, 26 de junio). En Normas
+      Legales.     N° 374810. Lima: Diario Oficial "El Peruano". Congreso de la
+      República.
+9.    MSDN.       (2013).   Visual   C   #.   Recuperado    el   01   de   marzo    de
+      http://msdn.microsoft.com/es-es/library/kx37x362(v=vs.90).aspx
+10.   Paricahua, A., & Quispe, L. (2011). Sistema de gestión de servicios basados en
+      ITIL para optimizar el servicio informático en la municipalidad provincial de San
+      Román – Juliaca. (Tesis de Pre - Grado). Universidad Nacional del Altiplano –
+      Puno.
+11.   Pressman, R. (2010). Ingeniería de Software un Enfoque práctico (7a. ed.). New
+      York: McGraw-Hill.
+
+
+
+                                                                                    83
+
+                                Page 84 of 117
+12.   Reglamento de la Ley de Notariado, Decreto Supremo Nº 003-2009-JUS (2009,
+      05 de marzo). En Normas Legales. N° 391810. Lima: Diario Oficial "El Peruano".
+      Presidencia de la República.
+13.   Rojas, E. (2008). Sistema Integral de Gestión Educativa –SIGE- para la
+      automatización de procesos académicos y contables del área de e-learning del
+      centro de investigaciones VE Multimedios, Lima – Perú. (Tesis de Pre - Grado).
+      Universidad Nacional del Altiplano – Puno.
+14.   Sabana, M. (2006). Modelamiento e implementación de Base de Datos. Lima:
+      Megabyte S.A.C.
+15.   Sampieri, R., Collado, C., & Lucio, P. (2010). Metodología de la investigación
+      (5a. ed.). México: McGraw-Hill.
+16.   Schmuller, J. (2000). Aprendiendo UML en 24 horas. Pearson educación.
+      Recuperado        el        01      de        marzo         del         2013     de:
+      ftp://soporte.uson.mx/PUBLICO/02_ING.SISTEMAS.DE.INFORMACION/SI
+      %20-%202011-2/AprendiendoUML%2024Hrs..pdf.
+17.   Tambini, M. (2006). Manual del Derecho Notarial. Lima: Nomos & Thesis.
+18.   Vasta, R. (1987). Cómo estudiar al niño: introducción a los métodos de
+      investigación.    Recuperado       el    01    de      marzo      del     2013   de
+      http://books.google.es/books?hl=es&lr=&id=rP6G1cl00c8C&oi=fnd&pg=PA7
+      &dq=libro+metodo+correlacional&ots=537-q5xwHH&sig=8BkQrz7dhnxZJcT
+      gvYETUsVPY8#v=onepage&q=libro%20metodo%20correlacional&f=false
+19.   Wikipedia. (2013). PHP. Recuperado el 01 de marzo del 2013 de
+      http://es.wikipedia.org/wiki/PHP
+20.   Wikipedia. (2013). Tecnologías de la información y la comunicación. Recuperado
+      el         01          de           marzo             del          2013          de
+      http://es.wikipedia.org/wiki/Tecnolog%C3%ADas_de_la_informaci%C3%B3n_
+      y_ la_comunicaci%C3%B3n#Enlaces_externos
+
+
+
+
+                                                                                       84
+
+                               Page 85 of 117
+                                     ANEXOS
+
+                                    ANEXO 01
+
+ESCALAS DE MEDICIÓN DE ACTITUDES TIPO LIKERT PRE – TEST DE
+
+EVALUACIÓN DE LA GESTIÓN                    DE      INSTRUMENTOS PÚBLICOS
+
+NOTARIALES
+
+
+
+   Las afirmaciones que voy a leer son opiniones con las que algunas personas están de
+
+   acuerdo y otras en desacuerdo, voy a pedirle que me diga, por favor, qué tan de
+
+   acuerdo está usted con cada una de estas opiniones:
+
+
+
+Afirmación N° 1.- El tiempo de elaboración de un Instrumento Público Notarial fluctúa
+
+entre los 10 y 20 minutos.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 2.- La elaboración de un Instrumento Público Notarial es un proceso
+
+complejo y tedioso.
+
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+Afirmación N° 3.- Es rápido la generación de índices.
+
+
+                                                                                   85
+
+                               Page 86 of 117
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 4.- Se considera un proceso muy complejo el ingreso de datos al PDT de
+
+Notarios de Instrumentos Públicos Notariales elaborados.
+
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+Afirmación N° 5.- Es sumamente rápido el ingreso de datos al PDT de Notarios de
+
+Instrumentos Públicos Notariales elaborados.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 6.- La generación del reporte de las Operaciones Sospechosas e Inusuales
+
+es muy lenta.
+
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+
+
+                                                                                   86
+
+                                Page 87 of 117
+    5. Muy en desacuerdo
+
+Afirmación N° 7.- Con mucha rapidez se puede consolidar datos para organismos como:
+
+Ministerio de Relaciones Exteriores, Cámara de Comercio, Ministerio Públicos y otros.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 8.- El tiempo de atención de consultas a los clientes como: Requisitos
+
+para elaborar Instrumentos Públicos, Cálculo de Impuestos, Normatividad vigente y
+
+otros, es sumamente rápido.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 9.- Para la extensión de un segundo testimonio de un Instrumento Público
+
+el tiempo de búsqueda de la matriz en el registro es rápido.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 10.- Es lenta la búsqueda del estado del trámite de un Instrumento Público
+
+en SUNARP, RENIEC, SUNAT y otros.
+
+
+
+                                                                                     87
+
+                                 Page 88 of 117
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+
+
+AGRADECEMOS SU OPINION BRINDADA.
+
+Fuente: Elaboración Propia.
+
+
+
+
+                                                88
+
+                               Page 89 of 117
+                                    ANEXO 02
+
+ESCALAS DE MEDICIÓN DE ACTITUDES TIPO LIKERT POST – TEST DE
+
+EVALUACIÓN DE LA GESTIÓN                    DE      INSTRUMENTOS PÚBLICOS
+
+NOTARIALES
+
+
+
+   Las afirmaciones que voy a leer son opiniones con las que algunas personas están de
+
+   acuerdo y otras en desacuerdo, voy a pedirle que me diga, por favor, qué tan de
+
+   acuerdo está usted con cada una de estas opiniones:
+
+
+
+Afirmación N° 1.- El tiempo de elaboración de un Instrumento Público Notarial fluctúa
+
+entre los 10 y 20 minutos.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 2.- La elaboración de un Instrumento Público Notarial es un proceso
+
+complejo y tedioso.
+
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+Afirmación N° 3.- Es rápido la generación de índices.
+
+    5. Muy de acuerdo
+
+
+                                                                                   89
+
+                               Page 90 of 117
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 4.- Se considera un proceso muy complejo el ingreso de datos al PDT de
+
+Notarios de Instrumentos Públicos Notariales elaborados.
+
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+Afirmación N° 5.- Es sumamente rápido el ingreso de datos al PDT de Notarios de
+
+Instrumentos Públicos Notariales elaborados.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 6.- La generación del reporte de las Operaciones Sospechosas e Inusuales
+
+es muy lenta.
+
+    1. Muy de acuerdo
+
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+
+
+                                                                                   90
+
+                                Page 91 of 117
+Afirmación N° 7.- Con mucha rapidez se puede consolidar datos para organismos como:
+
+Ministerio de Relaciones Exteriores, Cámara de Comercio, Ministerio Públicos y otros.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 8.- El tiempo de atención de consultas a los clientes como: Requisitos
+
+para elaborar Instrumentos Públicos, Cálculo de Impuestos, Normatividad vigente y
+
+otros, es sumamente rápido.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 9.- Para la extensión de un segundo testimonio de un Instrumento Público
+
+el tiempo de búsqueda de la matriz en el registro es rápido.
+
+    5. Muy de acuerdo
+
+    4. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    2. En desacuerdo
+
+    1. Muy en desacuerdo
+
+Afirmación N° 10.- Es lenta la búsqueda del estado del trámite de un Instrumento Públi
+
+co en SUNARP, RENIEC, SUNAT y otros.
+
+    1. Muy de acuerdo
+
+
+
+                                                                                   91
+
+                                 Page 92 of 117
+    2. De acuerdo
+
+    3. Ni de acuerdo ni en desacuerdo
+
+    4. En desacuerdo
+
+    5. Muy en desacuerdo
+
+
+
+AGRADECEMOS SU OPINION BRINDADA.
+
+Fuente: Elaboración Propia.
+
+
+
+
+                                                92
+
+                               Page 93 of 117
+      ANEXO 3
+
+HISTORIAS DE USUARIOS
+
+
+
+
+                        93
+
+  Page 94 of 117
+      ANEXO 4
+
+HISTORIAS DE USUARIOS
+
+
+
+
+                        94
+
+  Page 95 of 117
+    ANEXO 5
+
+  TARJETA CRC
+
+
+
+
+                 95
+
+Page 96 of 117
+    ANEXO 6
+
+  TARJETA CRC
+
+
+
+
+                 96
+
+Page 97 of 117
+                                      ANEXO 7
+                               MANUAL DE USUARIO
+1. Ingreso al Sistema
+
+Para el ingreso al Sistema Notarial, primero se debe abrir el Microsoft Word, allí está
+instalado el menú del sistema, se puede usar Word versión 2010, versión 2012 o posterior.
+
+
+
+
+Una vez ingresado al logan se activa los menús que están en la parte superior de Microsoft
+Word
+
+
+
+
+2.   Instrumentos públicos Protocolares
+
+                                                                                       97
+
+                                 Page 98 of 117
+En los instrumentos públicos protocolares, están los actos jurídicos de mucha
+importancia que usualmente necesita estar registrado en forma manual, en las cuales
+están clasificadas en Escrituras públicas, Testamentos, protestos, Actas de
+transferencia de bienes muebles registrables, Constitución de garantía Mobiliaria,
+vamos a describir como se genera una escritura pública de forma automática.
+
+
+
+
+                                                                                98
+
+                            Page 99 of 117
+Para un nuevo contrato de escritura se presiona en nuevo en la parte superior izquierda,
+se muestra un formulario que debe ser ingresado.
+
+
+
+
+De acuerdo al acto jurídico, las otras pestañas son de otorgantes, bienes y medio de pago,
+En nuevo otorgante se muestra el siguiente formulario de ingreso
+
+
+
+
+Una vez guardado se muestra en otorgantes el otorgante que se ha ingresado
+
+
+
+
+                                                                                       99
+
+                                Page 100 of 117
+Los menús para su modificación están en la parte superior y para cada otorgante esta al
+costado derecho del otorgante individual. De la misma manera si ingresamos bien, nos
+muestra un resumen. La siguiente imagen
+
+
+
+
+                                                                                   100
+
+                               Page 101 of 117
+Para el medio de pago de igual forma usamos el mismo procedimiento
+
+
+
+
+                                                                     101
+
+                              Page 102 of 117
+En forma de resumen tenemos el modo vista, que nos da el resumen global del acto
+jurídico
+
+
+
+
+Y en registro nos muestra los registros que están vigentes
+
+
+
+
+                                                                            102
+
+                                Page 103 of 117
+Para eliminar, modificar o ver, se presiona en cada uno de los ítems de cada registro de
+los contratos.
+
+
+
+
+De esta manera se asegura la correcta eliminación de un registro.
+
+
+3. Instrumentos públicos Extra-Protocolares
+
+
+
+
+                                                                                    103
+
+                                Page 104 of 117
+       Para los instrumentos públicos extraprotocolares, se sigue las mismas secuencias
+ de los instrumentos públicos protocolares, los mas usados las autorizaciones para viaje
+ de menores al interior y al exterior del pais
+
+
+
+
+       En las autorizaciones de viaje, se requiere el ingreso de los padres, o madre, los
+ datos de los hijos, los datos del viaje y finalmente el registro. En la generación de los
+ documentos se muestra en Word, tenemos por ejemplo la captura de la siguiente pantalla
+
+
+
+
+4.   Certificaciones
+
+
+                                                                                      104
+
+                                 Page 105 of 117
+Para las certificaciones, se muestra en el siguiente cuadro el modo de ingreso
+
+
+
+
+La lista de registro se muestra a continuación
+
+
+                                                                                 105
+
+                                Page 106 of 117
+Para los reportes en todos los módulos se exporta al Excel, mostrado en la imagen
+siguiente:
+
+
+
+
+                                                                             106
+
+                             Page 107 of 117
+5.   Requisitos
+
+
+
+
+                                    107
+
+                  Page 108 of 117
+En los requisitos, se muestran los documentos que más se usan en Word, por ejemplo en
+la compra venta, los requisitos son distintas que una constitución de asociación.
+
+
+
+
+6.   Herramientas
+
+
+
+
+                                                                                    108
+
+                                Page 109 of 117
+7.   Calculadora Notarial
+
+     La calculadora notarial es una herramienta de suma importancia para los notarios,
+usada para el común de loa notarios, la foliación se usa para enumerar las hojas, el
+borrador limpia los documentos, la ventana actual muestra la ventana donde está
+trabajando actualmente.
+
+
+
+
+Esta Calculadora tiene múltiples opciones, desde el cálculo de los impuestos a la renta,
+impuestos de Alcabala, cálculo del IGV, además tiene opciones de conversión de
+números a letras.
+8. PDT Notarios
+
+
+
+
+Para la exportación del PDT, está configurada de acuerdo a los estándares que usa el PDT
+NOTARIOS v.3.3 SUNAT, publicado el 13 de marzo del 2013.
+
+
+
+                                                                                    109
+
+                               Page 110 of 117
+9. Unidad de Inteligencia Financiera
+
+
+
+
+En la Unidad de inteligencia Financiera esta los anexos a usarse, los reportes que requiere.
+
+
+10. Enlaces de Interés
+
+
+
+
+En los enlaces de interés se encuentran todas las entidades importantes que usa e forma
+consecutiva como son LA SUNAT, Ministerio de Economía y Finanzas, portal de
+consulta de índice de corrección monetaria, Banco de la nación, Sistema Roser.
+
+
+
+
+                                       ANEXO 8
+
+                                                                                        110
+
+                                 Page 111 of 117
+                                     CODIGO FUENTE
+
+<?php
+class ModelOtorganteOtorgante extends Model {
+public function getOtorgante($nombreotorgante, $tipo_otg, $notorgante, $tipo_id,
+$persona_id, $resumen, $porcentaje ) {
+        if($tipo_id=='1'){
+        $query = $this->db->query("SELECT * FROM persona WHERE persona_id =
+        '" . (int)$persona_id . "' ");
+        if ($query->num_rows) {
+                return array(
+                'tipo_id'                       => $tipo_id,
+                'persona_id'                           => $query->row['persona_id'],
+                'rucp'                          => $query->row['rucp'],
+                'tipodocumento'                 => $query->row['tipodocumento'],
+                'documento'                            => $query->row['documento'],
+                'primernombre'                         => $query->row['primernombre'],
+                'segundonombre'            => $query->row['segundonombre'],
+                'primerapellido'         => $query->row['primerapellido'],
+                'segundoapellido'         => $query->row['segundoapellido'],
+                'nacionalidad'           => $query->row['nacionalidad'],
+                'domicilio'              => $query->row['domicilio'],
+                'ocupacion'              => $query->row['ocupacion'],
+                'telefono'               => $query->row['telefono'],
+                'estadocivil'            => $query->row['estadocivil'],
+                'sexo'                   => $query->row['sexo'],
+                'ubigeo'                        => $query->row['ubigeo'],
+                'fechanacimiento'                              => $query-
+>row['fechanacimiento'],
+                'lugarnacimiento'                              => $query-
+>row['lugarnacimiento'],
+                conyugue'                              => $query->row['conyugue'],
+                'telefono'                      => $query->row['telefono'],
+                'email'                         => $query->row['email'],
+
+
+                                                                                       111
+
+                                    Page 112 of 117
+                'empresa'                                      => $query->row['empresa'],
+                'sujetouif'                                    => $query->row['sujetouif'],
+                'oficialuif'                                   => $query->row['oficialuif'],
+                'origen'                              => $query->row['origen'],
+                'personaj_id'                         => '',
+                'ruc'                                          => '',
+                'razonsocial'                         => '',
+                'nombresucesion'                      => '',
+                'resumen'                                      => $resumen,
+                'tipo_otg'                                     => $tipo_otg,
+                'notorgante'                          => $notorgante,
+                'porcentaje'                          => $porcentaje,
+                'nombreotorgante'                     => $nombreotorgante,
+                );
+                } else {
+                           return false;
+                }
+        }
+        if($tipo_id=='2'){
+                $query = $this->db->query("SELECT * FROM personaj WHERE
+personaj_id = '" . (int)$persona_id . "' ");//
+                if ($query->num_rows) {
+                return array(
+                'tipo_id'                             => $tipo_id,
+                'persona_id'                                   => $query->row['personaj_id'],
+                'tipodocumento'                       => $query->row['tipodocumento'],
+                'documento'                                    => $query->row['documento'],
+                'rucp'                                => '',
+                'primernombre'                                 => '',
+                'segundonombre'               => '',
+                'primerapellido'           => '',
+                'segundoapellido'            => '',
+                'nacionalidad'             => '',
+                'domicilio'                => $query->row['domicilio'],
+
+                                                                                                112
+
+                                     Page 113 of 117
+                'ocupacion'               => '',
+                'telefono'                => $query->row['telefono'],
+                'estadocivil'             => '',
+                'sexo'                    => '',
+                'ubigeo'                              => '',
+                'personaj_id'                         => '',
+                'ruc'                                          => $query->row['ruc'],
+                'razonsocial'                         => $query->row['razonsocial'],
+                'nombresucesion'                      => '',
+                'resumen'                                      => $resumen,
+                'tipo_otg'                                     => $tipo_otg,
+                'notorgante'                          => $notorgante,
+                'porcentaje'                          => $porcentaje,
+                'nombreotorgante'                     => $nombreotorgante,
+        );
+                         } else {
+                                   return false;
+                         }
+        }
+         if($tipo_id=='3'){
+        $query = $this->db->query("SELECT * FROM personas WHERE persona_id =
+'" . (int)$persona_id . "' ");//
+                if ($query->num_rows) {
+                return array(
+                'tipo_id'                             => $tipo_id,
+                'persona_id'                                   => $query->row['persona_id'],
+                'tipodocumento'                       => $query->row['tipodocumento'],
+                'documento'                                    => $query->row['documento'],
+                'rucp'                                => '',
+                'primernombre'                                 => '',
+                'segundonombre'               => '',
+                'primerapellido'            => '',
+                'segundoapellido'            => '',
+                'nacionalidad'             => '',
+
+                                                                                               113
+
+                                     Page 114 of 117
+               'domicilio'             => '',
+               'ocupacion'             => '',
+               'telefono'              => '',
+               'estadocivil'           => '',
+               'sexo'                  => '',
+               'ubigeo'                         => '',
+               'personaj_id'                    => '',
+               'ruc'                                     => '',
+               'razonsocial'                    => '',
+               'nombresucesion'                 => $query->row['nombresucesion'],
+               'resumen'                                 => $resumen,
+               'tipo_otg'                                => $tipo_otg,
+               'notorgante'                     => $notorgante,
+               'porcentaje'                     => $porcentaje,
+               'nombreotorgante'                => $nombreotorgante,
+       );
+       } else {
+               return false;
+       }
+       }
+               }
+public function getActoOtorgante($pk1, $pk2, $pk3, $pk4, $pk5, $pk6, $pk7,
+$notorgante ) {
+               $sql = "SELECT *";
+               $sql .= " FROM otorgante oto ";
+               $sql .= " WHERE oto.notario = '" . $pk1 . "' AND oto.anio = '" . $pk2 . "'
+AND oto.acto = '" . $pk3 . "' AND oto.indice = '" . $pk4 . "' AND oto.fecha = '" . $pk5
+. "' AND oto.ordenservicio = '" . $pk6 . "' AND oto.usuario = '" . $pk7 . "' AND
+oto.notorgante = '" . $notorgante . "' ";
+               $queryPre = $this->db->query($sql);
+               $tipopersona = $queryPre->row['tipo_id'];
+
+
+               if($tipopersona == 1 ){ //persona natural
+                        $sql = "SELECT *";
+
+                                                                                      114
+
+                                  Page 115 of 117
+                       $sql .= " FROM otorgante oto ";
+                       $sql .= " LEFT JOIN persona pn ON ( oto.persona_id =
+pn.persona_id )";
+                       $sql .= " WHERE oto.notario = '" . $pk1 . "' AND oto.anio = '" .
+$pk2 . "' AND oto.acto = '" . $pk3 . "' AND oto.indice = '" . $pk4 . "' AND oto.fecha =
+'" . $pk5 . "' AND oto.ordenservicio = '" . $pk6 . "' AND oto.usuario = '" . $pk7 . "' AND
+oto.notorgante = '" . $notorgante . "' ";
+                       $query = $this->db->query($sql);
+               }
+               if($tipopersona == 2 ){ //persona juridica
+                       $sql = "SELECT *";
+                       $sql .= " FROM otorgante oto ";
+                       $sql .= " LEFT JOIN personaj pj ON ( oto.persona_id =
+pj.personaj_id )";
+                       $sql .= " WHERE oto.notario = '" . $pk1 . "' AND oto.anio = '" .
+$pk2 . "' AND oto.acto = '" . $pk3 . "' AND oto.indice = '" . $pk4 . "' AND oto.fecha =
+'" . $pk5 . "' AND oto.ordenservicio = '" . $pk6 . "' AND oto.usuario = '" . $pk7 . "' AND
+oto.notorgante = '" . $notorgante . "' ";
+                       $query = $this->db->query($sql);
+               }
+               if($tipopersona == 3 ){ //sucesion indivisa
+                       $sql = "SELECT *";
+                       $sql .= " FROM otorgante oto ";
+                       $sql .= " LEFT JOIN personas ps ON ( oto.persona_id =
+ps.persona_id )";
+                       $sql .= " WHERE oto.notario = '" . $pk1 . "' AND oto.anio = '" .
+$pk2 . "' AND oto.acto = '" . $pk3 . "' AND oto.indice = '" . $pk4 . "' AND oto.fecha =
+'" . $pk5 . "' AND oto.ordenservicio = '" . $pk6 . "' AND oto.usuario = '" . $pk7 . "' AND
+oto.notorgante = '" . $notorgante . "' ";
+                       $query = $this->db->query($sql);
+               }
+
+
+               return $query->row;
+       }
+
+                                                                                      115
+
+                                  Page 116 of 117
+public function getOtorgantesTodo($pk1, $pk2, $pk3, $pk4, $pk5, $pk6, $pk7 ) {
+                $product_data = array();
+                $query = $this->db->query("SELECT * FROM otorgante WHERE
+notario = '" . $pk1 . "' AND anio = '" . $pk2 . "' AND acto = '" . $pk3 . "' AND indice =
+'" . $pk4 . "' AND fecha = '" . $pk5 . "' AND ordenservicio = '" . $pk6 . "' AND usuario
+= '" . $pk7 . "' ");
+                foreach ($query->rows as $result) {
+                $queryOtor = $this->db->query("SELECT * FROM form_tipootorgante
+WHERE tipo_otg = '".$result['tipo_otg']."' ");
+                $nombreotorgante = $queryOtor->row['nombre'] ;
+                $product_data[$result['persona_id']] = $this-
+>getOtorgante($nombreotorgante, $result['tipo_otg'], $result['notorgante'],
+$result['tipo_id'], $result['persona_id'], $result['resumen'], $result['porcentaje'] );
+                }
+                       return $product_data;
+}
+
+
+
+
+                                                                                          116
+
+                                  Page 117 of 117
+

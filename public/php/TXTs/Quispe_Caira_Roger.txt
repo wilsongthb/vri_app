@@ -1,0 +1,3802 @@
+  UNIVERSIDAD NACIONAL DEL ALTIPLANO - PUNO
+
+ FACULTAD DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
+
+  ESCUELA PROFESIONAL DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
+
+
+
+
+                           TESIS
+INFLUENCIA DEL AULA VIRTUAL EN EL RENDIMIENTO ACADÉMICO DE
+LOS ESTUDIANTES DEL INSTITUTO SUPERIOR TECNOLÓGICO PRIVADO
+                    DEL ALTIPLANO – 2014.
+
+
+
+                      PRESENTADA POR:
+
+                  Bach. ROGER QUISPE CAIRA
+
+           PARA OPTAR EL TÍTULO PROFESIONAL DE:
+
+      INGENIERO ESTADÍSTICO E INFORMÁTICO
+
+                    PUNO       –    PERÚ
+
+                             2015
+ÁREA: Estadística
+TEMA: Estadística inferencial
+                        DEDICATORIAS
+
+
+
+
+A la vida, por permitirnos llegar
+a este momento tan especial.
+Por los triunfos y los momentos
+difíciles que me ha enseñado a
+valorarlo cada día más, A mi
+madre Julia Caira Huanca
+(Q.E.P.D Y Q.D.D.G), por ser la
+persona       que      me      ha
+acompañado durante todo mi
+trayecto estudiantil, quien con
+sus     consejos    ha    sabido
+guiarme para culminar mi
+Carrera Profesional.
+
+
+
+
+                                    A mis hermanos Victor,
+                                    Gladys y Yeny por ser el
+                                    soporte emocional del día a
+                                    día. A mi hija Yirha y a su
+                                    Madre Yudy, por su cariño y
+                                    aliento para la realización
+                                    del presente trabajo.
+
+
+
+
+                                                   Roger.
+
+
+                                                                  i
+                                                  ÍNDICE
+                                                                                                           Pág.
+                                                CAPITULO I
+
+                                     PLAN DE INVESTIGACIÓN
+
+
+1.1. PLANTEAMIENTO DEL PROBLEMA ........................................................ 1
+
+1.2. FORMULACIÓN DEL PROBLEMA............................................................ 3
+
+1.3. JUSTIFICACIÓN DE LA INVESTIGACIÓN ............................................... 3
+1.4. OBJETIVOS DE LA INVESTIGACIÓN ...................................................... 4
+
+       1.4.1 OBJETIVO GENERAL ....................................................................... 4
+
+       1.4.2 OBJETIVOS ESPECÍFICOS ............................................................. 4
+
+1.5. HIPÓTESIS DE LA INVESTIGACIÓN ....................................................... 5
+
+       1.5.1 HIPÓTESIS GENERAL ..................................................................... 5
+
+       1.5.2 HIPÓTESIS ESPECÍFICA................................................................ 5
+
+                                               CAPITULO II
+
+                                           MARCO TEÓRICO
+
+
+2.1. ANTECEDENTES DE LA INVESTIGACIÓN ............................................... 6
+
+2.2. BASE TEÓRICA .......................................................................................... 8
+                                               CAPÍTULO III
+
+                                     MATERIALES Y MÉTODOS
+
+3.1. METODOLOGÍA Y PROCEDIMIENTO ..................................................... 37
+
+       3.1.1.      METODOLOGÍA ........................................................................ 37
+
+       3.1.2.      MÉTODO DE RECOPILACIÓN DE DATOS ............................. 39
+
+       3.1.3.      MÉTODOS DE TRATAMIENTOS DE DATOS .......................... 40
+
+3.2. MATERIAL EXPERIMENTAL .................................................................... 41
+
+
+                                                                                                                 ii
+       3.2.1.       SOFTWARE .............................................................................. 42
+
+       3.2.2.       HARDWARE ............................................................................. 42
+
+                                               CAPÍTULO IV
+
+                                   RESULTADOS Y DISCUSIÓN
+
+4.1 RESULTADOS Y DISCUSIÓN ................................................................. 43
+
+       4.1.1 ANÁLISIS ....................................................................................... 43
+
+
+BIBLIOGRAFÍA ............................................................................................... 69
+
+
+
+
+                                                                                                                   iii
+                                    RESUMEN
+
+Las investigaciones establecen relaciones entre causa y efecto, entonces como
+
+elevamos del rendimiento académico de los estudiantes, mediante actividades y
+
+recursos empleados en el aula virtual durante el desarrollo de las sesiones del curso
+
+de matemática en la especialidad de contabilidad, los estudiantes al utilizar estos
+
+recursos y actividades propias del aula virtual elevaron su rendimiento académico,
+
+ya que el aula virtual ayuda tanto a docentes como estudiantes en la enseñanza
+
+aprendizaje.
+
+
+Durante la aplicación de la investigación que se realizó en el Instituto Superior
+
+Tecnológico Del Altiplano de la ciudad de Puno en el cual se utilizó los recursos y
+
+actividades propias del aula virtual el cual permite a los estudiantes del grupo
+
+control y experimental a participar activamente, desarrollando actitudes positivas,
+
+tal como se confirma con los resultados obtenidos en la prueba estadística de la
+
+diferencia de medias.
+
+Al finalizar el análisis de los resultados; se llega a la siguiente conclusión: El aula
+
+virtual eleva considerablemente el rendimiento académico de los estudiantes; ya
+
+que se ha obtenido resultados favorables en comparación de los métodos
+
+tradicionales, como se demuestra en el diseño experimental donde: Fc= 37.047, y
+
+la prueba de hipótesis de la diferencia de medias donde: Zc=4.19 > Zt=1.645, lo cual
+
+nos indica que aceptamos la Ha, y rechazamos H0, con 95% de confianza y 5% de
+
+error. El cual nos dice que existe diferencia estadística significativa entre el grupo
+
+control y experimental mediante los recursos y actividades realizadas en el aula
+
+virtual.
+
+Palabras claves: Rendimiento Académico, Experimento, Aula, Actividades, Recursos.
+
+
+                                                                                     iv
+                                    ABSTRACT
+
+
+Investigations establish relationships between cause and effect, then as we raise
+
+the academic performance of students through activities and resources used in the
+
+virtual classroom for the development of mathematics course sessions specializing
+
+in accounting, students using these resources and activities of the virtual classroom
+
+raised their academic performance because the virtual classroom helps both
+
+teachers and students in teaching and learning.
+
+
+During the implementation of the research carried out at the Higher Institute of
+
+Technological Del Altiplano Puno in which resources and activities of the virtual
+
+classroom which allows students to control and experimental group to participate
+
+actively used by developing positive attitudes, as confirmed by the results of the
+
+statistical test of the mean difference.
+
+
+Upon completion of the analysis of the results; we reach the following conclusion:
+
+The virtual classroom significantly raise the academic performance of students; as
+
+it has obtained favorable results compared to traditional methods, as demonstrated
+
+in experimental design where: Fc = 37 047, and the hypothesis test of mean
+
+difference where: Zc = 4.19> Z t = 1.645, which we It indicates that we accept, and
+
+we reject H0 with 95% confidence level and 5% error. Which tells us that there is
+
+statistically significant difference between control and experimental group through
+
+resources and activities in the virtual classroom.
+
+
+Keywords: Academic Performance, Experiment, Classroom, Activities, Resources.
+
+
+
+
+                                                                                   v
+                                 INTRODUCCIÓN
+
+La realización del presente trabajo de investigación en el ámbito educativo es
+
+fundamental dada la constante necesidad de actualización en conocimientos y el
+
+impacto de nuevas tecnologías, los cuales obligan al docente a renovar sus
+
+conocimientos incorporando las nuevas herramientas interactivas a la práctica
+
+pedagógica.
+
+Motivo por el cual cuyo propósito principal es innovar la enseñanza tradicional e
+
+incorporar el aprendizaje interactivo de los estudiantes, utilizando el aula virtual.
+
+El presente trabajo de investigación está estructurado en cuatro capítulos:
+
+CAPÍTULO I.- se refiere al planteamiento del problema de investigación, formando
+
+parte de ello la descripción, definición, limitaciones, justificación, los objetivos de la
+
+investigación y las hipótesis de investigación.
+
+CAPÍTULO II.- corresponde al marco teórico, que comprende los antecedentes de
+
+la investigación, el sustento teórico, y la operacionalización de variables.
+
+CAPÍTULO III.- referido al diseño metodológico de la investigación, tipo y diseño de
+
+investigación, población y muestra, material experimental e instrumentos de
+
+recolección de datos y el diseño estadístico que se utiliza para la prueba de
+
+hipótesis.
+
+CAPÍTULO IV.- contiene los resultados de la presente investigación, los cuales han
+
+sido obtenidos en la prueba de entrada y la prueba de salida del aula virtual como
+
+recurso didáctico en el aprendizaje de la matemática.
+
+Finalmente se presentan las conclusiones, sugerencias, bibliografías consultadas
+
+y los anexos correspondientes.
+
+
+
+                                                                                        vi
+                              CAPITULO I
+
+                      PLAN DE INVESTIGACIÓN
+
+1.1. PLANTEAMIENTO DEL PROBLEMA
+
+
+   Las Tecnologías de Información y Comunicación (TIC) han traído consigo
+
+   grandes cambios en las actividades sociales, como en los medios de
+
+   comunicación, las formas de relación, la distribución del tiempo, los modos
+
+   de formación, gracias a la tecnología han aparecido nuevas áreas de saber,
+
+   algunas como, computación, informática y la informática educativa.
+
+
+   Ante esto, es papel fundamental del estado realizar reformas educativas para
+
+   obtener resultados positivos en nuestro país, donde debe orientarse a resolver
+
+   los problemas estructurales de la educación entre los que se destacan la baja
+
+   calidad y la desigualdad educativa, la descentralización educativa y la
+
+   revaloración del rol del docente; se deben resolver estos problemas para
+
+   poder iniciar un cambio total del sistema educativo y conseguir el progreso
+
+   como país y la inserción a un mundo globalizado.
+
+
+   Los estudiantes necesitan una herramienta adicional para lograr un mejor
+
+   rendimiento académico en todas las áreas que establece la curricular
+
+   educativa. El impacto de herramientas adicionales sería favorable tanto para
+
+   el estudiante en nivel superior como para el docente y acorde cada vez más
+
+   la brecha educativa a nivel de américa latina, ya que actualmente estamos en
+
+
+                                                                               1
+los últimos lugares en lo que a rendimiento académico se refiere; siendo Cuba
+
+uno de los primeros países que lleva la educación de manera distinta.
+
+
+Ahora bien, la actual sociedad de la información o sociedad del conocimiento,
+
+caracterizada por el uso masivo de las nuevas tecnologías de la información
+
+y la comunicación en todas las actividades de relaciones humanas, exige de
+
+todos, hombres y mujeres desarrollar nuevas competencias personales,
+
+sociales y profesionales para poder hacer frente a los continuos cambios que
+
+imponen en todos los ámbitos los rápidos avances de la tecnología. Por
+
+consiguiente, desde la misión de tecnológico “Del Altiplano” se nos presenta
+
+el reto de reducir esta desigualdad tecnológica.
+
+
+Es así que las aulas virtuales para la educación toman una importancia radical,
+
+ya que será el espacio donde se concentrara el proceso de aprendizaje, más
+
+allá del modo en que se organice la educación: el aula virtual será el centro
+
+de la clase, ya sea esta semi presencial o virtual, sincrónica o asincrónica. Por
+
+ello, es importante definir la influencia que se espera en los estudiantes al
+
+hacer uso de las aulas virtuales como herramienta de estudio y que puedan
+
+lograr en su aprendizaje un nuevo medio para permitir que esa experiencia
+
+sea productiva en su educación superior como a lo largo de su vida. Ya que
+
+las aulas virtuales no solo se usan en instituciones educativas sino que ya
+
+forma parte de la educación en distintos universidades que están a la
+
+vanguardia de una educación de calidad y globalizada que rompa las fronteras
+
+de un salón de clases.
+
+
+En Puno, las aulas virtuales no han sido implementadas de manera uniforme
+
+en los centro de educación superior como herramienta de apoyo en el
+
+                                                                               2
+    aprendizaje de manera interactiva entre docente y estudiantes mediante el
+
+    internet, son pocas las instituciones de nivel superior que han implementado
+
+    aulas virtuales en sus laboratorios de computo dado que los docentes no están
+
+    familiarizados con esta nueva modalidad de enseñanza - aprendizaje,
+
+    actualmente gran parte de los profesores cuentan con varios años de
+
+    experiencia y su metodología es la tradicional viendo así al internet como algo
+
+    nuevo y algunos reacios a aprender ya a estas altura nuevas formas de
+
+    enseñanza. Tenemos que comprender que las aulas virtuales llegaran a ser
+
+    una herramienta muy importante en la educación de nuestro docentes y
+
+    estudiantes, solo así veremos el avance del rendimiento académico de
+
+    nuestra institución en las cuales se haga uso de las aulas virtuales el cual
+
+    estará elaborado en una plataforma virtual en Online integrado con una base
+
+    de datos en Mysql así como la utilización de los diseños experimentales y el
+
+    Anva para poder probar la influencia en el estudiante.
+
+
+1.2. FORMULACIÓN DEL PROBLEMA
+
+
+    ¿Cómo influye el uso del aula virtual en el rendimiento académico de los
+
+    Estudiantes Instituto Superior Tecnológico Privado “del Altiplano” Puno –
+
+    2014?
+
+
+1.3. JUSTIFICACIÓN DE LA INVESTIGACIÓN
+
+
+    El aula virtual es una ayuda en cuanto a aprendizaje para los estudiantes del
+
+    Instituto Superior Tecnológico “Del Altiplano” de Puno en aspectos
+
+    académicos.
+
+
+
+
+                                                                                 3
+    El docente cambia el método de enseñanza en el desarrollo de sus cursos, ya
+
+    que la implementación del aula virtual proporciona un entorno de aprendizaje
+
+    – enseñanza a los estudiantes del Instituto Superior Tecnológico “Del
+
+    Altiplano” de Puno.
+
+
+    El aula virtual convierte al docente tradicional como docente virtual en una
+
+    opción real del desarrollo del curso y ayuda al estudiante para competir en el
+
+    mercado de la manera mucho más ágil, rápida e eficiente; con mayor facilidad
+
+    y es un beneficio enorme en el campo de la informática, ya que ahora estamos
+
+    frente a la globalización, hacer uso de las tecnologías de la información y
+
+    comunicación que beneficia a los dicentes y estudiantes del Instituto Superior
+
+    Tecnológico “Del Altiplano” de Puno.
+
+
+    El presente trabajo de investigación, benefició a toda la institución en donde
+
+    se ejecutó el proyecto así como a toda la región Puno, por lo que la
+
+    investigación se desarrollará lo más detallado posible.
+
+
+1.4. OBJETIVOS DE LA INVESTIGACIÓN
+
+
+    1.4.1 OBJETIVO GENERAL
+
+
+            Determinar la influencia del uso del aula virtual en el rendimiento
+
+            académico de los estudiantes del Instituto Superior Tecnológico
+
+            Privado “DEL ALTIPLANO” Puno – 2014
+
+
+    1.4.2 OBJETIVOS ESPECÍFICOS
+
+
+            Determinar la influencia del uso del aula virtual en el rendimiento
+
+             académico mediante los recursos de evaluación de los estudiantes
+
+
+                                                                                4
+            del Instituto Superior Tecnológico Privado “DEL ALTIPLANO” Puno –
+
+            2014
+
+           Determinar la influencia del uso del aula virtual en el rendimiento
+
+            académico mediante las actividades de evaluación de los estudiantes
+
+            del Instituto Superior Tecnológico Privado “DEL ALTIPLANO” Puno –
+
+            2014
+
+
+1.5. HIPÓTESIS DE LA INVESTIGACIÓN
+
+
+    1.5.1 HIPÓTESIS GENERAL
+
+
+           El aula virtual eleva el rendimiento académico de los estudiantes del
+
+           Instituto Superior Tecnológico Privado “DEL ALTIPLANO” Puno - 2014.
+
+
+    1.5.2 HIPÓTESIS ESPECÍFICA
+
+
+           El uso de los recursos influye en el rendimiento académico de los
+
+            estudiantes del Instituto Superior Tecnológico Privado “DEL
+
+            ALTIPLANO” Puno - 2014
+
+
+           El uso de actividades influye en el rendimiento académico de los
+
+            estudiantes del Instituto Superior Tecnológico Privado “DEL
+
+            ALTIPLANO” Puno - 2014
+
+
+
+
+                                                                              5
+                                 CAPÍTULO II
+
+                             MARCO TEÓRICO
+
+2.1. ANTECEDENTES DE LA INVESTIGACIÓN
+
+
+     KATHERINE C. OLIER S. (2012). “Efectos de un programa de educación
+
+    virtual sobre los conocimientos de los docentes acerca el uso de las nuevas
+
+    tecnologías de la información y comunicación con fines educativos”. (Tesis de
+
+    Grado) Universidad Del Norte, Barranquilla. Programa De Psicología Cuyo
+
+    objetivo general fue: Determinar los efectos de un programa de educación
+
+    virtual sobre los conocimientos de los docentes acerca el uso de las nuevas
+
+    tecnologías de la información y comunicación con fines educativos.
+
+
+    Llegando a la siguiente conclusión; El programa de educación virtual
+
+    implementado logró incrementar los conocimientos de los docentes que
+
+    participaron en la investigación mostrando diferencias significativas entre la
+
+    aplicación de la prueba antes y después.
+
+
+     CONDORI MAMANI L. (2009). “Aula virtual para el aprendizaje en los
+
+    estudiantes del Instituto Superior Tecnológico Pedro Vilcapaza De Azángaro
+
+    2008”. (Tesis de Grado). Universidad Nacional del Altiplano Puno, Facultad de
+
+    Ingeniería Estadística e Informática, Escuela Profesional de Ingeniería
+
+    Estadística e Informática.
+
+
+
+
+                                                                                6
+Cuyo objetivo general fue: desarrollar un aula virtual para mejorar el nivel de
+
+enseñanza aprendizaje en los Estudiantes Del Instituto Superior Tecnológico
+
+“Pedro Vilcapaza” de Azángaro - 2009.
+
+
+Llegando a la siguiente conclusión, se mejoró el nivel de aprendizaje de los
+
+estudiantes del Instituto Superior Tecnológico “Pedro Vilcapaza” De Azángaro
+
+– 2009, según las pruebas estadísticas realizadas a los estudiantes del curso
+
+de base de datos, de los cuales el P < 0.05 indicando mayor aceptación
+
+durante el desarrollo de las sesiones de aprendizaje vía aula virtual por lo
+
+tanto se firmó de acuerdo el análisis estadístico.
+
+
+ HINOJOSA MAMANI P. (2010). “Impacto de las aulas virtuales en el
+
+rendimiento académico en el área de comunicación de los alumnos del tercer
+
+año de educación secundaria de la I.ES. N° 45 EMILIO ROMERO PADILLA
+
+DE PUNO – 2009”. (Tesis de Grado) Universidad Nacional del Altiplano Puno,
+
+Facultad de Ingeniería Estadística e Informática, Escuela profesional de
+
+Ingeniería Estadística e Informática.
+
+
+Cuyo objetivo general fue: Evaluar el impacto de las aulas virtuales en el
+
+rendimiento académico del área de comunicación de los alumnos de tercer
+
+año de educación secundaria de la I.E.S. N° 45 EMILIO ROMERO PADILLA
+
+DE PUNO - 2009.
+
+
+Llegando a la siguiente conclusión, El rendimiento académico del área de
+
+comunicación en los alumnos del año de educación secundaria de la I.E.S. N°
+
+45 EMILIO ROMERO PADILLA DE PUNO - 2009. Es superior al grupo
+
+experimental mediante la evaluación de capacidades con 13.65 mientras el
+
+
+
+                                                                             7
+    grupo control es de 11.90, existiendo una diferencia significativa con Zc = 8.86
+
+    con alfa de 0.05.
+
+
+2.2. BASE TEÓRICA
+
+
+    2.2.1 ESTADÍSTICA INFERENCIAL
+
+
+         La inferencia estadística es un proceso por el cual se llega a inferencias
+
+         respecto a una población, en base a resultados que se obtienen de
+
+         muestras tomadas de la población en referencia, Es una de las primeras
+
+         áreas generales de la inferencia estadística, y la segunda son las
+
+         pruebas de hipótesis.
+
+
+         2.2.1.1 ESTIMACIÓN PARAMETROS
+
+
+                 La estimación de uno o varios parámetros poblacionales
+
+                 desconocidos      es     posible    construyendo     funciones   de
+
+                 probabilidad    de     variables   aleatorias   muéstrales,   dichos
+
+                 estimadores garantizaran una aproximación satisfactoria del
+
+                 parámetro poblacional desconocido siempre que cumplan
+
+                 propiedades de: insesgamiento, varianza mínima o máxima
+
+                 concentración de los datos alrededor del parámetro estimado.
+
+
+    2.2.2 MEDIA ARTIMÉTICA
+
+
+         La media aritmética es una medida de tendencia central, es decir es la
+
+         suma de los valores observados de la variable, dividido por el número de
+
+         observaciones, y se puede calcular con datos no agrupados y datos
+
+         agrupados (tabulados).
+
+
+                                                                                   8
+     MEDIA ARITMÉTICA CON DATOS NO AGRUPADOS
+
+
+     La media aritmética o media (o promedio) de una muestra X1, X2
+
+     X3,...,Xn de tamaño «n» de una variable o característica «X», se denota
+
+     por «M(x)» o x es dado por: Parámetro (Población).
+
+
+
+
+2.2.3 VARIANZA
+
+
+    La varianza, es una medida que cuantifica el grado de dispersión o de
+
+    variación de los valores de una variable cuantitativa con respecto a su
+
+    media aritmética. Si los valores tienden a concentrarse alrededor de su
+
+    media, la varianza será pequeña, en cambio si los valores tienden a
+
+    distribuirse lejos de la media, la varianza será grande.
+
+
+    VARIANZA POBLACIONAL
+
+
+    La varianza o variancia de una población finita de N elementos X1,
+
+    X2,...,Xn, se define como la media aritmética del cuadrado de las
+
+    desviaciones de las observaciones con respecto a su media m , y está
+
+    denotado por S2 .
+
+
+
+
+                                                                          9
+    VARIANZA MUESTRAL
+
+
+    La varianza de una muestra X1,X2,..., Xn, de una variable o característica
+
+    X ó en forma abreviada V(X), se define como la media del cuadrado de
+
+    las desviaciones de las observaciones con respecto de la media
+
+    aritmética, y se denota por 𝑆𝑥2 .
+
+
+                                           ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                            𝑉(𝑥) = 𝑆𝑥2 =
+                                                𝑛−1
+
+
+2.2.4 DESVIACIÓN ESTÁNDAR ó DESVIACIÓN TÍPICA(s ó S)
+
+
+    La desviación estándar, al igual que la varianza, es no negativa, puesto
+
+    que es la raíz cuadrada positiva de la varianza. A mayor dispersión le
+
+    corresponderá una mayor desviación estándar.
+
+
+    En general, los estadígrafos de dispersión, se usa para comparar dos o
+
+    más distribuciones o poblaciones con variables de la misma
+
+    característica. A mayor dispersión o heterogeneidad entre los valores o
+
+    elementos de una población, corresponderá un valor mayor para el
+
+    estadígrafo de dispersión.
+
+    La desviación estándar o desviación típica «S» de las observaciones
+
+    X1,X2,…Xn de una característica X, está definido como la raíz cuadrada
+
+    positiva de la varianza.
+
+
+
+
+                                                                           10
+2.2.5 ERROR ESTÁNDAR (E.S.)
+
+
+    Este estadístico de dispersión ó desviación estándar de promedios, está
+
+    dado por el cociente que resulta de dividir la desviación estándar entre
+
+    la raíz cuadrada del tamaño de la muestra (n).
+
+
+
+
+2.2.6 LA DISTRIBUCIÓN “F” (Fisher Snedecor, 1924)
+
+
+    Definición: Una variable aleatoria X tiene una distribución “F” con v1
+
+    grados de libertad en el numerador y v2 grados de libertad en el
+
+    denominador, y está distribuido como X~F(v1,v2), si su función de
+
+    densidad de probabilidad está dado por:
+
+
+
+
+                                                                         11
+2.2.7 PRUEBA DE HIPÓTESIS
+
+
+    Se denomina hipótesis estadística a cualquier afirmación o conjetura que
+
+    se hace acerca de la distribución de una o más poblaciones. La
+
+    afirmación o conjetura puede referirse bien a la forma o tipo de
+
+    distribución de probabilidad de la población o al valor o valores de uno o
+
+    más parámetro de la distribución conocida.
+
+
+    HIPOTESIS: NULA Y ALTERNA
+
+
+    Hipótesis nula (HO). Es la hipótesis que es aceptada provisionalmente
+
+    como verdadera y cuya validez será sometida a comprobación
+
+    experimental, algunos autores consideran como la hipótesis de ninguna
+
+    diferencia.
+
+
+    Hipótesis Alterna (Ha). Es por lo general la hipótesis que contradice a
+
+    la Ho: en algunos casos se representa por H1: a la hipótesis que se
+
+    acepta en caso de que la hipótesis nula H0: sea rechazada, a esta
+
+    hipótesis se llama como hipótesis de investigación.
+
+
+
+
+                                                                           12
+    Prueba de una hipótesis. Para tomar decisiones estadísticas, se
+
+    requieren de las dos hipótesis: La hipótesis nula y la hipótesis alternativa
+
+    referida a un parámetro. La prueba de una hipótesis estadística es un
+
+    proceso que nos conduce a tomar la decisión de aceptar o rechazar la
+
+    hipótesis nula H0, en contraposición de la hipótesis alternativa Ha. La
+
+    aceptación de una hipótesis significa que los datos de la muestra no
+
+    proporcionan evidencia suficiente para refutarla, en cambio el rechazo
+
+    de la hipótesis significa que los datos de la muestra lo refutan.
+
+
+    Tipos de prueba de hipótesis. El tipo de prueba depende básicamente
+
+    de la hipótesis alternativa Ha: Las hipótesis se plantearán de la siguiente
+
+    forma:
+
+
+    Prueba de una cola, se denomina a toda prueba de hipótesis donde la
+
+    alternativa Ha, es unilateral. Si la alternativa Ha: es bilateral, la prueba
+
+    se denomina prueba de dos colas.
+
+
+       CUADRO Nº 01. DECISIONES EN LA PRUEBA DE HIPÓTESIS
+
+
+
+
+2.2.8 TÓPICOS BÁSICOS DE LOS DISEÑOS EXPERIMENTALES
+
+
+    Los tópicos tienen la finalidad de familiarizar al interesado con el lenguaje
+
+    de los diseños de experimentos y otros sirven para reforzar el
+
+
+
+                                                                              13
+entendimiento de la lógica de cómo deben ser aplicados a los casos
+
+reales.
+
+
+2.2.8.1 EXPERIMENTO
+
+
+          Un experimento son un conjunto de acciones que se llevan a
+
+          cabo de acuerdo a un plan establecido a fin de lograr nuevo
+
+          conocimientos, verificar, confirmar u otro objetivo de interés y en
+
+          el cual el investigador introduce debidamente algunos cambios
+
+          en el proceso para obtener medidas que sirvan para evaluar los
+
+          efectos de los cambios introducidos.
+
+
+2.2.8.2 OBJETIVOS DE UN EXPERIMENTO
+
+
+          El objetivo de un experimento es formulado con el fin de lograr
+
+          un propósito como son por ejemplo los siguientes objetivos:
+
+
+           Determinar el método de enseñanza que mejore la calificación
+
+             de aprendizaje.
+
+
+           Obtener la dieta que incremente la producción de leche.
+
+
+           Determinar el medicamento que mejor reduzca la ansiedad.
+
+
+
+
+                                                                          14
+2.2.8.3 DISEÑO DE UN EXPERIMENTO
+
+
+     El concepto elemental de diseño de un experimento significa
+
+     planear un experimento, de modo que se reúna la información
+
+     pertinente al problema bajo investigación; muy a menudo se
+
+     coleccionan datos que pueden tener muy poco o ningún valor en
+
+     cualquier intento en la solución del problema.
+
+     El diseño de un experimento se considera como la secuencia
+
+     completa de pasos, tomados de antemano para asegurar que los
+
+     datos apropiados se obtendrán, de modo que permitan un análisis
+
+     objetivo que conduzca a deducciones válidas con respecto al
+
+     problema establecido.
+
+
+     El desarrollo de un experimento en campo ó laboratorio requiere
+
+     tomar en cuenta, los diferentes factores que influyen en la
+
+     producción agrícola, así como dos aspectos fundamentales que
+
+     serán considerados frecuentemente, a saber:
+
+
+     a) El planteamiento del experimento (realizado a priori).
+
+     b) La    evaluación     e   interpretación   de   los   resultados
+
+         experimentales (realizados a posteriori).
+
+
+     Por otra parte es necesario mencionar la relación del diseño
+
+     experimental con el método científico. Mencionaremos que el
+
+     diseño experimental, es un procedimiento de la investigación
+
+     científica y ésta puede definirse en forma amplia, como el estudio
+
+     sistemático de un sujeto con el fin de descubrir nuevos hechos ó
+
+     principios y está directamente vinculada con el método científico.
+
+                                                                    15
+     El método científico aunque difícil de definir con precisión,
+
+     podemos considerarlo como un procedimiento para descubrir las
+
+     condiciones   en   que    se   presentan    sucesos    específicos,
+
+     caracterizado generalmente por ser tentativo, verificable, de
+
+     razonamiento riguroso y observación empírica.
+
+
+     En términos concretos, la investigación científica, consiste en la
+
+     búsqueda permanente de la verdad, mediante métodos objetivos,
+
+     adecuados y precisos. La experimentación es un método
+
+     científico de investigación que consiste en hacer operaciones y
+
+     prácticas destinadas a demostrar, comprobar o descubrir
+
+     fenómenos o principios básicos. Un experimento prueba con la
+
+     práctica una hipótesis formulada, por ejemplo: ensayar el
+
+     rendimiento de seis variedades de caña de azúcar.
+
+
+2.2.8.4 EXPERIMENTOS BIEN PLANEADOS
+
+
+      Deben reunir las siguientes características:
+
+      a) Simplicidad: Esto se refiere a la selección de tratamientos y la
+
+      disposición experimental que deberán hacerse del modo más
+
+      simple posible y deberán ser consistentes con los objetivos del
+
+      experimento.
+
+
+      b) Grado de precisión: deberá haber una gran probabilidad de
+
+      que el experimento sea capaz de medir diferencias de
+
+      tratamientos con los grados de precisión deseados por el
+
+      experimentador. Esto implica un diseño apropiado y un número
+
+      suficiente de repeticiones.
+                                                                      16
+                c) Ausencia de error sistemático: Debe planearse el experimento
+
+                para asegurar que las unidades experimentales que reciban un
+
+                tratamiento no diferirán    sistemáticamente de aquellas que
+
+                reciben otro tratamiento, de modo que pueda obtenerse una
+
+                estimación imparcial a cada efecto de tratamiento.
+
+
+                d) Rango de validez de las conclusiones: Las conclusiones
+
+                deben tener un rango de validez tan amplio como sea posible.
+
+                Un experimento replicado en tiempo y espacio incrementaría el
+
+                rango de validez de las conclusiones que podrían sacarse del
+
+                mismo. Un conjunto factorial de tratamientos es otro medio para
+
+                incrementar el rango de validez de un experimento. En un
+
+                experimento factorial, los efectos de un factor son evaluados
+
+                bajo niveles variantes de un segundo factor.
+
+
+                e) Cálculo del grado de incertidumbre: En cualquier experimento
+
+                existe siempre algún grado de incertidumbre en cuanto a la
+
+                validez de las conclusiones.
+
+
+2.3 EL DISEÑO EXPERIMENTAL
+
+
+   El diseño experimental es el arreglo de las unidades experimentales utilizado
+
+   para controlar el error experimental, a la vez que acomoda los tratamientos.
+
+
+
+
+                                                                              17
+2.3.1 DISEÑO COMPLETAMENTE AL AZAR (DCA)
+
+
+      Este tipo de diseño es el más sencillo y se origina por la asignación
+
+      aleatoria de tratamientos a un conjunto de unidades experimentales
+
+      previamente determinadas.
+
+      El criterio para que un DCA sea aplicado en un experimento es que las
+
+      unidades experimentales sean lo más homogénea posible, es decir, se
+
+      parte del supuesto que no hay variación en las unidades
+
+      experimentales.
+
+
+      MODELO ESTADÍSTICO:
+
+
+                  𝒀𝒊𝒋 = 𝝁 + 𝝉𝒊 + 𝜺𝒊𝒋               𝒊 = 𝟏, 𝟐, … 𝒕
+                                                   𝒋 = 𝟏, 𝟐, … 𝒓
+    Dónde:
+
+
+    Yij
+           = Observación en la j-esima unidad experimental, sujeta al i-esimo
+
+    tratamiento
+
+     i = Es el efecto del i-esimo tratamiento.
+
+     = Es el efecto de la media general o constante común.
+
+     ij
+           = Efecto verdadero de la j-esima unidad experimental (replica), sujeta
+
+    al i-esimo tratamiento (error experimental)
+
+
+
+
+                                                                              18
+   ESQUEMA DEL DISEÑO
+
+
+                     Cuadro Nº 02. Diseño estadístico
+
+
+
+
+2.3.2 DISEÑO COMPLETAMENTE AL AZAR CON DIFERENTE NÚMERO
+
+   DE REPETICIONES POR TRATAMIENTO (Desbalanceado)
+
+
+   Este tipo de diseño es frecuente encontrar en ganadería, agronomía,
+
+   agrícola, etc. Con diferentes número de observaciones por cada
+
+   tratamiento. Las causas de perdida de la unidad experimental o varias
+
+   unidades experimentales es debido a factores medio ambientales
+
+   (fenómenos aleatorios), por ejemplo pueden ocurrir variaciones
+
+   climáticas,   manejo    inadecuado,     sanidad,   labores   culturales,
+
+   inundaciones, desbordes de ríos, perdida de la información, entre otros
+
+   factores ajenos al experimento, por lo que el diseño convierte con
+
+   diferente número de observaciones por tratamiento, es decir, el diseño
+
+   no es balanceado o no es equilibrado, por lo que el diseño es adecuado
+
+   para contrastar las hipótesis de estudio.
+
+
+
+
+                                                                        19
+    El modelo aditivo lineal es el siguiente:
+
+
+                  𝒀𝒊𝒋 = 𝝁 + 𝝉𝒊 + 𝜺𝒊𝒋                𝒊 = 𝟏, 𝟐, … 𝒕
+                                                    𝒋 = 𝟏, 𝟐, … 𝒓𝒊
+    Dónde:
+
+    Yij
+           = es la variable de la j-esima observación sujeta al i-esimo tratamiento
+     i = Es el efecto del i-esimo tratamiento.
+     = Media general o poblacional.
+
+     ij
+           = Es el error experimental no controlable.
+
+           ESQUEMA DEL DISEÑO
+
+                           Cuadro Nº 03. Diseño estadístico
+
+
+
+
+2.3.3 ANÁLISIS DE VARIANZA
+
+
+    Es una técnica que nos permite descomponer una Fuente de Variación
+
+    Total en sus Componentes atribuibles a Fuentes de Variación conocida.
+
+
+    Diseño Completamente al Azar con igual número de repeticiones por
+
+    tratamiento.
+
+
+
+
+                                                                                20
+                   CUADRO Nº 04. ANVA (FORMULAS)
+
+
+
+
+PROCEDIMIENTO:
+
+a) planteamiento de hipótesis estadístico
+
+Ho: 𝜏𝑖 = 0
+
+H1: 𝜏𝑖 ≠ 0 (al menos unos de los tratamientos es diferente de los otros)
+
+b) Nivel de significancia
+
+ =0,05 %
+
+c) Prueba estadística
+
+         𝐶𝑀𝑡𝑟𝑎𝑡
+  𝐹𝑐 =
+         𝐶𝑀𝑒𝑟𝑟𝑜𝑟
+
+d) Regla de decisión
+            𝑛1
+a. Si 𝐹𝑐 ≤ 𝐹𝑛2,𝛼 no se rechaza la Ho
+
+            𝑛1
+b. Si 𝐹𝑐 > 𝐹𝑛2,0.05 se rechaza la Ho representándose con un (*) lo cual
+
+    significa que la prueba es significativa.
+            𝑛1
+c. Si 𝐹𝑐 ≤ 𝐹𝑛2,0.01 se rechaza la Ho, representándose por dos asteriscos
+
+    (**); lo cual significa que la prueba es altamente significativa.
+
+
+
+
+                                                                        21
+2.3.4 PRUEBA DE HIPÓTESIS DE DOS MEDIAS POBLACIONALES
+
+   INDEPENDIENTES.
+
+
+   Sean X1 y X2 los promedios de dos muestras aleatorias independientes
+
+   de tamaños n1 y n2 seleccionadas de dos poblaciones independientes,
+
+   con medias µ1 y µ2y con varianzas s2 y s2 supuestas conocidas. Si las
+
+   dos poblaciones son normales, entonces las estadísticas X1 y X2 tienen
+
+   distribución normal.
+
+
+    I.Prueba de hipótesis:
+
+
+
+
+   II. Elegir el nivel de significancia: α, los más usuales son: 1%, 5%,
+
+        10% (α=0.01, α= 0.05, α= 0.10), que es fijado por el
+
+        experimentador.
+
+
+   III. La distribución de la probabilidad: elegida para este caso, es la
+
+        distribución normal con función pivotal o función estandarizada es:
+
+
+
+
+                                                                        22
+   IV. Establecer la región de decisión: determinando la región crítica de
+
+         la prueba.
+
+
+
+
+   V. Valor Experimental: Valor experimental. Se obtiene reemplazando
+
+         valores en la función pivotal de paso 3).
+
+
+
+
+    VI. Si: Zc pertenece a RA/ H0; aceptamos H0: y rechazamos la Ha:
+
+
+      Si: Zc pertenece a RR/ H0; rechazamos H0: y aceptamos Ha:
+
+
+   VII. Conclusión: Una vez tomada la decisión de aceptar o rechazar la
+
+       hipótesis, se debe concluir e interpretar en base al problema objeto
+
+       de estudio.
+
+
+2.3.5 PLATAFORMA MOODLE
+
+
+   Moodle es un Ambiente Educativo Virtual, sistema de gestión de cursos,
+
+   de distribución libre, que ayuda a los educadores a crear comunidades
+
+   de aprendizaje en línea. Este tipo de plataformas tecnológicas también
+
+   se conoce como LMS (Learning Management System).
+                                                                        23
+¿QUÉ ES MOODLE?
+
+
+MOODLE ES UN COMPLETO SISTEMA PARA LA CREACIÓN Y
+
+ADMINISTRACIÓN DE CURSOS
+
+
+Moodle es un software diseñado para ayudar a los educadores a crear
+
+cursos en línea de alta calidad y entornos de aprendizaje virtuales. Tales
+
+sistemas de aprendizaje en línea son algunas veces llamados VLEs
+
+(Virtual Learning Environments) o entornos virtuales de aprendizaje.
+
+
+La palabra Moodle originalmente es un acrónimo de Modular Object-
+
+Oriented Dynamic Learning Environment (Entorno de Aprendizaje
+
+Dinámico Orientado a Objetos y Modular).
+
+
+Una de las principales características de Moodle sobre otros sistemas es
+
+que está hecho en base a la pedagogía social constructivista, donde la
+
+comunicación tiene un espacio relevante en el camino de la construcción
+
+del conocimiento. Siendo el objetivo generar una experiencia de
+
+aprendizaje enriquecedora.
+
+
+MOODLE ES CÓDIGO ABIERTO (OPEN SOURCE)
+
+
+Una de las fortalezas de Moodle es que es Software Libre. Esto significa
+
+que su creador inicial, al momento de publicarlo en Internet, decidió
+
+utilizar la Licencia Pública GNU (GPL) y por lo tanto puede ser utilizado
+
+sin pagar “licencias”. La institución que lo instale está autorizada a
+
+copiar, usar y modificar Moodle. En consecuencia, la plataforma Moodle
+
+conforma un sistema permanentemente activo, seguro y en constante
+
+evolución.
+
+
+                                                                       24
+   ¿CUÁLES SON LAS VENTAJAS DE MOODLE?
+
+
+   A continuación, se enumeran las principales ventajas de Moodle para el
+
+   cliente, como la plataforma para gestión de cursos:
+
+
+   Para profesionales IT y sistemas
+
+
+    Sistema en constante evolución y actualización
+
+
+    No hay que preocuparse por "licencias"
+
+
+    Posibilidad de personalizar la plataforma
+
+
+    Creación de diversos perfiles de usuarios (administrador, tutor,
+
+      alumno)
+
+
+    Importación y exportación de datos en formato SCORM
+
+
+   Para educadores y capacitadores
+
+
+    Sistema escalable en cuanto a la cantidad de alumnos
+
+
+    Creación de cursos virtuales y entornos de aprendizaje virtuales
+
+
+    Complemento digital para cursos presenciales (blended)
+
+
+    Posibilidad de diversos métodos de evaluación y calificación
+
+
+    Accesibilidad y compatibilidad desde cualquier navegador web,
+
+      independiente del sistema operativo utilizado
+
+
+
+
+2.3.6 LOS RECURSOS SINCRÓNICOS Y ASINCRÓNICOS
+
+
+
+                                                                        25
+Entre los recursos interactivos que dispone Internet, se pueden hacer
+
+una clasificación entre servicios sincrónicos y asincrónicos.
+
+
+            CUADRO Nº 05. TIPOS DE RECURSOS
+
+
+
+
+SERVICIOS SINCRÓNICOS
+
+
+Los servicios sincrónicos son aquellos en el que el emisor y el receptor
+
+del mensaje en el proceso de comunicación operan en el mismo marco
+
+temporal, es decir, para que se pueda transmitir dicho mensaje es
+
+necesario que las dos personas estén presentes en el mismo momento.
+
+Estos recursos sincrónicos se hacen verdaderamente necesarios como
+
+agente socializador, imprescindible para que el alumno que estudia en
+
+la modalidad a distancia no se sienta aislado.
+
+
+SERVICIOS ASINCRÓNICOS
+
+
+Los servicios asincrónicos son aquellos que permiten la transmisión de
+
+un mensaje entre el emisor y el receptor sin que tengan que coincidir
+
+para interactuar en el mismo instante. Requieren necesariamente de un
+
+lugar físico y lógico (como un servidor, por ejemplo) en donde se
+
+guardarán y tendrá también acceso a los datos que forman el mensaje.
+
+
+
+                                                                     26
+E-LEARNING
+
+
+Es el resultado de aplicar las nuevas tecnologías en el ámbito de la
+
+formación, y más específicamente, del aprendizaje. El e-learning va
+
+unido sobre todo a aspectos de tipo metodológico y a la adecuación
+
+técnico-instructiva necesaria para el        desarrollo de materiales que
+
+respondan a necesidades específicas, aprovechando al máximo              el
+
+papel de     las   nuevas tecnologías (formatos de almacenamiento,
+
+plataformas, interactividad, flexibilidad, etc.)
+
+
+Incluye una amplia gama de aplicaciones y procesos, tales            como
+
+aprendizaje basado en        la red,   en el computador, aulas virtuales,
+
+cooperación digital. Incluye la entrega de contenidos vía         Internet,
+
+extranet, intranet, (LAN/WAN), audio y vídeo, emisión satelital, televisión
+
+interactiva y CD-ROM.
+
+
+Los campus virtuales, las aulas virtuales, las bibliotecas electrónicas,
+
+las técnicas de autoaprendizaje o las videoconferencias son algunas de
+
+las herramientas de trabajo que definen la forma de aprendizaje y
+
+enseñanza del alumnado y del profesorado.
+
+
+REALIDAD VIRTUAL
+
+
+La realidad virtual es una representación de        las cosas a través de
+
+medios electrónicos, que nos da la sensación de estar en una situación
+
+real en la que podemos interactuar con lo que nos rodea.
+
+
+La realidad virtual puede ser de dos tipos: inmersiva y no inmersiva.
+
+
+
+                                                                        27
+Los métodos inmersivos se relacionan con el ambiente tridimensional y
+
+la captura de posición y rotación de las diferentes partes del cuerpo
+
+humano. La realidad virtual no inmersiva utiliza medios como el que
+
+actualmente nos ofrece Internet en el cual podemos interactuar a tiempo
+
+reales con diferentes personas en espacios y ambientes que en realidad
+
+no existen sin la necesidad de dispositivos adicionales a la computadora.
+
+
+AULA VIRTUAL
+
+Concepto que se ha venido desarrollando a partir de la década de los
+
+ochenta, éste término se le adjudica a ROXANNE HILTZ quien la define
+
+como "el empleo de comunicaciones mediadas por computadores para
+
+crear un ambiente electrónico semejante a las formas de comunicación
+
+que normalmente se producen en el aula convencional".
+
+
+A través de éste entorno el alumno puede acceder y desarrollar una
+
+serie de acciones que son       propias de un proceso de enseñanza
+
+presencial como      conversar, leer documentos, realizar ejercicios,
+
+formular preguntas al docente, trabajar en equipo, etc. Todo ello de
+
+forma simulada sin que medie una interacción física entre docentes y
+
+alumnos.
+
+
+RECURSOS TICS
+
+
+Los recursos normalmente consisten en una selección de enlaces a los
+
+sitios de interés para encontrar la información relevante. Estos no están
+
+limitados a documentos de la Web, también pueden referirse a libros o
+
+revistas o a algún tipo de interacción con expertos vía correo electrónico,
+
+chats, etc.
+                                                                        28
+TICS
+
+Constituye una actividad de aprendizaje significativo, en la que el
+
+ordenador tiene un rol de herramientas y el alumno construye su propio
+
+conocimiento a partir de la investigación que realiza y de la
+
+transformación de la información encontrada.
+
+       Esquema del Modelo teórico de aplicación de las tics en el
+                   proceso enseñanza aprendizaje
+
+
+
+
+MULTIMEDIA
+
+
+Este término se ha empleado para designar todo tipo de productos
+
+informáticos. Llamamos multimedia a un producto informático que utiliza
+
+recursos de texto, sonido e imagen. Se emplea relacionado con los
+
+términos "hipertexto" e "hipermedia".
+
+
+En ocasiones se confunde un producto multimedia sobre un contenido
+
+concreto con un curso. El multimedia, sea un CD-Rom o unas páginas
+
+web, sólo es teleformación cuando realmente se desarrolla un proceso
+
+                                                                    29
+de enseñanza y aprendizaje con la participación de alumnos y
+
+profesores, y con el desarrollo de una planificación al efecto.
+
+
+Un producto multimedia puede ser un buen material para un curso
+
+presencial o un curso de teleformación.
+
+
+CLASE VIRTUAL
+
+
+Metodología de Teleformación que recrea los elementos motivacionales
+
+de la formación presencial, a través de:
+
+ Utilización de grupos que comienzan y terminan juntos un mismo
+   curso.
+
+ Papel facilitador del docente, que diseña e imparte el curso.
+
+ Cuidado de la interrelación entre todos los participantes, facilitando
+   la comunicación y fomentando las actividades en grupos.
+
+PÁGINA WEB (WORLD WIDE WEB)
+
+
+Una web es un conjunto de páginas relacionadas (o enlazadas) entre sí
+
+mediante hipertexto, en ella pueden haber archivos de diversos formatos
+
+(texto, gráficos, audio y vídeo); en estos momentos, la página web
+
+puede contener otras prestaciones que proporciona Internet, mediante
+
+los llamados portales, que proveen servicios añadidos como e-mail, FTP
+
+(File Transfer Protocol), y el chat, por ejemplo.   Se puede apreciar el
+
+poder de integrar recursos interactivos que tienen las páginas webs, lo
+
+que hace un espacio adecuado para que trabajen las aulas virtuales.
+
+E-MAIL
+
+
+El correo electrónico, consiste en el intercambio de mensajes en forma
+
+de texto entre los usuarios de la red, estos mensajes se escriben en una
+                                                                      30
+   computadora personal y se envían a través de redes de computadoras
+
+   a sus destinatarios, quienes deben disponer de una dirección de correo
+
+   válida;   mediante el correo electrónico se pueden enviar          además
+
+   archivos de textos, gráficos, audio y vídeo.
+
+
+   FOROS DE DISCUSIÓN
+
+
+   Permite abrir un debate en el que la gente aporta sus propias ideas.
+
+   Consiste en enviar y recibir mensajes de un grupo específico de
+
+   personas sobre un tema, generalmente son de uso público, pero
+
+   también existen los de uso restringido. Los mensajes se pueden
+
+   visualizar en una tabla general sobre una        página web, estos se
+
+   presentan muchas veces de forma anidada.
+
+
+2.3.7 RENDIMIENTO ACADÉMICO
+
+
+   Como sabemos la educación es un hecho intencionado y, en términos
+
+   de   calidad   de   la   educación,   todo   proceso   educativo    busca
+
+   permanentemente mejorar el rendimiento del estudiante. En este
+
+   sentido, la variable dependiente clásica en cualquier análisis que
+
+   involucra la educación es el rendimiento académico, también
+
+   denominado rendimiento escolar, el cual es definido de la siguiente
+
+   manera: "Del latín reddere (restituir, pagar) el rendimiento es una
+
+   relación entre lo obtenido y el esfuerzo empleado para obtenerlo. Es un
+
+   nivel de éxito en la universidad, en el trabajo, etc.", El problema del
+
+   rendimiento académico se entenderá de forma científica cuando se
+
+   encuentre la relación existente entre el trabajo realizado por los
+
+   profesores y los estudiantes, de un lado, y la educación (es decir, la
+                                                                          31
+perfección intelectual y moral lograda por éstos) de otro, al estudiar
+
+científicamente el rendimiento, es básica la consideración de los factores
+
+que intervienen en él. Por lo menos en lo que a la instrucción se refiere,
+
+existe una teoría que considera que el buen rendimiento académico se
+
+debe predominantemente a la inteligencia de tipo racional; sin embargo,
+
+lo cierto es que ni siquiera en el aspecto intelectual del rendimiento, la
+
+inteligencia es el único factor.
+
+
+Características del rendimiento académico
+
+
+Después de realizar un análisis comparativo de diversas definiciones del
+
+rendimiento académico, se puede concluir que hay un doble punto de
+
+vista, estático y dinámico, que encierran al sujeto de la educación como
+
+ser social. En general, el rendimiento académico es caracterizado del
+
+siguiente modo:
+
+a) el rendimiento en su aspecto dinámico responde al proceso de
+
+aprendizaje, como tal está ligado a la capacidad y esfuerzo del alumno;
+
+
+b) en su aspecto estático comprende al producto del aprendizaje
+
+generado por el estudiante y expresa una conducta de aprovechamiento;
+
+
+c) el rendimiento está ligado a medidas de calidad y a juicios de
+
+valoración;
+
+
+d) el rendimiento es un medio y no un fin en sí mismo;
+
+
+ CUADRO N°06: ESQUEMA DE EQUIVALENCIAS DE CALIFICACIONES
+
+                                     Calificación        Calificación
+              comportamiento
+                                     Cuantitativa        cualitativa
+
+        1     MUY BUENO                    20 – 18               AD
+
+
+                                                                        32
+                  2      BUENO                        17 – 14             A
+
+                  3      REGULAR                      13 – 11             B
+
+                  4      DEFICIENTE                   10 – 00             C
+
+            Fuente: Diseño Curricular
+
+
+2.4. DEFINICIÓN DE TÉRMINOS BÁSICOS
+
+
+    Recurso.- Los recursos son medios materiales, humanos y organizativos,
+
+    utilizados para vialibilizar y facilitar el proceso de aprendizaje.
+
+
+    Actividad.- Es el conjunto de acciones que se llevan a cabo para cumplir las
+
+    metas de un programa o subprograma de operación, que consiste en la
+
+    ejecución de ciertos procesos o tareas.
+
+
+    Página web. - Es Un conjunto de páginas relacionadas (o enlazadas) entre sí
+
+    mediante hipertexto, en Ella pueden Haber archivos de diversos formatos
+
+    (texto, gráficos, audio y vídeo).
+
+
+    E-Mail.- El correo electrónico, consiste en el intercambio de mensajes en
+
+    forma de texto entre los usuarios de la red, estos mensajes se escriben en
+
+    una computadora personal y se envían a través de redes de computadoras a
+
+    sus destinatarios.
+
+
+    Foros De Discusión.- Permite abrir un debate en el que la gente aporta sus
+
+    propias ideas. Consiste en enviar y recibir mensajes de un grupo específico
+
+    de personas sobre un tema, generalmente son de uso público, pero también
+
+    existen los de uso restringido.
+
+
+
+
+                                                                              33
+Mensajes Privados.- Medio de comunicación entre los miembros de la
+
+asignatura por lo que se podrá realizar tutorías remotas para cualquier
+
+consulta académica entre el alumno y el profesor.
+
+
+Chat.- Sala de conversación para los miembros de la asignatura.
+
+
+Tareas.- Entrega de trabajos por parte de los alumnos. El profesor crea la
+
+actividad, los alumnos las entregan, y el profesor califica y realiza comentarios
+
+sobre los trabajos realizados.
+
+
+Llamamientos De Exámenes.- Publicación por parte del profesorado de
+
+convocatorias de exámenes oficiales mediante firma electrónica. Exámenes:
+
+realización de pruebas de evaluación en red, posibilidad de visualizar
+
+dependiendo de la configuración del examen: la nota, respuestas correctas,
+
+comentarios, etc.
+
+
+Videoconferencia Web.- Para realizar videoconferencias en red para
+
+sesiones de trabajo, reuniones.
+
+
+La Capacidad.- es la aptitud que se tiene en una determinada disciplina o
+
+práctica. Otras acepciones referirán seguramente al potencial de un
+
+determinado elemento de realizar una tarea o trabajo.
+
+
+Actitud.- Conducta personal que se expone en trabajos de equipos y eventos
+
+sociales.
+
+
+Enseñanza - Aprendizaje.- Es un proceso de transmisión y aprehensión de
+
+conocimientos entre el docente tutor y los estudiantes.
+
+
+
+
+                                                                              34
+Consulta.- Petición de información, opinión o consejo sobre una materia
+
+determinada.
+
+
+Implementar.- Es proveer de medios, recursos y métodos antes de ejecutar
+
+un proceso.
+
+
+Foro.- Un foro (también conocidos como "foros" o "foros de discusión") en
+
+Internet es una aplicación web que da soporte a discusiones u opiniones en
+
+línea.
+
+
+2.4.1 OPERACIONALIZACIÓN DE VARIABLES
+
+
+     La operacionalización de variables teóricas, constituyen una fase
+
+     intermedia en el proceso de investigación. Antecede al diseño de la
+
+     investigación empírica siendo a su vez, consecutivo a la formulación del
+
+     problema de estudio.
+
+
+
+
+                                                                           35
+CUADRO Nº 07. IDENTIFICACIÓN DE LAS VARIABLES DE ESTUDIO
+
+
+
+   VARIABLE       DIMENSIONES       INDICADORES           INDICE
+
+
+                                  Página de texto.
+                                  Página web.
+                  Recursos
+                                  Foros.             NUNCA (0)
+INDEPENDIENTE
+Aulas virtuales                   Chat.              A VECES (1)
+                                  Correos            CASI SIEMPRE (2)
+                                                     SIEMPRE (3)
+                                  Cuestionarios
+                  Actividades
+                                  Tareas.
+                                  Consultas.
+
+
+                                  Muy Bueno               18 a 20
+DEPENDIENTE:
+                                  Bueno                   14 a 17
+Rendimiento       Capacidades y
+                                  Regular                 11 a 14
+Académico         Actitudes
+                                  Deficiente              10 a menos
+
+
+
+
+                                                                        36
+                            CAPÍTULO III
+                    MATERIALES Y MÉTODOS
+
+3.1. METODOLOGÍA Y PROCEDIMIENTO
+
+
+   3.1.1. METODOLOGÍA
+
+
+        a. POBLACIÓN
+
+
+        La población de investigación estuvo constituida por todos los
+
+        estudiantes matriculados del año académico 2014 – II del INSTITUTO
+
+        SUPERIOR TECNOLÓGICO PRIVADO “DEL ALTIPLANO” PUNO –
+
+        2014, según las nóminas que consta en los registros de la Institución.
+
+
+        b. MUESTRA
+
+
+        La técnica de muestreo que se utilizó para el presente trabajo de
+
+        investigación es el Muestreo Aleatorio Simple (MAS). Para poder
+
+        determinar el tamaño de muestra para el caso de los estudiantes se
+
+        realizó una muestra piloto y se obtuvo el porcentaje de estudiantes que
+
+        opinaron que si se mejorará el rendimiento académico; dicha
+
+        información es necesaria para poder encontrar los estimadores
+
+        necesarios para el cálculo del tamaño de muestra.
+
+
+        El tamaño de la muestra, es la cantidad de elementos que va a
+
+        representar a la población, se calculará en base a la siguiente fórmula
+
+        estadística para poblaciones finitas.
+                                                                            37
+                                   𝑍 2 𝑁𝑃𝑄
+                         𝑛=
+                              (𝑁 − 1)𝐸 2 + 𝑍 2 𝑃𝑄
+
+Dónde:
+
+
+     n       : Muestra
+
+     N       : Población
+
+     Z       : Valor estándar del nivel de confianza
+
+     E       : Margen de error
+
+     p       : Proporción que opinaron de que con el uso de un aula
+             virtual se mejoraría el rendimiento académico (0.74).
+
+     q       : Proporción que opinaron de que con el uso de un aula
+             virtual no se mejoraría el rendimiento académico (0.26).
+
+CÁLCULO DEL TAMAÑO DE MUESTRA
+
+
+DATOS:
+
+     N = 769
+
+     Z al 95% es = 1.96
+
+     E = 0.05
+
+     p = 0.74
+
+     q = 0.26
+
+
+              𝑍 2 𝑁𝑃𝑄             1.962 (769)(0.74)(0.26)
+   𝑛=                       =
+         (𝑁 − 1)𝐸 2 + 𝑍 2 𝑃𝑄 (769 − 1)0.052 + 1.962 (0.74)(0.26)
+
+
+     n =75.46 Redondeando           ∴n=76
+
+
+
+
+                                                                     38
+CUADRO N° 08: NÚMERO DE ESTUDIANTES MATRICULADOS DEL II
+SEMESTRE DE LA CARRERA DE CONTABILIDAD DEL INSTITUTO SUPERIOR
+TECNOLÓGICO PRIVADO “DEL ALTIPLANO” PUNO - 2014
+ SECCIONES                    N° DE ESTUDIANTES                 PORCENTAJE
+ “A” (Control)                           39                       51.32
+ “B” (experimental)                      37                       48.68
+ TOTAL                                   76                       100
+FUENTE: Nomina de estudiantes matriculados de la Instituto Superior Tecnológico Privado
+“DEL ALTIPLANO” Semestre 2014 – II
+
+
+
+3.1.2. MÉTODO DE RECOPILACIÓN DE DATOS
+
+
+      En el presente trabajo de investigación se utilizó la técnica del examen
+
+      y como instrumento la prueba escrita que en ambos momentos, para el
+
+      grupo control y grupo experimental, el diseño es de tipo transversal
+
+      porque los datos se recolectan de un solo curso.
+
+
+      TÉCNICAS
+
+
+      EXAMEN
+
+
+      Consiste en la formulación adecuada de preguntas que puedan ser
+
+      escritas y verbales, con el propósito de averiguar y diagnosticar el
+
+      rendimiento académico especialmente cognoscitivos de acuerdo a los
+
+      objetivos propuestos.
+
+
+      Es una de las técnicas más utilizadas por los docentes, que tienen el
+
+      propósito de diagnosticar y averiguar los aprendizajes de los
+
+      estudiantes, tanto en el grupo control y experimental.
+
+
+
+
+                                                                                    39
+     INSTRUMENTOS
+
+
+     Prueba escrita
+
+
+     Se utilizara en pre test y pos test en ambos grupos para verificar el
+
+     logro de aprendizaje.
+
+
+     Ficha de observación:
+
+
+     Es el instrumento que se utilizó para registro sistemático, valido y
+
+     confiable de conductas.
+
+
+     Se utilizó para recoger datos específicos en el desarrollo de las
+
+     sesiones de aprendizaje.
+
+
+3.1.3. MÉTODOS DE TRATAMIENTOS DE DATOS
+
+
+     Para el análisis de datos se aplicara diseño completamente al azar, es
+
+     aquel en el cual los tratamientos son asignados en forma aleatoria a
+
+     las unidades experimentales, o viceversa sin ninguna restricción; por lo
+
+     tanto, se considera que es un diseño eficiente cuando las unidades
+
+     experimentales de los que se disponen son muy homogéneas.
+
+
+     Modelo estadístico:
+
+      𝑌𝑖𝑗 = 𝜇 + 𝜏𝑖 + 𝜀𝑖𝑗          𝑖 = 1,2, … 𝑡
+                                  𝑗 = 1,2, … 𝑟
+
+      Dónde:
+
+      Yij
+         = Observación en la j-esima unidad experimental, sujeta al i-esimo
+      tratamiento
+
+       i = Es el efecto del i-esimo tratamiento.
+
+       = Es el efecto de la media general o constante común.
+                                                                          40
+            ij
+                  = Efecto verdadero de la j-esima unidad experimental, sujeta al i-
+
+           esimo tratamiento.
+
+
+   3.1.4. DISEÑO ESTADÍSTICO PARA LA PRUEBA DE HIPÓTESIS
+
+
+         a) Planteamiento de hipótesis estadístico
+
+
+         Ho: 𝜏𝑖 = 0
+
+         H1: 𝜏𝑖 ≠ 0 (al menos unos de los tratamientos es diferente de los otros)
+
+         b) Nivel de significancia
+
+
+          =0,05 %
+
+
+         c) Prueba estadística
+
+
+                    𝐶𝑀𝑡𝑟𝑎𝑡
+           𝐹𝑐 =
+                    𝐶𝑀𝑒𝑟𝑟𝑜𝑟
+
+
+           d) Regla de decisión
+
+                              𝑛1
+                  a. Si 𝐹𝑐 ≤ 𝐹𝑛2,𝛼 no se rechaza la Ho
+
+                               𝑛1
+                   b. Si 𝐹𝑐 > 𝐹𝑛2,0.05 se rechaza la Ho representándose con un (*) lo
+
+                      cual significa que la prueba es significativa.
+
+
+           e) Conclusión
+
+           Se concluye en base al problema de estudio.
+
+
+3.2. MATERIAL EXPERIMENTAL
+
+
+   Los materiales y herramientas que se utilizó para el desarrollo del trabajo de
+
+   investigación fueron los siguientes:
+
+                                                                                  41
+3.2.1. SOFTWARE
+
+
+     El funcionamiento del Sistema se realizó bajo los Sistemas Operativos
+
+     de Microsoft Windows XP, Windows 7 y Windows 8.
+
+
+     Herramientas para el desarrollo del sistema
+
+
+     Appserv-Win32-2.5.10.
+
+
+     PHP y MySQL.
+
+
+     JavaScript, Ajax y CSS.
+
+
+     Navegadores: Internet Explorer 10, Mozilla Firefox 23.0.1 y Google
+
+    Chrome 28.0.1500.95 m.
+
+
+3.2.2. HARDWARE
+
+
+     En cuanto al Hardware se utilizó computadoras Intel Core Duo o
+
+     Superior.
+
+
+
+
+                                                                       42
+                            CAPÍTULO IV
+                    RESULTADOS Y DISCUSIÓN
+
+4.1 RESULTADOS Y DISCUSIÓN
+
+
+   4.1.1 ANÁLISIS
+
+
+        Se analizaron los siguientes detalles:
+
+
+        a. ANÁLISIS DEL AULA VIRTUAL
+
+
+        El aula virtual del Instituto Superior Tecnológico Privado Del
+
+        Altiplano De Puno se tuvo que analizar usando diagramas de causa
+
+        efecto:
+
+
+                    FIGURA N°01: Análisis de un aula virtual
+
+
+
+
+                                                                     43
+b. COMPONENTES APLICATIVOS DE UNA AULA VIRTUAL
+
+
+La aplicación a desarrollar está pensada para tres usuarios distintos:
+
+administrador, docente y estudiantes como mínimo.
+
+
+ADMINISTRADOR
+
+
+ Ingreso de cursos
+
+
+ Asignar responsables de cursos
+
+
+ Permiso a responsables de cursos
+
+
+DOCENTES
+
+
+ Módulo de estructuración de cursos, ingreso y actualización de
+
+   contenidos.
+
+
+ Módulo de diseño de evaluaciones, ingreso de preguntas para
+
+   evaluación del estudiante.
+
+
+ Ingreso de mensajes para pizarra virtuales
+
+
+ Lista de interés en el cual el docente podrá enviar a correos las
+
+   tareas y comunicarse con los estuantes.
+
+
+ESTUDIANTES
+
+
+ Contenido de cursos atravez de los sitios web se podrá acceder al
+
+   contenido de lecciones, que pueden ser teóricas, prácticas o en
+
+   video. Además de contar con una selección de referencias
+
+   bibliográficas dadas por el docente.
+
+
+                                                                   44
+          Evaluación en línea pruebas y test de entrenamiento, estas
+
+             evaluaciones darán una idea de cómo se va siguiendo las clases.
+
+
+          Foros de mensaje donde los estudiantes o docentes pueden discutir
+
+             sobre temas relacionados con el contenido de la clase y las
+
+             actividades del grupo.
+
+
+          Pizarra virtual en ella podemos encontrar los últimos mensajes los
+
+             docentes.
+
+
+4.2 DESCRIPCIÓN DE LOS CASOS DE USO
+
+
+   a. Módulo del Administrador
+
+
+   En este módulo se permitirá la administración del centro de enseñanza virtual
+
+   desde cualquier punto. En él se podrán habilitar:
+
+
+    Habilitar usuarios administradores
+
+
+    Habilitar escuelas profesionales
+
+
+    Habilitar docentes por escuelas
+
+
+    Asignar al docente a un curso determinado
+
+
+    Asignar grupos
+
+
+    Asignar horarios de los cursos para un docente determinado
+
+
+
+
+                                                                             45
+    DIAGRAMA N° 01: Casos de uso del módulo administrador
+
+
+
+
+b. Módulo del Docente
+
+ Ingresar datos para estructurar su perfil
+
+ Estructura del curso según el silabo
+
+ Definir el número de lecciones
+
+ Definir los temas para cada lección
+
+ Anexar archivos para cada lección
+
+ Ingresar ejercicios resueltos y propuestos
+
+ Ingresar prácticas.
+
+ Fechas de prácticas o exámenes
+
+ Sugerencias
+
+ Ingresar temas de discusión para los foros
+
+ Administrar la conversaciones vía chat con los estudiantes
+
+
+                                                               46
+       DIAGRAMA N° 02: Casos de uso del módulo docente
+
+
+
+
+c. Módulo Del Estudiante
+
+
+ Visualizar los cursos
+
+
+ Rendir evaluaciones
+
+
+ Visualizar sus calificaciones
+
+
+ Mantener conversación con el docente
+
+
+ Enviar sus trabajos encargados
+
+
+ Formar grupos de trabajo
+
+
+
+
+      DIAGRAMA N° 03: Caso de uso del módulo estudiante
+
+
+
+
+                                                          47
+Módulo de Tareas
+
+
+ Pueden especificarse la ficha final de entrega de una tarea y la calificación
+
+   máxima que se puede asignar.
+
+
+ Los estudiantes pueden subir sus tareas al servidor, se registra la fecha
+
+   en que se ha subido.
+
+
+ Se permite entregar tareas fuera de tiempo, pero el docente puede ver
+
+   claramente el tiempo de retraso.
+
+
+ Para cada tarea en particular, puede evaluarse a la clase entera en una
+
+   única página con un único formulario.
+
+
+
+
+                                                                            48
+Módulo de Consulta
+
+
+ Es como una votación, puede usarse para votar sobre algo o para recibir
+
+   una respuesta de cada estudiante.
+
+
+ El docente puede ver la tabla que presenta de forma intuitiva la información
+
+   sobre quien ha elegido que.
+
+
+ Se puede permitir a los estudiantes, vean graficos actualizados de los
+
+   resultados.
+
+
+Módulo de Cuestionario
+
+
+ Los profesores pueden definir una base de datos de preguntas que podrán
+
+   ser reutilizados en diferente cuestionario.
+
+
+ Las preguntas pueden ser almacenadas en categoría de fácil acceso y
+
+   estas categorías pueden ser publicadas para hacerlas accesibles de
+
+   cualquier curso del internet.
+
+
+ Los cuestionarios se califican automáticamente y pueden ser recalificados
+
+   si se modifican las preguntas.
+
+
+ Los cuestionarios pueden tener un límite de tiempo a partir de la fecha
+
+   estarán disponibles.
+
+
+Módulo Recurso
+
+
+ Admitir la presentación de cualquier tipo de archivo.
+
+
+ Los archivos pueden subirse y manejarse en el servidor, o pueden ser
+
+   creados sobre la marcha usando formulario web.
+                                                                           49
+ Se pueden enlazar contenidos externos en web o incluirlos perfectamente
+
+   en la interfaz del usuario.
+
+
+ Pueden enlazarse aplicaciones web, transfiriéndoles datos.
+
+
+Módulo de Encuesta
+
+
+ Se proporciona encuesta ya preparadas y contrastadas como instrumento
+
+   para el análisis de las clases en línea.
+
+
+ Los informes de las encuestas están siempre disponibles, incluyendo
+
+   mucho gráficos los datos pueden descargarse con formatos de hoja de
+
+   cálculo.
+
+
+ La interfaz de la encuesta impide la posibilidad de que sean respondidas,
+
+   solo parcialmente.
+
+
+Módulo Taller
+
+
+ Permite evaluación de documentos entre los estudiantes y el docente
+
+   puede gestionar y calificar la evaluación.
+
+
+ Admite un amplio rango de escalas de calificación posible.
+
+
+ El docente puede suministrar documentos de ejemplo de estudiantes para
+
+   practicar la evaluación.
+
+
+
+
+                                                                        50
+DIAGRAMA N° 04: MODELADO DE CASOS DE USO
+
+
+    CREAR PERMISO DE ADMINISTRADOR
+
+
+
+
+   DIAGRAMA N° 05: HABILITAR CARRERA
+
+
+
+
+                                           51
+    DIAGRAMA N° 06: HABILITAR DOCENTES POR CARRERA
+
+
+
+
+DIAGRAMA N° 07: ASIGNAR DOCENTE A UN DETERMINADO CURSO
+
+
+
+
+                                                         52
+  DIAGRAMA N° 08: INGRESO DEL PERFIL DEL DOCENTE
+
+
+
+
+DIAGRAMA N° 09: ESTRUCTURA DEL CURSO POR DOCENTE
+
+
+
+
+                                                   53
+        DIAGRAMA N° 10: VISUALIZACIÓN DE HORARIOS
+
+
+
+
+DIAGRAMA N° 11: VISUALIZACIÓN DE LISTA DE USUARIOS Y GRUPOS
+
+
+
+
+DIAGRAMA N° 12: PUBLICACIÓN DE AVISOS EN LA PIZARRA VIRTUAL
+
+
+
+
+                                                              54
+      DIAGRAMA N°13: INGRESA TEMAS DE FORO Y DISCUSIONES
+
+
+
+
+DIAGRAMA N°14: BRINDAR MANTENIMIENTO AL FORO DE DISCUSIONES
+
+
+
+
+                                                              55
+   DIAGRAMA N° 15: INICIAR LA SESIÓN PARA MANTENER UNA
+
+                 COMUNICACIÓN VÍA CHAT
+
+
+
+
+DIAGRAMA N°16: ADMINISTRAR CONVERSACIÓN VÍA CHAT CON LOS
+
+                      ESTUDIANTES
+
+
+
+
+  DIAGRAMA N° 17: VISUALIZA CURSOS DICTADOS EN EL IESTPA
+
+
+
+
+                                                           56
+DIAGRAMA N°18: VISUALIZA CONTENIDOS DEL CURSO HABILITADO
+
+
+
+
+DIAGRAMA N°19: VISUALIZA MENSAJES EN LA PIZARRA VIRTUAL
+
+
+
+
+                                                           57
+  DIAGRAMA N°20: VISUALIZAR E INGRESAR OPINIONES EN EL FORO
+
+
+
+
+4.3 DISEÑO
+
+
+   Se diseñó la base de datos usando MYSQL para la enseñanza y aprendizaje
+
+   de los estudiantes del Instituto Superior Tecnológico Privado del Altiplano
+
+   Puno 2014
+
+
+   4.3.1 IMPLEMENTACIÓN
+
+
+        En la etapa de implementación se realizó lo siguiente:
+
+
+         INTERFAZ DEL AULA VIRTUAL
+
+
+        El usuario podrá acceder, primero debe ingresar su contraseña con sus
+
+        respectivos usuarios y contraseña, así podrá acceder con toda facilidad
+
+        para ver sus respectivos quehaceres en el aula virtual.
+
+
+
+
+                                                                            58
+           FIGURA N° 02: INTERFAZ DEL AULA VIRTUAL
+
+
+
+
+      ARQUITECTURA DEL AULA VIRTUAL
+
+
+La arquitectura del aula virtual del Instituto Superior Tecnológico Privado Del
+
+Altiplano Puno 2014, a continuación detallamos:
+
+       FIGURA N° 03: ARQUITECTURA DEL AULA VIRTUAL
+
+
+
+
+                                                                            59
+              FIGURA N° 04: MÓDULO DEL AULA VIRTUAL
+
+
+
+
+4.4 IMPLEMENTACIÓN DEL AULA VIRTUAL DEL INSTITUTO SUPERIOR
+
+   TECNOLÓGICO DEL ALTIPLANO PUNO
+
+
+   Se implementó el aula virtual del Instituto Superior Tecnológico Privado Del
+
+   Altiplano, sobre un prototipo    y a continuación vemos el acceso del
+
+   administrador, docente y el estudiante para quienes fue implementado el aula
+
+   virtual.
+
+
+   FIGURA N° 05 ACCESO DEL ADMINISTRADO DEL AULA VIRTUAL DEL ISTPA.
+
+
+
+
+                                                                            60
+          FIGURA N°06 CURSOS DISPONIBLES DEL AULA VIRTUAL
+
+
+
+
+4.5   NIVEL DE APRENDIZAJE MEDIANTE EL USO DEL AULA VIRTUAL EN
+
+      LOS    ESTUDIANTES       DEL   INSTITUTO       SUPERIOR        TECNOLÓGICO
+
+      PRIVADO DEL ALTIPLANO PUNO 2014
+
+
+      Usando la prueba estadística comparativa y la escala de Likert, las
+
+      calificaciones son:
+
+
+      CUADRO N°09. ESQUEMA DE EQUIVALENCIAS DE CALIFICACIONES
+
+                                      Calificación     Calificación
+                  comportamiento
+                                      Cuantitativa     cualitativa
+              1   MUY BUENO              20 – 18            AD
+              2   BUENO                  17 – 14             A
+              3   REGULAR                13 – 11             B
+              4   DEFICIENTE             10 – 00             C
+
+
+
+                                                                              61
+4.6 ANÁLISIS 01: DISEÑO COMPLETAMENTE AL AZAR CON DIFERENTE
+
+   NÚMERO DE REPETICIONES POR TRATAMIENTO.
+
+
+    i. Planteamiento de Hipótesis:
+
+   𝐇𝐎 ∶ 𝝉𝒊 = 𝟎 (No existe diferencia estadística entre el grupo control y
+
+   experimental mediante el uso de los recursos y actividades en el aula virtual).
+
+   𝐇𝐚 ∶ 𝝉𝒊 ≠ 𝟎 (Existe diferencia estadística entre el grupo control y experimental
+
+   mediante el uso de los recursos y actividades en el aula virtual)
+
+   ii. Nivel de Significancia:
+
+
+   Nivel de significancia 𝛼 = 0.05 = 5%
+
+
+   iii.   Estadígrafo de Prueba:
+
+
+                                               𝐶𝑀𝑡𝑟𝑎𝑡𝑎𝑚
+                                𝐹(𝑇𝑟𝑎𝑡𝑎𝑚) =
+                                                𝐶𝑀𝑒𝑟𝑟𝑜𝑟
+
+   iv. Región de aceptación o de rechazo
+
+                                   𝑡−1
+                   𝑆𝑖 𝐹(𝑇𝑟𝑎𝑡𝑎𝑚) ≤ 𝐹𝑔𝑙𝑒𝑟𝑟𝑜𝑟 ,0.05
+                                                 𝐸𝑛𝑡𝑜𝑛𝑐𝑒𝑠 𝑠𝑒 𝑎𝑐𝑒𝑝𝑡𝑎 𝑙𝑎 𝐻𝑜
+
+                                   𝑡−1
+                   𝑆𝑖 𝐹(𝑇𝑟𝑎𝑡𝑎𝑚) > 𝐹𝑔𝑙𝑒𝑟𝑟𝑜𝑟 ,0.05
+                                                 𝐸𝑛𝑡𝑜𝑛𝑐𝑒𝑠 𝑠𝑒 𝑎𝑐𝑒𝑝𝑡𝑎 𝑙𝑎 𝐻𝑎
+
+          Cálculos de valores para el experimento
+
+
+          a) Grados de libertad:
+
+          GLTratam = 2-1 = 1
+
+          GLError = (39 - 1) + (37 - 1) = 74
+
+          GLTotal = (39 + 37) – 1 = 75
+
+
+
+
+                                                                                62
+   b) Suma de cuadrados
+
+            28322
+   𝑇𝐶 =             = 105529.263
+             76
+
+
+
+                         11822         16502
+      i.     𝑆𝐶𝑇𝑟𝑎𝑡 =              +           − 105529.263 = 3875.510
+                           39           37
+
+
+      ii.    𝑆𝐶𝑇𝑜𝑡𝑎𝑙 = 262 + 222 + 352 + ⋯ + 502 = 117146 − 105529.263 =
+
+             11616.737
+
+     iii.    𝑆𝐶𝑒𝑟𝑟𝑜𝑟 𝑒𝑥𝑝 = 𝑆𝐶𝑡𝑜𝑡𝑎𝑙 − 𝑆𝐶𝑡𝑟𝑎𝑡 = 11616.737 − 3875.510 = 7741.227
+
+                         3875.51
+     iv.     𝐶𝑀𝑡𝑟𝑎𝑡 =                  = 3875.51
+                               1
+
+                                   7741.227
+     v.      𝐶𝑀𝑒𝑟𝑟𝑜𝑟 𝑒𝑥𝑝 =                     = 104.611
+                                       74
+
+                     3875.51
+     vi.     𝐹𝑐 = 104.611 = 37.047
+
+
+                         CUADRO Nº 10. ANÁLISIS DE VARIANZA
+             F de V                         G.L       S.C          C.M        Fc
+
+ Entre tratamiento                      1         3875.510      3875.510   37.047
+
+ Error experimental                     74        7741.227      104.611
+
+ TOTAL                                  75        11616.737
+
+
+
+
+                                                          1
+Conclusión: La prueba F nos muestra que la 𝐹𝑐 = 37.047 > 𝐹74;0.05 = 3.969,
+
+entonces se rechaza la hipótesis nula Ho y se acepta la hipótesis alterna Ha,
+
+es decir existe diferencia estadística significativa entre el grupo control y
+
+experimental mediante los recursos y actividades realizadas en el aula
+
+virtual.
+
+
+
+
+                                                                                    63
+4.7 ANALISIS 2: PRUEBA DE HIPOTESIS DE LA DIFERENCIA DE MEDIAS.
+
+    CUADRO N° 11. RESULTADO DEL GRUPO CONTROL EXPERIMENTAL
+    DESPUES DEL USO DEL AULA VIRTUAL EN EL INSTITUTO SUPERIOR
+    TECNOLÓGICO PRIVADO DEL ALTIPLANO PUNO 2014
+                      GRUPO                          GRUPO
+                                         %                                   %         TOTAL
+                    CONTROL                       EXPERIMENTAL
+    MUY BUENO            2             5.13            10                   27.03          12
+    BUENO                4            10.26            19                   51.35          23
+    REGULAR             13            33.33             6                   16.22          19
+    DEFICIENTE          20            51.28             2                   5.41           22
+    TOTAL               39             100             37                    100           76
+    Fuente: Registros auxiliares
+
+
+    GRÁFICO N° 02: RESULTADO DEL GRUPO CONTROL Y EXPERIMENTAL
+
+    DESPUES DEL USO DEL AULA VIRTUAL EN EL INSTITUTO SUPERIOR
+
+    TECNOLÓGICO PRIVADO DEL ALTIPLANO PUNO 2014
+
+      100.00
+
+       90.00
+
+       80.00
+
+       70.00
+
+       60.00
+                                          51.28                51.35
+       50.00
+
+       40.00                     33.33
+                                                       27.03
+       30.00
+
+                                                                        16.22
+       20.00
+                         10.26
+                  5.13                                                              5.41
+       10.00
+
+        0.00
+                         G. CONTROL                             G. EXPERIMENTAL
+
+                         MUY BUENO       BUENO     REGULAR     DEFICIENTE
+
+
+
+    Fuente: cuadro N° 11
+
+
+
+                                                                                                64
+INTERPRETACIÓN: En la tabla el grupo experimental el 51.35% tiene un
+
+rendimiento bueno así como un 27.03% tiene un rendimiento muy bueno, en
+
+el grupo control el 51.28% tiene un rendimiento deficiente y un 33.33% tiene
+
+un rendimiento regular lo cual demuestra que el uso del aula virtual tuvo una
+
+notable mejora en los estudiantes en el aprendizaje del área de matemática.
+
+
+CUADRO N° 12. DISTRIBUCIÓN DE LAS MEDIDAS OBTENIDAS
+DESPUES DEL USO DEL AULA VIRTUAL
+                                            G. EXPERIMENTAL     G. CONTROL
+        MEDIA ARITMÉTICA                          14.7              10.38
+        VARIANZA                                 12.56              19.73
+        DESVIACION ESTÁNDAR                       3.54               4.44
+
+DISEÑO ESTADÍSTICO PARA LA PRUEBA DE HIPÓTESIS DE LA
+
+DIFERENCIA DE MEDIAS
+
+
+ i.    DATOS.- corresponden a los estadígrafos de las notas obtenidas por el
+
+       grupo control y grupo experimental.
+
+
+ii.    PLANTEAMIENTO DE LA HIPÓTESIS.
+
+
+       a) Hipótesis nula (Ho): el promedio aritmético de las notas obtenidas
+
+          por el grupo experimental es igual al promedio aritmético de las notas
+
+          obtenidas del grupo control.
+
+
+                                𝐻𝑂 : 𝑋̅𝑒 = 𝑋̅𝑐
+
+       b) Hipótesis alterna (Ha): el promedio aritmético de las notas obtenidas
+
+          por el grupo experimental es mayor al promedio aritmético de las
+
+          notas obtenidas por el control.
+
+                                𝐻𝑎 : 𝑋̅𝑒 > 𝑋̅𝑐
+
+iii.   NIVEL DE SIGNIFICANCIA: α=0.05 <> 5%.
+                                                                             65
+iv.   ESTADÍSTICA DE PRUEBA: se aplica la prueba de hipótesis para la
+
+      diferencia de medias, de varianza poblacional además como los datos
+
+      son mayores a 30 se usa la “Z” y su fórmula es:
+
+                      𝑋̅𝑒 − 𝑋̅𝑐          14.7 − 10.38
+               𝑍𝑐 =               =                        = 4.19
+                       𝑆2 𝑆2                 2         2
+                      √ 𝑒+ 𝑐          √(3.54) + (4.44)
+                       𝑛𝑒 𝑛𝑐             30       31
+
+v.    DETERMINACIÓN DE REGIONES
+
+
+
+
+      c) REGLA DE DECISIÓN: como si la Z calculada se encuentra en la
+
+        región de rechazo se acepta la hipótesis alterna y se rechaza la
+
+        hipótesis nula.
+
+
+vi.   CONCLUSIÓN: como Zc=4.19 > Zt=1.645 y cae en la región de rechazo
+
+      esto nos indica que aceptamos la hipótesis alterna que el promedio
+
+      obtenido por el grupo experimental es mayor al promedio obtenido por el
+
+      grupo control, y rechazamos la hipótesis nula, después del tratamiento
+
+      con un nivel del 95% de confianza y 5% de significancia.
+
+
+
+
+                                                                          66
+                                 CONCLUSIONES
+
+
+Las conclusiones a las cuales de llego son los siguientes:
+
+
+ PRIMERA.-      La implementación del aula virtual eleva el rendimiento de los
+
+                estudiantes del Instituto Superior Tecnológico Privado Del
+
+                Altiplano Puno, Así lo demuestra el tratamiento experimental y la
+
+                prueba de hipótesis al utilizar los recursos y actividades propios
+
+                del aula virtual.
+
+
+
+ SEGUNDA.-      El uso del aula virtual mediante los recursos y actividades eleva
+
+                considerablemente el rendimiento académico de los estudiantes
+
+                tal como se confirma en el tratamiento experimental donde el
+                                                     1
+                resultado de ANVA es: 𝐹𝑐 = 37.047 > 𝐹74;0.05 = 3.969 la cual nos
+
+                indica que la prueba es altamente significativa.
+
+
+
+
+ TERCERO.-      La aplicación del aula virtual eleva considerablemente el
+
+                rendimiento académico de los estudiantes del Instituto Superior
+
+                Tecnológico Privado Del Altiplano Puno, tal como se confirma en
+
+                la pruebas de hipótesis estadística la cual observamos que;
+
+                Zc=4.19 > Zt=1.645 está ubicada en la región de rechazo esto
+
+                nos indica que aceptamos la hipótesis alterna, y rechazamos la
+
+                hipótesis nula, con un nivel del 95% de confianza y 5% de
+
+                significancia.
+
+
+
+
+                                                                                 67
+                             SUGERENCIAS
+
+
+PRIMERA.-    A los docentes del área de matemática, del Instituto Superior
+
+             Tecnológico Privado Del Altiplano Puno, se sugiere propiciar la
+
+             utilización de plataformas virtuales para así dirigir el proceso de
+
+             enseñanza-aprendizaje, tales como el aula virtual moodle ya que
+
+             es de uso libre y de esa forma que el alumno interactué con la
+
+             computadora.
+
+
+SEGUNDA.- A los estudiantes y egresados del Instituto Superior Tecnológico
+
+             Privado Del Altiplano Puno, se les sugiere optar por nuevas
+
+             tecnologías de aprendizaje y utilizar los diferentes recursos y
+
+             actividades, para un aprendizaje sea significativo y así incorporar
+
+             nuevos saberes tecnológicos.
+
+
+TERCERA.-    A los docentes de la facultad de ingeniería estadística e
+
+             informática propiciar la investigación a los estudiantes sobre las
+
+             diferentes plataformas virtuales así como la implementación y
+
+             administración de la misma, acorde al avance de la ciencia y la
+
+             tecnología, no dejando de lado las actualizaciones constante de
+
+             los laboratorios de cómputo para así contribuir en el aprendizaje
+
+             de los estudiantes.
+
+
+
+
+                                                                              68
+                              BIBLIOGRAFÍA
+
+TEXTOS:
+
+ALVARADO OYARCE, Otoniel (1990). Administración de la Educación, enfoque
+
+      gerencial (1era. ed.). Lima: Supergráfica CAPA H. (1991). Estadística
+
+      Básica. Cimacyt.
+
+
+ALVARADO OYARCE, Otoniel (1998). Gestión educativa (1era. ed.). Lima:
+
+      Universidad de Lima.
+
+
+BAUTISTA, A. (1994). Las nuevas tecnologías en la capacitación docente. Madrid:
+
+      Visor.
+
+
+COOK, T.D. y REICHARDT, CH.S. (1986). Métodos cualitativos y cuantitativos en
+
+      investigación educativa. Madrid: Morata.
+
+
+EISNER, E.W. (1987). Procesos cognitivos y currículum. Una base para decidir lo
+
+      que hay que enseñar. Barcelona: Martínez Roca.
+
+
+ESPOLSCHEAFFER R., MENDENHALL W., OTT L. (1987). Elementos de
+
+      Muestreo. Grupo Editorial Iberoamérica
+
+
+HICKS C. (1982). Fundamental concepts in the design of experiments.CBS College
+
+      Publishing.
+
+
+LEEDY P. (1974). Practical Research: Planning and design. Macmillan.
+
+
+LAN SOMMERVILLE. (2005). Ingeniería de software. (7ta. ed.). España, Madrid:
+
+      Pearson Educación.
+
+
+LANGILFILLAND. La Biblia Mysql. Anaya Multimedia.
+                                                                            69
+MATSUKAWA M. S. (2002). Análisis y Diseño Orientado a Objetos. (1ra ed.). Lima
+
+      - Perú: Macro.
+
+
+MATTOS, L.A. de (1963). Compendio de Didáctica General. Buenos Aires:
+
+      Kapelusz
+
+
+MARCILLO F. (1992). Manual Práctico de Estadística Básica y Diseño Experimental
+
+      Aplicados a la Acuacultura. Centro de Educación Contínua,
+
+
+MILLER I., FREUND J. (1986). Probabilidad y estadística para ingenieros. Prentice
+
+      - Hall.
+
+
+MÖLLER F. (1979). Manual of methods in aquatic enviroment research. Part 5. -
+
+      Statistical tests. FAO Fisheries technical paper No. 182.
+
+
+MORENO HERRERO, I (1996). Las nuevas tecnologías como nuevos materiales
+
+      curriculares. En Educación y Medios, nº 2, 40-47.
+
+
+PRESSMAN S. R. (2002). Ingeniería de Software un Enfoque Práctico. (5ta ed.).
+
+      España, Madrid: Hall Hispanoamericana.
+
+
+PRESSMAN S. R.(s.f.) Ingeniería de Software un Enfoque Práctico. (6ta ed.).
+
+      España, Madrid: Hallhispanoamerican.
+
+
+STEEL R., TORRIE J. (1985). Bioestadística: Principios y procedimientos. McGraw
+
+      - Hill.
+
+
+SABANAMENDOZA, M. (2006). Modelamiento e Implementación de Base de
+
+      Datos. (1ra ed.).Lima – Perú: MegaByte.SAN MATÍN, A. (1991). La
+
+      organización escolar. En Cuadernos de Pedagogía, nº 194, 26-28.
+
+
+                                                                              70
+SQUIRES, D. & McDOUGALL, A. (1997). Cómo elegir y utilizar software
+
+      educativo. Madrid: Morata/Paideia
+
+
+TAHA H. (1991). Investigación de Operaciones. Alfaomega
+
+
+ZABALA, A. (1990). Materiales curriculares. En MAURi, T. y otros. El currículum
+
+      en el centro educativo. Barcelona: ICE de la UB/Horsori, col.: Cuadernos de
+
+      Educación, 125-167.
+
+
+TESIS:
+
+
+APAZA CHOQUE, E. (2009). Desarrollo de un sistema de registro académico
+
+      usando tecnología web para el Instituto Superior Tecnológico TELESUP
+
+      Puno. [Tesis de Grado]. Universidad Nacional del Altiplano Puno, Facultad
+
+      de Ingeniería Estadística e Informática.
+
+
+ARRATIA AQUINO Y. (2012). Sistema de información para mejorar la gestión
+
+      tributaria de la Municipalidad Distrital de Arapa- 2012. [Tesis de Grado].
+
+      Universidad Nacional del Altiplano Puno, Facultad de Ingeniería Estadística
+
+      e Informática, Escuela profesional de Ingeniería Estadística e Informática.
+
+
+DUKE DE MORALES, L. S., RODRÍGUEZ GALDÁMEZ, C. V., CARLOS ASENCIO,
+
+      L. B. (2001). Diseño y Desarrollo de un Sistema Informático para el Registro
+
+      Académico y Propuesta de Implantación para el Centro Escolar República
+
+      de Venezuela de la ciudad de Santa Ana. [Tesis de Grado]. Universidad de
+
+      el Salvador, Facultad Multidisciplinaria de Occidente, Departamento de
+
+      Ingeniería    Y     Arquitectura;     2001.          Recuperado           de
+
+      http://es.scribd.com/doc/36902447/Tesis-Final.
+
+
+
+                                                                                71
+SANTOS RAMOS J. F. (2012). Sistema de administración de la empresa de
+
+      transporte turístico del sur Ilave-2012. [Tesis de Grado]. Universidad
+
+      Nacional del Altiplano Puno, Facultad de Ingeniería Estadística e Informática,
+
+      Escuela profesional de Ingeniería Estadística e Informática; 2013.
+
+
+REFERENCIAS DE INTERNET:
+
+
+Amaro Calderón, S. D. y Valverde Rebaza. J. C. Metodologías Agiles.[en línea],
+
+      [consulta      15         Septiembre        2013].    Disponible     en      <
+
+      http://www.sisman.utm.edu.ec/libros/FACULTAD%20DE%20CIENCIAS%2
+
+      0ZOOT%C3%89CNICAS/CARRERA%20DE%20INGENIER%C3%8DA%2
+
+      0EN%20INFORMATICA%20AGROPECUARIA/07/INGENIERIA%20DEL%
+
+      20SOFTWARE%20I/METODOLOGIAS%20AGILES.pdf
+
+
+CANÓS J., LETELIER P., y PENADÉS C. Metodologías Ágiles en el Desarrollo de
+
+      Software.[en    línea],    [consulta   15     Marzo   2014].   Disponible   en:
+
+      http://noqualityinside.com.ar/nqi/nqifiles/XP_Agil.pdf
+
+
+Definición de Cliente / Servidor [en línea], [consulta 6 Agosto 2013]. Disponible en:
+
+      http://www.mastermagazine.info/termino/4294.php# ixzz2e c3kESVV
+
+
+Diferencia entre sitio web y página web [en línea], [consulta 13 Septiembre 2013].
+
+      Disponible en: <http://www.masadelante.com /faqs/sitio-web>
+
+
+Ingeniería del Software [en línea], [consulta 14 Octubre 2013]. Disponible
+
+      en:http://www.sisman.utm.edu.ec/libros/FACULTAD%20DE%20CIENCIAS
+
+      %20ZOOT%C3%89CNICAS/CARRERA%20DE%20INGENIER%C3%8DA
+
+      %20EN%20INFORMATICA%20AGROPECUARIA/07/INGENIERIA%20DE
+
+      L%20SOFTWARE%20I/INGENIERIA%20DEL%20SOFTWARE.pdf
+
+                                                                                  72
+JAVASCRIPT FÁCIL Y RÁPIDOCON JQUERY [en línea], [consulta 15 Agosto
+
+      2013]. Disponible en: <http://itecrepaso.com.ar/uploads /JAVASCRIPT-
+
+      JQUERY.pdf>
+
+
+Metodologías Ágiles en el Desarrollo de Software (2003) [en línea], [consulta 4
+
+      Agosto          2013].          Disponible            en:       <http://www.incap.org.gt
+
+      /sisvan/index.php/es/acerca-desan/conceptos/sistema-de-vigilancia>
+
+
+Metodologías de Desarrollo de Software [en línea], [consulta 5 Septiembre 2013].
+
+      Disponible                     en:                     <http://alarcos.inf-cr.uclm.es/doc
+
+      /ISOFTWAREI/Tema04.pdf>
+
+
+Métricas, Estimación y Planificación en Proyectos de Software [en línea], [consulta
+
+      14              Octubre                2013].                  Disponible            en:
+
+      http://www.willydev.net/descargas/WillyDEV_PlaneaSoftware.Pdf
+
+
+PhpMyAdmin      [en     línea],      [consulta     6       Agosto    2013].   Disponible   en:
+
+      <http://www.slideshare.net/LadyRincon/phpmyadmin> [Consulta 6 Agosto
+
+      2013]
+
+
+Qué   es   PHP     [en     línea],     consulta        6    Agosto    2013]   Disponible   en:
+
+      <http://www.taringa.net/posts/info/11317916/Que-es-PHP-Lenguaje-de-
+
+      programacion.html>
+
+
+Sistema Administrativo Relacional de Bases de Datos [en Línea], [consulta 15
+
+      Agosto          2013]          Disponible            en:       <http://www.sinemed.com
+
+      /recursos/docs/MySQL.pdf>
+
+
+
+
+                                                                                            73
+Sistema de Administración Tributaria de Lima [en línea], [consulta 4 Agosto 2013].
+
+      Disponible                 en:             http://www.sat.gob.pe/WebSiteV8
+
+      /Modulos/contenidos/tri_ImpVeh_info.aspx
+
+
+Sistemas de información en la organización [en línea], [consulta 26 Noviembre
+
+      2013].                   Disponible                en:http://highered.mcgraw-
+
+      hill.com/sites/dl/free/9701026586/70189/CapituloMuestra.pdf
+
+
+SUAREZ RODRIGUES, J., RODAS MONDRAGON, S. Y ZAPATA BENITES, J.
+
+      (2011)   [en   línea],    [consulta   4   Agosto    2013].   Disponible   en:
+
+      <http://www.slideshare.net/pomary/savedfiles?s_title=la-declaracin-
+
+      jurada10206116&user_login = Juan Carranza>
+
+
+
+
+                                                                                74
+ANEXO I
+
+
+          75
+                     LISTA DE ESTUDIANTES
+CARRERA PROFESIONAL DE CONTABILIDAD GRUPO “A” SIN AULA VIRTUAL
+
+
+                           ESTUDIANTES
+        1    APAZA BRUNA LUIS WILSON             26
+        2    ARAPA LAYME RUTH ELIZABET           22
+        3    AROHUANCA FLORES WUILIAN            35
+        4    BRUNA LIZARRAGA VANESSA             15
+        5    CAHUI TICONA MARIBEL                46
+        6    CALSIN QUISPE RICHARD NILTON        21
+        7    CARIAPAZA CONDORI SONI              38
+        8    CATARI CARITA ELIZABET              40
+        9    CCAMA PUMA KATERINE JEANET          34
+        10   CHOQUE CALIZAYA MAYRE VANESSA       37
+        11   CONDORI MELO CEIDY                  21
+        12   CRUZ GUTIERREZ RODRIGO              19
+        13   CUADROS CASTRO MARITZA MARIBEL      31
+        14   DIAZ CHICCHEAPAZA LUCERO SUSI       23
+        15   ESCOBEDO APAZA MARTHA               49
+        16   FERNANDEZ FLORES GIOVANA            35
+        17   FLORES COLQUE KATERINE              18
+        18   GRANUEL SANCCA MERY                 51
+        19   HILARY CHUCHY ERIKA KATIA           32
+        20   HUANCA GOMEZ MIRYAM                 35
+        21   MAMANI CCAMA MELANI MELISA          25
+        22   MAMANI VILCA HENRY JOEL             38
+        23   MANANI GARCIA MAGDA EMILIA          22
+        24   MANSILLA PINEDA MARICRUZ            15
+        25   OLGUIN MIRANDA NILSON NEYSER        22
+        26   PABIO AROCUTIPA CARMEN RORADIA      25
+        27   PARISUAÑA QUINTANO MILER ANTONY     41
+        28   PHOCCO PACCO CLEBER GEOFREY         28
+        29   PONCE CHOQUE YUDI                   24
+        30   QUENAYA ZAPANA GABY MIRYAM          40
+        31   QUILLA PINEDA GIOANY                37
+        32   QUISPE LLANOS EDIT JULIANA          22
+        33   RAMIREZ FLORES ANA LUCIA            38
+        34   ROSAS ROJAS GUADALUPE               32
+        35   SUAÑA NEYRA VANESSA                 31
+        36   TICONA RAMOS JAIME                  24
+        37   TISNADO MANSILLA SILVIA             25
+        38   VALERIANO QUISPE JOSE               28
+        39   VISA LEON AYDE PAOLA                37
+
+
+
+
+                                                                 76
+                     LISTA DE ESTUDIANTES
+CARRERA PROFESIONAL DE CONTABILIDAD GRUPO “B” CON AULA VIRTUAL
+
+
+                             ESTUDIANTES
+         1    ACCHA MOGOIRE NOE                   56
+         2    ADUVIRI ANCHAPURI HERNAN            43
+         3    ALECASTRE LUQUE ANGIE KELY          49
+         4    ANCCOTA CCOPA YOVANA MIRIAM         60
+         5    ANCCOTA FLORES ALCIDEZ              56
+         6    APAZA PILCO NENA MIRIELAN           26
+         7    CALLA PALLY WILFREDO                44
+         8    CALLATA QUISPE KAREN SHEYLA         49
+         9    CARIAPAZA TICONA ENNY LISET         58
+         10   CATACORA CAYO NELLY                 22
+         11   CATARI CARITA CRIS                  41
+         12   CENTENO ZUÑIGA OMAR ABEL            46
+         13   CHILE LUNA YHERY ZENON              55
+         14   CHOQUEHHUAYTA CCASA MYRIJAN SOFIA   25
+         15   CHURA MAMANI RINA                   42
+         16   CHURA MIRANDA LUIS                  50
+         17   CONDORI TICONA NOEMY                58
+         18   ESTEBAN BAYLON IVAN                 36
+         19   FLORES COSI BETZAIDA                32
+         20   GAMARRA COAGUILA AMPARO             48
+         21   GONZALES HUERTA YESSENIA            54
+         22   GONZALES QUISPE ABEL                29
+         23   LOPEZ APAZA BRANDON                 42
+         24   MACHACA RAMOS FLOR                  44
+         25   MERMA OLGUIN LIZ                    50
+         26   NINA PACARI DENIS                   22
+         27   NUNEZ NAVARRO ALEXANDRA             44
+         28   PILCO BONIFACIO MARISOL SANDRA      56
+         29   QUISPE ALCCA ANTONIA CLORINDA       23
+         30   QUISPE ESPADILLA ISABEL             42
+         31   QUISPE MAMANI JEANET                36
+         32   QUISPE TICONA KATTY GINA            47
+         33   RAMOS CANDIA ROSMERY                60
+         34   TICONA VERA FREDY                   53
+         35   TORRES NINA DIEGO                   56
+         36   VALERIANO CHOQUE MIRYAN             46
+         37   ZAPATA VEGA MARLENE                 50
+
+
+
+
+                                                                 77
+Calificación de estudiantes en la utilización de recursos
+                  Y actividades del Aula virtual.
+             Calificaciones en escala vigesimal ( 00 – 20)
+N° alumnos           Recursos         Actividades       Promedio
+    1                       15                   13          14
+    2                       12                   17          15
+    3                       18                   13          16
+    4                       11                   13          12
+    5                       16                   10          13
+    6                       15                   11          13
+    7                       17                   11          14
+    8                       11                   14          13
+    9                       15                   12          14
+   10                       14                   16          15
+   11                       14                   11          12
+   12                       14                   15          14
+   13                       17                   12          15
+   14                       13                   10          12
+   15                       11                   15          13
+   16                       15                   13          14
+   17                       13                   16          15
+   18                       11                   13          14
+   19                       10                   15          13
+   20                       17                   17          17
+   21                       12                   11          12
+   22                       18                   16          17
+   23                       15                   15          15
+   24                       15                   10          13
+   25                       13                   14          14
+   26                       17                   17          17
+   27                       16                   15          16
+   28                       15                   18          17
+   29                       13                   13          13
+   30                       15                   16          16
+   31                        8                   10           9
+   32                       14                   13          14
+   33                       14                    8          11
+   34                       11                   13          12
+   35                       15                   11          13
+   36                       18                   15          17
+   37                       15                   16          16
+   38                       14                   13          14
+   39                       15                   12          14
+
+
+
+
+                                                                   78
+ANEXO II
+
+
+       79
+            MANUAL DE MOODLE DEL I.S.T.P. DEL ALTIPLANO
+
+Manual del Profesor
+
+Esta página es una guía de consulta rápida para crear cursos en línea con Moodle.
+Perfila las principales funciones disponibles así como algunas de las principales
+decisiones que tendrá que tomar.
+
+Secciones de este documento:
+
+   1. Para comenzar
+   2. Configuración del curso
+   3. Subir archivos
+   4. Establecer las actividades
+   5. Funcionamiento del curso
+   6. Información adicional
+
+Para comenzar
+
+Este documento parte de la suposición de que el administrador de su sitio ha
+instalado Moodle y le ha dado un curso nuevo, vacío, con el que empezar. También
+asume que usted ha entrado en su curso identificándose con su cuenta de profesor.
+
+A continuación hay tres consejos generales que le ayudarán a comenzar.
+
+   1. No tenga miedo de experimentar:
+
+      Siéntase libre para fisgonear por ahí y cambiar cosas. Es difícil romper nada
+      en un curso Moodle e incluso aunque lo haga, normalmente es fácil
+      repararlo.
+
+   2. Tenga en cuenta y use estos pequeños iconos:
+
+        - el icono de edición le permite editar cualquier cosa que esté junto a
+      él.
+
+         - el icono de ayuda le proporcionará ayuda en una ventana emergente.
+
+          - el icono de ojo-abierto le permitirá ocultar algo a los estudiantes
+
+          - el icono del ojo-cerrado le permitirá mostrar un elemento oculto
+
+   3. Use la barra de navegación que aparece en la parte superior de la
+      página: Esta barra le permite saber dónde se encuentra y evita que se
+      pierda.
+
+Configuración del curso
+                                                                                  80
+Lo primero que debe hacer es mirar bajo "Administración" en la página principal
+del curso y hacer clic en "Configuración..." (Advierta que este enlace y de hecho
+toda la sección de Administración está disponible sólo para usted (y el
+administrador del sitio). Los estudiantes no podrán ver estos enlaces.
+
+En la página de Configuración puede cambiar una serie de opciones de su curso,
+desde el nombre del mismo hasta el día en que comenzará. No vamos a hablar
+aquí de todas ellas, ya que todas tienen un icono de ayuda a su lado que las explica
+en detalle. Sin embargo, voy a hablar sobre la más importante de ellas: el formato
+de curso.
+
+El formato de curso que usted elija decidirá la disposición básica de su curso,
+como una plantilla. Moodle versión 1.0 tiene tres formatos, en el futuro
+probablemente habrá muchos más (por favor, ¡envíe sus ideas a
+martin@moodle.com!)
+
+A continuación hay algunas pantallas de tres ejemplos de curso en cada uno de los
+tres formatos (ignore las diferencias de color, las cuales fueron establecidas para
+todo el sitio por el administrador):
+
+Formato semanal:
+
+
+
+
+                                                                                 81
+CURSOS DICTADOS:
+
+
+
+
+CURSOS DETALLADO POR SEMANAS:
+
+
+
+
+                                82
+FORMATO DE ESTUDIANTES INSCRITOS:
+
+
+
+
+Subir archivos
+
+Es posible que usted tenga contenidos que desee añadir a su curso, tales como
+páginas web, archivos de audio, archivos de vídeo, documentos en formato Word,
+o animaciones en Flash. Cualquier tipo de archivo existente puede subirse a su
+curso y almacenarse en el servidor. Estando sus archivos en el servidor, usted
+puede moverlos, renombrarlos, editarlos o borrarlos.
+
+Todo esto se logra a través del enlace Archivos en el menú de Administración. La
+sección de archivos aparece como esta:
+
+Esta interfaz está sólo disponible para los profesores, no es accesible para los
+estudiantes. Los alumnos podrán acceder a los archivos individuales más tarde
+(como "Recursos", consulte la siguiente sección).
+
+Tal como puede ver en la pantalla, los archivos se presentan como una lista en
+subdirectorios. Puede crear cualquier cantidad de subdirectorios para organizar
+sus archivos y mover sus archivos de uno a otro.
+
+El subir archivos desde la web está restringido a uno a la vez. Si quiere subir un
+montón de archivos de una vez (por ejemplo un sitio web entero), lo más sencillo
+es usar un programa zip para comprimirlos en un único archivo, subir el archivo
+"zip" y descomprimirlo en el servidor (verá un enlace "unzip" junto a los archivos
+comprimidos zip).
+
+
+
+
+                                                                               83
+Para ver una vista previa de cualquier archivo que haya subido sólo tiene que hacer
+clic en su nombre. Su navegador se ocupará de presentarlo o de descargarlo en su
+ordenador.
+
+Pueden editarse archivos en formato texto y HTML en línea. Los otros tipos de
+archivo tendrán que se editados en su ordenador personal y subirlos de nuevo. Si
+usted sube un archivo con el mismo nombre que uno ya existente será
+automáticamente sobreescrito.
+
+Una nota final: Si su contenido reside en la web, entonces usted no tendrá que
+subir los achivos en absoluto, puede enlazar con él directamente desde dentro del
+curso (vea el módulo Recursos en la siguiente sección).
+
+
+
+Establecer las actividades
+
+Crear un curso implica añadir módulos de actividad, en la página principal del
+curso, que los estudiantes usarán. Podrá revolver el orden siempre que quiera.
+
+Para activar el modo de edición, haga clic en "Activar edición" que aparece bajo
+"Administración". Esto muestra u oculta los controles extra que le permiten
+manipular su página principal del curso. Advierta en la primera pantalla de arriba
+(la del Formato de curso semanal) que los controles de edición están activados.
+
+Para añadir una nueva actividad, simplemente vaya a la semana o tema o sección
+de la pantalla donde quiere añadirla, y seleccione el tipo de actividad desde el
+menú desplegable. A continuación hay un resumen de las actividades estándar en
+Moodle 1.0:
+
+Tarea
+        Una tarea es donde usted establece un trabajo que tienen que hacer los
+        alumnos con una fecha de entrega y una calificación máxima. Los
+        estudiantes podrán subir un archivo para cumplir con el requisito. La fecha
+        en la que suben sus archivos queda registrada. Después, usted dispondrá de
+        una página en la que puede ver cada archivo (y cuán tarde o temprano fue
+        subido) y luego grabar una calificación y un comentario. Media hora después
+        de que usted haya calificado a un alumno, Moodle enviará automáticamente
+        un mensaje de correo electrónico a ese estudiante con una notificación.
+
+Consulta
+      Una actividad de consulta es muy simple. Usted hace una pregunta y
+      especifica una elección de respuestas. Los estudiantes pueden hacer su
+      elección y usted tiene una pantalla de informe en la que puede ver los
+      resultados. Yo suelo usar esto para obtener consentimiento por parte de
+      mis alumnos, pero usted puede usarlo para hacer una encuesta rápida o
+      conseguir que la clase vote sobre algo.
+
+Foro
+
+
+                                                                                84
+         Este módulo es, con mucho, el más importante. Es aquí donde la discusión
+         tiene lugar. Cuando añada un nuevo foro, tendrá la posibilidad de elegir
+         entre diferentes tipos: un "debate sencillo" sobre un único tema, un "foro
+         para uso general" abierto a la participación de todos, o uno de tipo "cada
+         persona plantea un tema".
+
+Diario
+         Cada actividad del diario es una entrada en el diario del curso entero. Para
+         cada uno usted puede especificar una pregunta abierta que guíe lo que los
+         estudiantes escriban, así como también un período de tiempo en el que el
+         diario esté abierto (esto sólo en el formato de curso semanal). Como norma
+         general se suele crear un diario por semana. Aliente a los alumnos a escribir
+         de manera reflexiva y crítica en estos diarios, pues están sólo disponibles
+         para ellos y usted. Después usted podrá calificar y comentar todas las
+         entradas de esa semana o tópico, y los estudiantes recibirán un mensaje de
+         correo electrónico automático informándoles de su respuesta.
+
+Recurso
+      Los recursos son el contenido de su curso. Cada recurso puede ser un
+      archivo que usted haya subido o al que apunta usando una dirección (URL).
+      También usted puede mantener páginas simples con texto, escribiéndolas
+      directamente en un formulario al efecto.
+
+Cuestionario
+      Este módulo le permite diseñar y proponer exámenes o test, compuestos
+      de preguntas de opción múltiple, verdadero/falso, y preguntas con
+      respuestas cortas. Estas preguntas se mantienen clasificadas en una base
+      de datos por categorías, y pueden ser reutilizadas dentro de un curso e
+      incluso entre varios cursos. Puede permitirse el intentar resolver los
+      cuestionarios varias veces. Cada intento se califica automáticamente, y el
+      profesor puede elegir si quiere que se muestren o no los comentarios o las
+      respuestas correctas. Este módulo incluye utilidades de calificación.
+
+Encuesta
+     El módulo de encuesta proporciona una serie de instrumentos de encuesta
+     predefinidos que son útiles para la evaluación y comprensión de su clase.
+     Actualmente incluyen los instrumentos COLLES Y ATTLS. Pueden pasarse a
+     los estudiantes al principio, como herramienta de diagnóstico, y al final del
+     curso como herramienta de evaluación (En mis cursos, yo uso una cada
+     semana).
+
+
+Tras añadir sus actividades usted puede moverlas arriba y abajo en la presentación
+de su curso haciendo clic en los pequeños iconos de flecha (     ) que están junto
+a cada una de ellas. También puede eliminarlas usando el icono con forma de
+equis , y re-editarlas usando el icono de edición .
+
+
+
+Funcionamiento del curso
+
+                                                                                   85
+Hay grandes planes para ampliar este documento y convertirlo en un tutorial más
+completo. Hasta entonces aquí hay algunas pocas ideas:
+
+   1. Suscríbase a todos los foros para mantenerse en contacto con la actividad
+      de su clase.
+   2. Aliente a todos los estudiantes a rellenar sus perfiles (incluyendo fotos) y
+      léalos todos - esto le ayudará a poner en contexto las aportaciones
+      posteriores y le facilitará el contestar de forma que se ajuste sus propias
+      necesidades.
+   3. Mantenga las notas para sí mismo en el "Foro de profesores" (bajo
+      Administración). Éste es especialmente útil cuando el profesorado trabaja
+      en equipo.
+   4. Use el enlace "Registros" (bajo Administración) para obtener acceso a los
+      registros completos y en bruto. En él verá un enlace a una ventana
+      emergente que se actualiza cada sesenta segundos y que muestra la
+      última hora de actividad. Es útil tenerla abierta en su escritorio todo el
+      día para ver lo que ocurre en el curso.
+   5. Use el "Informe de Actividades" (junto a cada nombre en la lista de todas
+      las personas, o desde cuaLquier página de perfil de usuario). Esto le
+      proporciona una magnífica manera de ver lo que cualquier persona en
+      particular ha estado haciendo en el curso.
+   6. Conteste a los estudiantes rápidamente. No lo deje para después, hágalo
+      enseguida. No sólo es fácil agobiarse con la cantidad que puede
+      generarse, sino que es una parte crucial de la creación y mantenimiento
+      de un sentimiento de comunidad en su curso.
+
+Información adicional
+
+Si tiene cualquier problema particular con su sitio, debe contactar con su
+administrador local del sitio.
+
+Si tiene grandes ideas para mejorar Moodle, o incluso alguna buena historia, venga
+a moodle.org y únase al curso llamado "Using Moodle". Nos encantará tener
+noticias suyas, y usted pude ayudar a mejorar Moodle.
+
+Si desea contribuir programando nuevos módulos, o escribiendo documentación,
+o artículos, contacte conmigo: Martin Dougiamas o échele un vistazo al sitio "bug
+tracker" de Moodle (para corrección de errores y solicitud de mejoras), en
+moodle.org/bugs
+
+Finalmente, recuerde usar los iconos de ayuda - aquí tiene un índice de todos los
+archivos de ayuda de Moodle.
+
+Gracias por usar Moodle - ¡y buena suerte con sus clases!
+
+
+
+
+                                                                                86
+

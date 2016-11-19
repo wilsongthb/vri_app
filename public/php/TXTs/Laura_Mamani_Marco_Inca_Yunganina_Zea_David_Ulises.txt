@@ -1,0 +1,4939 @@
+   UNIVERSIDAD NACIONAL DEL ALTIPLANO
+FACULTAD DE INGENIERIA MECÁNICA ELÉCTRICA, ELECTRÓNICA Y SISTEMAS
+
+           ESCUELA PROFESIONAL DE INGENIERIA ELECTRÓNICA
+
+
+
+
+“DISEÑO E IMPLEMENTACIÓN DE UN SISTEMA ASISTIDO POR PLC
+ PARA LA AUTOMATIZACIÓN DE UNA DOBLADORA DE TUBOS Y
+           SUPERVISADO POR UN SISTEMA SCADA”
+
+                                TESIS
+
+
+                          PRESENTADO POR:
+
+
+               LAURA MAMANI, MARCO INCA
+              YUNGANINA ZEA, DAVID ULISES
+
+
+        PARA OPTAR EL TÍTULO PROFESIONAL DE
+
+                    INGENIERO ELECTRÓNICO
+
+
+
+                             PUNO – PERÚ
+
+                                2013
+ÁREA: Automatización e instrumentación
+
+TEMA: Instrumentación y control de procesos
+                                  DEDICATORIA
+
+A mis Padres Alberto y Genoveva, que con su apoyo permanente me impulsaron
+
+siempre a no renunciar nunca mis sueños y aspiraciones. También debo hacer extensivo
+
+mi dedicatoria a mi hermano que me brindó su apoyo moral e incondicional que han
+
+estado en las distintas etapas de mi desarrollo personal y profesional.
+
+
+Marco Inca Laura Mamani
+
+
+
+
+A mis padres Sixto Yunganina Mayta y Porfiria Zea sonco, que con su apoyo
+
+permanente me impulsaron siempre a no renunciar nunca mis sueños y aspiraciones.
+
+También debo hacer extensivo mi dedicatoria a mis hermanas que me brindaron su
+
+apoyo moral e intelectual que han estado en las distintas etapas de mi desarrollo
+
+personal y profesional.
+
+
+David Ulises Yunganina Zea
+                                    AGRADECIMIENTO
+
+
+Agradecemos en este momento crucial de nuestra formación profesional a la universidad
+
+Nacional del Altiplano por habernos brindado la oportunidad de realizar nuestros
+
+estudios profesionales. Agradecer en sobremanera a los ingenieros de la facultad de
+
+Mecánica eléctrica, electrónica y sistemas en especial a los ingenieros de la escuela
+
+profesional de ingeniería electrónica por habernos brindado sabiduría, siendo guía
+
+orientador de conocimientos fructíferos para nuestra formación profesional.
+
+
+A los miembros del jurado por sus orientaciones y sugerencias que permitieron mejorar
+
+nuestro trabajo de investigación.
+
+
+A mi director de tesis y asesor; quienes nos brindaron su apoyo incondicional con sus
+
+conocimientos y experiencias valiosas durante la realización de nuestro proyecto de
+
+investigación.
+
+
+A nuestros padres y hermanos por sus ejemplos y sus apoyos incondicionales durante
+
+este proceso que implico sacrificio y largas noches de desvelo.
+
+
+Finalmente a nuestras compañeras de estudios quienes son un grupo humano
+
+extraordinario, con los cuales aprendimos muchas cosas juntos, tanto a nivel intelectual
+
+como humano.
+                                                                ÍNDICE
+
+
+RESUMEN .......................................................................................................... 13
+
+ABSTRACT ........................................................................................................ 14
+
+INTRODUCCIÓN ................................................................................................ 15
+
+                                                        CAPITULO I
+
+                     PLANTEAMIENTO DEL PROBLEMA DE INVESTIGACIÓN
+
+1.1. Descripción del problema ............................................................................ 18
+
+1.2. Definición del problema de investigación ..................................................... 19
+
+1.2.1. Definición general del problema ............................................................... 19
+
+1.3. Justificación del problema de investigación ................................................. 19
+
+1.4. Limitaciones de la investigación .................................................................. 20
+
+1.5. Delimitaciones del problema ........................................................................ 20
+
+1.6. Objetivos de la investigación ....................................................................... 20
+
+1.6.1. Objetivo general........................................................................................ 20
+
+1.6.2. Objetivo específico ................................................................................... 20
+
+                                                       CAPITULO II
+
+                                                   MARCO TEÓRICO
+
+2.1. Antecedentes de la investigación ................................................................ 22
+
+2.2. Sustento teórico ........................................................................................... 24
+
+2.2.1. Curvado o doblado ................................................................................... 24
+
+2.2.1.1. Proceso de curvado de tubos ................................................................ 25
+
+2.2.2. Partes principales de una máquina para curvado de tubos ...................... 26
+
+2.2.2.1. Palanca .................................................................................................. 26
+
+2.2.2.2. Eje de rotación ....................................................................................... 26
+
+2.2.2.3 Motor ...................................................................................................... 27
+
+2.2.3. Tipo de maquinas para curvado de tubos ................................................ 28
+2.2.3.1. Curvado de tubo manual ....................................................................... 28
+
+2.2.3.2. Maquina de curvado de tubos N.C-control Numérico ............................ 29
+
+2.2.3.3 Maquina de curvado de tubos C, N.C-control Numérico Computacional 29
+
+2.2.4. Factores que intervienen en el curvado de tubos ..................................... 30
+
+2.2.4.1 Espesor del tubo ..................................................................................... 30
+
+2.2.4.2. Diámetro externo e interno de las paredes ............................................ 30
+
+2.2.4.3. Radio máximo y mínimo ........................................................................ 30
+
+2.2.4.4. Dureza ................................................................................................... 30
+
+2.2.5. Técnicas de curvado ................................................................................. 30
+
+2.2.5.1. Curvado de tubos con rueda de garganta ............................................. 31
+
+2.2.5 2. Curvadora de tubos con mango hidráulico ............................................ 33
+
+2.2.5.3. Tensión en las piezas de trabajo doblado ............................................. 33
+
+2.2.6 Influencias de las propiedades del material .............................................. 34
+
+2.2.7. Reductor de velocidad .............................................................................. 38
+
+2.2.7.1. Tipos de reductores de velocidad .......................................................... 38
+
+    a.   Sistema de poleas con correa.................................................................. 39
+    b.   Transmisión de engranajes ...................................................................... 41
+    c.   Tren de sistema de poleas y engranajes ................................................. 42
+    d.   Engranajes con cadena ........................................................................... 44
+
+2.2.7.2. Guía para la elección del tamaño de un reductor moto reductor ........... 45
+
+2.2.7.2.1. Características de operación .............................................................. 45
+
+2.2.7.2.2. Características del trabajo a realizar .................................................. 45
+
+2.2.7.2.3. Condiciones del ambiente................................................................... 45
+
+2.2.8. La tubería.................................................................................................. 46
+
+2.2.8.1. Fabricación ............................................................................................ 46
+
+2.2.8.2. Tubo estructural ..................................................................................... 47
+
+2.2.9. Cilindro neumático .................................................................................... 48
+
+2.2.9.1 Cilindro de simple efecto ........................................................................ 48
+2.2.9.2. Cilindro de doble efecto ......................................................................... 49
+
+2.2.10. Automatización industrial ........................................................................ 50
+
+2.2.10.1. Campos de aplicación ......................................................................... 50
+
+2.2.10.2. Desafíos y objetivos de la automatización ........................................... 51
+
+2.2.10.3. Tipos de automatización ...................................................................... 53
+
+2.2.10.4. Sistema de lazo abierto y lazo cerrado ................................................ 55
+
+2.2.10.4.1. Sistema en lazo cerrado ................................................................... 55
+
+2.2.10.4.2. Sistema en lazo abierto .................................................................... 57
+
+2.2.10.4.3. Sistema de control de lazo cerrado contra los sistemas de control
+
+en lazo abierto .................................................................................................... 58
+
+2.2.10.5. PLC ...................................................................................................... 59
+
+2.2.10.5.1. PLC en comparación con otros sistemas de control ......................... 60
+
+2.2.10.5.2. Señales analógicas y digitales .......................................................... 62
+
+2.2.10.5.3 ventaja de los PLC ............................................................................. 63
+
+2.2.10.5.4. Inconvenientes .................................................................................. 64
+
+2.2.10.5.5. Estructura interna ............................................................................. 64
+
+2.3. Glosario de términos básicos....................................................................... 66
+
+    a.   Diseño ...................................................................................................... 66
+    b.   Implementación........................................................................................ 66
+    c.   sistema .................................................................................................... 66
+    d.   automatización ......................................................................................... 66
+    e.   proyección................................................................................................ 67
+    f.   precisión................................................................................................... 67
+
+2.4. Hipótesis y variables .................................................................................... 67
+
+2.4.1. Hipótesis general ..................................................................................... 67
+
+2.4.2. Hipótesis especifica .................................................................................. 67
+
+2.5. Operacionalización de las variables ............................................................ 68
+                                                      CAPÍTULO III
+
+                            DISEÑO METODOLÓGICO DE INVESTIGACIÓN
+
+3.1. Tipo y diseño de la investigación ................................................................. 70
+
+3.2. Población y muestra de la investigación ..................................................... 70
+
+3.3. Técnicas e instrumentos de recopilación de información ............................ 70
+
+3.3.1. Técnicas .................................................................................................. 70
+
+3.3.2. Instrumentos ............................................................................................. 71
+
+3.4. Plan de análisis............................................................................................ 71
+
+3.5. Fases de la investigación ............................................................................ 71
+
+                                                      CAPÍTULO IV
+
+ANÁLISISE E INTERPRETACIÓN DE RESULTADOS
+
+4.1. Análisis e interpretación de resultados ........................................................ 73
+
+4.2. Diseño e implementación de la máquina de tubos ...................................... 73
+
+4.3. Diseño de soporte básico para la Curvadora de tubos ................................ 73
+
+4.3.1. Diseño de una base para la uña móvil fija ................................................ 75
+
+4.3.2. Diseño de uña móvil fija ............................................................................ 77
+
+4.3.3. Diseño de soporte para la segunda uña móvil .......................................... 79
+
+4.3.4. Diseño de la segunda uña móvil ............................................................... 81
+
+4.3.5. Diseño de cilindro neumático para el ensamble del mecanismo .............. 83
+
+4.3.6. Diseño de brazos hidráulicos .................................................................... 85
+
+4.3.7. Motores Trico ............................................................................................ 87
+
+4.3.8. Diseño de soporte para brazo móvil ......................................................... 89
+
+4.3.9. Diseño de soporte para brazo fijo ............................................................. 90
+
+4.3.10. Diseño de matriz de 1” ............................................................................ 92
+
+4.3.11. Diseño de polea motriz y polea conducida ............................................. 94
+
+4.3.12. Diseño de piñón y engranaje para el sistema de transmisión circular .... 97
+
+4.3.13. Motor trifásico para el ensamble del mecanismo ................................... 100
+4.3.13.1. Cálculos reales para el motor trifásico ................................................ 100
+
+4.3.13.2. Ensamble de piezas ........................................................................... 102
+
+4.3.13.2.1. Ensamble de sistema de transmisión .............................................. 102
+
+4.3.14. Calculo de velocidad en el sistema de transmisión .............................. 103
+
+4.3.15. Ensamble de uña móvil fija y base ........................................................ 105
+
+4.3.16, Ensamble de uña móvil giratorio y base ................................................ 106
+
+4.3.16.1. Ensamble gata y actuadores (neumática y motores trico) .................. 106
+
+4.3.17, Ensamble del mecanismo completo ...................................................... 107
+
+4.3.18. Programación del variador de velocidad ................................................ 107
+
+4.3.18.1. Ajuste de velocidad, frenado dinámico, potencia, corriente nominal .. 107
+
+PARAMETROS DE PROGRAMACION DEL VARIADOR DE VELOCIDAD
+
+GRUPO 0 Parámetros del usuario..................................................................... 108
+
+GRUPO 1 Parámetros básicos .......................................................................... 109
+
+GRUPO 2 Operación de parámetros ................................................................. 110
+
+GRUPO 3 Parámetros de las funciones de salida ............................................. 111
+
+GRUPO 4 Parámetros de las funciones de entrada .......................................... 112
+
+GRUPO 5 Multivelocidades y programaciones del PLC ................................... 113
+
+GRUPO 6 Parámetros de protección ................................................................ 114
+
+GRUPO 7 Parámetros del motor ....................................................................... 115
+
+GRUPO 8 Parámetros especiales ..................................................................... 115
+
+GRUPO 9 Parámetros de comunicación .......................................................... 116
+
+4.3.18.2. Programación del LOGO PLC ............................................................ 117
+
+4.3.18.3. Componentes eléctricos para el ensamble del tablero ....................... 121
+
+    a.   guarda motor........................................................................................... 121
+    b.   Contactor ................................................................................................ 122
+    c.   Relee de sobrecarga térmica .................................................................. 123
+    d.   Elementos de accionamiento .................................................................. 124
+4.3.18.4. Ensamble del tablero eléctrico diagrama de fuerza ............................ 125
+
+CONCLUSIONES .............................................................................................. 126
+
+SUGERENCIAS................................................................................................. 127
+
+BIBLIOGRAFÍAS ............................................................................................... 128
+
+SITIOS EN WEB GRAFIAS ............................................................................... 130
+
+ANEXOS ............................................................................................................ 131
+
+Ensamble y evidencias de la doblada de tubos ................................................. 132
+
+
+
+INDICE DE FIGURAS
+
+Figura Nº 01 Brazos del mecanismo .................................................................. 26
+
+Figura Nº02 Eje de rotación para el curvado de tubos. ...................................... 27
+
+Figura Nº 03 Motor trifásico de 2Hp .................................................................... 28
+
+Figura Nº 04 Dobladora de tubo manual realizado en solidwork. ....................... 28
+
+Figura Nº 05 Curvadora de tubos CNC .............................................................. 29
+
+Figura Nº 06 Curvado por presión y compresión ............................................... 31
+
+Figura Nº 07 Fibras neutras ................................................................................ 32
+
+Figura Nº 08 Curvadura de tubos con rueda de garganta .................................. 33
+
+Figura Nº 09 Curvadora de tubos con mando hidráulico. ................................... 33
+
+Figura Nº 10 Tensiones de tracción, fibra neutra, tensiones de presión. ........... 33
+
+Figura Nº 11 Propiedades del material, flexibilidad............................................. 34
+
+Figura Nº 12 Elasticidad recuperadora de la pieza del trabajo luego de cada
+
+Figura fuerza efectiva ......................................................................................... 35
+
+Figura Nº 13 Tenida en cuenta del sentido de laminado para el doblado (A). .... 36
+
+Figura Nº 14 Tenida en cuenta del sentido de laminado para el doblado (B). .... 36
+
+Figura Nº 15 Formación de grietas en puntos de flexión endurecidas por
+
+Conformación en frío. ........................................................................................ 37
+
+Figura Nº 16 Reducción de velocidad por engranajes y poleas. ......................... 39
+Figura Nº 17 Sistema de poleas con correa reducción de velocidad. ................. 40
+
+Figura Nº 18 Transmisión mediante engranajes. ................................................ 41
+
+Figura Nº 19 Sistema de engranajes reductor y multiplicador respectivamente. 42
+
+Figura Nº 20 Sistema de tren de engranajes. ..................................................... 43
+
+Figura Nº 21 Sistema de tren de engranajes (A) ................................................ 43
+
+Figura Nº22 Sistema de engranajes con cadena. ............................................... 44
+
+Figura Nº 23 Cilindro del simple efecto. .............................................................. 49
+
+Figura Nº 24 Cilindro doble efecto. ..................................................................... 50
+
+Figura Nº 25 Elementos básicos del sistema en lazo cerrado. ........................... 57
+
+Figura Nº 26 Elementos básicos del sistema en lazo abierto. ............................ 58
+
+Figura Nº 27 Funcionamiento de un PLC. .......................................................... 65
+
+Figura Nº 28 Soporte básico en 3D para la Curvadora de tubos. ....................... 75
+
+Figura Nº 29 una móvil en 3D. ............................................................................ 75
+
+Figura Nº 30 Diseño de una uña móvil fija. ........................................................ 77
+
+Figura Nº 31 Soporte de la segunda uña movil. ................................................. 79
+
+Figura Nº 32 Uña móvil de 1’’. ............................................................................ 81
+
+Figura Nº 33 Cilindro neumático. ........................................................................ 83
+
+Figura Nº 34 Diseño de brazos hidráulicos. ........................................................ 85
+
+Figura Nº 35 Motores tricos como actuadores de la gata hidráulica. .................. 87
+
+Figura Nº 36 Soporte de brazo móvil. ................................................................. 89
+
+Figura Nº 37 Soporte de brazo fijo. ..................................................................... 90
+
+Figura Nº 38 Diseño de matriz 1p. ...................................................................... 92
+
+Figura Nº 39 Diseño de una polea motriz para el eje del motor trifásico. ........... 95
+
+Figura Nº40 Diseño de una polea conducida...................................................... 95
+
+Figura Nº 41 Diseño de engranajes 107 y 114 dientes respectivamente
+
+piñones de 9 y 11 dientes respectivamente. ..................................................... 97
+
+Figura Nº 42 Motor trifásico de 1.5 HP según norma NEMA. ........................... 100
+Figura Nº 44 Curva de corriente de arranque. ................................................... 102
+
+Figura Nº 45 Sistema de transmisión. ............................................................... 102
+
+Figura Nº 46 Ensamble de uña móvil fija y base. ............................................. 105
+
+Figura Nº 47 Ensamble de uña móvil giratoria y base ....................................... 106
+
+Figura Nº 48 Gata y actuadores. ....................................................................... 106
+
+Figura Nº 49 Mecanismo completo. ................................................................... 107
+
+Figura Nº 50 Guarda motor eléctrico. ............................................................... 121
+
+Figura Nº 51 Contactor eléctrico. ....................................................................... 122
+
+Figura Nº 52 Relé de sobrecarga térmico. ......................................................... 123
+
+Figura Nº 53 Pulsadores. ................................................................................... 124
+
+Figura Nº 54 Ensamble del tablero eléctrico diagrama de fuerza. ..................... 125
+
+ENUMERACION DE PLANOS.
+
+Plano Nº 01 Plano de soporte metálico. ............................................................. 74
+
+Plano Nº 02 Plano de uña móvil de 1’’. ............................................................... 76
+
+Plano Nº 03 Uña móvil fija. ................................................................................. 78
+
+Plano Nº 04 Plano de soporte para la segunda uña móvil. ................................. 80
+
+Plano Nº 05 Uña móvil. ....................................................................................... 82
+
+Plano Nº 06 Cilindro neumático para el ensamble del mecanismo..................... 84
+
+Plano Nº 07 Diseño de Brazos hidráulicos. ........................................................ 86
+
+Plano Nº 08 Motores trico como actuador para los brazos hidráulicos. .............. 88
+
+Plano Nº 09 Soporte de brazo fijo....................................................................... 91
+
+Plano Nº 10 Diseño de una matriz de 1’’ ............................................................ 93
+
+Plano Nº 11 Diseño de polea motriz de 1’’ para el eje de un motor trifásico. ..... 95
+
+Plano Nº 12 Diseño de polea conducida de 1’’. .................................................. 96
+
+Plano Nº 13 Diseño de piñones. ......................................................................... 98
+
+Plano Nº 14 Diseño de engranajes ..................................................................... 99
+                                     RESUMEN
+
+El presente Proyecto de investigación trata sobre el desarrollo del diseño de una
+
+dobladora de tubos automatizada, la misma que está diseñada mecánicamente de tal
+
+forma que soporta mayores cargas que las especificadas, de esta manera se logra
+
+reducir el esfuerzo y bajar considerablemente la fatiga. El circuito de control permite
+
+realizar los trabajos de forma automática, usando en este caso un LOGO PLC SIEMENS
+
+230RC, controla los sensores y actuadores de forma automática mediante la
+
+programación escalera. El diseño usa compensaciones mecánicas para el aumento del
+
+torque usando un sistema de poleas y engranajes,          usando partes electrónicas
+
+existentes en el mercado, es notable que su costo es menor al que existe
+
+comercialmente. La máquina es capaz de doblar tubos de hasta 19 mm de diámetro y
+
+1,5 mm de espesor, con opción a aumentar su capacidad con tubos de mayor diámetro.
+
+Considera una velocidad aproximada de 1,5 rev /min., con la misma que se tarda en
+
+doblar el tubo en seis segundos por cada dobles, siendo su ángulo máximo de 180
+
+grados.
+
+
+El sistema cuenta con actuadores tales como neumática e hidráulica para su respectiva
+
+automatización
+
+PALABRAS CLAVE
+
+
+Actuadores, circuito
+
+
+
+
+                                                                                     13
+                                     ABSTRACT
+
+This research project deals with the development of the design of an automated tube
+
+bending; the same that is designed so that mechanically supports greater loads than
+
+those specified in this way will reduce considerably lower effort and fatigue. The control
+
+circuit allows the work automatically, using in this case a 230RC SIEMENS LOGO PLC,
+
+sensors and actuators controlled automatically by programming ladder. The design uses
+
+mechanical compensation for increased torque using a system of pulleys and gears,
+
+using electronic parts on the market it is remarkable that it costs less to what exists
+
+commercially. The machine is capable of bending pipes up to 19 mm in diameter and 1.5
+
+mm thick, with an option to increase its capacity with larger diameter tubes. Considers a
+
+speed of approximately 1.5 rev / min. With the same to bend the tube takes six seconds
+
+per double, and its maximum angle of 180 degrees.
+
+The system has actuators such as pneumatic and hydraulic automation for their
+
+respective
+
+KEYWORDS.
+
+
+Actuators, circuit.
+
+
+
+
+                                                                                       14
+                                   INTRODUCCIÓN
+
+Las maquinarias han evolucionado desde los oficios más básicos hasta las tecnologías
+
+más industrializadas del planeta a consecuencia de la Revolución Industrial que tuvo
+
+lugar entre la segunda mitad del siglo XVIII y principios del XIX, en el que Inglaterra en
+
+primer lugar, y el resto de Europa continental después, sufren el mayor conjunto de
+
+transformaciones socioeconómicas, tecnológicas y culturales de la Historia de la
+
+Humanidad, es así que con la implementación de máquinas se facilitó la producción de
+
+trabajos en serie y de mejor calidad, dando así una solución a diferentes sectores de
+
+producción.
+
+
+Para hablar de herramientas hay que remontarse hasta los orígenes del hombre porque,
+
+desde siempre, lo acompañaron en su evolución. Cuando las manos del hombre ya no
+
+eran suﬁcientes para realizar algunas tareas, necesitó algún objeto o dispositivo para
+
+ayudarse, así nacieron las máquinas herramientas. Con esto se pretende crear un centro
+
+de transferencia de tecnología, que involucre a la comunidad universitarita con el
+
+desarrollo de la región, esto en cuanto se refiere al área electromecánica. Convirtiendo a
+
+los estudiantes en sujetos productivos y desarrolladores, generando mecanismos o
+
+alternativas que le permitan ampliar su misión, visión y vinculación con la colectividad.
+
+
+Es necesario tomar en cuenta que las universidades son generadores de enseñanza,
+
+por lo que se pretende por medio de la implementación de la dobladora vincular a los
+
+estudiantes e ingenieros de la facultad de ingeniería mecánica eléctrica electrónica y
+
+sistemas. Aplicadas en la solución de problemas técnicos de las diferentes empresas del
+
+sur del país.
+
+
+El presente proyecto de investigación titulado “Diseño e implementación de un sistema
+
+asistido por PLC para la automatización de una dobladora de tubos y supervisado por un
+
+
+                                                                                            15
+sistema scada”. El presente proyecto de investigación, ha sido planteado como posible
+
+alternativa de solución debido a las enormes dificultades mostradas en tiempo, esfuerzo
+
+y precisión; siendo estructurado en 4 capítulos que se especifican a continuación:
+
+
+
+
+CAPÍTULO I: Se presenta el planteamiento del problema en el cual se describe el
+
+problema central del proyecto de investigación, descripción del problema, definición del
+
+problema, limitaciones de la investigación realizada, justificación del problema y los
+
+objetivos planteados en la investigación.
+
+CAPÍTULO II: Se presenta el marco teórico que sustenta la presente investigación, lo
+
+cual está constituido por los antecedentes de la investigación, el sustento teórico, el
+
+glosario de términos básicos, las hipótesis, y el sistema de variables.
+
+CAPÍTULO III: Presenta el diseño metodológico de investigación además se considera
+
+la población y muestra de estudio, los instrumentos y materiales de investigación.
+
+CAPITULO IV: Presenta los resultados de la investigación, las pruebas de verificación,
+
+los procedimientos por los que se plantean las conclusiones y sugerencias, finalmente
+
+se presenta la bibliografía consultada y los anexos referidos al material experimental
+
+utilizados durante el proyecto de investigación.
+
+
+
+
+                                                                                     16
+                CAPÍTULO I
+I.- PLANTEAMIENTO DEL PROBLEMA DE INVESTIGACIÓN.
+
+
+
+
+                                                   17
+1. PLANTEAMIENTO DEL PROBLEMA DE INVESTIGACIÓN.
+
+1.1.   DESCRIPCIÓN DEL PROBLEMA DE INVESTIGACIÓN.
+
+En los trabajos que realiza la empresa de CALEG INGENIEROS S.R.L para la planta de
+
+Cemento Sur constantemente se usa una dobladora de tubos manual para doblar
+
+tuberías en un ángulo de 90º, para el uso en instalación de redes eléctricas en procesos
+
+de automatización, el uso de esta máquina requiere de excesivo esfuerzo por parte de
+
+los operarios, tarda demasiado tiempo el proceso de doblado y con poca precisión en el
+
+material trabajado.
+
+
+Debido a este problema se propone diseñar e implementar una dobladora de tubos
+
+automática asistido por un LOGO PLC, de esta manera se reduciría considerablemente
+
+el tiempo de dobles de las tuberías en uso.
+
+
+También se considera que este proyecto no solo tendrá esa aplicación también se podrá
+
+usar en pequeños talleres donde requieran doblar tuberías ya que el sistema esta
+
+implementado con una matriz que tiene la facilidad de ser reemplazado por otra matriz
+
+de otra medida, es decir, que esta máquina será capaz de doblar tuberías de diferentes
+
+medidas y con proyección a muchos mejoramientos.
+
+
+El proyecto que se presenta a continuación va a reemplazar a la dobladora manual por
+
+una máquina dobladora mecanizada y automatizada con mayor eficiencia en los dobles
+
+de tuberías, además que se instalará un motor eléctrico trifásico de 1.5 HP. Para que de
+
+esta forma se reduzca notablemente el esfuerzo físico de los operarios.
+
+
+
+
+                                                                                     18
+1.2.   DEFINICIÓN DEL PROBLEMA DE INVESTIGACIÓN.
+
+1.2.1. DEFINICIÓN GENERAL DEL PROBLEMA.
+
+¿Es posible la implementación de un sistema experto asistido por PLC aplicado en la
+
+automatización de una dobladora de tubos y supervisado por un sistema scada para los
+
+trabajos de la planta Cemento Sur del departamento de Puno provincia San Román
+
+distrito de Caracoto?
+
+
+
+1.3.   JUSTIFICACIÓN DEL PROBLEMA DE INVESTIGACIÓN.
+
+El presente estudio pretende proponer las herramientas y mecanismos para su posterior
+
+implementación, con el propósito de mecanizar y automatizar en lo posible y brindar el
+
+servicio de una dobladora automática de tubos, beneficiándose de esta manera la planta
+
+de Cemento Sur ya que gracias a este sistema automático el tiempo de doblado de
+
+tubos se reducirá considerablemente, por ejemplo si antes manualmente, una persona
+
+hacia el doblado de un tubo en 20min. Aproximadamente, ahora en ese mismo tiempo
+
+con este sistema implementado se doblaran más tuberías y con una precisión más
+
+exacta, de esta forma estaríamos reduciendo el tiempo para el entubado en una red
+
+eléctrica, así mismo los beneficiados serán más, otros beneficiados con este sistema
+
+serían los pequeños talleres industriales que requieren doblar tubos en un tiempo
+
+mínimo.
+
+
+De esta manera la electrónica estaría aportando un sistema de control automático muy
+
+útil para la sociedad, si la tecnología avanza entonces en nuestra región de puno
+
+necesitamos que las pequeñas empresas cada vez sean más automatizadas y crear
+
+más empresas con actualización constante.
+
+
+
+
+                                                                                    19
+1.4.   LIMITACIONES DE LA INVESTIGACIÓN.
+
+       En el transcurso de la investigación se presentan las siguientes limitaciones:
+
+      La complejidad del problema formulado en la investigación, nos permite plantear
+
+       una solución inmediata, puesto que el desarrollo e implementación de algoritmos,
+
+       requiere de un análisis y evaluación en forma exhaustiva, para poder alcanzar las
+
+       normas existentes de seguridad y confiabilidad.
+
+      Además, la ausencia de antecedentes de investigación en nuestra región acerca
+
+       de las técnicas y métodos propuestos en la investigación, son obstáculos que se
+
+       tuvieron que superar, lo cual dificulto el desarrollo de la investigación.
+
+
+
+1.5.   DELIMITACIÓN DEL PROBLEMA DE INVESTIGACIÓN.
+
+      El espacio donde se pretende realizar dicha investigación es en el taller de la
+
+       empresa de CALEG INGENIEROS S.R.L Juliaca.
+
+      El tiempo que se realiza dicha investigación es en el presente año 2013.
+
+
+
+1.6.   OBJETIVOS DE LA INVESTIGACIÓN.
+
+1.6.1. OBJETIVO GENERAL.
+
+      Diseñar e implementar un sistema experto asistido por PLC aplicado para la
+
+       automatización de una dobladora de tubos y supervisado por un sistema scada.
+
+
+
+1.6.2. OBJETIVOS ESPECÍFICOS.
+
+      Diseñar      un mecanismo para el doblado de tuberías usando el programa
+
+       solidwork.
+
+      Implementar el mecanismo de acuerdo a las especificaciones del diseño.
+
+
+
+
+                                                                                        20
+CAPÍTULO II
+MARCO TEORICO
+
+
+
+
+                21
+2. MARCO TEÓRICO
+
+2.1.   ANTECEDENTES DE LA INVESTIGACIÓN.
+
+Luego de haber realizado diversas indagaciones en busca de antecedentes de estudio
+
+sobre el tema; se pudo encontrar diversos tipos de trabajo relacionados con el presente
+
+trabajo de investigación los cuales      nos sirven de punto de partida para nuestra
+
+investigación y son los siguientes:
+
+
+
+
+AUTOMATIZACIÓN DE UNA CURVADORA DE TUBO MARCA MARGUA, E
+
+IMPLEMENTACIÓN DE UN SISTEMA DE POSICIONAMIENTO PARA EL CURVADO
+
+DE TUBOS HASTA 50mm DE DIÁMETRO Y UN ESPESOR DE 2mm PARA LA
+
+EMPRESA DE CARROCERIAS “CENTAURO”.
+
+
+AUTORES:
+
+
+    Cristian Rafael Bustillos Moreno.
+
+    José Vladimir Quillupangui Tipán
+
+
+CONCLUSIONES:
+
+
+    Se implementó un posicionador gradual automático, en el que los ángulos de
+
+       desplazamiento se pueden variar de acuerdo al tipo de asiento o curvado a
+
+       procesarse.
+
+    El sistema automático para la sujeción del tubo está constituido por cilindros
+
+       neumáticos que permiten una sujeción del tubo más uniforme dentro de la matriz
+
+       semi redonda, aquello implica un producto con mejor acabado.
+
+    Este proyecto tiene una inversión inicial de $ 3718.4 y la recuperación (PKR) es
+
+       de 0.83, la misma que se estima en 10 meses y 5 días; debido a que la empresa
+
+                                                                                     22
+     de carrocerías “CENTAURO” tiene como meta una utilidad promedio de 4462.5
+
+     dólares en un año, por tal motivo la rentabilidad del proyecto es del 120%, aquello
+
+     confirma la factibilidad del mismo.
+
+
+     DISEÑO Y CONSTRUCCION DE UN PROTOTIPO DE UNA                            MÁQUINA
+
+     ROLADORA DE TUBO CUADRADO DE 50X50X2 MM SEMIAUTOMÁTICA.
+
+
+AUTOR:
+
+
+   Sebastián Martin Paredes Gonzales.
+
+
+CONCLUSIONES:
+
+
+   Con la nueva base de cabezales la estructura es capaz de conformar diámetros
+
+     entre 16 a 80 pulgadas.
+
+   Toda la estructura está diseñada para soportar fallas que puedan ser provocadas
+
+     por el movimiento excesivo del bastidor de salida de tuberías.
+
+   La columna del conjunto móvil es lo bastante gruesa para permitir una deflexión
+
+     sumamente baja con la que se podrá evitar una desviación del cordón de
+
+     soldadura pronunciada.
+
+
+   ANÁLISIS     DE    FUNCIONAMIENTO,        OPERACIÓN       Y   MANTENIMIENTO        E
+
+   IMPLEMENTACIÓN DE UNA DOBLADORA DE TUBO PARA EL CENTRO DE
+
+   PRODUCCIÓN Y SERVICIOS DE LA UNIVERSIDAD TÉCNICA DE COTOPAXI.
+
+
+AUTORES:
+
+
+   Molina León Edison Ramiro.
+
+   Rubio Tomalácelio Alberto.
+
+
+                                                                                     23
+CONCLUSIONES:
+
+
+    Se cumplió con el objetivo principal de esta tesis, esto es el diseño y construcción
+
+       de una dobladora de acuerdo a las necesidades de producción de la Planta
+
+       Industrial Cemento Sur.
+
+    La dobladora cuenta con un motor de 2hp y de reductores de velocidad para
+
+       darle un giro reducido a la matriz principal o dado.
+
+    La máquina Curvadora de tubo RACBVQ HR02 brinda una gran flexibilidad en lo
+
+       que se refiere al cambio de elementos mecánicos, debido a que estos fueron
+
+       construidos con materiales del reciclaje, esto hace que los operadores puedan
+
+       desmontarlos según la necesidad.
+
+
+
+
+2.2.   SUSTENTO TEÓRICO.
+
+2.2.1. CURVADO O DOBLADO.
+
+Se entiende por curvar o doblar un material, producir en éste una deformación en las
+
+que las fibras exteriores resultan estiradas y las interiores, por el contrario, se
+
+comprimen. Entre ambas capas de fibras se encuentra la llamada capa de fibras
+
+neutras, cuyas longitudes permanecen invariables con el curvado o doblado.
+
+
+Las fibras neutras se hallan dispuestas en el caso de radio grande de curvatura
+
+aproximadamente hacia la mitad del material, y cuando la curvatura es más forzada esas
+
+fibras neutras se hallan más pronto hacia el lado interior de la pieza.
+
+
+
+
+                                                                                      24
+2.2.1.1. PROCESO DE CURVADO DE TUBOS.
+
+
+Ante la rigidez de las formas rectas, que por naturaleza ofrece el metal, surgió la
+
+necesidad de crear una máquina que hiciera posible la obtención de distintas figuras, no
+
+sólo por un fin estético, sino también para satisfacer las necesidades de mercados como
+
+el de muebles, moto partes, griferías, máquinas de gimnasio, ventanería arquitectónica,
+
+forja, etc. Partiendo de un insumo básico: el tubo, muy diferente a las barras macizas de
+
+acero, aluminio o de los perfiles, dado que el primero presenta una forma hueca, se
+
+dobla fácilmente y tiene cómodo precio. Precisamente, las máquinas que hacen posible
+
+este trabajo son las curvadoras de tubos, equipos de los que hoy existe una amplia
+
+variedad y que ofrecen distintas posibilidades de uso de acuerdo a su grado de
+
+innovación, incluyendo funciones de doblado de platinas y ángulos, curvados en espiral
+
+para escaleras, embutidos de tubería y hasta corte, entre otros servicios. Sin duda, la
+
+capacidad que tienen estos equipos de curvar tubos fácilmente junto con otros servicios
+
+técnicos que prestan, las han convertido en herramientas indispensables para la
+
+industria metalmecánica actual que demanda piezas de calidad, en tiempos muy cortos y
+
+con volúmenes importantes.
+
+
+Los tubos que se emplean en la construcción pueden ser sin soldadura o soldados, para
+
+curvar tubos con soldadura o sin soldadura se siguen distintos métodos en función del
+
+diámetro y espesor del tubo y el tipo de material con que son fabricados.
+
+
+
+
+                                                                                      25
+2.2.2. PARTES PRINCIPALES DE UNA MÁQUINA PARA CURVADO DE TUBOS.
+
+
+La simplicidad de la Curvadora de tubos, independientemente de su grado de
+
+automatización, está fundamentada en el funcionamiento de sus tres partes básicas: una
+
+palanca, un motor y un eje de rotación, que se explican a continuación:
+
+
+
+2.2.2.1 PALANCA.
+
+Funciona partiendo de un principio básico de la física, es decir, una barra recta, angular
+
+o curva que se apoya sobre un punto específico y transmite una fuerza. Para ser más
+
+puntual, la física plantea tres tipos de palancas que varían de acuerdo a la posición de
+
+tres puntos: apoyo, resistencia y potencia. En el caso de la dobladora de tubos, la
+
+palanca funciona como el punto de apoyo que, a su vez, trabaja con un eje de rotación
+
+(resistencia) conducido por un motor (potencia). El objetivo de la palanca es determinar
+
+el giro y ángulo de rotación indicado (manual o automáticamente) que, impulsado por el
+
+motor, activa el eje denotación, lo que en teoría es la aplicación de las palancas de
+
+tercer género es decir, la potencia se encuentra entre el punto de apoyo y la resistencia.
+
+                                 Brazos del mecanismo.
+
+
+
+
+                                      Figura Nº 01
+
+                             Fuente: Elaboración propia. 21
+
+2.2.2.2 EJE DE ROTACIÓN.
+
+Es un disco metálico que tiene como función dar la forma y ángulo del doblado del tubo.
+
+Su tamaño depende de la pieza y del nivel de rotación pues no es lo mismo curvar un
+
+
+                                                                                        26
+tubo para una cama, a 90º, que doblarlo en tres direcciones distintas para armar una
+
+máquina de gimnasio; ya que en el primer caso basta con un disco pequeño por la
+
+facilidad del doblado, mientras que en el segundo, se requiere un disco con un diámetro
+
+ancho y potente que tenga la capacidad de curvar el tubo sin deformarlo.
+
+
+
+                        Eje de rotación para el curvado de tubos.
+
+
+
+
+                                       Figura Nº02
+
+                              Fuente: elaboración propia 22
+
+
+
+2.2.2.3.   MOTOR.
+
+El eje de rotación y la palanca no son suficientes para vencer la rigidez de un tubo, por
+
+tal razón el motor es el mecanismo que produce la fuerza encargada de vencer esa
+
+resistencia. Al igual que el eje de rotación, la fuerza del motor varía de acuerdo al
+
+tamaño del eje de rotación y de las características del tubo.
+
+
+
+
+                                                                                       27
+                                Motor trifásico de 2Hp.
+
+
+
+
+                                     Figura Nº 03
+
+                             Fuente: elaboración propia. 23
+
+
+2.2.3. TIPO DE MÁQUINAS PARA CURVADO DE TUBOS.
+
+
+2.2.3.1. CURVADO DE TUBO MANUAL.
+
+
+Como se observa en la figuras, las curvadoras de tubo manual requieren el esfuerzo
+
+físico del operario.
+
+
+                       Dobladora de tubo manual realizado en solidwork.
+
+
+
+
+                                         Figura Nº 04
+
+
+                                           Fuente:
+
+www.google.com.pe/search?q=dobladora+de+tubos&rlz=1C1KMZB_enPE560PE56
+
+                                  0&espv=210&es_
+
+                                                                                28
+2.2.3.2 MÁQUINA DE CURVADO DE TUBOS N.C – CONTROL NUMÉRICO.
+
+Su innovación reside en la capacidad que tienen de programar el ángulo de curvado, sin
+
+necesidad de que éste sea ajustado a través de la palanca, pero esto no quiere decir
+
+que ésta desaparezca, su función es garantizar el ajuste precisamente del ángulo de
+
+curvado. Este tipo de máquinas poseen motores más potentes y trabajan a un ritmo más
+
+dinámico que las manuales, por lo que logran un doblado ágil a diferencia del trabajo
+
+realizado por un obrero, que debe accionar la palanca y tener cuidado de no romper el
+
+tubo durante el proceso.
+
+
+
+2.2.3.3.   MÁQUINA DE CURVADO DE TUBO CNC – CONTROL NUMERO
+
+           COMPUTARIZADO.
+
+Son las máquinas de su tipo, más avanzadas del mercado. Su software permite obtener
+
+distintos ángulos y direcciones de rotación, así como estimar el tiempo que durará el
+
+proceso de curvado, dependiendo de las especificaciones programadas por el usuario.
+
+En el momento de graduar distancias varias de curvado en un sólo tubo, esta máquinas
+
+dejan a un lado los posicionadores, graduados manualmente por los operarios, para
+
+automatizarlos en el software, lo que conduce al tubo a reproducir fielmente la forma que
+
+se haya programado en la máquina. En la figura se observa una máquina curvadora de
+
+tubo CNC.
+
+                                  Curvadora de tubos CNC.
+
+
+
+
+                                         Figura Nº 05
+
+                           Fuente: http://cncultraprecision.com/?cat=3
+
+                                                                                       29
+2.2.4. FACTORES QUE INTERVIENEN EN EL CURVADO DE TUBOS.
+
+
+2.2.4.1.   ESPESOR DEL TUBO.
+
+Variable determinada por el tipo de material usado, el posible uso de la pieza fabricada y
+
+que está expresado generalmente en calibre o milímetros. De este valor depende mucho
+
+el resultado del doblado.
+
+
+2.2.4.2.   DIÁMETRO EXTERNO E INTERNO DE LAS PAREDES.
+
+
+Esta variable permite evaluar significativamente hasta que radio puede ser curvado un
+
+tubo.
+
+
+2.2.4.3.   RADIO MÁXIMO Y MÍNIMO.
+
+
+Por lo general está asociado al grado de curvatura del tubo.
+
+
+2.2.4.4.   DUREZA.
+
+
+Materiales sintéticos polímetros que permiten una curvatura perfecta sin ningún tipo de
+
+alteración o cambio visible en el material, son los ideales para esta aplicación.
+
+
+2.2.5. TÉCNICAS DE CURVADO.
+
+
+Existen diferentes técnicas de curvado, entre las cuales pueden destacarse como más
+
+habituales las siguientes:
+
+
+ Curvado por compresión                 (figura a).
+
+ Curvado por presión                    (figura b).
+
+ Curvado con rodillos                   (figura c).
+
+ Curvado con brazo giratorio            (figura d).
+
+
+                                                                                       30
+                               Curvado por presión y compresión
+
+
+
+
+           Figura (a) curvado por compresión Figura. (b) curvado por presión.
+
+
+
+
+         Figura (c) curvado con rodillos Figura. (d) curvado con brazo giratorio.
+
+
+                                          Figura Nº 06
+
+
+2.2.5.1. CURVADO DE TUBOS CON RUEDA DE GARGANTA.
+
+
+Estas máquinas curvan el tubo con efecto de una tracción y una flexión, como se
+
+muestra en la figura. El tubo (t) se introduce en la garganta de una rueda fija (f), llamada
+
+estampa, y entre las mandíbulas curvas de una mordaza (m), solidario con la mordaza
+
+está fijado un brazo plegador (p) que puede girar alrededor de la estampa.
+
+
+
+
+                                                                                         31
+                                         Fibras Neutras.
+
+
+
+
+                                          Figura Nº 07
+
+
+               Fuente: Tecnología de los oficios metalúrgicos - A. Ley en setter.
+
+
+Mordaza y brazo plegador, son en efecto solidarios con una rueda (r) que tiene el mismo
+
+eje de rotación de la rueda fija (f). Para evitar el peligro de formar curvas con aristas se
+
+emplea un tope de rodillos (b). En el trozo de tubo que no interesa curvar se introduce
+
+una anima (a) para evitar su posible ovalización en el punto no contenido en la estampa.
+
+
+                                         Fibras Neutras.
+
+
+                          Curvadora de tubos con rueda de garganta.
+
+
+
+
+                                          Figura Nº 08
+
+
+             Fuente:Mecánica de Taller – Soldadura Uniones y Calderas pág. (70).
+
+                                                                                         32
+2.2.5.2. CURVADORA DE TUBOS CON MANDO HIDRAÚLICO.
+
+
+Este tipo de máquinas se utilizan cuando hay que obtener una alta producción, que
+
+puede alcanzar de 600 o más curvaturas por hora. Este tipo de máquinas, muy robustas
+
+están basadas en el mismo principio que las curvadoras manuales con rueda de
+
+garganta, como se muestra en la Figura Nº 09.
+
+
+                       Curvadora de tubos con mando hidráulico.
+
+
+
+
+                                         Figura Nº 09
+
+            Fuente: Mecánica de Taller – Soldadura Uniones y Calderas pág. (71).
+
+
+2.2.5.3.   TENSION EN LA PIEZAS DE TRABAJO DOBLADO.
+
+
+A través de las fuerzas de flexión que actúan se generan tensiones en el material, las
+
+cuales activan una transformación del material, como se muestra en la Figura.
+
+
+             1 tensiones de tracción, 2 fibra neutra, 3 tensiones de presión.
+
+
+                                         1
+
+
+                                                        2
+                                             3
+
+
+
+                   Figura Nº 10 Tensiones en la pieza de trabajo doblada.
+
+
+           Fuente: http://www.nzdl.org/gsdlmod?e=d-00000-00---off-0gtz--00-0
+
+                                                                                    33
+La longitud de la fibra neutra se necesita para el cálculo de la longitud de estiramiento de
+
+la pieza de trabajo que se va a doblar.
+
+
+2.2.6. INFLUENCIAS DE LAS PROPIEDADES DEL MATERIAL.
+
+
+FLEXIBILIDAD:
+
+
+Solamente los materiales que posibilitan un cambio de forma se dejan doblar. Materiales
+
+templados y quebradizos no se dejan doblar - con el efecto de fuerzas de flexión muy
+
+grande se rompen. Materiales de fleje tampoco se dejan doblar, luego del efecto de las
+
+fuerzas de flexión recuperan totalmente su posición inicial, como se muestra en la Figura
+
+Nº11.
+
+
+                           Propiedades del material, flexibilidad
+
+
+
+
+                                          Figura Nº 11
+
+
+Fuerza de flexión actúa sobre el material frágil, 2 ruptura de la pieza de trabajo, 3 fuerza
+
+de flexión actúa sobre la pieza de trabajo de fleje, 4 elasticidad recuperadora de la pieza
+
+de trabajo.
+
+                                                                                         34
+ELASTIDAD:
+
+
+Los materiales elásticos se encogen en una dimensión determinada luego del efecto de
+
+la fuerza - se le denomina elasticidad recuperadora, como se muestra en la Figura Nº 12.
+
+
+Esta medida debe ser tenida en cuenta siempre para el doblado.
+
+
+Los materiales duros son de más elasticidad recuperadora que los materiales blandos.
+
+
+      Elasticidad recuperadora de la pieza de trabajo luego de cada fuerza efectiva.
+
+
+
+
+                                        Figura Nº 12
+
+
+            Fuente: Curso Doblado Laminas tubos y perfiles perfiles Pág. (12)
+
+
+RESISTENCIA:
+
+
+En el laminado de chapas se presenta una estructura fibrosa en el material (similar como
+
+las vetas en la madera), la cual se debe reconocer en la superficie de chapas aseadas,
+
+como se muestra en la Figura 13.
+
+
+Con el fin de evitar grietas en el borde exterior de las curvaturas, el borde de flexión no
+
+puede coincidir con el recorrido de la fibra.
+
+
+
+
+                                                                                        35
+              Tenida en cuenta del sentido de laminado para el doblado.
+
+
+
+
+                                     Figura Nº 13
+
+
+              Fuente: Curso Doblado Laminas tubos y perfiles pág. (12).
+
+
+              Tenida en cuenta del sentido de laminado para el doblado.
+
+
+
+
+                                     Figura Nº 14
+
+
+              Fuente: Curso Doblado Laminas tubos y perfiles pág. (14).
+
+
+ENDURECIMIENTO POR COMFORMACION DEL FRIO.
+
+
+Con el cambio múltiple de tensiones de tracción y de presión durante el procedimiento
+
+de doblado (doblado hacia allá y hacia acá), se deforma fuertemente la estructura del
+
+material, como se muestra en la Figura 15. Las tensiones interiores amplificadas
+
+conllevan a un endurecimiento en el punto de doblado. Entre mayor sea la frecuencia del
+
+cambio de tensiones, entonces el material se hará también más quebradizo. En caso de
+
+continuar la deformación se puede presentar un rompimiento.
+
+
+                                                                                     36
+    Formación de grietas en puntos de flexión endurecidas por conformación en frío.
+
+
+
+
+                                       Figura Nº 15
+
+
+
+                  1 intervalo del endurecimiento por conformación en frío.
+
+                 Fuente: Curso Doblado Laminas tubos y perfiles Pág. (15)
+
+
+INFLUENCIA DEL RADIO DE DOBLADO.
+
+
+Con el fin de evitar grietas de doblado, se debe elegir un radio de doblado lo
+
+suficientemente grande:
+
+
+¡Entre más grande sea el radio de doblado, menor será también el peligro de
+
+agrietamiento!
+
+
+Entre más grueso sea el material, entonces mayor deberá ser también el radio de
+
+doblado!
+
+
+El radio de doblado depende también de la forma y del espesor del material, de la
+
+temperatura del proceso de doblado y del tipo de material.
+
+
+Para todos los metales y para muchas formas de perfiles existe por esto un radio mínimo
+
+estipulado.
+
+
+
+
+                                                                                      37
+2.2.7. REDUCTOR DE VELOCIDAD.
+
+
+“Casi podría decirse que los motores son como el “corazón de la industria”. Pero ese
+
+corazón tiene diferentes ritmos y funciona a distintas velocidades, dependiendo del uso
+
+que se le quiera dar. Por eso los reductores de velocidad son indispensables en todas
+
+las industrias del país, desde los que producen cemento hasta los laboratorios de
+
+medicamentos requieren en sus máquinas estos mecanismos.”
+
+
+Los reductores son diseñados a base de engranajes, mecanismos circulares y dentados
+
+con geometrías especiales de acuerdo con su tamaño y la función en cada motor.
+
+
+2.2.7.1. TIPOS DE REDUCTORES DE VELOCIDAD.
+
+
+En la adaptación de velocidad, se deben contemplar otros factores como la potencia
+
+mecánica a transmitir, la potencia térmica, rendimientos mecánicos (estáticos y
+
+dinámicos).
+
+
+Al emplear reductores o motor reductores se obtiene una serie de beneficios sobre estas
+
+otras formas de reducción. Algunos de estos beneficios son:
+
+
+ Una regularidad perfecta tanto en la velocidad como en la potencia transmitida.
+
+ Una mayor eficiencia en la transmisión de la potencia suministrada por el motor.
+
+ Mayor seguridad en la transmisión, reduciendo los costos en el mantenimiento.
+
+ Menor espacio requerido y mayor rigidez en el montaje.
+
+ Menor tiempo requerido para su instalación.
+
+
+
+
+                                                                                     38
+                       Reducción de velocidad por engranajes y poleas.
+
+
+
+
+                                            Figura Nº 16
+
+
+                                      Fuente: investigadores.
+
+
+a.    SISTEMA DE POLEAS CON CORREA.
+
+
+Se trata de dos ruedas situadas a cierta distancia, que giran a la vez por efecto de una
+
+correa. Las correas suelen ser cintas de cuero flexibles y resistentes.
+
+
+Según el tamaño de las poleas tenemos dos tipos:
+
+
+     La polea de salida (conducida) gira a menor velocidad que la polea de entrada
+
+      (motriz). Este es un sistema de poleas reductor de velocidad.
+
+
+
+
+                                                                                           39
+                      Sistema de poleas con correa reducción de velocidad.
+
+
+
+
+                                                POLEA DE ENTRADA
+
+
+
+           POLEA DE SALIDA
+
+
+                                            Figura Nº 17
+
+
+                                    Fuente: investigadores.
+
+
+     La polea de salida gira a mayor velocidad que la polea de entrada. Este es un
+
+      sistema de poleas multiplicador de velocidad.
+
+
+       La relación de transmisión entre ambas poleas se define del siguiente modo:
+
+
+                                            𝒏𝟐   𝑫𝟏
+                                      𝒊=       =
+                                            𝒏𝟏   𝑫𝟐
+
+
+     n2: es la velocidad de la rueda conducida.
+
+     n1: es la velocidad de la rueda motriz.
+
+     D1: el diámetro de la rueda motriz.
+
+     D2: el diámetro de la rueda conducida.
+
+
+La velocidad de las ruedas se mide normalmente en revoluciones por minuto (rpm) o
+
+vueltas por minuto.
+
+
+
+
+                                                                                      40
+b.    TRANSMICION POR ENGRANAJES.
+
+
+     Los engranajes son ruedas dentadas que encajan entre sí, de modo que, unas
+
+      ruedas transmiten el movimiento circular a las siguientes.
+
+     El tamaño de los dientes de todos los engranajes debe ser igual.
+
+     Los engranajes giran de modo que, los más pequeños giran a mayor velocidad,
+
+      de modo similar al caso del sistema de poleas con correa. En este caso, en lugar
+
+      de tener en cuenta el diámetro de la polea, se tienen en cuenta el número de
+
+      dientes de cada rueda.
+
+
+                               Transmisión mediante engranajes.
+
+
+
+
+                                      Figura Nº 18
+
+                                 Fuente investigadores.
+
+Se puede calcular las velocidades de los engranajes a partir de los tamaños de las
+
+mismas.
+
+
+                                        𝑵𝟏 𝒁𝟏 = 𝑵𝟐 𝒁𝟐
+
+
+      Siendo:
+
+
+      n1 = velocidad del engranaje de entrada.
+
+      n2 = velocidad del engranaje de salida.
+
+
+                                                                                    41
+      Z1 = número de dientes del engranaje de entrada.
+
+      Z2 = número de dientes del engranaje de salida.
+
+Al igual que con el sistema de poleas con correa, hay dos tipos de sistemas de
+
+transmisión por engranajes.
+
+
+b.1).Reductor: El piñón es el engranaje motriz y la rueda es el engranaje conducido. En
+
+este caso, la velocidad de salida (rueda) es menor que la velocidad de entrada (piñón).
+
+
+b.2).Multiplicador: El piñón es el engranaje conducido y la rueda es el engranaje motriz.
+
+En este caso, la velocidad de salida (piñón) es mayor que la velocidad de entrada
+
+(rueda).
+
+
+               Sistema de engranajes reductor y multiplicador respectivamente.
+
+
+
+
+                                         Figura Nº 19
+
+
+      Fuente:http://iesvillalbahervastecnologia.files.wordpress.com/2008/04/mecanismo
+
+                                   s-transmision.pdf.
+
+
+c.    TREN DE SISTEMAS DE POLEAS Y ENGRANAJES.
+
+
+      Un tren de un sistema de poleas con correa consiste en la combinación de más
+
+      de dos poleas.
+
+
+
+
+                                                                                          42
+                            Sistema de tren de engranajes
+
+
+
+
+                                       Figura Nº20
+
+
+Fuente:http://iesvillalbahervastecnologia.files.wordpress.com/2008/04/mecanismos-
+
+                                transmision.pdf.
+
+
+       Los engranajes también se pueden combinar formando un tren de engranajes.
+
+
+                            Sistema de tren de engranajes (A)
+
+
+
+
+                                       Figura Nº 21
+
+
+Fuente:http://iesvillalbahervastecnologia.files.wordpress.com/2008/04/mecanismos-
+
+                                transmision.pdf.
+
+
+
+                                                                                    43
+Con la gran ventaja de que, a diferencia del tren de poleas, ocupan mucho menos
+
+espacio. El funcionamiento es similar al tren de poleas, pero no existen correas.
+
+
+d.    ENGRANAJES CON CADENA.
+
+
+      Este sistema de transmisión consiste en dos ruedas dentadas de ejes paralelos,
+
+      situadas acierta distancia la una de la otra, y que giran a la vez por efecto de una
+
+      cadena que engrana a ambas. Es el mecanismo que emplean las bicicletas. La
+
+      relación de transmisión se calcula como en el caso de los engranajes.
+
+
+                              Sistema de engranajes con cadena.
+
+
+
+
+                                          Figura Nº22
+
+
+       Fuente:http://iesvillalbahervastecnologia.files.wordpress.com/2008/04/mecanismo
+
+                                    s-transmision.pdf
+
+
+
+
+                                                                                       44
+2.2.7.2.     GUÍA PARA LA ELECCION DEL TAMAÑO DE UN REDUCTOR
+MOTOREDUCTOR.
+
+Los reductores de velocidad se suelen clasificar de un modo bastante anárquico,
+
+solapándose en algunos casos las definiciones de modo intrínseco y en otros casos hay
+
+que usar diversas clasificaciones para definirlos.
+
+
+2.2.7.2.1.   CARACTERISTICAS DE OPERACIÓN.
+
+Para seleccionar adecuadamente una unidad de reducción debe tenerse en cuenta la
+siguiente información básica:
+
+ Potencia (HP tanto de entrada como de salida).
+
+ Velocidad (RPM de entrada como de salida).
+
+ Torque (par) máximo a la salida en kg-m.
+
+ Relación de reducción (I).
+
+
+2.2.7.2.2. CARACTERISTICAS DEL TRABAJO A REALIZAR.
+
+
+ Tipo de máquina motriz (motor eléctrico, a gasolina, etc.)
+
+ Tipo de acople entre máquina motriz y reductor.
+
+ Tipo de carga uniforme, con choque, continua, discontinua etc.
+
+ Duración de servicio horas/día.
+
+ Arranques por hora, inversión de marcha.
+
+
+2.2.7.2.3. CONDICIONES DEL AMBIENTE.
+
+
+ Humedad.
+
+ Temperatura.
+
+
+
+
+                                                                                   45
+2.2.8.   LA TUBERÍA.
+
+
+“Es un conducto que cumple la función de transportar agua u otros fluidos. Se suele
+
+elaborar con materiales muy diversos. Cuando el líquido transportado es petróleo, se
+
+utiliza la denominación específica de oleoducto. Cuando el fluido transportado es gas, se
+
+utiliza la denominación específica de gasoducto. También es posible transportar
+
+mediante tubería materiales que, si bien no son un fluido, se adecúan a este sistema:
+
+hormigón, cemento, cereales, documentos encapsulados, etcétera.”
+
+
+2.2.8.1. FABRICACIÓN.
+
+
+Hay tres métodos de fabricación de tubería.
+
+
+        Sin costura (sin soldadura). La tubería se forma a partir de un lingote cilíndrico
+
+         el cuál es calentado en un horno antes de la extrusión. En la extrusión deforma
+
+         con rodillos y posteriormente se hace el agujero mediante un penetrador. La
+
+         tubería sin costura es la mejor para la contención de la presión gracias a su
+
+         homogeneidad en todas sus direcciones. Además es la forma más común de
+
+         fabricación y por tanto la más comercial.
+
+
+        Con costura longitudinal. Se parte de una lámina de chapa la cual se dobla
+
+         dándole la forma a la tubería. La soladura que une los extremos de la chapa
+
+         doblada cierra el cilindro. Por tanto es una soldadura recta que sigue toda una
+
+         generatriz. Variando la separación entre los rodillos se obtienen diferentes
+
+         curvas y con ello diferentes diámetros de tubería. Esta soldadura será la parte
+
+         más débil de la tubería y marcará la tensión máxima admisible.
+
+
+
+
+                                                                                        46
+        Con soldadura helicoidal (o en espiral). La metodología es la misma que el
+
+         punto anterior con la salvedad de que la soldadura no es recta sino que recorre
+
+         la tubería siguiendo la tubería como si fuese roscada.
+
+
+2.2.8.2. TUBO ESTRUCTURAL.
+
+
+En el ámbito de la construcción metálica, los tubos estructurales se han impuesto en el
+
+mundo gracias a sus innegables ventajas y propiedades estructurales y arquitectónicas
+
+que los hacen ideales para la construcción de todo tipo de edificaciones.
+
+
+Principalmente se han utilizado en la construcción de edificaciones para uso colectivo de
+
+grandes espacios como coliseos deportivos, estadios, iglesias y bodegas industriales (en
+
+especial entre las que almacenan o procesan alimentos por su limpieza y facilidad de
+
+mantenimiento, debido a la ausencia de caras internas o secciones inaccesibles) Su
+
+geometría cuadrada, redonda o rectangular los hace ideales para todo tipo de diseños
+
+arquitectónicos, entre los que se destacan la combinación con el vidrio, permitiendo un
+
+mejor aprovechamiento y manejo de la luz natural. De igual forma su resistencia y
+
+características estructurales permiten el manejo de grandes distancias y luces en
+
+cubiertas y fachadas.
+
+
+Entre las más importantes características y ventajas de los tubos estructurales se
+
+destacan:
+
+
+        Gran resistencia al viento por la geometría del perfil, esquinas redondeadas
+
+         que hacen las estructuras más seguras y agradables al tacto.
+
+        Posibilidad de utilizarlos en aplicaciones telescópicas.
+
+        Excelente comportamiento a la flexión y a la torsión.
+
+        Acabado estético perfecto, de incomparable belleza y usos arquitectónicos.
+
+                                                                                       47
+         Ausencia de uniones o soldadura visible a lo largo de las secciones.
+
+         Limpieza    en   acabado    y      mantenimiento.   (Ideal   para   bodegas   de
+
+          almacenamiento y procesamiento de alimentos).
+
+         Facilidad del manejo y de montaje frente a elementos armados como los
+
+          perfiles en cajón.
+
+         Ahorro en instalación y montaje.
+
+
+2.2.9. CILINDRO NEUMÁTICO.
+
+
+Los cilindros neumáticos independientemente de su forma constructiva, representan los
+
+actuadores más comunes que se utilizan en los circuitos neumáticos. Existen dos tipos
+
+fundamentales de los cuales derivan construcciones especiales.
+
+
+2.2.9.1. CILINDRO DE SIMPLE EFECTO.
+
+
+Un cilindro de simple efecto desarrolla un trabajo sólo en un sentido. El émbolo se hace
+
+retornar por medio de un resorte interno o por algún otro medio externo como cargas,
+
+movimientos mecánicos, etc. Puede ser de tipo “normalmente dentro” o “normalmente
+
+fuera”.
+
+
+AI cilindro de simple efecto se le aplica presión solo por un extremo, con lo cual solo
+
+realiza trabajo en un sentido, cuando el aire que les ha hecho salir escapa, retroceden.
+
+
+Existen dos tipos de cilindros de simple efecto, de retroceso por muelle y de retroceso
+
+por fuerza externa
+
+
+
+
+                                                                                           48
+                                   Cilindro del simple efecto.
+
+
+
+
+                                          Figura Nº 23
+
+
+                  Fuente: http://sitioniche.nichese.com/cilindros-simples.html
+
+
+2.2.9.2. CILINDRO DE DOBLE EFECTO.
+
+
+Los cilindros de doble efecto son aquellos que realizan tanto su carrera de avance como
+
+la de retroceso por acción del aire comprimido. Su        denominación se debe a que
+
+emplean las dos caras del émbolo (aire en          ambas cámaras), por lo que estos
+
+componentes sí que pueden realizar trabajo en ambos sentidos. Sus componentes
+
+internos son prácticamente iguales a los de simple efecto, con pequeñas variaciones en
+
+su construcción. Algunas de las más notables las encontramos en la culata anterior, que
+
+ahora ha de tener un orificio roscado para poder realizar la inyección de aire comprimido
+
+(en la disposición de simple efecto este orificio no suele prestarse a ser conexionado,
+
+siendo su función la comunicación con la atmósfera con el fin de que no se produzcan
+
+contrapresiones en el interior de la cámara).
+
+
+El perfil de las juntas dinámicas también variará debido a que se requiere la
+
+estanqueidad entre ambas cámaras, algo innecesario en la disposición de           simple
+
+efecto.
+
+
+
+
+                                                                                       49
+                                    Cilindro doble efecto.
+
+
+
+
+                                         Figura Nº 24
+
+
+                  Fuente: http://sitioniche.nichese.com/cilindros-dobles.html
+
+
+2.2.10. AUTOMATIZACIÓN INDUSTRIAL.
+
+
+Automatizar quiere decir emplear medios artificiales, de tal forma que un proceso
+
+transcurra de forma automática. En una planta esto significa equiparla con autómatas de
+
+tal forma que trabaje automáticamente. Un autómata es un sistema artificial, que sigue
+
+un programa de forma propia o automática. Gracias al programa el sistema debe tomar
+
+decisiones basado en las entradas y el estado del sistema, para de esta forma cumplir
+
+con tareas asignadas.
+
+
+2.2.10.1. CAMPOS DE APLICACIÓN.
+
+
+Se pueden diferenciar dos campos fundamentales de la automatización.
+
+
+     Por un lado los procesos pueden ser automatizados. Por ejemplo el medir
+
+      automáticamente sin la intervención adicional del hombre, diversas variables en
+
+      una planta de producción.
+
+
+
+
+                                                                                     50
+     Pero además también se pueden automatizar las tareas. A modo de ejemplo “la
+
+      generación automática de código fuente” de un diagrama; es decir el usuario
+
+      genera el programa gráficamente, por ejemplo en forma de un diagrama UML y el
+
+      computador genera automáticamente el código necesario. Estas herramientas
+
+      son cada vez de más significancia para los desarrolladores, ya que les permite
+
+      ahorrarse mucho tiempo, además de hacer más intuitivo el trabajo (por ej.
+
+      Rhapsody, Matlab, SciLab…).
+
+
+2.2.10.2. DESAFIOS Y OBJETIVOS DE LA AUTOMATIZACION.
+
+
+La Automatización aún no está en un estado totalmente maduro, quedan muchas cosas
+
+por mejorar y muchas por resolver.
+
+
+     Los objetivos de la automatización son:
+
+
+      Mejorar la productividad.
+
+
+      Acelerar los procesos.
+
+
+      Aligerar la carga del trabajador.
+
+
+      Simplificar el proceso productivo.
+
+
+      Realizar tareas que manualmente seria imposibles de realizar
+
+
+     Los desafíos que tiene la automatización son:
+
+
+      Dominar procesos cada vez más complejos.
+
+
+      Tener en cuenta más señales del sistema.
+
+
+
+                                                                                  51
+      Tener en cuenta más datos de otros procesos (circunvecinos).
+
+
+      Optimizar procesos empresariales.
+
+
+      Optimizar procesos logísticos.
+
+
+      Optimizar procesos económicos.
+
+
+      Aumentar la confiabilidad del sistema.
+
+
+      Aumentar la seguridad del sistema.
+
+
+La justificación de la automatización de un proceso se puede dividir en 4 categorías de
+
+razones diferentes:
+
+
+Seguridad.- por medio de la automatización se puede incrementar la seguridad en el
+
+sitio de trabajo. Por ejemplo en ambientes de trabajo peligrosos como en el caso de la
+
+fundición o la fragua, si el proceso es automatizado, se reducirían los accidentes físicos
+
+de los trabajadores.
+
+
+Humanización.- La humanización de los puestos de trabajo juega un rol muy importante
+
+a la hora de incentivar la automatización. Esto significa que tanto el trabajo en sí mismo,
+
+como también las condiciones del entorno pueden ser amenizadas. Por ejemplo pueden
+
+instalarse máquinas que realicen las tareas más difíciles, o las que se llevan a cabo bajo
+
+condiciones de entorno extremas como por ejemplo altas temperaturas, o altos niveles
+
+de ruido o de contaminación. El trabajador puede así concentrarse cada vez más en el
+
+controlar, supervisar o planear, y de esta manera evitar los riesgos a su salud.
+
+
+
+
+                                                                                        52
+Calidad.- La calidad del producto se puede mejorar mediante la automatización, debido
+
+a que se suprimen deficiencias humanas como falta de atención, cansancio o fatiga.
+
+
+Racionalización.- Desde el punto de vista empresarial juega un rol relevante. A través
+
+de la racionalización se pueden reducir los costos en una gran cantidad o se posibilita
+
+una expansión de la empresa. En caso de carencia de mano de obra, la producción se
+
+puede mantener en pie mediante un aumento de la maquinaria. En este sentido se debe
+
+tener en cuenta que el Racionalizar no necesariamente va acompañado de una
+
+disminución de puestos de trabajo, sino que puede significar una verdadera
+
+reestructuración de la empresa.
+
+
+2.2.10.3.    TIPOS DE AUTOMATIZACIÓN.
+
+
+Existen cinco formas de automatizar en la industria moderna, de modo que se deberá
+
+analizar cada situación a fin de decidir correctamente el esquema más adecuado.
+
+
+Los tipos de automatización son:
+
+
+ El control automático de procesos.
+
+
+Se refiere usualmente al manejo de procesos caracterizados de diversos tipos de
+
+cambios (generalmente químicos y físicos); un ejemplo de esto lo podría ser el proceso
+
+de calentamiento del agua para el tratamiento de los cueros.
+
+
+Entremos directamente por definir que es control: es la Técnica de medir o detectar una
+
+condición o situación, compararla con el valor que de ella se desea tener, y a actuar en
+
+correspondencia a fin de reducir la diferencia entre ambas.
+
+
+
+
+                                                                                      53
+Esta definición, amplia de por sí, es aplicable a infinidad de cosas que el hombre hace, o
+
+dice hacer; desde el control de tránsito, de natalidad, de contaminación, de la evasión de
+
+impuestos, hasta el inventario y calidad de productos elaborados, son condiciones o
+
+situaciones que a algunos humanos les toca controlar.
+
+
+Algunas de ellas son de medición bastante frecuente, como, cuando conducimos un
+
+automóvil y otras más espaciadas, como cuando verificamos nuestro estado financiero,
+
+mensual o anual. En las citas anteriores hemos supuesto que todo lo descrito se hace
+
+mediante el accionar de un ser humano, en tal caso el control es manual o humano.
+
+
+Si todas las tareas son efectuadas sin intervención de un eslabón humano, el control es
+
+automático.
+
+
+ El procesamiento electrónico de datos.- frecuentemente es relacionado con los
+
+    sistemas de información, centros de cómputo, etc. Sin embargo en la actualidad
+
+    también se considera dentro de esto la obtención, análisis y registros de datos a
+
+    través de interfaces y computadores.
+
+ La automatización fija.- es aquella asociada al empleo de sistemas lógicos tales
+
+    como: los sistemas de relevadores y compuertas lógicas; sin embargo estos
+
+    sistemas se han ido flexibilizando al introducir algunos elementos de programación
+
+    como en el caso de los (PLC'S) O Controladores Lógicos Programables.
+
+
+ El Control Numérico Computarizado.- Un mayor nivel de flexibilidad lo poseen las
+
+    máquinas de control numérico computarizado. Este tipo de control se ha aplicado
+
+    con éxito a Máquinas de Herramientas de Control Numérico (MHCN). Entre las
+
+    MHCN podemos mencionar: Fresadoras CNC, Tornos CNC, Máquinas de Electro
+
+    erosionado, Máquinas de Corte por Hilo, etc.
+
+
+                                                                                       54
+ La Automatización Flexible.
+
+
+    El mayor grado de flexibilidad en cuanto a automatización se refiere al de            los
+
+    Robots industriales que en forma más genérica se les denomina como "Celdas de
+
+    Manufactura Flexible".
+
+
+2.2.10.4. SISTEMA DE LAZO ABIERTO Y LAZO CERRADO.
+
+
+Un sistema que mantiene una relación establecida entre la salida y la entrada diferencia,
+
+comparándolas y usando la diferencia como medio de control, se denomina sistema de
+
+control realimentado o de lazo cerrado.
+
+
+También existen los sistemas de lazo abierto en los cuales la salida no afecta la acción
+
+de control. En esta sección veremos las características de cada uno y también sus
+
+diferencias.
+
+
+2.2.10.4.1.    SISTEMAS EN LAZO CERRADO.
+
+
+DEFINICIÓN Y CARACTERÍSTICAS.
+
+
+Los sistemas de control realimentados se denominan también sistemas de control de
+
+lazo cerrado. En la práctica, los términos control realimentado y control en lazo cerrado
+
+se usan indistintamente, como se muestra en la Figura.
+
+
+En un sistema de control en lazo cerrado, se alimenta al controlador la señal de error de
+
+actuación, que es la diferencia entre la señal de entrada y la salida de realimentación
+
+(que puede ser la señal de salida misma o una función de la señal de salida y sus
+
+derivadas y/o integrales) a fin de reducir el error y llevar la salida del sistema a un valor
+
+conveniente.
+
+
+                                                                                          55
+El término control en lazo cerrado siempre implica el uso de una acción de control
+
+realimentando para reducir el error del sistema.
+
+
+ELEMENTOS BÁSICOS.
+
+
+   1. Elemento de comparación: Este elemento compara el valor requerido o de
+
+      referencia de la variable por controlar con el valor medido de lo que se obtiene a
+
+      la salida, y produce una señal de error la cual indica la diferencia del valor
+
+      obtenido a la salida y el valor requerido.
+
+   2. Elemento de control: Este elemento decide que acción tomar cuando se recibe
+
+      una señal de error.
+
+   3. Elemento de corrección: Este elemento se utiliza para producir un cambio en el
+
+      proceso al eliminar el error.
+
+   4. Elemento de proceso: El proceso o planta, es el sistema dónde se va a controlar
+
+      la variable.
+
+   5. Elemento de medición: Este elemento produce una señal relacionada con la
+
+      condición de la variable controlada, y proporciona la señal de realimentación al
+
+      elemento de comparación para determinar si hay o no.
+
+
+
+
+                                                                                      56
+                        Elementos básicos del sistema en lazo cerrado.
+
+
+
+
+                                          Figura Nº 25
+
+
+      Fuente:http://usuarios.multimania.es/automatica/temas/tema2/pags/la_lc/lc.
+
+
+2.2.10.4.2.   SISTEMAS EN LAZO ABIERTO.
+
+
+DEFINICIÓN Y CARACTERÍSTICAS.
+
+
+Son los sistemas en los cuales la salida no afecta la acción de control. En un sistema en
+
+lazo abierto no se mide la salida ni se realimenta para compararla con la entrada, como
+
+se muestra en la figura. En cualquier sistema de control en lazo abierto, la salida no se
+
+compara con la entrada de referencia. Por tanto a cada entrada de referencia le
+
+corresponde una condición operativa fija; como resultado, la precisión del sistema
+
+depende de la calibración. Ante la presencia de perturbaciones, un sistema de control en
+
+lazo abierto no realiza la tarea deseada. En la práctica, el control en lazo abierto sólo se
+
+utiliza si se conoce la relación entre la entrada y la salida y si no hay perturbaciones
+
+internas ni externas. Es evidente que estos sistemas no son de control realimentado.
+
+
+
+
+                                                                                         57
+ELEMENTOS BÁSICOS.
+
+
+1.   Elemento de control: Este elemento determina qué acción se va a tomar dada una
+
+     entrada al sistema de control.
+
+2.   Elemento de corrección: Este elemento responde a la entrada que viene del
+
+     elemento de control e inicia la acción para producir el cambio en la variable
+
+     controlada al valor requerido.
+
+3.   Proceso: El proceso o planta en el sistema en el que se va a controlar la variable.
+
+
+                        Elementos básicos del sistema en lazo abierto.
+
+
+
+
+                                          Figura Nº 26
+
+
+      Fuente:http://usuarios.multimania.es/automatica/temas/tema2/pags/la_lc/lc.
+
+
+2.2.10.4.3.   SISTEMAS DE CONTROL EN LAZO CERRADO CONTRA LOS
+
+SISTEMAS DE CONTROL EN LAZO ABIERTO.
+
+
+Las ventajas de tener una trayectoria de realimentación y, por lo tanto, un sistema en
+
+lazo cerrado en lugar de un sistema en lazo abierto son:
+
+
+1.   Más exacto en la igualación de los valores real y requerido para la variable.
+
+
+2.   Menos sensible a las perturbaciones.
+
+                                                                                           58
+3.   Menos sensible a cambios en las características de los componentes.
+
+
+4.   La velocidad de respuesta se incrementa y, por lo tanto, el ancho de banda es
+
+     mayor, es decir, el intervalo de frecuencias en los que el sistema responderá.
+
+
+Pero hay algunas desventajas:
+
+
+1.   Hay una pérdida en la ganancia en cuanto a que la función de transferencia de un
+
+     sistema en lazo abierto, se reduce de G a G/ (1+GH) por una trayectoria de
+
+     realimentación con una función de transferencia H.
+
+
+2.   Existe una gran posibilidad de inestabilidad.
+
+
+3.   El sistema es más complejo y, por lo tanto, no sólo más caro, sino más propenso a
+
+     descomposturas.
+
+
+2.2.10.5.    PLC.
+
+
+Los PLC (Programable Logic Controller en sus siglas en inglés) o Controlador de lógica
+
+programable, son dispositivos electrónicos muy usados en Automatización Industrial.
+
+
+PLC = Es un hardware industrial, que se utiliza para la obtención de datos. Una vez
+
+obtenidos, los pasa a través de bus (por ejemplo por Ethernet) en un servidor.
+
+
+Su historia se remonta a finales de la década de 1960 cuando la industria buscó en las
+
+nuevas tecnologías electrónicas una solución más eficiente para reemplazar los
+
+sistemas de control basados en circuitos eléctricos con relés, interruptores y otros
+
+componentes comúnmente utilizados para el control de los sistemas de lógica
+
+combinacional.
+
+
+
+                                                                                      59
+Hoy en día, los PLC no sólo controlan la lógica de funcionamiento de máquinas, plantas
+
+y procesos industriales, sino que también pueden realizar operaciones aritméticas,
+
+manejar señales analógicas para realizar estrategias de control, tales como
+
+controladores proporcional integral derivativo (PID).
+
+
+Los PLC actuales pueden comunicarse con otros controladores y computadoras en
+
+redes de área local, y son una parte fundamental de los modernos sistemas de control
+
+distribuido.
+
+
+Existen varios lenguajes de programación, tradicionalmente los más utilizados son el
+
+diagrama de escalera (Lenguaje Ladder), preferido por los electricistas, lista de
+
+instrucciones y programación por estados, aunque se han incorporado lenguajes más
+
+intuitivos que permiten implementar algoritmos complejos mediante simples diagramas
+
+de flujo más fáciles de interpretar y mantener. Un lenguaje más reciente, preferido por
+
+los informáticos y electrónicos, es el FBD (en inglés Function Block Diagram) que
+
+emplea compuertas lógicas y bloques con distintas funciones conectados entre sí.
+
+
+En la programación se pueden incluir diferentes tipos de operando, desde los más
+
+simples como lógica booleana, contadores, temporizadores, contactos, bobinas y
+
+operadores matemáticos, hasta operaciones más complejas como manejo de tablas
+
+(recetas), apuntadores, algoritmos PID y funciones de comunicación multiprotocolo que
+
+le permitirían interconectarse con otros dispositivos.
+
+
+2.2.10.5.1.    PLC EN COMPARACIÓN CON OTROS SISTEMAS DE CONTROL.
+
+
+Los PLC están adaptados para un amplio rango de tareas de automatización. Estos son
+
+típicos en procesos industriales en la manufactura donde el costo de desarrollo y
+
+mantenimiento de un sistema de automatización es relativamente alto contra el costo de
+
+                                                                                     60
+la automatización, y donde van a existir cambios en el sistema durante toda su vida
+
+operacional. Los PLC contienen todo lo necesario para manejar altas cargas de
+
+potencia; se requiere poco diseño eléctrico y el problema de diseño se centra en
+
+expresar las operaciones y secuencias en la lógica de escalera (o diagramas de
+
+funciones). Las aplicaciones de PLC son normalmente hechos a la medida del sistema,
+
+por lo que el costo del PLC es bajo comparado con el costo de la contratación del
+
+diseñador para un diseño específico que solo se va a usar una sola vez. Por otro lado,
+
+en caso de productos de alta producción, los sistemas de control a medida se amortizan
+
+por sí solos rápidamente debido al ahorro en los componentes, lo que provoca que
+
+pueda ser una buena elección en vez de una solución "genérica".
+
+
+Sin embargo, debe ser notado que algunos PLC ya no tienen un precio alto. Los PLC
+
+actuales tienen todas las capacidades por algunos cientos de dólares.
+
+
+Diferentes técnicas son utilizadas para un alto volumen o una simple tarea de
+
+automatización, Por ejemplo, una lavadora de uso doméstico puede ser controlada por
+
+un temporizador a levas electromecánico costando algunos cuantos dólares en
+
+cantidades de producción.
+
+
+Un diseño basado en un micro controlador puede ser apropiado donde cientos o miles
+
+de unidades deben ser producidas y entonces el coste de desarrollo (diseño de fuentes
+
+de alimentación y equipo de entradas y salidas) puede ser dividido en muchas ventas,
+
+donde el usuario final no tiene necesidad de alterar el control. Aplicaciones automotrices
+
+son un ejemplo, millones de unidades son vendidas cada año, y pocos usuarios finales
+
+alteran la programación de estos controladores.
+
+
+
+
+                                                                                       61
+Algunos procesos de control complejos, como los que son utilizados en la industria
+
+química, pueden requerir algoritmos y características más allá de la capacidad de PLC
+
+de alto nivel. Controladores de alta velocidad también requieren de soluciones a medida;
+
+por ejemplo, controles para aviones.
+
+
+Los PLC pueden incluir lógica para implementar bucles analógicos, “proporcional,
+
+integral y derivadas” o un controlador PID. Un bucle PID podría ser usado para controlar
+
+la temperatura de procesos de fabricación, por ejemplo. Históricamente, los PLC’s
+
+fueron configurados generalmente con solo unos pocos bucles de control analógico y en
+
+donde los procesos requieren cientos o miles de bucles, un Sistema de Control
+
+Distribuido (DCS) se encarga. Sin embargo, los PLC se han vuelto más poderosos, y las
+
+diferencias entre las aplicaciones entre DCS y PLC han quedado menos claras.
+
+
+Resumiendo, los campos de aplicación de un PLC o autómata programable en procesos
+
+industriales son: cuando hay un espacio reducido, cuando los procesos de producción
+
+son cambiantes periódicamente, cuando hay procesos secuenciales, cuando la
+
+maquinaria de procesos es variable, cuando las instalaciones son de procesos
+
+complejos y amplios, cuando el chequeo de programación se centraliza en partes del
+
+proceso. Sus aplicaciones generales son las siguientes: maniobra de máquinas,
+
+maniobra de instalaciones y señalización y control.
+
+
+2.2.10.5.2.   SEÑALES ANALOGICAS Y DIGITALES.
+
+
+Las señales digitales o discretas como los interruptores, son simplemente una señal de
+
+On/Off (1 ó 0, Verdadero o Falso, respectivamente). Los botones e interruptores son
+
+ejemplos de dispositivos que proporcionan una señal discreta. Las señales discretas son
+
+enviadas usando la tensión o la intensidad, donde un rango especifico corresponderá al
+
+
+                                                                                      62
+On y otro rango al Off. Un PLC puede utilizar 24V de voltaje continuo en la E/S donde
+
+valores superiores a 22V representan un On, y valores inferiores a 2V representan Off.
+
+Inicialmente los PLC solo tenían E/S discretas.
+
+
+Las señales analógicas son como controles de volúmenes, con un rango de valores
+
+entre 0 y el tope de escala. Esto es normalmente interpretado con valores enteros por el
+
+PLC, con varios rangos de precisión dependiendo del dispositivo o del número de bits
+
+disponibles para almacenar los datos. Presión, temperatura, flujo, y peso son
+
+normalmente representados por señales analógicas. Las señales analógicas pueden
+
+usar tensión o intensidad con una magnitud proporcional al valor de la señal que
+
+procesamos. Por ejemplo, una entrada de 4-20 mA o 0-10 V será convertida en enteros
+
+comprendidos entre 0-32767. Las entradas de intensidad son menos sensibles al ruido
+
+eléctrico (como por ejemplo el arranque de un motor eléctrico) que las entradas de
+
+tensión.
+
+
+2.2.10.5.3.   VENTAJAS DE LOS PLC.
+
+
+Se puede hablar de las siguientes ventajas del uso de los PLC frente a lógica cableada
+
+antigua:
+
+
+      Menor tiempo empleado en la elaboración del proyecto.
+
+      Posibilidad de introducir modificaciones sin cambiar el cableado ni añadir
+
+       elementos.
+
+      Reducido espacio de ocupación.
+
+      Menor costo de mano de obra de instalación.
+
+      Menor tiempo para la puesta en funcionamiento, al quedar reducido el de
+
+       cableado.
+
+
+                                                                                     63
+      Posibilidad de controlar varias máquinas con el mismo autómata.
+
+      Economía de mantenimiento.
+
+      Si por alguna razón la máquina queda fuera de servicio, el PLC sigue siendo útil
+
+       para otra máquina o sistema de producción.
+
+
+Como es una tecnología que sigue evolucionando seguramente este listado se
+
+incrementará día a día.
+
+
+2.2.10.5.4.   INCONVENIENTES.
+
+
+Inconvenientes podríamos hablar, en primer lugar, de que hace falta un programador, lo
+
+que obliga a adiestrar a uno de los técnicos en tal sentido, pero hoy en día ese
+
+inconveniente está solucionado porque las universidades ya se encargan de dicho
+
+adiestramiento.
+
+
+El coste inicial también puede ser un inconveniente.
+
+
+2.2.10.5.5.   ESTRUCTURA INTERNA.
+
+
+Para poder interpretar luego el funcionamiento de un PLC, como se muestra en la Figura
+
+27, donde se muestra un esquema de su estructura interna.
+
+
+Podemos distinguir cinco bloques en la estructura interna de los Autómatas
+
+Programables, que pasaremos a describirlos:
+
+
+
+
+                                                                                     64
+                                  Funcionamiento de un PLC.
+
+
+
+
+                                          Figura Nº 27
+
+
+     Fuente:http://usuarios.multimania.es/automatica/temas/tema4/pags/la_lc/lc.
+
+
+1.   Bloque de Entradas. En él se reciben las señales que proceden de los sensores.
+
+
+     Estas son adaptadas y codificadas de forma tal que sea comprendida           por la
+
+     CPU.
+
+
+     También tiene como misión proteger los circuitos electrónicos internos del PLC,
+
+     realizando una separación eléctrica entre éstos y los sensores.
+
+
+2.   Bloque de Salidas: Trabaja de forma inversa al anterior. Interpreta las órdenes de
+
+     la CPU, las descodifica y las amplifica para enviarlas a los actuadores. También
+
+     tiene una interface para aislar la salida de los circuitos internos.
+
+3.   Unidad Central de Procesamiento CPU): En ella reside la inteligencia del sistema.
+
+     En función de las instrucciones del usuario (programa) y los valores de las
+
+     entradas, activa las salidas.
+
+
+
+                                                                                      65
+4.     Fuente de Alimentación: Su misión es adaptar la tensión de red (220V/50Hz) a los
+
+       valores necesarios para los dispositivos electrónicos internos (generalmente
+
+       24Vcc y 5Vcc).
+
+5.     Interfaces: Son los canales de comunicación con el exterior.
+
+
+       Por ejemplo con:
+
+
+      Los equipos de programación.
+
+      Otros automáticos.
+
+      Computadoras.
+
+
+2.3 GLOSARIOS DE TÉRMINOS BÁSICOS.
+
+
+
+A) DISEÑO: Se define como el proceso previo de configuración mental, "pre-figuración",
+
+en la búsqueda de una solución en cualquier campo.
+
+B) IMPLEMENTACIÓN: Es la realización de una aplicación, instalación o la ejecución de
+
+un plan, idea, modelo científico, diseño, especificación, estándar, algoritmo o política.
+
+C) SISTEMA: Es un objeto complejo cuyos componentes se relacionan al menos algún
+
+otro   componente;    puede    ser material o conceptual.   Todos    los   sistemas   tienen
+
+composición, estructura y entorno, pero sólo los sistemas materiales tienen mecanismo,
+
+y sólo algunos sistemas materiales tienen figura (forma). Según el sistemismo, todos los
+
+objetos son sistemas o componentes de otro sistema.
+
+D) AUTOMATIZACIÓN: Aplicación de las máquinas o de procedimientos automáticos en
+
+la realización de un proceso o en una industria.
+
+
+
+
+                                                                                            66
+E)      PROYECCIÓN: Lanzamiento o impulso de una cosa hacia adelante con fuerza
+
+para que llegue a gran distancia.
+
+F)      PRECISIÓN: La precisión es la tolerancia de medida o de transmisión del
+
+instrumento y define los límites de los errores cometidos cuando el instrumento se
+
+emplea en condiciones normales de servicio.
+
+
+
+2.4 .   HIPÓTESIS Y VARIABLES.
+
+2.4.1 HIPÓTESIS GENERAL.
+
+       Es posible implementar y automatizar una dobladora de tubos a través de un
+
+        PLC utilizando un motor trifásico, variador de velocidad, válvulas neumáticas de
+
+        doble efecto, gatas neumáticas y supervisadas por un sistema scada.
+
+2.4.2 HIPOTESIS ESPECÍFICAS.
+
+       Es   posible Diseñar   un mecanismo para el doblado de tuberías usando el
+
+        programa solidwork.
+
+       Es posible Implementar el mecanismo de acuerdo a las especificaciones del
+
+        diseño.
+
+
+
+
+                                                                                      67
+   2.5 OPERACIONALIZACION DE VARIABLES
+
+  VARIABLE       DIMENSIONE              INDICADOR                ESCALA
+
+                       S
+
+                                  Software AutoCAD
+VARIABLE
+INDEPENDIENTE:                    Software solid Works
+                 Planeamiento
+                 del sistema      Software diseño de
+Diseño e                           engranajes
+implementación
+de un sistema
+asistido por                        Mecanismos
+                 Ejecución del
+PLC                                 Materiales
+                 sistema
+                                    Circuitos
+                                    Eléctricos
+                                    Sensores
+                                    Actuadores
+
+
+VARIABLE
+DEPENDIENTE:
+
+                                                               Encuestas
+                                    Software LOGO        SOFT Muy Malo
+                 Programación
+                                     COMFORT
+automatización                                                 Malo
+de una
+dobladora de                                                   Regular
+tubos
+                                                               Bueno
+
+                                                               Muy Bueno
+
+
+
+
+                                                                           68
+               CAPÍTULO III
+
+
+III.- DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN.
+
+
+
+
+                                             69
+3.     DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN.
+
+3.1.   TIPO Y DISEÑO DE INVESTIGACIÓN.
+
+El tipo de investigación del presente proyecto de investigación será EXPERIMENTAL.
+
+Es experimental porque nos encontramos en una situación de control en el cual se
+
+manipulan de manera intencional una o más variables independientes.
+
+
+3.2. POBLACIÓN Y MUESTRA DE LA INVESTIGACIÓN.
+
+
+POBLACIÓN.
+
+La población para el desarrollo del presente trabajo de investigación, la Planta de
+
+Cemento Sur S.A. en el distrito de Caracoto.
+
+
+MUESTRA.
+
+
+Para verificar la funcionalidad del sistema se tomó como muestra todas las tuberías
+
+dobladas en el taller.
+
+
+3.3    TÉCNICAS E INSTRUMENTOS DE RECOPILACION DE INFORMACIÓN.
+
+Para la obtención de información relacionada a cada variable e indicador, se emplearán
+
+las técnicas e instrumentos que se presenta a continuación:
+
+
+3.3.1 TÉCNICAS.
+
+OBSERVACIÓN.- Consiste en examinar minuciosa y detalladamente los diferentes
+
+aspectos de una cosa; o durante un período definido a un fenómeno determinado con el
+
+fin de captar, registrar y sistematizar sus condiciones y manifestaciones similares o
+
+periódicamente distintas, según el caso. Esto es, establecer contacto con el fenómeno
+
+bajo estudio.
+
+
+
+
+                                                                                     70
+3.3.2 INSTRUMENTOS.
+
+GUÍA DE OBSERVACIÓN:
+
+
+Según hurtado la observación es la primera forma de contacto o de relación con los
+
+objetos que van a ser estudiados. Para el cual el investigador se apoya en sus sentidos
+
+(vista, oído, tacto, olfato, sentidos, kinestesticos y cenestésicos).
+
+
+3.4  PLAN DE ANALISIS.
+Mediante la observación se podrá determinar los parámetros reales y necesarios del
+
+proceso de doblado del tubos, después de esto se tomarán los datos de tiempo y
+
+exactitud del ángulo de dobles, para lo cual se contará con un cuaderno de apuntes, 4
+
+cronómetros para tener varios datos de entrada para luego representarlas en gráficos,
+
+siendo estos la manera más cómoda de visualizar e interpretar los registros de los datos
+
+ya mencionados y esto facilitara dar conclusiones y juicios más acertados.
+
+3.5       FASES DE LA INVESTIGACIÓN.
+
+Para el desarrollo del diseño de la investigación se divide en las siguientes fases:
+
+         Primero.- Revisión bibliográfica análisis del sistema diseño del mecanismo,
+
+          usando programas existentes en el mercado SOLIDWORK.
+
+         Segundo.- implementación del mecanismo siguiendo las especificaciones del
+
+          diseño.
+
+         Tercero.- diseño e implementación del tablero de control, diagramas de fuerza y
+
+          control según las necesidades del mecanismo.
+
+         Cuarto.- programación del LOGO PLC, variador de velocidad delta, calibración y
+
+          cableado del mecanismo con sistemas hidráulicos y neumáticos.
+
+
+
+
+                                                                                       71
+              CAPITULO IV
+
+IV.- ANALISIS E INTERPRETACION DE RESULTADOS
+
+
+
+
+                                           72
+4.1   ANALISIS E INTERPRETACION DE RESULTADOS.
+
+4.2   DISEÑO E IMPLEMENTACION DE LA MAQUINA DOBLADORA DE
+
+      TUBOS.
+
+El diseño de la dobladora de tubos se realizó en un programa llamado SOLIDWORKS
+
+2013, es un programa de diseño asistido por computadora, a continuación se detalla el
+
+diseño de piezas.
+
+4.3   DISEÑO DE SOPORTE BASICO PARA LA CURVADORA DE TUBOS.
+
+A continuación se detalla el plano del mecanismo para el soporte básico de la dobladora
+
+de tubos diseñado en solidwork 2013.
+
+Propiedades de masa de mesa metálica.
+
+Densidad = 7.10 gramos por centímetro cúbico.
+
+Masa = 67763.26 gramos.
+
+Volumen = 9544.12 centímetros cúbicos.
+
+Área de superficie = 35805.45 centímetros cuadrados.
+
+Centro de masa: (centímetros).
+
+X = 32.11 , Y = 66.85, Z = -2.
+
+
+
+
+                                                                                    73
+Plano de soporte metálico.
+
+
+
+
+    Plano Nº 01
+
+Fuente: investigadores
+
+
+
+
+                             74
+                   Soporte básico en 3D para la curvadora de tubos
+
+
+
+
+                                    Figura Nº 28
+
+                               Fuente: investigadores.
+
+4.3.1 DISEÑO DE UNA BASE PARA LA UÑA MOVIL FIJA.
+
+                                     una móvil en 3D
+
+
+
+
+                                    Figura Nº 29
+
+                               Fuente: investigadores
+
+Propiedades de masa de base de uña móvil de 1p.
+
+Densidad = 7.10 gramos por centímetro cúbico.
+
+Masa = 12092.27 gramos.
+
+Volumen = 1703.14 centímetros cúbicos.
+
+Área de superficie = 1538.37 centímetros cuadrados.
+
+Centro de masa: (centímetros) X = -4.45     Y = 3.79     Z = -0.71
+
+
+
+                                                                     75
+Plano de uña móvil de 1``.
+
+
+
+
+       Plano Nº 02
+
+ Fuente: investigadores
+
+
+
+
+                             76
+4.3.2 DISEÑO DE UÑA MOVIL FIJA.
+
+                               Diseño de una uña móvil fija.
+
+
+
+
+                                    Figura Nº 30
+
+                              Fuente: investigadores.
+
+  Propiedades de masa de uña móvil de 1p.
+
+  Densidad = 7.10 gramos por centímetro cúbico.
+
+  Masa = 4134.76 gramos.
+
+  Volumen = 582.36 centímetros cúbicos.
+
+  Área de superficie = 911.82 centímetros cuadrados.
+
+  Centro de masa: (centímetros).
+
+  X = 0.35
+
+  Y = 17.88
+
+  Z = -0.48
+
+
+
+
+                                                               77
+    Uña móvil fija.
+
+
+
+
+     Plano Nº 03
+
+Fuente: investigadores
+
+
+                         78
+4.3.3 DISEÑO DE SOPORTE PARA LA SEGUNDA UÑA MOVIL.
+
+                              soporte de la segunda uña movil.
+
+
+
+
+                                    Figura Nº 31
+
+                               Fuente: investigadores
+
+
+
+    Propiedades de masa de base para uña de 1p.
+
+    Densidad = 7.10 gramos por centímetro cúbico.
+
+    Masa = 319.06 gramos.
+
+    Volumen = 44.94 centímetros cúbicos
+.
+    Área de superficie = 207.17 centímetros cuadrados
+
+    Centro de masa: (centímetros) X = 0.71   Y = 3.36
+    Z = -0.23
+
+
+
+
+                                                                 79
+Plano de soporte para la segunda uña móvil.
+
+
+
+
+               Plano Nº 04
+
+          Fuente: investigadores.
+
+
+
+
+                                              80
+4.3.4   DISEÑO DE LA SEGUNDA UÑA MOVIL.
+
+                                       Uña móvil de 1’’.
+
+
+
+
+                                      Figura Nº 32
+
+                                 Fuente: investigadores.
+
+Propiedades de masa de uña 1p.
+
+Densidad = 7.10 gramos por centímetro cúbico.
+
+Masa = 914.44 gramos.
+
+Volumen = 128.79 centímetros cúbicos.
+
+Área de superficie = 173.21 centímetros cuadrados.
+
+Centro de masa: (centímetros).
+
+  X = 0.31
+
+  Y = 3.00
+
+  Z = 0.00
+
+
+
+
+                                                           81
+    UÑA MOVIL 1P.
+
+
+
+
+     Plano Nº 05
+
+Fuente: investigadores.
+
+
+
+                          82
+4.3.5 DISEÑO DE CILINDRO NEUMATICO PARA EL ENSAMBLE DEL MECANISMO.
+
+                                     Cilindro neumático.
+
+
+
+
+                                      Figura Nº 33
+
+                               Fuente: investigadores.
+
+
+
+    Propiedades de masa de cilindro neumático.
+
+    Densidad = 2.73 gramos por centímetro cúbico.
+
+    Masa = 649.22 gramos.
+
+    Volumen = 237.81 centímetros cúbicos.
+
+    Área de superficie = 445.92 centímetros cuadrados
+.
+    Centro de masa: (centímetros).
+
+    X = -0.08
+
+    Y = 2.50
+
+    Z = -0.00
+
+
+
+
+                                                                83
+Cilindro neumático para el ensamble del mecanismo.
+
+
+
+
+                 Plano Nº 06
+
+            Fuente: investigadores.
+
+                                                     84
+4.3.6   DISEÑO DE BRAZOS HIDRAÚLICOS.
+
+                              Diseño de brazos hidráulicos.
+
+
+
+
+                                   Figura Nº 34
+
+                              Fuente: investigadores.
+
+  Propiedades de masa de gata hidráulica.
+
+  Densidad = 7.10 gramos por centímetro cúbico.
+
+  Masa = 3540.47 gramos.
+
+  Volumen = 498.66 centímetros cúbicos.
+
+  Área de superficie = 772.63 centímetros cuadrados.
+
+  Centro de masa: (centímetros).
+
+  X = -0.25
+
+  Y = 4.00
+
+  Z = 2.03
+
+
+
+
+                                                              85
+Diseño de Brazos hidráulicos.
+
+
+
+
+       Plano Nº 07
+
+  Fuente: investigadores.
+
+
+                                86
+4.3.7   MOTORES TRICO.
+
+   Estos motores se usaron como un actuador de la gata hidráulica con el fin de
+
+   automatizar los brazos hidráulicos.
+
+                   Motores tricos como actuadores de la gata hidráulica.
+
+
+
+
+                                         Figura Nº 35
+
+                                Fuente: investigadores.
+
+
+
+
+                                                                                  87
+Motores trico como actuador para los brazos hidráulicos.
+
+
+
+
+                     Plano Nº 08
+
+               Fuente: investigadores.
+
+
+                                                           88
+4.3.8   DISEÑO DE SOPORTE PARA BRAZO MOVIL.
+
+                                 Soporte de brazo móvil.
+
+
+
+
+                                    Figura Nº 36
+
+                               Fuente: investigadores.
+
+Propiedades de masa de soporte para brazo móvil.
+
+Densidad = 7.10 gramos por centímetro cúbico.
+
+Masa = 1600.46 gramos.
+
+Volumen = 225.42 centímetros cúbicos.
+
+Área de superficie = 431.99 centímetros cuadrados.
+
+Centro de masa: (centímetros) X = 8.48   Y = 0.75    Z = -1.72
+
+
+
+
+                                                                 89
+4.3.9   DISEÑO DE SOPORTE PARA BRAZO FIJO.
+
+                                     Soporte de brazo fijo.
+
+
+
+
+                                    Figura Nº 37
+
+                               Fuente: investigadores.
+
+
+
+
+Propiedades de masa de soporte para brazo fijo.
+
+Densidad = 7.10 gramos por centímetro cúbico.
+
+Masa = 898.00 gramos.
+
+Volumen = 126.48 centímetros cúbicos.
+
+Área de superficie = 352.16 centímetros cuadrados.
+.
+Centro de masa: (centímetros)X = 15.41 Y = 0.50 Z = -1.51
+
+
+
+
+                                                              90
+ Soporte de brazo fijo.
+
+
+
+
+     Plano Nº 09
+
+Fuente: investigadores.
+
+
+
+
+                          91
+4.3.10 DISEÑO DE MATRIZ DE 1’’.
+
+
+
+
+                                      Figura Nº 38
+
+                                 Fuente: investigadores.
+
+
+
+Propiedades de masa de molde de doblez.
+
+Densidad = 7.10 gramos por centímetro cúbico.
+
+Masa = 3371.11 gramos.
+
+Volumen = 474.80 centímetros cúbicos.
+
+Área de superficie = 590.91 centímetros cuadrados.
+
+Centro de masa: (centímetros).
+  X = 1.71
+
+  Y = 2.50
+
+  Z = -0.80
+
+
+
+
+                                                           92
+Diseño de una matriz de 1’’.
+
+
+
+
+        Plano Nº 10
+
+  Fuente: investigadores.
+
+
+
+                               93
+4.3.11 DISEÑO DE POLEA MOTRIZ Y POLEA CONDUCIDA.
+
+A continuación se muestra el plano de las dos poleas que usaremos en el mecanismo de
+
+nuestra dobladora de tubos.
+
+             Diseño de una polea motriz para el eje del motor trifásico.
+
+
+
+
+                                      Figura Nº 39
+
+                                 Fuente: investigadores.
+
+                              Diseño de una polea conducida.
+
+
+
+
+                                        Figura Nº40
+
+                                   Fuente: investigador.
+
+
+
+
+                                                                                  94
+Diseño de polea motriz de 1’’ para el eje del motor trifásico.
+
+
+
+
+                        Plano Nº 11
+
+                  Fuente: investigadores.
+
+
+
+                                                                 95
+Diseño de polea conducida de 1’’.
+
+
+
+
+         Plano Nº 12
+
+   Fuente: investigadores.
+
+
+
+                                    96
+4.3.12 DISEÑO DE PIÑON Y ENGRANAJES PARA EL SISTEMA DE TRANSMISION
+
+     CIRCULAR.
+
+  Diseño de engranajes 107 y 114 dientes respectivamente piñones de 9 y 11 dientes
+
+                                 respectivamente.
+
+
+
+
+                                     Figura Nº 41
+
+                                 Fuente: investigador.
+
+
+
+
+                                                                                     97
+Diseño de piñones.
+
+
+
+
+    Plano Nº 13
+
+Fuente: investigadores.
+
+                          98
+Diseño de engranajes.
+
+
+
+
+    Plano Nº 14
+
+Fuente: investigadores.
+
+
+
+                          99
+4.3.13   MOTOR TRIFASICO PARA EL ENSAMBLE DEL MECANISMO.
+
+                       Motor trifásico de 1.5 HP según norma NEMA.
+
+
+
+
+                                     Figura Nº 42
+
+                                Fuente: investigadores.
+
+
+
+4.3.13.1 CALCULOS REALES PARA EL MOTOR TRIFÁSICO.
+
+Datos del motor:
+
+         Voltaje:                    230v
+
+         Frecuencia:                 60hz
+
+         Rpm:                        1710
+
+         Hp:                         1.5
+
+         Amp:                        4.50
+
+         Factor de potencia:         0.81
+
+         Nema neff:                  0.936
+
+
+
+
+                                                                     100
+Calculo de potencia:
+
+        Potencia de salida(𝑃𝑜𝑢𝑡).
+
+        Pout=1.5hp.
+
+        1hp=746w.
+
+        Pout=1.5x746=1119w.
+
+        Potencia de entrada (Pin)
+                𝑃𝑜𝑢𝑡       1119
+        Pin=           =           = 1195.52w
+                𝑛𝑒𝑓𝑓       0.938
+
+Calculo de corriente de línea:
+
+        Corriente de línea (𝐼𝑙 )
+
+                                         𝑃3∅ = √3 ∗ 𝐼𝑙 ∗ 𝑉𝑙 ∗ 𝑓𝑝
+
+                                                       𝑃3∅
+                                            𝐼𝑙 =
+                                                   √3 ∗ 𝑉𝑙 ∗ 𝑓𝑝
+
+                   1195.52
+         𝐼𝑙 =
+                √3 ∗ 230 ∗ 0.81
+
+        𝐼𝑙 = 3.874𝑎𝑚𝑝
+
+Corriente de arranque:
+
+        𝐼𝑎𝑟𝑟 =𝐼𝑙 *5.6
+
+        𝐼𝑎𝑟𝑟 =21.68 amp.
+
+
+
+                                          Esquema de motor.
+
+
+
+
+                                                Figura Nº 43
+
+                                        Fuente: investigadores.
+
+
+
+                                                                   101
+                      Curva de corriente de arranque.
+
+
+
+
+                               Figura Nº 44
+
+                         Fuente: investigadores.
+
+
+
+4.3.13.2 ENSAMBLE DE PIESAS.
+
+4.3.13.2.1 ENSAMBLE DEL SISTEMA DE TRANSMISION.
+
+                             Sistema de transmisión.
+
+
+            1
+                                  2
+                                              4
+                                                        6
+
+                                      3           5
+
+
+
+
+                               Figura Nº 45
+
+                         Fuente: investigadores.
+
+
+
+
+                                                            102
+4.3.14 CALCULO DE VELOCIDAD EN EL SISTEMA DE TRANSMISIÓN.
+
+Datos:
+
+1.- polea motriz.
+
+2.-polea conducida.
+
+3.-primer piñón motriz 10 dientes.
+
+4.-primer engranaje conducido.
+
+5.-segundo piñón motriz.
+
+6.-segundo engranaje conducido.
+
+ Diámetro de polea motriz 10cm.
+
+ Diámetro de polea conducida 17.20cm.
+
+ Piñón motriz ubicado sobre la polea conducida 10 dientes.
+
+ Primer engranaje conducida 107 dientes.
+
+ Piñón ubicado sobre el primer engranaje conducido 11 dientes.
+
+ Segundo engranaje conducido 114 dientes.
+
+ Motor trifásico de 1.5 Hp 1710 rpm.
+
+Con estos datos calcularemos la velocidad final del eje conducido primero usaremos la
+
+formula de poleas descrito en el capítulo anterior.
+
+                                                  𝑛2   𝐷1
+                                             𝑖=      =
+                                                  𝑛1   𝐷2
+
+Entonces despejando y reemplazando tenemos.
+
+                                        𝑁1 𝐷1 = 𝑁2 𝐷2
+
+Considerando que N es la velocidad en rpm.
+
+(1710)(0.1) = (𝑁2 ) (0.1720)
+
+𝑵𝟐 = 994.19rpm
+
+Ahora tomaremos este dato como la velocidad del eje motriz para el piñón entonces
+
+reemplazando tenemos.
+
+                                                                                  103
+𝑵𝟏 𝒁𝟏 = 𝑵𝟐 𝒁𝟐
+
+
+      Reemplazando tenemos.
+
+
+      𝑵𝟏 = 994.19rpm.
+
+
+      𝒁𝟏 =10 dientes.
+
+
+      𝑵𝟐 =?
+
+
+      𝒁𝟐 = 107 dientes.
+
+
+      Entonces despejando datos tenemos:
+
+
+𝟗𝟗𝟒. 𝟏𝟗
+        (𝟏𝟎) = 𝑵𝟐
+ 𝟏𝟎𝟕
+
+
+      𝑵𝟐 = 92.91rpm velocidad del segundo piñón.
+
+
+Este valor nos servirá como dato para el segundo piñón.
+
+
+Reemplazando nuevamente en la ecuación de engranajes queda de la
+
+siguiente forma:
+
+
+          𝟗𝟐. 𝟗𝟏
+                 (𝟏𝟏) = 𝑵𝟐
+           𝟏𝟏𝟒
+
+
+                   𝑵𝟐 = 8.97rpm velocidad final del sistema de transmisión.
+
+
+     Con el sistema de transmisión que se diseño la velocidad del motor trifásico se
+
+redujo de 1710 rpm a 8.97 rpm.
+
+
+
+
+                                                                                  104
+     La velocidad óptima para deformar las propiedades del tubo se ajustara usando
+
+un variador de velocidad, de esta forma se podrá variar la velocidad del doblado en un
+
+rango de 1rpm a 9 rpm.
+
+
+4.3.15 ENSAMBLE DE UÑA MOVIL FIJA Y BASE.
+
+                                Ensamble de uña móvil fija y base.
+
+
+
+
+                                      Figura Nº 46
+
+                                Fuente: investigadores.
+
+
+
+
+                                                                                     105
+4.3.16 ENSAMBLE DE UÑA MOVIL GIRATORIO Y BASE.
+
+                    Ensamble de uña móvil giratoria y base.
+
+
+
+
+                              Figura Nº 47
+
+                         Fuente: investigadores.
+
+4.3.16.1 ENSAMBLE GATA Y ACTUADURES (NEUMATICA Y MOTORES TRICO).
+
+                              Gata y actuadores.
+
+
+
+
+                                  Figura Nº 48
+
+                            Fuente: investigadores.
+
+
+
+
+                                                               106
+4.3.17 ENSAMBLE DE MECANISMO COMPLETO.
+
+                                   Mecanismo completo.
+
+
+
+
+                               Fuente: investigadores.
+
+                               Mecanismo completo.
+
+
+
+
+                                Figura Nº49
+
+                           Fuente: investigadores.
+
+4.3.18 PROGRAMACIÓN DEL VARIADOR DE VELOCIDAD.
+
+4.3.18.1 AJUSTE DE VELOCIDAD, FRENADO DINÁMICO, POTENCIA
+
+           Y CORRIENTE NOMINAL,
+
+La velocidad optima para deformar las propiedades del tubo se conseguirá variando la
+
+velocidad del variador VFD-L 230V / 0.13 – 2 HP para ello se programara dicho
+
+variado.
+
+                                                                                   107
+GRUPO 0: PARAMETROS DEL USUARIO
+
+Parámetros Funciones                 Ajuste                   Ajuste
+                                                              Fabrica
+  0-00     Potencia máxima           1:40W
+           que puede entregar el     2:100W
+           equipo. Parámetro de      3:200W
+           sólo lectura, no          4:400W
+           modificable               5:750W
+                                     6:1.5KW
+  0-01     Corriente máxima          40W:0.4A
+           Puede entregar el         100W:0.8A
+           equipo.                   200W:1.6A
+           Parámetro de sólo         400W:2.5A
+           lectura,                  750W:4.2A
+           No modificable            1.5KW:7.0A
+  0-02     Parámetro de reset.       0: Este ajusta todos     0
+                                     los parámetros a los
+                                     valores de fábrica.
+  0-03     Display que muestra el    0:F (Frecuencia          0
+           funcionamiento del        de comando).
+           variador de frecuencia    1:H (Frecuencia
+           de AC.                    de salida).
+                                     2: U (Unidad definida
+                                     por el usuario).
+                                     3: A (Corriente de
+                                     salida).
+  0-04     Unidad a mostrar          0: Muestra la unidad     0
+           definida por el usuario   definida por el
+                                     usuario (u).
+                                     1: Muestra el valor
+                                     del contador(C).
+                                     2: Muestra la
+                                     operación en
+                                     proceso (1=tt)
+                                     3: Muestra el valor de
+                                     voltaje del Bus de DC
+                                     (U).
+                                     4: Muestra el voltaje
+                                     de la Salida (E).
+  0-05     Coeficiente K definido    0.1 ~160                 1.0
+           por el usuario.
+  0-06     Versión de software.      Parámetro de sólo        #.#
+                                     lectura, no
+  0-07     Clave o password de       0 ~999                   0
+           entrada.
+  0-08     Clave o password de       0 ~999                   0
+           configuración.
+
+
+
+                                                                        108
+GRUPO1: PARÁMETROS BÁSICOS
+
+Parámetros   Funciones                           Ajuste             Ajuste
+                                                                    Fabrica
+             Frecuencia de operación máxima. 50.0~400Hz             60.0
+   1-00
+             Máximo límite de frecuencia.        10.0~400Hz         60.0
+   1-01
+   1-02      Voltaje máximo de salida.           2.0 ~255V          220
+             Punto medio de la frecuencia.       1.0 ~400Hz         1.0
+   1-03
+   1-04      Punto medio del voltaje.            2.0 ~255V          12.0
+             Frecuencia de salida minima.        1.0~60.0Hz         1.0
+   1-05
+   1-06      Voltaje de salida minima.           2.0~255V           12.0
+             Límite de la frecuencia superior.   1 ~110%            100
+   1-07
+             Límite de la frecuencia inferior.   0 ~100%            0.0
+   1-08
+             Tiempo de aceleración1              0.1~600Seg.        10.0
+   1-09
+             Tacc1).
+             Tiempo de desaceleración1           0.1~600Seg.        10.0
+   1-10
+             (Tdec1).
+   1-11      Tiempo de aceleración2.             0.1~600Seg.        10.0
+             Tiempo de desaceleración2.          0.1~600Seg.        10.0
+   1-12
+             Tiempo de aceleración de            0.1~600Seg.        10.0
+   1-13
+             punteo.
+             Tiempo de                           0.0~600Seg.        10.0
+   1-14
+             Desaceleración de punteo.
+   1-15      Frecuencia de punteo.               1.0Hz~400Hz         6.0
+             Modo de aceleración y               0: Aceleración y     0
+             desaceleración.                     desaceleración
+   1-16
+                                                 lineal.
+                                                 1: Aceleración
+                                                 automática y des-
+                                                 aceleración lineal.
+             Modo de aceleración y               2: Aceleración       0
+             desaceleración.                     lineal y
+                                                 desaceleración
+                                                 automática.
+                                                 3: Aceleración y
+   1-16                                          desaceleración
+                                                 automática.
+                                                 4:Aceleración
+                                                 y desaceleración
+                                                 automática,
+                                                 protección de
+                                                 parada.
+             Curva S, configuración de la                             0
+   1-17
+             aceleración.                        0 ~7
+             Curva S, configuración de la
+   1-18
+             desaceleración.                     0 ~7                 0
+
+                                                                              109
+GRUPO2: OPERACIÓN DE PARÁMETROS
+
+Parámetros Funciones             Ajuste                               Ajuste
+                                                                      Fabrica
+  2-00     Fuente de             0: Teclado digital frontal.           0
+           comando de la         1: Entrada analógica (AVI) de
+           frecuencia.           0~10V.
+                                 2: Entrada analógica (AVI) de
+                                 4~20mA.
+                                 3: Control por potenciómetro
+                                 frontal.
+                                 4: Puerto de comunicación RS-
+                                 485.
+                                  0: Por teclado digital frontal.      0
+  2-01                            1: Por borneras externas, el
+                                  botón de STOP está habilitado.
+                                  2: Por borneras externas, el
+           Fuente de              botón de STOP está
+           comando de             deshabilitado.
+           operación.             3: Por el puerto de
+                                  comunicaciones RS-485, el
+                                  botón de STOP está habilitado.
+                                  4: Por el puerto de
+                                  comunicaciones RS-485, el
+                                  botón de STOP está
+                                  deshabilitado.
+           Método de              0: Por rampa.                        0
+  2-02
+           parada.                1: Parada libre.
+
+  2-03     Frecuencia            3~10KHz.                              10
+           portadora.
+           Operación de          0: Reversa habilitada.                0
+  2-04     reversa prohibida.    1: Reversa deshabilitada.
+                                 2: Marcha deshabilitada.
+
+           Entrada               0: Lleva la frecuencia de salida a    0
+           analógica ACI         0Hz.
+  2-05     (4~20mA).             1: Parada Inmediata, muestra
+           Entrada de            EF.2: Arranca con la última
+           detección             frecuencia.
+           dañada.
+           Line start lockout.   0: Habilitado.                        1
+  2-06
+                                 1: Deshabilitado.
+
+
+
+
+                                                                                110
+GRUPO3: PARÁMETROS DE LAS FUNCIONES DE SALIDA
+
+Parámetros   Funciones           Ajuste                      Ajuste
+                                                             Fabrica
+   3-00      Frecuencia          1.0~400Hz.                     1.0
+             deseada
+             Terminal de valor   0 ~999                          0
+   3-01
+             de cuenta.
+   3-02      Valor de cuenta     0 ~999                          0
+             preliminar.
+             Relee de salida     0: No usado.                    8
+             multifunción.       1: Variador de frecuencia
+                                 de AC, operable.
+                                 2: Frecuencia máxima de
+                                 salida alcanzada.
+                                 3: Velocidad Cero.
+                                 4: Sobre torque.
+                                 5: Indicación de bloqueo,
+                                 la salida del variador se
+                                 inhabilitará, cuando se
+                                 cierre o abra el circuito
+                                 entre GND y M1, M2, M3
+   3-03                          de acuerdo a lo
+                                 configurado.
+                                 6: Detección de
+                                 voltaje bajo.
+                                 7: En funcionamiento.
+                                 8: Indicación de falla.
+                                 9: Frecuencia deseada
+                                 alcanzada.
+                                 10: El programa del PLC
+                                 está corriendo.
+                                 11: Completo el
+                                 paso del
+                                 programa del
+                                 PLC.
+                                 12: El programa del PLC
+                                 finalizó.
+                                 13: La operación del
+                                 programa del PLC está en
+                                 pausa.
+                                 14: Terminal de valor de
+                                 cuenta alcanzado.
+             Relee de salida     15: Valor de cuenta             8
+   3-03      multifuncion.       preliminar alcanzado.
+                                 16: Indicación de estado
+                                 listo.
+
+
+
+
+                                                                       111
+GRUPO4: PARÁMETROS DE FUNCIONES DE ENTRADA
+
+
+
+                                                              Ajuste
+ Parámetros       Funciones           Ajuste
+                                                              Fábrica
+   4-00       Offset del            0.0~350Hz                  0.0
+              potenciómetro
+              Offset de la          0:Offset                    0
+   4-01
+              polaridad del         positivo1:Offset
+              potenciómetro.        negativo
+              Ganancia de la        1 ~200%                   100
+   4-02
+              frecuencia del
+              potenciómetro.
+              Potenciómetro para    0: No usado.                0
+              movimiento de         1: Movimiento de
+   4-03       reversa habilitado.   reversa habilitado.
+                                    2: Movimiento de marcha
+                                    únicamente.
+              Terminal de entrada   0: No usado.                1
+   4-04       multifunción1 (M1).   1:M0:FWD/STOP,M1
+              (d 0~d20)             REV/STOP.
+              Terminal de entrada   2: M0: RUN/STOP,            6
+   4-05       multifunción2 (M2).   M1FWD/STOP.
+                                    3: Conexionado3 cables,
+                                    M0, M1, M2.
+              Terminal de entrada   4:Falla externa,            7
+              multifunción3 (M3).   contacto NA.
+              (d 0, d4 ~d20)        5: Falla externa,
+                                    contacto NC.
+                                    6: Reset.
+                                    7: Comando1 de
+                                    velocidad multipaso.
+                                    8: Comando2 de
+                                    velocidad multipaso.
+   4-06                             9: Operación de punteo.
+                                    10: Velocidad de
+                                    aceleración y
+                                    desaceleración
+                                    prohibida.
+                                    11: Primera o
+                                    segundas elección de
+                                    tiempo aceleración o
+                                    desaceleración.
+                                    12: Bloqueo de la
+                                    salida (BB), contacto
+                                    NA.
+                                    13: Correr programa
+                                    del PLC.
+                                    14: PLC en pausa
+
+
+                                                                        112
+GRUPO5: MULTIVELOCIDADES Y PROGRAMACIÓN DEL PLC
+
+
+
+                                                         Ajuste
+ Parámetros      Funciones         Ajuste
+                                                         Fábrica
+              1ra Frecuencia de    0.0 ~400Hz            0.0
+   5-00
+              velocidad de paso.
+              2da Frecuencia de    0.0 ~400Hz            0.0
+   5-01
+              velocidad de paso.
+              3ra Frecuencia de    0.0 ~400Hz            0.0
+   5-02
+              velocidad de paso.
+                                   0: Operación del        0
+                                   PLC desactivada.
+                                   1: Ejecuta un solo
+                                   ciclo de programa.
+                                   2: Ejecución
+   5-03       Modo PLC.            continúa de los
+                                   ciclos de programa.
+                                   3: Ejecución de un
+                                   ciclo de programa
+                                   paso a paso,
+                                   separado por un
+                                   stop.
+                                   4: Ejecución
+                                   continua del
+                                   programa paso a
+                                   paso, separado por
+                                   un stop.
+              PLC, movimiento      0 ~15                   0
+   5-04
+              marcha/reversa.      (0:Marcha1:Reversa)
+              Tiempo de             0 ~65500Seg.           0
+   5-05
+              duración paso0.
+   5-06       Tiempo de duración   0 ~65500Seg.            0
+              paso1
+   5-07       Tiempo de duración   0 ~65500Seg.            0
+              paso2
+   5-08       Tiempo de duración   0 ~65500Seg.            0
+              paso3
+
+
+
+
+                                                                   113
+GRUPO6: PARÁMETROS DE PROTECCIÓN
+
+
+
+Parámetro           funciones                          Ajuste                Ajuste
+                                                                               de
+                                                                             fabrica
+  6-00      Nivel de protección por    0: Deshabilitado.                       390
+            sobre voltaje             350~410V
+  6-01      Nivel de protección por    0: Deshabilitado.                      170
+            sobre corriente.          20 ~200%
+  6-02      Detección por sobre        0: Deshabilitado.
+            torque.                    1: Habilitado mientras que
+                                       exista una velocidad constante
+                                       de operación y continua hasta
+                                       que un determinado límite se
+                                       alcanza.
+                                       2: Habilitado mientras que
+                                       exista una velocidad constante
+                                       de operación y se detiene
+                                       después de la detección.
+                                       3: Habilitado durante una               0
+                                       constante       aceleración    y
+                                       velocidad constante, antes de
+                                       que la salida alcance el
+                                       Tiempo configurado por el
+                                       parámetro 6
+                                      4. sobre torque.
+  6-03      Nivel de detección por 30 ~200%                                   150
+            sobre torque.
+  6-04      Tiempo de detección por 0.1~10.0Seg.                              0.1
+            sobre torque.
+  6-05      Protección    electrónica 0: No usado.
+            (modelo    térmico    del 1: Actúa con un motor estándar.
+            motor)                    2: Actúa con un motor especial.          0
+
+  6-06      Tiempo para irse a falla 30~600Seg.
+            de      la      protección                                         60
+            electrónica térmica.
+  6-07                                 0:no ocurre ninguna falla
+                                       1: “oc” (Sobre corriente).
+                                       2: “ov” (Sobre voltaje).
+                                       3: “oH” (Sobre temperatura)
+            Registro de fallas actual. 4: “oL” (Sobre carga).
+                                       5: “oL1” (Falla electrónica interna
+                                       por sobre carga).
+                                       6:“EF” (Falla externa).
+
+
+
+
+                                                                                       114
+GRUPO7: PARÁMETROS DEL MOTOR
+
+
+ Parámetro           Funciones                     ajuste                Ajuste
+                                                                         fabrica
+7-00         Valor de la corriente del           30 ~120%                  85
+             motor.
+7-01         Corriente en vacío                   0 ~90%                   50
+7-02         Compensación          de             0 ~10%                    1
+             torque.
+7-03         Compensación          de            0.0~10.0%                0.0
+             deslizamiento.
+
+
+Grupo8: Parámetros especiales
+
+ Parámetro           Funciones                     ajuste                Ajuste
+                                                                         fabrica
+8-00         Nivel de intensidad de               0 ~30%                    0
+             inyección de corriente
+             continua, en el frenado
+8-01         Duración de la inyección           0.0~60.0Seg.              0.0
+             de corriente continua de
+             frenado, en el arranque
+8-02         Duración de la inyección           0.0~60.0Seg.              0.0
+             de corriente continua de
+             frenado, en la parada.
+8-03         Valor de la frecuencia             0.0~400.0Seg.             0.0
+             para la cual se inicia el
+             frenado.
+8-04                                  0: Detiene la operación, después
+                                      de una pérdida momentánea de
+                                      potencia.
+                                      1: Continua, después de una
+                                      pérdida momentánea de potencia,
+                                      se inicia la búsqueda de la
+             Pérdida    de   potencia velocidad con la frecuencia          0
+             momentánea.              configurada en 8-03.
+                                      2: Continua, después de una
+                                      pérdida momentánea de potencia,
+                                      se iníciala búsqueda de la
+                                      velocidad     con    la   mínima
+                                      frecuencia de salida
+8-05         Tiempo máximo de la                 0.3~5.0 Seg.              2
+             pérdida    de   potencia
+             admisible.
+8-06         Tiempo de búsqueda de               0.3~5.0 Seg.             0.5
+             la velocidad, luego del
+             bloqueo.
+8-07         Límite de la frecuencia             0.0 ~ 400Hz              0.0
+             de salto máxima1
+
+                                                                                   115
+GRUPO9: PARÁMETROS DE COMUNICACIÓN.
+
+
+ Parámetro           Funciones                         Ajuste            Ajuste
+                                                                         fabrica
+9-00         Dirección              de                0 ~30%                1
+             comunicación
+9-01         Velocidad               de 0:Baudrate4800.                    1
+             transmisión.               1:Baudrate9600.
+                                        2:Baudrate19200.
+9-02         Tratamiento de la falla de 0: Avisa y continúa corriendo.
+             comunicación.              1: Avisa y parada por rampa.       0
+                                        2: Avisa y parada libre.
+                                        3: No avisa y sigue corriendo.
+9-03         Tiempo watchdog de la 0: No disponible.
+             comunicación Modbus.                                          0
+                                        1~20: 1~20Seg.
+9-04         Protocolo de                                 0:7,N,2
+             comunicación                                 1:7,E,1
+                                           MODO ASCI      2:7,O,1
+                                                          3:8,N,2
+                                                          4:8,E,1
+                                                          5:8,O,1          0
+
+                                                          6:8,N,2
+                                           MODO RTU
+                                                          7:8,E,1
+                                                          8:8,O,1
+
+
+
+
+                                                                                   116
+4.3.18.2 PROGRAMACION DE LOGO PLC.
+
+A continuación se muestra el programa del logo PLC.
+
+
+
+
+                                                      117
+118
+119
+120
+4.3.18.3 COMPONENTES ELÉCTRICOS PARA EL ENSAMBLE DEL
+
+TABLERO.
+
+a.   GUARDA MOTOR:
+
+     El guarda motor (también llamado disyuntor magnetotérmico o protector de motor)
+
+     es un dispositivo de protección contra los cortocircuitos, dentro de los límites de
+
+     su poder de corte a través de disparadores magnéticos (un disparador por fase).
+
+     También protegen contra los contactos indirectos.
+
+     Dependiendo del tipo de circuito que se desee proteger (motor, distribución,...) el
+
+     umbral de disparo magnético se situará entre 3 y 15 veces la corriente térmica Ith.
+
+     Dependiendo del guarda motor, dicho umbral de disparo puede ser fijo o ajustable
+
+     por el usuario.
+
+     Cuando la corriente de cortocircuito (Icc) no es muy elevada, los guarda motores
+
+     funcionan a mayor velocidad que los fusibles.
+
+
+
+                                  Guarda motor eléctrico.
+
+
+
+
+                                        Figura Nº 50
+
+
+
+
+                                                                                    121
+b.   CONTACTOR:
+
+     Es un mecanismo cuya misión es la de cerrar unos contactos, para permitir el
+
+     paso de la corriente a través de ellos. Esto ocurre cuando la bobina del contactor
+
+     recibe corriente eléctrica, comportándose como electroimán y atrayendo dichos
+
+     contactos.
+
+PARTES DEL CONTACTOR ELÉCTRICO:
+
+           Contactos principales: 1-2, 3-4, 5-6. Tienen por finalidad abrir o cerrar
+
+            el circuito de fuerza o potencia.
+
+           Contactos auxiliares: 13-14 (NO) Se emplean en el circuito de mando o
+
+            maniobras. Por este motivo soportarán menos intensidad que los
+
+            principales. El contactor de la figura solo tiene uno que es normalmente
+
+            abierto.
+
+           Circuito electromagnético:
+
+           Consta de tres partes.-
+
+           1.- El núcleo, en forma de E. Parte fija.
+
+           2.- La bobina: A1-A2.
+
+           3.- La armadura. Parte móvil.
+
+          Aspecto físico:
+
+                                   Contactor eléctrico.
+
+
+
+
+                                      Figura Nº 51
+
+                                                                                    122
+c.    RELE DE SOBRECARGA TÉRMICO.
+
+Es un mecanismo que sirve como elemento de protección del motor. Su misión consiste
+
+en desconectar el circuito cuando la intensidad consumida por el motor supera durante
+
+un tiempo corto a la permitida por este, evitando que el bobinado se queme. Esto ocurre
+
+gracias a que consta de tres láminas bimetálicas con sus correspondientes bobinas
+
+calefactoras que cuando son recorridas por una determinada intensidad, provocan el
+
+calentamiento del bimetal y la apertura del relé. La velocidad de corte no es tan rápida
+
+como en el interruptor magnetotérmico. Se debe regular (tornillo 7), a la Intensidad
+
+nominal del motor (In), para el arranque directo. Esta intensidad deberá venir indicada en
+
+la placa de características del motor.
+
+
+
+                               Relé de sobrecarga térmico.
+
+
+
+
+                                         Figura Nº 52
+
+
+
+
+                                                                                      123
+d.       ELEMENTOS DE ACCIONAMIENTO.
+
+Pulsadores: Los pulsadores son elementos de accionamiento que sirven para cerrar o
+
+abrir un circuito permitiendo el paso o no de la corriente a través de ellos. Existen tres
+
+tipos:
+
+        Pulsador de paro.
+
+        Pulsador de marcha.
+
+        Pulsador de doble cámara.
+
+
+
+
+                                        Pulsadores.
+
+
+
+
+                                        Figura Nº 53
+
+
+
+
+                                                                                             124
+4.3.18.4. ENSAMBLE DEL TABLERO ELÉCTRICO DIAGRAMA DE FUERZA.
+
+
+
+
+                            Figura Nº 54
+
+
+
+
+                                                               125
+                                 CONCLUSIONES.
+
+
+
+PRIMERA: Realizado la investigación     se puede determinar que se cumplió con el
+
+            objetivo principal de esta tesis, esto es el diseño e implementación un
+
+            sistema asistido por PLC para la automatización de una dobladora de tubos
+
+            y supervisado por un sistema scada”.
+
+
+
+SEGUNDA: Se automatizó el proceso de curvado de tubería, rediseñando varios
+
+            sistemas de máquina con la ayuda del software SolidWorks 2013,
+
+            certificando que la misma cumple en forma segura con las exigencias que
+
+            demanda del mercado.
+
+
+
+TERCERA: Se logró controlar la seguridad operativa de la máquina mediante sensores
+
+            que minimizan el riesgo de un posible incidente durante la operación de
+
+            curvado.
+
+
+
+
+                                                                                  126
+                                   SUGERENCIAS
+
+
+
+
+ PRIMERA: Se sugiere utilizar los implementos de seguridad para el personal que lo va
+
+            a operar.
+
+
+SEGUNDA: Realizar un mantenimiento correcto de la máquina ayudará a que no se
+
+            deteriore o dañe alguna pieza y pueda funcionar en óptimas condiciones de
+
+            trabajo.
+
+
+
+
+TERCERA: Las áreas y ambientes de trabajo deben contar con orden y una limpieza
+
+            para permitir que las labores se efectúen con exactitud y eficiencia y no
+
+            puedan causar accidentes.
+
+
+
+
+CUARTA: Verificar que la toma de alimentación trifásica para la máquina sea siempre la
+
+           que se encuentra asignada en el área de curvado de tubería, debido a que el
+
+           sentido de giro del motor principal influye de sobre manera en la dirección
+
+           del curvado, en el caso de producirse un giro en dirección errónea implicaría
+
+           un riesgo tanto para la máquina como para el operador.
+
+
+
+
+                                                                                    127
+BIBLIOGRAFIAS
+
+     ROBERT L. MOTT- diseño de elementos de máquinas Cuarta Edición, Pearson
+
+      Education.
+
+
+
+     DEPPERTY K. STOLL, dispositivos neumáticos - Introducción y Fundamentos.
+
+
+
+     CREUS ANTONIO - neumática e hidráulica – primera edición.
+
+
+
+     SALVADOR MILLAN - automatización neumática y electro neumático.
+
+
+
+     JOSHEP SHIGLEY Y CHARLES MISCHKE - diseño en ingeniería mecánica.
+
+
+     JACK C. Mc Cormac de “Diseño de Estructuras de Acero Métodos LRFD” 2da
+
+      Ed.; Editorial Alfa omega; 2002; México, página 130,441.
+
+
+
+     JAMES M. Gere “Mecánica de Materiales”; 6ta Ed.; Editorial Thomson; 2003
+
+      México, página 3, 39 .
+
+
+
+     LEIVA FlowerLuís “Controles y Automatismos Eléctricos, Teoría y Prácticas”
+
+      página 21-42.
+
+
+     SCHNEIDER ELECTRIC “Manual de Tecnologías De Control Industrial”;
+
+      Barcelona; 1999, Página 71.
+
+
+
+     SHIGLEY, Josep E.; “Diseño en Ingeniería Mecánica” 6ta Ed.; McGraw-Hill; 2002;
+
+      México, página 27, 434.
+
+                                                                                 128
+   MOTT Robert L. “Diseño de Elementos de Máquinas” ; 2da Ed.; Editorial Printice
+
+    Hall; 1992; México, pagina 767.
+
+
+   NAHMIAS Steven, análisis de la producción y las operaciones, Quinta edición,
+
+    2007 pág. 10.
+
+
+
+   ROY R. Craig, jr. Mecánica de materiales cecsa. 2002.
+
+
+
+   MC GRAW HILL. Elementos de maquinas.
+
+
+
+   RENTICE-HALL Resistencia De Materiales Aplicada.
+
+
+
+   LIMUSA Control De Motores Eléctricos.
+
+
+
+   PALACIOS, L; Moya, J. Diseño y construcción de una Máquina Dobladora de
+
+    Tubos. Escuela Politécnica Nacional. Marzo 2002 pág.9.
+
+   TIMOSHENKO “Resistencia de Materiales” Tomo II.
+
+
+
+
+                                                                               129
+    SITIOS EN WEB GRAFIAS
+
+   http:/clasificacion-de-herramientas.html.
+
+   http://definicion.de/proceso-de-produccion/.
+
+   http://www.monografias.com/trabajos6/prod/prod.shtml.
+
+   http://www.monografias.com/trabajos16/objetivos-educacion/objetivos-
+
+    educacion.shtml.
+
+   http://www.curvamex.com.mx/Productos/DobladorasdeTubo/tabid/63/Default.aspx
+
+    .
+
+   http://es.wikipedia.org/wiki/Reductores_de_velocidad.
+
+   http://www.dismamex.com.mx/dobladotubo.html.
+
+   http://www.curva-tubos.com/index1.htm.
+
+   http:www.sapiensman\simbolos neumaticos.mht.
+
+   http:www.unicrom/tutorial.asp.
+
+   http:www.unicrom/tutorial.asp.
+
+   http:www.transmicion\Manufacturer sprocketschain.com.
+
+   http://es.wikipedia.org/wiki/Actuador/Sensor.
+
+   Guía práctica para usos y selección de electrodos – AGA, pág. 24.
+
+
+
+
+                                                                            130
+ANEXOS
+
+
+
+
+         131
+ENSAMBLE Y EVIDENCIAS DE LA DOBLADORA DE TUBOS PRIMERA FASE.
+
+
+
+
+                            FOTO Nº 01
+
+
+
+
+                            FOTO Nº 02
+
+
+
+
+                                                               132
+FOTO Nº 03
+
+
+
+
+FOTO Nº 04
+
+
+
+             133
+SEGUNDA FASE RESTRUCTURACION DEL MECANISMO
+
+
+
+
+                FOTO Nº 05
+
+
+
+
+                FOTO Nº 06
+
+
+
+
+                                             134
+FOTO Nº 07
+
+
+
+
+FOTO Nº 08
+
+
+
+
+             135
+FOTO Nº 09
+
+
+
+
+FOTO Nº 10
+
+
+
+
+             136
+FOTO Nº 11
+
+
+
+
+FOTO Nº 12
+
+
+
+
+             137
+FOTO Nº 13
+
+
+
+
+FOTO Nº 14
+
+
+
+
+             138
+FOTO Nº 15
+
+
+
+
+FOTO Nº 16
+
+
+
+
+             139
+FOTO Nº 17
+
+
+
+
+FOTO Nº 18
+
+
+
+
+             140
+FOTO Nº 19
+
+
+
+
+FOTO Nº 20
+
+
+
+
+             141
+FOTO Nº 21
+
+
+
+
+FOTO Nº 22
+
+
+
+
+             142
+FOTO Nº 24
+
+
+
+
+FOTO Nº 25
+
+
+
+
+             143
+FOTO Nº 26
+
+
+
+
+FOTO Nº 27
+
+
+
+
+             144
+FOTO Nº 28
+
+
+
+
+FOTO Nº 29
+
+
+
+
+             145
+FOTO Nº 30
+
+
+
+
+             146
+

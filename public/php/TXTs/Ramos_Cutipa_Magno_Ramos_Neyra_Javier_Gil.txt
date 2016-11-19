@@ -1,0 +1,5425 @@
+ UNIVERSIDAD NACIONAL DEL ALTIPLANO – PUNO
+ FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA, ELECTRÓNICA Y
+                        SISTEMAS
+  ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+
+
+
+   “SISTEMA DE BÚSQUEDA WEB PARA LA GESTIÓN DE
+INFORMACIÓN WI-FI GEORREFERENCIADA DE LA CIUDAD DE
+                         PUNO”
+
+                          TESIS
+
+
+                   PRESENTADA POR:
+
+
+                Bach. RAMOS CUTIPA, MAGNO
+               Bach. RAMOS NEYRA, JAVIER GIL
+
+
+
+                      PUNO – PERÚ
+                           2013
+
+
+
+
+                                                            i
+ÁREA: Informática
+TEMA: Sistemas de información tradicionales y expertos
+
+
+                                                         ii
+                              DEDICATORIA.
+
+Dedico esta Tesis a mis padres, Sr.
+
+Juan de Dios, Ramos Amesquita y Sra.
+
+Fabiana, Cutipa Roque, a mi hermano
+
+José; quienes siempre me brindaron su
+
+apoyo y comprensión durante todo el
+
+transcurso de mi formación académica
+
+y personal.
+
+
+A mi amada esposa Dina Huancollo
+
+Tapia, por su sincero amor y total
+
+apoyo, que me da día con día, a mi
+
+querida hija Dana Angelica, que es la
+
+alegría de mi vida, hoy, mañana y
+
+siempre.
+
+
+                              Magno.
+
+
+
+
+                                        Dedico el presente logro a mis queridos
+
+                                        padres quienes con su siempre constaste
+
+                                        apoyo durante todo el transcurso de mi
+
+                                        carrera contribuyeron en mi formación
+
+                                        académica y personal.
+
+
+                                                                        Javier.
+
+
+
+
+                                                                             iii
+                               AGRADECIMIENTOS.
+
+
+A la Universidad Nacional del Altiplano
+
+– Puno y a los docentes de la Escuela
+
+Profesional de Ingeniería de Sistemas,
+
+por la formación académica impartida
+
+en mi persona en especial al Ing.
+
+Edgar, Holgui;, Ing. Edelfré, Flores; e
+
+Ing. William, Arcaya.
+
+A los muchos compañeros y amigos
+
+que de algún modo me incentivaron en
+
+el desarrollo de la Tesis, pero en
+
+especial a Phyro (Javier), Jorge, Alain
+
+y Jesús.
+
+                                Magno.
+                                               A todas las personas que de una u otra
+
+                                               manera colaboraron para la conclusión
+
+                                               de la presente tesis en especial a mi
+
+                                               amigo Max (Magno).
+
+
+                                                                               Javier
+
+
+                   Y de manera especial al Mg. Elmer, Coyla Idme;
+
+                   Ing. Milder, Zanabria Ortega e Ing. Irenio Luis,
+
+                   Chagua      Aduviri    respectivamente,   por    sus
+
+                   acertadas sugerencias y correcciones para mejorar
+
+                   la Tesis.
+
+
+
+
+                                                                                    ii
+                                                 ÍNDICEGENERAL
+
+RESUMEN. ................................................................................................................. 1
+
+INTRODUCCIÓN ........................................................................................................ 2
+
+CAPÍTULO I: PLANTEAMIENTO DEL PROBLEMA. ............................................... 5
+
+1.1. PLANTEAMIENTO DEL PROBLEMA. ................................................................ 5
+
+       1.1.1.Definición del Problema. ............................................................................ 7
+
+       1.1.2.Justificación de la Investigación. ................................................................ 7
+
+       1.1.3.Limitaciones de la Investigación. ............................................................... 8
+
+1.2. ANTECEDENTES DE LA INVESTIGACIÓN....................................................... 9
+
+       1.2.1.Antecedentes Nacionales. ......................................................................... 9
+
+       1.2.2.Antecedentes Internacionales. ................................................................. 10
+
+1.3. OBJETIVOS DE LA INVESTIGACIÓN. ............................................................ 12
+
+       1.3.1.Objetivo General. ..................................................................................... 12
+
+       1.3.2.Objetivos Específicos. .............................................................................. 12
+
+CAPITULO II: MARCO TEÓRICO. ........................................................................... 13
+
+2.1. MARCO TEÓRICO. .......................................................................................... 13
+
+       2.1.1.Sistema de Información Geográfica. ........................................................ 13
+
+       2.1.2.Geocodificación. ...................................................................................... 16
+
+       2.1.3.Estandarización de los GIS. ..................................................................... 17
+
+       2.1.4.Google Maps............................................................................................ 19
+
+       2.1.5.AJAX y el Desarrollo de Aplicaciones SIG en la Web. ............................. 20
+
+       2.1.6.Red de Área Local Inalámbrica WLAN. ................................................... 22
+
+       2.1.7.IEEE 802.11. ............................................................................................ 22
+
+       2.1.8.Bandas de Frecuencia de las Redes WLAN. ........................................... 25
+
+
+
+
+                                                                                                                               ii
+      2.1.9.Componentes de Redes Inalámbricas. .................................................... 26
+
+      2.1.10.Seguridad en Redes Inalámbricas WLAN. ............................................. 28
+
+      2.1.11.Wardriving. ............................................................................................. 35
+
+2.2. MARCO CONCEPTUAL. .................................................................................. 39
+
+      2.2.1.Antenas. ................................................................................................... 39
+
+      2.2.2.Apache Web Server. ................................................................................ 40
+
+      2.2.3.Broadcast. ................................................................................................ 40
+
+      2.2.4.Canal de Comunicación. .......................................................................... 40
+
+      2.2.5.CSS. ........................................................................................................ 40
+
+      2.2.6.Georreferenciación. ................................................................................. 41
+
+      2.2.7.GPS. ........................................................................................................ 41
+
+      2.2.8.IEEE. ........................................................................................................ 41
+
+      2.2.9.Javascript. ................................................................................................ 42
+
+      2.2.10.Mashups. ............................................................................................... 42
+
+      2.2.11.MySQL. .................................................................................................. 42
+
+      2.2.12.PHP........................................................................................................ 43
+
+      2.2.13.Sistema Web. ......................................................................................... 43
+
+      2.2.14.SSID....................................................................................................... 43
+
+      2.2.15.Wireless. ................................................................................................ 44
+
+      2.2.16.Wi-Fi....................................................................................................... 44
+
+      2.2.17.XMLHttpRequest. ................................................................................... 44
+
+      2.2.18.XAMPP. ................................................................................................. 45
+
+2.3. HIPÓTESIS DE LA INVESTIGACIÓN. ............................................................. 45
+
+
+
+
+                                                                                                                                iii
+CAPÍTULO III: MÉTODOS Y RESULTADOS. .......................................................... 46
+
+3.1. TIPO DE INVESTIGACIÓN............................................................................... 46
+
+3.2. DISEÑO DE INVESTIGACIÓN. ........................................................................ 47
+
+3.3. LOCALIZACIÓN................................................................................................ 47
+
+3.4. POBLACIÓN Y MUESTRA. .............................................................................. 48
+
+3.5. TÉCNICAS E INSTRUMENTOS. ...................................................................... 49
+
+3.6. MÉTODOS DE RECOPILACIÓN DE DATOS................................................... 52
+
+3.7. MÉTODOS DE TRATAMIENTO DE DATOS. ................................................... 53
+
+3.8. DISEÑO ESTADÍSTICO PARA LA PRUEBA DE HIPÓTESIS.......................... 53
+
+3.9. PROCESO DE DESARROLLO DEL SISTEMA WEB. ...................................... 54
+
+3.10. MATERIAL EXPERIMENTAL. .......................................................................... 56
+
+       3.10.1.ANÁLISIS. .............................................................................................. 57
+
+       3.10.2.DISEÑO. ................................................................................................ 94
+
+       3.10.3.IMPLEMENTACIÓN. ............................................................................ 102
+
+CAPÍTULO IV: PRESENTACIÓN Y ANALISIS DE RESULTADOS. ..................... 111
+
+4.1. PRUEBA DEL SISTEMA DE INFORMACIÓN. ............................................... 111
+
+4.2. PRUEBA DE HIPÓTESIS. .............................................................................. 121
+
+CONCLUSIONES. .................................................................................................. 124
+
+RECOMENDACIONES. .......................................................................................... 126
+
+BIBLIOGRAFÍA Y ANEXOS. .................................................................................. 127
+
+
+
+
+                                                                                                                            iv
+                                            ÍNDICE DE FIGURAS
+Figura Nº 01: Ejemplo de representación por capas. ........................................... 14
+Figura Nº 02: Mapa con estructura raster y vectorial. .......................................... 16
+Figura Nº 03: Ejemplo de aplicación Web desarrollada con Google Maps........... 19
+Figura Nº 04: Acceso a los Servicios Web OGC. ................................................. 21
+Figura Nº 05: Número de canales en la banda de 2,4 GHz. ................................. 25
+Figura Nº 06: Punto de Acceso Inalámbrico. ........................................................ 27
+Figura Nº 07: Tarjetas de Redes Inalámbricas. .................................................... 28
+Figura Nº 08: Portal Cautivo. ................................................................................ 32
+Figura Nº 09: Proceso de Autentificación 1. ......................................................... 33
+Figura Nº 10: Proceso de Autentificación 2. ......................................................... 34
+Figura Nº 11: Esquema de conexión de los dispositivos del Wardriving. ............. 38
+Figura Nº 12: Proceso Web. ................................................................................. 54
+Figura Nº 13: Diagrama de Casos de Uso del Visitante ....................................... 58
+Figura Nº 14: Casos de Uso de Usuario Registrado y Administrador................... 59
+Figura Nº 15: Diagrama de secuencia del caso de uso Registrar Usuario. .......... 61
+Figura Nº 16: Diagrama de Colaboración Registrar Usuario. ............................... 61
+Figura Nº 17: Diagrama de Colaboración Identificar Usuario. .............................. 62
+Figura Nº 18: Diagrama de secuencia del caso de uso Identificar Usuario. ......... 63
+Figura Nº 19: Diagrama de secuencia del caso de uso Comentar Wi-Fi. ............. 64
+Figura Nº 20: Diagrama de Colaboración Comentar Wi-Fi. .................................. 64
+Figura Nº 21: Diagrama de secuencia Mostrar Wi-Fi y buscar Wi-Fi. .................. 66
+Figura Nº 22: Diagrama de Colaboración Mostrar Wi-Fi y buscar Wi-Fi............... 66
+Figura Nº 23: Diagrama de secuencia Mostrar InfoWiFi y Mostrar Comentario. .. 68
+Figura Nº 24: Diagrama de colaboración Mostrar InfoWiFi, Mostrar Comentario. 68
+Figura Nº 25: Diagrama de secuencia Activar Registro........................................ 69
+Figura Nº 26: Diagrama de colaboración Activar Registro. .................................. 70
+Figura Nº 27: Diagrama de secuencia Mostrar Estadísticas. ............................... 71
+Figura Nº 28: Diagrama de Colaboración Mostrar Estadísticas. .......................... 72
+Figura Nº 29: Diagrama de secuencia Búsqueda Avanzada. ............................... 73
+Figura Nº 30: Diagrama de Colaboración Búsqueda Avanzada. .......................... 73
+Figura Nº 31: Diagrama de secuencia Editar Usuario. ......................................... 74
+Figura Nº 32: Diagrama de Colaboración Editar Usuario. .................................... 75
+
+
+                                                                                                                    v
+Figura Nº 33: Diagrama de secuencia Ingresar Nueva Wi-Fi. .............................. 77
+Figura Nº 34: Diagrama de Colaboración Ingresar Nueva Wi-Fi. ......................... 78
+Figura Nº 35: Diagrama de Colaboración Editar Wi-Fi. ........................................ 78
+Figura Nº 36: Diagrama de secuencia Editar Wi-Fi. ............................................. 79
+Figura Nº 37: Diagrama de secuencia Eliminar Wi-Fi. ......................................... 80
+Figura Nº 38: Diagrama de Colaboración Eliminar Wi-Fi...................................... 81
+Figura Nº 39: Diagrama de secuencia Imprimir PDF. ........................................... 82
+Figura Nº 40: Diagrama de Colaboración Imprimir PDF. ...................................... 82
+Figura Nº 41: Diagrama de secuencia Eliminar Usuarios. .................................... 84
+Figura Nº 42: Diagrama de Colaboración Eliminar Usuarios. ............................... 84
+Figura Nº 43: Diagrama de Clases. ...................................................................... 85
+Figura Nº 44: Diagrama Entidad/Relación Lógico. ............................................... 86
+Figura Nº 45: Diagrama Relacional. ..................................................................... 88
+Figura Nº 46: Modelo Físico de la Base de Datos ................................................ 89
+Figura Nº 47: Arquitectura de 3 capas.................................................................. 94
+Figura Nº 48: Diagrama de navegación para visitantes. ...................................... 95
+Figura Nº 49: Diagrama de navegación para usuarios registrados. ..................... 96
+Figura Nº 50: Diagrama de navegación para Administrador. ............................... 97
+Figura Nº 51: Esquema del diseño de interfaz general. ....................................... 97
+Figura Nº 52: Diseño de interfaz visitantes........................................................... 98
+Figura Nº 53: Primer diseño de interfaz Usuario Registrado ................................ 99
+Figura Nº 54: Segundo diseño de interfaz Usuario Registrado. ........................... 99
+Figura Nº 55: Diseño de interfaz Mostrar información de Wi-Fi seleccionada. ... 100
+Figura Nº 56: Diseño de interfaz mostrar datos estadísticos. ............................. 101
+Figura Nº 57: Diseño de interfaz Administrador. ................................................ 101
+Figura Nº 58: Base de datos en phpMyAdmin.................................................... 102
+Figura Nº 59: Organización de archivos y carpetas. .......................................... 103
+Figura Nº 60: Interfaz gráfica de visitante........................................................... 104
+Figura Nº 61: Interfaz gráfica de usuario registrado. .......................................... 105
+Figura Nº 62: Interfaz gráfica de búsqueda avanzada. ...................................... 107
+Figura Nº 63: Interfaz gráfica de estadísticas. .................................................... 108
+Figura Nº 64: Interfaz gráfica de información sobre Wi-Fi seleccionada. ........... 110
+
+
+
+
+                                                                                                              vi
+                                             ÍNDICE DE TABLAS
+Tabla Nº 01: Descripción de Caso de Uso Registrar Usuario. ............................. 60
+Tabla Nº 02: Descripción de Caso de Uso Identificar Usuario. ............................ 62
+Tabla Nº03: Descripción de Caso de Uso Comentar Wi-Fi. ................................. 63
+Tabla Nº 04: Descripción de Caso de Uso Buscar Wi-Fi. ..................................... 65
+Tabla Nº 05: Descripción de Caso de Uso Mostrar Wi-Fi. .................................... 65
+Tabla Nº 06: Descripción de Caso de Uso Mostrar InfoWiFi. ............................... 67
+Tabla Nº 07: Descripción de Caso de Uso Mostrar Comentarios. ........................ 67
+Tabla Nº 08: Descripción de Casos de Uso Activar Registro. .............................. 69
+Tabla Nº 09: Descripción de Caso de Uso Mostrar Estadísticas. ......................... 70
+Tabla Nº 10: Descripción de Caso de Uso Búsqueda Avanzada. ........................ 72
+Tabla Nº 11: Descripción de Caso de Uso Editar Usuario.................................... 74
+Tabla Nº 12: Descripción de Caso de Uso Administrar Wi-Fi. .............................. 75
+Tabla Nº 13: Descripción de Caso de Uso Ingresar Nueva Wi-Fi. ....................... 76
+Tabla Nº 14: Descripción de Caso de Uso Editar Wi-Fi........................................ 78
+Tabla Nº 15: Descripción de Caso de Uso Eliminar Wi-Fi. ................................... 79
+Tabla Nº 16: Descripción de Caso de Uso Imprimir PDF. .................................... 81
+Tabla Nº 17: Descripción de Caso de Uso Eliminar Usuarios. ............................. 83
+Tabla Nº 18: WI_Departamento. .......................................................................... 89
+Tabla Nº 19: WI_Provincia. .................................................................................. 90
+Tabla Nº 20: WI_Distrito ....................................................................................... 90
+Tabla Nº 21: WI_Propietario. ................................................................................ 90
+Tabla Nº 22: WI_Usuario. ..................................................................................... 91
+Tabla Nº 23: WI_WifiAP. ...................................................................................... 92
+Tabla Nº 24: WI_Encuesta. .................................................................................. 93
+Tabla Nº 25: WI_Comentario. ............................................................................... 93
+
+
+
+
+                                                                                                                      vii
+                                   RESUMEN.
+
+
+El desarrollo del presente trabajo de investigación que se titula “Sistema de
+
+búsqueda Web para la gestión de información Wi-Fi georreferenciada de la ciudad
+
+de Puno”, tiene como objetivo general determinar que el sistema de búsqueda
+
+Web permita mejorar la gestión de la información de las redes Wi-Fi
+
+georreferenciadas; para desarrollar el sistema se tuvo que obtener los datos de
+
+todas las redes Wi-Fi existentes, esto se realizó a través de la       técnica del
+
+wardriving que se completó en forma relativa en las partes más importantes de la
+
+ciudad de Puno; así mismo la metodología que se utilizó se enmarca dentro de un
+
+tipo de investigación correlacional y con diseño cuasi–experimental.
+
+
+
+La población estuvo conformada por 55,379 personas del distrito de Puno de los
+
+cuales se seleccionó a 96 para probar el sistema Web; la prueba estadística
+
+utilizó la Z-Test; para realizar el análisis y diseño del sistema de búsqueda Web
+
+se utilizó el proceso de desarrollo de la ingeniería Web; la implementación se
+
+realizó con el lenguaje de programación PHP del lado del servidor; como gestor
+
+de base de datos MySQL; el framework jquery y el API de Googlemaps del lado
+
+del cliente; finalmente se concluyó que el sistema de búsqueda web mejorar la
+
+gestión de la información Wi-Fi georreferenciada de la ciudad de Puno por parte
+
+de los usuarios finales de la aplicación.
+
+
+
+Palabras Clave: Sistema de Búsqueda Web, Wardriving, Wi-Fi, Google Maps,
+
+Georreferenciación, Gestión de la Información.
+
+
+
+
+                                                                                1
+                                   ABSTRACT
+
+
+The development of this research work entitled "Web search system for managing
+
+Wi-Fi geo-referenced information from the city of Puno", generally aims to
+
+determine which Web search system to improve the management of information
+
+Wi-Fi networks georeferenced; to develop the system had to get the data of all
+
+existing Wi-Fi networks, this was done through wardriving technique was
+
+completed in relative form in the most important city of Puno, likewise the
+
+methodology used falls within a type of correlational research and quasi-
+
+experimental design.
+
+
+
+The population consisted of 55.379 people Puno district of which 96 were selected
+
+to test the Web system, the statistical test used the Z-test, for the analysis and
+
+design of Web search system used the development process web engineering, the
+
+implementation was performed using the programming language PHP server side,
+
+as manager MySQL database, the jquery framework and Googlemaps API client
+
+side; finally concluded that the web search system improve the management of
+
+georeferenced information Wi-Fi from Puno city by end users of the application.
+
+
+
+Keywords:     Web      Search   System,   Wardriving,    Wi-Fi,   Google    Maps,
+
+Georeferencing, Information Management.
+
+
+
+
+                                                                                  2
+                               INTRODUCCIÓN
+
+
+Las redes inalámbricas Wi-Fi actualmente se encuentran en gran auge a nivel
+
+global, ya que cuentan con costos de implementación relativamente bajos y de
+
+fácil   instalación, además de    la   independencia de movilidad que ofrecen,
+
+permitiendo acceder a información en línea sin tener la necesidad de estar
+
+conectados a una red cableada, estas ventajas han hecho que esta tecnología
+
+tenga un alto crecimiento y se vuelva muy accesibles para todas las personas no
+
+solo en instituciones públicas o privadas sino también en hogares o en cualquier
+
+lugar del mudo.
+
+
+
+La ciudad de Puno no es ajena a esta realidad ya que a simple vista se puede
+
+observar un considerable número de estas redes, sin embargo no existe un medio
+
+de ningún tipo ya sea digital o manual que nos brinde la información necesaria
+
+referente a la existencia de las redes Wi-Fi sobre la ciudad de Puno, por lo cual no
+
+se sabe ni el número aproximado de redes que existen, ni el tipo de seguridad
+
+que poseen, ni sus características técnicas, ni su ubicación geográfica; por
+
+consiguientes el desarrollar del “sistema de búsqueda Web para mejorar la
+
+gestión de la información de las redes Wi-Fi georreferenciadas de la ciudad de
+
+Puno” brinda en línea a través de internet dicha información sobre las redes Wi-Fi
+
+que existen en esta ciudad a cualquiera que desee conocer sobre ellas.
+
+
+
+De ahí la importancia de elaborar esta investigación que, a su vez, se encuentra
+
+estructurado en cuatro capítulos, distribuidos de la siguiente manera:
+
+
+
+
+                                                                                  3
+Capítulo I: Se expone el planteamiento del problema a investigar, que comprende
+
+la definición del problema, justificación, limitaciones, antecedentes nacionales e
+
+internacionales y los objetivos tanto el general como los específicos de la
+
+investigación.
+
+
+
+Capítulo II: Se considera aspectos del marco teórico, que engloba la base teórica
+
+que otorga sustento al trabajo pues tiene relación directa con las variables de
+
+estudio, el marco conceptual y las hipótesis de la investigación.
+
+
+
+Capítulo III: Se expone el diseño y tipo de investigación, también se describe la
+
+población, la muestra, los procedimientos, se señala los instrumentos y técnicas
+
+de recolección de datos, el diseño estadístico, el procedimiento para el desarrollo
+
+del sistema Web (análisis, diseño e implementación) que después será el material
+
+experimental a utilizar.
+
+
+
+Capítulo IV: Se presentan las pruebas del sistema tanto porte de los usuarios
+
+como de los desarrolladores, además se engloba los efectos de la investigación,
+
+presentando y analizando los resultados, por medio de cuadros de frecuencia y
+
+gráficos que se analizan e interpretan con el apoyo del marco teórico.
+
+
+
+Por último se presentan las conclusiones, recomendaciones, bibliografía y los
+
+anexos correspondientes a la investigación.
+
+
+
+
+                                                                                 4
+                                CAPÍTULO I.
+
+               PLANTEAMIENTO DEL PROBLEMA.
+
+
+1.1. PLANTEAMIENTO DEL PROBLEMA.
+
+   Las redes inalámbricas de área local WLAN (Wireless Local Area Networks)
+
+   en la actualidad se encuentran en un gran auge a nivel mundial, en el
+
+   ámbito empresarial, comercial, doméstico y universitario, ya que cuentan
+
+   con costos de implementación relativamente bajos y de fácil instalación,
+
+   además de la independencia de movilidad que ofrecen con respecto a las
+
+   redes cableadas, en las cuales se debe permanecer en un lugar fijo para
+
+   obtener los servicios de red e Internet, estas ventajas y otras han hecho
+
+   que esta tecnología tenga un alto crecimiento y se vuelva muy accesibles
+
+   para toda las personas en cualquier lugar.
+
+
+
+   Las ventajas que ofrece las redes WLAN han hecho que la ciudad de Puno
+
+   no sea ajena a esto, provocando la aparición en los últimos años de muchas
+
+   de estas redes de diferentes tipos, características y en diferentes cantidades
+                                                                                5
+      en todas las zonas de la ciudad, muchas de estas han sido creadas sin tener
+
+      en cuenta alguna buena práctica de seguridad, es por esto que para el grupo
+
+      de personas que desean conocer sobre dichas redes o que desean instalar
+
+      nuevas redes, se les presenta la dificultad de no saber con certeza el
+
+      número de redes existentes, en que canales trabajan, potencia que utilizan u
+
+      otras características; ya que no existe ningún estudio actual o anterior que
+
+      se haya realizado en la ciudad de puno referente a las redes inalámbricas.
+
+
+
+      Por otro lado algunas de estas redes ofrecen diferentes servicio de pago,
+
+      para la población de la ciudad de Puno que desean utilizar estos servicios se
+
+      presenta también el problema de no saber dónde se encuentran éstas ya
+
+      que muchas no son empresas reconocidas que publiciten el servicio que
+
+      brindan, además tampoco se sabe las características técnicas de estas
+
+      redes como el nivel de fiabilidad que tienen, haciendo que al momento de
+
+      tomar una decisión sobre cual red escoger se llegue a no escoger la más
+
+      adecuada o mejor.
+
+
+
+      Actualmente no existe un medio de ningún tipo ya sea digital o manual que
+
+      nos brinde la información necesaria referente a la existencia de estas redes
+
+      WLAN, por lo cual no se sabe ni el número aproximado de redes que
+
+      existen, ya sean públicas o privadas, empresariales o domésticas, ni sus
+
+      características técnicas tales como el SSID1, cobertura que alcanza,
+
+      potencia máxima, canal de comunicación, tipo de cifrado, coordenadas
+
+
+1ServiceSet   IDentifier: nombre incluido en todos los paquetes de una red inalámbrica para
+identificarlos como parte de esa red, es para identificar y nombrar la red.
+
+
+                                                                                         6
+        geográficas, ni disponer de información de la situación actual de los
+
+        dispositivos de interconexión, la asignación en los canales de comunicación
+
+        y los parámetros de conexión de los dispositivos según el estándar
+
+        802.11b/g.
+
+
+
+        Es por estas circunstancias que se plantea la necesidad de realizar un
+
+        sistema de búsqueda Web para la gestión de información Wi-Fi
+
+        georreferenciada de la ciudad de Puno.
+
+
+
+        1.1.1. Definición del Problema.
+
+                 ¿En qué medida el sistema de búsqueda Web permite mejorar la
+
+                 gestión de la información Wi-Fi georreferenciada de la ciudad de
+
+                 Puno?
+
+
+
+        1.1.2. Justificación de la Investigación.
+
+                 Se hace necesario implementar un sistema de localización Web para
+
+                 la gestión de la información de los AP(Access Point)2 de las redes Wi-
+
+                 Fi que nos permita conocer no solo su ubicación relativa, sino también
+
+                 conocer sus características técnicas y tecnológicas, este sistema de
+
+                 localización     es     el   medio         que   nos   permite   hacer   visible
+
+                 geográficamente la existencia de dichos Puntos como primer paso
+
+                 para fomentar su uso.
+
+
+
+
+2   AP:Son equipos hardware configurados en redes inalámbricas que hacen de intermediario entre
+    las computadoras y la red externa (local o Internet).
+
+
+                                                                                               7
+      Como no se conoce la información sobre las Wi-Fi en la ciudad de
+
+      Puno es que se realiza el sistema de localización Web de los AP para
+
+      determinar el estado actual en la que se encuentran dichos Puntos,
+
+      servirá para futuras investigaciones que se deseen realizar, comparar
+
+      la situación actual en la que se encuentran estos con futuras
+
+      situaciones en la ciudad o de otras ciudades del Perú.
+
+
+
+      Disponer de un sistema actualizado de localización Web, para la
+
+      gestión de la información de los puntos de acceso, es la base de la
+
+      confianza de los futuros usuarios en estas redes Wi-Fi, disponer de
+
+      información en línea sobre la ubicación de los puntos de conexión,
+
+      como de su estado operativo, son los pilares de imagen de marca
+
+      positiva de dichas redes por parte de los usuarios finales de estas
+
+      mismas.
+
+
+
+1.1.3. Limitaciones de la Investigación.
+
+      Para el desarrollo de esta investigación se propone como lugar para
+
+      la obtención de los datos tanto para el wardriving como para la prueba
+
+      del sistema Web toda la zona urbana y la población de la ciudad de
+
+      Puno conformado por todos sus barrios y urbanizaciones. Debido a
+
+      las siguientes limitaciones: zonas poco accesibles a causa de la
+
+      irregularidad del terreno, calles estrechas, comercio ambulatorio, no
+
+      se pudo realizar el wardriving al 100% en todas las zonas en las que
+
+      estaba planeado en un principio.
+
+
+                                                                           8
+             Se realizó la obtención de datos para los AP de las redes Wi-Fi sobre
+
+             las bandas de frecuencia propias de la tecnología de la norma
+
+             802.11b/g/n dela IEEE por ser estas las más utilizadas en la ciudad
+
+             de Puno y de fácil acceso. Cabe notar que no se encontraron todas
+
+             las redes Wi-Fi y su ubicación geográfica es solo referencial.
+
+
+
+1.2. ANTECEDENTES DE LA INVESTIGACIÓN.
+
+    1.2.1. Antecedentes Nacionales.
+
+             LÁZARO (2006)3, en su trabajo de investigación intitulado “Sistema
+
+             de información geográfica de administración y búsqueda de la
+
+             información      georreferencial     de    la   ciudad    de    Juliaca”;   logró
+
+             implementar un sistema de información geográfica para poder
+
+             administrar y realizar búsquedas de la información georreferencial de
+
+             lugares como calles, farmacias, hoteles, colegios entre otros de la
+
+             ciudad de Juliaca, donde concluye que: “El desarrollo de un sistema
+
+             de información geográfica mejora y propone nuevas formas de
+
+             búsqueda de la información georreferencial de la ciudad de Juliaca,
+
+             en las pruebas realizadas por el grado de aceptación, la búsqueda en
+
+             Web propuesta permite encontrar de manera más eficiente un lugar
+
+             determinado” .
+
+
+
+
+3LAZÁRO   LUNA, Lisandro; Universidad Nacional del Altiplano Puno – Perú. 2006.
+
+
+                                                                                            9
+                DELOITTE (2008)4, en su investigación “Mapa de la inseguridad de
+
+                redes inalámbricas en la ciudad de Lima”; logró averiguar el nivel de
+
+                seguridad que poseían las diferentes redes inalámbricas existentes
+
+                tanto empresariales como domésticas y luego crear un mapa
+
+                geográfico digital de la dicha ciudad mostrando dicha información,
+
+                para lograrlo utilizó las técnicas de wardriving y warwalking para la
+
+                recolección de       información en la cual se detectaron las redes
+
+                inalámbricas, donde concluyo que: “Los niveles de seguridad distan
+
+                de ser aceptables, con un alto nivel de instalaciones cuya seguridad
+
+                sería fácilmente vulnerable o prácticamente nula, considerando
+
+                necesario que las empresas y organizaciones evalúen el nivel de
+
+                seguridad de      sus    redes    WLAN,      en particular reconsideren los
+
+                mecanismos de cifrado utilizados”.
+
+
+
+        1.2.2. Antecedentes Internacionales.
+
+                BRAVO (2009)5, en su proyecto de fin de carrera titulado “Búsqueda
+
+                geoposicional de redes Wi-Fi con dispositivos Android”; logró
+
+                implementar un sistema Web de búsqueda de redes Wi-Fi, este
+
+                sistema consta de una aplicación web 2.0 y una aplicación para
+
+                dispositivos móviles Android6. Desde dichos terminales fue posible
+
+                encontrar puntos de acceso Wi-Fi para que el usuario se pueda
+
+                conectar si así lo desea, ha concluido que: “Se ha implementado una
+
+
+
+4DELOITTE      ENTERPRISE; Lima, 2008.
+5BRAVO     GARCÍA, Patricia; Universidad Carlos III de Madrid, España, 2009.
+6   Es un sistema operativo orientado a dispositivos móviles y que usa una versión modificada del
+    Kernel Linux.
+
+                                                                                              10
+             aplicación RIA (aplicación de Internet enriquecida) que permite al
+
+             usuario añadir APs en un punto determinado del mapa o en una
+
+             dirección postal concreta y se ha conseguido dar cobertura a distintos
+
+             casos de búsqueda de redes Wi-Fi por proximidad a la localización
+
+             actual,   por    proximidad         a    una    dirección    especifica    o    por
+
+             potencia/velocidad (en una distancia máxima)”.
+
+
+
+             ARAQUE (2008)7, en su proyecto de fin de carrera titulado “Sistema
+
+             de   recomendación        de    restaurantes         Georreferenciados”;       logró
+
+             desarrollar un prototipo de software basado en Web que se denominó
+
+             REJA (Restaurantes de Jaén) que permite georreferenciar y realizar
+
+             recomendaciones de los restaurantes de la provincia de Jaén –
+
+             España, ha concluido que: “se ha logrado crear un sitio Web accesible
+
+             desde     Internet   desde     el       que    los   usuarios    pueden    realizar
+
+             puntuaciones de los restaurantes que son visitados. En base a estas
+
+             puntuaciones el sistema crea un perfil de usuario y ofrece una lista de
+
+             restaurantes recomendados entre los favoritos del grupo de clientes
+
+             más afines a sus gustos, a la vez que puede conocer la localización
+
+             de   cada     restaurante      mediante        tecnologías      de   Sistemas    de
+
+             Información Geográfica”.
+
+
+
+
+7ARAQUE   IBÁÑEZ, Antonio; Universidad De Jaén, Escuela Politécnica Superior, España, 2008
+
+
+                                                                                              11
+1.3. OBJETIVOS DE LA INVESTIGACIÓN.
+
+    1.3.1. Objetivo General.
+
+          Determinar que el sistema de búsqueda Web permite mejorar la
+
+          gestión de la información de las redes Wi-Fi georreferenciadas de la
+
+          ciudad de Puno.
+
+
+
+    1.3.2. Objetivos Específicos.
+
+            Recolectar datos sobre seguridad en el acceso, cobertura,
+
+             ubicación geográfica y características técnicas de los puntos de
+
+             acceso de las Wi-Fi utilizando la técnica de wardriving en la ciudad
+
+             de Puno.
+
+
+            Analizar y Diseñar el Sistema de búsqueda Web par la gestión
+
+             de la información de las redes Wi-Fi georreferenciadas.
+
+
+            Implementar el Sistema de búsqueda Web par la gestión de la
+
+             información de las redes Wi-Fi georreferenciadas.
+
+
+            Probar     que el   Sistema de búsqueda Web permite mejorar la
+
+             gestión de la información en las redes Wi-Fi georreferenciadas.
+
+
+
+
+                                                                               12
+                                    CAPITULO II.
+
+                                MARCO TEÓRICO.
+
+
+2.1. MARCO TEÓRICO.
+
+    2.1.1. Sistema de Información Geográfica.
+
+              Es un sistema que integra tecnología informática, personas e
+
+              información geográfica, y cuya principal función es capturar, analizar,
+
+              almacenar, editar y representar datos georreferenciados8.
+
+
+
+              Los datos utilizados en los Sistemas de Información Geográfica
+
+              se   denominan      datos    geográficos     o espaciales.   Estos   datos
+
+              constan de dos componentes, un componente espacial y otro
+
+              temático; el componente espacial tiene dos aspectos en referencia a
+
+              su localización: la localización absoluta, basada en un sistema de
+
+              coordenadas y las relaciones topológicas con respecto a otras
+
+
+8VÍCTOR   OLAYA, “Sistema de Información Geográfica”,2011,p 8.
+
+
+                                                                                      13
+             entidades; el componente temático se corresponde con cualquier
+
+             información textual asociada a cada componente espacial. El sistema
+
+             permite separar la información en diferentes capas temáticas y las
+
+             almacena independientemente, permitiendo trabajar con ellas de
+
+             manera rápida y sencilla, y facilitando al profesional la posibilidad de
+
+             relacionar la información existente a través de la topología de los
+
+             objetos, con el fin de generar otra nueva que no podríamos
+
+             obtener de otra forma ver figura Nº 019.
+
+
+
+
+                          Figura Nº 01: Ejemplo de representación por capas.
+                Fuente: ARAQUE IBAÑEZ ANTONIO, “Sistema de Recomendación de
+                                Restaurantes Georreferenciados”, 2008, p 44.
+
+
+
+             a. Modelo Raster.
+
+                  El modelo raster centra su interés más en las propiedades del
+
+                  espacio que en la representación precisa de los elementos que lo
+
+                  conforman. Para ello estructura el espacio en una serie de
+
+                  elementos       discretos   por    medio   de   una    retícula   regular,
+
+                  generalmente compuesta por celdas cuadradas, también llamadas
+
+9ARAQUE      IBAÑEZ     ANTONIO,       “Sistema     de   Recomendación    de   Restaurantes
+Georreferenciados”,2008,p 44.
+
+
+                                                                                         14
+   “pixels”. Cada una de esas celdas se considera como indivisible y
+
+   es identificada por su número de fila y columna. La representación
+
+   del mundo real se hace de la siguiente forma: un elemento
+
+   puntual se representa mediante una celda, uno lineal mediante
+
+   una secuencia de celdas alineadas y uno poligonal mediante una
+
+   agrupación de celdas contiguas.
+
+
+
+b. Modelo Vectorial.
+
+   El modelo vectorial representa cada objeto geográfico de forma
+
+   independiente mediante las primitivas graficas (puntos, líneas y
+
+   polígonos), codificando explícitamente el límite que lo separa del
+
+   entorno, las primitivas están caracterizadas de la siguiente forma:
+
+
+
+
+    Los elementos puntuales se representan mediante un par de
+
+     coordenadas ‘x, y’ que definen la posición del punto.
+
+    Los elementos lineales están formados por uno o más
+
+     segmentos lineales que se unen en vértices representados
+
+     mediante coordenadas ‘x, y’.
+
+    Los elementos superficiales se representan mediante las
+
+     coordenadas ‘x, y’ de los vértices de las líneas que forman su
+
+     perímetro.
+
+
+
+
+                                                                    15
+                 Figura Nº 02: Mapa con estructura raster y vectorial.
+      Fuente: NIEVES LANTADA ZARZOSA,“Sistema de Información Geográfica
+                          Practicas con ArcView”, 2002,p 15.
+
+
+
+2.1.2. Geocodificación.
+      La geocodificación es un concepto que se puede bifurcar en dos
+
+      caminos contrapuestos, según el sentido sobre el que se desarrolle.
+
+      En el ámbito de los Sistemas de Información Geográfica podremos
+
+      encontrarnos con dos tipos de          geocodificación, geocodificación
+
+      directa y geocodificación inversa. Veamos las características de cada
+
+      tipo degeocodificación.
+
+
+
+      a. Geocodificación Directa
+
+          Se puede decir que este tipo de geocodificación está considerado
+
+          como el método normalmente más utilizado en las aplicaciones
+
+          que hacen uso de sistemas de información             geográfica. Este
+
+          proceso   permite     asignar   coordenadas     geográficas    (latitud,
+
+          longitud) a puntos del mapa (direcciones, puntos de interés, etc.),
+
+          para que posteriormente puedan ser usadas para localizar el
+
+          punto del mapa en un Sistema de Información Geográfica.
+
+
+                                                                               16
+            b. Geocodificación Inversa
+
+                   El inminente auge de           los   dispositivos GPS     han     hecho
+
+                   necesario la aparición de este tipo de geocodificación. Estos
+
+                   dispositivos obtienen coordenadas geográficas, latitud y longitud
+
+                   y a partir de estas se necesita obtener la dirección postal que
+
+                   se   corresponde       con   esas    coordenadas,   por   tanto   sería
+
+                   necesaria la operación inversa de la geocodificación directa.
+
+
+
+     2.1.3. Estandarización de los GIS.
+            Con el fin de garantizar interoperabilidad entre distintos sistemas y
+
+            distinta información geográfica es que en 1994 nace el Open
+
+            Geographic Consortium (OGC). El principal objetivo de dicho
+
+            consorcio es la definición de estándares abiertos e interoperables
+
+            dentro de los GIS y de la World Wide Web que faciliten el
+
+            intercambio de la información geográfica, entre distintos sistemas,
+
+            en beneficio de los usuarios y de la industria10.
+
+
+
+            a. GML (Geographic markup languaje).
+
+                   El GML es en realidad un sublenguaje del lenguaje XML para
+
+                   modelar, almacenar e intercambiar información geográfica. En
+
+                   otras palabras, el GML define los datos geográficos y su modo de
+
+                   almacenamiento en las bases de datos para que posteriormente
+
+                   cualquier aplicación software sea capaz de trabajar con esa
+
+                   información.
+
+10AboutOGC(2011)   [Página oficial OGC]
+
+
+                                                                                        17
+               b. WFS (Web Feature Service).
+
+                   WFS es un interfaz de comunicación que permite interactuar con
+
+                   mapas WMS. Se trata de un servicio Web utilizado para la
+
+                   realización de consultas y recuperaciones de datos vectoriales
+
+                   con su información alfanumérica correspondiente. Los WFS
+
+                   pueden ser del tipo no transaccional o transaccional.                La
+
+                   diferencia es que el transaccional sólo permite hacer consultas y
+
+                   recuperación de elementos geográficos, frente al transaccional
+
+                   que permite además la creación, eliminación y actualización
+
+                   de estos elementos geográficos del mapa11.
+
+
+
+               c. WMS (Web Map Service).
+
+                   WMS es un servicio de producción de mapas a través de la Web.
+
+                   Es un estándar internacional definido por el OGC que define un
+
+                   mapa como una representación de datos cartográficos para que
+
+                   puedan ser visualizados en Internet a través de un navegador
+
+                   web. Los mapas ofrecidos por WMS en realidad son imágenes
+
+                   con formato PNG, GIF o JPEG. Actualmente, también se ofrecen
+
+                   en formatos vectoriales como SVG.
+
+
+
+
+11ORSI.ES,   “Sistemas de localización e información geográfica”, (España 2009) p 57.
+
+
+                                                                                        18
+         2.1.4. Google Maps.
+                 Es el nombre de un servicio de Google. Se trata de un servidor de
+
+                 aplicaciones de mapas en Web que ofrece imágenes de mapas
+
+                 desplazables, fotos satelitales de todo el mundo e incluso la ruta entre
+
+                 diferentes ubicaciones; el usuario puede controlar el mapa con el
+
+                 mouse o las teclas de dirección para moverse a la ubicación que se
+
+                 desee o hacer zoom. Google proporciona una API12 (Application
+
+                 Programming Interface) de desarrollo para Google Maps, esta API
+
+                 está compuesta por una serie de secuencias y comandos que
+
+                 permiten que cualquier persona con un mínimo conocimiento de
+
+                 programación pueda manipular la información que aparece en estos
+
+                 mapas y crear aplicaciones y mapas personalizados ajustados a sus
+
+                 necesidades.
+
+
+
+
+                   Figura Nº 03: Ejemplo de aplicación Web desarrollada con Google Maps.
+
+                           Fuente: http://www.seguridadenlinea.com/mapa-medellin.
+
+
+12   API: es el conjunto de funciones y procedimientos, que ofrece ciertoframework para ser utilizado
+ por otro software como una capa de abstracción.
+
+
+                                                                                                  19
+      Los desarrolladores pueden mostrar información extraída a partir de
+
+      sus propias bases de datos y trabajar con ella definiendo diferentes
+
+      funciones y formas de visualización, abriendo un abanico casi infinito
+
+      de posibilidades para la gestión y optimización de los procesos de
+
+      negocio. Adicionalmente, existen comunidades de desarrolladores
+
+      que continuamente ponen en común las aplicaciones creadas, de
+
+      forma que se aumenta y comparte el conocimiento global de la
+
+      herramienta.
+
+
+
+2.1.5. AJAX y el Desarrollo de Aplicaciones SIG en la Web.
+
+      Ajax (Asynchronous Javascript and XML) es el nombre que se ha
+
+      dado a la explotación de un conjunto de tecnologías ya existentes
+
+      para ofrecer interactividad y animación en las aplicaciones web. Éstas
+
+      usan Javascript y se ejecutan en el navegador y permiten mantener
+
+      una comunicación asíncrona con el servidor en segundo plano sin
+
+      recargar la página. Se basa en el objeto XMLHttpRequest para
+
+      intercambiar datos de forma asíncrona con el servidor Web, mediante
+
+      estas tecnologías, el mapa que se incluye puede obtener las
+
+      imágenes de cartografía sin recargar.
+
+
+
+      Cuando se incluye las líneas de código Javascript en las páginas
+
+      Web, este código ejecuta peticiones en AJAX a los servidores de
+
+      Google para obtener la cartografía y mostrarla. Cuando interactuamos
+
+      con el mapa, los acontecimientos de interacción son recogidos por las
+
+      funciones Javascript incluidas por Google, que ejecuta la lógica de
+
+
+                                                                         20
+             negocio en nuestro navegador y hace los llamamientos que haga falta
+
+             a los servidores de Google, por eso no se necesita tener cartografía ni
+
+             imágenes en nuestros servidores, aparte de las que queráis añadir13.
+
+
+
+             El modelo de programación AJAX permite explotar las funcionalidades
+
+             de los Servicios Web estandarizados por OGC, como: WMS, WFS y
+
+             Web Coverage Services. AJAX posibilita el acceso a estos servicios
+
+             de forma fácil, independientemente de la plataforma por lo que el uso
+
+             de este modelo potencia el uso de los servicios OGC, y de esta forma
+
+             las aplicaciones reciben los beneficios de la estandarización de los
+
+             servicios geoespaciales, en la figura Nº 04 se muestra el acceso a los
+
+             Servicios Web OGC.
+
+
+
+
+                            Figura Nº 04: Acceso a los Servicios Web OGC.
+                 Fuente: http://es.scribd.com/doc/66429484/AJAX-y-El-Desarrollo-de-
+                                      Aplicaciones-SIG-en-La-WEB.
+
+13ALBERT   BOTELLA PLANA, et al,“Introducción a los Sistemas de Información Geográfica y
+ Geotelemática”, 1ª Edición, (España Editorial UOC 2011), p 317.
+
+
+                                                                                      21
+        2.1.6. Red de Área Local Inalámbrica WLAN.
+
+              Una WLAN (Wireless LAN) es un sistema de comunicaciones de
+
+              datos     que     transmite      y    recibe     datos      utilizando        ondas
+
+              electromagnéticas, en lugar del par trenzado, coaxial o fibra óptica
+
+              utilizados en las LAN convencionales, y que proporciona conectividad
+
+              inalámbrica dentro de un edificio, de una pequeña área residencial
+
+              urbana o de un campus universitario14.
+
+
+
+              Las WLAN utilizan la tecnología Wi-Fi que es un sistema que envía
+
+              datos utilizando ondas de radio. Las ondas de radio se propagan en
+
+              línea recta en varias direcciones al mismo tiempo y pueden atravesar
+
+              obstáculos como paredes, aunque pierden energía al atravesar los
+
+              obstáculos. El alcance de las comunicaciones puede llegar dentro de
+
+              los edificios hasta los 150 metros15.
+
+
+
+        2.1.7. IEEE802.11.
+
+              Wi-Fi utiliza un conjunto de estándares para redes inalámbricas
+
+              basados en las especificaciones IEEE 802.11:
+
+
+
+
+14HUIDOBRO    MOYA, JOSÉ M,et al, “Redes de área Local”, (España: Paraninfo, S.A., 2008),
+p 92.
+15   RODIL JIMÉNEZ, IRENE Y PARDO DE VEGA, CAMINO “Operaciones Auxiliares con
+Tecnologías de la Información y la Comunicación”, (España: Paraninfo, S.A., 2010), p 124.
+
+
+                                                                                               22
+          a. IEEE 802.11b.
+
+             Aprobado en 1999 ha sido y de momento sigue siendo el estándar
+
+             más utilizado en las redes WLAN, IEEE802.11b extiende el uso de la
+
+             modulación      DSSS    (Direct    Sequence     Spread    Spectrum)   del
+
+             IEEE802.11 hasta obtener velocidades máximas de transmisión de
+
+             datos de 11Mbps. Utiliza el mismo método de acceso CSMA/CA
+
+             definido en el estándar original, IEEE802.11. Las cuatro velocidades
+
+             de transmisión de datos disponibles son: 1, 2, 5.5 y 11 Mbps16.
+
+
+
+             Un dispositivo basado en IEEE 802.11b puede transmitir hasta 11
+
+             Mbit/s, y reducirá automáticamente su tasa de transmisión cuando el
+
+             receptor empiece a detectar errores, sea debido a la interferencia o a
+
+             la atenuación del canal, cayendo a 5,5 Mbit/s, después a 2, hasta
+
+             llegar a 1 Mbit/s, cuando el canal sea muy ruidoso. Las tasas de
+
+             transmisiones de datos más bajas son menos sensibles a la
+
+             interferencia y a la atenuación puesto que están utilizando un método
+
+             más redundante para codificar los datos (las exigencias de relación de
+
+             señal y ruido son menos exigentes a tasas de transferencias de datos
+
+             más bajas)17.
+
+
+
+
+16PELLEJERO,   IZASKUN, et al, “Fundamentos y Aplicaciones de Seguridad en Redes
+WLAN”,(España: Marcombo, S.A., 2006),p 23-24.
+17ESCUDERO   Y ROGERS, Estándares en Tecnologías Inalámbricas, p 11.
+
+
+                                                                                   23
+        b. IEEE 802.11g
+
+              En junio de 2003, se ratificó una tercera enmienda al estándar 802.11
+
+              con la denominación de IEEE 802.11g y funciona en la misma banda
+
+              del 802.11b. Es capaz de utilizar dos técnicas de modulación (ODFM
+
+              y DSSS) por lo tanto funciona con una tasa máxima de transferencia
+
+              de datos de 54 Mbit/s, la interoperabilidad 802.11g con 802.11b es
+
+              una de las razones principales de su masiva aceptación, sin embargo,
+
+              en redes bajo el estándar g la presencia de nodos bajo el estándar b
+
+              reduce significativamente la velocidad de transmisión. Sufre el mismo
+
+              problema en 802.11b con respecto a interferencia (demasiados
+
+              puntos de acceso urbanos) puesto que funcionan en la misma banda
+
+              de frecuencia18
+
+
+
+        c. IEEE 802.11n.
+
+              El IEEE 802.11n se consensuó, después de 6 años, en septiembre de
+
+              2009. Emplea la tecnología MIMO (Multiple – input/ Multiple – Output),
+
+              múltiple entrada/múltiple salida, donde tanto el emisor como el
+
+              receptor tienen varias antenas (hasta cuatro) que amplían el ancho de
+
+              banda y el alcance del WI-Fi con Multiplexing. Las velocidades
+
+              máximas alcanzan los 600 Mbps, a frecuencias comprendidas entre
+
+              los 20 GHz y los 40 GHz, la certificación soporta, en modo dual, 300
+
+              Mbps por canal, llegado a 100 Mbps a distancias de 200m y con
+
+              resistencias tres veces menores en paredes19.
+
+18ESCUDERO    Y ROGERS, Estándares en Tecnologías Inalámbricas, p 11.
+19JOAQUIN   ANDREU, “Servicios en Red”, (España: Editex, 2010), p 218.
+
+
+                                                                                 24
+2.1.8. Bandas de Frecuencia de las Redes WLAN.
+
+     Las redes WLAN funcionan en dos bandas de frecuencias: la de 2,4
+
+     GHz y de 5 GHz. En ninguna de las dos bandas se requiere licencia
+
+     para   su   utilización,   ambas      bandas   están   designadas   para
+
+     aplicaciones ISM (Industry, Science and Medical) o ICM (Industrial,
+
+     Científica y Médica).
+
+
+
+     Las redes WLAN basados en los estándares de capa física
+
+     IEEE802.11b e IEEE802.11g funcionan en la banda de 2,4GHz y el
+
+     estándar    IEEE802.11a     en   la    banda   de   5GHz.   El   estándar
+
+     IEEE802.11n, funcionará en la banda de 2,4GHz., para uso en redes
+
+     WLAN consta del siguiente rango de frecuencia; 2,4GHz –
+
+     2,4835GHz.El ancho de banda por canal en la banda de 2,4GHz es
+
+     de 22MHz y la separación entre canales de 5MHz; por lo tanto hay 13
+
+     canales disponibles, 3 de ellos no solapados como se muestra.
+
+
+
+
+             Figura Nº 05: Número de canales en la banda de 2,4GHz.
+       Fuente: PELLEJERO, IZASKUN, et al, “Fundamentos y Aplicaciones de
+             Seguridad en Redes WLAN”,(Marcombo, S.A., 2006),p 20.
+
+                                                                            25
+      2.1.9. Componentes de Redes Inalámbricas.
+
+          a. Punto de Acceso.
+
+              Un punto de acceso inalámbrico (WAP o AP por sus siglas en inglés:
+
+              Wireless Access Point) es el dispositivo que conecta diferentes
+
+              dispositivos de comunicación inalámbrica para formar una red
+
+              inalámbrica. Lo habitual es que un AP también permita a los
+
+              dispositivos inalámbricos conectarse a una red cableada, y sirve de
+
+              elemento de intercomunicación entre los dispositivos conectados a la
+
+              red de cable y los dispositivos que forman parte de la red inalámbrica.
+
+
+
+              Salvando las distancias, un AP en una red inalámbrica se parece a un
+
+              Hub o concentrador en una red cableada. A su vez los AP pueden
+
+              conectarse entre sí para formar una red aún mayor, realizando lo que
+
+              se conoce como roaming20.
+
+
+
+              Desde el punto de vista de los clientes inalámbricos (como                las
+
+              computadoras portátiles o las estaciones móviles), un punto de
+
+              acceso provee un cable virtual entre los clientes asociados. Este
+
+              “cable inalámbrico” conecta tanto a los clientes entre sí, como los
+
+              clientes con la red cableada.
+
+
+
+
+20Roaming:   es un concepto que define la capacidad de un dispositivo inalámbrico para poder
+desplazarse de una zona de cobertura a otra.
+
+
+                                                                                         26
+              Los clientes se conectan a un punto de acceso mediante su nombre,
+
+              este mecanismo de identificación se conoce como SSID-Service Set
+
+              Identifier-(Identificador del Conjunto de Servicio) y debe ser el mismo
+
+              para todos los miembros de una red inalámbrica específica. Todos
+
+              los puntos de acceso y clientes que pertenecen a un mismo ESS-
+
+              Extended Service Set- (Conjunto de Servicio extendido) se deben
+
+              configurar con el mismo ID (ESSID)21.
+
+
+
+
+                              Figura Nº 06: Punto de Acceso Inalámbrico.
+                Fuente: JOAQUIN ANDREU, “Servicios en Red”, (Editex, 2010), p 220.
+
+
+
+           b. Cliente Inalámbrico.
+
+              Un cliente inalámbrico es cualquier estación inalámbrica que se
+
+              conecta a una red de área local (LAN–Local Area Network)
+
+              inalámbrica para compartir sus recursos. Una estación inalámbrica se
+
+              define como cualquier computador con una tarjeta adaptadora de red
+
+
+
+21SIVIANES   CASTILLO, FRANSISCO, et al, “Sistemas Microinformáticos y Redes”, (Paraninfo
+S.A. 2010), p 230 – 232.
+
+
+                                                                                      27
+             inalámbrica instalada que transmite y recibe señales de Radio
+
+             Frecuencia (RF), algunos de los clientes inalámbricos más comunes
+
+             son las computadoras portátiles, PDAs, equipos de vigilancia y
+
+             teléfonos inalámbricos de VoIP22.
+
+
+
+
+                             Figura Nº 07: Tarjetas de Redes Inalámbricas.
+                        Fuente: Recuperado de http://redescisco.buenblog.com.
+
+
+
+     2.1.10. Seguridad en Redes Inalámbricas WLAN.
+
+        a. Filtrado de Dirección MAC.
+
+             Lo más cercano a tener un identificador único es la dirección MAC.
+
+             Este es un número de 48-bits asignado por el fabricante a cada
+
+             dispositivo inalámbrico y a cada interfaz Ethernet. Empleando un filtro
+
+             MAC en nuestro punto de acceso, podemos autentificar a los usuarios
+
+             mediante su dirección MAC. Con este método, el punto de acceso
+
+             mantiene una tabla de direcciones MAC aprobadas. Cuando un
+
+             usuario intenta asociarse a un punto de acceso, la dirección MAC del
+
+
+22BUETTRICH,   SEBASTIAN Y ESCUDERO PASCUAL, ALBERTO “Topología e Infraestructura
+Básica de Redes Inalámbricas”, (TRICALCAR, 2007), p 6.
+
+
+                                                                                 28
+             cliente debe estar en la lista aprobada, o de lo contrario la asociación
+
+             va a ser rechazada. Como una alternativa, el AP puede tener una
+
+             tabla de direcciones MAC “prohibidas”, y habilitar a todos los
+
+             dispositivos que no están en esa lista.
+
+
+
+         b. Red Cerrada
+
+             Otra forma popular de autenticación de las redes inalámbricas es la
+
+             llamada red cerrada. En una red común, los AP transmiten sus ESSID
+
+             muchas veces por segundo, permitiéndoles a los clientes (así como a
+
+             las herramientas como NetStumbler23) encontrar la red y mostrar su
+
+             presencia al usuario. En una red cerrada, el AP no transmite el
+
+             ESSID, y los usuarios deben conocer el nombre completo de la red
+
+             antes de que el AP les permita asociarse. Esto evita que los usuarios
+
+             casuales descubran la red y la seleccionen en su cliente de red
+
+             inalámbrica.
+
+
+
+         c. WEP
+
+             WEP(Wired Equivalent Privacy), significa privacidad equivalente a la
+
+             cableada, es un protocolo de cifrado a nivel de enlace contenido en la
+
+             especificación original del estándar IEEE 802.11. WEP permite cifrar
+
+             los datos que se transfieren a través de una red inalámbrica y
+
+             autentificar los dispositivos móviles que se conectan a sus puntos de
+
+             acceso, y está disponible en casi todo el equipamiento 802.11a/b/g.
+
+
+23Netstumbler:   es un programa para Windows que permite detectar WLANs usando tarjetas
+wireless802.11a, 802.11b y 802.11g.
+
+
+                                                                                    29
+                 WEP utiliza una clave compartida de 40-bits para encriptar los datos
+
+                 entre el punto de acceso y el cliente. La clave debe ingresarse en los
+
+                 AP, así como en cada uno de los clientes. Cuando se habilita WEP,
+
+                 los clientes no pueden asociarse con el AP hasta que utilicen la clave
+
+                 correcta. Un fisgón escuchando en una red con WEP igual puede ver
+
+                 el tráfico y las direcciones MAC, pero los mensajes de los datos de
+
+                 cada paquete están encriptados. Esto provee un buen mecanismo de
+
+                 autenticación, además de darle un poco de privacidad.
+
+
+
+             d. WPA Y WPA2.
+
+                 Otro protocolo de autenticación en la capa de enlace de datos es el
+
+                 Acceso Protegido Wi-Fi, o WPA (Wi-Fi Protected Access por su sigla
+
+                 en inglés).WPA se creó específicamente para lidiar con los problemas
+
+                 de WEP. Provee un esquema de encriptación significativamente más
+
+                 fuerte, y puede utilizar una clave privada compartida, claves únicas
+
+                 asignadas a cada usuario, o inclusive, un certificado SSL para
+
+                 autenticar el punto de acceso y el cliente. Las credenciales de
+
+                 autenticación se revisan usando el protocolo 802.1X, que puede
+
+                 consultar una base de datos externa como RADIUS24.
+
+
+
+
+24   Es un protocolo de autenticación y autorización para aplicaciones de acceso a la red o movilidad
+IP. Utiliza el puerto 1813 UDP para establecer sus conexiones.
+
+
+                                                                                                  30
+             Mediante el uso de un Protocolo de Integridad Temporal de la Clave
+
+             (TKIP – Temporal Key Integrity Protocol), las claves se pueden rotar
+
+             rápidamente, reduciendo la posibilidad de que una sesión en
+
+             particular sea descifrada. En general, WPA provee una autenticación
+
+             y privacidad significativamente mejor que el estándar WEP.
+
+
+
+             WPA2 es la segunda generación de WPA y está actualmente
+
+             disponible en los AP más modernos del mercado. WPA2 no se creó
+
+             para afrontar ninguna de las limitaciones de WPA, y es compatible
+
+             con los productos anteriores que son compatibles con WPA. La
+
+             principal diferencia entre WPA original y WPA2 es que la segunda
+
+             necesita el Estándar avanzado de cifrado (AES) para el cifrado de los
+
+             datos, mientras que WPA original emplea TKIP. AES aporta la
+
+             seguridad necesaria para cumplir los máximos estándares de nivel.
+
+
+
+             WPA y WPA2 son protocolos diseñados para trabajar con y sin un
+
+             servidor de manejo de llaves. Si no se usa un servidor de llaves, todas
+
+             las estaciones de la red usan una “llave previamente compartida”
+
+             (PSK Pre-Shared-Key, en inglés), El modo PSK se conoce como WPA
+
+             o WPA2-Personal. Cuando se emplea un servidor de llaves, al WPA2
+
+             se le conoce como WPA2-Corporativo (o WPA2-Enterprise). En WPA-
+
+             Corporativo, se usa un servidor IEEE 802.1X para distribuir las
+
+             llaves25.
+
+
+
+25HACKER   FRIENDLYLLC, “Redes Inalámbricas en los Países en Desarrollo”, 2008,p 165.
+
+
+                                                                                        31
+e. Portal Cautivo
+
+  Una herramienta común de autenticación utilizada en las redes
+
+  inalámbricas es el     portal cautivo. Este utiliza un navegador web
+
+  estándar para darle al usuario la posibilidad de presentar sus
+
+  credenciales de registro. También puede utilizarse para presentar
+
+  información a los usuarios antes de permitir el acceso. Mediante el
+
+  uso de un navegador web en lugar de un programa personalizado de
+
+  autenticación, los portales cautivos funcionan en prácticamente todas
+
+  las computadoras portátiles y sistemas operativos. Generalmente se
+
+  utilizan en redes abiertas que no tienen otro método de autenticación
+
+  (como WEP o filtros MAC).
+
+
+
+  Para comenzar, el usuario abre su computadora portátil y selecciona
+
+  la red. Su computadora solicita una dirección mediante DHCP y le es
+
+  otorgada. Luego usa su navegador web para ir a cualquier sitio en
+
+  Internet.
+
+
+
+                    Http://google.com/
+
+
+
+
+                                     Portal
+                                    Cautivo              Internet
+                       Registro:
+
+                         Figura Nº 08: Portal Cautivo.
+                          Fuente: Elaboración propia.
+
+
+
+
+                                                                     32
+En lugar de recibir la página solicitada, al usuario se le presenta una
+
+pantalla de registro. Esta página puede solicitarle al usuario que
+
+ingrese su nombre de usuario y una contraseña, simplemente oprime
+
+el botón de registro (login), escribe los números de una tarjeta
+
+prepago, o ingresa cualquier otra credencial que solicite el
+
+administrador de red. El punto de acceso u otro servidor en la red
+
+verifica los datos. Cualquier otro tipo de acceso a la red se bloquea
+
+hasta que se verifiquen las credenciales.
+
+
+
+Las credenciales se verifican antes de brindar acceso al resto de la
+
+red. El servidor de autenticación puede ser el punto de acceso mismo,
+
+otra computadora en la red local, o un servidor en cualquier lugar del
+
+Internet (ver figura Nº 09).
+
+
+
+                                                     Servidor de
+       Esperando Solicitud Http                     Autentificación
+
+
+
+                          Portal                                      Internet
+                         Cautivo
+                                     Usuario: paco
+                                   Contraseña: secreto
+
+
+                  Figura Nº09: Proceso de Autentificación 1.
+                            Fuente: Elaboración propia
+
+
+
+Una vez que el usuario ha sido autenticado, se le permite el acceso a
+
+los recursos de la red, y en general es redireccionado al sitio web que
+
+solicitó originalmente (ver figura Nº 10).
+
+
+
+
+                                                                                 33
+                                                                                  Servidor de
+                         Redirección a http://google.com/                        Autentificación
+
+
+
+                                                        Portal
+                                http://google.com/     Cautivo
+                                                                  Credenciales
+                                                                   Verificadas
+
+
+
+                                                                                  Internet
+
+
+                               Figura Nº 10: Proceso de Autentificación 2.
+                                        Fuente: Elaboración propia.
+
+
+
+             Los portales cautivos no proveen encriptación para los usuarios de
+
+             redes inalámbricas, en su lugar confían en las direcciones MAC e IP
+
+             del   cliente   como       único        identificador.   Si   bien      esto     no   es
+
+             necesariamente muy seguro, muchas implementaciones van a
+
+             solicitar que el usuario se re-autentifique periódicamente.
+
+
+
+             Esto puede hacerse automáticamente, minimizando una ventana
+
+             emergente (pop-up) del navegador, cuando el usuario se registra por
+
+             primera vez; debido a que no proveen una fuerte encriptación, los
+
+             portales cautivos no son una buena elección para aquellas redes que
+
+             requieren una protección fuerte y limiten el acceso solamente a
+
+             usuarios confiables. En realidad se adaptan mejor para cafés, hoteles
+
+             y otros lugares de acceso público donde se esperan usuarios
+
+             casuales de la red26.
+
+
+
+
+26HACKER   FRIENDLYLLC, “Redes Inalámbricas en los Países en Desarrollo”,(2008),p 165–167.
+
+
+
+
+                                                                                                   34
+2.1.11. Wardriving.
+          Para definir el término Wardriving es necesario incluirlo en un contexto
+
+          de estudio; lo primero es señalar que es Wardriving, no es más que
+
+          una técnica de detección, la cual hace parte del llamado grupo de
+
+          amenazas y ataques que puede sufrir una red inalámbrica.
+
+          Precisamente este grupo está dividido en dos bandos según las
+
+          consecuencias que puedan generar:
+
+
+
+           Ataques Pasivos: Donde el objetivo del atacante es obtener
+
+            información básica de la red.
+
+           Ataques Activos: En los que se realizan modificaciones en el flujo
+
+            de datos o se crean falsos flujos de datos durante una transmisión.
+
+
+
+      Wardriving pertenecen al grupo de los ataques pasivos y siendo una
+
+      técnica de detección solo busca obtener información de la red,
+
+      específicamente: ubicación de los AP, Nombre de la red inalámbrica, si
+
+      posee protocolos de encriptación, ancho de banda, etc.;Wardriving se
+
+      lleva a cabo generalmente en un automóvil y los puntos de acceso son
+
+      ubicados en un mapa por medio de un sistema GPS, el resultado de un
+
+      Wardriving es un mapa con la ubicación relativa de los APs, que en
+
+      cualquier momento puede publicarse o venderse, de seguro existirán
+
+      personas interesadas en esta información.
+
+
+
+
+                                                                               35
+Finalmente se puede decir que Wardriving es la recolección de
+
+estadísticas sobre redes inalámbricas en un área determinada por
+
+medio de la escucha de los broadcast disponibles públicamente.
+
+Es preciso revelar las intenciones de esta práctica, pues no resulta
+
+novedoso encontrar personas que ingresen a las redes públicas y
+
+privadas con la sola intención de burlar sistemas de seguridad, es
+
+evidente que una vez dentro de la red se pueden hacer diversas
+
+actividades más que dar un pequeño vistazo a la distribución de los
+
+equipos u obtener acceso a Internet de manera gratuita.
+
+
+
+Aunque resulte contradictorio Wardriving aspira solo a encontrar APs,
+
+sin intenciones criminales ni delictivas, al menos hasta el límite de
+
+identificar parcialmente una red de tipo inalámbrica; claro está que
+
+basándose en los resultados obtenidos, personas especializadas
+
+pueden emplear una serie de métodos de intrusión y deleitarse con
+
+todos los recursos de la red.
+
+
+
+Queda entonces dar una justificación tecnológica que indique el origen
+
+funcional del Wardriving, para lo cual es pertinente analizar la manera
+
+en que un punto de acceso detecta la presencia de dispositivos móviles
+
+recién llegados a su espacio de cubrimiento. Debido al concepto de
+
+movilidad que incorporan las redes inalámbricas, los APs están
+
+diseñados para localizar y permitir la conexión a la red de todos los
+
+miembros autorizados de una forma rápida e intangible para el usuario,
+
+para esto necesita estar        chequeando constantemente quienes
+
+
+                                                                    36
+aparecen repentinamente en su área de alcance, tarea que lleva a
+
+cabocon la emisión repetitiva de mensajes de broadcast, que en un
+
+funcionamiento normal son contestados por la nueva unidad móvil
+
+quien a continuación envía una serie de información para identificarse y
+
+garantizar su acceso. Lo que se hace en Wardriving es capturar el
+
+mensaje de broadcast (que por cierto no tiene especificación alguna)
+
+para obtener la información que tiene inmersa y conocer datos como el
+
+nombre del AP, determinar si es un nodo abierto, nombre de la red, etc.
+
+
+
+a. Dispositivos para realizar Wardriving.
+
+  Wardriving se caracteriza porque no requiere de herramientas
+
+  tecnológicas robustas, de hecho cualquier persona con mínimos
+
+  recursos informáticos puede adelantar esta labor, sin embargo, entre
+
+  mejor equipamiento posea un wardriver los resultados a obtener
+
+  serán recíprocos, incluyendo la rapidez en la obtención de la
+
+  información deseada, para hacer Wardriving es necesario tener:
+
+
+
+
+ Un dispositivo móvil como un portátil con Wi-Fi integrado o una
+
+  tarjeta inalámbrica externa conectada vía usb.
+
+ Un software de detección (sniffer o scanner). Los más comunes son:
+
+  Para Linux: AirSnort, Airtraf,    Kismet, Ethereal, Gtkscan; Para
+
+  Windows: BSD-AirTools, NetStumbler, Vistumbler.
+
+ Un sistema de GPS, que resulta una herramienta opcional, si se
+
+  pretende ubicar los puntos de acceso sobre un mapa cartográfico.
+
+
+                                                                     37
+ Una antena direccional u omnidireccional, y es aquí donde se
+
+  encuentran       una   gran    variedad    incluso    algunas    fabricadas
+
+  especialmente para este tipo de actividad, sin dejar de lado las que
+
+  son de origen artesanal.
+
+ Un vehículo completa las exigencias para poner en práctica
+
+  Wardriving.
+
+
+
+  En la Figura N° 11 se puede observar la manera en que se conectan
+
+  todos los dispositivos en el interior de un vehículo para ejecutar la
+
+  técnica.
+
+
+
+
+   Figura Nº 11: Esquema de conexión de los dispositivos del Wardriving.
+             Fuente: Jeff Duntemann'sWardriving FAQ [Pagina web]
+                    http://www.wardrive.net/wardriving/faq.
+
+
+
+
+                                                                           38
+             b. Utilidad del Wardriving.
+
+                 Indudablemente Wardriving proporciona la oportunidad de cuantificar
+
+                 el crecimiento de un segmento del mercado tecnológico por medio
+
+                 de una inspección directa, evitando así estudios de crecimiento
+
+                 probabilísticos que a la larga resultan siendo conjeturas; desde este
+
+                 punto de vista la práctica de Wardriving ofrece una cifra exacta de
+
+                 redes   inalámbricas   para    zonas     estratégicamente     definidas
+
+                 incluyendo conjuntamente el estado y el perfil de configuración
+
+                 estándar de los APs, estos datos             analizados contribuyen
+
+                 positivamente al desarrollo de nuevas tecnologías inalámbricas,
+
+                 tanto software como hardware que estén orientadas a la evolución
+
+                 de la seguridad Wireless.
+
+
+
+2.2. MARCO CONCEPTUAL.
+
+        2.2.1.   Antenas.
+
+                 Las antenas son dispositivos utilizados para recoger o radiar ondas
+
+                 electromagnéticas. Aumentan la zona de influencia/cobertura de
+
+                 nuestras tarjetas inalámbricas de manera que en lugar de dar
+
+                 cobertura a unos pocos metros, podemos alcanzar cientos de metros
+
+                 sin problemas. Se han realizado pruebas de campo y se han
+
+                 establecido comunicación entre dispositivos wireless a más de 75
+
+                 Km27.
+
+
+
+
+27PÉREZ   LÓPEZ DE LUZURIAGA, IGNACIO (2007). “Wireless Redes Inalámbricas WifiWlan”,
+p 50.
+
+
+                                                                                        39
+      2.2.2.   Apache Web Server.
+
+               Es un software libre que se encarga de gestionar un servidor de
+
+               páginas web.
+
+
+
+      2.2.3.   Broadcast.
+
+               Forma de transmisión de información donde un nodo emisor envía
+
+               información     a     una    multitud   de    nodos receptores de      manera
+
+               simultánea,         sin     necesidad        de   reproducir      la    misma
+
+               transmisión nodo por nodo.
+
+
+
+      2.2.4.   Canal de Comunicación.
+
+               Es el medio físico de transmisión de datos. Se define como el canal
+
+               al conjunto del medio de transmisión, que incluye a los canales, las
+
+               señales y los protocolos de comunicación.
+
+
+
+      2.2.5.   CSS.
+
+               CSS (Cascading Style Sheets), es un lenguaje usado para definir la
+
+               presentación de un documento estructurado escrito en HTML o XML
+
+               (y por extensión en XHTML), mecanismo simple que describe cómo
+
+               se va a mostrar un documento en la pantalla, o cómo se va a
+
+               imprimir, o incluso cómo va a ser pronunciada                  la información
+
+               presente en      ese documento a través           de   un      dispositivo   de
+
+               lectura28.
+
+
+28VÍCTOR   SALAMANCA AGUADO (2012), “Desarrollo de un Portal Educativo Web en Joomla
+Aplicando Métrica V3”,Universidad Rey Juan Carlos – España, p 68.
+
+
+                                                                                            40
+      2.2.6.   Georreferenciación.
+
+               La georeferrenciación es el proceso que se utiliza para relacionar la
+
+               posición de un objeto o superficie en un plano con su posición sobre
+
+               la superficie terrestre. La georreferenciación relaciona información
+
+               de distinta índole con una única posición sobre la superficie de la
+
+               tierra. Para georreferenciar cualquier objeto en la superficie terrestre
+
+               es necesario definir una superficie de referencia, un datum
+
+               geodésico y un sistema de referencia.
+
+
+
+      2.2.7.   GPS.
+
+               El sistema de posicionamiento Global (GPS) es un sistema de
+
+               satélites que circundan la tierra y envían señales de radio a su
+
+               superficie, usados en navegación que permite determinar la posición
+
+               las 24 horas del día, en cualquier lugar del globo y en cualquier
+
+               condición climatológica29.
+
+
+
+      2.2.8.   IEEE.
+
+               IEEE (Institute of Electrical and Electronic Engineers): comité
+
+               encargado de establecer normas para la transmisión de datos (el
+
+               comité 802).
+
+
+
+
+29LAWRENCE      LETHAM (2001), “GPS Fácil. Uso del sistema de posicionamiento global”, España:
+Paidotribo, p 5.
+
+                                                                                           41
+      2.2.9.   Javascript.
+
+               Es un lenguaje interpretado, inspirado en Java, y por ende
+
+               orientado a objetos, que se incluye en los documentos HTML
+
+               para añadir cierta interactividad a sus contenidos, evitando tener
+
+               que realizar programación en el servidor30.
+
+
+
+      2.2.10. Mashups.
+
+               Se conoce como mashup o aplicación Web hibrida a una aplicación
+
+               que basa sus contenidos en los de otras páginas Web, integrándolos
+
+               y creando una nueva página que ofrece un servicio distinto. Un
+
+               mashup accede a los servicios que otras páginas proporcionan de
+
+               forma pública dando un uso distinto a estos en un nuevo contexto 31.
+
+
+
+      2.2.11. MySQL.
+
+               Es un sistema de gestión de bases de datos, desarrollado en su
+
+               mayor parte en ANSI C, relacional, multihilo y multiusuario. Por un
+
+               lado se ofrece bajo la GNU GPL para cualquier uso compatible con
+
+               esta licencia, pero para aquellas              empresas      que     quieran
+
+               incorporarlo     en    productos      privativos,   deben comprar      a    la
+
+               empresa desarrolladora una licencia específica que les permita este
+
+               uso.
+
+
+
+30VÍCTOR   SALAMANCA AGUADO (2012), “Desarrollo de un Portal Educativo Web en Joomla
+Aplicando Métrica V3”,Universidad Rey Juan Carlos, p 68.
+31ALBERT   BOTELLA PLANA, et al (2011),“Introducción a los Sistemas de Información Geográfica
+y Geotelemática”, 1ª Edición, España Editorial UOC, p 315.
+
+
+                                                                                          42
+    2.2.12. PHP.
+
+               Pre Procesador de Hipertexto (Hypertext Preprocessor).Es un
+
+               lenguaje de código abierto interpretado, de alto nivel, y ejecutado
+
+               en el servidor, especialmente pensado para desarrollos Web y
+
+               el cual puede ser incrustado en páginas HTML32.
+
+
+
+    2.2.13. Sistema Web.
+
+               También conocido como "aplicaciones Web" son aquellos que están
+
+               creados e instalados no            sobre una plataforma          o sistemas
+
+               operativos (Windows, Linux). Sino que se alojan en un servidor en
+
+               Internet o sobre una intranet (red local). Su aspecto es muy similar a
+
+               páginas Web que vemos normalmente, pero en realidad los
+
+               'sistemas Web' tienen funcionalidades muy potentes que brindan
+
+               respuestas a casos particulares.
+
+
+
+    2.2.14. SSID.
+
+               El SSID (Service Set IDentifier) es el identificador o nombre de cada
+
+               red inalámbrica. Consiste en una cadena de texto de hasta 32
+
+               caracteres ASCII que permite a los clientes asociarse a una red.
+
+
+
+
+32ACHOUR,   Mehdi [et al.]. Manual de PHP [en línea]. PHP DocumentationGroup, (2005).
+
+
+                                                                                        43
+    2.2.15. Wireless.
+
+               La comunicación inalámbrica (inglés wireless, sin cables) es aquella
+
+               en la que extremos de la comunicación(emisor/receptor) no se
+
+               encuentran unidos por un medio de propagación físico, sino que se
+
+               utiliza la modulación de ondas electromagnéticas a través del
+
+               espacio. En este sentido, los dispositivos físicos sólo están
+
+               presentes en los emisores y receptores de la señal, entre los cuales
+
+               encontramos: antenas, computadoras portátiles, PDA, teléfonos
+
+               móviles, etc33
+
+
+
+    2.2.16. Wi-Fi.
+
+               Wi-Fi (Wireless Fidelity) es la tecnología utilizada en una red o
+
+               conexión inalámbrica, para la comunicación de datos entre equipos
+
+               situados dentro de una misma área (interior o exterior) de cobertura.
+
+
+
+    2.2.17. XMLHttpRequest.
+
+               También referida como XMLHTTP (Extensible Markup Language/
+
+               Hypertext Transfer Protocol), es una interfaz empleada para realizar
+
+               peticiones HTTP y HTTPS a servidores Web. Para los datos
+
+               transferidos se usa cualquier codificación basada en texto,
+
+               incluyendo: texto plano, XML, JSON, HTML y codificaciones
+
+               particulares específicas.
+
+
+
+
+33GRALL   PRESTON,“Cómo Funcionan Las Redes Inalámbricas”, (2007), p 50.
+
+
+
+
+                                                                                  44
+    2.2.18. XAMPP.
+
+           XAMPP es un servidor independiente de plataforma, Software libre,
+
+           que consiste principalmente en la base de datos MySQL, el servidor
+
+           Web Apache y los intérpretes para lenguajes de script: PHP y Perl.
+
+           El nombre proviene del acrónimo de X (para cualquiera de los
+
+           diferentes sistemas operativos), Apache, MySQL, PHP, Perl. El
+
+           programa está liberado bajo la licencia GNU y actúa como un
+
+           servidor Web libre, fácil de usar y capaz de interpretar páginas
+
+           dinámicas.
+
+
+
+2.3. HIPÓTESIS DE LA INVESTIGACIÓN.
+
+    El sistema de búsqueda Web permite mejorar la gestión de la información
+
+    Wi-Fi georreferenciada de la ciudad de Puno.
+
+
+
+
+                                                                           45
+                                      CAPÍTULO III:
+
+                         MÉTODOS Y RESULTADOS.
+
+
+3.1. TIPO DE INVESTIGACIÓN.
+
+      Este trabajo de investigación, de acuerdo con las características de la
+
+      hipótesis, los objetivos y la pregunta de investigación, corresponde al estudio
+
+      de alcance correlacional, es decir, una investigación que pretende analizar
+
+      la relación entre las variables sistema de búsqueda Web y gestión de la
+
+      información Wi-Fi georreferenciada; sustentada bajo el siguiente concepto:
+
+      “Este tipo de estudios tiene como finalidad conocer la relación o grado de
+
+      asociación que exista entre dos o más conceptos, categorías o variables en
+
+      un contexto en particular.”34
+
+
+
+
+34SAMPIERIHERNANDEZ,    ROBERTO, et al. “Metodología de la Investigación Científica”, (México:
+2010), p 81.
+
+
+                                                                                           46
+3.2. DISEÑO DE INVESTIGACIÓN.
+
+      El diseño del trabajo de investigación es del tipo cuasiexperimental. “Estos
+
+      diseños manipulan al menos, una variable independiente para observar su
+
+      efecto y relación con una o más variables dependientes”35
+
+
+
+      El diseño cuasiexperimental no necesariamente posee dos grupos, el
+
+      experimental y el de control, esto condujo a elegir un solo grupo
+
+      experimental. El grupo experimental estará conformado por los usuarios de
+
+      las Wi-Fi.
+
+
+
+      La representación gráfica es la siguiente:
+
+                                            𝐺1 × 𝑂1
+
+      Dónde:
+
+         G1: Grupo experimental.
+
+         X: Tratamiento con el sistema de búsqueda Web.
+
+         O1: Prueba (test) después del experimento (cuestionario).
+
+
+
+3.3. LOCALIZACIÓN.
+
+      El proyecto de investigación tiene como escenario la ciudad de Puno, la cual
+
+      contiene datos útiles para la investigación, es decir se está tomando toda la
+
+      ciudad de Puno, ya que ahí es donde ocurren hechos de importancia.
+
+
+
+
+35SAMPIERIHERNANDEZ,    ROBERTO, et al. “Metodología de la Investigación Científica”, (México:
+2010), p 148.
+
+
+                                                                                           47
+3.4. POBLACIÓN Y MUESTRA.
+
+   a. Población.
+
+      Está conformada por 55,379 personas que tienen entre 12 y 40 años de
+
+      edad del área urbana del distrito de Puno, según XI Censo Nacional de
+
+      Población y VI de Vivienda del 2007; por ser estos los que usan en mayor
+
+      proporción el internet (INEI – Encuesta Nacional de Hogares, 2011 –
+
+      2012), que son los posibles usuarios del sistema Web que muestra las
+
+      2269 redes Wi-Fi encontradas durante el proceso de wardriving que se
+
+      realizó durante el mes de diciembre del 2012.
+
+
+
+   b. Muestra.
+
+      Para encontrar el tamaño de la muestra se utilizó la siguiente fórmula de
+
+      proporción:
+
+                                           𝑁𝑧 2 𝑝𝑞
+                                𝑛=
+                                      (𝑁 − 1)𝑑 2 + 𝑧 2 𝑝𝑞
+
+      Dónde:
+
+           p: Proporción de usuarios que usan el sistema.
+
+           q: Proporción de usuarios que no usan el sistema.
+
+           z: Valor de la distribución normal al 95%.
+
+           d: Error absoluto aceptado.
+
+           N: Población de estudio.
+
+           n: Tamaño de la muestra.
+
+
+
+
+                                                                             48
+      La muestra está constituida por 96 usuarios que fueron calculados de la
+
+      siguiente forma:
+
+
+
+
+                            (55379)(1.962 )(0.5)(0.5)
+                  𝑛=                                           = 95.875
+                       (55379 − 1)(0.12 ) + (1.692 )(0.5)(0.5)
+
+
+
+
+      Para la conformación de la muestra se utilizó la técnica de muestreo por
+
+      acceso más fácil, que es la muestra constituida por aquellos con los que
+
+      se puede contar en forma fácil, sin ninguna dificultad.
+
+
+
+
+3.5. TÉCNICAS E INSTRUMENTOS.
+
+    a. Recolección de Información de AP (Wardriving).
+
+       La primera actividad desarrollada se denominó recolección de
+
+       información. El objetivo de dicha actividad fue la detección de puntos de
+
+       acceso a través de la captura pasiva de información transmitida por
+
+       redes inalámbricas.
+
+
+
+       El término “captura pasiva de información transmitida por redes
+
+       inalámbricas” indica que se limitó a capturar la información que se
+
+       encontraba libremente en ondas electromagnéticas y que no se
+
+       interactuó de ninguna forma con ningún punto de acceso inalámbrico
+
+       que se detectó.
+
+
+
+
+                                                                             49
+b. Instrumentos Utilizados.
+
+      Computadora portátil HP Pavillion dv41125nr.
+
+
+
+
+      Sistema GPS Garmin GPSman 60.
+
+
+
+
+      Antena Omnidireccional TRENDnet 8dBi
+
+
+
+
+      Tarjeta inalámbrica USB AIRTux
+
+
+
+
+                                                      50
+      Antena externa GPS.
+
+
+
+
+      Antena direccional
+
+      Cables de extensión USB.
+
+
+
+
+   El software utilizado para realizar el estudio fue:
+
+      Sistema Operativo Windows XP.
+
+      NetStumbler, software de detección de puntos inalámbricos.
+
+      Vistumbler, software de detección de puntos inalámbricos.
+
+      Google    Earth,   Software    desarrollado       por   Google   para   la
+
+       administración de información Geográfica.
+
+      GpsGate, es una herramienta cliente que se utiliza para compartir un
+
+       GPS entre varias aplicaciones que utilizan los puertos virtuales
+
+       COM.
+
+
+
+c. Procedimiento Ejecutado.
+
+   Para realizar la recolección de información se utilizó el software
+
+   Netstumbler y Vistumbler, el cual permite la detección de puntos de
+
+   acceso inalámbricos, los cuales fueron integrados con las coordenadas
+
+   geográficas provenientes del GPS.
+
+                                                                               51
+      Los datos capturados por cada AP identificado fueron los siguientes:
+
+         Service Set Identifier (SSID): Nombre asignado a una red
+
+          inalámbrica.
+
+         Basic Service Set Identifier (BSSID): Identificador físico de cada
+
+          punto de acceso (MAC Address).
+
+         Canal de comunicación: Identificador que se asigna a cada canal
+
+          de comunicación. Dicho canal varía de 1 a 10 en América y de 1 a
+
+          13 en Europa.
+
+         Método de cifrado: Identifica el método de cifrado. Dicho método
+
+          puede ser: WEP, WPA, WPA2, entre otros.
+
+         Estándar: Dentro del 802.11, ya se b, g o n.
+
+         Marca del fabricante: Nombre del fabricante del equipo inalámbrico.
+
+
+
+3.6. MÉTODOS DE RECOPILACIÓN DE DATOS.
+
+   a. Observación.
+
+      El objetivo de dicha actividad fue el de observar de forma directa el
+
+      desempeño del sistema de búsqueda Web y la satisfacción de los
+
+      usuarios del sistema.
+
+
+
+    b. Encuesta.
+
+      Mediante la cual los usuarios del sistema de búsqueda Web fueron
+
+      encuestados, con la finalidad de recabar información acerca de la
+
+      funcionalidad del sistema, el instrumento utilizado para estemétodo, fue
+
+      la ficha de Encuesta, cada ficha consta de 8 preguntas, con diferentes
+
+      alternativas de tipo cualitativo.
+
+                                                                             52
+3.7.   MÉTODOS DE TRATAMIENTO DE DATOS.
+
+       Para el procesamiento de datos se cumplió con las siguientes acciones:
+
+          Recopilación y tabulación de datos.
+
+          Análisis y consistencia de los datos.
+
+          Finalmente la interpretación de datos y la validación de la hipótesis
+
+           mediante la prueba de hipótesis estadística.
+
+
+
+3.8.   DISEÑO ESTADÍSTICO PARA LA PRUEBA DE HIPÓTESIS.
+
+
+       H0:𝑃 ≥ 𝑃0 El sistema de búsqueda Web permite mejorar la gestión de la
+
+       información Wi-Fi georreferenciada de la ciudad de Puno.
+
+
+       H1:𝑃 < 𝑃0 El sistema de búsqueda Web no permite mejorar la gestión de la
+
+       información Wi-Fi georreferenciada de la ciudad de Puno.
+
+
+
+       a. Nivel de significancia.
+
+                                           𝛼 = 5%
+
+       b. Estadística:
+
+                                           𝑃 = 𝑋/𝑛
+
+                                              𝑃 − 𝑃0
+                                        𝑍=
+                                                 𝑃0 (1−𝑃0 )
+                                             √
+                                                     𝑛
+
+
+       Dónde:
+
+           𝑃: Proporción de éxito en la muestra.
+
+           𝑃0 : Proporción de éxito considerada en la H0.
+
+           𝑛 : Tamaño de muestra.
+
+           𝑋 : Número de éxitos en la muestra.
+
+                                                                                53
+       c. Decisión.
+
+              Se rechaza H0 si 𝑍 < 𝑍𝑡 , no se rechaza H0 en caso contrario.
+
+              𝑍𝑡 : Tabla de distribución normal Estándar.
+
+
+
+3.9.   PROCESO DE DESARROLLO DEL SISTEMA WEB.
+
+       Dado los atributos que se encuentran en la gran mayoría de los sistemas y
+
+       aplicaciones basados en Web como son: Intensidad en red, carga
+
+       impredecible, desempeño, disponibilidad, evolución continua, seguridad y
+
+       estética, es que se toma un modelo de proceso iterativo e incremental
+
+       como se ve en la figura Nº 12.
+
+
+
+
+                                     Figura Nº 12: Proceso Web.
+
+                      Fuente: http://labda.inf.uc3m.es/awa/es/node/144.
+
+
+
+       a. Comunicación con el cliente.
+
+          Hay dos actividades a distinguir: el análisis de negocio donde se
+
+          identifican las metas y objetivos de la aplicación Web. Y la actividad de
+
+          formulación entendida como la captura de requisitos que involucre a
+
+          todos los participantes.
+
+                                                                                54
+b. Planeación.
+
+  Se crea el plan del proyecto para el incremento de la aplicación Web. El
+
+  plan consiste de una definición de tareas y un calendario de plazos
+
+  respecto al periodo proyectado para el desarrollo del incremento de la
+
+  aplicación.
+
+
+
+c. Modelado.
+
+  La integración de los resultados de las actividades de análisis y diseño,
+
+  dan lugar a esta actividad. El diseño conduce a la creación de modelos
+
+  antes de la etapa de construcción anticipándose a que se genere el
+
+  contenido y código, se realicen pruebas y se involucre a muchos
+
+  usuarios. En el diseño es donde se establece la calidad de la aplicación
+
+  web.
+
+
+
+d. Construcción.
+
+  Las herramientas y la tecnología Web se aplican para construir la
+
+  aplicación Web que se ha modelado. Una vez que se construye el
+
+  incremento de la aplicación se dirige una serie de pruebas rápidas para
+
+  asegurar que se descubran los errores en el diseño. Pruebas
+
+  adicionales abordan otras características de la aplicación Web.
+
+
+
+
+                                                                        55
+       e. Despliegue.
+
+              La aplicación Web se configura para su ambiente operativo, se entrega
+
+              a los usuarios finales y luego comienza un periodo de evaluación. La
+
+              retroalimentación acerca de la evaluación se presenta al equipo de
+
+              desarrollo y el incremento se modifica conforme se requiera.36
+
+
+
+3.10. MATERIAL EXPERIMENTAL.
+
+       El material experimental estuvo constituido por: “Sistema de búsqueda
+
+       web para gestión de la información Wi-Fi georreferenciada”, para la etapa
+
+       de modelado se utilizó la metodología Orientada a Objetos (MOO) junto
+
+       con la herramienta de modelamiento UML (Unified Modeling Language),
+
+       para la etapa de construcción se utilizó:
+
+
+
+       Servidor Web:
+
+               Apache Web server Versión 2.2.14 (Win32).
+
+       Base de datos:
+
+               MySQLDatabase Versión 5.0.5
+
+       Lenguaje de programación:
+
+               PHP Versión 5.3.1
+
+               HTML, CSS
+
+               Ajax.
+
+
+
+36ROGER   S. PRESSMAN. “Ingeniería del Software un Enfoque Práctico”, (México 2005),
+p 503 – 511.
+
+
+                                                                                       56
+         API de Google Maps Versión 3.
+
+         Framework
+
+                Jquery V1.7.
+
+                JQuery UI V1.8.16.
+
+                JQuery Validation 1.9.0.
+
+                JQGrid 4.4.1
+
+                FPDF V1.7.
+
+                JPGRAPHV3.5.0b1.
+
+  Análisis y Diseño:
+
+                Rational Rose V7.0.
+
+                DBDesigner V4
+
+                Pencil Project V 2.0
+
+  Entorno de programación
+
+         Notepad++ Versión 6.1.4
+
+
+
+3.10.1.    ANÁLISIS.
+
+        a. Modelo de Requerimientos.
+
+           Durante esta etapa se definió los usuarios potenciales del sistema
+
+           Web que se dividieron en dos categorías los visitantes y usuarios
+
+           registrados a los que llamaremos actores, también definimos los
+
+           casos de usos propios de cada actor que a continuación mostramos.
+
+
+
+
+                                                                           57
+Casos de Uso del Visitante.
+
+
+
+
+         Figura Nº 13: Diagrama de Casos de Uso del Visitante
+                      Fuente: Elaboración Propia.
+
+
+
+Identificación de los Actores.
+
+El único actor de esta parte del sistema fue identificado como:
+
+    Visitante: Personas que ingresan al sistema y no cuenta con
+
+     una cuenta registrada, y que posee funcionalidades limitadas.
+
+
+
+
+                                                                  58
+Casos de Uso del Usuario Registrado y Administrador.
+
+
+
+
+    Figura Nº 14: Casos de Uso de Usuario Registrado y Administrador.
+                       Fuente: Elaboración Propia.
+
+
+
+Identificación de los Actores.
+
+Los actores de esta parte del sistema fueron identificados como:
+
+    Usuario registrado: Personas que si cuentan con una cuenta
+
+     registrada en el sistema.
+
+    Administrador: Persona que cuentan con una cuenta registrada
+
+     en el sistema y se encarga de la administración del sistema.
+
+
+
+
+                                                                        59
+b. Modelo de Interacción.
+   En esta parte se representa la interacción entre los usuario y
+
+   el sistema Web, tomando como punto de referencia los casos de
+
+   uso identificados.
+
+
+
+    Casos de uso del Visitante.
+
+
+
+     Tabla Nº 01: Descripción de Caso de Uso Registrar Usuario.
+    Nombre                          Registrar Usuario (CU01)
+    Actor.                          Visitante.
+    Descripción.                     Registra un nuevo usuario en el
+                                     sistema.
+    Condición de Entrada.           Existe visitante.
+
+                           Flujo Normal de Eventos.
+              Acción del actor.                  Respuesta del sistema.
+
+    1. El usuario elige la opción 2.             El   sistema   muestra   un
+    registrar nuevo usuario.               formulario de registro.
+    3. El usuario ingresa los datos 4. El sistema verifica datos,
+    requeridos     para    el     registro almacena en la base de datos y
+    (nombre pila, nombre usuario, envía un correo electrónico con
+    e-mail,       clave,        dirección, los datos de registro y el enlace
+    localidad).                            de activación del registro.
+    Excepciones
+    1. El nombre de usuario ya se encuentra registrado ingrese otro.
+    2. La dirección de correo electrónica no es válida.
+    3. La clave de usuario no es válida ingrese otra.
+
+          Fuente: Elaboración Propia.
+
+
+
+
+                                                                           60
+1. Diagrama de Secuencia.
+
+
+
+
+  Figura Nº 15: Diagrama de secuencia del caso de uso Registrar Usuario.
+                       Fuente: elaboración propia.
+
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+        Figura Nº 16: Diagrama de Colaboración Registrar Usuario.
+                       Fuente: elaboración propia.
+
+
+
+
+                                                                           61
+   Tabla Nº 02: Descripción de Caso de Uso Identificar Usuario.
+  Nombre                       Identificar Usuario (CU02)
+  Actor.                       Visitante.
+  Descripción.                 Identifica un usuario registrado e inicia
+                               sesión en el sistema.
+  Condición de Entrada.        Existe usuario registrado.
+                            Flujo Normal de Eventos.
+       Acción del actor.                    Respuesta del sistema.
+  1. El usuario elige la opción 2. El sistema muestra el formulario
+  identificarse en el sistema.        identificarse.
+  3. El usuario ingresa su 4. El sistema comprueba que el
+  identificador         y        su identificador es válido activa la
+  contraseña.                         sesión y permite el ingreso al
+                                      usuario   con    los   privilegios   de
+                                      usuario registrado.
+  Excepciones
+  1. El identificador o la contraseña no son válidos pruebe otra vez.
+
+           Fuente: Elaboración Propia.
+
+
+1. Diagrama de Colaboración.
+
+
+
+
+       Figura Nº 17: Diagrama de Colaboración Identificar Usuario.
+                         Fuente: Elaboración Propia.
+                                                                            62
+2. Diagrama de Secuencia.
+
+
+
+
+  Figura Nº 18: Diagrama de secuencia del caso de uso Identificar Usuario.
+                        Fuente: Elaboración Propia.
+
+
+
+     Tabla Nº03: Descripción de Caso de Uso Comentar Wi-Fi.
+  Nombre               Comentar Wifi (CU3)
+  Actores.             Visitante y Usuario Registrado.
+  Descripción.         Permite a los actores dejar un comentario
+                       respecto a la calidad del servicio de la red Wi-Fi.
+  Condición de         Existe usuario registrado o visitante, se ha
+  Entrada.             seleccionado una red Wi-Fi.
+                        Flujo Normal de Eventos.
+          Acción del actor.                 Respuesta del sistema.
+  1. Se selecciona formulario para 2. El sistema verifica valides de
+  ingresar    comentario      y    se datos del comentario y registra el
+  ingresa los datos requeridos por comentario realizado en la base
+  el formulario y su comentario.       de datos.
+  Excepciones.
+   1. No se ingresó los datos requeridos por el sistema.
+         Fuente: Elaboración Propia.
+                                                                             63
+1. Diagrama de Secuencia.
+
+
+
+
+  Figura Nº 19: Diagrama de secuencia del caso de uso Comentar Wi-Fi.
+                      Fuente: Elaboración Propia.
+
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+        Figura Nº 20: Diagrama de Colaboración Comentar Wi-Fi.
+                      Fuente: Elaboración Propia.
+
+
+
+
+                                                                        64
+    Tabla Nº 04: Descripción de Caso de Uso Buscar Wi-Fi.
+Nombre                     Buscar Wi-Fi (CU04)
+Actores.                   Usuario Registrado y Visitante.
+Descripción.               Realiza        búsqueda      de      redes   Wi-Fi
+                           registradas en la base de datos del sistema.
+Condición              de Existe usuario registrado o visitante, se ha
+Entrada.                   seleccionado (CU 05) Mostrar Wi-Fi’s.
+                        Flujo Normal de Eventos
+      Acción del actor                      Respuesta del sistema
+1. El actor ha hecho uso del 2. El Sistema realiza búsqueda en
+CU05.                                la   base     de   datos    y   devuelve
+                                     resultados.
+
+        Fuente: Elaboración Propia.
+
+
+    Tabla Nº 05: Descripción de Caso de Uso Mostrar Wi-Fi.
+Nombre                      Mostrar Wi_Fis (CU05)
+Actores.                    Usuario Registrado o Visitante.
+Descripción.                Visualiza la ubicación geográfica de las
+                            redes Wi-Fi en un mapa.
+Condición de Entrada.       Existe usuario registrado o visitante.
+                        Flujo Normal de Eventos
+      Acción del actor                      Respuesta del sistema
+1. El actor ingresa al sistema 2. El sistema solicita búsqueda de
+o   solicita   búsqueda      por Wi-Fis por coordenadas geográficas
+dirección e       ingresa una de la dirección ingresada y radio o
+dirección específica con un coordenadas centrales del mapa al
+radio en particular.                 (CU04) Buscar Wi-Fi.
+                                     3. El CU04 devuelve lista de Wi-Fis
+                                     encontradas.
+                                     4. El sistema muestra en el mapa la
+                                     ubicación geográfica de las Wi-Fis
+                                     encontradas.
+
+        Fuente: Elaboración Propia.
+                                                                            65
+1. Diagrama de Secuencia.
+
+
+
+
+    Figura Nº 21: Diagrama de secuencia Mostrar Wi-Fi y buscar Wi-Fi.
+                       Fuente: Elaboración Propia.
+
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+   Figura Nº 22: Diagrama de Colaboración Mostrar Wi-Fi y buscar Wi-Fi.
+                       Fuente: Elaboración Propia.
+
+
+
+                                                                          66
+  Tabla Nº 06: Descripción de Caso de Uso Mostrar InfoWiFi.
+Nombre.                  Mostrar InfoWiFi (CU06).
+Actores.                 Usuario Registrado o Visitante.
+Descripción.             Muestra    la   información        de   la   Wi-Fi
+                          seleccionada contenido en la base de
+                          datos.
+Condición de Entrada.     Existe usuario registrado o visitante, se ha
+                          seleccionado una Wi-Fi.
+                    Flujo Normal de Eventos.
+    Acción del actor.                Respuesta del sistema.
+1. El usuario selecciona 2. El sistema busca los datos de la Wi-
+una Wi-Fi mostrada en el Fi seleccionada.
+mapa.                        3. El sistema solicita al CU07 mostrar
+                             comentarios de la Wi-Fi seleccionada.
+                              4. El sistema muestra en una nueva
+                             ventana     los    datos   y     comentarios
+                             encontrados de la Wi-Fi.
+
+
+Tabla Nº 07: Descripción de Caso de Uso Mostrar Comentarios.
+Nombre.                  Mostrar Comentarios (CU07).
+Actores.                 Usuario Registrado o Visitante
+Descripción.             Muestra los comentarios de la Wi-Fi
+                          seleccionada contenido en la base de
+                          datos.
+Condición de Entrada.    Existe usuario registrado o visitante, se ha
+                          seleccionado         una   Wi-Fi,      se     ha
+                          seleccionado (CU06) Mostrar infoWiFi.
+                    Flujo Normal de Eventos.
+    Acción del actor.                Respuesta del sistema.
+1. El actor ha hecho uso      2. El sistema busca los comentarios
+del CU06.                    de la Wi-Fi en la base de datos.
+                             3. El sistema devuelve comentarios
+                             encontrados.
+     Fuente: Elaboración Propia.
+                                                                         67
+ 1. Diagrama de Secuencia.
+
+
+
+
+  Figura Nº 23: Diagrama de secuencia Mostrar InfoWiFi y Mostrar Comentario.
+
+
+ 2. Diagrama de Colaboración.
+
+
+
+
+Figura Nº 24: Diagrama de colaboración Mostrar InfoWiFi, Mostrar Comentario.
+                        Fuente: Elaboración Propia.
+                                                                          68
+   Tabla Nº 08: Descripción de Casos de Uso Activar Registro.
+  Nombre.                     Activar Registro (CU08).
+  Actores.                    Usuario Registrado y no activo.
+  Descripción.                 Realiza la activación del registro realizado
+                               por el usuario.
+  Condición de Entrada.       Existe usuario recién registrado.
+                    Flujo Normal de Eventos.
+      Acción del actor.            Respuesta del sistema.
+  1. El usuario solicita la 2. El sistema busca en la base de
+  activación     del      registro datos si el usuario se ha registrado
+  realizado al sistema.             en el sistema y si está activo.
+                                    3. El sistema activa el registro del
+                                    usuario y permite el ingreso al
+                                    contenido de usuarios registrados.
+  Excepciones.
+  1. El sistema no realiza activación del registro, el registro no existe.
+
+
+1. Diagrama de Secuencia.
+
+
+
+
+           Figura Nº 25: Diagrama de secuencia Activar Registro.
+                          Fuente: Elaboración Propia.
+                                                                             69
+  2. Diagrama de Colaboración.
+
+
+
+
+             Figura Nº 26: Diagrama de colaboración Activar Registro.
+                           Fuente: Elaboración Propia
+
+
+
+
+ Casos de Uso del Usuario Registrado.
+
+
+    Tabla Nº 09: Descripción de Caso de Uso Mostrar Estadísticas.
+
+    Nombre.                      Mostrar Estadísticas (CU01).
+
+    Actor.                       Usuario Registrado.
+
+    Descripción.                 Muestra      las       estadísticas       por
+                                 características     de      las        Wi-Fi’s
+                                 almacenadas en la base de datos.
+
+    Condición de Entrada.        Existe usuario registrado y se encuentra
+                                 autentificado.
+
+                          Flujo Normal de Eventos.
+
+             Acción del actor.               Respuesta del sistema.
+
+                                                                                  70
+  1. Se selecciona estadísticas       2. El sistema muestra opciones
+  del menú del usuario.               para mostrar las estadísticas.
+
+  3. El usuario selecciona una        4. El Sistema en base a una
+  de las opciones.                    opción seleccionada busca en la
+                                      base de datos.
+
+                                      5. El sistema muestra una nueva
+                                      ventana con las estadísticas en
+                                      tablas y gráficos.
+
+        Fuente: Elaboración Propia.
+
+
+1. Diagrama de Secuencia.
+
+
+
+
+        Figura Nº 27: Diagrama de secuenciaMostrar Estadísticas.
+                      Fuente: Elaboración Propia.
+
+
+
+
+                                                                        71
+2. Diagrama de Colaboración.
+
+
+
+
+       Figura Nº 28: Diagrama de Colaboración Mostrar Estadísticas.
+
+
+  Tabla Nº 10: Descripción de Caso de Uso Búsqueda Avanzada.
+
+Nombre.                    Búsqueda Avanzada (CU02).
+Actores.                   Usuario Registrado.
+Descripción.               Se realiza consulta por atributos de las Wi-
+                           Fi’s existentes en la base de datos.
+Condición de Entrada.      Existe usuario        registrado y se encuentra
+                           autentificado.
+
+                    Flujo Normal de Eventos.
+       Acción del actor.            Respuesta del sistema.
+ 1. Se selecciona búsqueda del 2. El sistema realiza la búsqueda
+menú del usuario.                    de todas las Wi-Fi’s en la base de
+4. El usuario realiza búsqueda datos.
+ que le interesa en la lista         3.     El    sistema     muestra       lista
+ desplegada.                         desplegable        con      el    resultado
+ 6. El usuario selecciona una Wi- encontrado en la búsqueda.
+ Fi que le interesa del resultado.   5. El sistema muestra resultado de
+                                     la búsqueda realizada.
+                                     7. El sistema muestra en el mapa
+                                     la     ubicación       de        la   Wi-Fi
+                                     seleccionada.
+  Fuente: Elaboración Propia.
+                                                                               72
+1. Diagrama de Secuencia.
+
+
+
+
+       Figura Nº 29: Diagrama de secuencia Búsqueda Avanzada.
+                     Fuente: Elaboración Propia.
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+      Figura Nº 30: Diagrama de Colaboración Búsqueda Avanzada.
+                     Fuente: Elaboración Propia.
+
+
+
+                                                                  73
+    Tabla Nº 11: Descripción de Caso de Uso Editar Usuario.
+Nombre.                   Editar Usuario (CU03).
+Actores.                  Usuario Registrado.
+Descripción.              Edita        los   datos     del   usuario   que   se
+                          encuentran en la base de datos del sistema.
+Condición de Entrada.     Existe usuario         registrado y se encuentra
+                          autentificado.
+                      Flujo Normal de Eventos.
+     Acción del actor.                       Respuesta del sistema.
+1. Se selecciona la opción 2. El sistema busca en la base de
+del menú usuario ver datos datos los datos del usuario.
+del usuario.                      3. El sistema despliega la vista con los
+ 4. El usuario modifica los datos encontrados.
+datos y guarda los cambios.       5. El sistema valida los nuevos datos,
+                                  grava en la base de datos y actualiza
+                                  la     vista   con     los   nuevos    datos
+                                  guardados.
+
+
+1. Diagrama de Secuencia.
+
+
+
+
+           Figura Nº 31: Diagrama de secuencia Editar Usuario.
+                       Fuente: Elaboración Propia.
+                                                                              74
+2. Diagrama de Colaboración.
+
+
+
+
+          Figura Nº 32: Diagrama de Colaboración Editar Usuario.
+                       Fuente: Elaboración Propia.
+
+
+
+
+   Tabla Nº 12: Descripción de Caso de Uso Administrar Wi-Fi.
+         Nombre.                       Administrar Wi-Fi (CU04).
+Actor.                     Usuario Registrado.
+Descripción.                 Agrega, Actualiza, Elimina datos de las Wi-
+                             Fis del Usuario.
+ Condición de Entrada.     Existe usuario registrado e identificado.
+                      Flujo Normal de Eventos.
+         Acción del actor.                  Respuesta del sistema.
+ 1. El usuario inicia sesión en el     3. El sistema muestra la vista con
+   sistema.                               las Wi-Fi’s ingresadas por el
+ 2. Se   selecciona   la     opción       usuario    más    opciones    de
+   administrar Wi-Fi del menú             edición y eliminación de Wi-Fi’s,
+   del usuario.                           o la vista de ingresar nueva Wi-
+                                          Fi.
+         Fuente: Elaboración Propia.
+
+
+                                                                         75
+ Tabla Nº 13: Descripción de Caso de Uso Ingresar Nueva Wi-Fi.
+
+Nombre.                Ingresar Nueva Wi-Fi (CU05).
+Actor.                 Usuario Registrado.
+Descripción.            Permite registrar un nuevo punto de acceso Wi-
+                        Fi en la base de datos del sistema.
+Condición de           Existe usuario registrado e identificado, se ha
+Entrada.                utiliza el (CU04) administrar Wi-Fi.
+
+                       Flujo Normal de Eventos.
+
+         Acción del actor.                Respuesta del sistema.
+
+1. El usuario ha utilizado el 2. El sistema muestra una vista con
+CU04.                               un formulario y mapa de la ciudad
+3. El usuario escoge en el          para que el usuario ingrese los
+mapa la ubicación de la nueva       datos de la Wi-Fi, ubique en el
+Wi-Fi e ingresa los datos           mapa su posición e ingrese los
+requeridos por el formulario.       datos del propietario de la misma.
+                                    4. El sistema valida los datos del
+                                    formulario.
+                                    5. El sistema guarda en la base de
+                                    datos los datos validados y muestra
+                                    la nueva Wi-Fi ingresada en el
+                                    mapa.
+
+Excepciones.
+1. Los datos del formulario requerido deben ser validos ingrese otros.
+          Fuente: Elaboración Propia.
+
+
+
+
+                                                                         76
+1. Diagrama de Secuencia.
+
+
+
+
+       Figura Nº 33: Diagrama de secuencia Ingresar Nueva Wi-Fi.
+
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+                                                                   77
+      Figura Nº 34: Diagrama de Colaboración Ingresar Nueva Wi-Fi.
+      Tabla Nº 14: Descripción de Caso de Uso Editar Wi-Fi.
+
+Nombre.                     Editar WiFi (CU06).
+Actor.                      Usuario Registrado.
+Descripción.                Permite editar los datos de una Wi-Fi
+                            existente en la base de datos del sistema.
+Condición de Entrada.       Existe usuario registrado e identificado, se
+                            debe haber seleccionado una Wi-Fi a editar,
+                            se ha utiliza el (CU04) administrar Wi-Fi.
+
+                      Flujo Normal de Eventos.
+      Acción del actor.               Respuesta del sistema.
+ 1. El usuario ha utilizado el 3. El sistema muestra datos de la Wi-
+CU04.                             Fi seleccionada en una vista con
+2. El usuario selecciona una formulario y mapa de la ciudad
+Wi-Fi a editar.                   ubicando el lugar donde está la Wi-Fi.
+ 4. El usuario modifica los 5. El sistema valida los cambios
+datos de la Wi-Fi o ubicación realizados en los datos ingresados,
+de la misma en el mapa y guarda en la base de datos y
+solicita guardar cambios.         actualiza la vista con los nuevos
+                                  datos.
+
+
+1. Diagrama de Colaboración.
+
+
+
+
+           Figura Nº 35: Diagrama de Colaboración Editar Wi-Fi.
+                                                                         78
+                     Fuente: Elaboración Propia.
+2. Diagrama de Secuencia.
+
+
+
+
+           Figura Nº 36: Diagrama de secuencia Editar Wi-Fi.
+                     Fuente: Elaboración Propia.
+
+
+
+
+     Tabla Nº 15: Descripción de Caso de Uso Eliminar Wi-Fi.
+
+Nombre.                      Eliminar Wi-Fi (CU07).
+
+Actor.                       Usuario Registrado.
+Descripción.                 Permite eliminar los datos de una Wi-Fi
+                             existente en la base de datos del
+                             sistema.
+ Condición de Entrada.       Existe usuario registrado e identificado,
+                             se debe haber seleccionado una Wi-Fi,
+                             se ha utiliza el (CU04) administrar Wi-Fi.
+
+                                                                     79
+                       Flujo Normal de Eventos.
+
+        Acción del actor.                 Respuesta del sistema.
+1. El usuario ha utilizado el 3. El sistema solicita verificación
+CU04.                                de acción a realizar.
+2. El usuario selecciona una Wi- 4. El sistema elimina de la base de
+Fi a eliminar.                       datos la Wi-Fi y actualiza la vista
+ 4. El usuario ratifica la acción a con los cambios realizados.
+realizar.
+     Fuente: Elaboración Propia.
+
+
+
+
+1. Diagrama de Secuencia.
+
+
+
+
+            Figura Nº 37: Diagrama de secuencia Eliminar Wi-Fi.
+                        Fuente: Elaboración Propia.
+
+
+
+                                                                      80
+2. Diagrama de Colaboración.
+
+
+
+
+            Figura Nº 38: Diagrama de Colaboración Eliminar Wi-Fi.
+                         Fuente: Elaboración Propia.
+
+
+      Tabla Nº 16: Descripción de Caso de Uso Imprimir PDF.
+
+Nombre.              Imprimir PDF (CU08).
+Actor.               Usuario Registrado.
+Descripción          Permite exportar las estadísticas en formato PDF.
+Condición        de Existe usuario      registrado e identificado, se ha
+ Entrada.             utiliza el (CU01) mostrar estadísticas.
+
+                        Flujo Normal de Eventos.
+      Acción del actor.                 Respuesta del sistema.
+ 1. El usuario ha utilizado el 3. El sistema realiza consulta en la base
+CU01.                            de datos y genera tabla y grafico
+ 2. El usuario solicita que      estadístico.
+se exporte a formato PDF 4. El sistema muestra al usuario los
+la estadística seleccionada      resultados en formato PDF.
+en CU01.
+
+
+  Fuente: Elaboración Propia
+                                                                         81
+1. Diagrama de Secuencia.
+
+
+
+
+          Figura Nº 39: Diagrama de secuencia Imprimir PDF.
+                     Fuente: Elaboración propia.
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+         Figura Nº 40: Diagrama de Colaboración Imprimir PDF.
+                     Fuente: Elaboración Propia.
+
+
+
+
+                                                                82
+ Casos de uso del Administrador.
+
+  El flujo de eventos para los casos de uso eliminar usuarios, eliminar
+
+  comentarios y eliminar Wi-Fi’s de los usuarios; del administrador son
+
+  idénticos entre sí, es por esto que se describe solamente el caso de
+
+  uso eliminar usuarios y se muestra los diagramas de secuencia y
+
+  colaboración de este caso de uso.
+
+
+
+        Tabla Nº 17: Descripción de Caso de Uso Eliminar Usuarios.
+
+   Nombre.                        Eliminar Usuarios (CU01).
+   Actor.                         Administrador.
+   Descripción.                   Permite eliminar los usuarios registrados.
+   Condición de Entrada.          Existe administrador registrado y
+                                  autentificado.
+
+                            Flujo Normal de Eventos.
+
+              Acción del actor.                    Respuesta del sistema.
+    1. El administrador selecciona 2. El sistema muestra lista de todos
+   del menú la opción mostrar             los      usuarios   existentes     en     el
+   todos los usuarios.                    sistema.
+   3.    El    administrador solicita     4. El sistema muestra datos de
+   mostrar datos de un usuario            usuario seleccionado de la lista
+   seleccionado.                          mostrada.
+   5. El administrador elimina 6. El sistema elimina al usuario
+   usuario seleccionado.                  seleccionado        y   devuelve        lista
+                                          actualizada.
+     Fuente: Elaboración Propia.
+
+
+
+
+                                                                                     83
+1. Diagrama de Secuencia.
+
+
+
+
+        Figura Nº 41: Diagrama de secuencia Eliminar Usuarios.
+                      Fuente: Elaboración propia.
+
+
+2. Diagrama de Colaboración.
+
+
+
+
+       Figura Nº 42: Diagrama de Colaboración Eliminar Usuarios.
+                      Fuente: Elaboración Propia.
+                                                                   84
+C. Modelo del Contenido.
+
+  Modelo de Clases.
+
+  Se detalla el diagrama de clases determinado a implementarse en
+
+  la etapa deconstrucción de la aplicación Web; cada una de estas
+
+  clases y sus mensajes se ve reflejado en el código fuente.
+
+
+
+
+                   Figura Nº 43: Diagrama de Clases.
+                       Fuente: Elaboración Propia.
+
+
+
+
+                                                               85
+Modelo Entidad/Relación.
+
+La primera representación de la base de datos se realizó con el modelo
+
+Entidad/Relación (E/R) con sus atributos, relaciones e interrelaciones
+
+entre objetos. Esta representación visual fue refinada y clasificada
+
+eliminando aquellas interrelaciones innecesarias y agregando nuevas
+
+relaciones, luego se procedió a elaborar el modelo relacional, el modelo
+
+físico y el diccionario de datos.
+
+
+
+
+              Figura Nº 44: Diagrama Entidad/Relación Lógico.
+                        Fuente: Elaboración Propia.
+
+
+
+
+                                                                     86
+Reducción del Modelo E/R a Tablas.
+
+ ENCUESTA (idEncuesta, totalVotes,Titulo, Usedip, TotalValue)
+
+ USUARIO (idUsuario, Nombre, Login, Pass, Email, Pais, Localidad,
+
+  Estado, FechaAlt, Nivel).
+
+ PROPIETARIO (idPropietario, Nombre, Precio, Celular, Actividad).
+
+ COMENTARIO (idComentario, Nombre, Email, Url, Opinion, Fecha,
+
+  Ip).
+
+ CIUDAD (idCiudad, Distrito, Provincia, Departamento).
+
+ WIFIAP (idWifiap, SSID, Dirección, Barrio, MAC, Tipo, Seguridad,
+
+  Marca, Velocidad, Observación, FechaActual, Estado, Latitud,
+
+  Longitud).
+
+
+
+Aceptación o eliminación de interrelaciones.
+
+ WIFI_ENC (idWifiap,idEnc): la relación no genera una tabla por ser
+
+  de uno a muchos.
+
+ WIFI_PRO (idWifiap, idPropietario): la relación no genera una tabla
+
+  por ser de uno a muchos.
+
+ WIFI_USO (idWifiap, idUsuario): la relación no genera una tabla por
+
+  ser de uno a muchos.
+
+ WIFI_COM (idWifiap, idComentario): la relación no genera una tabla
+
+  por ser de uno a muchos.
+
+ PRO_CIU (idPropietario, idCiudad): la relación no genera una tabla
+
+  por ser de uno a muchos.
+                                                                     87
+Modelado Relacional.
+
+Modeladas las tablas se procedió a elaborar el modelo relacional.
+
+
+
+
+                   Figura Nº 45: Diagrama Relacional.
+                        Fuente: Elaboración Propia.
+
+
+Diagrama E/R Físico.
+
+El estándar que se siguió para la elaboración del modelo físico de la
+
+base de datos fue la siguiente:
+
+
+
+     TABLAS: Alias sistema +_+ nombre tabla.
+
+
+
+Ejemplo:
+
+WI_USUARIO: será la tabla donde se almacenará información de los
+
+usuarios del sistema.
+
+
+
+
+                                                                    88
+               Figura Nº 46: Modelo Físico de la Base de Datos
+                         Fuente: Elaboración Propia
+
+
+Diccionario de Datos.
+
+                     Tabla Nº 18: WI_Departamento.
+Nombre                WI_Departamento
+Descripción.          Contiene la Información y el código de los
+                       departamentos del Perú.
+Clave Primaria.       idDepartamento.
+     Campo.                Tipo.               Descripción.
+idDepartamento.       Integer.          Código de departamento.
+Nombre.               Varchar(65)       Nombre de departamento.
+       Fuente: Elaboración Propia.
+
+
+                                                                   89
+                      Tabla Nº 19: WI_Provincia.
+Nombre.             WI_Provincia.
+Descripción.        Contiene la Información y el código de las
+                    provincias.
+Clave Primaria.     idProvincia
+Clave Foránea.      idDepartamento
+    Campo.                Tipo.              Descripción.
+idProvincia.        Integer.          Código de provincia.
+Nombre.             Varchar(65).      Nombre de provincia.
+idDepartamento. Integer.              Código de departamento.
+        Fuente: Elaboración Propia
+
+
+
+                        Tabla Nº 20: WI_Distrito
+Nombre.            WI_Distrito.
+Descripción.        Contiene la Información y el código de los
+                    distritos.
+Clave Primaria.    idDistrito.
+Clave Foránea.     idProvincia.
+    Campo.                  Tipo.              Descripción.
+idDistrito.        Integer.                Código de distrito.
+Nombre.            Varchar(65).            Nombre de distrito.
+IdProvincia.       Integer.                Código de provincia.
+        Fuente: Elaboración Propia
+
+
+
+                     Tabla Nº 21: WI_Propietario.
+Nombre             WI_Propietario
+Descripción.        Contiene la Información de los propietarios
+                    de las wifis.
+Clave Primaria.    idPropietario.
+Clave Foránea.     idDistrito.
+    Campo.              Tipo.               Descripción.
+idPropietario.     Integer.          Código del propietario.
+
+                                                                  90
+Nombre.              Varchar(45).      Nombre del propietario
+Precio.              Float.            Precio de         servicio que
+                                       brinda.
+Celular.             Varchar(20).      Número       de    celular   del
+                                       propietario.
+Actividad.           Varchar(20).      Actividad a la que se dedica
+idDistrito.          Integer.          Código de distrito.
+         Fuente: Elaboración Propia.
+
+
+
+                        Tabla Nº 22: WI_Usuario.
+Nombre.              WI_USUARIO.
+Descripción.         Contiene la Información de los usuarios del
+                     sistema.
+Clave Primaria.      Idusuario.
+    Campo.               Tipo.                   Descripción.
+Idusuario.           Integer.          Código del usuario.
+Nombre.              Varchar(50).      Nombre         completo      del
+                                       usuario.
+Login.               Varchar(50).      Alias del usuario del sistema
+Pass.                Varchar(50).      Password del usuario del
+                                       sistema.
+Email.               Varchar(100) Correo           electrónico      del
+                                       usuario.
+País.                Varchar(50).      País   de      procedencia   del
+                                       usuario.
+Localidad.           Varchar(50).      Localidad de procedencia del
+                                       usuario.
+FechaAlt.            DateTime.         Fecha de alta en el sistema
+Estado.              Varchar(10).      Estado de la cuenta del
+                                       usuario.
+Nivel.               Integer.          Nivel de los usuarios del
+                                       sistema.
+         Fuente: Elaboración Propia.
+
+                                                                          91
+                         Tabla Nº 23: WI_WifiAP.
+Nombre.              WI_Wifiap.
+Descripción.         Contiene la Información las Wi-Fi ingresadas
+                     en el sistema.
+Clave Primaria.      IdWifiap.
+Clave Foránea.       idPropietario, IdUsuario.
+    Campo.               Tipo.                     Descripción.
+idWifiap.            Integer.          Código de la Wi-Fi.
+SSID.                Varchar(45)       Nombre de identificación de la
+                                       Wi-Fi.
+Dirección.           Varchar(45)       Dirección donde está la Wi-Fi.
+Barrio.              Varchar(30)       Barrio donde está la Wi-Fi.
+Mac.                 Varchar(20)       Dirección física de la Wi-Fi.
+Tipo.                Varchar(20)       Tipo de Wi-Fi.
+Seguridad.           Varchar(20)       Nivel de encriptación de la Wi-Fi
+Marca.               Varchar(45)       Marca del fabricante del equipo
+                                       de la Wi-Fi.
+Velocidad.           Varchar(10)       Velocidad      de        conexión   a
+                                       internet.
+Observación.         Varchar(100) Descripción de características
+                                       de la Wi-Fi.
+Estado.              Int(2)            Estado de actividad de la Wi-Fi
+Latitud.             Float.            Coordenada          de      ubicación
+                                       geográfica eje X.
+Longitud.            Float.            Coordenada          de      ubicación
+                                       geográfica eje Y.
+FechaAlt.            DateTime.         Fecha en la que la Wi-Fi fue
+                                       ingresada en la base de datos.
+idPropietario.       Integer.          Código del propietario de la Wifi.
+idUsuario.           Integer.          Código del usuario del sistema.
+          Fuente: Elaboración Propia
+
+
+
+
+                                                                               92
+                        Tabla Nº 24: WI_Encuesta.
+Nombre                WI_Encuesta
+Descripción.          Contiene los datos de la encuesta sobre una
+                      Wi-Fi.
+Clave Primaria.       IdEncuesta.
+Clave Foránea.        idWifiap.
+       Campo.            Tipo.                  Descripción.
+idEncuesta.           Integer.         Código de la encuesta realizada
+                                       sobre la Wi-Fi.
+Titulo.               Text.            Nombre de identificación de la
+                                       Wi-Fi.
+Total_votes.          Integer.         Total de votos realizados sobre
+                                       una Wi-Fi.
+Total_value.          Integer.         Puntuación dada a la Wi-Fi de
+                                       la encuesta.
+Used_ips.             Text.            Dirección ip      de equipo de la
+                                       encuesta.
+idWifiap.             Integer.         Código de la Wi-Fi.
+          Fuente: Elaboración Propia
+
+
+
+                         Tabla Nº 25: WI_Comentario.
+Nombre                WI_COMENTARIO
+Descripción.          Contiene los datos de los comentarios sobre la
+                      Wi-Fi.
+Clave Primaria.       IdComentario.
+Clave Foránea.        idWifiap.
+       Campo.             Tipo.                    Descripción.
+idEncuesta.           Integer.         Código de la encuesta realizada
+                                       sobre la Wi-Fi.
+Nombre.               Varchar(50)      Nombre de quien comenta.
+Email.                Varchar(60)      Dirección de correo electrónico
+                                       de quien comenta.
+Url.                  Varchar(70)      Dirección web de quien comenta
+
+                                                                           93
+          Opinión.           Text.            Opinión de quien comenta.
+          Fecha.             DateTime.        Fecha    que    se      realizó   el
+                                              comentario.
+          Ip.                Varchar(60)      Dirección ip de equipo de quien
+                                              comenta.
+          idWifiap.          Integer.         Código de la Wi-Fi.
+                Fuente: Elaboración Propia.
+
+
+
+3.10.2.    DISEÑO.
+
+     a. Diseño Arquitectónico.
+
+           La arquitectura de la aplicación es de tres capas. En la primera capa
+
+           cada usuario podrá tener acceso a la aplicación por medio de la
+
+           interfaz de presentación la que permitirá transferir las peticiones a la
+
+           segunda capa, ésta se encargará de procesar la lógica de la
+
+           aplicación a través       de los   scripts desarrollados en PHP y así
+
+           estructurar la información devuelta por el servidor de base de datos,
+
+           perteneciente a la tercera capa.
+
+
+
+
+                             Figura Nº 47: Arquitectura de 3 capas.
+                                 Fuente: Elaboración Propia.
+
+                                                                                     94
+b. Diseño de Navegación
+
+   La figura Nº 48 muestra la semántica de navegación de los visitantes
+
+   del sistema Web; una vez que los visitantes ingresan al sistema
+
+   pueden elegir entre las opciones de “búsqueda Wi-Fi, distancia
+
+   entre Wi-Fi’s, redes inalámbricas (muestra las redes por nivel de
+
+   seguridad en el mapa)”; además pueden acceder a los formularios
+
+   “registro nuevo usuario y logearse” que permite el acceder a la
+
+   página de inicio de usuarios registrados.
+
+
+
+
+                               Inicio Visitantes
+
+
+
+
+                                                       Registrar Nuevo
+          Logearse                Opciones                Usuario
+
+
+
+
+        Inicio Usuario
+          Registrado            Búsqueda Wifi
+
+
+                                Distancia Entre
+                                    Puntos
+
+                                    Redes
+                                 Inalambricas
+
+                                   Leyenda
+
+
+             Figura Nº 48: Diagrama de navegación para visitantes.
+                          Fuente: Elaboración propia
+
+
+
+   La figura Nº 49 muestra la semántica de navegación de los usuarios
+
+   registrados del sistema Web; una vez que el visitante se identifica
+
+   puede ingresar a la interfaz de usuarios registrados donde puede
+
+   elegir las opciones de “Gestión Wi-Fi (agregar, mostrar, editar y
+
+                                                                         95
+eliminar Wi-Fi), búsqueda avanzada de Wi-Fi, estadísticas por nivel
+
+de seguridad de las Wi-Fi, editar perfil usuario, imprimir en PDF las
+
+estadísticas y salir del sistema de usuarios registrados”.
+
+
+
+                                  Inicio Usuario
+                                    Registrado
+
+
+
+
+                      Búsqueda
+       Gestión Wifi                Estadísticas    Perfil Usuario     Salir
+                      Avanzada
+
+
+       Agregar Wifi                                Editar Perfil
+                                    Broadcast                         Inicio
+                                      SSID                          Visitantes
+      Wifis Usuario
+                                    Método de
+                                     Cifrado
+                                                     Imprimir PDF
+                                     AP de
+         Eliminar                  Fabricantes
+
+                                   Velocidad de
+          Editar                      Redes
+
+
+         Mostrar
+.
+
+    Figura Nº 49: Diagrama de navegación para usuarios registrados.
+                        Fuente: Elaboración propia.
+
+
+
+La figura Nº 50 muestra el diagrama que representa la semántica
+
+de navegación del administrador del sistema Web, tener en cuenta
+
+que el administrador tiene las mismas opciones que se muestran en
+
+la figura Nº 49 por ser un usuario registrado.
+
+
+
+
+                                                                                 96
+                                                 Inicio
+                                              Administrador
+
+
+
+
+            Mostrar              Mostrar wifis               Mostrar
+            usuarios                                                                 Salir
+                                  usuarios                 comentarios
+
+           Ver datos              Ver datos                 Ver datos
+            Usuario                  wifi                  comentario                Inicio
+                                                                                   Visitantes
+            Eliminar                                        Eliminar
+            usuario              Eliminar wifi
+                                                           comentario
+
+
+
+           Figura Nº 50: Diagrama de navegación para Administrador.
+                                 Fuente: Elaboración propia.
+
+
+
+c.   Diseño de Interfaz.
+     La figura Nº 51 muestra el esquema general que se tomó para el
+
+     diseño de la interfaz gráfica para que sea atractiva y útil para todos
+
+     los usuarios del sistema Web, mientras                                que el encabezado y
+
+     contenido       permanecen          durante       la navegación, el                menú y las
+
+     opciones cambian dinámicamente                        para los usuarios visitantes y
+
+     registrados.
+
+
+                                            <E ncabezado>
+
+
+
+                                                 <M enú>
+
+
+
+
+            < O p c io n e s >                              < C o n t e n id o >
+
+
+
+
+                 Figura Nº 51: Esquema del diseño de interfaz general.
+                                 Fuente: Elaboración propia.
+                                                                                                97
+Los casos de uso del Visitante permitieron diseñar la interfaz de la
+
+figura Nº 52; la columna opciones muestra “búsqueda Wi-Fi, distancia
+
+entre Wi-Fi’s, redes inalámbricas y leyenda”; además el menú muestra
+
+las ventanas emergentes “conectarse y registrarse”.
+
+
+
+
+                 Figura Nº 52: Diseño de interfaz visitantes.
+
+
+Los casos de uso del Usuario Registrado permitieron diseñar las
+
+interfaces de las figuras Nº 53, 54 y 56.
+
+
+
+La figura Nº 53 muestra la interfaz del usuario registrado con menú de
+
+opciones en la parte superior, la opción “búsqueda avanzada” muestra
+
+una ventana con todos los datos de las Wi-Fi’s existentes, con opción
+
+para mostrar selección en el mapa, la columna de opciones muestra la
+
+pestaña de “buscar Wi-Fi’s” que retorna resultados en la parte inferior
+
+por sus nombres de las Wi-Fi’s encontradas en la búsqueda.
+
+
+
+
+                                                                    98
+        Figura Nº 53: Primer diseño de interfaz Usuario Registrado
+
+
+La figura Nº 54 muestra la interfaz de usuario registrado con la opción
+
+“Wi-Fi usuario”; la que retornan una ventana emergente con la lista de
+
+Wi-Fi’s ingresadas por el usuario con opciones de editar y eliminar; la
+
+opción “agregar Wi-Fi” permite ver el formulario para ingresar los datos
+
+de nuevas Wi-Fi’s en la columna de la izquierda.
+
+
+
+
+       Figura Nº 54: Segundo diseño de interfaz Usuario Registrado.
+                        Fuente: Elaboración propia.
+
+                                                                      99
+La figura Nº 55 muestra la interfaz de información de una Wi-Fi
+
+seleccionada en el mapa, además se observa la valoración respecto a
+
+cualidades y comentarios que el usuario puede ingresar o ya
+
+ingresados por otros usuarios.
+
+
+
+
+ Figura Nº 55: Diseño de interfaz Mostrar información de Wi-Fi seleccionada.
+                        Fuente: Elaboración propia.
+
+
+
+La figura Nº 56 muestra la interfaz de datos estadísticos representados
+
+por una tabla y un gráfico en forma de torta, también tiene una opción
+
+de impresión en formato PDF.
+
+
+
+
+                                                                          100
+        Figura Nº 56: Diseño de interfaz mostrar datos estadísticos.
+                        Fuente: Elaboración propia.
+
+
+Los casos de uso del Administrador permitieron diseñar la interfaz de la
+
+figura Nº 57, que está conformado por la opción “administrar”, que
+
+permite mostrar y eliminar Wi-Fi’s, usuarios y comentarios ingresados
+
+en el sistema Web.
+
+
+
+
+              Figura Nº 57: Diseño de interfaz Administrador.
+                        Fuente: Elaboración propia.
+
+
+                                                                       101
+3.10.3. IMPLEMENTACIÓN.
+      Para la implementación del sistema Web lo primero que se realizo fue
+
+      trasladar el modelo entidad relación de la base de datos a MySQL; para
+
+      lo cual se utilizó el software “DBDesigner”, que a partir del diagrama
+
+      físico se generó el código SQL respectivo, seguidamente dicho
+
+      código   fue   importado   a   MySQL    mediante     la   aplicación   web
+
+      “phpMyAdmin”, ver figura Nº58.
+
+
+
+
+                     Figura Nº 58: Base de datos en phpMyAdmin.
+                             Fuente: Elaboración propia.
+
+
+
+      Después de la implementación de la base de datos se realizó la
+
+      codificación, para ello se utilizó el programa “Notepad++” y los
+
+      lenguajes: “HTML, CSS, PHP, framework Javascript y el API de
+
+      GoogleMaps”, ver figura Nº59. Aquí también se observa la forma en
+
+      que están organizados los archivos y carpetas del sistema Web.
+
+
+
+
+                                                                             102
+                                              Carpeta con los archivos
+                                              de estilos css de la
+                                              aplicación.
+
+
+                                              Carpeta con los archivos
+                                              javascript, framework
+                                              jquery, valídate y Api de
+                                              googlemaps.
+
+
+                                              Carpeta con los scripts
+                                              php, framework para
+                                              impresión PDF y
+                                              gráficos estadísticos.
+
+
+                                              Carpeta con las vistas
+                                              que se muestran en el
+                                              navegador.
+
+
+
+                                              Carpeta con los archivos
+                                              para los usuarios
+                                              registrados (css, js,
+                                              vistas y scripts).
+
+
+            Figura Nº 59: Organización de archivos y carpetas.
+                       Fuente: Elaboración propia.
+
+
+La implementación de la aplicación Web resultó del diseño de interfaz y
+
+el diseño de navegación.
+
+La figura N° 60 muestra la interfaz del visitante implementada con el
+
+mapa de ubicación de las Wi-Fi’s por tipo de seguridad. El segmento de
+
+código de la función “initGMaps()” genera el mapa y lo centra en las
+
+coordenadas de “LatLng(-15.8422, -70.0203)”, solicita los datos de las
+
+Wi-Fi’s a mostrar al script index.php a través de la acción mostrarWifi,
+
+crea los marcadores y los ubica en el mapa                con la función
+
+“createmarker()”.
+
+
+                                                                          103
+      Figura Nº 60: Interfaz gráfica de visitante.
+             Fuente: Elaboración propia.
+
+
+
+
+Código Fuente N° 01: Creación de mapa y marcadores de maps.js.
+
+
+
+
+                                                                 104
+La figura N° 61 muestra la interfaz de usuario registrado implementada
+
+del diseño de interfaz que se vio en la figura N° 53.
+
+
+
+
+             Figura Nº 61: Interfaz gráfica de usuario registrado.
+                         Fuente: Elaboración propia.
+
+
+El segmento del código fuente N° 02 muestra la función “registra_wifi()”
+
+que ingresa en la base de datos los datos de la nueva Wi-Fi creada a
+
+partir de la interfaz de la figura N° 61.
+
+
+
+
+     Código fuente N° 02: Función registrar_wifi del scriptwifi.class.php.
+                                                                             105
+El segmento del código fuente N° 03 muestra la función “updatewifi()”
+
+que actualiza en la base de datos los datos editados a través de la
+
+interfaz de la figura N° 61.
+
+
+
+
+      Código fuente N° 03: Función updatewifi del script wifi.class.php.
+
+
+
+El segmento del código fuente N° 04 muestra la función “delete_wifi()”
+
+que elimina de la base de datos la Wi-Fi seleccionada a través de la
+
+interfaz de la figura N° 61.
+
+
+
+
+     Código fuente N° 04: Función eliminar_wifi del script wifi.class.php.
+
+
+
+
+                                                                             106
+La figura N° 62 muestra el resultado de la búsqueda avanzada que se
+
+realizó al seleccionarlo de las opciones del menú, esta interfaz fue
+
+implementada en base al diseño de interfaz de la figura N° 54.
+
+
+
+
+           Figura Nº 62: Interfaz gráfica de búsqueda avanzada.
+
+
+
+El   segmento      del    código     N°    05    muestra     la    función
+
+“busqueda_avanzada()” que realiza una búsqueda de todas las Wi-Fi’s
+
+en la base de datos y esto a través de la interfaz de la figura N° 66.
+
+
+
+
+                                                                         107
+ Código fuente N° 05: Función búsqueda_avanzada del script wifi.class.php.
+
+
+
+La figura N° 63 muestra el menú de estadísticas con la interfaz de
+
+estadísticas implementada del diseño de la figura N° 56.
+
+
+
+
+                Figura Nº 63: Interfaz gráfica de estadísticas.
+
+                                                                        108
+El segmento del código fuente N° 06 muestra las funciones “dat_est()”
+
+y “graf_est()” que son las encargadas de obtener los datos estadísticos
+
+y gráficos en la interfaz de la figura N° 63.
+
+
+
+
+           Código fuente N° 06: Función datos_est y graf_est del
+
+                        scriptestadisticas.class.php.
+
+
+
+
+                                                                   109
+La figura N° 64 muestra la interfaz implementada del diseño realizado
+
+en la figura N° 55.
+
+
+
+
+    Figura Nº 64: Interfaz gráfica de información sobre Wi-Fiseleccionada.
+
+
+
+El segmento del código N° 07 muestra función “ingresar_comentario()
+
+“que permite insertar un nuevo comentario en la base de datos desde
+
+la interfaz de la figura N° 64.
+
+
+
+
+           Código fuente N° 07: Función ingresar_comentario del
+
+                         scriptcomentario.class.php.
+                                                                             110
+                                 CAPÍTULO IV.
+
+       PRESENTACIÓN Y ANALISIS DE RESULTADOS.
+
+
+4.1.   PRUEBA DEL SISTEMA DE INFORMACIÓN.
+
+       Para la puesta en marcha del sistema se tuvo presente que la evaluación la
+
+       harían los usuario y los desarrolladores de la aplicación con esto logramos
+
+       conseguir llegar a un sistema sin errores garantizando la calidad del
+
+       mismo.     Por parte de los desarrolladores se realizó la “prueba de caja
+
+       negra” de los casos de uso más relevantes que resultó exitosa y que se
+
+       muestran en los siguientes tests.
+
+
+
+                          Test N° 01: Caso de Uso Buscar Wi-Fi
+         Requisito.         Buscar Wi-Fis existentes en el sistema.
+         Acción             El usuario ingresa una dirección de la ciudad de
+                            Puno y un radio y pulsa el botón Buscar
+         Checkpoint 6       El sistema muestra las redes existentes más
+                            cercanas a la dirección de búsqueda ingresada.
+                   Fuente: Elaboración Propia.
+
+
+
+
+                                                                              111
+   Test N° 02: Caso de uso Registrar un usuario en el sistema
+Requisito.            Registro de usuarios en el sistema.
+Acción            Un usuario introduce, los datos requeridos por el
+                  sistema y pulsa sobre el botón Aceptar.
+Checkpoint1       El sistema debe mostrar un mensaje de aceptación
+                  de registro y envía un correo electrónico al usuario
+                  con un enlace que permita activar el registro
+Checkpoint2       El sistema debe mostrar un mensaje de error
+                  informando que los campos de ingresados no son
+                  correctos.
+         Fuente: Elaboración Propia.
+
+
+              Test N°03: Caso de Uso Identificar usuario.
+Requisito.        Identificación de usuarios en el sistema.
+Acción            Un usuario introduce su nombre de usuario y
+                  contraseña y pulsa el botón Entrar
+Checkpoint 3      El sistema debe mostrar la interfaz de los usuarios
+                  registrados.
+Checkpoint 4      El sistema debe mostrar un mensaje de error
+                  informando que los campos de contraseña no
+                  coinciden.
+         Fuente: Elaboración Propia.
+
+
+               Test N° 04: Caso de Uso Comentar Wi-Fi
+Requisito.        Registro de un comentario sobre una Wi-Fi.
+Acción            El usuario ingresa un comentario sobre una Wi-Fi
+                  seleccionada y pulsa el botón Aceptar
+Checkpoint 5      El sistema debe mostrar el comentario ingresado
+                  sobre una Wi-Fi seleccionada.
+         Fuente: Elaboración Propia.
+
+
+
+
+                                                                     112
+                 Test N° 05: Caso de Uso Mostrar Wi-Fi
+Requisito.        Mostrar la ubicación de las Wi-Fi existentes.
+Acción.            El usuario ingresa al sistema a través de la dirección
+                   Web
+Checkpoint 7.      El sistema muestra gráficamente en el mapa la
+                   ubicación de las Wi-Fi’s existentes.
+          Fuente: Elaboración Propia.
+
+
+                Test N° 06: Caso de Uso Mostrar InfoWiFi
+Requisito.          Mostrar información de una Wi-Fi.
+Acción.             El usuario selecciona una Wi-Fi mostrada del
+                     sistema y pulsa mostrar detalles.
+Checkpoint 8.       El sistema muestra descripción detallada de los
+                     datos de la Wi-Fi seleccionada en una ventana
+                     diferente.
+          Fuente: Elaboración Propia.
+
+
+
+             Test N° 07: Caso de Uso Mostrar Comentarios
+Requisito.           Mostrar los comentarios sobre una Wi-Fi.
+Acción.              El usuario selecciona una Wi-Fi mostrada del
+                    sistema y pulsa mostrar detalles y se observan los
+                    comentarios ingresados.
+Checkpoint 9.        El   sistema       muestra   todos   los   comentarios
+                    existentes sobre la Wi-Fi seleccionada.
+          Fuente: Elaboración Propia.
+
+
+
+                Test N° 08: Caso de Uso Activar Registro
+Requisito.          Activación del registro realizado por el usuario.
+Acción              El usuario activa su cuenta desde su correo
+                     electrónico
+Checkpoint10.       El sistema activa la cuenta del usuario registrado.
+      Fuente: Elaboración Propia.
+
+
+
+                                                                          113
+             Test N° 09: Caso de Uso Mostrar Estadísticas
+Requisito.         Mostrar las estadísticas por características de
+                   las Wi-Fi.
+Acción.            El usuario      selecciona una opción del menú
+                   estadísticas.
+Checkpoint11.      El sistema muestra en una nueva ventana el grafico
+                   y tabla estadística seleccionada.
+      Fuente: Elaboración Propia.
+
+
+             Test N° 10: Caso de Uso Búsqueda Avanzada
+Requisito.         Realiza búsqueda avanzada de las Wi-Fi.
+Acción.            El usuario ingresa uno o varios criterios sobre la
+                   búsqueda a realizar.
+Checkpoint12.      El sistema muestra el resultado sobre la búsqueda
+                   realizada.
+      Fuente: Elaboración Propia.
+
+
+             Test N° 11: Caso de Uso Ingresar Nueva Wi-Fi
+Requisito.         Ingresar datos sobre una nueva Wi-Fi
+Acción.            El usuario ingresa todos los datos validados
+                   correctamente sobre una nueva Wi-Fi y pulsa el
+                   botón aceptar.
+Checkpoint13.      El sistema muestra mensaje indicando que la nueva
+                   Wi-Fi fue ingresada correctamente.
+      Fuente: Elaboración Propia.
+
+
+                 Test N° 12: Caso de Uso Editar Wi-Fi
+Requisito.         Realiza la edición de los datos de una Wi-Fi.
+Acción.            El usuario modifica todos o algunos de los datos
+                   validados       correctamente   sobre    una   Wi-Fi
+                   seleccionada y pulsa el botón aceptar.
+Checkpoint14.      El sistema muestra mensaje indicando que la Wi-Fi
+                   fue modificada correctamente.
+      Fuente: Elaboración Propia.
+
+                                                                      114
+                  Test N° 13: Caso de Uso Eliminar Wi-Fi
+  Requisito.          Realiza la eliminación de una Wi-Fi.
+  Acción.             El usuario elimina una Wi-Fi seleccionada y pulsa el
+                      botón aceptar.
+  Checkpoint15.       El sistema muestra mensaje de confirmación de la
+                      eliminación y elimina definitivamente la Wi-Fi del
+                      sistema.
+         Fuente: Elaboración Propia.
+
+
+                   Test N° 14: Caso de Uso Imprimir PDF
+  Requisito.          Realiza la impresión en formato PDF.
+  Acción.             El usuario pulsa el botón imprimir en PDF.
+  Checkpoint16.       El sistema genera un archivo PDF con las tablas y
+                      gráficos estadísticos.
+         Fuente: Elaboración Propia.
+
+
+
+En cuanto a la evaluación hecha por los usuarios se elaboró una encuesta
+
+que sondeó la opinión de los usuarios que fue extraída de la muestra
+
+apoyado por el responsable de la investigación. El total de usuarios
+
+encuestados fue de 96, de la que los resultados fueron los siguientes:
+
+1. ¿Qué te parecieron las características de la Interfaz de la aplicación
+
+  Web?
+
+
+
+
+   Gráfico Nº 01: Porcentajes sobre características de la interfaz del sistema.
+                                                                                  115
+                                      Frecuencia Porcentaje
+              Buena                       66       68.75%
+              Regular                     24       25.00%
+              No Sabe/No Opina             6        6.25%
+              Total                       96      100.00%
+                    Fuente: Elaboración propia.
+
+
+
+  Interpretación: De los resultados se afirma que el 68.75% piensan que
+
+  es buena, el 25.0% que es regular y el 6.25% no sabe/no opina, se
+
+  concluye entonces que las características de la interfaz si son buenas.
+
+
+
+2. ¿La presente aplicación de búsqueda Web le proporcionó
+
+  información útil?
+
+
+
+
+         Gráfico Nº 02: Porcentajes sobre la utilidad de la información
+
+                                     Frecuencia     Porcentaje
+              Si                       76             79.20%
+              No                        3              3.10%
+              No Sabe/No Opina         17             17.70%
+                    Total              96            100.00%
+                  Fuente: Elaboración propia.
+
+
+
+  Interpretación: De los resultados se puede afirmar que el 79.2% piensa
+
+  que sí, el 3.1% que no y el 17.7% no sabe/no opina, se concluye que la
+
+  aplicación de búsqueda Web si proporciona información útil.
+
+                                                                          116
+3. ¿Cuál es su opinión respecto al uso de la aplicación Web?
+
+
+
+
+          Gráfico Nº 03: Porcentajes sobre uso de la aplicación Web.
+
+                                    Frecuencia Porcentaje
+                 Buena                  86       89.58%
+                 Malo                   5         5.21%
+                 Regular                5         5.21%
+                      Total             96      100.00%
+                    Fuente: Elaboración propia.
+
+
+
+  Interpretación: De los resultados se afirma que el 89.58% dijo que es
+
+  buena, el 5.21% malo y el 5.21% es regular, se concluye entonces que
+
+  el uso de la aplicación de búsqueda Web si es buena.
+
+
+
+4. ¿Cree Ud. que la implementación de esta aplicación Web te ayuda
+
+   en la búsqueda de información sobre las Wi-Fi de la ciudad de
+
+   Puno?
+
+
+
+
+  Gráfico Nº 04: Porcentajes sobre la necesidad de implementar la aplicación.
+                                                                            117
+                                       Frecuencia Porcentaje
+               si                          84       87.5%
+               No                           3         3.1%
+               No Sabe/No Opina             9         9.4%
+                     Total                 96      100.0%
+                    Fuente: Elaboración propia.
+
+
+
+  Interpretación: De los resultados se puede afirmar que el 87.5% dijo
+
+  que sí, el 3.1% que no y el 9.4% que no sabe o no opina, se concluye
+
+  entonces que la implementación de la aplicación de búsqueda Web si
+
+  ayuda en la búsqueda de información sobre las Wi-Fi de la ciudad de
+
+  Puno.
+
+
+
+5. ¿Cree Ud. que la aplicación de búsqueda Web mejora el acceso a la
+
+  información sobre las Wi-Fi?
+
+
+
+
+  Gráfico Nº 05: Porcentajes sobre el accesos a la información sobre las Wi-Fi.
+
+                                       Frecuencia Porcentaje
+               Si                          89       92.71%
+               No                          2         2.08%
+               No Sabe/No Opina            5         5.21%
+                     Total                 96      100.00%
+                    Fuente: Elaboración propia.
+
+
+
+
+                                                                              118
+  Interpretación: De los resultados se puede afirmar que el 92.71% dijo
+
+  que sí, el 2.08% que no y el 5.21% que no sabe o no opina, se concluye
+
+  entonces que la aplicación Web si mejora el acceso a la información
+
+  sobre las Wi-Fi.
+
+
+
+6. ¿Cree Ud. que la búsqueda de información de las Wi-Fi fue rápida?
+
+
+
+
+     Gráfico Nº 06: Porcentajes sobre la búsqueda rápida de información.
+
+                               Frecuencia          Porcentaje
+              Si                   71                 73.96%
+              No                   8                   8.33%
+              No Sabe/No Opina     17                 17.71%
+                    Total          96                100.00%
+                     Fuente: Elaboración propia.
+
+
+
+  Interpretación: De los resultados se puede afirmar que el 73.96% dijo
+
+  que sí, el 8.33% que no y el 17.71% que no sabe o no opina, se
+
+  concluye entonces que la búsqueda de información de las Wi-Fi si fue
+
+  rápida.
+
+
+
+
+                                                                           119
+7. ¿Cree Ud. que con el uso de esta aplicación Web ahora tendrá
+
+  mayor información sobre la inseguridad de las Wi-Fi?
+
+
+
+
+ Gráfico Nº 07: Porcentajes sobre mayor conocimiento sobre el uso de las Wi-Fi.
+
+                                      Frecuencia Porcentaje
+               Si                         79       82.29%
+               No                          3        3.13%
+               No Sabe/No Opina           14       14.58%
+                     Total                96      100.00%
+                     Fuente: Elaboración propia.
+
+
+
+  Interpretación: De los resultados se puede afirmar que el 82.29% dijo
+
+  que sí, el 3.13% que no y el 14.58% que no sabe o no opina, se
+
+  concluye entonces que con el uso de esta aplicación Web ahora si
+
+  tendrá mayor información sobre la inseguridad de las Wi-Fi.
+
+
+
+
+                                                                             120
+       8. ¿Cree Ud. que el uso de la aplicación de búsqueda Web es fácil o
+
+         complejo?
+
+
+
+
+           Gráfico Nº 08: Porcentajes sobre la facilidad de uso de la aplicación Web.
+
+                                              Frecuencia      Porcentaje
+                       Fácil                      82            85.42%
+                       Complejo                   8              8.33%
+                       Regular                    6              6.25%
+                             Total                96           100.00%
+                            Fuente: Elaboración propia.
+
+
+
+         Interpretación: De los resultados se puede afirmar que el 85.42% dijo
+
+         que es fácil, el 8.33% que es complejo y el 6.25% que es regular, se
+
+         concluye entonces que el uso de la aplicación Web si es de fácil uso.
+
+
+
+4.2.   PRUEBA DE HIPÓTESIS.
+
+       La contrastación de hipótesis se realizó suponiendo que tendría un 80% de
+
+       aceptación por parte de los usuarios. Es así que en base a la muestra y, a
+
+       las encuestas realizadas a los usuarios, se obtuvo que en promedio 79 de
+
+       los 96 usuarios aprobaron esta aplicación Web, que permite a su vez
+
+       aceptar o rechazar la hipótesis.
+
+
+
+                                                                                        121
+a) Hipótesis Estadística.
+
+   Hipótesis Nula (H0):El sistema de búsqueda Web permite mejorar la
+
+   gestión de la información Wi-Fi georreferenciada de la ciudad de Puno.
+
+
+
+   Hipótesis Alterna (H1):El sistema de búsqueda Web no permite
+
+   mejorar la gestión de la información Wi-Fi georreferenciada de la ciudad
+
+   de Puno.
+
+
+
+b) Nivel de significancia.
+
+                                   𝛼 = 5%
+
+c) Estadística:
+
+      𝑃 : Proporción de éxito en la muestra.
+
+      𝑃0 : Proporción de éxito considerada en la H0
+
+      𝑛 : Tamaño de muestra.
+
+      𝑋 : Número de éxitos en la muestra.
+
+
+
+
+                        𝑃0 = 80% 𝑛 = 96 𝑋 = 79
+
+                                   𝑃 = 𝑋/𝑛
+
+                                  𝑃 = 79/96
+
+                                 𝑃 = 0.8242
+
+                                      𝑃 − 𝑃0
+                                𝑍=
+                                       𝑃0 (1−𝑃0 )
+                                     √
+                                           𝑛
+
+
+
+
+                                                                       122
+                                    0.8242 − 0.80
+                               𝑍=
+                                       0.80(1−0.80)
+                                     √
+                                           96
+
+
+                                       0.0242
+                                 𝑍=
+                                      0.040824
+
+                                 𝑍𝐶 = 0.59278
+
+
+
+d) Decisión.
+
+   Puesto que: Zc = 0.59278 (Calculado)>Zt = - 1.645 (Tabla), estando
+
+   este valor dentro de la región de aceptación, se concluye que, no se
+
+   rechaza H0 y es aceptada, por lo tanto se prueba la validez de la
+
+   hipótesis con un nivel de error de 5% (α=0.05), En consecuencia
+
+   se verifica que “El    sistema de búsqueda Web permite mejorar la
+
+   gestión de la información Wi-Fi georreferenciada de la ciudad de Puno”.
+
+
+
+
+               Gráfico Nº 09: Distribución Normal Grafica de Gauss.
+                           Fuente: Elaboración propia.
+
+
+
+
+                                                                      123
+                            CONCLUSIONES.
+
+
+PRIMERO: Se comprobó a través de las encuestas que el sistema tiene un nivel
+
+de aceptación del   82.4% por parte de los usuarios encuestados y según la
+
+prueba de hipótesis se encontró que Zc = 0.59278 (Calculado) es mayor a Zt = -
+
+1.645 (Tabla), aceptándose la hipótesis nula que “El Sistema de búsqueda Web
+
+permite mejorar la gestión de la información Wi-Fi georreferenciada de la ciudad
+
+de Puno”.
+
+
+
+SEGUNDO: Aplicando la técnica del wardriving se ha podido determinar con
+
+claridad la cantidad relativa de las Wi-Fi’s existentes en la ciudad de Puno que
+
+bordean los 2269, además de sus características tales como seguridad en el
+
+acceso, ubicación geográfica, estándar (ver Anexo N° 02).
+
+
+
+
+                                                                            124
+TERCERO: Aplicando el proceso de la ingeniería Web que comprende el modelo
+
+de requisitos, modelo de iteración, modelo de contenido; también el diseño
+
+arquitectónico, el diseño de navegación y el diseño de interfaz se ha logrado
+
+completar el modelado del análisis y el modelado del diseño del Sistema de
+
+Búsqueda Web.
+
+
+
+CUARTO: Aplicando las tecnologías orientadas a la Web como: el lenguaje de
+
+programación PHP, el gestor de base de datos MySQL , el Api de Google Maps,
+
+el framework Jquery y Ajax para ciertos procesos, se ha logrado implementar el
+
+Sistema de búsqueda Web de manera más amigable para los usuarios finales.
+
+
+
+
+                                                                            125
+                          RECOMENDACIONES.
+
+
+PRIMERO: Se recomienda el uso de la técnica de la encuesta y prueba de caja
+
+negra para realizar las pruebas de aceptación delas aplicaciones Web y la prueba
+
+de hipótesis para proporciones en futuras investigaciones.
+
+
+
+SEGUNDO: Se recomienda el uso de la técnica de wardriving para la recolección
+
+pasiva de datos referentes a las redes inalámbricas Wi-Fi’s en la ciudad de Puno
+
+o cualquier otra ciudad del Perú, por ser una técnica fácil y de rápido uso.
+
+
+
+TERCERO: Se recomienda que para el desarrollo de aplicaciones basadas en
+
+Web se haga uso del proceso de la ingeniería Web que facilita la realización del
+
+modelado del análisis y el modelado del diseño.
+
+
+
+CUARTO: Se recomienda el uso de tecnologías orientadas a la Web como: PHP,
+
+MySQL, Ajax, Api de Google Maps, y diferentes framework javascript para la
+
+implementación de aplicaciones basadas en Web que incluyan el uso de mapas
+
+geográficos.
+
+
+                                                                               126
+                        BIBLIOGRAFÍA Y ANEXOS.
+
+
+1.   TEXTOS.
+
+     [2]   ANDREU GÓMEZ, JOAQUIN (2010). “Servicios en Red”. España:
+           Editorial Editex.
+
+
+     [3]   BOTELLA PLANA, ALBERT et al (2011).“Introducción a los Sistemas
+           de Información Geográfica y Geotelemática”, (1raed). España: Editorial
+           UOC.
+
+
+     [4]   CHARAJA C. FRANCISCO (2004). “Investigación Científica”, (2daed).
+           Puno, Perú: Editorial Nuevo Mundo.
+
+
+     [5]   GRALL PRESTON(2007). “Cómo Funcionan las Redes Inalámbricas”
+           España:Editorial Anaya Multimedia.
+
+
+     [6]   HUIDOBRO MOYA, JOSÉ M. et al (2008). “Redes de área Local”,
+           (2daed). Madrid, España: Paraninfo S.A.
+
+
+     [7]   HURLEY CHRIS (2004), “Wardriving: Drive, Detect, Defend: a Guide
+           to Wireless Security”. EEUU: Editorial Syngress Publishing.
+
+
+
+                                                                             127
+[8]   LANTADA ZARZOSA, NIEVES &NÚÑEZ ANDRÉS, M. AMPARO
+      (2002). “Sistema de Información Geográfica Practicas con ArcView”,
+      (1raed). España: EdicionsUPC.
+
+
+
+
+[9]   LAWRENCE LETHAM (2001), “GPS Fácil. Uso del Sistema de
+      Posicionamiento Global”, (1raed). España: Paidotribo.
+
+
+[10] NYHUSJES (2006). “Redes Y Redes Inalámbricas”. Barcelona,
+      España: Editorial KnowWareE.U.R.L
+
+
+[11] PELLEJERO, IZASKUN et al (2006), “Fundamentos y Aplicaciones de
+      Seguridad en Redes WLAN”. España: Marcombo, S.A.
+
+
+[12] RODIL JIMÉNEZ, IRENE & PARDO DE VEGA, CAMINO (2010).
+      “Operaciones Auxiliares con Tecnologías de la Información y la
+      Comunicación”, (1raed). Madrid, España: Paraninfo S.A.
+
+
+[13] ROGER S. PRESSMAN (2005). “Ingeniería del Software un Enfoque
+      Práctico”, (6taed). México: Editorial McGraw-Hill Interamericana
+      Editores S.A. de C.V.
+
+
+[14] SAMPIERI HERNANDEZ, ROBERTO et al (2010). “Metodología De
+      La Investigación Científica”, (5taed). México: Editorial McGraw-Hill
+      Interamericana Editores S.A. de C.V
+
+
+[15] SIVIANES     CASTILLO,     FRANSISCO       et   al   (2010).   “Sistemas
+      Microinformáticos y Redes”, (1raed) España: Paraninfo S.A.
+
+
+
+
+                                                                          128
+2.   TESIS.
+
+     [16] FLORES       MOROCO,     Juan    Antonio.   (2005).   “Portal   Web
+         Académico utilizando herramientas con Licencia GNUGPL para
+         optimizar la gestión Académica de la Universidad Nacional del
+         Altiplano –    2004”. Tesis de Ingeniero de Sistemas. Universidad
+         Nacional del Altiplano.
+
+
+     [17] JIMÉNEZ CHURA, ADOLFO CARLOS (2008). “Prototipo de Sistema
+         de Información Web que permita reducir el tiempo de formulación del
+         Plan Operativo de la Universidad Nacional del Altiplano – Puno”. Tesis
+         de Ingeniería de Sistemas, Universidad Nacional del Altiplano, Puno.
+
+
+
+     [18] LÁZARO LUNA, LISANDRO (2006). “Sistema de Información
+         Geográfica de Administración y Búsqueda de la Información
+         Georreferencial de la Ciudad de Juliaca”. Tesis en Ingeniería de
+         Sistema, Universidad Nacional del Altiplano, Puno.
+
+
+     [19] MAMANI, J. (2004). “Prototipo de Aplicación Cliente - Servidor vía
+         Internet para la Consulta de Consumos y Descuentos en la
+         Panificadora UNA – Puno”. Tesis de Ingeniero de Sistemas,
+         Universidad Nacional del Altiplano.
+
+
+3.   DOCUMENTOS ELECTRÓNICOS
+
+     [20] ARAQUE IBAÑEZ, ANTONIO (2008). “Sistema de Recomendación de
+         Restaurantes Georreferenciados”. Proyecto Fin de Carrera en
+         Ingeniería Informática, Universidad de Jaen, España. Disponible en:
+         http://sinbad2.ujaen.es/cod/archivosPublicos/pfc/pfc_antonio_araque.
+         pdf.
+
+
+
+
+                                                                           129
+[21] BRAVO GARCÍA, PATRICIA (2009). “Búsqueda Geoposicional de
+    Redes Wi-Ficon Dispositivos Android”. Proyecto Fin de Carrera en
+    Ingeniería    Telemática,       Universidad   Carlos   III   de   Madrid,
+    Departamento de Telemática. Disponible en:
+    http://www.it.uc3m.es/vlc/publicaciones/pfcs/patriciabravopfc.pdf.gz.
+
+
+[22] BUETTRICH, SEBASTIAN& ESCUDERO PASCUAL, ALBERTO
+    (2007). “Topología e Infraestructura Básica de Redes Inalámbricas”.
+    Disponible en:
+    http://www.itrainonline.org/itrainonline/mmtk/wireless_es/files/04_es_to
+    pologia-e-infraestructura_guia_v02.pdf.
+[23] DELOITTE ENTERPRISE RISKSERVICE (2008). “Mapa de la
+    Inseguridad de Redes Inalámbricas en la Ciudad de Lima” (2daed).
+    Disponible en:
+    www.deloitte.com/assets/Dcom-
+    Peru/Local%20Assets/Documents/pe_informe_inseguridad_wireless_
+    210708.pdf.
+
+
+[24] HACKER FRIENDLYLLC (2007). “Redes Inalámbricas en los Países
+    en Desarrollo”, (2daed). Limehouse Book Sprint Team. Disponible en:
+    http://www.ehas.org/wp-content/uploads/2012/01/redes-inalambricas-
+    para-los-paises-en-desarrollo.pdf.
+
+
+[25] OBSERVATORIO         REGIONAL         DE     LA   SOCIEDAD       DE   LA
+    INFORMACIÓN (2009). “Sistemas de localización e información
+    Geográfica” (1raed). Junta de Castilla y León, España: Edita
+    Consejería de Fomento. Disponible en:
+    http://www.jcyl.es/web/jcyl/binarios/430/595/sistemas%20de%20locali
+    zacion%20e%20informacion%20geografica.pdf?blobheader=applicati
+    on%2Fpdf%3Bcharset%3DUTF-8.
+
+
+[26] OLAYA, VÍCTOR (2011). “Sistema de Información Geográfica”,
+    (1ra versión). Disponible en:
+    http://sextante.googlecode.com/files/Libro_SIG.pdf.
+                                                                           130
+[27] RIVERO ORTEGA, GLORIA (2010). “Aplicación Web para la gestión
+     de redes inalámbricas de sensores ubicados en Google Maps”.
+     Proyecto Fin de Carrera en Ingeniería Técnica en Informática de
+     Gestión, Universidad Carlos III de Madrid. Disponible en: http://e-
+     archivo.uc3m.es/bitstream/10016/10666/2/Memoria%20PFC%20Glori
+     a%20Rivero.pdf.
+
+
+[28] ROGER, BRUNO & ESCUDERO PASCUAL, ALBERTO (2007).
+     “Estándares      en   Tecnologías    Inalámbricas”.   Disponible    en:
+     http://www.itrainonline.org/itrainonline/mmtk/wireless_es/files/02_es_e
+     standares-inalambricos_guia_v02.pdf.
+[29] PÉREZ LÓPEZ DE LUZURIAGA, IGNACIO (2007). “WirelessRedes
+     Inalámbricas WifiWlan”.Disponible en:
+     http://www.cossio.net/online/materiales_didacticos/arquitectura/wireles
+     s.pdf.
+
+
+[30] VÍCTOR SALAMANCA AGUADO (2012), “Desarrollo de un Portal
+     Educativo Web en Joomla Aplicando Métrica V3”,        Universidad Rey
+     Juan Carlos - Escuela Superior de Ingeniería Informática.
+     Disponible en:
+     http://eciencia.urjc.es/jspui/bitstream/10115/11615/1/PFC_Victor_Sala
+     manca.pdf.
+
+
+[31] ACHOUR, Mehdi [et al.]. Manual de PHP [en línea]. PHP
+     DocumentationGroup, (2005) Disponible en:
+     http://www.php.net/docs.php.
+
+
+[32] AboutOGC (2011) [Página oficial OGC]. Disponible en:
+     http://www.opengeospatial.org/ogc.
+
+
+
+
+                                                                         131
+   ANEXO N° 01.
+Gráficos Estadísticos.
+Grafico Estadístico.
+Grafico Estadístico.
+Grafico Estadístico.
+Grafico Estadístico.
+
+
+
+
+         .
+       ANEXO N° 02.
+Total de Wi-Fi’s Encontradas.
+ANEXO N° 03.
+  Encuesta.
+                                          ENCUESTA.
+
+Nos dirigimos a Ud. a fin de poner en conocimiento que se está realizando una
+investigación sobre el uso del sistema de búsqueda Web para la gestión de la
+información de las Wi-Fis georreferenciadas en la ciudad de Puno, le rogamos que
+colabore, contestando esta encuesta.
+
+Indicaciones: Marque Ud. con una (X) en el espacio que corresponde a su respuesta.
+
+1.   ¿Qué te pareció las características de la Interfaz de la aplicación Web?
+
+       Buena                      Regular                      No sabe/no opina
+
+2.   ¿La presente aplicación Web le proporcionó información útil?
+
+           Si                             No                   No sabe/no opina
+
+3.   ¿Cuál es su opinión respecto al uso de la aplicación Web?
+
+       Buena                      Regular                                   Malo
+
+4.   ¿Cree Ud. que la implementación de esta aplicación Web te ayuda en la búsqueda
+     de información sobre las Wi-Fi de la ciudad de Puno?
+
+       Buena                      Regular                      No sabe/no opina
+
+5.   ¿Cree Ud. que la aplicación Web mejora el acceso a la información sobre las
+
+     Wi-Fis?
+
+           Si                             No                   No sabe/no opina
+
+6.   ¿Cree Ud. que la búsqueda de información de las Wi-Fis fue rápida?
+
+           Si                             No                   No sabe/no opina
+
+7.   ¿Cree Ud. que con el uso de esta aplicación Web ahora tendrá mayor información
+     sobre la inseguridad de las Wi-Fi?
+
+           Si                             No                   No sabe/no opina
+
+8.   ¿Creé Ud. que el uso de la aplicación Web es fácil o complejo?
+
+       Fácil                   Complejo                                Regular
+
+
+
+Gracias por su tiempo.
+       ANEXO N° 04.
+Fotografías Trabajo de campo
+         Wardriving.
+ GPS mostrando la recepción de la          Pruebas de conectividad
+
+       señal de los Satélites
+
+
+
+
+Recorrido por la Zona Norte de Puno   Recorrido por la Zona Sur de Puno
+
+
+
+
+   Programa Vistumbler en plena       Recorrido por la Zona Este de Puno
+         captura de datos
+Automóvil debidamente implementado          Antena Omnidireccional, Antena GPS,
+  para el desarrollo del Wardriving        Receptor WIFI USB conectado en el techo
+                                                        del Automóvil
+
+
+
+
+  Recorrido por los barrios de la ciudad      Probando la recepción del GPS
+                de Puno
+

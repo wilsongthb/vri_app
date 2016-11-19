@@ -1,0 +1,3062 @@
+UNIVERSIDAD NACIONAL DEL ALTIPLANO – PUNO
+ FACULTAD DE MEDICINA DE VETERINARIA Y ZOOTECNIA
+
+    Escuela Profesional de Medicina Veterinaria y
+                     Zootecnia
+
+
+
+
+    “EVALUACIÓN DE LOS INDICES MICROBIOLÓGICOS Y
+  FISICOQUÍMICOS EN AGUAS RESIDUALES DE LA CIUDAD DE
+   PUNO – TRATADAS CON MICROORGANISMOS NATIVOS”
+
+
+                        TESIS
+
+                   PRESENTADO POR:
+
+              Bach. URIEL LUVI CHECANI
+
+          PARA OPTAR EL TÍTULO PROFESIONAL DE:
+
+         MÉDICO VETERINARIO Y ZOOTECNISTA
+
+
+                      PUNO – PERÚ
+                          2014
+ÁREA : Salud pública
+TEMA : Saneamiento ambiental
+                              DEDICATORIA
+
+
+Este trabajo dedico a mi querido padre Pedro, y a mi querida madre Sabina
+que en paz descanse, por sus ejemplos de lucha, sus sabios consejos y su
+comprensión, que siempre supieron apoyarme en todo momento, a ellos
+con cariño mi eterna gratitud. Por verme profesional. Gracias…
+
+
+A mis hermanos: Sonia, Hilda, Hugo, Simi, Eulalia, Edwin, Fredy, y Yovana,
+por el apoyo incondicional y cariño que me brindaron durante mi carrera, que
+en ningún momento de mi vida dudaron de mí.
+
+
+A mis amigos (as) Por compartir grandes vivencias que repercutirán
+constantemente en mi vida.
+
+
+A la gloriosa Facultad de Medicina Veterinaria y Zootecnia UNA Puno, por la
+calidad de formación profesional.
+
+
+
+
+                                     …..…Gracias con aprecio…….
+                                                              Uriel luvi
+                            AGRADECIMIENTO
+
+
+Es importante llegar al final, he recorrido un largo camino, y para lo cual he
+contado con el apoyo de muchas personas, que me han enseñado tantas
+cosas a nivel profesional pero sobre todo a nivel personal, por lo que
+quisiera agradecerles profundamente a todas aquellas personas y amigos
+por compartir parte de sus experiencias.
+
+
+Agradezco a mi alma mater, la Universidad Nacional del Altiplano – Puno y
+la gloriosa Facultad de Medicina Veterinaria y Zootecnia, por haberme
+formado un instrumento para el servicio de mi pueblo.
+
+
+A mi director de tesis el Dr. Alberto Ccama Sullca por brindarme su apoyo,
+amistad y guía y su gran espíritu docente en cada momento en la realización
+del presente trabajo de investigación.
+
+
+A mi asesor de tesis al MVZ. Sandro Ramírez Arenas. Por su apoyo moral,
+amistad y su incondicional apoyo en la realización del presente trabajo.
+
+
+Agradecer a todos los docentes de Medicina Veterinaria y Zootecnia que
+siempre han sido muy amables conmigo durante estos años.
+
+
+
+
+                                   A todos y cada uno de vosotros muchas gracias.
+                                                                      Uriel luvi
+                                                        ÍNDICE
+I. INTRODUCCIÓN ...................................................................................................1
+II. REVISIÓN BIBLIOGRÁFICA ..............................................................................3
+    2.1 MARCO CONCEPTUAL ................................................................................3
+         2.1.1 AGUA RESIDUAL .............................................................................3
+         2.1.2 AGUAS RESIDUALES DOMESTICAS (ARD)..............................3
+         2.1.3 CALIDAD DE UN AGUA RESIDUAL DOMÉSTICA ....................4
+         2.1.4 TRATAMIENTO DE LAS AGUAS RESIDUALES ........................4
+         2.1.5 PARÁMETROS BIOLÓGICOS .......................................................5
+         2.1.6 PARÁMETROS FÍSICOS. ...............................................................6
+         a.- Temperatura ............................................................................................6
+         b.- Sólidos Suspendidos Totales ...............................................................6
+         c.- Potencial de Hidrogeniones (pH) .........................................................7
+         2.1.7 PARÁMETROS QUÍMICOS. ...........................................................8
+         a.- Demanda Bioquímica de Oxigeno (DBO) ..........................................8
+         b.- Demanda Química de Oxígeno (DQO) ...............................................8
+         c.- Aceites y grasas......................................................................................9
+         2.1.8 MICROORGANISMOS EFICACES (EM) Y SU USO EN
+            AGUAS RESIDUALES .........................................................................10
+         2.1.9 MICROORGANISMOS NATIVOS DESCOMPONEDORES DE
+            MATERIA ORGANICA .........................................................................12
+         2.1.9.1 Aspergillus spp .............................................................................12
+         2.1.9.2 Lactobacillus .................................................................................13
+         2.1.9.3 Saccharomyces cerevisiae .........................................................15
+         2.1.9.4 Bacillus subtilis .............................................................................17
+    2.2 ANTECEDENTES ........................................................................................17
+III. MATERIALES Y MÉTODOS ............................................................................20
+    3.1. ÁMBITO DE ESTUDIO .............................................................................20
+    3.2. MATERIAL EXPERIMENTAL ...................................................................20
+    3.3. METODOLOGÍA .......................................................................................211
+            3.3.1 PRODUCCIÓN DE MICROORGANISMOS ................................21
+            3.3.2 APLICACIÓN DE MICROORGANISMOS EN AGUAS
+               RESIDUALES ........................................................................................21
+            3.3.3 TOMA DE MUESTRAS ..................................................................22
+            3.3.4 REALIZACIÓN DE LOS ANÁLISIS PARA LOS PARÁMETROS
+               FISICOQUÍMICOS Y MICROBIOLÓGICOS .....................................23
+        3.3.4.1 DETERMINACIÓN DEL NMP DE COLIFORMES
+           TERMOTOLERANTES ........................................................................23
+        a. ANALISIS PRESUNTIVO ....................................................................25
+        b. ANALISIS CONFIRMATIVO................................................................25
+   3.4. MÉTODO ESTADÍSTICO ..........................................................................26
+IV. RESULTADOS Y DISCUSIONES ..................................................................28
+        4.1. SOLIDOS TOTALES EN SUSPENSIÓN (STS) ...........................28
+        4.2. POTENCIAL DE HIDROGENIONES (pH) .....................................30
+        4.3. DEMANDA BIOQUÍMICA DE OXIGENO ......................................32
+        4.4. PARA DEMANDA QUÍMICA DE OXIGENO .................................35
+        4.5. ACEITES Y GRASAS .......................................................................37
+        4.6. PARA TEMPERATURA ....................................................................41
+        4.7. COLIFORMES TERMOTOLERANTES .........................................43
+V. CONCLUSIONES ...............................................................................................46
+VI. RECOMENDACIONES ....................................................................................47
+VII. BIBLIOGRAFÍA .................................................................................................48
+VIII. ANEXOS………. ..............................................................................…………55
+        REALIZACIÓN DE LOS ANÁLISIS FÍSICO ..........................................55
+        a. DETERMINACIÓN DE pH ...................................................................55
+        b. DETERMINACIÓN DE LA TEMPERATURA ....................................55
+        c. DETERMINACIÓN DE LOS SÓLIDOS TOTALES EN
+           SUSPENSIÓN .......................................................................................56
+        REALIZACIÓN DE LOS ANÁLISIS QUIMICOS....................................57
+        a. DTERMINACIÓN DE LA DEMANDA QUÍMICA DE OXIGENO
+           (DQO) ......................................................................................................57
+        b. DETERMINACIÓN DE LA DEMANDA BIOQUÍMICA DE
+           OXÍGENO (DBO5) ................................................................................59
+        c. DETERMINACIÓN DE ACEITES Y GRASAS..................................60
+                                 RESUMEN
+El presente trabajo se realizó en la planta de oxidación de la ciudad de Puno,
+laboratorio de Microbiología de Medicina Veterinaria y Zootecnia, y
+laboratorio de aguas y suelos de Ciencias Agrarias de la Universidad
+Nacional del Altiplano; con los objetivos de determinar los índices
+microbiológicos y fisicoquímicos en aguas residuales post tratamiento con
+Aspergillus spp, Lactobacillus, Saccharomyces cerevisiae y Bacillus subtilis,
+y evaluar el efecto de las dosis de 1:1000, 1:5000 y 1:10000
+microorganismos a 0, 10, 30 y 45 días en aguas residuales; para los cuales
+se empleó cubos de vidrio de 60cm x 35cm x 30cm de largo, alto y ancho,
+respectivamente; cada uno contenían 5L de aguas residuales, sobre las
+cuales se adicionaron las dosis en diferentes periodos, de las cuales se
+colectó un total de 22 muestras, y estas fueron analizados a los 0, 10, 30, y
+45 días, para obtener datos de las variables pH, temperatura, solidos totales
+en suspensión (STS), aceites y grasas, demanda química de oxígeno (DQO)
+y demanda bioquímica de oxígeno (DBO) y coliformes termotolerantes. La
+información fue procesada mediante Diseño Bloque Completamente al Azar.
+Los resultados para STS fueron de 97.93, 99.8, 98.10 y 99.70 mg/L, para pH
+de 7.4, 7.8, 7.9 y 8.0, para DBO de 440.30, 658.75, 417.50 y 533.60 mg/L,
+para DQO de 475.30, 1585.30, 1200.00 y 1073.30 mg/L, para aceites y
+grasas de 20.30 16.47, 19.70, y 16.50 mg de aceites y grasas/L, para T° de
+15.63, 16.70, 16.00 y 16.30 °C, y para coliformes termotolerantes de 10000,
+4216.7, 8011.5 y 3966.5 NMP/100 mL, donde el primer resultado de cada
+variable corresponde al testigo, el segundo a dosis de 1:1000, el tercero a
+dosis de 1:5000 y el cuarto a dosis de 1:10000 respectivamente (P≥0.05). La
+variables estudiadas no mostraron diferencias significativas en la variabilidad
+por efecto del tratamiento con diferentes dosis de microorganismos nativos
+ni por periodo de evaluación en el agua residual de Puno; pero solamente
+aceites y grasas mostró diferencias significativas por efecto del periodo de
+evaluación donde a los 30 días y 45 días fue de 19.70 y 16.50 mg/L y a los
+10 días 12.30 mg (P≤0,05).
+                           I. INTRODUCCIÓN
+
+
+El agua considerado como fuente de vida, según estudios reportan que en el
+
+planeta tierra de toda el agua existente, el agua dulce representa solamente
+
+el 3%, el resto representa el agua salada, agua que en ese estado no puede
+
+ser utilizado por el hombre para sus diferentes actividades cotidianas. Uno
+
+de los problemas ambientales más graves en la actualidad es la
+
+contaminación del recurso hídrico debido a que el problema tiene múltiples
+
+causas y se presenta en formas muy diversas, con asociaciones y
+
+sinergismos difíciles de prever. Este está relacionado directamente con
+
+cambios demográficos en las últimas décadas, ya que a medida que las
+
+poblaciones humanas crecen y utilizan más el agua para llevar a cabo sus
+
+actividades cotidianas, originando cambios físicos, químicos y biológicos en
+
+el agua resultante.
+
+
+En la actualidad la tecnología ha reportado una alternativa para el
+
+tratamiento de aguas residuales con el producto EM (del ingles efficient
+
+microorganisms), basada en la actividad sinérgica de consorcios de
+
+microorganismos eficaces, ha sido reportada como una alternativa para el
+
+tratamiento de aguas contaminadas. EM ha sido aplicado, ya que incrementa
+
+las densidades de microorganismos que pueden utilizar los compuestos
+
+presentes en el agua como fuente de carbono y energía para su
+
+metabolismo y crecimiento, así reduciendo sus concentraciones. Además, al
+
+emplear una mezcla de varios microorganismos, con características
+
+metabólicas diferentes y complementarias entre sí, la cantidad y variedad de
+
+
+
+                                                                          1
+los compuestos que pueden ser degradados será mayor y los procesos a su
+
+vez, serán más eficaces
+
+
+Reportado esta información; en este trabajo nos planteamos a tratar las
+
+aguas residuales domesticas de la ciudad de Puno a nivel de laboratorio con
+
+microorganismos nativos aislados en el Laboratorio de Microbiología de la
+
+Facultad de Medicina Veterinaria y Zootecnia de la Universidad Nacional del
+
+Altiplano   Puno,   considerando   similar   actividad   metabólica   que       los
+
+microorganismos eficientes EM.
+
+
+Por tanto, esta investigación tuvo por objetivo monitorear los índices como
+
+solidos totales en suspensión, pH, DBO, DQO, aceites y grasas, T° y
+
+coliformes termotolerantes, establecidas por el ministerio del ambiente,
+
+decreto supremo Nro 003-2010. Y aplicar tratamientos con microorganismos
+
+nativos en diferentes concentraciones sobre aguas residuales domésticas y
+
+documentar su efecto sobre la calidad de la misma.
+
+
+
+
+                                                                            2
+                      II. REVISIÓN BIBLIOGRÁFICA
+
+
+2.1 MARCO CONCEPTUAL
+
+
+2.1.1 AGUA RESIDUAL
+
+
+El agua residual (AR), es aquella que ha sufrido una alteración en sus
+
+características físicas, químicas o biológicas por la introducción de
+
+contaminantes como residuos sólidos, biológicos, químicos, municipales,
+
+industriales, agrícolas etc., afectando así los ecosistemas acuáticos y su
+
+entorno Las AR provienen del sistema de abastecimiento de una población,
+
+por esta razón son líquidos de composición variada           que    pueden
+
+clasificarse según su origen en aguas residuales domésticas (ARD),
+
+industriales,   de infiltración y pluviales. Las dos primeras son las más
+
+relacionadas con la contaminación del agua (Metcalf y Eddy, 2003; Novotny,
+
+2003; Sánchez, 2003).
+
+
+2.1.2 AGUAS RESIDUALES DOMESTICAS (ARD)
+
+
+Las aguas residuales domésticas (ARD) son aquellas provenientes de las
+
+actividades domésticas cotidianas como lavado de ropa, baño, preparación
+
+de alimentos, limpieza, etc., por lo cual son principalmente una combinación
+
+de heces humanas y animales, orina y agua gris. Estas, presentan un alto
+
+contenido de materia orgánica, compuestos químicos domésticos como
+
+detergentes y compuestos clorados y microorganismos patógenos y          no
+
+patógenos. En ocasiones, el agua generada por varias industrias puede
+
+
+
+
+                                                                          3
+entrar también en esta clasificación si no contiene una gran proporción de
+
+sustancias de síntesis química (Mara y Cairncross, 1990).
+
+
+En lo que se refiere a la composición de compuestos químicos, las
+
+ARD pueden contener varios tipos de proteínas (albúminas, globulinas y
+
+enzimas industriales (detergentes) producto de la actividad microbiana en
+
+la propia ARD; carbohidratos como glucosa, sacarosa, almidón y celulosa y
+
+grasas animales y aceites, provenientes de los alimentos, junto con los
+
+respectivos productos de la degradación de los compuestos mencionados,
+
+así como sales inorgánicas y otros compuestos inertes (Metcalf y Eddy,
+
+2003; Blundi, 1988).
+
+
+2.1.3 CALIDAD DE UN AGUA RESIDUAL DOMÉSTICA
+
+
+La calidad en general de un agua residual, incluyendo el ARD está
+
+determinada por sus características o parámetros físicos,        químicos y
+
+biológicos a partir de los cuales se determina que tan aceptable es un
+
+agua     residual para determinado    uso   (Luv y Lipták, 1999;    Novotny,
+
+2003).
+
+
+2.1.4 TRATAMIENTO DE LAS AGUAS RESIDUALES
+
+
+El tratamiento de las AR se divide en preliminar, primario, secundario y
+
+terciario, indicando así el nivel de remoción de contaminantes que se
+
+alcanza a medida que se pasa de un tratamiento a otro La selección de un
+
+tratamiento para un AR depende de diversos factores como las
+
+características iníciales del agua, el requerimiento   de   la   calidad   del
+
+
+
+                                                                            4
+efluente y los costos y la disponibilidad de un terreno destinado para
+
+tal fin (Orozco y Salazar, 1989; Ramalho, 1983).
+
+
+2.1.5 PARÁMETROS BIOLÓGICOS
+
+
+Estas características se relacionan con los organismos y microorganismos,
+
+en particular, bacterias y virus, entre otros, causantes de enfermedades.
+
+Para poder clasificar las AR de acuerdo a sus características biológicas, se
+
+cuenta con valores establecidos que dependerán de la utilización que se
+
+prevé y los requisitos sanitarios. La gran mayoría de los países determina los
+
+valores permitidos con base en lo estipulado por la Organización Mundial de
+
+La Salud (OMS) adaptándolo a sus circunstancias (Cardona y García, 2008).
+
+
+Para evaluar la calidad biológica de un agua se ha planteado, el uso de
+
+microorganismos indicadores de contaminación fecal, debido a que
+
+presentan un comportamiento similar a los patógenos en cuanto a
+
+concentración, sensibilidad a factores ambientales y barreras artificiales,
+
+además resultan más fáciles, económicos y rápidos de cuantificar. Dentro de
+
+los microorganismos indicadores el más conocido es E. coli, para el grupo de
+
+los coliformes fecales. Los coliformes son el grupo que cuenta con mayores
+
+especificaciones en cuanto a concentraciones en la normatividad nacional
+
+(Decreto supremo D.S.Nro 003-2010 MINAM), aunque en la actualidad, el
+
+uso de bacteriófagos para el mismo fin es igualmente frecuente.
+
+
+
+
+                                                                            5
+2.1.6 PARÁMETROS FÍSICOS.
+
+
+a.- Temperatura
+
+
+La temperatura de las aguas residuales es mayor a la de las aguas no
+
+contaminadas debido a la energía liberada durante las reacciones
+
+bioquímicas que se presentan en la degradación de la materia orgánica
+
+(Jaramillo y Arias, 2001).
+
+
+Es importante conocer la temperatura del cuerpo de agua, ya que este
+
+parámetro puede ayudar a predecir o confirmar otras condiciones del agua;
+
+ya que éste parámetro tiene influencia directa en otros factores de la calidad,
+
+tales como el oxígeno disuelto (OD), la demanda bioquímica de oxígeno
+
+(DBO) y la supervivencia de algunas especies acuáticas.
+
+
+El índice metabólico de las aguas residuales aumenta con la temperatura,
+
+puesto que el metabolismo requiere oxígeno, algunas especies podrían no
+
+sobrevivir si no hay suficiente oxígeno en el agua para satisfacer sus
+
+necesidades. Las bacterias y otros organismos que causan enfermedades,
+
+crecen con mayor rapidez en agua de mayor temperatura (>20°C) (Palao et
+
+al., 2010).
+
+
+b.- Sólidos Suspendidos Totales
+
+
+Es la fracción de sólidos presentes en agua como material no disuelto. En el
+
+laboratorio se distinguen de los disueltos por medio de la filtración. Los
+
+sólidos suspendidos comprenden a los sedimentables, flotantes y no
+
+sedimentables (coloidales). Pueden contener sustancias orgánicas (sólidos
+
+
+                                                                             6
+suspendidos volátiles) o inertes (no volátiles o fijos). La turbidez en el agua
+
+es causada por una gran variedad de sólidos suspendidos, los cuales, según
+
+su tamaño, pueden ser partículas coloidales o dispersiones gruesas,
+
+dependiendo de la turbulencia y de las características ópticas del material
+
+suspendido. Los sólidos suspendidos son de especial significado desde el
+
+punto de vista estético. Las aguas naturales contienen cantidades muy
+
+variables de sólidos suspendidos. Estos materiales pueden ser arcilla, limo,
+
+sílice, materiales orgánicos, microorganismos y lodos. Una cantidad
+
+excesiva de sólidos suspendidos puede ser peligrosa para las formas de
+
+vida acuática por obstrucción de los órganos respiratorios, recubrimiento de
+
+microorganismos en el fondo del acuífero, reducción de la intensidad de la
+
+radiación luminosa y modificación de las cadenas alimentarias. Para fines de
+
+control de la contaminación de efluentes, todas los sólidos suspendidos se
+
+consideran sedimentables debido a que eventualmente (por descomposición
+
+bacteriana o floculación) esos sólidos serán depositados (Metcalf y Eddy,
+
+2003).
+
+
+c.- Potencial de Hidrogeniones (pH)
+
+
+El término pH representa la concentración de iones de hidrógeno en una
+
+solución. En el agua, este factor es de excepcional importancia,
+
+principalmente en los procesos de tratamiento. En la rutina de los
+
+laboratorios de las estaciones de tratamiento él es medido y ajustado
+
+siempre que necesario para mejorar el proceso de coagulación/floculación
+
+del aguay también el control de la desinfección. El valor del pH varía de 0 a
+
+
+
+
+                                                                             7
+14. Bajo 7 el agua es considerada ácida y sobre 7, alcalina. Agua con pH 7
+
+es neutra (Fundación Nacional de Salud, 2013).
+
+
+El pH es la actividad de ion hidrónio H+ expresada en moles por litro. La
+
+concentración de ión hidrógeno inadecuado en un agua residual indica que
+
+es muy difícil su tratamiento por procesos biológicos. El pH se puede
+
+determinar por medio de un pH-metro o potenciómetros, aunque también
+
+puede emplearse papel indicador (Metcalf y Eddy, 2003).
+
+
+2.1.7   PARÁMETROS QUÍMICOS.
+
+
+a.- Demanda Bioquímica de Oxigeno (DBO)
+
+
+La DBO5 es la cantidad medida de oxigeno que requieren microorganismos
+
+aclimatados para degradar biológicamente la materia orgánica del agua. La
+
+DBO5 es el parámetro más importante en el control de la contaminación,
+
+como una base para estimar, este dato se utiliza como una medida de la
+
+contaminación orgánica, como una base para estimar el oxígeno necesario
+
+para los procesos biológicos y como un indicador del rendimiento de los
+
+procesos Existen diversas variantes de la determinación de la demanda
+
+bioquímica de oxígeno y la más frecuente es la determinación de DBO a los
+
+cinco días (DBO) (Glynn y Heinke, 1999).
+
+
+b.- Demanda Química de Oxigeno (DQO)
+
+
+Se define como la cantidad de oxígeno consumido en la oxidación mediante
+
+oxidantes químicos, de los constituyentes orgánicos del agua. El grado de
+
+
+
+
+                                                                        8
+oxidación dependerá, del tipo de sustancias presentes, pH, temperatura,
+
+tiempo de reacción, presencia de catalizador, etc. (Ramos et al., 2003).
+
+
+La medida de la DQO es una estimación de las materias oxidables presentes
+
+en el agua, cualquiera que sea su origen orgánico o mineral (hiero ferroso,
+
+nitritos, amoníaco, sulfuros y cloruros). Es un test particularmente útil para
+
+apreciar el funcionamiento de las estaciones depuradoras, y muchos venidos
+
+industriales. La DQO es función de las características de los compuestos
+
+presentes, de sus proporciones respectivas, de las posibilidades de
+
+oxidación (Seoanez, 1999).
+
+
+c.- Aceites y grasas
+
+
+Son todas aquellas sustancias de naturaleza lipídica, que al ser inmiscibles
+
+con el agua, van a permanecer en la superficie dando lugar a la aparición de
+
+natas y espumas. Estas natas y espumas entorpecen cualquier tipo de
+
+tratamiento físico o químico, por lo que deben eliminarse en los primeros
+
+pasos del tratamiento de un agua residual. Su efecto en los sistemas
+
+de tratamiento de aguas residuales o en las aguas naturales se debe
+
+a que interfieren con el intercambio de gases entre el agua y la
+
+atmósfera. No permiten el libre paso del oxígeno hacia el agua, ni la salida
+
+del CO2 del agua hacia la atmósfera; en casos extremos pueden llegar
+
+a producir la acidificación del agua junto con bajos niveles del oxígeno
+
+disuelto, además de interferir con la penetración de la luz solar (Toapanta,
+
+2006).
+
+
+
+
+                                                                            9
+Las principales fuentes aportadoras de grasas y aceites son los usos
+
+domésticos, talleres automotrices y de motores e industria del petróleo,
+
+rastros, procesadoras de carnes y embutidos e industria cosmética. La
+
+determinación analítica de grasas y aceites no mide una sustancia específica
+
+sino un grupo de sustancias susceptibles de disolverse en hexano,
+
+incluyendo ácidos grasos, jabones, grasas, ceras, hidrocarburos, aceites
+
+y cualquier otras sustancia extractable con hexano (Toapanta, 2006).
+
+
+Cuadro 1: límites máximos permisibles para plantas de tratamientos de
+
+              aguas residuales domesticas o municipales.
+
+
+             PARAMETRO                  UNIDAD      LMP DE EFLUYENTES
+                                                     PARA VERTIDOS A
+                                                    CUERPOS DE AGUAS
+     Aceites y grasas                    mg/L                   20
+     Coliformes Termotolerantes     NMP/100mL                10,000
+     Demanda Bioquímica de               mg/L                  100
+     Oxígeno
+     Demanda química de                  mg/L                  200
+     oxígeno
+     Ph                                 Unidad               6.5 - 8.5
+     Solidos totales en                  mg/L                  150
+     suspensión
+     Temperatura                          °C                   < 35
+   Fuente: D.S.Nro 003-2010 MINAM
+
+2.1.8 MICROORGANISMOS EFICACES (EM) Y SU USO EN AGUAS
+
+      RESIDUALES
+
+Se usa el término “microorganismos eficaces” o en inglés efficient
+
+microorganisms (EM) para      denotar    cultivos   mixtos    específicos de
+
+microorganismos benéficos conocidos que son empleados efectivamente
+
+
+                                                                         10
+como inoculantes microbianos EM es una tecnología desarrollada por el
+
+Doctor Teruo Higa en la década de los ochenta en Okinagua, Japón y ha
+
+sido empleada en diferentes campos como la agricultura, industria animal,
+
+remediación ambiental, entre otros y se encuentra en la actualidad
+
+ampliamente distribuida (Sangkkara, 2002; Higa y Parr, 1994).
+
+EM es un cultivo mixto de microorganismos no modificados genéticamente,
+
+con diversos tipos de metabolismo, que al encontrarse juntos presentan
+
+relaciones sinergistas, de cooperación y cometabolismo. Estudios de las
+
+interacciones    entre los diferentes integrantes de las comunidades
+
+microbianas han demostrado en varias ocasiones una mayor eficiencia
+
+de estos consorcios en los procesos de degradación, frente a estudios
+
+que involucran sólo a un gremio El Dr. Higa encontró que se creaba un
+
+efecto   potencializador   al   mezclar    microorganismos     con   diversas
+
+características metabólicas (Atlas y Bartha, 1998; Higa y Parr, 1994).
+
+
+Los microorganismos del EM poseen varias características útiles en
+
+procesos de biorremediación, entre las cuales se encuentran la fermentación
+
+de materia orgánica sin la liberación de malos olores y su capacidad de
+
+convertir los desechos tóxicos en sustancias no tóxicas (García, 2006),
+
+propiedades desionizantes que favorecen la detoxificación de sustancias
+
+peligrosas, quelación de metales pesados, producción de enzimas como
+
+la lignina peroxidasa, entre otras (Wididana y Higa, 1997).
+
+
+Aunque EM ha sido usado exitosamente en muchos aspectos de manejo
+
+ambiental, no existen muchos reportes científicos de su uso en aguas
+
+
+
+                                                                          11
+residuales, razón por la cual EM ha sido empleado para el tratamiento de
+
+aguas residuales es que los microorganismos que contiene secretan ácidos
+
+orgánicos, enzimas, antioxidantes y quelantes metálicos creando un
+
+ambiente antioxidante que ayude al proceso de separación sólido/líquido, el
+
+cual es el fundamento de la limpieza del agua (Higa y Chinen 1998; Okuda e
+
+Higa, 2005).
+
+
+2.1.9     MICROORGANISMOS NATIVOS DESCOMPONEDORES DE
+
+          MATERIA ORGANICA
+
+
+Se mencionan diferentes microorganismos descomponendores de materia
+
+orgánica, entre los que podemos citar: Pseudomona fluorescens, aspergillus
+
+spp,      Bacillus   subtilis,   Lactobacillus,   Sacharomyces   spp,   familia
+
+Rhodospirillaceae, Trichoderma spp.           y entre otros, de los cuales
+
+describimos, los que se han hallado y se utilizaron en el presente trabajo de
+
+investigación.
+
+
+2.1.9.1          Aspergillus spp
+
+
+Una de las especies de hongos filamentosos más comunes es el género
+
+Aspergillus. Es un hongo filamentoso del grupo Deuteromycetes u hongos
+
+Imperfectos, se caracteriza por unas estructuras esporíferas o reproductoras
+
+llamadas conidias. El Aspergillus es un hongo ampliamente difundido en la
+
+naturaleza ya que se llega a desarrollar en vegetales en descomposición,
+
+granos de cereal, tejidos de algodón y, lana y plumas; su medio es un
+
+ambiente oscuro, húmedo y cerrado. Es posible encontrar esporas de
+
+Aspergillus en los depósitos de cereal, en los edificios en obras, en los
+
+
+                                                                            12
+aparatos de aire acondicionado y en los alimentos enmohecidos. Las
+
+esporas de este hongo pueden sobrevivir en condiciones adecuadas,
+
+durante miles de años; se han encontrado esporas de A. niger y A. flavus en
+
+la comida, ropas, flores y otros objetos de las tumbas de los faraones del
+
+antiguo Egipto. También había una notable presencia de ambas especies en
+
+los restos del rey Casimiro de Polonia y en la momia y el sarcófago de
+
+Ramses II. Se conocen unas 900 especies del género Aspergillus. Rapper y
+
+Fennell los clasifican en 18 grupos; basándose en su aspecto macroscópico
+
+y en las características morfológicas de los conidióforos, siendo de éste las
+
+especies más importantes: Aspergillus fumigatus (85%), A. flavus (5-10%) y
+
+A. niger (2-3%).
+
+
+Al comienzo de su crecimiento Aspergillus niger forma colonias miceliales
+
+lanosas blancas o amarillentas; a medida que éste se desarrolla la superficie
+
+micelar se va cubriendo de diámetro, éstas se encuentran cargadas de
+
+esporas negras. Este hongo es un importante agente productor de ácidos
+
+orgánicos, principalmente glucónico, cítrico y oxálico; también es utilizado
+
+para la obtención de enzimas como la glucoamilasa y del 1-α-galactosidasa,
+
+por lo que es ampliamente cultivado para la producción industrial de estos
+
+compuestos químicos (Palao et al., 2010).
+
+
+2.1.9.2       Lactobacillus
+
+
+Dentro de los microorganismos que conforman el multicultivo EM los más
+
+abundantes son      las   bacterias ácido lácticas. Estos   microorganismos
+
+producen    ácido   láctico a partir de     azúcares y otros   carbohidratos
+
+
+
+                                                                          13
+generados por bacterias fotosintéticas y levaduras, como parte de su
+
+metabolismo. El ácido láctico es un componente con propiedades
+
+bactericidas que puede suprimir a los microorganismos patógenos, mientras
+
+ayuda a la descomposición de la materia orgánica, incluso en el caso de
+
+compuestos recalcitrantes como la lignina o la celulosa, ayudando a evitar
+
+los efectos negativos de la materia orgánica que no puede ser
+
+descompuesta (Sustainable Community Development, 2001).
+
+
+No se tiene gran información precisa acerca de la forma en la cual actúan las
+
+bacterias acido lácticas en el tratamiento de las aguas contaminadas, pero
+
+teniendo en cuenta sus características, se plantea que al disminuir el pH se
+
+genera una inhibición de patógenos Sin embargo, no sólo el ácido láctico es
+
+responsable de los efectos antimicrobianos generados por los lactobacilos.
+
+En el estudio realizado por Kelly et al. (1998), se determinó que parte del
+
+comportamiento antagónico frente a patógenos del ácido láctico se debía a
+
+la producción de péptidos antimicrobianos y compuestos de bajo peso
+
+molecular, como la bacteriosina clase I, y la nisina, péptido de 34 carbonos
+
+que es activo frente a la mayoría de las bacterias Gram positivas (Early,
+
+1998).
+
+
+En lo que se refiere a los requerimientos de crecimiento para el grupo
+
+de las bacterias ácido lácticas, se encuentran como generalidades que
+
+estas son bacterias microaerofílicas, razón por la que debe procurarse
+
+que la incubación se realice en una atmósfera con 5% de CO2. Por lo
+
+general, para su crecimiento se emplean un incubación de 3 días, a 37°C
+
+
+
+
+                                                                          14
+o   hasta     5    días   a   30°C,   puesto   que   son   microorganismos    de
+
+crecimiento       relativamente   lento   y    sus   rendimientos   metabólicos
+
+dependen de la temperatura directamente (Merck, 2003).
+
+
+2.1.9.3           Saccharomyces cerevisiae
+
+
+S. cerevisiae pertenece al grupo de las levaduras; estos son organismos
+
+eucarióticos unicelulares y por lo tanto sus estructuras se encuentran
+
+formadas por pared celular, núcleo diferenciado y organelos como ribosomas
+
+y mitocondrias. La formación de una cápsula de polisacáridos, la ausencia o
+
+presencia de vacuolas y el desarrollo de las mitocondrias dependen de las
+
+condiciones fisicoquímicas y de la edad del cultivo (Tuite y Oliver, 1991).
+
+
+Taxonómicamente, tienen las siguientes características:
+
+
+Reino : Fungi
+
+División : Amastogomycota
+
+Clase : Ascomycetes
+
+Subclase : Hemiascomycetidae
+
+Orden : Endomycetales
+
+Familia : Saccharomycetaceae
+
+Subfamilia : Saccharomycetaidae
+
+Género : Saccharomyces
+
+Especie : S. cerevisiae
+
+Fuente: (Carballo, 2000).
+
+
+                                                                              15
+Como un microorganismo perteneciente al grupo de las levaduras, comparte
+con ellas las siguientes características:
+
+Dimensiones (micras) 4- 8
+
+Tiempo de duplicación (horas) 1– 3
+
+pH (rango óptimo) 4,5-5,5
+
+Nitrógeno (%) 7,5– 8,5
+
+Proteína (%) 35– 45
+
+Ácidos Nucleicos (%) 6– 12
+
+Carbohidratos (%) 30– 45
+
+Fuente: (Ospina y Palacios, 1994).
+
+Reproducción: S. cerevisiae      se divide por gemación y puede tener una
+
+reproducción asexual cuando se encuentra en su forma haploide y de
+
+manera sexual cuando, a partir de un cigoto, se forma un asca que contiene
+
+cuatro ascosporas haploides (característica de especie). El apareamiento
+
+sexual de las levaduras sólo puede ocurrir entre células haploides de distinto
+
+sexo. Se definen por tanto dos tipos sexuales: a y α (alfa). La determinación
+
+sexual se debe a la diferencia en un único locus, conocido como MAT que
+
+gobierna el comportamiento sexual entre células haploides y diploides. En la
+
+división por gemación las células hijas son de tamaño inferior al de las
+
+células madre. Metabolismo: S. cerevisiae realiza fermentación alcohólica,
+
+en la cual el etanol es formado a partir de la D-glucosa; éste azúcares
+
+convertido en piruvato por la vía de Embden Meyerhof Parnas (glucólisis). El
+
+piruvato producido durante la glucólisis es descarboxilado a acetaldehído por
+
+
+                                                                           16
+la piruvato descarboxilasa, después el acetaldehído es reducido a etanol por
+
+alcohol deshidrogenada (Fajardo y Sarmiento, 2007).
+
+
+2.1.9.4        Bacillus subtilis
+
+
+El Bacillus subtilis es una bacterias Gram positiva, aerobio facultativo,
+
+comúnmente encontrada en el suelo. Miembro del género Bacillus, el B.
+
+subtilis tiene la habilidad para formar una resistente endospora protectora,
+
+permitiendo al organismo tolerar condiciones ambientalmente extremas, otro
+
+de los elementos que caracteriza a los Bacillus sp. es la producción de
+
+enzimas hidrolíticas que ayudan a mejorar la utilización de los alimentos.
+
+Dentro de estas se encuentran las proteasas, amilasas y las glicosidasas
+
+que descomponen las complejas moléculas de los alimentos y las
+
+transforman en nutrientes más simples. Estos compuestos son absorbidos
+
+más rápidamente por el animal o pueden ser empleados por otras bacterias
+
+beneficiosas    para   el   establecimiento   de   una   microbiota   intestinal
+
+balanceada. El empleo de las bacterias del género Bacillus y sus
+
+endosporas también viene dado por su capacidad de producción de
+
+enzimas, estas además de mejorar la digestión en el hospedero, son
+
+capaces de inhibir el crecimiento microbiano de bacterias dañinas (Lastras
+
+2009; Milian 2005)
+
+
+2.2 ANTECEDENTES
+
+
+Trabajos realizados en la Universidad EARTH en la estabilización de lodos
+
+sépticos producidos en la misma entidad. Para cumplir con su objetivo,
+
+utilizaron Microorganismos Eficaces (EM). Para determinar su eficacia en la
+
+
+                                                                             17
+estabilización de los lodos sépticos realizaron dos tratamientos, 0 % de EM y
+
+10 % (v/v) EM, de los cuales se hicieron dos repeticiones en tanques
+
+anaeróbicos con 1 m3 de lodos sépticos cada uno. Los resultados revelaron
+
+una diferencia, desde la segunda semana, entre el tratamiento de 0 % EM y
+
+10% EM. Los principales indicadores que favorecen al tratamiento 10 % EM
+
+son: reducción casi total de coliformes totales y fecales, cambio de un olor
+
+muy fuerte y putrefacto a un olor fuerte de fermentación, reducción de la
+
+Demanda Bioquímica de Oxígeno (DBO5), reducción del contenido de
+
+nitratos y reducción del pH. Estos resultados reflejan la eficacia del 10% EM
+
+en la estabilización de los lodos sépticos para su uso agrícola (Fioravanti et
+
+al., 2005).
+
+
+(Cardona y García, (2008) realizaron trabajos de evaluación del efecto de los
+
+microorganismos eficaces (EM®) sobre la calidad de un agua residual
+
+doméstica en la cual tuvo como objetivo monitorear algunos de los cambios
+
+fisicoquímicos y microbiológicos que se presentaron en un ARD tras aplicar
+
+3 diferentes concentraciones de EM®. Para este fin se evaluaron tres dosis
+
+de EM® (1/10000, 1/5000 y 1/3000 v/v), y a dos profundidades establecidas
+
+de (20 y 40 cm), las muestras se tomaron a los 0, 10, 30 y 45 días
+
+analizando parámetros físicoquímicos (OD, pH, T, DQO, DBO5, ST, NO3-,
+
+NO2-, NH4+, PO4-3, SO4-2 y S2-) y microbiológicos (coliformes totales y
+
+fecales, heterótrofos totales, levaduras, lactobacilos y bacterias fotróficas).
+
+Bajo las condiciones del estudio, los resultados no mostraron diferencias
+
+significativas entre las profundidades evaluadas, de igual forma no se
+
+observaron diferencias significativas entre el control y los tratamientos para
+
+
+                                                                            18
+la mayoría de los parámetros, a excepción de la disminución significativa de
+
+S2- (30 y 45 d) y coliformes fecales (10 d), así como recuentos
+
+significativamente mayores en levaduras y mayor DBO5 (30 y 45 d) en los
+
+tratamientos.
+
+
+.
+
+
+
+
+                                                                         19
+                          III. MATERIALES Y MÉTODOS
+
+
+3.1.   ÁMBITO DE ESTUDIO
+
+
+El presente trabajo de investigación fue realizado en la Universidad Nacional
+
+del Altiplano Puno, las muestras se procesaron en el Laboratorio de
+
+Microbiología de la Facultad de Medicina Veterinaria y Zootecnia, y en el
+
+Laboratorio de Aguas y Suelos de la Facultad de Ciencias Agrarias, ambos
+
+situados en la Ciudad Universitaria, PUNO, que se encuentra a una altitud
+
+de 3827msnm a 15° 01’ 18’’ de longitud oeste (SENAMHI, 2009).
+
+
+3.2.   MATERIAL EXPERIMENTAL
+
+
+Para este trabajo de investigación se ha utilizado aguas residuales de la
+
+ciudad de Puno, colectados de los ductos antes del ingreso a la laguna de
+
+oxidación sin previo tratamiento alguno, la cual se han distribuido en 7 cubos
+
+de vidrio, en las cuales se han depositado 5L de agua residual en cada una
+
+de ellas, se agrupó en tres tratamientos, cada uno tuvo dos unidades de
+
+estudio y cada tratamiento con 3 repeticiones (dosis de microorganismos), y
+
+uno quedó como testigo(sin adición de microorganismos).
+
+
+        G
+        r
+          TRATAMIENTO 1    TRATAMIENTO 2   TRATAMIENTO 3       TESTIGO
+        á
+        f
+        i
+        c
+        o
+
+        0
+        1
+        :
+          esquema de distribución de las unidades de estudio
+
+
+                                                                           20
+3.3.   METODOLOGÍA
+
+
+3.3.1 PRODUCCIÓN DE MICROORGANISMOS
+
+
+Como sustrato para los microorganismos se utilizó la melaza, esta se
+
+preparó al 5%, luego se esterilizó en autoclave a 121°C por 15 minutos a
+
+una presión de 21 libras, en el preparado se realizó el sembrado de los
+
+microorganismos a partir de cultivos ya aislados en el laboratorio, y ésta se
+
+incubó en estufa por 7 días a una temperatura constante de 37°C, pasado
+
+los 7 días en la estufa se evaluó el estado viable y la multiplicación de los
+
+microorganismos, para ello se hizo la coloración de Gram, en la cual se
+
+observó la gran cantidad de estos, de esta manera pudiendo confirmar la
+
+presencia de microorganismos y el estado viable de los mismos.
+
+
+Del preparado anterior se realizó la siembra en volúmenes más grandes en
+
+solución de melaza al 5%, por el mismo tiempo y temperatura de incubación
+
+en la estufa.
+
+
+3.3.2 APLICACIÓN DE MICROORGANISMOS EN AGUAS RESIDUALES
+
+
+Al inicio del estudio (día 0) se realizó la adición de microorganismos con una
+
+proporción de 1:1000 v/v (dosis de choque), a todos los tratamientos y se
+
+homogenizó manualmente con una espátula, la dosis de choque se adicionó
+
+con la finalidad de poblar o incrementar la gran cantidad de microorganismos
+
+sobre las aguas residuales, las cuales puedan mantener la población de
+
+microorganismos hasta la próxima adición. Las aplicaciones de los
+
+microorganismos posteriores, correspondientes a los días 10 y 30 a partir del
+
+
+
+                                                                           21
+inicio del estudio se realizaron de igual manera pero empleando la
+
+concentración de microorganismos específico para cada tratamiento,
+
+volúmenes de 1:1000, 1:5000, 1:10000 para cada tratamiento, el cual se
+
+detalla en el siguiente cuadro.
+
+
+
+                    días                      días                      días
+                0    10 30                0   10 30                 0   10 30
+
+
+
+
+                                                                    1:10000
+                                                                              1:10000
+                                          1:1000
+                                          1:5000
+                                                   1:5000
+
+
+
+
+                                                                    1:1000
+                1:1000
+                1:1000
+                         1:1000
+
+
+        dosis                     dosis                     dosis
+
+
+
+
+            TRATAMIENTO 1           TRATAMIENTO 2              TRATAMIENTO 3
+
+
+
+
+ Gráfico 02: esquema de dosificación y repeticiones en las unidades de
+
+ estudio
+
+
+3.3.3    TOMA DE MUESTRAS
+
+
+Los muestreos se efectuaron a los 0, 10, 30 y 45 días, colectando un total de
+
+22 muestras. En cada uno de ellos se tomó 0.5 L de agua en recipientes de
+
+botellas de plástico, previo enjuague con el agua en estudio, durante el
+
+estudio se tomó las muestras previo homogenizado. Los muestreos
+
+correspondientes al día 0, 10 y 30 coincidían con los eventos de aplicación
+
+de las dosis de microorganismos, las muestras se tomaron antes de agregar
+
+las respectivas dosis, los cuales se detallan en el siguiente cuadro.
+
+
+
+
+                                                                                        22
+                               Día 0      Día 10        Día 30   Día 45
+              Testigo                        X            x        x
+         Dosis 1:1000                        X            x        x
+                                X            X            x        x
+         Dosis 1:5000                        X            x        x
+                                             X            x        x
+        Dosis 1: 10000                       X            x        x
+                                             X            x        x
+
+
+Para el análisis estadístico se analizaron los promedios de los 2 cubos de
+
+cada tratamiento y cada dosis, a excepción del testigo donde se consideró
+
+solo los datos de obtenidos en los diferentes periodos, de esta forma
+
+obteniéndose un total de 12 datos a procesar, de las cuales n, según dosis
+
+fue de 3 tanto para testigo, dosis de 1:1000, 1:5000 y 1:10000, y n según
+
+periodo de evaluación fue de 4 para los días 10, 30 y 45.
+
+
+3.3.4 REALIZACIÓN DE LOS ANÁLISIS PARA LOS PARÁMETROS
+
+      FISICOQUÍMICOS Y MICROBIOLÓGICOS
+
+
+3.3.4.1 . DETERMINACIÓN DEL NMP DE COLIFORMES
+
+             TERMOTOLERANTES
+
+
+Para determinar los coliformes termotolerantes en las muestras se realizó
+
+mediante la técnica de fermentación en tubos múltiples (Método de tubos
+
+múltiples de 3 tubos.) en la cual los resultados del estudio de los tubos y
+
+diluciones    se   comunican    en     términos    de   número   más   probable
+
+(NMP/100mL) de microorganismos existentes (número equivalente a la
+
+densidad media de coliformes en la muestra). En la cual la densidad
+
+
+                                                                            23
+bacteriana se calcula por medio de los códigos generados en los resultados
+
+del análisis presuntivo y por medio de la tabla de número más probable de
+
+coliformes por 100mL, y según las diluciones realizadas en el estudio.
+
+
+MATERIALES
+
+
+MEDIOS DE CULTIVO
+
+
+    Medio de cultivo caldo lactosado
+
+    Medio de cultivo EMB
+
+    Medio de cultivo agar Mac Conkey
+
+
+INSTRUMENTAL
+
+
+    Estufa
+
+    Autoclave
+
+    Microscopio
+
+    Balanza analítica
+
+
+OTROS
+
+
+    Erlenmeyer de 250 mL
+
+    Tubos de ensayo
+
+    Campanas de Durhan
+
+    Mechero bunsen
+
+    Muestra de aguas
+
+    Pipetas
+
+    Placas petri
+
+
+
+
+                                                                         24
+a. ANALISIS PRESUNTIVO
+
+
+PROCEDIMENTO
+
+
+Para realizar el análisis presuntivo se utilizó como medio de cultivo el caldo
+
+lactosado la cual se preparó según la dosis del medio 13g por litro, tres
+
+tubos de doble concentración y seis tubos de simple concentración para una
+
+muestra, las cuales se llevaron al autoclave por quince minutos a una
+
+presión 15 libras y 121°C de temperatura.
+
+
+Para realizar el sembrado se colectó 5mL de muestra las cuales se diluyeron
+
+en agua estéril de 45mL, para las primeras muestras se realizaron 4
+
+diluciones las posteriores 2,1 y sin dilución las ultimas muestras, (las cuales
+
+se detallan en anexo, cuadro Nro 08) de las diluciones realizadas se
+
+sembraron 10mL en los tres tubos de doble concentración, 1mL en los tres
+
+tubos de simple concentración y 0.1mL en los tres tubos sobrantes de simple
+
+concentración, todos ellos se llevó a estufa de 44.5°C por 24 a 48 horas. Los
+
+resultados   se   calcularon   según   la   tabla   de   NMP   de   coliformes
+
+termotolerantes o coliformes fecales (anexo cuadro Nro 09) y numero de
+
+diluciones realizadas según para cada muestra (Pelczar y Reid, 1978).
+
+
+b. ANALISIS CONFIRMATIVO
+
+
+PROCEDIMENTO
+
+
+En esta fase se confirmó la presencia o ausencia de coliformes
+
+termotolerantes o coliformes fecales, mediante el Agar Levine ó EMB
+
+(Eosina azul de metileno) la cual se preparó según las instrucciones de
+
+
+                                                                            25
+medio 39g por 1 litro de agua destilada. En este medio se hizo la siembra de
+
+todos aquellos tubos que produjeron gas en el análisis presuntivo, una vez
+
+sembrado se llevó a estufa a una temperatura de 37°C por 24 horas. Método
+
+adoptado de (Pelczar y Reid, 1978).
+
+
+Los resultados obtenidos en la tabla del MNP se multiplicaron por las
+
+diluciones, para obtener las cantidades de coliformes termotolerantes o
+
+totales por 100mL.
+
+
+DETERMINACIÓN DE LOS ANÁLISIS FÍSICO QUÍMICOS
+
+
+La determinación de los análisis físicos químicos fue solicitado y realizado en
+
+el laboratorio de aguas y suelos de la facultad de ciencias agrarias de la
+
+Universidad Nacional del Altiplano Puno, el procedimiento para los diferentes
+
+índices fisicoquímicos se detalla en anexos.
+
+
+3.4.   MÉTODO ESTADÍSTICO
+
+
+Las informaciones (datos) obtenidas sobre las variables estudiadas han sido
+
+analizados mediante Diseño Bloque Completamente al Azar, donde los
+
+tratamientos fueron tres dosis de microorganismos como: Aspergillus spp,
+
+Lactobacillus, Saccharomyces cerevisiae y Bacillus subtilis y un testigo, y el
+
+bloque fue número de periodos por tratamiento; cuyo modelo aditivo lineal es
+
+el siguiente:
+
+
+                            Yijk = µ + Di + Bj + Eijk
+
+
+Donde:
+
+
+
+                                                                            26
+Yij = Variable de respuesta (SST, PH, DBO, DQO, aceites y grasas,
+
+     Temperatura y Coliformes termotolerantes)
+
+
+     µ = Media poblacional.
+
+
+     Di= Efecto de la i–ésima dosis de microorganismos (1, 2, 3 y 4).
+
+
+     Bj = Efecto de la j-ésima periodo (1, 2 y 3)
+
+
+     Eij = Efecto del error no controlable.
+
+
+Los resultados de cada uno de los cuadros fueron interpretados a través de
+
+estadísticos de medidas de tendencia central y medidas de dispersión como
+
+valores extremos.
+
+
+El contraste de promedios estadísticos de las variables en estudio fue
+
+analizado empleando la Prueba Múltiple de Significación de Duncan con un
+
+nivel de significación al 0.05.
+
+
+
+
+                                                                        27
+                     IV. RESULTADOS Y DISCUSIONES
+
+
+4.1.    SOLIDOS TOTALES EN SUSPENSION (STS)
+
+Los resultados de la determinación de sólidos totales en suspensión de
+
+aguas residuales de la ciudad de Puno, se muestran en la tabla 1, del anexo,
+
+donde observamos que no existen diferencias significativas en la variación
+
+de sólidos totales en suspensión (STS) de aguas residuales de la ciudad de
+
+Puno, por el efecto de diferentes dosis de microorganismos nativos, ni por
+
+efecto de periodo de evaluación (P≥0.05), lo cual se detalla en el siguiente
+
+cuadro:
+
+
+CUADRO 2: ESTADISTICOS PARA SOLIDOS TOTALES EN SUSPENSION
+             (STS)     EN   AGUAS      RESIDUALES       TRATADAS        CON
+             MICROORGANISMOS NATIVOS
+
+
+        Estadísticos                  Promedios
+                                       (mg/L de
+          Dosis de            n                       Valores extremos
+                                        agua)
+       microrganismos
+           Testigo            3          97.93            95.8 – 99.7
+           1:1000             3          99.80            99.8 – 99.9
+           1:5000             3          98.10          94.75 – 99.85
+          1:10000             3          99.70            99.6 – 99.8
+
+
+
+GRAFICO 3: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+               SOLIDOS TOTALES EN SUSPENSION (STS)
+
+
+
+
+                                                                         28
+En el cuadro 2 y el gráfico 3 observamos estadísticos para la variable sólidos
+
+totales en suspensión (STS) por efecto de tratamiento con diferentes dosis
+
+de   microorganismos     nativos   como:    Aspergillus   spp,   Lactobacillus,
+
+Saccharomyces cerevisiae y Bacillus subtilis; en donde mostraron 97.93,
+
+99.8, 98.10 y 99.70 mg de solidos totales en suspensión (STS)/L en agua
+
+residual, para las diferentes dosis; (testigo sin adición de microorganismos),
+
+1:1000, 1:5000 y 1:10000, respectivamente, (P≥0.05). Esta similitud entre el
+
+testigo y los tratamientos se le atribuye porque en el estudio, al parecer
+
+influyó la temporada de lluvias por que las muestras tomadas para el estudio
+
+fueron diluidas por el ingreso de gran cantidad de aguas pluviales a las
+
+ductos colectores de aguas residuales en gran parte procedentes de las
+
+arterias de la ciudad de Puno. Otro factor que pudo influir en el estudio fue la
+
+adición de aguas residuales con previo tratamiento de dosis de choque, a los
+
+cubos con aguas residuales en estudio, debido al evaporamiento del agua
+
+residual que era muy rápido, a los cuales se adicionó las aguas. Como
+
+consecuencia pudiendo estas mantener la concentración de solidos totales
+
+en suspensión, tanto en el testigo y los tratamientos.
+
+
+
+
+                                                                             29
+Estos valores comparados con los límites máximos permisibles del Decreto
+
+supremo Nro 003-2010 MINAM del ministerio del ambiente, son inferiores,
+
+dado que el límite máximo es de 150mg/L de solidos totales en suspensión,
+
+pero en el estudio realizado se obtuvo valores de 97.93, 99.8, 98.10 y 99.70
+
+mg/L, para (testigo sin adición de microorganismos), 1:1000, 1:5000 y
+
+1:10000, respectivamente.
+
+
+4.2.   POTENCIAL DE HIDROGENIONES (pH).
+
+Los resultados de la determinación del potencial de hidrogeniones en aguas
+
+residuales de la ciudad de Puno, se muestran en la tabla 2 del anexo; en el
+
+cual no se evidenció diferencias significativas en la variación del PH en
+
+aguas residuales de la ciudad de Puno, por el efecto del tratamiento con
+
+diferentes dosis de microorganismos nativos, ni por periodo de evaluación
+
+(P≥0.05); lo cual se detalla en el siguiente cuadro:
+
+
+CUADRO 3: ESTADISTICOS PARA pH EN AGUAS RESIDUALES
+
+             TRATADAS CON MICROORGANISMOS NATIVOS
+
+
+        Estadísticos                       Promedios
+          Dosis de                N                         Valores
+       microrganismos                                      extremos
+           Testigo                3             7.4        7.20 – 7.60
+           1:1000                 3             7.8        7.10 – 8.10
+           1:5000                 3             7.9        7.15 – 8.55
+          1:10000                 3             8.0        7.20 – 8.55
+
+
+
+
+                                                                         30
+GRAFICO 4: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+               SOLIDOS TOTALES EN SUSPENSION (STS) SEGÚN
+               DOSIS DE MICROORGANISMOS.
+
+
+
+
+En el cuadro y gráfico precedente se presenta estadísticos para la variable
+
+pH por efecto de diferentes dosis de microorganismos nativos como:
+
+Aspergillus spp, Lactobacillus, Saccharomyces cerevisiae y Bacillus subtilis;
+
+en donde mostraron 7.4, 7.8, 7.9 y 8.0 de pH en agua residual tratadas con
+
+diferentes dosis; (testigo sin adición de microorganismos), 1:1000, 1:5000 y
+
+1:10000, respectivamente (P≥0.05). Se puede observar que el testigo tiene
+
+un pH casi neutro mientras que los tratamientos tienden a subir hacia lo
+
+alcalino, llegando hasta un pH de 8.0 el tratamiento de 1:10000. Pero sin
+
+embargo tras las dosificaciones en los diferentes periodos no ha mostrado
+
+diferencia significativa alguno entre los tratamientos y el testigo, sin embargo
+
+como se observa tanto el testigo y los tratamientos tienden a subir, aunque
+
+no es significativo estadísticamente, esto se debería a la presencia de sales
+
+minerales disueltas, incluyendo sulfatos, carbonatos y bicarbonatos que
+
+
+
+
+                                                                             31
+gracias a la presencia de estos compuestos el pH tiende a subir (Sawyer et
+
+al., 2000).
+
+
+Estos valores comparados con los límites máximos permisibles del Decreto
+
+supremo Nro 003-2010 MINAM del ministerio del ambiente, se encuentran
+
+dentro del rango establecido que es de 6.5 a 8.5; La tendencia hacia lo
+
+alcalino del pH obtenido en este estudio, no coincidió con lo reportado a
+
+diferencia de los establecido por (Fioravanti et al., 2005), quien evaluó EM®
+
+como estabilizador de AR y lodos sépticos y en cuyo trabajo se presentó una
+
+disminución en el pH de 6.3 a 4.5, eliminando el 99% de los coliformes
+
+fecales y totales, mientras que en nuestro trabajo la eliminación de
+
+coliformes termotolerantes se atribuye al efecto antimicrobiano producido por
+
+los microroganismos adicionados, en tanto que (Cardona y García, 2008)
+
+registraron un promedio de 7.6 ± 0.11 a 6.9 ± 0.17 en aguas residuales
+
+tratadas con EM, donde tampoco hubo significancia en este parámetro con
+
+respecto al testigo; por tanto nuestros resultados obtenidos en nuestro
+
+estudio indica que no hubo significancia o efecto alguno sobre las aguas
+
+residuales tras la adición de diferentes dosis de microorganismos nativos, y
+
+tampoco en los diferentes periodos.
+
+
+4.3.   DEMANDA BIOQUIMICA DE OXIGENO
+
+Los resultados de la determinación de la demanda bioquímica de oxigeno
+
+se muestran en la tabla 3 del anexo; en donde no mostró diferencias
+
+significativas en aguas residuales de la ciudad de Puno, por el efecto del
+
+tratamiento con diferentes dosis de microorganismos nativos y asimismo por
+
+
+
+
+                                                                          32
+efecto del periodo de evaluación (P≥0.05); lo cual detallamos en el siguiente
+
+cuadro:
+
+
+CUADRO 4: ESTADISTICOS PARA DEMANDA BIOQUIMICA DE OXIGENO
+           (DBO)       EN    AGUAS      RESIDUALES       TRATADAS       CON
+           MICROORGANISMOS NATIVOS.
+
+
+       Estadísticos                      Promedios
+                                          (mg/L de
+        Dosis de               N                         Valores extremos
+                                           agua)
+     microrganismos
+          Testigo              3           440.30         366.80 – 523.40
+          1:1000               3           658.75         373.90 – 836.85
+          1:5000               3           417.50         267.05 – 623.22
+          1:10000              3           533.60         160.83 – 870.85
+
+
+
+
+GRAFICO 5: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+              DEMANDA BIOQUIMICA DE OXIGENO (DBO) SEGÚN
+              DOSIS DE MICROORGANISMOS.
+
+
+
+
+                                                                            33
+En el cuadro 4 y el grafico 5, se muestra estadísticos para la variable
+
+demanda bioquímica de oxígeno (DBO) por efecto de diferentes dosis de
+
+microorganismos     nativos    como:     Aspergillus    spp,    Lactobacillus,
+
+Saccharomyces cerevisiae y Bacillus subtilis; en donde mostraron 440.30,
+
+658.75, 417.50 y 533.60 mg/L de agua para la dosis; (testigo sin adición de
+
+microorganismos), 1:1000, 1:5000 y 1:10000, respectivamente (P≥0.05);
+
+cómo podemos observar la DBO tiende a incrementar a medida que se
+
+aumenta las dosis de microrganismos en los diferentes tratamientos con
+
+respecto al testigo, esto se atribuye a que por consecuencia del
+
+evaporamiento
+
+
+se incrementaba agua con previo tratamiento con dosis de choque, la cual
+
+incrementó la DBO sabiendo que esta es una medida indirecta de la
+
+concentración de materia orgánica biodegradable .
+
+
+Estos valores contrastados con el decreto supremo Nro 003 – 2010 MINAM
+
+del ministerio del ambiente, que establece como límite máximo permisible
+
+para efluentes de aguas residuales municipales posterior a su tratamiento de
+
+100mg de DBO/L, en nuestro trabajo realizado los datos registrados son
+
+superiores a lo establecido por la MINAM, los cuales se detallan en el grafico
+
+anterior, (Cardona y García, 2008) también realizaron trabajos de
+
+tratamiento con EM en aguas residuales a una dosis de 1:3000, 1:5000 y
+
+1:10000, en las cuales los resultados tampoco fueron diferentes, las
+
+unidades de estudio con respecto al control, llegándose de esta forma a
+
+concretar   algunas diferencias no significativas, en nuestro estudio el
+
+
+
+
+                                                                           34
+incremento de la DBO se le atribuye al incremento de aguas residuales con
+
+dosis de choque para contrarrestar la evaporación. Resultados similares a
+
+los obtenidos, han sido reportados por (Shelton,1991), en donde se observó
+
+un incremento de la DBO5, debido a la adición de EM®, por la gran cantidad
+
+de carbohidratos que contiene el medio de mantenimiento de EM®.
+
+
+4.4.    PARA DEMANDA QUIMICA DE OXIGENO
+
+Los resultados de la determinación de la demanda química de oxígeno, se
+
+muestran en la 4 del anexo, en el cual observamos que no se encontró
+
+diferencias significativas en la variación de la demanda química de oxígeno
+
+(DQO) en aguas residuales de la ciudad de puno, por el efecto del
+
+tratamiento con diferentes dosis de microorganismos nativos, ni por efecto
+
+del periodo de evaluación (P≥0.05); lo cual indica que, no influyó en la
+
+variación de los tratamientos con respecto al testigo, lo cual se detalla en el
+
+cuadro siguiente:
+
+
+CUADRO 5: ESTADISTICOS PARA DEMANDA QUIMICA DE OXIGENO
+
+              (DQO)     EN   AGUAS      RESIDUALES        TRATADAS        CON
+
+              MICROORGANISMOS NATIVOS.
+
+
+        Estadísticos                     Promedios
+                                       (mg/L de agua)
+          Dosis de             n                               Valores
+       microrganismos                                         extremos
+           Testigo             3            475.30            340 – 556
+           1:1000              3           1585.30           656 – 2220
+           1:5000              3           1200.00           600 – 1400
+          1:10000              3           1073.30           360 – 1580
+
+
+
+
+                                                                            35
+GRAFICO 6: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+
+              DEMANDA QUÍMICA DE OXIGENO (DQO) SEGÚN DOSIS
+
+              DE MICROORGANISMOS.
+
+
+
+
+En el cuadro 5 y grafico 6, observamos que la variable demanda química de
+
+oxígeno (DQO) por efecto de diferentes dosis de microorganismos nativos
+
+como: Aspergillus spp, Lactobacillus, Saccharomyces cerevisiae y Bacillus
+
+subtilis; en el cual encontramos 475.30, 1585.30, 1200.00 y 1073.30 mg de
+
+DQO/L    de   agua   residual   para   la   dosis;   (testigo   sin   adición   de
+
+microorganismos), 1:1000, 1:5000 y 1:10000, respectivamente (P≥0.05); lo
+
+cual se puede observar que          la DQO tiende a incrementar en los
+
+tratamientos con respecto al testigo, esto se atribuye a que por
+
+consecuencia del evaporamiento se incrementaba agua previo tratamiento
+
+con dosis de choque, la cual al parecer incrementó la DQO sabiendo que
+
+esta es una medida indirecta de la cantidad de oxigeno que se utiliza para
+
+oxidar la materia orgánica y parte de la materia inorgánica.
+
+
+
+
+                                                                                36
+Estos valores encontrados resultaron ser superiores a lo establecido por el
+
+ministerio de ambiente por el decreto supremo Nro 003 – 2010 del MINAM la
+
+cual establece un límite de 200mg/L para la DQO, (Cardona y García, 2008)
+
+también reportaron     resultados no numerales donde el control y los
+
+tratamientos disminuyeron hasta el día 10 y pasado los días 30 y 45 la
+
+variación fue muy mínima, a pesar de ello estadísticamente desde el inicio
+
+del estudio hasta el final no hubo significancia, atribuyendo a la materia
+
+inorgánica existente y por la presencia de compuestos, cuya estructura
+
+química es compleja, no permite su fácil degradación (Ngurah, 2005), las
+
+cuales una vez oxidada la materia orgánica de fácil degradación sigue la
+
+demanda de oxígeno para oxidar la materia inorgánica existente en el medio,
+
+la cual eleva los resultados encontrados en nuestro estudio. El incremento
+
+de la DQO y DBO en nuestro experimento no se le atribuye a la acción de
+
+los microorganismos utilizados, considerando que los microorganismos
+
+utilizados son anaerobios.
+
+
+4.5.   ACEITES Y GRASAS
+
+Los resultados de la determinación de aceites y grasas, se muestran en la
+
+tabla 5 del anexo; donde observamos que no se evidenció diferencias
+
+significativas en la variación de aceites y grasa en aguas residuales de la
+
+ciudad de puno, por el efecto del tratamiento con diferentes dosis de
+
+microorganismos nativos (P≥0.05); no obstante que, sí encontramos
+
+diferencias significativas en la variación de aceites y grasas en aguas
+
+residuales por efecto de periodo de evaluación (P≤0.05). Esto indica que, los
+
+aceites y grasas varían por efecto de periodo de evaluación tras la adición
+
+
+                                                                          37
+de diferentes dosis de microorganismos, lo cual se evidencia en los
+
+siguientes cuadros:
+
+
+CUADRO 6: ESTADISTICOS PARA ACEITES Y GRASAS EN AGUAS
+
+             RESIDUALES       TRATADAS     CON     MICROORGANISMOS
+
+             NATIVOS SEGÚN DOSIS.
+
+
+       Estadísticos                  Promedios
+                                      (mg/L de
+        Dosis de              n                      Valores extremos
+                                       agua)
+     microrganismos
+          1:1000              3          16.47           14.60–19.20
+          1:5000              3          19.70           12.24 – 25.05
+          1:10000             3          16.50           8.752 – 20.36
+          Testigo             3          20.30           13.75 – 24.85
+
+
+GRAFICO 7: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+
+              ACEITES     Y       GRASAS         SEGÚN      DOSIS        DE
+
+              MICROORGANISMOS.
+
+
+
+
+En el cuadro 6 y el grafico 7, se evidencia el esquema para la variable
+
+aceites y grasas por el efecto de diferentes dosis de microorganismos
+
+
+                                                                         38
+nativos como: Aspergillus spp, Lactobacillus, Saccharomyces cerevisiae y
+
+Bacillus subtilis; en el cual observamos 16.47, 19.70, 16.50 y 20.30 mg de
+
+aceites y grasas/L de agua residual para la dosis 1:1000, 1:5000, 1:10000, y
+
+(testigo sin adición de microorganismos) respectivamente (P≥0.05), como se
+
+observa las unidades de estudio tienden a disminuir con respecto al
+
+tratamiento, pero esa diferencia no es significativa, estos valores se
+
+atribuyen   a las aguas incrementadas, estas pudiendo mantener las
+
+concentraciones de grasas y aceites.
+
+
+Nuestros valores encontrados en el estudio oscilan por debajo del límite
+
+máximo permisible establecido por el ministerio del ambiente decreto
+
+supremo Nro 003- 2010 del MINAM, donde establece un máximo de 20mg/L
+
+de aceites y grasas para aguas residuales municipales tratadas, se asume
+
+que los resultados encontrados próximos a 20mg/L es a consecuencia de la
+
+temporada de lluvias en la ciudad de puno, en la cual las aguas de lluvia
+
+diluyen las grasas de aguas residuales propiamente dichas así que, de esta
+
+manera reducen su concentración; sin embargo estas diferencias mínimas
+
+de los resultados obtenidos y con lo establecido por la MINAM no se atribuye
+
+al efecto del tratamiento por los microorganismos nativos, esta variación
+
+radica en una de las propiedades de la grasa que es hidrofóbico, entonces
+
+se asume que en el momento de la distribución de las unidades de estudio a
+
+pesar de la homogenización del agua no se pudo homogenizar por completo,
+
+de esta manera distribuyéndose a diferentes concentraciones en las
+
+unidades.
+
+
+
+
+                                                                         39
+CUADRO 7: ESTADISTICOS PARA ACEITES Y GRASAS EN AGUAS
+
+             RESIDUALES       TRATADAS       CON     MICROORGANISMOS
+
+             NATIVOS SEGÚN PERIODO
+
+
+       Estadísticos                     Promedios
+                                         (mg/L de
+  Periodo de tratamiento        n                       Valores extremos
+                                          agua)
+          10 días               4          12.30b          8.75 –13.75
+          30 días               4          19.70a         15.60 – 22.20
+          45 días               4          16.50a         19.20 – 24.85
+
+
+GRAFICO 8: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+
+              ACEITES Y GRASAS SEGÚN PERIODO DE AVALUACION.
+
+
+
+
+En el cuadro 7 y el gráfico 8, se presenta promedios de aceites y grasas en
+
+aguas residuales tratadas con microorganismos nativos, donde a los 30 días
+
+y 45 días se ha encontrado valores de 19.70 y 16.50 mg de aceites y
+
+grasas/L de agua residual, estos fueron superiores a los 10 días de
+
+evaluación que mostró 12.30 mg de aceites y grasas/L de agua residual y
+
+fue inferior al de los anteriores (P≤0.05). Esta diferencia probablemente se
+
+
+
+                                                                          40
+deba a que a medida que transcurría el tiempo las aguas se evaporaban y
+
+en nuestro estudio se incrementaba las aguas residuales con previo dosis de
+
+choque y tras el previo incremento de agua con dosis de choque se
+
+incrementó los aceites y grasas.
+
+
+4.6.   PARA TEMPERATURA
+
+Los resultados de la determinación de la temperatura se muestran en la
+
+tabla 6 del anexo; en el cual encontramos que no existen diferencias
+
+altamente significativas en la variación de la temperatura en agua residuales
+
+de la ciudad de puno, por el efecto del tratamiento con diferentes dosis de
+
+microorganismos nativos (P≥0.05); lo cual indica que, no influye en la
+
+variación posterior a la adición de estos microorganismos, el mismo que se
+
+detalla en el cuadro 8.
+
+
+CUADRO 8: ESTADISTICOS PARA TEMPERATURA (°C) EN AGUAS
+
+             RESIDUALES       TRATADAS       CON      MICROORGANISMOS
+
+             NATIVOS.
+
+
+        Estadísticos                  Promedios
+                                         (°C)
+          Dosis de             N                       Valores extremos
+       microrganismos
+           Testigo             3         15.63           14.50 – 17.40
+           1:1000              3         16.70           16.45 –17.00
+           1:5000              3         16.00           15.65 – 16.75
+          1:10000              3         16.30           14.60 – 17.30
+
+
+
+
+                                                                          41
+GRAFICO 9: REPRESENTACION GRÁFICA DE RESULTADOS PARA
+
+              TEMPERATURA         T°     C     SEGÚN       DOSIS       DE
+
+              MICROORGANISMOS.
+
+
+
+
+En el cuadro 8 el gráfico 9, observamos estadísticos para la variable
+
+temperatura por el efecto de diferentes dosis de microorganismos nativos
+
+como: Aspergillus spp, Lactobacillus, Saccharomyces cerevisiae y Bacillus
+
+subtilis; en donde mostraron 15.63, 16.70, 16.00 y 16.30 °C de temperatura
+
+para testigo, 1:1000, 1:5000 y 1:10000, (dosis de microorganismos/aguas
+
+residuales) respectivamente (P≥0.05); estas similitudes se atribuyen a que
+
+las unidades de estudio fueron acondicionados en ambiente templado y
+
+sombrío donde todos los cubos estuvieron en las mismas condiciones, de
+
+esta manera se asume que no hubo significancia en esta esta variable de
+
+estudio.
+
+
+Estos valores encontrados se encuentran dentro de lo establecido por el
+
+ministerio de ambiente decreto supremo Nro 003-2010 MINAM donde
+
+establece que las aguas residuales municipales tratadas deben tener
+
+
+
+                                                                       42
+temperaturas inferiores a 35°C, a pesar de registrar valores inferiores a lo
+
+establecido, no se atribuye a los tratamientos por que los volúmenes de
+
+agua no fueron muy grandes en consecuencia eran muy sensibles a la
+
+variación. De esta manera pudiéndose considerar muy cercanas            a las
+
+temperaturas del lago Titicaca que es de 10ºC a 16ºC (Jica, 2000) entre
+
+enero y septiembre y a la temperatura de ambiente de Puno.
+
+
+4.7.   COLIFORMES TERMOTOLERANTES
+
+Los resultados de la determinación de coliformes termotolerantes de aguas
+
+residuales de la ciudad de Puno, se muestran en el gráfico siguiente:
+
+GRAFICO      10:   ESTADISTICOS        PARA     NMP     DE    COLIFORMES
+
+             TERMOTOLERANTES EN AGUAS RESIDUALES TRATADAS
+
+             CON MICROORGANISMOS NATIVOS EN LOS DIFERENTES
+
+             PERIODOS DE EVALUACION.
+
+
+
+
+En el grafico anterior se presenta estadísticos para la variable NMP de
+
+coliformes termotolerantes por el efecto del periodo de evaluación tras la
+
+adición de diferentes dosis de microorganismos nativos como: Aspergillus
+
+
+
+                                                                          43
+spp, Lactobacillus, Saccharomyces cerevisiae y Bacillus subtilis; en donde
+
+mostraron       90000,    19637.5,     8.8     y   0    de       NMP    de    coliformes
+
+termotolerantes/100mL de agua para la dosis; Testigo, 1:1000, 1:5000 y
+
+1:10000, respectivamente; los datos establecidos                 en el cuadro anterior
+
+muestran diferencias significativas, sin embargo tras los resultados de los
+
+demás variables, donde no hubo diferencia alguno, mientras la desaparición
+
+de coliformes termotolerantes en los días 30 y 45, se atribuye a que el pH
+
+óptimo para el desarollo de la E. coli es de entre 6 y 7 y un mínimo de 4.4
+
+(Atlas y Bartha, 2002), mientras en nuestro estudio el pH fue valores muy
+
+próximos a 8 y valores sobre 8, siendo esta uno de los factores que habría
+
+influido,   Además       Las   cepas   de     lactobacilos    producen       substancias
+
+antimicrobianas conocidas como; Lactobacillin, Lactolin, Lactobrevin, que
+
+son activas contra diversas bacterias presentes en la microflora normal del
+
+intestino, como E. coli, Streptococcus, Clostridium difficile, Bacteroides
+
+fragilis    y   Salmonella     (Gorbach,     1996).    Otro      de    los   compuestos
+
+antimicrobianos producidos por el            bacillus subtilis    es la subtilina   con
+
+propiedades antifúngicas y otros antibióticos de la familia de las Iturinas,
+
+atribuyendose de esta a lo mencionado como agentes que favorecieron la
+
+desaparición de los coliformes termotolerantes.
+
+
+Estos valores comparados con lo establecido por el D.S. Nro 003- 2010 del
+
+MINAM, establece que las aguas residuales municipales posterior a su
+
+tratamiento deberán tener una cantidad de 10000 Coliformes termotolerantes
+
+/100mL como límite máximo permisible, sin embargo en nuestro estudio
+
+trascurrido los 10 días a la dosis de 1:1000 y 1:10000 el Nro de coliformes
+
+
+                                                                                     44
+lograron disminuir en comparación al testigo y a dosis de 1:5000, a los 30 y
+
+45 días en las dosis de 1:1000, 1:5000, 1:10000 y en el testigo
+
+desaparecieron por completo, esto tal vez se deba a que en el estudio
+
+influyeron variables no controlables, y en estudios realizados por (Cardona y
+
+García,   2008)   no   mostró   disminución    alguna   de   los   coliformes
+
+termotolerantes   respecto al primer análisis esto probablemente al pH
+
+registrado que fue de 6.3.
+
+
+
+
+                                                                          45
+                            V. CONCLUSIONES
+
+
+La variables físico químicas estudiadas como STS, pH, aceites y grasas y
+
+Temperatura no mostraron variabilidad por efecto del tratamiento con
+
+diferentes dosis de microorganismos nativos en el aguas residuales de la
+
+ciudad de Puno, tampoco superaron el LMP establecidos por el ministerio de
+
+ambiente D.S. Nro 003-2010 MINAM.
+
+
+Las variables DBO, DQO no mostraron variabilidad por el efecto del
+
+tratamiento, pero fueron superiores a los LMP del ministerio del ambiente
+
+D.S. Nro 003-2010 MINAM; Mientras hubo variación para Coliformes
+
+termotolerantes por efecto de dosis de microorganismos y por periodo de
+
+evaluación, las cuales en los días 30 y 45 estuvieron por debajo de los límite
+
+máximo permisible (LMP).
+
+
+La variable aceites y grasas mostro diferencias significativas por efecto del
+
+periodo de evaluación; mientras para las otras variables no se encontraron
+
+variabilidad por efecto periodo de evaluación.
+
+
+
+
+                                                                           46
+                          VI. RECOMENDACIONES
+
+
+Para   implementar    como una alternativa     los   microorganismos para
+
+tratamiento de aguas residuales de la ciudad de Puno, es aconsejable que
+
+esta sea, sometida previamente a un tratamiento preliminar y/o primario para
+
+así disminuir la cantidad de materia orgánica (sedimentación) que pueda
+
+obstruir el resto del proceso.
+
+
+Realizar estudios con mayores volúmenes de aguas residuales para evitar la
+
+evaporación.
+
+
+Realizar estudios comparativos en el tratamiento de aguas residuales en
+
+épocas de lluvias y épocas secas y según la geografía y zona.
+
+
+
+
+                                                                         47
+                            VII.   BIBLIOGRAFÍA
+
+
+American Public Health Association (APHA), American Water Works
+
+      Association y Water Pollution Control Federation. 1989. Standard
+
+      Methods for the examination of Water and Wastewater. 17th ed.
+
+      APHA, Washington, D.C.USA. Part 9000.
+
+
+Atlas, R., y R. Bartha. 1998.       Ecología   microbiana      y   microbiología
+
+      ambiental. Tercera Edición. Editorial Addison Wesley. Madrid.
+
+      España. 677pp.
+
+
+Atlas, R.; y Bartha, R. 2002. Ecología microbiana y microbiología ambiental.
+
+      Cuarta edición. Pearson Educación S.A, Madrid, ES. 696 p.
+
+
+Blundi, E. 1988. Aplicação de métodos alternativos para a determinação de
+
+      matéria orgânica em águas residuárias. Dissertação Doutorado em
+
+      Hidráulica e Saneamento. Universidad de São Carlos. Brasil. 329pp.
+
+
+Calzada, J. 1983. Métodos estadísticos para la investigación. Editorial
+
+      milagro S.A., Lima, Perú.
+
+
+Carballo, F. 2000. Microbiología industrial: microorganismos de interés
+
+      industrial. Editorial Acribia. España. 20-31p.
+
+
+Cardona   J.,   y   L.   Garcia.   2008.   “Evaluación   del   efecto   de   los
+
+      microorganismos eficaces sobre la calidad de un agua residual
+
+      doméstica” tesis universitaria, Bogotá Colombia.
+
+
+
+
+                                                                             48
+Decreto supremo D.S.Nro 003-2010 MINAM. “Aprueba límites máximos
+
+      permisibles para los efluentes e plantas de tratamiento de aguas
+
+      residuales doméstica o municipales” diario oficial el peruano.
+
+
+Early, R. 1998. Tecnología de productos lacteos, Editorial Acribia Zaragoza
+
+      Espana.
+
+
+Fajardo E. y S. Sarmiento. 2007. “Evaluación de la melaza como sustrato
+
+      para la producción de saccharomyces cevisae “Pontificia Universidad
+
+      Javeriana Bogotá Colombia.
+
+
+Fernandez J., y M. Dolores. 2005. Metodos Analíticos para aguas residuales,
+
+      revista.
+
+
+Fioravanti M., N. Vega, C. Hernández, S. Okumoto, J. Yeomans (2005)
+
+      eficiencia de los microorganismos eficaces (EM) en la estabilización
+
+      de lodos sépticos para su uso agrícola. Universidad EARTH Las
+
+      Mercedes de Guácimo, Limón, Costa Rica, revista tierra tropical.
+
+
+Fundación nacional de salud. 2013. Manual práctico de análisis de agua,
+
+      cuarta edición ministerio de salud Brasilia: Funasa, Página web:
+
+      http://www.funasa.gov.br
+
+
+García, J. 2006. Comparación de la fertilización orgánica y convencional a
+
+      partir del .uso de microorganismos eficaces y químicos tradicionales
+
+      sobre la producción de biomasa durante un ciclo de cosecha en un
+
+      cultivo    de   rábano   gordo   (Rhapanus     sativus    L.).   Revista
+
+      Latinoamericana de Microbiología. 42:73-82.
+
+
+                                                                           49
+Gorbach S. 1996. The discovery of Lactobacillus GG. Nutrition Today; 31
+
+      (suppl 1):2S-4S.
+
+
+Glynn H. y W. Heinke. 1999. Ingeniería Ambiental, Segunda Edición
+
+      Universidad Autónoma de Mexico.
+
+
+Higa, T., y J. Parr. 1994. Beneficial y Effective Microorganisms for a
+
+      Sustainable Agriculture Y environment. International Nature Farming
+
+      Venter. Atami. Japan. 17pp.
+
+
+Higa, T., y N. Chinen. 1998. EM Treatments of Odor, Waste Water, y
+
+      Environmental Problems.         College of Agriculture, University of
+
+      Ryukyus, Okinawa, Japan.
+
+
+Jaramillo, A., y A. Arias, 2001. Tratamiento biológico de las aguas
+
+      residuales. Universidad de Antioquia. Medellín. Colombia.
+
+
+JICA, (2000). Estudio para el Control de la Contaminación del Agua de la
+
+      Bahía Interior de Puno en el Lago Titicaca en la República del Perú.
+
+      Puno–Perú.
+
+
+Kelly, W.J., Davey, G.P., Ward, L.J.H. 1998. Characterization of Lactococci
+
+      isolated   from    minimally   processed   fresh   fruit    y   vegetables.
+
+      International Journal of Food Microbioogy.
+
+
+Lastras,   P.     2009.      Probioticos,   lactobacillus        acidophilus   y
+
+      bififobacteriumbifidum, suplemento nutricionales, salud BIO, 12p.
+
+
+
+
+                                                                               50
+Luv, D., y B. Lipták. 1999. Wastewater treatment. First Edition. Editorial
+
+      Lewis. USA. 1269pp.
+
+
+Mara, D., y S. Cairncross. 1990. Directrices para el uso sin riesgos de aguas
+
+      residuales y excretas en agricultura y acuicultura: medidas de
+
+      protección de la salud pública. Organización Mundial de la Salud.
+
+      Ginebra. 212pp.
+
+
+Merck, J. 2003. Manual de medios de cultivo. Agar para Lactobacillus. Según
+
+      de mann, rogosa y sharpe. Barcelona, España. 126pp.
+
+
+Metcalf, F., y T. Eddy. 2003. Wastewater engineering. Treatment y reuse.
+
+      Fourth Edition. Editorial Mc Graw Hill. Boston, Massashuttes.1819 pp.
+
+
+Milian, G. 2005. empleo de probióticos a base de bacillus sp y sus
+
+      endosporas en La producción avícola. Instituto de ciencia animal.
+
+      Aparato postal 24. San Jose de las lajas, la Habana, 16P.
+
+
+Ngurah, G. 2005. Preliminary experiment of EM. Technology on wastewater
+
+      treatment. Indonesian Kyusei Nature Farming Society., Saraburi,
+
+      Thaily. 1-6.
+
+
+Novotny, V. 2003. quality: Diffuse pollution y Watershed management.
+
+      Second Edition. Editorial John Wiley y sons, Inc. Boston. USA. 862pp.
+
+
+Okuda, A., y T. Higa. 2005. Purification of wastewater with effective
+
+      microorganisms y its utilization on agriculture. APNAN, Thaily. 246 –
+
+      253.
+
+
+
+                                                                          51
+Orozco, A., y A. Salazar. 1989. Tratamiento biológico      de   las   aguas
+
+      residuales. Universidad de Antioquia. Facultad de Ingeniería.
+
+      Medellín. Colombia. 467pp.
+
+
+Ospina, A., y M. Palacios. 1994. Efecto del cultivo de levaduras sobe la
+
+      carga orgánica de los efluentes de SUCROMILES S.A. Tesis pregrado
+
+      Microbiología. Facultad de Ingeniería. Universidad del Valle. Cali,
+
+      Colombia. 23-29p.
+
+
+Palao, A., A. Ccama., V. Ibañez., E. Catacora., T. Romero., M. Choque., F.
+
+      Otriz   2010. Descontaminación de la bahía interior de Puno con
+
+      biotecnología   de   microorganismos    organismos   eficaces   (EM),
+
+      responsabilidad social y acción comunitaria.
+
+
+Pelczar, M., y Ried, R., 1978. Microbiología bacterias control biológico de
+
+      plagas microorganismos enfermedades y medio ambiente. Editorial
+
+      new Dehi: McGraw-Hill.
+
+
+Peña, G., J. Silva., P. Torres., C. Madera. 2005. Reuso de aguas residuales
+
+      domésticas en agricultura. Facultad de Ingeniería, Universidad del
+
+      Valle, Cali Colombia.
+
+
+Ramalho, R. 1983. Introduction to wastewater treatment processes. Second
+
+      Edition. Editorial. Academic Press. USA.1519pp.
+
+
+Ramos, O., R. Sepúlveda., y M. Villalobos. 2003. Agua en el Medio
+
+      Ambiente. Muestreo y Análisis. Universidad Autó-noma de Baja
+
+      California. Plaza y Valdes, México. 181 p.
+
+
+                                                                         52
+Sánchez, J. 2003. Evaluación y monitoreo microbiológico y fisicoquímico de
+
+      una planta de tratamiento de agua residual por rizofiltración, en una
+
+      empresa productora de discos compactos. Bogotá D.C. Trabajo de
+
+      grado. Pontificia Universidad Javeriana. Facultad de Ciencias. Carrera
+
+      de Microbiología industrial. Bogotá D.C. Colombia.
+
+
+Sangkkara, U. 2002. The technology of effective Microorganisms. Case
+
+      Studies of Application. Royal Agricultural College. Cirencester UK.
+
+      Research               Activities.             [en             línea]:
+
+      <http://www.royagcol.ac.uk/research/conferences/Sangkkara.htm.
+
+
+Sawyer, C., P. McCarty., y G. Parkin. 2000. Química para ingeniería
+
+      ambiental. Cuarta edición, McGraw-Hill. Bogotá, CO. 713 p.
+
+
+Senahami, 2009. Servicio nacional de meteorología.
+
+
+Seoanez, M. 1999. Aguas residuales urbanas, tratamientos naturales, de
+
+      bajo costo y aprovechamiento, bajo costo de instalación, producción
+
+      agraria y rentabilidad de uso. Mundi-Prensa, Madrid. España. 251pp.
+
+
+Shelton, T 1991. Interpreting drinking wáter quality analysis - what do the
+
+      numbers mean. Ed. Rutgers Cooperative extension. New Brunswick
+
+      Engly. 11pp.
+
+
+Sustainable Community Development. 2001. (: Kansas city). Efficient
+
+      Microbes (EM): Product         information y Usage.      [en      línea]
+
+      :<http://www.em4life.com/user/emhybook.pdf>          consultado       el
+
+      04/12/2013.
+
+
+                                                                           53
+Toapanta M. 2006. calidad de agua, revista.
+
+
+Tuite, M. y S. Oliver. 1991. Saccharomyces. Editorial Plenum Press. New
+
+      York, Estados Unidos. 272p.
+
+
+Wididana, G., y T. Higa. 1997. Model of Integrated Farming System with
+
+      Effective Microorganisms (EM) Technology in Bali Isly. Presented at
+
+      5th International Kyusei Nature Farming Conference, October 1997.
+
+      Bangkok. Thaily. 22-26.
+
+
+
+
+                                                                      54
+                              VIII.    ANEXOS
+
+REALIZACIÓN DE LOS ANÁLISIS FÍSICO
+
+a. DETERMINACIÓN DE pH
+
+MATERIALES
+
+INSTRUMENTAL
+
+      pH metro
+
+REACTIVOS
+
+      solución tampón
+
+      agua destilada
+
+      vasos descartables
+
+      muestras
+
+PROCEDIMIENTO
+
+Para determinar el pH primeramente se calibró el electrodo con una solución
+de    pH    conocido,    tampón   de    pH   7   (dihidrogenofosfato/di-sodio
+hidrogenofosfato) Se lavó el electrodo con agua destilada y secado con
+papel absorbente, posteriormente se introdujo el electrodo en la solución
+problema y se lecturó el pH de la muestra (Fernández y Dolores, 2005).
+
+b. DETERMINACIÓN DE LA TEMPERATURA
+
+MATERIALES
+
+INSTRUMENTAL
+
+      Termómetro de mercurio graduado con escala de 0.1°C entre 100°C
+
+      vasos descartables
+
+PROCEDIMIENTO
+
+
+                                                                          55
+Para determinar esta variable se utilizó el termómetro, la cual se introdujo en
+el agua y se hizo la lectura con el bulbo del termómetro dentro del agua.
+
+c. DETERMINACIÓN DE LOS SÓLIDOS TOTALES EN SUSPENSIÓN
+
+    MATERIALES
+
+INSTRUMENTAL
+
+    Balanza analítica
+
+    Estufa
+
+    Vasos descartables
+
+    Pipetas
+
+PROCEDIMIENTO
+
+Para la determinación de los sólidos totales en suspensión, primeramente se
+pesó los vasos vacíos y se tomó una cantidad de 10 mL de muestra para
+cada una de las unidades de estudio, la cual se llevó a vasos descartables,
+posteriormente los vasos contenidos de agua se llevó a estufa de 105°C, en
+la cual se evaporó todo el agua contenido en ella, el vaso seco se llevó a la
+balanza y se pesó del cual se hizo la diferencia, el peso del vaso y el peso
+de los sólidos totales en suspensión como se detalla en la siguiente formula.
+
+                         STS (mg/L) = (P1-P)*1000/V
+
+Donde:
+
+P1= peso del vaso con el residuo, des pues del evaporado en mg.
+
+P= peso del vaso vacio, en mg a peso constante.
+
+V= volumen de muestra en mL.
+
+(Fernández y Dolores, 2005).
+
+
+
+
+                                                                            56
+REALIZACIÓN DE LOS ANÁLISIS QUIMICOS
+
+a. DTERMINACIÓN DE LA DEMANDA QUÍMICA DE OXIGENO (DQO)
+
+   MATERIALES
+
+INSTRUMENTAL
+
+   Horno
+
+   Pipetas
+
+   Tubos de ensayo
+
+   Erlenmeyer
+
+   Equipo de titulación
+
+REACTIVOS:
+
+   Reactivo de digestión: Solución de dicromato potásico (K2Cr2O7)
+     0,25 N: Disolver 12,2588g, 167mL        de ácido sulfúrico y 33.3g de
+     sulfato de mercurio en 500mL de agua destilada y luego se diluyó en
+     un litro.
+
+   Solución de sulfato de plata en ácido sulfúrico: Disolver 22 g de
+     Ag2SO4 en 2.5 litros de ácido sulfúrico (H2SO4) concentrado.
+
+   Solución de sulfato de hierro y amonio 0,25 N (NH4)2Fe(SO4)2 x
+     6H2O. Disolver 98,04 g de (NH4)2Fe(SO4)2 x 6H2O en agua
+     destilada. Añadir 20 mL de ácido sulfúrico (H2SO4) concentrado,
+     enfriar y enrasar a 1 litro con agua destilada.
+
+   Indicador de DQO o solución de ferroína: Disolver 1,485 g de 1,10
+     fenantrolina (C12H8N2 x H2O) y 0,695 g de sulfato de hierro
+     heptahidrato (FeSO4) en agua destilada, y llevar a volumen de 100
+     mL.
+
+
+
+
+                                                                        57
+PROCEDIMIENTO
+
+  1. La técnica es tomar una muestra de 2.5mL de agua, pero para
+      nuestro caso se diluyó las muestras en agua destilada.
+
+  2. Se tomó 10mL de aguas residuales y se completó hasta 100mL con
+      agua destilada,
+
+  3. Se tomó una cantidad de 2.5 mL de muestra y uno blanco de agua
+      destilada de la misma cantidad.
+
+  4. Posteriormente se adicionó 1.5 mL de solución de digestión.
+
+  5. Se agregó 2.5mL de ácido sulfúrico que contiene sulfato de plata.
+
+  6. Esta se homogenizó lentamente y se llevó al horno para la digestión
+      por 2 horas a una temperatura de 150°C.
+
+  7. Pasado el tiempo se retiró y se adicionó 4 gotas de solución de
+      ferroina indicador de DQO.
+
+  8. Se tituló con solución de sulfato de hierro y amonio.
+
+  9. Calculo de la DQO (Fernández y dolores, 2005).
+
+DQO (mg de oxígeno/litro) = [(A-B) x N x 8000]/ Volumen (mL) de muestra. x
+                                   [100/10]
+
+            A= Volumen (mL) de sulfato de amonio gastado en el blanco.
+
+                B= Volumen (mL) de sulfato de amonio gastado en la
+                muestra.
+
+                N= Normalidad de la solución de hierro y amonio.
+
+
+
+
+                                                                         58
+b. DETERMINACIÓN DE LA DEMANDA BIOQUÍMICA DE OXÍGENO
+  (DBO5)
+
+  MATERIALES
+
+INSTRUMENTAL
+
+   Cámara incubadora
+
+   Biometro: botella de vidrio ambar, capsula de goma y tapon-regisrador
+
+   Bases de agitación magnética
+
+   Varillas agitadoras (imanes)
+
+   Pipeta
+
+REACTIVOS:
+
+   Agua destilada
+
+   Hidróxido de sodio en perlas(NaOH)
+
+   Disolusion de alliltiourea- inhibidor de la nirificacion(5g/L)
+
+PROCEDIMIENTO
+
+  1. Se introdujo la varilla agitadora (imán) en el interior del biómetro.
+
+  2. Se añadió el inhibidor de la nitrificación, 5 gotas de alliltiourea a cada
+     biómetro.
+
+  3. Se pusieron tres perlitas de NaOH en la cápsula diseñada a tal efecto.
+
+  4. Se añadió 250mL de muestra en el biómetro.
+
+  5. Se procedió al cierre del biómetro con el correspondiente tapón-
+     registrador, y se puso la lectura a cero.
+
+  6. Se introdujo el biómetro en la cámara incubadora a 25ºC y se
+     encendió la base de agitación magnética.
+
+
+
+                                                                             59
+   7. Se realizó la lectura a los cinco días (Fernández y Dolores, 2005).
+
+c. DETERMINACIÓN DE ACEITES Y GRASAS
+
+  MATERIALES
+
+INSTRUMETAL
+
+    Balanza analítica
+
+    Equipo de extracción Soxhlet.
+
+OTROS
+
+    Embudo Buchner.
+
+    Papel Filtro Watman 40.
+
+    Matraz de fondo redondo.
+
+    Luna de reloj
+
+REACTIVOS
+
+    Éter de petróleo.
+
+PROCEDIMENTO
+
+Para determinar este parámetro se utilizó el método de extracción Soxhlet,
+para lo cual se siguió de la siguiente manera.
+
+   1. Se tomó 5mL de muestra de agua residual el cual se llevó sobre el
+      papel, la cual estaba sobre la luna de reloj.
+
+   2. Esta se llevó a la estufa para el evaporado del agua, una vez seco el
+      papel se pesó en balanza y se llevó al equipo de soxhlet.
+
+   3. En el cual se lavó la muestra con éter de petróleo aproximadamente
+      por 2 horas donde se hizo 10 xifonadas para cada muestra.
+
+
+
+
+                                                                            60
+  4. Una vez terminado el lavado el papel se llevó nuevamente a estufa
+     en luna de reloj donde también se hizo el secado, pasado el tiempo se
+     pesó en la balanza analítica y la diferencia fue el resultado, como se
+     detalla a continuación (Fernández y dolores, 2005).
+
+              Acetites y grasas (mg/L) = (PG – P)* 1000/V
+
+   Donde:
+
+   PG=      Peso de papel seco más peso de la muestra seca, constante
+   (mg).
+
+   P = peso de papel seco, más peso de la muestra, posterior al lavado
+   con éter de petróleo (mg).
+
+   V =     volumen de la muestra, en mL.
+
+EN LA SIGSUIENTE PAGINA SE MUESTRA EL CERTIFICADO DE
+ANALISIS DE LAS MUESTRAS PROCESADAS EN EL LABORATORIO
+DE AGUAS Y SUELOS DE LA FACULTAD DE CIENCIAS AGRAGRIAS
+
+
+
+
+                                                                        61
+62
+TABLAS DE ANÁLISIS DE VARIANZA PARA LAS VARIABLES EN ESTUDIO.
+Tabla 01. Análisis de varianza para sólidos totales en suspensión según dosis de.
+            Microorganismos y periodo
+
+                  Grados
+   Fuente de                  Suma de     Cuadrado              Ft       Ft
+                     de                                 Fc                     Sig.
+   variación                 cuadrados     medio               0.05     0.01
+                  libertad
+  Entre bloque       3          15.21        5.07      2.68   5.41     12.06   n.s.
+   Entre dosis       3          9.256        3.08      1.63   5.41     12.06   n.s.
+    Error exp.       5          9.468        1.89
+      Total         11         33.934
+    CV = 1.38%           Promedio General = 98.89
+
+Tabla 02. Análisis de varianza para PH según dosis de microrganismos y periodo.
+                   Grados
+   Fuente de                  Suma de     Cuadrado             Ft      Ft
+                      de                               Fc                    Sig.
+    variación                cuadrados     medio              0.05    0.01
+                   libertad
+  Entre bloque       3         0.1225       0.0410     0.12   5.41     12.06   n.s.
+   Entre dosis       3         0.4850       0.1617     0.48   5.41     12.06   n.s.
+    Error exp.       8         2.6875       0.3359
+      Total         11         3.2950
+     CV = 7.83%           Promedio General = 7.4
+
+Tabla 03. Análisis de varianza para demanda bioquímica de oxigeno según dosis
+            de microrganismos y periodo.
+                  Grados
+   Fuente de                 Suma de     Cuadrado            Ft     Ft
+                     de                              Fc                  Sig.
+    variación               cuadrados     medio            0.05    0.01
+                  libertad
+  Entre bloque       3       334405.862   111468.62    4.47   5.41     12.06   n.s.
+   Entre dosis       3       108196.486    36065.49    1.44   5.41     12.06   n.s.
+    Error exp.       5       124730.489    24946.09
+      Total         11       567332.837
+    CV = 30.81%           Promedio Genera = 512.55
+
+
+
+
+                                                                                63
+   Tabla 04. Análisis de varianza para demanda química de oxigeno según dosis
+              de microrganismos y periodo.
+                Grados
+   Fuente de                 Suma de     Cuadrado           Ft      Ft
+                   de                               Fc                   Sig.
+   variación               cuadrados      medio            0.05    0.01
+                libertad
+  Entre bloque     3        1802454     600818     3.17   5.41    12.06   n.s.
+  Entre dosis      3        1906137     635379     1.85   5.41    12.06   n.s.
+   Error exp.      5         946914    189382.8
+    Total         11        4655505
+   CV = 40.16%          Promedio General=1083.5
+
+   Tabla  05. Análisis de varianza para aceites y grasas según dosis de.
+            microrganismos y periodo.
+              Grados
+  Fuente de              Suma de Cuadrado               Ft    Ft
+                 de                              Fc                 Sig.
+  variación             cuadrados     medio            0.05  0.01
+              libertad
+ Entre bloque      3        220.732     73.58      9.63   5.41   12.06     *.
+  Entre dosis      3        36.404      12.13     0.375   5.41   12.06    n.s.
+   Error exp.      5        38.226       7.64
+    Total         11        295.362
+   CV = 15.13%          Promedio General=18.23
+
+   Tabla   06.Análisis de varianza para temperatura según dosis de
+            microrganismos y periodo
+             Grados
+  Fuente de              Suma de Cuadrado            Ft    Ft
+                de                             Fc               Sig.
+  variación             cuadrados    medio          0.05  0.01
+             libertad
+    Entre
+                 3        0.4850     0.1620 0.00001 5.41 12.06 n.s.
+   bloque
+  Entre dosis     3         1.8439      0.6146    0.00005 5.41 12.06      n.s.
+  Error exp.      5         9.4917      1.8983
+    Total         11        11.8206
+   CV = 8.54%          Promedio General=16.16
+
+DILUSIONES REALIZADAS EN EL ANALISIS MICROBIOLÓGICO Y TABLA DEL
+             NMP DE COLIFORMES TERMOTOLERANTES.
+
+
+
+
+                                                                           64
+    TABLA 07: diluciones realizadas para el testigo y tratamientos
+
+                    TESTIGO                  TRATAMIENTOS
+             DIA 0   4 DILUSIONES        DIA 0  4 DILUSIONES
+             DIA 10 4 DILUSIONES         DIA 10 2 DILUSIONES
+             DIA 30 1 DILUSIONES         DIA 30 1 DILUSION
+             DIA 45 1 DILUSIONES         DIA 45 0 DILUSIONES
+
+
+
+
+TABLA 08: NMP de coliformes termotolerantes, donde Inóculo: Series A= 10 mL,
+    B= 1 mL y C=0,1 mL de la muestra
+
+
+
+
+    Fuente: APHA, 1989
+
+ CUADRO Nro 10) resultados obtenidos a la lectura de producción de gas en los
+                                diferentes tubos.
+           TRATAMIENTI 1           TRATAMIENTO 2            TRATAMIENTO 2
+       DIA 10 DIA 30 DIA 45 DIA 10 DIA 30 DIA 45 DIA 10 DIA 30 DIA 45
+R1      3-1-0 0-0-0 0-0-0 3-3-0 1-1-0 0-0-0 2-2-1 0-0-0 0-0-0
+R2      3-2-2 0-0-0 0-0-0 3-3-0 0-0-0 0-0-0 3-2-2 0-0-0 0-0-0
+
+                                   TESTIGO
+               DIA 0      DIA 10      DIA 30         DIA 45
+               2-0-0      0-1-0       0-0-0          0-0-0
+
+
+
+
+                                                                               65
+

@@ -1,0 +1,4351 @@
+             “Universidad Nacional del Altiplano”
+          “Facultad de Ingeniería Geológica y Metalúrgica”
+          “Escuela Profesional de Ingeniería Metalúrgica”
+
+
+
+
+“INFLUENCIA DE LA INCLUSION DE DESECHO DE POLICLORURO DE
+VINILO (PVC) SOBRE LA CAPACIDAD DE SOPORTE DE UN MATERIAL
+     GRANULAR TIPO SUBBASE EN LA CIUDAD DE JULIACA”
+
+
+                             TESIS
+
+               PRESENTADO POR EL BACHILLER
+                     EDWIN RENE PARI PARI
+
+
+    PRESENTADO PARA OPTAR EL TITULO PROFESIONAL DE
+              INGENIERO METALURGISTA.
+
+
+
+
+                          PUNO – PERU
+                               2013
+                 “Universidad Nacional del Altiplano”
+              “Facultad de ingeniería geológica y metalúrgica”
+              “Escuela profesional de ingeniería Metalúrgica”
+                                  TESIS
+
+   “INFLUENCIA DE LA INCLUSION DE DESECHO DE POLICLORURO DE
+   VINILO (PVC) SOBRE LA CAPACIDAD DE SOPORTE DE UN MATERIAL
+         GRANULAR TIPO SUBBASE EN LA CIUDAD DE JULIACA”
+
+                        TESIS PRESENTADO POR
+
+                 BACHILLER: EDWIN RENE PARI PARI
+
+Presentado a la Coordinación de Investigación de la Escuela Profesional de
+Ingeniería Metalúrgica de la Universidad Nacional del Altiplano para optar el
+Título Profesional de:
+                      INGENIERO METALURGISTA
+
+APROBADO POR:
+
+
+PRESIDENTE DE JURADO                ----------------------------------------
+                                    M.Sc. Alfredo Mamani Canqui
+
+
+
+PRIMER MIEMBRO                      ----------------------------------------
+                                    Ing. Hugo Fernandez Ochoa
+
+
+
+SEGUNDO MIEMBRO                     ----------------------------------------
+                                    Ing. Fernando Bernedo Colca
+
+
+
+
+DIRECTOR DE TESIS                   ----------------------------------------
+                                    M.Sc. Edwin Gallegos Pasco
+
+
+
+
+AREA: Metalurgia transformativa
+TEMA: Metodología de la investigación
+            DEDICATORIA
+
+
+
+
+Me complace dedicar esta tesis a toda mi familia, a mi madre que con su
+
+identidad maternal me dio a ver su sacrificio inalcanzable para con sus hijos, a mis
+
+hermanos cuyas personalidades son completamente ejemplares. Me han enseñado a
+
+encarar las adversidades sin perder nunca la dignidad ni desfallecer en el intento me
+
+han dado todo lo que soy como persona, dedicar a todas esas personas que me
+
+dieron el apoyo incondicional durante la realización de este trabajo.
+                                                               INDICE
+
+
+RESUMEN ................................................................................................................ 1
+
+INTRODUCCION ....................................................................................................... 2
+
+CAPITULO I............................................................................................................... 4
+
+PROBLEMÁTICA DE LA INVESTIGACIÓN ................................................................................................. 4
+
+
+1.1 PLANTEAMIENTO DEL PROBLEMA .................................................................................................. 4
+
+
+1.2 FORMULACION DEL PROBLEMA ............................................................................................ 4
+
+   1.2.1 PROBLEMA GENERAL ............................................................................................................ 4
+
+   1.2.2 PROBLEMAS ESPECIFICOS .................................................................................................. 5
+
+
+1.3 ANTECEDENTES ......................................................................................................................... 5
+
+
+1.4 JUSTIFICACIÓN ........................................................................................................................... 5
+
+
+1.5 OBJETIVOS DE LA INVESTIGACIÓN ....................................................................................... 6
+
+   1.5.1 OBJETIVO GENERAL .............................................................................................................. 6
+
+   1.5.2 OBJETIVOS ESPECIFICOS .................................................................................................... 6
+
+
+1.6 HIPOTESIS DE LA INVESTIGACIÓN ........................................................................................ 6
+
+   1.6.1 HIPOTESIS GENERAL ............................................................................................................. 6
+
+   1.6.2 HIPOTESIS SEGUNDARIAS ................................................................................................... 6
+
+
+
+CAPITULO II .......................................................................................................... 8
+
+MARCO TEORICO ..................................................................................................... 8
+
+2.1.1 ¿ QUE ES EL SUELO ? ........................................................................................................... 8
+
+   2.1.2 LAS ROCAS ÍGNEAS ............................................................................................................... 9
+   2.1.3 LAS ROCAS SEDIMENTARIAS............................................................................................ 10
+
+   2.1.4 LAS ROCAS METAMORFICAS ............................................................................................ 10
+
+
+2.2 BASE Y SUB BASE GRANULARES ....................................................................................... 15
+
+
+2.3 ESTABILIZACIÓN DE SUELOS ............................................................................................... 16
+
+
+2.4 POLIMEROS ............................................................................................................................... 18
+
+   2.4.1 PROPIEDADES FÍSICAS Y QUÍMICAS DE LOS POLÍMEROS ...................................... 20
+
+
+2.5 POLICLORURO DE VINILO (PVC) .......................................................................................... 20
+
+   2.5.1 OBTENCIÓN ............................................................................................................................. 23
+
+
+2.6 DESECHO DE POLICLORURO DE VINILO............................................................................ 26
+
+   2.6.1 MANEJO DE DESECHO DE POLICLORURO DE VINILO............................................... 28
+
+
+2.7 MARCO TEORICO TECNICO ................................................................................................... 29
+
+   2.7.1 ANALISIS GRANULOMETRICO DE SUELOS POR TAMIZADO ................................... 29
+
+   2.7.2 DETERMINACION DEL LIMITE LÍQUIDO Y LIMITE PLASTICO ................................... 33
+
+   2.7.3 DETERMINACION DE LOS FACTORES DE CONTRACCION DE LOS SUELOS ...... 37
+
+   2.7.4 DETERMINACION DE LA RESISTENCIA AL DESGASTE DE LOS AGREGADOS
+
+   GRUESOS POR MEDIO DE LA MAQUINA DE LOS ANGELES. ............................................. 38
+
+   2.7.5 ENSAYO DE COMPACTACION (PROCTOR MODIFICADO) ......................................... 41
+
+   2.7.6 ENSAYO CBR (CALIFORNIA BEARING RATIO) ............................................................. 44
+
+
+
+CAPITULO III ....................................................................................................... 47
+
+METODOLOGIA .................................................................................................. 47
+
+3.1 ENSAYO DE DETERMINACIÓN DEL LÍMITE LÍQUIDO ....................................................... 48
+
+
+3.2 ENSAYO DE DETERMINACIÓN DEL LIMITE PLASTICIDAD E ÍNDICE PLÁSTICO ........ 55
+
+
+3.3 ANÁLISIS GRANULOMÉTRICO DEL SUELO ...................................................................... 61
+3.4 ENSAYO DE ABRASIÓN POR MEDIO DE LA MAQUINA DE LOS ÁNGELES ................. 70
+
+
+3.5 ENSAYO DE COMPACTACIÓN DE SUELOS EN LABORATORIO UTILIZANDO UNA
+
+ENERGÍA MODIFICADA (PROCTOR MODIFICADO) ................................................................. 74
+
+
+3.6 ENSAYO DE LA RELACIÓN DE SOPORTE CALIFORNIA CBR ......................................... 85
+
+
+
+CAPITULO IV ...................................................................................................... 92
+
+RESULTADOS Y DISCUSION ........................................................................... 92
+
+4.1 COMPORTAMIENTO DE LA MEZCLA DE MATERIAL GRANULAR Y DESECHO DE
+
+PVC .................................................................................................................................................... 92
+
+
+
+CONCLUSIONES ................................................................................................ 96
+
+RECOMENDACIONES ....................................................................................... 97
+
+BIBLIOGRAFIA ................................................................................................... 98
+                                   INDICE DE FIGURAS
+
+
+Figura 1. Ciclo roca suelo ……………………………………………………………………………….09
+
+Figura 2. Ciclo de una roca ……………………………………………………………………………….11
+
+Figura 3. Tipología de suelos     …………………………………………………………………..11
+
+Figura 4. Composición de un suelo ………………………………………………………………….12
+
+Figura 5. Poros comunicados y no comunicados……………………………………………….14
+
+Figura 6. Fase sólida y gaseosa   …………………………………………………………………..14
+
+Figura 7. Sistema solido-agua     ……………………………………………………………………14
+
+Figura 8. Estructura molecular del Policloruro de vinilo (PVC)……………………………..20
+
+Figura 9. Toma de muestras de la cantera de rio Unocolla……………………………………46
+
+Figura 10. Toma de muestras de la cantera Taparachi…………………………………………..47
+
+Figura 11. Vista Panorámica de la Cantera de Taparachi…………………………………….…47
+
+Figura 12. Curva de flujo del límite liquido……………………………………………………….…..52
+
+Figura 13. Pesado de recipientes vacíos…………………………………………………………….….52
+
+Figura 14. Uso del ranurador en la copa de Casagrande   ………………………………..53
+
+Figura 15. Muestra extraída (lugar donde se aproximaron)………………………………….53
+
+Figura 16. Muestra que será llevada al durante 24 horas……………………………………..54
+
+Figura 17. Pesado de recipiente vació    ………………………………………………………….58
+
+Figura 18. Muestra en proceso de saturación en 24 horas……………………………………59
+
+Figura 19. Rollado del material diámetro aproximado de 3.2 mm…………………………59
+
+Figura 20. Curva granulométrica……………………………………………………………………………64
+
+Figura 21. Pesaje del material retenido en el tamiz ¾”…………………………………………67
+
+Figura 22. Muestras a combinar al 50% posteriormente………………………………………67
+Figura 23. Tamizado de las muestras……………………………………………………………………68
+
+Figura 24. Muestras para tamizadas……………………………………………………………………..68
+
+Figura 25. Pesaje de la muestra combinada salida de la máquina de los ángeles….72
+
+Figura 26. Máquina de los Ángeles……………………………………………………………………….72
+
+Figura 27. Muestra en el horno…………………………………………………………………………….73
+
+Figura 28. Máxima Densidad Seca de 2.07 gr/cc ………………………………………….………81
+
+Figura 29. 5 muestras antes de realizar el proceso de compactación……………………82
+
+Figura 30. Vista de la división de la muestra para las cinco capas…………………………82
+
+Figura 31. Proceso de compactado de una de las muestras………………………………….83
+
+Figura 32. Pesaje del molde más muestra húmeda compactada…………………………..83
+
+Figura 33. Compactación de una de las muestras………………………………………………….84
+
+Figura 36. Muestras sumergidas……………………………………………………………………………89
+
+Figura 37. Realización de la penetración……………………………………………………………….90
+
+Figura 38. Momento del proceso de compactación………………………………………………90
+
+Figura 39. Relación de %CBR y % aditivo……………………………………………………………….92
+
+Figura 40. Peso unitario para cada proporción de desecho de PVC ………………………93
+                                     INDICE DE TABLAS
+
+
+Tabla 1. Fuente: (Montejo, 1998)…………………………………………………………………………15
+
+Tabla 2. Cantidades de material para ensayo……………………………………………………….40
+
+Tabla 3. Resultados obtenidos…………………………………………………………………………..…51
+
+Tabla 4. El límite plástico será: 20.74%   ………………………………………………………..57
+
+Tabla 5. Datos granulométricos obtenidos y procesados…………………………………….66
+
+Tabla 6. Tipo A 12 esferas 500 vueltas………………………………………………………………. 71
+
+Tabla 7. Ensayo de Proctor Modificado 5 ensayos realizados……………………………..80
+
+Tabla 8. Presión geostatica………………………………………………………………………………...88
+
+Tabla 9. Corrección de cálculos……………………………………………………........................89
+
+Tabla 10. Calculo de densidades relativas………………………………………………………….91
+
+Tabla 11. Resultados de la mezcla adicionada………………………………………….……….92
+                               RESUMEN
+
+
+
+
+En nuestra región, los materiales granulares de alta calidad para la
+
+conformación de estructuras de pavimentos flexibles son difíciles de
+
+conseguir. En algunas ocasiones el ingeniero debe trabajar con materiales
+
+granulares que no cumplen los requisitos mínimos de calidad de las
+
+especificaciones que el ministerio de transportes exige. En este caso el
+
+ingeniero debe intentar mejorar las propiedades del material ya sea por
+
+medios químicos o mecánicos.
+
+En la presente investigación se utilizó el desecho de PVC como material de
+
+adición, para modificar el comportamiento de una sub base granular. A
+
+partir de ensayos como proctor modificado y CBR (california bearing ratio)
+
+se comparó el comportamiento del material natural de una cantera
+
+especifica de la ciudad de Juliaca con la alternativa del proyecto el cual fue
+
+combinado con diferentes proporciones del desecho de PVC.
+
+Los resultados de la investigación nos ayudaran a saber si este modifica el
+
+CBR de una mezcla granular tipo sub base para poder utilizarlo
+
+adecuadamente en proyectos como carreteras, o terraplenes donde se
+
+requiera una buena compactación de mayor resistencia y menor peso.
+
+
+
+
+                                                                             1
+                             INTRODUCCION
+
+
+
+
+Según Lambe (1999), el suelo es considerado como el material de
+
+construcción más abundante del mundo y muchas veces el único recurso
+
+local con que cuenta el ingeniero para sus obras, en este caso, se busca
+
+que sus características cumplan los requisitos que exigen dichos trabajos.
+
+La inclusión de otros materiales como agentes estabilizadores de suelos
+
+permite que se mejoren algunas propiedades (principalmente las de
+
+resistencia) disminuyan los costos y efectos ambientales, en especial, si
+
+dichos materiales provienen de subproductos industriales o de reciclaje, y
+
+se actualicen las técnicas de estabilización modificación o mejoramiento de
+
+suelos mediante la inclusión de materiales alternativos.
+
+La inquietud de estabilizar o modificar los suelos ha permitido que se
+
+generen    métodos     innovadores    que,    aunque       basados   en   los
+
+convencionales, hacen uso de aditivos y procesos diferentes. Siguiendo
+
+esta tendencia, se presenta este documento donde se estudia el
+
+comportamiento en cuanto a resistencia de un suelo grueso o material
+
+granular tipo subbase en su estado natural, y el mismo material
+
+adicionándole un producto que hasta ahora no se había usado como
+
+agente modificador en este tipo de materiales: el desecho de PVC.
+
+El trabajo se enfoca al análisis del comportamiento en cuanto al CBR, por
+
+ser el ensayo más utilizado actualmente en el país para evaluar el
+
+comportamiento de los materiales granulares dentro de las estructuras de
+
+pavimento. Dentro del documento se utilizará la denominación material
+
+
+                                                                             2
+granular tipo subbase o subbase granular para indicar un suelo que cumple
+
+con las normas que rigen en nuestro país, para ser caracterizado como tal,
+
+en atención a que para algunos ingenieros los materiales utilizados para
+
+pavimentos no se deben denominar suelos. De igual manera, el término
+
+'estabilización de suelos' se utilizará para indicar procesos que modifican o
+
+mejoran las propiedades mecánicas de los suelos.
+
+
+
+
+                                                                            3
+                                CAPITULO I
+
+
+                   PROBLEMÁTICA DE LA INVESTIGACIÓN
+
+
+1.1 PLANTEAMIENTO DEL PROBLEMA
+
+En muchas ocasiones al momento de ejecutar un proyecto nuevo ya sean
+
+carreteras y explanaciones, donde este soporte cargas los suelos naturales
+
+no cumplen con las condiciones a las que se someterá dicha obra es por
+
+ello que el presente trabajo tratara de satisfacer mejorando la calidad del
+
+suelo modificándolo para que alcance una mayor resistencia y un menor
+
+peso por peso unitario del material.
+
+El problema surge cuando determinadas obras de carreteras no cumplen
+
+con su ciclo de vida establecido por el proyectista que lo diseño, debido a
+
+fallas en el momento de ejecución cuando a veces no se considera el tipo
+
+de suelo que se le agregara para mejorar las propiedades de las sub bases
+
+que se agregara a estas obras como material de préstamo, y estos se
+
+deterioran antes de los previstos por el proyectista.
+
+
+1.2 FORMULACION DEL PROBLEMA
+
+1.2.1 PROBLEMA GENERAL
+
+¿Es posible modificar la capacidad de soporte de una mezcla granular de
+
+subbase adicionándole desecho de policloruro de vinilo?
+
+
+
+
+                                                                          4
+1.2.2 PROBLEMAS ESPECIFICOS
+
+¿Será posible cambiar el peso unitario del material granular tipo sub base?
+
+¿Será posible aumentar la resistencia a la compresión de la mezcla
+
+granular tipo sub base?
+
+
+1.3 ANTECEDENTES
+
+Los antecedentes para esta investigación surgen a raíz de la investigación
+
+que se realizó en el país de Colombia, donde se hizo una investigación
+
+similar y fue realizado por los investigadores Edgar Rodrigues Rincon,
+
+Hugo Alexander Rondón Quintana y Leydi Carolina Aguirre Aguirre, los
+
+cuales obtuvieron resultados óptimos mejorando notablemente la capacidad
+
+de soporte con el tipo de suelo que existe en Colombia. Para tal caso se
+
+hace el mismo ensayo con las mismas proporciones de desecho de
+
+Policloruro de vinilo donde solo se cambiara el tipo de agregado el cual
+
+será de la zona donde se realiza el estudio.
+
+Existen también otras revisiones que se hicieron de otras investigaciones
+
+de Estabilización de Suelos pero con diferente compuesto, el cual nos
+
+facilitó más aun a nuestra investigación.
+
+
+1.4 JUSTIFICACIÓN
+
+Debido al hecho de que los materiales preparados para subbase en la
+
+ciudad de Juliaca no alcanzan una compactación adecuada, un CBR que
+
+no pasa del 20%, y que en su mayoría de casos son el principal factor por
+
+el cual las carreteras, obras viales en general se deterioran antes de lo
+
+previsto a causa de esta razón se pretende una estabilización de este tipo
+
+de suelo con el fin de mejorar la capacidad de soporte de este suelo.
+
+
+                                                                              5
+Al incluir desecho de poli cloruró de vinilo se pretenderá disminuir el peso
+
+unitario de la súbbase granular el cual nos ayudara enormemente a mejorar
+
+la capacidad de soporte al disminuir su densidad.
+
+Necesariamente aumentara la compresión cuando a este suelo de subbase
+
+tipo granular se le agregue desecho de poli cloruró de vinilo.
+
+
+1.5 OBJETIVOS DE LA INVESTIGACIÓN
+
+1.5.1 OBJETIVO GENERAL
+
+Modificar el CBR de un material granular tipo sub base agregándole una
+
+inclusión de desecho de PVC.
+
+1.5.2 OBJETIVOS ESPECIFICOS
+
+Lograr cambiar el peso unitario del material granular tipo sub base con la
+
+inclusión de desecho de PVC.
+
+Aumentar la resistencia a la compresión de la mezcla granular tipo sub
+
+base con la inclusión de desecho de PVC.
+
+
+1.6 HIPOTESIS DE LA INVESTIGACIÓN
+
+1.6.1 HIPOTESIS GENERAL
+
+Si la inclusión de desechos de PVC a un material granular tipo sub base
+
+favorece notablemente en las propiedades entonces mejorara el CBR del
+
+material.
+
+1.6.2 HIPOTESIS SEGUNDARIAS
+
+La inclusión de desecho de PVC a un material granular tipo sub base logra
+
+cambiar el peso unitario de esta.
+
+
+
+
+                                                                          6
+La inclusión de desecho de PVC a un material granular tipo sub base
+
+favorece notablemente la resistencia a la compresión.
+
+
+
+
+                                                                  7
+                              CAPITULO II
+
+
+                             MARCO TEORICO
+
+
+2.1.1 ¿QUE ES EL SUELO?
+
+El suelo ha sido definido, en forma muy general, como la frágil piel que
+
+cubre la superficie terrestre y que cumple con variadas funciones:
+
+Un medio para el desarrollo de los planetas.
+
+Un regulador de los suministros de agua.
+
+Un hábitat y proveedor de energía y nutrientes para infinidad de
+
+organismos.
+
+Un agente almacenador, degradador y desintoxicador de sustancias tóxicas
+
+Un medio que provee soporte a estructuras tales como edificios, puentes,
+
+casas y caminos.
+
+Es la capa más superficial de la corteza terrestre, que resulta de la
+
+descomposición de las rocas por los cambios bruscos de temperatura y por
+
+la acción del agua, del viento y de los seres vivos.
+
+El proceso mediante el cual los fragmentos de roca se hacen cada vez más
+
+pequeños, se disuelven o van a formar nuevos compuestos, se conoce con
+
+el nombre de meteorización.
+
+Según Terzaghi:
+
+
+
+                                                                       8
+Suelo: es todo agregado natural de partículas minerales separables por
+
+medios mecánicos de poca intensidad, como la agitación en agua.
+
+Roca: es un agregado de minerales unidos por fuerzas cohesivas,
+
+poderosas y permanentes.
+
+
+
+
+Figura 1. Ciclo roca suelo
+
+
+2.1.2 LAS ROCAS ÍGNEAS
+
+Las rocas ígneas (latín ignis, "fuego") se forman cuando el magma (roca
+
+fundida) se enfría y se solidifica.
+
+Si el enfriamiento se produce lentamente bajo la superficie se forman rocas
+
+con cristales grandes denominadas rocas plutónicas o intrusivas, mientras
+
+que si el enfriamiento se produce rápidamente sobre la superficie, por
+
+
+
+
+                                                                          9
+ejemplo, tras una erupción volcánica, se forman rocas con cristales
+
+invisibles conocidas como rocas volcánicas o extrusivas.
+
+Las rocas ígneas componen, aproximadamente, el noventa y cinco por
+
+ciento de la parte superior de la corteza terrestre, pero quedan ocultas por
+
+una capa relativamente fina pero extensa de rocas sedimentarias y
+
+metamórficas.
+
+2.1.3 LAS ROCAS SEDIMENTARIAS
+
+Son rocas que se forman por acumulación de sedimentos que, sometidos a
+
+procesos físicos y químicos, resultan en un material de cierta consistencia.
+
+Pueden formarse a las orillas de los ríos, en el fondo de valles, lagos,
+
+mares, y en las desembocaduras de los ríos. Se hallan dispuestas
+
+formando capas o estratos.
+
+Cubren más del 75 % de la superficie terrestre, formando una cobertura
+
+sedimentaria sobre un zócalo formado por rocas ígneas y, en menor
+
+medida, metamórficas. Sin embargo su volumen total es pequeño cuando
+
+se comparan sobre todo con las rocas ígneas, que no sólo forman la mayor
+
+parte de la corteza, sino la totalidad del manto.
+
+2.1.4 LAS ROCAS METAMORFICAS
+
+Cuyo significado es “cambio de forma”, son rocas ígneas, sedimentarias o
+
+metamórficas,    que   tras   cambios    físicos    y   químicos   sufren   una
+
+reestructuración y modificación de sus propiedades.
+
+Este cambio se produce en un ambiente de altas presiones de
+
+confinamiento, altas temperaturas, intensa acción de cizallamiento,
+
+
+
+                                                                             10
+presencia de ciertos fluidos subterráneos, químicamente activos o alguna
+
+combinación de dos o tres de estos factores, pero sin fusión.
+
+El metamorfismo de las rocas se produce bajo presiones de confinamiento
+
+de por lo menos 2 kilobars (kb).
+
+
+
+
+Figura 2. Ciclo de una roca
+
+
+
+
+                                                                      11
+Figura 3. Tipología de suelos
+
+
+             EL SUELO COMO UN SISTEMA DE TRES FASES
+
+
+
+
+Figura4. Composición de un suelo
+
+
+EL SUELO Y SU ORIGEN
+
+El suelo es algo más que un agregado de partículas orgánicas e
+
+inorgánicas, sin organización: es un conjunto con organización definida y
+
+propiedades     que   varían    "vectorialmente".   En   la   dirección   vertical
+
+generalmente sus propiedades cambian mucho más rápidamente que en la
+
+horizontal: el suelo tiene un perfil.
+
+Para el agrónomo, los suelos son la parte superficial de la corteza capaz de
+
+sustentar vida vegetal. El apreciará el hecho de que el cultivo a que está
+
+destinada la capa superficial no es el más adecuado de acuerdo a la
+
+naturaleza de las sustancias químicas presentes.
+
+Para el geólogo es todo material intemperizado en el lugar en que ahora se
+
+encuentra y con contenido de materia orgánica cerca de la superficie (no
+
+
+
+
+                                                                               12
+toma     en   cuenta   los     materiales    transportados   no   intemperizados
+
+posteriormente a su transporte).
+
+Para Juárez Badillo y Rico Rodríguez, por suelo se entiende todo tipo de
+
+material terroso, desde un relleno de desperdicio, hasta areniscas
+
+parcialmente cementadas o lutitas suaves (se excluyen las rocas sanas,
+
+ígneas    o   metamórficas      y   los     depósitos   sedimentarios   altamente
+
+cementados, que no se ablanden o desintegren rápidamente por acción de
+
+la intemperie).
+
+Fases constituyentes del suelo: consideramos al suelo un sistema disperso,
+
+constituido por las tres fases: la fase sólida, formada por las partículas del
+
+suelo en sí; la fase líquida, el agua, que puede estar contenida en los poros
+
+o en la superficie de las partículas;y la fase gaseosa, o sea el aire, que
+
+también puede encontrarse en los poros interiores (no comunicados con el
+
+exterior) de las partículas.
+
+La actuación de estas fases formando sistemas: sólido-líquido-aire; sólido-
+
+líquido; sólido-aire, confieren al conjunto “suelo” sus distintas propiedades.
+
+El agua contenida juega un papel tan fundamental en el comportamiento
+
+mecánico del suelo, que debe considerarse como parte integral del mismo.
+
+En la fig. 5 vemos partículas de suelo con poros comunicados y no
+
+comunicados con el exterior, envueltas en agua, retenida por fuerzas de
+
+diversa intensidad. El agua tiende a adoptar la forma de la partícula que
+
+envuelve, o bien la forma esférica. Los espacios que dejan libres el suelo y
+
+el agua son ocupados por aire.
+
+
+
+
+                                                                               13
+Figura 5.Poros comunicados y no comunicados
+
+En figura 6 tenemos la fase sólida y gaseosa: los fenómenos de atracción y
+
+retención mutua entre partículas debidos al agua no tienen lugar. Un
+
+ejemplo es el polvo suelto, es decir, aglomeraciones de partículas sueltas y
+
+secas. La estabilidad del conjunto es prácticamente nula.
+
+
+
+
+Figura 6. Fase sólida y gaseosa
+
+En la figura 7 tenemos el sistema sólido-agua, con predominio del agua. En
+
+la condición de las partículas envueltas por capas sucesivas de agua, no
+
+existe la atracción presente en la primera figura: el sistema fluye, pues la
+
+dispersión es muy grande y nos hallamos muy cerca del estado líquido.
+
+
+
+
+                                                                         14
+Figura 7. Sistema solido-agua
+
+   En ingeniería, la mecánica de suelos es la aplicación de las leyes de la
+
+   física y las ciencias naturales a los problemas que involucran las cargas
+
+   impuestas a la capa superficial de la corteza terrestre.
+
+
+   2.2 BASE Y SUB BASE GRANULARES
+
+   Las subbases granulares son elementos estructurales del pavimento que
+
+   tienen como propósito distribuir las cargas del tránsito. Para satisfacer este
+
+   propósito, las subbases deben ser construidas con propiedades de
+
+   resistencia interna necesarias (Montejo, 1998). Según el tipo de estructura
+
+   de pavimento, atendiendo las más utilizadas en la actualidad, las subbases
+
+   se clasifican como se presenta en la tabla 1.
+
+
+
+
+                             Tabla 1. Definición de sub base
+
+
+
+
+   Fuente: (Montejo, 1998)
+
+
+   Sub-Base: son las capas de material especificado o seleccionado, de
+
+   espesor establecido, colocado sobre la subrasante para sostener la base.
+
+
+                                                                              15
+2.3 ESTABILIZACIÓN DE SUELOS
+
+Consiste en agregar un producto químico o aplicar un tratamiento físico
+
+para modificar las características de los suelos.
+
+Es la corrección de una deficiencia para darle una mayor resistencia al
+
+terreno o bien, disminuir su plasticidad.
+
+Los suelos se estabilizan para modificar las propiedades existentes
+
+haciéndolos capaces de cumplir en mejor forma los requisitos deseados,
+
+especialmente buscando un buen comportamiento esfuerzo-deformación.
+
+Las propiedades que se intentan modificar en un material granular a través
+
+de un proceso de estabilización son: estabilidad volumétrica, resistencia,
+
+permeabilidad, compresibilidad y durabilidad.
+
+Con respecto a los métodos de estabilización de suelos, los siguientes han
+
+sido referenciados en la literatura (Abril & Castrillón, 1993; Aguirre & Vélez,
+
+2005; Amaya et al., 1978; Barragán & Contreras, 1994; Caicedo & Herrera,
+
+2004; Gómez et al., 1983; Mendivil et al., 1981; Romero & Alfonso, 1986;
+
+Rosas & Sarmiento, 1997; Vega & Martínez, 2005; Rico & Del Castillo,
+
+1976) para estabilizar subbases granulares: estabilización mecánica por
+
+medio    de    mezclas,    estabilización   mecánica     por   compactación,
+
+estabilización por drenaje, estabilización con cal, estabilización con cal y
+
+cenizas volantes, estabilización con cemento, estabilización con asfalto,
+
+estabilización con lignina de cromo, estabilización con sales de aluminio,
+
+estabilización con crudo de castilla.
+
+Los más utilizados para estabilizar subbases granulares corresponden al
+
+cemento, asfalto, compactación y cal, sin embargo. en la actualidad se
+
+                                                                            16
+investigan métodos y materiales no convencionales que permitan
+
+estabilizaciones óptimas desde el punto de vista técnico, económico y
+
+ambiental.
+
+Las tres formas de lograr la estabilización de un suelo son:
+
+Física
+
+Química
+
+Mecánica
+
+Mezclas de suelos.
+
+Geotextiles: son telas permeables no biodegradables que pueden
+
+emplearse como filtros y para controlar la erosión de suelos y el transporte
+
+de lodos.
+
+Consolidación.
+
+QUÍMICA
+
+Cal: Económica para suelos arcillosos (disminuye plasticidad)
+
+Cemento Pórtland: para arenas o gravas finas (aumenta la resistencia).
+
+Productos asfálticos: Para material triturado sin cohesión (emulsión, muy
+
+usada).
+
+Cloruro de sodio y cloruro de calcio: Para arcillas y limos (impermeabilizan
+
+y disminuyen los polvos) .
+
+Escorias de fundición: Comúnmente en carpetas asfálticas, dan mayor
+
+resistencia, impermeabilizan y prolongan la vida útil.
+
+
+
+                                                                         17
+Polímeros: Comúnmente en carpetas asfálticas, dan mayor resistencia,
+
+impermeabilizan y prolongan la vida útil.
+
+Hule de neumáticos: Comúnmente en carpetas asfálticas, dan mayor
+
+resistencia, impermeabilizan y prolongan la vida útil.
+
+MECÁNICAS
+
+Compactación: Regularmente se hace en la sub-base, base y en carpetas
+
+asfálticas.
+
+
+2.4 POLIMEROS
+
+Un polímero es una sustancia que consiste en grandes moléculas formadas
+
+por muchas unidades pequeñas que se repiten, llamados monómeros. El
+
+número de unidades que se repiten en una molécula grande se llama grado
+
+de polimerización. Los materiales con un grado elevado de polimerización
+
+se denominan altos polímeros. Los homopolímeros son polímeros con un
+
+solo tipo de unidad que se repite. En los copolímeros se repiten varias
+
+unidades distintas (Areizaga et al., 1992).
+
+La mayoría de las sustancias orgánicas presentes en la materia viva, como
+
+las proteínas, la madera, la quitina, el caucho y las resinas son polímeros;
+
+también lo son muchos materiales sintéticos como los plásticos, las fibras
+
+(nailon, rayón), los adhesivos, el vidrio y la porcelana.
+
+La polimerización es una reacción química realizada mayormente en
+
+presencia de un catalizador que se combina para formar moléculas
+
+gigantes.
+
+
+
+
+                                                                         18
+Los polímeros tienen propiedades físicas y químicas muy diferentes
+
+constituidas por moléculas sencillas. Los que se obtienen industrialmente
+
+se conocen como plásticos, éstos también pueden ser llamados
+
+homopolímeros, que se producen cuando el polímero formado por la
+
+polimerización de monómeros iguales.
+
+Muchos monómeros también forman polímeros con pérdida simultánea de
+
+una pequeña molécula, como la del agua, la del monóxido de carbono o del
+
+cloruro   de   hidrógeno.   Estos   polímeros   se   llaman   polímeros   de
+
+condensación y sus productos de descomposición no son idénticos a los de
+
+las unidades respectivas de polímero.
+
+El nylon es uno de los polímeros más comunes usados como una fibra,
+
+pertenece al grupo de las poliamidas (designado con las siglas PA), debido
+
+a las características de los grupos amida en la cadena principal. El nylon
+
+6,6, además llamado nylon 66, es obtenida por la policondensación de la
+
+hexametilendiamina (6 átomos de carbono) y el ácido adíptico (6 átomos de
+
+carbono). Las unidades de diácido y de diamina alternan en la cadena
+
+polimérica.
+
+En todo momento encontramos nylon en nuestra ropa, pero también en
+
+otros lugares, en forma de termoplástico.
+
+Plásticos, materiales polímeros orgánicos (compuestos formados por
+
+moléculas orgánicas gigantes) que son plásticos, es decir, que pueden
+
+deformarse hasta conseguir una forma deseada por medio de extrusión,
+
+moldeo o hilado.
+
+
+
+
+                                                                          19
+2.4.1 PROPIEDADES FÍSICAS Y QUÍMICAS DE LOS POLÍMEROS
+
+Los polímeros tienen propiedades físicas y químicas muy distintas de las
+
+que poseen los cuerpos formados por moléculas sencillas. Son de gran
+
+valor su inercia química, que los hace inatacables por los ácidos y bases y
+
+por los agentes atmosféricos, su elevada resistenciamecánica que los hace
+
+resistentes a la rotura y al desgaste, su elevado poder dieléctrico, su
+
+elasticidad, su fácil teñido en todos los tonos y colores, su baja densidad,
+
+que varía entre 0,9 y 1,5 y su fácil obtención a bajas temperaturas, lo que
+
+permite su fabricación en gran escala. Estas valiosas cualidades han dado
+
+lugar a la producción industrial de un gran número de altos polímeros,
+
+conocidos técnicamente como plásticos, resinas, elastoplásticos y fibras
+
+sintéticas, los cuales van invadiendo todos los campos de aplicación de los
+
+productos naturales, tal como metales, porcelana, madera, gomas, seda,
+
+algodón, etc., puesto que en muchos casos son incluso más baratos que
+
+éstos.
+
+
+2.5 POLICLORURO DE VINILO (PVC)
+
+El policloruro de vinilo, - (-CH2 - CHCl-)n - , es un polímero sintético de
+
+adición que se obtiene por polimerización del cloruro de vinilo, y es la
+
+materia prima para la preparación del PVC. Su estructura molecular es la
+
+siguiente.
+
+
+
+
+Figura 8. Estructura molecular del Policloruro de vinilo (PVC)
+
+                                                                         20
+Las materias primas de las cuales se deriva el PVC son la sal común y el
+
+petróleo o gas natural. Del petróleo o gas se obtiene el etileno, mediante un
+
+proceso de craqueo; la sal se disuelve en agua y se somete a electrólisis
+
+para separar el cloro presente en ella. El etileno, en un 43%, y el cloro, en
+
+un 57%, son entonces combinados bajo calor para obtener un gas
+
+monómero, el cloruro de vinilo. Las moléculas del monómero se encadenan
+
+como resultado de una reacción conocida como polimerización. El producto
+
+resultante de este proceso es el PVC en su estado de resina virgen, cuyo
+
+aspecto es el de un fino polvillo blanco. (PETCO S. A., 2005).
+
+La mayoría de veces el policloruro de vinilo se utiliza con aditivos que
+
+mejoran su acabado, estos son: plastificantes (dan flexibilidad a los
+
+materiales poliméricos), estabilizadores de calor (para prevenir la
+
+degradación térmica durante el procesado y aumentar la vida útil),
+
+lubricantes (ayudan a la fluidez durante el procesado e impiden la adhesión
+
+a las superficies metálicas), rellenos (abaratar los costos) y los pigmentos
+
+(dan color, opacidad y resistencia a la intemperie).
+
+Debido a la facultad que tienen las resinas de mezclarse con diferentes
+
+aditivos, el PVC ha sido utilizado para diversos productos, que van desde
+
+los rígidos y durables utilizados para el suministro de agua potable y
+
+energía hasta los flexibles como las películas extensibles para empacar
+
+alimentos.
+
+La construcción e infraestructura abarca el 60% de productos realizados
+
+con PVC beneficiando los ámbitos de la vida moderna o satisfaciendo las
+
+necesidades humanas.
+
+
+
+                                                                          21
+El PVC es el producto de la polimerización del monómero de cloruro de
+
+vinilo a policloruro de vinilo. Es el derivado del plástico más versátil. Este se
+
+pueden producir mediante cuatro procesos diferentes: Suspensión,
+
+emulsión, masa y solución.
+
+Se presenta como un material blanco que comienza a reblandecer
+
+alrededor de los 80 °C y se descompone sobre 140 °C. Es un polímero por
+
+adición y además una resina que resulta de la polimerización del cloruro de
+
+vinilo o cloroeteno. Tiene una muy buena resistencia eléctrica y a la llama.
+
+El átomo de cloro enlazado a cada átomo de carbono le confiere
+
+características amorfas principalmente e impiden su re cristalización, la alta
+
+cohesión entre moléculas y cadenas poliméricas del PVC se deben
+
+principalmente a los momentos dipolares fuertes originados por los átomos
+
+de cloro, los cuales a su vez dan cierto impedimento estérico es decir que
+
+repelen moléculas con igual carga, creando repulsiones electrostáticas que
+
+reducen la flexibilidad de las cadenas poliméricas, esta dificultad en la
+
+conformación estructural hace necesario la incorporación de aditivos para
+
+ser obtenido un producto final deseado.
+
+En la industria existen dos tipos:
+
+Rígido: para envases, ventanas, tuberías, las cuales han reemplazado en
+
+gran medida al hierro (que se oxida más fácilmente).
+
+
+Flexible: cables, juguetes, calzados, pavimentos, recubrimientos, techos
+
+tensados.
+
+
+
+
+                                                                              22
+El PVC se caracteriza por ser dúctil y tenaz; presenta estabilidad
+
+dimensional y resistencia ambiental. Además, es reciclable por varios
+
+métodos.
+
+2.5.1 OBTENCIÓN
+
+Se obtiene a partir del craqueo del petróleo, que consiste en romper los
+
+enlaces químicos del compuesto para conseguir diferentes propiedades y
+
+usos. Lo que se obtiene es el etileno, que combinado con el cloro obtenido
+
+del cloruro de sodio producen etileno diclorado, que pasa a ser luego
+
+cloruro de vinilo. Mediante un proceso de polimerización llega a ser cloruro
+
+de polivinilo o PVC. Antes de someterlo a procesos para conformar un
+
+objeto el material se mezcla con pigmentos y aditivos como estabilizantes o
+
+plastificantes, entre otros.
+
+HISTORIA
+
+Resulta paradójico que uno de los polímeros comerciales menos estables
+
+sea al mismo tiempo uno de los materiales plásticos más interesantes de la
+
+actualidad, lo que se refleja en la gran cantidad de toneladas que se
+
+consumen anualmente en el mundo. Ese éxito comercial, se ha debido
+
+principalmente, al desarrollo de estabilizantes adecuados, y de otros
+
+aditivos que han hecho posible la producción de compuestos termoplásticos
+
+de gran utilidad. El cloruro de vinilo en su forma de monómero, fue descubierto
+
+por Henri VictorRegnault en 1835 y en 1872 por EugenBaumann en situaciones
+
+diferentes. Regnault produjo cloruro de vinilo cuando trataba dicloroetano con una
+
+solución alcohólica de hidróxido de potasio. También descubrió, accidentalmente,
+
+el poli(cloruro de vinilo), por medio de la exposición directa del monómero a la luz
+
+del día. Sin embargo, no advirtió la importancia de sus descubrimientos, ni
+
+                                                                                 23
+comprendió que el polvo blanco contenido en el vaso de precipitados de vidrio, era
+
+el polímero del líquido obtenido al comienzo. Baumann tuvo éxito en 1872, al
+
+polimerizar varios haluros de vinilo y fue el primero en obtener algunos de estos en
+
+la forma de producto plástico. Ostrominlensky estableció en 1912 las condiciones
+
+para la polimerización del cloruro de vinilo y, desarrolló técnicas convenientes en
+
+escala de laboratorio. Klatte de Grieskein descubrió en 1918 los procesos que aún
+
+se emplean en la actualidad para la producción de cloruro de vinilo a través de la
+
+reacción en estado gaseoso, del cloruro de hidrógeno y del acetileno, en presencia
+
+de catalizadores.
+
+
+El cloruro de vinilo y sus polímeros han sido curiosidades de laboratorio
+
+hasta hace 40 años, cuando se inició una labor de investigación más
+
+profunda y dirigida tanto en Alemania, como en Estados Unidos y Rusia.
+
+Senon de la B. F. GoodrichCompany, y Reid de la Carbide and
+
+ChemicalCarbonCompany, obtuvieron patentes para la producción de PVC
+
+que pueden ser considerados como los puntos de partida para la
+
+producción industrial de este material.
+
+El desarrollo de un PVC de Alto Impacto constituye uno de los
+
+descubrimientos de mayor importancia en la segunda mitad del siglo XX, en
+
+relación con este material.
+
+CARACTERÍSTICAS
+
+
+Tiene una elevada resistencia a la abrasión, junto con una baja densidad
+
+(1,4 g/cm3), buena resistencia mecánica y al impacto, lo que lo hace común
+
+e ideal para la edificación y construcción.
+
+
+
+
+                                                                                 24
+Al utilizar aditivos tales como estabilizantes, plastificantes entre otros, el
+
+PVC puede transformarse en un material rígido o flexible, característica que
+
+le permite ser usado en un gran número de aplicaciones.
+
+Es estable e inerte por lo que se emplea extensivamente donde la higiene
+
+es una prioridad, por ejemplo los catéteres y las bolsas para sangre y
+
+hemoderivados están fabricadas con PVC, así como muchas tuberías de
+
+agua potable.
+
+Es un material altamente resistente, los productos de PVC pueden durar
+
+hasta más de sesenta años como se comprueba en aplicaciones tales
+
+como tuberías para conducción de agua potable y sanitarios; de acuerdo al
+
+estado de las instalaciones se espera una prolongada duración del PVC así
+
+como ocurre con los marcos de puertas y ventanas.
+
+Debido a los átomos de cloro que forman parte del polímero PVC, no se
+
+quema con facilidad ni arde por si solo y cesa de arder una vez que la
+
+fuente de calor se ha retirado. Los perfiles de PVC empleados en la
+
+construcción para recubrimientos, cielorrasos, puertas y ventanas, se debe
+
+a la poca inflamabilidad que presenta.
+
+Se emplea eficazmente para aislar y proteger cables eléctricos en el hogar,
+
+oficinas y en las industrias debido a que es un buen aislante eléctrico.
+
+Se vuelve flexible y moldeable sin necesidad de someterlo a altas
+
+temperaturas (basta unos segundos expuestos a una llama) y mantiene la
+
+forma dada y propiedades una vez enfriado a temperatura ambiente, lo cual
+
+facilita su modificación.
+
+
+
+
+                                                                           25
+Alto valor energético. Cuando se recupera la energía en los sistemas
+
+modernos de combustión de residuos, donde las emisiones se controlan
+
+cuidadosamente, el PVC aporta energía y calor a la industria y a los
+
+hogares.
+
+Amplio rango de durezas.
+
+Rentable. Bajo coste de instalación.
+
+Es muy resistente a la corrosión.
+
+
+2.6 DESECHO DE POLICLORURO DE VINILO
+
+El PVC puede producir dos clases de desecho: la primera se genera
+
+durante la producción, en el proceso de polimerización, y la segunda, al
+
+finalizar el ciclo de vida de los productos de PVC (tubos de PVC, botellas,
+
+juguetes, tarjetas, etc.).
+
+En esta investigación se utilizó material proveniente del proceso industrial
+
+de PLASTISUR S. A., compañía dedicada a la producción de resinas de
+
+PVC en solución y emulsión, que son usados para diversas aplicaciones:
+
+El PVC tipo resina es utilizado en recubrimientos espumados para cuero
+
+sintético, espumas de inhibición para pisos vinílicos, papel de colgadura,
+
+sellos de tapas, empaquetaduras espumadas, espumas mecánicas, tapetes
+
+anti-fatiga, soporte para alfombras, plantillas para calzado, partes para
+
+filtros de aire, recubrimientos por inmersión, espumas vinílicas expandidas
+
+por presión y tintas para estampar camisetas.
+
+El PVC tipo suspensión es usado en piezas inyectadas, tubería, perfiles,
+
+láminas, envases, tejas, películas, suelas, sellos para tapas, cables
+
+
+                                                                         26
+eléctricos, cintas, discos, tintas, pisos, adhesivos, lacas, cueros sintéticos,
+
+recubrimiento de telas, mangueras y geomembranas.
+
+El desecho que se genera durante la producción de la resina de PVC se
+
+obtiene durante la polimerización del cloruro de vinilo. La empresa
+
+PLASTISUR obtiene estos desechos en tres momentos de la producción:
+
+Después de la polimerización, al separar el agua del PVC se desecha una
+
+mezcla de agua con PVC.
+
+Posteriormente, en el secador rotatorio, se separa el PVC y se obtiene otra
+
+mezcla a desechar de agua con PVC.
+
+Al tamizar el PVC previo a su empaque se desechan partículas gruesas y
+
+finas que no cumplen las especificaciones de la empresa.
+
+Además, durante la producciónde PVC eventualmente se tiene que abortar
+
+el proceso por alguna circunstancia anormal (fallos de luz, mal
+
+funcionamiento de la maquinaria, etc.); en ese momento el producto que se
+
+esté procesando se convierte en desecho.
+
+Por su procedencia, el desecho de PVC es un producto que contiene
+
+mezclas de las diferentes resinas que produce la empresa. Dado que la
+
+planta de producción genera varios tipos de PVC, que en los
+
+compartimientos de descarga de desechos se mezclan y, además, por
+
+considerarse un desecho, no se le tienen grandes cuidados de
+
+manipulación quedando expuesto a la contaminación (tierra, agua, sílice).
+
+Por lo anterior, no posee unas propiedades muy definidas, sin embargo,
+
+este desecho está conformado en gran parte por resina de PVC por lo cual
+
+se supone que conserva la mayoría de sus propiedades.
+
+                                                                            27
+2.6.1 MANEJO DE DESECHO DE POLICLORURO DE VINILO
+
+El manejo del desecho se puede realizar:
+
+Reciclado: el PVC reciclado es elaborado de la misma forma que la resina
+
+de PVC virgen; el reciclaje puede ser químico (actualmente en fase de
+
+desarrollo) o mecánico (tanto de los residuos industriales como de los
+
+residuos post-consumo); este último es el sistema más practicado y
+
+promocionado      por   los    organismos      estatales   y    autonómicos
+
+(PLASTUNIVERS, 2005).
+
+Sin embargo, el PVC reciclado no puede ser utilizado para envases y
+
+objetos que estén en contacto con alimentos.
+
+Incineración: la incineración es una solución eficaz que no necesita
+
+combustible o energía y puede utilizarse en calefacción o producción de
+
+electricidad.
+
+El impacto para la salud y el medio ambiente de la incineración de los
+
+desechos de PVC depende de la sofisticación, tecnología y condiciones de
+
+operación de las plantas que lo realizan, como por ejemplo, la utilización de
+
+un sistema de neutralización de humos para el ácido clorhídrico o un
+
+tratamiento de efluentes gaseosos, etc.
+
+Rellenos sanitarios: los rellenos sanitarios son otra solución para el
+
+desecho de PVC, pero no es la más factible y segura para el medio
+
+ambiente.
+
+A pesar de que el impacto ambiental generado por el desecho de PVC es
+
+menor que el de otros materiales alternativos, se deben tomar medidas
+
+preventivas para evitar contaminación de fuentes hídricas o exposición
+
+                                                                          28
+frecuente a estos materiales; Zapata (1976) y PLASTUNIVERS (2005) han
+
+referenciado diferentes problemas asociados a su utilización (infertilidad en
+
+seres humanos, aumento de radiación, permanencia en el ambiente, etc.), y
+
+en algunos países se ha prohibido su uso.
+
+
+2.7 MARCO TEORICO TECNICO
+
+En el desarrollo del presente estudio se adelantó una serie de ensayos
+
+encaminados a caracterizar la subbase granular y realizar una comparación
+
+entre el comportamiento del CBR del material en estado natural y el
+
+material con aditivo (desecho de PVC), incluyendo algunas observaciones
+
+adicionales respecto a la plasticidad del material y su peso unitario.
+
+Para lo cual se detallaran cada una de las pruebas que se realizaron, con el
+
+fin de proporcionar una mayor amplitud acerca del tema en cuestión.
+
+2.7.1 ANALISIS GRANULOMETRICO DE SUELOS POR TAMIZADO
+
+Se denomina clasificación granulométrica o granulometría, a la medición y
+
+gradación que se lleva a cabo de los granos de una formación
+
+sedimentaria, de los materiales sedimentarios, así como de los suelos, con
+
+fines de análisis, tanto de su origen como de sus propiedades mecánicas, y
+
+el cálculo de la abundancia de los correspondientes a cada uno de los
+
+tamaños previstos por una escala granulométrica.
+
+Para determinar el porcentaje total que pasa por cada tamiz, se divide el
+
+peso total que pasa, por el peso total de la muestra y se multiplica el
+
+resultado por 100.
+
+Se calcula el porcentaje de material que pasa por el tamiz de 75um (N°
+
+200) de la siguiente forma:
+
+                                                                          29
+Se calcula el porcentaje retenido sobre cada tamiz en la siguiente forma:
+
+
+
+
+Se calcula el porcentaje más fino. Restando en forma acumulativa de 100%
+
+los porcentajes retenidos sobre cada tamiz.
+
+% Pasa= 100 - % Ret. Acumulado
+
+Porcentaje de humedad higroscópica. La humedad higroscópica se
+
+considera como la pérdida de peso de una muestra secada al aire cuando
+
+se seca posteriormente al horno, expresada como un porcentaje del peso
+
+de la muestra secada al horno. Se determina de la siguiente manera:
+
+
+
+
+   Dónde:
+
+   W= Peso de suelo secada al aire
+
+
+   W1= Peso de suelo secado en el horno
+
+
+Para la clasificación de suelos para usos de ingeniería es universalmente
+
+acostumbrado el análisis granulométrico. Una parte importante de los
+
+
+
+
+                                                                            30
+criterios de aceptabilidad de suelos para carreteras, aeropistas, presas de
+
+tierra, diques, y otro tipo de terraplenes es el análisis granulométrico.
+
+La información obtenida del análisis granulométrico puede en ocasiones
+
+utilizarse para predecir movimientos del agua a través del suelo, aun
+
+cuando los ensayos de permeabilidad se utilizan más comúnmente. La
+
+susceptibilidad de sufrir la acción de las heladas en suelo, una
+
+consideración de gran importancia en climas muy fríos puede predecirse a
+
+partir del análisis granulométrico del suelo.
+
+Los suelos muy finos son arrastrados fácilmente por el agua que circula a
+
+través del suelo y los sistemas de subdrenaje usualmente se colman con
+
+sedimentos rápidamente a menos que sean protegidos adecuadamente por
+
+filtros de material debidamente gradado. La gradación adecuada de estos
+
+materiales, denominados filtros, puede ser establecida a partir de su
+
+análisis granulométrico.
+
+Para obtener un resultado significativo la muestra debe ser representativa
+
+de la masa de suelo. Como no es posible determinar el tamaño real de
+
+cada partícula independiente de suelo – la práctica solamente agrupa los
+
+materiales por rangos de tamaños. Para lograr esto se obtiene la cantidad
+
+de material que pasa a través de un tamiz con una malla dad pero es
+
+retenida por un siguiente tamiz cuya malla tiene diámetros ligeramente
+
+menores al anterior y se relaciona esta cantidad retenida con el total de
+
+muestra pasada a través de los tamices.
+
+Todos los sistemas de clasificación utilizan el tamiz No. 200 como punto
+
+divisorio; las clasificaciones se basan en términos de cantidad retenida y
+
+
+                                                                            31
+cantidad que pasa el tamiz No. 200. Ocasionalmente es deseable conocer
+
+la escala aproximada de las partículas menores que el tamiz No. 200.
+
+Cuando esto se requiere, el método a seguir es el ensayo de “análisis
+
+granulométrico – método del hidrómetro”.
+
+La información obtenida del análisis granulométrico se presenta en forma
+
+de curva.
+
+Para poder comparar suelos y visualizar más fácilmente la distribución de
+
+los tamaños de los granos presentes, y como una masa de suelo típica
+
+puede tener partículas que varíen entre tamaños de 2.00 mm y 0.075 mm
+
+las más pequeñas (tamiz No. 200), por lo cual sería necesario recurrir a una
+
+escala muy grande para poder dar el mismo peso y precisión de la lectura a
+
+todas las medidas, es necesario recurrir a la escala logarítmica para los
+
+tamaños de las partículas. Los procedimientos patrones utilizan el
+
+porcentaje que pasa como la ordenada en escala natural de la curva de
+
+distribución granulométrica.
+
+A partir de la curva de distribución granulométrica, se pueden obtener
+
+diámetros característicos tales como el D10, D30, D60, etc. El D se refiere
+
+al tamaño del grano, o diámetro aparente, de la partícula de suelo y el
+
+subíndice (10, 30, 60) denota el porcentaje de material más fino. Por
+
+ejemplo,
+
+D10 = significa que el 10% de los granos son menores al tamaño indicado
+
+por el corte sobre la curva y proyectado al eje X.
+
+
+
+
+                                                                         32
+Una indicación de la variación del tamaño de los granos presentes en la
+
+muestra se obtiene mediante el coeficiente de uniformidad Cu, definido
+
+como:
+
+
+
+
+Cu = D60/ D10
+
+Un valor grande de en este parámetro Cu indica que los diámetros D60 y
+
+D10 difieren un tamaño apreciable. No asegura sin embargo, que no exista
+
+un vacío de gradación, como el que se presenta cuando falta por completo
+
+o solo existe una cantidad muy pequeña de diámetros de determinado
+
+tamaño.
+
+El Coeficiente de concavidad Cc o de curvatura es una medida de la forma
+
+de la curva entre el D60 y el D10, y se define de la siguiente forma
+
+
+
+
+Cc = D30² / (D10 x D60)
+
+Valores de Cc muy diferentes de 1.0 indican que faltan una serie de
+
+diámetros entre los tamaños correspondientes al D10 y al D60.
+
+2.7.2 DETERMINACION DEL LIMITE LÍQUIDO Y LIMITE PLASTICO
+
+LIMITE LÍQUIDO.-es el contenido de agua, expresado en porcentaje
+
+respecto al peso del suelo seco, que delimita la transición entre el estado
+
+líquido y plástico de un suelo.
+
+El límite líquido se define como el contenido de agua necesario para que la
+
+ranura de un suelo ubicado en el equipo de Casagrande, se cierre después
+
+de haberlo dejado caer 25 veces desde una altura de 10 mm.
+
+
+                                                                         33
+Muestra.- La cantidad usada es aproximadamente 100 gr. pasa malla N° 40
+
+de la muestra original, previamente secada al aire.
+
+Ajuste y control del Aparato de Casagrande.- Ajustar la altura de caída de la
+
+cuchara: se gira la manivela hasta que la cuchara se eleve a su mayor
+
+altura. Utilizando el calibrador de 10mm, se verifica que la distancia entre el
+
+punto de percusión y la base sea de 10mm exactamente.
+
+De ser necesario, se aflojan los tornillos de fijación y se mueve el de ajuste
+
+hasta obtener la altura de caída requerida. Si el ajuste es correcto se
+
+escuchara un ligero campanilleo producido por la leva al golpear el tope de
+
+la taza; si la taza se levanta por sobre el calibre o no se escucha ningún
+
+sonido debe realizarse un nuevo reajuste.
+
+LIMITE PLÁSTICO.- "el limite plástico es el contenido de agua que limita el
+
+estado plástico resistente semisólido."
+
+El límite plástico de un suelo es el menor contenido de humedad
+
+determinado, de acuerdo con el método bajo el cual el suelo permanece
+
+plástico.
+
+Para la determinación de éste límite se toma muestras del ensayo para la
+
+obtención del límite líquido y procedemos a amasarla y posteriormente a
+
+arrollarla, cuya arrolladora vamos disminuyendo en el diámetro, hasta que
+
+los rollitos presenten rupturas o ranuras. Mientras se rasga aumentamos la
+
+humedad del suelo que no presenta ninguna falla, hasta que los rollitos
+
+lleguen a tener un diámetro de 3 mm, en cuyo diámetro decimos que esa
+
+humedad es la que determina el índice plástico.
+
+
+
+
+                                                                            34
+Las arenas no tienen plasticidad, los limos tienen pero muy poca, en
+
+cambio las arcillas, y sobre todo aquellas ricas en materia son muy
+
+plásticas.
+
+El límite plástico se ha definido arbitrariamente como el contenido de
+
+humedad del suelo al cuál un cilindro se rompe o se resquebraja cuando se
+
+enrolla a un diámetro de 3 mm. O aproximadamente 3 mm. Esta prueba es
+
+bastante más subjetiva (dependiente del operador) que el ensayo del límite
+
+líquido, pues la definición del resquebrajamiento del cilindro de suelo así
+
+como del diámetro están sujetas a la interpretación del operador.
+
+El diámetro puede establecerse durante el ensayo por comparación de un
+
+alambre común o de soldadura del mismo diámetro. Con la práctica, se
+
+encuentra que los valores del límite plástico pueden reproducirse sobre el
+
+mismo suelo por parte de diferentes laboratoristas, dentro de un rango del 1
+
+al 3%.
+
+El ensayo tiene como finalidad la determinación del límite plástico de un
+
+suelo. Se denomina límite plástico a la humedad más baja con la que
+
+pueden formarse cilindros de unos 3 mm de diámetro, rodando la muestra
+
+de suelo entre la palma de la mano y una superficie lisa, sin que los
+
+cilindros se rompan a pedazos.
+
+Se parte de una muestra fina de suelo (partículas inferiores a 0,40 mm) que
+
+se amasa con agua destilada hasta que se pueda formar, con facilidad, una
+
+bola sin que al aplastarla, se pegue a los dedos.
+
+
+
+
+                                                                         35
+Con la tercera parte de la muestra, se forma un elipsoide y, acto seguido,
+
+se hace rodar entre los dedos de la mano y una superficie lisa, con la
+
+presión mínima para formar cilindros.
+
+Si al llegar el cilindro a un diámetro de 3.2 mm no se ha hecho micas, se
+
+vuelve a repetir el proceso tantas veces como sea necesario, hasta que se
+
+consiga quedar en trozos pequeños dicho diámetro.
+
+La porción de suelo, así obtenida, se coloca en una pesa sustancia tarada y
+
+se continúa el proceso hasta obtener una muestra de al menos 5 gr. A
+
+continuación, se determina la humedad de la muestra.
+
+Se repite la operación con la otra tercera parte de la muestra.
+
+La muestra mínima de material para proceder a su ensayo se establece en
+
+2,5 kg.
+
+EXIGENCIAS
+
+Las exigencias normativas vienen especificadas por el valor del índice de
+
+plasticidad y, a menudo, ligadas a los valores del límite líquido.
+
+En terraplén las exigencias para cada tipo de suelo son:
+
+Suelos seleccionados: Índice de plasticidad menor a 10.
+
+Suelos adecuados: Si el límite líquido es superior a 30, el índice de
+
+plasticidad será superior a 4.
+
+Suelos tolerables: Si el límite líquido es superior a 40, el índice de
+
+plasticidad será mayor al 73 % del valor que resulta de restar 20 al límite
+
+líquido.
+
+
+
+                                                                        36
+Suelos marginales: Si el límite líquido es superior a 90, el índice de
+
+plasticidad será mayor al 73 % del valor que resulta de restar 20 al límite
+
+líquido.
+
+
+
+
+2.7.3 DETERMINACION DE LOS FACTORES DE CONTRACCION DE
+
+LOS SUELOS
+
+La presente práctica permitirá saber el comportamiento y determinaremos
+
+la contracción del suelo en estudio.
+
+En esta práctica realizaremos la práctica con el estrato número 02 en
+
+donde cumple con la expectativa de trabajo el cual tiene la propiedad de ser
+
+un estrato plástico.
+
+El objetivo del ensayo es determinar el límite de contracción de un suelo
+
+por método del mercurio.
+
+El límite de contracción se define como el contenido de humedad al cual un
+
+material al ser secado termina de perder volumen.
+
+En la práctica de contracción se debe tener mucho cuidado porque estamos
+
+expuesto a un mineral liquido contaminante la vertibilidad de dicho metal
+
+puede causar traumas en el sistema nervioso que son irreversible lo cual
+
+que podrá ser realizado con toda seriedad con un tutor que pueda estar
+
+observando.
+
+El grupo debe contar con sus respectivo equipo de seguridad así podrá
+
+protegerse con la contaminación del mercurio.
+
+
+
+
+                                                                         37
+Al finalizar de la práctica tendrá que lavarse reiterada veces con agua jabón
+
+para que no haya malestares más adelante.
+
+
+
+
+2.7.4 DETERMINACION DE LA RESISTENCIA AL DESGASTE DE LOS
+
+AGREGADOS GRUESOS POR MEDIO DE LA MAQUINA DE LOS
+
+ANGELES.
+
+La resistencia a la abrasión, desgaste, o dureza de un agregado, es una
+
+propiedad que depende principalmente de las características de la roca
+
+madre. Este factor cobra importancia cuando las partículas van a estar
+
+sometidas a un roce continuo como es el caso de pisos y pavimentos, para
+
+lo cual los agregados que se utilizan deben estar duros.
+
+Para determinar la dureza se utiliza un método indirecto cuyo procedimiento
+
+se encuentra descrito en la Normas ICONTEC 93 y Norma ICONTEC 98
+
+para los agregados gruesos. Dicho método más conocido como el de la
+
+Máquina de los Ángeles, consiste básicamente en colocar una cantidad
+
+especificada de agregado dentro de un tambor cilíndrico de acero que está
+
+montado horizontalmente. Se añade una carga de bolas de acero y se le
+
+aplica un número determinado de revoluciones. El choque entre el
+
+agregado y las bolas da por resultado la abrasión y los efectos se miden
+
+por la diferencia entre la masa inicial de la muestra seca y la masa del
+
+material desgastado expresándolo como porcentaje inicial.
+
+Porcentaje de desgaste = [ Pa – Pb ] / Pa
+
+Donde
+
+Pa es la masa de la muestra seca antes del ensayo (gr.)
+
+                                                                          38
+Pb es la masa de la muestra seca después del ensayo, lavada sobre el
+
+tamiz 1.68 mm
+
+En el ensayo de resistencia a la abrasión o al desgaste se utiliza la
+
+Maquina de los Ángeles. Este es un aparto constituido por un tambor
+
+cilíndrico hueco de acero de 500 mm de longitud y 700 mm de diámetro
+
+aproximadamente, con su eje horizontal fijado a un dispositivo exterior que
+
+puede transmitirle un movimiento de rotación alrededor del eje. El tambor
+
+tiene una abertura para la introducción del material de ensayo y de la carga
+
+abrasiva; dicha abertura está provista de una tapa que debe reunir las
+
+siguientes condiciones:
+
+Asegurar un cierre hermético que impida la pérdida del material y del polvo.
+
+Tener la forma de la pared interna del tambor, excepto en el caso de que
+
+por la disposición de la pestaña que se menciona más abajo, se tenga
+
+certeza de que el material no puede tener contacto con la tapa durante el
+
+ensayo.
+
+Tener un dispositivo de sujeción que asegure al mismo tiempo la fijación
+
+rígida de la tapa al tambor y su remoción fácil.
+
+El tambor tiene fijada interiormente y a lo largo de una generatriz, una
+
+pestaña o saliente de acero que se proyecta radialmente, con un largo de
+
+90 mm aproximadamente. Esta pestaña debe estar montada mediante
+
+pernos u otros medios que aseguren su firmeza y rigidez. La posición de la
+
+pestaña debe ser tal que la distancia de la misma hasta la abertura, medida
+
+sobre la pared del cilindro en dirección de la rotación, no sea menor de
+
+1250 mm. La pestaña debe reemplazarse con un perfil de hierro en ángulo
+
+                                                                          39
+fijado interiormente a la tapa de la boca de entrada, en cuyo caso el sentido
+
+de la rotación debe ser tal que la carga sea arrastrada por la cara exterior
+
+del ángulo.
+
+Una carga abrasiva consiste en esfera de fundición o de acero de unos 48
+
+mm de diámetro y entre 390 y 445 gramos de masa, cuya cantidad
+
+depende del material que se ensaya, tal como se indica en la siguiente
+
+tabla.
+
+
+
+
+                     Tabla 2. Cantidades de material para ensayo
+
+
+              TIPO                 NÚMEROS     DE       MASA   DE   LAS
+
+                                   ESFERAS              ESFERAS (gr.)
+
+
+
+
+              A                    12                   5000 ± 25
+
+              B                    11                   4584 ± 25
+
+              C                    8                    3330 ± 25
+
+              D                    6                    2500 ± 15
+
+
+
+                                                                          40
+Fuente (Montejo y cornejo)
+
+
+La carga abrasiva la constituyen esferas de acero        cuyo peso total
+
+dependerá de la graduación granulométrica de la muestra de prueba.
+
+Numero de esferas en éste ensayo 12
+
+Diámetro de las esferas: 1 27/32 pulgadas.
+
+Peso de las esferas: entre 390 y 445 gramos
+
+Número de revoluciones a que debe girar la máquina de los Ángeles: 500.
+
+Velocidad a que debe girar la máquina: 30 a 33 r.p.m.
+
+2.7.5 ENSAYO DE COMPACTACION (PROCTOR MODIFICADO)
+
+Un suelo con un contenido de Humedad determinado es colocado en 5
+
+capas dentro de un molde de ciertas dimensiones, cada una de las capas
+
+es compactada en 25 ó 56 golpes con un pisón de 10 lbf (44.5 N) desde
+
+una altura de caída de 18 pulgadas (457 mm), sometiendo al suelo a un
+
+esfuerzo de compactación total de aproximadamente de 56 000 pie-lbf/pie3
+
+(2 700 kN-m/m3). Se determina el Peso Unitario Seco resultante. El
+
+procedimiento se repite con un número suficiente de contenidos de agua
+
+para establecer una relación entre el Peso Unitario Seco y el Contenido de
+
+Agua del Suelo. Estos datos, cuando son ploteados, representan una
+
+relación curvilineal conocida como curva de Compactación. Los valores de
+
+Optimo Contenido de Agua y Máximo Peso Unitario Seco Modificado son
+
+determinados de la Curva de Compactación.
+
+IMPORTANCIA Y USO
+
+
+
+
+                                                                       41
+El suelo utilizado como relleno en Ingeniería (terraplenes, rellenos de
+
+cimentación, bases para caminos) se compacta a un estado denso para
+
+obtener propiedades satisfactorias de Ingeniería tales como: resistencia al
+
+esfuerzo de corte, compresibilidad ó permeabilidad. También los suelos de
+
+cimentaciones son a menudo compactados para mejorar sus propiedades
+
+de Ingeniería.
+
+Los ensayos de compactación en Laboratorio proporcionan las bases para
+
+determinar el porcentaje de compactación y contenido de agua que se
+
+necesitan para obtener las propiedades de Ingeniería requeridas, y para el
+
+control de la construcción para asegurar la obtención de la compactación
+
+requerida y los contenidos de agua.
+
+Durante el diseño de los rellenos de Ingeniería, se utilizan los ensayos de
+
+corte consolidación permeabilidad u otros ensayos que requieren la
+
+preparación de especímenes de ensayo compactado a algún contenido de
+
+agua para algún Peso Unitario. Es práctica común, primero determinar el
+
+óptimo contenido de humedad (wo) y el Peso Unitario Seco (máx) mediante
+
+un ensayo de compactación. Los especímenes de compactación a un
+
+contenido de agua seleccionado (w), sea del lado húmedo o seco del
+
+óptimo (wo) o al óptimo (wo) y a un Peso Unitario seco seleccionado
+
+relativo a un porcentaje del Peso Unitario Seco máximo (máx). La selección
+
+del contenido de agua (w), sea del lado húmedo o seco del óptimo (wo) o al
+
+óptimo (wo), y el Peso Unitario Seco (máx) se debe basar en experiencias
+
+pasadas, o se deberá investigar una serie de valores para determinar el
+
+porcentaje necesario de compactación.
+
+
+
+                                                                         42
+Cualquier proyectista de fundaciones en algún momento ya tuvo que hacer
+
+su diseño basado en conclusiones procedentes de un estudio geotécnico,
+
+incluyendo la mejora de una capa de suelo de espesor variable, por medio
+
+de la substitución de este por un material granular o de material
+
+compactado, por ejemplo, el 95% Proctor Normal o Proctor modificado.
+
+Pero, ¿qué significa Proctor?
+
+No todos los terrenos naturales en los cuales se debe realizar un cierto tipo
+
+de fundación, son adecuados. Un suelo granular suelto, por ejemplo, puede
+
+sufrir deformaciones elásticas inadmisibles. Lo mismo puede ocurrir a un
+
+terreno cohesivo por razones de consolidación. Debe entonces ser
+
+mejorado este suelo.
+
+La compactación no es seguramente el único método de mejora de suelos,
+
+aún si es uno de las más económicos y populares. Existen varios otros
+
+métodos, por ejemplo: las inyecciones, el congelamiento, la vibro
+
+fluctuación, la precompresión, los drenes, la estabilización con materiales
+
+como la cal o las cenizas.
+
+Con la compactación variamos la estructura del suelo y algunas de sus
+
+características mecánicas. Algunos de los parámetros que varían con la
+
+compactación son: permeabilidad, peso específico y resistencia al corte. A
+
+través de la compactación buscamos las propiedades adecuadas para el
+
+suelo de una determinada fundación, así como una buena homogenización
+
+del mismo, lo cual causará una reducción de la posibilidad de producirse
+
+asentamientos diferenciales
+
+COMPACTACION
+
+                                                                          43
+Proceso de empaquetamiento de las partículas de suelo más cercanamente
+
+posible por medio mecánico aumentando la densidad seca.
+
+La compactación consiste en un proceso reiterativo, cuyo objetivo es
+
+conseguir una densidad específica para una relación óptima de agua, al fin
+
+de garantizar las características mecánicas necesarias del suelo.
+
+OCH    optimo contenido de humedad del suelo q produce una máxima
+
+densidad seca.
+
+Máxima Densidad Seca usando una compactación al OCH.
+
+Compactación Relativa porcentaje entre la densidad seca del suelo y su
+
+máxima densidad seca.
+
+Densidad seca – Contenido de humedad relación entre densidad seca y el
+
+contenido de humedad bajo un esfuerzo de compactación.
+
+2.7.6 ENSAYO CBR (CALIFORNIA BEARING RATIO)
+
+El ensayo CBR (California Bearing Ratio) mide la carga necesaria para
+
+penetrar un pistón de dimensiones determinadas a una velocidad
+
+previamente fijada en una muestra compactada de suelo después de
+
+haberla sumergido en agua durante cuatro días y de haber medido su
+
+hinchamiento. El hecho de sumergir la muestra se debe a que así podemos
+
+prever la hipotética situación de acumulación de humedad en el suelo
+
+después de la construcción. Por tanto después de haber compactado el
+
+suelo y de haberlo sumergido, lo penetramos con un pistón el cual va
+
+conectado a un pequeño "plotter" que nos genera una gráfica donde se nos
+
+representa la carga respecto la profundidad a la que ha penetrado el pistón
+
+dentro de la muestra. Esta gráfica suele ser una curva con el tramo inicial
+
+                                                                         44
+recto y el tramo final cóncavo hacia abajo (si el tramo inicial no es recto se
+
+corrige). Una vez tenemos la gráfica miramos los valores de la carga que
+
+soportaba el suelo cuando el pistón se había hundido 2.5 mm y 5mm y los
+
+expresamos en tanto por ciento, tomando como índice CBR el mayor de los
+
+porcentajes calculados.
+
+El CBR se obtiene como la relación de la carga unitaria (por pulgada
+
+cuadrada) necesaria Para lograr una cierta profundidad de penetración
+
+dentro de la muestra de suelo compactada a un contenido de humedad y
+
+densidad dadas con respecto a la carga unitaria patrón requerida para
+
+obtener la misma profundidad de penetración en una muestra estándar de
+
+material triturado. En forma de ecuación, esto se puede expresar como:
+
+
+
+
+CBR = carga unitaria del ensayo *100 (%)
+
+
+Carga unitaria patrón
+
+
+
+
+Los ensayos de CBR se hacen usualmente sobre muestras compactadas al
+
+contenido de humedad óptimo para el suelo determinado utilizando el
+
+ensayo de compactación estándar (o modificada).
+
+A menudo se compactan dos moldes de suelo: uno para penetración
+
+inmediata y otro para penetración después de dejarlo saturar por un periodo
+
+de 96 horas; este último se sobrecarga con un peso similar al del pavimento
+
+pero en ningún caso menor que 4.5 kg. Es necesario durante este periodo
+
+tomar registros de expansión para instantes escogidos arbitrariamente.
+
+
+
+                                                                           45
+En ambos ensayos, se coloca una sobrecarga sobre la muestra de la
+
+misma magnitud de la que se utiliza durante el ensayo de expansión. El
+
+ensayo sobre la muestra saturada cumple dos propósitos:
+
+1. Dar información sobre la expansión esperada en el suelo bajo la estructura de
+
+pavimento cuando el suelo se satura.
+
+
+2. Dar indicación de la pérdida de resistencia debida a la saturación en el campo.
+
+
+El ensayo de penetración se lleva a cabo en una máquina de compresión
+
+utilizando una velocidad de deformación unitaria de 1.27 mm/min. Se toman
+
+lecturas de carga versus penetración cada 0.64 mm de penetración hasta
+
+llegar a un valor de 5.0 mm a partir del cual se toman lecturas con
+
+velocidades de penetración de 2.5 mm/min hasta obtener una penetración
+
+total de 12.7 mm.
+
+El valor del CBR se utiliza para establecer una relación entre el
+
+comportamiento de los suelos, principalmente con fines de utilización como
+
+base y subrasante bajo pavimentos de, carreteras y aeropistas.
+
+
+
+
+                                                                                 46
+                              CAPITULO III
+
+
+
+                            METODOLOGIA
+
+TOMA DE MUESTRAS COMBINADAS AL 50% CADA UNA
+
+
+
+
+Figura 9.Toma de muestras de la cantera de rio Unocolla.
+
+
+
+
+                                                           47
+Figura 10.Toma de muestras de la cantera Taparachi.
+
+
+
+
+Figura 11.Vista Panorámica de la Cantera de Taparachi.
+
+
+
+
+3.1 ENSAYO DE DETERMINACIÓN DEL LÍMITE LÍQUIDO
+
+OBJETIVO DEL ENSAYO
+
+El presente ensayo tiene por objeto determinar el límite líquido de un suelo
+
+mediante la elaboración de una curva de flujo, resultado de la
+
+determinación de tres puntos con la ayuda del equipo de Casagrande. Que
+
+posee la combinación al 50% de las dos muestras extraídas de las
+
+
+
+                                                                          48
+Canteras de Taparachi y el rio Unocolla, perteneciente al Distrito de Juliaca,
+
+Provincia de San Román, Región de Puno.
+
+TRABAJOS DE CAMPO
+
+Con la finalidad de definir el tipo de suelo del área de estudio, se realizaron
+
+la recolección de muestras de las dos canteras a cielo abierto.
+
+MUESTREO
+
+De cada uno de las dos canteras se extrajeron muestras alteradas que
+
+debidamente identificadas se remitieron al laboratorio para los ensayos
+
+correspondientes para la identificación y clasificación de suelos.
+
+MATERIALES Y EQUIPOS
+
+Un Plato de porcelana, preferentemente sin esmaltar o similar para el
+
+mezclado, de aproximadamente 115 mm.de diámetro.
+
+Una espátula o cuchillo que tenga una hoja aproximadamente de 75 mm a
+
+100 mm de longitud y 20 mm de ancho con punta redonda.
+
+Cuchara de Casagrande, operada manual o mecánicamente, es un
+
+dispositivo que consiste en un plato de latón y carruaje calibrada para una
+
+altura de caída de 10 mm.
+
+Ranurador, Puede ser plato o encorvado (según normativa).
+
+Calibrador, unido al ranurador o separado, conforme a las dimensiones de
+
+de 10 mm de espesor.
+
+Balanza o báscula con precisión dentro del 0.1% de la carga de ensayo en
+
+cualquier punto dentro del rango de uso, graduada como mínimo a 0,05 kg.
+
+
+                                                                            49
+Horno. Fuente de Calor capaz de mantener una temperatura de 110°C ±
+
+5°C.
+
+9 Recipientes o tarros. Se utiliza para introducir las muestras en el horno.
+
+Tamiz Nº 40 de la serie ASTM. Para seleccionar las muestras y que tengan
+
+casi un mismo tamaño.
+
+Agua destilada.
+
+PROCEDIMIENTO.
+
+De la Muestra la cantidad usada es aproximadamente 100 g pasa la malla
+
+40 de la muestra original, previamente secada al aire el cual se coloca en el
+
+plato de porcelana.
+
+Ubique la muestra dentro de un recipiente adecuado que permita mezclarlo
+
+con agua.
+
+Agregar de 15 a 20 ml de agua destilada removiendo alternada y
+
+repetidamente, amasando y cortando con la espátula a fin de homogenizar
+
+la muestra. Se efectúa incrementos de agua de 1 a 3 ml.
+
+Colocar la muestra en un recipiente que impida la evaporación (funda
+
+plastica) hasta que se sature la muestra por un tiempo mínimo de 16 horas.
+
+Cuando el suelo y el agua formen una masa consistente, ubique una
+
+porción en el recipiente del equipo de Casagrande, con la ayuda de la
+
+espátula verifique que el nivel de la muestra de suelo no supere el borde
+
+del recipiente y que el nivel máximo entre la base del recipiente y el suelo
+
+sea de 10 mm. El exceso de suelo retírelo y retórnelo al recipiente donde
+
+está realizando la mezcla.
+
+                                                                               50
+Con la ayuda del ranurador, divida el suelo que está en el recipiente del
+
+equipo de Casagrande en dos mitades, mediante un movimiento suave a lo
+
+largo del diámetro de éste, de atrás hacia la parte frontal. El movimiento
+
+debe ser cuidadoso propiciando la construcción de la ranura en un solo
+
+movimiento y de manera que esta llegue hasta el fondo, quede limpia y no
+
+se dañen los bordes de las mitades de suelo generadas.
+
+Una vez hecho el surco o ranura, con la ayuda de la manivela del equipo,
+
+damos golpes sin parar a la cuchara a una velocidad de 2 golpes/segundo,
+
+hasta que las dos mitades se junten 12 mm. Se debe registrar el número de
+
+golpes en los cuales se cerró la ranura.
+
+Se remueve del equipo parte de la muestra de suelo, procurando tomarla
+
+del sector donde se cerró la ranura. La muestra tomada es llevada a una
+
+cápsula, se registra su peso y se somete a secado para determinar su
+
+humedad.
+
+Este proceso se repite 3 veces, adicionando agua o extendiendo la muestra
+
+para someterla a secado, facilitando así la obtención de otros puntos con
+
+diferente humedad y número de golpes.
+
+DATOS Y RESULTADOS.
+
+De la muestra compuesta por las dos canteras al 50% de cada una
+
+respectivamente a continuación detallamos los datos de laboratorio:
+
+                         Tabla 3. Resultados obtenidos
+
+
+                                 Masa           Masa
+       MUESTRA                                           Masa Prueba 3
+                                 Prueba         Prueba
+
+
+
+
+                                                                         51
+                                 1            2
+
+
+
+        Peso del tarro (T)       26.32        23.33     24.46 g
+
+                                 g            g
+
+
+        (T+ SH)                  38.43        34.40     36.13 g
+
+                                 g            g
+
+
+        (T+SS)                   35.72        31.90     33.48 g
+
+                                 g            g
+
+
+        Ww = (T+ SH) –           2.71 g       2.50 g    2.65 g
+
+        (T+SS)
+
+
+        Ws = (T+ SS) – T         9.40 g       8.57 g    9.02 g
+
+
+        W% = (Ww/Ws) *           28.83        29.17     29.38 %
+
+        100                      %            %
+
+
+        Numero de Golpes         32           27        18
+
+
+Fuente (elaboración propia)
+
+
+ELABORACIÓN DE LA CURVA DE FLUJO
+
+El objetivo de este procedimiento es obtener los puntos suficientes para
+
+construir un gráfico con el número de golpes vs. Humedad en escala,
+
+obtener una recta e interpolar a los 25 golpes para conocer la humedad, y
+
+este valor es el correspondiente al Límite Líquido.
+
+
+
+
+                                                                       52
+ 29.6
+
+ 29.5
+                   29.38
+ 29.4
+
+ 29.3
+                                               29.16   29.17
+ 29.2
+
+ 29.1
+
+  29
+
+ 28.9
+                                                               28.83
+ 28.8
+
+ 28.7
+
+ 28.6
+        15
+
+
+
+Figura 12. Curva de flujo del límite liquido
+
+
+
+
+Figura 13. Pesado de recipientes vacíos
+
+
+                                                                       53
+Figura 14.Usodel ranuradoren la copa de Casagrande
+
+
+
+
+Figura 15. Muestra extraída (lugar donde se aproximaron)
+                                                           54
+Figura 16. Muestra que será llevada al durante 24 horas
+
+
+
+
+3.2 ENSAYO DE DETERMINACIÓN DEL LIMITE PLASTICIDAD E ÍNDICE
+
+PLÁSTICO
+
+OBJETIVO DEL ENSAYO
+
+El presente ensayo tiene por objeto determinar el porcentaje de humedad
+
+del suelo que ha producido un cilindro de aproximadamente 3.2 mm de
+
+diámetro. Es decir, el porcentaje o contenido de agua que limita el estado
+
+plástico del estado resistente semisólido. Que posee la combinación al 50%
+
+de las dos muestras extraídas de las Canteras de Taparachi y el rio
+
+Unocolla, perteneciente al Distrito de Juliaca, Provincia de San Román,
+
+Región de Puno.
+
+TRABAJOS DE CAMPO
+
+
+                                                                        55
+Con la finalidad de definir el tipo de suelo del área de estudio, se realizaron
+
+la recolección de muestras de las dos canteras a cielo abierto.
+
+MUESTREO
+
+De cada uno de las dos canteras se extrajeron muestras alteradas que
+
+debidamente identificadas se remitieron al laboratorio para los ensayos
+
+correspondientes para la identificación y clasificación de suelos.
+
+MATERIAL Y EQUIPOS
+
+Una placa de vidrio.
+
+Una espátula o cuchillo que tenga una hoja aproximadamente de 75 mm a
+
+100 mm de longitud y 20 mm de ancho con punta redonda.
+
+Balanza o báscula con precisión dentro del 0.1% de la carga de ensayo en
+
+cualquier punto dentro del rango de uso, graduada como mínimo a 0,05 kg.
+
+Horno. Fuente de Calor capaz de mantener una temperatura de 110°C ±
+
+5°C.
+
+9 Recipientes o tarros. Se utiliza para introducir las muestras en el horno.
+
+Tamiz Nº 40 de la serie ASTM. Para seleccionar las muestras y que tengan
+
+casi un mismo tamaño.
+
+Agua destilada.
+
+PROCEDIMIENTO.
+
+Se divide en varios pedazos o porciones pequeñas la muestra de 20 a 30
+
+gramos de suelo que se había separado con anterioridad durante la
+
+preparación de la muestra para el ensayo del límite líquido.
+
+                                                                               56
+Se debe enrollar el suelo con la mano extendida sobre una placa de vidrio,
+
+o sobre un pedazo de papel colocado a su vez sobre una superficie lisa,
+
+con presión suficiente para moldearlo en forma de cilindro, o hilo de
+
+diámetro uniforme por la acción de unos 80 a 90 golpes o movimientos de
+
+mano por minuto (un golpe es igual a un movimiento hacia adelante y hacia
+
+atrás). Cuándo el diámetro del hilo o cilindro del suelo llegue a 3 mm. (1/8
+
+de pulgada) se debe romper en pequeños pedazos y con ellos moldear
+
+nuevamente unas bolas o masas que a su vez vuelvan a enrollarse.
+
+El proceso de hacer masas o bolas de suelo y enrollarlas debe continuarse
+
+alternativamente hasta cuando el hilo o cilindro de suelo se rompa bajo la
+
+presión de enrollamiento y no permita que se enrolle adicionalmente.
+
+Si el cilindro se desmorona a un diámetro superior a tres milímetros, ésta
+
+condición es satisfactoria para definir el límite plástico si el cilindro se había
+
+enrollado con anterioridad hasta más o menos tres milímetros. La falla del
+
+cilindro se puede definir del siguiente modo:
+
+a) Simplemente por separación en pequeños pedazos
+
+b) Por desprendimiento de escamas de forma tubular (cilindros huecos) de
+
+entro hacia afuera del cilindro ó hilo de suelo.
+
+c) Pedacitos sólidos en forma de barril de 6 a 8 mm de largo (para arcillas
+
+altamente plásticas).
+
+Para producir la falla no es necesario reducir la velocidad de enrollado y/o
+
+la presión de la mano cuando se llega a 3 mm de diámetro. Los suelos de
+
+muy baja plasticidad son una excepción en éste sentido, en estos casos la
+
+
+
+                                                                               57
+bola inicial debe ser del orden de 3 mm antes de empezar a enrollar con la
+
+mano.
+
+Esta secuencia debe repetirse el número de veces para producir suficientes
+
+pedazos de cilindro que permitan llenar un recipiente de humedad.
+
+Pesar el recipiente cubierto, y colocarlo dentro del horno. Nótese que en
+
+efecto se han hecho varias determinaciones del límite plástico, pero se ha
+
+reducido el proceso de pesada y cálculo a un sólo ensayo.
+
+DATOS Y RESULTADOS
+
+De la muestra compuesta por las dos canteras al 50% de cada una
+
+respectivamente a continuación detallamos los datos de laboratorio:
+
+                      Tabla 4. El límite plástico será: 20.74%
+
+
+                                   Masa              Masa        Masa
+        MUESTRA
+                                   Prueba 1          Prueba 2    Prueba 3
+
+
+
+        Peso del tarro (T)         23.10 g           22.01 g     23.67 g
+
+
+        (T+ SH)                    26.06 g           26.55 g     26.26 g
+
+
+        (T+SS)                     25.57 g           25.70 g     25.84 g
+
+
+        Ww = (T+ SH) –             0.49 g            0.85 g      0.42 g
+
+        (T+SS)
+
+
+        Ws = (T+ SS) – T           2.47 g            3.69 g      2.17 g
+
+
+
+
+                                                                            58
+        W% = (Ww/Ws) * 100      19.84 %    23.03 %       19.35%
+
+
+Fuente ( elaboración propia)
+
+
+
+
+RESULTADO FINAL DEL ÍNDICE PLÁSTICO
+
+De la combinación de las dos muestras a continuación los resultados de
+
+índice plástico:
+
+IP = LL – LP = 29.16% - 20.74% = 8.42%
+
+
+
+
+Figura 17. Pesado de recipiente vació
+
+
+
+
+                                                                    59
+Figura 18.Muestra en proceso de saturación en 24 horas
+
+
+
+
+Figura 19. Rollado del material diámetro aproximado de 3.2 mm y hasta que
+
+exista fisura
+                                                                      60
+3.3 ANÁLISIS GRANULOMÉTRICO DEL SUELO
+
+OBJETIVO DEL ENSAYO
+
+El presente ensayo del análisis granulométrico tiene por objeto la
+
+determinación cuantitativa de la distribución de tamaños de partículas de
+
+suelo y en función de lo anterior clasificar el suelo de acuerdo a su
+
+gradación.
+
+Que posee la combinación al 50% de las dos muestras extraídas de las
+
+Canteras de Taparachi y el rio Unocolla, perteneciente al Distrito de Juliaca,
+
+Provincia de San Román, Región de Puno.
+
+TRABAJOS DE CAMPO
+
+Con la finalidad de definir el tipo de suelo del área de estudio, se realizaron
+
+la recolección de muestras de las dos canteras a cielo abierto.
+
+MUESTREO
+
+De cada uno de las dos canteras se extrajeron muestras alteradas que
+
+debidamente identificadas se remitieron al laboratorio para los ensayos
+
+correspondientes para la identificación y clasificación de suelos.
+
+MATERIAL Y EQUIPOS
+
+Tamiz N° 4 y Tamiz N° 200 (para el lavado de la muestra).
+
+Tamices 3”, 2 ½”, 2”, 1½”, 1” ¾”, ½, 3/8”, N°4, 10, 20, 40, 50, 100, 200 y
+
+fondo.
+
+
+
+
+                                                                            61
+Balanza o báscula con precisión dentro del 0.1% de la carga de ensayo en
+
+cualquier punto dentro del rango de uso, graduada como mínimo a 0,05 kg.
+
+Horno. Fuente de Calor capaz de mantener una temperatura de 100°C -
+
+110°C.
+
+Recipientes. Se utilizaran para introducir las muestras en el horno.
+
+Agua potable.
+
+Muestras del suelo en estudio.
+
+Bandejas.
+
+PROCEDIMIENTO
+
+MÉTODO ANÁLISIS MECÁNICO
+
+a) Material mayor que el tamiz N°. 4
+
+El material retenido en el tamiz N°. 4, se pasa a través de los tamices, 3”, 2
+
+½”, 2”, 1½”, 1”, ¾”, ½”, 3/8”, N°. 4 y fondo, realizando movimientos
+
+horizontales y verticales.
+
+Pese las fracciones retenidas en cada tamiz y anótela en el registro
+
+correspondiente.
+
+b) Material menor que el tamiz N°. 4
+
+Ponga a secar la muestra en el horno a una temperatura de 105 a 110º C
+
+por un período de tiempo de 12 a 24 horas.
+
+Deje enfriar la muestra a temperatura ambiente y pese la cantidad
+
+requerida para realizar el ensaye.
+
+
+
+                                                                           62
+Si el suelo es arenoso se utiliza aproximadamente 200 gr.
+
+Si el suelo es arcilloso se utiliza aproximadamente 150 gr.
+
+Disgregue los grumos (terrones), del material con un pisón de madera para
+
+evitar el rompimiento de los gramos.
+
+Coloque la muestra en una tara, agréguele agua y déjela remojar hasta que
+
+se puedan deshacer completamente los grumos.
+
+Se vacía el contenido de la tara sobre el tamiz N°. 200, con cuidado y con
+
+la ayuda de agua, lave lo mejor posible el suelo para que todos los finos
+
+pasen por el tamiz. El material que pasa a través del tamiz N°. 200, se
+
+analizará por otros métodos en caso sea necesario.
+
+El material retenido en el tamiz N°. 200 después de lavado, se coloca en
+
+una tara, lavando el tamiz con agua.
+
+Se seca el contenido de la tara en el horno a una temperatura de 100 –
+
+110º C por 24 horas.
+
+Con el material seco en el paso anterior, se coloca el juego de tamices en
+
+orden progresivo, N°. 4, No. 10, No. 40, No. 200 y al final el fondo, vaciando
+
+el material previamente pesado.
+
+Se agita el juego de tamices horizontalmente con movimientos de rotación y
+
+verticalmente con golpes secos de vez en cuando. El tiempo de agitación
+
+depende de la cantidad de finos de la muestra, pero por lo general no debe
+
+ser menor de 15 minutos.
+
+Inmediatamente realizado el paso anterior pese las fracciones retenidas en
+
+cada tamiz, y anótela en el registro correspondiente.
+
+                                                                           63
+En la operación de tamizado manual se mueve el tamiz o tamices de un
+
+lado a otro y recorriendo circunferencias de forma que la muestra se
+
+mantenga en movimiento sobre la malla. Debe comprobarse al desmontar
+
+los tamices que la operación está terminada; esto se sabe cuándo no pasa
+
+más del 1 % de la parte retenida al tamizar durante un minuto, operando
+
+cada tamiz individualmente. Si quedan partículas apresadas en la malla,
+
+deben separarse con un pincel o cepillo y reunirlas con lo retenido en el
+
+tamiz.
+
+Se determina el peso de cada fracción en una balanza con una sensibilidad
+
+de 0.1 % La suma de los pesos de todas las fracciones y el peso inicial de
+
+la muestra no debe diferir en más de 1 %.
+
+DATOS Y RESULTADOS.
+
+En el análisis por tamices se obtienen los resultados de pesos parciales
+
+retenido en cada uno de ellos.
+
+Después se calcula los porcentajes retenidos parciales, los porcentajes
+
+acumulativos, los porcentajes que pasan por cada tamiz.
+
+Es conveniente presentar resultados en forma gráfica que tabular.
+
+La presentación gráfica se efectúa por medio de la curva granulométrica,
+
+que es la curva de los porcentajes que pasa por cada tamiz, esta curva se
+
+gráfica en un papel de escala semilogaritmico. En las ordenadas (escala
+
+natural del papel) se anotan los porcentajes que pasa y en las abscisas
+
+(escala logarítmica del papel) se anotan los diámetros de los tamices en
+
+milímetros.
+
+
+
+                                                                        64
+A partir de la curva granulométrica se puede deducir en primera instancia el
+
+tipo de suelo principal y los componentes eventuales.
+
+Se puede encontrar el diámetro efectivo de los granos (D10); que es el
+
+tamaño correspondiente al 10% en la curva granulométrica y se designa
+
+como D10.
+
+Otros tamaños definidos estadísticamente que son útiles incluyen D60;
+
+D30.
+
+La uniformidad del suelo se puede definir estadísticamente de varias
+
+maneras, un índice antiguo pero útil, es el coeficiente de Uniformidad Cu
+
+que se define.
+
+De la muestra compuesta por las dos canteras al 50% de cada una
+
+respectivamente a continuación detallamos los datos de laboratorio en la
+
+hoja de datos respectiva:
+
+
+
+                    Curva Granulometrica
+  100
+   90
+   80
+   70
+   60
+   50
+   40
+   30
+   20
+   10
+    0
+                     10.00
+        100.00
+
+
+
+
+                                     1.00
+
+
+
+
+                                                    0.10
+
+
+
+
+                                                                    0.01
+
+
+
+
+Figura 20. Curva granulométrica
+
+SUCS
+
+1.- Fino o Grueso           % que pasa la malla 200%
+
+                                                                           65
+   0.74% Grueso
+
+2.- Grava o Arena                % que pasa la malla N° 4
+
+   10.5% Grava
+
+3.- Limpio, dual o con Finos
+
+   F        < 5%
+
+   0.74% < 5%            Suelo limpio
+
+4.- Gradación
+
+   Bien graduado.
+
+   GRAVA                 Ambos Casos
+
+   Cu > 4                         1 <Cc< 3
+
+5.15 > 4           1 < 1.29 < 3
+
+           SUCS  GW
+
+AASHTO
+
+1.- % que pasa la malla 200%
+
+   F > 35%
+
+   0.74% < 35%           A-1, A-2, A-3
+
+2.- Índice plástico
+
+   IP = 8.42
+
+   8.42 < 10             A-2-4, A-2-5
+
+3.- Limite líquido.
+
+                                                             66
+  LL = 29.04
+
+  29.04 < 40             A-2-4
+
+4.- Índice de Grupo IG
+
+  IG = (F-35)(0.2 + 0.005(LL - 40)) + 0.01(F -15)(IP - 10)
+
+  IG = (0.74-35)(0.2+0.005(29.04 - 40)) + 0.01(0.74 -15)(8.42 - 10)
+
+  IG = -4.75
+
+AASHTO         A-2-4 (0)
+
+RESULTADO FINAL DE LA CLASIFICACIÓN DEL SUELO
+
+De la combinación de las dos muestras a continuación detallamos los
+
+resultados:
+
+Clasificación SUCS:              GW
+
+Clasificación ASSTHO:            A-2-4 (0)
+
+Cu:      5.15
+
+Cc:      1.29
+
+Respecto al Cu ya que es alto nos indica que difieren los diámetros
+
+apreciablemente.
+
+Respecto al Cc como resulto ser mayor a 1.0 nos indican que faltan una
+
+serie de diámetros entre los tamaños correspondientes al D10 y al D60.
+
+
+
+
+                                                                         67
+Figura 21.Pesaje del material retenido en el tamiz ¾”
+
+
+
+
+Figura 22. Muestras a combinar al 50% posteriormente
+
+
+
+                                                        68
+   Figura 23. Tamizado de las muestras
+
+
+
+
+Figura 24.Muestraspara tamizadas
+
+                                         69
+3.4 ENSAYO DE ABRASIÓN POR MEDIO DE LA MAQUINA DE LOS
+
+ÁNGELES
+
+OBJETIVO DEL ENSAYO
+
+El presente ensayo tiene por objeto determinar el porcentaje de desgaste
+
+de los agregados de tamaños menores a 37.5 mm y agregados gruesos de
+
+tamaños mayores de ¾” por medio de la máquina de los ángeles. Que
+
+posee la combinación al 50% de las dos muestras extraídas de las
+
+Canteras de Taparachi y el rio Unocolla, perteneciente al Distrito de Juliaca,
+
+Provincia de San Román, Región de Puno.
+
+TRABAJOS DE CAMPO
+
+Con la finalidad de definir el tipo de suelo del área de estudio, se realizaron
+
+la recolección de muestras de las dos canteras a cielo abierto.
+
+MUESTREO
+
+De cada uno de las dos canteras se extrajeron muestras alteradas que
+
+debidamente identificadas se remitieron al laboratorio para los ensayos
+
+correspondientes para la identificación y clasificación de suelos.
+
+MATERIAL Y EQUIPOS
+
+Máquina de los Ángeles.
+
+Tamices de los siguientes tamaños: 3”, 2 ½”, 2”, 1½”, 1”, ¾”, ½”, 3/8”, ¼”,
+
+No 4. N° 8 y un tamiz N° 12 para el cálculo del desgaste.
+
+Horno de 100°C – 110°C
+
+Balanza con precisión de 0.01gr.
+
+
+
+                                                                            70
+Esferas de acero, de 46.38 a 47.63 mm de diámetro de peso equivalente
+
+entre 390 y 444gr.
+
+Recipientes para clasificación.
+
+PROCEDIMIENTOS
+
+Se mide unos 5000 gr. de muestra seca con una aproximación de 1 gramo
+
+y se coloca junto con la carga abrasiva dentro del cilindro; se hace girar
+
+este con una velocidad entre 30 y 33 rpm, girando hasta completar 500
+
+vueltas teniendo en cuenta que la velocidad angular es constante.
+
+Después se retira el material del cilindro y luego se hace pasar por el tamiz
+
+# 12 según lo establecido en la Norma ICONTEC 77. El material retenido
+
+en el tamiz #12 debe ser lavado y secado en el horno a una temperatura
+
+comprendida entre 105 °C y 110 °C. Al día siguiente se cuantifico la
+
+muestra eliminando los finos y luego fue pesada.
+
+DATOS Y RESULTADOS
+
+Peso de la Muestra seca del agregado (Pa) = 5001.87 gr.
+
+
+
+
+                                                                          71
+                      Tabla 6. Tipo A 12 esferas 500 vueltas
+
+
+
+             TAMIZ               PESO                  PESO
+
+                                 RETENIDO              RETENIDO
+
+                                 (gr)                  (gr)       Rio
+
+                                                       Unocolla
+                                 Taparachi
+
+
+
+             1 ½"                632.80                622.25
+
+             1"                  626.00                623.31
+
+             ¾"                  624.18                624.28
+
+             ½"                  624.90                624.15
+
+
+             Total               2507.88               2493.99
+
+
+Fuente ( elaboración propia)
+
+Peso seco del ensayo lavado sobre el tamiz #12 (Pb) = 3844.5 gr.
+
+Porcentaje de desgaste = ( [Pa – Pb ] / Pa ) * 100
+
+Porcentaje de desgaste = ( [ 5001.87 – 3844.50] /5001.87) * 100
+
+Porcentaje de desgaste = 23.14%
+
+
+
+
+                                                                        72
+Figura 25. Pesaje de la muestra combinada salida de la máquina de los
+
+ángeles
+
+
+
+
+Figura 26. Máquina de los Ángeles
+
+
+
+
+                                                                   73
+Figura 27.Muestra en el horno
+
+
+3.5 ENSAYO DE COMPACTACIÓN DE SUELOS EN LABORATORIO
+
+UTILIZANDO UNA ENERGÍA MODIFICADA (PROCTOR MODIFICADO)
+
+OBJETIVO DEL ENSAYO
+
+Este ensayo abarca los procedimientos de compactación usados en
+
+Laboratorio, para determinar la relación entre el Contenido de Agua y Peso
+
+Unitario Seco de los suelos (curva de compactación) compactados en un
+
+molde de 4 ó 6 pulgadas (101,6 ó 152,4 mm) de diámetro con un pisón de
+
+10 lbf (44,5 N) que cae de una altura de 18 pulgadas (457 mm),
+
+produciendo una Energía de Compactación de 56 000 lb-pie/pie3 (2 700
+
+kN-m/m3).
+
+Este ensayo se aplica sólo para suelos que tienen 30% ó menos en peso
+
+de sus partículas retenidas en el tamiz de 3/4” pulg (19,0 mm).
+
+
+
+
+                                                                       74
+Se proporciona 3 métodos alternativos. El método usado debe ser indicado
+
+en las especificaciones del material a ser ensayado.
+
+Que posee la combinación al 50% de las dos muestras extraídas de las
+
+Canteras de Taparachi y el rio Unocolla, perteneciente al Distrito de Juliaca,
+
+Provincia de San Román, Región de Puno.
+
+TRABAJOS DE CAMPO
+
+Con la finalidad de definir el tipo de suelo del área de estudio, se realizaron
+
+la recolección de muestras de las dos canteras a cielo abierto.
+
+MUESTREO
+
+De cada uno de las dos canteras se extrajeron muestras alteradas que
+
+debidamente identificadas se remitieron al laboratorio para los ensayos
+
+correspondientes para la identificación y clasificación de suelos.
+
+MATERIAL Y EQUIPOS
+
+Molde de Compactar y su collarín.
+
+Pisón de Compactar.
+
+Horno de 100°C – 110°C
+
+Balanza con precisión de 0.01gr.
+
+Regla metálica.
+
+Espátula.
+
+Tamices ¾”.
+
+PROCEDIMIENTOS
+
+
+                                                                            75
+Para Obras viales se utiliza el MÉTODO C:
+
+Molde:   6” de diámetro.
+
+Material: se emplea el material que pasa por el tamiz de 3/4”
+
+Capas:   5
+
+Golpes por capa:      56
+
+Uso: cuando más del 20% del peso del material es retenido en el tamiz 3/8”
+
+y menos del 30% de peso de material es retenido en el tamiz ¾”.
+
+Por ello que en el presente ensayo se utilizó el método C:
+
+Determinar y anotar la masa del molde o molde y el plato de base.
+
+Ensamble y asegure el molde y el collar al plato base. El método de enlace
+
+o unión al cimiento rígido debe permitir un desmolde fácil del molde
+
+ensamblado, el collar y el plato base después que se concluya la
+
+compactación.
+
+Compactar el espécimen en cinco capas. Después de la compactación,
+
+cada capa deberá tener aproximadamente el mismo espesor. Antes de la
+
+compactación, colocar el suelo suelto dentro del molde y extenderlo en una
+
+capa de espesor uniforme. Suavemente apisonar el suelo antes de la
+
+compactación hasta que este no esté en estado suelto o esponjoso, usando
+
+el pisón manual de compactación o un cilindro de 2 pulg (5 mm) de
+
+diámetro. Posteriormente a la compactación de cada uno de las cuatro
+
+primeras capas, cualquier suelo adyacente a las paredes del molde que no
+
+han sido compactados o extendido cerca de la superficie compactada será
+
+recortado. El suelo recortado puede ser incluido con el suelo adicional para
+
+                                                                         76
+la próxima capa. Un cuchillo u otro aparato disponible puede ser usado. La
+
+cantidad total de suelo usado será tal que la quinta capa compactada se
+
+extenderá ligeramente dentro del collar, pero no excederá 1/4pulg (6 mm)
+
+de la parte superior del molde. Si la quinta capa se extiende en más de
+
+1/4pulg (6 mm) de la parte superior del molde, el espécimen será
+
+descartado. El espécimen será descartado cuando el último golpe del pisón
+
+para la quinta capa resulta por debajo de la parte superior del molde de
+
+compactación.
+
+Compactar cada capa con 25 golpes para el molde de 4 pulgadas (101,6
+
+mm) ó 56 golpes para el molde de 6 pulgadas (152,4 mm).
+
+Al operar el pisón manual del pisón, se debe tener cuidado de evitar la
+
+elevación de la guía mientras el pisón sube. Mantener la guía firmemente y
+
+dentro de 5º de la vertical. Aplicar los golpes en una relación uniforme de
+
+aproximadamente 25 golpes/minuto y de tal manera que proporcione una
+
+cobertura completa y uniforme de la superficie del espécimen.
+
+Después de la compactación de la última capa, remover el collar y plato
+
+base del molde. El cuchillo debe usarse para ajustar o arreglar el suelo
+
+adyacente al collar, soltando el suelo del collar y removiendo sin permitir el
+
+desgarro del suelo bajo la parte superior del molde.
+
+Cuidadosamente enrasar el espécimen compactado, por medio de una
+
+regla recta a través de la parte superior e inferior del molde para formar una
+
+superficie plana en la parte superior e inferior del molde. Rellenar cualquier
+
+hoyo de la superficie, con suelo no usado o despejado del espécimen,
+
+
+
+
+                                                                           77
+presionar con los dedos y vuelva a raspar con la regla recta a través de la
+
+parte superior e inferior del molde.
+
+Determine y registre la masa del espécimen y molde con aproximación al
+
+gramo. Cuando se deja unido el plato base al molde, determine y anote la
+
+masa del espécimen, molde y plato de base con aproximación al gramo.
+
+Remueva el material del molde. Obtener un espécimen para determinar el
+
+contenido de agua utilizando todo el espécimen (se refiere este método) o
+
+una porción representativa. Cuando se utiliza todo el espécimen, quiébrelo
+
+para facilitar el secado. De otra manera se puede obtener una porción
+
+cortando axialmente por el centro del espécimen compactado y removiendo
+
+500 gr del material de los lados cortados. Obtener el contenido de
+
+humedad.
+
+Después de la compactación del último espécimen, comparar los Pesos
+
+Unitarios Húmedos para asegurar que el patrón deseado de obtención de
+
+datos en cada lado del óptimo contenido de humedad sea alcanzado en la
+
+curva de compactación para cada Peso Unitario Seco y Plotear el Peso
+
+Unitario Húmedo y Contenido de Agua de cada espécimen compactado
+
+puede ser una ayuda para realizar esta evaluación. Si el patrón deseado no
+
+es obtenido, serán necesarios compactar especímenes adicionales.
+
+Generalmente, un valor de contenido de agua mayor que el contenido de
+
+agua definido por el máximo Peso Unitario Húmedo es suficiente para
+
+asegurar los datos del lado más húmedo que el óptimo contenido de agua
+
+para el máximo peso unitario seco.
+
+DATOS Y RESULTADOS
+
+
+                                                                         78
+En el presente ensayo se realizó la prueba con 5 muestras combinadas al
+
+50% de las canteras de Taparachi y rio Unocolla de 5500 gramos, cada una
+
+con un porcentaje de agua al 2% , 4%, 6%, 8% y 10%, respectivamente.
+
+Los cálculos del contenido de humedad, densidad húmeda y la densidad
+
+seca del suelo compactado para cada ensayo son como sigue:
+
+w = (A - B)* 100 / (B - C).
+
+W1= Peso de la muestra / Volumen
+
+W = W1 * 100 / (w + 100)
+
+Dónde:
+
+w = contenido de humedad
+
+A = peso del recipiente y suelo húmedo
+
+B = peso del recipiente y suelo seco.
+
+C = peso del recipiente.
+
+W1 = densidad humedad en kg/m3 del suelo compactado
+
+W = densidad seca en kg/m3 del suelo compactado.
+
+
+
+
+                                                                       79
+                  2%                4%                6%                8%               10%
+
+
+Volumen del
+
+Molde             2100              2100              2100              2100             2100
+
+
+Peso        del
+
+Molde             6341              6341              6341              6341             6341
+
+
+P.     SH    +
+
+Molde             10601             10670             10848             10995            10974
+
+
+Peso SH           4260              4329              4507              4654             4633
+
+
+Densidad
+
+Húmeda            2.03              2.06              2.15              2.22             2.21
+
+
+                  Arriba   Abajo    Arriba   Abajo    Arriba   Abajo    Arriba   Abajo   Arriba   Abajo
+
+
+P.     SH    +
+
+Capsula           272.96   280.97   248.06   253.44   212.42   218.69   215.12   206.3   215.47   230.71
+P.      SS   +
+
+Capsula          266.07   273.6    240.37     245.03    202.86   208.27   202.41   193.65   200.3    216.78
+
+
+Peso Agua        6.89     7.37     7.69       8.41      9.56     10.42    12.71    12.65    15.17    13.93
+
+
+Peso Capsula     22.81    22.96    23.44      22.97     23.48    23.04    23.13    23.52    23.01    22.71
+
+
+P. SS            243.26   250.64   216.93     222.06    179.38   185.23   179.28   170.13   177.29   194.07
+
+
+% Humedad        2.83     2.94     3.54       3.79      5.33     5.63     7.09     7.44     8.56     7.18
+
+
+Promedio de
+
+Humedad          2.89              3.67                 5.48              7.26              7.87
+
+
+Densidad SS      1.97              1.99                 2.03              2.07              2.05
+
+
+
+
+Tabla 7.Ensayo de Proctor Modificado 5 ensayos realizados
+ 2.08
+
+
+ 2.06
+
+
+ 2.04
+
+
+ 2.02
+                                                      Series1
+
+ 2.00
+
+
+ 1.98
+
+
+ 1.96
+        0.00   2.00   4.00   6.00    8.00     10.00
+
+
+
+Figura 28.Máxima Densidad Seca de:
+
+2.07 gr/cc
+
+Contenido Optimo de Humedad de:        6.5%
+
+
+
+
+                                                                82
+Figura 29.5 muestras antes de realizar el proceso de compactación
+
+
+
+
+Figura 30. Vista de la división de la muestra para las cinco capas
+
+
+
+                                                                     83
+Figura 31. Proceso de compactado de una de las muestras
+
+
+
+
+Figura 32. Pesaje del molde más muestra húmeda compacto
+
+
+
+
+                                                          84
+Figura 33. Compactación de una de las muestras
+
+
+   3.6 ENSAYO DE LA RELACIÓN DE SOPORTE CALIFORNIA CBR
+
+   OBJETIVO DEL ENSAYO
+
+   El ensayo de soporte de California se desarrolló por parte de la División de
+
+   Carreteras de California en 1929 como una forma de clasificar la capacidad
+
+   de un suelo para ser utilizado como subrasante o material de base en
+
+   construcción de carreteras.
+
+
+
+                                                                            85
+El ensayo CBR (la ASTM denomina el ensayo simplemente un ensayo de
+
+relación de soporte) mide la resistencia al corte de un suelo bajo
+
+condiciones de humedad y densidad controladas. El ensayo permite
+
+obtener un número asociado a la capacidad de soporte.
+
+Los ensayos de CBR se hacen usualmente sobre muestras compactadas al
+
+contenido de humedad óptimo para un suelo específico, determinado
+
+utilizando el ensayo de compactación estándar o modificada del
+
+experimento.
+
+El método CBR comprende los 3 ensayos siguientes:
+
+- Determinación de la densidad y humedad.
+
+- Determinación de las propiedades expansivas del material.
+
+- Determinación de la resistencia a la penetración.
+
+MATERIAL Y EQUIPOS
+
+Equipo de CBR:
+
+Molde de compactación (con collar y base)
+
+Disco espaciador
+
+Martillo de compactación
+
+Aparato para medir la expansión con deformímetro de carátula con
+
+precisión de mm
+
+Pesos para sobrecarga
+
+Máquina de compresión equipada con pistón de penetración CBR capaz de
+
+penetrar a una velocidad de 1.27 mm/min
+
+                                                                   86
+Horno
+
+Balanza
+
+Tamices
+
+PROCEDIMIENTOS
+
+Descripción de materiales:
+
+Preparar una muestra de suelo de grano fino (en cantidad suficiente para
+
+hacer 6 probetas) menor que el tamiz # 4, al contenido de humedad óptima
+
+del suelo determinado con el ensayo de Proctor Modificado.
+
+Antes de compactar el suelo en los moldes, tomar una muestra
+
+representativa para determinar su contenido de humedad (por lo menos
+
+100 g si el suelo es de grano fino).
+
+Pesar los moldes sin su base ni el collar.
+
+Para cada molde ajustar el molde a la base, insertar el disco espaciador en
+
+el molde y cubrirlo con un disco de papel filtro.
+
+Probetas de 5 capas cada una: 2 de 12 golpes por capa, 2 de 25 golpes por
+
+capa y 2 de 56 golpes por capa; dejar saturando una muestra de 12, de 25
+
+y de 56 golpes por capa.
+
+Para cada molde retirar la base, el collar y el disco espaciador, pesar el
+
+molde con el suelo compactado y determinara el peso unitario total del
+
+suelo.
+
+
+
+
+                                                                         87
+Colocar un disco de papel filtro sobre la base, invertir la muestra y asegurar
+
+el molde a la base de forma que el suelo quede en contacto con el papel
+
+filtro.
+
+dejar saturando una muestra de 12, de 25 y de 56 golpes por capa.
+
+Colocar la muestra en la máquina de compresión y sentar el pistón sobre la
+
+superficie de suelo utilizando una carga inicial no mayor de 4.5 kg. Fijar el
+
+cero en los deformímetros de medida de carga y de penetración (o
+
+deformación).
+
+Hacer lecturas de deformación o penetración y tomar las respectivas
+
+lecturas del deformímetro de carga. Extruir la muestra del molde y tomar
+
+dos muestras representativas adicionales para contenido de humedad.
+
+
+
+
+DATOS Y RESULTADOS
+
+
+
+
+                               Tabla 8. Presión geostatica
+
+
+          1.- Calculo de la presión GEOSTATICA
+
+
+          Suelos no coh                               UNIDADES
+
+
+          Tº = prof. (m) /10                          Kg/cm2
+
+
+          Tº = prof. (m) x 0.2063                     Ksf
+
+
+
+
+                                                                           88
+          Tº = prof. (m)                              tn/m2
+
+
+
+
+Fuente(elaboración propia)
+
+
+                             Tabla 9. Corrección de cálculos
+
+
+    2.- CALCULOS DE LAS CORRECCIONES
+
+
+    Suelos no coh                                    UNIDADES
+
+
+    N1 = (1/Tº) x ½ x N                              Kg/m2
+
+
+    N2 = (0.77 x log(200/tº)) x N                    Ksf
+
+
+    N3 = (4 x N/1+(2xtº))
+
+
+    N4 = (N+15/2)
+
+
+    DONDE:
+
+
+    N = Numero de golpes                             Tº = Presión GEOSTATICA
+
+
+Fuente (elaboración Propia)
+
+
+                      Tabla 10. Calculo de densidades relativas
+
+
+
+
+ 4.- CALCULO DE LAS DENSIDADES RELATIVAS (DR%)
+
+
+ DENSIDAD RELATIVA
+
+
+ CUADRO Nº 01
+
+
+
+                                                                               89
+ VALOR N                           DR(%)
+
+
+ 0                            4    0       15
+
+
+ 5                            10   15      33
+
+
+ 11                           30   33      67
+
+
+ 31                           50   67      85
+
+
+                              50   85      100
+
+
+
+
+Fuente (elaboración Propia)
+
+
+
+
+Figura 36. Muestras sumergidas
+
+
+                                                 90
+Figura 37.Realización de la penetración
+
+
+
+
+Figura 38. Momento del proceso de compactación
+
+
+                                                 91
+                               CAPITULO IV
+
+
+
+                      RESULTADOS Y DISCUSION
+
+
+4.1 COMPORTAMIENTO DE LA MEZCLA DE MATERIAL GRANULAR Y
+
+DESECHO DE PVC
+
+Teniendo en cuenta que el material granular cumple con las exigencias de
+
+una subbase para conformar estructuras de un pavimento, y con el fin de
+
+observar los cambios que produciría el adicionar desecho de PVC en su
+
+comportamiento, específicamente en su resistencia, se realizaron mezclas
+
+de diferentes proporciones de material natural y desecho (1%, 3% y 5%).
+
+Las diferentes proporciones correspondían al porcentaje en peso de aditivo
+
+con respecto al peso total de la muestra. Se desarrolló un estudio
+
+comparativo para determinar los efectos que produce el PVC en el CBR del
+
+material granular, haciendo observaciones adicionales en el laboratorio,
+
+como cambios en plasticidad, color, etc.
+
+En la tabla, se pueden observar los resultados finales calculados con base
+
+en el presenta le análisis comparativo del CBR para el material sin adición y
+
+del material mezclado en los porcentajes mezclados (1, 3 y 5% de desecho
+
+
+
+                                                                          92
+    de PVC). La figura presenta el análisis comparativo del peso unitario
+
+    obtenido para el material natural y mezclado.
+
+    Para los análisis respectivos, se toma el valor correspondiente a 55 golpes,
+
+    por ser este número el valor representativo del ensayo según la norma.
+
+                             Tabla 11. Resultados de la mezcla adicionada
+
+
+                       N°               SIN
+
+      PROPIEDAD        GOLPES           ADITIVO       CON 1%        CON 3%    CON 5%
+
+
+                       55               7.68          6.85          7.89      6.48
+      HUMEDAD
+                       26               7.70          6.72          7.45      7.56
+      (%)
+                       12               7.29          6.18          7.38      7.23
+
+
+      PESO             55               2.07          2.08          1.99      2.04
+
+      UNITARIO
+                       26               2.00          1.97          1.96      1.96
+      (g/cm3
+                       12               1.84          1.95          1.86      1.84
+
+
+      CBR (%)                           70.67         40.79         106.67    129.97
+
+
+Fuente(elaboración propia)
+
+
+                              Figura 39. Relación de %CBR y % aditivo
+
+
+     140
+     120                                                           MATERIAL
+                                                                   CON
+     100
+                                                                   ADICION
+      80
+      60
+                                                                   MATERIAL
+      40                                                           NATURAL
+      20
+       0
+                1       3           5           7
+
+
+                                                                                       93
+Fuente (elaboración propia)
+
+
+
+
+Como se observa en la figura 39, el comportamiento del material granular
+
+(tipo subbase) estabilizado mejora su resistencia en comparación con el
+
+original, al adicionar el 3% y 5% de desecho de PVC. En el caso de la
+
+adición de 1%, se obtuvo un CBR inferior al obtenido al material granular
+
+tipo subbase natural, posiblemente porque en este caso se genera algún
+
+tipo de reacción química. Con el 1.8% se observa un CBR equivalente al
+
+del material natural incrementándose a partir de este valor.
+
+
+  4
+
+ 3.5
+
+  3
+
+ 2.5
+
+  2                                                                     Serie 1
+                                                                        Serie 2
+ 1.5
+
+  1
+
+ 0.5
+
+  0
+          0        1          2     3        4        5        6
+
+
+
+Figura 40. Peso unitario obtenido para cada proporción de desecho de
+
+PVC utilizado
+
+En el caso del peso unitario, haciéndose más notorio en los porcentajes de
+
+3 y 5% y más significativo en el de 3%.
+
+
+
+
+                                                                        94
+De la misma forma que en la figura 40, existe un porcentaje de aditivo de
+
+1.2%, para el cual el peso unitario es igual al de la muestra original, siendo
+
+este el valor donde comienza a influir el aditivo en las propiedades del
+
+material.
+
+Se puede analizar que con el uso del aditivo tiende a disminuir el peso
+
+unitario sin que esto perjudique la resistencia del material, por lo contrario
+
+se genera una relación inversamente proporcional mientras los pesos
+
+unitarios disminuyen la resistencia aumenta. Gracias a esto se obtiene un
+
+material más ligero pero con mayor resistencia.
+
+De las mezclas realizadas, se puede observar que con un porcentaje de
+
+adición de desecho de PVC de 3% se presentó el mayor aumento de
+
+resistencia y el menor valor de peso unitario, lo que podría indicar que este
+
+es un porcentaje óptimo o el más cercano a este.
+
+
+
+
+                                                                           95
+                            CONCLUSIONES
+
+El desecho de PVC se cataloga como un producto resistente que no se ve
+
+afectado por humus, líquidos corrosivos, soluciones acidas, soluciones
+
+básicas, soluciones salinas, solventes y productos químicos; además, es
+
+resistente a las agresiones producidas por el medio ambiente.
+
+Las características propias del material estudiado proporcionan al material
+
+estabilizado, un mejor comportamiento ante los ataques que enfrenta
+
+cuando es usado para conformar estructuras de pavimentos.
+
+En el desarrollo del proyecto se determinó que el aditivo de desecho de
+
+PVC mejora el CRB de un material granular de tipo subbase a partir del
+
+1.8%, caso en el cual mantiene las propiedades originales.
+
+Cuando se utilizaron porcentajes iguales o mayores al 3%, la resistencia
+
+aumento y el peso unitario disminuyo.
+
+La mezcla analizada de material granular y desecho de PVC, cumplió con
+
+los requerimientos de resistencia exigidos en pavimentos y proporciona una
+
+superficie de apoyo a la base granular o a la loza de concreto y aligera el
+
+peso que debe soportar la subrasante.
+
+
+
+
+                                                                         96
+                            RECOMENDACIONES
+
+
+
+
+Se recomienda siempre analizar y buscar nuevas canteras para poder
+
+experimentar nuevos ensayos y asi de esa manera poder desarrollar a la
+
+región.
+
+La mezcla analizada de material granular y desecho de PVC, cumplió con
+
+los requerimientos de resistencia exigidos en pavimentos y proporciona una
+
+superficie de apoyo a la base granular o a la loza de concreto y aligerar el
+
+peso que debe soportar la subrasante.
+
+Al realizar los ensayos se recomienda usar los equipos apropiados para
+
+cada prueba.
+
+Estos resultados son solamente afectos a las canteras indicadas y no a
+
+otras canteras es por ello que se recomienda seguir realizando pruebas
+
+con diferentes tipos de suelos, ya que cada        cantera cuenta con su
+
+respectivo tipo de suelo.
+
+Las adiciones de desecho de PVC se realizaron arbitrariamente no siendo
+
+este un valor que no se pueda variar, se recomienda hacer otras pruebas
+
+para variar el porcentaje de desecho para conseguir resultados diferentes a
+
+este proyecto.
+
+
+
+
+                                                                         97
+                              BIBLIOGRAFIA
+
+1. ABRIL, N. & CASTRILLÓN, L. 1993. Estabilización de recebos con
+
+emulsiones asfálticas: una alternativa expedita para producir bases
+
+competentes. Universidad Nacional de Colombia. Facultad de Ingeniería.
+
+Bogotá D. C.
+
+2. AGUIRRE, C. & VELEZ, M. 2005. Estabilización de subbases granulares
+
+empleando desecho de PVC. Universidad Católica de Colombia. Facultad
+
+de Ingeniería Civil. Bogotá D. C. Trabajo de Grado. 94 p.
+
+3. AMAYA, C., RODRÍGUEZ, G. & VALDEZ, J. 1978. Estabilización de
+
+suelos con cal y ceniza. Universidad Nacional de Colombia. Facultad de
+
+Ingeniería. Bogotá D. C.
+
+4. AREIZAGA, J., CORTAZAR, M. & ELORSA, J. 1992. Polímeros. Madrid:
+
+Editorial Síntesis.
+
+5. BARRAGAN, N. & CONTRERAS, Y. 1994. Estabilización de materiales
+
+granulares marginales con crudo de castilla. Universidad Nacional de
+
+Colombia. Facultad de Ingeniería. Bogotá D. C.
+
+6. BRAJA M. DAZ. mecánica de suelos avanzada.
+
+7. CAICEDO, L. & HERRERA, O. 2004. Estudio del comportamiento de
+
+mezclas densas en caliente elaboradas con asfaltos modificados con
+
+desechos de policloruro de vinilo. Universidad Católica de Colombia.
+
+Facultad de Ingeniería Civil. Bogotá D. C.
+
+
+
+                                                                    98
+8. GÓMEZ, R., MORENO, C. & REYES, H. 1983. Estabilización de
+
+materiales con aditivos convencionales y no convencionales. Universidad
+
+Nacional de Colombia. Facultad de Ingeniería. Bogotá D. C. Trabajo de
+
+Grado.
+
+9. GONZALEZ, L., CARDENAS, J. & PARRADO, G. 2001. Materiales de
+
+construcción para la Sabana de Bogotá. Instituto de Investigación e
+
+Información Geocientífica Minero-Ambiental y Nuclear. INGEOMINAS.
+
+Bogotá D. C.
+
+10. INSTITUTO NACIONAL DE VIAS. 2002. Normas para ensayos de
+
+materiales para carreteras. V I y II. Bogotá. D. C. INVIAS.
+
+11. JUAREZ BADILLO, E. mecánica de suelos tomo I yII.
+
+12. LAMBE, W. & WHITMAN, R. 1999. Mecánica de suelos. México D. F.
+
+Limusa.
+
+13. MENDIVIL, J., ORTIZ, V. & PINEDA, J. 1981. Características de
+
+resistencia y compresibilidad de suelos granulares. Universidad Nacional
+
+de Colombia. Facultad de Ingeniería. Bogotá D. C. Trabajo de Grado.
+
+14. MONTEJO, A. 1998. Ingeniería de pavimentos para carreteras.
+
+Universidad Católica de Colombia. Bogotá D. C.
+
+15. PETCO S. A. [En línea]. Bogotá D. C. (Citado, 26 de Julio de 2005).
+
+Disponible internet.
+
+16. PLASTUNIVERS [En línea]. España (Citado, 26 de Julio de 2005).
+
+Disponible internet <http://www.plastunivers.com>.
+
+
+
+
+                                                                      99
+17. RICO, A. & DEL CASTILLO, H. 1976. La Ingeniería de suelos en las
+
+vías terrestres. México, Limusa. V I y V II.
+
+18. ROMERO, C. & ALFONSO, E. 1986. Estabilización de Suelos con
+
+aceites sulfonados. Universidad Nacional de Colombia. Facultad de
+
+Ingeniería. Bogotá D. C. Trabajo de Grado.
+
+19. ROSAS, L. & SARMIENTO, R. 1997. Estabilización de suelos con
+
+Huansoco (Látex). Universidad Nacional de Colombia. Facultad de
+
+Ingeniería. Bogotá D. C. Trabajo de Grado.
+
+19. THE UNIVERSITY OF SOUTHERN MISSISSIPPI. Los polímeros en
+
+persona. [En línea]. E.E.U.U. (Citado, 26 de Julio de 2005). Disponible
+
+internet <http://www.psrc.usm.edu/spanish/pvc.htm>.     19. VEGA, F.
+
+&20. MARTÍNEZ, O. 2005. Conformación de bases o subbases en
+
+pavimentos empleando estériles de carbón. Universidad Católica de
+
+Colombia. Facultad de Ingeniería Civil. Bogotá D. C.
+
+21. ZAPATA, E. 1976. Polímeros. Universidad Nacional de Colombia.
+
+Facultad de Ciencias Humanas. Bogotá D. C.
+
+
+
+
+                                                                    100
+

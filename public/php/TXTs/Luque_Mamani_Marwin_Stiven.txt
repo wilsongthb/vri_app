@@ -1,0 +1,2503 @@
+             Universidad Nacional Del Altiplano
+   FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA,
+               ELECTRÓNICA Y SISTEMAS
+ ESCUELA PROFESIONAL DE INGENIERÍA ELECTRÓNICA
+
+
+
+
+                          TESIS
+
+
+  “DISEÑO, IMPLEMENTACIÓN Y MEJORA DE UN PROCESO PARA
+CODIFICACIÓN DE ALTA VELOCIDAD APLICANDO SISTEMA XS HIGH
+       SPEED PARA CORPORACIÓN LINDLEY S.A. CALLAO”
+
+
+
+
+                     PRESENTADO POR:
+           MARWIN STIVEN LUQUE MAMANI
+
+
+
+          PARA OPTAR EL TÍTULO PROFESIONAL DE:
+               INGENIERO ELECTRÓNICO
+
+
+                        Puno – Perú
+                            2015
+ÁREA: Telecomunicaciones
+TEMA: Aplicaciones en telecomunicaciones
+DEDICATORIA
+
+
+
+
+                                     A mis padres,
+                                  A mis hermanas,
+                   A mis tíos y familia en general,
+                                    A mis docentes,
+                   Y a mis amigos de toda la vida,
+
+  Todo este trabajo ha sido posible gracias a ellos.
+                     AGRADECIMIENTOS
+
+     En primer lugar agradezco a Dios, por darme la oportunidad de vivir y
+por estar conmigo en cada paso que doy, por fortalecer mi corazón e iluminar
+mi mente y por haber puesto en mi camino a aquellas personas que han sido
+mi soporte y compañía durante todo el periodo de estudio.
+
+
+
+     A mis padres por ser el pilar fundamental en todo lo que soy, en toda mi
+educación, tanto académica, como de la vida, por su incondicional apoyo
+perfectamente mantenido a través del tiempo.
+
+
+
+
+     De la misma manera agradezco a mis hermanas por su comprensión, su
+amistad, su paciencia y por ser mi mayor motivación para nunca rendirme en
+la vida y poder llegar a ser un ejemplo para ellas.
+
+
+
+
+     A los maestros, aquellos que marcaron cada etapa de mi vida
+universitaria, y que me ayudaron en asesorías y dudas presentadas en el
+transcurso de mi vida profesional y finalmente en la elaboración de la tesis
+
+
+
+     A toda la gran familia de electrónicos, encabezado por los ingenieros,
+quienes además de sus enseñanzas nos brindaron su amistad, a mis grandes
+amigos y compañeros que en un futuro no muy lejano seremos colegas pero
+mas que eso siempre seguiremos siendo amigos.
+
+
+
+
+     Finalmente Gracias a todos aquellos que no están aquí, pero que me
+ayudaron a que este esfuerzo se volviera realidad.
+                                                  INDICE
+
+Dedicatoria
+Agradecimientos
+Índice
+Índice de Cuadros
+Índice de Figuras
+Índice de Gráficos
+Índice de Anexos
+Resumen...................................................................................................................... 13
+Abstract. ..................................................................................................................... 14
+Introducción. .............................................................................................................. 15
+CAPITULO I
+1. Planteamiento del Problema de Investigación. .................................................. 16
+1.1. Descripción del problema de investigación ........................................................ 17
+1.1.1. Formulación del problema ............................................................................... 18
+1.1.1.1. Problema General ......................................................................................... 18
+1.1.1.2. Problema Específico ..................................................................................... 18
+1.2. Justificación del problema de investigación ....................................................... 18
+1.3. Objetivos de la Investigación .............................................................................. 20
+1.3.1. Objetivo General .............................................................................................. 20
+ 1.3.2. Objetivo Especifico ......................................................................................... 20
+CAPITULO II
+2. Fundamento Teórico y Conceptual .................................................................... 21
+2.1. Antecedentes del problema de investigación ...................................................... 22
+2.1.1. Sistema de Codificación A 300+ ..................................................................... 22
+2.1.2. Sistema de Codificación A 520i ...................................................................... 23
+2.1.3. Manual de Capacitación Domino .................................................................... 24
+2.2. Sustento teórico y conceptual ............................................................................. 25
+2.2.1. Codificación ..................................................................................................... 25
+2.2.2. Sistemas de Codificación ................................................................................. 26
+2.2.2.1. Codificación InkJet-CIJ ................................................................................ 26
+2.2.2.2. Codificación Laser ........................................................................................ 27
+2.2.2.3. Codificación por Termo-Transferencia ........................................................ 27
+2.2.3. Descripción de sistema de codificación InkJet ................................................ 28
+2.2.3.1. Sistema Electrónico ...................................................................................... 28
+2.2.3.2. Sistema de tinta ............................................................................................. 30
+2.2.3.3. Funcionamiento del sistema de Codificación ............................................... 31
+2.2.4. Descripción de sistema principal de codificación ............................................ 31
+2.2.4.1. Cabezal de impresión .................................................................................... 31
+2.2.4.2. Formación y fragmentación de las gotas ...................................................... 33
+2.2.4.3. Modulación de las gotas de impresión .......................................................... 33
+2.2.4.4. Carga de las gotas de impresión ................................................................... 36
+2.2.4.5. Rasters o formato de impresión .................................................................... 37
+2.2.5. Sistema XS……… ........................................................................................... 38
+2.3. Glosario o definición de términos básicos .......................................................... 39
+2.4. Hipótesis y Variables .......................................................................................... 40
+2.4.1. Hipótesis General. ............................................................................................ 40
+2.4.2. Hipótesis Específico ........................................................................................ 40
+2.5. Sistema de Variables ........................................................................................... 40
+2.5.1. Variable Dependiente ...................................................................................... 41
+2.5.2. Variable Independiente .................................................................................... 41
+CAPITULO III
+3. Diseño Metodológico de investigación................................................................ 42
+3.1. Tipo y Diseño de Investigación .......................................................................... 43
+3.1.1. Tipo de Investigación....................................................................................... 43
+3.1.1.1. Enfoque de Investigación.............................................................................. 43
+3.1.2. Diseño de Investigación ................................................................................... 43
+3.2. Población y muestra de Investigación ................................................................ 44
+3.2.1. Población del proyecto de investigación ......................................................... 44
+3.2.1.1. A nivel de Volumen ..................................................................................... 45
+3.2.1.2. A nivel de Ingresos ....................................................................................... 45
+3.2.1.3. Plantas de producción ................................................................................... 46
+3.2.2. Muestras del proyecto de investigación ........................................................... 46
+3.2.2.1. Planta callao …….. ....................................................................................... 46
+3.3. Ubicación y Descripción de la Población ........................................................... 47
+3.3.1. Ubicación ......................................................................................................... 47
+3.3.1.1. Características Geográficas ........................................................................... 48
+3.3.2. Descripción de la Población ............................................................................ 49
+3.3.2.1. Características Demográficas ....................................................................... 49
+3.3.2.2. Características Económicas .......................................................................... 50
+3.4. Técnicas de recolección de datos ........................................................................ 51
+3.5. Técnicas para el procesamiento y análisis de datos ............................................ 51
+3.5.1. Técnica PDCA ................................................................................................. 51
+3.5.2. Descripción Técnica de datos .......................................................................... 52
+3.6. Plan de tratamiento de datos ............................................................................... 53
+3.6.1. PLAN (P) Identificación del problema ............................................................ 53
+3.6.2. DO (D) Ejecución ............................................................................................ 54
+3.6.3. CHECK (C) Verificación de resultados........................................................... 54
+3.6.4. ACT (A) Estandarización y Conclusión .......................................................... 55
+3.7. Diseño estadístico para la prueba de hipótesis.................................................... 57
+CAPITULO IV
+4. Análisis e Interpretación de Resultados de la Investigación ............................ 58
+4.1. Descripción General del proyecto ....................................................................... 59
+4.2. Desarrollo del proyecto ....................................................................................... 60
+4.2.1. Sistema Electrónico ......................................................................................... 60
+4.2.2. Implementación del cabezal de impresión XS ................................................. 61
+4.2.3. Instalación y configuración del sistema XS ..................................................... 63
+4.2.3.1. Ajuste del valor de modulación .................................................................... 67
+4.2.3.2. Ajuste del valor de presión ........................................................................... 68
+4.2.3.3. Ajuste del valor de Carga.............................................................................. 69
+4.2.4. Control y monitoreo del proceso de codificación ............................................ 71
+4.2.4.1. Conectividad del proceso de codificación .................................................... 71
+4.2.4.2. Supervisión y control del proceso de Codificación ...................................... 72
+4.3. Exposición de Análisis de Resultados ................................................................ 73
+4.3.1. Prueba del Proceso de Codificación para alta velocidad ................................. 74
+Conclusiones ............................................................................................................. 80
+Recomendaciones ..................................................................................................... 81
+Bibliografía ............................................................................................................... 82
+Anexos ....................................................................................................................... 84
+                                     Índice de Cuadros
+
+2.1: cuadro de comparaciones A300+ y A520i ....................................................... 24
+2.2: Sistema de variables ........................................................................................ 40
+3.1: descripción de la empresa................................................................................. 44
+3.2: Plantas de corporación Lindley ........................................................................ 46
+3.3: niveles de producción diaria con sistema estándar ........................................... 47
+3.4: horas perdidas por falla de sistema de codificación ......................................... 47
+3.5: Descripción total del área de población ........................................................... 48
+3.6: Población .......................................................................................................... 50
+3.7: Técnicas e instrumentos de recolección de datos ............................................. 51
+3.8: Informe de producción diaria Linea-4 vidrios – planta callao ......................... 57
+3.9: Estimación de nivel de producción antes y después del proyecto .................... 57
+4.1: Tabla de técnicas e instrumentos ...................................................................... 59
+4.2: Tabla de fallas por codificación línea 4............................................................ 59
+4.3: Dimensiones y valoración del proyecto ........................................................... 73
+4.4: Constatación de Hipótesis ................................................................................ 79
+                                     Índice de Figuras
+
+2.1: Sistema de Codificación A300+ ....................................................................... 22
+2.2: Sistema de codificación 520i ............................................................................ 23
+2.3: Manual de capacitación .................................................................................... 24
+2.4: Codificación de productos ................................................................................ 25
+2.5: Proceso de codificación .................................................................................... 26
+2.6: Cabezal impresión InkJet ................................................................................. 26
+2.7: Sistema de impresión por rayo laser................................................................. 27
+2.8: Sistema de impresión por termo-transferencia ................................................. 27
+2.9: Sistema electrónico – InkJet ............................................................................. 29
+2.10: Sistema de tinta- InkJet .................................................................................. 30
+2.11: Sistema de codificación InkJet ....................................................................... 31
+2.12: Sistema cabezal de impresión......................................................................... 32
+2.13: Codificación impresa ...................................................................................... 32
+2.14: Fragmentación de gotas .................................................................................. 33
+2.15: Modulación ..................................................................................................... 34
+2.16: Niveles de Ajuste de carga ............................................................................. 37
+2.17: muestreos de trazos en la codificación ........................................................... 37
+3.1: Ubicación geografía de la región callao ........................................................... 48
+3.2: Mapa de ubicación Lindley – callao................................................................. 49
+3.3: Circulo de Deming ........................................................................................... 52
+3.4: Espiral de mejora continúa (PDCA) corporación Lindley ............................... 53
+3.5: Portada de reportes de control del proceso de codificación ............................. 53
+3.6: Figura del registro del control de proceso ........................................................ 54
+3.7: Formato de la verificación de resultados .......................................................... 54
+3.8: Horas perdidas codificación líneas vidrio ........................................................ 55
+3.9: Horas perdidas codificación líneas PET ........................................................... 56
+4.1: Tarjeta de control principal-PCI ....................................................................... 60
+4.2: Montaje del cable de enlace marrón ................................................................. 61
+ 4.3: Cabezal de impresión ....................................................................................... 61
+ 4.4: Cableado del cabezal y Extracción del generador de gotas.............................. 62
+4.5: Montaje del sistema XS .................................................................................... 62
+4.6: Memoria Compact Flash en tarjeta de control PCI-SBC.................................. 63
+4.7: Configuración del Sistema ................................................................................ 63
+4.8: Selección Modelo de sistema Codificador ....................................................... 64
+4.9: Asistente de instalación .................................................................................... 64
+4.10: Selección de Formato ..................................................................................... 65
+4.11: Detección del Producto ................................................................................... 65
+4.12: Pantalla de Inicio del sistema codificador ...................................................... 66
+4.13: Creación y almacenamiento de mensajes ........................................................ 66
+4.14: Ventana configuración de modulación ............................................................ 67
+4.15: Ventana configuración de Presión ................................................................... 68
+4.16: Ventana de configuración del nivel de carga................................................... 69
+4.17: Ventana de parámetros de funcionamiento ..................................................... 70
+4.18: Ventana de configuración de conectividad Ethernet ....................................... 71
+4.19: Proceso de codificación conectada a PC mediante Red .................................. 71
+4.20: Sistema de Control del Botellas RELECON 220 ............................................ 72
+4.21: Supervisión del proceso de codificación ......................................................... 72
+4.22: Corporación Lindley-callao – Línea 4 de producción rápida .......................... 73
+4.23: Parámetros de funcionamiento del sistema codificador .................................. 74
+4.24: Visualización de la calidad de la modulación – formación de gotas ............... 74
+4.25: Pruebas de impresión en hojas......................................................................... 75
+4.26: Producción de Inka Cola 625ml. .................................................................... 75
+4.27: Producción de Inka cola de 1 Litro. ................................................................ 76
+4.28: Producción de Coca cola de 1 Litro. ............................................................... 77
+4.29: Codificación de coca cola de 1 litro ................................................................ 78
+4.30: Muestra de la calidad de codificación con velocidad mayor a 41,000 Btl/h. . 78
+4.31: Formato de codificación larga ......................................................................... 78
+4.32: Sistema de control de botellas con PC industrial-RELECON 220 .................. 79
+                                  Índice de Gráficos
+
+1.1: Horas perdidas por falla de codificación líneas Vidrio .................................... 19
+1.2: Horas perdidas por falla de codificación líneas PET ....................................... 19
+3.1: Nivel de producción Corporación Lindley ....................................................... 44
+3.2: Volumen de ventas ........................................................................................... 45
+3.3: Volumen de Ingresos ........................................................................................ 45
+3.4: horas perdidas por falla de sistema de codificación ......................................... 44
+3.5: Formato horas perdidas codificación líneas vidrio........................................... 55
+3.6: Formato horas perdidas codificación líneas PET ............................................. 56
+                                   Índice de Anexos
+
+
+Diagrama general de un proceso de codificación ..................................................... 84
+PDCA: Horas perdidas por falla de codificación –PET ............................................ 85
+PDCA: Horas perdidas por falla de codificación –Vidrio ......................................... 85
+Formato del control de proceso de codificación del producto terminado ................. 86
+Diagrama de la Cabina A300SE+ .............................................................................. 87
+Diagrama del Sistema de cableado electrónico A300 SE+ ....................................... 88
+Esquema del circuito de sistema de Tinta A300 SE+ ................................................ 89
+Vista General de la cabina Electrónica de A520i ...................................................... 90
+Vista General de la cabina de tinta de A520i ............................................................ 91
+Esquema del Sistema de Tinta A520i ........................................................................ 92
+Diagrama de la unidad del cabezal de impresión ...................................................... 93
+Lista de la unidad del cabezal de impresión .............................................................. 94
+Diagrama de detalles generales del cabezal de Impresión......................................... 95
+Lista de detalles generales del cabezal de Impresión ................................................ 96
+Descripción y detalles Generales del cabezal de impresión XS ................................ 97
+Especificaciones Técnicas Domino A300 SE+ ......................................................... 98
+Especificaciones Técnicas Domino A520i ................................................................ 99
+                                       Resumen
+
+
+
+    El presente trabajo de investigación es un aporte para las empresas embotelladoras
+y otras industrias en general que realizan la identificación de sus productos, Por tanto el
+objetivo de este proyecto consiste en Diseñar, implementar y mejorar un proceso para
+codificación de alta velocidad aplicando sistema XS-High Speed y empleando
+instrumentación electrónica en general.
+
+
+    El desarrollo del prototipo tuvo como finalidad la aplicación de un oscilador con
+tecnología XS-High Speed en reemplazo del oscilador Estándar que existe actualmente,
+de esa forma generaremos una codificación de alta velocidad y confiable que nos
+garantizan un ahorro en costos y aumento de producción.
+
+
+    Para cumplir con el objetivo se realiza el Análisis, diseño e implementación de un
+cabezal de impresión el cual contara con un generador gotas, oscilador XS-93Khz,
+boquilla-60µ, electrodo de carga, placas deflectoras y canalón. Una vez establecido todo
+el prototipo en el sistema codificador se procede a realizar la instalación del software
+XS, posteriormente la configuración de alertas y datos externos como Señales de sensor,
+encoder, protocolos de comunicación y la activación e implementación de una parada de
+emergencia.
+
+
+    Finalmente se realiza algunos procedimientos para la estimación de los parámetros
+de funcionamiento del proceso de codificación el cual involucra la Presión (mbar),
+Velocidad de Bomba (rpm), Viscosidad (S), Nivel de modulación (V), Nivel de carga
+(V), Temperatura de cabezal (°C) y Alineación, posteriormente se realizar las pruebas
+necesarias en línea de producción a 42000 Btl/h. y se obtiene un resultado más que
+favorable.
+
+
+Palabras claves: Codificación, Sistema XS-High Speed, oscilador, mayor producción.
+
+
+
+
+                                                                                        13
+                                            Abstract
+
+
+
+
+    This research is a contribution to the bottling companies and other industries in
+general that perform the identification of its products, therefore the aim of the project is
+to design, implement and improve a process for implementing high speed encryption
+XS-High Speed system and using electronic instrumentation in general.
+
+
+    The prototype development was aimed at implementing an oscillator with XS-High
+Speed technology to replace the standard oscillator that currently exists, so will generate
+a high-speed encryption and reliable that guarantee cost savings and increased
+production.
+
+
+    To achieve the objective the analysis, design and implementation of a print head
+which has a droplet generator, oscillator XS-93Khz, nozzle-60µ, charging electrode,
+baffle plates and gutter is made. Once established around the prototype in the coding
+system, we proceed to install the software XS subsequently alert settings and external
+devices such as sensor signals, encoder, communication protocols and activation and
+implementation of an emergency stop data.
+
+
+    Finally estimating operating parameters of the coding process which involves
+Pressure (mbar), Pump Speed (rpm), Viscosity (S), Modulation level (V), Charge level
+(V), it is performed Temperature Head (ºC) and alignment, then the necessary tests on
+the production line at 42000 Btl/h were performed. And a more than favorable result.
+
+
+Key Words: encryption, system XS-High Speed, oscillator, High production.
+
+
+
+
+                                                                                         14
+                                    Introducción
+
+
+
+    Los procesos de codificación de productos son indispensables en toda industria
+porque nos facilitan las operaciones entre productores, distribuidores y consumidores.
+
+    En el presente proyecto se analizara, Diseñara e implementara un prototipo de
+cabezal de impresión en cual contara con un sistema XS-High Speed y se reemplazara
+en un sistema ya existente actualmente, como objetivo se desea lograr que este sistema
+sea confiable y nos garantice la correcta codificación de los productos a una velocidad
+estimada mayor a la actual que es de 4000 Btl/h.
+
+    El primer capítulo nos describe cuestiones relativas a la formulación y
+planteamiento del problema, así como los objetivos y la justificación del proyecto de
+investigación.
+
+    El segundo capítulo desarrolla los antecedentes y el marco teórico, aquí se define el
+concepto de codificación, estudio y análisis de los sistemas de codificación, el modo de
+empleo en las industrias. También se plantean la hipótesis y la operacionalización de las
+variables.
+
+    El tercer capítulo detalla la metodología de la investigación, aquí se menciona el
+tipo y diseño de la investigación, la descripción de la población y su ubicación, las
+técnicas e instrumentos que se utilizan para la recolección de datos, el análisis de las
+muestras, comparación de los datos y finalmente un diseño estadístico para la
+contrastación y prueba de de hipótesis.
+
+    El Cuarto capítulo elabora el análisis e interpretación de los resultados del
+proyecto, se realiza una descripción del Circulo Deming la cual es tomada como
+referencia para el análisis, diseño e implementación del proyecto, se describe
+detalladamente la implementación y funcionamiento del proyecto, se contrastan los
+resultados obtenidos con los objetivos e hipótesis correspondientes para finalmente
+sacar un cuadro de conclusiones y recomendaciones.
+
+
+
+
+                                                                                         15
+         CAPÍTULO I
+
+
+
+
+PLANTEAMIENTO DEL PROBLEMA DE
+        INVESTIGACION
+
+
+
+
+                                16
+1.1. Descripción del problema
+
+    Actualmente los sistemas de codificación cumplen un rol muy importante en las
+grandes industrias donde se requiere la identificación de productos como
+agroindustriales, alimentos, embotelladoras, farmacéuticas y cosméticos e industria en
+general.
+
+     Gracias a los sistemas de codificación los procesos ya son menos complicados y
+más ordenados, pero para obtener buenos resultados se necesita de procesos de
+codificación confiables, que no nos generen pérdidas de producción y como
+consecuencia pérdida de tiempo y dinero.
+
+    Al garantizar un proceso de codificación confiable, es decir una codificación
+correcta, comprensible y legible del producto, esto nos ayudaria a mejorar la calidad,
+supervisión,     almacenamiento   y distribución   del   producto,   generando mayor
+productividad.
+
+    Corporación Lindley, con 105 años de trayectoria en el país es la empresa líder en
+la industria de bebidas no alcohólicas en el Perú. Desde 1999, Corporación Lindley
+formalmente se convirtió en la embotelladora de todos los productos de Coca-Cola,
+cuenta con procesos de codificación que cumplen estándares internacionales de calidad
+e inocuidad (memoria anual 2011).
+
+
+    Conforme pasaron los años la demanda de producto aumento y en el 2012 se
+realiza un estudio de mercado y como marco estratégico de la compañía se llega a la
+conclusión de aumentar el nivel de producción en las líneas rápidas de 40000Btl. /h. a
+42000Btl. /h (memoria anual 2012). Es aquí donde se enfoca nuestro proyecto de
+investigación, ya que para aumentar el nivel de producción se aumenta la velocidad de
+producción y esto generaría problemas en los sistemas de codificación.
+
+
+     Por tanto existe un evidente retraso en este campo, que obedece a varios aspectos;
+por un lado la situación de baja producción que limita la inversión en procesos de alta
+velocidad con última tecnología, por otro lado, la falta de investigación, desarrollo e
+implementación de procesos de codificación mucho más confiables y rápidos.
+
+                                                                                    17
+1.1.1. Formulación del Problema
+
+
+1.1.1.1.- Problema General
+    ¿Cómo obtener un sistema para codificación de alta velocidad que nos garantice
+una producción mayor a 40000 Btl/h, sin necesidad de poder cambiar nuestro sistema de
+codificación actual?
+
+
+1.1.1.2.- Problema especifico
+    a) ¿Cómo diseñar un sistema de codificación que nos garantice una producción
+mayor a 40000 Btl/h?
+
+
+    b) ¿Cómo implementar un sistema para codificación de alta velocidad utilizando
+nuestro sistema de codificación actual?
+
+
+1.2. Justificación del problema
+
+
+    Los procesos de codificación toman gran importancia para mejorar la gestión
+rápida e eficaz de los productos, ayudan a mejorar la planificación de la producción,
+también representan una invaluable herramienta de trabajo para el personal supervisor,
+que en última instancia es quien valora cuantitativa y cualitativamente la información
+que proporcionan estos sistemas.
+
+
+    La evaluación de la calidad de la codificación es realizada por el jefe de
+Aseguramiento de calidad, es el que determina solo con la ayuda de herramientas
+convencionales y en base a su experiencia la presencia de anomalías en la codificación
+del producto, esto se realiza al inicio de la producción de cada formato, pero existe el
+inconveniente que cuando la llenadora alcanza una velocidad mayor a 40,000 Btl. /h, es
+aquí donde se presenta la distorsión del codificado, Obligando al operario a realizar una
+parada de producción para separar los productos mal codificados, generando así
+pérdidas de tiempo y Dinero.
+
+
+    Por tanto, para generar mayor producción se requeriría adquirir sistemas
+codificadores muchos más rápidos y confiables, esto nos generaría muchos gastos en la
+implementación y capacitación de personal.
+
+                                                                                      18
+    Esto nos motiva a plantear el proyecto de Diseñar, implementar y mejorar un
+proceso para Codificación de alta velocidad aplicando sistema XS, para que pueda
+trabajar a velocidades mayores a 40000Btl. /h. así garantizándonos una confiabilidad en
+la calidad de codificación.
+
+
+    A la vez se reutilizara el sistema de codificación estándar actual, lo cual nos
+generaría un ahorro de costos en materiales y capacitación de personal, adicionalmente
+este proyecto podría ser aplicado a otras industrias donde se requiera aumentar el nivel
+de producción.
+
+
+
+
+                 Grafico 1.1: Horas perdidas por falla de codificación líneas Vidrio
+
+
+
+
+                  Grafico 1.2: Horas perdidas por falla de codificación líneas PET
+
+
+
+
+                                                                                       19
+1.3. Objetivos de la Investigación
+
+
+1.3.1. Objetivo General
+    Obtener un sistema para codificación de alta velocidad que nos garantice una
+producción mayor a 40000 Btl/h. sin necesidad de poder cambiar nuestro sistema de
+codificación actual
+
+
+1.3.2. Objetivos Específicos
+
+   a) Diseñar un sistema de codificación que nos garantice una producción mayor a
+       40000 Btl/h.
+
+
+   b) Implementar un sistema para codificación de alta velocidad utilizando nuestro
+       sistema de codificación actual.
+
+
+
+
+                                                                                20
+  CAPITULO II
+
+
+
+
+MARCO TEÓRICO
+
+
+
+
+                21
+2.1. Antecedentes de la Investigación
+    Para el problema planteado en este proyecto, se toma como antecedentes los
+manuales de operación de los sistemas de codificación DOMINO. Se investiga y analiza
+los modelos A300+, A520i, Sistemas XS.
+
+
+2.1.1. Sistema de codificación A300+
+Título: Sistema codificación de la serie A, Manual de operación y mantenimiento.
+Autor: Domino UK Ltd.
+Dirección: Bar Hill, Cambridge-Inglaterra. Año: 17 Julio, 1998.
+Autorizado por: Brian Guinee, Dirección de Ingeniería.
+Disponibilidad en taller de Instrumentación y control - corporación Lindley
+
+
+
+
+                             Figura 2.1: Sistema de Codificación A300+
+
+
+Conclusión Principal: Este manual nos proporciona una introducción básica del
+sistema de codificación, el uso del panel frontal y el procedimiento de cómo manipular
+y operar la codificadora, Secciones de referencia en la que se describe de cómo proceder
+con las funciones y mensajes presentados en el sistema de codificación, Descripción
+completa del sistema Hidráulico y electrónico, Procedimientos de mantenimiento y
+reparación. Corporación Lindley actualmente cuenta con este sistema de codificación.
+(Bar Hill, 2002).
+
+
+                                                                                       22
+2.1.2. Sistema de codificación A520i
+
+
+Título: Sistemas codificación A-serie iTech, Manual de operación y mantenimiento.
+Autor: Domino UK Ltd.
+Dirección: Bar Hill, Cambridge-Inglaterra. Año: 30 Abril, 2014.
+Autorizado por: Carl Reynaud, Dirección de Ingeniería.
+Disponibilidad en taller de Instrumentación y control - corporación Lindley
+
+
+
+
+                               Figura 2.2: Sistema de codificación 520i
+
+
+Conclusión Principal: El manual nos proporciona la introducción básica de la
+codificadora y de cómo utilizar la interface de usuario y procedimientos de como
+manipular la codificadora de forma segura, una sección más completa sobre el
+funcionamiento del sistema XS, Descripción completa del sistema Hidráulico y
+electrónico, Descripción y utilización del tipo de tinta su configuración y manipulación,
+Procedimientos de mantenimiento y reparación (Bar Hill, 2005).
+
+
+    Realizando la comparación entre ambos sistemas de codificación y los formatos de
+impresión para cada modelo se tiene el siguiente recuadro donde se detalla los puntos
+más importantes para tomar en cuenta en nuestro proyecto.
+
+
+
+
+                                                                                      23
+  Modelo    Formato    Matris     Tamaño De     Metros/min    Velocidad   oscilador   Retardo de
+                                   formato                    De trazo                impresión
+  A300+    2L7HS60     2(7x5)          16           102         4000       60Khz         40
+   A520i   2L7HS60     2(7x5)          16           135         5312       85Khz         53
+    XS     2L7HS60x    2(7x5)          16           148         5812       93Khz         58
+                         Cuadro 2.1: cuadro de comparaciones A300+ y A520i
+
+
+
+2.1.3. Manual de capacitación Domino
+
+
+Título: Manual de capacitación de la Fundación DOMINO.
+Autor: Domino UK Ltd.
+Dirección: Bar Hill, Cambridge-Inglaterra. Año: 01Enero, 1997.
+Autorizado por: Brian Guinee, Dirección de Ingeniería.
+Disponibilidad en taller de Instrumentación y control - corporación Lindley
+
+
+
+
+                                Figura 2.3: Manual de capacitación
+
+
+
+
+Conclusión Principal: En este manual nos proporciona y describe los parámetros de
+funcionamiento de los sistemas de codificación InkJet como la modulación, generador
+de gotas, ajuste de carga, funcionamiento de los raster, análisis del tipo de boquilla,
+descripción de los niveles de oscilación, descripción detallada del sistema hidráulico,
+Procedimientos para la adecuada modulación y calibración del sistema de codificación,
+Procedimiento de mantenimiento y reparación (Bar Hill, Domino Training. 2001).
+
+
+                                                                                                   24
+2.2. Sustento teórico
+
+
+2.2.1. Codificación
+    Es la asignación de un valor de símbolos o caracteres a un determinado mensaje
+con el propósito de transmitirlo a otros individuos o entidades que compartan el código
+adecuado para poder manejarlo correctamente, estos pueden ser numéricos, alfabéticos
+o alfanuméricos.
+
+
+    La codificación también puede ser denominada como la identificación de un
+producto que ayuda a que se alcance más eficiencia, debido a que los datos que son
+codificados requieren menos tiempo para su organización o búsqueda
+    Con la codificación actualmente se pueden imprimir textos fáciles de leer y logos
+que permitan identificar algún producto, a la vez puede Imprimir en superficies como
+alimentos, vidrio, plástico, metal y caucho.
+
+
+     Por tanto, en la industria la codificación se da una vez ya realizado la fabricación
+de un producto, este debe distribuirse de forma organizada en el interior de un almacén
+con el fin de poder localizarla y gestionarla eficazmente. No debemos olvidar que un
+almacén alberga gran variedad de productos, por ese motivo se debe conocer en todo
+momento qué, cuándo y dónde están los productos. Esto nos ayudará a identificar los
+productos, que consistirá en otorgarles unos símbolos, generalmente números y letras.
+
+
+
+
+                             Figura 2.4: Codificación de productos
+
+
+                                                                                      25
+                             Figura 2.5: Proceso de codificación
+
+
+2.2.2. Sistemas de Codificación
+    Los sistemas de codificación ofrecen una variedad de opciones para una
+codificación de alta calidad que se ajuste a cualquier sector industrial como alimentos,
+Bebidas, Farmacéuticas, Cosmético, Electrónico, de cables, Etc. Y Estos son:
+
+
+2.2.2.1. Codificación InkJet-CIJ
+    Es un Sistema de marcaje continuo que se ha convertido en la solución estándar en
+más del 90% de las aplicaciones de codificación. Es elegido porque es fácil de instalar y
+extremadamente versátil pudiendo imprimir prácticamente en cualquier superficie. El
+sistema CIJ utilizan cartuchos de tinta patentadas, trabaja con un cabezal de impresión
+que garantiza una alta calidad de codificación (Domino. Do more, 2010).
+
+
+
+
+                            Figura 2.6: Cabezal impresión InkJet.
+
+
+
+
+                                                                                      26
+2.2.2.2. Codificación Laser
+    El Sistema de marcaje se realiza mediante un sistema laser que graba o vaporiza la
+capa superficial del material, dejando una marca indeleble permanente, Los sistemas de
+laser vectoriales utilizan un rayo laser continuo guiado por espejos que son controlados
+por galvanómetros. La tecnología basada en estos galvanómetros permite la
+codificación y marcaje por laser en productos estáticos o móviles (Domino, Do 2010).
+
+
+
+
+                        Figura 2.7: Sistema de impresión por rayo laser
+
+
+
+
+2.2.2.3. Codificación por termo-transferencia
+     La transferencia térmica o termo transferencia es una tecnología que ya está bien
+establecida para codificar en embalaje flexible debido a su capacidad superior y sus
+avances tecnológicos que ya la hacen mas asequibles, también están ganando amplio
+reconocimiento como sustitución de tecnologías antiguas, no digitales, incluyendo
+tampones calientes y rodillos entintados, la única desventaja es su velocidad de
+codificación (Domino. Do more, 2010).
+
+
+
+
+                    Figura 2.8: Sistema de impresión por termo-transferencia
+
+
+
+
+                                                                                     27
+2.2.3. Descripción del sistema de codificación InkJet – CIJ
+
+
+     Como todo sistema de codificado InkJet (chorro continuo de tinta). La parte más
+importante es el cabezal de impresión, todos los demás elementos realizan funciones
+complementarias, por tanto se describirá en forma breve a estos elementos
+complementarios como son el sistema de tinta y el sistema electrónico.
+
+2.2.3.1. Sistema Electrónico
+
+     Este sistema se centra en la unidad de la placa del circuito impreso de control
+también denominado circuito de control (PCI), que consiste en supervisar la
+codificadora, generador de trazos y controladores del motor de codificación. Cada PCI
+tiene su propio µp, SRAM con batería de reserva para almacenamiento de datos y
+memoria FLASH para el almacenamiento principal de códigos.
+
+     Las conexiones entre el PCI y las restantes partes de la codificadora se realizan
+efectuando una conexión directa o mediante tres periféricas: El interfaz del panel
+frontal, el interface externo y el interface del sistema de tinta.
+
+     El Interface del panel frontal realiza la exploración de las teclas del panel de
+control frontal, nos interconecta con el modulo de visualización de tecnología Led o
+actualmente pantalla touch este nos muestran la información del sistema codificador.
+
+     El interface Externo nos interconecta entre el PCI y el detector de productos de
+bajo voltaje y las señales del encoder. También hace la conexión entre PCI´s de control
+para altos voltajes usados en los circuitos indicadores de fallo y alarmas. Pueden
+montarse pequeñas PCI’s opcionales por ejemplo, Interfaces de comunicación RS232,
+RS845 y Ethernet para una comunicación entre usuarios individuales.
+
+     El interface del sistema de tinta distribuye las funciones para el control adecuado
+de la misma, como el control del nivel de fluido, presión de tinta, el control de las
+válvulas y el sistema electrónico de PCI.
+
+     Hay dos fuentes de alimentación de potencia, una genera las tensiones DC de bajo
+nivel que la codificadora necesita (+5V,+12V,+25V nominal). La otra genera tensiones
+necesarias para cargar las gotas 295V.Nominal, modulación de flujo de tinta de
+210V.Nominal y deflexión de gotas (+-4.2Kv.Nominal). El voltaje de deflexión de
+gotas tiene una impedancia de entrada muy alta, lo que elimina cualquier riesgo al
+tocarse (Bar Hill, Domino Training. 2001).
+
+                                                                                       28
+Figura 2.9: Sistema electrónico – InkJet
+
+
+
+
+                                           29
+2.2.3.2. Sistema de Tinta
+
+     El sistema de tinta tiene como finalidad suministrar tinta con la presión
+programada y con la viscosidad correcta al cabezal de impresión.
+
+    La tinta es bombeada por una bomba de alta presión que a través de un filtro de 5
+micrones fluyendo a través de una válvula limitadora de presión de 69mBar. (1psi) y de
+vuelta al deposito. Este circuito proporciona los distintos niveles de presión necesarios
+para el funcionamiento de los restantes circuitos de tinta. El sistema electrónico
+comprueba la temperatura de tinta usando un detector acoplado a la PRV de 1psi.
+
+    El chorro ofrece una restricción para que la bomba principal funcione en contra y
+como resultado del flujo, se crea un vacio en la línea de circulación de tinta.
+
+    La presión de la bomba es medida por el transductor de presión montado en el
+bloque de tratamiento de tinta que el software lee y controla. La tinta al nivel de presión
+proporcionado por la bomba se hace pasar a través de una válvula solenoide y un filtro
+de 10 micrones al interior del generador de gotas en el cabezal de impresión. Esta tinta
+se proyecta fuera de la boquilla para formar el chorro de tinta. La presión nominal de la
+tinta en el cabezal de impresión es de 2900mBar (42psi) (Bar Hill, Domino Training.
+2001).
+
+
+
+
+                                Figura 2.10: Sistema de tinta- InkJet
+
+                                                                                        30
+2.2.3.3. Funcionamiento del sistema de codificación InkJet
+
+    Desde un depósito principal la tinta es enviada bajo presión a través de un orificio.
+En el área adyacente al orificio se aplica una vibración a la tinta, lo cual provoca que el
+flujo se divida en gotas independientes.
+
+    El flujo se dirige a un canalón conectado a un sistema de vacío que lo recoge y lo
+devuelve al depósito principal. Cuando una gota pasa por el electrodo de carga, este se
+carga eléctricamente mediante un voltaje preestablecido. Al pasar estas gotas a través
+del campo electrostático producido por dos placas de alto voltaje paralelas, son
+desviadas del flujo principal. La desviación será mayor cuanto mayor sea la carga de la
+gota. Eso genera los códigos (Bar Hill, Domino Training. 1999)
+
+
+
+
+                            Figura 2.11: Sistema de codificación InkJet
+
+
+2.2.4. Descripción del sistema principal de codificación
+
+
+2.2.4.1. Cabezal de impresión:
+
+
+    El cabezal de impresión contiene un generador de gotas de tinta con una varilla
+osciladora, esto crea ondas de presión ultrasónica en la tinta, fragmentándola en gotas
+individuales. Cuando estas gotas pasan por el electrodo de carga, las gotas individuales
+se cargan eléctricamente.
+
+
+                                                                                        31
+    La magnitud de la carga aplicada a cada gota determina cuando va a ser desviada
+del chorro cuando pase entre las placas deflectoras. Esto determina su posicionamiento
+en el producto. Disponiendo una serie de estas gotas agrupadas, se imprimen una
+variedad de caracteres cuando el producto pasa frente al cabezal de impresión. Las gotas
+de tinta que no se desvían del chorro son re circuladas para repetir el proceso. Es una
+utilización altamente eficiente de la tinta permitiendo la impresión de millones de
+caracteres con un litro de cartucho de tinta (Bar Hill, Domino Training. 2001).
+
+
+
+
+                          Figura. 2.12: Sistema cabezal de impresión
+
+
+    El mensaje impreso se construye en forma de matriz de puntos, según el objeto se
+desplaza frente al cabezal son desviadas gotas de tinta que se depositan en una posición
+determinada dependiendo de qué símbolo se va a imprimir. Este método solo desvía
+gotas en una dirección disponiendo las gotas en trazos lineales, esperando el
+movimiento del producto para enviar el siguiente trazo de puntos hasta que el mensaje
+está impreso en su totalidad.
+
+
+
+
+                                Figura. 2.13: Codificación impresa
+                                                .
+
+
+                                                                                     32
+2.2.4.2. Formación y fragmentación de las gotas de impresión
+    Cualquier chorro de un fluido se romperá, como hace el agua al salir de un grifo o
+de una manguera de riego. La distancia a la que se produce la rotura (Df) y el tamaño de
+la gota es impredecible en circunstancias normales. La fragmentación es producida por
+pequeñas ondulaciones aplicadas al chorro cuando emerge de la boquilla. Estas
+ondulaciones crecen de forma natural a lo largo del chorro, como las ondas producidas
+al lanzar una piedra a un estanque en calma. La ondulación de cada lado va creciendo
+hasta que ambas se juntan en el centro y se forma una gota.
+
+
+    Df es directamente proporcional a la velocidad del chorro, viscosidad de la tinta,
+densidad de la tinta, diámetro de la boquilla e inversamente proporcional a la tensión
+superficial. Finalmente, el crecimiento de la oscilación es exponencial.
+
+
+
+
+                                                          Dc
+
+
+
+
+                               Df
+
+
+
+
+                              Figura. 2.14: Fragmentación de gotas
+
+
+
+2.2.4.3. Modulación de las gotas de impresión
+    Con el fin de crear un tamaño de gota uniforme y una distancia Df apropiada,
+modulamos el chorro con ondas de presión generadas por un oscilador. Esto significa
+que la presión en la boquilla no es de 42PSI (2.85bar) constantes sino de 42PSI mas o
+menos una pequeña fluctuación a una frecuencia de unos 64Khz. Cuando la presión es
+un poco mayor, fluye más tinta, si este flujo extra se mantuviese, se incrementaría la
+velocidad de la tinta. Pero como este incremento es solo momentáneo, la pequeña
+cantidad de tinta extra se acomoda al chorro volviéndolo un poco más ancho. (Bar Hill,
+Domino Training. 2001).
+
+                                                                                     33
+    Cuando la presión es un poco menor, fluye menos tinta y el chorro se vuelve
+momentáneamente más estrecho. Esto genera una oscilación que crece a lo largo del
+chorro produciendo la fragmentación del mismo (Bar Hill, Domino Training. 2001).
+
+
+    La relación entre el diámetro de la boquilla          , la frecuencia de oscilación    y
+la velocidad del chorro       viene determinada por una formula obtenida por Lord
+Rayleigh (Departamento de Ingeniería, 2010)
+
+
+    En 1851 descubrió que el crecimiento óptimo (mejor fragmentación) se conseguía
+cuando la longitud de onda  es 4.51 x       (diámetro del chorro) aunque se puede
+conseguir un comportamiento aceptable entre 3 y 7 veces         .
+
+
+Por tanto según Lord Rayleigh se tiene que:
+La longitud de onda óptima es:
+El Diámetro de la gota es:
+
+
+
+
+                                                     Dc
+
+
+
+                                             Df
+                                                    Vc
+
+
+
+
+                                         
+
+                                                   Dg
+
+
+
+                                 Figura. 2.15: Modulación
+
+
+
+
+                                                                                          34
+    Calculo para una Boquilla de 75µm.
+La Longitud de onda optima:
+
+
+
+
+La Relación de Velocidad con Frecuencia y Longitud de
+
+Onda esta dado por:
+
+
+
+Donde:
+   : Es la velocidad del chorro (en metros por Segundo)
+ : Es la frecuencia de modulación (en Hertz)
+ : Es la longitud de onda o separación entre gotas (en metros por ciclo)
+   : Es la distancia de fragmentación
+
+
+Por tanto se obtiene la frecuencia óptima.
+
+
+
+
+Ahora el Diámetro gotas       será:
+
+
+
+
+Nota: La velocidad óptima             es 22 m/seg. Esto es una condición, una mayor
+velocidad Produciría salpicaduras, una reducción de Velocidad disminuiría la
+separación () Y como consecuencia una reducción en La frecuencia de trabajo.
+El micrómetro o micra () es la unidad de longitud igual a una millonésima parte de un
+metro. Su símbolo científico es m.     Por tanto: 1 = 10-6m.
+
+
+
+
+                                                                                   35
+     Calculo para una Boquilla de 60µm.
+La Longitud de onda optima:
+
+
+
+
+La frecuencia optima.
+
+
+
+
+Ahora el Diámetro gotas        será:
+
+
+
+
+     Los sistemas de codificación comenzaron trabajando con boquillas de 75 debido a
+los cálculos anteriores. Como podemos comprobar, la frecuencia óptima para una
+boquilla de 60 es de 81.5kHz aunque habitualmente trabajamos con ellas a la misma
+frecuencia de 64 Khz.
+
+
+     El modelo XS trabaja a una frecuencia de 93kHz con boquilla de 60, lo cual entra
+dentro de los cálculos teóricos, Y los sistemas Pinpoint utilizan una boquilla de 40 y
+trabaja a 128kHz. (Bar Hill, 2002).
+
+
+2.2.4.4. Carga en las gotas de impresión
+     Para que las gotas se carguen la fragmentación debe ocurrir dentro del electrodo de
+carga (EC).
+
+
+     Cuando aplicamos un voltaje positivo al EC se produce una atracción de electrones
+desde el cuerpo del cabezal (tierra) hacia el origen del voltaje positivo (EC).
+
+
+     Cuando posteriormente la gota se rompe el exceso de electrones permanece atrapado
+en la gota tomando esta una carga negativa proporcional al voltaje aplicado al EC.
+
+                                                                                     36
+Nota: Si aplicamos un voltaje negativo se produce un defecto de electrones en la gota
+quedando esta con una carga positiva.
+
+
+
+
+                              Figura. 2.16: Niveles de Ajuste de carga
+
+
+
+
+2.2.4.5. Rasters o Formato de Impresión
+Un rasters se define por:
+    El número de gotas usadas en un trazo dado, gotas impresas más gotas de
+       guardia.
+    Todas las posibles combinaciones de gotas usadas y no usadas y los voltajes de
+       carga necesarios para situar las gotas adecuadamente. Con 7 gotas impresas hay
+       un total de 128 combinaciones diferentes.
+
+
+
+
+                       Figura 2.17: muestreos de trazos en la codificación
+
+
+
+
+                                                                                  37
+Ahora se detalla las reglas para selección de Rasters
+
+
+1ª regla. Cuantas más gotas de guardia se utilicen mayor será la calidad de impresión,
+por lo tanto los rasters lentos dan buena calidad. Los rasters de alta velocidad dan peor
+calidad de impresión.
+
+
+2ª regla. Cuantas más gotas impresas se necesiten (impresión multi-línea), más gotas de
+guardia hay que utilizar.
+   Ejemplos: La línea simple de 7x5 usa 2 gotas de guardia.
+               La doble línea + carácter largo (16 gotas) usa 18 gotas de guardia.
+               Las tres líneas mixtas usan 42 gotas de guardia.
+               Las 4 líneas mixtas usan 95 gotas de guardia.
+
+
+3ª regla. Hay menor interacción en 60 que en 75 porque los niveles de carga son
+menores y la distancia entre gotas mayor. Luego los rasters multi-línea de 60 tienden a
+ser más rápidos y/o dar mayor calidad de impresión.
+
+
+4ª regla. Calcular velocidades en términos de velocidad de línea (p.ej. metros por
+minuto) puede ser erróneo si no se tiene en cuenta la anchura del carácter. La tabla de
+matrices calcula velocidades de línea para un carácter de 2.54mm o 10 caracteres por
+pulgada. Si el usuario quiere hacer caracteres de 5mm de ancho, la velocidad de
+impresión se duplica, mientras que si reducimos la anchura por debajo de 2,54 la
+velocidad se reduce en la misma proporción.
+
+
+5ª regla. Si se quiere escribir en negrita manteniendo la anchura de la letra, la velocidad
+máxima de impresión se reducirá en un 50% al escribir el doble de trazos en el mismo
+espacio.
+
+
+2.2.5. Sistema XS.
+Se denominado así al cabezal de impresión de alta velocidad.
+Cuando el equipo incluye un cabezal de impresión XS, se puede conseguir una
+velocidad de línea de hasta 17m/seg. Al utilizar una fuente de 5 gotas y caracteres de
+5mm de ancho. Un código de 2 líneas y una fuente de 5 gotas pueden imprimirse a
+7,7m/seg. (Bar Hill, 2002).
+                                                                                        38
+2.3. Glosario o definición de términos básicos
+
+
+       Codificación: enunciación de un mensaje mediante un código determinado de
+                        palabras, letras, números o signos
+       Modulación : Parámetro de manipulación para variar la calidad de
+                        codificación
+       InkJet       :   Sistema Inyección de tinta
+       PinPoint     :   Sistema de codificación con micro puntos
+       PSI          :   Unidad de presión – 1 Libra por pulgada cuadrada
+       Raster       :   Número de gotas usadas en un trazo dado, gotas impresas más
+                        gotas no impresas.
+       Serie A      :   Modelo de un sistema de codificación
+       Vc           : Velocidad de chorro
+       XS           :   Modelo de cabezal de impresión de un sistema de codificación
+                        de alta velocidad
+       Llenadora    :   Se dice al equipo encargado de realizar el embotellado
+       Btl/h.       :   Botellas por hora
+       Operario     :   Personal encargado de realizar una función en una empresa
+       Distorsión   : Impresión no legible de mala interpretación
+       Legibilidad : Impresión correcta de correcta interpretación
+       Ajuste carga:    Nivel de voltaje asignada a un electrodo
+       Boquilla     :   Placa con un pequeño agujero en micras
+       Benchmark : Finanzas, referencia que se usa para hacer comparaciones.
+                        informática, técnica utilizada para medir el rendimiento de un
+                        sistema
+       Oscilador    : Sistema que crea perturbaciones a altas frecuencias también
+                        llamado multivibrador
+       Prototipo    :   Primer dispositivo creado para después ser usado como modelo
+
+
+
+
+                                                                                    39
+2.4. Hipótesis de la Investigación
+
+
+2.4.1. Hipótesis General
+
+
+    El Diseño, implementación y mejora de un proceso para codificación de alta
+velocidad aumentara el nivel de producción si se aplica de forma adecuada un sistema
+XS high-speed.
+
+
+
+
+2.4.2. Hipótesis Específico
+
+
+   a)   El Diseño de un sistema de codificación XS, nos garantizara una producción
+mayor a 40000 Btl/h.
+
+
+   b) La Implementación del sistema XS-High speed en nuestro sistema actual de
+codificación, nos genera beneficios en ahorro de costos.
+
+
+
+
+2.5. Sistema de Variables
+
+
+                                                                                 Criterios de
+          Variables           Dimensiones               Indicadores
+                                                                                 Valoración
+    I. Independientes:
+    1.     Sistema       1.1. Presión.            1.1.1. mBar - unidad de     - 2800 -a-
+       XS - High Speed                                   presión.               4500mBar.
+                         1.2. Modulación.         1.2.1. Voltios - Nivel de   - 100V. a 180V.
+                                                         voltaje.
+                         1.3.Temperatura          1.3.1. °C - Nivel de        - 42°C a 48°C.
+                                                         temperatura.
+                         1.4. Oscilador           1.4.1. Frecuencia de        - 60Khz – 93 Khz.
+                                                         oscilación.
+
+
+    II. Dependiente:
+    2. Velocidad de      2.1. Btl./h.             2.1.1. Botellas por hora    - 40000 a 42000
+         Codificación.                                                          Btl./h.
+
+
+
+                                         Cuadro 2.2: Sistema de variables.
+
+
+
+
+                                                                                                  40
+2.5.1. Variables Independientes
+
+
+    La variable independiente presente en la investigación y que se aplicará para
+alcanzar el objetivo será:
+
+
+    La correcta implementación y manipulación de los parámetros del Sistema XS-
+High Speed; nos permitirá alcanzar la máxima velocidad de codificación, Lo que nos
+generara una mayor productividad.
+
+
+
+
+2.5.2. Variables Dependientes
+
+
+    Con el fin de alcanzar el objetivo, la variable dependiente es la velocidad de
+codificación, que se lograra con el diseño e implementación de un sistema XS High-
+Speed.
+
+
+
+
+                                                                               41
+     CAPÍTULO III
+
+
+
+
+DISEÑO MÉTODOLÓGICO DE
+    INVESTIGACIÓN
+
+
+
+
+                         42
+3.1. Tipo y Diseño de investigación
+
+
+3.1.1. Tipo de investigación
+
+
+    Esta investigación, es del tipo “Experimental”, ya que se requiere de la
+experimentación para comprobar sus hipótesis y el investigador interviene, manipula las
+variables independientes y prepara las condiciones para abordar y dar solución al
+problema (Charaja, Francisco. 2004).
+
+
+    Es del tipo “Aplicada”, porque se caracteriza por resolver problemas, para atender
+necesidades concretas y en función a la naturaleza del problema. (Charaja. 2004).
+
+
+    Es del tipo “Analítica y Descriptiva”, porque se fundamenta en base a las teorías y
+formulaciones estudiadas y establecidas anteriormente por otros investigadores.
+
+
+3.1.1.1. Enfoque de investigación
+        Cuantitativa
+        Cualitativa
+
+
+3.1.2. Diseño de Investigación
+
+
+    Es “explicativo”, según Sampieri (1991, p.67) indica, que una investigación
+explicativa están dirigidas a responder a las causas de los eventos o problemas, es decir
+explicar por que ocurre un fenómeno y en que condiciones se presentan estos.
+
+
+    También es “descriptivo”, según Sampieri (1991, P.60) indica, que en una
+investigación descriptiva se selecciona una serie de cuestiones y se mide cada una de
+ellas, es decir se busca especificar las propiedades importantes del fenómeno que se ha
+sometido a análisis. Por tanto; la presente investigación corresponde al tipo descriptivo.
+
+
+
+
+                                                                                        43
+3.2. Población y Muestra de Investigación
+
+
+3.2.1. Población del proyecto de investigación
+    La población estará conformada por una empresa embotelladora de bebidas nos
+alcohólicas.
+         Actividad                  Razón Social                      Total/plantas
+   Elaboración de bebidas    Corporación Lindley S.A.               8 A Nivel nacional
+        no alcohólicas
+                            Cuadro 3.1: descripción de la empresa
+
+
+    Corporación Lindley S.A. tiene una participación del mercado de gaseosas del
+70.1%, aproximadamente seis veces mayor que la participación de su competidor más
+cercano, el cual cuenta con el 11.6% del mercado (Bolsa de valores, 2002).
+
+
+
+
+                         Grafico. 3.1: Nivel de producción Corporación Lindley
+
+
+    Según información proporcionada por Nielsen sobre el mercado de bebidas no
+alcohólicas, al cierre del 2014, el mercado presentó un crecimiento respecto al año
+anterior del 2.9%. Si bien este resultado estuvo por debajo de las proyecciones iníciales
+esperadas del orden del 6%, mostró un rendimiento superior al de la economía nacional,
+cuyo PBI alcanzó finalmente la cifra de 2.4%, revirtiéndose los resultados negativos
+presentados el año 2013. Las categorías con mayor penetración continúan siendo las
+bebidas gaseosas y el agua sin gas; asimismo las categorías que tuvieron mayor
+crecimiento fueron las de aguas y néctares con 8.5% y 3.9%.
+
+
+    Corporación Lindley mantiene el liderazgo del mercado con una participación en
+promedio del 50% de la industria (Bolsa de valores, 2001).
+
+                                                                                         44
+3.2.1.1. A nivel de volumen
+    El volumen vendido ascendió a 281.1 millones de cajas unitarias, retomándose el
+rumbo de crecimiento sostenido registrado en los últimos años, con excepción del año
+2013, según se detalla en la serie histórica que se muestra a continuación.
+
+
+
+
+                                   Grafico 3.2: Volumen de ventas
+
+
+
+
+3.2.1.2. A nivel de ingresos
+    El nivel de ingresos por ventas se obtuvo un incremento del orden del 4%
+alcanzando S/.2,533.3 Millones de soles, como consecuencia de una mejor composición
+del mix de productos (Bolsa de valores, 2004).
+
+
+
+
+                                  Grafico 3.3: Volumen de Ingresos
+
+
+
+
+                                                                                 45
+3.2.1.3. Plantas de producción
+    Corporación Lindley actualmente cuenta con plantas de producción en los
+principales mercados como: Lima, Trujillo, Arequipa, Cuzco e Iquitos. Y la nueva
+construcción y funcionamiento de una mega planta en Pucusana.
+
+
+
+
+                             Cuadro 3.2: Plantas de corporación Lindley
+
+
+
+
+3.2.2. Muestra del proyecto de investigación
+    Se ha tomado como base para la prueba del prototipo del proyecto de investigación,
+la planta Callao el cual cuenta con dos líneas rápidas de producción.
+
+
+    Donde se tomaran las muestras con las siguientes características:
+         Velocidad de codificación
+         Calidad del proceso de codificación
+
+
+3.2.2.1. Planta callao
+    Es la de mayor volumen de operaciones y la que cuenta con el mayor número de
+líneas de producción, en ella se produce la mayor parte de los productos en vidrio
+retornable y en menor proporción productos en plástico retornable y vidrio no
+retornable (Bolsa de valores, 2003).
+
+
+    Sus líneas más modernas pueden producir hasta 1200 botellas por minuto y cuenta
+con un sistema de soplado de botellas PET en línea. Además de atender la demanda en
+Lima, esta planta también atiende a la sierra y selva central del Perú.
+
+
+                                                                                   46
+    Como se puede mostrar en la figura siguiente el nivel de producción en la línea
+rápida planta callao, este proceso de recaudación de datos es diaria por el personal de
+gestión del calidad.
+
+
+
+
+                   Cuadro 3.3: niveles de producción diaria con sistema estándar
+
+
+
+
+                   Grafico 3.4: horas perdidas por falla de sistema de codificación.
+
+
+
+
+3.3. Ubicación y Descripción de la población
+
+
+3.3.1. Ubicación
+    El presente proyecto de investigación se realizo en el ámbito de nuestro país,
+específicamente en los laboratorios de Control e Instrumentación de la Corporación
+Lindley, Planta ubicada en la provincia constitucional del Callao-Perú.
+
+
+
+
+                                                                                       47
+3.3.1.1. Características Geográficas
+    La provincia constitucional del callao está situada en la parte centro occidental de
+la región lima, Sus coordenadas geográficas se encuentran entre 11°47´50´´ a
+12°07´30´´ de latitud sur y 77°04´40´´ a 77°11´40´´ de longitud Oeste , considerando la
+zona insular. Su territorio se encuentra a una altitud comprendida entre 0 y 534
+m.s.n.m., aproximadamente el 60% de su superficie es plana por debajo de los 40
+m.s.n.m. y el resto es accidentado calinoso árido, con algunos ambientes típicos de
+lomas (Ministerio del trabajo y promoción del empleo, 2010).
+
+    La    Provincia     Constitucional      del     Callao     está    conformada   política   y
+administrativamente por los distritos siguientes:
+
+                      Callao (cercado)                49.997 Km2
+
+                      Bellavista                      4.562 Km2
+
+                      La Punta                        0.605 Km2
+
+                      El Perla                        3.227 Km2
+
+                      Carmen de la Legua Reynoso      1.907 Km2
+
+                      Ventanilla                      82.15 Km2
+
+                      Islas                           16.762 Km2
+
+                      TOTAL Provincia                 159.21 Km2
+
+                        Cuadro 3.5: Descripción total del área de población
+
+
+
+
+                        Figura. 3.1: Ubicación geografía de la región callao
+
+
+
+                                                                                               48
+Sus límites son con la ciudad de lima y el Océano pacifico:
+
+      Norte: los distritos de Santa Rosa y Puente Piedra.
+      Este: los distritos de San Martin, Cercado de lima, Breña, y Magdalena vieja.
+      Sur: Distrito de San Miguel.
+      Oeste, con el Océano Pacifico.
+
+El Diseño, implementación y optimización del proyecto se realizaron en:
+
+    Empresa Corporación Lindley - Planta callao
+     Dirección: Jr. Abelardo Quiñones 186. Mz. I fundo Bocanegra callao-LIMA
+    Laboratorio de instrumentación y control – mantenimiento Lindley-callao
+     Dirección: Jr. Abelardo Quiñones 186. Mz. I fundo Bocanegra callao-LIMA
+    Lineas de Produccion: Linea 4, Linea 5, Linea 7 – Planta callao.
+
+
+
+
+                          Figura. 3.2: Mapa de ubicación Lindley - callao
+
+
+
+3.3.2. Descripción de la población
+
+
+3.3.2.1. Características Demográficas
+    El incremento de la población, medido por la tasa de crecimiento promedio anual,
+indica que la población total de la ciudad ha presentó un incremento de 2,3% anual para
+el periodo 1993-2007, lo cual confirma la tendencia decreciente observada en los
+últimos 46 años. Entre los censos de 1981 y 1993, el crecimiento poblacional fue de
+3,0% por año; este nivel fue mayor en el período intercensal 1972–1981 (3,5% anual).
+
+
+
+
+                                                                                       49
+    Los distritos con mayor población e importancia relativa son el Callao con 415 888
+habitantes, que concentra cerca de la mitad de la población de la provincia (47,4%) y
+Ventanilla con 277 895 habitantes (31,7%). En el Censo de 1993, estos dos distritos
+también tenían los mayores volúmenes de población e importancia relativa, así Callao
+tenía 369 768 habitantes (57,8%) y Ventanilla 94 497 habitantes (14,8%).
+
+
+    Por el contrario, los distritos menos poblados en el año 2007 son: Bellavista 75 163
+habitantes (8,6%), La Perla 61 698 habitantes (7,0%), Carmen de La Legua-Reynoso
+41 863 habitantes (4,8%) y La Punta con 4 370 habitantes (0,5%).
+
+
+    Por número de habitantes, el Callao es la segunda urbe del país albergando a
+968,960 habitantes por delante de la ciudad de Arequipa. Sin embargo, al ser parte del
+Área Metropolitana Lima-Callao tiene además una población flotante de 500 mil
+habitantes aproximadamente que visitan diariamente el Callao.
+
+
+                                       Población
+                     Callao                                640,468
+                     Bellavista                            115,751
+                     Carmen de la Legua Reynoso             64,469
+                     La Perla                               22,235
+                     La Punta                                2,170
+                     Ventanilla                            123,868
+                     Total Provincia del Callao            968,960
+                                   Cuadro 3.6: Población
+
+
+
+3.3.2.2. Características Económicas
+
+
+    Renta Aduanera: La Renta de Aduanas es un recurso que se transfiere a las
+       municipalidades provinciales y distritales de una determinada provincia y
+       corresponde al 2% de las rentas recaudadas por cada una de las Aduanas
+       Marítimas, Aéreas, Postales, Fluviales, Lacustres y Terrestres ubicadas en la
+       jurisdicción respectiva. Esta renta constituye ingreso propio de las mencionadas
+       municipalidades (Ministerio del trabajo y promoción del empleo, 2010).
+
+
+
+
+                                                                                     50
+       Únicamente en el caso de la Provincia Constitucional del Callao, el Gobierno
+       Regional del Callao y el Fondo Educativo creado con la Ley 27613 participan de
+       las rentas recaudadas por las aduanas ubicadas en esa Provincia.
+
+
+       A la vez recauda un porcentaje por cánones aduaneros, Portuarios,
+       aeroportuarios y pesqueros.
+
+
+    Actividades Económicas: La provincia constitucional del callao también cuenta
+       con actividades económicas de gran importancia como la industria, comercio y
+       pesca los cuales surgieron asociadas, en un primer momento, a las actividades
+       portuarias propias de la ciudad, pero desde entonces se ha diversificado hasta
+       abarcar una gran variedad de productos fabriles. Además del auge industrial,
+       también se desarrollaron las actividades y las organizaciones obreras, lo cual
+       permitió a los trabajadores del muelle y la dársena del Callao se convirtieran en
+       los primeros trabajadores del Perú que lograron la jornada de las ocho horas de
+       trabajo, durante el gobierno del presidente Guillermo Billinghurst, a principios
+       de siglo XX.
+
+
+3.4. Técnicas e instrumentos para recolección de datos e información
+
+
+         Método              Técnica                         Instrumento
+        Descriptivo        Observación              Reportes de control de calidad
+       Experimental        Observación                  Contador de productos
+         Aplicativo       Implementada                         Eficiencia
+                  Cuadro 3.7: Técnicas e instrumentos de recolección de datos.
+
+
+3.5. Técnicas para el procesamiento y análisis de datos
+
+
+3.5.1. Técnica PDCA
+    Corporación Lindley cuenta con estándares de calidad internacionales, debido a
+esto el presente proyecto a ejecutar se plantea bajo las reglas del ciclo Deming
+(Edwards Deming) o también conocido como Circulo PDCA (Plan-Do-Check-Act).
+
+
+
+
+                                                                                     51
+    Esto significa Planificar-Hacer-Verificar-Actuar, En las industrias también
+denominado Espiral de mejora continua, es una estrategia de mejora de la calidad en
+cuatro pasos, basada en un concepto ideado por Walter A. Shewhart. Es muy utilizado
+por los sistemas de gestión de calidad (SGC) y los Sistemas de gestión de la seguridad
+de la información (SGSI), (PDCA Home, 2012).
+
+
+
+
+                              Figura. 3.3: Circulo de Deming
+
+
+
+
+    Los resultados de la implementación de este ciclo permiten a las empresas una
+mejora integral de la competitividad, de los productos y servicios, mejorando
+continuamente la calidad, reduciendo los costes, optimizando la productividad,
+reduciendo los precios, incrementando la participación del mercado y aumentando la
+rentabilidad de la empresa u organización.
+
+
+
+3.5.2. Descripción técnica de datos
+    Corporación Lindley cuenta con sistemas de gestión denominada SAP donde se
+genera los reportes e incidencias del cada proceso a la ves se cuanta con una
+arquitectura ODBC, el cual es una aplicación de Excel, este se conecta al Administrador
+de controladores ODBC, que a su vez usa un controlador ODBC específico (como el
+controlador ODBC de Microsoft SQL) para conectarse a un origen de datos
+
+
+
+                                                                                    52
+     (Como una base de datos de Microsoft SQL Server). Todo esto es configurado y
+controlado y supervisado por todas las áreas de producción, estos sistemas nos generan
+mensualmente cuadros estadísticos.
+
+
+3.6. Plan de tratamiento de datos.
+
+
+El plan de tratamiento de datos es mediante el sistema PDCA-(Plan-Do-Check-Act).
+Que significa Planificar-Hacer-Verificar-Actuar.
+
+
+
+
+               Figura 3.4: Espiral de mejora continúa (PDCA) corporación Lindley
+
+
+3.6.1. PLAN (P) - Identificación del problema
+     Corporación Lindley cuenta con reportes de control de calidad para la
+identificación el problema en cualquier línea de producción.
+
+
+
+
+               Figura 3.5: Portada de reportes de control del proceso de codificación
+
+
+                                                                                        53
+3.6.2. DO (D) – Ejecución
+     Una vez identificado el problema se realiza la acción de realizar un registro de las
+causas y acciones tomadas para su solución.
+
+
+
+
+                      Figura 3.6: Figura del registro del control de proceso.
+
+
+
+
+3.6.3. CHECK (C) - Verificación de resultados
+     Una vez identificado el problema, registrado se realiza la verificación de los
+resultados en todas las líneas de producción.
+
+
+
+
+                       Figura 3.7: Formato de la verificación de resultados
+
+
+
+
+                                                                                      54
+3.6.4. ACT (A) - Estandarizaciones y conclusión
+     Una vez obtenido los PDCA- La identificación del problema, ejecución (registro
+del problema), Verificación de resultados (contrastación de registros), finalmente se
+realiza la estandarización del problema mediante cuadros estadísticos mensuales que
+nos ayudan a sacar conclusiones para poder generar un mayor control de todos los
+procesos de producción en nuestro caso control del proceso de codificación.
+    En el siguiente cuadro se puede visualizar las horas perdidas por falla del proceso
+de codificación en las líneas vidrio antes de que se ejecute nuestro proyecto.
+
+
+
+
+                      Figura 3.8: Horas perdidas codificación líneas vidrio
+
+
+    En la siguiente figura se verifica las horas perdidas por codificación en líneas de
+vidrio, antes y después de la ejecución de nuestro proyecto, donde se puede visualizar
+un notable cambio de en el proceso de codificación.
+
+
+
+
+                  Grafico 3.5: Formato horas perdidas codificación líneas vidrio
+
+
+                                                                                    55
+    En el siguiente cuadro se puede visualizar las horas perdidas por falla del proceso
+de codificación en líneas PET. Antes de que se ejecute nuestro proyecto.
+
+
+
+
+                      Figura 3.9: Horas perdidas codificación líneas PET
+
+
+
+    En la siguiente figura se verifica las horas perdidas por codificación en líneas PET,
+antes y después de la ejecución de nuestro proyecto, donde se puede visualizar un
+notable cambio de en el proceso de codificación.
+
+
+
+
+                  Grafico 3.6. Formato horas perdidas codificación líneas PET
+
+
+
+
+                                                                                      56
+3.7. Diseño estadístico para la prueba de hipótesis
+
+
+    Como se sabe nuestro objetivo era mejorar el nivel de producción aplicando
+sistema XS-High Speed en nuestros procesos de codificación. A la vez se tenía que
+generar un proceso de codificación mas confiable que no nos genere perdida de
+productos ni horas de producción.
+
+
+    En seguida se visualiza los informes de producción diaria, la contrastación y
+estimación de los valores de producción, antes y después de la ejecución del proyecto
+implementada en la línea más rápida de vidrios línea 4 - planta callao.
+
+
+
+
+              Cuadro 3.8: Informe de producción diaria Linea-4 vidrios – planta callao
+
+
+
+
+            Cuadro 3.9: Estimación de nivel de producción antes y después del proyecto
+
+
+
+
+                                                                                         57
+         CAPÍTULO IV
+
+
+
+
+ ANALISIS E INTERPRETACIÓN DE
+RESULTADOS DE LA INVESTIGACIÓN
+
+
+
+
+                                 58
+4.1. Descripción General del proyecto
+
+
+    Se realiza la recolección de información en la Corporación Lindley planta callao
+en la línea de mayor producción, tomando en cuenta la siguiente característica.
+
+       Técnicas                   Instrumentos
+       Observación                Cuadro de registros elaborado por supervisor de
+                                  control de calidad.
+       Análisis Documental        Cuadro de producción diaria por línea de
+                                  producción.
+                          Cuadro 4.1: Tabla de técnicas e instrumentos
+
+De donde se obtiene:
+
+
+
+
+                       Cuadro 4.2: Tabla de fallas por codificación línea 4
+
+    En el cuadro anterior se puede apreciar que los problemas de perdida de productos
+son mayores cuando la velocidad de producción aumenta a mayor de 40,000Btl/h.
+
+
+    Muy aparte de las perdidas de producto también se presenta las perdidas de hora de
+producción por generar una parada de línea y dar solución al problema el cual nos
+genera gastos económicos para la empresa.
+
+
+    Por   tanto la solución que proponemos es Diseñar, implementar y mejorar el
+proceso de codificación para que pueda trabajar a una velocidad mayor a 40,000Btl/h.
+El cual nos genere confiabilidad y una mayor nivel de producción, a la vez puede ser
+aplicado a las demás plantas rápidas a nivel nacional esto nos generaría ahorro en costos
+y capacitación de personal.
+
+
+
+
+                                                                                      59
+4.2. Desarrollo del Proyecto
+    Para la ejecución del proyecto se ha tomado en cuenta cuatro puntos importantes
+los cuales resumimos a continuación.
+   a) Sistema Electrónico.
+   b) Implementación del Cabezal de impresión XS.
+   c) Instalación y configuración del Sistema XS.
+   d) Control y monitoreo del proceso de codificación.
+
+
+4.2.1. Sistema electrónico
+    Como se describió anteriormente el sistema codificador posee una tarjeta de control
+o placa madre denominada también PCI. Donde van conectados todas las tarjetas de
+interface y también el conector de 20 vías que viene del cabezal de impresión.
+
+
+
+
+                          Figura 4.1: Tarjeta de control principal-PCI
+
+
+
+    Ahora se desconecta el conector de 20 vías que viene del cabezal de impresión (del
+controlador- PCB inferior). Retire el cable de conexión negro y colocar el cable de
+conexión de color marrón (XS), como se muestra en el siguiente diagrama, todo esto
+para garantizar los 96Khz que necesita nuestro sistema XS. Una vez realizado el cambio
+volverlo a conectar.
+
+
+
+
+                                                                                    60
+                         Figura 4.2: Montaje del cable de enlace marrón
+
+
+4.2.2. Implementación del Cabezal de impresión XS
+Para esto se realizara los siguientes procedimientos:
+
+
+(1)Desconecta la alimentación del sistema codificador, por precaución es necesario
+tomar medidas anti-estáticas.
+(2) Se desmonta el cabezal cuidadosamente de su funda. Como se observa en la figura.
+
+
+
+
+                                Figura 4.3: Cabezal de impresión
+
+
+
+                                                                                   61
+(3)Ahora se procederá a desmontar la cubierta de los conectores y desconectar el
+oscilador, Después se sacara cada una de las piezas del cabezal de impresión
+cuidadosamente como se muestra en la figura siguiente.
+
+
+
+
+               Figura 4.4: Cableado del cabezal y Extracción del generador de gotas.
+
+
+(4) seguidamente se realiza el desmontaje de la boquilla y la instalación del oscilador
+con sistema XS. Como se muestra en la figura.
+
+
+                                         1   Casquete del oscilador
+                                         2   tuerca de fijación del oscilador
+                                         3   Oscilador (64Khz.-96Khz.)
+                                         4   Junta tòrica del generador de gotas
+
+                                         5   Generador de gotas
+                                         6   Junta tòrica o Oring de boquilla
+                                         7   Boquilla (75µ-60µ-40µ)
+                                         8   Tornillos de fijación
+
+                                         9   Transductor de temperatura
+                                        10   Heater o calentador
+                                        11   Válvula de chorro
+
+                                Figura 4.5: Montaje del sistema XS
+
+
+(5) Finalmente se coloca la boquilla 60μ al generador de gota XS. Aseguramos que el
+Oring quede montado entre el generador de gotas y la boquilla con los tornillos de
+fijación. Se regresa todo el cabezal de impresión a su lugar como se le encontró
+inicialmente para pasar a configurar el sistema.
+
+                                                                                       62
+4.2.3. Instalación y Configuración del sistema XS
+Se realiza la carga de la memoria compact Flash con el DPS Versión. 05-04-006 para la
+actualización y configuración del software para que trabaje correctamente con el nuevo
+sistema XS.
+
+
+
+
+                Figura 4.6: Memoria Compact Flash en tarjeta de control PCI-SBC
+
+
+Una vez cargado el DPS (Domino Print SetUp) versión 05.04.006, se vuelva a
+configurar la impresora, seleccionando la boquilla de 60μ y formato XS.
+
+
+
+
+                             Figura 4.7: Configuración del Sistema
+
+
+Como se puede observar en la figura nuestro sistema ahora cuenta DPS Versión 05-04-
+006, a la serie de oscilador XS, tamaño de la boquilla de 60µ, frecuencia de oscilación
+es de 93Khz.
+
+
+                                                                                    63
+Ahora se selecciona el modelo del sistema codificador en este caso A300SE+
+Donde SE (Ambiente Cerrado) y + (Serie Plus)
+
+
+
+
+                      Figura 4.8: Selección modelo de sistema Codificador
+
+
+
+
+En seguida se procede a la instalación de Sistema codificador
+
+
+
+
+                              Figura 4.9: Asistente de Instalación
+
+
+
+
+                                                                             64
+Se selecciona el Formato de mensaje 2L7HS60_X, donde HS (High Speed)
+
+
+
+
+                              Figura 4.10: Selección de formato.
+
+
+
+
+Selección del tipo de detección del producto en este caso si utilizara sensor
+
+
+
+
+                             Figura 4.11: Detección del Producto.
+
+
+
+
+                                                                                65
+Una vez instalado y configurado se verifica la Pantalla principal del sistema codificador
+XS de la Línea 4, proyecto implementado en línea de producción rápida.
+
+
+
+
+                     Figura 4.12: Pantalla de Inicio del sistema codificador
+
+
+
+
+Se crear mensaje para 210 días de vencimiento y este será codificado en nuestro
+producto
+
+
+
+
+                      Figura 4.13: Creación y almacenamiento de mensajes
+
+
+
+
+                                                                                      66
+4.2.3.1. Ajuste del valor de la Modulación
+     Se establece la presión para 3500mbar, se disminuí la modulación hasta que la
+impresión no funcione, este será el valor de modulación más baja (        ).
+
+
+    Ahora aumentar la modulación hasta que la impresión no funciona, este será el
+valor de modulación superior (Vupper).
+
+
+    Ahora se establece la modulación óptima Vset (es el punto medio de los dos valores
+de modulación) que esta dada por:
+
+
+
+Utilizando el procedimiento obtenemos los siguientes valores:
+
+                                                      =160V.
+                                                     = 100V.
+                                                     = 220V.
+
+Por dato se sabe que la modulación óptima (Vupper – Vlower) debe ser mínimo 50V a
+25ºC.
+En nuestro caso salió 120V a 21ºC, entonces se configura con la modulación óptima a
+160V.obtenida y se establece en fijo.
+
+
+
+
+                       Figura 4.14: Ventana configuración de modulación
+
+
+
+
+                                                                                    67
+4.2.3.2. Ajuste del Valor de la presión
+    Ahora con la modulación establecida en Vset, se disminuirá la presión hasta que
+falle la impresión, este será el valor de la presión baja (Plower). Ahora se aumenta la
+presión hasta que la impresión no funcione, este será el valor de presión superior
+(Pupper). Según la formula nos establece que la presión óptima (Pset) (es el punto medio
+de los dos valores de presión) la cual esta dada por:
+
+
+
+
+Utilizando el procedimiento obtenemos los siguientes valores:
+
+                                                    = 4100 mbar.
+                                                    = 3700 mbar.
+                                                    = 4500 mbar.
+
+Por dato se sabe que la presión Óptima (Pupper - Plower) debe ser mínimo 600mbar a 25ºC.
+
+
+En nuestro caso salió 800mbar a 21ºC, En seguida se configura la presión óptima de
+4100 mbar. Obtenida.
+
+
+
+
+                         Figura 4.15: Ventana configuración de Presión
+
+
+
+
+                                                                                     68
+4.2.3.3. Ajuste del valor de la carga
+    Con el valor de la modulación optima Vset y la Presión optima Pset, se disminuí el
+nivel de carga hasta que nos falle la impresión, este será el valor de carga inferior
+(Clower). Ahora se aumentara el nivel de carga hasta que la impresión no funcione, este
+será el valor de carga superior (Cupper). Se obtiene el nivel de carga óptima (Cset) a 200V.
+
+
+
+
+Utilizando el procedimiento se obtiene los siguientes datos:
+
+
+                                                           = 190
+                                                           = 230
+                                                           = 150
+
+Por dato se sabe que la carga óptima (Cupper – Clower) debe ser al menos 40V a 25ºC.
+
+
+En nuestro caso salió como Carga optima 190V. a 21ºC, el cual se configura a
+continuación
+
+
+
+
+                     Figura 4.16: Ventana de configuración del nivel de carga.
+
+
+
+
+                                                                                         69
+    Una vez que se haya encontrado los parámetros óptimos de codificación, será
+necesario ajustar la configuración para obtener una calidad óptima de impresión, de la
+siguiente manera:
+
+
+    Una vez obtenido los rangos óptimos para la codificación correcta, con es sistema
+codificador encendido se pueden variar la presión en un rango de +/-300mBar la
+presión Plower de Pupper para obtener una mejor calidad de codificación de producto.
+
+
+    De forma similar para obtener una mejor calidad de codificación se puede variar la
+carga en un rango +/- 5V. el nivel de carga Clower y Cupper. Siempre realizando la prueba
+de impresión para ver la calidad de codificación.
+
+
+
+
+                     Figura 4.17: Ventana de parámetros de funcionamiento
+
+
+Para obtener una correcta codificación tener en cuenta que:
+
+
+   a) Para aumentar a una altura máxima de caracteres, se aumenta la tensión de carga
+       o se disminuye la presión.
+   b) Para disminuir a una altura mínima de caracteres, se disminuirá la tensión de
+       carga o se aumentara la presión.
+   c) Coloque el cabezal de impresión a 8 mm del producto para obtener un
+       rendimiento óptimo de impresión.
+
+                                                                                       70
+4.2.4. Control y monitoreo del proceso de codificación
+
+
+4.2.4.1. Conectividad del proceso de codificación.
+    La conectividad permite explorar el sistema codificador de forma remota y se
+proporciona para ayudar a los supervisores a diagnosticar y verificar los problemas,
+estadísticas y modo de operación del proceso de codificación.
+
+
+    Esto se realiza mediante la conexión de cable directo o una red LAN.
+
+
+
+
+                 Figura 4.18: Ventana de configuración de conectividad Ethernet.
+
+
+
+
+              Figura 4.19: Proceso de codificación conectada a PC mediante una Red
+
+                                                                                     71
+4.2.4.2. Supervisión y control del proceso de codificación
+    Nuestro proceso de codificación se enlaza mediante red con el sistema de control
+de botellas "RELECON 220" es un sistema modular que se configura y adapta a las
+tareas de control requeridas, dependiendo de los componentes de hardware y de
+software. En este sistema se puede visualizar el tapado adecuado de las botellas,
+cantidad de productos correctamente codificados y nivel de llenado adecuado.
+
+
+
+
+                   Figura 4.20: Sistema de Control del Botellas RELECON 220
+
+
+    De este modo agrupando todo, se pueden supervisar las funciones de control de
+nivel por alta frecuencia, gestión de llenado y encapsulado, reconocimiento de tapones
+corona, control de la velocidad de producción, control de etiquetas, control del proceso
+de codificación.
+
+
+
+
+                      Figura 4.21: Supervisión del Proceso de codificación.
+
+                                                                                     72
+4.3. Exposición y Análisis de Resultados
+
+4.3.1. Prueba del proceso de codificación para alta velocidad
+    Después de Diseñar e implementar nuestro proyecto de investigación se realiza las
+pruebas de codificación para una velocidad de producción mayor a 40,000 Btl/h. y
+como objetivo tenemos 42,000 Btl/h.
+
+
+
+
+             Figura 4.22: Corporación Lindley-Callao – Línea 4 de producción Rápida.
+
+
+
+Se enciende los sistemas de codificación, se verifica que nuestras                     variables y
+dimensiones sean las correctas y coincidan con los criterios de valoración hallados
+
+
+                           Dimensiones               Valoración
+                           Presión                   4170 mBar.
+                           Modulación                160 V.
+                           Temperatura cabezal       45 ºC
+                           Oscilación                93 Khz.
+                           Temperatura tinta         21 ºC
+                           Velocidad de bomba        1710 rpm.
+
+
+                       Cuadro 4.3: Dimensiones y valoración del proyecto
+
+
+
+
+                                                                                               73
+                Figura 4.23: Parámetros de funcionamiento del sistema codificador
+
+
+
+Una vez establecido las variables de funcionamiento se proceden a visualizar la calidad
+de modulación para una correcta codificación, se visualiza 7 gotas bien formadas.
+
+
+
+
+           Figura 4.24: Visualización de la calidad de la modulación – formación de gotas
+
+
+
+
+                                                                                            74
+Primeramente se realiza las pruebas de codificación en hojas para asegurarnos de la
+calidad, legibilidad y nitidez de la codificación.
+
+
+
+
+                           Figura 4.25: Pruebas de impresión en hojas
+
+
+
+
+Y se manda a arrancar la línea con una velocidad mayor a 40000Btl/h.
+
+
+
+
+                          Figura 4.26: Producción de Inka Cola 625ml.
+
+
+
+
+                                                                                75
+Figura 4.27: Producción de Inka cola de 1 Litro.
+
+
+
+
+                                                   76
+Figura 4.28: Producción de coca cola de 1 litro
+
+
+
+
+                                                  77
+                          Figura 4.29: codificación de coca cola de 1 litro
+
+
+
+Se realiza el posicionamiento de los equipos y la marcha de la línea de producción
+teniendo como resultado las siguientes pruebas a una velocidad mayor a 41,000 Btl/h.
+
+
+
+
+       Figura 4.30: Muestra de la calidad de codificación con velocidad mayor a 41,000 Btl/h.
+
+
+
+
+                            Figura 4.31: Formado de codificación larga
+
+
+
+
+                                                                                                78
+                  Cuadro 4.4: Constatación de hipótesis
+
+
+
+
+Figura 4.32: Sistema de control de botellas con PC industrial-RELECON 220
+
+
+                                                                            79
+                                 Conclusiones
+
+
+
+
+Primero: Se concluye satisfactoriamente con el proyecto de diseñar e implementar un
+sistema para codificación de alta velocidad aplicando sistema XS.
+
+
+Segundo: Se obtiene una velocidad efectiva de producción mayor a 42,000 Btl/h.
+superando notablemente nuestra meta de superar los 40,000 Btl/h.
+
+
+Tercero: Este proyecto mejora el nivel de producción debido a que nos garantiza la
+calidad y eficiencia del codificado en los productos.
+
+
+Cuarto: La conectividad de nuestro sistema de codificación con los demás procesos de
+producción y la supervisión vía remota, nos garantizaría un mayor control y eficiencia
+en nuestros procesos, es decir obtenemos un sistema integral de gestión (SIG) efectiva.
+
+
+Quinto: El proyecto nos genera un ahorro de costos en capacitación de personal, debido
+a que el sistema de codificación cuenta con el mismo interface usuario del sistema
+anterior.
+
+
+
+
+                                                                                      80
+                                 Recomendaciones
+
+
+
+
+Primero: Se recomienda realizar cuidadosamente la manipulación del cabezal de
+impresión cuando se realiza en cambio de formato o producto, ya que esto no puede
+generar problemas a la hora de producción.
+
+
+Segundo: Para obtener una correcta codificación de los productos es necesario antes de
+que empiece la producción revisar el cabezal de impresión y si es necesario realizar una
+limpieza para así garantizar la calidad de codificado.
+
+
+Tercero: Realizar la correcta calibración de las peinetas de aire, para garantizar que el
+producto no llegue con humedad o partículas al proceso de codificación. Esto puede
+generar mala codificación y falta de nitidez en la codificación del producto.
+
+
+Cuarto: Evitar apagar el sistema de codificación intempestivamente debido a que esto
+puede generar un problema y obstrucción en el sistema de tinta.
+
+
+Quinto: Ubicar correctamente el cabezal de impresión con el producto, mantener una
+distancia prudente debido a que puede colisionar y generar un problema de codificación.
+
+
+
+
+                                                                                      81
+                            BIBLIOGRAFIA
+
+
+Bpr Benchmark, 2013, Manual de Usuario Bpr Benchmark, Revisado (2013), de
+     http://bibliotecas.medellin.upb.edu.co/files/BMK_manual_esp.pdf
+
+Bar Hill, Domino Training. 1999. Theory of Ink-Jet. Cambridge, Inglaterra: Domino
+UK Ltd. 150p.
+
+Bar Hill, Domino Training. 2001. Manual de entrenamiento. Cambridge, Inglaterra:
+      Domino UK Ltd. 250p.
+
+Bar Hill, 2002. Service Engineer`s guide. Cambridge, Inglaterra: Domino UK Ltd.
+      254p. Recuperado (2014), de (http://www.domino-printing.com).
+
+Bar Hill, 2005. Manual de operación y mantenimiento. Cambridge, Inglaterra: Domino
+      UK Ltd. 356p.
+
+Bar Hill, Damian Selina. 2009. Foundation Training manual. Cambridge, Inglaterra:
+      Domino UK Ltd. 300p.
+
+Bolsa de valores, 1998. Corporación Lindley S.A., Empresas con Valores Listados,
+      Revisado                              (2013),                          de
+      http://www.bvl.com.pe/inf_corporativa43401_CORLINI1.html
+
+Bolsa de valores, 2001. Corporación Lindley S.A., Memoria Anual 2011, Revisado
+      (2013), de http://www.bvl.com.pe/inf_corporativa43401_CORLINI1.html
+
+Bolsa de valores, 2002. Corporación Lindley S.A., Memoria Anual 2012, Revisado
+      (2013), de http://www.bvl.com.pe/inf_corporativa43401_CORLINI1.html
+
+Bolsa de valores, 2003. Corporación Lindley S.A., Memoria Anual 2013, Revisado
+      (2014), de http://www.bvl.com.pe/inf_corporativa43401_CORLINI1.html
+
+Bolsa de valores, 2004. Corporación Lindley S.A., Memoria Anual 2014, Revisado
+      (2015), de http://www.bvl.com.pe/inf_corporativa43401_CORLINI1.html
+
+Charaja, Francisco. 2004. Investigación Científica. Segunda Edición. Perú 121 p.
+
+Departamento de Ingeniería, 2010, Laboratorio de Tecnología de Materiales La Prueba
+      de Ultrasonido, México. Facultad de Estudios Superiores Cuautitlan, 55p.
+
+Domino. Do more, 2010. Digital Printing Solutions. Revisado (2014), de
+     http://www.domino-printing.com/Global/es/Home.aspx
+
+
+
+
+                                                                                   82
+Domino. Do more, 2010. Ink-Jet continuo CIJ, Revisado (2014),                        de
+     http://www.domino-printing.com/Global/es/Product-Range/Continuous-
+     Inkjet/Continuous-Inkjet-Range.aspx
+
+Domino. Do more, 2010. Serie A i-Tech 520i, Revisado (2014), de http://www.domino-
+     printing.com/Global/es/Product-Range/Continuous-Inkjet/i-Tech-
+     Range/A520i/A520i.aspx
+
+Domino. Do more, 2010. Codificación y marcaje Laser, Revisado (2014), de
+     http://www.domino-printing.com/Global/es/Product-Range/Laser/Laser-coding-
+     marking.aspx
+
+Domino. Do more, 2010.Impresion por transferencia térmica, Revisado (2014), de
+     http://www.domino-printing.com/Global/es/Product-Range/Thermal-Transfer-
+     Overprinting/Thermal-Transfer-Overprinting.aspx
+
+Ministerio del trabajo y promoción del empleo, 2010, Diagnostico Socio Económico
+      Laboral       de     la    región      Callao,      Revisado       (2014),      de
+      http://www.mintra.gob.pe/archivos/file/estadisticas/peel/estadisticas/diagnostico
+      _socioeconomico_osel_callao.pdf
+
+Morales Sánchez Armando, 2007, Instrumentación Básica de Procesos Industriales,
+      Mexixo, Setting the Standard for Automation (ISA), 725p.
+
+PDCA Home, 2012, Las normas ISO mas usadas, Revisado (2014), de
+    http://www.pdcahome.com/4168/las-normas-iso-mas-usadas/
+
+PDCA Home, 2012, Las normas ISO 9001-Gestion de la Calidad: 2008, Revisado
+    (2014), de http://www.pdcahome.com/4134/introduccion-a-los-requisitos-de-un-
+    sistema-de-gestion-de-calidad-basado-en-iso-9001/
+
+PDCA Home, 2012, Sistema de Gestión Ambiental Basado en ISO 14001: 2004,
+    Revisado (2014), de http://www.pdcahome.com/4022/introduccion-a-los-
+    requisitos-de-un-sistema-de-gestion-ambiental-basado-en-iso-14001/
+
+PDCA Home, 2012, Gestion de Procesos-Como definir indicadores (KPI) y Cuadro de
+     mandos: 2008, Revisado (2014), de http://www.pdcahome.com/4501/gestion-de-
+     procesos-como-definir-indicadores-y-cuadros-de-mando/
+
+PDCA Home, 2012, Planificando el futuro-Ciclo de mejora Continua, Revisado (2014),
+     de http://www.pdcahome.com/3194/planificando-el-futuro/
+
+Pinado, R. 1997. Electrónica Analógica Integrada. Marcombo. pp. 348-354.
+
+Sampieri, Roberto. Collado, Carlos. Lucio, Pilar. 1991. Metodología de la
+      Investigación. Primera Edición. McGraw-Hill Interamericana. México D. F.
+
+
+
+
+                                                                                     83
+            ANEXOS
+
+
+
+
+                                                D
+iagrama general de un proceso de codificación
+
+
+                                                84
+ PDCA: Horas perdidas por falla de Codificación - PET
+PDCA: Horas perdidas por falla de Codificación – Vidrio
+
+
+
+
+                                                          85
+Formato del control de Proceso de Codificación del producto Terminado
+
+
+
+                                                                        86
+Diagrama de la Cabina A300SE+
+
+
+
+
+                                87
+Diagrama del Sistema de cableado electrónico A300SE+
+
+
+
+
+                                                       88
+Esquema del circuito del sistema de Tinta A300SE+
+
+
+
+                                                    89
+Vista general de la cabina Electrónica de A520i
+
+
+
+
+                                                  90
+Vista general de la cabina de Tinta de A520i
+
+
+
+
+                                               91
+Esquema del Sistema de Tinta A520i
+
+
+
+
+                                     92
+Diagrama de la Unidad del cabezal de Impresión
+
+
+
+
+                                                 93
+Lista de la unidad del cabezal de Impresión
+
+
+
+                                              94
+Diagrama de detalles generales del Cabezal de Impresión
+
+
+                                                          95
+Lista de detalles generales del Cabezal de Impresión
+
+
+
+
+                                                       96
+Descripción y Detalles generales del cabezal de impresión XS
+
+
+
+
+                                                               97
+Especificaciones Técnicas Domino A300SE+
+
+
+
+
+                                           98
+Especificaciones Técnicas Domino A520i
+
+
+
+
+                                         99
+

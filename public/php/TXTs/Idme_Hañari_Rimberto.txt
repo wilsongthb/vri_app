@@ -1,0 +1,3627 @@
+   UNIVERSIDAD NACIONAL DEL ALTIPLANO - PUNO
+   FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
+ESCUELA PROFESIONAL DE MEDICINA VETERINARIA Y ZOOTECNIA
+
+
+
+
+  “DETERMINACIÓN DEL DAÑO HEPÁTICO CAUSADO
+    POR LA FASCIOLOSIS CRÓNICA EN BOVINOS Y
+  OVINOS UTILIZANDO MARCADORES ENZIMATICOS”
+
+
+                      TESIS
+             PRESENTADA POR EL BACHILLER
+
+
+          RIMBERTO IDME HAÑARI
+
+         PARA OPTAR EL TÍTULO PROFESIONAL DE:
+
+   MÉDICO VETERINARIO Y ZOOTECNISTA
+
+                   PUNO – PERÚ
+
+                        2015
+ÁREA : Salud animal
+TEMA : Enfermedad parasitaria
+                                DEDICATORIA
+
+A Dios por la vida la fortaleza y la
+inspiración para seguir adelante; con amor
+respeto y honra, a mi padre que desde el cielo
+me guió en cumplir esta meta, a mi madre
+por darme la vida y brindarme su apoyo
+incondicional en la culminación de esta
+etapa tan importante, aun en los momentos
+más difíciles durante mi formación
+profesional
+
+
+                                           A mis hermanos, Ana, Fernán, Rubén,
+                                           Grover, Emerson y a toda mi familia,
+                                           gracias por haber fomentado en mí el
+                                           deseo de superación y el anhelo de
+                                           triunfo en la vida.
+
+
+
+
+A mis pequeños Enzo y Kiara, quienes
+son el impulso invalorable para la
+culminación de mí Carrera Profesional
+y mis deseos de superación.
+                          AGRADECIMIENTO
+
+
+Agradecer hoy y siempre a mi familia por el esfuerzo realizado por ellos. El apoyo
+en mis estudios, de ser así no hubiese sido posible. A mis padres y hermanos ya que
+me brindan el apoyo, la alegría y me dan la fortaleza necesaria para seguir
+adelante.
+
+
+
+
+A los Drs. Pedro U. Coila Añasco y Julio Malaga Apaza, quienes con sus consejos
+fueron apoyo fundamental en la realización del presente trabajo.
+
+
+
+
+De igual manera un agradecimiento especial al Sr. Martin Chaiña, Vicente y al
+MVZ Darío Condori Quispe, amigos que aportaron con ideas y enseñanzas que
+hicieron posible llegar a mi meta.
+                                ÍNDICE
+
+RESMEN…………………………………………………………………………...                                  2
+
+INTRODUCCIÓN…………………………………………………………………                                  3
+
+REVISIÓN BIBLIOGRÁFICA…………………………………………………...                           6
+
+Generalidades……………………………………………………………………                                6
+
+Antecedentes…………………………………………………………………….                                29
+
+MATERIALES Y METODOS……………………………………………………                               32
+
+Ámbito de estudio………………………………………………………………                              32
+
+Animales de Estudio……………………………………………………………                             33
+
+Materiales, Equipos y Reactivos…………………………………………….                      34
+
+Metodología………………………………………………………………………                                 35
+
+Análisis Estadístico……………………………………………………………                            40
+
+RESULTADOS Y DISCUSIÓN…………………………………………………                              42
+
+Actividad de Marcadores Enzimáticos en Bovinos Positivos y Negativos
+
+a Fasiolosis Crónica……………………………………………………………                            42
+
+Actividad de Marcadores Enzimáticos en Ovinos Positivos y Negati-
+
+vos a Fasiolosis Crónica……………………………………………………                           47
+
+CONCLUSIONES………………………………………………………………..                                 55
+
+RECOMENDACIONES………………………………………………………….                                 56
+
+BIBLIOGRAFIA…………………………………………………………………..                                57
+
+ANEXOS…………………………………………………………………………..                                   62
+                                    RESUMEN
+La fasciolosis es una de las enfermedades parasitarias más difundidas e
+importantes en la ganadería que se refleja en las cuantiosas pérdidas económicas
+que causa en los productores; no obstante, que faltan formas de diagnóstico de
+esta enfermedad en animales con uno o dos meses de infección; por lo cual se
+realizó el presente trabajo de investigación con el objetivo de determinar el daño
+hepático causado por la fasciolosis crónica en bovinos y ovinos (positivos a la
+Prueba de Stoll Modificado) de la Microcuenca de Larimayo mediante marcadores
+enzimáticos séricos: aspartato aminotransferasa (AST), alanina aminotransferasa
+(ALT) y γ-glutamiltranspeptidasa (GGT). Para ello, se utilizaron 30 vacunos y 30
+ovinos, distribuidos en 15 animales con fasciolosis y 15 sin fasciolosis. Las
+muestras de heces se evaluaron mediante el método coprológico de Stoll
+Modificado para determinar sí los animales fueron positivos o negativos a la
+enfermedad. La actividad enzimática fue determinada mediante espectrofotometría
+utilizando kits de Wiener Lab ®. Los datos fueron analizados mediante la prueba
+estadística de “t” (student) para comparar entre los tratamientos. Los resultados en
+vacunos para AST fueron de 94.23 y 60.63 UI/L; para ALT de 12.14 y 7.16 UI/L y
+para GGT de 110.66 y 43.13 UI/L, en los animales positivos y negativos,
+respectivamente. Mientras en ovinos la AST se encontró en 97.13 y 66.01 UI/L;
+para ALT 9.52 y 6.38 UI/L y para GGT de 168.99 y 87.52 UI/L, en animales positivos
+y negativos, respectivamente. Concluyéndose, que tanto en vacunos como en
+ovinos, positivos a fasciolosis crónica, muestran superioridad en la actividad de las
+enzimas estudiadas en relación a los animales negativos (P≤0.05), lo que indica
+que la presencia del parásito causa daño estructural y funcional del hígado.
+
+
+
+Palabras    clave:   Fasciolosis,   vacunos,   ovinos,   transaminasas,    Aspartato
+aminotransferasa, Alanina aminotransferasa y γ-Glutamiltranspeptidasa.
+                           I.   INTRODUCCIÓN
+
+         La crianza de ganado ovino y bovino son actividades de significativa
+
+importancia económica para el Perú y, sobre todo, para el Departamento de Puno,
+
+que en base a sus pasturas naturales y riego tecnificado alberga las poblaciones
+
+más concentradas de estas especies. La población ovina nacional es de 9´523,198
+
+animales correspondiendo al Departamento de Puno 2´088,332 animales, siendo
+
+la mayoría de raza Criolla. En cuanto a ganado vacuno, el total nacional es de
+
+5´156,044 animales de los cuales 617,163 corresponden al Departamento de Puno
+
+(INEI, 2012).
+
+         Sin embargo, una de las enfermedades parasitarias más difundidas es la
+
+fasciolosis, sobre todo en cuencas hidrográficas, como el caso de Larimayo, en
+
+donde los productores tienen que invertir mucho dinero en el control de esta
+
+enfermedad; debido a que tiene repercusiones económicas negativas en los
+
+productores por efectos directos, como es el decomiso de vísceras, costos de
+
+tratamiento y muertes; mientras por efectos indirectos, que son los de mayor
+
+importancia, como el retraso en el crecimiento asociado a la deficiente conversión
+
+alimenticia, desnutrición, baja fertilidad, abortos, disminución en la calidad de la
+
+producción de carne, leche, lana y baja resistencia a otras enfermedades (Quiroz,
+
+1993).
+
+         En el organismo animal, el parásito provoca profundas alteraciones
+
+anátomo-funcionales del hígado; por ejemplo, la hiperplasia de la mucosa de los
+
+conductos biliares y, los propios parásitos, generan obstrucción e ictericia. Los
+
+hábitos hematófagos y las sustancias tóxicas liberadas por el tremátodo destruyen
+
+eritrocitos circulantes, en tanto que la migración del parásito a través del
+
+
+                                                                                  3
+parénquima y la hipertensión de los ductos conducen a la inflamación y necrosis de
+
+tejido hepático, con consiguiente insuficiencia funcional. La hipoproteinemia
+
+originará edemas y ascitis. Finalmente, las áreas inflamatorio–necróticas del hígado
+
+sufren fibrosis y atrofia, pudiendo evolucionar hacia la cirrosis hepática (Haroun &
+
+Hussein, 1975).
+
+      Todas estas alteraciones hepáticas causadas por el parásito, sin duda
+
+alguna, son expresadas a nivel sanguíneo: hipoproteinemia, presencia de toxinas,
+
+hiperglobulinemia, modificaciones de las actividades enzimáticas y muchos otros
+
+parámetros bioquímicos, inmunológicos y hematológicos del animal. Precisamente,
+
+el presente estudio tuvo el propósito de determinar el daño hepático causado por la
+
+fasciolosis crónica en vacunos y ovinos de la Microcuenca de Larimayo mediante
+
+algunos marcadores enzimáticos de función y daño hepático. Se tiene como
+
+antecedentes, los estudios realizados por Gutierrez (2006), quienes determinaron
+
+que en la fasciolosis ovina y humana, respectivamente, se elevan las actividades
+
+de algunas enzimas hepáticas. El diagnóstico de las infecciones hepáticas
+
+causadas por fasciolosis en animales jóvenes y/ó recientemente infectados antes
+
+de los 2.5 meses no existe un método que diagnostique en ese periodo; es por ello,
+
+que se plantea realizar este trabajo de investigación a través de la actividad
+
+enzimática.
+
+      Los resultados o estos conocimientos obtenidos contribuirán en la clínica
+
+veterinaria, que dicho sea de paso es muy escaso su uso en nuestra región, ya que
+
+es muy útil para el diagnóstico y pronóstico de esta parasitosis, tan difundida en
+
+nuestro medio, y más en zonas húmedas, en donde hay versiones que indican que
+
+el grado de infección con fasciolosis llegaría al 100%. Drepper & Kenberburg
+
+(1984), indican que durante el curso de infecciones hepáticas causadas por Fasciola
+
+
+                                                                                  4
+hepática, se liberan gran número de enzimas que escapan de las células dañadas,
+
+cuya medición es útil para fines de diagnóstico, incluso mucho antes de la aparición
+
+de huevos en las heces. Asimismo, Sykes et al. (1980) señala que estos
+
+marcadores son útiles incluso en la detección de la fasciolosis subclínica. Por lo
+
+cual, el presente estudio tubo los objetivos de medir y comparar la actividad
+
+enzimática aspartato aminotransferasa (AST), alanina aminotransferasa (ALT) y γ-
+
+glutamil transpeptidasa (GGT), en suero sanguíneo de vacunos y ovinos con y sin
+
+Fasciola hepática crónica a la Prueba coprológica de Stoll modificado) en la
+
+Microcuenca de Larimayo, Antauta, Melgar.
+
+
+
+
+                                                                                  5
+                 II.   REVISIÓN BIBLIOGRÁFICA
+
+2.1. Generalidades
+
+      El sector pecuario cumple un rol importante en la generación de ingresos
+
+para las familias campesinas, contribuye a la seguridad alimentaria del país, brinda
+
+fuerza de trabajo para el transporte y arado, aporta fertilizantes a través del guano
+
+y contribuye a las actividades de recreación. El Altiplano de Puno es una región
+
+ganadera, donde predomina la crianza de vacunos, ovinos y alpacas sobre una
+
+extensión aproximada de 3’314,000 de hectáreas de pastos naturales que soportan
+
+una población estimada de 617,163 vacunos y 2’088,332 ovinos (INEI, 2012).
+
+      La fasciolosis es una enfermedad parasitaria que afecta a distintas especies
+
+de animales entre ellos rumiantes, cerdos, equinos, conejos y otros herbívoros, así
+
+como también al hombre; ocasionando una hepatitis y colangitis generalmente
+
+crónicas que están acompañadas por trastornos nutricionales. Afecta a animales
+
+principalmente de zonas donde la pluviosidad es moderada a intensa; no obstante
+
+puede presentarse en los valles pantanosos de regiones secas y a lo largo de
+
+arroyos o canales de riego (Cordero del Campillo, 2002).
+
+      Su mayor importancia reside en el impacto económico que ocasiona en los
+
+productores de todo el país, debido a los decomisos de hígados infectados y a la
+
+disminución de parámetros productivos como leche, carne, lana y ganancia diaria
+
+de peso de los animales afectados. Además, la fasciolosis es considerada una
+
+zoonosis aunque la presentación en humanos es esporádica o accidental,
+
+generalmente transmitida por alimentos contaminados con metacercarias
+
+(Olaechea, 2004).
+
+
+
+
+                                                                                   6
+      Los efectos económicos de este parásito representan grandes pérdidas, que
+
+pueden ser directas, por muertes o decomisos de hígados en la central de sacrificio,
+
+o indirectas por la disminución de las producciones del ganado. Aunque las
+
+pérdidas directas son fáciles de medir, las pérdidas indirectas son más importantes
+
+ya que la forma subclínica de la enfermedad es mucho más frecuente. Estas
+
+pérdidas incluyen disminución en el crecimiento y conversión alimenticia,
+
+disminución de la producción láctea y cárnica, entorpecimiento en la fertilidad y
+
+fecundidad, gastos terapéuticos y reemplazo de animales muertos. Para calcular el
+
+impacto económico, se requiere el conocimiento de la prevalencia, la intensidad de
+
+la infección y la experiencia en prácticas zootécnicas (Cordero del Campillo, 2002).
+
+      La fasciolosis es un problema de salud pública por la alta prevalencia de la
+
+infección humana, especialmente niños y un problema veterinario de importancia
+
+por las altas tasas de infección del ganado en la mayoría de regiones del Perú. La
+
+fasciolosis es endémica en la sierra y la costa, y esporádica en la región amazónica.
+
+La pérdida ganadera anual por la fasciolosis es no menor de US$ 50 millones,
+
+estimada por la prevalencia de la infección y los decomisos de hígados de vacunos
+
+en mataderos. En el Perú, las más altas prevalencias de fasciolosis humana y
+
+animal son en la sierra, principalmente en los valles andinos de Cajamarca, Junín,
+
+Cusco y Arequipa, así como, en la altiplanicie de la cuenca del Lago Titicaca
+
+(Espinoza et al., 2010).
+
+2.2. Fasciolosis hepática
+
+   a) Etiología
+
+      La Fasciola hepática es un helminto hermafrodita de cuerpo ancho y
+
+aplanado dorso ventralmente, los vermes adultos se localizan en los conductos
+
+
+
+                                                                                   7
+biliares de numerosos mamíferos, aunque se consideran más adecuados los
+
+rumiantes, tanto domésticos como silvestres. La receptividad de los hospederos
+
+definitivos es variable, clasificándose éstos en tres grupos: en el primero se incluyen
+
+los que reaccionan rápidamente frente al parásito, evitando su desarrollo, como el
+
+cerdo, jabalí, perro y gato; en el segundo se incluyen los bovinos, los equinos y el
+
+hombre, que reaccionan con retraso ante el proceso ya implantado en el hígado; y
+
+el último lugar, los mamíferos más receptivos, en los que existe alta productividad
+
+parasitaria y una marcada patogenecidad (ovinos, caprinos y lagomorfos). La
+
+existencia de Fasciola hepática está ligada a la presencia de moluscos del género
+
+Lymnaea que actúa como hospedero intermediario en su ciclo biológico (Cordero
+
+del Campillo, 2002).
+
+   b) Clasificación taxonómica
+
+       Según muchos trabajos de investigación la clasificación taxonómica de la
+
+Fasciola heptática es la siguiente (Urquhart et al, 2001):
+
+             Reino         : Animalia
+
+             Filum         : Platyhelminthes
+
+             Clase         : Trematoda
+
+             Subclase      : Digenea
+
+             Orden         : Echinostomida
+
+             Familia       : Fasciolidae
+
+             Género        : Fasciola
+
+             Especie       : F. hepática
+
+   c) Estructura y morfología
+
+       La Fasciola hepática se caracteriza por tener un cuerpo amplio y aplanado
+
+dorso-ventralmente, mide aproximadamente de 2.5 a 3 x 1.3 cm, posee un extremo
+
+                                                                                     8
+anterior con cono cefálico bien diferenciado de 4 a 5 mm que termina en la ventosa
+
+oral con un diámetro de 1 mm; presenta también otra ventosa ventral o acetábulo
+
+que es más grande que la oral; entre ambas se ubica el cirro del aparato genital
+
+masculino. Posee tonalidades que van desde el cenizo hasta coloraciones
+
+parduscas. El tegumento, se encarga de mantener la integridad del parásito y
+
+participa en procesos de absorción, secreción y nutrición; se encuentra revestido
+
+por una cutícula gruesa de 10-17 µm dotada de salientes espinas triangulares
+
+dirigidas hacia atrás de unos 30 a 37 µm de longitud; por debajo de esta se sitúa la
+
+musculatura subcuticular lisa que se divide en tres capas distribuidas así: una
+
+externa circular de 8 µm, una media longitudinal de 21.5 µm y finalmente una capa
+
+interna oblicua y discontinua. El aparato digestivo comienza en la boca y la faringe;
+
+el esófago se comunica con dos ciegos ramificados largos y con numerosos
+
+divertículos laterales, no tiene ano. El sistema nervioso consiste en un par de
+
+ganglios cerebroides interconectados del cual se desprenden tres pares de
+
+cordones longitudinales, ventrales y laterales (Carrada-Bravo, 2007).
+
+      El sistema excretor protonefridial consiste en un par de canalillos
+
+longitudinales ramificados o canales laterales; provistos de células flamígeras;
+
+estos canales se comunican con tubulillos conectores que se abren en la vesícula
+
+excretora. El aparato genital masculino, ocupa la parte medial del cuerpo, está
+
+formado por dos testículos bifurcados que desembocan en la bolsa del cirro; el poro
+
+genital se ubica en el borde acetabular anterior sobre la línea media. El aparato
+
+genital femenino, consta de un ovario ramificado, situado al lado derecho, delante
+
+de los testículos; el útero se ubica en el tercio anterior y es corto y sinuoso. Las
+
+glándulas vitelógenas están formadas por finos folículos que ocupan las márgenes
+
+laterales del trematodo y se unen formando dos transversales que drenan en la
+
+
+                                                                                   9
+glándula de Mehlis, desde la cual se comunican con el ootipo. (Cordero del
+
+Campillo, 2002).
+
+   d) Ciclo biológico
+
+       La Fasciola hepática es un helminto de ciclo indirecto, en el cual intervienen
+
+caracoles del género Limnaea sp. como hospedadores intermediarios y los
+
+rumiantes como hospedadores definitivos; los adultos ponen huevos operculados,
+
+en los cuales se desarrolla una larva ciliada y piriforme llamada Miracidio, que
+
+gracias a estímulos lumínicos libera una enzima que destruye el cemento proteico
+
+encargado de mantener el opérculo en su lugar, se libera y se dirige al agua,
+
+por factores quimiotácticos se guía para encontrar a su huésped intermediario,
+
+cuando entra en contacto con él, gracias a una enzima citolítica se adhiere a su
+
+superficie y penetra en sus tejidos; dentro del caracol el Miracidio pierde los cilios y
+
+se convierte en un saco alargado llamado esporoquiste que contiene células
+
+germinales que se convierten en redias; estas poseen una ventosa oral, células
+
+flamígeras y un intestino simple, migran al hepatopáncreas del caracol y a partir de
+
+las células germinales, si las condiciones ambientales son adecuadas para el
+
+caracol se desarrollan a cercarias, si las condiciones no son las ideales, se da lugar
+
+a una segunda generación de redias. Las cercarias son vermes jóvenes
+
+aprovisionadas de una larga cola, salen del caracol, y nadan hasta alcanzar la
+
+vegetación, pierden la cola y se enquistan, dando lugar a la metacercaria que es la
+
+forma infectante (Urquhart et al., 2001).
+
+       El bovino se contamina a partir de la ingestión de pastos que contienen
+
+metacercarias; éstas dentro del animal se desenquistan, penetran a través del
+
+intestino en un transcurso aproximado de 3 horas, en peritoneo y cápsula de glisson
+
+permanecen entre 3 y 16 días para llegar al parénquima hepático como juveniles y
+
+                                                                                     10
+finalmente desarrollarse como adultas en los conductos biliares, donde inician la
+
+ovoposición que puede alcanzar entre 5000 y 20000 huevos diarios durante toda
+
+su vida. La cantidad de huevos ovipositados por este trematodo depende de
+
+factores como: el nivel de nutrición de los adultos, el número de individuos y al nivel
+
+de calcificación de los conductos. La vesícula biliar almacena huevos hasta que
+
+estos sean expulsados por contracción durante la digestión (Becerra, 2000).
+
+       Los huevos (Fig. 1) son depositados en los conductos biliares y miden entre
+
+130 y 150 micras de longitud y de 60 a 90 micras de ancho, son operculados de
+
+color amarillo, poseen un revestimiento formado por esclerotina que es una capa
+
+de gran dureza que confiere resistencia a la cutícula, está compuesta por proliferol
+
+y proteínas; los huevos, al ser eliminados con las heces todavía no son maduros es
+
+decir que aún no están embrionados. Requieren para su desarrollo una temperatura
+
+de entre 10 y 30°C y la existencia de al menos una fina capa de agua y alcanzan
+
+su desarrollo a los 9-15 días (Giraldo, 2009).
+
+       El miracidio es una larva ciliada, de movimientos activos favorecidos por la
+
+luz solar, desprenden el opérculo del huevo y salen a nadar libremente y antes de
+
+8 horas deben encontrar al hospedador intermediario e invadirlo, perforando las
+
+células epiteliales y subepiteliales (Giraldo., 2009) En cuánto esa invasión ocurre,
+
+reciben el nombre de esporoquistes; posteriormente originan la primera generación
+
+de redias en 3 semanas aproximadamente. La segunda generación se da una
+
+semana después y finalmente aparecen las cercárias que pueden llegar a ser entre
+
+500 y 650, estas maduran en el agua y 8 a 12 horas después pierden su cola, se
+
+hacen redondas y se enquistan formando metacercarias que terminan por ser las
+
+formas infectantes del parasito. Habitualmente se localizan enquistadas en la
+
+
+
+
+                                                                                    11
+vegetación acuática semisumergida, donde finalmente son consumidas por el
+
+hospedador definitivo (Urquhart et al., 2001; Giraldo, 2009).
+
+
+
+
+                  Fig. 1: Ciclo biológico de la Fasciola hepática.
+
+      El periodo de prepatencia es de 10 a 12 semanas. Por lo tanto, el tiempo
+
+mínimo necesario para que se desarrolle el ciclo evolutivo completo de la Fasciola
+
+hepática es de 17 a 18 semanas. La longevidad de Fasciola hepática en ovejas no
+
+tratadas puede ser varios años; en ganado vacuno es generalmente menor de un
+
+año (Urquhart et al., 2001)
+
+   e) Fisiopatología
+
+      La fasciolosis, presenta tres formas clínicas: aguda, subaguda y crónica
+
+siendo la forma crónica la más frecuente; se basan principalmente en los hallazgos
+
+de necropsia y depende de la cantidad de vermes adultos, de los parásitos
+
+
+
+
+                                                                               12
+inmaduros migrantes en el parénquima hepático y de la actividad hematófaga de
+
+los adultos en los conductos biliares (Cordero del Campillo, 2002).
+
+      La forma aguda ocurre principalmente en corderos entre las dos y tres
+
+semanas. Puede llegar a provocar la muerte en 48 horas; es probable observar
+
+secreción de líquido sanguinolento por las fosas nasales y el ano. En bovinos
+
+sobreviene 5 a 6 semanas después de la ingestión de una gran cantidad de
+
+metacercarias por muy poco tiempo; esto provoca una invasión tal, que pudiera
+
+destruir suficiente parénquima como para causar una insuficiencia hepática aguda.
+
+La presentación aguda está acompañada por debilidad, anorexia, palidez y edema
+
+de mucosas y conjuntiva; dolor a la palpación en la zona de proyección hepática
+
+(hipocondrio derecho). Presenta una variable y elevada mortalidad en dos o tres
+
+días (Becerra, 2000).
+
+      La forma subaguda, contrariamente al consumo masivo en corto tiempo de
+
+los bovinos, se describe en ovinos como la ingestión de gran cantidad de
+
+metacercarias durante un tiempo extenso y suficiente como para no provocar
+
+agudeza (Becerra, 2000) Se presenta por la existencia al mismo tiempo de juveniles
+
+emigrando y adultos en los conductos biliares de la forma crónica podemos decir
+
+que ocurre por ingestión de una pequeña cantidad de metacercarias durante mucho
+
+tiempo haciendo que su desarrollo sea lento; esta forma de presentación se debe
+
+a la presencia de vermes adultos en los conductos biliares, puede durar entre 2 y 3
+
+meses y finalmente llevar a la muerte del animal. En esta forma se observa pérdida
+
+de peso, palidez de la mucosa y conjuntiva y en algunos casos edema
+
+submandibular y dolor a la palpación (Becerra, 2000).
+
+      La forma crónica se presenta internamente colangitis, obstrucción biliar,
+
+destrucción del tejido hepático, fibrosis y anemia. También se interrumpe el
+
+                                                                                13
+desarrollo y la conversión alimenticia en animales jóvenes. Exteriormente se
+
+observa pérdida de peso, edema submandibular y palidez de las mucosas por
+
+varias semanas; en terneros también hay caquexia, anemia y diarrea crónica, fiebre
+
+de hasta 42°C, y muerte a las 10 ó 18 semanas.
+
+      Al examen postmorten los hallazgos dependen del número de parásitos y del
+
+tiempo de infección; se observan las perforaciones hepáticas, la inflamación y focos
+
+hemorrágicos que muestran un cuadro de hepatitis aguda esto si la infestación es
+
+reciente,   también   pueden    observarse    líquidos   serosos   en   peritoneo   y
+
+engrosamiento de los conductos biliares con alteraciones cirróticas cuando la
+
+infestación es de tipo crónico (Olaechea, 2004).
+
+      La capsula de glisson se observa engrosada y con infiltración eosinofílica, al
+
+mismo tiempo se observa hepatomegalia, hematomas, abscesos subcapsulares y
+
+necrosis con infiltración de macrófagos, linfocitos, neutrófilos y eosinófilos. Puede
+
+encontrarse también formaciones nodulares y zonas con fibroesclerosis periductal
+
+y ensanchamiento delos conductos biliares intrahepáticos; La vesícula biliar puede
+
+presentar erosión del epitelio por presencia de juveniles que junto con los adultos
+
+producen obstrucción y causan retención de bilis, aumento de la presión arterial,
+
+leucocitosis y anemia hipocrómica (Carrada-Bravo, 2007).
+
+      La reacción tisular generalmente es aguda, y se acompaña de una fibrosis
+
+hepática que puede presentar 4 o 5 sistemas defensivos, se inicia con una fibrosis
+
+postnecrótica producto de la reparación de los trayectos migratorios, esto es muy
+
+frecuente en el lóbulo ventral del hígado, pues es el sitio de entrada de la Fasciola;
+
+se continua con una fibrosis isquémica que se presenta como reacción
+
+reconstructiva de las áreas de necrosis coagulativas y microtrombos causados
+
+por los vermes en los sinusoides hepáticos, seguida por una fibrosis peribiliar que
+
+                                                                                    14
+se presenta por la intensa erosión de la mucosa estimulando una intensa reacción
+
+inflamatoria; puede llegar a extenderse por todo el árbol biliar debido al movimiento
+
+de los vermes; sucedido lo anterior sigue una fibrosis posterior que se muestra en
+
+procesos avanzados donde los huevos pueden provocar una reacción
+
+granulomatosa que los destruye y da lugar a la fibrosis y finalmente una fibrosis
+
+monolobular que consiste en la conexión de los espacios porta con tejido fibrótico;
+
+a nivel macro se aprecian como filamentos blanquecinos que demarcan el lóbulo y
+
+afectan todo el hígado; pero aun presentándose todo lo anterior, lo más significativo
+
+es la flebitis marcada de la vasculatura hepática, principalmente de la vena porta
+
+que finalmente desenlaza en una intensa hipertensión portal (Cordero del Campillo,
+
+2002).
+
+         Las formas adultas se localizan y actúan a nivel de los canalículos biliares
+
+en donde ejercen acciones irritantes y hematófagas, ocasionando una fuerte
+
+perturbación del metabolismo, particularmente del hierro. La presencia del parásito
+
+en los canalículos biliares y la lesión de los mismos por la acción del parásito
+
+provocan un aumento de la enzima γ-glutamil transpeptidasa (Morales et al, 2004).
+
+         La fasciolosis cursa con anemia, hipoalbuminemia e hiperglobulinemia y,
+
+dependiendo de la intensidad y duración de la infección, con hiper o
+
+hipoproteinemia. La anorexia y la pérdida de peso o el retraso en el crecimiento son
+
+también característicos de la infección por Fasciola hepática (Cordero del Campillo,
+
+2002).
+
+   f) Epidemiología
+
+         La presencia de F. hepática en una zona depende fundamentalmente de
+
+factores como la presencia del molusco gasterópodo Lymnaea cubensis, L.
+
+columella     y/o   L.   truncatula   que   se   desenvuelven   como   hospedadores
+
+                                                                                  15
+intermediarios, que al ser anfibios prefieren el barro en vez del agua libre y corriente,
+
+de ahí que sean localizados en suelos arcillosos o ricos en materia orgánica. La
+
+temperatura es indispensable para el desarrollo y multiplicación del caracol y para
+
+la evolución delos huevos de Fasciola. Otro factor de importancia es la introducción
+
+de animales infectados con F. hepática a zonas que reúnen las condiciones para el
+
+establecimiento del ciclo evolutivo completo. Por lo tanto es necesario hacer un
+
+diagnóstico adecuado, previo a la introducción de animales provenientes de zonas
+
+contaminadas, e incluso se debe recomendar no suministrar pastos de corte
+
+provenientes de esos lugares debido a la alta probabilidad de que venga
+
+contaminado con metacercarias enquistadas (Becerra, 2000).
+
+2.3. El hígado y sus funciones
+
+       El hígado es el órgano más grande del organismo animal, está situado en el
+
+hipocondrio derecho sostenido por ligamentos. Recibe doble suministro de sangre:
+
+1) la vena portal que lleva sangre proveniente del bazo y del tracto gastrointestinal
+
+rica en nutrientes; 2) la arteria hepática (aprox. 30%) que lleva sangre rica en
+
+oxígeno. El drenaje de las vénulas del hígado converge en las venas hepáticas, los
+
+cuales se unen a la vena. Funcionalmente, está dividido en lóbulos derecho e
+
+izquierdo por medio de la vena hepática (Kumar y Clarck, 2005).
+
+       El color es rojo-pardo. Estructural e histológicamente puede ser dividido en
+
+4 sistemas tisulares: 1) sistema vascular intrahepático; 2) estroma; 3) células
+
+sinusoidales; y 4) hepatocitos (Kumar, 2005). Las principales células del hígado son
+
+los hepatocitos, los cuales constituyen las 2/3 partes de la masa del hígado. El resto
+
+son las células de Kupffer, células stellate, células endoteliales, células del ducto
+
+biliar, vasos sanguíneos y estructuras de soporte. El acino es la unidad fisiológica
+
+del hígado (Fauci et al., 2008).
+
+                                                                                      16
+       En 1 g de hígado hay aproximadamente 171 millones de hepatocitos, el daño
+
+de las membranas produce aumento en las actividades enzimáticas de suero a
+
+niveles patológicos. Si el hígado pierde solamente 1/1000 de sus enzimas, habrá
+
+un aumento en la actividad enzimática respectiva en el suero por un factor de 2. El
+
+contenido de enzimas en los hepatocitos puede ser hasta 10000 veces más alto
+
+que en el suero. Por lo tanto, hay una correlación alta entre la naturaleza y la
+
+intensidad del daño hepatocelular con la actividad incrementada de las enzimas
+
+liberadas (Kumar, 2005).
+
+2.4. Marcadores bioquímicos de función hepática
+
+       El hígado lleva a cabo muchas funciones bioquímicas, la mayoría de las
+
+cuales no pueden medirse fácilmente con pruebas sanguíneas. Las pruebas de
+
+laboratorio miden solamente un número limitado de estas funciones. Las pruebas
+
+bioquímicas se usan para: 1) detectar la presencia de la enfermedad hepática; 2)
+
+distinguir el tipo de enfermedad hepática; 3) medir la extensión del daño hepático;
+
+y 4) monitorear la respuesta al tratamiento. Sin embargo, las pruebas hepáticas
+
+tienen limitaciones. Pueden estar normales en pacientes con seria enfermedad
+
+hepática y anormal en pacientes con enfermedades extrahepáticas (Braunwald et
+
+al, 2001). Además, las pruebas de laboratorio sirven para diferenciar: 1) el patrón
+
+de daño (hepatocelular o colestático); 2) la cronicidad del daño (agudo o crónico);
+
+3) la severidad del daño (ligero o severo) (Burtis et al., 2008).
+
+       En la práctica clínica el estudio de las enzimas séricas es muy importante
+
+para el diagnóstico, control y seguimiento de una gran variedad de patologías. Sin
+
+perder de vista que es imprescindible tener en cuenta la sintomatología del paciente
+
+y los estudios clínicos, la detección de altos niveles de la actividad de una enzima
+
+en suero contribuye a dilucidar un cuadro patológico. Algunas enzimas tienen
+
+                                                                                 17
+amplia distribución tisular, mientras que otras son específicas de un determinado
+
+tejido. Esta mayor o menor especificidad es importante para algunos diagnósticos
+
+diferenciales. La determinación de estos niveles de enzimas plasmáticas puede
+
+proveer información valiosa para diagnóstico y pronóstico (Kumar & Clark, 2005).
+
+      De hecho, muchas pruebas, como las transaminasas o la fosfatasa alcalina,
+
+no miden la función hepática, sino más bien, detectan el daño de la célula hepática
+
+o una interferencia en el flujo biliar. De modo que ninguna prueba permite evaluar
+
+correctamente la capacidad funcional total hepática. Las pruebas enzimáticas
+
+séricas pueden agruparse en tres categorías: 1) enzimas cuya elevación en el suero
+
+refleja daño de los hepatocitos (patrón citolítico); 2) enzimas cuya elevación en el
+
+suero refleja colestasis (patrón colestático); y 3) enzimas que no encajan en las
+
+categorías indicadas (Braunwald et al., 2001).
+
+      De las numerosas pruebas que se utilizan para evaluar la función hepática,
+
+se tiene: 1) pruebas que miden la capacidad excretora del hígado (bilirrubina,
+
+ácidos biliares y tiempo de eliminación sérica de colorantes inyectados; 2) pruebas
+
+que miden la capacidad de síntesis del hígado (albúmina, globulinas, urea, glucosa,
+
+colesterol) y tiempo de protrombina; 3) pruebas que miden la destrucción activa de
+
+hepatocitos (AST, ALT, GLDH, arginasa, entre otras); y 4) pruebas que miden
+
+colestasis (ALP y GGT) (Andresen, 2009; Kumar, 2005).
+
+      Bajo condiciones normales y durante el recambio celular normal, los
+
+hepatocitos dejan escapar pequeñas cantidades de enzimas, que son detectables
+
+en el suero como “valores normales”. Debido a la entrada (síntesis de enzima por
+
+el hepatocito) y a la salida (eliminación de la enzima), estos valores se mantienen
+
+en constantes dentro de un rango normal (Kumar, 2005).
+
+
+
+                                                                                 18
+       La elevación de la actividad enzimática en el plasma y otros líquidos se
+
+produce por: a) necrosis (destrucción celular), b) aumento de la permeabilidad de
+
+membrana, c) sobreproducción de enzimas (mayor metabolismo en un tejido, e.g.
+
+neoplasia), d) menor eliminación (e.g. por obstrucción biliar), y e) incremento de
+
+células inflamatorias, Los factores ambientales que pueden afectar los resultados
+
+de laboratorio incluyen la altitud, la temperatura ambiental, la localización
+
+geográfica y las estaciones del año (Burtis et al., 2008).
+
+       Las pruebas enzimáticas séricas pueden agruparse en tres categorías: 1)
+
+enzimas cuya elevación en el suero refleja daño de los hepatocitos (patrón
+
+citolítico); 2) enzimas cuya la elevación en el suero refleja colestasis (patrón
+
+colestático); y 3) enzimas que no encajan en las categorías indicadas (Braunwald
+
+et al., 2001; Moreno et al., 2007).
+
+       La elevación de la actividad enzimática en el plasma y otros líquidos se
+
+produce por: a) necrosis (destrucción celular), b) aumento de la permeabilidad de
+
+membrana, c) sobreproducción de enzimas (mayor metabolismo en un tejido, e.g.
+
+neoplasia), d) menor eliminación (e.g. por obstrucción biliar), y e) incremento de
+
+células inflamatorias (Burtis et al., 2008).
+
+       Cada órgano posee una distribución cuantitativa y cualitativa, hasta cierto
+
+punto, típica de enzimas dando por resultado un perfil enzimático, denominado
+
+patrón enzimático. Así dentro de los hepatocitos y de los conductos biliares, el
+
+hígado también posee una distribución característica de enzimas con especificidad
+
+gradualmente diversa. Esta especificidad de enzimas hepatobiliares esenciales es
+
+de importancia para la diagnosis de enfermedades hepatobiliares (Kumar, 2005).
+
+       Bajo condiciones normales y durante el recambio celular normal, los
+
+hepatocitos dejan escapar pequeñas cantidades de enzimas, que son detectables
+
+                                                                               19
+en el suero como “valores normales”. Debido a la entrada (síntesis de enzima por
+
+el hepatocito) y a la salida (eliminación de la enzima), estos valores se mantienen
+
+constantes dentro de un rango normal (Kumar, 2005).
+
+      Los marcadores bioquímicos se evalúan generalmente en términos de
+
+sensibilidad y especificidad de diagnóstico. Para aumentar la sensibilidad y la
+
+especificidad de las pruebas de laboratorio en la detección de enfermedad hepática,
+
+es conveniente hacerlos en serie (bateria); así, cuanto más de una de estas
+
+pruebas son anormales o son persistentemente anormales, la probabilidad de
+
+enfermedad hepática es alta (Braunwald et al, 2001). Los marcadores actualmente
+
+disponibles aun no satisfacen los criterios de un marcador ideal, particularmente
+
+con respecto a sensibilidad y a especificidad; sin embargo, cuando se combinan,
+
+es posible ganar un cierto conocimiento útil (Kumar, 2005).
+
+      Los factores ambientales que pueden afectar los resultados de laboratorio
+
+incluyen la altitud, la temperatura ambiental, la localización geográfica y las
+
+estaciones del año (Burtis et al., 2008).
+
+2.5. Transaminasas (aminotransferasas)
+
+      La transaminación es un proceso reversible que consiste en la transferencia
+
+del grupo amino desde un aminoácido a un cetoácido, dando como resultado la
+
+conversión del primero en un cetoácido y del segundo en un nuevo aminoácido,
+
+según (). Esta reacción es de gran importancia en el metabolismo de aminoácidos
+
+y es catalizada por enzimas llamadas transaminasas o aminotransferasas, las que
+
+se encuentran presentes en la mayoría de tejidos animales y vegetales. El cofactor
+
+de estas enzimas es el piridoxal fosfato (PLP). Casi para todas las transaminasas
+
+
+
+
+                                                                                20
+el -cetoglutarato es el aceptor del grupo amino formándose, por tanto, ácido
+
+glutámico (Devlin, 1997).
+
+       Las transaminasas normalmente están presentes en el suero en
+
+concentraciones bajas. Estas enzimas se liberan a la sangre en grandes cantidades
+
+cuando hay daño de la membrana celular hepática que produce una permeabilidad
+
+incrementada. Cualquier tipo de lesión de la célula hepática puede causar las
+
+elevaciones en las transaminasas séricas (Braunwald et al., 2001).
+
+       La enfermedad hepática es la más importante causa de la actividad
+
+incrementada de las transaminasas en el suero. En muchos tipos de enfermedad
+
+hepática, la actividad ALT es más alta que la AST. Las actividades de ambas
+
+enzimas pueden alcanzar a valores de 100 veces más alto que los límites
+
+superiores normales, aunque elevaciones de 10 a 40 veces son frecuentemente
+
+encontradas. Los valores picos de actividad de transaminasas ocurren entre los
+
+días 7mo y 12avo, luego las actividades declinan, alcanzando la normalidad entre la
+
+3ra y 5ta semana si se recupera (Burtis et al., 2008).
+
+       Las transaminasas intervienen en el catabolismo de por lo menos 12
+
+aminoácidos. En la actualidad se conoce un gran número de transaminasas, un
+
+ejemplo destacado lo cumple la transaminasa de los tejidos animales denominado
+
+aspartato transaminasa (AST o GOT) y la alaninatransaminasa (ALT o GPT)
+
+(Lehninger, 1991).
+
+   a) Aspartato aminotransferasa o Transaminasa glutámico oxaloacético
+
+       (AST o GOT)
+
+       La AST (EC 2.6.1.1 L-aspartato: 2.cetoglutarato aminotransferasa) cataliza
+
+la siguiente reacción química (Burtis et al., 2008).
+
+
+                                                                                21
+      La ALT es una enzima citoplásmica hepatocelular, con gran concentración
+
+en el hígado y en menor medida en los riñones, corazón y músculos, por eso un
+
+aumento sérico de ALT es más específico de lesión hepática que la AST. La enzima
+
+es exclusivamente citosólica. La vida media de la ALT es aproximadamente 60
+
+horas (2 a 3 días) (Burtis et al., 2008). En mucha menor proporción, se encuentran
+
+actividad de ALT en músculo esquelético, corazón, riñón, páncreas y eritrocitos (en
+
+orden decreciente). Cuando hay una lesión de estos órganos la ALT es liberada a
+
+la sangre y aparece elevada en los análisis (Balcells, 2001).
+
+      El daño hepático agudo tiende a producir grandes elevaciones de actividad
+
+ALT, mientras que en el daño crónico la actividad ALT puede estar normal o
+
+moderadamente incrementada. El grado de incremento en la actividad ALT
+
+correlaciona con el número de hepatocitos dañados, el cual puede ser utilizado para
+
+evaluar la extensión del daño hepático (Fligio et al., 2004).
+
+      La ALT posee una sensibilidad de 83% y una especificidad de 84% en
+
+relación a enfermedades no hepáticas y 97.8% en relación a sujetos saludables. La
+
+elevación de ALT se produjo en el 81% de 520 pacientes con enfermedades
+
+hepáticas muy diversas. La elevación de ALT es el indicador más sensible del daño
+
+hepatocelular, de modo que una subida de ALT es, como regla, de origen
+
+hepatocelular (Kumar, 2005).
+
+                                                                                22
+      Los niveles de ALT están aumentados en: 1) lesión hepatocelular, 2) ictericia
+
+extrahepática, a causa de obstrucción biliar, 3) carcinoma hepático primario o
+
+secundario, 4) cirrosis biliar primaria, 5) hepatitis alcohólica, con un incremento de
+
+3 veces, y 6) cirrosis alcohólica con un incremento leve de 1 a 2 veces. En el hígado
+
+graso secundario a alcoholismo el aumento es muy leve o puede estar en límites
+
+normales (Balcells, 2001).
+
+      El valor de la vida media de GOT en la sangre es de 17 horas, presenta un
+
+peso molecular de 100 000, y se ha demostrado que cada molécula de enzima
+
+contiene 2 moléculas de fosfato piridoxal como grupo prostéticos. Cada enzima
+
+tiene una especificidad tisular definida. Existen tejidos del organismo con
+
+concentraciones de enzimas más elevadas que otro. La transaminasa glutámico
+
+oxaloacético, se encuentra distribuido ampliamente en el organismo, es producido
+
+en el interior de las células del hígado, corazón, músculo esquelético, riñón y otros
+
+tejidos. El 80% de las transaminasa glutámico oxaloacético de los hepatocitos está
+
+en las mitocondrias. Incluso con una distribución tan amplia, la GOT puede
+
+suministrar una información diagnóstica valorable se estudian los parámetros
+
+adecuados (Gonzales et al., 1998).
+
+      Los valores de GOT sérico se encuentran elevadas por encima de sus
+
+valores normales cuando se presentan procesos anormales en el organismo
+
+animal, como enfermedades hepáticas (hepatopatías, hepatitis, cirrosis), pacientes
+
+con lesiones cardiacas (infarto miocárdico), necrosis muscular, enfermedad
+
+muscular blanca e inanición (Coles, 1968). Así mismo, se encuentran elevadas en
+
+estados de inflamación y necrosis del hígado, pancreatitis aguda, anemia
+
+hemolítica e infección renal (Benjamín, 1991).
+
+
+
+
+                                                                                   23
+         Como la AST está principalmente en el corazón y músculo esquelético y
+
+también en riñón, cerebro, páncreas y pulmón, en las enfermedades de estos
+
+órganos van acompañados por los respectivos incrementos de AST. Una elevación
+
+de los valores AST puede también ocurrir como resultado de hemolisis, ejercicio
+
+físico vigoroso y por prolongada venostasis durante la colección de sangre.
+
+También se encuentran niveles elevados en la hepatitis hipoxia. En general, la
+
+gestación muestra un valor de GOT normal. En hepatología, el propósito principal
+
+de la determinación de GOT es para complementar los valores de ALT (Kumar,
+
+2005).
+
+         Se encuentran cantidades elevadas de AST en suero en casos de infarto
+
+agudo de miocardio, hepatopatía aguda, miopatías, por el empleo de determinados
+
+fármacos y en cualquier enfermedad o trastorno en el cual resulten seriamente
+
+dañadas las células. Valores muy altos de AST (>500 UI/L) son sugerentes de
+
+hepatitis u otra clase de necrósis hepatocelular, pero también tumores necróticos
+
+grandes, necrosis o hipoxia, falla congestivo y shock (Balcells, 2001).
+
+   b) Alanina aminotransferasa o Transaminasa glutámico pirúvico (ALT o
+
+         GPT)
+
+         La ALT (EC 2.6.1.2; L-alanina: 2-cetoglutarato aminotransferasa) cataliza la
+
+siguiente reacción (Burtis et al., 2008).
+
+
+
+
+                                                                                  24
+         La AST se encuentra principalmente presente en grandes cantidades en el
+
+corazón, hígado, músculo esquelético y riñones (Braunwald et al., 2001). Cuando
+
+se lesionan las células que contienen la AST o se altera la permeabilidad de la
+
+membrana celular se libera al plasma junto con otras enzimas incrementando su
+
+concentración sérica. Mientras mayor sea la concentración intracelular de la AST,
+
+más alta y más rápida sea la elevación en el suero con el daño celular (Balcells,
+
+2001).
+
+         La AST es una enzima de localización mitocondrial (80%) y citoplasmática
+
+(20%) (Kumar y Clarck, 2005). Cerca del 5 al 10% de la actividad AST en suero de
+
+individuos sanos es de origen mitocondrial (Burtis et al, 2008). Por ello, se puede
+
+inferir que ante un aumento significativo de ALT sobre AST hay un daño celular
+
+difuso con ruptura de membranas celulares y compromiso citoplasmático, pero sin
+
+el aumento de AST>ALT el compromiso necrótico es más profundo y severo. La
+
+AST mitocondrial (mAST) se utiliza en el diagnóstico de enfermedad hepática
+
+alcohólica (Wilson, 2008). En hepatología, el propósito principal de la determinación
+
+de AST es para complementar los valores de ALT (Kumar, 2005).
+
+         Se encuentran cantidades elevadas de AST en suero en casos de infarto
+
+agudo de miocardio, hepatopatía aguda, miopatías, por el empleo de determinados
+
+fármacos y en cualquier enfermedad o trastorno en el cual resulten seriamente
+
+dañadas las células. Valores muy altos de AST (>500 UI/L) son sugerentes de
+
+hepatitis u otra clase de necrósis hepatocelular, pero también tumores necróticos
+
+grandes, necrosis o hipoxia, falla congestivo y shock (Balcells, 2001; Wilson, 2008).
+
+         La transaminasa glutámico pirúvico (GPT) es muy específica del hígado se
+
+localiza en el citoplasma de los hepatocitos y se libera incluso cuando se lesiona
+
+levemente la membrana celular; no es necesario que las células se lesionen
+
+                                                                                  25
+irreversiblemente. La transaminasa glutámico pirúvico (GPT) esta elevada en el
+
+88% de los perros con desordenes hepáticos. La vida media biológica tanto de la
+
+transaminasa glutámico oxaloacético (GOT) como la transaminasa glutámico
+
+pirúvico (GPT) es bastante sensible y especifica (Kraft, 1998).
+
+      La GPT es la enzima más específica de origen hepático en el perro. Se utiliza
+
+para detectar alteraciones en la membrana y necrosis del hepatocito. Esta enzima
+
+se encuentra en el citoplasma, al lesionarse la membrana del hepatocito aumenta
+
+sus valores en la sangre. Este aumento se correlaciona con la gravedad y el número
+
+de hepatocitos afectados pero no indica la reversibilidad de la lesión o la
+
+funcionalidad del hígado, por ejemplo; se presenta en animales con hepatitis
+
+crónica activa, neoplasias hepáticas primarias y necrosis hepática. El incremento
+
+de la GPT es moderado en animales con cirrosis o metástasis puede presentar
+
+valores normales de GPT. La GPT también puede aumentar en pancreatitis y
+
+procesos inflamatorios intestinales, y estos casos se habla de hepatopatías
+
+reactivas (John, 2000).
+
+      El valor de la vida media de la transaminasa glutámico pirúvico en la sangre
+
+es de 50 horas, al igual que la transaminasa glutámico oxaloacético, la GPT
+
+presenta alto grado de especificidad para el sustrato. La principal aplicación de la
+
+determinación de esta enzima sérica reside en el diagnóstico de la destrucción
+
+hepatocélular (John, 2000).
+
+      La GPT, se puede salir de la célula en cualquier situación en que la
+
+permeabilidad de la membrana celular se ve alterada; sin embargo, la célula no
+
+necesariamente deberá estar dañada en forma irreversible (McCurnin, 2001). La
+
+transaminasa glutámico pirúvico, suele estar aumentado por encima de sus valores
+
+normales en pacientes con hepatitis infecciosa, tumores hepáticos, degeneración
+
+                                                                                 26
+grasa del hígado, hepatopatías glucocorticoides, degeneración muscular (John,
+
+2000).
+
+         La vida media de la ALT es aproximadamente 60 horas (2 a 3 días). El daño
+
+hepático agudo tiende a producir grandes elevaciones de actividad ALT, mientras
+
+que en el daño crónico la actividad ALT puede estar normal o moderadamente
+
+incrementada. El grado de incremento en la actividad ALT correlaciona con el
+
+número de hepatocitos dañados, el cual puede ser utilizado para evaluar la
+
+extensión del daño hepático (Fligio et al., 2004).
+
+   c) Gamma glutamil transpeptidasa o γ-glutamil transferasa (GGT o γ-GT)
+
+         La GGT (EC 2.3.2.2; γ-glutamil-péptido: aminoácido γ-glutamiltransferasa)
+
+es una peptidasa que cataliza la transferencia del grupo γ-glutamil de péptidos y
+
+compuestos que lo contengan a un aceptor. La reacción de la GGT es la siguiente
+
+(Burtis et al, 2008).
+
+
+
+
+         La GGT está presente, en orden decreciente de abundancia, en: 1) túbulos
+
+proximales del riñón; 2) hígado; 3) páncreas; e 4) intestino. Es de localización
+
+
+
+                                                                               27
+citoplasmática (microsomas) (Kumar y Clarck, 2005) pero la mayor parte se
+
+encuentra unida a la membrana celular transportando aminoácidos y péptidos
+
+dentro de la célula en forma de γ-glutamil-péptidos, (Burtis et al., 2008). También
+
+se encuentra en epidídimo, corazón, pulmón, intestino delgado, médula, glándulas
+
+salivales, timo, bazo y cerebro. Actualmente, se conocen 11 isoenzimas de GGT
+
+(Kumar, 2005). La vida media de la GGT es de 4,1 días (Fligio et al., 2004).
+
+      La GGT es un marcador sensible de enfermedad hepatobiliar; sin embargo,
+
+su utilidad clínica está limitada por la falta de especificidad. Está elevado en casos
+
+de obstrucciones biliares, neoplasmas hepáticos primarios o metastásicos;
+
+elevaciones moderadas en hepatitis infecciosa y pequeños aumentos en pacientes
+
+con hígado graso e intoxicación por drogas (Burtis et al., 2008; Moreno et al, 2007).
+
+En el caso de las alteraciones hepáticas, la GGT generalmente es un indicador de
+
+agresión tóxica. No obstante, dada su inespecificidad, la determinación de GGT
+
+sólo tiene valor clínico cuando sus valores son comparados con los de otras
+
+enzimas de mayor especificidad de órgano (Kumar y Clarck, 2005).
+
+      La elevación de GGT es atribuido a dos causas: 1) elevada síntesis de novo
+
+como resultado de una inducción enzimática por diversas sustancias,            ácidos
+
+biliares, así como por colestasis o por incrementada regeneración tisular; y 2) daño
+
+de la membrana celular del hepatocito. La GGT es un indicador sensible del daño
+
+hepatocelular. La GGT normal excluye una enfermedad hepática en 90-95% de
+
+casos (Kumar, 2005).
+
+      Las transaminasas tienen enormes variaciones entre laboratorios debido a
+
+la influencia de la temperatura, pH de sustrato, el tipo de sustrato y también se debe
+
+evitar que la muestra sea hemolizada porque el color puede interferir con las
+
+lecturas de la densidad óptica. Por ello cada laboratorio que efectué las pruebas de
+
+                                                                                   28
+determinación de las transaminasas debe esta establecer sus propios valores
+
+normales para la especie en cuestión y para cada método de prueba (Bush, 1982).
+
+Otros factores que hacen variar la concentración de los valores normales de las
+
+transaminasas en el suero sanguíneo en estudio son los estados de nutrición de
+
+los animales y las condiciones medio ambientales donde vive el animal. La
+
+determinación de las transaminasas depende de la metodología y la técnica
+
+empleada, del conocimiento, destreza y habilidad del profesional que trabaja en un
+
+determinado laboratorio (McCurnin, 2001).
+
+2.6. Antecedentes
+
+      Se estudió la actividad GOT, GTP y GGT en suero sanguíneo de ovinos
+
+Corriedale y Criollos con distomatosis hepática y sanos en la Comunidad de
+
+Orccocca (Canas, Cusco). Los resultados en ovinos sanos fueron: GOT de 50 a
+
+94.8 UI/L; GPT de 8.1 a 33.9 UI/L y GGT de 20.1 a 81.6 UI/L. En todos los casos la
+
+actividad fue mayor en ovinos Corriedale que en Criollos (P≤0.01) y no hubo efecto
+
+del sexo y clase (P>0.05). En ovinos con distomatosis: GOT de 106.9 a 254.6 UI/L,
+
+siendo mayor en Corriedale que en Criollos (P≤0.01) y en adultos que en jóvenes
+
+(P≤0.05); GPT de 35 a 59.3 UI/L, no se encontró diferencias entre raza, clase y
+
+sexo (P>0.05); y GGT de 120.3 a 249.3 UI/L siendo mayor en Corriedale que en
+
+Criollos (P≤0.01) y en adultos que en jóvenes (P≤0.05). En todos los casos no hubo
+
+efecto del sexo (P>0.05) (Gutiérrez, 2006).
+
+      Se ha medido la actividad de las transaminasas (GOT y GPT) en vacunos
+
+Brown Swiss y Criollo del Distrito de Paucarcolla, Puno. Los resultados indican que
+
+los valores de GOT oscilan entre 79.5 a 125 UI/L, y los de GPT entre 10.02 a 42.0
+
+UI/L. En ambos casos la actividad es mayor en el Brown Swiss que en el Criollo
+
+
+
+                                                                                29
+(P≤0.01), no encontrándose diferencias entre clase y sexo (P>0.05) (Gutiérrez,
+
+2005).
+
+         Se estudió eventuales cambios de los indicadores sanguíneos de daño
+
+hepático durante la fase subclínica (asintomática) de la fasciolosis. Se
+
+seleccionaron 56 muestras de sangre de novillos cruza cebúes aparentemente
+
+sanos, en mataderos de zonas enzoóticas de la Provincia de Corrientes (Argentina).
+
+Posteriormente al sacrificio se estableció que 29 de ellos albergaba escasa a
+
+moderada cantidad de duelas en el hígado, permaneciendo libres del parásito los
+
+restantes. Con técnicas convencionales de laboratorio se efectuó eritrograma,
+
+leucograma, proteinograma, enzimograma (fosfatasa alcalina ALP, gamma-
+
+glutamiltransferasa GGT, aspartato aminotransferasa AST) y determinaciones de
+
+hierro, glucosa, bilirrubina y tiempo de protrombina. Los animales parasitados
+
+revelaron valores más elevados de leucocitos, eosinófilos, gamma globulinas y
+
+GGT que los controles (p<0,05), signos inflamatorios que se imputan a una
+
+incipiente colangitis, propia de la fase subclínica de la distomatosis. No se
+
+verificaron cambios atribuibles a colestasis ni insuficiencia hepática (Mussart y
+
+Coppo, 2009).
+
+         Se determinaron los niveles séricos de gammaglutamil transpeptidasa (GGT)
+
+en ganado ovino infectado experimentalmente con Fasciola hepática, con el objeto
+
+de valorar el tiempo en que se normalizan después del tratamiento con
+
+triclabendazol. Se empleó un lote de corderos adultos y se conformaron 3 lotes de
+
+5 animales cada uno. Los lotes 1 y 2 fueron infectados con 60 metacercarias de
+
+Fasciola hepática, los días 1, 30 y 75 del experimento. A los 90 días de la infección,
+
+se trató el lote 1 con triclabendazol a una dosis de 10 mg/kg; el lote 3 no fue
+
+infectado ni tratado, fue el testigo negativo. Los niveles séricos de GGT fueron
+
+
+                                                                                   30
+cuantificados 8 días antes de la infección y posteriormente cada 30 días durante
+
+165. Se encontró un incremento significativo (P<0.05) de GGT en los lotes 1 y 2 en
+
+relación con el 3 pos infección, con una x de 35.4 y de 44.7 UI, y un pico a los 90
+
+días con un promedio de 71.7 y 57.3 UI, respectivamente. Los niveles séricos de
+
+GGT se normalizaron en los ovinos a los 75 días de haber sido tratados con
+
+triclabendazol (Faria et al., 1995).
+
+2.7. Valores normales de ALT, AST y GGT
+
+       En la tabla 2.1 se muestran valores de actividad enzimática de las enzimas
+
+ALT, AST y GGT en bovinos y ovinos según diferentes autores.
+
+       Tabla 2.1: Actividad de ALT, AST y GGT en bovinos y ovinos según
+
+                                   autores (en UI/L).
+
+
+       ENZIMA           VACUNO              OVINO               AUTOR
+   AST (GOT)                                43-127      Smith (1996)
+                          78-132                        Kanecko et al (1997)
+                          66-230            49-123      Medway et al (1990)
+                          56-165            97-191      Coles (1968)
+                          45-110            49-123      Busch (1982)
+   ALT (GPT)              14-38             30-40       Kanecko et al (1997)
+                                            15-44       Medway et al (1990)
+                           3-15             15-44       Busch (1982)
+   GGT                    15-39             40-94       Smith (1996)
+                          10-40                         Gilberto (1993)
+                                            20-50       Kanecko et al (1997)
+                           7-35             30-60       Busch (1982)
+
+
+
+
+                                                                                31
+                  III.   MATERIALES Y METODOS
+
+3.1. Ámbito de estudio
+
+      El trabajo de investigación se realizó en la Microcuenca Larimayo, Distrito de
+
+Antauta, Melgar, Puno, cuya altitud, en general, del distrito de Antauta oscila entre
+
+3,895 a 5,820 m. El área territorial del distrito de Antauta es de 636.17 km 2 ubicado
+
+en zonas de Puna húmeda y el 85% de la PEA vive fundamentalmente de la
+
+producción agropecuaria. La temperatura varía desde -25ºC hasta 20ºC con un
+
+clima frío y seco la mayor parte del año. Las precipitaciones pluviales están
+
+claramente diferenciados, la estación lluviosa ocurre entre diciembre y marzo, con
+
+una precipitación de 650 a 700 mm., tornándose el paisaje verdoso y muy atractivo;
+
+mientras, que en la estación seca entre abril y noviembre, la ausencia de lluvias
+
+hace que el paisaje se torne a un color amarillento (Estación Meteorológica de
+
+Macusani–Puno)
+
+      La crianza de ganado vacuno para la producción de leche y queso constituye
+
+el principal rubro productivo que sustenta la economía de las familias de Larimayo,
+
+seguida de la crianza de ganado ovino (producción de lana y carne) y alpacas en
+
+menor proporción (fibra). Actualmente, las familias disponen en promedio de 10
+
+Vacunos/Unidad Productiva. Los productores cuentan con un promedio de 33 Ha
+
+con buenas extensiones de pastos naturales y buena disposición de agua. Los
+
+cultivos Forrajeros que se tiene en la Microcuenca Larimayo son permanentes y
+
+anuales entre ellas los cultivos de alfalfa, avena, Rye grass, trébol blanco, vicia y
+
+otros; así mismo existe ya una extensión de pastos cultivados que representa un
+
+09% del territorio total. Se cuenta con canales de irrigación como también irrigación
+
+por inundación (PDC de Antauta, 2012).
+
+
+                                                                                   32
+      El análisis de las muestras de heces y suero sanguíneo fueron analizadas
+
+en los Laboratorios de Parasitología y Bioquímica de la Facultad de Medicina
+
+Veterinaria y Zootecnia de la Universidad Nacional del Altiplano, respectivamente.
+
+3.2. Animales de Estudio
+
+      Para el estudio, se utilizaron un total de 30 bovinos y 30 ovinos adultos de
+
+los cuales 15 animales de cada especie correspondían a animales con fasciolosis
+
+crónica y 15 sin la enfermedad (negativos a la Prueba de Stoll Modificado). La
+
+distribución de los grupos se muestra en la tabla 3.1.
+
+       Tabla 3.1: Distribución de muestras por especie según estado del animal
+
+                               de la Microcuenca Larimayo
+
+
+            ESTADO DEL ANIMAL                         ESPECIE
+
+                                                BOVINO      OVINO      TOTAL
+
+   Con fasciolosis (Experimental)                    15         15       30
+
+   Sin fasciolosis (Control)                         15         15       30
+
+   TOTAL                                             30         30       60
+
+
+
+
+      Para alcanzar el número de animales con y sin fasciolosis se muestrearon
+
+tantos animales como se pudo (muestreo no probabilístico)
+
+3.3. Unidades de análisis
+
+      El material biológico lo constituyeron muestras heces y sangre de animales
+
+con y sin fasciolosis crónica de ovinos y vacunos.
+
+
+
+
+                                                                                 33
+3.4.   Materiales, Equipos y Reactivos.
+
+   De campo
+
+          Alcohol yodado.
+
+          Torunda de algodón.
+
+          Tubos y agujas vacutainer de 10 mL.
+
+          Bolsas de polietileno.
+
+          Gradilla.
+
+          Cuaderno para el registro de las muestras.
+
+          Jeringas y agujas (16 y 18 GX 1½ʺ) descartables.
+
+          Caja teknoport con hielo.
+
+          Marcadores.
+
+   Obtención de suero
+
+          Centrifuga IEC Internacinale Centrifuge USA.
+
+          Viales de plástico de 5 mL.
+
+          Pipetas Pasteur (0.5, 1.5 y 10 mL.).
+
+          Gradillas.
+
+          Congeladora.
+
+   Análisis de laboratorio
+
+          Cronómetro.
+
+          Estufa.
+
+          Espectrofotómetro
+
+          Tubos de prueba de 10 mL.
+
+          Pipetas graduadas.
+
+
+
+                                                              34
+           Micropipetas automáticas.
+
+           Baño maría.
+
+    Reactivos
+
+           Kits para determinaciones de actividades enzimáticas de ALT, AST y
+
+            GGT de Wiener ®, Argentina.
+
+           Agua bidestilada.
+
+3.5. Metodología
+
+    a) Toma de muestras y conservación
+
+    Heces
+
+    Para el estudio coproparasitológico se obtuvieron muestras de heces en
+
+    tempranas horas del día directamente del recto del animal utilizando bolsas
+
+    de polietileno en cantidades aproximadas de 10 a 30 g. Las muestras se
+
+    colocaron en caja refrigerada conteniendo hielo para su traslado a la ciudad
+
+    de Puno el mismo día de muestreo. El análisis se realizó al día siguiente del
+
+    muestreo en el Laboratorio de Parasitología de la Facultad de Medicina
+
+    Veterinaria y Zootecnia.
+
+    Sangre
+
+    Para el estudio enzimático se tomaron muestras de sangre en un volumen
+
+    aproximado de 5 mL sin anticoagulante. En el caso de vacunos, las muestras
+
+    se tomaron de la vena yugular utilizando agujas Nº 16 previa antisepsia de
+
+    la región, la sangre se colectó en tubos de 10 mL los cuales fueron colocados
+
+    en la caja refrigerada debidamente rotuladas. Para el caso de ovinos, la
+
+    sangre se obtuvo mediante venipunción radial utilizando agujas y tubos
+
+
+
+                                                                              35
+   vacutainer sin anticoagulante. Todas las muestras se trasladaron a la ciudad
+
+   de Puno el mismo día de su obtención.
+
+   b) Obtención de suero sanguíneo
+
+   En el Laboratorio de Bioquímica de la Facultad de Medicina Veterinaria y
+
+Zootecnia, las muestras de sangre se centrifugaron a 3000 rpm durante 15
+
+minutos. El suero obtenido se decantó en viales eppendorf de 2 mL y
+
+conservados en congeladora (-20ºC) hasta el momento de su procesamiento.
+
+   c) Diagnóstico de fasciolosis crónica
+
+   Con la finalidad de determinar los animales positivos y negativos a fasciolosis
+
+crónica, se analizó las heces por el Método de Stoll Modificado a fin de detectar
+
+la presencia de huevos de fasciola hepática ya que en esta forma, el verme
+
+elimina huevos por la bilis los que aparecerán en las heces, lo cual permite
+
+realizar el diagnóstico coprológico para los individuos que presenten un cuadro
+
+crónico.
+
+   El protocolo que se siguió fue el siguiente:
+
+      Pesar 3 g de heces.
+
+      Colocarlo en un mortero con 42 mL de agua desmineralizada y
+
+       homogenizarlo completamente.
+
+      Filtrar el contenido a través de un embudo con malla metálica.
+
+      Suspender el filtrado en un tubo de prueba de 15 mL
+
+      Llevar a la centrifuga a 200 rpm durante 2 minutos.
+
+      Eliminar el sobrenadante y rehomogenizar con solución azucarada
+
+       saturada en tres partes, hasta eliminar el sedimento completamente.
+
+
+
+
+                                                                               36
+      Homogenizar constantemente y aspirar 0.15 mL del homogenizado con
+
+       una jeringa de tuberculina.
+
+      Colocar la solución en una lámina portaobjeto en dos partes.
+
+      Colocar la laminilla cubreobjetos en las dos partes.
+
+      Observar al microscopio a 10X para realizar el conteo de los huevos de
+
+       parásitos.
+
+      Una vez realizado el conteo en los dos cuadrantes, multiplicar por 100,
+
+       para obtener el resultado de la carga parasitaria.
+
+   d) Determinación de la actividad enzimática
+
+   El análisis bioquímico de las muestras de suero sanguíneo se realizó
+
+utilizando protocolos estandarizados de la firma comercial (Wiener Lab,
+
+Argentina). El análisis de cada muestra fue hecho por triplicado, reportándose
+
+su valor promedio.
+
+   Las actividades enzimáticas de las enzimas estudiadas se expresan en
+
+Unidades Internacionales por Litro (UI/L ó U/L) que equivale a los micromoles
+
+de producto formado (o sustrato transformado) por la enzima en un minuto por
+
+litro de solución (μmol/min).
+
+   Alanina aminotransferasa (ALT o GPT)
+
+   Técnica.- Método colorimétrico (Reitman y Frankel)
+
+   Fundamento.- La ALT cataliza la siguiente reacción:
+
+                                                  ALT
+
+
+                    L-alanina + -Cetoglutarato  Piruvato + L-glutamato
+
+   El piruvato formado reacciona con la 2,4-dinitrofenilhidracina produciéndose,
+
+   en medio alcalino, un compuesto coloreado que se mide a 505 nm.
+
+                                                                             37
+  Procedimiento.- Los reactivos y el protocolo seguido para la determinación
+
+  de la actividad ALT se encuentra en el anexo 1. El mismo que incluye dos
+
+  procesos:
+
+        Elaboración de la curva de calibración y determinación de la
+
+        ecuación lineal
+
+        Se siguió el protocolo descrito en el Anexo 1 (inc. 1) con cuyos
+
+        resultados se graficó la curva de calibración (anexo 1, inc. 2) y la
+
+        siguiente ecuación lineal (R2=99.67%):
+
+                                𝐴 = 0,0025 𝐴𝐸 − 0,0019
+
+        Donde:
+
+        AE = Actividad enzimática ALT (en U/L).
+
+        A = Absorbancia de la muestra.
+
+        Determinación de la actividad ALT en las muestras
+
+        Siguiendo el protocolo (anexo 1, inc. 3) y utilizando la ecuación
+
+        anterior se determinó la actividad de la ALT en todas las muestras de
+
+        suero sanguíneo.
+
+  Aspartato aminotransferasa (AST o GOT)
+
+  Técnica.- Método colorimétrico (Reitman y Frankel)
+
+  Fundamento.- La AST cataliza la siguiente reacción:
+
+                                     AST
+
+
+L-aspartato + -Cetoglutarato           oxalacetato + L-glutamato
+
+
+
+
+                                                                          38
+El oxalacetato es muy inestable y se transforma en piruvato el cual reacciona
+
+con la 2,4-dinitrofenilhidracina produciéndose, en medio alcalino, un
+
+compuesto coloreado que se mide a 505 nm.
+
+Procedimiento.- De igual modo tanto los reactivos y protocolos se encuentran
+
+en el anexo 2. El procedimiento incluye dos pasos:
+
+      Elaboración de la curva de calibración y determinación de la
+
+      ecuación lineal
+
+      Los resultados del protocolo seguido (inc. 1 del anexo 2) permitieron
+
+      graficar la curva de calibración de AST (inc. 2 del anexo 2) y el cálculo
+
+      de ecuación de regresión lineal siguiente (R2=99.93%):
+
+                           𝐴 = 0,0068 𝐴𝐸 + 0,0089
+
+      Donde:
+
+      AE = Actividad enzimática AST (en U/L)
+
+      A = Absorbancia neta de la muestra.
+
+      Determinación de la actividad AST en las muestras
+
+      Siguiendo el protocolo (anexo 2, inc. 3) y utilizando la ecuación
+
+      anterior se determinó la actividad de la ALT en todas las muestras de
+
+      suero sanguíneo.
+
+Gamma glutamil transferasa (GGT o γ-GT)
+
+Técnica.- Método colorimétrico de punto final
+
+Fundamento. La -GT cataliza la siguiente reacción:
+
+
+
+
+                                                                            39
+                                          GGT
+
+
+-glutamil p-nitroanilida + glicilglicina  -glutamil glicilglicina + p-nitroanilina
+
+
+
+
+      Por diazotación de la p-nitroanilina y posterior copulación con un compuesto
+
+      de naturaleza fenólica se obtiene un producto coloreado que se lee a 500
+
+      nm.
+
+      Procedimiento.- Tal como indica el anexo 3. Incluye dos pasos:
+
+             Determinación del Factor de Colorimétrico (Fc)
+
+             Con el protocolo seguido (inc.1 del anexo 3) se determinó siguiente el
+
+             Factor Colorimétrico (Fc):
+
+                                     [St]   100 U/L
+                              𝐹𝑐 =        =         = 𝟑𝟓𝟕, 𝟏𝟒 𝐔/𝐋
+                                     Ast      0,28
+
+             Dónde:
+
+             [St] = Concentración del estándar (en U/L) = 100 U/L
+
+             Ast = Absorbancia del estándar calculado = 0,28
+
+             Determinación de la actividad GGT en las muestras
+
+             Siguiendo el protocolo (inc. 2 del anexo 3) la actividad GGT se calculó
+
+             mediante la siguiente fórmula:
+
+                            𝐺𝐺𝑇 (𝑈/𝐿) = 𝐹𝑐 × 𝐴 = 357.14 × 𝐴
+
+             Dónde:
+
+             Fc = Factor colorimétrico
+
+             A = Absorbancia de la muestra.
+
+                                                                                  40
+   3.6. Análisis Estadístico
+      Para determinar la diferencia estadística entre los promedios de actividad
+
+enzimática de las enzimas estudiadas se utilizó la Prueba “t” de Student para
+
+muestras independientes, cuya fórmula es la siguiente:
+
+
+
+
+      Dónde:
+
+      M1       : Media de animales con Fasciola.
+
+      M2       : Media de animales sin Fasciola.
+
+      S21      : Varianza de animales con Fasciola.
+
+      S22      : Varianza de animales sin Fasciola.
+
+      N1       : Población de animales con Fasciola.
+
+      N2       : Población de animales sin Fasciola.
+
+      En los resultados se reportan estadísticos de tendencia central y de dispersión:
+
+promedio, desviación estándar de la media, coeficiente de variabilidad y valores
+
+extremos.
+
+
+
+
+                                                                                   41
+                  IV.   RESULTADOS Y DISCUSIÓN
+
+4.1. Actividad de Marcadores Enzimáticos en Bovinos Positivos
+
+      y Negativos a Fasiolosis Crónica.
+
+   a) Aspartato aminotransferasa (AST o GOT).
+
+      Los resultados encontrados en el presente estudio sobre AST sérico se
+
+encuentra en el anexo 4 y sus parámetros estadísticos se resumen en la tabla 4.1.
+
+         Tabla 4.1: Actividad AST (UI/L) en vacunos con y sin fasciolosis
+
+              crónica, al diagnóstico por el método de Stoll modificado.
+
+
+      Estado sanitario       n     Prom. ± E.E.      CV (%)     Valores extremos
+
+      Positivos             15      94.23±3.51 a      14.44       80.44 – 120.04
+
+      Negativos             15      60.63±2.65 b      16.99        45.24 – 72.04
+
+      Total                 30                                     45.24 -120.04
+
+
+
+
+      La prueba de “t” (anexo 5) demuestra que la actividad AST es mayor en
+
+vacunos positivos a fasiolosis crónica que en negativos (P≤0,05); Esto se debería
+
+a que los parásitos presentes en el hígado producen profundas alteraciones
+
+metabólicas y muerte de las células hepáticas, con lo que se derrama el líquido
+
+intracelular al plasma sanguíneo, así lo corroboran muchos investigadores como
+
+Morales et al., (2004). Ademas, Morlan y col. (1987); Doxey (1987) y Leguía (1988),
+
+mencionan que las larvas de la Fasciola hepática producen un daño traumático
+
+durante su migración al pasar a través del tejido hepático, dejando túneles rodeados
+
+por hemorragias, necrosis y evidencias de sedimentos fibrinohemorrágicos
+
+
+                                                                                   42
+produciendo el aumento de los niveles séricos de las transaminasas en el plasma
+
+sanguíneo. Burtis et al. (2008) también señala que la elevación de la actividad
+
+enzimática en el plasma y otros líquidos se produce por: a) necrosis (destrucción
+
+celular), b) aumento de la permeabilidad de membrana, c) sobreproducción de
+
+enzimas (mayor metabolismo en un tejido, e.g. neoplasia), d) menor eliminación
+
+(e.g. por obstrucción biliar), y e) incremento de células inflamatorias.
+
+       Los resultados obtenidos en el presente estudio se encuentran dentro del
+
+rango establecido por distintos autores, entre ellos: Kanecko et al. (1997), Medway
+
+et al. (1990); Coles (1968) y Busch (1982). Del mismo modo, comparando con los
+
+resultados obtenidos por Gutierrez (2005), encuentra valores similares, excepto en
+
+el límite inferior, hecho que podría atribuirse a la zona de estudio y a la técnica
+
+utilizada. Mientras que el presente estudio fue realizado en Larimayo, Gutierrez
+
+realiza su estudio en Paucarcolla, dos zonas de diferente piso altitudinal. Además,
+
+Gutierrez utiliza reactivos de marca Point Cientific y en el presente estudio se utiliza
+
+reactivos de la marca Wiener. Burtis et al. (2008) confirma esta hipótesis al indicar
+
+que los factores ambientales que pueden afectar los resultados de laboratorio
+
+incluyen la altitud, la temperatura ambiental, la localización geográfica y las
+
+estaciones del año.
+
+   b) Alanina aminotransferasa (ALT o GPT).
+
+       En el anexo 6 se muestran los resultados individuales encontrados en el
+
+presente estudio de ALT en suero sanguíneo. En la Tabla 4.2 se reportan los
+
+principales estadísticos.
+
+
+
+
+                                                                                     43
+         Tabla 4.2: Actividad de la ALT (UI/L) en vacunos con y sin fasciolosis
+
+                 crónica, al diagnóstico por el método Stoll modificado.
+
+
+        Estado sanitario        N      Prom. ± E.E.      CV (%)     Valores extremos
+
+        Positivos              15      12.14±0.47 a       15.12        10.16 – 15.16
+
+        Negativos              15       7.16±0.30   b     16.28         5.60 – 8.69
+
+        Total                  30                                      5.60 – 15.16
+
+
+
+
+       Con la finalidad de comparar los promedios de los animales positivos y
+
+negativos a fasiolosis crónica se ha realizado la prueba de “t” (anexo 7), cuyo
+
+resultado indica una diferencia estadística significativa (p≤0.05), lo que significa que
+
+la actividad enzimática de la ALT en animales infectados con fasciola es mayor que
+
+en las no infectadas. Las razones de esta diferencia se debería al daño causado
+
+por el parásito en el hígado, tal como fue explicado para el caso de AST.
+
+       Balcells (2001) indica que la ALT es una enzima citoplásmica hepatocelular,
+
+con gran concentración en el hígado y en menor medida en los riñones, corazón y
+
+músculos, por eso un aumento sérico de ALT es señal de lesión hepática. Fligio et
+
+al. (2004) también señala que el daño hepático agudo tiende a producir grandes
+
+elevaciones de actividad ALT, mientras que en el daño crónico la actividad ALT
+
+puede estar normal o moderadamente incrementada; y el grado de incremento en
+
+la actividad ALT está relacionado con el número de hepatocitos dañados.
+
+       Los valores de ALT encontrados en el presente estudio se encuentran dentro
+
+del rango establecido por Busch (1982), pero por debajo de Kanecko et al (1997)
+
+quien indica que los valores normales están entre 14 y 38 UI/L, hecho que podría
+
+
+
+                                                                                      44
+atribuirse a la técnica utilizada, zona de estudio u otro factor que no se discute por
+
+cuanto dicho autor no especifica estos detalles. Del mismo modo, Zapata et al.
+
+(1997) encontraron valores que oscilan entre 6.9 a 35.3 UI/L de ALT, rango en el
+
+que se encuentran los resultados del presente estudio.
+
+       En el estudio de Gutierrez (2005), encuentra valores un promedio de ALT de
+
+19.57UI/L, con valores extremos de 10.20 a 42.00UI/L, la diferencia de estos
+
+valores se debería a los diferentes lugares de estudio, tipo de alimentación, carga
+
+parasitaria entre otros. A la fecha existen pocos estudios de investigación respecto
+
+a la actividad enzimática de la ALT, y de los que encontramos en bibliografía estos
+
+alcanzan valores en forma general y en alguno de ellos indicando sus valores
+
+extremos y por lo tanto nos encontramos limitados a profundizar las discusiones
+
+por la influencia o no de los factores que posibilitan las variación no solamente entre
+
+especies, sino dentro de la misma especie, tal como nos propusimos en el presente
+
+estudio que vendría     a ser influenciadas por la carga parasitaria (número de
+
+metacercarias ingeridas por animal).
+
+   c) ү-glutamiltransferasa (GGT o γ-GT)
+
+       Los   resultados    encontrados     en   el   presente    trabajo   sobre    ϒ-
+
+glutamiltransferasa (GGT) sérico se encuentran en los anexos 8 y 9, y cuyos
+
+parámetros estadísticos se detallan en la tabla 4.3.
+
+
+
+
+                                                                                    45
+          Tabla 4.3: Actividad ү-glutamiltransferasa (GGT) (UI/L) en vacunos
+
+              con y sin fasciolosis crónica, al diagnóstico por el método Stoll
+
+                                        modificado.
+
+
+      Estado sanitario         N     Prom. ± E.E.       CV (%)     Valores extremos
+
+      Positivos               15     110.66±5.08 a       17.80       81.45 – 140.12
+
+      Negativos               15     43.13±2.03    b     18.30        28..18 – 55.20
+
+      Total                   30                                     28.18 – 140.12
+
+
+
+
+      Con la finalidad de comparar las respuestas de las medias aritméticas se ha
+
+realizado la prueba de “t”, (anexo 10), cuyo resultado indica una diferencia
+
+estadística significativa (P≤0.05). Lo que significa que la actividad enzimática de la
+
+ү-glutamiltransferasa (GGT) es mayor en animales infectados con fasciolosis que
+
+en los no infectados.
+
+      Doxey (1987) y Gilberto (1993) indican que los valores de GGT se elevan
+
+intensamente en casos de obstrucción de los conductos biliares por fibrosis y los
+
+parásitos, lo que se debe a un mecanismo de inducción enzimática a nivel
+
+microsomal. Por otro lado Leguia (1988) menciona que estas diferencias se
+
+deberían a los cambios en el nivel de proteínas séricas por efecto de mayor o menor
+
+infección por distomatosis que producen lesiones tisulares. También Salgado
+
+(1996), Benjamin (1990) y Kraft (1998) afirman que los daños hepáticos aumentan
+
+considerablemente la concentración de GGT. Igualmente, Leguia (1988) manifiesta
+
+que los animales afectados con distomatosis están anémicos y tienen bajos valores
+
+de proteínas séricas con modificaciones en la composición corporal y metabolismo
+
+energético, consecuentemente, hay aumento de la GGT.
+
+                                                                                   46
+      Comparando nuestros resultados con los reportados por Smith (1996),
+
+Gilberto (1993) y Bush (1982), éstos se encuentran dentro del rango establecido
+
+por estos autores, excepto en los animales positivos a fasciolosis que se encuentra
+
+muy elevado, atribuible al daño hepático causado por el parásito, tal como se
+
+explicó en los párrafos precedentes.
+
+4.2. Actividad de Marcadores Enzimáticos en Ovinos Positivos y
+
+      Negativos a Fasiolosis Crónica.
+
+   a) Aspartato aminotransferasa (AST o GOT).
+
+      Los resultados encontrados en el presente estudio sobre AST sérico en
+
+suero sanguíneo de ovinos se encuentran en el anexo 11. En la Tabla 4.4 se
+
+muestran los parámetros estadísticos.
+
+        Tabla 4.4: Actividad de AST (UI/L) en ovinos con y sin fasciolosis
+
+              crónica, al diagnóstico por el método stoll modificado.
+
+
+      Estado sanitario      N      Prom. ± E.E.       CV (%)     Valores extremos
+
+      Positivos             15      97.13±3.94 a       15.74       81.24 – 126.84
+
+      Negativos             15      66.01±3.01 b       17.69       48.04 – 78.44
+
+      Total                 30                                     48.04 – 126.84
+
+
+
+
+      La prueba de “t” (anexo 12) demuestra que el promedio de la actividad
+
+enzimática de la AST en ovinos es mayor en animales positivos a fasciolosis
+
+(97.13±3.94UI/L) que en animales negativos (66.01±3.01UI/L) (P≤0.05). Al igual
+
+que en los vacunos, esto se debería al daño hepático causado por el parasito en el
+
+hígado de los ovinos en estudio. Gilberto (1993) señala que los valores de AST
+
+                                                                                   47
+sérico se encuentran elevadas por encima de sus valores normales cuando se
+
+presentan procesos anormales en el organismo animal, como en el caso de
+
+enfermedades hepáticas; así mismo se encuentran elevadas en estados de
+
+inflamación y necrosis del hígado.
+
+      Otros autores que refuerzan la hipótesis del daño hepático son Morlan y col.
+
+(1987); Doxey (1987) y Leguia (1988) al indicar que las larvas de la Fasciola
+
+hepática producen un daño traumático durante su migración al pasar a través del
+
+tejido hepático, dejando túneles rodeados por hemorragias, necrosis y evidencias
+
+de sedimentos fibrinohemorrágicos produciendo el aumento de los niveles séricos
+
+de las transaminasas en el plasma sanguíneo. Además, Leguía (1988) reporta que
+
+en una infección moderada de distomatosis hepática, se produce un aumento en
+
+los niveles séricos de la enzima AST.
+
+      Romero (1999) afirma que en una invasión parasitaria, puede llevar a
+
+alteraciones   de   la   permeabilidad   de   la   membrana     del   hepatocito   y
+
+consiguientemente a la liberación anormal de la AST al torrente sanguíneo. Estas
+
+consideraciones suponen la existencia de gran número de animales enfermos
+
+debido al mayor grado de infestación de caracoles que hay en las áreas de
+
+pastoreo, que son ingeridos por los ovinos susceptibles a la infección por el hábito
+
+de pastoreo al ras del suelo que favorece la ingestión de metacercarías,
+
+produciéndose de esta manera niveles altos de infestación en el medio ambiente.
+
+Este fenómeno se debe, no solo por la falta de adecuados programas de control,
+
+sino también por la sobrepoblación animal, siendo esto más dramático, en
+
+comunidades campesinas donde se explotan estos animales.
+
+      Leguia (1988), Morlan y col. (1987) señalan que el nivel de ingestión de
+
+metacercarias por ovino está en función del huésped-parasito, afectados por mal
+
+                                                                                   48
+hábito de pastoreo, grado de infección de pasturas, etc. Pezo y col. (2001)
+
+publicaron trabajos basados en experimentos previos, midiendo los niveles séricos
+
+de AST en borregas artificialmente infestados y tratados con fasciolicidas; las
+
+variaciones individuales fueron muy marcadas y los niveles séricos de AST muy
+
+variados.
+
+      Comparando los resultados de actividad AST del presente estudio, éstos se
+
+encuentran dentro del rango establecido por la mayoría de autores. Por ejemplo,
+
+Medway y col. (1990) indica que los valores normales oscilan entre 49 a 123.3UI/L.
+
+Igualmente, Smith (1996) reporta valores de 60 a 280UI/L para ovinos; Zapata y
+
+Fajardo (1997) reportan de 49 a 123.3UI/L, entre otros. Las pequeñas diferencias
+
+se deberían a las diversas condiciones en que establecieron estos datos. Los
+
+autores citados no mencionan el lugar de estudios, las condiciones de manejo,
+
+alimentación, variación individual de acuerdo a las condiciones fisiológicas o
+
+bioquímicas, estos pueden influir en la variación. Así lo enfatizan Flower y Zinkl
+
+(1989), Leguia (1988), Dukes (1981), Gonzales y col. (1998) y Guyton (1988) al
+
+señalar que los valores pueden variar según factores alimenticios, ubicación
+
+geográfica (altitud y latitud), además mencionan que cada organismo reacciona
+
+constantemente y compite con todos los elementos vivos e inanimados, que entran
+
+en contacto, con los cambios bruscos que ocurren en el medio ambiente y tienen
+
+efectos dañinos, que convierten en traumas fisiológicas y pueden cambiar la
+
+actividad enzimática. Las condiciones medio ambientales en la altura, son
+
+diferentes a las del nivel del mar, así los animales dependen de la producción de
+
+energía de las células, cualquier proceso que altere la producción energética bien
+
+sea por disminución de sustratos oxidativas o factores que hacen variar el
+
+comportamiento fisiológico de sus componentes bioquímicos en los animales, como
+
+
+                                                                               49
+el caso de la hipoxia, temperaturas bajas, menor humedad relativa, la mayor
+
+radiación   solar,   deficiencias    nutricionales   y   parasitarias,   que      actúan
+
+desfavorablemente en los organismos de los animales. Los mamíferos tienden a
+
+desarrollar cambios morfodinámicos en su comportamiento biológico para atenuar
+
+en forma prioritaria la hipoxia.
+
+   b) Alanina aminotransferasa (ALT o GPT).
+
+       En la Tabla 4.5 se reportan los parámetros estadísticos de la actividad de la
+
+enzima ALT en ovinos con y sin fasciolosis crónica. Los resultados individuales en
+
+el anexo 13.
+
+      Tabla 4.5: Actividad ALT (UI/L) en ovinos con y sin fasciolosis crónica, al
+
+                      diagnóstico por el método stoll modificado.
+
+
+   Estado sanitario        n       Prom. ± E.E.      CV (%)    Valores extremos
+
+   Positivos              15        9.52±0.32 a      13.33          8.25 – 13.10
+
+   Negativos              15        6.38±0.27 b      16.55          5.01 – 8.10
+
+   Total                  30                                        5.01 – 13.10
+
+
+
+
+       Como se aprecia, el promedio de la actividad enzimática de la ALT es
+
+significativamente superior en ovinos positivos a fasciola (9.52±0.32 UI/L) que en
+
+animales negativos (6.38±0.27 UI/L) (p≤0.05). La prueba de “t” se encuentra en el
+
+anexo 14. Las razones de esta elevación se deberían a las mismas razones que
+
+las explicadas en el caso de vacunos y de AST. Es decir, al daño hepático causado
+
+por la presencia del parásito.
+
+
+
+
+                                                                                      50
+      Bush (1982) y Benjamín (1991) indica que la ALT, suele estar aumentado
+
+por encima de sus valores normales en pacientes con hepatitis infecciosa, tumores
+
+hepáticos, degeneración grasa del hígado. El hallazgo de niveles de ALT elevados
+
+en la sangre indica su liberación de las células y tejidos lesionados. No es necesario
+
+que las células de los tejidos se destruyan completamente antes de que se libere
+
+la ALT puede “fugarse” a través de la membrana celular de las células lesionadas.
+
+      Los resultados de ALT en ovinos sin fasciola mostraron rangos de 5.01 a
+
+8.10 UI/L, con un promedio 6.38±0.27 UI/L. Al respecto, Medway y col. (1990)
+
+pública rangos normales en ovinos de 14.4 a 43.89 UI/L y Kanecko y col. (1997)
+
+rangos normales de 30 a 40 UI/L. Puede observarse que nuestros resultados se
+
+encuentran dentro de los rangos reportados por Medway y col. (1990) lo contrario
+
+ocurre con lo señalado por Kaneko y col. (1997) comparativamente los extremos
+
+inferiores son casi tres veces mayor a los resultados del extremo inferior del
+
+presente trabajo. Del mismo modo, al realizar una comparación con otros autores
+
+como Medway y col. (1990), que publican valores de 5 a 55 UI/L y Zarco y col.
+
+(2002) de 10 a 40 UI/L se observa los resultados del presente estudio se encuentran
+
+dentro de los valores citados por estos autores.
+
+   c) γ-glutamiltransferasa (GGT o γ-GT)
+
+      Los    resultados    encontrados    en    el   presente   trabajo   sobre    ϒ-
+
+glutamiltransferasa (GGT) sérico se encuentran en los anexos 15 y 16, y cuyos
+
+parámetros estadísticos se resumen en la tabla 4.6.
+
+
+
+
+                                                                                   51
+      Tabla 4.6: Actividad GGT (UI/L) en ovinos con y sin fasciolosis crónica,
+
+                    al diagnóstico por el método Stoll modificado.
+
+
+      Estado sanitario       N      Prom. ± E.E.       CV (%)     Valores extremos
+
+      Positivos              15     168.99±6.83 a       17.80        81.45 – 140.12
+
+      Negativos              15      87.52±3.96 b       18.30        28.18_ 55.20
+
+      Total                  30                                      28.18 – 140.12
+
+
+
+
+      La prueba de “t” (anexo 17) demuestra que el promedio de la actividad
+
+enzimática de ϒ-glutamiltransferasa (GGT) estadísticamente es superior en
+
+animales positivos (168.99±6.83UI/L) que en animales negativos (87.52±3.96UI/L).
+
+Como se explicó anteriormente, la GGT aparece aumentada considerablemente
+
+por encima de sus valores normales en una gran variedad de enfermedades que
+
+implican trastornos de la permeabilidad de la membrana celular o necrosis celular
+
+tales como hepatitis, cirrosis biliar, obstrucción de las vías biliares, insuficiencia
+
+renal y tumores cerebrales, así lo corroboran Salgado (1995) y Kraft (1998).
+
+      Igualmente, Doxey (1987) y Gilberto (1993) indican que los valores de GGT
+
+se incrementan intensamente en casos de obstrucción de los conductos biliares por
+
+fibrosis y los parásitos, lo que se debe a un mecanismo de inducción enzimática a
+
+nivel microsomal.
+
+      Por otro lado, Leguía (1988) menciona que estas diferencias se deberían a
+
+los cambios en el nivel de proteínas séricas por efecto de mayor o menor infección
+
+por distomatosis que producen lesiones tisulares. También Salgado (1996);
+
+Benjamín (1991) y Kraft (1998) afirman que los daños hepáticos aumentan
+
+
+
+                                                                                    52
+considerablemente la concentración de GGT. Igualmente Benjamín (1990); Doxey
+
+(1987) y Leguía (1988) dice que los animales afectados con distomatosis están
+
+anémicos y tienen bajos valores de proteínas séricas con modificaciones en la
+
+composición corporal y metabolismo energético, consecuentemente, hay aumento
+
+de la GGT.
+
+      La GGT en ovinos sanos presentó rangos de 28.18 a 55.20 UI/L, con un
+
+promedio de 87.52±3.96 UI/L, dichos resultados son similares a los obtenidos en
+
+ovinos por Smith (1996) que reporta valores de 40 a 94 UI/L, rango en el que se
+
+encuentra el resultado del presente trabajo, pero cuyo límite inferior es
+
+aproximadamente más de dos veces al extremo inferior a los resultados obtenidos
+
+en el presente trabajo. Kanecko y col. (1997) encuentra valores de 20 a 52 UI/L, en
+
+ovinos, rango en el que también se encuentra los resultados del presente estudio.
+
+      La GGT en ovinos con distomatosis hepática fue de 81.45 a 140.12UI/L, con
+
+un promedio de 168.99±6.83 UI/L, es superior comparados a los valores
+
+observados en los ovinos sin fasciolosis (sanos) (p≤0.05). Faria y col. (1996)
+
+realizando un estudio en ovinos infectados experimentalmente con metacercarias
+
+de Fasciola hepático determinaron valores de 19.6 a 32.6 UI/L, en el día 30; 29.5 a
+
+41.6 UI/L, en el día 60 y 40.7 a 87.4 UI/L, en el día 90 pos infección. Como se
+
+observa los valores reportados por Faria y col. (1996) son inferiores sobre los
+
+resultados obtenidos. Doxey (1987) reporta que las concentraciones de GGT en el
+
+suero aumentan en casos avanzados de fasciolosis en forma marcada hasta
+
+niveles superiores a 100 UI/L, sobre todo en la fase que afectan a los conductos
+
+biliares en ovinos, Pezo y col. (2001) menciona rangos de 116.5 UI/L, en alpacas
+
+parasitados con distomatosis. Es de anotar que los valores de GGT reportado por
+
+
+
+
+                                                                                53
+los autores Doxey (1987); Pezo y col. (2001) se hallan ligeramente por debajo de
+
+los límites inferiores de los resultados obtenidos en el presente trabajo.
+
+       Doxey (1987) determinó concentraciones crecientes en animales con daños
+
+en los conductos biliares; además publica valores de 600 UI/L, después de dos días
+
+y 2000 UI/L, después de cuatro semanas realizados en una obstrucción
+
+experimental de conductos biliares de perros. Coles (1968) afirma que a medida
+
+que las enzimas son destruidas en el torrente circulatorio los valores declinarán
+
+rápidamente después que ha pasado la fase de daño agudo, por lo que las
+
+concentraciones de enzimas en el suero muestran las grandes desviaciones
+
+diagnósticas respecto de los normales en la fase aguda de cualquier daño a nivel
+
+del tejido, consideraciones que se aplican a todas las enzimas mencionadas con la
+
+excepción de la GGT, que permanece con valores elevados en ciertas
+
+enfermedades crónicas.
+
+       Faria y col. (1996) mencionan que el pico de la GGT está asociada con el
+
+pico de prepatencia, y el daño del tejido epitelial, causado por la actividad
+
+alimenticia del parasito y con el movimiento de las fasciolas al momento de
+
+establecerse en el interior de los conductos biliares, indicando que pocas
+
+metacercarias en ovejas producen suficiente daño hepático como para incrementar
+
+las concentraciones de las enzimas en el suero sanguíneo. Permaneciendo en
+
+niveles altos mientras las fasciolas se encuentran alojados en los conductos
+
+biliares.
+
+
+
+
+                                                                               54
+                      V.     CONCLUSIONES
+
+
+
+ En vacunos la actividad AST fue de 94.23 y 60.63 UI/L; para ALT de 12.14 y
+
+   7.16 UI/L y para GGT de 110.66 y 43.13 UI/L, en los animales positivos y
+
+   negativos a la técnica de Stoll modificado para el diagnóstico de la
+
+   fasciolosis, respectivamente.
+
+ En ovinos la actividad de la AST fue de 97.13 y 66.01 UI/L; en ALT de 9.52
+
+   y 6.38 UI/L y para GGT de 168.99 y 87.52 UI/L, para los positivos y negativos
+
+   a la técnica de Stoll modificado para el diagnóstico de la fasciolosis,
+
+   respectivamente.
+
+ En todos los casos, la actividad enzimática de los animales positivos a la
+
+   fasciolosis crónica son más elevadas que en los animales negativos
+
+   (P≤0.05), concluyéndose que hay daño estructural y funcional del hígado por
+
+   la presencia de la fasciola, tanto en bovinos y ovinos.
+
+
+
+
+                                                                             55
+                  VI.    RECOMENDACIONES
+
+
+
+ Estudiar el daño hepático en vacunos y ovinos causado por la fasciolosis en
+
+   las diferentes fases del parásito: pre-patente, patente y post-patente.
+
+ Utilizar los resultados del presente estudio como una alternativa en clínica
+
+   veterinaria para el diagnóstico serológico de la fasciolosis crónica en ovinos
+
+   y vacunos.
+
+ Proseguir estudios para evaluar la función y el daño hepático causado por la
+
+   fasciolosis utilizando otros marcadores enzimáticos y bioquímicos.
+
+
+
+
+                                                                              56
+                             VII.   BIBLIOGRAFÍA
+
+Andresen, H. 2009. Disfunción hepática. UNMSM, Lima-Perú.
+
+Balcells, A. 2001. La clínica y el laboratorio. 18ava edición. Editorial Masson.
+
+Becerra, M. 2000. Consideraciones sobre estrategias sostenibles para el control de
+
+     Fasciola hepática en Latinoamérica. Universidad de Pamplona.- Revista
+
+     colombiana de ciencias pecuarias.Vol.14:1,2001.
+
+Benjamim, M. 1991. Manual de patología clínica en veterinaria. Editorial Limusa
+
+     Mexico
+
+Benjamín, M.1991. Manual de patología clínica en veterinaria. 3 ra Edición. Editorial
+
+     Limusa México.
+
+Braunwald, E.; A. Fauci; D. Kasper; S. Hauser; D. Longo. And L. Jameson. 2001
+
+     Harrison's principles of internal medicine. 15th edition. McGraw-Hill, Medical
+
+     Publishing Division.
+
+Burtis, C., E. Ashwood & D. Bruns. 2008. tiezfundametals of clinical chemistry. Sixth
+
+     edition, saunders-elsevierinc.
+
+Bush, B. M. 1982. Manual del laboratorio veterinario de análisis clínicos. Edit
+
+     Acribia, Zaragoza, España.
+
+Carrada-Bravo, T. 2007. Fasciolosis, Diagnóstico, Epidemiologia, y Tratamiento.
+
+     Guanajuato México.
+
+Coles, E. 1968. Patología y diagnóstico veterinario. Primera Edición. Editorial
+
+     Interamericana. S.A. México.
+
+
+
+
+                                                                                   57
+Cordero del Campillo, M. 2002. Parasitología Veterinaria. Primera Edición. Editorial.
+
+     McGraw-hill. Interamericana de España.
+
+Devlin, T. 1997. Textbook of Biochemistry whit Clinical Correlations. Fourth edition.
+
+     Wiley-Liss, Inc.
+
+Doxey, D.L. 1987. Patología Clínica y Procedimientos de Diagnóstico en
+
+     Veterinaria.El Manual Moderno, México, D.F-
+
+Drepper, K. & C.P. Kenberburg. 1984. Activity of some specific enzymes in the
+
+     serum of sheep experimentally infected with Fasciola hepatica. Tieraerztl.
+
+     Umsch.
+
+Dukes, H.H. & M.J. Swenson. 1981. Fisiología de los Animales Domésticos. Cuarta
+
+     edición. Aguilar Editor, S.A., México D.F.
+
+Espinoza, J., A. Terashima, P. Herrera-Velit y L. Marcos. 2010. Fasciolosis humana
+
+     y animal en el Perú: impacto en la economía de las zonas endémicas. Rev
+
+     Peru Med Exp Salud Pública; 27(4): 604-12.
+
+Faria, L., H. Romero, I. Reyna y E. Salcedo. 1995. Tiempo de normalización de los
+
+     niveles de GGT en ovinos con fasciolosis experimental tratados con
+
+     tricabendazol. UNA de México. Revista veterinaria, volume 27.
+
+Faria, S.L.S., R.H. Quiroz, V.F. Ibarra, S.M.R. Sanchez, y E.R. Salcedo. 1996.
+
+     Tiempo de normalización de los niveles gammaglutamil transpeptidasa en
+
+     ovinos con fasciolosis experimental tratados con triclabendazol. Vet. Mexico,
+
+     27:235-239.
+
+Fauci, A., E. Braunwald, D. Kasper, S. Hauser, D. Longo, J. Jameson & J. Loscalzo
+
+     2008. Harrison’s principles of internal medicine. 17th edition. The McGraw-Hill
+
+     Companies, Inc.
+
+                                                                                  58
+Figlio, D., H. Tarpley, K. Latimer and P. Bain. 2004. A Brief Review of Alanine
+
+     Aminotransferase Activity. Class of Department of Pathology, College of
+
+     Veterinary Medicine, University of Georgia, Athens.
+
+Fowler, W., and D. Zinkl. 1989. Reference ranges for hematologic and serum
+
+     biochemical values in Llamas (Lama Glama). Am. Jurnal of veterinary
+
+     research, vol. 50, N 12.
+
+Gilberto, M. 1993. Interpretación clínica del laboratorio. Cuarta Edición. Editorial
+
+     Médica Panamericana Bogotá Colombia.
+
+Giraldo, DM. 2009. Animal Health. Atlantic International University.
+
+Gonzales, J., E. Arilla, M. Rodríguez, y A. Sánchez. 1998. Bioquímica clínica.
+
+     Primera Edición. Editorial Mcgraw- Hill. Interamericana.
+
+Gutierrez, C. 2006. Actividad de las transaminasas glutámico oxaloacetico piruvico
+
+     y gammaglutamil traansferasa en ovinos Corriedale y Criollo del Distrito de
+
+     Checca-Cusco. Tesis – FMVZ – UNA – Puno.
+
+Gutiérrez, A. 2005. Actividad de las transaminasas glutámico oxaloacetico y
+
+     piruvico en vacunos Brown Swiss y criollos. Tesis – FMVZ – UNA – Puno.
+
+Guyton, A. 1988. Tratado de fisiología médica. Séptima Edición. Editorial
+
+     Interamericana México.
+
+Haroun, EM. & MF. Hussein. 1975. Clinic–pathological studies on naturally–
+
+     occurring bovine fascioliasis in the Sudan. J Helminthol.
+
+INEI. 2012. RECUPERADO DE: www inei gob pe censo agropecuario 2012.
+
+John, H. 2000. Diagnóstico y tratamiento clínico por el laboratorio. Novena Edición.
+
+     Editorial Masson. S.A. Barcelona España.
+
+
+                                                                                 59
+Kanecko, J., W. Harveg, and L. Bruss. 1997. Clinical Biochemistry of Domestic
+
+     Animals. Quinta edición, Editorial Academic.
+
+Kraft, H. 1998. Métodos de laboratório clínico de medicina veterinária de mamíferos
+
+     domésticos. Terceira Edición. Editorial Acribia S.A. Zaragoza – España.
+
+Kumar, P. & M. Clarck. 2005. Clinical medicine. Sixth edition. Elsevier-Saunders,
+
+     Inc.
+
+Leguia, G. 1988. Distomatosis hepatica en el Perú, Epidemiologia y Control. Voletin
+
+     informativo IVITA.
+
+Lehninger, A. 1991. Bioquímica. Segunda Edición. Ediciones Omega, Barcelona
+
+     España.
+
+McCurnin, D. 2001. Clinical textbook for veterinary technicians. Quinta Edición.
+
+     Editorial WB Saunder.
+
+Medway, W., James, y E. Prier. 1990. Patología clínica veterinaria. Editorial UTEHA
+
+     México.
+
+Morales, G., L. A. Pino, y L. Rodríguez. 2004. El coprodiagnóstico de tremátodos
+
+     de rumiantes mediante la técnica de Happich-Boray modificada. Parasitología
+
+     al Día.
+
+Moreno, A., L. González, J. Mendoza, L. García-Buey, y R. Moreno. 2007. Utilidad
+
+     de los parámetros analíticos en el diagnóstico de las enfermedades hepáticas.
+
+     An. Med. Interna Madrid.
+
+Morlan, J., A. Duran del Campo, y J. Mari. 1987. Enfermedades de los lanares tomo
+
+     I, Primera edición, editorial agropecuario hemisferio sur S.R.L. Montevideo –
+
+     Uruguay.
+
+
+
+                                                                                60
+Mussart, N.B., y J.A. Coppo. 2009. Indicadores sanguíneos de daño hepático en
+
+     novillos cruza cebú parasitados por Fasciola hepática.Rev. vet
+
+Olaechea, F. 2004. Fasciola hepática. Comunicación Técnica N°449 Área
+
+     Producción Animal.
+
+PDC. 2012. https://es.scribd.com/.../PLAN-DE-DESARROLLOLOCAL-CONCERTADO
+Pezo, D., A. Alvarado, M. Arainga, F. Franco, W. Braga. 2001. Determinacion de
+
+     Gammaglutamil transferasas (GGT) Aspartato transferasas(GOT) y Proteinas
+
+     totales(PT) en alpacas hembras estación experimental IVITA Marangani la
+
+     Raya – FMV – UNMSA – Perú.
+
+Quiroz, R.H. 1993. Impacto económico de la fasciolasis en rumiantes domésticos.
+
+     En: Skewes H, editor. Sistema de Universidad Abierta (S U A). Compendio de
+
+     producción bovina. México, D.F. Facultad de Medicina Veterinaria y
+
+     Zootecnia, Universidad Nacional Autónoma de México, México.
+
+Romero, M. J. 1999. Medicina clínica, Primera edicion, Editorial Sergas Coruña –
+
+     España.
+
+Romero, M.J. 2000. Estudio de la elevación de transaminasas. Disponible en
+
+     www.fisterra.com/ guias2/transaminasas.htm.
+
+Salgado, A. 1995. Manual clínico de pruebas de laboratorio. Editorial
+
+     Mosby/Doyma. Madrid – España.
+
+Salgado, A. M. Vilardel. 1996. Manual químico de pruebas de laboratorio. Editorial
+
+     MOSBY/DOYMA. Madrid – España.
+
+Smith, B. 1996. Medina interna de animales mayores. Segunda Edición. Mosby,
+
+     New York – USA.
+
+
+
+
+                                                                               61
+Sykes, A.R., Coop, R.L. and M.G. Robinson. 1980. Chronic subclinical ovine
+
+     fascioliasisplasmaglutamatedeshidrogenase,gammaglutamyltranspeptidase,
+
+     aspartoaminetransferase activities and their significance as diagnostic aids.
+
+     Res. vet. Sci.
+
+Urquhart, G., J. Armour, J. Duncan, A. Dunn, y F. Jennings. 2001. Parasitología
+
+     veterinaria. Editorial AcribiaS.A. Zaragoza España.
+
+Wilson, D. 2008. Manual of Laboratory & Diagnostic Tests. The McGraw-Hill
+
+     Companies, Inc.
+
+Zapata, W., y H. Fajardo. 1997. Manual de Bioquimica Sanguinea Veterinaria.
+
+Zarco, J., G. Rodríguez, y M. Otero. 2002. El medico interactivo, coordinación
+
+     científica especial en medicina familiar y comunitaria para médicos de
+
+     atención primaria. Madrid – España.
+
+
+
+
+                                                                               62
+ANEXOS
+
+
+
+
+         63
+     ANEXO 1: PROCEDIMIENTO DE DETERMINACIÓN DE ACTIVIDAD ALT
+
+  Reactivos:
+
+  Sustrato ALT: Solución con 200 mM de DL-alanina y 2 mM de -cetoglutarato en
+
+  buffer fosfato 100 mM, pH 7.4.
+
+  Reactivo 2,4-DNFH: Solución conteniendo 1 mmol de 2,4-dinitrofenilhidracina en
+
+  HCl 1 M.
+
+  Diluyente para enzimas concentrado: Solución de NaOH 4 M.
+
+  Estándar: Solución de piruvato de sodio 2 mM.
+
+  Protocolo:
+
+     Elaboración de la curva de calibración y determinación de la ecuación lineal
+
+REACTIVO/PROCEDIMIENTO TUBOS
+                                   Blanco St 1    St 2       St 3    St 4   St 5
+- Standard (mL)                    0,00   0,05    0,10       0,20    0,30   0,40
+- Sustrato ALT (mL)                1,00   0,95    0,90       0,80    0,70   0,60
+- Agua destilada (mL)              0,20   0,20    0,20       0,20    0,20   0,20
+Mezclar.
+Con intervalos de medio minuto entre tubo y tubo, agregar:
+- Reactivo 2,4 DNFH (mL)           1      1       1          1       1      1
+Mezclar.
+Incubar exactamente durante 10 min a 37°C (contados desde el agregado del
+reactivo 2,4-DNFH al primer tubo).
+Manteniendo el intervalo de medio minuto, agregar:
+- Diluyente para enzimas (mL)      10     10      10         10      10     10
+Retirar del baño e inmediatamente mezclar cada tubo por inversión.
+Después de 10 min leer la absorbancia en espectrofotómetro a 505 nm, llevando el
+aparato a 0 con agua destilada. El color es estable por 30 min.
+RESULTADOS
+Absorbancia leída                  0,30   0,32    0,34       0,39    0,44   0,49
+Absorbancia neta                   0,00   0,02    0,04       0,09    0,14   0,19
+Actividad ALT (U/L)                0      9       18         37      56     79
+
+
+
+                                                                                    64
+     Curva de calibración y ecuación para la determinación de la actividad ALT
+
+
+
+  0.14
+                                                    y = 0.0025x - 0.0019
+  0.12                                                   R² = 0.9967
+
+   0.1
+
+  0.08
+
+  0.06
+
+  0.04
+
+  0.02
+
+    0
+         0        10           20            30            40              50          60
+
+
+
+
+             Determinación de la actividad ALT en las muestras de suero
+
+REACTIVO/PROCEDIMIENTO TUBOS
+                                    Blanco    Muestra     Muestra 2 …            Muestra n
+                                              1
+- Sustrato ALT (mL)                 0,5       0,5         0,5              0,5   0,5
+Preincubar en baño maría a 370.5°C por 5 min, luego agregar (cada 30 s)
+- Agua destilada (μL)               100       -.-         -.-              -.-   -.-
+- Suero sanguíneo (μL)              -.-       100         100              100   100
+Mezclar por agitación suave.
+Incubar exactamente durante 30 min a 37°C (contados desde el agregado del agua
+o suero), luego agregar (cada 30 s)
+- Reactivo 2,4-DNFH (mL)            0,5       0,5         0,5              0,5   0,5
+Mezclar suavemente
+Dejar 10 min a 37°C, luego agregar:
+- Diluyente para enzimas (mL)       5         5           5                5     5
+Mezclar por inversión y retirar del baño.
+Después de 2 min leer la absorbancia en espectrofotómetro a 505 nm, llevando a 0
+con agua destilada.
+
+
+
+
+                                                                                            65
+     ANEXO 2: PROCEDIMIENTO DE DETERMINACION DE ACTIVIDAD AST
+
+  Reactivos:
+
+  Sustrato AST: Solución con 100 mM de L-aspartato y 2 mM de -cetoglutarato en
+
+  buffer fosfato 100 mM, pH 7.4
+
+  Reactivo 2,4-DNFH: Solución conteniendo 1 mmol de 2,4-dinitrofenilhidracina en
+
+  HCl 1 M.
+
+  Diluyente para enzimas concentrado: Solución de NaOH 4 M.
+
+  Estándar: Solución de piruvato de sodio 2 mM.
+
+  Protocolo:
+
+  Elaboración de la curva de calibración y determinación de la ecuación lineal
+
+REACTIVO/PROCEDIMIENTO TUBOS
+                                  Blanco   St 1    St 2      St 3    St 4   St 5
+- Standard (mL)                   0,00     0,05    0,10      0,20    0,30   0,40
+- Sustrato AST (mL)               1,00     0,95    0,90      0,80    0,70   0,60
+- Agua destilada (mL)             0,20     0,20    0,20      0,20    0,20   0,20
+Mezclar.
+Con intervalos de medio minuto entre tubo y tubo, agregar:
+- Reactivo 2,4 DNFH (mL)          1        1       1         1       1      1
+Mezclar.
+Incubar exactamente durante 10 min a 37°C (contados desde el agregado del
+reactivo 2,4-DNFH al primer tubo).
+Manteniendo el intervalo de medio minuto, agregar:
+- Diluyente para enzimas (mL)     10       10      10        10      10     10
+Retirar del baño e inmediatamente mezclar cada tubo por inversión.
+Después de 10 min leer la absorbancia en espectrofotómetro a 505 nm, llevando el
+aparato a 0 con agua destilada (el color es estable por 30 min).
+RESULTADOS
+Absorbancia leida                 0,29     0,37    0,40      0,52    0,68   0,94
+Absorbancia neta                  0,00     0,06    0,10      0,23    0,38   0,65
+Actividad GOT (U/L)               0        7       12        28      48     81
+
+
+
+                                                                                   66
+       Curva de calibración y ecuación para la determinación de la actividad AST
+
+
+
+    0.45
+                                                              y = 0.0068x + 0.0089
+     0.4
+                                                                   R² = 0.9993
+    0.35
+
+     0.3
+
+    0.25
+
+     0.2
+
+    0.15
+
+     0.1
+
+    0.05
+
+       0
+           0          10         20             30       40               50           60
+
+
+
+
+               Determinación de la actividad AST en las muestras de suero
+
+REACTIVO/PROCEDIMIENTO                                TUBOS
+                                  Blanco    Muestra 1 Muestra 2 …                Muestra N
+- Sustrato AST (mL)               0,5       0,5      0,5              0,5        0,5
+Preincubar en baño maría a 370.5°C por 5 min, luego agregar (cada 30 s)
+- Agua destilada (μL)             100       -.-      -.-              -.-        -.-
+- Suero sanguíneo (μL)            -.-       100      100              100        100
+Mezclar por agitación suave.
+Incubar exactamente durante 30 min a 37°C (contados desde el agregado del agua o
+suero), luego agregar (cada 30 s)
+- Reactivo 2,4-DNFH (mL)          0,5       0,5      0,5              0,5        0,5
+Mezclar suavemente
+Dejar 10 min a 37°C, luego agregar:
+- Diluyente para enzimas (mL)     5         5        5                5          5
+Mezclar por inversión y retirar del baño.
+Después de 2 min leer la absorbancia en espectrofotómetro a 505 nm, llevando a 0
+con agua destilada.
+
+
+
+                                                                                            67
+   ANEXO 3: PROCEDIMIENTO DE DETERMINACIÓN DE ACTIVIDAD GGT
+
+Reactivos:
+
+Buffer: Solución de glicilglicina 60 mM tamponada con buffer Tris 0.1 M para pH
+
+final 8.2 (a 25°C)
+
+Sustrato GGT: Tubos conteniendo 12 umoles de -glutamil p-nitroanilida y
+
+estabilizantes.
+
+Inhibidor: Solución de HCl 0.6 M conteniendo 0.8 mM de fenol y 1 mM de nitrito de
+
+sodio.
+
+Desarrollador: Solución de NaOH 0.2 N con estabilizador de color
+
+Estándar: Solución de p-nitroanilina, equivalente a 100 U/L de GGT.
+
+Protocolo:
+
+                     Determinación del Factor Colorimétrico (Fc)
+
+      REACTIVO / PROCEDIMIENTO                   TUBOS
+                                                 Blanco       Standard
+      - Sustrato (mL)                            0,6          0,6
+      - Standard (μL)                            -.-          20
+      Mezclar por agitación suave. No es necesario incubar. Luego, agregar:
+      - Inhibidor (mL)                           0,5          0,5
+      - Desarrollador (mL)                       2,5          2,5
+      Mezclar y leer a 500 nm.
+      RESULTADOS
+      - Absorbancia leída                        0,07         0,35
+      - Absorbancia neta                         -.-          0,28
+
+
+
+
+                                                                              68
+         Determinación de la actividad GGT en las muestras
+
+REACTIVO / PROCEDIMIENTO                            TUBOS
+                                                    Blanco      Muestra
+- Sustrato (mL)                                     0.6         0.6
+Preincubar en baño maría a 37°C por 5 min. Luego, agregar:
+- Suero (μL)                                        -.-         20
+Mezclar suavemente. Incubar exactamente por 15 min a 37°C, agregar:
+- Inhibidor (mL)                                    0.5         0.5
+Mezclar y retirar del baño. Luego agregar:
+- Suero (μL)                                        20          -.-
+Exactamente a los 2 min de agregado el inhibidor, adicionar:
+- Desarrollador (mL)                                2.5         2.5
+Mezclar inmediatamente cada tubo con una varilla.
+Leer la absorbancia a 500 nm llevando el aparato a 0 con agua destilada. El
+color de reacción final es estable por 12 horas.
+
+
+
+
+                                                                          69
+ANEXO 4: VALORES DE AST o GOT EN VACUNOS CON Y SIN FASCILOSIS
+
+
+
+             AST o GOT                y = 0.0088x + 0.0037
+                  POSITIVOS                        NEGATIVOS
+    Nº           Blanco = 0.423                  Blanco = 0.423
+          A bruta    A neta AE           A bruta    A neta AE
+    1     0,626      0,203   80,44       0,540      0,117    46,04
+    2     0,658      0,235   93,24       0,538      0,115    45,24
+    3     0,650      0,227   90,04       0,590      0,167    66,04
+    4     0,629      0,206   81,64       0,605      0,182    72,04
+    5     0,634      0,211   83,64       0,569      0,146    57,64
+    6     0,627      0,204   80,84       0,545      0,122    48,04
+    7     0,684      0,261   103,64      0,600      0,177    70,04
+    8     0,718      0,295   117,24      0,588      0,165    65,24
+    9     0,650      0,227   90,04       0,540      0,117    46,04
+    10    0,629      0,206   81,64       0,600      0,177    70,04
+    11    0,676      0,253   100,44      0,605      0,182    72,04
+    12    0,669      0,246   97,64       0,569      0,146    57,64
+    13    0,630      0,207   82,04       0,565      0,142    56,04
+    14    0,702      0,279   110,84      0,591      0,168    66,44
+    15    0,725      0,302   120,04      0,602      0,179    70,84
+          PROM               94,23       PROM                60,63
+          MIN                80,44       MIN                 45,24
+          MAX                120,04      MAX                 72,04
+          D.S.               13,61       D.S.                10,30
+          C.V.               14,44       C.V.                16,99
+
+
+
+
+                                                                     70
+      ANEXO 5: PRUEBA DE “t” PARA AST EN VACUNOS CON Y SIN FASCIOLA
+
+
+
+                Prueba     de
+                                             PRUEBA DE “t” PARA AST o GOT
+                Levene
+                                                                         95%      Confidence
+                                               Sig.   Diferencia Error   Interval   of   the
+                  F      Sig.     t     GL
+                                             (2colas) de medias estándar Difference
+                                                                            Bajo     Alto
+GOT Equal
+    variances 1,101 0,303 7,623 28           0,000   33,60000 4,40757 24,57151 42,62849
+    assumed
+    Equal
+    variances
+                                7,623 26,078 0,000   33,60000 4,40757 24,54144 42,65856
+    not
+    assumed
+
+
+
+
+                                                                                       71
+ANEXOS 6: VALORES DE ALT o GPT EN VACUNOS CON Y SIN FASCILOSIS
+
+
+
+              ALT o GPT               y = 0.0068x + 0.0089
+             POSITIVOS                       NEGATIVOS
+     Nº      Blanco = 0.44                   Blanco = 0.44
+             A bruta   A neta AE             A bruta   A neta AE
+     1       0,529     0,089   11,78         0,500     0,060   7,51
+     2       0,550     0,110   14,87         0,487     0,047   5,60
+     3       0,520     0,080   10,46         0,488     0,048   5,75
+     4       0,525     0,085   11,19         0,496     0,056   6,93
+     5       0,525     0,085   11,19         0,489     0,049   5,90
+     6       0,518     0,078   10,16         0,490     0,050   6,04
+     7       0,548     0,108   14,57         0,505     0,065   8,25
+     8       0,540     0,100   13,40         0,508     0,068   8,69
+     9       0,519     0,079   10,31         0,504     0,064   8,10
+     10      0,523     0,083   10,90         0,487     0,047   5,60
+     11      0,521     0,081   10,60         0,493     0,053   6,49
+     12      0,530     0,090   11,93         0,503     0,063   7,96
+     13      0,524     0,084   11,04         0,502     0,062   7,81
+     14      0,548     0,108   14,57         0,508     0,068   8,69
+     15      0,552     0,112   15,16         0,504     0,064   8,10
+             PROM              12,14         PROM              7,16
+             MIN               10,16         MIN               5,60
+             MAX               15,16         MAX               8,69
+             D.S.              1,84          D.S.              1,17
+             C.V.              15,12         C.V.              16,28
+
+
+
+
+                                                                       72
+ANEXO 7: PRUEBA DE “t” PARA ALT EN VACUNOS CON Y SIN FASCIOLA
+
+
+
+                Prueba de
+                                           t-test for Equality of Means
+                Levene
+                                                                    95% Confidence
+                                        Sig.     Diferencia Error   Interval of the
+                F    Sig. t      Df
+                                        (2colas) de medias estándar Difference
+                                                                          Bajo   Alto
+GPT Equal
+    variances 4,929 ,035 8,872 28       ,000    4,98067     ,56138    3,83073 6,13061
+    assumed
+    Equal
+    variances
+                            8,872 23,713 ,000   4,98067     ,56138    3,82129 6,14004
+    not
+    assumed
+
+
+
+
+                                                                                        73
+ANEXOS 8: VALORES DE GGT POSITIVOS A FASCIOLA EN VACUNOS
+
+
+
+                             POSITIVOS A 37ºc
+F=1158
+Nº   t=0min t=1min t=2min t=3min Δ1          Δ2      Δ3      ΔPROM AE
+1    1,680   1,700   1,890   2,030   0,020   0,190   0,140   0,117   135,10
+2    0,879   0,971   1,077   1,130   0,092   0,106   0,053   0,084   96,89
+3    0,866   0,950   1,028   1,101   0,084   0,078   0,073   0,078   90,71
+4    0,918   1,047   1,090   1,129   0,129   0,043   0,039   0,070   81,45
+5    0,975   1,075   1,215   1,286   0,100   0,140   0,071   0,104   120,05
+6    0,890   0,978   1,056   1,208   0,088   0,078   0,152   0,106   122,75
+7    1,600   1,713   1,875   1,913   0,113   0,162   0,038   0,104   120,82
+8    1,340   1,543   1,607   1,641   0,203   0,064   0,034   0,100   116,19
+9    1,560   1,713   1,875   1,913   0,153   0,162   0,038   0,118   136,26
+10   1,350   1,543   1,607   1,641   0,193   0,064   0,034   0,097   112,33
+11   0,980   1,075   1,215   1,286   0,095   0,140   0,071   0,102   118,12
+12   0,879   0,971   1,077   1,130   0,092   0,106   0,053   0,084   96,89
+13   0,866   0,950   1,028   1,101   0,084   0,078   0,073   0,078   90,71
+14   0,918   1,047   1,090   1,129   0,129   0,043   0,039   0,070   81,45
+15   0,923   1,075   1,215   1,286   0,152   0,140   0,071   0,121   140,12
+     PROMEDIO                                                        110,65
+     MINIMO                                                          81,45
+     MAXIMO                                                          140,12
+     D.S.                                                            19,69
+     C.V.                                                            17,80
+
+
+
+
+                                                                              74
+ANEXOS 9: VALORES DE GGT NEGATIVOS A FASCIOLA EN VACUNOS.
+
+
+
+                            NEGATIVOS a 37ºc
+F=1158
+Nº t=0min t=1min    t=2min t=3min    Δ1      Δ2      Δ3      ΔPROM AE
+1   0,790   0,839   0,875    0,902   0,049   0,036   0,027   0,037   43,23
+2   1,323   1,370   1,399    1,417   0,047   0,029   0,018   0,031   36,28
+3   0,910   0,972   0,995    1,004   0,062   0,023   0,009   0,031   36,28
+4   1,140   1,203   1,239    1,274   0,063   0,036   0,035   0,045   51,72
+5   1,159   1,223   1,262    1,298   0,064   0,039   0,036   0,046   53,65
+6   0,910   0,972   0,995    1,004   0,062   0,023   0,009   0,031   36,28
+7   0,917   0,969   1,040    1,060   0,052   0,071   0,020   0,048   55,20
+8   1,190   1,215   1,280    1,310   0,025   0,065   0,030   0,040   46,32
+9   0,790   0,839   0,875    0,902   0,049   0,036   0,027   0,037   43,23
+10 0,807    0,845   0,860    0,880   0,038   0,015   0,020   0,024   28,18
+11 0,778    0,835   0,872    0,901   0,057   0,037   0,029   0,041   47,48
+12 1,140    1,203   1,239    1,274   0,063   0,036   0,035   0,045   51,72
+13 1,200    1,223   1,262    1,298   0,023   0,039   0,036   0,033   37,83
+14 0,790    0,839   0,875    0,902   0,049   0,036   0,027   0,037   43,23
+15 1,323    1,370   1,399    1,417   0,047   0,029   0,018   0,031   36,28
+    PROM                                                             43,13
+    MIN                                                              28,18
+    MAX                                                              55,20
+    D.S.                                                             7,89
+    C.V.                                                             18,30
+
+
+
+
+                                                                             75
+ANEXO 10: PRUEBA DE “t” PARA GGT EN VACUNOS CON Y SIN FASCIOLA
+
+
+
+                Prueba de
+                Levene    t-test for Equality of Means
+
+                                          Sig.                     95% Confidence
+                                          (2-    Diferenci Error   Interval   of  the
+                                          tailed a      de estanda Difference
+                F      Sig. t      GL     )      medias r          Bajo      Alta
+GG Equal
+T  variance 15,49 ,00 12,32                                         56,3080 78,7493
+                            28            ,000   67,52867 5,47774
+   s        4     0   8                                             3       0
+   assumed
+    Equal
+    variance                12,32 18,38                             56,0376 79,0196
+                                        ,000     67,52867 5,47774
+    s     not               8     6                                 6       7
+    assumed
+
+
+
+
+                                                                                   76
+ANEXO 11: VALORES DE AST o GOT EN OVINOS CON Y SIN FASCILOSIS.
+
+
+
+                   GOT         y = 0.0088x + 0.0037
+                 POSITIVOS                      NEGATIVOS
+         Blanco = 0.423                 Blanco = 0.423
+    Nº
+                                                   A
+         A bruta   A neta AE            A bruta    neta   AE
+    1    0,638     0,215   85,24        0,570      0,147 58,04
+    2    0,736     0,313   124,44       0,620      0,197 78,04
+    3    0,742     0,319   126,84       0,605      0,182 72,04
+    4    0,679     0,256   101,64       0,554      0,131 51,64
+    5    0,644     0,221   87,64        0,616      0,193 76,44
+    6    0,655     0,232   92,04        0,600      0,177 70,04
+    7    0,665     0,242   96,04        0,597      0,174 68,84
+    8    0,628     0,205   81,24        0,616      0,193 76,44
+    9    0,697     0,274   108,84       0,545      0,122 48,04
+    10 0,640       0,217   86,04        0,550      0,127 50,04
+    11 0,645       0,222   88,04        0,570      0,147 58,04
+    12 0,636       0,213   84,44        0,612      0,189 74,84
+    13 0,635       0,212   84,04        0,619      0,196 77,64
+    14 0,719       0,296   117,64       0,554      0,131 51,64
+    15 0,657       0,234   92,84        0,621      0,198 78,44
+         PROM              97,13        PROM              66,01
+         MIN               81,24        MIN               48,04
+         MAX               126,84       MAX               78,44
+         D.S.              15,29        D.S.              11,68
+         C.V.              15,74        C.V.              17,69
+
+
+
+
+                                                                  77
+ ANEXO 12: PRUEBA DE “t” PARA AST EN OVINOS CON Y SIN FASCIOLA
+
+
+
+                Prueba de
+                Levene    t-test for Equality of Means
+                                                                   95% Confidence
+                                         Sig.    Diferenci Error   Interval of the
+                                         (2colas a      de estánda Difference
+                F    Sig.   t    GL      )       medias r          Bajo      Alto
+GO Equal
+T  variance 0,71 0,40 6,26                                          20,9438 41,2961
+                           28            0,000   31,12000 4,96785
+   s        4    5    4                                             2       8
+   assumed
+    Equal
+    variance                6,26 26,18                              20,9119 41,3280
+                                       0,000     31,12000 4,96785
+    s     not               4    3                                  1       9
+    assumed
+
+
+
+
+                                                                                  78
+ANEXO 13: VALORES DE ALT o GPT EN OVINOS CON Y SIN FASCILOSIS
+
+
+
+                    GPT          y = 0.0068x + 0.0089
+                  POSITIVOS                       NEGATIVOS
+     Nº   Blanco = 0.44                   Blanco = 0.44
+          A bruta    A neta AE            A bruta       A neta AE
+     1    0,510      0,070    8,99        0,501         0,061   7,66
+     2    0,520      0,080    10,46       0,485         0,045   5,31
+     3    0,512      0,072    9,28        0,500         0,060   7,51
+     4    0,507      0,067    8,54        0,491         0,051   6,19
+     5    0,515      0,075    9,72        0,487         0,047   5,60
+     6    0,505      0,065    8,25        0,488         0,048   5,75
+     7    0,538      0,098    13,10       0,483         0,043   5,01
+     8    0,505      0,065    8,25        0,490         0,050   6,04
+     9    0,507      0,067    8,54        0,498         0,058   7,22
+     10   0,522      0,082    10,75       0,504         0,064   8,10
+     11   0,510      0,070    8,99        0,484         0,044   5,16
+     12   0,508      0,068    8,69        0,502         0,062   7,81
+     13   0,511      0,071    9,13        0,496         0,056   6,93
+     14   0,515      0,075    9,72        0,487         0,047   5,60
+     15   0,519      0,079    10,31       0,488         0,048   5,75
+          PROM                9,51        PROM                  6,38
+          MIN                 8,25        MIN                   5,01
+          MAX                 13,10       MAX                   8,10
+          D.S.                1,27        D.S.                  1,06
+          C.V.                13,33       C.V.                  16,55
+
+
+
+
+                                                                        79
+ ANEXO 14: PRUEBA DE “t” PARA ALT EN OVINOS CON Y SIN FASCIOLA
+
+
+
+                Prueba   de
+                                              t-test for Equality of Means
+                Levene
+                                                                      95%      Confidence
+                                          Sig.     Diferencia Error   Interval   of   the
+                F    Sig.     t    GL
+                                          (2colas) de medias estándar Difference
+                                                                        Bajo   Alto
+GPT Equal
+    variances 0,000 0,999 7,367 28        0,000    3,13867    ,42607    2,26590 4,01143
+    assumed
+    Equal
+    variances
+                              7,367 27,106 0,000   3,13867    ,42607    2,26460 4,01273
+    not
+    assumed
+
+
+
+
+                                                                                      80
+ANEXOS 15: VALORES DE GGT POSITIVOS A FASCIOLA EN OVINOS.
+
+
+
+                             POSITIVOS A 37°C
+F = 1158
+Nº t=0min t=1min t=2min t=3min Δ1           Δ2      Δ3      ΔPROM AE
+1   0,954   1,065   1,208   1,356   0,111   0,143   0,148   0,134   155,17
+2   1,143   1,310   1,332   1,492   0,167   0,022   0,160   0,116   134,71
+3   1,120   1,254   1,332   1,450   0,134   0,078   0,118   0,110   127,38
+4   1,114   1,312   1,485   1,600   0,198   0,173   0,115   0,162   187,60
+5   0,989   1,239   1,337   1,417   0,250   0,098   0,080   0,143   165,21
+6   1,265   1,526   1,558   1,690   0,261   0,032   0,132   0,142   164,05
+7   0,997   1,203   1,408   1,570   0,206   0,205   0,162   0,191   221,18
+8   1,237   1,375   1,473   1,578   0,138   0,098   0,105   0,114   131,63
+9   1,120   1,342   1,440   1,526   0,222   0,098   0,086   0,135   156,72
+10 0,950    1,048   1,244   1,429   0,098   0,196   0,185   0,160   184,89
+11 1,265    1,526   1,558   1,750   0,261   0,032   0,192   0,162   187,21
+12 0,997    1,203   1,408   1,460   0,206   0,205   0,052   0,154   178,72
+13 1,686    1,836   1,957   2,140   0,150   0,121   0,183   0,151   175,24
+14 1,110    1,342   1,440   1,526   0,232   0,098   0,086   0,139   160,58
+15 0,899    1,048   1,244   1,429   0,149   0,196   0,185   0,177   204,58
+    PROM                                                            168,99
+    MIN                                                             127,38
+    MAX                                                             221,18
+    D.S.                                                            26,47
+    C.V.                                                            15,66
+
+
+
+
+                                                                             81
+     ANEXO 16: VALORES DE GGT NEGATIVOS A FASCIOLA EN OVINOS
+
+
+
+                                NEGATIVOS a 37°C
+F=1158
+Nº    t=0min   t=1min   t=2min t=3min    Δ1      Δ2       Δ3      ΔPROM AE
+1     1,239    1,359    1,403    1,451   0,120   0,044    0,048   0,071   81,83
+2     1,810    1,885    1,972    2,060   0,075   0,087    0,088   0,083   96,50
+3     1,287    1,359    1,403    1,492   0,072   0,044    0,089   0,068   79,13
+4     0,984    1,062    1,130    1,167   0,078   0,068    0,037   0,061   70,64
+5     1,417    1,510    1,640    1,700   0,093   0,130    0,060   0,094   109,24
+6     1,825    1,940    1,567    2,114   0,115   -0,373   0,547   0,096   111,55
+7     1,061    1,131    1,193    1,264   0,070   0,062    0,071   0,068   78,36
+8     1,062    1,140    1,234    1,305   0,078   0,094    0,071   0,081   93,80
+9     1,790    1,885    1,972    2,090   0,095   0,087    0,118   0,100   115,80
+10    1,287    1,359    1,403    1,490   0,072   0,044    0,087   0,068   78,36
+11    0,984    1,062    1,117    1,167   0,078   0,055    0,050   0,061   70,64
+12    1,810    1,885    1,972    2,060   0,075   0,087    0,088   0,083   96,50
+13    1,240    1,359    1,403    1,451   0,119   0,044    0,048   0,070   81,45
+14    0,984    1,062    1,100    1,167   0,078   0,038    0,067   0,061   70,64
+15    1,061    1,131    1,193    1,264   0,070   0,062    0,071   0,068   78,36
+       PROM                                                               87,52
+       MIN                                                                70,64
+       MAX                                                                115,80
+       D.S.                                                               15,34
+       C.V.                                                               17,53
+
+
+
+
+                                                                                   82
+  ANEXO 17: PRUEBA DE “t” PARA GGT EN OVINOS CON Y SIN FASCIOLA
+
+
+
+                Prueba de
+                                          t-test for Equality of Means
+                Levene
+                                                                         95% Confidence
+                                          Sig. Diferenci Error            Interval of the
+                              t    GL   (2colas  a de    estánda            Difference
+                                           )    medias      r
+                F   Sig.                                                  Bajo     Alto
+GG Equal
+T  variance 3,16 0,08 10,31                                         65,2900 97,6526
+                            28          0,000   81,47133 7,89947
+   s        3    6    4                                             0       7
+   assumed
+    Equal
+    variance                10,31 22,45                             65,1080 97,8346
+                                        0,000   81,47133 7,89947
+    s     not               4     4                                 1       5
+    assumed
+
+
+
+
+                                                                                          83
+

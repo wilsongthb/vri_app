@@ -1,0 +1,4276 @@
+           Universidad Nacional del Altiplano
+
+  FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA,
+            ELECTRÓNICA Y SISTEMAS
+
+ESCUELA PROFESIONAL DE INGENIERÍA ELECTRÓNICA
+
+
+
+
+                        TESIS
+
+   “DISEÑO DE UN CONTROLADOR DE PROCESO INDUSTRIAL
+  UTILIZANDO CONTROLADORES LÓGICO PROGRAMABLES DE
+SIEMENS/SIMATIC-S7 INTERACTUANDO CON LA PLANTA VIRTUAL
+              ITS Y MONITORIZACIÓN SCADA”
+
+
+                   PRESENTADO POR:
+
+                MATEO QUISPE QUISPE
+
+ PARA OPTAR EL TÍTULO PROFESIONAL DE: INGENIERO
+                  ELECTRÓNICO
+
+
+                   PUNO     - PERÚ
+                          2014
+                  Universidad Nacional del Altiplano
+ FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA, ELECTRÓNICA Y SISTEMAS
+
+           ESCUELA PROFESIONAL DE INGENIERÍA ELECTRÓNICA
+
+
+“DISEÑO DE UN CONTROLADOR DE PROCESO INDUSTRIAL UTILIZANDO
+ CONTROLADORES LÓGICO PROGRAMABLES DE SIEMENS/SIMATIC-S7
+  INTERACTUANDO CON LA PLANTA VIRTUAL ITS Y MONITORIZACIÓN
+                          SCADA”
+
+                       TESIS PRESENTADA POR:
+                        MATEO QUISPE QUISPE
+              PARA OPTAR EL TÍTULO PROFESIONAL DE:
+                    INGENIERO ELECTRÓNICO
+
+
+         APROBADA POR EL JURADO REVISOR CONFORMADO POR:
+
+
+PRESIDENTE              :__________________________________________
+                         M.Sc. Ing. GUIDO HUMBERTO CAYO CABRERA
+
+
+
+PRIMER MIEMBRO          :__________________________________________
+                              M.Sc. Ing. IVAN DELGADO HUAYTA
+
+
+
+SEGUNDO MIEMBRO         :__________________________________________
+                                 Ing. EDDY TORRES MAMANI
+
+
+
+DIRECTOR                :__________________________________________
+                           Mg. Ing. MARCO ANTONIO QUISPE BARRA
+
+
+
+ASESOR                  :__________________________________________
+                              M.Sc. Ing. DAVID SALINAS MENDOZA
+
+
+
+ ÁREA: Automatización e instrumentación
+ TEMA: Instrumentación y control de procesos
+    AGRADECIMIENTO
+
+
+
+
+             El   agradecimiento   profundo   a   los
+
+docentes de la universidad por todo apoyo que me
+
+brindaron para lograr este proyecto.
+DEDICATORIA
+
+
+
+
+          Dedicado     a mi familia que
+
+    siempre estuvo a mi lado y a todos mis
+
+    amigos.
+                                                             ÍNDICE
+
+AGRADECIMIENTO ..................................................................................................... 3
+
+DEDICATORIA ............................................................................................................. 4
+
+ÍNDICE .......................................................................................................................... 5
+
+ÍNDICE DE FIGURAS ................................................................................................... 8
+
+ÍNDICE DE TABLAS ................................................................................................... 11
+
+ÍNDICE DE GRAFICOS .............................................................................................. 12
+
+RESUMEN .................................................................................................................. 13
+
+ABSTRACT ................................................................................................................ 14
+
+INTRODUCCIÓN ........................................................................................................ 15
+
+1             CAPITULO I ................................................................................................ 17
+
+1.1           DESCRIPCIÓN DEL PROBLEMA............................................................... 18
+
+1.2           JUSTIFICACIÓN DEL PROBLEMA ............................................................ 18
+
+1.3           OBJETIVOS DE LA INVESTIGACIÓN ........................................................ 19
+
+1.3.1         OBJETIVOS GENERALES ......................................................................... 19
+
+1.3.2         OBJETIVOS ESPECÍFICOS ....................................................................... 19
+
+2             CAPITULO II ............................................................................................... 20
+
+2.1           ANTECEDENTES DE LA INVESTIGACIÓN ............................................... 21
+
+2.2           CONTROL DE PROCESOS INDUSTRIALES ............................................. 21
+
+2.2.1         PROCESOS INDUSTRIALES ..................................................................... 21
+
+2.2.2         TIPOS DE PROCESOS INDUSTRIALES .................................................... 23
+
+2.2.3         CONTROL DE PROCESOS INDUSTRIALES ............................................. 29
+
+2.3           CONTROLADORES LOGICO PROGRAMABLES SIMATIC S7-300 .......... 31
+
+2.3.1         CARACTERÍSTICAS GENERALES DEL SOFTWARE STEP 7 ................. 32
+
+2.3.2         LENGUAJE SIMATIC S7-GRAPH .............................................................. 35
+
+2.4           PLANTA VIRTUAL ITS-PLC ....................................................................... 40
+
+2.4.1         ITS-PLC PROFESSIONAL EDITION........................................................... 40
+2.4.2   ITS-PLC MHJ EDITION ............................................................................... 43
+
+2.4.3   SISTEMAS DEL ITS-PLC MHJ EDITION .................................................... 45
+
+2.4.4   WINPLC ENGINE ........................................................................................ 48
+
+2.5     SISTEMAS SCADA ..................................................................................... 48
+
+2.5.1   CONCEPTOS GENERALES ....................................................................... 49
+
+2.5.2   ESTRUCTURAS DE UN SISTEMA SCADA................................................ 50
+
+2.5.3   GUIA DE DISEÑO DE SISTEMA SCADA ................................................... 53
+
+2.5.4   SIMATIC WINCC ......................................................................................... 74
+
+2.6     HIPÓTESIS DE LA INVESTIGACIÓN ......................................................... 78
+
+2.6.1   HIPÓTESIS GENERAL ............................................................................... 78
+
+2.6.2   HIPÓTESIS ESPECÍFICO ........................................................................... 78
+
+2.7     OPERACIONALIZACIÓN DE VARIABLES................................................. 78
+
+3       CAPITULO III .............................................................................................. 79
+
+3.1     TIPOS Y DISEÑO DE INVESTIGACIÓN ..................................................... 80
+
+3.2     POBLACIÓN Y MUESTRA DE INVESTIGACIÓN ....................................... 80
+
+3.3     UBICACIÓN Y DESCRIPCIÓN DE LA POBLACIÓN .................................. 80
+
+3.3.1   CARACTERÍSTICAS GEOGRÁFICAS ....................................................... 80
+
+3.3.2   CARACTERÍSTICAS DEMOGRÁFICAS ..................................................... 81
+
+3.3.3   CARACTERÍSTICAS ECONÓMICAS ......................................................... 82
+
+3.3.4   POBLACIÓN BENEFICIADA ...................................................................... 83
+
+3.4     TÉCNICAS E INSTRUMENTOS PARA RECOLECTAR INFORMACIÓN ... 83
+
+3.5     TÉCNICAS PARA EL PROCESAMIENTO Y ANÁLISIS DE DATOS .......... 84
+
+4       CAPITULO IV .............................................................................................. 85
+
+4.1     DESCRIPCIÓN GENERAL DEL PROYECTO ............................................. 86
+
+4.2     DESCRIPCION DEL PROCESO MEZCLADOR DE PINTURA ................... 87
+
+4.3     PROGRAMACION DEL PLC S7-300 .......................................................... 92
+
+4.3.1   PROGRAMA S7-STEP7 .............................................................................. 93
+
+4.3.2   PROGRAMA S7-GRAPH ............................................................................ 94
+4.3.3         PROGRAMA S7-SCL. ................................................................................. 96
+
+4.4           MONITORIZACION DE SISTEMA SCADA ................................................. 99
+
+4.4.1         PANTALLA DE INICIO .............................................................................. 100
+
+4.4.2         PANTALLA DE SELECCIÓN DE COLORES............................................ 101
+
+4.4.3         PANTALLAS SECUNDARIAS .................................................................. 102
+
+CONCLUSIONES ..................................................................................................... 107
+
+SUGERENCIAS ........................................................................................................ 108
+
+BIBLIOGRAFÍA ........................................................................................................ 109
+
+ANEXO 1 .................................................................................................................. 110
+
+ANEXO 2 .................................................................................................................. 112
+
+ANEXO 3 .................................................................................................................. 113
+
+ANEXO 4 .................................................................................................................. 114
+                                       ÍNDICE DE FIGURAS
+
+FIGURA Nº 1: TRIÁNGULO DE INSTRUMENTACIÓN. .............................................22
+
+FIGURA Nº 2: NIVELES DEL TRIÁNGULO DE INSTRUMENTACIÓN. .....................22
+
+FIGURA Nº 3: DIAGRAMA DE PROCESO CONTINUO.............................................24
+
+FIGURA Nº 4: LAZO DE CONTROL ABIERTO. .........................................................25
+
+FIGURA Nº 5: LAZO DE CONTROL CERRADO. .......................................................26
+
+FIGURA Nº 6: PROCESO DISCRETO. ......................................................................28
+
+FIGURA Nº 7: PROCESO POR LOTES. ....................................................................29
+
+FIGURA Nº 8: PLC SIMATIC S7. SIEMENS...............................................................32
+
+FIGURA Nº 9: LENGUAJES DE PROGRAMACIÓN STL, FBD Y LAD ......................33
+
+FIGURA Nº 10: LENGUAJE S7_SCL SIEMEMS........................................................33
+
+FIGURA Nº 11: LENGUAJE S7_GRAPH SIEMENS. .................................................34
+
+FIGURA Nº 12: S7_GRAPH ETAPA CUALQUIERA. .................................................36
+
+FIGURA Nº 13: S7_GRAPH ETAPA INICIAL. ............................................................36
+
+FIGURA Nº 14: REPRESENTACIÓN DE LAS ETAPAS Y TRANSICIONES. ............37
+
+FIGURA Nº 15: TRANSICIONES ENTRE ETAPAS CON NUDOS O. ........................38
+
+FIGURA Nº 16: DISTINTAS TRANSICIONES CON NUDOS O. ................................39
+
+FIGURA Nº 17: REPRESENTACIÓN DE UN FIN DE CADENA. ................................40
+
+FIGURA Nº 18: PLANTA VIRTUAL ITS-PLC. ............................................................41
+
+FIGURA Nº 19: CONEXIÓN ITS-PLC CON PLC. .......................................................42
+
+FIGURA Nº 20: SOFTWARE ITS PLC MHJ EDITION. ...............................................44
+
+FIGURA Nº 21: CLASIFICADOR. ...............................................................................45
+
+FIGURA Nº 22: PROCESAMIENTO POR LOTES. .....................................................46
+
+FIGURA Nº 23: PALETIZADOR. ................................................................................46
+
+FIGURA Nº 24: PICK AND PLACE. ...........................................................................47
+
+FIGURA Nº 25: ALMACÉN AUTOMÁTICO. ...............................................................48
+
+FIGURA Nº 26: WINPLC-ENGINE. .............................................................................48
+FIGURA Nº 27: SISTEMA SCADA. ............................................................................49
+
+FIGURA Nº 28: ESTRUCTURA DE SISTEMA SCADA. .............................................51
+
+FIGURA Nº 29: ESTRUCTURA DE UN SISTEMA DE SUPERVISIÓN. .....................52
+
+FIGURA Nº 30: LOGOTIPO DE ISA. ..........................................................................54
+
+FIGURA Nº 31: FORMACIÓN DE IMAGEN EN LA RETINA. .....................................58
+
+FIGURA Nº 32: RUEDA DE COLORES......................................................................59
+
+FIGURA Nº 33: ESPECTRO ELECTROMAGNÉTICO................................................61
+
+FIGURA Nº 34: EFECTO DEL COLOR DE FONDO (GRIS, BLANCO, AZUL). .........62
+
+FIGURA Nº 35: INFORMACIÓN CROMÁTICA ANTIGUA. ........................................64
+
+FIGURA Nº 36 INFORMACIÓN POR COLOR. ...........................................................66
+
+FIGURA Nº 37: INFORMACIÓN POR COLOR Y COMPLEMENTO...........................67
+
+FIGURA Nº 38: CONTROL DE PRESIÓN. .................................................................70
+
+FIGURA Nº 39: CLASIFICACIÓN POR PRIORIDAD. ................................................71
+
+FIGURA Nº 40: CARACTERÍSTICAS GEOGRÁFICAS DE PUNO. ...........................81
+
+FIGURA Nº 41: PROCESAMIENTO DE MEZCLADOR DE PINTURA. ......................87
+
+FIGURA Nº 42: MEZCLADOR DE PINTURA, DIRECCIÓN DEL PROCESO. ............88
+
+FIGURA Nº 43: UBICACIÓN DE SENSORES PARA LOS TAMQUES. .....................89
+
+FIGURA Nº 44: COMBINACIÓN DE LOS COLORES PRIMARIOS. ..........................89
+
+FIGURA Nº 45: UBICACIÓN DE SENSORES, VISTA FRONTAL. .............................90
+
+FIGURA Nº 46: UBICACIÓN DE SENSORES, VISTA DE ARRIBA. ..........................90
+
+FIGURA Nº 47: UBICACIÓN DE ACTUADORES, VISTA FRONTAL. .......................91
+
+FIGURA Nº 48: UBICACIÓN DE ACTUADORES, VISTA DE ARRIBA. .....................91
+
+FIGURA Nº 49: PLC SIMATIC S7-300 DE SIEMENS. ................................................92
+
+FIGURA Nº 50: SIMATIC MANAGER DE STEP7. ......................................................93
+
+FIGURA Nº 51: HW-CONFIG DE STEP7....................................................................93
+
+FIGURA Nº 52: GRAFCET DE PRIMER NIVEL. ........................................................94
+
+FIGURA Nº 53: GRAPCET DE SEGUNDO NIVEL. ....................................................95
+
+FIGURA Nº 54: GRAPCET DE SEGUNDO NIVEL CONTINUACIÓN. ........................95
+FIGURA Nº 55: PROGRAMA OB1 KOP.....................................................................98
+
+FIGURA Nº 56: PROGRAMA OB1 CONTINUACIÓN. ................................................99
+
+FIGURA Nº 57: VARIABLES DEL WINCC. ................................................................99
+
+FIGURA Nº 58: PANTALLAS DEL WINCC. .............................................................100
+
+FIGURA Nº 59: PANTALLAS DEL WINCC FIGURAS. ............................................100
+
+FIGURA Nº 60: PANTALLA DE INICIO. ...................................................................101
+
+FIGURA Nº 61: PANTALLA SECUNDARIA, SELECCIÓN DE COLORES. .............101
+
+FIGURA Nº 62: PANTALLA DE MEZCLADOR. .......................................................102
+
+FIGURA Nº 63: PANTALLA DE TAMQUE. ..............................................................103
+
+FIGURA Nº 64: WINPLC ENGINE. ...........................................................................103
+
+FIGURA Nº 65: CONFIGURACIÓN DEL WINPLC-ENGINE.....................................104
+
+FIGURA Nº 66: PANTALLA PRINCIPAL RUNTIME. ...............................................104
+
+FIGURA Nº 67: PANTALLA SECUNDARIO RUNTIME............................................105
+
+FIGURA Nº 68: ITC_PLC EN MODO AUTOMÁTICO. ..............................................105
+
+FIGURA Nº 69: DESCARGA DEL COLOR MESCLADO. ........................................106
+                                      ÍNDICE DE TABLAS
+
+TABLA Nº 1: REQUISITOS ITS PLC PROFESSIONAL. ............................................ 43
+
+TABLA Nº 2: REQUISITOS DEL SISTEMA. .............................................................. 45
+
+TABLA Nº 3: COLORES SEGÚN ESTADO. .............................................................. 65
+
+TABLA Nº 4: COLORES SEGÚN CAMPO DE TRABAJO. ........................................ 66
+
+TABLA Nº 5: COLORES SEGÚN CONVENCIONES. ................................................ 68
+
+TABLA Nº 6: NIVELES DE PRIORIDAD. ................................................................... 72
+
+TABLA Nº 7: OPERACIONALIZACIÓN DE VARIABLES. ......................................... 78
+
+TABLA Nº 8: TÉCNICAS PARA RECOLECCIÓN DE DATOS. .................................. 83
+
+TABLA Nº 9: PROCESAMIENTO Y ANÁLISIS DE DATOS. ...................................... 84
+
+TABLA Nº 10: TABLA DE DESCRIPCIÓN DE ACTUADORES. ................................ 91
+                                  ÍNDICE DE GRAFICOS
+
+GRAFICO Nº 1: ZONAS DE VISIÓN. ......................................................................... 63
+
+GRAFICO Nº 2: DIAGRAMA DE BLOQUES LÍNEA VULCANIZADA. ....................... 73
+                                         RESUMEN
+
+El proyecto de investigación tiene como finalidad entender cómo realizar un
+
+controlador de procesos industriales trabajando desde el nivel de campo hasta
+
+el nivel de visualización, este proyecto es una aproximación a la
+
+implementación ya que será simulado. Al tener un proceso industrial se realiza
+
+un estudio profundo del proceso en este caso el sistema mezclador de colores
+
+de pintura proceso simulado mediante el software ITS-PLC(Sistema de
+
+Capacitación Interactiva para PLCs) que consta de un proceso de tuberías,
+
+tanques, válvulas, finales de carrera y bombas eléctricos, para mezclar los
+
+colores básicos de pintura; rojo, verde y azul a diecinueve colores derivados de
+
+estos colores básicos para su posterior distribución todo en un entorno de
+
+simulación de esta planta virtual. El diseño del sistema de control que para este
+
+sistema será un control secuencial, donde la programación del PLC será con el
+
+software de la marca siemens utilizando lenguajes de programación básicos
+
+como el KOP y lenguajes de programación avanzados como el S7-GRAPH
+
+(programación para procesos secuenciales) y S7-SCL (programación de texto
+
+estructurado). El diseño del monitoreo, o sistema SCADA (Supervisión, Control
+
+y Adquisición de Datos) para la visualización de las variables de sensores y
+
+actuadores, visualización de señales de control. Se mostrara la simulación del
+
+sistema mezclador de pintura con son el software ITS-PLC así como la
+
+simulación del sistema de control PLC siemens SIMATIC s7-300 junto con el
+
+monitoreo, sistema SCADA.
+
+Palabras Claves: Proceso industrial, PLC, SCADA, planta virtual.
+
+
+
+
+                                                                              13
+                                   ABSTRACT
+
+The research project aims to understand how to perform a driver of industrial
+
+processes working from the field level to the display level, this project is an
+
+approach to implementation as it will be simulated. By having an industrial
+
+process a thorough study of the process is done in this case the mixing system
+
+paint colors simulated process by ITS-PLC (Interactive Training System for
+
+PLC) software consisting of a process of pipes, tanks, valves, limit switches and
+
+electric pumps, mixing the basic colors of paint; red, green and blue to nineteen
+
+colors derived from these basic colors for distribution all in a simulation
+
+environment of this virtual plant. The design of control system for this system
+
+will be a sequential control where PLC programming software is the siemens
+
+brand using basic programming languages such as LAD and advanced
+
+programming languages such as S7-GRAPH (programming processes
+
+sequential) and S7-SCL (structured text programming). The design of
+
+monitoring or SCADA (Supervisory Control and Data Acquisition) for displaying
+
+variables sensors and actuators, display control signals. Simulation paint mixing
+
+system is ITS-PLC software simulation and control system Siemens S7-300
+
+PLC with the monitoring, SCADA system is displayed.
+
+
+Keywords: Industrial Process, PLC, SCADA, virtual plant.
+
+
+
+
+                                                                              14
+                                 INTRODUCCIÓN
+
+El diseño de los controladores de procesos industriales es esencial para los
+
+proceso de control debido al crecimiento de las industrias en el país es
+
+necesario el conocimiento y dominio del diseño de los controladores de
+
+procesos industriales ya que se encuentran en las diferentes ramas como en
+
+procesos químicos, farmacéuticos, en la industria de cemento, en minería,
+
+gaseoducto, etc.
+
+
+El proyecto de investigación está organizado por cuatro capítulos. El primer
+
+capítulo aborda la descripción del problema, justificación del problema y los
+
+objetivos planteados para la investigación.
+
+
+El capítulo segundo se dedica al marco teórico a la describir en profundidad
+
+los sistemas control secuencial, los controladores lógicos programables PLC,
+
+diseño de sistemas de control secuencial y descripción del diseño de sistemas
+
+SCADA.
+
+
+En el capítulo tercero se describe las metodologías de investigación usadas en
+
+el desarrollo de la tesis, así como la descripción de la delimitación del área de
+
+investigación respectivamente.
+
+
+En el capítulo cuarto se aborda la ingeniería del proyecto se realiza un estudio
+
+profundo del proceso en este caso el sistema mezclador de colores de pintura,
+
+este proceso es simulado mediante el software ITC-PLC, así como el diseño
+
+del sistema de control secuencial, donde la programación del PLC será con el
+
+software STEP7 v5.5 ps3 utilizando lenguajes de programación básicos como
+
+el KOP y lenguajes de programación avanzados como el S7-GRAPH
+
+(programación para procesos secuenciales) y S7-SCL(programación de texto
+
+                                                                              15
+estructurado),El diseño del monitoreo, o sistema SCADA (wincc v7.0) para la
+
+visualización dela variables de sensores y actuadores, visualización de señales
+
+de control.
+
+
+     .
+
+
+
+
+                                                                            16
+         1 CAPITULO I
+
+
+
+PLANTEAMIENTO DEL PROBLEMA DE
+
+        INVESTIGACIÓN
+
+
+
+
+                                17
+1.1   DESCRIPCIÓN DEL PROBLEMA
+
+      Los controladores industriales basados en PLC existen en todas las
+
+plantas industriales del país y del mundo debido a que son años de
+
+investigación hecho por los expertos con experiencia en el campo de procesos
+
+industriales. Es necesario conocer el diseño y programación de los PLC, es
+
+por esto que esta investigación se utiliza los PLC como sistemas de control
+
+para la planta virtual ITS-PLC software que simula un procesos industrial de
+
+mezclado de pintura de los colores básico rojo, verde y azul a 19 colores
+
+derivados de las combinación de estos colores básicos, el controlador es un
+
+control secuencial debido a la naturales del proceso ya que las variables son
+
+discreto en su totalidad, la programación del controlador se realizó con las
+
+herramientas que brinda SIEMENS        como el Step7 donde se utiliza el S7-
+
+GRAPH para la programación del controlador secuencial, Así como el 7-SCL
+
+para a programación especifico de selección de colores debido a que más
+
+sencillo realizarlo en esta programación que en los otros tipos de programación
+
+como es el KOP.
+
+
+      Para la visualización y monitoreo del proceso se utiliza en WinCC de la
+
+marca SIEMENS el cual muestra las variables de procesos así como su
+
+registro.
+
+
+1.2   JUSTIFICACIÓN DEL PROBLEMA
+
+       La constante evolución tecnológica en el ámbito industrial ha obligado la
+
+modernización de muchas empresas con la finalidad de mantener y mejorar su
+
+productividad. Este índice está en función de varios parámetros entre los
+
+cuales se encuentra los Sistemas de Automatización basados PLC´s. Los
+
+controladores lógico programables PLC son el cerebro del sistema de control
+
+                                                                             18
+por ende es necesario el conocimiento profundo del diseño y la programación
+
+de estos controladores, utilizando herramientas adecuadas como en este caso
+
+son los PLC de la marca siemens debido al alto creciente de la demanda de
+
+estos equipos así también como la facilidad que brinda para hacer simulación
+
+esenciales para casos de investigación como es este caso.                 Los procesos
+
+industriales son diversos como son los procesos secuenciales donde las
+
+variables de procesos son discretos el software ITS-PLC nos brinda la
+
+posibilidad de simular este tipo de procesos brindando la visualización casi real
+
+del proceso.
+
+
+          En la industria es necesario el poder visualizar las diversas variables del
+
+proceso además de poder manipularlas y tener registro de las variables para
+
+esta situación es necesario utilizar los sistemas SCADA hay diversas marcas
+
+en el mercado pero por la facilidad que brinda SIEMENS para la simulación se
+
+utilizó el software WinCC de la marca SIEMENS.
+
+
+1.3       OBJETIVOS DE LA INVESTIGACIÓN
+
+
+1.3.1 OBJETIVOS GENERALES
+
+          Diseñar un controlador de procesos industriales.
+
+
+1.3.2 OBJETIVOS ESPECÍFICOS
+
+          Diseñar un controlador industrial secuencial con los controladores lógico
+
+           programable de SIEMENS/SIMATIC-S7.
+
+          Estudiar el proceso industrial de la planta virtual ITC-PLC.
+
+          Diseñar la monitorización del sistema SCADA.
+
+
+
+
+                                                                                   19
+2 CAPITULO II
+
+
+
+MARCO TEÓRICO
+
+
+
+
+                20
+2.1       ANTECEDENTES DE LA INVESTIGACIÓN
+
+          “Control y monitoreo SCADA de un proceso experimental, utilizando PLC
+
+           Siemens s7-300 y software LABVIEW”, Jorge Calderón Mendoza, 2009
+
+           UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO.
+
+          “Diseño y construcción de un módulo de laboratorio para simulación y
+
+           automatización de procesos industriales mediante un autómata, panel
+
+           operador, software SCADA y un prototipo fabril a escala”, López
+
+           Telenchana Luis Stalin, 2012 ESCUELA SUPERIOR POLITECNICA DE
+
+           CHIMBORAZO.
+
+          “Diseño e implementación de un sistema SCADA para el modulo banda
+
+           transportadora del laboratorio de neumática en la U.P.S. Quito”,
+
+           Christian    Homero     Robalino    Bonifaz,      2007   UNIVERSIDAD
+
+           POLITECNICA SALESIANA SEDE QUITO.
+
+          Automatización: Problemas resueltos con autómatas programables 4Ed,
+
+           J.   Pedro    Romera,    J.   Antonio   Lorite,    Sebastián   Montdro,
+
+           2007.Iinternational Thomson Editor Spain Paraninfo.
+
+          Sistemas Scada 2Ed - Aquilino Rodríguez Penin, 2007. Marcombo
+
+           Ediciones Técnicas.
+
+
+2.2       CONTROL DE PROCESOS INDUSTRIALES
+
+
+2.2.1 PROCESOS INDUSTRIALES
+
+          Un proceso de fabricación, también denominado proceso industrial,
+
+manufactura o producción, es el conjunto de operaciones necesarias para
+
+modificar las características de las materias primas. Dichas características
+
+pueden ser de naturaleza muy variada tales como la forma, la densidad, la
+
+
+
+                                                                               21
+resistencia, el tamaño o la estética. Se realizan en el ámbito de la industria.
+
+
+
+En la inmensa mayoría de los casos, para la obtención de un determinado
+
+producto serán necesarias multitud de operaciones individuales de modo que,
+
+dependiendo de la escala de observación, puede denominarse proceso tanto al
+
+conjunto de operaciones desde la extracción de los recursos naturales
+
+necesarios hasta la venta del producto como a las realizadas en un puesto de
+
+trabajo con una determinada máquina-herramienta.
+
+
+
+
+     FIGURA Nº 1: triángulo de instrumentación.
+
+
+
+
+     FIGURA Nº 2: Niveles del triángulo de instrumentación.
+
+     Fuente: Sistemas Scada 2Ed - Aquilino Rodríguez, 2007. Marcombo.
+
+
+                                                                             22
+2.2.2 TIPOS DE PROCESOS INDUSTRIALES
+
+       Los procesos industriales, en función de su evolución con el tiempo,
+
+pueden clasificarse en alguno de los siguientes grupos:
+
+
+       Continuos.
+
+       Discretos.
+
+       Discontinuos o por lotes.
+
+
+       Tradicionalmente, el concepto de automatización industrial se ha ligado al
+
+estudio y aplicación de los sistemas de control empleados en los procesos
+
+discontinuos y los procesos discretos, dejando los procesos continuos a
+
+disciplinas como regulación o servomecanismos.
+
+
+       Este criterio es el que se ha seguido en esta investigación donde todos
+
+los problemas están basados en procesos discontinuos o por lotes, controlados
+
+por un controlador secuencial síncrono como es el autómata programable. No
+
+obstante haremos a continuación una descripción sobre los diferentes tipos de
+
+procesos y los sistemas de control que pueden emplearse en ellos.
+
+
+
+
+2.2.2.1       PROCESOS CONTINUOS
+
+       Las operaciones continuas son aquellas en las que la materia prima, los
+
+productos intermedios y finales son fluidos y son procesados de manera
+
+continua por un largo período de tiempo, en ocasiones por años, sin paro
+
+alguno. En lugar de la tecnología de productos, la tecnología de procesos
+
+regularmente es la llave para el éxito de la economía. Ejemplo de este tipo de
+
+operaciones se encuentran en industrias como la química, la petrolera y la
+
+
+
+                                                                              23
+energética. Un ejemplo típico de proceso continuo puede ser un sistema de
+
+calefacción para mantener una temperatura constante en una determinada
+
+instalación industrial. La materia prima es el aire frío y la salida el aire
+
+templado, conforme el aire de va calentando la entrada y la salida se va
+
+modificando hasta que llega a una estabilización, a partir de este momento, el
+
+consumo de gas decae hasta un mínimo, que dependerá de las pérdidas de
+
+calor.
+
+
+
+
+     FIGURA Nº 3: diagrama de proceso continuo.
+
+
+
+
+     El sistema de control consta de un comparador que proporciona una
+
+señal de error igual a la diferencia entre la temperatura deseada y la
+
+temperatura que realmente existe; la señal de error se aplica al regulador que
+
+adaptará y    amplificará    la señal que ha de controlar la electroválvula que
+
+permite el paso de gas hacia el quemador de la caldera.
+
+
+     A la vista de la instalación se destacan dos características propias de los
+
+sistemas continuos:
+
+
+                                                                             24
+        El proceso se realiza durante un tiempo relativamente largo, requiere un
+
+         período de arranque y cuando se detiene su parada no es instantánea,
+
+         sino que requiere un tiempo de parada total.
+
+        Las variables empleadas en el proceso y sistema de control son de tipo
+
+         analógico; dentro de unos límites determinados las variables pueden
+
+         tomar infinitos valores.
+
+
+        Hay dos formas básicas de realizar el control de un proceso industrial
+
+continuos.
+
+2.2.2.1.1        CONTROL A LAZO ABIERTO
+
+        El control en lazo abierto (figura 4), se caracteriza porque la información o
+
+variables que controlan el proceso circulan en una sola dirección, desde el
+
+sistema de control al proceso. El sistema de control no recibe la confirmación
+
+de que las acciones que a través de los actuadores ha de realizar sobre el
+
+proceso se han ejecutado correctamente.
+
+
+
+
+        FIGURA Nº 4: Lazo de control abierto.
+
+
+
+
+                                                                                  25
+2.2.2.1.2      CONTROL A LAZO CERRADO
+
+      El control en lazo cerrado (figura 5), se caracteriza porque existe una
+
+realimentación a través de los sensores desde el proceso hacia el sistema de
+
+control, que permite a este último conocer si las acciones ordenadas a los
+
+actuadores se han realizado correctamente sobre el proceso.
+
+
+      La mayoría de procesos existentes en la industria utilizan el control en
+
+lazo cerrado, bien, porque el producto que se pretende obtener o la variable
+
+que se controla necesita un control continuo en función de unos determinados
+
+parámetros de entrada, o bien, porque el proceso a controlar se subdivide en
+
+una serie de acciones elementales de tal forma que, para realizar una
+
+determinada acción sobre el proceso, es necesario que previamente se hayan
+
+realizado otra serie de acciones elementales.
+
+
+
+
+      FIGURA Nº 5: Lazo de control cerrado.
+
+
+
+
+                                                                           26
+2.2.2.2       PROCESOS DISCRETOS
+
+       Las operaciones discretas son aquellas en las que se produce un
+
+producto a la vez, como los automóviles, refrigeradores, aviones, barcos, etc.
+
+Estos procesos utilizan una línea de ensamblaje donde el producto se mueve a
+
+través de las diferentes unidades de operación o el producto puede
+
+permanecer de manera estacionaria con diferentes procesos en un mismo
+
+lugar. Los productos pueden ser fabricados uno a la vez o en grandes
+
+cantidades en una línea de producción masiva.
+
+
+       Un ejemplo de proceso discreto es la fabricación de una pieza metálica
+
+rectangular con dos taladros. El proceso para obtener la pieza terminada
+
+puede descomponerse en una            serie de   estados   que han de realizarse
+
+secuencialmente,      de forma que para realizar un estado determinado es
+
+necesario que se haya realizado correctamente los anteriores:
+
+
+       Partiendo de una pletina, se corta a la dimensión determinada la pieza
+
+necesaria. Las fases del proceso son:
+
+
+
+
+       Transporte de la pieza hasta la taladradora.
+
+       Realizar el primer taladro.
+
+       Desplazar la pieza.
+
+       Realizar el segundo taladro.
+
+       Evacuar la pieza.
+
+
+
+
+                                                                             27
+      FIGURA Nº 6: Proceso discreto.
+
+
+
+
+2.2.2.3        PROCESOS POR LOTES
+
+       Además de correr de manera discontinuo, son diferentes en el sentido
+
+en que el Procesamiento se realiza siguiendo una secuencia específica. La
+
+materia prima se mezcla toda junta y luego se procesa en una trayectoria
+
+específica bajo ciertas condiciones de operación como temperatura, presión,
+
+densidad, viscosidad, etc. En algunas ocasiones se usan aditivos adicionales
+
+en diferentes momentos en el ciclo de procesamiento. El producto deseado es
+
+separado o condicionado en unidades de operación por lotes. Las operaciones
+
+por lotes son la forma más antigua de operar pero la más frecuentemente
+
+usada en industrias como la química, de alimentos, minerales fármacos,
+
+textiles y pieles.
+
+
+
+
+                                                                         28
+      FIGURA Nº 7: Proceso por lotes.
+
+
+
+
+      Además de correr de manera discontinuo, son diferentes en el sentido en
+
+que el Procesamiento se realiza siguiendo una          secuencia específica. La
+
+materia prima se mezcla toda junta y luego se procesa en una trayectoria
+
+específica bajo ciertas condiciones de operación como temperatura, presión,
+
+densidad, viscosidad, etc. En algunas ocasiones se usan aditivos adicionales
+
+en diferentes momentos en el ciclo de procesamiento. El producto deseado es
+
+separado o condicionado en unidades de operación por lotes. Las operaciones
+
+por lotes son la forma más antigua de operar pero la más frecuentemente
+
+usada en industrias como la química, de alimentos, minerales fármacos,
+
+textiles y pieles.
+
+
+2.2.3 CONTROL DE PROCESOS INDUSTRIALES
+
+      El objeto de todo proceso industrial será la obtención de un producto final,
+
+de unas características determinadas de forma que cumpla con las
+
+especificaciones y niveles de calidad exigidos por el mercado, cada día más
+
+restrictivos. Esta constancia en las propiedades del producto sólo será posible
+
+gracias a un control exhaustivo de las condiciones de operación, ya que tanto
+
+la alimentación al proceso como las condiciones del entorno son variables en el
+
+
+                                                                               29
+tiempo. La misión del sistema de control de proceso será corregir las
+
+desviaciones surgidas en las variables de proceso respecto de unos valores
+
+determinados, que se consideran óptimos para conseguir las propiedades
+
+requeridas en el producto producido.
+
+
+       El sistema de control nos permitirá una operación del proceso más fiable y
+
+sencilla, al encargarse de obtener unas condiciones de operación estables, y
+
+corregir toda desviación que se pudiera producir en ellas respecto a los valores
+
+de ajuste.
+
+
+       Las principales características que se deben buscar en un sistema de
+
+control serán:
+
+
+1. Mantener el sistema estable, independiente de perturbaciones y desajustes.
+
+
+2. Conseguir las condiciones de operación objetivo de forma rápida y continua.
+
+
+3. Trabajar correctamente bajo un amplio abanico de condiciones operativas.
+
+
+4. Manejar las restricciones de equipo y proceso de forma precisa.
+
+
+       La implantación de un adecuado sistema de control de proceso, que se
+
+adapte a las necesidades de nuestro sistema, significará una sensible mejora
+
+de la operación.
+
+
+       Principalmente los beneficios obtenidos serán:
+
+
+       Incremento de la productividad
+
+       Mejora de los rendimientos
+
+       Mejora de la calidad
+
+       Ahorro energético
+
+                                                                              30
+          Control medioambiental
+
+          Seguridad operativa
+
+          Optimización de la operación del proceso/ utilización del equipo
+
+          Fácil acceso a los datos del proceso
+
+
+2.3       CONTROLADORES LOGICO PROGRAMABLES SIMATIC S7-300
+
+          Un controlador lógico programable, más conocido por sus siglas en inglés
+
+PLC (Programmable Logic Controller), es una computadora utilizada en la
+
+ingeniería automática o automatización industrial, para automatizar procesos
+
+electromecánicos, tales como el control de la maquinaria de la fábrica en líneas
+
+de montaje o atracciones mecánicas.
+
+
+          Los PLC son utilizados en muchas industrias y máquinas. A diferencia de
+
+las computadoras de propósito general, el PLC está diseñado para múltiples
+
+señales de entrada y de salida, rangos de temperatura ampliados, inmunidad al
+
+ruido eléctrico y resistencia a la vibración y al impacto. Los programas para el
+
+control de funcionamiento de la máquina se suelen almacenar en baterías
+
+copia de seguridad o en memorias no volátiles. Un PLC es un ejemplo de un
+
+sistema de tiempo real «duro», donde los resultados de salida deben ser
+
+producidos en respuesta a las condiciones de entrada dentro de un tiempo
+
+limitado, de lo contrario no producirá el resultado deseado.
+
+
+
+
+                                                                               31
+       FIGURA Nº 8: PLC Simatic s7. Siemens
+
+       Fuente: Autómatas Programables y Sistemas de Automatización, 2da Edición.
+
+
+2.3.1 CARACTERÍSTICAS GENERALES DEL SOFTWARE STEP 7
+
+       STEP 7 es un Software de Programación de PLC (Controladores Lógicos
+
+Programables el SIMATIC-S7 de Siemens, es el sucesor de SIMATIC S5 STEP
+
+7 está ampliamente extendido en toda Alemania, Los autómatas SIMATIC
+
+constituyen un standard en la zona, compitiendo en primera línea con otros
+
+sistemas de programación y control lógico de autómatas, según la norma IEC
+
+61131-3.
+
+
+       STEP 7 domina el mercado de lenguajes de programación según la
+
+norma DIN EN 61131-3 disponiendo de tres lenguajes de programación:
+
+
+       FBS - Diagrama de funciones.
+
+
+       KOP - LD o LAD, diagrama de contactos.
+
+
+       AWL - STL, lista de instrucción.
+
+
+
+
+                                                                                   32
+       FIGURA Nº 9: Lenguajes de programación STL, FBD Y LAD
+
+
+
+
+Según la norma EN 61131-3 (Engineering Tools):
+
+
+       S7 SCL (Structured Control Language) Lenguaje de texto estructurado
+
+
+       S7-Graph (grafisch programmierbare) Gráficos Programables
+
+
+
+
+       FIGURA Nº 10: Lenguaje S7_SCL SIEMEMS.
+
+       Fuente: Autómatas Programables y Sistemas de Automatización, 2da Edición, Pág. 205.
+
+
+
+
+                                                                                        33
+       FIGURA Nº 11: Lenguaje S7_GRAPH SIEMENS.
+
+       Fuente: Autómatas Programables y Sistemas de Automatización, 2da Edición, Pág. 325.
+
+
+Además:
+
+
+       S7 HiGraph
+
+
+       S7 CFC (Continuous Function Chart)
+
+
+       AWL o lista de instrucciones es similar al lenguaje ensamblador. Al igual
+
+que SCL está basado en la programación en texto. Todas las herramientas de
+
+programación son interfaces de programación gráfica.
+
+
+       Todas las operaciones están centralizadas y permiten funcionar con
+
+cualquier tipo de datos.
+
+
+       Mediante la Programación Estructurada es posible reutilizar los módulos
+
+de simplificando ampliaciones o modificaciones de proyectos posteriores.
+
+
+       Utiliza herramientas de ingeniería para el diagnóstico, simulación y control
+
+simple o complejo de los bucles de programados.
+
+
+
+
+                                                                                        34
+     Con STEP 7 se tiene acceso a los controladores SIMATIC. A partir de
+
+esto se consigue el Siemens Automation Totally Integrated, con ventajas para
+
+los usuarios de dispositivos SIMATIC en las diferentes tareas.
+
+
+     Por otra parte, hay muchos vendedores que desarrollan herramientas o
+
+módulos de función, donde el programador elimina tareas que consumen
+
+tiempo y mejoran el diagnóstico de errores.
+
+
+2.3.2 LENGUAJE SIMATIC S7-GRAPH
+
+2.3.2.1       CONCEPTOS GENERALES DEL LENGUAJE S7-GRAPH
+
+     Dado que el lenguaje S7-GRAPH está basado en el SFC, los conceptos
+
+que utiliza son los siguientes’.
+
+
+          •   Las ETAPAS asociadas con acciones.
+
+          •   Las    TRANSICIONES      asociadas   con   las     capacidades   de
+
+              transición o receptividades.
+
+          •   La EVOLUCIÓN.
+
+
+     S7-GRAPF1 denomina “Cadena secuencial” al conjunto de etapas y
+
+transiciones adecuadamente enlazadas mediante determinadas reglas de
+
+evolución. A continuación se describe cada uno de los tres conceptos que se
+
+acaban de indicar.
+
+
+     Etapas
+
+
+     Una etapa refleja una situación en la cual el comportamiento de todo o
+
+una parte del sistema de control lógico secuencial permanece invariable. Las
+
+etapas están asociadas con acciones que equivalen a la activación o
+
+desactivación de determinadas variables lógicas. Las acciones pueden estar
+
+                                                                               35
+condicionadas por otras variables lógicas o temporales, o depender de la
+
+situación de otras etapas. Al arrancar el sistema se activan determinadas
+
+etapas denominadas etapas iniciales. Las etapas se representan mediante un
+
+cuadrado en cuyo interior se indica el número que las identifica. Las acciones
+
+asociadas a cada etapa se indican a la derecha de la misma. En el caso de que
+
+una etapa sea inicial, es decir que se active en el instante de poner en marcha
+
+el sistema, se representa mediante un doble cuadrado.
+
+
+
+
+     FIGURA Nº 12: S7_GRAPH etapa cualquiera.
+
+
+
+
+     FIGURA Nº 13: S7_GRAPH etapa inicial.
+
+     Fuente: Autómatas Programables y Sistemas de Automatización, 2da Edición, Pág. 334.
+
+
+
+
+     Transiciones
+
+
+     Las transiciones indican las posibilidades de evolución entre etapas.
+
+Están asociadas a expresiones lógicas que constituyen la capacidad de
+
+transición o receptividad. Las capacidades de transición son operaciones entre
+
+variables lógicas especificadas mediante su nivel o su cambio de nivel. Las
+
+
+                                                                                      36
+transiciones se representan mediante segmentos a los que se asocia la
+
+capacidad de transición correspondiente, que constituye la condición de
+
+disparo de la transición. A cada transición se le asigna la letra “T” seguida
+
+de un número decimal que la identifica, y tiene asociado un nombre que indica
+
+su funcionalidad. En la figura 14 se representa gráficamente la transición entre
+
+las etapas S1 y Sn+1. Y La condición de disparo, representada en el lenguaje
+
+de esquema de contactos, es igual a E0.1· E1.2.
+
+
+
+
+     FIGURA Nº 14: Representación de las etapas y transiciones.
+
+     .
+
+
+     Evolución
+
+
+     La evolución es una secuencia de situaciones y está ligada a un conjunto
+
+de reglas que establecen las condiciones en las que se producen las
+
+transiciones entre etapas. Por ejemplo, el diagrama S7 –GRAPH de la figura 14
+
+indica que, para que se active la etapa Sn+1 es necesario que esté activada la
+
+etapa y que la condición de disparo de la transición Ti sea un “1” lógico. Al
+
+activarse S n+1 se desactiva Sn. La evolución en el lenguaje S7-GRAPH se
+
+
+
+
+                                                                             37
+puede realizar mediante ramas alternativas, saltos, fines de cadenas y ramas
+
+simultáneas, que se describen seguidamente.
+
+
+     Ramas alternativas
+
+
+     En un diagrama S7-GRAPH (al igual que en SFC) se produce una rama
+
+alternativa cuando a partir de una etapa se puede activar solamente otra etapa
+
+entre varias (nudo O) e n función de la condición de disparo CT que se
+
+verifique, tal como se indica en la figura 15. Ligadas a las ramas alternativas
+
+están las ramas confluyentes, que se producen cuando una etapa se puede
+
+activar a partir de varias tal como se cómo se indica en la figura 15.
+
+
+
+
+     FIGURA Nº 15: Transiciones entre etapas con nudos O.
+
+
+
+
+     Si dos o más transiciones que dan lugar a ramas alternativas a partir de
+
+una única etapa se pueden disparar simultáneamente, existe un conflicto, y es
+
+labor del programador asegurarse de que nunca se hace efectivo. En el
+
+lenguaje S7-GRAPH está establecida, por defecto, una prioridad de izquierda a
+
+derecha en la evaluación de las transiciones que están en conflicto.
+
+
+     Saltos
+
+
+     Los saltos son transiciones de una etapa a otra cualquiera dentro de una
+
+misma cadena secuencial o a una etapa de otra cadena del mismo bloque de
+                                                                            38
+función FB. Se representan gráficamente mediante flechas sin necesidad de
+
+indicarlos de forma explícita mediante una línea que enlace el origen y el
+
+destino del salto. En la figura 16, se representa el salto a la etapa Sk a partir de
+
+la transición Tj dentro de la cadena secuencial 1 y el salto a la etapa Sm de la
+
+cadena secuencial 2 a partir de la transición Tj+1 de la cadena secuencial 1.
+
+
+
+
+     FIGURA Nº 16: Distintas transiciones con nudos O.
+
+
+
+
+     Fin de cadena
+
+
+     Al colocar este elemento en una secuencia lineal o en una rama
+
+alternativa se da por concluida la misma, lo cual hace que termine su
+
+procesamiento cíclico. Los fines de cadena se colocan siempre después de una
+
+transición y se representan gráficamente tal como se indica en la figura 17. En
+
+la figura 17, se muestra la representación funcional basada en las RdP y en la
+
+misma figura 17, la representación utilizada en S7 -GRAPH.
+
+
+
+
+                                                                                 39
+      FIGURA Nº 17: Representación de un fin de cadena.
+
+
+
+
+      Es conveniente indicar al lector que los fines de cadena están
+
+relacionados con la forma en que se integra un bloque de función realizado en
+
+S7 -GRAPH dentro del programa de control ejecutado por el autómata
+
+programable. En concreto, si todas las ramas alternativas de una cadena
+
+secuencial terminan con un único fin de cadena, sólo se puede volver a
+
+arrancarla mediante un parámetro denominado INIT_SQ. Para aclarar la
+
+utilización de las ramas alternativas y de los saltos, a continuación se realiza el
+
+diseño de un sistema de control lógico secuencial que solo utiliza dicho tipo de
+
+ramas combinadas con saltos.
+
+
+Existen acciones que se realizan de forma directa (sin memorizar o registrar) y
+
+otras que utilizan algún tipo de memorización.
+
+
+2.4   PLANTA VIRTUAL ITS-PLC
+
+
+2.4.1 ITS-PLC PROFESSIONAL EDITION
+
+2.4.1.1        CARACTERISTICAS DEL ITS-PLC PROFESSIONAL EDITION
+
+      ITS PLC Professional Edition – Sistema de Capacitación Interactiva para
+
+PLCs – es una herramienta educativa y de capacitación para la programación
+
+de PLCs. Con base en la tecnología informática más reciente, ITS PLC hace
+
+que la capacitación sobre PLCs resulte fácil y divertida. El resultado, es un
+                                                                                40
+ambiente virtual simulado que ofrece sistemas de capacitación altamente
+
+realistas, ofreciendo avanzados gráficos tridimensionales en tiempo real y una
+
+interactividad total, ademas los ambientes virtuales, nos evitan riesgo de
+
+lesiones para el personal, como daños a los equipos involucrados.
+
+
+     ITS PLC ofrece problemas con niveles incrementales de dificultad, que le
+
+permiten a los usuarios pasar a ejercicios más avanzados a medida que
+
+mejoran sus habilidades.
+
+
+
+
+     FIGURA Nº 18: Planta virtual ITS-PLC.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+
+
+     ITS PLC ofrece cinco sistemas virtuales con fines educativos y de
+
+capacitación para la programación de PLCs. Cada sistema es una simulación
+
+visual de un sistema industrial que incluye actuadores y sensores virtuales, de
+
+modo que su estado pueda ser detectado por el PLC. El objetivo es programar
+
+el PLC de modo que controle cada sistema virtual como si se tratara de un
+
+sistema real.
+
+
+
+
+                                                                            41
+     La información es intercambiada entre el PLC y el sistema virtual a través
+
+de una tarjeta de adquisición de datos (DAQ) con 32 canales de E/S aislados y
+
+una interfaz USB. Intercambio de información entre los sistemas, la tarjeta DAQ
+
+y el PLC.
+
+
+
+
+     FIGURA Nº 19: Conexión ITS-PLC con PLC.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+2.4.1.2        REQUISITOS DE SISTEMA
+
+     Los requerimientos mínimos del sistema para ITS PLC Professional
+
+Edition son:
+
+
+      Procesador                               Pentium IV ó AMD K8 a 1GHz
+
+      Memoria                                  256 MB de RAM
+
+      Espacio en Disco                         200 MB de espacio en disco
+                                               disponible
+
+      Sistema Operativo                        Windows XP (Service Pack 2)
+
+      Tarjeta de Gráficos                      Compatible con DirectX 9.0,
+                                               64MB      y     soporte para
+                                               vertex/pixel shader 1.1
+
+
+
+                                                                             42
+      USB                                           Un puerto USB
+
+      PLC                                           PLC con 16 entradas digitales
+                                                    y 10 salidas digitales
+
+     TABLA Nº 1: Requisitos ITS PLC Professional.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+2.4.2 ITS-PLC MHJ EDITION
+
+2.4.2.1       CARACTERISTICAS DEL ITS-PLC MHJ EDITION
+
+     Su edición PLC MHJ - Sistema de Entrenamiento Interactivo para PLC -
+
+es una herramienta de la educación y la formación para la programación de
+
+PLC. Sobre la base de la última tecnología de PC, ITS PLC hace que el
+
+entrenamiento PLC fácil y divertido. Los entornos virtuales nunca han sido tan
+
+real, que ofrece el corte borde gráficos 3D en tiempo real, física, sonido e
+
+interactividad total. El resultado es un entorno simulado de inmersión que
+
+permite los sistemas de formación altamente realistas, sin ningún riesgo de
+
+lesión para el hombre o el daño a la máquina.
+
+
+     ITS PLC ofrece problemas con el aumento de los niveles de dificultad
+
+para que los usuarios puedan progresar a ejercicios más avanzados a medida
+
+que mejoran sus habilidades.
+
+
+     ITS PLC MHJ Edition es una versión especial de su PLC diseñado para
+
+ser utilizado directamente con el WinSPS-S7 y WinPLC-Motor aplicaciones.
+
+
+
+
+                                                                               43
+     FIGURA Nº 20: Software ITS PLC MHJ Edition.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+
+
+2.4.2.2       REQUISITOS DE SISTEMA
+
+     Los requerimientos del sistema para ITS PLC MJH Edition son:
+
+
+      Procesador                                   Pentium IV ó AMD K8 a 1GHz
+
+      Memoria                                      256 MB de RAM
+
+      Espacio en Disco                             200 MB de espacio en disco
+                                                   disponible
+
+      Sistema Operativo                            Windows 8 (32 y 64 bits)
+                                                   Windows 7 (32 y 64 bits)
+                                                   Windows XP (32 bits)
+                                                   Para todas las ediciones:
+                                                   Home, Pro, Ultimate
+
+      Tarjeta de Gráficos                          Compatible con DirectX 9.0,
+                                                   64MB      y     soporte para
+                                                   vertex/pixel shader 1.1
+
+      USB                                          Un puerto USB
+
+      PLC                                          PLC con 16 entradas digitales
+                                                   y 10 salidas digitales
+
+
+
+
+                                                                              44
+          Idiomas                            Alemán
+                                             Inglés
+                                             Francés
+                                             Portugués
+                                             Español
+
+     TABLA Nº 2: Requisitos del sistema.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+2.4.3 SISTEMAS DEL ITS-PLC MHJ EDITION
+
+     ITS PLC MHJl Edition ofrece cinco sistemas de capacitación basados en
+
+escenarios industriales del mundo real. Cada sistema contiene problemas
+
+estándar encontrados en la programación de PLCs. Los sistemas son
+
+presentados en orden de dificultad ascendente, a saber: Clasificación,
+
+Procesamiento por Lotes, Paletizador, Pick & Place y Almacén Automático.
+
+
+2.4.3.1        CLASIFICADOR
+
+     Transportar cajas del alimentador a los elevadores, ordenándolas por
+
+altura.
+
+
+
+
+     FIGURA Nº 21: Clasificador.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+
+
+                                                                           45
+2.4.3.2       PROCESAMIENTO POR LOTES
+
+     Mezclar tres colores primarios (rojo, verde y azul) para obtener un color
+
+deseado.
+
+
+
+
+     FIGURA Nº 22: Procesamiento por lotes.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+2.4.3.3       PALETIZADOR
+
+      Paletizar cajas en varios niveles.
+
+
+
+
+     FIGURA Nº 23: Paletizador.
+
+     FUENTE: ITS PLC Professional Edition.
+
+
+
+
+                                                                           46
+2.4.3.4         PICK & PLACE
+
+       Colocar partes en cajas, usando un manipulador de tres ejes.
+
+
+
+
+       FIGURA Nº 24: Pick and Place.
+
+       FUENTE: ITS PLC Professional Edition.
+
+
+
+
+2.4.3.5         ALMACEN AUTOMATICO
+
+       Transportar, almacenar y recuperar cajas de los racks. Los cinco sistemas
+
+tienen las siguientes propiedades en común:
+
+
+       Zonas de entrada y salida. En estas zonas, los objetos movibles (tales
+
+        como pallets, cajas o partes) son insertados y retirados de la escena
+
+        automáticamente.
+
+       Un número limitado de objetos movibles simultáneamente en el sistema.
+
+       Un máximo de 16 sensores (entradas de PLC) y 10 actuadores (salidas
+
+        de PLC).
+
+
+
+
+                                                                             47
+      FIGURA Nº 25: Almacén automático.
+
+      FUENTE: ITS PLC Professional Edition.
+
+
+2.4.4 WINPLC ENGINE
+
+WinPLC-Engine es un simulador de PLC (similar a la SIMATIC® S7-PLCSIM)
+
+para ser utilizado con la V5.4 SIMATIC® STEP® 7. Con WinPLC-Engine usted
+
+puede diseñar su propia interfaz de usuario (sólo Pro Edition). Las ITS PLC
+
+MHJ Edition y WinPLC-motor paquete incluye plantillas listas para usar para
+
+cada sistema virtual.
+
+
+
+
+      FIGURA Nº 26: WinPLC-Engine.
+
+2.5   SISTEMAS SCADA
+
+      Damos el nombre de Scada (Supervisory Control And Data Acquisition o
+
+Control con Supervisión y Adquisición de Datos) a cualquier software que
+
+                                                                        48
+permita el acceso a datos remotos de un proceso y permita, utilizando las
+
+herramientas de comunicación necesarias en cada caso, el control del mismo.
+
+Atendiendo a la definición vemos que no se trata de un sistema de control, sino
+
+de una utilidad software de monitorización o supervisión, que realiza la tarea de
+
+interfase entre los niveles de control (PLC) y los de gestión a un nivel superior.
+
+
+
+
+     FIGURA Nº 27: Sistema SCADA.
+
+     Fuente: Sistemas SCADA: Guia práctica.
+
+
+2.5.1 CONCEPTOS GENERALES
+
+     El paquete SCADA, en su vertiente de herramienta de interfase hombre-
+
+máquina, comprende toda una serie de funciones y utilidades encaminadas a
+
+establecer una comunicación lo más clara posible entre el proceso y el
+
+operador.
+
+
+     Entre las prestaciones de una herramienta de este tipo destacan:
+
+
+2.5.1.1      MONITORIZACIÓN
+
+     Representación de datos en tiempo real a los operadores de planta. Se
+
+leen los datos de los autómatas (temperaturas, velocidades, detectores, etc.).
+
+                                                                                49
+2.5.1.2      SUPERVISIÓN
+
+     Supervisión, mando y adquisición de datos de un proceso y herramientas
+
+de gestión para la toma de decisiones (mantenimiento predictivo, por ejemplo).
+
+Tienen además la capacidad de ejecutar programas que puedan supervisar y
+
+modificar el control establecido y, bajo ciertas condiciones, anular o modificar
+
+tareas asociadas a los autómatas. Evita una continua supervisión humana.
+
+
+2.5.1.3      ADQUISICIÓN DE DATOS
+
+       Un sistema de captación solar se puede observar mediante herramientas
+
+registradoras y obtener así un valor medio de la irradiación en la zona,
+
+guardando los valores obtenidos y evaluándolos a posterioridad.
+
+
+2.5.1.4      VISUALIZACIÓN DE ALARMAS Y EVENTOS
+
+     Reconocimiento de eventos excepcionales acaecidos en la planta y su
+
+inmediata puesta en conocimiento de los operarios para efectuar las acciones
+
+correctoras pertinentes.
+
+
+2.5.1.5      MANDO
+
+     Posibilidad de que los operadores puedan cambiar consignas u otros
+
+datos claves del proceso directamente desde el ordenador (marcha, paro,
+
+modificación de parámetros...). Se escriben datos sobre los elementos de
+
+control.
+
+
+2.5.2 ESTRUCTURAS DE UN SISTEMA SCADA
+
+     Un sistema Scada es una aplicación de software especialmente diseñada
+
+para funcionar sobre ordenadores en el control de producción que proporciona
+
+comunicación entre los dispositivos de campo, llamados también RTU (Remote
+
+Terminal Units o Unidades Remotas), donde se pueden encontrar elementos
+
+                                                                             50
+tales como controladores autónomos o autómatas programables, y un centro
+
+de control o Unidad Central (MTU, Master Terminal Unit), donde se controla el
+
+proceso de forma automática desde la pantalla de uno o varios ordenadores.
+
+
+
+
+       FIGURA Nº 28: Estructura de sistema SCADA.
+
+       Fuente: Sistemas SCADA: Guía práctica.
+
+
+       La estructura funcional de un sistema de visualización y adquisición de
+
+datos obedece generalmente a la estructura Maestro-Esclavo. La estación
+
+central (el maestro, o master) se comunica con el resto de estaciones (esclavos
+
+o slaves) requiriendo de éstas una serie de acciones o datos.
+
+
+       El desarrollo del ordenador personal ha permitido su implantación en
+
+todos los campos del conocimiento y a todos los niveles imaginables. Las
+
+primeras incursiones en el campo de la automatización localizaban todo el
+
+control en el PC y tendían progresivamente a la distribución del control en
+
+planta. De esta manera, el sistema queda dividido en tres bloques principales:
+
+
+       Software de adquisición de datos y control (SCADA)
+
+       Sistemas de adquisición y mando (sensores y actuadores)
+
+       Sistema de interconexión (comunicaciones)
+
+
+
+
+                                                                             51
+     FIGURA Nº 29: Estructura de un sistema de supervisión.
+
+
+
+
+     El usuario, mediante herramientas de visualización y control, tiene acceso
+
+al Sistema de Control de Proceso, generalmente un ordenador donde reside la
+
+aplicación de control y supervisión (se trata de un sistema servidor). La
+
+comunicación entre estos dos sistemas se suele realizar a través de redes de
+
+comunicaciones corporativas (Ethernet).
+
+
+     El Sistema de Proceso capta el estado del Sistema a través de los
+
+elementos sensores e informa al usuario a través de las herramientas de
+
+visualización. Basándose en los comandos ejecutados por el Usuario, el
+
+Sistema de Proceso inicia las acciones pertinentes para mantener el control del
+
+Sistema a través de los elementos actuadores.
+
+
+     La transmisión de los datos entre el Sistema de Proceso y los elementos
+
+de campo (sensores y actuadores) se lleva a cabo mediante los denominados
+
+Buses de Campo. La tendencia actual es englobar los sistemas de
+
+comunicación en una base común, como Ethernet Industrial.
+
+
+     Mediante el software de adquisición de datos y control, el mundo de las
+
+máquinas se integra directamente en la red empresarial, pasando a formar
+
+parte de los elementos que permitirán crear estrategias de empresa globales.
+
+
+
+                                                                            52
+Aparece el concepto de Fabricación Integral Informatizada (Computer
+
+Integrated Manufacturing).
+
+
+2.5.3 GUIA DE DISEÑO DE SISTEMA SCADA
+
+       Con los últimos avances en visualización de datos se ha llegado a la
+
+máxima expresión del Panel Sinóptico con los ordenadores y las pantallas de
+
+visualización como estrella indiscutible de la función de diálogo entre el
+
+operador y el sistema.
+
+
+       La interfase HMI (Human Machine Interface, Interfase Humano- Máquina)
+
+se ha centrado principalmente en la interacción entre el operario y el
+
+ordenador, punto de contacto entre la persona y la tecnología.
+
+
+       Toda la evolución tecnológica de los sistemas SCADA ha ido orientada a
+
+hacer la tarea del operador más sencilla y cómoda, pero hay dos factores que
+
+no ha sido posible modificar con el tiempo: el aburrimiento y la fatiga.
+
+
+2.5.3.1       ENTORNOS NORMATIVOS
+
+       A nivel internacional no ha habido hasta ahora una línea clara a seguir a
+
+cerca del diseño de las interfaces HMI. Han ido apareciendo múltiples
+
+iniciativas que pretendían cubrir necesidades concretas de diseño:
+
+
+       ANSI American National Standards Institute.
+
+       ISA The Instrumentation, Systems and Automation Society.
+
+       CEPT European Conference of Postal and Telecommunications
+
+        Administration.
+
+       ETSI European Telecommunications Standards Institute.
+
+       IEEE Institute of Electronic and Electrical Engineers.
+
+
+                                                                             53
+       ISO International Standards Organization.
+
+       JIS Japanese Standards Association.
+
+       NUREG Nuclear Regulatory Commission.
+
+       SAE Society of Automotive Engineers.
+
+
+
+
+       FIGURA Nº 30: Logotipo de ISA.
+
+       Fuente: Sistemas SCADA: Guía práctica.
+
+
+       En Estados Unidos, la organización ISA ya publica en 1985 el informe
+
+RP60.3, Human Engineering of Control Centres, que englobaba ideas de
+
+diseño adaptadas a las capacidades físicas y psíquicas del ser humano. Ante la
+
+falta de estándares claros en torno al mundo de la interface hombre máquina
+
+se crea, en Julio de 2005, el comité ISA-SP101 con el objetivo de establecer
+
+estándares, prácticas recomendadas y apoyo técnico, que permitan normalizar
+
+el campo de las interfaces hombre-máquina en los procesos productivos.
+
+
+       Los principales objetivos de este comité son:
+
+
+       Disminuir la tasa de errores de los operarios gracias a unas
+
+        representaciones claras e intuitivas de las interfaces de control.
+
+       Reducir los tiempos de aprendizaje de los nuevos operadores y
+
+        conseguir que los tiempos de formación sean acumulativos, permitiendo
+
+
+
+
+                                                                             54
+        el cambio de un sistema a otro con el mínimo entrenamiento gracias a la
+
+        estandarización de la interface de control.
+
+       Reducir costes de rediseño al estandarizar procedimientos.
+
+
+       El ámbito de actuación de este comité incluye todos aquellos elementos
+
+relacionados con este tipo de interfaces: menús, convenciones de diseño de
+
+pantallas, utilización de colores, etiquetas, animaciones, gestión de alarmas,
+
+archivado, redes, etc.
+
+
+       En Europa, el Comité Europeo de Normalización, en colaboración con la
+
+Organización     Internacional   de   Normalización   (ISO),   ha   promovido   la
+
+elaboración de un marco normativo orientado a regularizar y racionalizar el
+
+diseño de sistemas con terminales de visualización. Son las normas ISO 9241
+
+y EN 29241:
+
+
+       "Ergonomics requirements of visual display terminals (VDT s) used for
+
+office tasks" O, traducido: "Requisitos ergonómicos para trabajos de oficina con
+
+pantallas de visualización de datos" (PVD’s)
+
+
+       Usuarios, fabricantes, y diseñadores de estos equipos, son los
+
+destinatarios de estas normas, así como a todos los implicados en su uso y en
+
+las condiciones de utilización (por ejemplo, fabricantes de mobiliario de oficina
+
+o arquitectos). Inicialmente, estas normas técnicas no son de obligado
+
+cumplimiento, son unas directrices que pretenden uniformizar y aclarar todos
+
+los aspectos técnicos involucrados en el acondicionamiento de los puestos de
+
+trabajo con pantallas de visualización.
+
+
+       Obtenida de la norma europea EN 29241, la Asociación Española de
+
+Normalización (AENOR) ha publicado su equivalente bajo la denominación:
+                                                                                55
+UNE-EN 29241. Inicialmente se refiere al trabajo de oficina con utilización de
+
+equipos de visualización pero es también de aplicación en cualquier ambiente
+
+de trabajo en el cual aparezca este tipo de equipamiento. La traducción al
+
+castellano de los títulos correspondientes a las diecisiete partes de las que
+
+constará la citada norma, es la siguiente:
+
+
+           Introducción general.
+
+           Guía general sobre los requisitos de la tarea.
+
+           Requisitos de las pantallas de visualización.
+
+           Requisitos del teclado.
+
+           Concepción del puesto de trabajo y exigencias posturales.
+
+           Requisitos ambientales.
+
+           Requisitos relativos a los reflejos en las pantallas.
+
+           Requisitos para las pantallas en color.
+
+           Requisitos para dispositivos de entrada diferentes al teclado.
+
+           Principios de diálogo.
+
+           Declaraciones de usabilidad.
+
+           Presentación de la información.
+
+           13. Guía general para el usuario.
+
+           14. Diálogos por menús.
+
+           15. Diálogos por comandos.
+
+           16. Diálogo por acceso directo.
+
+           17. Diálogo para cumplimentación de formularios.
+
+
+     Estas normas establecen los requisitos ergonómicos que deben cumplir
+
+los equipos con PVD, para asegurar que los usuarios puedan desempeñar sus
+
+
+                                                                             56
+tareas de forma segura y eficiente, y también contemplan los aspectos relativos
+
+a la ergonomía del puesto y de las aplicaciones que se utilizarán. Los
+
+diferentes aspectos implicados en el diseño de un puesto de trabajo de estas
+
+características se enumeran a continuación:
+
+
+       La interface hombre-máquina (pantalla, teclado, ratón).
+
+       El diseño físico del puesto de trabajo (mobiliario).
+
+       El entorno (iluminación, temperatura, humedad).
+
+       La organización del trabajo.
+
+       La interface hombre-aplicación (sistema de diálogo).
+
+
+2.5.3.2       EL SENTIDO DE LA VISTA
+
+       Atendiendo a su estructura, dentro del ojo, en el fondo del mismo, se
+
+encuentra la retina. Que podamos ver nuestro entorno lo debemos a la
+
+capacidad de esta membrana de convertir la luz en energía eléctrica. Unas
+
+células especializadas, los conos y los bastones, son las responsables de este
+
+cambio. Contiene unos 120 millones de células en forma de bastón y unos seis
+
+millones de células en forma de cono. Interconectadas mediante el nervio
+
+óptico, una vez transformada la luz en electricidad, mediante éste, se dirige
+
+hacia el cerebro, donde es interpretada como formas y colores.
+
+
+
+
+                                                                            57
+       FIGURA Nº 31: Formación de imagen en la retina.
+
+       Fuente: Sistemas SCADA: Guía práctica.
+
+
+       Interpretando las ondas electromagnéticas que llegan a través del sentido
+
+de la vista, el color es el resultado del proceso de decodificación que se lleva a
+
+cabo en el cerebro. A medida que la longitud de onda aumenta, el espectro irá
+
+cambiando desde el azul hacia el rojo, pasando por los colores violeta, azul,
+
+verde, amarillo, anaranjado y tonos intermedios. Para cada longitud de onda
+
+habrá más o menos sensibilidad. A esta diferencia de percepción la llamamos
+
+color.
+
+
+       La sensación de color se define mediante los tres factores siguientes:
+
+
+        Luminosidad: Es la capacidad del objeto para reflejar la luz incidente.
+
+        Tono: Se caracteriza por la longitud de onda dominante (las variaciones
+
+         de un mismo color).
+
+        Saturación: Es la cantidad de blanco y/o negro añadidos (la pureza).
+
+
+2.5.3.3         LOS COLORES
+
+       Al color rojo, al verde y al azul se les denomina colores primarios. Con la
+
+existencia de estos tres colores y sus combinaciones se pueden obtener todos
+
+
+
+
+                                                                                   58
+los demás (cada color del espectro se puede identificar por la cantidad relativa
+
+de cada uno de los colores primarios presentes en su composición)
+
+
+     En la mezcla luminosa (denominada mezcla aditiva) de los colores
+
+primarios obtenemos los secundarios:
+
+
+Azul + verde = cyan
+
+
+Azul + rojo = magenta
+
+
+Verde + rojo = amarillo
+
+
+
+
+     FIGURA Nº 32: Rueda de colores.
+
+
+
+
+     Si utilizamos colores primarios con sus opuestos secundarios, según se
+
+ve en la rueda de colores, obtenemos el llamado contraste Complementario
+
+
+- Amarillo-azul-amarillo
+
+
+- Cyan-rojo-cyan
+
+
+- Magenta-verde-magenta
+
+
+El contraste complementario es útil para destacar y crear impacto visual
+
+pero obliga a forzar el enfoque del ojo (estrés visual)
+
+
+                                                                             59
+       Si se utilizan colores adyacentes, se obtiene el Contraste de Tonos y se
+
+pueden proporcionar contrastes más fuertes con colores secundarios (la franja
+
+exterior de la rueda de colores) que con colores primarios (el circulo interior de
+
+la rueda)
+
+
+       La demostración práctica de la mezcla aditiva la tenemos en la televisión.
+
+Podemos ver la televisión gracias a la superposición aditiva de puntos de luz de
+
+los tres colores básicos, que se encuentran distribuidos por la superficie de la
+
+pantalla del televisor.
+
+
+       En la fotografía se puede observar un detalle próximo de una pantalla de
+
+televisión, donde se aprecian los puntos del tubo que conforman la imagen en
+
+color (también vale para las pantallas planas).
+
+
+       A modo de breve resumen:
+
+
+   1. Los colores extremos del espectro (rojo y azul) no deberían ser
+
+        presentados simultáneamente en pantalla, pues someten los ojos a
+
+        esfuerzos excesivos de acomodación y provocan efectos indeseables de
+
+        profundidad.
+
+   2. Para optimizar la discriminación e identificación de los colores, se
+
+        recomienda     adoptar   uno   de   los   dos   siguientes   sistemas   de
+
+        representación:
+
+       Figuras en color sobre fondo neutro (negro o gris).
+
+       Figuras de colores neutros sobre fondo en color.
+
+       Los fondos neutros (acromáticos), como el negro o el gris, maximizan la
+
+        visibilidad de las representaciones en color.
+
+
+
+                                                                                60
+2.5.3.4         LAS ZONAS DE VISION
+
+       Dentro de la zona de visión con niveles de luminancia superiores a las 3
+
+cd/m2 (candelas por metro cuadrado), la zona de visión se denomina fotópica.
+
+Dentro de esta zona, los conos son el grupo de células más reactivo a las
+
+diferentes longitudes de onda de la luz (los colores), por lo cual se los asocia a
+
+la visión diurna. Ahora ya sabemos por qué, de noche, todos los gatos son
+
+pardos (o, lo que es lo mismo, de noche vemos en blanco y negro).
+
+
+       Los conos se clasifican en función de su sensibilidad a un rango de
+
+radiaciones determinado del espectro electromagnético:
+
+
+       A las radiaciones cortas (los azules)
+
+       A las radiaciones medias (verdes)
+
+       A las radiaciones largas (rojos)
+
+
+
+
+       FIGURA Nº 33: Espectro electromagnético.
+
+       Fuente: Sistemas SCADA: Guía práctica.
+
+
+       Según se estimulen unos u otros conos o varios a la vez, obtendremos las
+
+diferentes sensaciones de color en función de los valores medios obtenidos.
+
+
+       De esto último podemos deducir que el color que vemos en un
+
+objeto es el color de la luz que nos llega reflejada del mismo. Por tanto, el
+
+
+                                                                               61
+color de un objeto depende en gran medida de su ubicación (la luz que
+
+nos llega no es sólo la del objeto que estamos mirando, sino también la
+
+de su entorno)
+
+
+
+
+     FIGURA Nº 34: Efecto del color de fondo (gris, blanco, azul).
+
+     El color que veremos mejor será el que más destaque de la composición
+
+general. En las interfases gráficas se recomiendan fondos de pantalla que
+
+permitan un elevado contraste con una mínima fatiga
+
+
+     Para niveles de luminancia inferiores a 0.25 cd/m2, la zona de visión se
+
+denomina escotópica. Con estos niveles de luminosidad, los conos dejan de
+
+reaccionar al estímulo luminoso, los bastones pasan a ser las células más
+
+activas y, en consecuencia, no hay sensación de color (los gatos pardos de
+
+líneas atrás).
+
+
+     En la zona intermedia entre estas dos (fotópica y escotópica) se observa
+
+que la capacidad de distinción cromática disminuye con el nivel de iluminación.
+
+
+     En la figura se puede observar, dentro de un marco, dónde se ubicarán
+
+nuestros esfuerzos (rango comprendido entre 10 y 1000 candelas/m2).
+
+
+
+
+                                                                             62
+       GRAFICO Nº 1: Zonas de visión.
+
+       Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+2.5.3.5         COLOR Y FORMA COMO FUENTE DE INFORMACION
+
+       Como sabemos que la mayoría de la gente tiene capacidad para distinguir
+
+colores, podemos utilizar los cambios de color en las imágenes para generar
+
+información útil en nuestras aplicaciones.
+
+
+       Como estamos
+
+
+       Como ya se ha comentado anteriormente, no se debe abusar de las
+
+paletas de colores ni del espíritu de artista que todos llevamos dentro. Es
+
+aconsejable utilizar colores que ya se utilizan en otros ámbitos, de forma que
+
+las diferencias de interpretación sean mínimas y el usuario tenga que aprender
+
+el mínimo número de novedades.
+
+
+       Por ejemplo, en una planta de procesos químicos:
+
+
+       Una válvula representada en pantalla puede cambiar su color para
+
+informar de su estado (abierta: ON/verde, cerrada: OFF/rojo).
+
+                                                                           63
+       El indicador de presión de un depósito puede tener un marco verde para
+
+indicar presiones nominales, que cambie a amarillo para presiones anormales,
+
+o se vuelva rojo para presiones excesivas (indicador de la derecha, en la figura
+
+anterior).
+
+
+
+
+       FIGURA Nº 35: Información cromática antigua.
+
+       Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+       Aquí tenemos un problema, ante una situación de emergencia, el
+
+operador ve en una pantalla estos elementos y, con las prisas, empiezan las
+
+dudas:
+
+
+       Las válvulas:
+
+
+¿Están abiertas o cerradas?
+
+
+¿Están a presión normal o a presión excesiva?
+
+
+¿Tienen algún defecto? (color rojo)
+
+
+       El depósito:
+
+
+¿Está abierto o cerrado?
+
+
+¿Está a presión normal o a presión excesiva?
+
+
+¿Tiene algún defecto?
+
+
+                                                                             64
+       Tenemos el color rojo indicando dos situaciones completamente
+
+diferentes (afortunadamente el diseñador puso en texto el estado de la válvula).
+
+
+       Para las señales de sistemas se acepta la siguiente convención de
+
+colores (Real Decreto 485/97):
+
+
+
+
+       TABLA Nº 3: Colores según estado.
+
+       Estos colores son de aceptación más o menos general, pero no siempre
+
+tendremos las cosas tan claras y se tiende a aplicar normas de facto, que
+
+pueden llevar a equívocos:
+
+
+       En un proceso químico, o en nuestra bañera, el rojo indicará fluido
+
+caliente, y el azul fluido frío. Pero, según DIN2403, el color azul indica aire, y el
+
+rojo indica vapor.
+
+
+       En una máquina o sistema, generalmente veremos el color verde para
+
+indicar que está funcionando y el rojo para indicar que está parado. Si
+
+aplicamos la lógica, hay que invertir los términos:
+
+
+       La máquina parada es segura (verde)
+
+       La máquina funcionando es peligrosa (rojo)
+
+
+
+
+                                                                                  65
+       FIGURA Nº 36 Información por color.
+
+       Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+       Si seguimos con la industria de procesos, nos podemos encontrar:
+
+
+
+
+       TABLA Nº 4: Colores según campo de trabajo.
+
+       Como se puede ver, hay que vigilar el diseño de pantalla (una vez más)
+
+para no confundir al público.
+
+
+       Se recomienda utilizar los mismos colores estandarizados que los del
+
+proceso que se está monitorizando.
+
+
+       Una vez más se recomienda la combinación de elementos para dar
+
+informaciones inequívocas:
+
+
+       Color (motor en rojo = MARCHA) y texto.
+
+       Color y forma (válvula en verde + gráfico dinámico de ésta + texto de
+
+        estado).
+
+
+
+
+                                                                          66
+       FIGURA Nº 37: Información por color y complemento.
+
+       Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+       Amontonar indicadores con colores primarios provoca la aparición de
+
+colores complementarios en la imagen retenida en la retina, lo cual puede
+
+hacer que veamos colores fantasmas.
+
+
+       Cuando algo va mal.
+
+
+       En cualquier aplicación podremos dividir todas las señales en dos
+
+grandes grupos:
+
+
+       Alarmas y Estado. Las alarmas son los sucesos no deseables y requieren
+
+la atención de un operario para su solución. El resto de situaciones (marcha,
+
+paro, cambios de consigna, etc.) serán eventos, también llamados sucesos.
+
+
+       Las señales de alarma informan de manera más eficiente si se organizan
+
+por grupos y se sitúan en lugares fácilmente visibles (lugares de privilegio,
+
+parte superior de la pantalla). Si no se quiere cargar el diseño, debería ser bien
+
+visible, en todas las pantallas, por lo menos, un indicador de estado de alarma
+
+activa con un acceso rápido a una pantalla con detalles sobre ésta.
+
+
+       Los colores utilizados deberían seguir las convenciones de seguridad:
+
+
+
+
+                                                                               67
+     TABLA Nº 5: Colores según convenciones.
+
+     Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+     Debido a la existencia de trastornos de visión asociados a los
+
+colores, que no son pocos, cualquier cambio de color debería estar
+
+complementado por otros indicadores inequívocos (cambio de forma,
+
+textos, o emisión de sonidos).
+
+
+     En las películas estamos acostumbrados a ver escenas en las cuales
+
+aparecen letreros parpadeantes, de vivos colores, e innumerables pantallas
+
+que aparecen de forma automática indicando peligro inminente.
+
+
+     Nada más desaconsejable…
+
+
+     Los parpadeos provocan estrés visual y distraen la atención del operador.
+
+Las apariciones no deseadas de pantallas pueden llegar a bloquear la
+
+respuesta   del    operador     debido    a    los   refrescos   de   información   si,
+
+desafortunadamente, varias alarmas se activan simultáneamente (hecho que
+
+posiblemente acabará sucediendo).
+
+
+     Es más coherente presentar un indicador de estado con un pulsador que
+
+abra una lista de alarmas o eventos.
+
+
+
+
+                                                                                    68
+2.5.3.6       CLASIFICACION POR TIPOS
+
+       Es conveniente clasificar las alarmas en función del peligro que puedan
+
+advertir. No será lo mismo un aviso por nivel bajo de aceite que un aviso de
+
+presión máxima en un depósito de gas.
+
+
+       Las alarmas se suelen dividir, según su influencia en el funcionamiento
+
+del sistema o máquina a controlar, en tres categorías:
+
+
+       Prealarmas
+
+
+       Grupo que engloba todos aquellos sucesos susceptibles de generar
+
+problemas graves en el sistema a corto o medio plazo, y que requieren
+
+atención por parte de los responsables de mantenimiento.
+
+
+       Alarmas de fin de ciclo
+
+
+       No requieren un paro inmediato de la máquina. Se puede realizar toda la
+
+secuencia de trabajo hasta su finalización, momento en el cual la máquina se
+
+detiene y requiere atención de mantenimiento.
+
+
+       Alarmas de paro
+
+
+       Son todas aquellas que requieren la detención inmediata de la máquina
+
+sin importar el punto en el que se halle el proceso. Tras un paro de este tipo, el
+
+sistema debe retornar a sus condiciones iniciales de trabajo antes de poder dar
+
+marcha de nuevo.
+
+
+       Veamos unos ejemplos ilustrativos:
+
+
+
+
+                                                                               69
+Nivel bajo de engrase
+
+
+     En sistemas con mucha humedad, tales como máquinas transfer o de
+
+lavado de piezas de motores, se utiliza agua a alta presión para la limpieza de
+
+las impurezas que quedan en las piezas cuando salen del proceso de
+
+mecanizado. Esta agua salpica completamente todo el interior de la máquina y
+
+se requiere un engrase constante de las partes mecánicas móviles para
+
+asegurar su protección frente a la corrosión.
+
+
+Limpieza de inyectores
+
+
+     Para vigilar la limpieza en inyectores, podemos colocar un transductor de
+
+presión antes de la salida del inyector, que informa de la presión de trabajo. Si
+
+la presión va aumentando, seguramente tendremos algún tipo de obstrucción
+
+que impide la salida normal de líquido por la boca del inyector.
+
+
+
+
+     FIGURA Nº 38: Control de presión.
+
+Estado de un filtro autolimpiable
+
+
+     Hay filtros automáticos provistos de un sistema de tipo revólver, que
+
+contiene los elementos filtrantes o candelas. Cuando la presión diferencial
+
+existente entre la entrada y la salida del elemento filtrante aumenta por encima
+
+de un determinado nivel, se considera que el filtro está sucio y debe
+
+
+                                                                              70
+Cambiarse. Mediante un sistema giratorio, el contenedor de los cartuchos
+
+limpios gira, cambiando el filtro sucio por uno limpio. Un sistema de válvulas
+
+invierte el flujo en el filtro sucio para eliminar la suciedad depositada en éste,
+
+quedando listo para una nueva utilización. Todos estos sucesos provocan,
+
+tarde o temprano, un defecto grave, que puede originar averías de diversa
+
+consideración en la máquina, o defectos en el acabado del producto.
+
+
+
+
+     FIGURA Nº 39: Clasificación por prioridad.
+
+     Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+2.5.3.7       CLASIFICACION POR PRIORIDAD
+
+     La siguiente clasificación de las alarmas que se pueden dar en un sistema
+
+obedece a su importancia o prioridad; no tiene la misma importancia un nivel
+
+bajo en un depósito de engrase que la rotura de una cinta transportadora.
+
+
+     Al asignar prioridades a las diferentes alarmas conseguimos que, en caso
+
+de tener varias alarmas simultáneas, éstas se ordenen en pantalla según la
+
+importancia que se les asignó durante la programación del sistema de
+
+visualización. De esta manera, la persona que atiende al sistema de
+
+monitorización no necesita pensar ni perder tiempo en determinar qué debe
+
+hacer primero. Normalmente, las alarmas más importantes tienen un número
+
+
+
+
+                                                                               71
+de prioridad pequeño, que crece a medida que éstas descienden en
+
+importancia.
+
+
+     Una posible clasificación, según número de prioridad:
+
+
+
+
+     TABLA Nº 6: Niveles de prioridad.
+
+
+
+
+2.5.3.8        CLASIFICACION POR AGRUPAMIENTO
+
+     A efectos organizativos, las alarmas se pueden agrupar según varios
+
+criterios (sistema que origina el mensaje, clase de componente afectado) en lo
+
+que se denominan Grupos de alarmas. Cuando se crea una variable (Tag), se
+
+le asigna un grupo de alarmas por defecto, o un grupo determinado por el
+
+diseñador del sistema de visualización.
+
+
+     Por ejemplo, con InTouch, el grupo por defecto es el grupo $System, que
+
+hace las veces de directorio raíz, como si de una estructura de directorios de
+
+un disco duro se tratase. Podremos crear varios niveles de alarmas, con un
+
+cierto número de grupos de alarmas por nivel, y aparecerá una estructura
+
+arborescente.
+
+
+     Un ejemplo para ilustrar este punto podría ser el de una línea de
+
+vulcanizado. En este tipo de instalaciones encontramos varios tipos de
+
+máquinas, principalmente hornos (de gas, infrarrojos, microondas), colocados
+
+en línea. A través de éstos se hace circular un perfil de caucho que, gracias al
+
+tratamiento térmico, adquiere elasticidad y resistencia.
+
+                                                                             72
+     Si todas estas máquinas se controlan desde un punto común mediante
+
+una pantalla de visualización, se adivina enseguida que, a pocas señales de
+
+control de defectos que pongamos por máquina, tendremos una lista de
+
+posibles alarmas más que considerable, por lo cual tendremos la imperiosa
+
+necesidad de organizarlas de alguna manera.
+
+
+
+
+     GRAFICO Nº 2: Diagrama de bloques línea vulcanizada.
+
+     Fuente: Sistemas SCADA: Guía práctica, 1ra Edición.
+
+
+     Primero podemos agrupar las alarmas según la máquina que las genera
+
+y, dentro de cada máquina, hacer clasificaciones según el tipo de alarma
+
+generada. A la hora de mostrar los mensajes de alarma, en la pantalla
+
+podremos mostrar todas las alarmas, las de una sola máquina o las de un
+
+grupo de alarmas dentro de una máquina. De la misma manera, podremos
+
+reconocer las alarmas individualmente o por grupos.
+
+
+     Las alarmas de la Célula de Fabricación Flexible MPS2000, se hallan
+
+agrupadas por estación, pudiéndose reconocer las alarmas correspondientes a
+
+una sola estación, o las de todas de forma simultánea.
+
+
+
+                                                                        73
+2.5.4 SIMATIC WINCC
+
+     SIMATIC WinCC es un control de supervisión y adquisición de datos
+
+(SCADA) y de interfaz hombre-máquina (HMI) del sistema de Siemens. Los
+
+sistemas SCADA se utilizan para supervisar y controlar los procesos físicos
+
+que intervienen en la industria y la infraestructura a gran escala y en largas
+
+distancias. SIMATIC WinCC se puede utilizar en combinación con Siemens
+
+PCS 7 y Teleperm sistemas de control. WinCC está escrito para el sistema
+
+operativo Microsoft Windows. Se utiliza Microsoft SQL Server para el registro y
+
+viene con un VBScript y ANSI C interfaz de programación de aplicaciones.
+
+
+     WinCC y PCS 7 son los primeros sistemas SCADA para ser destinados
+
+específicamente por el malware.
+
+
+2.5.4.1      CARACTERISTICAS DE WINCC
+
+     El sistema de visualización es modular y permite el seguimiento y control
+
+de los procesos tecnológicos de la maquinaria y equipo. WinCC es un sistema
+
+cliente-servidor que se ejecutan en las diferentes versiones del sistema
+
+operativo Microsoft Windows está en ejecución. Con WinCC únicas soluciones
+
+multi-usuario individuales y complejas simples con los clientes y servidores
+
+distribuidos se pueden implementar.
+
+
+     Características de los productos importantes incluyen interfaz de usuario
+
+configurable por el usuario para la visualización y el funcionamiento de la
+
+maquinaria y equipo, la adquisición y el almacenamiento a largo plazo de datos
+
+de los valores medidos, la recogida, almacenamiento y visualización de
+
+alarmas y mensajes, así como proporcionar interfaces de datos a sistemas
+
+externos.
+
+
+                                                                            74
+     El software básico está diseñado básicamente de la industria neutral y se
+
+utiliza para diversas aplicaciones industriales como un sistema SCADA. Las
+
+aplicaciones típicas incluyen la tecnología de producción en la ingeniería
+
+mecánica, la automatización de la ingeniería de procesos y procesos de control
+
+y visualización de los procesos de logística sistemas. Interfaces abiertas,
+
+opciones de software disponibles y la implementación específica del proyecto,
+
+el software se puede adaptar a los requisitos específicos de la industria. Las
+
+áreas típicas de aplicación en la industria son:
+
+
+     La producción en las industrias química, farmacéutica o la industria de
+
+alimentos tanto para continuos procesos, así como para lotes proceso de
+
+visualización de procesos y el control en las plantas de energía, instalaciones
+
+de petróleo y gas, tratamiento de agua y sistemas de tratamiento de aguas
+
+residuales discretos MMS unidades en los sistemas de producción, como la
+
+ingeniería mecánica y la industria de suministros para automóviles y
+
+automoción.
+
+
+     Sistema de control de tráfico como un sistema de información para el
+
+seguimiento de las carreteras y sistemas de túneles técnica de transporte como
+
+un componente de visualización del sistema de manejo de materiales para. Al
+
+igual que en el seguimiento y control de los sistemas de clasificación del correo
+
+o de manejo de equipaje en los aeropuertos.
+
+
+2.5.4.2       INTERFAZ DE USUARIO
+
+     Individualmente interfaces de usuario configurables se utilizan para el
+
+propósito para el control de procesos. El software ofrece para este fin un editor
+
+de gráficos y una selección de objetos estándar disponibles (como objetos
+
+
+                                                                              75
+gráficos, los botones, los cheques y las cajas de radio y deslizadores, campos
+
+de entrada y de salida, listas de texto o z configurable. ActiveX controles para
+
+alarmas, gráficos y tablas). Se expanden Estos objetos estándar a objetos
+
+específicos del usuario o controles ActiveX.
+
+
+     Los objetos se vinculan en el editor de gráficos con los valores de proceso
+
+y comandos. Hay pantallas de valores medidos o mensajes de estado que
+
+aparecen para las válvulas. B .. Al mismo tiempo, es posible controlar la
+
+entrada del usuario mediante el ratón o el teclado estos objetos. Para la
+
+asignación de valores de proceso y comandos, el software ofrece varios
+
+mecanismos. La variante más sencilla es la interconexión directa de las
+
+variables de proceso en un objeto para mostrar un valor o el estado de la
+
+información. Otras alternativas incluyen variables de interconexión de
+
+conversación a través de los llamados "magos" a escenarios complejos que se
+
+pueden realizar a través de los lenguajes de script integrados C-Script y Visual
+
+Basic Scripting. Ofrecido por el sistema operativo u otras funciones externas se
+
+puede utilizar aquí (API de Windows ). Características independientes del
+
+contexto, tales como sondeos, desencadenaron los acontecimientos a las
+
+bibliotecas de secuencias de comandos se pueden realizar mediante scripts
+
+"globales" y las acciones.
+
+
+     Textos en la interfaz de usuario pueden ser multi-idioma y se puede
+
+cambiar en tiempo de ejecución. Se soportan en una solución de visualización
+
+de hasta 34 idiomas diferentes.
+
+
+
+
+                                                                             76
+     Administración de usuarios
+
+
+     WinCC implementa una gestión integrada para el usuario con derechos
+
+de acceso, tanto en el proyecto y en tiempo de ejecución (por ejemplo. B en la
+
+denominada interfaz de tiempo de ejecución de control) puede ser controlado.
+
+Puede 128 grupos de usuarios se crean y administran con hasta 128 usuarios
+
+individuales. Se puede definir, que a su vez se asignan a usuarios y / o grupos
+
+de usuarios 999 niveles de permisos diferentes.
+
+
+     Sistema de reporte
+
+
+     Las capturas de software y tiendas de procesar los mensajes y eventos
+
+locales en los archivos y los hace filtrados y ordenados según sea necesario
+
+disponible. Los mensajes pueden ser formados directamente a partir de la
+
+información binaria o como el resultado de un límite se supera para valores
+
+analógicos. Archivado, la tala y la estructura de informes se pueden programar
+
+libremente.
+
+
+     Sistema de archivo
+
+
+     Secuencias de valor pueden ser almacenados en archivos de valores de
+
+proceso. Este archivo se encuentra en un servidor Microsoft SQL Server - la
+
+base de datos implementada. Los valores se comprime sin pérdida almacenan
+
+en la base de datos. La presentación en la interfaz de usuario se puede realizar
+
+por los objetos incorporados, tales como el control de tendencias. El acceso
+
+directo a estos datos a través de interfaces opcionales con aplicaciones
+
+externas es posible.
+
+
+
+
+                                                                             77
+      Presentación de informes y el sistema de registro
+
+
+      El protocolo permite la expresión controlada por el diseño del sistema de
+
+los datos adquiridos. Incluye varios tipos de protocolos de este tipo. Como
+
+registros de alarmas, registros de operación. Los informes se pueden guardar
+
+como un archivo y se muestran como una vista previa en la pantalla.
+
+
+2.6   HIPÓTESIS DE LA INVESTIGACIÓN
+
+
+2.6.1 HIPÓTESIS GENERAL
+
+              Es posible el diseño de un controlador de procesos industriales.
+
+
+2.6.2 HIPÓTESIS ESPECÍFICO
+
+              Es posible diseñar el controlador industrial con el controlador
+               lógico programable de SIEMENS/SIAMTIC-S7.
+              Es posible hacer el estudio del proceso industrial de la planta
+               virtual ITC-PLC.
+              Es posible el diseño de monitorización del sistema SCADA.
+
+2.7   OPERACIONALIZACIÓN DE VARIABLES
+
+  Variables                                   Dimensiones     Indicador       Índice
+
+   Variable          Controlador de            Control y      Robustez      Excelente
+ Dependiente              procesos          automatización
+                        industriales
+                       Controlador          Instrumentación   Robustez      Bueno
+                            lógico            y control de
+  Variables          programable de             procesos
+                         SIEMENS/
+                      SIAMTIC-S7.
+  Independí-        Proceso industrial         Control y      Interactivo   Regular
+     entes             de la Planta         automatización
+                     virtual ITC-PLC
+                      Monitorización           Control y        Visual      Bueno
+                       del sistema          automatización
+                           SCADA
+
+      TABLA Nº 7: Operacionalización de variables.
+
+      Fuente: Elaboración del autor.
+
+
+
+                                                                                      78
+    3   CAPITULO III
+
+
+
+DISEÑO METODOLÓGICO DE
+
+    INVESTIGACIÓN
+
+
+
+
+                         79
+3.1   TIPOS Y DISEÑO DE INVESTIGACIÓN
+
+      El tipo de investigación es experimental, pero simulada. Debido a que se
+
+manipulará variables, para analizar sus efectos.
+
+
+      El área de investigación es el de Control Automático.
+
+
+      La línea de investigación es la de Control Automático de Procesos.
+
+
+      El enfoque es cuantitativo
+
+
+3.2   POBLACIÓN Y MUESTRA DE INVESTIGACIÓN
+
+      Los datos adquiridos son de la planta de simulación del sistema ITS-PLC,
+
+datos discretos, la población beneficiada son todas las relacionadas con la
+
+automatización y control industrial.
+
+
+3.3   UBICACIÓN Y DESCRIPCIÓN DE LA POBLACIÓN
+
+
+3.3.1 CARACTERÍSTICAS GEOGRÁFICAS
+
+      La geografía puneña nos muestra regiones de Sierra y también de Selva.
+
+La Sierra -que representa el 88.1 % del total de la superficie departamental-
+
+está determinada por los ramales Occidental y Oriental de la Cordillera de los
+
+Andes, con altitudes desde los 3, 812 m.s.n.m. (nivel del lago Titicaca) hasta
+
+alturas superiores a los 5,500 m.s.n.m.; en esta zona se distinguen dos áreas:
+
+el altiplano y la cordillera.
+
+
+      El Altiplano se ubica en el área de influencia del Lago Titicaca, cuya
+
+meseta está formada por extensas planicies superpuestas en terrazas
+
+gigantescas; la parte más baja y próxima al lago es la zona más favorable
+
+para la agricultura. Por su parte, la cordillera presenta formaciones ecológicas
+
+
+
+                                                                             80
+de páramo húmedo y altitudes de punas muy frígidas, las alturas en esta área
+
+son por lo general.
+
+
+
+
+     FIGURA Nº 40: Características geográficas de Puno.
+
+     Fuente: Google Map.
+
+
+
+
+3.3.2 CARACTERÍSTICAS DEMOGRÁFICAS
+
+     Según datos del INEI, en el periodo intercensal 1993 – 2007, la población
+
+total de Puno se incrementó en 188,592 habitantes, llegando a alcanzar un total
+
+de 1, 268,441 moradores, es decir, un aumento de 17.46%; respecto a la
+
+población total de 1993, que fue de 1 millón 79 mil 849 habitantes. Por su parte,
+
+la población total estimada para la región para el 2012 es de 1 millón 377 mil
+
+122 habitantes, con una densidad demográfica promedio de; 17.62; hab. /km².
+
+
+                                                                              81
+     Los resultados de los Censos de 1993 y 2007 muestran que de las trece
+
+provincias puneñas, las que tienen mayor volumen de población son San
+
+Román y Puno las mismas que concentran el 20.07% y 17.77% de la población
+
+total de la región. Asimismo, son las provincias de Moho, Yunguyo y Lampa
+
+quienes concentran los menores volúmenes de población.
+
+
+     Dos son las provincias puneñas que presentan predominio de población
+
+urbana: San Román, con el 91.62% de su población residente en zona urbana
+
+(la misma que alberga la ciudad de Juliaca) y la provincia de Puno, con un
+
+59.66% de población urbana. A pesar de la pérdida de importancia relativa de
+
+la población rural, se aprecia una importante concentración de población rural
+
+en las provincias de Huancané (80.1%), Sandia (73.4%), Azángaro (72.6%),
+
+Chucuito (71.7%) y Moho (71.4%).
+
+
+3.3.3 CARACTERÍSTICAS ECONÓMICAS
+
+     La actividad agropecuaria es la principal ocupación en la región, pese a
+
+las repetidas heladas, sequías o inundaciones. El trabajo agrícola tiene un
+
+carácter estacional, lo que afecta la economía de la población.
+
+
+     Se siembra papa, quinua, cebada, cañihua, oca y habas. Es el primer
+
+productor de ovinos y auquénidos y, por tanto, de lana, en el país es el
+
+segundo productor nacional de truchas para exportación. El turismo es una
+
+actividad económica importante. Su producción minera es de plata, oro, estaño,
+
+uranio y plomo. La central hidroeléctrica de San Gabán provee energía a la
+
+región.
+
+
+
+
+                                                                           82
+3.3.4 POBLACIÓN BENEFICIADA
+
+      La población que se beneficiada son las industrias o pequeñas industrias,
+
+que estarían dispuestas a cambiar sus sistemas de control por nuevos
+
+sistemas de control moderno.
+
+
+3.4   TÉCNICAS E INSTRUMENTOS PARA RECOLECTAR INFORMACIÓN
+
+      Para la recopilación de los datos del presente trabajo, se utilizaron los
+
+siguientes recursos:
+
+
+Método                         técnica                  instrumento
+
+Descriptivo                    Observación              Apuntes
+
+Análisis documental            Observación              Lectura
+
+
+      TABLA Nº 8: Técnicas para recolección de datos.
+
+      Fuente: Elaboración del Autor.
+
+
+Los materiales utilizados en este proyecto son:
+
+
+Libros; materiales de donde se obtuvo la información conceptual.
+
+
+Manuales; materiales donde obtuvo información sobre el funcionamiento de los
+
+software.
+
+
+Software; en general se usó los siguientes softwares:
+
+
+Step7 v5.5 sp3: Software de programación para PLC siemens s7-300.
+
+
+Simatic s7-GRAPH; Herramienta para la programación de grafcet.
+
+
+Simatic s7-SCL; Herramienta para la programación en texto estructurado.
+
+
+
+
+                                                                            83
+Wincc; Software de siemens para desarrollo de sistema de monitorización
+
+SCADA.
+
+
+3.5   TÉCNICAS PARA EL PROCESAMIENTO Y ANÁLISIS DE DATOS
+
+      Para el procesamiento y análisis de los datos del presente trabajo, se
+
+utilizaron los siguientes recursos:
+
+
+Método                         técnica                 instrumento
+
+Simulación                     Observación             Software
+
+Observación                    Observación             Apuntes
+
+
+      TABLA Nº 9: Procesamiento y análisis de datos.
+
+      Fuente: Elaboración del Investigador.
+
+
+
+
+                                                                         84
+        4 CAPITULO IV
+
+
+
+ ANÁLISIS E INTERPRETACIÓN DE
+
+RESULTADOS DE LA INVESTIGACIÓN
+
+
+
+
+                                 85
+4.1   DESCRIPCIÓN GENERAL DEL PROYECTO
+
+      El proyecto de investigación tiene como finalidad entender cómo realizar
+
+un controlador de procesos industriales trabajando desde el nivel de campo
+
+hasta el nivel de visualización, este proyecto es una aproximación a la
+
+implementación ya que será simulado.
+
+
+      Al tener un proceso industrial se realiza un estudio profundo del proceso
+
+en este caso el sistema mezclador de colores de pintura proceso simulado
+
+mediante el software ITSPLC que consta de un proceso de tuberías, tanques,
+
+válvulas, finales de carrera y bombas eléctricos, para mezclar los colores
+
+básicos de pintura; rojo, verde y azul a diecinueve colores derivados de estos
+
+colores básicos para su posterior distribución todo en un entorno de simulación
+
+en 3D.
+
+
+      El diseño del sistema de control que para esta sistema será un control
+
+secuencial, donde la programación del PLC será con el software de la marca
+
+siemens utilizando lenguajes de programación básicos como el KOP y
+
+lenguajes de programación avanzados como el S7-GRAPH (programación para
+
+procesos secuenciales) y S7-SCL (programación de texto estructurado).
+
+
+      El diseño del monitoreo, o sistema SCADA para la visualización y
+
+monitoreo remoto de las alarmas, visualizadores de sensores y actuadores,
+
+visualización de señales de control.
+
+
+      Se mostrara la simulación del sistema mezclador de pintura con son el
+
+software ITSPLC así como la simulación del sistema de control PLC siemens
+
+simatic s7-300 junto con el monitoreo remoto, sistema SCADA.
+
+
+
+
+                                                                            86
+4.2   DESCRIPCION DEL PROCESO MEZCLADOR DE PINTURA
+
+      el software ITS-PLC que consta de un proceso de tuberías, tanques,
+
+válvulas, finales de carrera y bombas eléctricos, para mezclar los colores
+
+básicos de pintura; rojo, verde y azul a diecinueve colores derivados de estos
+
+colores básicos para su posterior distribución todo en un entorno de simulación
+
+en 3D. este proceso es denominado procesamiento por lotes.
+
+
+
+
+      FIGURA Nº 41: Procesamiento de mezclador de pintura.
+
+
+
+
+Este sistema de procesamiento por lotes simula un proceso de mezclado de
+
+pintura. El objetivo es mezclar tres colores primarios (rojo, verde y azul) con el
+
+fin de obtener un color deseado.
+
+
+
+
+                                                                               87
+     FIGURA Nº 42: Mezclador de pintura, dirección del proceso.
+
+El sistema de procesamiento por lotes consta de tres depósitos de pintura, tres
+
+tanques medidores y un tanque de mezclado. Los depósitos de pintura (A, B,
+
+C) contienen pintura roja, verde y azul, respectivamente. La pintura de los
+
+tanques es descargada a través de las válvulas (D, E, F) a los tanques
+
+medidores (G, H, I). Cada uno de estos tanques tiene dos puntos de medición.
+
+La pintura contenida en los tanques de medición es descargada a través de las
+
+válvulas (J, K, L) al tanque de mezclado (M). Si el volumen de la pintura
+
+descargada excede la capacidad del tanque, el excedente es descargado por
+
+medio del tubo de purga (O). El proceso de mezclado debe tener una duración
+
+mínima de cinco segundos. La pintura final es descargada a través de la
+
+válvula (N) al interior del tubo de salida (P).Colores de pintura posible obtenida
+
+combinando los niveles de los sensores.
+
+
+
+
+                                                                               88
+     FIGURA Nº 43: Ubicación de sensores para los tamques.
+
+
+
+
+     FIGURA Nº 44: Combinación de los colores primarios.
+
+Señales de entrada.
+
+
+
+
+                                                             89
+     FIGURA Nº 45: Ubicación de sensores, vista frontal.
+
+
+
+
+     FIGURA Nº 46: Ubicación de sensores, vista de arriba.
+
+Señales de salida.
+
+                                                             90
+TABLA Nº 10: Tabla de descripción de actuadores.
+
+
+
+
+FIGURA Nº 47: Ubicación de actuadores, vista frontal.
+
+
+
+
+FIGURA Nº 48: Ubicación de actuadores, vista de arriba.
+
+
+
+
+                                                          91
+4.3   PROGRAMACION DEL PLC S7-300
+
+      El SIMATIC S7-300 está concebido para soluciones de sistema
+
+innovadoras con especial énfasis en tecnología de fabricación y, como sistema
+
+de automatización universal, constituye una solución óptima para aplicaciones
+
+en estructuras centralizadas y descentralizadas. El S7-300 se puede configurar
+
+de forma modular, no hay ninguna regla de asignación de slots para los
+
+módulos periféricos. Hay disponible una amplia gama de módulos, tanto para
+
+estructuras centralizadas, como para estructuras descentralizadas.
+
+
+      El uso de la Micro Memory Card como memoria de datos y programa
+
+hace innecesaria una pila tampón y ahorra costes de mantenimiento. Además,
+
+en esta tarjeta de memoria se puede guardar un proyecto asociado con
+
+símbolos y comentarios para simplificar el trabajo del servicio técnico.
+
+Asimismo, la Micro Memory Card permite la actualización sencilla del programa
+
+o del firmware sin programadora. Además se puede utilizar durante el
+
+funcionamiento para guardar y consultar datos, por ejemplo, para archivar
+
+medidas o para procesar recetas. Además de la automatización estándar, en
+
+un S7-300 también se pueden integrar funciones de seguridad y control de
+
+movimiento
+
+
+
+
+      FIGURA Nº 49: PLC Simatic s7-300 de SIEMENS.
+
+      Fuente: Autómatas Programables y Sistemas de Automatización, 2da Edición.
+
+                                                                                  92
+4.3.1 PROGRAMA S7-STEP7
+
+La programación se hiso de la siguiente manera: primero se creó un programa
+
+en simatic manager con el nombre PROYECT_01.
+
+
+
+
+     FIGURA Nº 50: Simatic Manager de Step7.
+
+     Fuente: Autómatas Programables y Sistemas de Automatización, 2da Edición.
+
+
+Seguidamente se realizó la configuración del hardware en el hw-config de
+
+simatic manager donde se introduce una fuente, un CPU, entradas digitales y
+
+salidas digitales.
+
+
+
+
+     FIGURA Nº 51: Hw-config de Step7.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+                                                                                 93
+4.3.2 PROGRAMA S7-GRAPH
+
+La programación básica del proyecto está hecha en S7-GRAPH, para esto se
+
+creó un programa bloque de funciones FB1 hecho el S7-GRAPH se muestra en
+
+la siguiente figura el grapcet de primer nivel.
+
+
+
+
+     FIGURA Nº 52: Grafcet de primer nivel.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+                                                                     94
+El grafcet de segundo nivel es la programación detallada del S7-GRAPH como
+
+se muestra a continuación.
+
+
+
+
+     FIGURA Nº 53: Grapcet de segundo nivel.
+
+
+
+
+     FIGURA Nº 54: Grapcet de segundo nivel continuación.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+                                                                       95
+4.3.3 PROGRAMA S7-SCL.
+
+El proyecto tiene una media complejidad es por eso que se crea un programa
+
+el S7_SCL donde se realiza la programación de selección de colores, para esto
+
+de creo una función FC20 el cual dependiendo del valor de la variable local
+
+”color” realizara la elección de llenado de los tanques de pintura ya en media o
+
+alto nivel.
+
+
+      FUNCTION FC20 : INT
+
+      VAR_INPUT
+        // variables temporales
+        color:INT;
+      END_VAR
+      VAR_OUTPUT
+        // variables estáticas
+        NLR:BOOL;
+        NLV:BOOL;
+        NLA:BOOL;
+      END_VAR
+      VAR_TEMP
+        // variables temporales
+
+      END_VAR
+      VAR
+        // variables estáticas
+
+      END_VAR
+      CASE color OF
+         0 : NLR:=Sen_Niv_Medio_Pin_Roja;
+            NLV:=Sen_Niv_Medio_Pin_Verde;
+            NLA:=Sen_Niv_Medio_Pin_Azul;
+             // Instrucciones_0..3
+
+           1 : NLR:=Sen_Niv_Medio_Pin_Roja;
+              NLV:=Sen_Niv_Alto_Pin_Verde;
+              NLA:=Sen_Niv_Alto_Pin_Azul;
+              // Instrucciones_8
+           2 : NLR:=Sen_Niv_Medio_Pin_Roja;
+              NLV:=Sen_Niv_Medio_Pin_Verde;
+              NLA:=Sen_Niv_Alto_Pin_Azul;
+
+           3 : NLR:=Sen_Niv_Alto_Pin_Roja;
+              NLV:=Sen_Niv_Medio_Pin_Verde;
+              NLA:=Sen_Niv_Alto_Pin_Azul;
+
+           4 : NLR:=Sen_Niv_Medio_Pin_Roja;
+              NLV:=TRUE;
+              NLA:=Sen_Niv_Alto_Pin_Azul;
+
+           5 : NLR:=Sen_Niv_Alto_Pin_Roja;
+              NLV:=Sen_Niv_Medio_Pin_Verde;
+
+                                                                             96
+     NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  6 : NLR:=Sen_Niv_Alto_Pin_Roja;
+     NLV:=1;
+     NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  7 : NLR:=Sen_Niv_Medio_Pin_Roja;
+     NLV:=1;
+     NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  8 : NLR:=Sen_Niv_Medio_Pin_Roja;
+     NLV:=1;
+     NLA:=1;
+
+  9 : NLR:=Sen_Niv_Alto_Pin_Roja;
+     NLV:=Sen_Niv_Alto_Pin_Verde;
+     NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  10 : NLR:=Sen_Niv_Medio_Pin_Roja;
+    NLV:=Sen_Niv_Medio_Pin_Verde;
+    NLA:=1;
+
+  11 : NLR:=Sen_Niv_Alto_Pin_Roja;
+    NLV:=Sen_Niv_Medio_Pin_Verde;
+    NLA:=1;
+
+  12 : NLR:=Sen_Niv_Medio_Pin_Roja;
+    NLV:=Sen_Niv_Alto_Pin_Verde;
+    NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  13 : NLR:=1;
+    NLV:=Sen_Niv_Alto_Pin_Verde;
+    NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  14 : NLR:=1;
+    NLV:=Sen_Niv_Medio_Pin_Verde;
+    NLA:=1;
+
+  15 : NLR:=Sen_Niv_Medio_Pin_Roja;
+    NLV:=Sen_Niv_Alto_Pin_Verde;
+    NLA:=1;
+
+  16 : NLR:=1;
+    NLV:=Sen_Niv_Medio_Pin_Verde;
+    NLA:=Sen_Niv_Alto_Pin_Azul;
+
+  17 : NLR:=1;
+    NLV:=Sen_Niv_Medio_Pin_Verde;
+    NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  18 : NLR:=1;
+    NLV:=1;
+    NLA:=Sen_Niv_Medio_Pin_Azul;
+
+ELSE:
+  // Instrucciones_ELSE
+  ;
+END_CASE;
+
+// Área de instrucciones
+
+
+                                      97
+       ;
+
+
+       // Área de instrucciones
+       ;
+       FC20:= 100;
+     END_FUNCTION
+
+
+
+
+Programación del OB1, el OB1 es el bloque de organización principal el
+
+programa se ejecutara principalmente en este bloque para ello se hiso un
+
+programa de star, stop de la planta además del llamado de los bloques de FB1,
+
+que es el bloque donde se ejecuta la secuencia hecho en S7-GRAPH así como
+
+el llamado de la función FC20 donde se ejecuta la programación de selección
+
+de colores hecha en S7-SCL.
+
+
+
+
+     FIGURA Nº 55: Programa OB1 KOP.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+                                                                          98
+      FIGURA Nº 56: Programa OB1 continuación.
+
+      Fuente: Elaboración del Investigador.
+
+
+4.4   MONITORIZACION DE SISTEMA SCADA
+
+Se creó las variables en el wincc Explorer.
+
+
+
+
+      FIGURA Nº 57: Variables del WinCC.
+
+      Fuente: Elaboración del Investigador.
+
+
+Creación de las pantallas la principal y las secundarias.
+
+
+
+                                                            99
+     FIGURA Nº 58: Pantallas del WinCC.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+     FIGURA Nº 59: Pantallas del WinCC figuras.
+
+     Fuente: Elaboración del Investigador.
+
+
+4.4.1 PANTALLA DE INICIO
+
+El sistema SCADA realizado en WINCC consta con diferentes pantallas; la
+
+pantalla principal muestra las variables del proceso mezclador de pintura. Esta
+
+pantalla al ser el principal tiene opciones de acceso a las diferentes pantallas
+
+secundarias.
+
+
+                                                                            100
+     FIGURA Nº 60: Pantalla de inicio.
+
+     Fuente: Elaboración del Investigador.
+
+
+4.4.2 PANTALLA DE SELECCIÓN DE COLORES
+
+Esta pantalla secundaria muestra la combinación de colores. Al seleccionar las
+
+los diferentes colores este envía el dato a la variable de datos de color para
+
+que sea leído por el programa hecho en S7_SCL.
+
+
+
+
+     FIGURA Nº 61: Pantalla secundaria, selección de colores.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+                                                                          101
+4.4.3 PANTALLAS SECUNDARIAS
+
+     Esta pantalla se muestra el tanque de mesclado donde ingresan las tres
+
+combinaciones de colore básicos, mostrando las diferentes variables del motor
+
+de mezclado y la válvula de salida.
+
+
+
+
+     FIGURA Nº 62: Pantalla de mezclador.
+
+     Fuente: Elaboración del Investigador.
+
+
+La pantalla secundario mostrado abajo es del tanque de almacenamiento de la
+
+`pintura de diferentes colores básicos, mostrando los indicadores de nivel,
+
+estado de la válvula de llenado, estados del motobomba.
+
+
+
+
+                                                                         102
+     FIGURA Nº 63: Pantalla de tanque.
+
+     Fuente: Elaboración del Investigador.
+
+
+Configuración del WinPLC-Engine, para que exista la comunicación de datos
+
+entre el PLC simulado (WinPLC-Engine) y la plata virtual ITSPLC se configura
+
+el WinPLC-Engine colocando la comunicación en local host.
+
+
+
+
+     FIGURA Nº 64: WinPLC Engine.
+
+
+
+
+                                                                        103
+     FIGURA Nº 65: Configuración del WinPLC-Engine.
+
+
+
+
+Pruebas realizadas.
+
+
+
+
+     FIGURA Nº 66: Pantalla principal Runtime.
+
+     Fuente: Elaboración del Investigador.
+
+
+
+
+                                                      104
+FIGURA Nº 67: Pantalla secundario Runtime.
+
+Fuente: Elaboración del Investigador.
+
+
+
+
+FIGURA Nº 68: ITC_PLC en modo automático.
+
+
+
+
+                                             105
+FIGURA Nº 69: Descarga del color mesclado.
+
+
+
+
+                                             106
+                              CONCLUSIONES
+
+Primera.- Es posible realizar un controlador de procesos industriales
+
+secuencial utilizando las herramientas necesarias y adecuadas para este
+
+propósito, ya que existen herramientas como el S7-GRAPH que son
+
+específicamente para procesos secuenciales.
+
+
+Segunda.- Las plantas virtuales son herramientas útiles para casos de estudio
+
+y de investigación, además nos una perspectiva casi ideal de los procesos
+
+industriales como si se estuviera tratando con una real pero teniendo en
+
+cuentas el tiempo de retraso a la respuesta además estas plantas virtuales
+
+requieren de una gran capacidad de procesamiento de las computadoras
+
+donde se instalen.
+
+
+Tercera.- Los sistemas SCADA como el WinCC son herramientas que son
+
+necesarios para la visualización y registro de las variables ya que en un
+
+proceso real es de vital importancia que estos datos sean registrados para que
+
+por ejemplo la gerencia de procesos vea el estado del proceso así tomar
+
+decisiones correctas. Este software WinCC requiere de computadoras con altas
+
+prestación debido a que en su procesamiento maneja una gran cantidad de
+
+datos.
+
+
+
+
+                                                                          107
+                                SUGERENCIAS
+
+Primera.- para un trabajo aún más completo y más manejable se recomienda
+
+utilizar computadores de mayor prestación ya a la hora de las simulaciones
+
+ocurre que demorar mucho e incluso algunas veces la máquina de cuelga.
+
+
+Segunda.- la planta virtual ITC-PLC professional son brinda la posibilidad de
+
+conectar físicamente con cualquier PLC del mercado con una tarjeta de
+
+adquisición de datos, de tal manera que tuviéramos en una computadora
+
+simulando el proceso y mediante la Tarjeta enviar los datos al PLC.
+
+
+
+
+                                                                         108
+                                 BIBLIOGRAFÍA
+
+E. Mandado Pérez, J. Marcos Acevedo, C. Fernández Silva, J. Armesto
+      Quiroga.   .     (2010).   Autómatas   Programables   y   Sistemas   de
+      Automatización. Barcelona: Alfaomega Grupo Editor.
+
+E. Mandado Pérez, J. Marcos Acevedo, C. Fernández Silva, J. Armesto
+      Quiroga. (2008). Automatas Programables: Entorno y Aplicaciones.
+      Madrid: Paraninfo S.A.
+
+Hume, R. (2005). Controlling with SIMATIC: Practice Book for SIMATIC S7 and
+      SIMATIC        PCS7    control   systems.   Berlin(Germany):   Siemens
+      Aktiengesellsehaft.
+
+J. Domingo Peña, J. Gámiz Caro, Antoni Grau i Saldes,Herminio Matinez.
+      (2003). Diseño y aplicaciones con autómatas programables. Eureca
+      Media .
+
+J. Martinez Cabeza de Vaca, J. d. (1999). Problemas Resueltos con Autómatas
+      Programables mediante Grafcet. España: Servicio de Publicaciones,
+      Universidad de Murcia.
+
+J. Pedro Romera, J. Antonio Lorite, Sebastian Montoro. (2007). Automatización:
+      Problemas Resueltos con Autómatas Programables. Madrid(España):
+      Paraninfo S.A.
+
+Juan Carlos Martin, MAria Pilar Garcia. (2012). Automatismos Industriales.
+      Madrid(Epaña): Editorial Editex S.A.
+
+Penin, A. R. (2007). Sistemas SCADA: Guia práctica. Barcelona(España):
+      Marcombo S.A.
+
+Pere Ponsa Asensio, Ramon Vilanova Arbós. (2005). Automatización de
+      procesos mediante la guia GEMMA. Cataluña(España): Ediciones UPC .
+
+Vicente Guerrero, Ramón L. Yuste, Luis Martínez. (2010). Comunicaciones
+      Industriales. Barcelo(España): Alfaomega S.A.
+
+
+
+
+                                                                           109
+                                 ANEXO 1
+
+Programación s7_scl.
+
+FUNCTION FC20 : INT
+
+VAR_INPUT
+  // variables temporales
+  color:INT;
+END_VAR
+VAR_OUTPUT
+  // variables estáticas
+  NLR:BOOL;
+  NLV:BOOL;
+  NLA:BOOL;
+END_VAR
+VAR_TEMP
+  // variables temporales
+
+END_VAR
+VAR
+  // variables estáticas
+
+END_VAR
+CASE color OF
+   0 : NLR:=Sen_Niv_Medio_Pin_Roja;
+      NLV:=Sen_Niv_Medio_Pin_Verde;
+      NLA:=Sen_Niv_Medio_Pin_Azul;
+       // Instrucciones_0..3
+
+     1 : NLR:=Sen_Niv_Medio_Pin_Roja;
+        NLV:=Sen_Niv_Alto_Pin_Verde;
+        NLA:=Sen_Niv_Alto_Pin_Azul;
+        // Instrucciones_8
+     2 : NLR:=Sen_Niv_Medio_Pin_Roja;
+        NLV:=Sen_Niv_Medio_Pin_Verde;
+        NLA:=Sen_Niv_Alto_Pin_Azul;
+
+     3 : NLR:=Sen_Niv_Alto_Pin_Roja;
+        NLV:=Sen_Niv_Medio_Pin_Verde;
+        NLA:=Sen_Niv_Alto_Pin_Azul;
+
+     4 : NLR:=Sen_Niv_Medio_Pin_Roja;
+        NLV:=TRUE;
+        NLA:=Sen_Niv_Alto_Pin_Azul;
+
+     5 : NLR:=Sen_Niv_Alto_Pin_Roja;
+        NLV:=Sen_Niv_Medio_Pin_Verde;
+        NLA:=Sen_Niv_Medio_Pin_Azul;
+
+     6 : NLR:=Sen_Niv_Alto_Pin_Roja;
+        NLV:=1;
+        NLA:=Sen_Niv_Medio_Pin_Azul;
+
+     7 : NLR:=Sen_Niv_Medio_Pin_Roja;
+        NLV:=1;
+        NLA:=Sen_Niv_Medio_Pin_Azul;
+
+
+
+                                           110
+     8 : NLR:=Sen_Niv_Medio_Pin_Roja;
+        NLV:=1;
+        NLA:=1;
+
+     9 : NLR:=Sen_Niv_Alto_Pin_Roja;
+        NLV:=Sen_Niv_Alto_Pin_Verde;
+        NLA:=Sen_Niv_Medio_Pin_Azul;
+
+     10 : NLR:=Sen_Niv_Medio_Pin_Roja;
+       NLV:=Sen_Niv_Medio_Pin_Verde;
+       NLA:=1;
+
+     11 : NLR:=Sen_Niv_Alto_Pin_Roja;
+       NLV:=Sen_Niv_Medio_Pin_Verde;
+       NLA:=1;
+
+     12 : NLR:=Sen_Niv_Medio_Pin_Roja;
+       NLV:=Sen_Niv_Alto_Pin_Verde;
+       NLA:=Sen_Niv_Medio_Pin_Azul;
+
+     13 : NLR:=1;
+       NLV:=Sen_Niv_Alto_Pin_Verde;
+       NLA:=Sen_Niv_Medio_Pin_Azul;
+
+     14 : NLR:=1;
+       NLV:=Sen_Niv_Medio_Pin_Verde;
+       NLA:=1;
+
+     15 : NLR:=Sen_Niv_Medio_Pin_Roja;
+       NLV:=Sen_Niv_Alto_Pin_Verde;
+       NLA:=1;
+
+     16 : NLR:=1;
+       NLV:=Sen_Niv_Medio_Pin_Verde;
+       NLA:=Sen_Niv_Alto_Pin_Azul;
+
+     17 : NLR:=1;
+       NLV:=Sen_Niv_Medio_Pin_Verde;
+       NLA:=Sen_Niv_Medio_Pin_Azul;
+
+     18 : NLR:=1;
+       NLV:=1;
+       NLA:=Sen_Niv_Medio_Pin_Azul;
+
+  ELSE:
+    // Instrucciones_ELSE
+    ;
+  END_CASE;
+
+  // Área de instrucciones
+  ;
+
+
+  // Área de instrucciones
+  ;
+  FC20:= 100;
+END_FUNCTION
+
+
+
+
+                                         111
+                         ANEXO 2
+
+Programación S7-GRAPH.
+
+
+
+
+                                   112
+                               ANEXO 3
+
+Pantalla de inicio del SCADA
+
+
+
+
+                                         113
+                         ANEXO 4
+
+Pantallas secundarias.
+
+
+
+
+                                   114
+

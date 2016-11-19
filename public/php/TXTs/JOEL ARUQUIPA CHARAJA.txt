@@ -1,0 +1,4607 @@
+      UNIVERSIDAD NACIONAL DEL ALTIPLANO PUNO
+
+            FACULTAD DE INGENIERÍA AGRÍCOLA
+
+       ESCUELA PROFESIONAL DE INGENIERÍA AGRÍCOLA
+
+
+
+
+RELACIÓN ENTRE LA DISPOSICIÓN A PAGAR Y LOS FACTORES
+
+SOCIOECONÓMICOS DE LOS POBLADORES USUARIOS DE AGUA
+
+          POTABLE DE LA CIUDAD DE YUNGUYO
+
+
+                        TESIS
+
+                    PRESENTADO POR:
+
+
+            Bach. JOEL ARUQUIPA CHARAJA
+
+                PARA OPTAR EL TITULO DE:
+
+
+               INGENIERO AGRICOLA
+
+                      PUNO – PERÚ
+
+
+                          2015
+TEMA: ORDENAMIENTO TERRITORIAL Y MEDIO AMBIENTE
+AREA: AGUA POTABLE Y ALCANTARILLADO
+                                                  2
+                                  DEDICATORIAS
+
+       A Dios, el ser divino que me
+
+acompaña en todo momento.
+
+       A mis padres Juan y Esperanza,
+
+por su constante apoyo en el logro de mis
+
+metas, a mi pareja Maricruz mis hijos Jhair,
+
+Zoe Ximena, mis hermanos Yovana Milagros
+
+y William por su aliento y comprensión.
+
+                                            Joel
+
+
+
+
+                                                   A mis familiares más cercanos por
+
+                                                   su cariño y aliento constante Ricardo,
+
+                                                   Karol, Richard, Ricky y André
+
+                                                                                        Joel.
+
+
+
+
+                                                                                                3
+                               AGRADECIMIENTO
+
+                                                   A dios nuestro padre celestial, toda
+
+                                            mi gratitud a quien ha permitido cada paso
+
+                                            de superación en mi vida por darle paz a
+
+                                            mi alma con la serenidad y tranquilidad, a
+
+                                            él le debo lo que soy y lo que tengo.
+
+
+
+
+En gratitud a la labor que cumple nuestra
+
+Alma Mater Universidad Nacional del
+
+Altiplano y a cada uno de los docentes
+
+de la Escuela Profesional de Ingeniería
+
+Agrícola por haber brindado conocimientos
+
+y formarnos como futuros profesionales,
+
+herederos del progreso de nuestra
+
+región puno.
+
+
+
+                                                          Al M.Sc. Percy Arturo Ginez
+                                                   Choque, por su acertada dirección
+                                                   en presente trabajo de tesis.
+
+
+
+
+                                                                                      4
+                                                              INDICE
+
+RESUMEN ................................................................................................................................. 8
+CAPITULO I .............................................................................................................................. 9
+PLANTEAMIENTO DEL PROBLEMA ................................................................................... 9
+   1.1.      Descripción del problema ............................................................................................ 9
+   1.2. Planteamiento del Problema .......................................................................................... 12
+   1.3. Enunciado del problema ................................................................................................ 13
+      1.3.1. Problema General .................................................................................................... 13
+      1.3.2. Problemas Específicos............................................................................................. 13
+   1.4. Justificación e Importancia ............................................................................................ 14
+   1.5. Limitaciones de la Investigación ................................................................................... 16
+   1.6. Objetivos de Investigación............................................................................................. 17
+      1.6.1. Objetivo General ..................................................................................................... 17
+      1.6.2. Objetivos Específicos .............................................................................................. 17
+CAPITULO II ........................................................................................................................... 18
+2.1. Marco Teórico ................................................................................................................... 18
+   2.1.1. Antecedentes de la Investigación ................................................................................ 18
+   2.1.2. Base Teórico ............................................................................................................... 20
+      2.1.2.1. Enfoque del Valor Económico ............................................................................. 20
+      2.1.2.2. Teorías del Valor y las Teorías de Preferencias ................................................... 21
+   2.1.3. Determinación de Valores .......................................................................................... 23
+   2.1.4. Medidas del Bienestar ................................................................................................. 24
+   2.1.5. Variación Compensatoria (C) ..................................................................................... 24
+   2.1.6. Variación Equivalente (VE) ........................................................................................ 24
+   2.1.7. Definición Matemática de C y VE .............................................................................. 25
+   2.1.8. Determinación de la Variación Compensada .............................................................. 25
+   2.1.9. Determinación del Modelo ......................................................................................... 28
+   2.1.10. Forma Funcional de Vi: lineal .................................................................................. 30
+   2.1.11. Especificación del Modelo........................................................................................ 31
+   2.1.12. Método de Valoración Contingente (VC) ................................................................. 32
+   2.1.13. Las Percepciones Ambientales en la Valoración del Agua ...................................... 33
+2.2. Marco Conceptual.............................................................................................................. 34
+                                                                                                                                         5
+   2.2.1. Agua Potable. .............................................................................................................. 34
+   2.2.2. Disposición a Pagar .................................................................................................... 35
+   2.2.3. Factores Socioeconómicos:......................................................................................... 35
+   2.2.4. Valoración ................................................................................................................... 37
+   2.2.5. Servicios Ambientales: ............................................................................................... 37
+   2.2.6. Pago Por Servicios Ambientales: ................................................................................ 37
+   2.2.7. Bienes y Servicios Ambientales: ................................................................................ 38
+2.3. Hipótesis de la Investigación ............................................................................................. 38
+   2.3.1. Hipótesis General ........................................................................................................ 38
+   2.3.2. Hipótesis Específicas. ................................................................................................. 38
+CAPITULO III ......................................................................................................................... 39
+MÉTODOS DE LA INVESTIGACION .................................................................................. 39
+3.1. Población y Muestra de la Investigación ........................................................................... 39
+   3.1.1. Población .................................................................................................................... 39
+   3.1.2. Muestra ....................................................................................................................... 39
+3.2. Diseño y Tipo de Investigación ......................................................................................... 40
+3.3. Métodos, Técnicas e Instrumentos de Recolección de Datos ............................................ 40
+   3.3.1. Técnicas ...................................................................................................................... 41
+   3.3.2. Instrumentos................................................................................................................ 41
+   3.3.3. Validez y Confiabilidad .............................................................................................. 42
+3.4. Plan de Recolección de Datos. .......................................................................................... 44
+3.5. Plan de Organización de la Información ........................................................................... 44
+3.6. Plan de Tratamiento de Datos............................................................................................ 45
+3.7. Plan de Análisis e Interpretación de Datos ........................................................................ 45
+3.8. Las Características Socioeconómicas ................................................................................ 47
+3.9. Técnicas Estadísticas Paramétricas Modelo de Regresión. ............................................... 47
+3.10. Operacionalizacion de Variables ..................................................................................... 48
+CAPITULO IV ......................................................................................................................... 50
+CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN................................................... 50
+4.1. Ubicación Geográfica ........................................................................................................ 50
+4.2. Población ........................................................................................................................... 51
+4.3. Características Socioeconómicas ....................................................................................... 51
+4.4. Situación de los servicios básicos a la Población .............................................................. 52
+                                                                                                                                           6
+4.5. Recursos Naturales y Producción ...................................................................................... 52
+CAPITULO V .......................................................................................................................... 54
+RESULTADOS DE LA INVESTIGACION ........................................................................... 54
+   5.1. La Influencia de los Factores Socioeconómicos Género, Edad, Tamaño de Familia,
+   Nivel Educativo, Ocupación, Ingreso y Precio Hipotético de la Población Usuaria en la
+   Disposición a Pagar. ............................................................................................................. 54
+      5.1.1. Análisis Descriptivo de los Variables en Estudio ................................................... 54
+      5.1.2. Determinación de la Probabilidad de Responder (SI) Por el Método Logit Binario
+      ........................................................................................................................................... 63
+   5.2. Beneficios Económicos.................................................................................................. 68
+   5.3. Discusión de los Resultados .......................................................................................... 70
+   5.4. La Percepción Ambiental y la Calidad del Servicio, Cortes Intempestivos, Nivel de
+   Contaminación en Horas Diarias de Suministro y su Influencia en la Disposición a Pagar. 71
+   5.5. Discusión de los Resultados de la Percepción Ambiental y la Calidad del Servicio. .... 74
+CONCLUSIONES .................................................................................................................... 76
+RECOMENDACIONES .......................................................................................................... 77
+BIBLIOGRAFIA ...................................................................................................................... 78
+ANEXOS .................................................................................................................................. 84
+
+
+
+
+                                                                                                                                                  7
+                                     RESUMEN
+
+La investigación está enmarcado en el estudio de la calidad de servicio que es
+ineficiente, cuyo suministro diario es limitado a pocas horas, operando con una baja
+presión que causa demoras para su acarreo, a veces se presentan días donde se
+racionan y otras que ocasionan cortes intempestivos, los reclamos de los usuarios son
+recurrentes, agudizando la situación, por ello, se plantea el problema de investigación:
+¿Qué relación existe entre los factores socioeconómicos y la disposición a pagar por
+el servicio de agua potable en la ciudad de Yunguyo La investigación según su diseño
+es no experimental, con respecto a su tipo es una investigación aplicada por su
+naturaleza es correlacional y el método de investigación es de valoración contingente
+enfocado en el paradigma positivista o investigación cuantitativa puesto que se
+concentra en la correlación de datos y análisis estadístico. El tamaño de muestra se
+ha estratificado con la fórmula de repartimiento proporcional simple, resultando 370
+observaciones. Por lo tanto se concluye que existe una relación positiva y significativa
+entre los factores socioeconómicos y la disposición a pagar por mejor nivel de servicio.
+El 73.24 % de los entrevistados respondió afirmativamente a la pregunta DAP. Los
+resultados revelaron una Disposición a Pagar de S/. 4.3461 nuevos soles mensuales
+por familia este monto multiplicado con la cantidad de los usuarios que el 31/12/2013
+es de (12,375 conexiones domiciliarias) hace un total de S/. 53,782.99/mes la DAP y
+S/. 645,395.85/año. Además se ha contrastado a través del modelo econométrico
+propuesto, que los factores que influyen significativamente en la disposición a pagar
+son ocupación (OCUP), educación (EDU) y género (GEN). Así como nivel de
+contaminación en cabecera y cuenca (NICOCC).
+
+Palabra clave: Valoración Ambiental, Disposición a pagar, Percepción ambiental.
+
+
+
+
+                                                                                       8
+                                  CAPITULO I
+
+                    PLANTEAMIENTO DEL PROBLEMA
+
+
+1.1.     Descripción del problema
+
+En relación con el agua, es muy importante además no confundir el concepto de bien
+
+público con el de servicio público. Desde una perspectiva económica, lo que
+
+caracteriza al bien público es que es no rival, esto es, todos los individuos pueden
+
+consumir simultáneamente el bien y, además, no es posible excluir de su utilización a
+
+aquellos que no paguen por la percepción de las utilidades que se derivan del mismo.
+
+Incluso teniendo los individuos que lo consumen diferentes valoraciones de las
+
+distintas unidades del bien, la cantidad ofrecida del mismo es siempre idéntica para
+
+todos.
+
+
+Un servicio público debe observarse como la provisión de un bien privado, ya que
+
+admite la posibilidad de exclusión, pues existen mecanismos adecuados para
+
+asegurar que quien no pague por el mismo pueda verse apartado de recibir dicho
+
+servicio; y es rival, de manera que puede prestarse de forma individualizada, y saber
+
+a quién beneficia o perjudica directamente (en relación con el ciclo completo del agua
+
+se encuentran los servicios de abducción, almacenamiento, transporte, tratamiento,
+
+distribución, recolección y depuración considerados éstos como servicios públicos).
+
+
+Respecto al agua, además, se pueden dar ciertas circunstancias que hagan que se
+
+considere este recurso como un bien público impuro, esto ocurre cuando se producen
+
+aprovechamientos especiales o se permite la realización de actividades relacionadas
+
+con las aguas que permiten identificar a quienes se benefician por el uso de dicho
+
+bien, sin el menoscabo de que otros agentes puedan verse igualmente beneficiados
+                                                                                      9
+por el mismo (actividades recreativas y disfrute de la belleza escénica), además es
+
+costoso asegurar que quien no pague por el mismo pueda no beneficiarse igualmente.
+
+
+El reconocimiento de las funciones que ejerce el agua, como elemento vital para los
+
+ecosistemas y los efectos externos que éstas producen, de los que el conjunto de la
+
+sociedad se aprovecha, así como debido a las funciones sociales que desempeña,
+
+obligan a los poderes públicos a velar en todo momento por la prevención,
+
+conservación, protección, restauración, mejora y aprovechamiento de los recursos
+
+naturales. Estudios empíricos y teóricos manifiestan la necesidad de considerar dichos
+
+efectos en las decisiones privadas y políticas públicas, lo que ya sucede en algunas
+
+ocasiones.
+
+
+El agua es un recurso de propiedad común, está considerado libre, no tiene propietario
+
+y cualquiera puede usarlo de manera gratuita o bien pagando un precio muy bajo por
+
+el mismo, independientemente de que exista una disposición a pagar por él. Las
+
+razones por las que se considera que el agua no tiene precio se encuentran
+
+relacionadas con motivos históricos, socioculturales así como con el contexto
+
+institucional en el que el recurso se gestiona y administra adecuada y racionalmente.
+
+
+El uso del agua, en principio no tiene en cuenta que puede ser susceptible de otros
+
+usos alternativos como son otras actividades productivas, el recreo o el ejercicio de
+
+las funciones ecológicas que ejercen los ríos imprescindibles para garantizar la
+
+supervivencia de los ecosistemas. Esto manifiesta una nueva dimensión para este
+
+recurso natural que lo convierte en un bien escaso, tal como ocurre con otros bienes
+
+que se encuentran en un mercado, para los que si se tienen en cuenta la existencia
+
+de otros usos alternativos a través de su reflejo en un sistema de precios.
+
+
+                                                                                    10
+El agua es un insumo en diversos procesos productivos, y ésta se utiliza de manera
+
+similar a como pueden hacerlo otros factores (tierra, capital, materias primas) en la
+
+toma de decisiones de los agentes. Sin embargo, su dimensión de bien escaso no se
+
+ve reflejada en dicho proceso, no se tienen en cuenta sus potenciales usos
+
+alternativos, debido fundamentalmente a que no se paga un precio por el mismo.
+
+Además, en torno al ciclo completo del agua se encuentran asociados una serie de
+
+bienes y servicios que sí se integran dentro del mercado como cualquier otro bien
+
+privado, pero cuyo precio se verá afectado por esta circunstancia.
+
+
+Esta investigación tiene como base un estudio previo elaborado por el Gobierno local
+
+de Yunguyo, y La Empresa Municipal de Agua Potable y Alcantarillado Yunguyo
+
+S.R.Ltda.- EMAPA -Y S.R.Ltda, se ha establecido una tarifa con un valor no tan real.
+
+Sin embargo en el presente trabajo se realizara una cuantificación del precio ambiental
+
+del agua, o precio del agua considerado como un recurso de propiedad común.
+
+
+Para cada una de las funciones, hidrológica, bioquímica y ecológica que componen el
+
+aspecto ambiental del ciclo completo del agua se establece una estimación de
+
+diversos elementos, como son, la escasez del recurso, los costos ambientales
+
+asumidos por la población de la ciudad debidos al deterioro tolerado de la calidad de
+
+las aguas, y el costo que implica el mantenimiento de los caudales ambientales en los
+
+fuentes de captación. En dicho estudio se realizó también un trabajo de campo, a
+
+través de unas encuestas de valoración contingente, para llevar a cabo una estimación
+
+del valor de existencia de los ecosistemas acuáticos y de la orilla del lago.
+
+
+Tanto el examen sobre los elementos que conforman el precio ambiental del agua,
+
+como las encuestas de valoración contingente contienen información muy valiosa para
+
+esta tesis, razón por la cual se solicitó autorización para la utilización de los resultados
+                                                                                          11
+obtenidos en el mismo, así como de los datos en bruto de dichas encuestas, lo que
+
+permitirá realizar un análisis econométrico de las mismas.
+
+
+1.2. Planteamiento del Problema
+
+Ante la situación planteada, la degradación de los recursos naturales y la perdida de
+
+la biodiversidad están relacionadas principalmente por actividades económicas que
+
+han asignado un reducido valor a sus funciones ecológicas en beneficio de la
+
+humanidad, tales como la captura de gases que ocasionan el cambio climático, la
+
+protección de la biodiversidad, la protección de recursos hídricos, la belleza escénica,
+
+la protección contra desastres, etc. (Azqueta, 2001).
+
+
+En este mismo sentido, los recursos hídricos se encuentran en peligro, los más
+
+importantes y estratégicos están sometido s a un alto grado de vulnerabilidad, por
+
+negligencia, falta de conciencia y desconocimiento de la población acerca de la
+
+obligación de protegerlos y la carencia de autoridades, profesionales y técnicos, a los
+
+que les corresponde cuidarlos y utilizarlos (Reynold, 2002).
+
+
+Sin embargo, el crecimiento económico imperante en el mundo se ha basado en
+
+agotar los recursos naturales, por tal razón en la actualidad se considera que los
+
+indicadores de crecimiento económico como el Producto Nacional Bruto (PNB) son
+
+una medida del bienestar social de los países, sin embargo estos indicadores no
+
+internalizan el verdadero valor de los recursos naturales perdidos, por lo cual no
+
+deberían ser considerados como indicadores de crecimiento económico ni bienestar
+
+social, aun mas cuando se sabe que a largo plazo el factor condicionante en el
+
+crecimiento económico son los recursos naturales, porque definen el límite de
+
+producción
+
+
+                                                                                      12
+Por consiguiente podemos decir que más allá de la inflación, la deuda externa y los
+
+factores que estancan la economía, el problema común en todos los países es la
+
+degradación de los recursos naturales. La utilización de una manera eficiente de un
+
+recurso y su existencia y distribución justa en el futuro, depende del valor que los
+
+sectores de la sociedad le asignen al mismo, la valoración económica de un recurso
+
+natural se basa en poder contar con un indicador de la importancia que tiene un
+
+recurso en el bienestar de la sociedad, y para ello utiliza un denominador común, el
+
+dinero (Azqueta, 2001).
+
+
+Por lo tanto se ha propuesto desarrollar el trabajo de investigación a fin de contribuir
+
+en la mejora del servicio de agua potable que revertirá en la marcha positiva de la
+
+Entidad Prestadora de Servicios de Saneamiento EMAPA -Y S.R.Ltda, aminorando al
+
+malestar sobre la deficiente prestación de servicios de agua potable, que atraviesa la
+
+institución.
+
+
+1.3. Enunciado del problema
+
+1.3.1. Problema General
+
+¿Qué relación existe entre los factores socioeconómicos y la disposición a pagar por
+
+el servicio de agua potable en la ciudad de Yunguyo?
+
+
+1.3.2. Problemas Específicos
+
+¿Cómo influye los factores socioeconómicos: género, edad, tamaño de familia, nivel
+
+educativo, ocupación, ingreso y precio hipotético de la población usuaria en la
+
+disposición a pagar?
+
+
+
+
+                                                                                      13
+¿Cómo influye la percepción ambiental: calidad del servicio, cortes intempestivos,
+
+nivel de contaminación en cabecera de cuenca, horas diarias de suministro con la
+
+disposición a pagar?
+
+
+1.4. Justificación e Importancia
+
+La investigación se encuentra dentro del área de la Economía Ambiental y Ecológica,
+
+poniendo énfasis en la valoración del servicio ambiental de agua para consumo de los
+
+pobladores de la ciudad de Yunguyo
+
+Los procesos aplicativos de valoraciones económicas sobre los recursos naturales
+
+toman gran apogeo en el mundo y como en el país, este estudio pretende ser un
+
+aporte respecto al uso de metodologías de valoración aplicadas a la realidad y con
+
+relación a los recursos naturales con que se cuenta, así como también ser una guía
+
+en el proceso de aplicación del método de valoración contingente disponibilidad a
+
+pagar sobre servicios ambientales hídricos.
+
+El presente trabajo de investigación pretende brindar un medio de estudio y a la vez
+
+un medio comparativo en el desarrollo de futuros trabajos sobre valoración de cuencas
+
+hídricas que tengan similares características cualitativas y cuantitativas. De la misma
+
+manera establecer una base para el desarrollo de políticas de decisión en el ámbito
+
+ambiental, por instituciones gubernamentales y/o privadas, para la preservación,
+
+manutención, conservación, aprovechamiento, e inversión en los recursos acuíferos
+
+en proceso de agotamiento.
+
+Para cuantificar monetariamente el cambio en el bienestar de las personas frente a un
+
+proyecto que alterará el medio en que estas se desenvuelven, se suele usar el cálculo
+
+del Excedente del Consumidor, basado en la Demanda Marshalliana (o Demanda No
+
+Compensada u Ordinaria), el cual permite determinar cómo afecta el cambio en alguna
+
+
+                                                                                     14
+variable, como el precio de un bien, al bienestar del consumidor o del productor. De
+
+esta manera se averigua la variación que produciría el proyecto a partir de un estado
+
+de bienestar inicial.
+
+
+Pero al hacer esto surge un problema pues este tipo de demanda no considera el
+
+cambio en el nivel de utilidad que se da con el proyecto. Éste debería quedar fijo para
+
+obtener una estimación real del valor que tiene el proyecto para las personas.
+
+
+Entonces se debe usar la Demanda Hicksiana (o Demanda Compensada) con la que
+
+se puede obtener mediciones del beneficio manteniendo constante el nivel de utilidad.
+
+Estas son la Variación Compensada (o Variación Compensatoria) y la Variación
+
+Equivalente, conceptos que han sido ampliamente aceptados, pero tienen el problema
+
+de basarse en la Demanda Hicksiana la cual no es observable directamente, por lo
+
+que se debe hacer una aproximación para obtener las medidas mencionadas
+
+(Azqueta,1994).
+
+
+Dada la condiciones que anteceden en la ciudad de Yunguyo, la dificultad para medir
+
+la valoración de los recursos naturales que frecuentemente no se rigen por el mercado
+
+y cuyos derechos de propiedad no están aun claramente definidos, ha llevado a la
+
+creación de metodologías basadas en mercados hipotéticos, como es el caso del
+
+método contingente, el cual utiliza un enfoque directo donde se pregunta a las
+
+personas su disponibilidad máxima a pagar por un beneficio y/o la compensación
+
+mínima exigida por tolerar un costo de utilización de un recurso, bajo un escenario de
+
+mercado hipotético (Dixon, 2001).
+
+
+Por otra parte el servicio del agua potable en la ciudad de Yunguyo atraviesa por
+
+momentos difíciles como en cualquier otra ciudad de nuestro país, donde la calidad
+
+
+                                                                                     15
+de servicio es cada vez es peor, cuyo suministro diario se limita a pocas horas,
+
+operando con baja presión que causa demoras para su acarreo, a veces se racionan
+
+y otras se presentan con cortes intempestivos, pese a que la cámara de absorción se
+
+encuentra cerca al rio, mientras que la administración muestra indiferencias sobre el
+
+problema, los reclamos de la población usuaria están a la orden del día sin alternativas
+
+consistente y otras relativamente absueltas, por otro lado el Plan de Mejoramiento
+
+adolece de una propuesta técnica de largo aliento.
+
+
+Además     se   presentan    denuncias     públicas   de   parte   de    usuarios   por
+
+sobrefacturaciones, cortes intempestivos, altos costos de reconexión; durante meses
+
+de la temporada de lluvias se suministran aguas turbias y con excepcionalidad de
+
+algunos microorganismos.
+
+
+Es evidente la carencia de proyectos y/o programas para la ampliación del servicio en
+
+función al crecimiento de la población beneficiaria, de continuar este problema
+
+acarreara de manera negativa en los usuarios, afectando la calidad de vida de los
+
+pobladores originando problemas en las actividades diarias de los ciudadanos.
+
+
+1.5. Limitaciones de la Investigación
+
+Realizar investigaciones en el Perú es una tarea bastante de que las fuentes de
+
+financiamiento son bastantes escasas por los que obligadamente es el investigador
+
+quien debe autofinanciarse, como es el caso de esta investigación.
+
+
+En el proceso de la ejecución del trabajo de investigación, hechas las indagaciones
+
+del caso a tratar, donde para recabar datos estadísticos los trabajadores de La
+
+Empresa Municipal de Agua Potable y Alcantarillado Yunguyo S.R.Ltda.- EMAPA Y
+
+SRLtda se han puesto reacios para proporcionar información respectiva.
+
+
+                                                                                      16
+1.6. Objetivos de Investigación
+
+
+1.6.1. Objetivo General
+
+Determinar la relación que existe entre los factores socioeconómicos y la disposición
+
+a pagar por el servicio de agua potable en la ciudad de Yunguyo.
+
+
+1.6.2. Objetivos Específicos
+
+Determinar la influencia de los factores socioeconómicos: género, edad, tamaño de
+
+familia, nivel educativo, ocupación, ingreso y precio hipotético de la población usuaria
+
+en la disposición a pagar.
+
+
+Conocer la percepción ambiental: calidad del servicio, cortes intempestivos, nivel de
+
+contaminación en cabecera y cuenca, horas diarias de suministro y su influencia en la
+
+disposición a pagar.
+
+
+
+
+                                                                                      17
+                                   CAPITULO II
+
+2.1. Marco Teórico
+
+
+2.1.1. Antecedentes de la Investigación
+
+El método de Valoración Contingente fue desarrollado a principios de la década de
+
+1960 por el economista Robert K. Davis, quien necesitaba estimar los beneficios de la
+
+recreación al aire libre en los bosques de Maine, pero prescindiendo del método
+
+directo debido a que conoce la actitud negativa de los granjeros que debía encuestar
+
+hacia la vida salvaje, la cual impide realizar una estimación certera.
+
+
+Esto lo motiva para desarrollar un sistema en que el encuestador “subasta” distintos
+
+escenarios potenciales para determinada situación hasta que el encuestado “compra”
+
+uno, fijándose de esa manera el monto en que se valora el proyecto que permite
+
+cambiar del escenario actual al escenario hipotético subastado. Tomando en cuenta
+
+los antecedentes que tienen la relación con el tema en estudio, que avala el proyecto
+
+de investigación, para lo cual, citamos algunas de estas:
+
+
+Martínez et al. (2007). En tesis: “Valoración económica de los servicios hidrológicos:
+
+Subcuenca del rio Teculutan” concluyen entre otros: En relación con la valoración
+
+contingente se puede decir que el 67% de los entrevistados respondió a la pregunta
+
+de la Disposición a Pagar (DAP), y a medida que los montos contenidos en la pregunta
+
+de DAP aumentaba la probabilidad de obtener de respuestas positivas iba
+
+disminuyendo.
+
+
+La DAP de los entrevistados fue de US$ 3.46 familia/mes y la suma de la disposición
+
+a pagar de los habitantes de un total de US$ 132 mil/año.
+
+
+
+                                                                                    18
+Brunett et al. (2010). En investigación sobre “Pago por servicios ambientales
+
+hidrológicos: caso de estudio Parque Nacional del Nevado de Toluca” llega a la
+
+siguiente conclusión: Los resultados muestran que los usuarios dispuestos a pagar
+
+rebasan el 50%, con cantidades que oscilan entre 30 y 80 pesos mensuales, sin
+
+embargo hay un sector de los encuestados que no estarían dispuestos a contribuir,
+
+pero realizarían acciones enfocadas al cuidado del medio ambiente.
+
+
+Cerda (2011). En el trabajo de investigación: “Disposición a pagar para proteger
+
+servicios ambientales: un estudio de caso con valores de uso y no uso en Chile
+
+Central” concluye: Para estimar la DAP se utilizaron técnicas de preferencias
+
+declaradas, específicamente un experimento de elección (EE), el cual se aplicó a una
+
+muestra aleatoria de visitantes de la reserva(n=100).
+
+
+Los siguientes servicios fueron valorados con el EE: disponibilidad de agua potable
+
+en el futuro, existencia de orquídeas endémicas, posibilidad de observar especies
+
+carismáticas de aves, mamíferos y reptiles, y protección para un anfibio endémico.
+
+Para estimar la DAP, un atributo monetario, en este caso un incremento en la tarifa de
+
+entrada al área, fue también incorporado. La significancia estadística de los servicios
+
+(p<0,05) muestra que los visitantes estarían dispuestos a pagar por protegerlos. La
+
+DAP promedio estimada entre USD1, 2, 3 y 4 por persona/visita para proteger los
+
+servicios específicos considerados.
+
+
+Oaxaca (1997). Tesis “Estimación de la Disposición a Pagar por Abasto de Agua para
+
+el Área Metropolitana de Monterrey - México” concluye: El análisis de los efectos
+
+marginales revelan que para la variable ingreso, un cambio de $1,000 pesos
+
+mensuales para las familias, incrementaría en 2.1% la probabilidad de disposición a
+
+pagar de aquellos que presentaron una disposición a pagar igual a cero, junto con ello
+                                                                                     19
+se presentaría un incremento en $ 0.34 en el promedio de la disposición a pagar de
+
+aquellos que mostraron una disposición a pagar mayor que cero; por último, estos
+
+resultados muestran que la media de disposición a pagar de toda la muestra se
+
+incrementaría en $ 0.48 pesos, lo cual representa un incremento de 5.78% respecto
+
+de la media de la disposición a pagar mensual del total de la muestra.
+
+
+2.1.2. Base Teórico
+
+2.1.2.1. Enfoque del Valor Económico
+
+Los economistas han experimentado por muchos años la evaluación de recursos
+
+naturales, por lo cual existen valoraciones que no son de mercado.
+
+
+Últimamente, las valoraciones de bienes naturales son dependientes del punto de
+
+vista del evaluador, es decir, de si este trabaja desde una perspectiva eco-céntrica o
+
+antropocéntrica.
+
+
+La ética antropocéntrica establece que el valor de los bienes y servicios ambientales
+
+es derivado solamente de las preferencias individuales por cambios en el estado de
+
+dichos recursos o por cambios en sus niveles de bienestar. Por otra parte, la ética eco
+
+céntrica asume que los recursos naturales, incluidas las formas de vida, tienen valor
+
+en sí mismos, el cual es independiente de las preferencias humanas y por lo tanto
+
+estos recursos poseen un valor intrínseco. Así, el punto de vista eco céntrico, es
+
+incompatible con la economía neoclásica que considera principalmente las
+
+preferencias individuales de las personas (Pearce et al. 1990).
+
+
+El principal dilema entre las dos perspectivas es que de acuerdo al eco centrismo, si
+
+todas las formas de vida en el mundo tienen el derecho de existir entonces estas
+
+especies y ecosistemas tienen un valor positivo independiente de las preferencias o
+
+
+                                                                                     20
+deseos humanos. Sin embargo, aquellos que respetan el paradigma neoclásico no
+
+consideran el valor intrínseco, de este modo, no siempre los ecosistemas tendrán un
+
+valor positivo.
+
+
+El antropocentrismo, establece que la aproximación utilitaria para la valoración de
+
+bienes o servicios ambientales, refleja de alguna manera beneficios para los humanos.
+
+Estos valores son determinados por mercados o por métodos desarrollados que
+
+utilizan las preferencias individuales para bienes y servicios ambientales que carecen
+
+de precio de mercado.
+
+
+Los beneficios son expresados bajo el concepto de valor económico total (VET) de un
+
+recurso cualquiera, entre ellos el agua está dado por el Valor de Uso (VU), sin
+
+embargo, autores, sugirieron que aunque los individuos no utilicen un recurso, es
+
+posible que este sea valioso para ellos introduciendo así el concepto de Valor de no
+
+Uso (VNU).
+
+
+El Valor de uso puede dividirse en Valor de Uso Directo (VUD), Valor de Uso Indirecto
+
+(VUI) y Valor de Opción (VO). Por otro lado, las categorías del Valor de No Uso (VNU)
+
+son el Valor de Existencia (VE) y el Valor de Herencia (VH). Azqueta et al. (2007).
+
+
+2.1.2.2. Teorías del Valor y las Teorías de Preferencias
+
+En general, los servicios ambientales ofrecidos por las áreas protegidas, carecen de
+
+precio. Cuando se trata de bienes privados, el valor económico del bien reflejaría el
+
+valor de uso del mismo. No obstante, la discusión respecto del valor de los bienes o
+
+servicios se torna relevante cuando se trata de bienes públicos o ambientales.
+
+
+Por esta razón, y dada la importancia de determinar el valor de esos bienes para una
+
+provisión socialmente optima, se han desarrollado diversas metodologías que intentan
+
+                                                                                      21
+predecir el valor que los individuos les asignan. Estos métodos de valoración se
+
+clasifican en directos e indirectos. Los métodos indirectos intentan determinar valores
+
+de bienes o servicios ambientales, utilizando datos de mercado y con esta información
+
+infieren el valor económico del recurso. Entre estos métodos los más comunes son: el
+
+Método de los Precios Hedónicos; y, el Método de Costo de Viaje. Los métodos
+
+directos, intentan obtener el valor monetario de bienes y servicios ambientales,
+
+mediante la formulación de mercados hipotéticos, preguntando directamente por la
+
+disposición a pagar de las personas. En esta última categoría se encuentra el método
+
+de Valoración Contingente, (Azqueta, 1994).
+
+
+Las bases teóricas de estos métodos provienen de las teorías del valor y las teorías
+
+de las preferencias.
+
+
+2.1.2.2.1. Teoría del Valor
+
+
+Freeman (2003) deduce la propiedad conocida como sustitución en mismo que
+
+establece la posibilidad de intercambio entre pares de bienes. Esto a su vez, permite
+
+valorar económicamente bienes ambientales, ya que el valor económico de los
+
+mismos se expresa en términos de la disposición a renunciar a un bien con miras a
+
+obtener más de otro.
+
+
+Si un individuo desea mejor calidad ambiental debería estar dispuesto, en principio, a
+
+sacrificar algo con el fin de satisfacer este deseo, (Vásquez et al. 2007).
+
+
+
+
+                                                                                     22
+2.1.2.2.2. Teoría de las Preferencias
+
+
+El concepto de preferencia requiere que el individuo pueda ordenar el conjunto de
+
+alternativas disponibles desde la mayor hasta la menor satisfacción, incluyendo los
+
+conjuntos de bienes para los cuales el nivel de satisfacción es el mismo, (Vásquez et
+
+al. 2007).
+
+
+Por otra parte, Freeman (1993) establece que el valor económico puede ser definido
+
+en términos de algunos criterios fundamentales que identifican que es lo considerado
+
+conveniente. En este contexto, la economía neoclásica define bienestar en función de
+
+las preferencias individuales, que estas pueden ser representadas por una función
+
+ordinaria de utilidad.
+
+
+2.1.3. Determinación de Valores
+
+Freeman (1993) asevera que valores se determinan siempre para un cierto propósito.
+
+Un planificador necesita saber los valores comparativos de ciertas alternativas para
+
+elegir entre ellos. Estos valores se deben medir en términos de los deseos o
+
+necesidades, pero que algunos sean relevantes, depende del propósito de la decisión.
+
+
+El término “utilidad” se define como la satisfacción que una persona desea. Esto es
+
+virtualmente sinónimo de la capacidad de hacer una diferencia favorable para la vida
+
+de alguien. De esta forma, se propone la ecuación (1), se puede expresar de la
+
+siguiente manera:
+
+
+Valor i = f (utilidad, condiciones, condiciones ambientales, circunstancias del
+
+evaluador al momento de la valoración)
+
+
+
+
+                                                                                   23
+2.1.4. Medidas del Bienestar
+
+La economía del bienestar proporciona medidas monetarias del cambio en el
+
+bienestar de las personas asociada con cambios en los niveles de precios o cambios
+
+en las cantidades consumidas. En general, se definen dos medidas denominadas
+
+variación compensatoria (C) y variación equivalente (VE).
+
+
+2.1.5. Variación Compensatoria (C)
+
+Toma como referencia el nivel de utilidad que el consumidor alcanza en la situación
+
+sin proyecto (U0). Conceptualmente la variación compensatoria (CV) se define como
+
+la máxima cantidad de dinero que un individuo está dispuesto a pagar para acceder a
+
+un cambio favorable, o bien la mínima cantidad de dinero que un individuo está
+
+dispuesto a pagar como compensación por aceptar un cambio desfavorable, el
+
+individuo tiene derecho a la situación inicial (sin proyecto), ya sea esta mejor o peor
+
+que la respectiva situación final (con proyecto).
+
+
+2.1.6. Variación Equivalente (VE)
+
+Según Hanemann (1984), toma como referencia el nivel de utilidad que el individuo
+
+alcanzaría con el cambio de precios siendo equivalente a la cantidad de dinero que
+
+habría que darle al individuo en la situación sin proyecto, para que alcance un nivel de
+
+utilidad semejante al que alcanzaría en la situación con proyecto con el nivel de
+
+ingreso original.
+
+
+La variación equivalente (VE) se define como la máxima cantidad de dinero que un
+
+individuo está dispuesto a pagar por evitar un cambio desfavorable, o la mínima
+
+cantidad de dinero que está dispuesto a aceptar como compensación por renunciar a
+
+un cambio favorable. El individuo tiene derecho a la situación final con proyecto).
+
+
+                                                                                      24
+2.1.7. Definición Matemática de C y VE
+
+Para una reducción en los precios la C se puede definir como el valor tal que
+
+𝑈𝑈(𝑃𝑃1 , 𝑌𝑌 − 𝐶𝐶) = 𝑈𝑈(𝑃𝑃0 , 𝑌𝑌). Y VE se define como 𝑈𝑈(𝑃𝑃1 , 𝑌𝑌) = 𝑈𝑈(𝑃𝑃0 , 𝑌𝑌 + 𝑉𝑉𝑉𝑉), donde 1 y 0
+
+indican situaciones con y sin proyecto.
+
+
+2.1.8. Determinación de la Variación Compensada
+
+Para encontrar la variación compensada que toma el valor de (C), que es la respuesta
+
+a la pregunta de disponibilidad a pagar (DAP), en un modelo lineal Vi.
+
+
+El modelo Vi, es
+
+
+                             𝑉𝑉(𝑗𝑗, 𝑌𝑌; 𝑆𝑆) = 𝛼𝛼𝑗𝑗 + 𝛽𝛽𝑗𝑗 𝑌𝑌 + 𝜀𝜀𝑗𝑗 ;   𝛽𝛽 > 0,
+
+
+Dónde: j = 1 (con proyecto) ó j=0 (sin proyecto)
+
+
+V = función de utilidad indirecta
+
+
+Y = nivel de ingreso
+
+
+αj y βj = parámetros
+
+
+εj = término de error εj ~N (0,σ2)
+
+
+Entonces C para el individuo i puede definirse como
+
+
+                                     𝑈𝑈(1, 𝑌𝑌 − 𝐶𝐶; 𝑆𝑆) = 𝑈𝑈(0, 𝑌𝑌; 𝑆𝑆)
+
+
+                              𝑉𝑉(1, 𝑌𝑌 − 𝐶𝐶; 𝑆𝑆) − 𝑉𝑉(0, 𝑌𝑌; 𝑆𝑆) = 𝜀𝜀1 − 𝜀𝜀0
+
+
+Donde Vi es la utilidad indirecta, Y nivel de ingresos, S factores socioeconómicos, ε1
+
+y ε0 son los errores, simplificando u omitiendo S momentáneamente, la función
+
+incremental de la utilidad (ΔV), quedaría expresada como:
+
+                                                                                                  25
+                                   Δ𝑉𝑉 = 𝛼𝛼 + 𝛽𝛽𝛽𝛽 + 𝜂𝜂
+
+
+Donde
+
+
+                                     𝛼𝛼 = 𝛼𝛼1 − 𝛼𝛼0
+
+
+                                      𝜂𝜂 = 𝜀𝜀1 − 𝜀𝜀0
+
+
+Si los errores se distribuyen como en un modelo Probit, la variación compensada es:
+
+                                                     𝛼𝛼
+                                   𝑉𝑉𝑉𝑉 + = 𝐷𝐷𝐴𝐴𝐴𝐴 = 𝜎𝜎
+                                                     𝛽𝛽
+                                                     𝜎𝜎
+
+Si los errores se distribuyen con un modelo Logit, la variación compensada es:
+
+                                                          𝛼𝛼
+                                   𝑉𝑉𝑉𝑉 + = 𝐷𝐷𝐷𝐷𝐷𝐷 =
+                                                          𝛽𝛽
+
+
+Que vienen a ser la primera medida del bienestar, es decir, la media (C+) de la
+
+distribución. La magnitud de las diferencias en las medidas del bienestar tanto para el
+
+modelo Probit como el Logit, son irrelevantes. Por ello se prefiere el modelo Logit
+
+porque admite mayor varianza en la distribución del término error.
+
+
+Los modelos Probit y Logit son los que relacionan variables dependientes binarias (1
+
+ó 0). En un modelo Probit η sigue una distribución normal con media µ y varianza σ2,
+
+su FDA se expresa como:
+
+                                        𝜂𝜂
+                                               1         1 𝜂𝜂−𝜇𝜇𝜂𝜂 2
+                                                      𝑒𝑒 −2�      �
+                              𝐹𝐹(𝜂𝜂) = �                     𝜎𝜎
+                                             √2𝜋𝜋𝜎𝜎
+                                      −∞
+
+
+
+En un modelo Logit los errores se distribuyen Logísticamente, siendo la función
+
+Logística;
+
+                                                                                     26
+                                                           1
+                                             𝑃𝑃(𝜂𝜂) =
+                                                        1 + 𝑒𝑒 −𝜂𝜂
+
+En un modelo de utilidad lineal tal como Vi, la media (C+) y la mediana (C*) son iguales.
+
+Si no se permitiera valores negativos para C, entonces la medida monetaria del
+
+cambio de bienestar a través de la media (C+) está dada por:
+
+                                         ∞
+                        0        +
+                                                                       log(1 + 𝑒𝑒 𝛼𝛼 )
+                      𝐶𝐶 = 𝐶𝐶 = � �1 − 𝐺𝐺𝐶𝐶 (𝑃𝑃)� 𝑑𝑑𝑑𝑑 =
+                                                                            𝛽𝛽
+                                      0
+
+
+
+Donde, GC (P) da la probabilidad que C sea menor o igual que P, que es la probabilidad
+
+de obtener una respuesta negativa, y 1 – GC(P) da la probabilidad que C sea mayor
+
+que P.
+
+
+Si se generaliza el procedimiento y se incluye el vector S, la medida del bienestar está
+
+dada por:
+
+
+                             +       ∗
+                                               𝛼𝛼 ′ 𝑆𝑆 ∑𝑘𝑘𝑖𝑖=0 𝛼𝛼𝑖𝑖 𝑆𝑆𝑖𝑖+1
+                            𝐶𝐶 = 𝐶𝐶 = 𝐷𝐷𝐷𝐷𝐷𝐷 =        =
+                                                𝛽𝛽             𝛽𝛽
+
+
+Donde, Si+1: conjunto de características socioeconómicas, que incluye el ingreso.
+
+
+α': Es la transpuesta del vector de parámetros, y β es el coeficiente del precio P
+
+(utilidad marginal del ingreso).
+
+
+Utilizando una forma funcional logarítmica
+
+
+                        𝑉𝑉𝑖𝑖 (𝑗𝑗, 𝑌𝑌; 𝑆𝑆) = 𝛼𝛼𝑗𝑗 + 𝛽𝛽 ln(𝑌𝑌)         𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝, 𝛽𝛽 > 0
+
+
+Aplicando el incremento para la situación con y sin proyecto la función incremental se
+
+expresa como
+
+
+
+                                                                                         27
+                                                                 𝛽𝛽𝛽𝛽
+                                        Δ𝑉𝑉 = 𝛼𝛼1 − 𝛼𝛼0 −
+                                                                  𝑌𝑌
+
+Las formas de cálculo de las medidas de cambios de bienestar (C* y C’) se pueden
+
+estimar a partir de las siguientes formas, mostradas en el cuadro 1:
+
+                                              CUADRO 01:
+
+       FÓRMULAS PARA LA ESTIMACIÓN DE LAS MEDIDAS DE LA MEDIA Y MEDIANA
+
+              Modelos                         Media (C’)                     Mediana (C*)
+                                                 𝛼𝛼
+   Logarítmico                                                                𝐶𝐶 ∗ = 𝑒𝑒 𝛼𝛼/𝛽𝛽
+                                        𝐶𝐶 ′ = 𝑒𝑒 𝛽𝛽 𝜋𝜋/𝛽𝛽 sin(𝜋𝜋/𝛽𝛽)
+
+   Lineal                                           log(1 + 𝑒𝑒 𝛼𝛼 )           𝐶𝐶 ∗ = 𝑒𝑒 𝛼𝛼/𝛽𝛽
+                                           𝐶𝐶 ′ =
+                                                         𝛽𝛽
+
+       Fuente: Elaboración propia con base en Ardila. (1993).
+
+
+Se han desarrollado métodos para la estimación de los parámetros de las formulas
+
+anteriores.
+
+
+2.1.9. Determinación del Modelo
+
+Suponiendo que el entrevistado tiene una función de utilidad U (J,Y;S), que depende
+
+del ingreso Y, y de la mejora de la calidad del agua (estado actual J=0 ó final J=1),
+
+teniendo como parámetros el vector de características socioeconómicas S del
+
+individuo.
+
+
+Dado que se desconoce la función U (J,Y;S), entonces se plantea un modelo
+
+estocástico de la forma:
+
+
+                                    𝑈𝑈(𝐽𝐽, 𝑌𝑌; 𝑆𝑆) = 𝑉𝑉(𝐽𝐽, 𝑌𝑌; 𝑆𝑆) + 𝜀𝜀𝑗𝑗
+
+
+Donde, ε(J) es la variable aleatoria, ε(J)~N(0,σ2), y V es la parte determinística (función
+
+de utilidad indirecta).
+
+
+                                                                                                28
+Si el entrevistado acepta pagar $P para disfrutar de la mejora en la calidad del agua,
+
+debe cumplirse que
+
+
+                                  𝑈𝑈(1, 𝑌𝑌 − 𝑃𝑃; 𝑆𝑆) > 𝑈𝑈(0, 𝑌𝑌; 𝑆𝑆)
+
+
+                            𝑉𝑉(1, 𝑌𝑌 − 𝑃𝑃; 𝑆𝑆) + 𝜀𝜀1 > 𝑉𝑉(0, 𝑌𝑌; 𝑆𝑆) + 𝜀𝜀0
+
+
+                            𝑉𝑉(1, 𝑌𝑌 − 𝑃𝑃; 𝑆𝑆) − 𝑉𝑉(0, 𝑌𝑌; 𝑆𝑆) > 𝜀𝜀0 − 𝜀𝜀1
+
+
+Donde ε0 y ε1 son variables aleatorias independientes e idénticamente distribuidas.
+
+Simplificando la notación
+
+
+                                              Δ𝑉𝑉 > 𝜂𝜂
+
+
+Donde
+
+
+                              Δ𝑉𝑉 = 𝑉𝑉(1, 𝑌𝑌 − 𝑃𝑃; 𝑆𝑆) − 𝑉𝑉(0, 𝑌𝑌; 𝑆𝑆)
+
+
+                                           𝜂𝜂 = 𝜀𝜀0 − 𝜀𝜀1
+
+
+A este nivel, la respuesta SI/NO es una variable aleatoria. La probabilidad de una
+
+respuesta afirmativa (SI) está dada por
+
+
+                      𝑃𝑃(𝑆𝑆𝑆𝑆) = 𝑃𝑃(Δ𝑉𝑉 > 𝜂𝜂) = 𝑃𝑃(𝜂𝜂 < Δ𝑉𝑉) = 𝐹𝐹(Δ𝑉𝑉)
+
+
+Donde F es la función de probabilidad acumulada de η.
+
+                                                   Δ𝑉𝑉
+
+                                     𝐹𝐹(Δ𝑉𝑉) = � 𝑓𝑓(𝜂𝜂) 𝑑𝑑𝑑𝑑
+                                                 −∞
+
+
+
+Con f(η) la función de densidad de probabilidad de η.
+
+
+F (ΔV) indica la probabilidad de que η sea menor o igual a ΔV.
+
+
+                                                                                    29
+2.1.10. Forma Funcional de Vi: lineal
+
+                                             𝑉𝑉𝑖𝑖 = 𝛼𝛼𝑖𝑖 + 𝛽𝛽𝛽𝛽
+
+
+Lineal en el ingreso, donde i (0,1), y una distribución de probabilidad para η, se obtiene
+
+
+                                Δ𝑉𝑉 = (𝛼𝛼1 − 𝛼𝛼0 ) − 𝛽𝛽𝛽𝛽 = 𝛼𝛼 − 𝛽𝛽𝛽𝛽
+
+
+Donde β>0, ya que el valor esperado de la utilidad (V) aumenta con el ingreso,
+
+implicando que cuanto más alto sea P en la encuesta menor será ΔV y por tanto,
+
+menor será la probabilidad de que un individuo responda SI. De igual forma, este
+
+modelo solo permite estimar la diferencia α1 – α2 = α, representando el cambio de
+
+utilidad por la mejora de la calidad del agua y β, representa la utilidad marginal del
+
+ingreso (constante). Se verifica entonces que el pago (P*) que dejaría indiferente al
+
+entrevistado (ΔV = 0) es igual al cambio de utilidad (α) dividido por la utilidad marginal
+
+del ingreso (β). Es decir,
+
+                                                         𝛼𝛼
+                                                 𝑃𝑃∗ =
+                                                         𝛽𝛽
+
+
+Si a ΔV se le asocia una distribución de probabilidad normal para η, con media cero y
+
+varianza constante, es decir, η~N(0,σ2), se obtiene un modelo Probit, cuya
+
+probabilidad de respuesta SI se modela como
+
+
+                             𝑃𝑃(𝑆𝑆𝑆𝑆) = 𝑃𝑃(Δ𝑉𝑉 > 𝜂𝜂) = 𝑃𝑃(𝛼𝛼 − 𝛽𝛽𝛽𝛽 > 𝜂𝜂)
+
+
+                                     𝛼𝛼 − 𝛽𝛽𝛽𝛽 𝜂𝜂       𝜂𝜂 𝛼𝛼 − 𝛽𝛽𝛽𝛽
+                              𝑃𝑃 �            > � = 𝑃𝑃 � <           �
+                                         𝜎𝜎    𝜎𝜎       𝜎𝜎     𝜎𝜎
+
+
+                                             𝜇𝜇 = 𝛼𝛼 − 𝛽𝛽𝛽𝛽
+
+
+
+
+                                                                                        30
+                                                                𝜇𝜇
+                                                                𝜎𝜎
+                                               𝜂𝜂 𝜇𝜇
+                                           𝑃𝑃 � < � = � 𝑁𝑁(𝑒𝑒) 𝑑𝑑𝑑𝑑
+                                               𝜎𝜎 𝜎𝜎
+                                                               −∞
+
+
+
+Donde
+
+                                                               𝜂𝜂
+                                                        𝑒𝑒 =
+                                                               𝜎𝜎
+
+Si a ΔV se le asocia una distribución de probabilidad logística para η, se obtiene un
+
+modelo Logit, cuya probabilidad de respuesta SI se modelo como:
+
+
+                                                                            1
+                                𝑃𝑃(𝑆𝑆𝑆𝑆) = 𝑃𝑃(𝛼𝛼 − 𝛽𝛽𝛽𝛽 > 𝜂𝜂) =
+                                                                     (1 + 𝑒𝑒 −𝛼𝛼+𝛽𝛽𝛽𝛽 )
+
+
+                                                                       1
+                                      𝑃𝑃(𝜂𝜂 < 𝛼𝛼 − 𝛽𝛽𝛽𝛽) =
+                                                                (1 + 𝑒𝑒 −𝛼𝛼+𝛽𝛽𝛽𝛽 )
+
+
+2.1.11. Especificación del Modelo
+
+Por lo tanto el modelo econométrico a estimar es el siguiente:
+
+
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃(𝑆𝑆𝑆𝑆) = 𝛽𝛽1 + 𝛽𝛽2 𝐺𝐺𝐺𝐺𝐺𝐺 + 𝛽𝛽3 𝐸𝐸𝐸𝐸𝐸𝐸 + 𝛽𝛽4 𝑇𝑇𝑇𝑇𝑇𝑇 + 𝛽𝛽5 𝐸𝐸𝐸𝐸𝐸𝐸 + 𝑎𝑎𝑎𝑎6 𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 + 𝛽𝛽𝛽𝛽7 𝐼𝐼𝐼𝐼𝐼𝐼 + 𝛽𝛽8 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+                   + 𝛽𝛽9 𝐶𝐶𝐶𝐶𝐶𝐶 + 𝛽𝛽10 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶+𝛽𝛽11 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁+𝛽𝛽12 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻
+
+
+La variable dependiente Prob (SI) significa la probabilidad si el usuario estaría
+
+dispuesto a apagar por el mejoramiento del servicio de agua potable, mientras tanto
+
+las variables independientes se presentan con características sociales (GEN, EDA,
+
+TAF, EDU), económicas (OCUP, ING, PREC) y las variables de percepción ambiental
+
+(CAL, CISA, NICOCC, HODIS). Se analizara los signos esperados. Sin embargo del
+
+signo de interrogación no se espera una respuesta definida, con la realización de la
+
+encuesta se obtendrán las variables explicativas. El sistema de variables se encuentra
+
+en el cuadro 2.
+
+                                                                                                                     31
+2.1.12. Método de Valoración Contingente (VC)
+
+El propósito de la valoración contingente es “derivar” las preferencias del consumidor.
+
+Normalmente el procedimiento seguido en la práctica consiste en analizar la conducta
+
+de la persona con la aplicación de las encuestas (Azqueta, 1994).
+
+
+Sobre el uso del método hay mucha discusión. Criticas como Diamond y Asuman
+
+“rechazan el método como método de valoración económica debido a que sus
+
+resultados son inconsistentes con la teoría económica. Sin embargo, en algunos
+
+casos estas aseveraciones no son apoyadas por los hallazgos en la literatura sobre
+
+valoración contingente” (Hanemann, 1994).
+
+
+Una variante del método contingente llamado referéndum fue introducido por Bishop
+
+et al., (1979) (citados por Freeman (1993)), el cual combina respuestas del tipo SI/NO,
+
+para analizar la disposición a pagar (DAP) y la disposición a aceptar (DAA). Mediante
+
+la variante del método de valoración contingente llamada técnica de referéndum se
+
+deduce la DAP, la cual determina el valor de uso del recurso. La técnica de referéndum
+
+se refiere a plantear la pregunta sobre la disposición a pagar no en forma abierta, si
+
+no, binaria ¿pagaría usted tanto por….? ¿Sí o No?
+
+
+Según Pérez (2000), la principal ventaja del método de valoración contingente es que
+
+puede medir potencialmente el valor del agua en el marco de la teoría económica.
+
+Asimismo mide valores futuros como actuales. Es la única técnica que mide valores
+
+de no uso. Se ha usado para estudiar demanda para abastecimiento de agua
+
+doméstica y mejoramiento del saneamiento del recurso en villas rurales en países en
+
+desarrollo. La principal desventaja son sus sesgos, su necesidad de conocimiento
+
+profundo de econometría, sus costos y tiempo para realizar el estudio.
+
+
+                                                                                     32
+2.1.13. Las Percepciones Ambientales en la Valoración del Agua
+
+Las percepciones y conocimientos que las personas tienen sobre la biodiversidad, y
+
+el medio ambiente en general, determinan como se pueden manejar y conservar estos
+
+recursos. Por este motivo, es importante conocerlos, entenderlos y valorarlos (Ruiz-
+
+Mallen, 2009).
+
+
+El proceso para llegar a una percepción ambiental incluye la experiencia directa a
+
+través de los sentidos, así como la información indirecta obtenida de otras personas,
+
+medios de comunicación, medios de divulgación científica, etcétera, la percepción
+
+ambiental esta mediada por características individuales de nuestros valores, actitudes
+
+y personalidad, pero también está influida por factores económicos y sociales
+
+(Daltabuit et al. 1994:23-24).
+
+
+La percepción ambiental implica un proceso de conocer el ambiente físico inmediato
+
+a través de los sentidos. El conocimiento ambiental comprende el almacenamiento la
+
+organización y la reconstrucción de imágenes de características ambientales que no
+
+están a la vista en el momento. Las actitudes con respecto al ambiente son los
+
+sentimientos favorables o desfavorables que las personas tienen hacia las
+
+características del ambiente físico (Holahan, 1994:44).
+
+
+Es una situación que repercute en el fracaso o éxito de un programa o políticas
+
+públicas. De ahí se deriva la necesidad de generar estudios de las percepciones
+
+ambientales, tomando en cuenta a diferentes actores sociales para evaluar si al ser
+
+estos considerados, el conocimiento generado permite contribuir el diseño de políticas
+
+ambientales verdaderamente públicas, más incluyentes y encaminadas hacia el
+
+interés general (Aguilar, 1996).
+
+
+                                                                                    33
+El estudio de las percepciones ambientales consideradas como una fuente de
+
+información importante para los planeadores y manejadores del ambiente. En este
+
+último caso es importante considerar que en los procesos de forma de decisiones, la
+
+imagen del ambiente difiere apreciablemente entre los tomadores de decisiones y la
+
+interpretación que de esta misma realidad hacen otras personal (Heathcote, 1980;
+
+Bones et al., 2004).
+
+
+2.2. Marco Conceptual
+
+
+2.2.1. Agua Potable.
+
+Se denomina agua potable o agua para el consumo humano, al agua que puede ser
+
+consumida sin restricción debido a que, gracias a un proceso de purificación, no
+
+representa un riesgo para la salud. El término se aplica al agua que cumple con las
+
+normas de calidad promulgadas por las autoridades locales e internacionales.
+
+
+En la Unión Europea la normativa 98/83/EU establece valores máximos y mínimos
+
+para el contenido en minerales, diferentes iones como cloruros, nitratos, nitritos,
+
+amonio, calcio, magnesio, fosfato, arsénico, entre otros, además de los gérmenes
+
+patógenos.
+
+
+El pH del agua potable debe estar entre 6,5 y 8,5. Los controles sobre el agua potable
+
+suelen ser más severos que los controles aplicados sobre las aguas minerales
+
+embotelladas.
+
+
+En zonas con intensivo uso agrícola es cada vez más difícil encontrar pozos cuya
+
+agua se ajuste a las exigencias de las normas. Especialmente los valores de nitratos
+
+y nitritos, además de las concentraciones de los compuestos fitosanitarios, superan a
+
+
+
+                                                                                    34
+menudo el umbral de lo permitido. La razón suele ser el uso masivo de abonos
+
+minerales o la filtración de purines.
+
+
+El nitrógeno aplicado de esta manera, que no es asimilado por las plantas es
+
+transformado por los microorganismos del suelo en nitrato y luego arrastrado por el
+
+agua de lluvia al nivel freático. También ponen en peligro el suministro de agua potable
+
+otros contaminantes medioambientales como el derrame de derivados del petróleo,
+
+lixiviados de minas, etc. Las causas de la no potabilidad del agua son: Bacterias, virus;
+
+Minerales (en formas de partículas o disueltos), productos tóxicos; y Depósitos o
+
+partículas en suspensión.
+
+
+2.2.2. Disposición a Pagar
+
+Cierta cantidad de dinero que una familia estaría dispuesta a pagar a cambio de una
+
+mejora de un servicio ambiental. Mide nuestra valoración personal de ese bien. Ese
+
+valor es nuestra disposición a pagar. Fankhauser (2005) define la disposición a pagar
+
+como un significado teórico en la teoría del consumidor, definido como la cantidad de
+
+ingreso que uno está dispuesto a ceder para obtener cierto servicio.
+
+
+La disposición a pagar (DAP) es un concepto usado en microeconomía y teoría
+
+económica para expresar la cantidad máxima que pagaría un consumidor por adquirir
+
+un determinado bien, o un usuario para disponer de un determinado servicio. Lo que
+
+los consumidores o usuarios de un servicio están dispuestos a pagar mide, según
+
+algunos economistas, la valoración personal de ese bien.
+
+
+2.2.3. Factores Socioeconómicos:
+
+Los factores socio-económicos son las experiencias sociales y económicas y las
+
+realidades que te ayudan a moldear la personalidad, las actitudes y la forma de vida.
+
+
+                                                                                       35
+También pueden estar definidos por las regiones y los vecindarios. Los organismos
+
+de seguridad del país, por ejemplo, siempre citan los factores socio-económicos de la
+
+pobreza relacionados con el alto nivel de crímenes.
+
+
+Entre los factores socio-económicos está la educación. El nivel de educación puede
+
+moldear tu percepción del mundo y puede contribuir al crecimiento social. Puede
+
+llevarte a tener la posibilidad de una mejor remuneración, lo que a su vez contribuye
+
+a la calidad de vida. También puede contribuir a los procesos de las tomas de
+
+decisiones que serán los caminos que tomarás en la vida.
+
+
+Tu entrada y tu ocupación son factores que pueden contribuir al nivel socio-
+
+económico. Una carrera en medicina, por ejemplo, la pone a una persona en un nivel
+
+de remuneración más alta, mientras que también la hace parte de una clase social de
+
+doctores, enfermeras y otros pares de la medicina. En la sociedad, a la gente se la
+
+juzga por lo que hace y por lo que gana. Cuando conoces a alguien, la pregunta sobre
+
+qué es lo que hace, es una de las que se hace primero.
+
+
+El lugar de residencia es otro de los factores socio-económicos, desde el tipo de casa
+
+en la que vivimos en la región y el vecindario en el que habitamos. Para mejor o para
+
+peor, los vecindarios agrupan socialmente a gente de remuneraciones similares y
+
+generalmente con antecedentes parecidos. Por ejemplo, a lo largo de la historia, se
+
+ven grandes vecindarios que han crecido alrededor de fábricas o molinos, que servían
+
+de alojamiento para los empleados de esos lugares. La ciudad de Gary, en Indiana,
+
+por ejemplo, creció con prosperidad al lado de los molinos sobre el lago Michigan. Y
+
+cuando la industria del acero comenzó a avanzar en los últimos años de los '70 y los
+
+primeros de los '80, las estructuras de Gary comenzaron a derrumbarse y la pobreza
+
+y el crimen comenzaron a sentirse.
+                                                                                    36
+La cultura y/o la etnia también son factores socio-económicos que pueden contribuir
+
+con tus pensamientos y actitudes. Ambas pueden tener un impacto en cómo se cría a
+
+los niños, los valores primarios, y el sentido de la familia y la tradición. La historia de
+
+la etnia de alguien, especialmente en los días de celebraciones autóctonas y las
+
+creencias culturales son todas cosas que se pasan de generación en generación y
+
+que moldea a los individuos.
+
+
+Generalmente unida a la cultura está el factor de la religión. Redes sociales enteras
+
+se construyen alrededor de las iglesias, los templos y las mezquitas. Desde las
+
+barbacoas y los partidos de softball a los misionarios extranjeros y los grupos de
+
+apoyo, la religión juega un importante rol social en la vida de muchos.
+
+
+2.2.4. Valoración
+
+La valoración es la práctica de asignar valor económico a un bien o servicio con el
+
+propósito de ubicarlo en el mercado de compra y venta.
+
+
+2.2.5. Servicios Ambientales:
+
+Son funciones ecológicas del planeta tierra, y se convierten en servicios ambientales
+
+cunado el ser humano los identifica como importantes para sus actividades. Los
+
+servicios ambientales no necesitan del ser humano para su mantenimiento, son auto-
+
+renovables y no han sido reemplazados por el ser humano, hasta hoy.
+
+
+2.2.6. Pago Por Servicios Ambientales:
+
+El pago por servicios ambientales es un mecanismo de compensación económica a
+
+través del cual los beneficiarios o usuarios del servicio retribuyen a los proveedores.
+
+Con esos recursos el proveedor debe adoptar prácticas de manejo dirigidas a elevar
+
+o al menos mantener la calidad del servicio ambiental ofrecido.
+
+
+                                                                                         37
+2.2.7. Bienes y Servicios Ambientales:
+
+Un bien ambiental es un producto de la naturaleza directamente aprovechado por el
+
+ser humano. “los servicios ambientales son las posibilidades o el potencial a ser
+
+utilizados por los humanos para su propio bienestar” (Huetling, citado por Barzev et
+
+al., 2000).
+
+
+2.3. Hipótesis de la Investigación
+
+
+2.3.1. Hipótesis General
+
+El inadecuada servicio de agua potable en ciudad de Yunguyo, tienen impactos
+
+negativos, por los factores     socioeconómicos, dotación del servicio que generan
+
+especialmente el desabastecimiento del recurso hídrico. El valor económico social de
+
+las perdidas por este concepto es función de la cantidad de disposición a pagar el
+
+servicio.
+
+
+2.3.2. Hipótesis Específicas.
+
+a. Las deficiencias en la servicio de agua potable en la ciudad de Yunguyo, se deben
+
+al desconocimiento del uso eficiente, insuficiente capacidad servicio, deficiente calidad
+
+de la dotación del servicio, y cultura de baja calidad de los proveedores y
+
+consumidores.
+
+
+b. Los factores de socioeconómicos, valor económico, servicio ambiental y dotación
+
+del servicio de agua potable, son consecuencia del mal uso de los sistemas
+
+utilizados en la producción del agua potable.
+
+
+c. La deficiente producción del servicio de agua potable, genera impactos negativos
+
+en el medio ambiente y bienestar de la población.
+
+
+
+                                                                                       38
+                                 CAPITULO III
+
+
+                    MÉTODOS DE LA INVESTIGACION
+
+3.1. Población y Muestra de la Investigación
+
+
+3.1.1. Población
+
+La población del distrito de Yunguyo en el año de 1993 era de 48,258 habitantes los
+
+cuales el 73.5% era la zona rural y el 26.5% restante la zona urbana, en el último
+
+censo del 2007 se tiene 47400 y se estima tener según las proyecciones de la
+
+municipalidad de Yunguyo en el año 2011, de 48,437 mil habitantes los
+
+
+Cuales 33906 mil habitantes viven en la zona rural (70%) y 14531 mil habitantes viven
+
+en la zona urbana (30%), de los cuales 9,000 habitantes tienen conexión domiciliarias
+
+en la zona urbana aproximadamente. (Según, La Empresa Municipal de Agua Potable
+
+y Alcantarillado Yunguyo S.R.Ltda.- EMAPA Y SRLtda).
+
+
+3.1.2. Muestra
+
+Se ha utilizado la calculadora para obtener el tamaño de muestra (N= 9000 habitantes)
+
+
+
+
+                                                                                   39
+                                      CUADRO 02
+
+
+
+
+3.2. Diseño y Tipo de Investigación
+
+El diseño está enmarcada en la investigación no experimental y transeccional mientras
+
+tanto el tipo corresponde a la investigación aplicada por su naturaleza es correlacional.
+
+
+3.3. Métodos, Técnicas e Instrumentos de Recolección de Datos
+
+Para la investigación se plantea la aplicación del Método de Valoración Contingente
+
+(MVC). Que consiste en la realización de encuestas para estimar el valor económico
+
+que los usuarios están dispuestos a pagar por un mejoramiento del servicio de agua
+
+potable. Para ello se aplicó a la muestra compuesta por las conexiones de los usuarios
+
+seleccionados y zonificados.
+
+
+El método de valoración contingente se caracteriza por el desarrollo de un mercado
+
+hipotético en el que los usuarios de los servicios ambientales pagarían por
+
+
+
+                                                                                       40
+implementar un proyecto en el que se devolvería la cobertura de agua potable con los
+
+volúmenes de que se tenía se incrementarían tanto en calidad y cantidad.
+
+
+3.3.1. Técnicas
+
+Se utilizó la técnica de encuesta, recurriendo como informantes a los usuarios
+
+considerados en la muestra de la investigación.
+
+
+3.3.2. Instrumentos
+
+Se ha utilizado la guía del cuestionario, impresos en físico para obtener respuestas
+
+sobre el problema en estudio. Se diseñó instrumento de encuestas que consta de tres
+
+partes (ver anexo 1). En el primero se incluyeron preguntas de la variable general
+
+independiente. “Factores Socioeconómicos” con su dimensión “social” para ganar un
+
+clima de confianza del entrevistado. En el segundo con la variable intermedia
+
+“económico” sobre la importancia de los ingresos, para luego preguntar cuanto podría
+
+pagar por la mejora, así como el mecanismo que tendría mayor aceptación para
+
+realizar el cobro y en el caso de respuestas negativas se preguntó por los motivos que
+
+no podrían pagar.
+
+
+La última parte se recabo información sobre los aspectos de “percepción ambiental”
+
+compuesta por Sección I que se ha abordado acerca de la “percepción sobre la calidad
+
+del agua” y en la sección II “uso de agua” y en la sección III “fuente de agua e
+
+importancia” y finalmente sobre la variable general dependiente “Disposición a Pagar”
+
+sobre la probabilidad de pagar el entrevistado en el caso de mejora de servicios de
+
+agua potable.
+
+
+
+
+                                                                                    41
+3.3.3. Validez y Confiabilidad
+
+La validez de los instrumentos se realizó mediante el método de “Juicio de Expertos”.
+
+Para este procedimiento de ha seleccionado un equipo de expertos.
+
+
+A los expertos se les ha suministrado una hoja de validación donde se determinaron:
+
+la correspondencia de objetivos e ítems, calidad técnica de representatividad y la
+
+calidad del lenguaje.
+
+
+Para determinar la confiabilidad de los instrumentos, se ha optado por el coeficiente
+
+de confiabilidad Alfa – Cronbach. Este coeficiente es recomendado cuando el
+
+instrumento ha sido construido sobre la base de una escala de múltiples respuestas.
+
+El método de consistencia interna basado en el alfa de Cronbach permite estimar la
+
+fiabilidad de un instrumento de medida a través de un conjunto de ítems que se espera
+
+que midan el mismo constructo o dimensión teórica.
+
+
+La validez de un instrumento se refiere al grado en que el instrumento mide aquello
+
+que pretende medir. Y la fiabilidad de la consistencia interna del instrumento se puede
+
+estimar con el alfa de Cronbach. La medida de la fiabilidad mediante el alfa de
+
+Cronbach asume. Cuanto más cerca se encuentre el valor del alfa a 1 mayor es la
+
+consistencia interna de los ítems analizados. La fiabilidad de la escala debe obtenerse
+
+siempre con los datos de cada muestra para garantizar la medida fiable del constructo
+
+en la muestra concreta de investigación.
+
+
+La validación del modelo propuesto se realizó en función al análisis estadístico
+
+(relevancia, dependencia, y ajuste); luego el análisis económico – ambiental y análisis
+
+de efectos marginales y/o elasticidades utilizando paquete de software limdep 12.
+
+
+
+
+                                                                                     42
+El LIMDEP es un paquete completo para la estimación y análisis para estimar y
+
+analizar modelos econométricos. Está orientado fundamentalmente al análisis de
+
+corte transversal y a los modelos de datos a panel. Pero la mayoría de los problemas
+
+típicos de análisis de series de tiempo pueden ser realizados con el programa
+
+econométrico. Los procesos básicos para el análisis de datos que contiene el
+
+programa son:
+
+
+   •   Estadísticas descriptivas (medias, desviación estándar valores máximos y
+
+       mínimos, sesgo y asimetría)
+
+   •   Estratificación de datos (Quintiles, cuartiles percentiles, gráficos de
+
+       normalidad)
+
+   •   Análisis de regresión y regresión por etapas.
+
+   •   Identificación de series de tiempo univariantes, función de autocorrelación y
+
+       autocorrelación muestral.
+
+   •   Tabulación de datos cruzados, histogramas y diversos gráficos de prueba y
+
+       análisis.
+
+   •   Se pueden realizar otras extensiones en los modelos de regresión que son
+
+       frecuentes y necesarios para la enseñanza y la investigación, como:
+
+   •   Estimación robusta del error estándar en modelos con heterocedasticidad.
+
+   •   Estimación robusta del error estándar en modelos con autocorrelación.
+
+   •   Estimación robusta del error estándar en modelos con heterocedasticidad
+
+       multiplicativa.
+
+   •   Estimación de modelos con heterocedasticidad y autocorrelación en datos
+
+       agrupados a panel.
+
+   •   Estimación de modelos Box-Cox
+
+
+                                                                                       43
+   •   Estimación de modelos con efectos aleatorios y efectos fijos en datos a panel
+
+   •   Estimación de modelos con rezagos distribuidos, ARIMA y ARMAX
+
+   •   Estimación de modelos no lineales uniecuacionales y multiecuacionales
+
+   •   Estimación de modelos lineales y no lineales de regresiones aparentemente
+
+       no relacionadas (SURE).
+
+   •   Estimación de modelos de ecuaciones simultaneas.
+
+
+
+Con la finalidad de validar la encuesta se realizaron encuestas a grupos focales de la
+
+muestra seleccionada, con la denominada encuesta piloto también se sondearon los
+
+valores de disponibilidad a pagar.
+
+
+3.4. Plan de Recolección de Datos.
+
+Una vez diseñado la hoja de encuestas definitivas se trazó un plan de recolección de
+
+datos y estrategias para su aplicación:
+
+
+Antes se dio a conocer el problema del servicio de agua potable en los medios de
+
+comunicación televisivos, como radiales para generar conciencia pública, a la vez se
+
+abordó sobre la disposición a pagar por un mejoramiento de calidad y cantidad del
+
+suministro de agua, en ese proceso se inició con una encuesta piloto de 30 personas
+
+con la propuesta de precios y la disposición a pagar que ha sido utilizado en el formato
+
+tipo referéndum la cual se generalizo con la aplicación de la recolección de datos en
+
+base a encuestas en todos los sectores seleccionados.
+
+
+3.5. Plan de Organización de la Información
+
+Una vez realizado la aplicación de encuestas se procedió a tabular un total de 100
+
+encuestas aplicadas a jefes y/o encargados de hogar en la ciudad de Yunguyo con
+
+conexiones de uso doméstico.
+                                                                                      44
+La estratificación de la muestra estaba orientado de acuerdo a la distribución
+
+geográfica dividida en tres zonas: Zona Alta, Media y Baja, con una muestra
+
+proporcional de 33 encuestas en cada sector.
+
+
+Para el acopio de información se visitaron a domicilios seleccionados según plan de
+
+marco de muestreo donde se procedió a preguntar al jefe o encargado de hogar. Las
+
+encuestas fueron realizadas en las 10 semanas de los meses de Julio, Agosto y parte
+
+del mes de Setiembre del año 2014, las encuestas se desarrollaron los fines de
+
+semanas (sábados y Domingos).
+
+
+3.6. Plan de Tratamiento de Datos.
+
+Se cumplió los siguientes pasos:
+
+
+Construcción de un cuadro matriz de consistencia para luego ingresar los datos de las
+
+variables asimismo realización de las operaciones y determinación de las formulas.
+
+En seguida se aplicó las formulas, posteriormente se organizó la prueba y la aplicación
+
+de la prueba de hipótesis para luego establecer las conclusiones.
+
+
+3.7. Plan de Análisis e Interpretación de Datos
+
+Se presenta los resultados de la encuesta y las estimaciones realizadas con los
+
+modelos lineales y logarítmicos. El precio hipotético, Prec (SI) es la cantidad de
+
+personas que respondieron SI, es decir es el número de personas que están
+
+dispuestos a pagar el precio hipotético. Se observa el porcentaje de personas que
+
+responde SI en respuesta por el proyecto de mejoramiento del servicio de agua
+
+potable. Obs (%) es la probabilidad observada de decir SI (para 1 sol, por ejemplo),
+
+Est Lin (%) Est Logn (%) serán las estimaciones lineales de las probabilidades de decir
+
+SI, se aplicaron los modelos Logit respectivos (Z lineal y logarítmico).
+
+
+                                                                                     45
+Las estimaciones de la probabilidad de decir SI respecto a la observada, se muestran
+
+en el cuadro (9) y grafico (5).
+
+
+Se tiene la disposición a pagar media como el valor de precio que presenta una
+
+probabilidad de decir SI de 50%, para los valores observados, valores con estimación
+
+lineal y logarítmica. Así se interpolo la DAP observada para ambos modelos (modelo
+
+lineal y logarítmico) con 50%.
+
+
+Por tanto se aceptara que la disposición a pagar media (DAP) de la población de
+
+Yunguyo, para un proyecto de mejoramiento del servicio de agua potable es de S/. x
+
+por familia por mes para el año según respuestas a la encuesta. Para las pruebas de
+
+significación global del modelo su formulación de hipótesis es:
+
+
+H0:β1 = 0, no existe ninguna relación.
+
+
+H0:β1 ≠ 0, si existe la relación.
+
+
+Para las pruebas de significación individual del modelo su formulación de hipótesis es:
+
+
+H0: β1 = β2=……. β13=0; no existe ninguna influencia de Y1 con X2, X3,………… X13,
+
+
+H0: β1 ≠ β2≠ β3……. β13≠0; si existe influencia de Y1 con X2, X3,………… X13,
+
+
+Para el procesamiento de datos se utilizó software de computadora como Word, Excel.
+
+Para el análisis de estadística descriptiva se utilizó SPSS 20 y para procesamiento
+
+econométrico LIMDEP 12.
+
+
+Las variables dependientes binarios (Zi) representan por los indicadores y se han
+
+utilizados los indicadores y son: Z9, X10,…, Z35, Z36.
+
+
+
+
+                                                                                     46
+3.8. Las Características Socioeconómicas
+
+         Edad                                          (EDA)
+
+
+         Educación                                     (EDU)
+
+
+         Género                                        (GEN)
+
+
+         Ingreso                                       (ING)
+
+
+         Institución                                   (INST)
+
+
+         Niños menores de 10 años                      (MEN)
+
+
+         Tamaño de familia                             (TAH)
+
+
+3.9. Técnicas Estadísticas Paramétricas Modelo de Regresión.
+
+        𝑍𝑍𝑍𝑍 = 𝛼𝛼 ± 𝛽𝛽1 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽2 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽3 𝐺𝐺𝐺𝐺𝐺𝐺 ± 𝛽𝛽4 𝐼𝐼𝐼𝐼𝐼𝐼 ± 𝛽𝛽5 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 ± 𝛽𝛽6 𝑀𝑀𝑀𝑀𝑀𝑀 ± 𝛽𝛽7 𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+El modelo que si utilizará es Logit, para estimar sus parámetros con variables binarios
+
+es el siguiente.
+
+
+                           𝑒𝑒 𝑍𝑍                                         1
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 𝑍𝑍         O       𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 −𝑍𝑍
+
+
+Donde para un modelo lineal:
+
+
+        𝑍𝑍𝑍𝑍 = 𝛼𝛼 ± 𝛽𝛽1 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽2 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽3 𝐺𝐺𝐺𝐺𝐺𝐺 ± 𝛽𝛽4 𝐼𝐼𝐼𝐼𝐼𝐼 ± 𝛽𝛽5 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 ± 𝛽𝛽6 𝑀𝑀𝑀𝑀𝑀𝑀 ± 𝛽𝛽7 𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+La estimación se realiza aplicando la técnica de maximizar la función de verosimilitud.
+
+Para la estimación de parámetros, se utilizó el software Eviews 7.0.
+
+
+El procedimiento de estimación es numérico, y los estimadores que se obtienen son
+
+los que maximizan la función de verosimilitud, para ello se utilizó la solución de la
+
+ecuación planteada y a partir de los datos de la encuesta. En la interpretación y
+                                                                                                                 47
+validación estadística de los resultados de la regresión de tipo logit, se ha evaluado
+
+los valores y los signos de los parámetros obtenidos de cada variable, la prueba de
+
+estadístico z, y se ha tomado mucha en cuenta la probabilidad (P ≤ 0.05), esto para
+
+determinar la significancia estadística.
+
+
+3.10. Operacionalizacion de Variables
+
+                                      CUADRO 03:
+
+                   SISTEMA DE OPERACIONALIZACION DE VARIABLES
+
+                                                                    Cuantificación o
+ Variable    Representación                Explicación
+                                                                     categorización
+
+ Prob(SI)    Probabilidad   de Variable dependiente binaria     1=Si el usuario responde
+             responder SI      que        representa      la    positivamente     a    la
+                               probabilidad de responder SI     pregunta de DAP, 0=Si
+                               a     la      pregunta    de     responde negativamente
+                               disponibilidad a pagar
+
+ PREC        Precio hipotético Variable independiente que Numero entero (1, 2, 3, 4 y
+             a pagar           toma el valor de la tarifa 5 nuevos soles)
+                               preguntada por acceder a los
+                               beneficios del programa de
+                               recuperación y conservación
+
+ PAM         Percepción         Variable        independiente   0= Si considera no
+             Ambiental          binaria que representa la       deteriorado,        1=Si
+                                percepción del grado de         considera deteriorado y
+                                deterioro del PNMF              muy deteriorado
+
+ ING         ingreso            Variable        independiente   1=Menos de S/.1000;
+                                categórica ordenada que         2=1001-2000;
+                                representa      el    ingreso   3=2001-3000;
+                                mensual total del jefe de       4=Mas de 3001.
+                                familia o encargado del hogar
+
+ EDU         educación          Variable        independiente 1= Primaria, 2=Secundaria
+                                categórica ordenada que 3=Superior, 4= Postgrado
+                                representa el nivel educativo
+                                del entrevistado
+
+ GEN         genero             Variable       independiente 1= Si es hombre, 0= Si es
+                                binaria que representa el mujer.
+                                género del entrevistado
+
+ TAH         Tamaño         del Variable       independiente Numero entero
+             Hogar              continua que representa el
+                                tamaño     del   hogar   del
+                                entrevistado
+
+                                                                                       48
+EDAD   Edad   Variable        independiente 1= 18-25 años; 2= 26-35;
+              categórica ordenada que 3=36-45; 4= 46-55; 5= 56-
+              representa la edad en años 89
+              del entrevistado
+
+
+
+
+                                                                  49
+                                  CAPITULO IV
+
+
+          CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN
+
+4.1. Ubicación Geográfica
+
+Yunguyo es la capital de la provincia de Yunguyo del Departamento de Puno. Se
+
+encuentra ubicada en el extremo sur oriental del Perú, en la zona alto andina
+
+denominada Meseta del Collao, en el área de influencia del Titicaca, el lago navegable
+
+más alto del mundo en el extremo Sur Este del departamento. Entre las paralelas 16º
+
+14' 21” latitud sur y 69º 05' 27” longitud oeste del meridiano de Greenwich, con una
+
+altitud que oscila desde el nivel del lago Titicaca de 3813 a 3870 msnm.
+
+
+La Provincia de Yunguyo se ubica en la frontera con la República de Bolivia, y en
+
+medio de dos lagos que son el lago Titicaca y el otro denominado Wiñaymarca.
+
+
+La ciudad de Yunguyo está constituida por diversos barrios, su actividad principal es
+
+la agrícola pero en zonas dispersas. La producción agrícola está enmarcada en una
+
+economía de subsistencia y auto consumo, se cultiva básicamente papa, quinua, oca,
+
+haba, tarwi, cebada, y avena entre otros cultivos que pueden soportar la cruda
+
+inclemencia de la temperatura y las sequías.
+
+
+El clima es variable, semi frígido característico del altiplano ventoso con escasa
+
+humedad. La temperatura en promedio es de 12º C variando durante el día entre 2.1º
+
+C a 15.3º C; los meses más fríos son junio y julio.
+
+
+Las precipitaciones pluviales se producen entre los meses de Diciembre y marzo, los
+
+picos de precipitación se producen a inicios del mes de Enero. La precipitación anual
+
+está alrededor de 500 a 670mm.
+
+                                                                                    50
+4.2. Población
+
+En el censo realizado en el año de 1993, la población de la Provincia de Yunguyo era
+
+de 48,258 habitantes, y último censo realizada para el año 2007, por parte INEI de
+
+Yunguyo es de 47,400 habitantes.
+
+
+La Provincia de Yunguyo tiene una población de 48,437 habitantes INEI 2011; de los
+
+cuales el 70.0% se concentra en el medio rural, 30.0% en el ámbito urbano del distrito
+
+de Yunguyo desde el punto de vista del área del asentamiento se concentra en el
+
+medio rural. En relación al crecimiento demográfico y migraciones, durante los últimos
+
+20 años se observa un intenso proceso de urbanización, y fenómeno de migración
+
+hacia ciudades como Arequipa, Puno, Tacna, Lima, por otro lado se observa la
+
+migración extra nacional hacia la república de Bolivia, generalmente migran los
+
+ciudadanos en edad activa con el propósito de buscar mejores condiciones de empleo
+
+o por requerimiento de carácter educacional que no pueden ser satisfechas en el
+
+ámbito de la zona. El flujo migratorio intra – Provincial se manifiesta del sector rural
+
+hacia la capital de la Provincia de Yunguyo
+
+
+4.3. Características Socioeconómicas
+
+La población de la provincia de Yunguyo por su poco desarrollo socioeconómico, se
+
+encuentra en condición de extrema pobreza        o indigencia, el 31.9 % y el 42% en
+
+situación de pobreza, y el 26.1% de la población considerados como no pobres por
+
+NBI y gasto
+
+
+Según las estadísticas de 2001, la causa de insatisfacción de necesidades básicas,
+
+es la vivienda hacinada y vivienda sin servicio higiénico, las mismas representan el
+
+45% y 72% del total de hogares, estas cifras en comparación a nivel nacional resultan
+
+muy superiores que es de 18.8% y 23.4% respectivamente.
+                                                                                      51
+4.4. Situación de los servicios básicos a la Población
+
+Por otro lado, existe la carencia de servicios básicos a nivel de la Provincia, según
+
+datos de 2002, solamente el 55%, 13% y 51.6% de hogares acceden a servicio de
+
+agua potable, desagüe y energía eléctrica. La población con niveles de pobreza,
+
+asentada en el medio rural, barrios circundantes a la capital provincial. El estado
+
+nutricional de los niños menores de cinco años, está por debajo de los estándares en
+
+cambio los registrados a nivel nacional muestran el 25.4%; esta situación se presenta
+
+con mayor incidencia en el medio rural y urbano popular.
+
+
+Los servicios educativos, aún no cobertura a la totalidad de la población, lo cual se
+
+muestra en la tasa de analfabetismo registrada en 1993, que es de 22.0%, cifra que
+
+supera ampliamente al promedio nacional (12.8%), agravándose aún más en el área
+
+rural con una tasa de 28.9% y; en términos de analfabetismo por sexo la brecha mayor
+
+se da en las mujeres al tener una tasa regional de 32.9% y, a nivel rural de 41.7%
+
+
+4.5. Recursos Naturales y Producción
+
+La provincia es eminentemente dedicada a la actividad agropecuaria, siendo la
+
+producción limitada por una serie de causas, tales como: la existencia de minifundios
+
+por la escasez de tierras agrícolas para la ampliación de la frontera agrícola, la
+
+tecnología que se utiliza fluctúa desde una tecnología agrícola aceptable hasta
+
+técnicas rudimentarias.
+
+
+La producción agrícola en la mayor parte de la población es para consumo familiar.
+
+La actividad agrícola se realiza bajo el temporal secano, siendo muy reducido por riego
+
+entre los principales productos son: papa, cebada, grano, quinua, habas, tarwi, oca,
+
+paraliza, alverja, etc., entre los forrajes se cultivan para la alimentación del ganado la
+
+avena y la cebada forrajera, la actividad pecuaria es basada en la crianza de vacunos
+                                                                                        52
+en pequeña escala y la crianza de ganados menores como es el ovino y el vacuno
+
+para consumo familiar.
+
+
+Las actividades piscícolas es incipiente entre las especies existentes son el carachi,
+
+el pejerrey y crianza de truchas en jaulas, habiendo exterminio en otras especies como
+
+el suche, umanto, boga, ispi.
+
+
+En lo referente a minerales, la zona posee minerales no metálicos (agregados). Que
+
+siguen para la construcción no hay estudios para existencia de minerales metálicos.
+
+
+Existen pequeñas industrias tales como las dedicadas a la transformación de maíz en
+
+mana, panaderías y otros que en su proceso productivo utilizan tecnología ancestral,
+
+con muy poca tecnificación.
+
+
+La artesanía es una actividad complementaria a la agropecuaria, elaborándose
+
+prendas para uso, uno de los principales limitantes es la tecnología empleada, con
+
+una adecuada organización se puede constituir en una actividad bastante productiva.
+
+La actividad turística es deficiente, por consiguiente existe escasa captación de
+
+divisas. Un pequeño sector de la población se dedica al comercio zonal, mediante
+
+productos de primera necesidad y productos de la región.
+
+
+La infraestructura vial en la actualidad se encuentra en proceso de construcción hacia
+
+los distritos de Ollaraya Unicachi, Tinicachi, Copani, y otros centros poblados. En
+
+cuanto a la comunicación lacustre existe poca utilización de este medio falta de
+
+infraestructura como embarcaderos y lanchas.
+
+
+
+
+                                                                                    53
+                                 CAPITULO V
+
+                    RESULTADOS DE LA INVESTIGACION
+
+5.1. La Influencia de los Factores Socioeconómicos Género, Edad, Tamaño de
+Familia, Nivel Educativo, Ocupación, Ingreso y Precio Hipotético de la Población
+Usuaria en la Disposición a Pagar.
+
+
+5.1.1. Análisis Descriptivo de los Variables en Estudio
+
+Las principales características, de las variables en estudio han sido considerados a
+
+los factores socioeconómicos más importantes y se han seleccionado la probabilidad
+
+de responder si, Prob (SI), precio hipotético a pagar (PREC), percepción ambiental
+
+PAM), ingreso mensual (ING), Nivel de educación (EDU), sexo ò género (GEN),
+
+Tamaño del hogar (TAH), y edad (EDA), estas variables han sido cuantificado
+
+mediante la categorización por rangos, a fin de determinar los parámetros
+
+correspondientes.
+
+
+En la encuesta se ha establecido la disposición a pagar desde S/.1.00 hasta S/.4.00
+
+nuevos soles para las persona de respondieron SI, por lo que las persona encuestadas
+
+han respondido dentro del rango establecido con un promedio de S/.1.529730 nuevos
+
+soles y con una mediana S/. 1.00 y la probabilidad de todas variables en estudio
+
+tiende a cero, esto indica que la encuesta efectuada ha sido buena y los datos son
+
+confiables para determinar los parámetros de la ecuación de la disposición a pagar.
+
+
+La Valoración contingente, se basa en el desarrollo de un mercado hipotético en el
+
+que los usuarios de los servicios ambientales pagarían para implementar un proyecto
+
+de ampliación den agua potable, que los volúmenes de agua que se tienen en la
+
+estación seca se incrementarían, al tiempo que se reduciría la cantidad de sedimentos
+
+
+
+                                                                                   54
+en el agua durante la estación lluviosa, lo que a su vez haría que los volúmenes de
+
+agua potable para consumo doméstico y su calidad se incrementarán.
+
+
+Para que los entrevistados entiendan de que se trata el mercado hipotético se les
+
+presenta una serie de fotografías en las que se muestra la influencia del bosque en
+
+los servicios ambientales. Posteriormente se les explica la forma en que funcionará el
+
+proyecto y los beneficios que obtendrán de su implementación y entonces se les
+
+pregunta si están dispuestos a pagar para que este se lleve a cabo.
+
+                                              CUADRO 04
+
+    ESTADÍSTICA DESCRIPTIVA DE LAS CARACTERÍSTICAS SOCIOECONÓMICAS DE LOS
+                                  POBLADORES DE YUNGUYO 2014.
+
+Descriptivo      EDA            EDU     GEN            ING         PAM     PREC           PSI      TAH
+
+Media          3.170270   2.564865    0.489189   1.797297    0.605405    1.529730   0.732432    2.310811
+
+Mediana        3.000000   3.000000    0.000000   2.000000    1.000000    1.000000   1.000000    2.000000
+
+Máximo         5.000000   4.000000    1.000000   4.000000    1.000000    4.000000   1.000000    4.000000
+
+Mínimo         0.000000   1.000000    0.000000   1.000000    0.000000    1.000000   0.000000    1.000000
+
+Std. Dev.      0.968715   0.866328    0.500560   0.785708    0.489425    0.836454   0.443290    0.731144
+
+Skewness       0.012817   -0.037532   0.043253   1.044013    -0.431315   1.505691   -1.050089   0.485753
+
+Kurtosis       2.461000   2.332282    1.001871   4.117856    1.186032    4.341754   2.102687    3.121193
+
+Jarque-Bera    4.489003   6.960351    61.66672   86.47911    62.20021    167.5594   80.41209    14.77704
+
+Probabilidad   0.105980   0.030802    0.000000   0.000000    0.000000    0.000000   0.000000    0.000618
+
+Suma           1173.000   949.0000    181.0000   665.0000    224.0000    566.0000   271.0000    855.0000
+
+Sum Sq. Dev.   346.2730   276.9432    92.45676   227.7973    88.38919    258.1730   72.51081    197.2568
+
+Observaciones 370         370         370        370         370         370        370         370
+
+
+
+
+                                                                                                           55
+Probabilidad de responder (SI) a la pregunta de disponibilidad a pagar (PREC)
+
+
+Las técnicas de valoración ambiental de los recursos naturales como es el recurso
+
+agua se han adoptado en el campo de la economía ambiental. economía de los
+
+recursos naturales y economía ecológica algunas técnicas para la valoración de
+
+activos ambientales y las metodologías son algunas de ellas son muy adecuadas y se
+
+aplican utilizando las técnicas de econometría moderna, para lo cual para el presente
+
+trabajo de investigación se ha adoptado el modelo logit, en donde intervienen las
+
+variables discretas y se ha seleccionado los factores socioeconómicos más saltantes
+
+para la determinación de la disposición a pagar para la mejora del sistemas de agua
+
+potable y de esa manera hacer el uso racional de los recursos hídricos de la capital
+
+de la Provincia de Yunguyo. Para el precio hipotético se ha llegado una media de 1.53
+
+y una mediana 1.00, máximo de S/.4.00 nuevos soles y una desviación estándar de
+
+0.84 y una probabilidad de 0.0000.
+
+
+                 80,00%                                    73,24%
+                 70,00%
+                 60,00%
+                 50,00%
+                 40,00%
+                 30,00%          26,76%
+
+                 20,00%
+                 10,00%
+                  0,00%
+                                  NO                          SI
+                                Probabilidad de responder (SI o NO)
+
+
+                                       Figura 01.
+                            Probabilidad de responder SI
+De acuerdo a la figura de probabilidad de responder Si, es decir de la variable (PSI),
+
+han respondido el 73.24 % de personas que si pueden pagar por una mejora de la
+
+                                                                                    56
+dotación del sistema de agua potable, y los 26.76 % han respondido que no están
+
+dispuestos a pagar para la mejora del servicio de agua potable. Esta aceptación que
+
+se obtuvo es porque los pobladores sienten que el servicio de agua potable debe ser
+
+permanente es decir que los servicios deben ser las 24 horas del día.
+
+
+
+           70,00%     65,14%
+           60,00%                                     y = 1,4389e-0,894x
+           50,00%                                        R² = 0,9915
+           40,00%
+           30,00%
+                                    21,08%
+           20,00%
+                                                      9,46%
+           10,00%                                                          4,32%
+            0,00%
+                        1              2                3                   4
+                                   Valores de pecio hipotetico
+
+                                      Figura 02.
+                      Precio hipotetico de la disposicion a pagar
+Como resultados de la encuesta realizada se ha formulado diferentes precios
+
+hipotéticos tales como son: S/.1.00, S/.2.00, S/.3.00, y S/.4.00,                  de los cuales el
+
+65.14% han respondido que podían pagar el monto de S/.1.00, 21.08% han
+
+respondido pagar S/.2.00, 9.45% respondieron pagar S/ 3.00 y 4.32% han respondido
+
+pagar S/.4.00. Estas respuestas son muy evidentes que a menor precio la mayoría de
+
+los pobladores han decidido pagar el monto de S/.1.00.
+
+
+Género (GEN)
+
+
+De acuerdo figura 03, de clasificación por género, el rango de género que concentra
+
+a los pobladores de la ciudad de Puno, en promedio es 51.08% (si son varón) son
+
+de género masculino y 48.92% (si es mujer) de género femenino. Este resultado refleja
+
+que los jefes de familia de la ciudad de Yunguyo, no se encuestaran permanentes en
+                                                                                                 57
+la ciudad si no tienen actividades fuera de la ciudad es decir como son comerciantes
+
+y profesionales que trabajan en otras localidades.
+
+
+                 51,50%                                  51,08%
+                 51,00%
+                 50,50%
+                 50,00%
+                 49,50%
+                                48,92%
+                 49,00%
+                 48,50%
+                 48,00%
+                 47,50%
+                                VARON                    MUJER
+                                    Valores segun el genero
+
+
+                                     Figura 03.
+                           Genero de personas encuestadas
+Edad (EDA)
+
+
+El rango de edad que concentra a los pobladores de la ciudad de Yunguyo de 35 a
+
+45 años de edad, según PromPerú, representando el 41%. En caso de la ciudad de
+
+Yunguyo, según la muestra, esta participación, para el presente trabajo de
+
+investigación se ha establecido cinco rangos tal como se aprecia en la figura y mayor
+
+cantidad de pobladores se concentran en el rango de 35 a 45 años de edad con
+
+34.86% de habitantes y seguido el rango de 45 a 55 años de edad con un 30.00% y
+
+los rango de menores a 25 años de edad y mayores de 65 años han demostrado 1.89
+
+y 8.11% respectivamente.
+
+
+
+
+                                                                                   58
+           40,00%                                       y = -0,0749x2 + 0,4667x - 0,3762
+                                              34,86%               R² = 0,9985
+           35,00%                                              30,00%
+           30,00%                25,14%
+           25,00%
+           20,00%
+           15,00%
+           10,00%                                                            8,11%
+            5,00%    1,89%
+            0,00%
+                      < 25      25 a 35       35 a 45         45 a 55        > 55
+                        Rango de edades en años de las personas encuestadas
+
+
+                                          Figura 04
+                    Rangos de edad de pobladores categorizadas
+Nivel educativo (EDU)
+
+
+El nivel educativo de los pobladores de la ciudad de Yunguyo, con mayor frecuencia
+
+se concentra pobladores que tienen solamente estudios, es decir han estudiado en
+
+Tecnológicos y en alguno casos Universitarios con un valor relativo 38.65% y seguido
+
+con los que han estudiado la educación secundaria en un 36.22%, y los que tienen
+
+estudios de post grado son en un 14.32% y 10.00% los que no han estudiados estos
+
+pobladores son generalmente los de la tercera edad, es decir los ancianos.
+
+
+Esta distribución de acuerdo al nivel educativo se debe a que en su mayoría de las
+
+familias que habitan en la ciudad son de escaso ingresos económicos mensuales.
+
+
+
+
+                                                                                           59
+        45,00%
+                                                       y = -0,1244x2 + 0,6347x - 0,4041
+        40,00%                                38,65%
+                                36,22%                           R² = 0,9989
+
+        35,00%
+
+        30,00%
+
+        25,00%
+
+        20,00%
+                                                          14,32%
+        15,00%
+                   10,81%
+        10,00%
+
+         5,00%
+
+         0,00%
+                  PRIMARIA    SECUNDARIA      SUPERIOR    POSTGRADO
+                     Nivel educativo de las personas encuestadas
+
+
+                                         Figura 05
+                 Nivel educativo categorizado de personas encuestadas
+
+
+Ingreso (ING)
+
+
+Los ingresos de los pobladores de la ciudad de Yunguyo en un 50.54%, se concentran
+
+las personas con ingresos netos que se encuentran en el rango entre S/. 1000 a
+
+S/.2000 nuevos soles y sigue en segundo lugar pobladores con el rango menores a
+
+S/.1000.00 nuevos soles en un 37.57%, y tercer lugar ocupan personas con mayores
+
+a S/. 2000.00 a S/.3000.00 nuevos soles la cantidad de 6.48% y los demás rangos
+
+son menor porcentaje; este análisis refleja que los pobladores de la ciudad de
+
+Yunguyo son aquellas personas de extrema pobreza por lo que sus ocupaciones
+
+diarias en la mayoría de los pobladores son la actividad agropecuaria.
+
+
+
+
+                                                                                          60
+             70,00%                                   y = 0,1667x3 - 1,2853x2 + 2,8188x - 1,3245
+                                                                         R² = 1
+             60,00%
+                                       50,54%
+             50,00%
+                       37,57%
+             40,00%
+
+             30,00%
+
+             20,00%
+
+             10,00%                                      6,48%           5,41%
+
+              0,00%
+                       < 1000       1000 a 2000       2000 a 3000        > 3000
+            -10,00%
+                                   Ingreso mensual del jefe de familia
+
+                                                           Figura 06
+
+                       Ingreso mensual categorizado del entrevistado
+
+Percepción ambiental (PAM)
+
+
+La percepción ambiental para el presente trabajo de investigación es una variable
+
+independiente binaria que representa la percepción del grado de deterioro del medio
+
+ambiente es decir en el presente caso el deterioro de los activos ambientales de la
+
+ciudad de Yunguyo, donde se encuentran ubicadas sobre la orilla del Lago Titicaca y
+
+la ubicación donde se encuentran los barrios urbano marginales son zonas que están
+
+bastante contaminadas por todo tipo de residuos.
+
+
+                  70,00%                                                 60,54%
+                  60,00%
+                  50,00%
+                                      39,46%
+                  40,00%
+                  30,00%
+                  20,00%
+                  10,00%
+                   0,00%
+                                No esta contaminado              Si esta contaminado
+                                              Percepcion ambiental
+
+
+                                                Figura 07
+
+                           Percepción ambiental del entrevistado
+
+
+
+                                                                                                   61
+La percepción ambiental 0= si considera no deteriorado, y 1= si considera deteriorado
+
+y muy deteriorado; actualmente se encuentra en proceso de deterioro, esto debido de
+
+la ciudad de Yunguyo, se encuentra contaminado por el incremento permanente de
+
+residuos sólidos, así también no existe la conciencia de la educación ambiental y un
+
+adecuado del programa de gestión del medio ambiente desde el punto de vista
+
+desarrollo sostenible.
+
+
+Los pobladores encuestados respondieron que si existe contaminación del medio
+
+ambiente en la ciudad de Yunguyo en un 60.54% y los que han manifestado que no
+
+estaba contaminado fueron 39.46%, esta diferencia para nosotros indica que los
+
+pobladores desconocen el medio ambiente contaminado y no contaminado, así
+
+también no tienen conocimiento sobre la educación ambiental.
+
+
+ 70,00%                                         y = 0,1487x3 - 1,2853x2 + 3,2964x - 2,068
+                                                                  R² = 1
+ 60,00%                         57,30%
+
+ 50,00%
+
+ 40,00%
+
+ 30,00%                                              26,76%
+
+ 20,00%
+               9,18%
+ 10,00%                                                                    6,76%
+
+  0,00%
+                 1                2                    3                      4
+                           Numero de hijos por familia encuestada
+
+
+                                         Figura 08
+
+                              Número de hijos por familia
+
+
+
+La variable    independiente de número de hijos influye directamente sobre las
+
+respuestas sí o no estar dispuesto a pagar, porque esta variable influye directamente
+
+
+                                                                                            62
+a la disposición a pagar para la mejora del servicio de agua potable en la ciudad de
+
+Yunguyo.
+
+
+5.1.2. Determinación de la Probabilidad de Responder (SI) Por el Método Logit
+
+Binario
+
+Los resultados pueden observarse en el cuadro 05, los signos de los coeficientes son
+
+consistentes con la teoría. El signo que acompaña a la variable precio es negativa
+
+señalando la relación inversa entre el valor a disposición a pagar por la mejora de
+
+servicio de agua potable y la probabilidad de responder afirmativamente a la pregunta
+
+de pago.
+
+
+El coeficiente de la variable de ingreso es positiva, señalando una relación directa
+
+entre el ingreso familiar y la probabilidad de responder afirmativamente a la pregunta
+
+de pago.
+
+
+Los resultados presentados en tabla 05, que corresponde al de un modelo de
+
+probabilidad lineal de tipo logit, los parámetros estimados bajo este modelo indican
+
+como cambia la probabilidad de que ocurra una respuesta afirmativa a la pregunta de
+
+pago responder SI a la pregunta de disponibilidad a pagar (DAP) por la mejora del
+
+sistema del sistema de dotación de agua potable sea las 24 horas, es decir cambiar
+
+el sistema para la dotación de agua potable que cada poblador tenga permanente.
+
+
+De acuerdo a la tabla 05, se ha obtenido la ecuación de la probabilidad de responder
+
+(Si) utilizando el método de Logit esto pertenece a la econometría de variables
+
+discretas y es un modelo de mucha utilidad en el campo de la valoración de la
+
+economía ambiental, es la estimación de modelos de elección tecnológica, modelos
+
+de probabilidad y se ha establecido la siguiente ecuación:
+
+
+                                                                                    63
+                                             𝑒𝑒 𝑍𝑍                                        1
+                 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 𝑍𝑍          O      𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 −𝑍𝑍
+
+
+Donde para un modelo lineal:
+
+
+     𝑍𝑍𝑍𝑍 = 𝛼𝛼 ± 𝛽𝛽1 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽2 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽3 𝐺𝐺𝐺𝐺𝐺𝐺 ± 𝛽𝛽4 𝐼𝐼𝐼𝐼𝐼𝐼 ± 𝛽𝛽5 𝑃𝑃𝑃𝑃𝑃𝑃 ± 𝛽𝛽6 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 ± 𝛽𝛽7 𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+ 𝑍𝑍1 = 0.4924 − 0.3635𝐸𝐸𝐸𝐸𝐸𝐸 + 0.4012𝐸𝐸𝐸𝐸𝐸𝐸 − 1.3151𝐺𝐺𝐺𝐺𝐺𝐺 + 3.2596𝐼𝐼𝐼𝐼𝐼𝐼 + 1.3223𝑃𝑃𝑃𝑃𝑃𝑃
+
+                  − 1.8860𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 − 0.6363𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+Para el modelo determinado mediante el procedimiento de logit para la ciudad de
+
+Yunguyo, y después de haber validado estadísticamente y de acuerdo las probabilidad
+
+para el caso de Edad se obtuvo que la probabilidad es de 0.0438, este valor en
+
+comparación de 0.05 es altamente significativo, es decir que la variable edad tiene
+
+influencia indirecta con un coeficiente de -0.363596 esto indica que a mayor de edad
+
+la probabilidad de disposición a pagar es menor; en cuanto a la variable de nivel
+
+educativo cuya probabilidad es de 0.1938 es superior a 0.05 esto indica que no existe
+
+significancia directa, sin embargo de acuerdo a los resultados se observa de acuerdo
+
+al coeficiente obtenido muestra que a mayor nivel educativo la probabilidad de
+
+responder que si puede pagar por la mejora de agua potable es mayor.
+
+
+
+
+                                                                                                              64
+                                         CUADRO 05
+
+ RESULTADO DE LA PROBABILIDAD DE RESPONDER (SI) POR EL MÉTODO LOGIT BINARIO
+                    APLICANDO EL METODO DE MAXIMA VEROSIMILITUD
+
+               Variable      Coeficiente     Error estándar        z-estadística   Probabilidad.
+Coeficiente                   0.492450          0.942970             0.522233         0.6015
+Edad                          -0.363596         0.180335             -2.016219        0.0438
+Educación                     0.401274          0.308789             1.299509         0.1938
+Genero                        -1.315168         0.417412             -3.150765        0.0016
+Ingreso Mensual               3.259613          0.515012             6.329192         0.0000
+Percepción Ambiental          1.322349          0.395721             3.341624         0.0008
+Precio Hipotético             -1.886090         0.290699             -6.488122        0.0000
+Tamaño Del Hogarh             -0.636366         0.288793             -2.203532        0.0276
+McFadden R-squared            0.427595     Mean dependent var                        0.732432
+S.D. dependent var            0.443290     S.E. of regression                        0.324740
+Akaike info criterion         0.708177     Sum squared resid                         38.17510
+Schwarz criterion             0.792793     Log likelihood                           -123.0127
+Hannan-Quinn criter.          0.741787     Deviance                                  246.0253
+Restr. deviance               429.8101     Restr. log likelihood                    -214.9050
+LR statistic                  183.7848     Avg. log likelihood                      -0.332467
+Prob(LR statistic)            0.000000
+Obs with Dep=0                   99                      Total obs                     370
+Obs with Dep=1                   271
+
+
+
+Los signos de los coeficientes son consistentes con la teoría. El signo que acompaña
+
+a la variable precio es negativa señalando la relación inversa entre el valor a
+
+disposición a pagar -1.886090 por la mejora de servicio de agua potable y la
+
+probabilidad de responder afirmativamente a la pregunta de pago resulta una
+
+probabilidad de P= 0.0008, la cual implica la alta significancia respecto a la explicación
+
+de tener la buena voluntad de pagar para la mejora del servicio de agua potable en la
+
+ciudad de Yunguyo.
+
+
+El coeficiente de la variable ingreso es positiva, señalando una relación directa entre
+
+el ingreso familiar y la probabilidad de responder afirmativamente a la pregunta de
+
+pago, el coeficiente del ingreso familiar es de 3.259613, con un estadístico Z=
+                                                                                                65
+6.329192 y la probabilidad de P= 0.0000, estos valora últimos los ratifican que existe
+
+significancia.
+
+                                           CUADRO 06
+
+ RESUMEN DEL RESULTADO DE LA PROBABILIDAD DE RESPONDER (SI) POR EL MÉTODO
+              LOGIT BINARIO APLICANDO EL METODO DE MAXIMA VEROSIMILITUD
+
+ Símbolo      Variable                      coeficiente    Valores estimados        Probab.
+ C            Coeficiente                        α              0.492450            0.6015
+ EDA          Edad                              β1             -0.363596            0.0438
+ EDU          Educación                         β2              0.401274            0.1938
+ GEN          Genero                            β3             -1.315168            0.0016
+ ING          Ingreso Mensual                   β4              3.259613            0.0000
+ PAM          Percepción Ambiental              β5              1.322349            0.0008
+ PREC         Precio Hipotético                 β6             -1.886090            0.0000
+ TAH          Tamaño del Hogar                  β7             -0.636366            0.0276
+
+Sin embargo, la característica socioeconómica de educación se obtuvo un coeficiente
+
+con valor positivo 0.401274, y con z= 1.299509, y la probabilidad que ratifica
+
+P=0.1938, las misma que en comparación con el valor de probabilidad de P≤0.05 es
+
+bastante superior a nivel de probabilidades estadísticas y esto evidencia que no existe
+
+significancia estadística.
+
+                                 CUADRO 07
+ RESULTADO DE LA PROBABILIDAD DE RESPONDER (SI) POR EL MÉTODO LOGIT BINARIO
+                   APLICANDO EL MODELO DE MAXIMA VEROSIMILITUD 2014
+        Variable             Coeficiente    Error estándar      z-estadística   Probabilidad.
+Coeficiente                  1.054774         0.842644           1.251744          0.2107
+Edad                         -0.409580        0.176397           -2.321920         0.0202
+Genero                       -1.149758        0.391951           -2.933426         0.0034
+Ingreso Mensual              3.574854         0.469560           7.613203          0.0000
+Percepción Ambiental 1.460982                 0.380262           3.842039          0.0001
+Precio Hipotético            -1.885233        0.294044           -6.411402         0.0000
+Tamaño Del Hogarh            -0.675411        0.285931           -2.362149         0.0182
+McFadden R-squared           0.423587 Media de la variable dependiente           0.732432
+S.D. dependent var           0.443290       S.E. de regresión                    0.325783
+
+                                                                                            66
+Akaike info criterion                0.707428               Suma de cuadrado de residual                      38.52694
+Schwarz criterion                    0.781467               Log likelihood                                    -123.8741
+Hannan-Quinn criter.                 0.736837               Deviance                                          247.7482
+Restr. deviance                      429.8101               Restr. log likelihood                             -214.9050
+LR statistic                         182.0619               Avg. log likelihood                               -0.334795
+Prob(LR statistic)                   0.000000
+Obs with Dep=0                            99                 Total obs                                           370
+Obs with Dep=1                           271
+
+
+
+
+                                                           CUADRO 08
+
+ RESUMEN DE RESULTADO DE LA PROBABILIDAD DE RESPONDER (SI) POR EL MÉTODO
+             LOGIT BINARIO APLICANDO EL METODO DE MAXIMA VEROSIMILITUD
+
+ Símbolo                  Variable                   coeficiente           Valores estimados                Probabilidad.
+ C              Coeficiente                                   α                  1.054774                      0.2107
+ EDA            Edad                                         β1                  -0.409580                     0.0202
+ GEN            Genero                                       β2                  -1.149758                     0.0034
+ ING            Ingreso Mensual                              β3                  3.574854                      0.0000
+ PAM            Percepción Ambiental                         β4                  1.460982                      0.0001
+ PREC           Precio Hipotético                            β5                  -1.885233                     0.0000
+ TAH            Tamaño del Hogar                             β6                  -0.675411                     0.0182
+
+
+
+                                                   𝑒𝑒 𝑍𝑍                                           1
+                       𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 𝑍𝑍              O      𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) =
+                                                                                                 1+𝑒𝑒 −𝑍𝑍
+
+
+
+
+Donde para un modelo lineal:
+
+
+                  𝑍𝑍𝑍𝑍 = 𝛼𝛼 ± 𝛽𝛽1 𝐸𝐸𝐸𝐸𝐸𝐸 ± 𝛽𝛽2 𝐺𝐺𝐺𝐺𝐺𝐺 ± 𝛽𝛽3 𝐼𝐼𝐼𝐼𝐼𝐼 ± 𝛽𝛽4 𝑃𝑃𝑃𝑃𝑃𝑃 ± 𝛽𝛽5 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 ± 𝛽𝛽6 𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+     𝑍𝑍2 = 1.0547 − 0.4095𝐸𝐸𝐸𝐸𝐸𝐸 + 1.3151𝐺𝐺𝐺𝐺𝐺𝐺 + 3.5748𝐼𝐼𝐼𝐼𝐼𝐼 + 1.4609𝑃𝑃𝑃𝑃𝑃𝑃 − 1.885𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 − 0.6754𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+
+
+                                                                                                                            67
+Los resultados en el cuadro anterior, los signos de los coeficientes son consistentes
+
+con la teoría. El signo que acompaña a las variables de ingreso es positivo, señalando
+
+una relación directa entre el ingreso familiar y la probabilidad de responder
+
+afirmativamente a la pregunta de pago. En cuanto se refiere al precio hipotético el
+
+coeficiente es negativo señalando la relación inversa entre la disposición a pagar por
+
+la mejora de riego y la probabilidad de responder afirmativamente a la pregunta de
+
+pago. El coeficiente de la variable de educación del entrevistado es positivo, significa
+
+que entre mayor sea el nivel de educación del entrevistado, la probabilidad de
+
+responder afirmativamente a la pregunta de disponibilidad a pagar será mayor. En
+
+cuanto se refiere al género del entrevistado cuyo coeficiente tiene signo positivo nos
+
+indica que los usuarios de sexo masculino tienen mayor probabilidad de responder
+
+afirmativamente a la pregunta de disponibilidad a pagar y será mayor, esto debido
+
+posiblemente por la ubicación donde se encuentran el Centro Poblado. En cuanto se
+
+refiere a la edad cuyo signo es negativo esto nos indica la relación inversa la
+
+probabilidad de responder afirmativamente a la pregunta de disponibilidad a pagar
+
+será mayor, es decir a mayor edad de usuario la probabilidad de pagar es muy bajo la
+
+probabilidad de responder sí.
+
+
+5.2. Beneficios Económicos
+
+Después de haber realizado los estudios de las características socioeconómicas de
+
+los pobladores de Yunguyo, se determinó la disposición a pagar de parte de los
+
+beneficiarios del consumo de agua potable, y se ha utilizado el paquete econométrico
+
+Limdep w. 7.03 y se determinado los valores agregados y en función a la disposición
+
+a pagar, tanto en nuevos soles así también en dólares americanos, se muestra en el
+
+cuadro siguiente:
+
+
+                                                                                      68
+                                      TABLA 09.
+
+                 DETERMINACIÓN DEL DAPS Y VALORES AGREGADOS
+
+ Ciudad de Yunguyo                 DAPs     Población    TAH     Valor Agregado
+
+ Yunguyo (Nuevos soles )          4.3461       9000       2.31    39115.00(S/./mes)
+
+ Yunguyo               (Dólares   4.3461       9000       2.31     13488.00 ($/mes)
+ Americanos)
+
+
+
+
+El aporte de parte de los comuneros es muy importante para el desarrollo agrícola a
+
+nivel de una agricultura ecológica la misma que contribuirá al desarrollo sostenible de
+
+las comunidades en estudio, ya que en la actualidad el manejo racional de los recursos
+
+naturales si está propiciando de parte de los sectores encargados en las diferentes
+
+actividades tanto agrícola y pecuarias, porque la producción de alimentos en los
+
+países como la de nuestro es muy bajo en comparación con los países desarrollados,
+
+tales como los países europeos, entre otros. Los aportes de los comuneros o
+
+beneficiarios son recursos que se generan por la venta de sus productos
+
+agropecuarios.
+
+
+Sabiendo que estos beneficios significan un cambio favorable en el bienestar de la
+
+sociedad. Estos beneficios solamente están relacionados con aumentos en el
+
+consumo (utilización de recurso largo), si no, también en el largo plazo por liberación
+
+de recursos que significará una disminución de los gastos en tratamientos de salud
+
+por ejemplo (ahorro de recursos o menores costos) en que incurren las diferentes
+
+familias del centro Poblado.
+
+
+
+
+                                                                                      69
+                                      TABLA 10.
+
+  DESCRIPTIVO DE LAS COMUNIDADES RESPECTO A DISPOSICIÓN A PAGAR EN NUEVOS
+                                   SOLES
+
+  Ciudad        DAP (Media)      Desv.estándar       Mínimo      Máximo      Casos
+
+ Yunguyo           4.3461             1.4747          1.4817     7.5992       370
+
+
+
+
+5.3. Discusión de los Resultados
+
+En la prueba de significación global del modelo, los resultados obtenidos nos indican
+
+que la hipótesis general de investigación ha sido básicamente aceptada, es decir que
+
+si existe una relación entre los factores socioeconómicos y la disposición a pagar por
+
+el mejoramiento del servicio de agua potable. Entre las pruebas de significación
+
+individual los factores sociales, como género (GEN), nivel de educación (EDU); en lo
+
+económico ocupación (OCUP) y en el factor de percepción ambiental con su variable,
+
+nivel de contaminación en cabecera y cuenca (NICOCC) influyeron con mayor fuerza
+
+sobre la DAP.
+
+
+Respecto al género (GEN) este resultado podríamos considerar que no era esperado
+
+en tanto que está relacionado que los hombres son más conscientes de una prestación
+
+con un mejor servicio de agua potable y que tiene una correlación significativa con
+
+DAP.
+
+
+Es un hecho que estos resultados deben servirnos para reflexionar seriamente sobre
+
+la variable educación (EDU) en nuestra ciudad me parece que es determinante tener
+
+el alto nivel educativo ya que coadyuva significativamente en la DAP su importancia
+
+ha sido demostrado en diversos trabajos de investigación.
+
+
+
+
+                                                                                     70
+Es importante destacar los resultados obtenidos de la regresión del modelo de la
+
+variable ocupación (OCUP) un trabajo con altos ingresos económicos contribuye a la
+
+determinación de la DAP a vida cuenta que responde positivamente con la valoración
+
+de los recursos hídricos.
+
+
+5.4. La Percepción Ambiental y la Calidad del Servicio, Cortes Intempestivos,
+
+Nivel de Contaminación en Horas Diarias de Suministro y su Influencia en la
+
+Disposición a Pagar.
+
+Los problemas ambientales que presenta la Región de Puno, tiene efectos directos o
+
+indirectos en la economía regional y en la calidad de vida de la sociedad. Puno
+
+presenta una población en extrema pobreza mayor del 50% y su población está
+
+distribuida en dos unidades geográficas: la Sierra, con la cuenca del lago Titicaca y la
+
+Selva cuya diversidad de especies silvestres única en el mundo es su distintivo
+
+principal.
+
+
+El resultado del modelo incluido la variable educación (EDU) se ha llegado al modelo
+
+de tipo logit
+
+                                  𝑒𝑒 0.4924+1.3223𝑃𝑃𝑃𝑃𝑃𝑃                                                    1
+      𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 0.4924+1.3223𝑃𝑃𝑃𝑃𝑃𝑃            O     𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) =
+                                                                                               1+𝑒𝑒 −(0.4924+1.3223𝑃𝑃𝑃𝑃𝑃𝑃)
+
+
+
+Donde para un modelo lineal:
+
+
+                                                     𝑍𝑍𝑍𝑍 = 𝛼𝛼 ± 𝛽𝛽5 𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+                                                 𝑍𝑍1 = 0.4924 + 1.3223𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+                                  𝑒𝑒 1.0547+1.4609𝑃𝑃𝑃𝑃𝑃𝑃                                                    1
+      𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) = 1+𝑒𝑒 1.0547+1.4609𝑃𝑃𝑃𝑃𝑃𝑃           O       𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 = 𝑃𝑃(𝑆𝑆𝑆𝑆) =
+                                                                                               1+𝑒𝑒 −(1.0547+1.4609𝑃𝑃𝑃𝑃𝑃𝑃)
+
+
+
+Donde para un modelo lineal:
+
+
+                                                                                                                             71
+                                     𝑍𝑍𝑍𝑍 = 𝛼𝛼 ± 𝛽𝛽4 𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+                                 𝑍𝑍2 = 1.0547 + 1.4609𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+Sin embargo, el aprovechamiento de los recursos naturales mediante actividades
+
+económicas del hombre y sus hábitos de consumo, generan un impacto negativo
+
+sobre este ambiente, alterándolo y poniendo en peligro el equilibrio de los
+
+ecosistemas. Dichas actividades realizadas por parte de la población, empresas y/o
+
+instituciones deben estar basadas según la situación ambiental, que permita conocer
+
+al hábitat y el estado de cada recurso natural que se encuentren en cada uno de los
+
+ecosistemas que posee la Región.
+
+
+Por lo que se plantea la necesidad de poder contar con un diagnóstico ambiental
+
+regional actual y basado en la Política Regional del Ambiente que ayude a identificar
+
+y zonificar la problemática ambiental, como también a la biodiversidad vulnerable y
+
+afectada.
+
+
+En los últimos reportajes, el personal de la Unidad de Salud Ambiental de la Red de
+
+Salud – Yunguyo, en la víspera, realizó la vigilancia y control de la calidad del agua
+
+potable en cinco sectores, teniendo como punto de muestro las piletas de la ciudad,
+
+en presencia de los usuarios de la ciudad de Yunguyo.
+
+
+Y según el análisis realizado, se obtuvo el resultado de 0.0 milígramos de clorificación,
+
+cuando lo normal es darle un tratamiento en 0.5 milígramo de cloro por litro de agua,
+
+indicó el profesional en salud. Al finalizar dicho trabajo se concluyó que la población
+
+de Yunguyo consume agua potable no garantizada, lo que significaría que la población
+
+estaría consumiendo agua potable que no es tratada adecuadamente, lo que podría
+
+afectar en la salud de las personas mismas condiciones.
+
+                                                                                       72
+La problemática de la disponibilidad de agua para el abastecimiento humano incluye
+
+la preocupación cada vez mayor, tanto para las autoridades locales como para la
+
+sociedad en general, de la calidad del agua, pues en la mayor parte del mundo está
+
+lejos de ser la adecuada. De acuerdo con el informe Año Internacional del
+
+Saneamiento, publicado en 2008, alrededor de una quinta parte de la población
+
+mundial no tiene acceso a agua libre de contaminantes (ONU–Agua, 2008).
+
+
+Una manera de obtener la información sobre el comportamiento de los actores
+
+involucrados pasa por los estudios de sus percepciones ambientales, pues permiten
+
+conocer las interpretaciones y los significados que fundamentan la elaboración de
+
+juicios en torno a las sensaciones obtenidas del ambiente (Vargas, 1994). A través del
+
+conocimiento de las percepciones de los seres humanos, es posible entender el
+
+significado de sus acciones y prácticas actuales. Así, éstas revelan sus intenciones
+
+futuras en relación con la toma de decisiones, las cuales en esta investigación se
+
+enfocan a favor de la calidad del agua.
+
+
+El estudio del proceso de percepciones facilita la comprensión de cómo y por qué
+
+están estructurados estos aspectos humanos. Ello requiere de un abordaje holístico,
+
+que permita la apertura y sensibilidad para comprender la variedad de posibilidades
+
+que pueden ser encontradas en una situación estudiada. Por tanto, el estudio
+
+particular de las percepciones de los problemas ambientales forma parte de una
+
+reflexión más amplia sobre las relaciones que los actores sociales mantienen con el
+
+entorno en cada sociedad y las acciones que se derivan de éstas.
+
+
+A lo largo de la investigación se propuso responder las siguientes preguntas: ¿Cómo
+
+se percibe la calidad de las aguas superficiales?, ¿cuáles son las principales fuentes
+
+de contaminación bajo las percepciones de los grupos sociales?, ¿cuáles son las
+                                                                                    73
+soluciones para los problemas percibidos y las responsabilidades para tratar la
+
+problemática de la calidad de los ríos y arroyos? y ¿qué aspectos del entorno físico y
+
+del contexto cultural influyen en las percepciones?
+
+
+En este contexto, esta contribución parte de un panorama general en torno a la calidad
+
+del agua en México, en el área de estudio y de una delimitación del concepto de
+
+percepciones ambientales. Después se muestran los resultados obtenidos durante la
+
+investigación sobre las percepciones de los grupos sociales, respecto de la calidad
+
+del agua de los ríos y arroyos en la microcuenca, así como las principales fuentes de
+
+contaminación, las soluciones y responsabilidades para tratar la problemática de la
+
+calidad del agua.
+
+
+5.5. Discusión de los Resultados de la Percepción Ambiental y la Calidad del
+
+Servicio.
+
+La situación respecto al conocimiento de desarrollo sostenible y la conservación del
+
+medio ambiente en nuestro medio todavía no está bien conocido muy en especial en
+
+la ciudad de Yunguyo, por lo que la percepción ambiental en Yunguyo no está bien
+
+definido por parte de los pobladores de la ciudad de Yunguyo, por lo tanto es necesario
+
+e importante implementar los programas de educación ambiental.
+
+
+Por otro lado, en relación con nuestra región, en estudios recientes de la Organización
+
+de las Naciones Unidas (ONU) revela que la calidad del agua se encuentra en un
+
+estado crítico, ya que ocupa los últimos lugares de una lista de muchos países que
+
+más enfrentan esta problemática (Cruz y Escobar, 2006). El uso descontrolado del
+
+recurso y la contaminación por causas diversas se configuran como los problemas
+
+más sobresalientes y afectan tanto al abastecimiento humano como el uso en los
+
+medios de producción (La Jornada, 2006).
+                                                                                     74
+El reto de mejorar una situación tan compleja requiere de un trabajo conjunto de las
+
+instancias de gobierno y de la población, pues además de involucrar cuestiones
+
+técnicas, implica buscar un cambio de conducta y promover la utilización de nuevas
+
+prácticas de manejo del agua. Para esto es necesario comprender el comportamiento
+
+de los actores involucrados y promover la concientización por medio de programas o
+
+acciones en educación ambiental (Mostert, 2003; Soares et al., 2005).
+
+
+
+
+                                                                                  75
+                               CONCLUSIONES
+
+Se ha logrado determinar que existe una relación positiva y significativa entre los
+
+factores socioeconómicos y la disposición a pagar por mejor nivel del servicio. El
+
+73.24% de los entrevistados respondió afirmativamente a la pregunta de la DAP. Los
+
+resultados revelaron una disposición a pagar de S/. 4.3461 nuevos soles mensuales
+
+por familia este monto multiplicado con la cantidad total de los usuarios que al
+
+31/12/2013 es (12,375 conexiones) hace un total de S/. 53,782.99/mes la DAP y S/.
+
+645,395.85/año.
+
+
+Existe una influencia en forma directa y positiva de los factores socioeconómicos en
+
+la disposición a pagar. Los modelos evaluados demuestran que las variables que
+
+influencian el valor económico del servicio ambiental en forma significativa son
+
+ocupación (OCUP), educación (EDU) y género (GEN). Sorprendentemente las
+
+variables tamaño del grupo familiar y otras variables no tienen peso en la respuesta
+
+positiva.
+
+
+Existe una influencia directa entre la percepción ambiental y la disponibilidad a pagar
+
+por la mejora del servicio. La variable que ha influido con mayor incidencia en la
+
+valoración económica del servicio es el nivel de contaminación en cabecera y cuenca
+
+(NICOCC) que destaca como determinante y l más significativa y las que no tuvieron
+
+peso en su influencia son los corte intempestivos del servicio(CISA), la calidad servicio
+
+(CAL) y horas de suministro durante el día (HODIS).
+
+
+
+
+                                                                                       76
+                              RECOMENDACIONES
+
+Poner de conocimiento público los resultados sobre el tema trabajado, ya que
+
+contribuirá al permanente mejoramiento de la administración de las empresas de
+
+saneamiento así como el incremento del nivel de la satisfacción de los usuarios del
+
+recurso ambiental.
+
+
+Desarrollar investigaciones sobre el trabajo realizado a nivel regional para contar con
+
+mayor evidencia empírica que nos permita delinear y ejecutar programas orientados
+
+a instituciones que ofertan servicios de agua potable y otros recursos ambientales que
+
+contribuya a la optimización del servicio. Estos resultados pueden servir de base a
+
+otros investigadores y asimismo, para la toma de decisiones en los futuros planes de
+
+mejoramiento institucional.
+
+
+Invocar a Municipalidad Provincial de Yunguyo y Empresa Prestadora de Servicios
+
+EMAPA YUNGUYO SRLtda a fin de que considere el estudio ya que el ratio del
+
+costo/beneficio es positivo donde la cantidad de fondos estimados (beneficios) supera
+
+los costos de mantenimiento y operación, cuya relación es de 3.6 nuevos soles es
+
+decir para cada sol invertido se gana 3.6 nuevos soles, por lo tanto es viable
+
+económicamente, entonces es necesario ejecutar el proyecto de mejoramiento del
+
+servicio de agua potable, queda pues la decisión en los responsables de la empresa
+
+de saneamiento, implementar el programa orientado a un uso eficiente de este recurso
+
+natural.
+
+
+
+
+                                                                                     77
+                               BIBLIOGRAFIA
+
+Aguilar Villanueva, L. F. (1996) Estudio introductorio. El estudio de las políticas
+      públicas. México: Miguel Ángel Porrúa.
+
+Aguilera k. Federico y Alcántara Vicente (1994). De la Economía Ambiental a la
+      Economía Ecológica. ICARIA:FUHEM,D,L. Barcelona.
+
+Ardila, S. (1993). Guía para la utilización de modelos econométricos en aplicaciones
+      del método de valoración contingente. BID, Diciembre, 1-24.
+
+Azqueta, D.; Camara, G.(2001). El valor del agua desde una perspectiva económico-
+      social. Lima.
+
+Azqueta, O.D. (1994). Valoración económica de la calidad ambiental. McGraw-Hill,
+      Madrid.
+
+Barsev, R.; PEREZ A. C.; HERLANT, P. (2000). Pago por servicios ambientales:
+      Conceptos y principios. Programa para la agricultura sostenible en laderas de
+      américa central. 1 ed. Managua.
+
+Bishop, Richard C. y Thomas Heberlein (1979). Mesuring values of extra-market
+      goods: are indirect measures biased? American Journal of Agricultural
+      Economics vol. 61, núm. 5 (pp.926-930).
+
+Bockstael, N. E., W. H. Hanemann And J. E. Strand (1986). Measuring the benefits of
+      water quality improvements using recreation demand models. Report to the U.S.
+      Environmental Protection Agency. College Park, Md. :University of Maryland.
+
+Bockstael, N.E. AND K.E. Mcconnell (1983). Welfare measurement in the household
+      production framework. The American Economic Review, 73(4), 806-814.
+
+Bones, M. G. CARRUS, M. BONGUITE, F. FORNARA y P. Passafaro (2004).
+      “Inhabitant’s Environmental Perception in City of Rome within the Framework
+      for Urban Biosphere Reserves of the unesco Programme on Man and
+      Biosphere”, Annals of the New York Academy of Sciences, 1023, pp. 175-186.
+
+
+
+                                                                                  78
+Bowes, M. D. AND J. B. LOOMIS (1980). A note on the use of travel cost models with
+      unequal zonal populations. Land Economics, 56(4), 465-470.
+
+Brunett E.; BARÓ J. CADENA E. y ESTELLER M. (2010). Pago por servicios
+      ambientales hidrológicos: caso de estudio Parque Nacional del Nevado de
+      Toluca. México.
+
+Bullon, V. (1996). Valoracion economica del humedal la florida por servicios de
+      recreacion una aplicacion de los metodos costo de viaje y valoracion
+      contingente, Facultad de Economía UNIANDES Colombia.
+
+Castro, R. Y MOKATE, K (1996). Evaluación económica y social de proyectos de
+      inversión, Facultad de economía, UNIANDES, Colombia.
+
+Cerda C. (2011). Disposición a pagar para proteger servicios ambientales: un estudio
+      de caso con valores de uso y no uso en Chile Central. Chile.
+
+Chirinos, R. (2002). Metodología para la gestión de proyectos de Pago por Servicio
+      Ambiental hídrico en microcuencas rurales de Honduras.
+
+Corral, L. C. (1990). Utilización de evaluación contingente en proyectos de
+      infraestructura. Tesis Magister en Economía. Uniandes Dic.
+
+Cruz, Raúl y Nancy Escobar, 2006, "El agua de México, de las peores en calidad",La
+      Crónica de Hoy,en <http://www.cronica.com.mx/nota.php?id_nota=232056>,
+      consultado el 20 de marzo.[Links]
+
+Daltabuit, M., Luz María VARGAS, Enrique SANTILLÁN y Héctor CISNEROS (1994).
+      Mujer rural y medio ambiente en la selva Lacandona, CRIM UNAM, México.
+
+Desvousges, W. H.., V. K. Smith and A. Fisher (1987). Option price estimates for water
+      quality improvements: A contingent valuation study for the Monongahela river.
+      Journal of Environmental Economics and Management. 14, 248-267.
+
+Dixon, J., y M. Hufschmidt (1986), Economic Valuation Techniques for the
+      Environment: A Case Study Workbook, Baltimore, the Johns Hopking University
+      Press.
+
+Ducci, J. (1988). Metodología de cuantificación de beneficios. Saneamiento En línea:
+                                                                                    79
+Englin, J. and T. A. Cameron (1996). Augmenting travel cost models with contingent
+      behabior data. Poisson regression analyses with individual panel data.
+      Environmental and Resource Economics, 7, 133-147.
+
+Escoto, X. (2002). Valoración económica del suministro de agua, Río La Majada,
+      Comayagua.
+
+Espinoza, N. (1999). El Pago por Servicios Ambientales y el desarrollo sostenible en
+      el medio rural. Unidad regional de asistencia técnica, serie de Publicaciones
+      RUTA, Costa Rica.
+
+Fankhauser, S. (2005). Can Poor Consumers Pay for Energy and Water? European
+      Bank of Reconstruction and Development, Londres, 30 págs.
+
+Freeman, A. M. (1993). The Measurement of Environmental Benefits: Theory and
+      Methods, Resources for the Future. Ramsar, Gland, Suiza.
+
+Hanemann W.M. (1994). Valuing Environment Through Contingent Valuation. Journal
+      of Economicas Perspectives, 8, pp. 19-43.
+
+Hanemann, W. M. (1985). Welfare Analisis with Descrete Choice Models. Working
+      Paper. Departament of agricultural and Rsource Economics. University of
+      California at Berkely
+
+Heathcote, R. L., Per-ception of desertification. Tokio: Prensa de la Universidad.
+      Bibiografia de las Naciones Unidas.
+
+Hernandez S. R.; Fernandez C. C.; BAPTISTA L. P. (2003). Metodología de la
+      Investigación. 2. Ed. México, D. F. McGraw-Hill.
+
+Herrador, D.; Dimas, L. (2000). Aportes y limitaciones de la valoración económica en
+      la implementación de esquemas de Pago por Servicios Ambientales. Prisma.
+
+Hoevenagel Ruud (1996), The Validaty of the contingent Valuation Method: Perfect
+      and Regular Embedding. Environmental and Resource Economic, 7, 57-78.
+
+Holahan, (1994). Psicología ambiental. Limusa, México.
+
+http://biodiversityeconomics.org/valuation/topics-626-00.htm - 3k -
+
+                                                                                  80
+http://wikipedia.org/wiki/Agua_potable
+
+http://www.agualtiplano.net/revista/art24.htm - 66k -
+
+Just, R. Hueth, D. and Schimitz, A. (1982). Applied welfare economics and public
+      policy. Englewood cliffs, Prentice Hall.
+
+La Jornada,"Agua", 2006, edición especial, México. [Links]
+
+Larson M. Douglas (1993). Medidas sobre el Valor de Existencia. Land Economics (
+      69, 4, 337-388)
+
+Martinez, M.; Dimas, L. (2007). Valoración económica de los servicios hidrológicos:
+      Sub Cuenca del Rio Teculecán. Guatemala.
+
+Mcconnell, K. E. (1990). Models for referendum data: The structures of discrete choice
+      models for contingent valuation. Journal of Environmental Economics and
+      Management, 18, 19-34.
+
+Mitchell, R. C. and R. T. Carson (1989). Using surveys to the value public goods: The
+      contingent valuation method. Resources for the Future, Washington D.C.
+
+Mostert, Eric, 2003, "The Challenge of Public Participation", Water Policy, 5, U. S., IWA
+      Publishing, pp. 179–197.[Links]
+
+Oaxaca J. (1997). Estimación de la disposición a Pagar por Abasto de Agua para el
+      Área Metropolitana de Monterrey. México.
+
+Organización de las Naciones Unidas (ONU)–Agua, 2008, Hacia la solución de una
+      crisis      mundial:       Año       Internacional      del      Saneamiento,en
+      <http://esa.un.org/iys/docs/flagship_ES.pdf>, consultado el 7 de septiembre de
+      2008.[Links]
+
+Palomeque, D. y Escobar, L. A. (1994). Disponibilidad a pagar por el servicio de agua
+      potable basado en un método de valoración contingente: Un caso de aplicación
+      a los usuarios del acueducto de Tumaco. Universidad del Valle Cali Colombia.
+
+Park, T. And J. Loomis (1996). Joint estimation of contingent valuation survey
+      responses. Environmental and Resource Economics, 7, 140-162.
+
+                                                                                       81
+Pearce, D. W. and A. Markandya (1986). Environmental policy benefits: Monetary
+      valuation. University College London.
+
+Pearce D. Y Turner K. (1995), Economía de los Recursos Naturales y del Medio
+      Ambiente, Madrid España.
+
+Pérez, J. (2000). Valoración económica del agua. CIDIAT, Universidad de los Andes,
+      Mérida, Venezuela.
+
+Ready,R. , Whitehead J. , Blonquist G.(1995), Contingent Valuation When
+      Respondents     Are   Ambivalent.   Environmental     Regulation.   Journal   of
+      Environmental and Economics and Management, 29,181-196.
+
+Reynolds, J. (2002). Manejo integrado de aguas subterráneas. Un reto para el futuro.
+      Editorial Universidad Estatal a Distancia San Jose. CR.348p.
+
+Rodriguez, J. (2001). Experiencias de Costa Rica en la implementación de esquemas
+      financieros para la protección y recuperación de cuencas hidrográficas con
+      potencial hidrográficas con potencial hidroeléctrico. Costa Rica.
+
+Ruiz-Mallén, I. (2009). Educación Ambiental y Participación: Un programa educativo
+      planificado por y para los jóvenes de una comunidad indígena y forestal
+      mexicana. Tesis doctoral. Universidad Autónoma de Barcelona.
+
+Sánchez, J. (2002). Valoración económica del proceso de descontaminación en la
+      Laguna de los Mártires, Isla de Margarita, Venezuela, Agroalimentaria, Mérida,
+      Venezuela.
+
+Schkade David y Payne John (1994), How People Respond to Contingent Valuation
+      Questions: A Verbal Protocol Analysis of Willingnes to pay for an Environmental
+      Regulation. Journal of environmental and economics and management, 26, 88-
+      109.
+
+Silberman Jonathan, Gerlowski D., y Williams N. (1992). Estimating Existence Value
+      for Users and Nonusers of New Jersey Beaches. Land Economics, 68(2), 225-
+      236.
+
+
+
+                                                                                    82
+Suarez V. G. (2001). Experiencias de Pago por Servicios Ambientales en el
+      departamento de Colón, Honduras. Revista Centroamericana LADERAS, año
+      4, No. 11.
+
+Tudela, M. W. (2007). Estimación de la Disponibilidad a Pagar de los Habitantes de la
+      Ciudad de Puno por el Tratamiento de Aguas Servidas. Puno Perú.
+
+UICN (Unión Mundial para la Naturaleza). 2000. Visión del agua y la naturaleza:
+      Estrategia mundial para la conservación y manejo sostenible de recursos
+      hídricos en el siglo XXI. Trad. J. Blanch. Canadá.
+
+Vaughan, W. J., C. S. Russell and M. Hazilla (1982). A note on the use of travel cost
+      models with unequal zonal populations: Coment. Land Economics, 58, 400-407.
+
+Whitehead, J. C., T. J. Hoban and W. B. Clifford (1994). Specification bias in contingent
+      valuation from omission of relative price variables. Southern Economic Journal,
+      60(4), 995-1007.
+
+
+
+
+                                                                                       83
+ANEXOS
+
+
+
+
+         84
+                                     GLOSARIO
+
+Inversión Pública: Es toda erogación de recursos de origen público que tiene como
+
+     propósito aumentar la capacidad para producir bienes o servicios destinados a
+
+     satisfacer las necesidades de la población, a mejorar su calidad de vida y a
+
+     incrementar la productividad nacional.
+
+
+Proyecto de Inversión: Es todo esfuerzo integrado y sistemático que amplía la
+
+     capacidad para producir bienes o servicios, destinados a solucionar problemas
+
+     específicos y a contribuir a los objetivos del desarrollo, que requiere la aplicación
+
+     de recursos, en un espacio y en un tiempo determinado.
+
+
+Agua: Líquido que en nuestro medio puede tener varios orígenes y varios destinos,
+
+     de acuerdo a los cuales se le califica y así podemos hablar de: agua pluvial
+
+     (procede de la lluvia); agua de manantial (procede de mantos subterráneos);
+
+     agua de mar (procede de los océanos y mares); agua industrial (procede del
+
+     proceso de producción industrial).
+
+
+Agua Potable: Líquido incoloro, insípido e inodoro que se puede encontrar en estado
+
+     natural o ser producido a través de un proceso de purificación. Sirve para el
+
+     consumo humano y animal.
+
+
+Agua Residual: Líquido producto de los desechos humanos o animales, así como
+
+     también producto del desecho de diferentes procesos de utilización como el
+
+     industrial y comercial.
+
+
+Agua Negra: Líquido producto de desechos humanos o animales sin incluir ningún
+
+     proceso de utilización industrial o comercial.
+
+
+                                                                                        85
+Agua Gris: Líquido producto de actividades de lavado o limpieza humana, animal,
+
+     industrial o comercial. No incluye desechos humanos ni animales
+
+
+Captaciones: Es la obra que se construye en la fuente de agua con el fin de captar,
+
+     o retener el agua necesaria para abastecer a las comunidades beneficiarias del
+
+     proyecto.
+
+
+Plantas de tratamiento: Se denomina estación de tratamiento de agua potable
+
+     (frecuentemente abreviado como ETAP) al conjunto de estructuras en las que se
+
+     trata el agua de manera que se vuelva apta para el consumo humano.
+
+
+Línea de conducción: Es la parte de la tubería que transporta agua desde la obra
+
+     toma hasta el tanque de almacenamiento.17 Guía Metodológica Sectorial para
+
+     la Formulación y Evaluación de Proyectos de Agua Potable y Saneamiento
+
+
+Tanque de regulación: Depósitos que tienen por objeto transformar un régimen de
+
+     aportaciones (de la conducción) que normalmente es constante en un régimen
+
+     de consumos o demandas (de la distribución) que normalmente es variable
+
+
+Tanque de almacenamiento: Es el depósito donde se almacena el agua, de manera
+
+     que asegure el consumo de esta, durante las horas de mayor necesidad.
+
+
+Redes de distribución: Es el total de líneas de tubería que llevan el agua a todas las
+
+     casas y edificios que beneficia el sistema.
+
+
+Conexiones domiciliarias: Es la instalación que se hace desde el tubo de la red de
+
+     distribución más cercana hasta la llave de la vivienda.
+
+
+Napa subterránea: Nivel freático, es el nivel por el que discurre el agua en el
+
+     subsuelo.
+                                                                                    86
+Sistema de agua potable: Se denomina sistema de abastecimiento de agua potable
+
+    al conjunto de obras de captación, tratamiento, conducción, regulación,
+
+    distribución y suministro intra-domiciliario de agua potable.
+
+
+
+
+                                                                            87
+         PANEL FOTOGRAFICO
+
+
+
+
+FOTO 01 SE OBSERVA EL LOCAL DEL EMAPA YUNGUYO
+
+
+
+
+FOTO 02 SE OBSERVA LA ZONA DE ESTUDIO “YUNGUYO”
+
+                                                  88
+FOTO 03: SE OBSERVA LA PLANTA DE TRATAMIENTO Y EL RESERVORIO
+
+
+
+
+        FOTO 04: SE OBSERVA LA ZONA ALTA DEL ESTUDIO
+
+
+                                                               89
+FOTO 05: SE OBSERVA LA ZONA MEDIA DEL ESTUDIO
+
+
+
+
+FOTO 06: SE OBSERVA LA ZONA BAJA DEL ESTUDIO
+
+
+
+
+                                                90
+FOTO 07: SE OBSERVA LA TOMANDO DATOS
+
+
+
+
+FOTO 08: SE OBSERVA LA TOMA DE DATOS
+
+
+                                       91
+Resultados
+                  EDA        EDU         GEN         ING         PAM         PREC        PSI        TAH
+
+    Mean        3.170270   2.564865    0.489189   1.797297   0.605405    1.529730    0.732432    2.310811
+   Median       3.000000   3.000000    0.000000   2.000000   1.000000    1.000000    1.000000    2.000000
+  Maximum       5.000000   4.000000    1.000000   4.000000   1.000000    4.000000    1.000000    4.000000
+  Minimum       0.000000   1.000000    0.000000   1.000000   0.000000    1.000000    0.000000    1.000000
+  Std. Dev.     0.968715   0.866328    0.500560   0.785708   0.489425    0.836454    0.443290    0.731144
+  Skewness      0.012817   -0.037532   0.043253   1.044013   -0.431315   1.505691    -1.050089   0.485753
+   Kurtosis     2.461000   2.332282    1.001871   4.117856   1.186032    4.341754    2.102687    3.121193
+ Jarque-Bera    4.489003   6.960351    61.66672   86.47911   62.20021    167.5594    80.41209    14.77704
+  Probability   0.105980   0.030802    0.000000   0.000000   0.000000    0.000000    0.000000    0.000618
+     Sum        1173.000   949.0000    181.0000   665.0000   224.0000    566.0000    271.0000    855.0000
+Sum Sq. Dev.    346.2730   276.9432    92.45676   227.7973   88.38919    258.1730    72.51081    197.2568
+Observations       370        370         370        370        370         370         370         370
+
+
+
+
+Date: 12/08/14 Time: 15:46
+Sample: 1 370
+Included observations: 370
+Convergence achieved after 5 iterations
+Covariance matrix computed using second derivatives
+             Variable                  Coefficient          Std. Error           z-Statistic         Prob.
+                C                       0.492450            0.942970             0.522233            0.6015
+               EDA                     -0.363596            0.180335            -2.016219            0.0438
+               EDU                      0.401274            0.308789             1.299509            0.1938
+              GEN                      -1.315168            0.417412            -3.150765            0.0016
+               ING                      3.259613            0.515012             6.329192            0.0000
+              PAM                       1.322349            0.395721             3.341624            0.0008
+              PREC                     -1.886090            0.290699            -6.488122            0.0000
+               TAH                     -0.636366            0.288793            -2.203532            0.0276
+McFadden R-squared                      0.427595     Mean dependent var                           0.732432
+S.D. dependent var                      0.443290     S.E. of regression                           0.324740
+Akaike info criterion                   0.708177     Sum squared resid                            38.17510
+Schwarz criterion                       0.792793     Log likelihood                              -123.0127
+Hannan-Quinn criter.                    0.741787     Deviance                                     246.0253
+Restr. deviance                         429.8101     Restr. log likelihood                       -214.9050
+LR statistic                            183.7848     Avg. log likelihood                         -0.332467
+Prob(LR statistic)                      0.000000
+Obs with Dep=0                                  99   Total obs                                         370
+Obs with Dep=1                                271
+
+
+
+
+                                                                                                          92
+Dependent Variable: PSI
+Method: ML - Binary Logit (Quadratic hill climbing)
+Date: 12/08/14 Time: 15:47
+Sample: 1 370
+Included observations: 370
+Convergence achieved after 5 iterations
+Covariance matrix computed using second derivatives
+           Variable          Coefficient        Std. Error          z-Statistic       Prob.
+               C              1.054774          0.842644            1.251744         0.2107
+              EDA            -0.409580          0.176397           -2.321920         0.0202
+             GEN             -1.149758          0.391951           -2.933426         0.0034
+              ING             3.574854          0.469560            7.613203         0.0000
+             PAM              1.460982          0.380262            3.842039         0.0001
+             PREC            -1.885233          0.294044           -6.411402         0.0000
+              TAH            -0.675411          0.285931           -2.362149         0.0182
+McFadden R-squared            0.423587     Mean dependent var                      0.732432
+S.D. dependent var            0.443290     S.E. of regression                      0.325783
+Akaike info criterion         0.707428     Sum squared resid                       38.52694
+Schwarz criterion             0.781467     Log likelihood                         -123.8741
+Hannan-Quinn criter.          0.736837     Deviance                                247.7482
+Restr. deviance               429.8101     Restr. log likelihood                  -214.9050
+LR statistic                  182.0619     Avg. log likelihood                    -0.334795
+Prob(LR statistic)            0.000000
+Obs with Dep=0                       99    Total obs                                   370
+Obs with Dep=1                      271
+
+
+
+
+RESET
+READ;FILE="C:\Documents and Settings\Administrador\Escritorio\DATOS
+aroqu...
+DSTAT;Rhs=PREC,PSI,GEN,TAH,EDA,EDU,ING,PAM$
+Descriptive Statistics
+All results based on nonmissing observations.
+======================================================================
+Variable Mean     Std.Dev.      Minimum         Maximum    Cases
+PREC 1.52972973 .836454274      1.00000000      4.00000000   370
+PSI .732432432   .443290269      .000000000     1.00000000   370
+GEN .489189189   .500560003      .000000000     1.00000000   370
+TAH 2.31081081    .731143732    1.00000000      4.00000000   370
+EDA 3.17027027    .968715201     .000000000     5.00000000   370
+EDU 2.56486486    .866327706    1.00000000      4.00000000   370
+ING 1.79729730    .785707865    1.00000000      4.00000000   370
+PAM .605405405    .489425273     .000000000     1.00000000   370
+
+LOGIT;Lhs=PSI;Rhs=ONE,PREC,GEN,TAH,EDA,EDU,ING,PAM$
+Normal exit from iterations. Exit status=0.
++---------------------------------------------+
+| Multinomial Logit Model                     |
+| Maximum Likelihood Estimates                |
+                                                                                         93
+| Model estimated: Dec 08, 2014 at 03:50:57PM.|
+| Dependent variable                  PSI     |
+| Weighting variable                 None     |
+| Number of observations              370     |
+| Iterations completed                   7    |
+| Log likelihood function       -123.0127     |
+| Restricted log likelihood     -214.9050     |
+| Chi squared                    183.7848     |
+| Degrees of freedom                     7    |
+| Prob[ChiSqd > value] =         .0000000     |
+| Hosmer-Lemeshow chi-squared = 11.32303      |
+| P-value= .04534 with deg.fr. =         5    |
++---------------------------------------------+
++---------+--------------+----------------+--------+---------+----------+
+|Variable | Coefficient | Standard Error |b/St.Er.|P[|Z|>z] | Mean of X|
++---------+--------------+----------------+--------+---------+----------+
+          Characteristics in numerator of Prob[Y = 1]
+ Constant       .49245011      .94297046      .522    .6015
+ PREC         -1.88608965      .29069887    -6.488    .0000   1.52972973
+ GEN          -1.31516807      .41741236    -3.151    .0016    .48918919
+ TAH           -.63636557      .28879343    -2.204    .0276   2.31081081
+ EDA           -.36359576      .18033546    -2.016    .0438   3.17027027
+ EDU            .40127381      .30878884     1.300    .1938   2.56486486
+ ING           3.25961261      .51501248     6.329    .0000   1.79729730
+ PAM           1.32234944      .39572056     3.342    .0008    .60540541
+
+
++--------------------------------------------------------------------+
+| Information Statistics for Discrete Choice Model.                    |
+|                             M=Model MC=Constants Only   M0=No Model |
+| Criterion F (log L)      -123.01266        -214.90505    -256.46446 |
+| LR Statistic vs. MC       183.78478            .00000         .00000 |
+| Degrees of Freedom          7.00000            .00000         .00000 |
+| Prob. Value for LR           .00000            .00000         .00000 |
+| Entropy for probs.        123.01266         214.90505     256.46446 |
+| Normalized Entropy           .47965            .83795        1.00000 |
+| Entropy Ratio Stat.       266.90360          83.11882         .00000 |
+| Bayes Info Criterion      287.41984         471.20461     554.32343 |
+| BIC - BIC(no model)       266.90360          83.11882         .00000 |
+| Pseudo R-squared             .42760            .00000         .00000 |
+| Pct. Correct Prec.         85.67568            .00000      50.00000 |
+| Means:        y=0    y=1    y=2     y=3   yu=4   y=5,    y=6    y>=7 |
+| Outcome      .2676 .7324 .0000 .0000 .0000 .0000 .0000 .0000 |
+| Pred.Pr      .2676 .7324 .0000 .0000 .0000 .0000 .0000 .0000 |
+| Notes: Entropy computed as Sum(i)Sum(j)Pfit(i,j)*logPfit(i,j).       |
+|         Normalized entropy is computed against M0.                   |
+|         Entropy ratio statistic is computed against M0.              |
+|         BIC = 2*criterion - log(N)*degrees of freedom.               |
+|         If the model has only constants or if it has no constants, |
+|         the statistics reported here are not useable.                |
++--------------------------------------------------------------------+
++----------------------------------------+
+| Fit Measures for Binomial Choice Model |
+| Logit     model for variable PSI        |
++----------------------------------------+
+| Proportions P0= .267568    P1= .732432 |
+| N =      370 N0=      99   N1=     271 |
+| LogL = -123.01266 LogL0 = -214.9050 |
+| Estrella = 1-(L/L0)^(-2L0/n) = .47696 |
++----------------------------------------+
+                                                                            94
+|      Efron | McFadden | Ben./Lerman |
+|     .47353 |    .42760 |        .79123 |
+|     Cramer | Veall/Zim. |     Rsqrd_ML |
+|     .46736 |    .61756 |        .39147 |
++----------------------------------------+
+| Information Akaike I.C. Schwarz I.C. |
+| Criteria          .70818     293.33334 |
++----------------------------------------+
+Frequencies of actual & predicted outcomes
+Predicted outcome has maximum probability.
+Threshold value for predicting Y=1 = .5000
+             Predicted
+------ ---------- + -----
+Actual       0    1 | Total
+------ ---------- + -----
+  0         72   27 |       99
+  1         26 245 |       271
+------ ---------- + -----
+Total       98 272 |       370
+
+=======================================================================
+Analysis of Binary Choice Model Predictions Based on Threshold = .5000
+-----------------------------------------------------------------------
+Prediction Success
+-----------------------------------------------------------------------
+Sensitivity = actual 1s correctly predicted                   90.406%
+Specificity = actual 0s correctly predicted                   72.727%
+Positive predictive value = predicted 1s that were actual 1s 90.074%
+Negative predictive value = predicted 0s that were actual 0s 73.469%
+Correct prediction = actual 1s and 0s correctly predicted     85.676%
+-----------------------------------------------------------------------
+Prediction Failure
+-----------------------------------------------------------------------
+False pos. for true neg. = actual 0s predicted as 1s          27.273%
+False neg. for true pos. = actual 1s predicted as 0s           9.594%
+False pos. for predicted pos. = predicted 1s actual 0s         9.926%
+False neg. for predicted neg. = predicted 0s actual 1s        26.531%
+False predictions = actual 1s and 0s incorrectly predicted    14.324%
+=======================================================================
+--> PROC = DAP$
+--> ENDPROC$
+--> CALC;COEF1=B(1)$
+--> CALC;COEF2=B(2)$
+--> CALC;COEF3=B(3)$
+--> CALC;COEF4=B(4)$
+--> CALC;COEF5=B(5)$
+--> CALC;COEF6=B(6)$
+--> CALC;COEF7=B(7)$
+--> CALC;COEF8=B(8)$
+CREATE;ALFA=COEF1+COEF3*ING+COEF4*EDU+COEF5*PAM+COEF6*GEN+COEF7*TAH+COEF8..
+CREATE;BETA=B(2)$
+CREATE;DAP=-ALFA/BETA$
+DSTAT;RHS=DAP$
+
+
+
+
+                                                                          95
+                                   Descriptive Statistics
+                     All results based on nonmissing observations.
+======================================================================
+Variable   Media       Std.Dev.       Minimo           Maximo      Casos
+======================================================================
+DAP        4.34615    1.47749        1.48170        7.59922        370
+======================================================================
+                                      LIST; DAP$
+                                Listing of raw data
+                         Line              Observ.           DAP
+                          1                   1         2.52021
+                          2                   2         5.48730
+                          3                   3         5.16988
+                          4                   4         4.78619
+                          5                   5         2.52021
+                          6                   6         5.70005
+                          7                   7         7.02276
+                          8                   8         6.53441
+                          9                   9         1.48927
+                         10                  10          3.10048
+                         11                  11          4.83629
+                         12                  12          1.82667
+                         13                  13          5.16231
+                         14                  14          1.82667
+                         15                  15          6.87814
+                         16                  16          4.83629
+                         17                  17          6.17703
+                         18                  18          3.91862
+                         19                  19          1.82667
+                         20                  20          6.51443
+                         21                  21          1.82667
+                         22                  22          1.82667
+                         23                  23          3.91105
+                         24                  24          5.16231
+                         25                  25          1.82667
+                         26                  26          1.82667
+                         27                  27          4.45740
+                         28                  28          4.44879
+                         29                  29          4.94575
+                         30                  30          1.82667
+                         31                  31          3.80535
+                         32                  32          5.70005
+                         33                  33          4.44879
+                         34                  34          3.38779
+                         35                  35          4.32415
+                         36                  36          7.42829
+                         37                  37          3.05039
+                         38                  38          4.08509
+                         39                  39          4.78619
+                         40                  40          7.42829
+                         41                  41          3.76766
+                         42                  42          4.78619
+                         43                  43          7.59922
+                         44                  44          5.14990
+                         45                  45          6.35177
+                         46                  46          3.62685
+                         47                  47          5.52602
+                         48                  48          6.05619
+                         49                  49          6.17703
+                         50                  50          2.85761
+                                                                           96
+ 51    51   7.21554
+ 52    52   2.92574
+ 53    53   3.38779
+ 54    54   4.78619
+ 55    55   6.75730
+ 56    56   4.77482
+ 57    57   3.62304
+ 58    58   2.71299
+ 59    59   6.18084
+ 60    60   7.43210
+ 61    61   5.48730
+ 62    62   6.38979
+ 63    63   1.82667
+ 64    64   1.48171
+ 65    65   6.38979
+ 66    66   5.47973
+ 67    67   4.79000
+ 68    68   6.56452
+ 69    69   6.34040
+ 70    70   3.62685
+ 71    71   3.74769
+ 72    72   1.82667
+ 73    73   6.17703
+ 74    74   2.92574
+ 75    75   5.36265
+ 76    76   5.14233
+ 77    77   6.18944
+ 78    78   4.11139
+ 79    79   6.75349
+ 80    80   7.21935
+ 81    81   6.17703
+ 82    82   1.82667
+ 83    83   2.39557
+ 84    84   3.05039
+ 85    85   6.02608
+ 86    86   6.18841
+ 87    87   4.46017
+ 88    88   5.16231
+ 89    89   4.44879
+ 90    90   4.33552
+ 91    91   2.52021
+ 92    92   3.74769
+ 93    93   1.82667
+ 94    94   3.55491
+ 95    95   4.44879
+ 96    96   2.52402
+ 97    97   3.43407
+ 98    98   4.44879
+ 99    99   2.52021
+100   100    2.52021
+101   101    3.74769
+102   102    1.82667
+103   103    3.55491
+104   104    2.52402
+105   105    3.75150
+106   106    6.39359
+107   107    3.43407
+108   108    4.44879
+109   109    2.52021
+110   110    2.52021
+                       97
+111   111   3.43407
+112   112   3.25934
+113   113   2.52021
+114   114   6.89436
+115   115   4.12761
+116   116   5.36265
+117   117   4.32796
+118   118   3.05039
+119   119   4.46501
+120   120   3.75150
+121   121   4.44879
+122   122   2.85380
+123   123   4.24845
+124   124   3.79397
+125   125   1.82667
+126   126   3.43407
+127   127   5.14990
+128   128   2.73677
+129   129   5.14990
+130   130   5.16231
+131   131   2.85761
+132   132   4.94956
+133   133   3.41410
+134   134   5.14233
+135   135   4.46501
+136   136   4.46877
+137   137   5.14990
+138   138   2.03567
+139   139   1.82667
+140   140   3.55491
+141   141   2.52402
+142   142   3.75150
+143   143   6.39359
+144   144   3.43407
+145   145   4.44879
+146   146   2.52021
+147   147   5.47973
+148   148   4.79000
+149   149   6.56452
+150   150   1.82667
+151   151   3.62685
+152   152   3.74769
+153   153   2.52021
+154   154   2.52021
+155   155   3.43407
+156   156   3.25934
+157   157   6.02608
+158   158   6.18841
+159   159   4.46017
+160   160   5.16231
+161   161   7.02276
+162   162   1.82667
+163   163   1.82667
+164   164   3.10048
+165   165   4.83629
+166   166   2.52402
+167   167   3.43407
+168   168   3.74769
+169   169   1.82667
+170   170   3.10048
+                      98
+171   171   4.83629
+172   172   2.52402
+173   173   3.43407
+174   174   5.16231
+175   175   2.34547
+176   176   4.33552
+177   177   2.52021
+178   178   3.43407
+179   179   3.74769
+180   180   2.52021
+181   181   4.33552
+182   182   2.52021
+183   183   6.17703
+184   184   1.82667
+185   185   2.39557
+186   186   1.82667
+187   187   4.12761
+188   188   5.36265
+189   189   4.32796
+190   190   5.36265
+191   191   4.32796
+192   192   3.05039
+193   193   5.86342
+194   194   3.75150
+195   195   4.44879
+196   196   3.43407
+197   197   5.14990
+198   198   2.52021
+199   199   2.52021
+200   200   3.74769
+201   201   1.82667
+202   202   3.55491
+203   203   4.44879
+204   204   2.52021
+205   205   5.47973
+206   206   4.79000
+207   207   6.56452
+208   208   1.82667
+209   209   3.62685
+210   210   3.74769
+211   211   1.82667
+212   212   3.55491
+213   213   5.14990
+214   214   4.44123
+215   215   3.74769
+216   216   5.98425
+217   217   3.05039
+218   218   4.08509
+219   219   4.78619
+220   220   7.42829
+221   221   3.76766
+222   222   4.08889
+223   223   7.59922
+224   224   5.14990
+225   225   3.74769
+226   226   5.98425
+227   227   3.75150
+228   228   6.20082
+229   229   4.44879
+230   230   2.85761
+                      99
+231   231   5.48730
+232   232   3.74769
+233   233   1.82667
+234   234   3.55491
+235   235   2.52402
+236   236   3.75150
+237   237   6.39359
+238   238   3.43407
+239   239   5.14990
+240   240   2.52021
+241   241   5.14990
+242   242   3.62685
+243   243   7.23552
+244   244   1.82667
+245   245   5.65066
+246   246   4.12761
+247   247   4.13518
+248   248   3.22132
+249   249   3.75150
+250   250   7.59922
+251   251   3.79778
+252   252   4.13518
+253   253   3.79778
+254   254   6.05619
+255   255   4.12761
+256   256   4.13518
+257   257   3.22132
+258   258   3.05039
+259   259   5.14233
+260   260   4.13518
+261   261   3.79778
+262   262   3.22132
+263   263   3.75150
+264   264   7.59922
+265   265   3.22132
+266   266   3.75150
+267   267   7.59922
+268   268   4.12761
+269   269   6.19701
+270   270   3.79778
+271   271   4.12761
+272   272   6.05619
+273   273   3.79778
+274   274   4.13518
+275   275   4.13518
+276   276   3.62685
+277   277   7.23552
+278   278   7.23552
+279   279   4.13518
+280   280   3.79778
+281   281   3.62685
+282   282   7.23552
+283   283   1.82667
+284   284   5.65066
+285   285   4.12761
+286   286   4.13518
+287   287   3.22132
+288   288   3.75150
+289   289   6.18084
+290   290   3.79778
+                      100
+291   291   4.13518
+292   292   3.79778
+293   293   6.05619
+294   294   4.12761
+295   295   4.13518
+296   296   3.22132
+297   297   3.05039
+298   298   5.14233
+299   299   4.13518
+300   300   3.79778
+301   301   3.55872
+302   302   3.75150
+303   303   5.14233
+304   304   3.22132
+305   305   3.75150
+306   306   5.14233
+307   307   4.12761
+308   308   3.75150
+309   309   3.79778
+310   310   4.12761
+311   311   6.05619
+312   312   3.79778
+313   313   4.13518
+314   314   4.13518
+315   315   3.62685
+316   316   7.23552
+317   317   7.23552
+318   318   4.13518
+319   319   3.79778
+320   320   4.13518
+321   321   3.75150
+322   322   5.85966
+323   323   5.85966
+324   324   5.85966
+325   325   5.85966
+326   326   4.13518
+327   327   4.13518
+328   328   3.75150
+329   329   5.15855
+330   330   5.85966
+331   331   5.15855
+332   332   5.15855
+333   333   3.43407
+334   334   4.13518
+335   335   3.75150
+336   336   5.15855
+337   337   5.85966
+338   338   5.15855
+339   339   5.85966
+340   340   4.13518
+341   341   4.13518
+342   342   3.75150
+343   343   5.85966
+344   344   5.85966
+345   345   5.85966
+346   346   5.85966
+347   347   4.13518
+348   348   4.13518
+349   349   3.75150
+350   350   5.85966
+                      101
+351   351   5.85966
+352   352   5.85966
+353   353   5.15855
+354   354   4.13518
+355   355   6.56452
+356   356   6.56452
+357   357   5.86342
+358   358   6.56452
+359   359   7.59166
+360   360   6.56452
+361   361   3.43407
+362   362   5.86342
+363   363   4.62353
+364   364   5.16231
+365   365   4.83629
+366   366   5.16231
+367   367   6.67780
+368   368   5.16231
+369   369   4.61972
+370   370   4.82491
+
+
+
+
+                      102
+

@@ -1,0 +1,6432 @@
+          UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA, ELECTRÓNICA Y SISTEMAS
+
+ ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+
+
+
+“DESARROLLO DE UN SISTEMA WEB UTILIZANDO DSDM PARA LA
+  GESTIÓN DE LA INFORMACIÓN EN EL ÁREA DE CONTROL DE
+ENCOMIENDAS Y CHOFERES DE LA EMPRESA HOLATRANS S.R.L. –
+                         JULIACA 2014”
+
+
+
+                            TESIS
+
+
+                     PRESENTADO POR:
+                   DAVID MAMANI TICONA
+
+
+       PARA OPTAR EL TÍTULO PROFESIONAL DE:
+                 INGENIERO DE SISTEMAS
+
+
+                        PUNO – PERÚ
+                             2015
+ÁREA: Informática
+TEMA: Sistemas de información tradicionales y expertos
+                                                              ÍNDICE
+
+ÍNDICE DE TABLAS .................................................................................................................. 5
+ÍNDICE DE FIGURAS................................................................................................................ 6
+ÍNDICE DE ANEXOS ................................................................................................................. 8
+RESUMEN ................................................................................................................................... 9
+ABSTRACT ............................................................................................................................... 10
+INTRODUCCIÓN. .................................................................................................................... 11
+CAPÍTULO I .............................................................................................................................. 13
+PLANTEAMIENTO DEL PROBLEMA DE INVESTIGACIÓN. ........................................... 13
+1.1.      Descripción del problema............................................................................................ 14
+1.1.1.        Definición del problema. .......................................................................................... 14
+1.1.2.        Formulación del problema. ..................................................................................... 15
+1.2.      Justificación del problema. .......................................................................................... 15
+1.3.      Objetivos de la investigación. ..................................................................................... 17
+1.3.1.        Objetivo General....................................................................................................... 17
+1.3.2.        Objetivos Específicos. ............................................................................................. 17
+CAPÍTULO II ............................................................................................................................. 18
+MARCO TEÓRICO. ................................................................................................................. 18
+2.1.      Antecedentes de la investigación. ............................................................................. 19
+2.1.1.        Antecedentes Nacionales. ...................................................................................... 19
+2.1.2.        Antecedentes internacionales. ............................................................................... 20
+2.2.      Sustento teórico. ........................................................................................................... 22
+2.2.1.        Sistema de información. .......................................................................................... 22
+2.2.2.        Componente de un sistema de información. ....................................................... 24
+2.2.3.        Tipos de Sistemas de Información. ....................................................................... 24
+2.2.4.        La Aplicación de los Sistemas de Información. ................................................... 25
+2.2.5.        Gestión de la Información. ...................................................................................... 26
+2.2.6.        Sistema Web. ............................................................................................................ 29
+2.2.7.        Marco Organizacional. ............................................................................................. 31
+2.2.8.        Metodología DSDM (Dynamic Systems Development Method). ...................... 34
+2.2.8.7.          Diagramas UML. ................................................................................................... 47
+a)     Diagrama de Clases. ....................................................................................................... 48
+b)     Diagrama de Casos de Uso............................................................................................ 49
+c)     Diagrama de Secuencias. ............................................................................................... 51
+d)     Diagrama de Colaboraciones. ........................................................................................ 51
+e)     Diagrama de Actividades ................................................................................................ 52
+f)     Diagrama de Paquetes. ................................................................................................... 53
+2.3.      Glosario de términos básicos. .................................................................................... 54
+2.4.      Hipótesis de la investigación. ..................................................................................... 61
+2.4.1.        Hipótesis general. ..................................................................................................... 61
+2.4.2.        Hipótesis específicos. .............................................................................................. 61
+2.1.      Operacionalización de variables. ............................................................................... 62
+CAPÍTULO III ............................................................................................................................ 64
+DISEÑO METODOLÓGICO DE INVESTIGACIÓN. ........................................................... 64
+3.1.      Tipo y diseño de Investigación. .................................................................................. 65
+3.1.1.        Tipo de Investigación. .............................................................................................. 65
+3.1.2.        Diseño de Investigación. ......................................................................................... 65
+3.2.      Población y Muestra de Investigación. ..................................................................... 66
+3.2.1.        Población. .................................................................................................................. 66
+3.2.2.        Muestra. ..................................................................................................................... 67
+3.3.      Ubicación y Descripción de la Población.................................................................. 67
+3.4.      Material Experimental. ................................................................................................. 68
+3.5.      Técnicas e Instrumentos para Recolectar Información. ......................................... 69
+3.5.1.        Técnicas para Recolectar la Información. ............................................................ 69
+3.5.2.        Instrumento para Recolectar la Información. ....................................................... 69
+3.6.      Técnicas para el Procesamiento, Análisis y Plan de tratamiento de Datos. ....... 70
+3.7.      Procedimiento del Experimento. ................................................................................ 70
+3.8.      Plan de tratamiento de los datos. .............................................................................. 71
+3.9.      Diseño estadístico para la prueba de hipótesis o prueba de hipótesis. .............. 72
+CAPÍTULO IV ............................................................................................................................ 80
+ANÁLISIS E INTERPRETACIÓN DE RESULTADOS DE LA INVESTIGACIÓN. .......... 80
+4.1.      Análisis y diseño del Sistema Web............................................................................ 94
+4.1.1.        Análisis y especificaciones de requerimientos del sistema. .............................. 94
+4.1.2.        Descripción de Stakeholders (participantes del proyecto) y usuarios ............. 94
+4.1.3.        Entorno de usuario. .................................................................................................. 95
+4.1.4.        Descripción Global del Producto............................................................................ 96
+4.1.5.        Funciones. ............................................................................................................... 100
+4.1.6.        Diagrama UML. ....................................................................................................... 103
+CONCLUSIONES................................................................................................................... 108
+SUGERENCIAS. .................................................................................................................... 109
+BIBLIOGRAFÍA. ...................................................................................................................... 110
+                                          ÍNDICE DE TABLAS
+
+Tabla Nº 1: Muestra ....................................................................................................67
+Tabla Nº 2: Respuestas de encuesta ..........................................................................71
+Tabla Nº 3: Resultado de encuesta .............................................................................72
+Tabla Nº 4: Tabla de Contingencia ..............................................................................73
+Tabla Nº 5: Tabla Frecuencia Observada ....................................................................74
+Tabla Nº 6: Tabla Frecuencia Esperada ......................................................................75
+Tabla Nº 7: Respuestas Pregunta 1 ............................................................................81
+Tabla Nº 8: Respuestas Pregunta 2 ............................................................................82
+Tabla Nº 9: Respuestas Pregunta 3 ............................................................................83
+Tabla Nº 10: Respuestas Pregunta 4 ..........................................................................84
+Tabla Nº 11: Respuestas Pregunta 5 ..........................................................................85
+Tabla Nº 12: Respuestas Pregunta 6 ..........................................................................86
+Tabla Nº 13: Respuestas Pregunta 7 ..........................................................................87
+Tabla Nº 14: Respuestas Pregunta 8 ..........................................................................88
+Tabla Nº 15: Respuestas Pregunta 9 ..........................................................................89
+Tabla Nº 16: Respuestas Pregunta 10 ........................................................................90
+Tabla Nº 17: Respuestas Pregunta 11 ........................................................................91
+Tabla Nº 18: Respuestas Pregunta 12 ........................................................................92
+Tabla Nº 19: Respuestas Pregunta 13 ........................................................................93
+Tabla Nº 20: Beneficio que tiene el Usuario ................................................................97
+                                      ÍNDICE DE FIGURAS
+
+Figura Nº 1: Arquitectura de tres capas .......................................................................31
+Figura Nº 2: Guía de Remisión – Remitente ................................................................33
+Figura Nº 3: Guía de Remisión – Transportista ...........................................................34
+Figura Nº 4: Ciclo de vida del proyecto ........................................................................45
+Figura Nº 5: Diagrama de Clases - Clase Abstracta ....................................................48
+Figura Nº 6: Diagrama de Clases -Clase Aviones .......................................................49
+Figura Nº 7: Diagrama de Clases - Multiplicidad..........................................................49
+Figura Nº 8: Diagrama Caso de Uso - Sistema............................................................50
+Figura Nº 9: Diagrama Caso de Uso - Actores ............................................................50
+Figura Nº 10: Diagrama de Secuencias .......................................................................51
+Figura Nº 11: Diagrama de Colaboraciones ................................................................52
+Figura Nº 12: Diagrama de Actividades .......................................................................53
+Figura Nº 13: Diagrama de Paquetes ..........................................................................54
+Figura Nº 14: Tabla Chi – Cuadrado............................................................................78
+Figura Nº 15: Distribución Chi – Cuadrado ..................................................................79
+Figura Nº 16: Distribución Chi - Cuadrado Respuesta .................................................79
+Figura Nº 17: Respuestas en % Pregunta 1 ................................................................81
+Figura Nº 18: Respuestas en % Pregunta 2 ................................................................82
+Figura Nº 19: Respuestas en % Pregunta 3 ................................................................83
+Figura Nº 20: Respuestas en % Pregunta 4 ................................................................84
+Figura Nº 21: Respuestas en % Pregunta 5 ................................................................85
+Figura Nº 22: Respuestas en % Pregunta 6 ................................................................86
+Figura Nº 23: Respuestas en % Pregunta 7 ................................................................87
+Figura Nº 24: Respuestas en % Pregunta 8 ................................................................88
+Figura Nº 25: Respuestas en % Pregunta 9 ................................................................89
+Figura Nº 26: Respuestas en % Pregunta 10 ..............................................................90
+Figura Nº 27: Respuestas en % Pregunta 11 ..............................................................91
+Figura Nº 28: Respuestas en % Pregunta 12 ..............................................................92
+Figura Nº 29: Respuestas en % Pregunta 13 ..............................................................93
+Figura Nº 30: Modelo Vista Fisica ...............................................................................98
+Figura Nº 31: Modelos Vista Lógica.............................................................................99
+Figura Nº 32: Diagrama Caso de Uso del Sistema ....................................................103
+Figura Nº 33: Diagrama de Clases ............................................................................104
+Figura Nº 34 : Diagrama de Secuencias – Cargo ......................................................105
+Figura Nº 35: Diagrama de Actividades – Cargo .......................................................106
+Figura Nº 36: Diagrama de Actividades – Cargo .......................................................107
+Figura Nº 37: Diagrama de Paquetes ........................................................................107
+Figura Nº 38: Index del Sistema Web ........................................................................117
+Figura Nº 39: Acceso al Sistema Web .......................................................................117
+Figura Nº 40: La interfaz del Sistema Web ................................................................118
+Figura Nº 41: Nuevo Personal. ..................................................................................118
+Figura Nº 42: Nueva Profesión ..................................................................................119
+Figura Nº 43: Mantenimiento Profesión .....................................................................119
+Figura Nº 44: Nuevo cargo ........................................................................................120
+Figura Nº 45: Mantenimiento de cargo ......................................................................120
+Figura Nº 46: Nueva Agencia o Sucursal...................................................................121
+Figura Nº 47: Nueva Ruta. ........................................................................................121
+Figura Nº 48: Nuevo Bus. ..........................................................................................121
+Figura Nº 49: Mantenimiento Bus. .............................................................................122
+Figura Nº 50: Asignar Unidad de Transporte – Ruta ..................................................122
+Figura Nº 51: Datos Unidad de Transporte ................................................................123
+Figura Nº 52: Emitir Boleta de Venta .........................................................................124
+Figura Nº 53: Consulta de Transporte de Carga o Encomienda ................................124
+                                           ÍNDICE DE ANEXOS
+
+ANEXO I ...................................................................................................................112
+ANEXO II ..................................................................................................................116
+                                 RESUMEN
+
+
+El presente trabajo contempla un sistema de soporte al control de la información
+
+de la empresa HOLATRANS S.R.L. permitiendo optimizar los procesos
+
+frecuentes que se realizan dentro de la misma. El cual permitirá brindar un mejor
+
+servicio a los usuarios de la empresa, ofreciendo un control de los recursos
+
+informáticos, optimizando la asignación de horarios de transporte. Una de las
+
+opciones fundamentales del sistema es el control de rutas, encomiendas (carga)
+
+y conductores (choferes) de las cuales se van a poder asignar y/o registrar
+
+optimizando tiempo y recursos. La gestión de encomiendas (carga) es uno de
+
+los procesos que toman más tiempo en realizarse, por lo cual se desarrolló un
+
+sistema web, teniendo con estos datos reales de los recursos usados y de todos
+
+los movimientos que se hacen, ya sea ingreso o entrega de encomiendas
+
+(carga). Este sistema fue el punto de partida para desarrollar y adjuntar nuevos
+
+módulos que ayudan a un mejor desempeño de la empresa, aprovechando la
+
+estructura tecnológica que posee para hacerlo.
+
+
+
+Palabras claves: Sistema Web, control, gestión.
+
+
+
+
+                                                                               9
+                                   ABSTRACT
+
+This paper provides a support system to the control of company information
+
+HOLATRANS SRL allowing frequent optimize processes that take place within it.
+
+Which will allow for a better service to business users, offering control of
+
+computing resources, optimizing the allocation of transportation schedules. One
+
+of the basic choices of the system is the control of routes, charges and drivers.
+
+which are to be able to assign and / or register for optimizing time and resources.
+
+The management of parcels (load) is one of the processes that take longer to
+
+complete, so a web based system was developed, taking these real data of the
+
+resources used and all the movements you make, either income or package
+
+delivery. This system was the starting point to develop and add new modules that
+
+help improve the performance of the company, taking advantage of the
+
+technological structure that has to do it.
+
+
+
+Key Words : Web System, control, management.
+
+
+
+
+                                                                                10
+                               INTRODUCCIÓN.
+
+La inminente incorporación de los sistemas de información en los diversos tipos
+
+de organizaciones, comenzando con el uso de la teoría de general de sistemas
+
+(TGS) para la estructuración de las mismas desde los años 70 propuso una
+
+nueva forma de ver y hacer las cosas dentro de ellas.
+
+
+
+Basado en la teoría que el ser humano es un sistema que interactúa con su
+
+entorno en función de su complejidad y dinamismo, se define las organizaciones,
+
+como un sistema complejo compuesto por subsistemas que interactúan entre sí
+
+para el logro de objetivos y metas.
+
+
+
+En base al éxito y la vigencia de la aplicación de los sistemas de información en
+
+organizaciones de bienes y servicios, financieras entre otras, se propuso
+
+incorporar esta teoría en el manejo y gestión de la empresa HOLATRANS S.R.L.
+
+
+
+El primer capítulo comprende el planteamiento del problema de investigación, en
+
+cual se exponen los motivos que originan el caso de estudio de igual forma la
+
+justificación que la sustenta, y los objetivos que ella persigue.
+
+
+
+En el segundo capítulo se fundamentan las bases teóricas del desarrollo y
+
+análisis, junto a los antecedentes de estudios semejantes a nivel internacional y
+
+nacional, que prestan afinidad al tema de estudio, y así mismo una pequeña
+
+descripción de la empresa.
+
+
+
+
+                                                                              11
+El tercer capítulo refiere lo concerniente al aspecto metodológico, incluyendo el
+
+tipo y el diseño de investigación, las técnicas de recolección y análisis de datos.
+
+
+
+El cuarto capítulo evidencia el desarrollo de la metodología que sustenta la
+
+solución de la investigación, basado en el ciclo de vida de los sistemas, y se
+
+obtiene como resultado el modelado del sistema.
+
+
+
+Por ultimo las conclusiones y recomendaciones de la empresa respecto a su
+
+análisis e implementación.
+
+
+
+
+                                                                                12
+               CAPÍTULO I
+
+PLANTEAMIENTO DEL PROBLEMA DE INVESTIGACIÓN.
+
+
+
+
+                                               13
+1.1. Descripción del problema.
+
+
+
+1.1.1. Definición del problema.
+
+
+
+     La empresa HOLATRANS S.R.L. realizaba el control de las rutas,
+
+encomiendas (carga) y conductores de manera manual, lo cual hacia que este
+
+proceso sea largo y tedioso para los encargados de realizar estos procesos.
+
+
+
+     Para la asignación del conductor a una unidad de transporte (Bus) con la
+
+ruta respectiva se realiza en cualquier instante o día dependiendo a la necesidad
+
+de los clientes, siendo dificultoso en la búsqueda manual de los conductores y
+
+unidades de transporte con disponibilidad inmediata.
+
+
+
+     Durante el registro de envío de encomiendas (cargas) se realizaba en forma
+
+manual, la persona que va a enviar la encomienda (carga) se acerca a una
+
+ventanilla de la empresa y/o haciendo una llamada telefónica dejando los datos
+
+de la Guía de Remisión – Remitente, con el nombre de la persona que va recibir
+
+la encomienda (carga), realizando este sin ningún registro, control y muchas
+
+veces las encomiendas no llegan a su destino.
+
+
+
+     La organización cuenta con un personal fijo de 29 personas las cuales
+
+ejercen un control y gestión de la organización con sus respectivos cargos, esto
+
+generó a la falta de un control en pésimas condiciones, los registros de
+
+información no eran adecuados ya que unidades de transportes como
+
+
+
+
+                                                                              14
+conductores no estaban organizados causando problemas y pérdida de tiempo
+
+en el embarque de la encomienda (carga).
+
+
+
+     Todo este proceso se realiza en papel y hojas de Excel, esto hizo que se
+
+dificulte el manejo de la información al momento de generar reportes y/o
+
+consultas.
+
+
+
+1.1.2. Formulación del problema.
+
+
+
+¿En qué medida el sistema web utilizando DSDM mejoró la gestión de la
+
+información en el área de control de encomiendas y choferes de la empresa
+
+HOLATRANS S.R.L. – Juliaca 2014 ?
+
+
+
+1.2. Justificación del problema.
+
+
+
+     Las actividades de la empresa HOLATRANS S.R.L. en el área de control
+
+está influenciada por la capacidad del uso de tecnología para procesar
+
+información con rapidez y eficacia, el sistema web aumenta la velocidad de
+
+procesamiento así como recuperan con rapidez la información; teniendo un
+
+control de mayor efectividad aumentando la seguridad de los datos con mejor
+
+exactitud y consistencia de la información.
+
+
+
+     Debido al gran volumen de documentos que se generan en al área de
+
+control de encomiendas y choferes de la empresa HOLATRANS S.R.L., fue difícil
+
+el control y seguimiento de la documentación con eso nació la necesidad del
+
+
+                                                                           15
+desarrollo del sistema web, lo cual permitió contar con una herramienta
+
+adecuada para la gestión de la información.
+
+
+
+     El sistema web comprende un recurso necesario para solventar el problema
+
+de almacenamiento de datos relacionados a los documentos que se archivan
+
+dentro del área, lo que garantiza que el proceso de la información en el área de
+
+control de encomiendas y choferes de la empresa HOLATRANS S.R.L. sean
+
+monitoreados correctamente.
+
+
+
+     El control como se sabe es una función primordial en la administración,
+
+aunque la empresa cuente con magníficos planes, una estructura organizacional
+
+adecuada y una dirección eficiente, el gerente o ejecutivo de la empresa no podrá
+
+verificar con rapidez cuál es la situación real del área de control de encomiendas
+
+y choferes, en general la incorporación de un control de gestión de la información
+
+permitirá evaluar, no solo en rendimiento, las oportunidades en la ampliación del
+
+ámbito del negocio sino la capacidad del servicio de la misma, además brindar
+
+información valiosa al momento de la toma de decisiones.
+
+
+
+
+     El desarrollo del sistema web contribuye          con la modernización y
+
+optimización de los procesos de la gestión de la información además de definir
+
+su estructura, creando manuales de procedimientos que especifique tareas y
+
+estandarice la realización de las mismas, delimitando cargos, funciones y
+
+responsabilidades.
+
+
+
+
+                                                                               16
+       Por ser una empresa de servicios ésta debe estar en constante búsqueda
+
+de la calidad y crecimiento como organización en su ámbito de negocio,
+
+posibilidad que puede ser alcanzada a través de la implementación del sistema
+
+web.
+
+
+
+
+1.3. Objetivos de la investigación.
+
+
+
+1.3.1. Objetivo General.
+
+
+
+Desarrollar un sistema web para la gestión de la información en el área de control
+
+de encomiendas y choferes de la empresa HOLATRANS S.R.L. - Juliaca 2014.
+
+
+
+1.3.2. Objetivos Específicos.
+
+
+
+Determinar los procesos de la gestión de la información durante el control de
+
+encomiendas y choferes de la empresa HOLATRANS S.R.L. - Juliaca 2014.
+
+
+
+Determinar en qué medida el sistema web ayudó en el área control de
+
+encomiendas y choferes de la empresa HOLATRANS S.R.L. - Juliaca 2014.
+
+
+
+
+                                                                               17
+CAPÍTULO II
+
+MARCO TEÓRICO.
+
+
+
+
+                 18
+2.1. Antecedentes de la investigación.
+
+
+
+2.1.1. Antecedentes Nacionales.
+
+
+
+     En los antecedentes nacionales se han encontrado tesis relacionados a la
+
+aplicación de sistemas de información para la gestión de la información las que
+
+se han tomado como referencia por ser cercanas a esta investigación.
+
+
+
+     En el 2012 Moisés Villanueva en su trabajo de investigación denominado
+
+“Sistema de gestión de seguridad de información para una institución financiera”,
+
+ha concluido lo siguiente:
+
+
+
+   a) De acuerdo a lo expuesto en la presente tesis, para implantar una
+
+      adecuada gestión de seguridad de información en una institución
+
+      financiera, el primer paso es obtener el apoyo y soporte de la alta
+
+      gerencia, haciéndolos participes activos de que lo significa
+
+      mantener adecuadamente protegida la información de la institución
+
+      financiera. Al demostrarle lo importante que es la protección de la
+
+      información para los procesos de negocio, se debe esperar de la
+
+      alta gerencia su participación continua.
+
+
+
+   b) Contando con el apoyo de la alta gerencia se ha dado el primer
+
+      gran paso. Este paso luego se debe transmitir a los dueños de
+
+      procesos de negocios más importantes de la institución financiera,
+
+      que generalmente son jefes de áreas. Dándoles a conocer la
+
+
+                                                                              19
+      importancia de la seguridad de información en los procesos que
+
+      manejan, se espera el apoyo de todo el personal a su cargo.
+
+
+
+ALARCON, Roberto (2007). En su trabajo de investigación denominado “Sistema
+
+Informático para la gestión de la información en la academia CESDE de la ciudad
+
+de Huamanga”, ha concluido lo siguiente:
+
+
+
+   a) La conclusión más importante que se desprende de la investigación
+
+      está en uso de técnicas de recopilación de datos, se supo con
+
+      exactitud los requerimientos que se necesitaba para el desarrollo
+
+      del sistema y de acuerdo con la muestra tomada de una población
+
+      fija se pudo obtener que el sistema informático mejora la gestión de
+
+      la información en dicha institución.
+
+
+
+2.1.2. Antecedentes internacionales.
+
+
+
+     En los antecedentes internacionales se han encontrado tesis relacionados
+
+a la aplicación de sistemas de información para la gestión de la información las
+
+que se han tomado como referencia por ser cercanas a esta investigación.
+
+
+
+     ELIANNI, Ocando (2006). En su trabajo de investigación denominado
+
+“Desarrollo de un sistema de información automatizado para el control de
+
+facturación e inventario de Óptica Díaz”, ha concluido lo siguiente:
+
+
+
+
+                                                                             20
+        a) Después de realizar el diseño del sistema, se obtuvo todo lo
+
+            relacionado con la configuración y el detalle físico como lógico
+
+            del sistema. Se determinaron las herramientas de desarrollo
+
+            a utilizar para la creación del mismo, las cuales fueron Visual
+
+            Basic 6.0 y el manejador de base de datos Access 2000.
+
+
+
+        b) Cumpliendo el quinto y el sexto objetivo, se logró construir un
+
+            sistema que cumpliera los requerimientos de óptica Díaz para
+
+            controlar sus operaciones de facturación e inventario, luego
+
+            de lo cual se realizaron las pruebas pertinentes para
+
+            corroborar el adecuado funcionamiento del mismo.
+
+
+
+     PÍTSICA, Mylene (2001). En su trabajo de investigación denominado
+
+“Sistema de información para la gestión aplicado en la entidades financieras:
+
+estudio empírico Santa Catarina”, ha concluido lo siguiente:
+
+
+
+        a) El marketing de base de datos, permite calcular el valor actual
+
+            de cada cliente potencial, establecer puntuaciones o
+
+            individualizar   las   necesidades   de    los   consumidores,
+
+            contribuyendo así el desarrollo del marketing de relaciones.
+
+            Por otra parte facilita el control de las acciones de marketing,
+
+            de manera que se puedan medir los resultados de las
+
+            campañas e identificar la efectividad de las mismas.
+
+
+
+
+                                                                               21
+         b) La tecnología de la información puede apoyar de manera
+
+            importante los procesos con el fin de reducir costes y tiempo,
+
+            mejorar la calidad de los productos o servicios y procurar
+
+            acelerar el proceso de diseño y lanzamiento de nuevos
+
+            productos o servicios en el mercado, para cubrir así las
+
+            necesidades e inquietudes de los usuarios o clientes.
+
+
+
+2.2. Sustento teórico.
+
+
+
+2.2.1. Sistema de información.
+
+
+
+     Los sistemas de información son componentes interrelacionados que
+
+capturan, almacenan, procesan y distribuyen la información para apoyar la toma
+
+de decisiones, el control, análisis y visión en una organización. (Wikipedia, 2013)
+
+
+
+     “Los sistemas de información han ido evolucionando conforme las
+
+organizaciones han ido desarrollándose y fueron creciendo las necesidades de
+
+información. Inicialmente los sistemas de información estaban basados en la
+
+observación y en mecanismos muy simples como lápiz y papel (sistemas de
+
+información manuales) y se utilizaban canales de comunicación informales
+
+(verbales), posteriormente se utilizaron máquinas de escribir y calculadoras, y
+
+actualmente se emplean los sistemas de información basados en computadoras,
+
+que dependen de una variedad de sistemas computacionales conectados en red
+
+para lograr la actividad de procesamiento de información”. (Arenco, 2002)
+
+
+
+
+                                                                                22
+     Los sistemas de información usan recursos conceptuales: información y
+
+datos en imágenes mentales del cerebro, cifras o diagramas en papel, o en forma
+
+electrónica en el almacenamiento de una computadora, para dirigir finalmente
+
+los sistemas físicos.
+
+
+
+     Los productos generados pueden adoptar una serie de formas: informes en
+
+papel, presentaciones visuales, documentos multimedia, mensajes electrónicos,
+
+imágenes gráficas y respuestas de audio.
+
+
+
+     Los sistemas de información desempeñan tres funciones esenciales en
+
+cualquier tipo de organización:
+
+
+
+   Respaldar las operaciones empresariales.
+
+   Respaldar la toma de decisiones.
+
+   Respaldar la ventaja competitiva estratégica.
+
+
+
+     Los sistemas de información en general son sistemas de apoyo a la toma
+
+de decisiones, son recursos de las organizaciones para proporcionar información
+
+a los gerentes, ayudarlos a resolver sus problemas y facilitar la comunicación
+
+empresarial.
+
+
+
+     “Los sistemas de información desde la perspectiva de los negocios es una
+
+solución organizacional y administrativa, basada en tecnología de la información,
+
+a un reto que se presenta en el entorno” (Senn, 1990).
+
+
+
+
+                                                                              23
+2.2.2. Componente de un sistema de información.
+
+
+
+    Los elementos que interactúan entre sí son: el equipo computacional, el
+
+recurso humano, los datos o información fuente, programas ejecutados por las
+
+computadoras, las telecomunicaciones y los procedimientos de políticas y reglas
+
+de operación. (Fuentes, 2009)
+
+
+
+a) Componentes Físicos.
+
+
+
+    Un sistema de información puede dividirse en cuatro subsistemas, a saber,
+
+Subsistema Computador, Subsistema de Personal o Recurso Humano,
+
+Subsistema de Programas de Aplicación y Subsistema de Datos.
+
+
+
+b) Componentes Funcionales.
+
+
+
+    De acuerdo a las funciones básicas de un sistema de información, éstos se
+
+pueden dividir en Subsistema de Procesamiento de Transacciones, Subsistema
+
+de Administración de Datos y Subsistema de Procesamiento de Información.
+
+(MARIA, 2009).
+
+
+
+2.2.3. Tipos de Sistemas de Información.
+
+
+
+    Debido a que el principal uso que se da a los SI es el de optimizar el
+
+desarrollo de las actividades de una organización con el fin de ser más
+
+
+
+
+                                                                            24
+productivos y obtener ventajas competitivas, en primer término, se puede
+
+clasificar a los sistemas de información en:
+
+
+
+   Sistemas Competitivos.
+
+   Sistemas Cooperativos.
+
+   Sistemas que modifican el estilo de operación del negocio.
+
+
+
+     Esta clasificación es muy genérica, y en la práctica no obedece a una
+
+diferenciación real de sistemas de información reales, ya que en la práctica
+
+podríamos encontrar alguno que cumpla varias (dos o las tres) de las
+
+características anteriores. En los sub apartados siguientes se hacen unas
+
+clasificaciones más concretas (y reales) de sistemas de información. (Reynol,
+
+2010).
+
+
+
+2.2.4. La Aplicación de los Sistemas de Información.
+
+
+
+     Los sistemas de información tratan el desarrollo, uso y administración de la
+
+infraestructura de la tecnología de la información en una organización.
+
+
+
+     En la era post-industrial, la era de la información, el enfoque de las
+
+compañías ha cambiado de la orientación hacia el producto a la orientación
+
+hacia el conocimiento, en este sentido el mercado compite hoy en día en
+
+términos del proceso y la innovación, en lugar del producto. El énfasis ha
+
+cambiado de la calidad y cantidad de producción hacia el proceso de producción
+
+en sí mismo, y los servicios que acompañan este proceso (Lopez, 2008).
+
+
+                                                                              25
+    El mayor de los activos de una compañía hoy en día es su información,
+
+representada en su personal, experiencia, conocimiento, innovaciones
+
+(patentes, derechos de autor, secreto comercial). Para poder competir, las
+
+organizaciones deben poseer una fuerte infraestructura de información, en cuyo
+
+corazón se sitúa la infraestructura de la tecnología de información. De tal
+
+manera que el sistema de información se centre en estudiar las formas para
+
+mejorar el uso de la tecnología que soporta el flujo de información dentro de la
+
+organización. (MONTILVA, 1992)
+
+
+
+2.2.5. Gestión de la Información.
+
+
+
+    Es la denominación convencional de un conjunto de procesos por los
+
+cuales se controla el ciclo de vida de la información, desde su obtención (por
+
+creación o captura), hasta su disposición final (su archivo o eliminación). Tales
+
+procesos también comprenden la extracción, combinación, depuración y
+
+distribución de la información a los interesados. El objetivo de la gestión de la
+
+información es garantizar la integridad, disponibilidad y confidencialidad de la
+
+información.
+
+
+
+    Se establece por lo tanto, como una disciplina transversal que aparece
+
+entrelazada en todas las diferentes capas o tejidos de una organización, en
+
+todos los conceptos de management (RRHH, marketing, finanzas, estrategias,
+
+operaciones, etc.) y les proporciona soporte.
+
+
+
+
+                                                                              26
+Requiere la gestión de la información como trabajo de una compresión hibrida,
+
+de personas que comprendan tanto las tecnologías y la teoría tras los sistemas
+
+de gestión de la información como del modelo de negocio de la organización
+
+para que los sistemas se conviertan en medios al servicio de la estrategia de la
+
+organización y no un fin. En comodines que soportan desde la toma de
+
+decisiones hasta la realización de una simple carta a un cliente. Se establece,
+
+entonces, como un recurso básico para cualquier organización. (Jhonn, 2009)
+
+
+
+a) Gestión Tecnológica: Es el proceso de adopción y ejecución de decisiones
+
+   sobre las políticas, estrategias, planes y acciones relacionadas con la
+
+   creación, difusión y uso de la tecnología.
+
+
+
+b) Gestión Social: es un proceso completo de acciones y toma de decisiones,
+
+   que incluye desde el abordaje, estudio y comprensión de un problema, hasta
+
+   el diseño y la puesta en práctica de propuestas.
+
+
+
+c) Gestión de Proyecto: es la disciplina que se encarga de organizar y de
+
+   administran los recursos de manera tal que se pueda concretan todo el
+
+   trabajo requerido por un proyecto dentro del tiempo y del presupuesto
+
+   definido.
+
+
+
+d) Gestión de Conocimiento: se trata de un concepto aplicado en las
+
+   organizaciones, que se refiere a la transferencia del conocimiento y de la
+
+   experiencia existente entre sus miembros. De esta manera, ese acervo de
+
+
+
+
+                                                                             27
+   conocimiento puede su utilizado como un recurso disponible para todos los
+
+   miembros de la organización.
+
+
+
+e) Gestión Ambiente: es el conjunto de diligencias dedicadas al manejo del
+
+   sistema ambiental en base al desarrollo sostenible. La gestión ambiental es
+
+   la estrategia a través de la cual se organizan las actividades antrópicas que
+
+   afectan el ambiente, con el objetivo de lograr una adecuada calidad de vida.
+
+
+
+f) Gestión Estratégica: es un útil curso del área de Administración de Empresas
+
+   y Negocios que ha sido consultado en 3593 ocasiones. En caso de estar
+
+   funcionando incorrectamente, por favor reporta el problema para proceder a
+
+   solucionarlo.
+
+
+
+g) Gestión Administrativo: es uno de los temas más importantes a la hora de
+
+   tener un negocio ya que de ella va depender el éxito o fracaso de la empresa.
+
+   En los años hay mucha competencia por lo tanto hay que retroalimentarse
+
+   en cuanto al tema.
+
+
+
+h) Gestión Gerencial: es el conjunto de actividades orientadas a la producción
+
+   de   bienes     (productos)   o   la   prestación   de   servicios   (actividades
+
+   especializadas), dentro de organizaciones.
+
+
+
+i) Gestión Financiera: se enfoca en la obtención y uso eficiente de los recursos
+
+   financieros.
+
+
+
+
+                                                                                 28
+j) Gestión Pública: no más que modalidad menos eficiente de la gestión
+
+    empresarial. (EXPERIMENTAL) (Jhonn, 2009)
+
+
+
+2.2.6. Sistema Web.
+
+
+
+     “Las aplicaciones web se han convertido en pocos años en complejos
+
+sistemas con interfaces de usuario cada vez más parecidas a las aplicaciones
+
+de escritorio, dando servicio a procesos de negocio de considerable
+
+envergadura y estableciéndose sobre ellas requisitos estrictos de accesibilidad
+
+y respuesta. Esto ha exigido reflexiones sobre la mejor arquitectura y las
+
+técnicas de diseño más adecuadas. En este artículo se pretende dar un breve
+
+repaso a la arquitectura de tales aplicaciones y a los patrones de diseño más
+
+aplicables”. (Aburto, 1999)
+
+
+
+     En los últimos años, la rápida expansión de Internet y del uso de intranets
+
+corporativas ha supuesto una transformación en las necesidades de información
+
+de las organizaciones. En particular esto afecta a la necesidad de que:
+
+
+
+   La información sea accesible desde cualquier lugar dentro de la organización
+
+    e incluso desde el exterior.
+
+   Esta información sea compartida entre todas las partes interesadas, de
+
+    manera que todas tengan acceso a la información completa (o a aquella
+
+    parte que les corresponda según su función) en cada momento.
+
+
+
+
+                                                                             29
+    Estas necesidades han provocado un movimiento creciente de cambio de
+
+las aplicaciones tradicionales de escritorio hacia las aplicaciones web, que por
+
+su idiosincrasia, cumplen a la perfección con las necesidades mencionadas
+
+anteriormente. Por tanto, los sitios web tradicionales que se limitaban a mostrar
+
+información se han convertido en aplicaciones capaces de una interacción más
+
+o menos sofisticada con el usuario. Inevitablemente, esto ha provocado un
+
+aumento progresivo de la complejidad de estos sistemas y, por ende, la
+
+necesidad de buscar opciones de diseño nuevas que permitan dar con la
+
+arquitectura óptima que facilite la construcción de los mismos.
+
+
+
+    El usuario interacciona con las aplicaciones web a través del navegador.
+
+Como consecuencia de la actividad del usuario, se envían peticiones al servidor,
+
+donde se aloja la aplicación y que normalmente hace uso de una base de datos
+
+que almacena toda la información relacionada con la misma. El servidor procesa
+
+la petición y devuelve la respuesta al navegador que la presenta al usuario. Por
+
+tanto, el sistema se distribuye en tres componentes: el navegador, que presenta
+
+la interfaz al usuario; la aplicación, que se encarga de realizar las operaciones
+
+necesarias según las acciones llevadas a cabo por éste y la base de datos,
+
+donde la información relacionada con la aplicación se hace persistente. Esta
+
+distribución se conoce como el modelo o arquitectura de tres capas” (LIVAR,
+
+2006).
+
+
+
+
+                                                                              30
+                                    Figura Nº 1: Arquitectura de tres capas
+
+          FUENTE: Guía de Arquitectura N-Capas orientada al dominio con .NET 4.0 (Microsoft). Pag 34
+
+
+
+2.2.7. Marco Organizacional.
+
+
+
+2.2.7.1.         HOLATRANS S.R.L.
+
+
+
+      Una Empresa que apunta al liderazgo en el servicio de transporte de carga
+
+y encomienda, con la firme convicción de brindar un servicio de calidad acorde
+
+a las necesidades y exigencias del cliente.
+
+
+
+Visión.
+
+
+
+      “Ampliar el alcance de la organización y ser una de las empresas de carga
+
+pioneras en servicio, calidad y satisfacción del cliente, brindando a estos la
+
+mayor asistencia al transportar sus bienes, materias y productos”.
+
+
+
+
+                                                                                                       31
+Misión.
+
+
+
+      “Prestar el servicio de transporte de bienes, materia prima y productos a
+
+empresas o particulares con responsabilidad, seguridad y oportunidad a todo el
+
+territorio nacional”.
+
+
+
+2.2.7.2.      Guía de Remisión.
+
+
+
+      Se denomina guía de remisión a aquel documento creado y regulado por
+
+la Superintendencia Nacional de Administración Tributaria (SUNAT) que
+
+sustenta el traslado de bienes por las pistas y carreteras del país, no es el único,
+
+pero es el de uso más extendido.
+
+
+
+1.        Guía de Remisión – Remitente.
+
+
+
+      Es un documento que se emplea en el comercio para enviar las
+
+mercaderías solicitadas por el cliente. Y sirve para que el comerciante tenga
+
+testimonio de los bienes que ha entregado en las condiciones solicitadas y
+
+aprobado por el departamento de ventas.
+
+
+
+      Este documento se extiende por duplicado o triplicado según la necesidad
+
+de la empresa por lo general es práctico que sea un talonario con 3 copias, una
+
+queda en el talonario para la empresa que vende, la otra es entregada al cliente
+
+junto con las mercaderías y la tercera es devuelta con la firma de conformidad
+
+del cliente en el que certifica haber recibido conforme dichos bienes.
+
+
+                                                                                 32
+     Una guía de remisión contiene la información que se muestra en la figura 14,
+
+existirán variaciones a este modelo dependiendo de circunstancias particulares
+
+que se presentan de manera constante para cierto tipo de contribuyentes.
+
+
+
+
+                          Figura Nº 2: Guía de Remisión – Remitente
+
+                            FUENTE: Empresa HOLATRANS S.R.L.
+
+
+
+2.       Guía de remisión – Transportista.
+
+
+
+        Es el documento que emite el Remitente para sustentar el traslado de
+
+bienes con motivo de su compra o venta y la prestación de servicios que
+
+involucran o no la transformación de bienes, cesión en uso, consignaciones y
+
+remisiones entre establecimientos de una misma empresa y otros.
+
+
+
+                                                                              33
+                       Figura Nº 3: Guía de Remisión – Transportista
+
+                           FUENTE: Empresa HOLATRANS S.R.L.
+
+
+
+
+2.2.8. Metodología DSDM (Dynamic Systems Development Method).
+
+
+
+    El método de desarrollo de sistemas dinámicos, Esta metodología surge de
+
+un consorcio en Reino Unido. Su primera versión aparece en 1994,
+
+posteriormente se han realizado varias versiones.
+
+
+
+    Situada dentro de las RAD, DSDM es excelente para proyectos de sistemas
+
+de la información con presupuestos limitados y agendas muy ocupadas y
+
+apretadas.
+
+
+
+
+                                                                         34
+2.2.8.1.     Características.
+
+
+
+    Los proyectos tendrán las siguientes características que refieren a la
+
+aplicabilidad de DSDM:
+
+
+
+   Proyectos interactivos con funcionalidad visible en la interfaz de usuario.
+
+
+
+   De baja o media complejidad computacional.
+
+
+
+   Particionables en componentes de funcionalidad más pequeños si la
+
+    aplicación es de gran tamaño, cuentan con flexibilidad en los requerimientos.
+
+
+
+   Une técnicas de desarrollo y gestión del proyecto en una misma metodología
+
+    que se centra en conseguir un producto que funcione correctamente en los
+
+    casos más críticos.
+
+
+
+   Trabajo en equipo tanto los desarrolladores, los usuarios y los Stakeholders.
+
+    Con un grupo de usuarios bien definidos y comprometidos al proyecto.
+
+
+
+   El equipo de desarrollo toma decisiones sin depender de autorizaciones de
+
+    sus superiores para realizar entregas, siempre cortas, de forma frecuente,
+
+    siendo éstas funcionales. Ésto es adecuado al tener el tiempo total acotado,
+
+    por lo que previene que transcurra mucho tiempo y la tecnología cambie.
+
+
+
+   El desarrollo es iterativo e incremental.
+
+
+                                                                                  35
+   Todos los cambios pueden ser revertibles y son verificados durante todo el
+
+    desarrollo.
+
+
+
+2.2.8.2.        Roles.
+
+
+
+    Esta metodología define 15 roles para usuarios y desarrolladores, a
+
+continuación se describen los más destacados.
+
+
+
+   Desarrollador y desarrollador senior (developer and senior developer)
+
+
+
+    Son los únicos roles definidos para desarrolladores, por esto este rol incluye
+
+a todo el personal de desarrollo, sean diseñadores, analistas, programadores o
+
+testers. La diferencia entre desarrollador y desarrollador senior es que los
+
+segundos tienen gran experiencia en las tareas que realizan, por lo que suelen
+
+dirigir el equipo.
+
+
+
+   Coordinador técnico (Technical coordinator).
+
+
+
+    Responsable tanto de la calidad técnica como del control técnico del
+
+proyecto, por ejemplo el uso de software de gestión de configuración y el
+
+cumplimiento de estándares técnicos. Está encargado de mantener la
+
+arquitectura.
+
+
+
+
+                                                                               36
+   Usuario embajador (Ambassador user).
+
+
+
+    El usuario embajador debe ser miembro del grupo de usuarios, que espera
+
+utilizar el sistema, pues este rol tiene como función aportar el conocimiento de
+
+este grupo al proyecto y difundir información de los avances del proyecto al resto
+
+de usuarios. De esta forma se asegura una correcta retroalimentación de los
+
+usuarios. Se ofrece conocimiento del negocio y define los requisitos del software.
+
+
+
+   Asesor de usuario (Adviser user).
+
+
+
+    Consejero del usuario embajador. Este rol se emplea cuando el rol de
+
+usuario embajador no es suficiente para expresar todas las opiniones o puntos
+
+de vista importantes de los usuarios sobre un punto del proyecto.
+
+
+
+   Visionario (Visionary).
+
+
+
+    El trabajo del visionario es el encargado de asegurar que se satisfacen las
+
+necesidades de negocio, es decir, que desde el principio, los requisitos
+
+esenciales se encuentran y que el proyecto sigue la dirección correcta para
+
+cumplir dichos requisitos. Es el rol con la visión más precisa sobre los objetivos
+
+del negocio del sistema y del proyecto y probablemente aquel que tiene la idea
+
+inicial de la construcción del sistema.
+
+
+
+
+                                                                               37
+   Patrocinador ejecutivo (Executive sponsor).
+
+
+
+    Es el rol de la organización de usuario que tiene la autoridad y
+
+responsabilidad financiera relacionada al proyecto, por lo tanto tiene el máximo
+
+poder en la toma de decisiones.
+
+
+
+   Director de proyecto (Project Manager).
+
+
+
+    Es responsable de entregar los productos acordados de forma exitosa, al
+
+acordado estándar de calidad, a tiempo y dentro del presupuesto. Además de
+
+ser capaz de entregar los beneficios estipulados en el PID. El director del
+
+proyecto puede venir de IT o de la comunidad de usuarios, e informa a la Junta
+
+del Proyecto.
+
+
+
+2.2.8.3.        Artefactos.
+
+
+
+     Podemos describir los artefactos obtenidos mediante la metodología DSDM
+
+a través de las distintas fases que lo forman.
+
+
+
+Fase 1. Estudio de viabilidad.
+
+
+
+   Informe de viabilidad. Análisis de viabilidad del proyecto.
+
+   Esbozo del plan para el desarrollo. Planteamiento del desarrollo del
+
+    proyecto a grandes rasgos.
+
+   Listado de riesgos. Lista con los riesgos que puede ofrecer el sistema.
+
+
+                                                                              38
+   Prototipo rápido. Es un artefacto opcional, sólo aparecerá si no se conoce
+
+    lo suficiente el negocio o tecnología.
+
+
+
+Fase 2. Estudio de la empresa.
+
+
+
+   Descripción de los procesos de negocio y especificación de casos de
+
+    uso. La identificación de los casos de uso ayuda a involucrar al cliente.
+
+   Documento de Especificación de Requerimientos de Software (SRS).
+
+    Descripciones a alto nivel de los requisitos que se presentan en formato
+
+    correcto diagramas ER, modelos de negocio objetivos, etc.
+
+   Definición de la arquitectura del sistema. Es un primer borrador de la
+
+    arquitectura que puede cambiar durante el desarrollo del proyecto.
+
+   Esbozo del plan de prototipado. Debe declarar la estrategia de prototipado
+
+    para las siguientes fases y un plan para la configuración de la administración.
+
+
+
+Fase 3. Iteración del modelo funcional.
+
+
+
+   Modelo funcional. Contiene el código prototipo y los modelos de análisis
+
+   Casos de prueba. Pruebas a realizar a código.
+
+   Funciones prioritarias. Lista de prioridades de las funciones que se
+
+    entregan al final de la iteración.
+
+   Resumen de los documentos de prototipos funcionales. Recoge los
+
+    comentarios de los usuarios sobre el incremento actual, servirá de artefacto
+
+    de entrada para las siguientes iteraciones.
+
+
+
+
+                                                                                39
+   Requisitos no funcionales. Lista de requisitos que se tratarán en la
+
+    siguiente fase.
+
+   Análisis de riesgos de desarrollo superior. Documento de gran
+
+    importancia en esta fase, pues, a partir de la siguiente fase, los errores
+
+    encontrados serán más difíciles de ubicar y dirigir.
+
+
+
+Fase 4. Diseño e iteración de la estructura.
+
+
+
+   Sistema probado. Debe cumplir al menos los requisitos mínimos
+
+    acordados.
+
+
+
+Fase 5. Implementación.
+
+
+
+   Sistema entregado. Sistema finalizado y entregado al cliente.
+
+   Manual de usuario. Instrucciones de uso del sistema.
+
+   Informe de revisión de proyecto. Resume el resultado del proyecto. Según
+
+    los resultados, se establece el curso del desarrollo adicional.
+
+
+
+2.2.8.4.     Prácticas.
+
+
+
+    Dado el enfoque hacia proyectos de características RAD, la ideología de la
+
+metodología DSDM se define en nueve principios:
+
+
+
+
+                                                                            40
+1. Involucrar al usuario es la base para obtener un proyecto eficiente y
+
+    efectivo.
+
+
+
+    Cliente y desarrolladores comparten entorno de trabajo para mejorar la
+
+precisión de las decisiones.
+
+
+
+2. Los equipos de DSDM deben tener autorización de la toma de
+
+    decisiones.
+
+
+
+    Es importante que se puedan tomar decisiones para el desarrollo del
+
+proyecto sin esperar la aprobación de superiores.
+
+
+
+3. El foco está puesto en la entrega frecuente de productos.
+
+
+
+    Esto permite una verificación y revisión continua del producto desde el
+
+principio.
+
+
+
+4. La conformidad con los propósitos del negocio es el criterio esencial
+
+    para la aceptación de los entregables.
+
+
+
+    DSDM se centra en las funcionalidades críticas del proyecto, no en todas sus
+
+posibles necesidades.
+
+
+
+
+                                                                             41
+5. El desarrollo iterativo e incremental es necesario para converger hacia
+
+    una correcta solución del negocio.
+
+
+
+    Se basa en la retroalimentación de os usuarios para dirigirse hacia una
+
+solución precisa.
+
+
+
+6. Todos los cambios durante el desarrollo son reversibles.
+
+
+
+    Saber dónde estamos en cada momento para tener la posibilidad de
+
+deshacer y probar otro camino si el elegido no funciona.
+
+
+
+7. Los requerimientos están especificados a un alto nivel.
+
+
+
+    Alcance de alto nivel y requisitos deben ser desde el inicio del proyecto.
+
+
+
+8. El testing es integrado a través del ciclo de vida.
+
+
+
+    Durante todo el ciclo de vida se realizan pruebas para evitar costes
+
+extraordinarios en mantenimiento y arreglos del sistema.
+
+
+
+9. Un enfoque colaborativo y cooperativo entre todos los interesados es
+
+    esencial.
+
+
+
+    La colaboración y cooperación entre el equipo, usuarios y stakeholders es
+
+esencial para un correcto desarrollo del proyecto.
+
+
+                                                                                 42
+    Aparte de estos principios, DSDM también se basa en una serie de
+
+consideraciones muy importantes:
+
+   Ningún sistema es construido a la perfección en el primer intento.
+
+
+
+   La entrega del proyecto deberá ser a tiempo, respetando presupuesto y
+
+    asegurando la calidad.
+
+
+
+   DSDM solo requiere que se complete cada paso que forma una iteración con
+
+    la funcionalidad suficiente como para que inicie el siguiente paso de la
+
+    siguiente iteración.
+
+
+
+   DSDM puede utilizarse en proyectos de ampliación de sistemas TI pero
+
+    también podría utilizarse para proyectos de cambio de algún sistema aunque
+
+    no sea TI.
+
+
+
+   La evaluación de riesgo debe estar enfocada en entregar funcionalidad de
+
+    negocio y no en el proceso de desarrollo.
+
+
+
+   La estimación debe estar basada en funcionalidad del negocio no en líneas
+
+    de código.
+
+
+
+   La gestión recompensa la entrega continua de productos antes que la
+
+    consecución de tareas.
+
+
+
+
+                                                                            43
+2.2.8.5.     Proceso.
+
+
+
+     DSDM reconoce que los proyectos son limitados por el tiempo y los
+
+recursos, y los planes según las necesidades de la empresa. Para alcanzar sus
+
+metas, DSDM favorece el uso del RAD con el consecuente riesgo de que
+
+demasiadas partes estén sin definir correctamente y esto lleve a errores.
+
+
+
+     DSDM aplica algunos principios, roles, y técnicas en las 5 fases en las que
+
+define la construcción de un sistema:
+
+
+
+1. Estudio de viabilidad: Estudia la factibilidad del proyecto en una pequeña
+
+    fase que propone DSDM para determinar si la metodología se ajusta éste.
+
+    Se realiza un estudio de los requisitos humanos materiales y financieros y
+
+    los problemas de la empresa o el cliente.
+
+
+
+2. Estudio de la empresa: Durante el estudio del negocio se involucra al
+
+    cliente para tratar de entender la operatoria que el sistema deberá
+
+    automatizar. Este estudio siente las bases para iniciar el desarrollo,
+
+    definiendo las características de alto nivel que deberá contener el software,
+
+    es decir, planifica la base de las actividades de la empresa.
+
+
+
+3. Iteración del modelo funcional: Se inician las iteraciones en las que se
+
+    describirán en detalle las características definidas en la fase anterior,
+
+    planteando un modelo previo que dé solución aceptable a la problemática.
+
+    Esta es la etapa de diseño.
+
+
+                                                                              44
+4. Diseño e iteración de la estructura: Se realizará el diseño de los mismos
+
+    codificando el modelo diseñado, se construirán los componentes de
+
+    software, se prueba paralelamente la calidad del producto y se documenta
+
+    el manual de usuario y técnico.
+
+
+
+5. Implementación: Entrega del producto al cliente o usuario final. Cuando
+
+    éste de su aprobación se implantará el sistema en producción.
+
+
+
+    La primera y segunda fase son secuenciales y, por lo tanto, realizadas una
+
+única vez al principio del proyecto para analizar la factibilidad desde el punto de
+
+vista del negocio del desarrollo, las demás fases presentan las características
+
+del modelo iterativo e incremental ya tratado.
+
+
+
+
+                           Figura Nº 4: Ciclo de vida del proyecto
+
+          FUENTE: Metodologías ágiles y desarrollo basado en conocimiento, junio 2012
+
+
+
+
+                                                                                        45
+2.2.8.6.     ¿Qué es UML?
+
+
+
+     UML es ante todo un lenguaje. Un lenguaje proporciona un vocabulario y
+
+una regla para permitir una comunicación. En este caso, este lenguaje se centra
+
+en la representación gráfica de un sistema. (Rodriguez, 2012).
+
+
+
+     Este lenguaje nos indica cómo crear y leer los modelos, pero no dice cómo
+
+crearlos. Esto último es el objetivo de las metodologías de desarrollo.
+
+
+
+     El objetivo de UML son muchos, pero se pueden sintetizar sus funciones:
+
+
+
+   Visualizar: UML permite expresar de una forma gráfica un sistema de forma
+
+    que otro lo pueda entender.
+
+
+
+   Especificar: UML permite especificar cuáles son las características de un
+
+    sistema antes de su construcción.
+
+
+
+   Construir: A partir de los modelos especificados se pueden construir los
+
+    sistemas diseñados.
+
+
+
+   Documentar: Los propios elementos gráficos sirven como documentación del
+
+    sistema desarrollado que pueden vivir para su futura revisión.
+
+
+
+El modelo UML está compuesto por tres clases de bloques de construcción:
+
+
+
+
+                                                                            46
+   Elementos: Los elementos son abstracciones de cosas reales o ficticias
+
+    (objetos, acciones, etc).
+
+
+
+   Relaciones: relacionan los elementos entre sí.
+
+
+
+   Diagramas: son colecciones de elementos con sus relaciones.
+
+
+
+Veamos con mayor detalle los diagramas de UML.
+
+
+
+2.2.8.7.     Diagramas UML.
+
+
+
+     El UML está compuesto por diversos elementos gráficos que se combinan
+
+para conformar diagramas. Debido a que el UML es un lenguaje, cuenta con
+
+reglas para combinar tales elementos.
+
+
+
+     La finalidad de los diagramas es presentar diversas perspectivas de un
+
+sistema, a las cuales se les conoce como modelo. Recordemos que un modelo
+
+es una representación simplificada de la realidad; el modelo UML describe lo
+
+que supuestamente hará un sistema, pero no dice cómo implementar dicho
+
+sistema. A continuación se describirán los diagramas más comunes del UML y
+
+los conceptos que representan:
+
+
+
+   Diagrama de Clases.
+
+   Diagrama de Casos de Uso.
+
+   Diagrama de Secuencias.
+
+
+                                                                          47
+    Diagrama de Actividades.
+
+    Diagrama de Paquetes.
+
+
+
+a) Diagrama de Clases.
+
+
+
+     Los diagramas de clases describen la estructura estática de un sistema. Las
+
+cosas que existen y que nos rodean se agrupan naturalmente en categorías.
+
+Una clase es una categoría o grupo de cosas que tienen atributos (propiedades)
+
+y acciones similares. Un ejemplo puede ser la clase “Aviones” que tiene atributos
+
+como el “modelo de avión”, “la cantidad de motores”, “la velocidad de crucero” y
+
+“la capacidad de carga útil”. Entre las acciones de las cosas de esta clase se
+
+encuentran: “acelerar”, “elevarse”, “girar”, “descender”, “desacelerar”.
+
+Un rectángulo es el símbolo que representa a la clase, y se divide en tres áreas.
+
+Un diagrama de clases está formado por varios rectángulos de este tipo
+
+conectados por líneas que representan las asociaciones o maneras en que las
+
+clases se relacionan entre sí.
+
+
+
+
+                                          Clase Abstracta.
+
+                                          Las clases se representan con rectángulos
+
+                                          divididos en tres áreas: la superior contiene el
+
+                                          nombre de la clase, la central contiene los
+Figura Nº 5: Diagrama de Clases - Clase
+Abstracta
+                                          atributos y la inferior las acciones.
+
+
+
+
+                                                                                       48
+                                                  Clase Aviones.
+
+                                                  En el área superior figura el nombre de la clase
+
+                                                  que utilizamos como ejemplo, en la central
+
+                                                  están sus atributos y en la inferior las acciones
+
+                                                  que ella realiza. Note que las acciones llevan
+
+                                                  paréntesis al final del nombre dado que las
+
+Figura Nº 6: Diagrama de Clases -Clase
+                                                  mismas son funciones y por lo tanto devuelven
+Aviones
+                                                  un valor.
+
+
+
+
+                                                       Multiplicidad.
+
+                                                       Las notaciones utilizadas para señalar la
+
+                                                       multiplicidad se colocan cerca del final de
+
+                                                       una asociación. Estos símbolos indican el
+
+                                                       número de instancias de una clase
+Figura Nº 7: Diagrama de Clases - Multiplicidad        vinculadas a una de las instancias de la
+
+otra clase. Por ejemplo, una empresa puede tener uno o más empleados, pero
+
+cada empleado trabaja para una sola empresa solamente.
+
+
+
+b) Diagrama de Casos de Uso.
+
+
+
+     Un caso de uso es una descripción de las acciones de un sistema desde el
+
+punto de vista del usuario. Es una herramienta valiosa dado que es una técnica
+
+
+                                                                                                49
+de aciertos y errores para obtener los requerimientos del sistema, justamente
+
+desde el punto de vista del usuario.
+
+
+
+    Los diagramas de caso de uso modelan la funcionalidad del sistema usando
+
+actores y casos de uso. Los casos de uso son servicios o funciones provistas
+
+por el sistema para sus usuarios.
+
+
+
+                                       Sistema.
+
+                                       El rectángulo representa los límites del sistema
+
+                                       que contiene los casos de uso. Los actores se
+
+                                       ubican fuera de los límites del sistema.
+
+
+
+ Figura Nº 8: Diagrama Caso de Uso -
+               Sistema
+
+
+
+                       Casos de Uso.
+
+                       Se representan con óvalos. La etiqueta en el óvalo indica la
+
+                       función del sistema.
+
+
+
+
+                       Actores.
+
+Figura Nº 9:           Los actores son los usuarios de un sistema.
+Diagrama Caso de
+Uso - Actores
+
+
+
+
+                                                                                    50
+c) Diagrama de Secuencias.
+
+
+
+   Los diagramas de clases y los de objetos representan información estática.
+
+No obstante, en un sistema funcional, los objetos interactúan entre sí, y tales
+
+interacciones suceden con el tiempo. El diagrama de secuencias UML muestra
+
+la mecánica de la interacción con base en tiempos.
+
+
+
+
+: usuario                       : login                        : E_usuario                 : G_usuario
+            ingresar datos
+
+
+                                                enviar nombre de usuario y password
+
+
+                                                                       valida datos ingresados
+
+
+                                                                                                   define privilegios de usuario
+
+
+
+                                                         devuelve permisos
+
+
+     muestra interfaz del sistema
+
+
+
+
+                                    Figura Nº 10: Diagrama de Secuencias
+
+                                          FUENTE: Elaboración propia
+
+
+
+d) Diagrama de Colaboraciones.
+
+
+
+   El diagrama de colaboraciones describe las interacciones entre los objetos
+
+en términos de mensajes secuenciados. Los diagramas de colaboración
+
+representan una combinación de información tomada de los diagramas de
+
+
+
+                                                                                                          51
+clases, de secuencias y de casos de uso, describiendo el comportamiento, tanto
+
+de la estructura estática, como de la estructura dinámica de un sistema.
+
+
+
+
+                         Figura Nº 11: Diagrama de Colaboraciones
+
+                               FUENTE: Elaboración Propia
+
+
+
+
+e) Diagrama de Actividades
+
+
+
+   Un diagrama de actividades ilustra la naturaleza dinámica de un sistema
+
+mediante el modelado del flujo ocurrente de actividad en actividad. Una actividad
+
+representa una operación en alguna clase del sistema y que resulta en un
+
+cambio en el estado del sistema. Típicamente, los diagramas de actividad son
+
+utilizados para modelar el flujo de trabajo interno de una operación.
+
+
+
+   Un diagrama de actividades permite describir como un sistema implementa
+
+su funcionalidad. Los diagramas de actividades es uno de los elementos de
+
+
+
+
+                                                                              52
+modelado que son mejor comprendidos por todos, ya que son herederos
+
+directos de los diagramas de flujo.
+
+
+
+          REDES                                 v erificador
+
+
+
+
+                            intento <4         autentificar
+
+
+
+                            no
+
+                                                       si
+                                               ingresar al
+                                                 sistem a
+
+
+
+
+                                             constatar datos
+
+
+
+
+       llamada de
+          atención
+                             no
+                                                       si
+                                             enviar reportes
+                                               e inform es
+
+
+
+
+                          Figura Nº 12: Diagrama de Actividades
+
+                                 FUENTE: Elaboración Propia
+
+
+
+
+f) Diagrama de Paquetes.
+
+
+
+   En algunas ocasiones se encontrará con la necesidad de organizar los
+
+elementos de un diagrama en un grupo. Tal vez quiera mostrar que ciertas
+
+clases o componentes son parte de un subsistema en particular. Para ello, se
+
+pueden agrupar en un paquete, que se representa por una carpeta tabular.
+
+
+
+
+                                                                           53
+                                                       paquete
+                                                        reporte
+
+
+
+
+                          paquete
+                           registro
+
+
+
+
+                                                     paquete login
+
+
+
+
+                                                       paquete
+                                                       sistema
+
+
+
+
+                           Figura Nº 13: Diagrama de Paquetes
+
+                                FUENTE: Elaboración Propia
+
+
+
+
+2.3. Glosario de términos básicos.
+
+
+
+2.3.1. Administrar.
+
+
+
+     Se refiere a inserción, modificación y eliminación de registros en la base de
+
+datos.
+
+
+
+2.3.2. Ajax.
+
+
+
+     En su significado en español (JavaScript asíncrono y XML), es una técnica
+
+de desarrollo de aplicaciones Web, se ejecutan en el cliente, el navegador hace
+
+posible una comunicación asíncrona del cliente con el servidor, permitiendo que
+
+las aplicaciones Web actualicen sus datos sin necesidad de recargar toda la
+
+
+
+
+                                                                               54
+aplicación, aumentando significativamente interactividad, velocidad y mejorando
+
+la usabilidad en las aplicaciones. (Childes, 2009)
+
+
+
+2.3.3. Apache.
+
+
+
+    Es un software que se encarga de gestionar un servidor Web.
+
+
+
+2.3.4. Base de datos.
+
+
+
+    Conjunto de información almacenada, organizada           e interrelacionada.
+
+(Kioskea, 2007).
+
+
+
+2.3.5. Css.
+
+
+
+    (Hojas de Estilo en Cascada). Una hoja de estilo es un conjunto de reglas
+
+que sirven para definir la presentación de un documento estructurado escrito en
+
+HTML o XML.
+
+
+
+2.3.6. DSDM.
+
+
+
+Dynamic Systems Development Method.
+
+
+
+    El método de desarrollo de sistemas dinámicos, apoyado por su continua
+
+implicación del usuario en un desarrollo iterativo y creciente que sea sensible a
+
+los requerimientos cambiantes, para desarrollar un sistema que reúne las
+
+
+                                                                              55
+necesidades de la empresa en tiempo y presupuesto. Es uno de un número de
+
+métodos de desarrollo ágil de software y forma parte de alianza ágil.
+
+
+
+2.3.7. Framework.
+
+
+
+    Es una estructura de soporte definida, en la cual otro proyecto de software
+
+puede ser organizado y desarrollado.
+
+
+
+2.3.8. HOLATRANS S.R.L.
+
+
+
+    Empresa destinada a proporcionar servicio de traslado de una ciudad a
+
+otra, encomiendas (choferes).
+
+
+
+2.3.9. HTML5.
+
+
+
+(HyperTextMarkupLanguage, versión 5) es la quinta revisión importante del
+
+lenguaje básico de la World Wide Web, HTML. HTML5 especifica dos variantes
+
+de sintaxis para HTML: un «clásico» HTML (text/html), la variante conocida
+
+como HTML5 y una variante XHTML conocida como sintaxis XHTML5 que
+
+deberá ser servida como XML (XHTML) (application/xhtml+xml). Esta es la
+
+primera vez que HTML y XHTML se han desarrollado en paralelo. (Castro,
+
+2011).
+
+
+
+
+                                                                            56
+2.3.10.        Ingeniería.
+
+
+
+       La ingeniería es la creación, modificación y utilización de tecnologías
+
+articuladas por medio del conocimiento científico (Web, 2005).
+
+
+
+2.3.11.        JavaScript.
+
+
+
+       Es un lenguaje de scripting basado en objetos, utilizado para manipular
+
+objetos de las aplicaciones Web, y algunas características del navegador.
+
+
+
+2.3.12.        jQuery.
+
+
+
+       Es una biblioteca de JavaScript, creada inicialmente por John Resig, que
+
+permite simplificar la manera de interactuar con los documentos HTML,
+
+manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar
+
+interacción con la técnica AJAX a páginas web. (jQuery, 2010).
+
+
+
+2.3.13.        MySQL.
+
+
+
+Es un motor de base de datos SQL:
+
+
+
+        Muy rápido.
+
+        Multi-threat.
+
+        Multiusuario.
+
+
+
+
+                                                                            57
+Dispone de dos tipos de licencia:
+
+
+
+       Open Source/Software libre (GNU General Public License).
+
+       Standard commercial license.
+
+
+
+   Es un sistema de gestión de bases de datos relacionales, multihilo y
+
+multiusuario con más de seis millones de instalaciones.1 MySQL AB —desde
+
+enero de 2008 una subsidiaria de Sun Microsystems y ésta a su vez de Oracle
+
+Corporation desde abril de 2009— desarrolla MySQL como software libre en un
+
+esquema de licenciamiento dual.
+
+
+
+2.3.14.       Navegador Web.
+
+
+
+       Un navegador o navegador Web (del inglés, Web browser) es un programa
+
+que permite visualizar la información que contiene una página Web (ya se
+
+encuentre ésta alojada en un servidor dentro de la World Wide Web o en un
+
+servidor local).
+
+
+
+2.3.15.       PID.
+
+
+
+        Project Initiation Document, documento de iniciación del proyecto.
+
+
+
+
+                                                                             58
+2.3.16.      Php.
+
+
+
+    Es un lenguaje de programación interpretado, diseñado originalmente para
+
+la creación de páginas Web dinámicas.
+
+
+
+2.3.17.      Sistema de Gestión de Bases de Datos (SGBD).
+
+
+
+    Agrupación de programas que sirven para definir, construir y manipular una
+
+base de datos. (Bachman, 2013).
+
+
+
+2.3.18.      Sistema.
+
+
+
+    Se trata de la coordinación de diversos subconjuntos con un objetivo
+
+común. Estos subconjuntos son los recursos con los que se cuenta: personal,
+
+presupuesto, tecnología, locales, información. De la dotación adecuada de estos
+
+recursos, su organización y su relación interdependiente, a través de los
+
+procesos y tareas efectuados, resultan los servicios y productos que la biblioteca
+
+pone a disposición de sus usuarios o clientes. (Bertalanffy, 2004)
+
+
+
+2.3.19.      Servidor Web.
+
+
+
+    Un servidor Web es un programa diseñado para transferir hipertextos,
+
+páginas Web o páginas HTML (HyperTextMarkupLanguage).
+
+
+
+
+                                                                               59
+2.3.20.      Sistema Web.
+
+
+
+    Sistemas complejos de escritorio llevados a la web donde se puede
+
+acceder desde cualquier lugar con internet. (Rivas, 2007).
+
+
+
+2.3.21.      Stakeholder.
+
+
+
+   Quienes pueden afectar o son afectados por las actividades de una empresa.
+
+Stakeholder significa en español: “participante”, “inversor”, “accionista”. Y es que
+
+desde el punto de vista empresarial, este concepto se utiliza para referirse a los
+
+grupos de interés para una empresa.
+
+
+
+2.3.22.      RAD.
+
+
+
+    Desarrollo rápido de Aplicaciones.
+
+
+
+2.3.23.      TI.
+
+
+
+    Tecnología de la información.
+
+
+
+2.3.24.      Usuario.
+
+
+
+    Persona que interactúa con un sistema (Web informático).
+
+
+
+
+                                                                                 60
+2.3.25.      Web.
+
+
+
+     Web, la red o WWW de World Wide Web, es un medio de comunicación de
+
+texto, gráficos y otros objetos multimedia a través de Internet.
+
+
+
+2.4. Hipótesis de la investigación.
+
+
+
+2.4.1. Hipótesis general.
+
+
+
+El sistema Web mejoró la gestión de la información en el en el área de control
+
+de la empresa HOLATRANS S.R.L. Juliaca 2014.
+
+
+
+2.4.2. Hipótesis específicos.
+
+
+
+La presencia del personal con formación tradicional dió lugar a que el proceso
+
+de gestión de la información sean manuales durante el control de encomiendas
+
+y choferes de la empresa HOLATRANS S.R.L. Juliaca 2014.
+
+
+
+El sistema web ayudó en forma positiva en el control de encomiendas y choferes
+
+de la empresa HOLATRANS S.R.L. Juliaca 2014.
+
+
+
+
+                                                                            61
+   2.1. Operacionalización de variables.
+
+     VARIABLE                                                           ESCALA
+                       DIMENSIONES           INDICADORES
+  INDEPENDIENTE                                                        ORDINAL
+
+                                                                   - Bajo.
+
+                                       Diseño de Interfaz.         - Medio.
+
+                                                                   - alto.
+
+
+
+                                       Previene ingreso de datos   - Bajo.
+
+                      Usabilidad       erróneos.                   - Medio.
+
+                                                                   - Alto.
+
+
+
+                                                                   - Bajo.
+
+                                       Facilidad de Aprendizaje    - Medio.
+
+                                                                   - Alto.
+Sistema web.
+
+
+                      Efectividad      Satisfacción de             - Bajo.
+                                                                   - Medio.
+                                       requerimientos.             - Alto.
+
+
+
+
+                                                                   - Bajo.
+                      Visibilidad.     Diseño compatible con
+                                                                   - Medio.
+                                       todos los navegadores
+                                                                   - Alto.
+
+
+
+                                                                   - Bajo.
+                      Buscabilidad     Encontrar un buscador el
+                                                                   - Medio.
+                                       sitio web
+                                                                   - Alto.
+
+
+
+
+                                                                              62
+  VARIABLE                                                         ESCALA
+                 DIMENSIONES              INDICADORES
+DEPENDIENTE                                                       ORDINAL
+
+
+
+                Gestión oportuna.   Tiempo de obtención de    - Menos de 5 min.
+
+                                    Resultados (rapidez)      - 10min.
+
+                                                              -15 min
+
+                                    Actualización con
+Gestión de la                       Frecuencia a las          - Diario.
+Información.                        publicaciones.            - Semanal.
+
+                Gestión                                       - Mensual.
+
+                adecuada.
+
+                                    Presentación de la        - Alto.
+
+                                    información               - Medio.
+
+                                    solicitada.(Información   - Bajo.
+
+                                    necesarios)
+
+
+
+
+                                                                           63
+           CAPÍTULO III
+
+DISEÑO METODOLÓGICO DE INVESTIGACIÓN.
+
+
+
+
+                                        64
+3.1. Tipo y diseño de Investigación.
+
+
+
+3.1.1. Tipo de Investigación.
+
+
+
+     El tipo de estudio que se realizó en la investigación es Analítico de carácter
+
+aplicativo.
+
+
+
+Analítico: Porque se realizó un estudio sobre la relación de dos variables que
+
+permite el sujeto de estudio.
+
+
+
+Variable Independiente: Sistema Web.
+
+Variable Dependiente: Gestión de la Información.
+
+
+
+Aplicativo: porque se implementó el sistema web para la empresa HOLATRANS
+
+S.R.L. de la ciudad de Juliaca.
+
+
+
+3.1.2. Diseño de Investigación.
+
+
+
+     Es Cuasi experimental, porque a través de la manipulación de la variable
+
+Independiente “sistema web”, trata de investigar la incidencia en la variable
+
+dependiente “gestión de la información”. Es Cuasi – Experimental puesto que
+
+según ( (Fernandez, 2010) & (Baptista, 2010) este tipo de estudios es una
+
+aproximación a los estudios experimentales con la única condición de que los
+
+entes de estudio no son aleatorios al momento de establecer la muestra, sino
+
+que los entes investigados ya están allí de manera preestablecida, así diremos
+
+
+                                                                                65
+que en el área de control de encomiendas y choferes de la empresa
+
+HOLATRANS S.R.L., ya es una ente de investigación escogido.
+
+
+
+La representación gráfica es la siguiente:
+
+
+
+GE: O1- - - - - - - X - - - - - - - - - O2
+
+Donde:
+
+GE      : Grupo experimental conformado por el área de control de la empresa
+
+         HOLATRANS S.R.L.
+
+X       : Tratamiento con el Sistema Web.
+
+O1      : Prueba antes del experimento.
+
+O2      : Prueba después del experimento.
+
+
+
+      Este diseño con grupo experimental permitirá obtener resultados
+
+satisfactorios, es decir que el Sistema Web será un factor importante para el
+
+desarrollo de la gestión de la información.
+
+
+
+3.2. Población y Muestra de Investigación.
+
+
+
+3.2.1. Población.
+
+
+
+      La población considerada para el estudio está conformada por todos los
+
+integrantes del área de control de encomiendas y choferes de la empresa
+
+HOLATRANS S.R.L. con sus respectivas sucursales.
+
+
+
+
+                                                                               66
+3.2.2. Muestra.
+
+
+
+     La muestra estará constituida por las personas existentes en el área de
+
+control de encomiendas y choferes de la empresa HOLATRANS S.R.L., que
+
+tienen que estar involucrados en el uso y alcances del sistema, los cuales son
+
+29 personas para nuestra muestra se ha escogido bajo un muestreo de carácter
+
+no probabilístico por conveniencia, así nuestra muestra queda conformado por:
+
+
+
+  USUARIOS                                MUESTRA
+
+
+  Personas y/o usuarios                   29
+
+
+  TOTAL                                   29
+
+                                Tabla Nº 1: Muestra
+
+
+
+
+3.3. Ubicación y Descripción de la Población.
+
+
+
+     La empresa HOLATRANS S.R.L. cuenta con diversas personas que
+
+laboran en dicha entidad lo cual hace que entidades (ajenos a la empresa)
+
+formen parte de HOLATRANS S.R.L. y, éste el motivo de la apertura de nuevas
+
+sucursales en las ubicaciones en Puno, Arequipa y próximo con la apertura en
+
+la Ciudad de Cusco. Requiriendo más personal para los puestos a ocupar como
+
+personal administrativo, administradores, etc., para el muestreo se tomaron en
+
+cuenta todos aquellos que están involucrados directamente con el sistema web.
+
+
+
+
+                                                                            67
+3.4. Material Experimental.
+
+
+
+     El estudio de campo en esta tesis se requirió el apoyo y la colaboración de
+
+muchas personas que laboran en la empresa HOLATRANS S.R.L.,
+
+considerando los siguientes recursos:
+
+
+
+a) Recursos humanos.
+
+          Recolección de información: ejecutor de tesis
+
+          Desarrollo del Sistema de Información: ejecutor de tesis.
+
+b) Recursos materiales.
+
+          Fotocopias.
+
+          Útiles de escritorio
+
+c) Recursos técnicos.
+
+          Movilidad
+
+          Hardware
+
+            Computadora
+
+            Servidor
+
+            Impresora
+
+            USB
+
+          Software
+
+            MySQL
+
+            Dreamweaver
+
+            Windows 7 ultimate
+
+            Microsoft Office 2013
+
+            Macromedia Flash CS5
+
+
+                                                                             68
+3.5. Técnicas e Instrumentos para Recolectar Información.
+
+3.5.1. Técnicas para Recolectar la Información.
+
+Las técnicas que se utilizaron fue:
+
+
+
+Encuesta: Es un conjunto de cuestiones normalizadas dirigidas a una muestra
+
+representativa de población o instituciones, con el fin de conocer estados de
+
+opinión o hechos específicos. El tipo de preguntas que se utilizarán son
+
+Preguntas de respuesta múltiple. Brindan una serie de opciones al entrevistado.
+
+
+
+Entrevista: Se utilizará con los miembros que estén involucrados en el sistema,
+
+debido a que la población es pequeña y eso permitirá realizar una investigación
+
+más completa y directa.
+
+
+
+Observación: Consiste en observar a las personas cuando efectúan su trabajo.
+
+Como técnica de investigación, tiene amplia aceptación científica. El propósito
+
+de la observación es múltiple: permite determinar que se está haciendo, como
+
+se está haciendo, quien lo hace, cuando se lleva a cabo, cuánto tiempo toma,
+
+dónde se hace y por qué se hace. Este elemento ayudará a comprender puntos
+
+elementales en la investigación.
+
+
+
+3.5.2. Instrumento para Recolectar la Información.
+
+
+
+Cuestionario.
+
+    Se realizó un formato dirigido a todos los involucrados con el sistema web,
+
+que contenía 13 interrogantes en las que se hizo una mezcla de preguntas
+
+
+                                                                             69
+dicotómicas y preguntas de respuesta con escala ordinal. Y su objetivo es
+
+conocer la opinión sobre la herramienta que se brindó.
+
+
+
+3.6. Técnicas para el Procesamiento, Análisis y Plan de tratamiento de
+
+    Datos.
+
+Las técnicas para el procesamiento, análisis y plan de tratamientos de datos se
+
+utilizaron:
+
+     Prueba CHI – CUADRADA
+
+     Tablas (cuadro de datos)
+
+     Gráfico en forma circular porcentual
+
+     Análisis de interpretación.
+
+
+
+3.7. Procedimiento del Experimento.
+
+Durante la realización del experimento se procedió a:
+
+   Identificar la necesidad de la empresa
+
+     Observar en el entorno, para revisar cómo se trabaja y con los nuevos
+
+       servicios tecnológicos
+
+   Escoger estrategias:
+
+     En este punto se procedió a elegir metodología ágil (DSDM).
+
+   La recolección de datos mediante una encuesta se ha realizado durante 2
+
+    días en diferentes lugares, como oficina de atención y taller de mecánica de
+
+    dicha empresa, y así obteniéndose un resultado para luego analizarlo
+
+    rigurosamente.
+
+   Durante la creación del sistema web se hizo varias pruebas dependiendo a
+
+    y varias correcciones con una inspección previa del cliente.
+
+
+                                                                             70
+3.8. Plan de tratamiento de los datos.
+
+Durante la encuesta realizada se obtuvo los siguientes datos:
+
+
+                   1       2       3        4       5       6       7       8       9       10       11       12       13
+         P1    a       a       b       b        a       b       c       a       a       c        a        c        a
+         P2    a       b       b       b        a       b       c       a       b       a        b        c        b
+         P3    b       a       a       b        a       b       c       a       a       c        b        c        a
+         P4    a       b       a       c        a       c       c       c       b       c        b        c        b
+         P5    b       a       a       b        a       c       c       b       a       b        b        c        a
+         P6    c       a       a       c        a       c       c       b       b       a        b        c        b
+         P7    a       b       a       a        a       b       c       a       a       b        a        c        a
+         P8    b       a       a       b        a       c       b       a       b       c        a        b        a
+         P9    a       c       a       c        a       b       a       a       a       b        a        a        b
+         P10   b       a       a       b        b       b       b       b       b       a        a        b        b
+         P11   b       b       b       c        a       b       a       a       b       a        b        c        a
+         P12   a       a       b       b        a       b       b       b       a       b        a        a        a
+         P13   a       a       b       b        a       c       c       a       a       b        a        b        a
+         P14   a       b       a       b        a       c       c       b       a       b        a        b        b
+         P15   b       a       b       b        b       b       c       a       b       c        a        b        c
+         P16   a       a       a       b        a       c       c       a       b       b        b        c        b
+         P17   b       a       b       c        a       c       c       a       c       c        c        c        b
+         P18   b       a       a       c        a       a       c       b       a       c        b        c        b
+         P19   b       c       b       a        a       a       c       a       b       c        a        c        b
+         P20   b       a       a       a        b       b       b       a       c       c        a        c        b
+         P21   a       a       a       b        a       c       c       a       b       c        a        b        b
+         P22   b       c       a       b        a       b       c       a       b       c        b        c        b
+         P23   c       b       a       b        a       c       b       a       a       c        a        c        b
+         P24   b       a       c       a        a       b       c       a       a       c        b        c        b
+         P25   b       a       b       a        b       a       c       a       a       c        c        a        a
+         P26   a       a       a       b        a       b       b       a       b       c        c        c        b
+         P27   a       a       b       b        a       c       c       b       a       b        b        c        a
+         P28   a       a       a       a        b       c       b       b       b       b        a        c        b
+         P29   b       a       a       c        c       a       a       a       b       b        a        c        b
+                                           Tabla Nº 2: Respuestas de encuesta
+
+                           FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+Donde:
+
+P1, P2, P3, … , P28, P29 son personas encuestadas que laboran en la empresa
+
+HOLATRANS S.R.L.
+
+
+
+                                                                                                                            71
+La cantidad de preguntas es 13 con alternativas de:
+
+   a) Alto
+
+   b) Medio
+
+   c) bajo
+
+Teniendo el siguiente cuadro con los resultados:
+
+
+                                Nº    A     B      C    Total
+                                 1    13    14      2     29
+                                 2    20      6     3     29
+                                 3    18    10      1     29
+                                 4     6    16      7     29
+                                 5    23      5     1     29
+                                 6     4    13     12     29
+                                 7     3      7    19     29
+                                 8    20      8     1     29
+                                 9    13    14      2     29
+                                10     4    10     15     29
+                                11    15    11      3     29
+                                12     3      6    20     29
+                                13    10    18      1     29
+                               Tabla Nº 3: Resultado de encuesta
+
+                    FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+3.9. Diseño estadístico para la prueba de hipótesis o prueba de hipótesis.
+
+
+
+Prueba de Hipótesis CHI - CUADRADO.
+
+
+
+
+                  x  es el nombre de la prueba de hipótesis que determina si
+                    2
+Chi – Cuadrado
+
+dos variables están relacionadas o no.
+
+
+
+
+                                                                             72
+Pasos:
+
+
+
+   Realizar una conjetura.
+
+   Escribir la hipótesis nula y la alternativa.
+
+                                      2
+   Calcular el valor de         x        c a lc
+                                                   .
+
+   Determinar el valor de p y el grado de libertad.
+
+   Obtener el valor crítico.
+
+   Realizar una comparación entre el chi – cuadrado calculado y el valor crítico.
+
+   Interpretar la comparación.
+
+
+
+                                               Tabla de contingencia
+
+
+                                                   Gestión de la Información
+
+
+                                                   IxJ   Bajo Medio              Alto
+
+                                                                             (8-10)
+                        Sistema Web
+
+
+
+
+                                                   2x3   (0-3)     (4-7)
+
+
+                                                   Si     1          2           14
+
+
+                                                   No     7          3            2
+
+
+                                             Tabla Nº 4: Tabla de Contingencia
+
+                     FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+Hipótesis Nula: H 0
+
+Significa que las variables en estudio son independientes uno del otro, quiere
+
+decir que la Gestión de la Información no depende del Sistema Web.
+
+
+
+
+                                                                                        73
+Hipótesis Alternativa: H a
+
+Significa que las variables en estudio son dependientes, quiere decir que la
+
+Gestión de la Información depende del Sistema de Web.
+
+Analizando la Tabla de Contingencia.
+
+
+
+Frecuencia Observada ( fo ) .
+
+Frecuencias Marginales de Fila:
+
+f 1 .  (1  2  1 4 )  1 7
+
+
+ f 2.  ( 7  3  2 )  1 2
+
+
+
+
+Frecuencias Marginales de Columna:
+
+f .1  (1  7 )  8
+
+
+f .2  ( 2  3 )  5
+
+
+f .2  (1 4  2 )  1 6
+
+
+
+
+                                              Gestión de la Información
+
+
+                                       IxJ      Bajo Medio            Alto
+                                                                                  Total
+                                       2x3      (0-3)      (4-7)     (8-10)
+                       Sistema Web
+
+
+
+
+                                        Si        1          2         14          17
+
+
+                                       No          7         3          2          12
+
+
+                                      Total       8          5         16          29
+
+                                         Tabla Nº 5: Tabla Frecuencia Observada
+
+                                 FUENTE: Personas encuestadas que laboran en la empresa
+
+
+                                                                                          74
+Frecuencia Esperada ( fe ) .
+
+       fe ij  (to ta l fila i  é s im a ) (to ta l c o lu m n a j  é s im a ) / T o ta l G lo b a l
+
+
+                                             Fórmula Nº 1: Frecuencia Esperada
+
+
+                                               Gestión de la Información
+
+
+                                       IxJ       Bajo Medio            Alto
+                                                                                  Total
+                                       2x3       (0-3)      (4-7)     (8-10)
+                       Sistema Web
+
+
+
+
+                                        Si          1                              17
+
+
+                                       No                                2         12
+
+
+                                      Total         8                   16         29
+
+
+
+
+fo 1 1  1        fe 1 1  (1 7  8 ) / 2 9  4 .6 9
+
+
+fo 2 3  2        fe 2 3  (1 2  1 6 ) / 2 9  6 .6 2
+
+
+
+
+Tabla de Frecuencia Esperada
+
+                                               Gestión de la Información
+
+
+                                       IxJ       Bajo Medio            Alto
+                                                                                  Total
+                                       2x3       (0-3)      (4-7)     (8-10)
+                       Sistema Web
+
+
+
+
+                                        Si        4.69      2.93       9.38        17
+
+
+                                       No         3.31      2.07       6.62        12
+
+
+                                      Total         8         5         16         29
+
+                                          Tabla Nº 6: Tabla Frecuencia Esperada
+
+                                 FUENTE: Personas encuestadas que laboran en la empresa
+
+                                                                                                         75
+Calculando CHI – CUADRADO.
+
+
+
+Para obtener el valor de Chi- Cuadrado se tiene la fórmula:
+
+
+
+
+                                                                       fo ij  fe ij 
+                                                                                          2
+
+
+
+                                                              
+                                          2
+                                    x         c a lc
+                                                               ij            fe ij
+
+                                         Fórmula Nº 2: Chi - Cuadrado
+
+
+Donde:
+
+fo ij = frecuencia observada para la ij –ésima casilla.
+
+
+fe ij =frecuencia esperada para la ij – ésima casilla.
+
+
+
+
+                                                                sigue una distribución Chi – Cuadrado con
+                                              2
+Si la hipótesis nula es cierta, x                 c a lc
+
+
+
+
+(I-1)(J-1) grados de libertad.
+
+
+
+Rechazaremos la H 0 cuando:
+
+                                2                                               2
+                            x           experimental > x crítico
+
+
+
+
+Donde:
+
+
+
+    2                               2
+x       experimental   :        x       c a lc
+
+
+
+    2
+x crítico              :    Valor de la Tabla de Chi - Cuadrado
+
+
+
+
+                                                                                                      76
+Cálculo del valor experimental.
+
+
+
+
+                              fo ij  fe ij 
+                                                 2
+
+
+
+                    
+    2
+x       c a lc
+                      ij            fe ij
+
+
+
+
+Aplicando la fórmula el resultado sería:
+
+
+
+                     (1  4 .6 9 )                       ( 2  6 .6 2 )
+                                       2                                  2
+
+                                                                            1 3 .2 3
+    2
+x       c a lc
+                           4 .6 9                            6 .6 2
+
+
+
+
+El grado de libertad se obtiene:
+
+
+
+v = (Cantidad de filas-1) x (Cantidad de columnas-1)
+
+
+
+Entonces:
+
+Cantidad de filas = 2
+
+Cantidad de columnas = 3
+
+
+
+Reemplazando:
+
+
+
+v = (2 - 1) x (3 - 1)
+
+v=1x2
+
+v=2
+
+
+
+
+                                                                                           77
+Por lo tanto el grado de libertad es 2.
+
+El nivel de significancia 1% =>   0 .0 1
+
+Ahora nos ubicamos en la Tabla Chi-Cuadrado.
+
+
+
+
+                                      9.210
+                                      0
+
+
+
+
+                                      Figura Nº 14: Tabla Chi – Cuadrado
+
+                                       FUENTE: Tabla CHI DUADRADO
+
+
+
+
+                      9 .2 1 0
+    2
+x       0 .0 1 , 2
+
+
+
+
+Lectura: el Valor Crítico con un nivel de significancia de 1%, con grado de libertad
+
+2 es 9.210.
+
+
+
+               2                  2
+Si x experimental > x crítico entonces
+
+Rechazamos la H 0 y se acepta la H a
+
+                                                                                 78
+13.23 > 9.210
+
+Por lo tanto:
+
+
+
+La Gestión de la Información depende del Sistema Web.
+
+Gráficamente:
+
+
+
+
+                         Figura Nº 15: Distribución Chi – Cuadrado
+
+                               FUENTE: Elaboración propia
+
+
+
+
+                                                                       H0
+                      H0
+
+
+                                                           9 .2 1 0
+                                         2
+                                     x       0 .0 1 , 2
+
+
+
+
+                    Figura Nº 16: Distribución Chi - Cuadrado Respuesta
+
+                               FUENTE: Elaboración propia
+
+
+                                                                            79
+              CAPÍTULO IV
+
+ANÁLISIS E INTERPRETACIÓN DE RESULTADOS DE LA
+
+               INVESTIGACIÓN.
+
+
+
+
+                                                80
+    El análisis de la información recolectada se indica mediante el empleo de
+
+tablas, gráficas porcentuales y un breve análisis para las preguntas de opinión
+
+realizadas a través de la encuesta.
+
+
+
+Pregunta 1. ¿El diseño de interfaz es amigable del Sistema Web para la Gestión
+
+de la Información?
+
+                         Alternativa Frecuencia Porcentaje
+
+                         Alto                         13               45
+
+                         Medio                        14               48
+
+                         Bajo                          2                7
+
+                         Totales                      29            100
+
+                                Tabla Nº 7: Respuestas Pregunta 1
+
+                     FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                      PREGUNTA 1
+                                                 7%
+
+                                                            45%
+                                    48%
+
+
+
+
+                                          Alto    Medio     Bajo
+
+
+
+                            Figura Nº 17: Respuestas en % Pregunta 1
+
+                                       FUENTE: Tabla Nº 7
+
+
+
+Análisis. De todos los usuarios encuestados un 48% opinan que el diseño de
+
+interfaz es amigable con un nivel de Medio, un 45% opinan que es muy buen
+
+
+                                                                              81
+diseño y amigable el sistema web y el 7% opinan que es malo el diseño de
+
+interfaz.
+
+
+
+Pregunta 2. ¿En el uso del Sistema Web previene el ingreso de datos erróneos
+
+a la base de datos?
+
+
+
+
+                          Alternativa Frecuencia Porcentaje
+
+                          Alto                       20                 69
+
+                          Medio                          6              21
+
+                          Bajo                           3              10
+
+                          Totales                    29              100
+
+                                 Tabla Nº 8: Respuestas Pregunta 2
+
+                      FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                        PREGUNTA 2
+                                           10%
+                                  21%
+
+                                                              69%
+
+
+
+
+                                        Alto     Medio       Bajo
+
+
+
+                             Figura Nº 18: Respuestas en % Pregunta 2
+
+                                        FUENTE: Tabla Nº 8
+
+
+
+Análisis. Del total de encuestados un 69% manifestó que el uso del sistema web
+
+previene el ingreso de datos erróneos a la base de datos es alto, el 21%
+
+
+
+                                                                               82
+manifiestan que esta e un nivel medio de prevención y son el 10% que opinan
+
+que la prevención es bajo.
+
+Pregunta 3. ¿Es de fácil uso en el momento de la exploración del Sistema Web?
+
+                       Alternativa Frecuencia Porcentaje
+
+                       Alto                      18                   62
+
+                       Medio                     10                   35
+
+                       Bajo                          1                 3
+
+                       Totales                   29                   100
+
+                              Tabla Nº 9: Respuestas Pregunta 3
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                     PREGUNTA 3
+
+                                            3%
+                             35%
+
+                                                                62%
+
+
+
+
+                                     Alto    Medio       Bajo
+
+
+
+                          Figura Nº 19: Respuestas en % Pregunta 3
+
+                                     FUENTE: Tabla Nº 9
+
+
+
+Análisis. De todo el personal que se encuestó el 62% considera que es de fácil
+
+uso de la exploración del sistema web, el 35% de los encuestados consideran
+
+que el uso de la exploración del sistema web es medio y el resto que es el 3%
+
+consideran que es bajo.
+
+
+
+
+                                                                            83
+Pregunta 4. ¿Cuál es el grado de satisfacción de los requerimientos del Sistema
+
+Web?
+
+
+
+
+                       Alternativa Frecuencia Porcentaje
+
+                       Alto                          6               21
+
+                       Medio                       16                55
+
+                       Bajo                          7               24
+
+                       Totales                     29              100
+
+                              Tabla Nº 10: Respuestas Pregunta 4
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                     PREGUNTA 4
+
+                                  24%                21%
+
+
+
+
+                                             55%
+
+
+
+
+                                     Alto    Medio       Bajo
+
+
+
+                          Figura Nº 20: Respuestas en % Pregunta 4
+
+                                     FUENTE: Tabla Nº 10
+
+
+
+
+Análisis.   De todos los encuestados el 55% considero que el grado de
+
+satisfacción de los requerimientos del sistema web es medio, el 24% consideró
+
+que el grado de satisfacción de los requerimientos del sistema web es bajo y el
+
+21% opinan que es alto.
+
+
+
+                                                                            84
+Pregunta 5. ¿El diseño es compatible con diferentes navegadores como Google
+
+Chrome, FireFox, y otros?
+
+                       Alternativa Frecuencia Porcentaje
+
+                       Alto                       23                 79
+
+                       Medio                         5               17
+
+                       Bajo                          1                3
+
+                       Totales                    29               100
+
+                              Tabla Nº 11: Respuestas Pregunta 5
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                     PREGUNTA 5
+
+                                            4%
+                                  17%
+
+
+
+                                                         79%
+
+
+
+
+                                     Alto    Medio       Bajo
+
+
+
+                          Figura Nº 21: Respuestas en % Pregunta 5
+
+                                     FUENTE: Tabla Nº 11
+
+
+
+
+Análisis. Del 100% de encuestados el 79% considera que el diseño
+
+compatibiliza con diferentes navegadores como google, Firefox y otros es alto,
+
+el 17% opinan que es medio sin embargo el 3% consideran que el nivel es bajo.
+
+
+
+
+                                                                            85
+Pregunta 6. ¿Los buscadores como Google, Altavista y otros, encuentran el
+
+Sistema Web?
+
+                        Alternativa Frecuencia Porcentaje
+
+                        Alto                          4             14
+
+                        Medio                       13              45
+
+                        Bajo                        12              41
+
+                        Totales                     29              100
+
+                               Tabla Nº 12: Respuestas Pregunta 6
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                      PREGUNTA 6
+
+                                                  14%
+                           41%
+
+
+                                                             45%
+
+
+
+
+                                      Alto    Medio       Bajo
+
+
+
+                          Figura Nº 22: Respuestas en % Pregunta 6
+
+                                      FUENTE: Tabla Nº 12
+
+
+
+Análisis. De la 29 personas encuestados el 45% confirmo que los buscadores
+
+como google, altavista encuentran el sistema web es medio, sin en cambio el
+
+41% consideró que es bajo en cuanto el 14% opinan que los buscadores
+
+encuentran al sistema web es alto.
+
+
+
+
+                                                                            86
+Pregunta 7. ¿Cuánto tiempo estima usted al momento de realizar las consultas
+
+sin el Sistema Web?
+
+                  Alternativa                Frecuencia Porcentaje
+
+                  Menos de 5 min.                           3          10
+
+                  10 min.                                   7          24
+
+                  15 a mas                              19             66
+
+                  Totales                               29             100
+
+                              Tabla Nº 13: Respuestas Pregunta 7
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                      PREGUNTA 7
+
+                                                10%
+                                                                24%
+
+                            66%
+
+
+
+
+                                      Alto    Medio     Bajo
+
+
+
+                            Figura Nº 23: Respuestas en % Pregunta 7
+
+                                      FUENTE: Tabla Nº 13
+
+
+
+
+Análisis. Se han considerado que el 66% de la personas encuestados afirmó
+
+que el tiempo estimado al momento de realizar consultar sin el sistema web es
+
+bajo, el 24 dice que casi siempre el tiempo de espera es medio mientras que el
+
+
+
+
+                                                                             87
+10% opinan que el tiempo estimado al momento de realizar consultar sin el
+
+sistema es alto.
+
+Pregunta 8. ¿Cuánto tiempo estima usted al momento de realizar las consultas
+
+con el Sistema Web?
+
+                        Alternativa Frecuencia Porcentaje
+
+                        Alto                        20                 69
+
+                        Medio                         8                28
+
+                        Bajo                          1                 3
+
+                        Totales                     29                 100
+
+                               Tabla Nº 14: Respuestas Pregunta 8
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                      PREGUNTA 8
+
+                                             3%
+                               28%
+
+
+                                                                 69%
+
+
+
+
+                                      Alto    Medio       Bajo
+
+
+
+                          Figura Nº 24: Respuestas en % Pregunta 8
+
+                                      FUENTE: Tabla Nº 14
+
+
+
+Análisis. Se han considerado que el 69% de la personas encuestados afirmó
+
+que el tiempo estimado al momento de realizar consultar con el sistema web es
+
+alto, el 28% dice que casi siempre el tiempo de espera es medio mientras que
+
+
+
+
+                                                                             88
+el 3% opinan que el tiempo estimado al momento de realizar consultar con el
+
+sistema es alto.
+
+
+
+
+Pregunta 9. ¿Con que frecuencia accede a la información o publicaciones con
+
+el Sistema Web?
+
+                        Alternativa Frecuencia Porcentaje
+
+                        Diario                    13              45
+
+                        Semanal                   14              48
+
+                        Mensual                     2                7
+
+                        Totales                   29              100
+
+                             Tabla Nº 15: Respuestas Pregunta 9
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                    PREGUNTA 9
+                                           7%
+                                                          45%
+                             48%
+
+
+
+
+                                    Alto    Medio       Bajo
+
+
+
+                          Figura Nº 25: Respuestas en % Pregunta 9
+
+                                    FUENTE: Tabla Nº 15
+
+
+
+
+Análisis. Del 100% de los encuestados el 48% acceden con frecuencia a la
+
+información o publicación con el sistema web es diario, el 45% con el sistema
+
+
+
+                                                                            89
+web que acceden a la información con frecuencia es semanal, mientras que el
+
+7% es mensual.
+
+
+
+
+Pregunta 10. ¿Con que frecuencia accede a la información o publicaciones sin
+
+el Sistema Web?
+
+                        Alternativa Frecuencia Porcentaje
+
+                        Diario                       4            14
+
+                        Semanal                   10              34
+
+                        Mensual                   15              52
+
+                        Totales                   29              100
+
+                            Tabla Nº 16: Respuestas Pregunta 10
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                    PREGUNTA 10
+                                               14%
+
+                            52%
+                                                            34%
+
+
+
+
+                                     Alto   Medio        Bajo
+
+
+
+                          Figura Nº 26: Respuestas en % Pregunta 10
+
+                                    FUENTE: Tabla Nº 16
+
+
+
+Análisis. Del 100% de los encuestados el 52% acceden con frecuencia a la
+
+información o publicación sin el sistema web es mensual, el 34% sin el sistema
+
+web que acceden a la información con frecuencia es semanal, mientras que el
+
+14% es diario.
+
+                                                                            90
+Pregunta 11. ¿En qué nivel se encuentra la presentación de información
+
+solicitada con el sistema Web?
+
+
+
+
+                        Alternativa Frecuencia Porcentaje
+
+                        Alto                        15                  52
+
+                        Medio                       11                  38
+
+                        Bajo                           3                10
+
+                        Totales                     29               100
+
+                               Tabla Nº 17: Respuestas Pregunta 11
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                      PREGUNTA 11
+
+                                         10%
+
+                                                                  52%
+                         38%
+
+
+
+
+                                       Alto    Medio       Bajo
+
+
+
+                          Figura Nº 27: Respuestas en % Pregunta 11
+
+                                      FUENTE: Tabla Nº 17
+
+
+
+
+Análisis. De las 29 personas que es el 100%, el 52% consideran que la
+
+presentación de la información con el sistema web está en un nivel alto, el 38%
+
+confirmo que la presentación de la información con el sistema está en un nivel
+
+medio sin embargo el 10% consideraron que está en un nivel bajo.
+
+                                                                             91
+Pregunta 12. ¿En qué nivel se encuentra la presentación de información
+
+solicitada sin el sistema Web?
+
+                        Alternativa Frecuencia Porcentaje
+
+                        Alto                           3                10
+
+                        Medio                          6                21
+
+                        Bajo                        20                  69
+
+                        Totales                     29                  100
+
+                               Tabla Nº 18: Respuestas Pregunta 12
+
+                   FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                      PREGUNTA 12
+
+                                                 10%
+                                                                  21%
+
+                           69%
+
+
+
+
+                                       Alto   Medio        Bajo
+
+
+
+                          Figura Nº 28: Respuestas en % Pregunta 12
+
+                                      FUENTE: Tabla Nº 18
+
+
+
+Análisis. De las 29 personas que es el 100%, el 69% consideran que la
+
+presentación de la información sin el sistema web está en un nivel bajo, el 21%
+
+confirmo que la presentación de la información sin el sistema está en un nivel
+
+medio sin embargo el 10% consideraron que está en un nivel alto.
+
+
+
+
+                                                                              92
+Pregunta 13. ¿En qué nivel calificaría el desempeño y la funcionalidad del
+
+sistema Web?
+
+                       Alternativa Frecuencia Porcentaje
+
+                       Alto                         10              35
+
+                       Medio                        18              62
+
+                       Bajo                          1               3
+
+                       Totales                      29              100
+
+                              Tabla Nº 19: Respuestas Pregunta 13
+
+                  FUENTE: Personas encuestadas que laboran en la empresa
+
+
+
+
+                                       PREGUNTA 13
+
+                                               3%
+                                                             35%
+
+
+                               62%
+
+
+
+
+                                        Alto    Medio      Bajo
+
+
+
+                         Figura Nº 29: Respuestas en % Pregunta 13
+
+                                     FUENTE: Tabla Nº 19
+
+
+
+
+   Análisis. Del 100% de los encuestados el 62% consideró que el desempeño
+
+   y la funcionalidad del sistema web esta e un nivel medio, el 35% afirmó que
+
+   el desempeño y la funcionalidad del sistema web está en un nivel alto, y el
+
+   3% opinaron que está en un nivel bajo.
+
+
+
+
+                                                                           93
+4.1. Análisis y diseño del Sistema Web.
+
+
+
+4.1.1. Análisis y especificaciones de requerimientos del sistema.
+
+
+
+4.1.1.1.      Introducción.
+
+
+
+El análisis y especificación de requerimientos de software tiene como propósito
+
+general mostrar a los participantes del proyecto a quienes de denominaran
+
+stakeholder   del sistema web, una vista del diseño e implementación a la
+
+estructura de alto nivel del sistema y cómo éste resolvió la problemática dentro
+
+del área de control de encomiendas y choferes, por la cual se tomo la decisión
+
+de llevar a cabo el desarrollo del sistema web.
+
+
+
+4.1.2. Descripción de Stakeholders (participantes del proyecto) y usuarios
+
+
+
+El sistema manejara tres usuarios, a continuación se le describe:
+
+
+
+Administrador: tendrá acceso total al sistema y se encarga de:
+
+      Verificar en su totalidad el sistema.
+
+      Verificar el transcurso del transporte de un lugar a otro.
+
+
+
+Empleado: Usuario con acceso restringido.
+
+
+
+Usuario: realizar operaciones como:
+
+
+
+
+                                                                             94
+      Ingreso, modificación, eliminación de registros de la base de datos en
+
+       usuarios, personal, unidad de transporte, rutas y otras que están ligadas
+
+       al sistema.
+
+
+
+4.1.3. Entorno de usuario.
+
+
+
+El sistema trabaja en dos tipos de entornos gráficos definidos a continuación y
+
+los cuales demandan ciertas características mínimas para ser ejecutados.
+
+
+
+4.1.3.1.     Servidor Web.
+
+
+
+Software:
+
+
+
+   Sistema Operativo: Microsoft Windows XP service pack 2.
+
+   Base de Datos: MYSQL 4.1
+
+
+
+Hardware:
+
+
+
+   Procesador: Intel Xenon doble núcleo, 4mb cache, 2.66 MHZ
+
+   Memoria RAM: DDR2 2BG.
+
+   Disco duro : 320 BG.
+
+
+
+
+                                                                             95
+4.1.3.2.      Servidor Cliente.
+
+
+
+    Sistema operativo: cualquiera que disponga IE 7 / Mozilla 2 / Google
+
+    Chrome.
+
+
+
+4.1.4. Descripción Global del Producto.
+
+
+
+4.1.4.1.      Perspectiva del producto.
+
+
+
+El sistema web maneja un nivel de seguridad alto basado en permisos
+
+personalizados para cada uno de los tipos de usuarios del sistema.
+
+
+
+Para el análisis y diseño del sistema web se tiene en cuenta los procesos más
+
+importantes, los cuales se limitaron en distintas reuniones de la empresa.
+
+
+
+4.1.4.2.      Resumen de característica.
+
+
+
+A continuación de muestra un listado de los beneficios que obtendrá el usuario
+
+(cliente) a partir del producto.
+
+
+
+    Beneficio       del    Usuario Características que lo apoyan
+
+    (Cliente)
+
+     Tolerancia a fallos alta.            Confiabilidad.
+
+
+    Podrá tener consolidada la Confiabilidad.
+
+    información     en    un       solo
+
+
+                                                                             96
+    repositorio de datos mediante
+
+    información centralizada e
+
+    integridad de datos.
+
+    Se sentirá seguro de la Funcionalidad.
+
+    confiabilidad de los datos que
+
+    maneja el sistema y el acceso
+
+    a los mismos.
+
+    Tendrá       un    conjunto      de Facilidad de uso.
+
+    interfaces        amigables        y
+
+    consistentes en todos los
+
+    módulos del sistema.
+
+    Documentación         en      línea Facilidad de uso.
+
+    completa al alcance
+
+    Tendrá       un     tiempo       de Rendimiento.
+
+    respuesta bajo y un tiempo de
+
+    recuperación de información
+
+    alta
+
+                            Tabla Nº 20: Beneficio que tiene el Usuario
+
+                                   FUENTE: Elaboración propia
+
+
+
+
+4.1.4.3.     Arquitectura de la aplicación.
+
+
+
+Para el desarrollo de la arquitectura de la aplicación se planteó usar los modelos
+
+de vista física y lógica, a continuación se describe cada uno de estos.
+
+
+
+
+                                                                               97
+4.1.4.4.       Modelo vista Física.
+
+
+
+La vista ilustra la distribución del procesamiento entre los distintos equipos que
+
+conforman la solución, incluyendo los servicios y procesos de base. Los
+
+elementos definidos en la vista lógica se mapean a componentes de software
+
+(servicios, procesos, etc) o de hardware que definen más precisamente como
+
+se ejecuta la solución.
+
+
+
+
+                                    Figura Nº 30: Modelo Vista Fisica
+
+     FUENTE: Proyecto : Sistema de Información para el control de Pasajeros de “PULLMAN CARCHI 2010”
+
+
+
+
+4.1.4.5.       Modelo Vista Lógica.
+
+
+
+Esta es una parte vital del desarrollo de sistemas webs, debido que aquí se
+
+define su estructura, además de esto dependerá su escabilidad, disponibilidad,
+
+
+
+
+                                                                                                       98
+seguridad, integración entre otros. Para esto se ha generalizado la división de la
+
+aplicación en tres capas lo cual brinda las siguientes ventajas:
+
+
+
+   Centralización de los aspectos de seguridad y transaccionalidad, que sería
+
+    responsabilidad del modelo.
+
+
+
+   No replicación de lógica de negocio en los clientes, esto permite que las
+
+    modificaciones y mejoras sean aprovechadas por el conjunto de los
+
+    usuarios, reduciendo el costo de mantenimiento.
+
+
+
+
+   Mayor sencillez de los clientes.
+
+
+
+
+A continuación se ilustra el modelo de tres capas:
+
+
+
+
+                                    Figura Nº 31: Modelos Vista Lógica
+
+     FUENTE: Proyecto : Sistema de Información para el control de Pasajeros de “PULLMAN CARCHI 2010”
+
+
+
+
+                                                                                                       99
+4.1.5. Funciones.
+
+
+
+4.1.5.1.      Seguridad.
+
+
+
+   Este es el modulo transversal del sistema cuya función es la de administrar
+
+una lista de usuarios con sus respectivos perfiles para determinar los accesos a
+
+distintas opciones del mismo.
+
+
+
+      El sistema requiere almacenar y administrar una lista de cuentas de
+
+       usuarios con sus respectivos perfiles para determinar los accesos a
+
+       distintas opciones del mismo.
+
+
+
+      La administración de usuarios consta de agregación de usuarios.
+
+
+
+      El sistema debe permitir la autenticación de usuarios para el ingreso y
+
+       utilización del mismo.
+
+
+
+      El sistema debe asegurar el acceso y la validación del usuario mediante
+
+       usuario y contraseña
+
+
+
+      El sistema debe ser capaz de asignar las opciones del sistema a los
+
+       perfiles.
+
+
+
+      La administración de usuarios debe permitir la eliminación lógica de los
+
+       usuarios, es decir que únicamente sea posible desactivarlos para el uso
+
+
+                                                                            100
+      del sistema pero la información permanezcan almacenada en los registros
+
+      de la base de datos.
+
+
+
+4.1.5.2.    Rutas.
+
+
+
+     El sistema requiere almacenar y administrar una lista de rutas.
+
+
+
+     La administración de rutas consta de agregación modificación y
+
+      eliminación.
+
+
+
+     El sistema requiere almacenar y administrar una lista de horarios.
+
+
+
+     La administración de horarios consta en agregación, modificación y
+
+      eliminación.
+
+
+
+     El sistema requiere almacenar y administrar una lista de Unidad de
+
+      Transporte (Bus).
+
+
+
+     La administración de Unidad de Transporte (Bus) consta de agregación,
+
+      eliminación y modificación.
+
+
+
+     El sistema requiere que se asigne un horario y ruta a la unidad de
+
+      transporte (Bus).
+
+
+
+
+                                                                           101
+4.1.5.3.    Encomiendas (Carga).
+
+
+
+     El sistema requiere almacenar y administrar guías de remisión –
+
+      remitente, Boleta de Venta y Factura.
+
+
+
+     El sistema es ser capaz de asignar Unidad de transporte (Bus) en el que
+
+      se va a enviar la encomienda (carga), el horario de envio y la ruta que
+
+      tomará.
+
+
+
+     El sistema es capaz de seleccionar el destinatario y de no ser así es capaz
+
+      de ingresar un nuevo destinatario, de la misma forma para la Guía de
+
+      Remisión – Remitente, Boleta de Venta y Factura.
+
+
+
+
+4.1.5.4.    Restricciones.
+
+
+
+     El sistema debe ser ejecutado en plataforma Web.
+
+
+
+     El sistema tiene una base de datos en MySql.
+
+
+
+4.1.5.5.    Estándares Aplicables.
+
+
+
+     Las Interfaces fue aprobada por los stakeholders. Esto fue realizado
+
+      mediante   la   presentación   de   prototipo   de   interface   generados
+
+      previamente y aprobados antes de empezar la construcción.
+
+
+
+                                                                             102
+4.1.5.6.                    Desempeño.
+
+
+
+        Interfaz gráfica web liviana, es decir que no es muy cargada de controles,
+
+         además que estos no son complicados de aprender y usar para los
+
+         usuarios del sistema.
+
+
+
+        El sistema tiene un tiempo de respuesta rápido al enviar información
+
+         desde las oficinas de la empresa hasta el sistema central.
+
+
+
+
+4.1.6. Diagrama UML.
+
+
+
+4.1.6.1.                    Diagrama Caso de Uso del Sistema.
+
+
+
+
+                            Verifica Unidad de Transporte
+                                       (Salida)                                  Asigna Ruta - Unidad de T rans. -                            Entrega G.R.T .
+                                        (from caso de ...                                  Conductor
+                                                                                                                                                  (from caso de ...
+                                                                                           (from caso de ...
+
+
+      Cliente G.R.R.
+      (from caso de uso)
+
+
+                                          Verifica Peso de carga de Unidad                                              Verificar Conductor (Chofer)
+                                                    de Transporte                                                                                                        Conductor (Chofer)
+                                                                                                                              (from caso de ...
+                                                        (from caso de ...                                                                                                    (from caso de uso)
+
+
+
+            Lleva G.R.R al mostrador                                                  Usuario (Atencion
+                    (from caso de ...                                                    Ventanilla)
+                                                                                         (from caso de ...
+
+                                                                                                                              Mantenimiento Usuario
+                                                                                                                                    (from caso de ...
+
+
+                                                                                                                                                                      Administrador
+                     Atencion Mostrador (Ventanilla)                                                                                                                  (from caso de uso)
+                                                                                           Verificar Destino de Carga
+                                  (from caso de ...
+                                                                                                    (from caso de ...
+
+
+
+
+                                                                                                                               Mantenimiento Conductor (Chofer)
+                                                            Mantenimiento Unidad de
+                                                                Transporte (Bus)                                                             (from caso de ...
+                                                                  (from caso de ...
+
+
+
+
+                                                             Figura Nº 32: Diagrama Caso de Uso del Sistema
+
+                                                                                FUENTE: Elaboración propia
+
+
+
+                                                                                                                                                                                                  103
+4.1.6.2.   Diagrama de Clases del Sistema.
+
+
+
+
+                        Figura Nº 33: Diagrama de Clases
+
+                          FUENTE: Elaboración propia
+
+
+                                                           104
+4.1.6.3.                     Diagrama de Secuencia del Sistema.
+
+
+
+
+                       Verificar Datos
+: Usuario                                      : Cliente        : Ruta                 : Bus                    : Chofer                : Cliente             : Usuario            : Sistema
+
+            Ingresa Datos
+
+
+       Datos Incorrectos
+
+
+                                                                                                Datos Correctos
+
+                             Asignar Nueva Ruta
+
+                                                                         Asignar Bus
+
+                                                                                   Verificar Disponibilidad
+
+
+                                                                                               Asignar Chofer
+
+                                                                                                              Verifica Disponibilidad
+
+
+
+
+              Solicita envio de encomienda
+
+            Pide Datos de Destino y Receptor
+
+        Brinda Datos de Destino y Receptor
+
+                  entrega encomienda
+
+            Pesa y pone precio de encomienda
+
+                   Entrega Acordado
+
+                                                                                   Registrar Envio
+
+                     Recibe Factura
+
+
+                                                                  Envia Encomienda en Bus
+
+                                                                                                                                                              Verifica Llegada de Encomienda
+
+                                                                                                                           Entrega Manifiesto de Encomienda
+
+                                                               Confirma Llegada de Encomienda
+
+
+
+                                                                                                                                        Solicita Recoger Encomienda
+
+                                                                                                                                            Pide datos de Cliente
+
+                                                                                                                                              Proporciona Datos
+
+                                                                                                                                             Entrega Encomienda
+
+
+
+
+                                                       Figura Nº 34 : Diagrama de Secuencias – Cargo
+
+                                                                FUENTE: Elaboración propia
+
+
+
+
+                                                                                                                                                                               105
+4.1.6.4.              Diagrama de Colaboraciones del Sistema.
+
+
+
+                                                                                                           Verificar
+                                                                                                            Datos
+
+
+
+
+                                                                           1: Ingresa Datos
+
+                                                                                                                                3: Datos Correctos
+                                                                                2: Datos Incorrectos
+
+
+                  9: Solicita envio de encomienda
+                      12: entrega encomienda
+                       14: Entrega Acordado
+                                                                                                       15: Registrar Envio
+
+                10: Pide Datos de Destino y Receptor
+   : Cliente   11: Brinda Datos de Destino y Receptor      : Usuario
+               13: Pesa y pone precio de encomienda
+                         16: Recibe Factura
+                                                                                                                                               : Sistema
+
+
+                                                                                      17: Envia Encomienda en Bus
+
+                                                                                                         18: Verifica Llegada de Encomienda
+                                                                20: Confirma Llegada de Encomienda
+
+
+                                                        4: Asignar Nueva Ruta
+
+
+                                                                                                                       22: Pide datos de Cliente
+                                                                                                                       24: Entrega Encomienda
+
+
+
+                                                                                                                21: Solicita Recoger Encomienda
+                                                                                                       : Usuario     23: Proporciona Datos      : Cliente
+
+
+
+
+                                                           : Ruta
+                                                                                     19: Entrega Manifiesto de Encomienda
+
+                                                                    5: Asignar Bus
+
+
+                                                                                                  8: Verifica Disponibilidad
+                          6: Verificar Disponibilidad
+
+
+
+                                                                            7: Asignar Chofer
+
+
+
+
+                                                        : Bus                                                : Chofer
+
+
+
+
+                                           Figura Nº 35: Diagrama de Actividades – Cargo
+
+                                                        FUENTE: Elaboración propia
+
+
+
+
+                                                                                                                                                     106
+4.1.6.5.                   Diagrama de Actividades del Sistema.
+   CLIENTE                                              USUARIO                            RUTA               BUS                       CHOFER                    SISTEMA
+
+
+                                                               Ingresar
+                                                                Sistema
+
+                                                               Verificar Datos
+
+                                                      No                              Si                                                                             Ingreso al
+                                                                                                                                                                      Sistema
+
+                                         Mensaje "Usuario y/o
+                                           Contraseña"...                                                 Verifica Disponibilidad    Verifica Disponibilidad
+
+
+                                                                                           Asignar Ruta
+
+                                                                                                               Asignar Bus              Asignar Chofer
+
+
+       Proporciona Datos de
+        Destino y Receptor
+
+
+                                                        Buscar
+                                                        Cliente
+
+                                                           Consultar
+
+
+                                                  No                   Si
+
+                                          Registrar                         Asignar
+                                           Cliente                          Cliente
+
+
+
+
+       Recibir Factura o                                Registar
+            Boleta            Dar Com probante         Encomienda
+
+                                                                                                               Enviar Encomienda a       Proporciona Manifiesto
+                                                                                                                      Destino               de Encomienda
+
+
+                                           Verificar Encomiendas
+                                                 de Manifiesto
+
+
+
+         Recoger                            Confirmar Llegada
+        Encomienda                           de Encomienda
+
+
+
+
+                                                        Figura Nº 36: Diagrama de Actividades – Cargo
+
+                                                                                FUENTE: Elaboración propia
+
+
+
+4.1.6.6.                   Diagrama de Paquetes.
+
+
+                                                                                                                 paquete
+                                                                                                                  reporte
+
+
+
+
+                                                                  paquete
+                                                                   registro
+
+
+
+
+                                                                                                              paquete login
+
+
+
+
+                                                                                                                  paquete
+                                                                                                                  sistema
+
+
+
+
+                                                                   Figura Nº 37: Diagrama de Paquetes
+
+                                                                                FUENTE: Elaboración Propia
+
+
+                                                                                                                                                                                  107
+                             CONCLUSIONES.
+
+
+Primera Conclusión: La encuesta realizada a los involucrados con el área de
+
+control de encomiendas y choferes de la empresa HOLATRANS S.R.L.             se
+
+aprovechó para analizar la relación que existe entre el Sistema Web con la
+
+Gestión de la Información, y así posteriormente hacer una comparación entre
+
+estos mismo, analizando los objetivos establecidos en el estudio que son:
+
+Desarrollar sistema web, determinar los procesos de la gestión de la información
+
+y en qué medida ayudó el Sistema Web en dicha área.
+
+
+
+Segunda Conclusión: Debido a la muestra tomada de un total de 29 personas,
+
+la prueba de hipótesis el Chi -Cuadrado demostró que las variables: Sistema
+
+Web y Gestión de la Información existe una relación, que la Gestión de la
+
+Información depende del Sistema Web.
+
+
+
+
+                                                                            108
+                             SUGERENCIAS.
+
+
+Ya concluido el presente estudio, se considera conveniente enunciar las
+
+siguientes sugerencias:
+
+
+
+Primera Sugerencia: La presente tesis puede servir como base para posteriores
+
+estudios relacionados a los sistemas de información en empresas de transporte
+
+de carga, puesto que es un tema de carácter muy actual y que está en constante
+
+cambio.
+
+
+
+Segunda Sugerencia: En cuanto a la muestra que se tomó para el presente
+
+estudio se sugiere que para estudios posteriores se considere que éste sea lo
+
+mayor posible para poder definir con mayor precisión las comparaciones y los
+
+resultados sean más extensos.
+
+
+
+Tercera Sugerencia: Las empresas de transportes tienen en cuenta que el
+
+manejo óptimo de la información es una herramienta indispensable para poder
+
+aspirar a competir en el mercado, existen empresas de transportes que manejan
+
+una información considerable y que dejan perder toda la información que en un
+
+futuro los podría sacar de problemas que se pueden presentar, es por eso que
+
+deben tener en cuenta que la información almacenada de una empresa en un
+
+servidor es recomendable.
+
+
+
+
+                                                                          109
+                              BIBLIOGRAFÍA.
+
+Aburto. (1999). Obtenido de sistema de ingenieria de software. México:
+
+      Ediciones Luminosas.
+
+Arenco, L. (2002). Obtenido de sistema de informacion. Madrid: Editorial Libord.
+
+Bachman. (17 de 2 de 2013). Wikipedia. Recuperado el 2013, de
+
+      http://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_d
+
+      atos. Colombia: Web.
+
+Baptista. (2010). Obtenido de Metodología de la investigacion. Venezuela:
+
+      Ediciones Guevara.
+
+Bertalanffy, L. v. (2004). Definicion de Sistema. Obtenido de
+
+      http://definicion.de/sistema/. Ecuador: Web.
+
+Castro, L. (2011). Obtenido de
+
+      http://aprenderinternet.about.com/od/Glosario/g/Que-Es-Html-5.htm.
+
+      Perú: Web.
+
+Childes, M. (2009). Terminos Web. Madrid: Ediciones Rodriguez.
+
+EXPERIMENTAL, U. N. (s.f.). JOHANATOV. Obtenido de
+
+      http://johanatov.blogspot.es/.Madrid: Web.
+
+Fernandez, H. (2010). Metodologia de la Investigacion. Venezuela: Editorial
+
+      Angeles.
+
+Fuentes. (2009). Obtenido de http://sistemas-de-de-
+
+      informacion.blogspot.com/p/componentes-de-los-sistemas-
+
+      d.html.Perú:Web.
+
+
+                                                                              110
+Jhonn, R. (2009). Sistema de Negocios e informacion. Quito:Editorial Kokis.
+
+jQuery. (2010). Obtenido de http://librojquery.com/.Argentina:Web.
+
+Kioskea. (2007). Obtenido de http://es.kioskea.net/contents/66-introduccion-
+
+      bases-de-datos.Buenos Aires:Web.
+
+LIVAR, A. (2006). Tecnologias de Informacion. Barcelona: Ediciones Barza
+
+Lopez, G. (2008). Obtenido de
+
+      http://www.monografias.com/trabajos76/software-sistemas-
+
+      informacion/software-sistemas-informacion2.shtml.Perú: Web.
+
+MARIA, L. A. (2009). Diseño de un Sistema de Informacion. Barcelona:
+
+      Ediciones Barza.
+
+MONTILVA. (1992). Sistemas de Informacion. Colombia: Editores Chumveli
+
+Reynol, M. (2010). Sistemas Informaticos. España: Editorial Chavez
+
+Rivas, J. (2007). Obtenido de
+
+      http://www.mastermagazine.info/termino/7216.php. Peru: Web.
+
+Rodriguez, M. (2012). Lenguaje Unificado de modela UML. AMBATO
+
+      ECUADOR: Ediciones Ambar.
+
+Senn, J. (1990). Sistema de Informacion de Negocios. Quito: Editorial Liiyi
+
+Web. (2005). Obtenido de http://es.wikipedia.org/wiki/Ingenier%C3%ADa. Perú:
+
+      Web.
+
+Wikipedia. (3 de 4 de 2013). Wikipedia. Obtenido de
+
+      http://es.wikipedia.org/wiki/Sistema_de_informaci%C3%B3n. Madrid:
+
+      Web.
+
+                                                                               111
+ANEXO I
+
+
+
+
+          112
+                               ENCUESTA
+
+INVESTIGADOR: David Mamani Ticona
+
+
+                                   TESIS
+   DESARROLLO DE UN SISTEMA WEB UTILIZANDO DSDM PARA LA
+    GESTIÓN DE LA INFORMACIÓN EN EL ÁREA DE CONTROL DE
+  ENCOMIENDAS Y CHOFERES DE LA EMPRESA HOLATRANS S.R.L. –
+                       JULIACA 2014.
+
+
+INDICACIÓN. A continuación se le presenta 13 preguntas, le solicito que frente
+a ellas exprese su opinión personal considerando que no existe preguntas
+correctas ni incorrectas, marcando con un aspa (X) una de las alternativas que
+cree conveniente de acuerdo a su criterio y experiencia durante su permanencia
+en la empresa, para luego analizarlo rigurosamente cada ítems.
+NOTA: para cada ítem se considera la escala de 1 – 10 donde:
+Bajo: 0 – 3              Medio: 4-7                Alto: 8-10
+
+
+1. ¿El diseño de interfaz es amigable del Sistema Web para la Gestión de la
+  Información?
+  a) Alto
+  b) Medio
+  c) Bajo
+
+
+2. ¿En el uso del Sistema Web previene el ingreso de datos erróneos a la
+  base de datos?
+  a) Alto
+  b) Medio
+  c) Bajo
+
+
+3. ¿Es de fácil uso en el momento de la exploración del Sistema Web?
+   a) Alto
+   b) Medio
+   c) Bajo
+
+
+                                                                          113
+4. ¿Cuál es el grado de satisfacción de los requerimientos del Sistema
+     Web?
+     a) Alto
+     b) Medio
+     c) Bajo
+
+
+5. ¿El diseño es compatible con diferentes navegadores como Google
+     Chrome, FireFox, y otros?
+     a) Alto
+     b) Medio
+     c) Bajo
+
+
+6. ¿Los buscadores como Google, Altavista y otros, encuentran el Sistema
+     Web?
+     a) Alto
+     b) Medio
+     c) Bajo
+
+
+7. ¿Cuánto tiempo estima usted al momento de realizar las consultas sin el
+     Sistema Web?
+     a) Menos de 5 min
+     b) 10 min.
+     c) 15 min. a mas
+
+
+
+
+8.      ¿Cuánto tiempo estima usted al momento de realizar las consultas
+        con el Sistema Web?
+     a) Menos de 3 seg.
+     b) 5 seg.
+     c) 10 seg.
+
+
+
+
+                                                                       114
+9.       ¿Con que frecuencia accede a la información o publicaciones con el
+         Sistema Web?
+     a) Diario
+     b) Semanal
+     c) Mensual
+
+
+10.      ¿Con que frecuencia accede a la información o publicaciones sin el
+         Sistema Web?
+      a) Diario
+      b) Semanal
+      c) Mensual
+
+
+11.      ¿En qué nivel se encuentra la presentación de información solicitada
+         con el sistema Web?
+     a) Alto
+     b) Medio
+     c) Bajo
+
+
+12.      ¿En qué nivel se encuentra la presentación de información solicitada
+         sin el sistema Web?
+      a) Alto
+      b) Medio
+      c) Bajo
+
+
+13.      ¿En qué nivel calificaría el desempeño y la funcionalidad del sistema
+         Web?
+     a) Alto
+     b) Medio
+     c) Bajo
+
+
+
+
+                                                                           115
+ANEXO II
+
+
+
+
+           116
+Interfaz de Usuario.
+
+Pantalla: Index del Sistema Web.
+
+La interfaz que permite trasladarse al acceso del Sistema Web
+
+
+
+
+                          Figura Nº 38: Index del Sistema Web
+
+                              FUENTE: Elaboración propia
+
+
+
+
+Pantalla: Acceso al Sistema Web.
+
+El ingreso es mediante un Usuario y una Contraseña.
+
+
+
+
+                          Figura Nº 39: Acceso al Sistema Web
+
+                              FUENTE: Elaboración propia
+
+                                                                117
+Pantalla: La interfaz del Sistema Web.
+
+
+
+
+                         Figura Nº 40: La interfaz del Sistema Web
+
+                               FUENTE: Elaboración propia
+
+
+
+
+Pantalla: Nuevo Personal.
+
+Permite crear o ingresar a un nuevo personal.
+
+
+
+
+                              Figura Nº 41: Nuevo Personal.
+
+                               FUENTE: Elaboración propia
+
+
+
+
+                                                                     118
+Pantalla: Nueva Profesión.
+
+Permite Crear nueva profesión.
+
+
+
+
+                              Figura Nº 42: Nueva Profesión
+
+                               FUENTE: Elaboración propia
+
+
+
+
+Pantalla: Mantenimiento Profesión.
+
+Permite Modificar o eliminar una profesión.
+
+
+
+
+                          Figura Nº 43: Mantenimiento Profesión
+
+                               FUENTE: Elaboración propia
+
+
+
+
+                                                                  119
+Pantalla: Nuevo Cargo.
+
+Este interfaz permite crear un nuevo cargo.
+
+
+
+
+                                Figura Nº 44: Nuevo cargo
+
+                               FUENTE: Elaboración propia
+
+
+
+Pantalla: Mantenimiento de cargo.
+
+Permite realizar consulta a través de la caja de texto o el botón Buscar y el
+
+botón actualizar para modificar el cargo.
+
+
+
+
+                           Figura Nº 45: Mantenimiento de cargo
+
+                               FUENTE: Elaboración propia
+
+
+
+
+                                                                                120
+Pantalla: Nueva Agencia o Sucursal.
+
+Crear Nueva Agencia Ubicado en alguna parte del País
+
+
+
+
+                         Figura Nº 46: Nueva Agencia o Sucursal.
+
+                              FUENTE: Elaboración propia
+
+
+
+Pantalla: Nueva Ruta.
+
+Permite Crear Nueva Ruta con su respectiva distancia y el trascurso de horas de
+
+viaje.
+
+
+
+
+                               Figura Nº 47: Nueva Ruta.
+
+                              FUENTE: Elaboración propia
+
+Pantalla: Nuevo Bus.
+
+Permite Crear Nueva Unidad de Transporte o Bus.
+
+
+
+
+                                Figura Nº 48: Nuevo Bus.
+
+                              FUENTE: Elaboración propia
+
+
+                                                                           121
+Pantalla: Mantenimiento Bus.
+
+Permite Modificar o eliminar a la Unidad de transporte.
+
+
+
+
+                              Figura Nº 49: Mantenimiento Bus.
+
+                                FUENTE: Elaboración propia
+
+
+
+
+Pantalla: Asignar Unidad de Transporte – Ruta
+
+Permite escoger la unidad de transporte disponible
+
+
+
+
+                      Figura Nº 50: Asignar Unidad de Transporte – Ruta
+
+                                FUENTE: Elaboración propia
+
+
+
+
+                                                                          122
+Una vez elegido la Unidad de Transporte muestra a siguiente pantalla.
+
+
+
+
+                         Figura Nº 51: Datos Unidad de Transporte
+
+                               FUENTE: Elaboración propia
+
+
+
+
+                                                                        123
+Pantalla: Emitir Comprobante (Guía de Remisión Transportista, Boleta de
+
+Venta , Factura)
+
+
+
+
+                              Figura Nº 52: Emitir Boleta de Venta
+
+                                  FUENTE: Elaboración propia
+
+
+
+
+Pantalla: Consulta de Transporte de Carga o Encomienda.
+
+
+
+
+                   Figura Nº 53: Consulta de Transporte de Carga o Encomienda
+
+                                  FUENTE: Elaboración propia
+
+
+
+                                                                                124
+Código Fuente más Resaltante:
+
+
+Conexión al Servidor y Base de Datos.
+
+
+<?php
+class Conexion
+{
+        public $con; //pubic: para que sea heredable
+        private $bd;
+        private $server;
+        private $usu;
+        private $pas;
+        private $basedatos;
+        public function __construct()
+        {
+                  $this->basedatos="dbholatrans";
+                  $this->server="localhost";
+                  $this->usu="root";
+                  $this->pas="";
+        }
+        public function conectar()
+        {
+        $this->con=@mysql_connect($this->server,$this->usu,$this->pas);
+        if(!$this->con)
+            {   echo "Error con la Conexion: ".mysql_errno().": ".mysql_error();
+                  exit();    }
+        $this->bd=@mysql_select_db($this->basedatos,$this->con);
+        if(!$this->bd)
+            {
+            echo "Error con la seleccion de la base de datos: ".mysql_errno().":
+".mysql_error();
+                  exit();          }
+
+
+            return true; }
+}
+?>
+
+
+                                                                                   125
+Objeto Personal.
+
+
+<?php
+include("../conexion.php");
+class Personal extends Conexion{
+ var $sql = NULL;
+ var $msj_query = NULL;
+ var $result = NULL;
+ function __construct(){
+      parent::__construct();
+      parent::conectar();
+ }
+          function Set($consulta)
+          {
+          $this->sql=$consulta;
+          }
+     function Ingresar(){
+      $this->result = mysql_query($this->sql, $this->con);
+      if(!$this->result){//Evaluar Sintaxis Sql
+        $this->msj_query = "Error ".mysql_errno().": ".mysql_error();
+        return false;
+      }//end if
+      if ( mysql_affected_rows($this->con) <= 0 ){
+        $this->msj_query = "No se insertaron los datos";
+        return false;
+      }//end if
+      return true;
+     }//end function
+
+
+          function Mostrar(){//Metodo que muestra a todos los de la tabla
+      $this->result = mysql_query($this->sql, $this->con);
+      if(!$this->result){//Evaluar Sintaxis Sql
+        $this->msj_query = "Error ".mysql_errno().": ".mysql_error();
+        return false;
+      }//end if
+
+
+                                                                            126
+    if ( mysql_num_rows($this->result) <= 0 ){
+      $this->msj_query = "No existen datos a consultar";
+      return false;
+    }//end if
+    while ( $reg = mysql_fetch_array($this->result) ){
+      $registros[] = $reg;//generar arreglo multidimensional
+    }//end while
+    return $registros;
+}
+         function MostrarProfesion(){//Metodo que muestra a todos los de la tabla
+    $this->result = mysql_query($this->sql, $this->con);
+    if(!$this->result){//Evaluar Sintaxis Sql
+      $this->msj_query = "Error ".mysql_errno().": ".mysql_error();
+      return false;
+    }//end if
+    if ( mysql_num_rows($this->result) <= 0 ){
+      $this->msj_query = "No existen datos a consultar";
+      return false;
+    }//end if
+                 while($profesion=mysql_fetch_array($this->result)){
+    $registros[]=array(
+              'value'=> $profesion["idcargo"]." - ".$cargo["nombre"],
+              'label'=> $profesion["idcargo"]." - ".$cargo["nombre"]
+                  );
+     }
+    return $registros;
+}
+         ////////////////////
+function Actualizar(){//Actualiza
+    $this->result = mysql_query($this->sql, $this->con);
+    if(!$this->result){//Evaluar Sintaxis Sql
+      $this->msj_query = "Error ".mysql_errno().": ".mysql_error();
+      return false;
+    }//end if
+    if ( mysql_affected_rows($this->con) <= 0 ){
+      $this->msj_query = "No se actualizaron los datos";
+      return false;
+
+                                                                                    127
+      }//end if
+      return true;
+     }//end function
+
+
+     function Borrar(){
+      $this->result = mysql_query($this->sql, $this->con);
+      if(!$this->result){//Evaluar Sintaxis Sql
+        $this->msj_query = "Error ".mysql_errno().": ".mysql_error();
+        return false;
+      }//end if
+      if ( mysql_affected_rows($this->con) <= 0 ){
+        $this->msj_query = "No se eliminaron los datos";
+        return false;
+      }//end if
+      return true;
+     }//end function
+}
+?>
+
+
+Nuevo Personal.
+
+
+<?php
+
+
+require_once('../agencia/agencia.php');
+
+
+$profesion=new Agencia();
+$profesion->Set("Select idprofesion,nombre from tblprofesion where opt=1");
+$Regprofesion=$profesion->Mostrar();
+
+
+$cargo=new Agencia();
+$cargo->Set("Select idcargo,nombre from tblcargo where opt=1");
+$Regcargo=$cargo->Mostrar();
+
+
+$distrito=new Agencia();
+$distrito->Set("Select iddistrito,nombre from tbldistrito where opt=1");
+$Regdistrito=$distrito->Mostrar();
+?>
+
+                                                                              128
+<html>
+<head>
+<link rel="icon" type="image/png" href="../img/camion.png">
+
+
+<link href="../estilo/holatrans1.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="../js/jquery.reveal.js"></script>
+
+
+<script type="text/javascript">
+<!--
+
+
+$(document).ready(function()
+{
+         $("#btnguardar").click(function()
+         {
+         nom=document.formulario.txtnombre.value;
+         tel=document.formulario.txttelefono.value;
+         dir=document.formulario.txtdireccion.value;
+         lic=document.formulario.txtlicencia.value;
+         prof=document.formulario.mnuprofesion.value;
+         car=document.formulario.mnucargo.value;
+         dis=document.formulario.mnudistrito.value;
+         if(nom.length==0)
+                {
+                alert("Debe Ingresar Nombres y Apellidos");
+                document.formulario.txtnombre.focus();
+                return false;
+                }
+         if(dir.length==0)
+                {
+                alert("Debe Ingresar Direccion");
+                document.formulario.txtdireccion.focus();
+                return false;
+                }
+         if(prof==0)
+                {
+                alert("Debe Seleccionar Profesion");
+
+                                                                           129
+               document.formulario.mnuprofesion.focus();
+               return false;
+               }
+        if(car==0)
+               {
+               alert("Debe Seleccionar Cargo");
+               document.formulario.mnucargo.focus();
+               return false;
+               }
+        if(dis==0)
+               {
+               alert("Debe Seleccionar Ubicacion");
+               document.formulario.mnudistrito.focus();
+               return false;
+               }
+               $.ajax
+               ({
+
+
+        url:'guardar.php?nombre='+nom+"&telefono="+tel+"&direccion="+dir+"&licencia
+="+lic+"&profesion="+prof+"&cargo="+car+"&distrito="+dis,
+
+
+                        success: function(data)
+                        {
+                        alert ("Los Datos fueron guardados con éxito");
+                        }});
+               document.getElementById("mnudistrito").selectedIndex =0;
+               document.getElementById("mnuprofesion").selectedIndex =0;
+               document.getElementById("mnucargo").selectedIndex =0;
+               document.formulario.txtnombre.value="";
+               document.formulario.txttelefono.value="";
+               document.formulario.txtdireccion.value="";
+               document.formulario.txtlicencia.value="";
+               document.formulario.txtnombre.focus();
+               return false;   });
+});
+//-->
+</script>
+
+                                                                                130
+</head>
+<body>
+<div>
+ <form name="formulario" method="post" action="">
+  <table align="center" class="tablalista">
+   <tr>
+    <th colspan="2" scope="col">Nuevo Personal </th>
+   </tr>
+   <tr>
+    <td><div align="right">Nombres y Apellidos: </div></td>
+    <td><input        name="txtnombre"        type="text"      id="txtnombre"       size="30"
+placeholder="Nombres y Apellidos" autofocus>
+              </td>
+   </tr>
+   <tr>
+    <td><div align="right">Telefono / Celular: </div></td>
+    <td>
+              <div id="provincia">
+                 <input   name="txttelefono"     type="text"     id="txttelefono"    size="8"
+placeholder="Telefono" autofocus>
+              </div>
+              </td>
+   </tr>
+   <tr>
+    <td><div align="right">Direccion:</div></td>
+    <td>
+              <div id="distrito">
+                 <input name="txtdireccion" type="text" id="txtdireccion" size="35"
+placeholder="Direccion" autofocus>
+                 </div>
+              </td>
+   </tr>
+   <tr>
+    <td><div align="right">Licencia Conducir: </div></td>
+    <td><input        name="txtlicencia"      type="text"      id="txtlicencia"     size="10"
+placeholder="Licencia" autofocus></td>
+   </tr>
+
+                                                                                         131
+   <tr>
+    <td><div align="right">Profesion:</div></td>
+    <td><select         name="mnuprofesion"          id="mnuprofesion"    style="text-
+transform:uppercase ">
+      <option value=0 selected>Seleccionar Profesión</option>
+      <?php
+                for($i=0;$i<count($Regprofesion);$i++)
+                {
+                ?>
+      <option       value=<?php    echo     $Regprofesion[$i][0];   ?>><?php    echo
+$Regprofesion[$i][1];?></option>
+      <?php
+                }
+                ?>
+    </select></td>
+   </tr>
+   <tr>
+    <td><div align="right">Cargo:</div></td>
+    <td><select name="mnucargo" id="mnucargo" style="text-transform:uppercase ">
+      <option value=0 selected>Seleccionar Cargo</option>
+      <?php
+                for($i=0;$i<count($Regcargo);$i++)
+                {
+                ?>
+      <option        value=<?php    echo      $Regcargo[$i][0];     ?>><?php    echo
+$Regcargo[$i][1];?></option>
+      <?php
+                }
+                ?>
+    </select></td>
+   </tr>
+   <tr>
+    <td><div align="right">ubicación:</div></td>
+    <td><select name="mnudistrito" id="mnudistrito">
+      <option value=0 selected>Seleccionar Ubicación</option>
+                <?php
+                for($i=0;$i<count($Regdistrito);$i++)
+
+                                                                                  132
+                   {
+                   ?>
+         <option       value=<?php       echo   $Regdistrito[$i][0];   ?>><?php   echo
+$Regdistrito[$i][1];?></option>
+                   <?php
+                   }
+                   ?>
+                   </select></td>
+   </tr>
+   <tr>
+     <td colspan="2"><div align="center">
+         <input name="btnguardar" type="button" class="btnguardar" id="btnguardar"
+value="Guardar">
+     </div>            <div align="center">
+         </div></td>
+   </tr>
+  </table>
+ </form>
+</div>
+
+
+</body>
+</html>
+
+
+Datos de Guía Remitente.
+
+
+<?php
+include("motivo.php");
+$motivo=new Motivo();
+$motivo->Set("select * from tblmotivotraslado");
+$Motivo=$motivo->Mostrar();
+include("destinatario.php");
+$dest=new Destinatario();
+$dest->Set("select nombre from tblcliente");
+$RegDestinatario=$dest->MostrarDestinatarioAutocomplete();
+include("clienteremitente.php");
+$clie=new ClienteRemitente();
+$clie->Set("select nombre from tblclienteremitente");
+
+                                                                                   133
+$RegRemitente=$clie->MostrarRemitenteAutocomplete();
+include("ruta.php");
+$bus=new Ruta();
+$bus->Set("select nombre from tblruta");
+$Registro=$bus->MostrarRutaAutocomplete();
+$CodAsig=trim($_GET['cod']);
+$guia=trim($_GET['guia']);
+$motivo=trim($_GET['motivo']);
+include("asignacionrutabus.php");
+$asigRB=new AsignacionRutaBus();
+$asigRB->Set("select fecha,".
+"(select capacidad_peso from tblbus where tblbus.idbus=tblasignacionrutabus.idbus),".
+"(select marca from tblbus where tblbus.idbus=tblasignacionrutabus.idbus),".
+"(select placa from tblbus where tblbus.idbus=tblasignacionrutabus.idbus),".
+"(select              lic_conducir               from                 tblpersonal         where
+tblpersonal.idpersonal=tblasignacionrutabus.idpersonalofi),".
+
+
+"(select (select nombre from tbldistrito where tbldistrito.iddistrito=tblruta.idsuc_ini) from
+tblruta where tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select (select direccion from tbldistrito where tbldistrito.iddistrito=tblruta.idsuc_ini) from
+tblruta where tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select       (select        (select          nombre          from       tblprovincia    where
+tblprovincia.idprovincia=tbldistrito.idprovincia)              from         tbldistrito   where
+tbldistrito.iddistrito=tblruta.idsuc_ini)               from              tblruta         where
+tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select    (select      (select     (select     nombre        from     tbldepartamento   where
+tbldepartamento.iddepartamento=tblprovincia.iddepartamento) from tblprovincia where
+tblprovincia.idprovincia=tbldistrito.idprovincia)              from         tbldistrito   where
+tbldistrito.iddistrito=tblruta.idsuc_ini)               from              tblruta         where
+tblruta.idruta=tblasignacionrutabus.idruta),".
+
+
+"(select (select nombre from tbldistrito where tbldistrito.iddistrito=tblruta.idsuc_fin) from
+tblruta where tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select (select direccion from tbldistrito where tbldistrito.iddistrito=tblruta.idsuc_fin) from
+tblruta where tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select       (select        (select          nombre          from       tblprovincia    where
+tblprovincia.idprovincia=tbldistrito.idprovincia)              from         tbldistrito   where
+
+                                                                                            134
+tbldistrito.iddistrito=tblruta.idsuc_fin)             from             tblruta         where
+tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select      (select    (select     (select    nombre       from    tbldepartamento   where
+tbldepartamento.iddepartamento=tblprovincia.iddepartamento) from tblprovincia where
+tblprovincia.idprovincia=tbldistrito.idprovincia)            from        tbldistrito   where
+tbldistrito.iddistrito=tblruta.idsuc_fin)             from             tblruta         where
+tblruta.idruta=tblasignacionrutabus.idruta),".
+"(select peso_restante from tblbus where tblbus.idbus=tblasignacionrutabus.idbus)".
+"from tblasignacionrutabus where idrutabus=$CodAsig");
+$RegAsigRB=$asigRB->Mostrar();
+$fechainicio=$RegAsigRB[0][0];
+$peso=$RegAsigRB[0][1];
+$pesorestante=$RegAsigRB[0][13];
+
+
+$marca=$RegAsigRB[0][2];
+$placa=$RegAsigRB[0][3];
+$licencia=$RegAsigRB[0][4];
+$partida=$RegAsigRB[0][6]."                 -      ".$RegAsigRB[0][5]."-".$RegAsigRB[0][7]."-
+".$RegAsigRB[0][8];
+$llegada=$RegAsigRB[0][10]."                -    ".$RegAsigRB[0][9]."-".$RegAsigRB[0][11]."-
+".$RegAsigRB[0][12];
+?>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Documento sin t&iacute;tulo</title>
+<link href="../../estilo/holatrans1.css" rel="stylesheet" type="text/css">
+     <link rel="stylesheet" type="text/css" href="../../estilo/jquery.ui.css"/>
+          <script type="text/javascript" src="../../js/jquery.1.7.1.js"></script>
+    <script type="text/javascript" src="../../js/jquery.ui.1.8.16.js"></script>
+<script type="text/javascript">
+    $(document).ready(function()
+{
+                  $("#recargarpagina").click(function(){
+                   location.reload();
+                  });
+        $("#eliminarproducto").click(function(){
+
+                                                                                         135
+              // Obtenemos el total de columnas (tr) del id "tabla"
+              var trs=$("#tblproducto tr").length;
+              if(trs>1)
+              {
+                   // Eliminamos la ultima columna
+                   $("#tblproducto tr:last").remove();
+              }
+        });
+              function cargardestinatario()
+              {
+              window.open("datosremitente.php?cod="+$("#txtasignacion").val()+"&guia="+
+$("#txtguiaremitente").val()+"&motivo="+ $("#motivo").val(),"_self");
+
+
+              location.href="datosremitente.php?cod="+$("#txtasignacion").val()+"&guia="+
+$("#txtguiaremitente").val()+"&motivo="+ $("#motivo").val();
+                       $("#txtnombre").val()="";
+                               $("#txtruc").val()="";
+                               $("#txtdireccion").val()="";
+                               $("#txttelefono").val()="";
+              }
+              function cargarremitente()
+              {
+
+
+              location.href="datosremitente.php?cod="+$("#txtasignacion").val()+"&guia="+
+$("#txtguiaremitente").val()+"&motivo="+ $("#motivo").val();
+                       $("#txtrucremitente").val()="";
+                               $("#txtnombreremitente").val()="";
+                               $("#txtdireccionremitente").val()="";
+              }
+  var Destinatario =<?php echo $RegDestinatario;?>;
+  $("#txtdestinatario").autocomplete({
+                  source: Destinatario
+  });
+  var CliRemitente =<?php echo $RegRemitente;?>;
+  $("#txtclienteremitente").autocomplete({
+                  source: CliRemitente
+  });
+
+                                                                                        136
+       $("#btnguardarremitente").click(function()
+       {
+
+
+       ruc=document.formularioremitente.txtrucremitente.value.length;
+       nom=document.formularioremitente.txtnombreremitente.value.length;
+       dir=document.formularioremitente.txtdireccionremitente.value.length;
+       if(ruc==0)
+              {
+              alert("Debe ingresar RUC");
+              document.formularioremitente.txtrucremitente.focus();
+              return false;
+              }
+       if(nom==0)
+              {
+              alert("Debe ingresar Nombre o Razon Social");
+              document.formularioremitente.txtnombreremitente.focus();
+              return false;
+              }
+              $.ajax
+              ({
+       url:'guardarclienteremitente.php?nombre='+$("#txtnombreremitente").val()+"&ru
+c="+$("#txtrucremitente").val()+"&direccion="+$("#txtdireccionremitente").val(),
+                       success: function(data)
+                       {
+                              alert ("Los Datos fueron guardados con éxito");
+                       }
+              });
+              cargarremitente();
+              return false;
+       });
+       $("#btnguardar").click(function()
+       {
+
+
+       ruc=document.formulario.txtruc.value.length;
+       nom=document.formulario.txtnombre.value.length;
+       dir=document.formulario.txtdireccion.value.length;
+       tel=document.formulario.txttelefono.value.length;
+
+                                                                                   137
+       if(ruc==0)
+               {
+               alert("Debe ingresar RUC");
+               document.formulario.txtruc.focus();
+               return false;
+               }
+       if(nom==0)
+               {
+               alert("Debe ingresar Nombre o Razon Social");
+               document.formulario.txtnombre.focus();
+               return false;
+               }        /*
+       if(dir==0)
+               {
+               alert("Debe ingresar Direccion");
+               document.formulario.txtdireccion.focus();
+               return false;
+               }
+       if(tel==0)
+               {
+               alert("Debe ingresar Telefono");
+               document.formulario.txttelefono.focus();
+               return false;
+               }        */
+
+
+               $.ajax
+               ({
+
+
+       url:'guardardestinatario.php?nombre='+$("#txtnombre").val()+"&ruc="+$("#txtruc
+").val()+"&direccion="+$("#txtdireccion").val()+"&telefono="+$("#txttelefono").val(),
+                        success: function(data)
+                        {
+                               alert ("Los Datos fueron guardados con éxito");
+                        }
+               });
+               cargardestinatario();
+               return false;
+
+                                                                                        138
+       });
+       $("#btnenviar").click(function()
+       {
+               if (document.getElementsByTagName("input").length>17)
+               {
+               //alert(document.getElementsByTagName("input").length);
+               document.form1.submit();
+               $('#btnenviar').attr("disabled", true);//para desahabilitar el boton enviar
+cuando se imprima la guia de transportista
+
+
+               }
+               else
+               {
+                       alert("No existe Productos y/o Cargo Registrados");
+               }
+       });
+       $("#aniadir").click(function()
+       {
+       guia=document.form1.txtguiaremitente.value.length;
+       dest=document.form1.txtdestinatario.value.length;
+       cliremi=document.form1.txtclienteremitente.value.length;
+
+
+       cantidad=document.form1.txtcantidad.value.length;
+       descripcion=document.form1.txtdescripcion.value.length;
+       unidad=document.form1.txtunidad.value.length;
+       peso=document.form1.txtpeso.value.length;
+
+
+       if(guia<3)
+               {
+               alert("Debe ingresar Nº Guía");
+               document.form1.txtguiaremitente.focus();
+               return false;
+               }
+       if(cliremi<3)
+               {
+               alert("Debe ingresar Nombre Remitente");
+               document.form1.txtclienteremitente.focus();
+
+                                                                                      139
+              return false;
+              }
+       if(dest<4)
+              {
+              alert("Debe ingresar Destinatario");
+              document.form1.txtdestinatario.focus();
+              return false;
+              }
+       if(cantidad==0)
+              {
+              alert("Debe ingresar Cantidad");
+              document.form1.txtcantidad.focus();
+              return false;
+              }
+       if(descripcion==0)
+              {
+              alert("Debe ingresar Producto");
+              document.form1.txtdescripcion.focus();
+              return false;
+              }
+       if(unidad==0)
+              {
+              alert("Debe ingresar Unid. de Medida");
+              document.form1.txtunidad.focus();
+              return false;
+              }
+       if(peso==0)
+              {
+              alert("Debe ingresar Peso en Kg.");
+              document.form1.txtpeso.focus();
+              return false;
+              }
+caja="<tr><td><input     name='cant[]'    type='text'   value="+$("#txtcantidad").val()+"
+readonly=1           size=2></td><td><textarea          readonly=1            name='desc[]'
+cols=30>"+$("#txtdescripcion").val()+"</textarea> </td><td> <input readonly=1 size=6
+name='uni[]' type='text' value="+$("#txtunidad").val()+"></td> <td><input readonly=1
+size=5 name='pes[]' type='text' value="+$("#txtpeso").val()+"> </td></tr>";
+
+                                                                                       140
+                $("#tblproducto").append(caja);
+                document.form1.txtcantidad.value="";
+                document.form1.txtdescripcion.value="";
+                document.form1.txtunidad.value="";
+                document.form1.txtpeso.value="";
+                document.form1.txtcantidad.focus();
+
+
+                return false;
+         });
+
+
+});
+ </script>
+</head>
+<body>
+<center>
+ <form name="form1" method="post" action="guardarguiaremitente.php">
+<div class="marcobusremitente">
+ <BR>
+ <table width="100%" border="0" cellspacing="0" class="tablaasiganacion">
+      <tr>
+       <th colspan="4">INGRESAR DATOS A TRANSPORTAR (GUIA REMITENTE)
+</th>
+      </tr>
+      <tr>
+       <td width="26%">N&ordm; Guia de Remitente: </td>
+       <td width="36%"><input name="txtguiaremitente" type="text" id="txtguiaremitente"
+size="10" value="<?php echo $guia;?>"></td>
+       <td          colspan="2"         rowspan="4"><div             align="center"><img
+src="../../img/fotos/trailer1.jpg" width="112" height="64"></div></td>
+      </tr>
+      <tr>
+       <td>Cliente:<a     href="#modal4"><img       src="../../img/add.png"   width="23"
+height="23" border="0"></a></td>
+       <td><input    name="txtclienteremitente"    type="text"    id="txtclienteremitente"
+size="20"></td>
+       </tr>
+      <tr>
+
+                                                                                      141
+     <td>Fec. Ini. de Traslado:</td>
+     <td><?php echo $fechainicio;?><img src="../../img/actualizar.png" width="19"
+height="21" id="recargarpagina"></td>
+   </tr>
+   <tr>
+     <td><div align="left">Destinatario:<a href="#modal3"><img src="../../img/add.png"
+width="23" height="23" border="0"></a></div></td>
+     <td><input name="txtdestinatario" type="text" id="txtdestinatario" size="20">
+</td>
+     </tr>
+   <tr>
+     <td>Punto de Partida: </td>
+     <td><?php echo $partida;?></td>
+     <td width="19%">Asignaci&oacute;n:</td>
+     <td width="19%"><input name="txtasignacion" type="text" id="txtasignacion"
+value="<?php echo $CodAsig;?>" readonly="1" size="2">
+        <img src="../../img/buscar.png" width="23" height="23"></td>
+   </tr>
+   <tr>
+     <td>Punto de Llegada: </td>
+     <td><?php echo $llegada;?></td>
+     <td colspan="2"><b> <?php echo $pesorestante*1 ." Kg. de ".$peso*1000;?> Kg.
+</b></td>
+     </tr>
+   <tr>
+     <td>Motivo de Traslado: </td>
+     <td colspan="3"><select name="mnumotivo" id="motivo">
+        <option        value="0">===========Elija         Motivo       de      Traslado
+============</option>
+                  <?php
+                  for($i=0;$i<count($Motivo);$i++) { ?>
+        <option        value="<?php      echo       $Motivo[$i][0];?>"><?php      echo
+$Motivo[$i][1];?></option>
+                  <?php
+                  }
+                  ?>
+     </select></td>
+
+                                                                                   142
+       </tr>
+         </table>
+
+
+<hr>
+   <div align="left">Ingreso Producto y/o Carga
+   <a      href="#"><img   src="../../img/add.png"   width="23"   height="23"   border="0"
+id="aniadir"></a> <a href="#"><img src="../../img/delete.png" width="23" height="23"
+border="0" id="eliminarproducto"></a></div>
+   <table width="100%" class="tablaunidadconductor" cellspacing="0">
+   <tr>
+       <td width="14%"><strong>Cantidad</strong></td>
+       <td width="46%"><strong>Descripcion</strong></td>
+       <td width="23%"><strong>Unidad de Medida </strong></td>
+       <td width="17%"><strong>Peso (Kg.) </strong></td>
+   </tr>
+   <tr>
+       <td><input name="txtcantidad" type="text" id="txtcantidad" size="5"></td>
+       <td><textarea                   name="txtdescripcion"                     cols="30"
+id="txtdescripcion"></textarea></td>
+       <td><input name="txtunidad" type="text" id="txtunidad" size="6"></td>
+       <td><input name="txtpeso" type="text" id="txtpeso" size="5"></td>
+   </tr>
+  </table>
+         <hr>
+<div align="left">Datos del Bien Transportado:
+
+
+  </div>
+<table id="tblproducto" class="tablaproducto" cellspacing="0" width="100%">
+   <tr>
+       <th>CANT.</th>
+       <th>DESCRIPCION (Detallada de los bienes) </th>
+       <th>UNIDAD DE MEDIDA</th>
+       <th>PESO (KG.) </th>
+   </tr>
+
+
+
+
+           </table>
+
+                                                                                      143
+ <hr>
+   <div align="left">Datos de la Unidad y Conductor:
+
+
+     <table width="50%" class="tablaunidadconductor" cellspacing="0">
+     <tr>
+     <td colspan="2">Marca y Placa: <br> <?php echo $marca ." * ".$placa;?> </td>
+     <td colspan="2">Licencia de Conducir: <br> <?php echo $licencia;?> </td>
+   </tr>
+     </table>
+   </div>
+           <div>
+            <input name="btnenviar" type="button" id="btnenviar" value="Registrar"
+class="btnregistrar">
+           </div>
+</div>
+ </form>
+ <div id="modal3" class="modalmask">
+                   <div class="modalbox resize">
+                         <div    id="recargarpagina"><a   href="#close"   title="Close"
+class="close" >X</a></div>
+ <form name="formulario" method="post" action="">
+ <table cellspacing="0" class="tablaasiganacion">
+  <tr>
+   <th colspan="2" scope="col">NUEVO DESTINATARIO</th>
+  </tr>
+  <tr>
+   <td>RUC:</td>
+   <td><input name="txtruc" id="txtruc" type="text" size="6"></td>
+  </tr>
+  <tr>
+   <td>Nombre, Razon Social </td>
+   <td><input name="txtnombre" id="txtnombre" type="text" size="30"></td>
+  </tr>
+  <tr>
+   <td>Direccion:</td>
+   <td><input type="text" name="txtdireccion" id="txtdireccion"></td>
+  </tr>
+
+                                                                                   144
+  <tr>
+   <td>Telefono:</td>
+   <td><input name="txttelefono" id="txttelefono" type="text" size="5"></td>
+  </tr>
+  <tr>
+   <td colspan="2"><div align="center">
+     <input   name="btnguardar"     type="button"     id="btnguardar"    value="Guardar"
+class="btnguardar">
+   </div></td>
+  </tr>
+ </table></form></div>
+</div>
+ <div id="modal4" class="modalmask">
+                <div class="modalbox resize">
+                      <a href="#close" title="Close" class="close">X</a>
+ <form name="formularioremitente" method="post" action="">
+ <table cellspacing="0" class="tablaasiganacion">
+  <tr>
+   <th colspan="2" scope="col">NUEVO CLIENTE REMITENTE</th>
+  </tr>
+  <tr>
+   <td>RUC:</td>
+   <td><input name="txtrucremitente" id="txtrucremitente" type="text" size="6"></td>
+  </tr>
+  <tr>
+   <td>Nombre, Razon Social </td>
+   <td><input      name="txtnombreremitente"       id="txtnombreremitente"    type="text"
+size="30"></td>
+  </tr>
+  <tr>
+   <td>Direccion:</td>
+   <td><input                  type="text"                   name="txtdireccionremitente"
+id="txtdireccionremitente"></td>
+  </tr>
+   <td colspan="2"><div align="center">
+     <input       name="btnguardar"          type="button"       id="btnguardarremitente"
+value="Guardar" class="btnguardar">
+
+                                                                                     145
+   </div></td>
+  </tr>
+ </table></form></div>
+</div>
+</center>
+<script>
+document.getElementById("motivo").selectedIndex =<?php echo $motivo;?>;
+</script>
+
+
+</body>
+</html>
+
+
+
+
+                                                                          146
+

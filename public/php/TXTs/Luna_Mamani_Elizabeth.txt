@@ -1,0 +1,3474 @@
+  UNIVERSIDAD NACIONAL DEL ALTIPLANO
+        FACULTAD DE CIENCIAS AGRARIAS
+     ESCUELA PROFESIONAL DE INGENIERÍA
+                AGROINDUSTRIAL
+
+
+
+
+                         TESIS
+
+  “INFLUENCIA DEL GERMINADO Y COCCION HUMEDA EN
+COMPUESTOS BIOACTIVOS DE DOS ACCESIONES DE CAÑIHUA
+            (Chenopodium pallidicaule Aellen)”
+
+
+
+                  PRESENTADA POR:
+
+              ELIZABETH LUNA MAMANI
+
+       PARA OPTAR EL TITULO PROFESIONAL DE:
+
+            INGENIERO AGROINDUSTRIAL
+
+
+
+              PUNO          -       PERÚ
+
+
+                          2015
+              UNIVERSIDAD NACIONAL DEL ALTIPLANO
+                  FACULTAD DE CIENCIAS AGRARIAS
+   ESCUELA PROFESIONAL DE INGENIERÍA AGROINDUSTRIAL
+
+                                     TESIS
+
+   “INFLUENCIA DEL GERMINADO Y COCCION HUMEDA EN
+ COMPUESTOS BIOACTIVOS DE DOS ACCESIONES DE CAÑIHUA
+              (Chenopodium pallidicaule Aellen)”
+                               PRESENTADA POR:
+
+                              ELIZABETH LUNA MAMANI
+
+                  PARA OPTAR EL TITULO PROFESIONAL DE:
+
+
+                        INGENIERO AGROINDUSTRIAL
+
+ APROBADO POR EL SIGUIENTE JURADO:
+
+
+
+
+                           PUNO          -      PERÚ
+                                       2015
+
+ÁREA: Ingeniería y tecnología
+TEMA: Desarrollo de procesos y productos agroindustriales sostenibles
+y eficientes
+                                     DEDICATORIA
+
+A mis padres, Genaro y Albina (†) con todo mi
+cariño y afecto, por su gran amor, sacrificio,
+comprensión y confianza durante toda mi
+formación.
+
+
+
+
+                                                 A mis hermanas Nery, Lucy y Karina por su
+                                                                  amor y constante apoyo.
+                                   AGRADECIMIENTO
+
+Expreso mi profundo agradecimiento:
+
+
+        A la Facultad de Ciencias Agrarias en la Escuela Profesional de Ingeniería
+
+Agroindustrial de la Universidad Nacional del Altiplano Puno por abrirme sus puertas y sus
+
+docentes por las enseñanzas y formación profesional impartida.
+
+        Al Instituto Nacional de Innovación Agraria. Por brindarme la materia prima.
+
+        A la Escuela Profesional de Ingeniería Agroindustrial. Por permitirme ejecutar mi
+
+proyecto de tesis.
+
+        A mi Director de tesis Ing. Mg. Sc. Florentino Víctor Choquehuanca Cáceres por
+
+haber confiado en mi persona, por su disposición y apoyo incondicional brindado y a mi
+
+Asesora Ing. Marienela Calsín Cutimbo, por su cooperación, paciencia, comprensión y sobre
+
+todo su amistad, durante todo el proceso y que posibilito la conclusión de este trabajo.
+
+        A todos mis familiares por cada palabra de aliento y apoyo constante.
+
+        A mis amigas (os) por su compañía y los grandes momentos compartidos.
+
+        Y finalmente agradecer a todas las personas que de alguna manera estuvieron
+
+involucradas durante el desarrollo de la presente investigación.
+                                                      INDICE GENERAL
+                                                                                                                                         Pág.
+
+INDICE GENERAL5
+
+ÍNDICE DE TABLAS8
+
+ÍNDICE DE FIGURAS9
+
+RESUMEN...................................................................................................................................11
+
+I.         INTRODUCCIÓN ..........................................................................................................12
+
+II.        REVISION BIBLIOGRÁFICA ......................................................................................14
+
+2.1.       Cañihua ...........................................................................................................................14
+
+2.1.1. Origen ..............................................................................................................................14
+
+2.1.2.      Accesiones .....................................................................................................................14
+
+2.1.3.      Clasificacion taxonomica ...............................................................................................14
+
+2.1.4.      Composicion fisico-quimica y valor nutricional ............................................................15
+
+2.2.       Compuestos bioactivos....................................................................................................16
+
+2.2.1. Antioxidantes ..................................................................................................................17
+
+2.2.1.1. Antioxidantes naturales ...................................................................................................18
+
+2.2.1.2. Antioxidantes sintéticos ..................................................................................................18
+
+2.2.2. Eficacia de los antioxidantes ...........................................................................................19
+
+2.2.3. Compuestos fenólicos .....................................................................................................19
+
+2.2.4. Capacidad antioxidante de los compuestos fenólicos .....................................................20
+
+2.3.       Efectos de algunos tratamientos sobre los compuestos bioactivos .................................21
+
+2.3.1. Germinación ....................................................................................................................21
+
+2.3.2. Cocción ...........................................................................................................................22
+
+III.       MATERIALES Y METODOS .......................................................................................23
+
+3.1.       Lugar de ejecución ..........................................................................................................23
+
+3.2.       Materia prima ..................................................................................................................23
+
+3.3.       Equipos, materiales y reactivos .......................................................................................23
+
+3.3.1. Materiales de laboratorio .................................................................................................23
+
+3.3.2. Equipos ............................................................................................................................23
+3.3.3. Reactivos .........................................................................................................................24
+
+3.4.        Metodología experimental...............................................................................................24
+
+3.4.1. Evaluación de los compuestos bioactivos y composición proximal en el germinado de dos
+            accesiones de cañihua......................................................................................................24
+
+3.4.2. Evaluación de la influencia del germinado y cocción húmeda en los compuestos
+            bioactivos y composición proximal de dos accesiones de cañihua .................................24
+
+3.5.        Métodos de análisis .........................................................................................................26
+
+3.5.1. Determinación de compuestos fenólicos .........................................................................26
+
+3.5.2. Determinación de la capacidad antioxidante ...................................................................27
+
+3.5.3. Determinación de la composición proximal ....................................................................28
+
+3.5.3.1. Humedad .........................................................................................................................28
+
+3.5.3.2. Cenizas ............................................................................................................................29
+
+3.5.3.3. Proteína ...........................................................................................................................29
+
+3.5.3.4. Grasa ...............................................................................................................................29
+
+3.5.3.5. Fibra ................................................................................................................................29
+
+3.5.3.6. Carbohidratos ..................................................................................................................30
+
+3.6.        Análisis estadistico ..........................................................................................................30
+
+3.6.1. Evaluación de los compuestos bioactivos y composición proximal en el germinado de
+            dos accesiones de cañihua ...............................................................................................30
+
+3.6.2. Evaluación de                  la influencia del germinado y cocción húmeda en los compuestos
+            bioactivos y composición proximal de dos accesiones de cañihua .................................31
+
+IV.         RESULTADOS Y DISCUSIONES ................................................................................33
+
+4.1.        Caracteristicas del grano de cañihua ...............................................................................33
+
+4.1.1. Humedad .........................................................................................................................33
+
+4.1.2. Compuestos bioactivos....................................................................................................33
+
+4.2.        Evaluación de los compuestos bioactivos y composición proximal en el germinado de dos
+            accesiones de cañihua......................................................................................................34
+
+4.2.1. Compuestos bioactivos ....................................................................................................34
+
+4.2.1.1. Compuestos fenólicos .....................................................................................................34
+
+4.2.1.2. Capacidad antioxidante ...................................................................................................36
+4.2.2. Composición proximal ....................................................................................................39
+
+4.2.2.1. Ceniza ..............................................................................................................................39
+
+4.2.2.2. Grasa ...............................................................................................................................41
+
+4.2.2.3. Proteína ...........................................................................................................................43
+
+4.2.2.4. Fibra ................................................................................................................................45
+
+4.2.2.5. Carbohidratos ..................................................................................................................47
+
+4.3.        Evaluación de los compuestos bioactivos y composición proximal en el germinado y
+            coccion humeda de dos accesiones de cañihua ...............................................................49
+
+4.3.1. Compuestos bioactivos ....................................................................................................49
+
+4.3.1.1. Compuestos fenólicos totales ..........................................................................................49
+
+4.3.1.2. Capacidad antioxidante ...................................................................................................50
+
+4.3.2. Composición proximal ....................................................................................................51
+
+4.3.2.1. Ceniza ..............................................................................................................................51
+
+4.3.2.2. Grasa ...............................................................................................................................52
+
+4.3.2.3. Proteína ...........................................................................................................................53
+
+4.3.2.4. Fibra ................................................................................................................................54
+
+4.3.2.5. Carbohidratos ..................................................................................................................55
+
+V.          CONCLUSIONES ..........................................................................................................57
+
+VI.         RECOMENDACIONES .................................................................................................58
+
+VII.        BIBLIOGRAFIA .............................................................................................................59
+
+ANEXOS .....................................................................................................................................66
+                                                      ÍNDICE DE TABLAS
+
+                                                                                                                                        Pág.
+
+Tabla 1. Características de valor nutritivo-agroindustrial simples de 90 accesiones de cañihua 15
+Tabla 2. Composición químico proximal del grano de cañihua y de cañihua germinada en la
+variedad Cupi ...............................................................................................................................15
+Tabla 3. Formato para recolección de datos de compuestos bioactivos y composición proximal
+de cañihua germinada...................................................................................................................31
+Tabla 4. Formato para recolección de datos de compuestos bioactivos y composición proximal
+de cañihua germinada y cocida ....................................................................................................32
+Tabla 5. Contenido de humedad del grano de cañihua................................................................33
+Tabla 6. Contenido de compuestos bioactivos del grano de cañihua ..........................................34
+                                                      ÍNDICE DE FIGURAS
+                                                                                                                                           Pág.
+
+Figura 1. Diagrama de flujo para la obtención de harina de cañihua germinada y cocida.........25
+Figura 2. Influencia del tiempo de germinación en compuestos fenólicos de cañihua en la
+accesión PIK 030413 ..................................................................................................................35
+Figura 3. Influencia del tiempo de germinación en compuestos fenólicos de cañihua en la
+accesión PIK 030133 ...................................................................................................................35
+Figura 4. Influencia del tiempo de germinación en capacidad antioxidante de cañihua en la
+accesión PIK 030413 ...................................................................................................................37
+Figura 5. Influencia del tiempo de germinación en capacidad antioxidante de cañihua en la
+accesión PIK 030133 ...................................................................................................................37
+Figura 6. Influencia del tiempo de germinación en ceniza de cañihua en la accesión PIK
+030413..........................................................................................................................................40
+Figura 7. Influencia del tiempo de germinación en ceniza de cañihua en la accesión PIK
+030133..........................................................................................................................................40
+Figura 8. Influencia del tiempo de germinación en grasa de cañihua en la accesión PIK
+030413..........................................................................................................................................42
+Figura 9. Influencia del tiempo de germinación en grasa de cañihua en la accesión PIK
+030133..........................................................................................................................................42
+Figura 10. Influencia del tiempo de germinación en proteína de cañihua en la accesión PIK
+030413..........................................................................................................................................44
+Figura 11. Influencia del tiempo de germinación en proteína de cañihua en la accesión PIK
+030133..........................................................................................................................................44
+Figura 12. Influencia del tiempo de germinación en fibra de cañihua en la accesión PIK
+030413..........................................................................................................................................46
+Figura 13. Influencia del tiempo de germinación en fibra de cañihua en la accesión PIK
+030133..........................................................................................................................................46
+Figura 14. Influencia del tiempo de germinación en carbohidratos de cañihua en la accesión
+PIK 030413 ..................................................................................................................................48
+Figura 15. Influencia del tiempo de germinación en carbohidratos de cañihua en la accesión
+PIK 030133 ..................................................................................................................................48
+Figura 16. Influencia de la temperatura de cocción en los compuestos fenólicos de dos
+accesiones de cañihua germinada (PIK030413 y PIK 030133) ...................................................49
+Figura 17. Influencia de la temperatura de cocción en la capacidad antioxidante de cañihua
+germinada en las accesiones PIK 030413 y PIK 030133 .............................................................51
+Figura 18. Influencia de la temperatura de cocción en ceniza de cañihua germinada (PIK
+030413 y PIK 030133) .................................................................................................................52
+Figura 19. Influencia de la temperatura de cocción en grasa de cañihua germinada (PIK 030413
+y PIK 030133) ..............................................................................................................................53
+Figura 20. Influencia de la temperatura de cocción en proteína de cañihua germinada (PIK
+030413 y PIK 030133) .................................................................................................................54
+Figura 21. Influencia de la temperatura de cocción en fibra de cañihua germinada (PIK 030413
+y PIK 030133) ..............................................................................................................................55
+Figura 22. Influencia de la temperatura de cocción en carbohidratos de cañihua germinada (PIK
+030413 y PIK 030133) .................................................................................................................56
+                                           RESUMEN
+
+En el presente trabajo de investigación, tuvo como objetivo evaluar la influencia del germinado y
+cocción húmeda en compuestos bioactivos de dos accesiones de cañihua (Chenopodium
+pallidicaule Aellen). Para lo cual el grano de cañihua fue sometido a un acondicionamiento antes
+de la evaluación, que consistió en las operaciones de limpieza y selección (eliminación de
+impurezas) obteniéndose así para el germinado a 72 y 96 horas, luego se realizó el proceso de
+cocción húmeda a temperaturas de 65 y 85°C a presión atmosférica. De los análisis realizados,
+para el grano de cañihua germinada se muestra un mayor incremento a 72 horas en compuestos
+fenólicos con un valor de 95.29 mg. ácido gálico/100 g de materia seca, mientras que la capacidad
+antioxidante incremento a 96 horas con un de valor de 181.84 µmol. Trolox eq/g de materia seca,
+mostrando mejores resultados la accesión PIK 030133 y la composición proximal son variables,
+resaltando que el contenido proteico aumenta durante el proceso de germinación a medida que el
+tiempo incrementa. Para la cañihua procesada (germinada y cocida), se observa con mejor
+resultado en compuestos fenólicos y capacidad antioxidante (en granos germinados a 96 horas),
+cocida a una temperatura de 65°C presentando un valor de 81.80 mg. ácido gálico/100 g de
+materia seca y 129.84 µmol. Trolox eq/g de materia seca, teniendo mejores resultados la accesión
+PIK 030133 y la composición proximal presenta resultados ligeramente bajos en ambas
+accesiones. Concluyéndose que los compuestos fenólicos aumentan conforme se incrementa el
+tiempo de germinación hasta lograr una estabilidad y por el proceso de cocción húmeda disminuye
+ligeramente a medida que la temperatura aumenta. La capacidad antioxidante aumenta con el
+tiempo de germinado y disminuye a mayor temperatura de cocción, esto se debería a que durante
+la germinación existe una actividad enzimática y mientras que en la cocción disminuye, porque
+los antioxidantes se degradan a mayor temperatura, la composición proximal durante la
+germinación es favorable y en la cocción es afectado ocasionando una disminución.
+
+
+
+
+                                                                                              11
+                                  I.    INTRODUCCIÓN
+
+        La cañihua (Chenopodium pallidicaule Aellen) es un pseudocereal que ha atraído mucho
+interés en los últimos años, esto debido a su excelente perfil de nutrientes. Además de ser una de
+las fuentes de energía, esto debido a su alto contenido de almidón (Repo-Carrasco et al., 2010).
+Además este pseudocereal proporciona proteínas de buena calidad (Berganza et al., 2003)
+también contiene niveles adecuados de micronutrientes importantes tales como los minerales
+vitaminas y otros componentes bioactivos tales como los polifenoles. Además son libres de gluten
+y pueden ser utilizados por personas que sufren de la enfermedad celiaca.
+
+
+        En los últimos diez años se han llevado muchas investigaciones en la composición de
+polifenoles de los alimentos y también sobre la biodisponibilidad de polifenoles, metabolismo y
+efectos biológicos, este interés en polifenoles en la última década ha sido provocado por los
+resultados de los estudios epidemiológicos que vinculan el consumo de dietas ricas en alimentos
+de origen vegetal con un menor riesgo de enfermedades asociadas con el estrés oxidativo, como
+el cáncer y las enfermedades cardiovasculares (López et al., 2013). Los polifenoles son
+metabolitos secundarios de las plantas que juegan un papel en la protección de estas contra la
+radiación ultravioleta, agentes patógenos y herbívoros. Los polifenoles se han identificado en
+plantas comestibles, las principales fuentes de polifenoles son las frutas y bebidas, sin embargo
+las verduras, cereales y leguminosas son también buenas fuentes. Actualmente la ingesta estimada
+de polifenoles es mayor a 100mg/día. Esto sugiere que estos compuestos representan una parte
+importante de la ingesta dietética total de compuestos biológicamente activos (Rodríguez et al.,
+2008; Alvarez-Jubetea et al., 2010).
+
+
+        El procesamiento puede modificar el contenido de polifenoles de los alimentos de varias
+maneras. No obstante, la presencia de ciertos factores anti nutricionales en los granos hace que
+sea necesario ir a través de cualquier proceso de cocción antes de su consumo, solo para eliminar
+o al menos minimizar su contenido. Entre ellos el más largo método de procesamiento incluyen
+cocinar, germinar o fermentar (Dueñas et al., 2009). En particular, la germinación generalmente
+mejora la calidad nutricional, no solo por la disminución de los componentes anti nutricionales,
+también mediante el aumento de los niveles de aminoácidos libres, hidratos de carbono, fibra
+dietética, así como la funcionalidad de semillas debido al aumento en compuestos bioactivos.
+
+
+        Teniendo en cuenta la importancia de la cañihua en la dieta humana, se tiene por objetivo
+determinar la influencia del germinado y cocción húmeda en los componentes bioactivos de dos
+accesiones de cañihua (Chenopodium pallidicaule Aellen), con la premisa mencionada los
+objetivos específicos son:
+
+                                                                                               12
+1. Evaluar los compuestos bioactivos y composición proximal en el germinado    de dos
+   accesiones de cañihua.
+
+
+2. Evaluar la influencia del germinado y cocción húmeda en los compuestos bioactivos y
+   composición proximal de dos accesiones de cañihua.
+
+
+
+
+                                                                                   13
+                         II.   REVISION BIBLIOGRÁFICA
+
+2.1.      CAÑIHUA
+
+2.1.1.    ORIGEN
+
+          La Cañihua (Chenopodium pallidicaule Aellen) es propio de la altiplanicie andina, en
+el cual antiguamente en esta parte del territorio se desarrolló la cultura de Tiahuanaco. Durante la
+época de los incas la cañihua era un alimento exclusivo del Inca y su corte, (Hernandez y Leon,
+1992).
+
+
+          Es una planta anual que pertenece a la misma familia que la quinua. Chenopodiaceae se
+parece a este cultivo y se le ha confundido mucho tiempo con esta planta hasta que Aellen lo
+clasificó en 1929 como una especie propia (Repo-Carrasco, 1992; Mujica et al., 2002).
+
+
+          La Cañihua (Chenopodium pallidicaule) es una planta que se llega a desarrollar hasta
+en alturas de 4000 m.s.n.m. debido fundamentalmente a su alta resistencia a las bajas temperaturas
+y precocidad de desarrollo (Repo-Carrasco et al., 2010). El mismo autor indica que un factor
+negativo puede ser considerado el tamaño del grano, el mismo que casi nunca ha sobrepasado un
+milímetro de diámetro con un alto porcentaje de granos negros, lo que hace necesario hacer uso
+de técnicas para superar este inconveniente.
+
+
+          En nuestro país, la producción de Cañihua se encuentra principalmente en el
+departamento de Puno, donde se cultivan anualmente 5,638 y 5,594 hectáreas según datos del
+MINAG, (2013).
+
+2.1.2.   ACCESIONES
+
+          INIA–Puno (Instituto Nacional de Investigación Agraria) ha logrado recolectar 374
+accesiones de cañihua (INIA-Puno, 2008).
+
+2.1.3.   CLASIFICACION TAXONOMICA
+
+          Según Mamani, (1994); Mujica et al., (2002) plantean que la cañihua corresponde a la
+siguiente clasificación taxonómica:
+
+
+
+
+                                                                                                 14
+                   Reino                       : Vegetal
+                   Subreino                    : Embryobionta
+                   División                    : Magnoliophyta
+                   Subdivisión                 : Angiospermas
+                   Clase                       : Magnoliopsida
+                   Subclase                    : Caryophyllidae
+                   Orden                       : Caryophyllales
+                   Familia                     : Chenopodiaceae
+                   Genero                      : Chenopodium
+                   Especie                     : Chenopodium pallidicaule
+                   Nombre común                : Cañahua, kañihua, cañihua, etc
+
+2.1.4.      COMPOSICION FISICO-QUIMICA Y VALOR NUTRICIONAL
+
+            La cañihua se caracteriza por un alto contenido de proteínas llegando a superar el 18%,
+con respecto a la variación de la composición química de la cañihua, esta depende de la
+variabilidad genética material, edad de maduración de la planta, localización, cultivo y fertilidad
+del suelo (Tapia, 1990). En cuanto a la calidad nutritiva de una proteína es determinada por su
+contenido en aminoácidos esenciales. Estos compuestos necesarios para mantener el equilibrio
+metabólico en el hombre pero además de estos aminoácidos esenciales, la Cañihua contiene varios
+aminoácidos que la destacan como fuente proteica vegetal superando a otros cereales y
+comparándose a otros alimentos de primer orden (Rojas et al., 2008).
+
+ Tabla 1. Características de valor nutritivo-agroindustrial simples de 90 accesiones de cañihua
+
+         Componentes                Mínimo           Máximo           Media         SD
+         Proteínas (%)                 12,76           19,00          16,12         1,55
+         Grasa (%)                     2,11            14,50           7,46         1,96
+         Fibra (%)                     5,45            11,12           8,41         1,16
+         Ceniza (%)                    3,12             5,77           4,29         0,58
+         Carbohidratos (%)             45,72           67,70          56,91         5,33
+         Humedad (%)                   4,68            14,70          10,37         1,76
+         Energía (Kcal/100g)          324,54          396,42         358,92        20,52
+         Granulo almidón (µ)           5,50             38,0          18,98         6,96
+         Azúcar invertido (%)          5,00            35,00          15,33         7,55
+         Agua empaste (%)              9,00            39,00          20,18         6.21
+            Fuente: (Rojas et al., 2008).
+
+  Tabla 2. Composición químico proximal del grano de cañihua y de cañihua germinada en la
+                                               variedad Cupi
+
+
+
+                                                                                                15
+              Componentes (%)         Grano       CG1          CG2        CG3
+              Humedad                  11.00      7.50         5.00       4.00
+              Lípidos                  6.50       10.00        10.00      9.00
+              Proteína                 16.80      17.30        17.50      17.70
+              Ceniza                   5.10       2.64         2.60       2.89
+              Fibra                    5.40       5.20         5.10       3.80
+              Carbohidratos            55.20      57.36        59.80      62.61
+                    Fuente: (Castillo, 2010)
+                    CG1: Cañihua germinada durante 48 horas
+                    CG2: Cañihua germinada durante 72 horas
+                    CG3: Cañihua germinada durante 96 horas
+
+
+2.2.     COMPUESTOS BIOACTIVOS
+
+         Se considera “componentes bioactivos” de un alimento a aquel que aporta un beneficio
+para la salud más allá de las consideraciones propias de la nutrición básica. Estos componentes
+se encuentran en general en pequeñas cantidades en los productos de origen vegetal. Se puede
+considerar como componentes bioactivos, tanto a algunas vitaminas y minerales, como a otros
+compuestos no nutrientes presentes fundamentalmente en plantas (fitoquímicos) que inducen
+efectos metabólicos derivados de su actividad biológica constatada en modelos de laboratorio
+y asociada a efectos beneficiosos sobre la salud humana, como ejemplo la mejoría de funciones
+fisiológicas o reducción de riesgo de padecer enfermedades (Olmedilla y Granado, 2007).
+
+
+         En el reino vegetal, se pueden distinguir 4 grandes grupos de compuestos bioactivos,
+entre los que se incluyen sustancias de diversas familias químicas, como son las sustancias
+nitrogenadas, las azufradas, las terpénicas y las más ampliamente estudiadas, las fenólicas.
+Muchos compuestos fenólicos tienen un impacto directo en la calidad de los productos que los
+contienen, pues en parte se encargan de sus propiedades sensoriales. Así, entre estos compuestos
+se encuentran pigmentos como las antocianinas (encargados de los tonos rojizos-azulados) o los
+flavonoles (tonos amarillentos), son susceptibles de ser oxidados por las enzimas presentes en los
+tejidos vegetales, y dar lugar a productos pardos (Martínez – Navarrete, Del Mar y Martínez,
+2008).
+
+
+         Estos compuestos varían ampliamente en estructura química y función por ende se
+agrupan. Dentro de los compuestos fitoquímicos beneficiosos para la salud humana se podrían a
+las vitaminas C, E, K, vitaminas del grupo B, el ácido fólico; minerales, como el hierro, zinc,
+calcio, selenio; carotenoides (tanto los que poseen actividad provitamínica A como los que no
+la poseen); compuestos fenólicos (flavonoides, cinamatos y taninos), glucosinolatos y
+fitoesteroles, etc. Muchos de los compuestos mencionados son capaces de actuar por diversos
+
+                                                                                               16
+mecanismos (quizás el más conocido sea el antioxidante), así como interactuar de forma sinérgica
+o antagónica entre sí (Olmedilla, Granado y Herrero, 2001).
+
+
+2.2.1.   ANTIOXIDANTES
+
+         Los antioxidantes son ingredientes importantes que protegen la calidad de los alimentos
+retardando la oxidación. Los antioxidantes son moléculas que tienen la propiedad de evitar o
+prevenir la oxidación con otras moléculas (Helliwell, 1990).
+
+
+         Se producen reacciones de oxidación cuando un átomo o grupos de átomos ceden
+electrones, y para cada oxidación existe la correspondiente reducción que conlleva la adición de
+electrones. La actividad antioxidante es aquella que permite neutralizar los átomos de oxígeno.
+El átomo de oxígeno en estado libre tiene 4 pares de electrones y se torna inestable cuando pierde
+un electrón. Los radicales libres, son moléculas cuyos átomos carecen un electrón, esto hace que
+sean muy reactivos porque toman el electrón que les falta de una molécula vecina provocando así
+la oxidación de ésta última, que a su vez, al quedarse sin un electrón, se convierte en un radical
+libre con la capacidad de oxidar a otra molécula cercana, induciendo una reacción en cadena
+(Delgado, Betanzos y Sumaya, 2010; Escobar, 2010).
+
+
+         Almajano, (2009) menciona que las células, como parte de su propio metabolismo,
+producen radicales libres y especies reactivas del oxígeno (ROS). Estos radicales libres, son
+bloqueados por un complejo de sistema antioxidante de enzimas como la catalasa, superóxido
+dismutasa, glutatión peroxidasa y un continuo de antioxidantes no enzimáticos, como las
+vitaminas A, E y C, glutatión, ubiquinona o flavonoides. Los seres vivos, tienen un complejo
+sistema, para hacer frente a esta oxidación y en especial, los vegetales, por estar expuestos a la
+radiación solar. Ciertas sustancias, llamadas antioxidantes, desde vitaminas hasta polifenoles,
+bloquean la acción de estos radicales libres (Alvarez-Jubetea et al., 2010).
+
+
+         Cabe señalar que si se produce un desequilibrio entre los prooxidantes y los
+antioxidantes, se llega a un estado de estrés oxidativo, que puede ser producido por una excesiva
+producción de radicales libre. La dieta juega un papel importante en la prevención de las
+enfermedades relacionadas con el estrés oxidativo, fundamentalmente a través de la ingestión de
+compuestos bioactivos de origen vegetal (Franco y Moure, 2010).
+
+
+         Los polifenoles son los antioxidantes más abundantes en la dieta, ya que la ingesta
+media está estimada en alrededor de 1g, lo cual supone 10 veces más que la ingesta de vitamina
+C, 100 veces más que vitamina E y 500 la de carotenoides (Rodríguez et al., 2008).
+
+                                                                                               17
+2.2.1.1. ANTIOXIDANTES NATURALES
+
+          Es muy difícil intentar definir los antioxidantes naturales, pero en general el término
+alude a aquellas sustancias que se presentan o pueden ser extraídas de los tejidos de las plantas,
+animales y aquellos que se forman durante el cocinado o el procesado de compuestos alimenticios
+de origen vegetal y animal. La mayoría de los antioxidantes naturales son compuestos fenólicos
+y su eficacia depende de la reacción del hidrogeno fenólico con los radicales libres, de la
+estabilidad de los radicales antioxidantes formados durante la reacción con los radicales libres y
+de las sustituciones químicas presentes en su estructura básica, que probablemente es el factor
+que contribuye la actividad de los antioxidantes naturales estables (Pokorny, Yanisleva y Gordon,
+2004; Porras-Loaiza y Lopez-Malo, 2009).
+
+
+          Entretanto investigaciones de la actividad antioxidante de varias fuentes naturales
+demuestren que son eficaces y seguros, así extractos vegetales ricos en compuestos fenólicos
+despiertan un interés en la agroindustria porque retardan la degradación oxidativa de lípidos y
+mejoran las cualidades de los alimentos. Además se están estableciendo metodologías de
+extracción, identificación de compuestos activos, y evaluación de su eficacia de estos compuestos
+activos en la oxidación de aceites y alimentos, constatándose que la actividad antioxidante de una
+fuente natural es influenciada por diferentes factores como: región en donde la planta es cultivada,
+el solvente o técnica de extracción empleados, o el sustrato lipídico utilizado en el ensayo
+(Frankel, 1996).
+
+2.2.1.2. ANTIOXIDANTES SINTÉTICOS
+
+          Los antioxidantes sintéticos más usados son los compuestos fenólicos como el
+hidroxianisol butilado (BHA), el hidroxitolueno butilado (BHT), la butilhidroquinona terciaria
+(TBHQ) y los esteres del ácido gálico (Pokorny, Yanisleva y Gordon, 2004).
+
+
+        Los antioxidantes sintéticos contienen sustituciones alquílicas para mejorar su solubilidad
+en grasas y aceites. Son muy estables al calor y se usan a menudo para estabilizar las grasas de
+los productos cocinados y fritos. Pero desde el punto de vista de la seguridad alimentaria están
+sujetos a constantes cuestionamientos y restricciones dado a que se ha reportado que serían
+carcinogénicos (Ito et al., 1996). La toxicología de los antioxidantes sintéticos se ha estudiado
+con gran profundidad, aconsejan mantener cierta precaución. En este caso los antioxidantes
+naturales se presentan como sustancias más saludables.
+
+
+
+
+                                                                                                 18
+2.2.2.    EFICACIA DE LOS ANTIOXIDANTES
+
+          El grado de polimerización tiene un marcado efecto en la eficacia de los antioxidantes.
+Así los compuestos poliméricos son más potentes como antioxidantes que los monomericos. La
+eficacia antioxidante varía además en función a la solubilidad relativa en fase acuosa o lipofilica,
+que afecta a la accesibilidad de los radicales peroxi y a la volatilidad de su persistencia a lo largo
+del almacenamiento o tratamiento térmico. La unión de azucares hace a los compuestos fenólicos
+más hidrosolubles pero disminuye su actividad antioxidante (Rice-Evans, Millar y Paganga,
+1996). Así mismo Torres et al., (2002), sugiere que la eficacia se puede relacionar con
+interacciones hidrofobicas e hidrofilicas dependiendo de su estructura. Por otro lado Pazos et al.
+(2004), menciona que los antioxidantes hidrofilicos son menos activos puesto que se diluyen en
+fase acuosa. Chen y Ho, (1997) menciona que algunos polifenoles podrían inducir la generación
+del peróxido de hidrogeno en soluciones acuosas, que entonces promueven la oxidación de las
+emulsiones.
+
+2.2.3.    COMPUESTOS FENÓLICOS
+
+          Los compuestos fenólicos o polifenoles se caracterizan por ser uno de los grupos de
+compuestos presentes en el reino vegetal, siendo parte importante de la dieta tanto humana como
+animal. Álvarez-Jubetea et al., (2010) menciona que los polifenoles son metabolitos secundarios
+de las plantas que juegan un papel en la protección de las plantas contra la radiación ultravioleta,
+agentes patógenos y herbívoros. Con diferentes estructuras químicas y actividad, englobando más
+de 8000 compuestos distintos. Actualmente, este grupo de compuestos presentan un gran interés
+nutricional por su contribución al mantenimiento de la salud humana. De este modo, muchas de
+las propiedades beneficiosas descritas en los alimentos de origen vegetal, asociados
+principalmente a la actividad antioxidante de estos compuestos, están relacionadas con la
+presencia y el contenido de compuestos fenólicos (Martínez-Valverde, Periago y Ros, 2000).
+
+
+          Los flavonoides     es el grupo más ampliamente distribuido (flavonoles, flavonas,
+isoflavonas, flavanonas, antocianinas y flavanonas) estos son constituyentes naturales de los
+alimentos vegetales y proporcionan, en gran medida, el flavor, color y textura de estos alimentos.
+Los flavonoides más abundantes en los vegetales son los flavonoles y las flavonas (un subgrupo
+de flavonoles) y los glucosidos de ambos. Los flavonoles poseen una coloración amarillenta, estos
+compuestos pueden ser identificados claramente por la existencia de un grupo carbonilo en C4.
+Según el grado de oxidación de la molécula pueden distinguirse diferentes tipos de compuestos
+(Porras-Loaiza y Lopez-Malo, 2009).
+
+
+
+
+                                                                                                   19
+         Los flavonoides son la clase predominantemente descrita de los fenoles presentes en los
+alimentos, porque son aproximadamente 2/3 de los fenoles consumidos en la dieta humana.
+Debido a su presencia ubicua en los alimentos de origen vegetal, los humanos consumen
+compuestos fenólicos a diario. El rango de consumo es de 25 mg a 1g por día dependiendo del
+tipo de dieta (frutas, vegetales, granos, té, especias) (Robbins, 2003). Esto sugiere que estos
+compuestos representan una parte importante de la ingesta dietética total de compuestos
+biológicamente activos (Hooper y Cassidy, 2006).
+
+
+2.2.4.   CAPACIDAD ANTIOXIDANTE DE LOS COMPUESTOS FENÓLICOS
+
+         La capacidad antioxidante de un alimento depende de la naturaleza y concentración de
+los antioxidantes presentes en él. Existen investigaciones que verifican la actividad antioxidante
+e identifican los compuestos activos. Constatando también que la actividad antioxidante es
+influenciada por diversos factores como: la región donde es cultivada, el solvente o técnica de
+extracción empleados, sustratos lipiditos utilizados en el ensayo (Frankel, 1998).
+
+
+         La actividad antioxidante corresponde a la razón constante de un solo antioxidante en
+contra de un radical libre dado. La capacidad antioxidante es la medida de las moles de un radical
+dado, reduciendo por la solución prueba independientemente de la actividad antioxidante de
+cualquier antioxidante presente en la mezcla (Zheng y Wang, 2001). Calsin, (2007) menciona que
+el radical libre (RL) es cualquier especie química capaz de existir de forma independiente y que
+presenta uno o más electrones desapareados en su estructura. Como consecuencia, son altamente
+reactivos lo que hace que tengan una vida media del orden de milisegundos, aunque varía según
+el tipo de radical libre (Franco y Moure, 2010). Además a bajas concentraciones los radicales
+libres son necesarios para el buen funcionamiento celular pudiendo actuar como segundos
+mensajeros estimulando la proliferación celular y/o actuando como mediadores para la activación
+de las células. Sin embargo, un exceso de los mismos puede acumularse hasta niveles tóxicos
+dando como resultado que se produzcan diversas acciones sobre el metabolismo de los principios
+inmediatos, que pueden ser origen del daño celular (García, 2005).
+
+
+
+
+                                                                                               20
+2.3.      EFECTOS DE ALGUNOS TRATAMIENTOS SOBRE LOS COMPUESTOS
+          BIOACTIVOS
+
+2.3.1.    GERMINACIÓN
+
+          Matilla, (2003) define la germinación como el conjunto de procesos metabólicos y
+morfogenéticos que tienen como resultado la transformación de un embrión en una plántula capaz
+de valerse por sí misma y transformarse en una planta fotosintéticamente competente. Cuando las
+semillas viables en estado de quiescencia se embeben con agua, comienzan una serie de eventos
+que culminan con la emergencia de la radícula por fuera de las envolturas seminales o del fruto.
+Esto significa que el proceso de la germinación se cumplió exitosamente. (Lallana, Elizalde y
+García, 2005).
+
+
+          La germinación de cereales es importante en la industria del malteado, que depende de
+un cierto grado de degradación del almidón. El malteo es el proceso de germinación controlada
+que libera una dotación de enzimas capaces de convertir el almidón del cereal en azucares
+fermenticibles (Tian et al., 2010), cabe señalar también que la germinación se produce como un
+proceso biológico complejo que implica naturalmente reacciones catabólicas, tales como la
+hidrólisis de sustancias de reserva y las reacciones anabólicos, tales como la síntesis de la enzima
+y la reparación de los componentes celulares para producir nuevas células del embrión (Dueñas
+et al., 2009). Este proceso se puede utilizar para mejorar la calidad sensorial
+
+
+          La cañihua con el proceso de germinación incrementa la capacidad antioxidante,
+compuestos fenólicos y productos de reacción de maillard, incluyendo productos finales
+glicosilada avanzada mientras que disminuyó marcadores de estrés oxidativo. Todos los
+parámetros mostraron un patrón de tiempo similar, con un máximo de 72 h (Abderrahim et al.,
+2012).
+
+
+          Estudios realizados por Pasko et al., (2009) en germinación de algunos cereales como
+la quinua y amaranto, dependía de la longitud de su crecimiento, y se alcanzaron los valores de
+pico en el cuarto día en el caso de amaranto y en el sexto día en el caso de la quinua para ambos
+realizados con las metodologías del ABTS y DPPH. Los datos obtenidos por ambos métodos
+mostraron correlación significativa entre el contenido de polifenoles totales en las semillas
+germinadas. Los granos germinados que crecen en la luz del día y en la oscuridad observamos
+algunos cambios significativos de contenido de polifenoles totales (PT), contenido de
+antocianinas (ANT) y la actividad antioxidante.
+
+
+
+
+                                                                                                 21
+2.3.2.    COCCIÓN
+
+          Las frutas y vegetales después de ser procesados sufren cambios físicos y químicos, que
+podrían afectar el contenido de sus fitonutrientes y sus antioxidantes, generalmente son
+consumidos después de una cocción, varias son las formas de procesamiento con fines de
+comercialización entre ellos, deshidratados y congelados (De La Riva, 2010).
+
+
+          El tratamiento térmico en agua, afecta el contenido de polifenoles, causando su
+reducción debido a la solubilización de los polifenoles en el agua de cocción (Martínez –
+Valverde, Periago y Ros, 2000). Se puede ver en los alimentos como las verduras que siempre
+son sometidas a este proceso donde disminuye en diferentes porcentajes el poder antioxidante, de
+acuerdo al tipo de alimentos elaborados; siendo menor en la espinaca y cercana a un 50% en el
+ajo y la cebolla. Las explicaciones propuestas para este hecho son: la sensibilidad de los
+polifenoles a la temperatura y la solubilización de los mismos en el agua de cocción (Agostini et
+al., 2004).
+
+
+
+
+                                                                                              22
+                       III.   MATERIALES Y METODOS
+
+3.1.     LUGAR DE EJECUCIÓN
+
+         El presente proyecto de investigación se llevó a cabo en el departamento de Puno en los
+laboratorios de la Escuela Profesional de Ingeniería Agroindustrial de la Universidad Nacional
+del Altiplano-Puno.
+
+3.2.     MATERIA PRIMA
+
+         Se trabajó con las accesiones PIK 030413 y PIK 030133 adquiridas del Instituto
+Nacional de Investigación Agraria INIA – Puno.
+
+3.3.     EQUIPOS, MATERIALES Y REACTIVOS
+
+3.3.1.   MATERIALES DE LABORATORIO
+
+            Cronometro.
+            Erlenmeyer de 250 ml.
+            Fiolas de 5, 10, 25, 50, 500 y 1000 ml.
+            Matraces de 250, 500 y 1000ml.
+            Micropipetas de 5-50, 20-200 y 100-1000µL como tips.
+            Pipetas volumétricas de 5, 10ml.
+            Probetas de 10, 50 y 500ml.
+            Soportes.
+            Tubos de ensayo de 5 y 7ml.
+            Vasos precipitados de 25, 50, 100, 250 y 500ml.
+
+3.3.2.   EQUIPOS
+
+            Agitadores magnéticos MicroMix Potencia 12 W. Rango de velocidad 200-1500
+               rpm.
+            Balanza electrónica Henkel Serie KG 25550.
+            Centrifugadora DYNAC 420101, USA.
+            Cocina eléctrica PREMIER.
+            Espectrofotómetro 4802- UV/VIS DOUBLE BEAM.
+            Estufa marca MEMMET.
+            Mortero de 5 – 20g.
+            Rotavapor lavorota 4000 HEIDOLPH.
+            Termómetro IR FLUKE MINI 62.
+
+                                                                                             23
+3.3.3.    REACTIVOS
+
+                ABTS (2,2 Azino-bis 3 Ethylbenzothializone-6-sulfonic Acid Diamonnium Salt
+                  98%) (SIGMA ALDRICH).
+                Acido galico (acido 3,4,5- trihidroxibenzoico) (MERK).
+                Agua destilada (MERCK).
+                Carbonato de sodio Na2SO3 (MERK).
+                Folin Ciocalteau 2N (MERCK).
+                Metanol CH3OH 99.8% (SIGMA ALDRICH).
+                Persulfato de Sodio (MERCK).
+
+3.4.      METODOLOGÍA EXPERIMENTAL
+
+          El presente proyecto de investigación se ha realizado de acuerdo a los objetivos
+planteados.
+
+3.4.1.    EVALUACIÓN DE LOS COMPUESTOS BIOACTIVOS Y COMPOSICIÓN
+          PROXIMAL EN EL GERMINADO DE DOS ACCESIONES DE CAÑIHUA
+
+          Se trabajó con las accesiones promisorias PIK 030413 y PIK 030133 en dos tiempos de
+germinación de 72 y 96 horas luego del geminado se evaluó los compuestos fenólicos, capacidad
+antioxidante y composición proximal. El diseño experimental se muestra en la primera parte de
+la Figura 1.
+
+
+3.4.2.    EVALUACIÓN DE LA INFLUENCIA DEL GERMINADO Y COCCIÓN
+          HÚMEDA EN LOS COMPUESTOS BIOACTIVOS Y COMPOSICIÓN
+          PROXIMAL DE DOS ACCESIONES DE CAÑIHUA
+
+          Se trabajó con las accesiones promisorias PIK 030413 y PIK 030133 en dos tiempos
+de germinación de 72 y 96 horas y dos temperaturas de cocción de 65 y 85°C luego se evaluó
+en la harina de cañihua los compuestos fenólicos, capacidad antioxidante y composición proximal
+como se muestra en la Figura 1.
+
+
+
+
+                                                                                            24
+   Figura 1. Diagrama de flujo para la obtención de harina de cañihua germinada y cocida
+
+
+
+            PIK 030413                                          Compuestos fenólicos
+                                         Cañihua                Capacidad antioxidante
+            PIK 030133                                          Composición proximal
+
+                                  Limpieza y selección
+
+
+                                          Remojo              20° C x
+                                                              14 horas
+
+
+
+                  Germinado                                   Germinado
+                  a 72 horas                                  a 96 horas
+
+
+                    Secado                 60° C                Secado
+
+
+                  Devegetado                                  Devegetado
+
+                                   Compuestos fenólicos
+             Cañihua Germinada     Capacidad antioxidante   Cañihua Germinada
+                                   Composición proximal
+
+
+
+
+   Cocción                              Cocción                                    Cocción
+                     25- 30 min                             25-30 min
+Húmeda a 65°C                        Húmeda a 85°C                              Húmeda a 65°C
+
+
+
+
+                    Filtrado                                    Filtrado
+
+
+                Deshidratación             60°C             Deshidratación
+
+
+                    Molido                                      Molido
+
+
+
+                                                                         Compuestos fenólicos
+                               Harina de Cañihua germinada               Capacidad antioxidante
+                                         y cocida                        Composición proximal
+
+
+
+
+      Fuente: Dueñas et al., (2009); Castillo, (2010); Abderrahim et al., (2012)
+
+
+
+                                                                                                  25
+DESCRIPCIÓN DEL PROCESO EXPERIMENTAL
+
+Limpieza. Los granos de cañihua se sometieron a limpieza y selección, para eliminar partículas
+extrañas, con la finalidad de obtener y trabajar en condiciones de pureza y calidad.
+Remojo. Proceso por el cual el grano de cañihua se sometió en un recipiente por un tiempo de
+14 horas a una temperatura de 20°C.
+Germinado. Las muestras después del remojo se colocan en los germinadores a una temperatura
+de 20° C por 72 y 96 horas. La germinación o malteado, se realizaron con el objetivo de
+transformar los almidones en azucares reductores por acción de las amilasas.
+Secado. Los granos germinados se secaron en un secador de bandejas por un tiempo de 12 horas
+a 60°C, con la finalidad de inhibir su evolución biológica.
+Devegetado. Luego del secado los granos secos se eliminan las raicillas y cascarillas en forma
+manual, con la finalidad de evitar la absorción de agua.
+Cocción Húmeda. Se cocinó el grano de cañihua en agua a temperaturas de 65°C y 85°C por un
+periodo de tiempo de 20-35 minutos.
+Filtrado. Este proceso unitario de separación de sólidos en suspensión en un líquido mediante un
+medio poroso, que retiene los sólidos se realiza con el fin de separar completamente.
+Deshidratación. Consiste en que el grano pierda agua a través de un horno con aire a 60°C. Una
+vez seca (10% humedad).
+Molido. Proceso por el cual la muestra se muele para obtener harina en un molino casero.
+
+3.5.     MÉTODOS DE ANÁLISIS
+
+3.5.1.   DETERMINACIÓN DE COMPUESTOS FENÓLICOS
+
+         Se utilizó la metodología reportado por Singleton y Rossi, (1965), el cual se basa en la
+cuantificación espectrofotometría del complejo coloreado formado por la reacción entre los
+compuestos fenólicos y el reactivo Folin - Cicocalteau. El procedimiento es el siguiente:
+
+
+         Se preparó soluciones de carbonato de sodio y Folin - Cicocalteau 1N. Para cuantificar
+los compuestos fenólicos totales, luego se deposita en tubos de prueba de 500µl de los extractos
+obtenidos, a ello se le añade 250 µl del reactivo Folin – Cicocalteau 1N y se adiciona 1250 µl de
+la solución de carbonato de sodio, se homogeniza el conjunto y se deja reposar por 30 minutos a
+temperatura ambiente, luego se realiza la lectura a la longitud de onda de 755nm. Paralelamente
+se preparó un blanco con metanol en lugar de extracto y se trabajó bajo las mismas condiciones,
+el blanco sirve para llevar a cero el espectrofotómetro.
+
+
+
+
+                                                                                              26
+             Tomando como referencia la curva estándar reportada por Aguilar, (2002) que se
+muestra en la siguiente ecuación. Los resultados se expresan como mg. ácido gálico/100g de
+Cañihua.
+
+             La ecuación para la cuantificación de compuestos fenólicos fue la siguiente:
+
+                                         𝑌 = 0.22407447 𝑥 𝐴𝑏𝑠 − 0.001586
+
+             Donde Y, es el contenido en mg ácido gálico/ml
+             El contenido de compuestos fenólicos totales se calculó con la siguiente ecuación:
+
+                           𝑔á𝑙𝑖𝑐𝑜
+               𝑚𝑔. á𝑐𝑖𝑑𝑜   100𝑔
+                                  .=   ((0.22407447 𝑥 𝐴𝑏𝑠) − 0.001586))𝑥 𝐹𝑑 𝑥 𝐴 𝑥 100
+
+             Dónde:
+         𝐴𝑏𝑠 : Absorbancia de la muestra medidas a 755nm
+         𝐹𝑑 : Factor de dilución
+         𝐴     : Volumen (ml) de solvente utilizado + peso de la muestra (g.)/peso de la muestra (g.)
+
+3.5.2.       DETERMINACIÓN DE LA CAPACIDAD ANTIOXIDANTE
+
+             Se utilizó la metodología reportado por Arnao, (2001). El método permite evaluar la
+capacidad antioxidante debido a la decoloración de un radical libre preformado por la acción del
+compuesto antioxidante. Es aplicable para antioxidantes hidrofilicos, así como también para los
+lipofilicos. El procedimiento es el siguiente:
+
+
+             La solución de ABTS se preparó diluyendo 78.4 mg. Luego se enrasa a 10ml de agua
+destilada en una fiola (reactivo A). Por otro lado, también se preparó una solución de persulfato
+de potasio (reactivo B), para lo cual se pesa 26.4mg. Y se enrasa a 20ml en una fiola con agua
+destilada. Ambas soluciones se almacenaron a temperatura ambiente en un frasco oscuro.
+
+
+             Luego se preparó la solución madre de ABTS+2 empleando volúmenes iguales de los
+reactivos A y B (relación 1:1), luego se mezclaron bien y se dejó reposar en oscuridad por 12
+horas a temperatura ambiente, antes de ser usada. La solución madre sirve para las 4 horas
+siguientes.
+
+
+             De la solución madre se preparó una solución diluida de ABTS+2 y se le adiciono 60mL
+de metanol al 96%, esta solución debe dar una lectura de absorbancia a 734 nm de 1,1±0.02, de
+lo contrario debe corregirse agregando metanol o solución madre, según sea el caso (conservar en
+un frasco ambar). Se llevó previamente a cero el espectrofotómetro con metanol.
+
+
+
+                                                                                                  27
+         Para proceder a la cuantificación de la capacidad antioxidante se toma 15 µl de los
+extractos obtenidos, se adicionan 2850 µl de solución de ABTS diluida, luego se agito por 2 horas
+y 30 minutos ya que en este tiempo se mantiene constante, a temperatura ambiente. Luego se
+procede a realizar las lecturas de absorbancia a 734 nm. Las lecturas deben estar comprendidas
+entre 0.1 y 1.05. Para preparar el blanco se procede de la misma manera pero se utiliza en lugar
+de la muestra metanol. La actividad antioxidante se estima usando una curva estándar teniendo
+como patrón el trolox, el cual es una sustancia hidrosoluble análoga de la vitamina E. los
+resultados se expresan como µmol trolox equivalente/g. de Cañihua.
+
+
+         Tomando como referencia la curva estándar reportada por Calsín (2007) para la
+cuantificación de la capacidad antioxidante que se muestra en la siguiente ecuación:
+
+
+            µmol trolox equivalente/ml= 0.7836 𝑥 𝐴𝑏𝑠 − 0.001
+            Y la capacidad antioxidante se calculara con la ecuación:
+                                𝑌 = ((0.7836 𝑥 ∆𝐴𝑏𝑠) − 0.001) 𝑥 𝐹𝑑 𝑥 𝐴
+            Dónde:
+            Y: µmol trolox equivalente/g. de muestra fresca
+            ΔAbs: absorbancia del blanco – absorbancia de la muestra (734nm)
+            Fd: factor de dilución
+            A: volumen (ml) de solvente utilizado + peso de muestra (g)/ peso de la muestra (g).
+
+3.5.3.   DETERMINACIÓN DE LA COMPOSICIÓN PROXIMAL
+
+         La determinación del contenido de humedad, ceniza, proteínas, grasa, fibra y
+carbohidratos se realizó de acuerdo a los métodos citados por A.O.A.C, (1990).
+
+3.5.3.1. Humedad
+
+         Para la determinación de humedad se utilizó el método gravimétrico por la pérdida de
+peso de la muestra al someterse a calentamiento en estufa, hasta peso constante, método 925.23
+de la A.O.A.C, (1990). Los cálculos se hicieron como sigue:
+
+
+                                                    (𝑃1 − 𝑃2) ∗ 100
+                                     %𝐻𝑢𝑚𝑒𝑑𝑎𝑑 =
+                                                           𝑃
+
+
+
+
+                                                                                              28
+3.5.3.2. Cenizas
+
+          Para la determinación de cenizas se utilizó el método gravimétrico, basado en la
+incineración de la materia orgánica y obtención de residuos a una temperatura de 600°C, hasta
+peso constante, método 942.05 de la A.O.A.C, (1990). Los cálculos se hicieron como sigue:
+                                                 𝑃𝑒𝑠𝑜 𝑑𝑒 𝑐𝑒𝑛𝑖𝑧𝑎 ∗ 100
+                                   %𝐶𝑒𝑛𝑖𝑧𝑎 =
+                                                 𝑃𝑒𝑠𝑜 𝑑𝑒 𝑙𝑎 𝑚𝑢𝑒𝑠𝑡𝑟𝑎
+
+3.5.3.3. Proteína
+
+          Para la determinación de proteína se realizó con el método de la transformación de los
+compuestos nitrogenados presentes en la muestra, en amonio por digestión con ácido sulfúrico
+concentrado en presencia de oxidantes. Método recomendado por la A.O.A.C, (1990).
+                                               𝑉 ∗ 𝑁 ∗ 𝑚𝑒𝑞𝑁 ∗ 100
+                               %𝑃𝑟𝑜𝑡𝑒𝑖𝑛𝑎 =                        ∗ 6.25
+                                               𝑃𝑒𝑠𝑜 𝑑𝑒 𝑙𝑎 𝑚𝑢𝑒𝑠𝑡𝑟𝑎
+        Dónde:
+        V = volumen de gasto del ácido clorhídrico
+        N = normalidad del acido
+        Meq = mili equivalente 14/1000
+        6.25 factor, relación nitrógeno-proteína 100/16
+
+3.5.3.4. Grasa
+
+          La determinación de grasa se realizó por el método de Soxhlet, de extracción de grasas,
+para lo cual se hidroliza la muestra con ácido clorhídrico diluido. La masa obtenida, conteniendo
+las materias grasas se extrae con el éter, el solvente se evapora y el residuo se pesa, método 963.1
+de la A.O.A.C, (1990). Los cálculos se hicieron como sigue:
+
+
+                          (𝑃𝑒𝑠𝑜 𝑑𝑒 𝑙𝑎 𝑚𝑎𝑡𝑒𝑟𝑖𝑎 𝑐𝑜𝑛 𝑔𝑟𝑎𝑠𝑎 − 𝑃𝑒𝑠𝑜 𝑚𝑎𝑡𝑟𝑎𝑧 𝑣𝑎𝑐𝑖𝑜) ∗ 100
+              %𝐺𝑟𝑎𝑠𝑎 =
+                                             𝑃𝑒𝑠𝑜 𝑑𝑒 𝑙𝑎 𝑚𝑢𝑒𝑠𝑡𝑟𝑎
+3.5.3.5. Fibra
+
+          La determinación de la fibra cruda, la muestra exenta de grasa se trata con soluciones
+de ácido sulfúrico e hidróxido de potasio de concentraciones conocidas. El residuo se separa por
+filtración, lavar, desecar y pesar el residuo insoluble, determinando posteriormente su pérdida de
+masa por calcinación a 550°C, método 962.09 de la A.O.A.C, (1990). Los cálculos se hicieron
+como sigue:
+                               %𝐹𝑖𝑏𝑟𝑎 = {[(𝑀1 − 𝑀𝑓) − 𝑀2]/𝑀} ∗ 100
+
+
+
+
+                                                                                                 29
+3.5.3.6. Carbohidratos
+
+            Por diferencia de 100 y la suma de los otros componentes.
+
+
+
+3.6.        ANÁLISIS ESTADISTICO
+
+            El presente trabajo de investigación, se utilizó un diseño DCA bajo el experimento
+factorial, con tres repeticiones por tratamiento y su variabilidad mediante la desviación estándar.
+Así mismo se realiza un análisis de varianza con la finalidad de determinar si existe una diferencia
+significativa entre los procesos y el efecto de ellos, como variables de respuesta se tiene los
+compuestos bioactivos (compuestos fenólicos y capacidad antioxidante) y la composición
+proximal (cenizas, proteínas, grasa, fibra y carbohidratos), que se realizó con el software
+Statgraphics plus 16.1.
+
+
+3.6.1.      EVALUACIÓN DE LOS COMPUESTOS BIOACTIVOS Y COMPOSICIÓN
+            PROXIMAL EN EL GERMINADO DE DOS ACCESIONES DE CAÑIHUA
+
+            Se evaluó los compuestos bioactivos (compuestos fenólicos y capacidad antioxidante)
+y la composición proximal como variables de respuesta en la evaluación del germinado de dos
+accesiones promisorias de cañihua, usando un diseño completamente al azar de A x 3B donde los
+niveles fueron, realizado para cada accesión:
+
+Factor A
+
+       -   Accesiones de cañihua (PIK 030413, PIK 030133)
+
+Factor B
+
+       -   Tiempo de Germinado (0, 72, 96 horas)
+
+            Para la comparación se utiliza la prueba de Tukey, realizando una clasificación de los
+diferentes tratamientos, encontrándose el mejor.
+
+
+
+
+                                                                                                 30
+Tabla 3. Formato para recolección de datos de compuestos bioactivos y composición proximal
+                                      de cañihua germinada
+
+
+      ACCESION             TRATAMIENTO                          EVALUACIONES
+    (Chenopodium
+                              Germinacion          Compuestos     Capacidad      Composición
+  pallidicaule Aellen)
+                                (horas)             fenólicos    antioxidante     Proximal
+
+                                 0 horas
+
+
+         PIK 030413
+                                72 horas
+         PIK 030133
+
+
+                                96 horas
+
+
+
+3.6.2.     EVALUACIÓN DE           LA INFLUENCIA DEL GERMINADO Y COCCIÓN
+           HÚMEDA EN LOS COMPUESTOS BIOACTIVOS Y COMPOSICIÓN
+           PROXIMAL DE DOS ACCESIONES DE CAÑIHUA
+
+           Se evaluó la influencia de dos tiempos de germinación (72 y 96 horas) y dos
+temperaturas de cocción (65 y 85 º C) en lo compuestos bioactivos (compuestos fenólicos y
+capacidad antioxidante) y composición proximal de las muestras obtenidas, usando un diseño
+completamente al azar con un arreglo factorial de 4Ax2B realizado para cada accesión:
+
+Factor A
+     PIK 030413 – Germinado a 72 horas
+     PIK 030413 – Germinado a 96 horas
+     PIK 030413 – Germinado a 96 horas
+     PIK 030413 – Germinado a 96 horas
+Factor B
+     Temperatura de cocción (65 y 85 °C)
+
+           Para la comparación se utiliza la prueba de Tukey, realizando una clasificación de los
+diferentes tratamientos, encontrándose el mejor.
+
+
+
+
+                                                                                               31
+  Tabla 4. Formato para recolección de datos de compuestos bioactivos y composición proximal
+                                de cañihua germinada y cocida
+
+ ACCESION               TRATAMIENTOS                              EVALUACIONES
+(Chenopodium
+ pallidicaule   Germinación      Cocción Húmeda       Compuestos     Capacidad      Composición
+   Aellen)       (Tiempo)         (Temperatura)        Fenólicos    Antioxidante     proximal
+
+                                       0° C
+
+
+
+                  72 Horas             65° C
+
+
+
+                                       85° C
+ PIK 030413
+ PIK 030133
+                                       0° C
+
+
+
+                  96 Horas             65° C
+
+
+
+                                       85° C
+
+
+
+
+                                                                                          32
+                           IV.    RESULTADOS Y DISCUSIONES
+
+4.1.       CARACTERISTICAS DEL GRANO DE CAÑIHUA
+
+4.1.1.     Humedad
+
+           Se trabajó con dos accesiones promisorias, que fueron elegidos por su color, Dentro de
+los cuales son el PIK 030413 y PIK 030133, los resultados de dichas accesiones promisorias se
+presentan en la Tabla 5.
+
+                      Tabla 5. Contenido de humedad del grano de cañihua
+
+
+                             Accesión                Humedad (%)
+
+                        PIK 030413                    8.78 ± 0.020b
+                        PIK 030133                   10.81 ± 0.015a
+                           Fuente: Elaboración Propia (2015), n= 3
+
+           El contenido de humedad de los granos de cañihua están dentro de los reportes por
+Repo-Carrasco et al., (2010) en 4 ecotipos de 9.61 – 10.39% y Tacora, (2010) reporta en la
+variedad ILLPA INIA 406 y cupi de 7.50-8.26%. Los resultados obtenidos están dentro del rango.
+La variación de los resultados son mínimas en el grano de cañihua. Mediante el ANVA y
+comparación múltiple de Tukey (descritas en el Anexo 1. Cuadros 2 y 3) donde se observa que
+los contenidos de humedad son diferentes con respecto a las accesiones. Esto se debe a varios
+factores como al tipo de variedad, así como por las condiciones ambientales y de manejo en
+cañihua.
+
+4.1.2.     Compuestos bioactivos
+
+           Se trabajó con dos accesiones de cañihua, que fueron elegidos en base al color del grano,
+ya que presentan un alto contenido de antioxidantes. Dentro de los cuales el PIK 030413 y PIK
+030133, tienen una coloración del grano amarillo y purpura.
+
+           Los compuestos bioactivos estudiados en la cañihua se presentan en la Tabla 6. Donde
+la accesión PIK 030413 presenta un mayor contenido de compuestos fenólicos totales, mediante
+el ANVA y comparación múltiple de Tukey (descritas en el Anexo 1. Cuadro 5) se observa que
+los compuestos fenólicos son diferentes en las accesiones. Mientras que la capacidad antioxidante
+tuvo mejores resultados en la accesión PIK 030133 mediante el ANVA y comparación múltiple
+de Tukey (descritas en el Anexo 1. Cuadro 6) se observa que la capacidad antioxidante es diferente
+para cada accesión.
+
+
+
+                                                                                                 33
+              Tabla 6. Contenido de compuestos bioactivos del grano de cañihua
+
+                            Compuestos fenólicos (mg.          Capacidad antioxidante
+          Accesión
+                                ácido gálico/100g ms)           (µmol. Trolox eq/g ms)
+         PIK 030413                 70.18± 0.41a                     75.90± 2.91b
+         PIK 030133                 63.25± 0.92b                    110.35± 1.91a
+         Fuente: Elaboración Propia (2015), n=3
+
+4.2.     EVALUACIÓN DE LOS COMPUESTOS BIOACTIVOS Y COMPOSICIÓN
+         PROXIMAL EN EL GERMINADO DE DOS ACCESIONES DE CAÑIHUA
+
+4.2.1.   COMPUESTOS BIOACTIVOS
+
+4.2.1.1. Compuestos fenólicos
+
+          En la Figura 2 y 3, se presenta la cantidad de compuestos fenólicos totales de las
+muestras (PIK 030413 Y PIK 030133), en tiempos de germinación de 0, 72 y 96 horas, con su
+respectiva desviación estándar. Letras diferentes en las barras indican diferencias significativas
+(Tukey, 0.05). Todos los valores determinados de compuestos fenólicos se encuentran descritos
+en el Anexo 2. Cuadros 1 y 4.
+
+
+
+
+                                                                                               34
+                                                PIK 030413                                                    PIK 030133
+
+                                100                                             100                                 a
+                                                                                                                                  b
+                                 90                                              90
+
+                                                             a                   80
+                                 80
+                                               b
+                                 70                                              70
+                                                                          c                           c
+                                 60                                              60
+
+                                 50                                              50
+
+                                 40                                              40
+
+                                 30                                              30
+
+
+
+
+  (mg. Acido galico/100g ms)
+ Compuestos Fenolicos Totales
+                                 20                                              20
+
+                                 10                                              10
+
+                                  0                                               0
+                                             0 horas     72 horas    96 horas                       0 horas      72 horas     96 horas
+                                                         Tiempo                                                  Tiempo
+
+Figura 2. Influencia del tiempo de germinación en compuestos fenólicos de       Figura 3. Influencia del tiempo de germinación en compuestos fenólicos
+                                      cañihua en la accesión PIK 030413                         de cañihua en la accesión PIK 030133
+
+
+
+
+35
+          En la Figura 2, se observa que la cantidad de compuestos fenólicos totales de la cañihua
+(PIK 030413) germinada a 72 horas (78.53 mg. ácido gálico/100g de materia seca) incrementa
+con respecto al contenido inicial (70.18 mg. ácido gálico/100g de materia seca), esto debido a la
+activación de los sistemas enzimáticos, mientras que a 96 horas de germinación disminuye (62.94
+mg. ácido gálico/100g de materia seca), debido a otros compuestos diferentes de los compuestos
+fenólicos, (Dueñas et al., 2009).
+
+
+          En la Figura 3, se observa que la cantidad de compuestos fenólicos totales de la cañihua
+(PIK 030133) germinada a 72 horas (95.29 mg. ácido gálico/100g de materia seca) incrementa
+con respecto al contenido inicial (63.25 mg. ácido gálico/100g de materia seca), y disminuye
+ligeramente el grano a 96 horas de germinación (91.54 mg. ácido gálico/100g de materia seca).
+
+
+          El análisis de varianza y prueba múltiple de Tukey (descritas en el Anexo 2. Cuadros 2,
+3, 5 y 6) indican que existe diferencia significativa donde se observa que los contenidos de
+compuestos fenólicos son diferentes en el tiempo de germinación.
+
+
+          En comparación a los resultados de compuestos fenólicos de la cañihua obtenidos en el
+presente trabajo y los reportados por Abderrahim et al., (2012) donde trabajo con cañihua, se
+encuentra el mismo comportamiento debido a que obtuvo un incremento de 48 y 72 horas de
+germinación con respecto al contenido inicial y disminuye a 96 horas de germinación. Así mismo
+Dueñas et al., (2009), trabajo con semillas de altramuz, donde encuentra un comportamiento
+ondeado, presenta incrementos a los días 2, 3, 4, 6 y 9 días de germinación y viendo una
+disminución en el quinto día de germinación. Sharma y Singh, (2010) trabajó con cebada donde
+obtiene incremento en los compuestos fenólicos germinado a 12 y 24 horas. En general, estos
+cambios debido a la germinación, son deseables desde el punto de vista nutricional y las semillas
+germinadas son nutricionalmente superior en comparación con las semillas no germinadas (Kim
+et al., 2012). Por lo tanto, representan ingredientes atractivos en la formulación de alimentos con
+un mayor perfil de nutrientes y antioxidante.
+
+4.2.1.2. Capacidad antioxidante
+
+          En la Figura 4 y 5, se presenta la capacidad antioxidante de las muestras (PIK 030413
+Y PIK 030133), en tiempos de germinación de 0, 72 y 96 horas, con su respectiva desviación
+estándar. Letras diferentes en las barras indican diferencias significativas (Tukey, 0.05). Todos
+los valores determinados de compuestos fenólicos se encuentran descritos en el Anexo 2. Cuadros
+7 y 10.
+
+
+
+
+                                                                                                36
+                                         PIK 030413                                                       PIK 030133
+                         200                                                   200
+                                                                                                                              a
+                         180                                                   180
+                                                                   a
+                         160                                                   160
+                                                  b                                                             b
+                         140                                                   140
+
+                         120                                                   120                 c
+
+                         100                                                   100
+
+                          80         c                                          80
+
+
+
+
+ µmol. Trolox eq/g ms
+Capacidad Antioxidante
+                          60                                                    60
+
+                          40                                                    40
+
+                          20                                                    20
+
+                           0                                                     0
+                                  0 horas       72 horas     96 horas                           0 horas       72 horas     96 horas
+
+                                               Tiempo                                                        Tiempo
+
+
+ Figura 4. Influencia del tiempo de germinación en capacidad antioxidante de         Figura 5. Influencia del tiempo de germinación en capacidad
+
+                               cañihua en la accesión PIK 030413                         antioxidante de cañihua en la accesión PIK 030133
+
+
+
+
+ 37
+         En la Figura 4, se observa que la capacidad antioxidante de la cañihua (PIK 030413)
+germinada a 72 horas (139.50 µmol. Trolox eq/g de materia seca) y 96 horas de germinación
+(164.69 µmol. Trolox eq/g de materia seca) incrementaron con respecto al contenido inicial (75.90
+µmol. Trolox eq/g de materia seca).
+
+
+         En la Figura 5, se observa que la capacidad antioxidante de la cañihua (PIK 030133)
+germinada a 72 horas (138.99 µmol. Trolox eq/g de materia seca) y 96 horas de germinación
+(181.84 µmol. Trolox eq/g de materia seca) incrementaron con respecto al contenido inicial
+(110.35 µmol. Trolox eq/g de materia seca).
+
+
+         En ambas accesiones los resultados de la capacidad antioxidante incrementaron a
+medida que el tiempo aumenta, esto debido a la activación enzimática, como también se debe a
+la pigmentación del grano. El análisis de varianza y prueba múltiple de Tukey (descritas en el
+Anexo 2. Cuadros 8, 9, 11 y 12) indican que existe diferencia significativa donde se observa que
+la capacidad antioxidante es diferente en cuanto al tiempo de germinación.
+
+
+         En comparación a los resultados de la capacidad antioxidante de la cañihua obtenidos
+en el presente trabajo y los reportados por Abderrahim et al., (2012) que trabajo con cañihua,
+donde obtuvo como resultados un incremento de 48 y 72 horas de germinación con respecto al
+contenido inicial y disminuye a 96 horas de germinación. Así mismo Dueñas et al., (2009), trabajo
+con semillas de altramuz, encontrándose un comportamiento ondeado, presentándose incrementos
+a los días 2, 3, 6 y 9 días de germinación y viendo una disminución en los días 4 y 5 de
+germinación. Sharma y Singh, (2010), trabajo con cebada donde obtiene incremento en la
+capacidad antioxidante germinada a 12 y 24 horas, Pasko et al., (2009) observo en germinación
+de amaranto y quinua teniendo mejores resultados en el cuarto y sexto día. Tian et al., (2010)
+también observaron que la germinación en avena de 24 a 144 horas aumentaron progresivamente
+en casi 4 veces, esto le atribuye a la mejor capacidad de extracción de compuestos fenólicos.
+
+
+         Wu et al., (2011) sugiere que la germinación podría regular vías relacionadas con la
+biosíntesis de compuestos antioxidantes, el aumento de la actividad antioxidante en el grano
+germinado como respuesta a condiciones de estrés. Además la germinación de cereales y
+pseudocereales se puede utilizar en los alimentos, ya que es una buena fuente de antioxidantes
+con alta capacidad antioxidante.
+
+         En los ítems 4.2.1.1 y 4.2.1.2 se observa que la capacidad antioxidante y los compuestos
+fenólicos no siempre tienen el mismo comportamiento, esto no solamente se debe a la cantidad
+de compuestos fenólicos si no al potencial de la composición fenólica
+
+                                                                                                38
+4.2.2.   COMPOSICIÓN PROXIMAL
+
+4.2.2.1. Ceniza
+
+         En la Figura 6 y 7, se presenta la ceniza de las muestras (PIK 030413 Y PIK 030133),
+en tiempos de germinación de 0, 72 y 96 horas, con su respectiva desviación estándar. Letras
+diferentes en las barras indican diferencias significativas (Tukey, 0.05). Todos los valores
+determinados de compuestos fenólicos se encuentran descritos en el Anexo 3. Cuadros 1 y 12.
+
+         La ceniza presenta valores, en el rango de 2.79 a 3.12% donde se observa un aumentó
+en comparación al grano sin procesar (2.71%) de la accesión PIK 030413 y de 2.43 a 2.54%
+presenta una disminución al grano sin procesar de la accesión PIK 030133 que fue de 2.96%,
+estos valores presentan la misma tendencia que lo reportado por Castillo, (2010), donde muestra
+que la cañihua al ser germinada a 48, 72 y 96 horas reduce de 5.1 a 2.64, 2.6 y 2.89%. Colmenares,
+(2015), indica que el amaranto al ser germinado a 0, 24, 48 y 72 horas no existe cambios. Sin
+embargo según datos reportados por Chahuan et al., (2015) obtiene resultados de un incremento
+de 2.91 a 3.4g/100g a diferencia de un grano sin procesar en el amaranto, esta diferencia es debido
+posiblemente al tipo, variedad o ecotipo del grano. El análisis de varianza para ceniza, indica que
+existe diferencia significativa en las accesiones promisorias (p<0.05) y tiempo (p<0.05) como se
+muestra en los Anexo 3 (Cuadros 2, 3, 13 y 14). Luego se comparó, mostrando resultados a 72 y
+96 horas de germinación.
+
+
+
+
+                                                                                                39
+                                         PIK 030413                                                               PIK 030133
+           4.5                                                                         4.5
+
+
+            4                                                    a                      4
+
+
+           3.5                                                                         3.5
+                                                                                                           a
+            3                    c                b                                     3
+                                                                                                                                        b
+                                                                                                                          c
+           2.5                                                                         2.5
+
+
+
+
+% Ceniza
+            2                                                                           2
+
+
+           1.5                                                                         1.5
+
+
+            1                                                                           1
+
+
+           0.5                                                                         0.5
+
+
+            0                                                                           0
+                              0 horas           72 horas      96 horas                                 0 horas        72 horas        96 horas
+
+                                               Tiempo                                                                  Tiempo
+
+           Figura 6. Influencia del tiempo de germinación en ceniza de cañihua en la         Figura 7. Influencia del tiempo de germinación en ceniza de
+                                        accesión PIK 030413                                              cañihua en la accesión PIK 030133
+
+
+
+
+40
+4.2.2.2. Grasa
+
+         En la Figura 8 y 9, se presenta la grasa de las muestras (PIK 030413 Y PIK 030133),
+en tiempos de germinación de 0, 72 y 96 horas, con su respectiva desviación estándar. Letras
+diferentes en las barras indican diferencias significativas (Tukey, 0.05). Todos los valores
+determinados de compuestos fenólicos se encuentran descritos en el Anexo 3 (cuadros 1 y 12).
+
+         La grasa presenta valores, en el rango de 5.48 a 7.33% observándose una reducción
+inicial y posterior incremento, igualando a lo obtenido del grano sin procesar (7.33%) en la
+accesión PIK 030413 y de 8.07 a 8.32% se observa un aumento a lo obtenido con el grano de
+la accesión PIK 030133 que fue de 7.25%, estos valores presentan la misma tendencia que lo
+reportado por Castillo, (2010) donde muestra que la cañihua al ser germinada a 48, 72 y 96
+horas incrementa de 6.50 a 10.00, 10.00 y 9.00% este incremento en grasa se debe a que existe
+una disminución en el contenido de humedad con la finalidad de detener la actividad
+enzimática.. Sin embargo según datos reportados por Chahuan et al., (2015) obtiene resultados
+de una disminución de 6.68 a 4.7g/100g a diferencia de un grano sin procesar en el amaranto.
+Asi mismo, Colmenares, (2015), indica que el amaranto al ser germinado a 0, 24, 48 y 72 horas
+disminuyen, esta diferencia es debido posiblemente al tipo, variedad o ecotipo del grano.
+
+
+
+
+                                                                                            41
+                                   PIK 030413                                                             PIK 030133
+          9                                                                      9
+                                                                                                                               a
+                                                                                                                b
+          8                                                                      8
+                            a                             a                                       c
+          7                                                                      7
+
+
+          6                                                                      6
+                                           b
+
+          5                                                                      5
+
+
+
+
+% Grasa
+          4                                                                      4
+
+
+          3                                                                      3
+
+
+          2                                                                      2
+
+
+          1                                                                      1
+
+
+          0                                                                      0
+                         0 horas       72 horas       96 horas                                  0 horas      72 horas       96 horas
+
+                                        Tiempo                                                                Tiempo
+
+      Figura 8. Influencia del tiempo de germinación en grasa de cañihua en la       Figura 9. Influencia del tiempo de germinación en grasa de
+                                accesión PIK 030413                                             cañihua en la accesión PIK 030133
+
+
+
+
+          42
+4.2.2.3. Proteína
+
+           En la Figura 10 y 11, se presenta la proteína de las muestras (PIK 030413 Y PIK
+030133), en tiempos de germinación de 0, 72 y 96 horas, con su respectiva desviación estándar.
+Letras diferentes en las barras indican diferencias significativas (Tukey, 0.05). Todos los
+valores determinados de compuestos fenólicos se encuentran descritos en el Anexo 3 (cuadros
+1 y 12).
+
+           Con respecto a la proteína presento valores, en el rango de 17.35 a 17.99%
+observándose un aumento a lo obtenido con el grano sin procesar (14.78%) de la accesión PIK
+030413 y de 11.91 a 16.54% se observa también un aumento a lo obtenido con el grano de la
+accesión PIK 030133 que fue de 13.49%, estos valores presentan la misma tendencia que lo
+reportado por Castillo, (2010) donde muestra que la cañihua al ser germinada a 48, 72 y 96
+horas incrementa de 16.80 a 17.30, 17.50 y 17.70%, Chahuan et al., (2015) también reportaron
+resultados de un incremento de 15.05 a 16.5g/100g a diferencia de un grano sin procesar en el
+amaranto, este aumento en proteína en el grano es debido al malteo, debido a la acción
+enzimática marcadamente proteolítica. Sin embargo Colmenares, (2015), indicó que el
+amaranto al ser germinado a 0, 24, 48 y 72 horas no existe cambios.
+
+
+
+
+                                                                                           43
+                                         PIK 030413                                                                 PIK 030133
+             20                                                                       20
+                                                 a
+             18                                                b                      18
+                                                                                                                                         a
+             16                                                                       16
+                                  c
+             14                                                                       14                    b
+                                                                                                                          c
+             12                                                                       12
+
+             10                                                                       10
+
+
+
+
+% Proteina
+              8                                                                       8
+
+              6                                                                       6
+
+              4                                                                       4
+
+              2                                                                       2
+
+              0                                                                       0
+                               0 horas       72 horas       96 horas                                      0 horas       72 horas    96 horas
+
+                                              Tiempo                                                                   Tiempo
+
+             Figura 10. Influencia del tiempo de germinación en proteína de cañihua        Figura 11. Influencia del tiempo de germinación en proteína de
+                                   en la accesión PIK 030413                                            cañihua en la accesión PIK 030133
+
+
+
+
+             44
+4.2.2.4. Fibra
+
+         En la Figura 12 y 13, se presenta la fibra de las muestras (PIK 030413 Y PIK 030133),
+en tiempos de germinación de 0, 72 y 96 horas, con su respectiva desviación estándar. Letras
+diferentes en las barras indican diferencias significativas (Tukey, 0.05). Todos los valores
+determinados de compuestos fenólicos se encuentran descritos en el Anexo 3 (cuadros 1 y 12).
+
+         La fibra presenta valores, en el rango de 1.94 a 2.03% observándose una disminución,
+a lo obtenido del grano sin procesar (2.52%) de la accesión PIK 030413 y de 2.02 a 2.29% también
+se observa una disminución a lo obtenido del grano sin procesar de la accesión PIK 030133 que
+fue de 2.65%, estos valores presentan la misma tendencia que lo reportado por Castillo, (2010)
+donde muestra que la cañihua al ser germinada a 48, 72 y 96 horas redujo de 5.40 a 5.20, 5.10 y
+3.80% esta disminución en la fibra es debido a la devegetación en esta operación se elimina parte
+de ella. Colmenares, (2015), indica que el amaranto al ser germinado a 0, 24, 48 y 72 horas no
+existe cambios. Sin embargo según datos reportados por Chahuan et al., (2015) obtiene resultados
+de un incremento de 9.52 a 12.9g/100g a diferencia de un grano sin procesar en el amaranto.
+
+
+
+
+                                                                                              45
+                                     PIK 030413                                                                   PIK 030133
+           3                                                                       3
+
+                             a                                                                            a
+
+          2.5                                                                     2.5
+                                                                                                                         b
+                                             b
+                                                           c                                                                              c
+           2                                                                       2
+
+
+
+          1.5                                                                     1.5
+
+
+
+
+% Fibra
+           1                                                                       1
+
+
+
+          0.5                                                                     0.5
+
+
+
+           0                                                                       0
+                           0 horas        72 horas     96 horas                                        0 horas       72 horas       96 horas
+
+                                          Tiempo                                                                      Tiempo
+
+      Figura 12. Influencia del tiempo de germinación en fibra de cañihua en la         Figura 13. Influencia del tiempo de germinación en fibra de cañihua
+                                 accesión PIK 030413                                                          en la accesión PIK 030133
+
+
+
+
+          46
+4.2.2.5. Carbohidratos
+
+         En la Figura 14 y 15, se presenta los carbohidratos de las muestras (PIK 030413 Y PIK
+030133), en tiempos de germinación de 0, 72 y 96 horas, con su respectiva desviación estándar.
+Letras diferentes en las barras indican diferencias significativas (Tukey, 0.05). Todos los valores
+determinados de compuestos fenólicos se encuentran descritos en el Anexo 3 (cuadros 1 y 12).
+
+         Los carbohidratos presenta valores, en el rango de 60.22 a 63.98% observándose que,
+inicialmente no hay diferencia y posteriormente reduce a diferencia del grano sin procesar
+(63.83%) de la accesión PIK 030413 y de 61.68 a 67.72% se observa un incremento inicial y
+posterior reducción a lo obtenido con el grano de la accesión PIK 030133 que fue de 62.81%,
+Castillo, (2010) presenta valores, donde la cañihua al ser germinada a 48, 72 y 96 horas
+incrementa de 55.20 a 57.36, 59.80 y 62.61%. Chahuan et al., (2015) también obtiene resultados
+de un incremento de 9.52 a 12.9g/100g a diferencia de un grano sin procesar en el amaranto. Así
+mismo Colmenares, (2015), indica que el amaranto al ser germinado a 0, 24, 48 y 72 horas
+incrementan.
+
+
+
+
+                                                                                                47
+                                                  PIK 030413                                                               PIK 030133
+                  68                                                                         68                                  a
+
+
+
+                  66
+                                                                                             66
+
+
+                                          a               a
+                  64
+                                                                                             64
+
+                  62
+                                                                                                                   b
+
+                                                                                             62                                                 b
+
+
+
+
+% Carbohidratos
+                                                                       b
+                  60
+
+
+                                                                                             60
+                  58
+
+
+
+                  56                                                                         58
+                                        0 horas       72 horas     96 horas                                      0 horas     72 horas       96 horas
+
+                                                       Tiempo                                                                 Tiempo
+
+                       Figura 14. Influencia del tiempo de germinación en carbohidratos de        Figura 15. Influencia del tiempo de germinación en carbohidratos
+                                       cañihua en la accesión PIK 030413                                       de cañihua en la accesión PIK 030133
+
+
+
+
+                  48
+                                      El grado de los cambios observados depende de diversas condiciones de germinación,
+tales como la temperatura, la humedad, los medios de cultivo, la maceración (remojo) y la
+longitud de la germinación. Esto significa que la comparación directa es difícil, y tendrá que ser
+definido para los cereales individuales óptimas condiciones. Al mismo tiempo con la síntesis de
+nuevos compuestos, las concentraciones de algunos inhibidores de nutrientes pueden disminuir
+(Donkor et al., 2012).
+
+4.3.                                  EVALUACIÓN DE LOS COMPUESTOS BIOACTIVOS Y COMPOSICIÓN
+                                      PROXIMAL EN EL GERMINADO Y COCCION HUMEDA DE DOS
+                                      ACCESIONES DE CAÑIHUA
+
+4.3.1.                                COMPUESTOS BIOACTIVOS
+
+4.3.1.1. Compuestos fenólicos totales
+
+                                      En la Figura 16, se observa el comportamiento de los compuestos fenólicos totales de
+la cañihua procesada de dos accesiones (PIK 030413-G72 horas, PIK 030413-G96 horas, PIK
+030133-G96 horas y PIK 030133-G96 horas), para lo cual vemos que los compuestos fenólicos
+disminuye a medida que la temperatura aumenta (65-85°C).
+
+          Figura 16. Influencia de la temperatura de cocción en los compuestos fenólicos de dos
+                                                accesiones de cañihua germinada (PIK030413 y PIK 030133)
+
+                                      120
+
+
+                                      100
+       Compuestos Fenolicos Totales
+        (mg. ácido galico/100g m.s)
+
+
+
+
+                                       80
+
+
+                                       60
+
+
+                                       40
+
+                                                                                                     G-72 (PIK 030133)
+                                       20                                                            G-96 (PIK 030133)
+                                                                                                     G-72 (PIK 030413)
+                                                                                                     G-96 (PIK 030413)
+                                        0
+                                            0                                   65°C                                     85°C
+                                                                            Temperatura
+
+
+
+
+                                                                                                                         49
+         Mediante el ANVA y comparación múltiple de Tukey (descritas en el Anexo 4. Cuadros
+3 y 4) se observa que hay diferencia entre las accesiones, ante un cambio de accesión o variedad
+influye en el contenido, mientras que la temperatura de cocción no influye significativamente.
+
+
+         El comportamiento de los compuestos fenólicos totales de la cañihua procesada (PIK
+030133-G72 horas, PIK 030133-G96 horas PIK 030413-G72 horas y PIK 030413-G96 horas),
+disminuye ligeramente a medida que la temperatura de cocción aumenta (65-85°C), degradándose
+los compuestos fenólicos. Así mismo Martínez – Valverde et al., (2000) indica que el tratamiento
+térmico en agua, afecta el contenido de compuestos fenólicos obtenidos en la quinua, causando
+su reducción debido a la solubilización de los polifenoles en agua de cocción. Sin embargo con
+otros tratamientos térmicos como extruido, mejora el contenido de compuestos fenólicos, además
+debido al calentamiento como es el tostado se pueden producir uniones entre los compuestos
+fenólicos en forma de aglicomas y carbohidratos o proteínas (De La Riva 2010). Cabe señalar
+también que la panificación es sometida a una determinada temperatura de cocción, lo contrario
+a la germinación se observa después del tratamiento de temperatura, que el contenido de
+polifenoles. En particular, quercetina y kaempferol, glucósidos contenido en 100% en panes de
+quinua fue de 17,1 y 19,2 mol/ 100 g, en comparación con 43,4 y 36,7 mol / 100 g en las semillas
+de quinua, en el caso de trigo sarraceno, los glicósidos de quercetina que contienen disminuyeron
+significativamente con el tratamiento térmico, resultando en un aumento en el contenido de
+quercetina a través de hidrólisis. Según López, (2013) indica que la formación de algunos
+compuestos fenólicos podría estar relacionado con una disminución en compuestos como el ácido
+ferúlico y sus derivados en estudios realizados en brotes de soja.
+
+4.3.1.2. Capacidad antioxidante
+
+         En la Figura 17, se observa el comportamiento de la capacidad antioxidante en cañihua
+procesada (PIK 030413-G72 horas, PIK 030413-G96 horas, PIK 030133-G96 horas y PIK
+030133-G96 horas) para lo cual vemos que la capacidad antioxidante disminuye a medida que la
+temperatura aumenta (65-85°C).
+
+
+
+
+                                                                                              50
+  Figura 17. Influencia de la temperatura de cocción en la capacidad antioxidante de cañihua
+                                     germinada en las accesiones PIK 030413 y PIK 030133
+
+
+                           250
+                                                                                        G-72 (PIK 030133)
+                                                                                        G-96 (PIK 030133)
+
+                           200                                                          G-72 (PIK 030413)
+  Capacidad Antioxidante
+   µmol. Trolox eq/g m.s
+
+
+
+
+                                                                                        G-96 (PIK 030413)
+
+
+                           150
+
+
+
+                           100
+
+
+
+                            50
+
+
+
+                             0
+                                 0                                 65°C                                     85°C
+                                                                Temperatura
+
+
+                           Mediante el ANVA y comparación múltiple de Tukey (descritas en el Anexo 4. Cuadros
+7, 8 y 9) se observa que la capacidad antioxidante es diferente con respecto a la temperatura.
+
+
+                           El efecto contrario a la germinación se observa que después de la cocción húmeda la
+capacidad antioxidante se encuentra generalmente a reducirse esto debido a la disminución del
+contenido de compuestos fenólicos que se menciona anteriormente. Así mismo De La Riva,
+(2010) menciona que otros procesos térmicos como el tostado presenta una menor reducción de
+la capacidad antioxidante en comparación al proceso de cocción húmeda, procesos aplicados en
+la quinua. López et al., (2013) indica que en granos oscuros después de germinar y hervir observó
+una disminución, a diferencia de granos crudos principalmente las antocianinas, pero otros
+compuestos como la cianidina y glucosido pelargonidina se mantuvieron con mayor cantidad.
+
+4.3.2.                     COMPOSICIÓN PROXIMAL
+
+4.3.2.1. Ceniza
+
+                           En la Figura 18, se observa el comportamiento de ceniza de la cañihua procesada (PIK
+030413-G72 horas, PIK 030413-G96 horas, PIK 030133-G96 horas y PIK 030133-G96 horas) de
+dos accesiones, para lo cual vemos que la ceniza disminuye a medida que la temperatura aumenta
+(65-85°C). Mediante el ANVA y comparación múltiple de Tukey (descritas en el Anexo 5.
+
+
+                                                                                                              51
+Cuadros 3, 4 y 5.) Se observa que existe diferencia significativa entre las accesiones y la
+temperatura.
+
+   Figura 18. Influencia de la temperatura de cocción en ceniza de cañihua germinada (PIK
+                                                030413 y PIK 030133)
+
+                     3.5
+                                                                                     G-72 (PIK 030133)
+                                                                                     G-96 (PIK 030133)
+                      3                                                              G-72 (PIK 030413)
+                                                                                     G-96 (PIK 030413)
+
+                     2.5
+      % Ceniza b.s
+
+
+
+
+                      2
+
+
+                     1.5
+
+
+                      1
+
+
+                     0.5
+
+
+                      0
+                           0                                  65°C                                       85°C
+                                                           Temperatura
+
+
+                      El efecto contrario a la germinación se observa que después de la cocción húmeda la
+ceniza reduce ligeramente. Así mismo Dueñas et al., (2015), muestra que al ser cocidas los
+frijoles y lentejas en agua a presión atmosférica durante 60 min para las semillas oscuras (frijoles)
+y durante 20 min para las lentejas reduce, como resultado de la difusión de los minerales en el
+agua hirviendo. Sin embargo Wang et al., (2009), indicó que los frijoles al ser cocidas a presión
+atmosférica aumentaron.
+
+4.3.2.2. Grasa
+
+                      En la Figura 19, se observa el comportamientos de grasa de la cañihua procesada (PIK
+030413-G72 horas, PIK 030413-G96 horas, PIK 030133-G96 horas y PIK 030133-G96 horas) en
+ambas accesiones, para lo cual vemos que la grasa disminuye ligeramente a medida que la
+temperatura aumenta (65-85°C). Mediante el ANVA y la comparación múltiple de Tukey
+(descritas en el Anexo 5. Cuadros 9, 10 y 11) se observa que existe diferencia significativa entre
+las accesiones y la temperatura.
+
+
+
+
+                                                                                                          52
+Figura 19. Influencia de la temperatura de cocción en grasa de cañihua germinada (PIK 030413
+                                                     y PIK 030133)
+
+
+               10
+
+               9
+
+               8
+
+               7
+
+               6
+ % Grasa b.s
+
+
+
+
+               5
+
+               4
+
+               3
+                                                                                       G-72 (PIK 030133)
+               2
+                                                                                       G-96 (PIK 030133)
+               1                                                                       G-72 (PIK 030413)
+                                                                                       G-96 (PIK 030413)
+               0
+                    0                                        65°C                                          85°C
+                                                          Temperatura
+
+
+                        El efecto contrario a la germinación se observa que después de la cocción húmeda la
+grasa reduce ligeramente. Así mismo Dueñas et al., (2015), muestra que al ser cocidas los frijoles
+y lentejas en agua a presión atmosférica durante 60 min para las semillas oscuras (frijoles) y
+durante 20 min para las lentejas, reduce durante la cocción. Sin embargo Wang et al., (2009),
+indicó que los frijoles al ser cocidas a presión atmosférica aumentaron, esta diferencia es debido
+posiblemente al tipo, variedad o ecotipo del grano.
+
+4.3.2.3. Proteína
+
+                        En la Figura 20, se observa el comportamiento de proteínas de la cañihua procesada
+(PIK 030413-G72 horas, PIK 030413-G96 horas, PIK 030133-G96 horas y PIK 030133-G96
+horas) de dos accesiones, para lo cual vemos que la proteína disminuye a medida que la
+temperatura aumenta (65-85°C). Mediante el ANVA y la comparación múltiple de Tukey
+(descritas en el Anexo 5. Cuadros 7, 8 y 9) se observa que existe diferencia significativa entre las
+accesiones y la temperatura.
+
+
+
+
+                                                                                                            53
+  Figura 20. Influencia de la temperatura de cocción en proteína de cañihua germinada (PIK
+                                                030413 y PIK 030133)
+
+
+                       20
+
+                       18
+
+                       16
+
+                       14
+      % Proteina b.s
+
+
+
+
+                       12
+
+                       10
+
+                       8
+
+                       6
+                                                                                        G-72 (PIK 030133)
+                       4                                                                G-96 (PIK 030133)
+
+                       2                                                                G-72 (PIK 030413)
+                                                                                        G-96 (PIK 030413)
+                       0
+                            0                                   65°C                                        85°C
+                                                            Temperatura
+
+                       El efecto contrario a la germinación se observa que después de la cocción húmeda la
+proteína reduce ligeramente. Colmenares, (2015) indica que la cocción de granos germinados en
+amaranto disminuyen. Sin embargo Dueñas et al., (2015), muestra que al ser cocidas los frijoles
+y lentejas en agua a presión atmosférica durante 60 min para las semillas oscuras (frijoles) y
+durante 20 min para las lentejas, incrementan para las lentejas esto se atribuye a la solubilización
+de los componentes y, en consecuencia, como un efecto de concentración existe este aumento.
+Así mismo Wang et al., (2009), indicó que los frijoles al ser cocidas a presión atmosférica
+aumentaron, esta diferencia es debido posiblemente al tipo, variedad o ecotipo del grano.
+
+4.3.2.4. Fibra
+
+                       En la Figura 21, se observa el comportamiento de fibra de la cañihua procesada (PIK
+030413-G72 horas, PIK 030413-G96 horas, PIK 030133-G96 horas y PIK 030133-G96 horas) de
+ambas accesiones, para lo cual vemos que la fibra disminuye a medida que la temperatura aumenta
+(65-85°C). Mediante el ANVA y comparación múltiple de Tukey (descritas en el Anexo 5.
+Cuadros 12, 13 y 14) se observa que existe diferencia significativa entre las accesiones y la
+temperatura.
+
+
+
+
+                                                                                                        54
+Figura 21. Influencia de la temperatura de cocción en fibra de cañihua germinada (PIK 030413
+                                                  y PIK 030133)
+
+
+                    3
+
+
+
+                   2.5
+
+
+
+                    2
+     % Fibra b.s
+
+
+
+
+                   1.5
+
+
+
+                    1
+
+                                                                                    G-72 (PIK 030133)
+                   0.5                                                              G-96 (PIK 030133)
+                                                                                    G-72 (PIK 030413)
+                                                                                    G-96 (PIK 030413)
+                    0
+                         0                                   65°C                                       85°C
+                                                         Temperatura
+
+
+
+
+                    El efecto de la cocción con respecto a la germinación se observa que después de la
+cocción húmeda en la fibra no se muestra cambios relevantes. Así mismo Dueñas et al., (2015),
+muestra que al ser cocidas los frijoles y lentejas en agua a presión atmosférica durante 60 min
+para las semillas oscuras (frijoles) y durante 20 min para las lentejas, disminuyen debido a la
+solubilización de los contenidos de polisacáridos que constituyen la fracción. Así mismo Wang
+et al., (2009), indicó que los frijoles al ser cocidas a presión atmosférica disminuyeron, esta
+diferencia es debido posiblemente al tipo, variedad o ecotipo del grano.
+
+4.3.2.5. Carbohidratos
+
+                    En la Figura 22, se observa el comportamiento de carbohidratos de la cañihua procesada
+(PIK 030413-G72 horas, PIK 030413-G96 horas, PIK 030133-G96 horas y PIK 030133-G96
+horas para lo cual vemos que los carbohidratos aumentan ligeramente a medida que la temperatura
+aumenta (65-85°C). Mediante el ANVA y comparación múltiple de Tukey (descritas en el Anexo
+5. Cuadros 15, 16 y 17) se observa que existe diferencia significativa entre las accesiones y la
+temperatura.
+
+                    El efecto de la cocción con respecto a la germinación se observa que después de la
+cocción húmeda en los carbohidratos no se muestra cambios relevantes. Así mismo Dueñas et al.,
+
+                                                                                                         55
+(2015), muestra que al ser cocidas los frijoles y lentejas en agua a presión atmosférica durante 60
+min para las semillas oscuras (frijoles) y durante 20 min para las lentejas, disminuyen
+relativamente. Así mismo Wang et al., (2009), indicó que los frijoles al ser cocidas a presión
+atmosférica aumentaron, esta diferencia es debido posiblemente al tipo, variedad o ecotipo del
+grano.
+
+Figura 22. Influencia de la temperatura de cocción en carbohidratos de cañihua germinada (PIK
+                                                    030413 y PIK 030133)
+
+
+                           80
+
+                           70
+
+                           60
+     % Carbohidratos b.s
+
+
+
+
+                           50
+
+                           40
+
+                           30
+
+                           20                                                        G-72 (PIK 030133)
+                                                                                     G-96 (PIK 030133)
+                           10                                                        G-72 (PIK 030413)
+                                                                                     G-96 (PIK 030413)
+                           0
+                                0                               65°C                                     85°C
+                                                            Temperatura
+
+
+                            Los resultados mostrados de la composición proximal de la cañihua son afectados
+principalmente por el tratamiento térmico y la dilución de los componentes en agua de cocción,
+ocasionando una disminución y la pérdida del contenido proteico se debe posiblemente a la
+perdida de solidos solubles durante la cocción la fibra, grasa, ceniza disminuyen ligeramente a
+medida que aumenta la temperatura, mientras que los carbohidratos se mantuvieron relativamente
+estables, lo que indicaría que no se vio afectada por la cocción ya que al utilizar productos de
+alto valor proteico los componentes no se vieron afectados totalmente (Wang et al., 2009; Avola,
+Patane, Barbagallo, 2012). Por otro lado De La Riva (2010), menciona con respecto a los cereales
+de muestras procesadas (cocción húmeda y tostado cocción) que la posibilidad de que se produjo
+la reacción de maillard durante el proceso, lo que podría reducir la disponibilidad de la lisina este
+aminoácido sirve como indicador del daño proteico durante el procesamiento debido a que la
+lisina es un aminoácido esencial limitante en la mayoría de los cereales, con la excepción de la
+quinua y otros granos andinos.
+
+
+
+
+                                                                                                                56
+                                 V.      CONCLUSIONES
+
+   La germinación a 72 y 96 horas en las accesiones PIK 030413 y PIK 030133, incrementa el
+    contenido de los compuestos fenólicos, obteniendo mejores resultados en cañihua germinada
+    a 72 horas en ambas accesiones con valores de 78.53 y 95.29 mg. ácido gálico/100 g de
+    materia seca. En la capacidad antioxidante fue germinado a 96 horas en ambas accesiones,
+    con valores de 164.69 y 181.84 µmol. Trolox eq/g de materia seca, mostrando así que la
+    germinación produce un efecto positivo en los compuestos bioactivos, debido a la activación
+    enzimática. Por otra parte los principales nutrientes no han cambiado en gran medida como
+    la proteína principalmente y los demás componentes.
+
+
+   El proceso de cocción, afecto el contenido de compuestos fenólicos y la capacidad
+    antioxidante después del germinado (72-96 horas) en la cañihua a medida que la temperatura
+    de cocción aumenta (65-85°C) con un valor de 81.80 mg. ácido gálico/100g de materia seca
+    y 129.84 µmol. Trolox eq/g de materia seca, teniendo mejor resultado en la accesión PIK
+    030133, esto debido a la degradación de los antioxidantes por la temperatura de cocción.
+    Encontrándose también que la accesión y la transformación afectaron, en algunos
+    componentes como la grasa y fibra mientras que, los demás se mantuvieron relativamente.
+
+
+
+
+                                                                                            57
+                                 VI.   RECOMENDACIONES
+
+
+   Realizar más evaluaciones a las accesiones o ecotipos ya que algunos tienen mejores
+    características para mejorar la dieta alimentaria del ser humano.
+
+
+   Realizar evaluaciones de contenido de compuestos fenólicos, capacidad antioxidante en otros
+    procesos de trasformación.
+
+
+
+
+                                                                                            58
+                                   VII.     BIBLIOGRAFIA
+
+
+Abderrahim, F., Huanatico, E., Repo-Carrasco-Valencia, R., Arribas, S. Gonzalez, M. &
+      Condezo-Hoyos, L. (2012). Effect of germination on total phenolic compounds, total
+      antioxidant capacity, Maillard reaction products and oxidative stress markers in canihua
+      (Chenopodium pallidicaule). Journal of Cereal Science, 56 (2), 410-417.
+
+
+Agostini, L., Moron, M., Ramón, A. & Ayalka, A. (2004). Determination of the antioxidant
+      capacity of flavonides in fruits and frsh and thermical treated vegetables. Ardh Litinoam
+      Nutr, 54, 89-92.
+
+
+Aguilar, C. (2002). Caracterización fisicoquímica de la fibra y mezclas de fibra dietaria obtenidas
+      a partir de residuos de naranja (Citrus sinesis). Salvado de cebada (Hordeum vulgare).
+      Tesis para optar el grado de Magister. Universidad Agraria la Molina. Lima-Perú.
+
+
+Almajano, M. (2009). Determinación de la actividad antioxidante de las bayas de goji. Consorci
+      Escola Industrial de Barcelona.
+
+
+Álvarez – Jubetea, L., Wijngaarda, H., Arendtb, E. & Gallaghera, E. (2010). Polyphenol
+      composition and in vitro antioxidant activity of amaranth, quinoa buckwheat and wheat as
+      affected by sprouting and baking. Food Chemistry, 119(2), 770-778.
+
+
+Arnao, H. (2001). Some Methodological Problems in the Determination of Antioxidant Activity
+      Using Chomogen Radicals: a Practical Case. Trend in Food Science and Technology, 11,
+      419-43.
+A.O.A.C. (1990). Oficial Methods of Análisis of the Association of the Oficial Agricultura
+      Chemist. Ediciones. Boar.
+
+
+Avola, G., Patane, C. & Barbagallo, R. (2012). Effect of water cooking on proximate composition
+      of grain in three Sicilian chickpeas (Cicer arietinum L). LWT-Food Science and
+      Technology, 49, 217-220.
+
+
+Belitz, H. & Grosh, W. (1997). Química de los alimentos. España: Editorial Acribia Zaragoza.
+      258.
+
+
+
+
+                                                                                                59
+Berganza, B., Alvaro, L., Moran, W., Rodrıguez, G., Coto, N. & Santamaría, M. (2003). Effect
+      of variety and location on the total fat, fatty acids and squalene content of amaranth. Plant
+      Foods for Human Nutrition, 58, 1-6.
+
+
+Calsin, C. (2007). Obtención de extracto antioxidante de mashua (Tropaeolum Tuberosum Ruiz
+      y Pavon) y la evaluación de su eficacia en la oxidación de aceite de soya refinada. Tesis.
+      Universidad Nacional del Altiplano Puno-Perú.
+
+
+Castillo, E. (2010). Determinación de la estabilidad de los compuestos antioxidantes durante la
+      germinación y extrusión en la cañihua (Chenopodium Pallidicaule Aellen). Tesis.
+      Universidad Nacional del Altiplano Puno-Perú.
+
+
+Chahuan, A., Saxena, D. & Singh, S. (2015). Total dietary fibre and antioxidant activity of gluten
+      free cookies made from raw and germinated amaranth (Amaranthus spp.) flour. LWT-Food
+      Science and Technology, 63, 939-945.
+
+
+Chen, J. & Ho, C. (1997). Antioxidant activities of caffec acid and its related hydroxycinnamic
+      acid compounds. Journal of Agricultural and Food Chemistry, 45, 2374-2378.
+
+Colmenares, S. (2015). Efecto de la germinación sobre la composición química y nutricional de
+      la semilla de amaranto (Amaranthus spp.). Tesis para optar el grado de maestría de la
+      facultad de Ciencias Químicas y Farmacia de la Universidad de San Carlos - Guatemala
+      http://www.researchgate.net.
+
+
+Delgado, L., Betanzos, G. & Sumaya, T. (2010). Importancia de los antioxidantes dietarios en la
+      disminución del estrés oxidativo. Investigacion y Ciencia, 50, 10-15
+
+
+De La Riva, D. (2010). Compuestos bioactivos de quinua (Chenopodium Quinoa Willd) cruda y
+      procesada. Tesis. Universidad Nacional del Altiplano Puno-Perú.
+
+
+Donkor. O., Stojanovska, L., Ginn, P., Ashton, J. & Vasiljevic, T. (2012). Sprouted grains -
+      Sources of bioactive compounds. Food Chemistry, 135, 950-959.
+
+
+Dueñas, M., Hernández, T., Estrella, I., & Fernández, D. (2009). Germination as a process to
+      increase the polyphenol content and antioxidant activity of lupin seeds (Lupinus
+      angustifolius L.). Food Chemistry, 117, 599–607.
+
+
+
+                                                                                                60
+Dueñas, M., Sarmento, T., Aguilera, Y., Benitez, V., Molla, E., Esteban, R., Martin – Cabrejas,
+      M. (2015). Impacto de la cocción y la germinación de la composición fenólica y fracciones
+      de fibra dietética en los granos oscuros (Phaseolus vularis L.) y las lentejas (Lens culinaris
+      L.) LWT - Ciencia y Tecnología de Alimentos, 66, 72-78.
+
+
+Escobar, M. (2010). Extracción de compuestos fenólicos de las cascaras de cítricos producidos
+      en México. Tesis Para optar el grado de maestría en ciencias en alimentos. Instituto
+      Politécnico Nacional – México.
+
+
+FAO. (1995). Informe: Evaluación de calidad de granos en América Latina. Propuesta para
+      uniformar el sistema de evaluación. Oficina Regional de la FAO para América Latina y el
+      Caribe.
+
+
+Franco, D. & Moure, A. (2010). Antioxidantes naturales. Aspectos saludables, toxicológicos y
+      aplicaciones industriales. España. Editorial Graficas Garabal.
+Frankel, E. (1996). Antioxidant in lipids foods and their impact on food quality. Food Chemistry,
+      57, 51.
+
+
+Frankel, E. (1998). In search of etter methods to evaluate natural antioxidants and oxidative
+      satability in foods lipids. Food Science and Technology, 4
+
+
+García, R. (2005). Absorción in vivo de oligomeros de epicatequina. Tesis. Universidad Rovira i
+      Virgili. Tarragona – España.
+
+
+Helliwell, B. (1990). How to characterize a biological antioxidant. Free Radical Research
+      Comunications, 9, 1- 32.
+Hernandez, J. & Leon, J. (1992). Cultivos Marginados, otra Perspectiva de 1492. Colección FAO.
+      Producción y Protección Vegetal, 26.
+
+
+Hodzic, Z., Pasalic, H., Memisec, A., Srabovic, M., Saletovic, M. & Poljakovic, M. (2009). The
+      influence of total phenols content on antioxidant capacity in the whole grain extracts.
+      European Journal of Scientific Research, 28 (3), 471-477.
+
+
+Hooper, L. & Cassidy, A. (2006). A review of the health care potential of bioactive compounds.
+      Journal of the Science of Food and Agriculture, 86, 1805–1813.
+
+
+INIA - PUNO. (2008): Informe de Investigación. Proyecto IFAD-NUS I. Puno.
+
+                                                                                                 61
+Ito, N., Fukushima, S., & Tsuda. (1996). Carcinogenicity and modification of the carcinogenic
+      response by BHA, BHT and other antioxidants. CRC Critical Review in Toxicology, 5, 109-
+      150.
+
+
+Kadam, S., Smithard, R., Eyre, M. & Armstrong, D. (1987). Effect of heat treatments of
+      antinutritional factors and quality of protein in winged bean. J. Sci Food Agric, 39, 267-75.
+
+
+Key T., Appleby P. & Rosell M. (2006). Health effects of vegetarian and vegan diets. Proceedings
+      of the Nutrition Society, 65(1), 35-41.
+
+
+Khattak, A., Zeb, A., Bibi, N., Khalil, S. & Khattak, M. (2007). Influence of germination
+      techniques on phytic acid and polyphenols content of chickpea (Cicer arietinum L.)
+      sprouts. Food Chemistry, 104(107), 4-1079.
+
+
+Kim, S., Kang, M., Nam, S. & Friedman, M. (2012). Dietary rice component c-oryzanol inhibits
+      tumor growth in tumor-bearing mice. Molecular Nutrition and Food Research, 56, 935–
+      944.
+
+
+Lallana, V., Elizalde, J. & Garcia, L. (2005). Germinación y latencia de semillas y yemas. Plan
+      de estudios, Facultad de Ciencias Agropecuarias Universidad Nacional de Entre Ríos,
+      Parana.
+
+
+López, A., El-Naggar, T., Dueñas, M., Ortega, T., Estrella, I., Hernández, T., Gómez –Serranillos,
+      P., Palomino, O. & Carretero, E. (2013). Efecto de la cocción y la germinación de la
+      composición fenólica y propiedades biológicas de los granos oscuros. Química de los
+      Alimentos, 138, 547-555.
+
+
+Mamani, R. (1994). Efecto de la densidad de siembra en cuatro variedades de cañahua
+      (Chenopodium pallidicaule Aellen) en el Altiplano Norte de Bolivia. Tesis Ing. Agr.
+      Universidad Mayor de San Andres. Facultad de Agronomía. La Paz Bolivia.
+
+
+Matiacevich, S., Santagapita, P. & Buera, M. (2005). Fluorescence from the Maillard reaction and
+      its potential applications in food science. Critical Reviews in Food Science and Nutrition,
+      45, 483-495.
+
+
+
+
+                                                                                                62
+Matilla, A. (2003). Ecofisiología de la germinación de semillas. La Ecofisiología Vegetal. Una
+      ciencia de síntesis. Madrid. 29, 901-922. Ediciones Paraninfo S.A.
+
+
+Martinez-Valverde, L., Periago, M. & Ros, G. (2000). Significado nutricional de los compuestos
+      fenólicos de la dieta. Archivos Latinoamericanos de Nutrición.
+
+
+Martinez – Navarrete, N., Del Mar, M. & Martinez, J. (2008). Actividad dietética. Elsevier, 12(2),
+      64-8.
+
+
+MINAG. (2013). www.minag.gob.pe / boletín del SIEA/ valor de la producción.
+
+
+Mujica, A., Dupeyrat, R., Jacobsen, S., Marca, S., Canahua, A., Aguilar, P., Ortiz, R. & Chura,
+      E. (2002). La cañihua (Chenopodium pallidicaule Aellen) en la nutrición humana del Perú.
+      Puno. Editorial universitaria. UNA-Puno 68.
+Olmedilla, B., Granado, F. & Herrero, C. (2001). Dieta mediterránea versus suplementación con
+      micronutrientes: Pros y contras. Revista Chilena de Nutrición, 28 (2), 368-380.
+
+
+Olmedilla, B. & Granado F. (2007). Componentes bioactivos. Alimentos funcionales:
+      aproximación a una nueva alimentación. Instituto de Nutrición y Trastornos alimentarios.
+      Dirección general de Salud Pública y alimentación.
+
+
+Pasko, P., Barton, H., Zagrodzki, P., Gorinstein, S., Folta, M. & Zachwieja, Z. (2009).
+      Anthocyanins, total polyphenols and antioxidant activity in amaranth and quinoa seeds and
+      sprouts during their Growth. Food Chemistry, 115, 994-998.
+
+
+Pazos, M., Gallardo, M., Torres, B. & Medina, I. (2004). Activity of grape polyphenols as
+      inhibitors of the oxidation of fish lipids and frozen fish muscle. Food Chemistry, 92, 547-
+      557.
+
+
+Peñarrieta, J., Alvarado, J., Akesson, B. & Bergenstahl, B. (2008). Total antioxidant capacity and
+      content of flavonoids and other phenolic compounds in cañihua (Chenopodium
+      pallidicaule): an Andean pseudocereal. Molecular Nutrition & Food Research, 52, 708-
+      717.
+
+
+Pokorny, J., Yanisleva, N. & Gordon, M. (2004). Antioxidantes de los alimentos. España.
+      Editorial Acribia Zaragoza. 364.
+
+
+
+                                                                                               63
+Porras-Loaiza, A. & Lopez-Malo, A. (2009). Importancia de los grupos fenólicos en los
+      alimentos. Temas Selectos de Ingeniería de Alimentos, 3(1), 121-124.
+
+
+Repo-Carrasco, R. (1992). Tecnología de cereales y granos andinos. Universidad la Molina. Lima,
+      Perú. 124.
+
+
+Repo-Carrasco, R. & Encina, C. (2008). Determinación de la capacidad antioxidante y
+      compuestos fenólicos de cereales andinos: Quinua (Chenopodium quinoa), kañiwa
+      (Chenopodium pallidicaule Aellen) y kiwicha (Amaranthus caudatus). Revista de Sociedad
+      de Químicos de Perú – Lima.
+
+
+Repo-Carrasco, R., Jarkko, K., Juha, P. & Pirjo, M. (2010). Flavonoids and other phenolic
+      compounds in Andean indigenous grains: Quinoa (Chenopodium quinoa Willd), kañiwa
+      (Chenopodium pallidicaule Aellen) and Kiwicha (Amaranthus caudatus). Food Chemistry,
+      120, 128-133.
+
+
+Rice-Evans, C., Millar, N. & Paganga, G. (1996). Structure antioxidant activity relation ship of
+      flavoids and phenolic Acid. Free Radical Biology y Medicine, 20(7), 933-956.
+
+
+Robbins, R. (2003). Phenolic acids in foods: an overview of analytical methodology. J. Agric.
+      Food Chem, 51, 2866-2887.
+
+
+Rodríguez, D., Kimura M., Godoy, H. & Amaya, J. (2008). Updated brazilian database on food
+      carotenoids: Factors affecting carotenoid composition. Journal of Food Composition
+      Analysis, 21, 445-463.
+Rojas, W., Soto, J., Pinto, M., Jager, M. & Padulosi, S. (2008). Granos andinos, avances, logros
+      y experiencias desarrolladas en quinua, cañihua y amaranto en Bolivia.
+
+
+Sharma, P. & Sinhg, H. (2010). Antioxidant and polyphenol oxidase activity of germinated barley
+      and its milling fractions. Food Chemistry, 120, 673-678.
+
+
+Singleton, V. & Rossi, I. (1965). Colorimetry of total phenolic with phosphomolybdic-
+      phosphotunigstic acid reagents. American Journal of Enology Viticure, 16, 44-158.
+
+
+Tacora, M (2010). Efecto de la presión de expansión por explosión y temperatura de tostado en
+      algunas características funcionales de dos variedades de cañihua (Chenopodium
+      Pallidicaule Aellen). Tesis Universidad Nacional del Altiplano Puno-Perú.
+
+                                                                                             64
+Tapia, M. (1979). Cultivos andinos. IICA – CII. Bogotá, Colombia. 205-214.
+
+
+Tapia, M. (1990). Kañihua (Chenopodium pallidicaule Aellen) en cultivos andinos sub
+      explotados y su aporte a la alimentación. FAO, Primera Edición. 59-94.
+
+
+Tian, B., Xie, B., Shi, J., Wu, J., Cai, Y., Xu, T., Xue, S. & Deng, Q. (2010). Physicochemical
+      changes of oat seedes during germination. Food Chemistry, 119, 1195-1200.
+
+
+Torre, M., Rodriguez, A. & Saura-Calixto, F. (1991). Effects of dietary fiber and phytic acid on
+      mineral availability. Food Sci Nutr, 1(1), 1-22.
+
+
+Torres, J., Varela, B., Garcia, M., Carilla, J., Matito, C. & Centelles, J. (2002). Valorization of
+      grape (Vitis vinifera) byproducts. Antioxidant and biological properties of polyphenolic
+      fractions differing in procyanidin composition and flavonol content. Journal of
+      Agricultural and Food Chemistry, 50, 7548-7555.
+
+
+Wang, N., Hatcher, D., Toews, R. & Gawalko, E. (2009). Influence of cooking and dehulling on
+      nutritional composition of several varieties of lentils (Lens culinaris). LWT-Food Science
+      and Technology, 42, 842-848.
+
+
+Wu, C., Huang, S., Lin, J. & Yen, G. (2011). Inhibition of advanced glycation and product
+      formation by foodstuffs. Food & Function, 2, 224-234.
+
+
+Zheng, W. & Wang, S. (2001). Antioxidant activity and phenolic compounds in selected herbs.
+      Agricultural and Food Chemistry, 49(11), 5165-5170.
+
+
+
+
+                                                                                                65
+ANEXOS
+
+
+
+
+         66
+                                         Anexo 1
+         Resultados de la caracterización del grano de dos accesiones de cañihua
+
+Cuadro 1. Resultados de humedad
+                                               Humedad (%)
+                        Accesiones      PIK 030413      PIK 030133
+                           R1               8.78              10.8
+                           R2               8.76             10.83
+                           R3               8.8              10.81
+                        PROMEDIO            8.78             10.81
+                           DS              0.020             0.015
+
+Cuadro 2. Análisis de varianza (ANVA)
+ Fuente             Suma de           Gl       Cuadrado         Razón-F         Valor-P
+                    Cuadrados                  Medio
+ ACCESIONES         6.20167           1        6.20167          19584.21        **
+ Error exptal       0.00126667        4        0.000316667
+ Total (Corr.)      6.20293           5
+
+Cuadro 3. Prueba de múltiple rango de TUKEY por ACCESIONES
+ ACCESIONES         Casos      Media     Grupos Homogéneos
+ PIK 030133         3          10.8133   a
+ PIK 030413         3          8.78      b
+
+Cuadro 4. Resultados de los compuestos bioactivos en dos accesiones promisorias de cañihua
+ ACCESIONES
+                                                     EVALUACIONES
+ (Chenopodium       DATOS
+  pallidicaule                    Compuestos fenólicos (mg.        Capacidad antioxidante
+    Aellen)                         ácido gálico/100g ms)          (µmol. Trolox eq/g ms)
+                     R1                       70.32                         78.98
+                     R2                       70.51                         75.51
+  PIK 030413         R3                       69.72                         73.20
+                  PROMEDIO                    70.18                         75.90
+                     DS                        0.41                          2.91
+                     R1                      64.056                        111.08
+                     R2                       62.24                        108.19
+  PIK 030133         R3                       63.45                        111.80
+                  PROMEDIO                    63.25                        110.35
+                     DS                        0.92                          1.91
+
+
+
+
+                                                                                          67
+Cuadro 5. Análisis de varianza para compuestos fenólicos (ANVA)
+ Fuente                       S. C.             Gl     C. M.             Razón-F      Valor-P
+ ACCESIONES                   72.1974           1      72.1974           141.34       **
+ Error exptal                 2.04326           4      0.510814
+ Total (Corr.)                74.2407           5
+
+ACCESIONES                 Casos      Media       Grupos Homogéneos
+PIK 030413                 3          70.1883     a
+PIK 030133                 3          63.2506     b
+
+Cuadro 6. Análisis de varianza para capacidad antioxidante (ANVA)
+ Fuente                       S. C.              Gl    C. M.             Razón-F      Valor-P
+ ACCESIONES                   1781.24            1     1781.24           294.06       **
+ Intra grupos                 24.2293            4     6.05733
+ Total (Corr.)                1805.47            5
+
+ACCESIONES              Casos      Media                   Grupos Homogéneos
+PIK 030133              3          110.357                 a
+PIK 030413              3          75.8967                 b
+
+
+                                         Anexo 2
+    Resultados de la influencia de la germinación en los compuestos bioactivos de dos
+                                  accesiones de cañihua
+
+Cuadro 1. Resultados de la influencia de germinación en los compuestos fenólicos de la accesión
+PIK 030413
+        ACCESION
+                           TRATAMIENTO                              EVALUACIÓN
+       (Chenopodium
+        pallidicaule                               DATOS         Compuestos fenólicos
+                              Germinación
+          Aellen)                                               (mg. ácido gálico/100g
+                                (Tiempo)
+                                                                          ms)
+                                                   R1                     70.32
+                                                   R2                     70.51
+                                0 horas            R3                     69.72
+                                                PROMEDIO                  70.18
+                                                   DS                      0.41
+                                                   R1                     77.87
+                                                   R2                     79.05
+         PIK 030413             72 horas           R3                     78.66
+                                                PROMEDIO                  78.53
+                                                   DS                      0.59
+                                                   R1                     62.67
+                                                   R2                     62.87
+                                96 horas           R3                     63.26
+                                                PROMEDIO                  62.94
+                                                   DS                      0.30
+
+
+
+
+                                                                                            68
+Cuadro 2. Análisis de varianza (ANVA)
+ Fuente                       S. C.               Gl     C. M.           Razón-F      Valor-P
+ TIEMPO                       365.196             2      182.598         886.72       **
+ Error experimental           1.23555             6      0.205925
+ Total (Corr.)                366.431             8
+
+Cuadro 3. Prueba de múltiple rango de TUKEY para compuestos fenólicos por TIEMPO
+ TIEMPO           Casos       Media         Grupos Homogéneos
+ 72 HORAS         3           78.5306       a
+ 0 HORAS          3           70.1883       b
+ 96 HORAS         3           62.94         c
+
+Cuadro 4. Resultados de la influencia de germinación en los compuestos fenólicos de la accesión
+PIK 030133 de cañihua
+          ACCESION            TRATAMIENTO                             EVALUACION
+         (Chenopodium                                                   Compuestos
+          pallidicaule                                  DATOS
+                                Germinación                            fenólicos (mg.
+            Aellen)              (Tiempo)                            ácido gálico/100g
+                                                                            ms)
+                                                          R1              64.056
+                                                          R2               62.24
+                                   0 horas                R3               63.45
+                                                       PROMEDIO            63.25
+                                                          DS                0.92
+                                                          R1               95.67
+                                                          R2               94.32
+          PIK 030133              72 horas                R3               95.87
+                                                       PROMEDIO            95.29
+                                                          DS                0.84
+                                                          R1               91.09
+                                                          R2               92.05
+                                  96 horas                R3               91.47
+                                                       PROMEDIO            91.54
+                                                          DS                0.48
+
+Cuadro 5. Análisis de varianza (ANVA)
+ Fuente                         Suma de           Gl Cuadrado Medio Razón-F           Valor-P
+                                Cuadrados
+ TIEMPO                         1841.2            2     920.6            1535.94      **
+ Error experimental             3.59624           6     0.599374
+ Total (Corr.)                  1844.8            8
+
+
+Cuadro 6. Prueba de múltiple rango de TUKEY para compuestos fenólicos por TIEMPO
+ TIEMPO           Casos       Media         Grupos Homogéneos
+ 72 HORAS         3           95.2917       a
+ 96 HORAS         3           91.544        b
+ 0 HORAS          3           63.2506       c
+
+
+                                                                                            69
+Cuadro 7. Resultados de la influencia de germinación en la capacidad antioxidante de la accesión
+PIK 030413 de cañihua
+            ACCESION            TRATAMIENTO                           EVALUACION
+           (Chenopodium                                                  Capacidad
+            pallidicaule                                DATOS
+                                  Germinación                           antioxidante
+              Aellen)              (Tiempo)                            (µMol. Trolox
+                                                                          eq/g ms)
+                                                         R1                78.98
+                                                         R2                75.51
+                                     0 horas             R3                73.20
+                                                      PROMEDIO             75.90
+                                                         DS                 2.91
+                                                         R1                137.16
+                                                         R2                139.67
+             PIK 030413             72 horas             R3                141.67
+                                                      PROMEDIO             139.50
+                                                         DS                 2.26
+                                                         R1                165.25
+                                                         R2                163.03
+                                    96 horas             R3                165.80
+                                                      PROMEDIO             164.69
+                                                         DS                 1.46
+
+Cuadro 8. Análisis de varianza (ANVA)
+ Fuente                       S. C.              Gl      C. M.            Razón-F      Valor-P
+ TIEMPO                       12564.9            2       6282.47          1198.82      **
+ Error experimental           31.4431            6       5.24052
+ Total (Corr.)                12596.4            8
+
+
+
+Cuadro 9. Prueba de múltiple rango de TUKEY para capacidad antioxidante por TIEMPO
+ TIEMPO           Casos       Media         Grupos Homogéneos
+ 96 HORAS         3           164.693       a
+ 72 HORAS         3           139.5         b
+ 0 HORAS          3           75.8967       c
+
+
+
+
+                                                                                             70
+Cuadro 10. Resultados de la influencia de germinación en la capacidad antioxidante de la
+accesión PIK 030133 de cañihua
+         ACCESION
+                           TRATAMIENTO                          EVALUACION
+       (Chenopodium
+         pallidicaule                            DATOS              Capacidad
+                             Germinación
+           Aellen)                                             antioxidante (µmol.
+                               (Tiempo)
+                                                                 Trolox eq/g ms)
+                                                    R1               111.08
+                                                    R2               108.19
+                               0 horas              R3               111.80
+                                                 PROMEDIO            110.35
+                                                    DS                1.91
+                                                    R1               139.96
+                                                    R2               139.47
+        PIK 030133            72 horas              R3               137.53
+                                                 PROMEDIO            138.99
+                                                    DS                1.28
+                                                    R1               183.03
+                                                    R2               180.48
+                              96 horas              R3               182.01
+                                                 PROMEDIO            181.84
+                                                    DS                1.28
+
+Cuadro 11. Análisis de varianza (ANVA)
+ Fuente                       S. C.         Gl      C. M.           Razón-F     Valor-P
+ TIEMPO                       7765.95       2       3882.98         1676.31     **
+ Error experimental           13.8983       6       2.31639
+ Total (Corr.)                7779.85       8
+
+Cuadro 12. Prueba de múltiple rango de TUKEY para capacidad antioxidante por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 96 HORAS         3          181.84         a
+ 72 HORAS         3          138.987        b
+ 0 HORAS          3          110.357        c
+
+
+
+
+                                                                                      71
+                                         Anexo 3
+ Resultados de la influencia de germinación en la composición proximal de dos accesiones
+                                       de cañihua
+
+Cuadro 1. Resultados de la influencia de germinación en la composición proximal de la accesión
+PIK 030413
+                                                                     EVALUACIONES (%)
+       ACCESION
+      (Chenopodium          Germinación
+
+
+
+
+                                                                                Proteína
+
+
+
+
+                                                                                                    Carbohi
+                                                            Ceniza
+
+
+
+
+                                                                                                     dratos
+                                                                       Grasa
+
+
+
+
+                                                                                            Fibra
+    pallidicaule Aellen)
+
+                                              R1          2.74        7.35     14.78       2.56     63.79
+                                              R2          2.72        7.33     14.78       2.52     63.85
+                               0 horas        R3          2.69        7.36     14.78       2.5      63.87
+                                           PROMEDIO       2.72        7.34     14.78       2.52     63.83
+                                              DS          0.02        0.01     0.00        0.03     0.04
+                                              R1          2.82        5.41     17.99       2.09     64.02
+                                              R2          2.8         5.48     17.99       2.06     63.95
+        PIK 030413            72 horas        R3          2.76        5.55     17.99       2.08     63.97
+                                           PROMEDIO       2.79        5.48     17.99       2.08     63.98
+                                              DS          0.03        0.07     0.00        0.02     0.03
+                                              R1          3.15        7.33     17.35       1.96     60.17
+                                              R2          3.12        7.36     17.35       1.92     60.24
+                              96 horas        R3          3.08        7.3      17.35       1.95     60.27
+                                           PROMEDIO       3.12        7.33     17.35       1.94     60.22
+                                              DS          0.03        0.03     0.00        0.05     0.05
+
+Cuadro 2. Análisis de varianza para ceniza (ANVA)
+ Fuente                      S. C.            Gl       C. M.                   Razón-F              Valor-P
+ TIEMPO                      1.85842          2        0.929211                995.58               **
+ Error experimental          0.0056           6        0.000933333
+ Total (Corr.)               1.86402          8
+
+Cuadro 3. Prueba de múltiple rango de TUKEY para ceniza por TIEMPO
+ TIEMPO           Casos       Media         Grupos Homogéneos
+ 96 HORAS         3           3.71667       a
+ 72 HORAS         3           2.79333       b
+ 0 HORAS          3           2.71667       c
+
+Cuadro 4. Análisis de varianza para grasa (ANVA)
+ Fuente                      S. C.           Gl        C. M.                   Razón-F              Valor-P
+ TIEMPO                      6.90722         2         3.45361                 1717.27              **
+ Error experimental          0.0120667       6         0.00201111
+ Total (Corr.)               6.91929         8
+
+Cuadro 5. Prueba de múltiple rango de TUKEY para grasa por TIEMPO
+ TIEMPO           Casos Media               Grupos Homogéneos
+ 0 HORAS          3         7.34667         a
+ 96 HORAS         3         7.33            a
+ 72 HORAS         3         5.48            b
+
+                                                                                                          72
+Cuadro 6. Análisis de varianza para proteína (ANVA)
+ Fuente                      S. C.             Gl   C. M.           Razón-F   Valor-P
+ TIEMPO                      17.3186           2    8.6593
+ Error experimental          0                 6    0
+ Total (Corr.)               17.3186           8
+
+Cuadro 7. Prueba de múltiple rango de TUKEY para proteína por TIEMPO
+ TIEMPO           Casos       Media         Grupos Homogéneos
+ 72 HORAS         3           17.99         a
+ 96 HORAS         3           17.35         b
+ 0 HORAS          3           14.78         c
+
+Cuadro 8. Análisis de varianza para fibra (ANVA)
+ Fuente                      S. C.           Gl      C. M.          Razón-F   Valor-P
+ Entre grupos                0.594467        2       0.297233       504.74    **
+ Intra grupos                0.00353333      6       0.000588889
+ Total (Corr.)               0.598           8
+
+Cuadro 9. Prueba de múltiple rango de TUKEY para fibra por TIEMPO
+ TIEMPO           Casos       Media         Grupos Homogéneos
+ 0 HORAS          3           2.52667       a
+ 72 HORAS         3           2.03          b
+ 96 HORAS         3           1.94333       c
+
+Cuadro 10. Análisis de varianza para carbohidratos (ANVA)
+ Fuente                     S. C.             Gl      C. M.         Razón-F   Valor-P
+ Entre grupos               27.1402           2       13.5701       7184.16   **
+ Intra grupos               0.0113333         6       0.00188889
+ Total (Corr.)              27.1515           8
+
+Cuadro 11. Prueba de múltiple rango de TUKEY para carbohidratos por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 72 HORAS         3          63.98          a
+ 0 HORAS          3          63.8367        a
+ 96 HORAS         3          60.2267        b
+
+
+
+
+                                                                                 73
+Cuadro 12. Resultados de la influencia de germinación en la composición proximal de la accesión
+PIK 030133
+     ACCESION                                                       EVALUACIONES (%)
+    (Chenopodium         Germinación
+
+
+
+
+                                                                              Proteína
+
+
+
+
+                                                                                                  Carbohi
+                                                           Ceniza
+     pallidicaule
+
+
+
+
+                                                                                                   dratos
+                                                                     Grasa
+
+
+
+
+                                                                                          Fibra
+       Aellen)
+                                             R1           2.98      7.28     13.49       2.63     62.82
+                                             R2           2.96      7.22     13.49       2.65     62.79
+                           0 horas           R3           2.94      7.25     13.49       2.67     62.84
+                                          PROMEDIO        2.96      7.25     13.49       2.65     62.82
+                                             DS           0.02      0.03     0.00        0.02     0.02
+                                             R1           2.4       8.12     11.91       2.29     67.73
+                                             R2           2.44      8.08     11.92       2.27     67.69
+     PIK 030133            72 horas          R3           2.46      8.02     11.91       2.32     67.74
+                                          PROMEDIO        2.43      8.07     11.91       2.29     67.72
+                                             DS           0.03      0.05     0.005       0.02     0.02
+                                             R1           2.57      8.36     16.54       2.02     62.59
+                                             R2           2.52      8.33     16.54       2.01     61.78
+                           96 horas          R3           2.54      8.29     16.54       2.03     60.69
+                                          PROMEDIO        2.54      8.32     16.54       2.02     61.68
+                                             DS           0.02      0.03     0.00        0.01     0.95
+
+Cuadro 13. Análisis de varianza para ceniza (ANVA)
+ Fuente                     S. C.             Gl        C. M.                 Razón-F              Valor-P
+ TIEMPO                     0.463089          2         0.231544              353.20               **
+ Error experimental         0.00393333        6         0.000655556
+ Total (Corr.)              0.467022          8
+
+Cuadro 14. Prueba de múltiple rango de TUKEY para ceniza por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 0 HORAS          3          2.96           a
+ 96 HORAS         3          2.54333        b
+ 72 HORAS         3          2.43333        c
+
+Cuadro 15. Análisis de varianza para grasa (ANVA)
+ Fuente                     S. C.            Gl         C. M.                 Razón-F              Valor-P
+ TRATAMIENTOS               1.90127          2          0.950633              611.12               **
+ Error exptal               0.00933333       6          0.00155556
+ Total (Corr.)              1.9106           8
+
+Cuadro 16. Prueba de múltiple rango de TUKEY para grasa por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 96 HORAS         3          8.32667        a
+ 72 HORAS         3          8.07333        b
+ 0 HORAS          3          7.25           c
+
+
+
+
+                                                                                                            74
+Cuadro 17. Análisis de varianza para proteína (ANVA)
+ Fuente                     S. C.              Gl    C. M.           Razón-F      Valor-P
+ Entre grupos               33.1944            2     16.5972         1493749.00   **
+ Intra grupos               0.0000666667 6           0.0000111111
+ Total (Corr.)              33.1945            8
+
+Cuadro 18. Prueba de múltiple rango de TUKEY para proteína por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 96 HORAS         3          16.54          a
+ 0 HORAS          3          13.49          b
+ 72 HORAS         3          11.9133        c
+
+Cuadro 19. Análisis de varianza para fibra (ANVA)
+ Fuente                     S. C.             Gl     C. M.           Razón-F      Valor-P
+ Entre grupos               0.598822          2      0.299411        792.56       **
+ Intra grupos               0.00226667        6      0.000377778
+ Total (Corr.)              0.601089          8
+
+Cuadro 20. Prueba de múltiple rango de TUKEY para fibra por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 0 HORAS          3          2.65           A
+ 72 HORAS         3          2.29333        B
+ 96 HORAS         3          2.02           C
+
+Cuadro 21. Análisis de varianza para carbohidratos (ANVA)
+ Fuente                     S. C.             Gl      C. M.          Razón-F      Valor-P
+ Entre grupos               61.7207           2       30.8603        101.70       **
+ Intra grupos               1.82073           6       0.303456
+ Total (Corr.)              63.5414           8
+
+Cuadro 22. Prueba de múltiple rango de TUKEY para carbohidratos por TIEMPO
+ TIEMPO           Casos      Media          Grupos Homogéneos
+ 72 HORAS         3          67.72          a
+ 0 HORAS          3          62.8167        b
+ 96 HORAS         3          61.6867        b
+
+
+
+
+                                                                                     75
+                                         Anexo 4
+Resultados de los análisis de los compuestos bioactivos de los tratamientos (germinación y
+                     cocción húmeda) de dos accesiones de cañihua
+
+Cuadro 1. Resultados de la accesión PIK 030413
+                                                                       EVALUACIÓN
+      ACCESIÓN               TRATAMIENTOS
+    (Chenopodium                                                    Compuestos fenólicos
+  pallidicaule Aellen)                   Cocción
+                         Germinación
+                                         húmeda
+                                                        R1                  77.87
+                                                        R2                  79.05
+                                             0          R3                  78.66
+                                                     PROMEDIO               78.53
+                                                        DS                   0.59
+                                                        R1                 60.8535
+                                                        R2                 59.8396
+                           72 horas        65° C        R3                 60.4480
+                                                     PROMEDIO              60.3804
+                                                        DS                   0.51
+                                                        R1                 44.9160
+                                                        R2                 44.5222
+                                          85 ° C        R3                 42.9467
+                                                     PROMEDIO              44.1283
+                                                        DS                   1.04
+      PIK 030413
+                                                        R1                  62.67
+                                                        R2                  62.87
+                                             0          R3                  63.26
+                                                     PROMEDIO               62.94
+                                                        DS                   0.30
+                                                        R1                 46.1109
+                                                        R2                 46.3176
+                           96 horas        65° C        R3                 45.6975
+                                                     PROMEDIO              46.0420
+                                                        DS                   0.31
+                                                        R1                 41.7286
+                                                        R2                 42.3332
+                                          85 ° C        R3                 42.5347
+                                                     PROMEDIO              42.1988
+                                                        DS                   0.41
+
+
+
+
+                                                                                        76
+     Cuadro 2. Resultados de la accesión PIK 030133
+                                                                                  EVALUACION
+    ACCESION                   TRATAMIENTOS
+  (Chenopodium
+                                                                               Compuestos fenólicos
+pallidicaule Aellen)
+                       Germinación      Cocción húmeda
+                                                                 R1                       95.67
+                                                                 R2                       94.32
+                                                0                R3                       95.87
+                                                              PROMEDIO                    95.29
+                                                                 DS                        0.84
+                                                                 R1                      75.9149
+                                                                 R2                      76.3252
+                         72 horas            65° C               R3                      76.7355
+                                                              PROMEDIO                   76.3252
+                                                                 DS                        0.41
+                                                                 R1                      72.6583
+                                                                 R2                      74.2681
+                                             85 ° C              R3                      74.8718
+                                                              PROMEDIO                   73.9328
+                                                                 DS                        1.14
+   PIK 030133
+                                                                 R1                       91.09
+                                                                 R2                       92.05
+                                                0                R3                       91.47
+                                                              PROMEDIO                    91.54
+                                                                 DS                        0.48
+                                                                 R1                      81.3989
+                                                                 R2                      81.6039
+                         96 horas            65° C               R3                      82.4239
+                                                              PROMEDIO                   81.8089
+                                                                 DS                        0.54
+                                                                 R1                      79.5281
+                                                                 R2                      79.9390
+                                             85 ° C              R3                      80.5554
+                                                              PROMEDIO                   80.0075
+                                                                 DS                        0.41
+
+     Cuadro 3. Análisis de varianza de dos accesiones para compuestos fenólicos (ANVA)
+      Fuente                       S. C.              Gl     C. M.           Razón-F       Valor-P
+       A:ACCESIONES                5339.42            1      5339.42         1520.53          **
+       B:TEMPERATURA               8.31698            1      8.31698         2.37             n.s
+      INTERACCIONES
+       AB                          290.364            1      290.364         82.69            **
+      RESIDUOS                     59.6963            17     3.51154
+      TOTAL (CORREGIDO)            6077.22            23
+
+     Cuadro 4. Prueba de múltiple rango de TUKEY para compuestos fenólicos por ACCESIONES
+      ACCESIONES         Media LS         Grupos Homogéneos
+      PIK 030133         78.0187          a
+      PIK 030413         48.1874          b
+
+
+
+
+                                                                                               77
+Cuadro 5. Resultados de la PIK 030413
+                                                                    EVALUACION
+     ACCESION                 TRATAMIENTOS
+   (Chenopodium                                                       Capacidad
+ pallidicaule Aellen)                                                antioxidante
+                        Germinación     Cocción húmeda
+                                                            R1         137.16
+                                                            R2         139.67
+                                              0             R3         141.67
+                                                         PROMEDIO      139.50
+                                                            DS           2.26
+                                                            R1         119.65
+                                                            R2         122.89
+                         72 horas           65° C           R3         120.73
+                                                         PROMEDIO      121.09
+                                                            DS           1.65
+                                                            R1         112.24
+                                                            R2         108.92
+                                            85 ° C          R3         109.33
+                                                         PROMEDIO      110.16
+                                                            DS           1.81
+    PIK 030413
+                                                            R1         165.25
+                                                            R2         163.03
+                                              0             R3         165.80
+                                                         PROMEDIO      164.69
+                                                            DS           1.46
+                                                            R1         113.57
+                                                            R2         114.56
+                         96 horas           65° C           R3         112.90
+                                                         PROMEDIO      113.68
+                                                            DS           0.83
+                                                            R1          93.36
+                                                            R2          91.55
+                                            85 ° C          R3          92.28
+                                                         PROMEDIO       92.40
+                                                            DS           0.91
+
+
+
+
+                                                                                    78
+Cuadro 6. Resultados de la PIK 030133
+                                                                      EVALUACION
+      ACCESION              TRATAMIENTOS
+    (Chenopodium
+                                                                  Capacidad antioxidante
+  pallidicaule Aellen)                  Cocción
+                         Germinación
+                                        húmeda
+                                                       R1                 139.96
+                                                       R2                 139.47
+                                            0          R3                 137.53
+                                                    PROMEDIO              138.99
+                                                       DS                  1.28
+                                                       R1                 101.26
+                                                       R2                 101.92
+                          72 horas        65° C        R3                 100.93
+                                                    PROMEDIO              101.37
+                                                       DS                  0.51
+                                                       R1                  92.57
+                                                       R2                  93.45
+                                         85 ° C        R3                  96.07
+                                                    PROMEDIO               94.03
+                                                       DS                  1.82
+      PIK 030133                                       R1                 183.03
+                                                       R2                 180.48
+                                            0          R3                 182.01
+                                                    PROMEDIO              181.84
+                                                       DS                  1.28
+                                                       R1                 129.24
+                                                       R2                 128.89
+                          96 horas        65° C        R3                 131.38
+                                                    PROMEDIO              129.84
+                                                       DS                  1.35
+                                                       R1                 120.88
+                                                       R2                 119.64
+                                         85 ° C        R3                 120.47
+                                                    PROMEDIO              120.33
+                                                       DS                 101.26
+
+Cuadro 7. Análisis de varianza de dos accesiones para capacidad antioxidante (ANVA)
+ Fuente                       S. C.              Gl     C. M.            Razón-F    Valor-P
+  A:ACCESIONES                25.4616            1      25.4616          8.36          **
+  B:TEMPERATURA               902.336            1      902.336          296.41        **
+ INTERACCIONES
+  AB                          88.4736            1      88.4736          29.06         **
+ RESIDUOS                     51.7525            17     3.04427
+ TOTAL (CORREGIDO)            3851.87            23
+
+
+
+Cuadro 8. Prueba de múltiple rango de TUKEY para capacidad antioxidante por ACCESIONES
+ ACCESIONES         Media LS          Grupos Homogéneos
+ PIK 030133         111.392           a
+ PIK 030413         109.332           b
+
+                                                                                       79
+Cuadro 9. Prueba      de múltiple rango de TUKEY para capacidad antioxidante por
+TEMPERATURA
+ TEMPERATURA         Media LS          Grupos Homogéneos
+ 0                   156.255           a
+ 65° C               116.493           b
+ 85° C               104.23            c
+
+
+                                         Anexo 5
+    Resultados de la influencia de la germinación y cocción húmeda en la composición
+                          proximal de dos accesiones de cañihua
+
+Cuadro 1. Resultados de los análisis de procesos de germinación y cocción húmeda en la
+composición proximal de la accesión PIK 030413 de cañihua
+ACCESION                                                       EVALUACIONES (%)
+(Chenopodiu      TRATAMIENTOS
+
+
+
+
+                                                                                                       Carbohidrat
+      m
+
+
+
+
+                                                                              Proteína
+                                                           Ceniza
+
+
+                                                                     Grasa
+
+
+
+
+                                                                                          Fibra
+
+
+
+                                                                                                           os
+ pallidicaule
+                               Cocción
+   Aellen)    Germinación
+                               húmeda
+                                            R1          2.82        5.41     17.99       2.09      64.02
+                                            R2           2.8        5.48     17.99       2.06      63.95
+                                 0          R3          2.76        5.55     17.99       2.08      63.97
+                                         PROMEDIO       2.79        5.48     17.99       2.08      63.98
+                                            DS          0.03        0.07      0.00       0.02       0.03
+                                            R1          2.02        5.09     15.01        2.0      62.57
+                                            R2          2.07        5.06     15.08       2.06      62.47
+                  72 horas      65°C        R3          2.09        5.02     15.17       2.08      62.34
+                                         PROMEDIO       2.06        5.05     15.08       2.04      62.46
+                                            DS          0.03        0.03      0.08       0.04       0.11
+                                            R1          2.01        5.03     14.54       2.05      64.59
+                                            R2          2.02        5.03     14.51       2.06      63.85
+                                85°C        R3          2.03         4.8     14.38       2.08      62.73
+     PIK 030413
+
+
+
+
+                                         PROMEDIO       2.02        4.95     14.47       2.06      63.39
+                                            DS          0.02        0.13      0.08       0.01       0.69
+                                            R1          3.15        7.33     17.35       1.96      60.17
+                                            R2          3.12        7.36     17.35       1.92      60.24
+                                 0          R3          3.08         7.3     17.35       1.95      60.27
+                                         PROMEDIO       3.12        7.33     17.35       1.94      60.22
+                                            DS          0.03        0.03      0.00       0.05       0.05
+                                            R1          2.06        6.72     16.33       1.99      60.85
+                                            R2          2.04        6.71     16.33       1.95      60.81
+                  96 horas      65°C        R3          2.01        6.69     16.33       1.97      60.93
+                                         PROMEDIO       2.03        6.70     16.33       1.97      60.86
+                                            DS          0.02        0.01      0.00       0.02       0.06
+                                            R1          2.07        6.14     15.29       1.95      66.17
+                                            R2          2.02        6.09     15.27       1.94      66.19
+                                85°C        R3          2.05        6.11     15.28       1.93      66.24
+                                         PROMEDIO       2.04        6.11     15.28       1.94      66.20
+                                            DS          0.02        0.02      0.00       0.01       0.03
+
+
+
+
+                                                                                                  80
+Cuadro 2. Resultados de los análisis de procesos de germinación y cocción húmeda en la
+composición proximal de la accesión PIK 030133 de cañihua
+  ACCESION                                                  EVALUACIONES (%)
+                   TRATAMIENTOS
+
+
+
+
+                                                                                                 Carbohidrato
+ (Chenopodium
+
+
+
+
+                                                                             Proteína
+                                                          Ceniza
+  pallidicaule
+
+
+
+
+                                                                    Grasa
+
+
+
+
+                                                                                         Fibra
+                                 Cocción
+
+
+
+
+                                                                                                      s
+    Aellen)      Germinación
+                                 humeda
+
+                                             R1          2.4       8.12     11.91       2.29     67.73
+                                             R2          2.44      8.08     11.92       2.27     67.69
+                                    0        R3          2.46      8.02     11.91       2.32     67.74
+                                          PROMEDIO       2.43      8.07     11.91       2.29     67.72
+                                             DS          0.03      0.05     0.005       0.02      0.02
+                                             R1          1.77      8.1      11.29       2.38     67.93
+                                             R2          1.72      8.08     11.22       2.36     68.98
+                    72 horas      65°C       R3          1.74      8.05     11.25       2.34     67.95
+                                          PROMEDIO       1.74      8.07     11.28       2.36     68.97
+                                             DS          0.02      0.02      0.08       0.02      0.02
+                                             R1          1.51      7.33     10.46       1.95     66.52
+                                             R2          1.59      7.27     10.47       1.94     66.53
+                                  85°C       R3          1.60      7.29     10.48       1.92     66.54
+       PIK 030133
+
+
+
+
+                                          PROMEDIO       1.58      7.29     10.47       1.93     66.53
+                                             DS          0.02      0.03      0.00       0.01      0.00
+                                             R1          2.57      8.36     16.54       2.02     62.59
+                                             R2          2.52      8.33     16.54       2.01     61.78
+                                    0        R3          2.54      8.29     16.54       2.03     60.69
+                                          PROMEDIO       2.54      8.32     16.54       2.02     61.68
+                                             DS          0.02      0.03      0.00       0.01      0.95
+                                             R1          2.04      7.72     14.17       2.01     65.76
+                                             R2          2.02      7.68     14.17       2.04     65.74
+                    96 horas
+                                  65°C       R3          2.0       7.7      14.17       1.82     65.76
+                                          PROMEDIO       2.02      7.70     14.17       2.02     65.75
+                                             DS          0.02      0.01      0.00       0.01      0.01
+                                             R1          1.76      7.32     13.94       1.82     64.91
+                                             R2          1.72      7.28     13.64       1.81     65.09
+                                  85°C
+                                             R3          1.68      7.25     13.78       1.85     65.17
+                                          PROMEDIO       1.72      7.28     13.78       1.82     65.05
+
+Cuadro 3. Análisis de varianza de dos accesiones para ceniza (ANVA)
+ Fuente                       S. C.              Gl     C. M.               Razón-F              Valor-P
+  A:ACCESIONES                0.00689823         1      0.00689823          47.32                   **
+  C:TEMPERATURA               0.851757           1      0.851757            5842.48                 **
+ INTERACCIONES
+  AC                          0.0533334          1      0.0533334           365.83                       **
+ RESIDUOS                     0.00247838         17     0.000145787
+ TOTAL (CORREGIDO)            0.973868           23
+
+Cuadro 4. Prueba de múltiple rango de TUKEY para ceniza por ACCESIONES
+ ACCESIONES         Media LS         Grupos Homogéneos
+ PIK 030133         1.60632          a
+ PIK 030413         1.57241          b
+
+
+                                                                                                          81
+Cuadro 5. Prueba de múltiple rango de TUKEY para ceniza por TEMPERATURA
+ TEMPERATURA Media LS                Grupos Homogéneos
+ 0                  1.9509           a
+ 85° C              1.77776          b
+ 65° C              1.40098          c
+
+Cuadro 6. Análisis de varianza de dos accesiones para proteína (ANVA)
+ Fuente                       S. C.              Gl     C. M.           Razón-F   Valor-P
+  A:ACCESIONES                0.151577           1      0.151577        1585.67      **
+  B:TEMPERATURA               0.72926            1      0.72926         7628.91      **
+ INTERACCIONES
+  AB                          0.0296236          1      0.0296236       309.90       **
+ RESIDUOS                     0.00152947         16     0.0000955916
+ TOTAL (CORREGIDO)            0.958394           23
+
+Cuadro 7. Prueba de múltiple rango de TUKEY para proteínas por ACCESIONES
+ ACCESIONES       Media LS          Grupos Homogéneos
+ PIK 030413       3.84373           a
+ PIK 030133       3.68479           b
+
+Cuadro 8. Prueba de múltiple rango de TUKEY para proteínas por TEMPERATURA
+ TEMPERATURA Media LS                Grupos Homogéneos
+ 0                  4.1205           a
+ 85°C               3.93857          b
+ 65°C               3.58994          c
+
+Cuadro 9. Análisis de varianza de dos accesiones para grasa (ANVA)
+ Fuente                       S. C.              Gl    C. M.            Razón-F   Valor-P
+  A:ACCESIONES                0.0540895          1     0.0540895        10.99        **
+  B:TEMPERATURA               0.0307829          1     0.0307829        6.25         **
+ INTERACCIONES
+  AB                          0.0000482228       1     0.0000482228     0.01         n.s
+ RESIDUOS                     0.0836688          17    0.00492169
+ TOTAL (CORREGIDO)            0.258232           23
+
+Cuadro 10. Prueba de múltiple rango de TUKEY para grasa por ACCESIONES
+ ACCESIONES        Media LS            Grupos Homogéneos
+ PIK 030133        2.75242             a
+ PIK 030413        2.65747             b
+
+
+Cuadro 11. Prueba de múltiple rango de TUKEY para grasa por TEMPERATURA
+ TEMPERATURA Media LS                  Grupos Homogéneos
+ 0                 2.9605              a
+ 85° C             2.74076             b
+ 65° C             2.66913             c
+
+
+
+
+                                                                                     82
+Cuadro 12. Análisis de varianza de dos accesiones para fibra (ANVA)
+ Fuente                       S. C.              Gl     C. M.         Razón-F     Valor-P
+  A:ACCESIONES                0.0023594          1      0.0023594     45.12          **
+  B:TEMPERATURA               0.0120778          1      0.0120778     230.99         **
+ INTERACCIONES
+  AB                          0.000403719        1      0.000403719   7.72           **
+ RESIDUOS                     0.000888879        17     0.000052287
+ TOTAL (CORREGIDO)            0.0648381          23
+
+Cuadro 13. Prueba de múltiple rango de TUKEY para fibra por ACCESIONES
+ ACCESIONES       Media LS         Grupos Homogéneos
+ PIK 030133       1.46099          a
+ PIK 030413       1.44116          b
+
+Cuadro 14. Prueba de múltiple rango de TUKEY para fibra por TEMPERATURA
+ TEMPERATURA Media LS             Grupos Homogéneos
+ 0                 1.78           a
+ 65° C             1.47351        b
+ 85° C             1.42865        c
+
+Cuadro 15. Análisis de varianza de dos accesiones para carbohidratos (ANVA)
+ Fuente                       S. C.              Gl     C. M.           Razón-F   Valor-P
+  A:ACCESIONES                26.5441            1      26.5441         28.06        **
+  B:TEMPERATURA               52.8067            1      52.8067         55.82        **
+ INTERACCIONES
+  AB                          26.46              1      26.46           27.97        **
+ RESIDUOS                     16.0825            17     0.946031
+ TOTAL (CORREGIDO)            217.135            23
+
+Cuadro 16. Prueba de múltiple rango de TUKEY para carbohidratos por ACCESIONES
+ ACCESIONES       Media LS           Grupos Homogéneos
+ PIK 030133       68.3317            a
+ PIK 030413       66.2283            b
+
+Cuadro 17. Prueba de múltiple rango de TUKEY para carbohidratos por TEMPERATURA
+ TEMPERATURA Media LS                  Grupos Homogéneos
+ 0                 65.432              a
+ 65° C             68.7633             b
+ 85° C             65.7967             c
+
+
+
+
+                                                                                     83
+Anexo 6
+
+
+
+
+          84
+

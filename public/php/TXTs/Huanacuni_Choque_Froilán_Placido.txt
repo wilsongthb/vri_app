@@ -1,0 +1,3785 @@
+     UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+FACULTAD DE INGENIERIA GEOLOGICA E INGENIERIA METALURGICA
+
+      ESCUELA PROFESIONAL DE INGENIERIA GEOLOGICA
+
+
+
+
+“EVALUACION GEOLOGICA Y GEOTECNICA DE LA
+CONSTRUCCION PRESA ARICOMA – CRUCERO –
+           CARABAYA - PUNO”
+
+                            TESIS
+                   Presentada por el Bachiller:
+
+              FROILAN PLACIDO HUANACUNI CHOQUE
+
+                Para optar el Titulo Profesional de:
+
+                  INGENIERO GEOLOGO
+
+                        PUNO - PERU
+
+                              2014
+
+
+
+
+                                                            i
+ÁREA: Planificación y estrategias del desarrollo regional
+
+TEMA : Estudio geotécnicos y geodinamicos
+
+
+
+
+                                                            ii
+DEDICATORIA
+
+
+A mi padre máximo que en paz descanse, mi
+madre Domitila, mi esposa Nelia Yeni y mi
+hijo Rhoy Anderson, por ser mi inspiración,
+como muestra de mi eterno agradecimiento
+y aprecio por su apoyo.
+
+
+
+                                            A mis hermanos(a) Juan, José, Genaro,
+                                            Mary ellos son mi orgullo para mi
+                                            existencia y por estar siempre a mi lado
+                                            en todo sin pedir nada a cambio y en
+                                            especial a mi hermano Alfredo que en
+                                            paz descanse.
+
+
+
+A mis sobrinos(as) como son: Juan Miguel,
+Brayan, Anthony, Jordán, Leydi, Shamira,
+que también son la alegría de mi hogar
+
+
+
+
+                                                 Froilán Placido Huanacuni Choque
+
+
+                                                                                   i
+                               AGRADECIMIENTOS
+Agradezco a mi asesor Ing. M.Sc. Leonel Palomino
+Ascencio y al director de tesis ing. M.Sc. Flavio Rosado
+Linares, por sus consejos, dirección y aliento en los
+momentos de elaboración de este proyecto sin los
+cuales la realización de este estudio no seria posible.
+
+                              Un agradecimiento inmenso a la institución
+                              PRORRIDRE del Gobierno Regional Puno por haberme
+                              brindado la facilidad de poder trabajar en estudio y/o
+                              evaluación del proyecto.
+
+A la Universidad Nacional del Altiplano, por ser la casa
+superior de estudios de la cual me forme y egreso
+como profesional.
+
+                              A la Facultad de Ingeniería Geológica e Ingeniería
+                              Metalúrgica, escuela profesional de Ingeniería
+                              Geológica en donde realice mis estudios superiores, a
+                              los docentes por haberme impartido sus sabias
+                              enseñanzas, administrativos y compañeros.
+
+Agradezco a dios por darme la vida y esta gran
+oportunidad de dar este logro trascendental en mi vida
+profesional.
+
+
+
+
+                                                   Froilán Placido Huanacuni Choque
+
+                                                                                   ii
+                                          INDICE GENERAL
+
+
+DEDICATORIA                                                 I
+AGRADECIMIENTOS                                             II
+INDICE                                                     III
+LISTA DE CUADROS                                           VIII
+LISTA DE GRAFICOS                                          IX
+LISTA DE IMÁGENES                                          IX
+LISTA DE SÍMBOLOS UTILIZADOS                               IX
+RESUMEN                                                     X
+
+CAPITULO I                                                  1
+INTRODUCCION                                                1
+1.1 PLANTEAMIENTO DEL PROBLEMA                              2
+1.2 ANTECEDENTES                                            3
+1.3 JUSTIFICACION                                           4
+1.4 HIPOTESIS                                               5
+  1.4.1 Hipótesis General                                   5
+  1.4.2 Hipótesis Específico                                5
+1.5 OBJETIVO                                                5
+  1.5.1 Objetivo General                                    5
+  1.5.2 Objetivo Específico                                 5
+1.6 METODOLOGIA DE INVESTIGACION.                           6
+  1.6.1 Etapa de gabinete I.                                6
+  1.6.2 Etapa de campo I.                                   6
+  1.6.3 Etapa de campo II.                                  6
+  1.6.4 Análisis de laboratorio de mecánica de suelos.      7
+  1.6.5 Etapa de gabinete II.                               7
+1.7 INSTRUMENTOS UTILIZADOS                                 8
+
+CAPITULO II                                                9
+2.1. MARCO TEORICO CONCEPTUAL                              9
+2.1.1 Presa de Tierra.                                     9
+2.1.2 Factor de seguridad.                                 10
+2.1.3 Superficie de falla.                                 10
+2.1.4 Rotura Circular                                      11
+2.1.5 Procesos de saturación hinchamiento y colapso.       11
+2.1.6 Suelos expansivos                                    11
+2.1.7 Suelos colapsables.                                  12
+2.1.8 Presión de poros                                     12
+2.1.9 Compactación de suelos                               13
+
+
+                                                                iii
+  2.1.9.1 Proceso de compactación                                 14
+2.1.10 Embalse                                                    14
+2.1.11 El vaso                                                    17
+2.1.12 La cerrada                                                 18
+2.1.13 La presa                                                   18
+2.1.14 Taludes.                                                   19
+2.1.15 Bordo libre                                                20
+2.1.16 Los estribos.                                              20
+2.1.17 La cimentación                                             20
+2.1.18 El aliviadero                                              21
+2.1.19 Las compuertas                                             21
+2.1.20 El desagüe de fondo                                        21
+2.1.21 Núcleo impermeable                                         21
+2.1.22 Name                                                       21
+2.1.23 Namo                                                       21
+2.1.24 Nami                                                       22
+2.1.25 Métodos de estabilidad de taludes en una presa de tierra   22
+  2.1.25.1 Clasificación de métodos de calculo                    22
+
+CAPITULO III                                                      25
+CARACTERIZACION DEL AREA DE EMBALSE                               25
+3.1 GENERALIDADES.                                                25
+3.2 UBICACIÓN Y ACCESO AL AREA DEL PROYECTO.                      25
+3.3 CLIMA Y VEGETACION.                                           26
+  3.3.1 Clima.                                                    26
+  3.3.2 Vientos.                                                  27
+  3.3.3 Lluvias.                                                  27
+  3.3.4 Temperatura.                                              27
+  3.3.5 Heladas.                                                  27
+  3.3.6 Vegetación.                                               27
+  3.3.7 Calidad de agua en el proyecto de la Presa.               27
+3.4 HIDROGRAFIA                                                   28
+  3.4.1 Laguna aricoma                                            28
+3.5 ESTRATIGRAFIA.                                                29
+  3.5.1 Paleozoico                                                29
+    3.5.1.1 Formación Ananea (SD-a)                               29
+    3.5.1.2 Grupo ambo (Ci-a)                                     29
+    3.5.1.3 Grupo Tarma (Cs-t)                                    29
+  3.5.2 Cenozoico.                                                30
+    3.5.2.1 Depósitos glaciofluviales (Qp-gf)                     30
+    3.5.2.2 Depósitos morrenicos (Qh-mo)                          30
+    3.5.2.3 Depósitos aluviales (Qh-al)                           31
+3.6 GEOMORFOLOGIA                                                 32
+  3.6.1 Geomorfología regional.                                   32
+    3.6.1.1 Hidrografía                                           33
+
+                                                                   iv
+   3.6.1.2 Laguna aricoma                                                              33
+   3.6.1.3 Tributarios.                                                                33
+   3.6.1.4 Rio Crucero.                                                                34
+ 3.6.2 Geomorfología Local.                                                            34
+   3.6.2.1 Relieve cordillerano.                                                       34
+   3.6.2.2 Valle fluvioglaciar.                                                        35
+   3.6.2.3 Lecho aluvial Altiplánico.                                                  35
+   3.6.2.4 Drenaje                                                                     35
+3.7 GEOLOGIA ESTRUCTURAL                                                               36
+
+CAPITULO IV                                                                            37
+ANALISIS Y EXPOSICION DE RESULTADOS DEL PROYECTO                                       37
+4.1 CARACTEISTICAS GEOTECNICAS GENERALES DEL VASO Y EJE DE PRESA.                      37
+4.2 GEOTECNIA DEL EJE DE PRESA                                                         39
+ 4.2.1 Trabajos realizados en campo.                                                   39
+ 4.2.2 Perfil estratigráfico del eje de la Presa.                                      40
+ 4.2.3 Descripción del subsuelo en el eje de Presa Aricoma.                            42
+ 4.2.4 Clasificación de suelos en el eje de la presa.                                  42
+ 4.2.5 Análisis de la cimentación en suelo en el eje de la presa.                      43
+   4.2.5.1 Calculo de capacidad portante admisible en suelo                            43
+   4.2.5.2 Calculo de capacidad portante admisible por corte en suelo                  43
+   4.2.5.3 Características de material para el núcleo de la presa Aricoma.             48
+   4.2.5.4 Filtros y drenes                                                            48
+   4.2.5.5 Permeabilidad de la cerrada.                                                49
+4.3 GEOTECNIA DEL AREA DE EMBALSE                                                      51
+ 4.3.1 Perfil estratigráfico                                                           51
+ 4.3.2 Descripción del subsuelo en el área de embalse.                                 51
+ 4.3.3 Clasificación de suelos en el área de embalse.                                  55
+ 4.3.4 Permeabilidad de la zona de embalse.                                            55
+ 4.3.5 Estabilidad de taludes en la zona de embalse.                                   57
+4.4 ESTUDIOS REALIZADOS EN CANTERAS                                                    58
+ 4.4.1 Generalidades                                                                   58
+ 4.4.2 Trabajos realizados.                                                            58
+ 4.4.3 Canteras para la Presa Aricoma.                                                 59
+ 4.4.4 Cantera de agregados para concreto y diseño de mesclas.                         60
+   4.4.4.1 Ubicación                                                                   60
+   4.4.4.2 Accesibilidad.                                                              61
+   4.4.4.3 Descripción de materiales.                                                  61
+   4.4.4.4 Modo de explotación.                                                        61
+   4.4.4.5 Usos.                                                                       61
+   4.4.4.6 Volumen.                                                                    62
+ 4.4.5 Cantera para núcleo de presa material ligante ML - 01 (cantera vizyane orjo).   62
+   4.4.5.1 Ubicación                                                                   62
+   4.4.5.2 Accesibilidad.                                                              63
+   4.4.5.3 Descripción de materiales.                                                  63
+
+                                                                                            v
+  4.4.5.4 Periodo y modo de explotación.                                              63
+  4.4.5.5 Características físicas.                                                    63
+  4.4.5.6 Usos.                                                                       63
+  4.4.5.7 Volumen.                                                                    63
+  4.4.5.8 Observaciones.                                                              64
+4.4.6 Cantera de material ligante ML - 02 (cantera coitopina).                        64
+  4.4.6.1 Ubicación                                                                   64
+  4.4.6.2 Accesibilidad.                                                              64
+  4.4.6.3 Descripción de materiales.                                                  64
+  4.4.6.4 Periodo y modo de explotación.                                              64
+  4.4.6.5 Características físicas.                                                    65
+  4.4.6.6 Usos.                                                                       65
+  4.4.6.7 Volumen.                                                                    65
+  4.4.6.8 Observaciones.                                                              65
+4.4.7 Cantera de material ligante ML - 03 (cantera concuyoc).                         66
+  4.4.7.1 Ubicación                                                                   66
+  4.4.7.2 Accesibilidad.                                                              66
+  4.4.7.3 Descripción de materiales.                                                  66
+  4.4.7.4 Periodo y modo de explotación.                                              66
+  4.4.7.5 Características físicas.                                                    67
+  4.4.7.6 Usos.                                                                       67
+  4.4.7.7 Volumen.                                                                    67
+  4.4.7.8 Observaciones.                                                              67
+4.4.8 Cantera de roca para la presa (CR – 01 cocaña)                                  68
+  4.4.8.1 Ubicación                                                                   68
+  4.4.8.2 Accesibilidad.                                                              68
+  4.4.8.3 Descripción.                                                                68
+  4.4.8.4 Periodo y modo de explotación.                                              68
+  4.4.8.5 Usos.                                                                       68
+  4.4.8.6 Volumen.                                                                    68
+4.4.9 Cantera de roca para la presa CR – 02 (pluton)                                  69
+4.4.10 Cantera de roca para la presa CR – 03                                          69
+  4.4.10.1 Ubicación                                                                  69
+  4.4.10.2 Accesibilidad.                                                             70
+  4.4.10.3 Descripción.                                                               70
+  4.4.10.4 Periodo y modo de explotación.                                             70
+  4.4.10.5 Clasificación.                                                             70
+  4.4.10.6 Usos.                                                                      70
+  4.4.10.7 Volumen.                                                                   70
+4.4.11 Fuente de agua.                                                                71
+  4.4.11.1 Ubicación                                                                  71
+4.4.12 Botaderos.                                                                     71
+4.4.13 Diseño de dos suelos y concreto                                                72
+  4.4.13.1 Diseño de suelos para afirmado y capa semipermeable de la Presa Aricoma.   72
+    4.4.13.1.1 Afirmado: Ml-03 (concuyoc) 25 % y agregado Ca-01 (rio crucero) 75 %.   73
+
+                                                                                           vi
+      4.4.13.1.2 Capa semipermeable Ml-03 (concuyoc) 60 % y agregado Ca-01 (rio crucero) 40 %.   74
+    4.4.13.2 Diseño de concreto cantera rio crucero Ca-01                                        76
+    4.4.13.2.1 Material de agregado.                                                             77
+CONCLUSIONES Y RECOMENDACIONES.                                                                  78
+BIBLIOGRAFIA                                                                                     81
+ANEXOS
+Certificados de análisis de laboratorio de mecánica de suelos y concreto.
+Panel fotográfico
+Planos
+
+
+
+
+                                                                                                      vii
+                                     LISTA DE CUADROS
+
+
+Cuadro N° 01. Ruta de acceso.                                                                        26
+Cuadro N° 02. Ubicación de la Presa Aricoma.                                                         26
+Cuadro N° 03. Columna estratigráfica local de la construcción de la presa aricoma.                   31
+Cuadro N° 04. Resumen de ensayos realizados.                                                         39
+Cuadro N°05. Resumen de resultados de propiedades físicas del material de fundación del eje de P.    43
+Cuadro N° 06. Cálculo y parámetro de capacidad portante admisible por corte en suelo.                44
+Cuadro N° 08. Calculo de capacidad portante en calicata N° 01 zapata de eje de presa km. 0+650.      44
+Cuadro N° 09. Cálculo y parámetro de capacidad portante admisible por corte en suelo.                45
+Cuadro N° 10. Calculo de capacidad portante en calicata N° 02 zapata de eje de presa km. 0+750.      45
+Cuadro N° 11. Cuadro de factores de capacidad de carga de terzaghi                                   46
+Cuadro N° 12. Cuadro de valores de coeficiente de permeabilidad en suelos.                           50
+Cuadro N° 13. Características recomendadas según R. Dal-Re Tenreiro.                                 50
+Cuadro N° 14. Perfil estratigráfico del área de embalse porcentaje de suelos.                        51
+Cuadro N° 15. Cuadro estadístico de los suelos en el área de embalse en porcentaje.                  51
+Cuadro N° 16. Clasificación de suelos del área de embalse.                                           55
+Cuadro N° 17. Cuadro de valores del coeficiente de permeabilidad de suelos de embalse.               56
+Cuadro N° 18. Parámetros de taludes en corte y relleno.                                              58
+Cuadro N° 19. Resumen de los resultados de las materiales de canteras de relleno y otros.            60
+Cuadro N° 20. Características físicas del material de cuerpo de presa cantera VIZYANE ORJO.          63
+Cuadro N° 21. Cuadro de característico de material de relleno cantera VIZYANE ORJO.                  64
+Cuadro N° 22. Características físicas de material de relleno cantera COITOPINA.                      65
+Cuadro N° 23. Cuadro de característico de material de relleno cantera COITOPINA.                     65
+Cuadro N° 24. Características físicas de material de relleno cantera CONCUYOC.                       67
+Cuadro N° 25. Cuadro de característico de material de relleno cantera CONCUYOC.                      67
+Cuadro N° 26. Cuadro de las características de botadero relleno.                                     71
+Cuadro N° 27. Cuadro de especificaciones técnicas para el material de afirmado.                      72
+Cuadro N° 28. Cuadro de especificaciones técnicas para el material semipermeable.                    72
+Cuadro N° 29. Cuadro de mesclas de dos suelos para el afirmado.                                      73
+Cuadro N° 30. Cuadro de Características de dos suelos.                                               74
+Cuadro N° 31. Cuadro de mesclas de dos suelos para el material semipermeable.                        75
+Cuadro N° 32. Cuadro de Características de dos suelos.                                               76
+Cuadro N° 33. Cuadro de cantidades de bolsas por metro cubico.                                       77
+Cuadro N° 34. Características físicas de los agregados.                                              77
+Cuadro N° 35. Proporciones en seco por bolsa de cemento (pie cubico).                                77
+Cuadro N° 36. Dosificaciones de material para el diseño de mesclas.                                  78
+
+
+
+
+                                                                                              viii
+                                       LISTA DE GRAFICO
+
+
+    GRAFICO N° 01. Perfil estratigráfico de la calicata C-1 EJE de Presa “A”             41
+    GRAFICO N° 02. Perfil estratigráfico de la calicata C-2 EJE de Presa “B”             41
+    GRAFICO N° 03. Diseño de dos suelos cantera concuyoc.                                72
+    GRAFICO N° 04. Diseño de dos suelos semipermeable concuyoc.                          73
+
+                                      LISTA DE IMÁGENES
+
+
+  Fotografía N° 01. Vista de esta imagen de excavación de calicata en el eje de presa.   40
+  Fotografía N° 02. Ejecución de calicatas en el eje de Presa Aricoma.                   40
+  Fotografía N° 03. Vista de la Zona de embalse de la presa.                             52
+  Fotografía N° 04. Vista de aguas abajo de la presa.                                    54
+  Fotografía N° 05. Vista de aguas arriba de la presa.                                   54
+  Fotografía N° 06. Vista de cantera de agregados del rio crucero.                       60
+  Fotografía N° 07. Vista de cantera de material impermeable de cuerpo de presa
+                                                                                         64
+(CONCUYOC)
+  Fotografía N° 08. Vista de fuente de agua de la Presa Aricoma.                         69
+
+
+                               LISTA DE SÍMBOLOS UTILIZADOS
+
+c                   cohesión de suelos
+ᶿ                   Angulo
+Fs                  factor de seguridad
+C°                  Grados Centígrados
+Ci-a                grupo ambo
+Cs-t                grupo tarma
+Qp-gf               depósitos glaciofluviales
+Qh-mo               depósitos morrenicos
+Qh-al               depósitos aluviales
+qu                  capacidad de carga
+Nc                  Factores de capacidad de carga
+Ƴ                   densidad natural
+Df                  profundidad de desplante
+B                   ancho de la cimentación
+PE                  peso especifico
+PU                  peso unitario
+Zw                  Profundidad en el agua
+%                   porcentaje
+
+
+                                                                                          ix
+                                     RESUMEN
+
+El presente trabajo denominado “Evaluación geológica y geotécnica de la
+construcción Presa Aricoma – Crucero – Carabaya – puno”, por su naturaleza se
+enmarca dentro de los lineamientos de política sectorial, regional y local, por lo
+que el gobierno regional de puno mediante el programa regional de riego y drenaje
+(PRORRIDRE – PUNO), viene desarrollando proyectos de gran envergadura para
+el aprovechamiento de los recursos hídricos.
+
+Para tal efecto el terreno de fundación nos permitirán analizar también el cálculo
+de capacidad portante de acuerdo a los parámetros geológicos y geotécnicos que
+se ha obtenido en el laboratorio de mecánica de suelos tales como: la cohesión, el
+ángulo de fricción y el peso específico (corte directo).
+
+Cabe precisar que el análisis geológico y geotécnico de una presa de tierra juega
+un papel muy importante en la obra, sobre todo en este tipo de obras y esta nos
+conllevara a que no falle la construcción y a su posterior colapso por eso es muy
+importante analizar sobre todo los materiales de cantera ya que los materiales de
+cantera y el terreno de fundación.
+Los materiales que se evaluaron son favorables según su clasificación y
+resultados de laboratorio, las dos canteras de materiales impermeables como:
+vizyane orjo y coitopina, están con un IP>10, y una de las canteras, cantera
+concuyoc cumple con un IP=11.8, se tomara esta cantera en su construcción los
+posteriores serán las alternas si en caso fuera necesario.
+Los materiales de cantera de agregados, rio crucero, según su dosificación para
+las obras de arte nos da por metro cubico: 280 f'c Kg/cm² = 10.35 bolsas, 210 f'c
+Kg/cm² = 8.9 bolsas, 175 f'c Kg/cm² = 7.69 bolsas, 140 f'c Kg/cm² = 6.81 bolsas.
+
+La cantera de roca para el enrocado de aguas abajo y aguas arriba es una roca
+dura (Plutón).
+
+Finalmente es muy importante recalcar que con este trabajo de estudio que se
+hizo, se pretende hacer llegar al conocimiento de todos los estudiantes
+relacionados en el área de Geotecnia y para los profesionales geotécnicos.
+
+
+                                                                                 x
+                                  CAPITULO - I
+1. INTRODUCCIÓN
+
+El presente trabajo de investigación de Geología y Geotecnia corresponde al
+proyecto “Construcción de la Presa Aricoma”. En el que se ha desarrollado dentro
+de los lineamientos que establecen la institución Programa Regional de Riego y
+Drenaje PRORRIDRE. El área de estudio abarca todo la Presa Aricoma, todo esto
+está Ubicado en toda la cuenca del rio Ramis en el Distrito de Crucero, Provincia
+de Carabaya, Departamento de Puno.
+
+Por la necesidad de disponer de una buena infraestructura básica de riego en el
+distrito de Crucero provincia de Carabaya departamento de Puno, se realizo
+trabajos de campo con el propósito de caracterizar el suelo de fundación donde se
+proyecta la construcción del cuerpo de presa para plantear tratamientos
+adecuados o necesarios con el objetivo de asegurar la infraestructura de posibles
+daños a la estructura de riego de los problemas geotécnicos. A través del
+Gobierno   Regional    Puno    (PRORRIDRE)       ha   visto   por   conveniente   la
+implementación del Proyecto “Construcción de la Presa Aricoma”.
+Las presas de tierra son obras de infraestructura hidráulica, de mucha
+responsabilidad, así mismo involucra la participación de diferentes especialistas en
+el área de Geotecnia, hidráulica, estructuras, topografía, impacto ambiental, etc.
+Siendo su proceso constructivo complicado ya que almacenara 27 millones de
+metros cúbicos de agua.
+
+El estudio Geológico y geotécnico juega un papel muy importante desde el punto
+de vista de la estabilidad global de la presa de tierra, como es la capacidad
+portante de suelo, estabilidad de talud, diseño propio de la presa tomando en
+cuenta los parámetros del suelo como son la cohesión, ángulo de fricción interna,
+el peso especifico y básicamente la permeabilidad debajo del nivel de desplante
+de la cimentación y en el cuerpo de la presa. La presa de tierra que se pretende
+analizar en este trabajo involucra la laguna Aricoma, que se encuentra ubicada en
+el distrito de Crucero provincia de Carabaya en el departamento de Puno, se hizo
+
+                                                                                  1
+el análisis y evaluación de los suelos del cuerpo (dique) de la presa de tierra de
+Aricoma.
+
+Un estudio geológico y geotécnico detallado es el primer paso para la buena
+construcción de la presa nos determinara el control de calidad de los agregados y
+materiales de cantera, que serán usados para conformación de cuerpo de presa
+en la laguna Aricoma.
+
+En la zona del proyecto la topografía es muy accidentada y hay presencia de
+pequeñas y medianas lagunas, las cuales ofrecen abundante recurso hidráulico,
+que puede ser aprovechado para el beneficio de las comunidades aledañas,
+atreves del sistema de riego, para la cual es necesario la caracterización
+geotécnica de la zona de construcción de la infraestructura.
+
+El estudio geológico y geotécnico es el primer peldaño para la evaluación
+detallada para la buena construcción de la presa de tierra la cual nos determinara
+el control de calidad de los agregados y materiales de cantera.
+
+Estos estudios nos determinaran si la presa es capaz de almacenar grandes
+volúmenes de agua o por lo contrario las pérdidas de agua, debido a las
+filtraciones o presencia de algunas fallas que puede existir en el vaso donde se
+embalsara agua; un estudio detallado geológico y geotécnico es el primer paso
+para la buena construcción de la presa.
+
+1.1.- PLANTEAMIENTO DEL PROBLEMA
+
+La exhaustiva actividad de programas de prospección, exploración encaminadas a
+descubrir y extraer fuentes de recursos nos lleva a desarrollar nuevas y mejores
+técnicas de prospección usando métodos directos e indirectos y por ende la
+posibilidad de poder establecer nuevos modelos geológicos, que son de suma
+importancia en una etapa de exploración geológica para la construcción de la
+Presa Aricoma.
+
+En la Región de Puno debido a la escasa disponibilidad del recurso hídrico para el
+sistema de riego que no satisface la demanda del agua para los cultivos, esto a
+                                                                                 2
+causa de la insuficiente infraestructura de represas de tierra, genera una mala
+rentabilidad y competitividad de construcciones de represas.
+
+Además; se tiene la deficiente gestión de construcciones de represas de tierra, por
+parte de los usuarios de uso de agua, a causa de una débil organización e
+insuficientes elementos que fortifiquen la correcta operación y mantenimiento de
+las infraestructuras de presas. Aunado el manejo inadecuado de caracterización
+geotécnicas de la presa, a causa de las deficientes practicas culturales,
+especialmente la baja eficiencia de construcciones de presas. Pese a toda esta
+coyuntura adversa, el poblador de nuestra región, trata de encontrar mejores
+rendimientos a su producción agrícola y pecuaria mediante la optimización del
+recurso hídrico y suelo a través de adecuadas infraestructuras de cuerpo de presa.
+Para mejorar su condición y nivel de vida.
+
+Además se tiene deficientes y escases de construcciones de presas en nuestra
+región de puno debido a que las autoridades no se preocupan en las
+construcciones de presas ya que nuestra región cuenta con gran cantidad de
+recurso hídrico que en la cual debemos aprovechar las construcciones de presas
+de tierra y/o concreto para el represamiento de agua.
+
+1.2. ANTECEDENTES
+
+El presente trabajo de proyección de investigación por su naturaleza, se enmarca
+dentro de los lineamientos de política sectorial, regional y local del gobierno
+regional de Puno; bajo el nombre de programa regional de riego y drenaje
+(PRORRIDRE – PUNO) que es una entidad ejecutora de obras del gobierno
+regional puno; que PRORRIDRE viene desarrollando una serie de proyectos de
+gran envergadura para aprovechar el recurso hídrico para las zonas que sean
+necesarios de cuerpos de agua.
+
+
+Durante las últimas décadas; el programa regional de riego y drenaje
+(PRORRIDRE) ha realizado diagnósticos con fines de identificar y evaluar zonas
+
+
+                                                                                 3
+aptas y favorables para la construcción de presas, bocatomas, reservorios,
+canales y sistemas de riego tecnificado, entre otras infraestructuras secundarias.
+
+
+Durante la primera fase del año 2012, el PRORRIDRE – PUNO, ha realizado
+investigaciones geognósticas, con fines de riego en la sub-cuenca del rio grande,
+ubicado en las partes altas de esta región, que son aptas y favorables para la
+ejecución   de   los   estudios,   para   la   construcción    e    infraestructura   de
+almacenamiento de recursos hídricos.
+
+
+1.3. JUSTIFICACION
+
+
+El motivo de la investigación del presente trabajo de exploración; tiene la finalidad
+de poder brindar datos para la caracterización geológica y geotécnica de los
+materiales pétreos en el que se emplazan la infraestructura de la Presa Aricoma.
+La importancia residirá directamente sobre el trabajo en el área de interés que
+comprende; mas adelante la ejecución de la Presa Aricoma, debido a que los
+materiales de canteras deberán garantizar la construcción de la infraestructura de
+la Presa.
+La ejecución de estudios de estabilidad de taludes son determinar: la obtención de
+las características físico – mecánica de los materiales; provee la seguridad
+necesaria para que el proyecto sea garantizado y que permanezca en el tiempo
+necesario y no presente inconvenientes durante su vida útil.
+El estudio brindara directrices esenciales para casos posteriores en los cuales se
+presenta geomateriales y condiciones similares, además de aportar un valor
+agregado sobre los métodos de análisis, para que se aprovechen cada uno de
+ellos de acuerdo a sus fortalezas y brindar mejoras, en nuevos proyectos de
+investigación en recursos hídricos en la región del sur del Perú.
+
+
+
+
+                                                                                       4
+1.4. HIPOTESIS
+ 1.4.1. HIPOTESIS GENERAL
+          Las características geológicas y geotécnicas de la zona de evaluación son
+           favorables para la construcción de la Presa Aricoma.
+
+
+ 1.4.2. HIPOTESIS ESPECÍFICO
+
+          Las características geológicas y geomecánicas del terreno de fundación y
+           área de embalse son favorables para la construcción de la Presa Aricoma.
+          Las características geomecánicas de los materiales de cantera son
+           adecuadas y favorables para la construcción de la Presa Aricoma.
+          Las características geológicas de los materiales de cantera son
+           adecuadas y favorables para la construcción de la Presa Aricoma.
+
+1.5. OBJETIVO
+ 1.5.1. OBJETIVO GENERAL
+
+         Determinar las características geológicas y geotécnicas de las zonas de
+          evaluación para la construcción Presa Aricoma.
+
+ 1.5.2. OBJETIVO ESPECIFICO
+
+         Determinar las características geológicas y geomecánicas del terreno de
+          fundación y área de embalse para la construcción Presa Aricoma.
+         Determinar Las características geomecánicas de los materiales de cantera
+          para la construcción Presa Aricoma.
+         Determinar las características geológicas de los materiales de cantera para
+          la construcción Presa Aricoma.
+
+
+
+
+                                                                                   5
+1.6. METODOLOGÍA DE INVESTIGACIÓN
+
+
+El presente estudio; es una investigación de tipo descriptivo y analítico en la
+búsqueda de represamiento de los recursos hídricos, en la cuenca alta del
+altiplano puneño, para fines de riego y mejoramiento económico de los pobladores
+de los distritos de crucero, Phara, Linbani, Patambuco en las provincias de
+Carabaya y Sandia.
+
+
+1.6.1. ETAPA DE GABINETE I
+
+
+Etapa de recopilación de selección y evaluación de información bibliográfica;
+revisión de topografía existente relacionado con el estudio geológico y geotécnico
+como son:
+      Información geológica y geotécnica, para el estudio del proyecto.
+      Planos existentes de la zona de investigación, regional y local.
+      Preparación de equipo de laboratorio y de campo de mecánica de suelos;
+       estos son la lista de equipos geológicos (brújula, GPS, martillo geológico,
+       lupa y etc.).
+
+
+1.6.2. ETAPA DE CAMPO I
+
+
+La etapa de inspección y visita técnica del área de estudio del proyecto presa
+aricoma; con la finalidad de realizar un reconocimiento global de las áreas de
+influencia, según plano existente.
+
+
+1.6.3. ETAPA DE CAMPO II
+
+
+La fase de las investigaciones de campo; mapeo geológico levantamiento
+topográfico, excavaciones de calicatas. Se realizan ensayos in situ y toma de
+muestras para el análisis de laboratorio. Se realizan los siguientes trabajos:
+                                                                                 6
+      Levantamiento topográfico de la zona.
+      Recorrido de campo a lo largo del eje de presa en la zona de interés, para
+       la ubicación de calicatas, para ejecución y muestreo de suelos.
+      Excavación de calicatas en los márgenes del eje de presa.
+      Mapeo geológico superficial, del afloramiento de las unidades litológicas en
+       el emplazamiento de la presa.
+      Muestreo y toma de muestras de las calicatas preparadas y envió de
+       muestras al laboratorio para los ensayos respectivos.
+      Identificación de las capas, mediante la caracterización de los estratos
+       sedimentarios, por prospección geofísica.
+
+
+1.6.4. ANÁLISIS DE LABORATORIO DE MECÁNICA DE SUELOS
+
+
+El análisis en el laboratorio de mecánica de suelos de la institución
+(PRORRIDRE), la granulometría, los limites de consistencia y el proctor standart
+modificado, en base a las normas técnicas existentes.
+
+
+1.6.5. ETAPA DE GABINETE II
+
+
+Con la información existente de campo y resultados obtenidos de los ensayos de
+laboratorio de mecánica de suelos y rocas; en cooperación con los registros y
+trabajos desarrollados, durante el proceso de investigación, se realizara el análisis
+de resultados y parámetros de cálculos de diseño, para la ejecución de la presa
+Aricoma.
+Finalmente, el presente estudio y/o trabajo de investigación, es para la obtención
+de la tesis de ingeniero.
+
+
+
+
+                                                                                   7
+1.7. INSTRUMENTOS UTILIZADOS
+En el presente estudio de investigación en el emplazamiento de la Presa Aricoma,
+se ha utilizado los siguientes equipos e instrumentos.
+
+
+      Brújula Brunton
+      Wincha (flexometro)
+      Martillo de geólogo
+      Sistema de posicionamiento global (GPS)
+      Estación total, con sus accesorios, para levantamiento de topografía.
+      Equipos de laboratorio mecánica de suelos y roca como son: tamices
+       estándares, horno, balanza electrónica, equipo de densidades de campo,
+       entre otros formatos y registros.
+      Equipo de sondaje eléctrico vertical (SEV)
+
+
+
+
+                                                                               8
+                                    CAPITULO II
+
+2.1. MARCO TEORICO CONCEPTUAL
+
+ 2.1.1. PRESA DE TIERRA
+
+En ingeniería se denomina presa o represa a una barrera fabricada con materiales
+sueltos, concreto, que se construye habitualmente en una cerrada o desfiladero
+sobre un rio o arroyo.
+
+Tiene la finalidad de embalsar o represar el agua en el cause fluvial para su
+posterior aprovechamiento en abastecimiento o regadío, para elevar su nivel con
+el objetivo de derivarla a canalizaciones de riego, para la deposición de avenidas
+(evitar inundaciones aguas debajo de la presa) o para la producción de energía
+mecánica al transformar la energía potencial del almacenamiento en energía
+cinética y esta nuevamente en mecánica al accionar es un elemento móvil. La
+energía mecánica puede aprovecharse directamente, como en los antiguos
+molinos, o de forma indirecta para producir energía eléctrica, como se hace en las
+centrales hidroeléctricas.
+
+Presas   de   materiales     sueltos:   son   las   mas   utilizadas   el   los   países
+subdesarrollados ya que son menos costosas y se suponen el 77% de las que
+podemos encontrar en todo el planeta. Son aquellas que consisten en un relleno
+de tierras, que aportan la resistencia necesaria para contrarrestar el empuje de las
+aguas. Los materiales mas utilizados en su construcción son piedras, gravas,
+arenas, limos y arcillas aunque dentro de todos estos los que mas destacan son
+las piedras y las gravas.
+
+Este tipo de presas tienen componentes muy permeables, por lo que es necesario
+añadirles un elemento impermeabilizante. Además, estas estructuras resisten
+siempre por gravedad, pues la débil cohesión de sus materiales no les permite
+transmitir los empujes del agua al terreno. Este elemento puede ser arcilla (en
+cuyo caso siempre se ubica en el corazón o zona céntrica del cuerpo de presa) o
+bien una pantalla de hormigón, la cual se puede construir también en el centro del
+                                                                                       9
+relleno o bien aguas arriba. Estas presas tienen el inconveniente de que si son
+rebasadas por los aguas en una crecida, corren el peligro de desmoronarse y
+arruinarse.
+
+2.1.2. FACTOR DE SEGURIDAD
+
+El factor de seguridad es empleado por los ingenieros para conocer cual es el
+factor de amenaza de que el talud falle en las peores condiciones de
+comportamiento para el cual se diseña. Fellenius 1922 presento el factor de
+seguridad como la relación entre la resistencia al corte real, calculada del material
+en el talud y los esfuerzos de corte.
+
+Deslizamientos y estabilidad de taludes en zonas tropicales críticos que tratan de
+producir la falla, a lo largo de una superficie supuesta de posible falla.
+
+El factor de seguridad (FS) también se puede definir de otras maneras. En primer
+lugar es posible definirlo como cociente entre el valor de la cohesión o ángulo de
+rozamiento del talud actual estable. También es posible definirlo como el cociente
+entre los momentos que actúan en un talud resistente al deslizamiento, y los que
+inducen al deslizamiento.
+
+2.1.3. SUPERFICIE DE FALLA
+
+El termino superficie falla se utiliza para referirse a una superficie asumida a lo
+largo de la cual puede ocurrir el deslizamiento o rotura de talud. Sin embargo, este
+deslizamiento o rotura no ocurre a lo largo de esas superficies si el talud es
+diseñado adecuadamente. El factor de seguridad se asume que es igual para
+todos los puntos a lo largo de la superficie de falla, por lo tanto este valor
+representa un promedio del valor total en toda la superficie de falla. Si la falla
+ocurre los esfuerzos de cortante serian iguales en todos los puntos a todo lo largo
+de la superficie de falla.
+
+Generalmente se asume un gran número de superficies de falla para encontrar la
+superficie de falla con el valor mínimo de factor de seguridad la cual se denomina
+“superficie critica de falla”. Esta superficie crítica de falla es la superficie más
+                                                                                  10
+probable para que se produzca el deslizamiento. Sin embargo, pueden existir otras
+superficies de falla con factores de seguridad ligeramente mayores los cuales
+también se requiere tener en cuenta para el análisis.
+
+2.1.4. ROTURA CIRCULAR
+
+Se llama rotura circular a aquella en la que la superficie de deslizamiento es
+asimilable a una superficie cilíndrica cuya sección transversal se asemeja a un
+arco de círculo.
+
+2.1.5. PROCESOS DE SATURACIÓN HINCHAMIENTO Y COLAPSO
+
+Cuando se esta construyendo una obra sobre suelos parcialmente saturados, es
+preciso tener en cuenta que el proceso de saturación en si mismo puede inducir
+efectos mas importantes que si el suelo hubiera estado saturado desde antes de
+construir una cimentación. Como luego se vera, la saturación implica cambios de
+volumen del suelo, que en determinados casos pueden ser importantes en estas
+condiciones, es mas perjudicial que dichos cambios tengan lugar cuando la obra
+ya esta construida y en servicio.
+
+Los suelos granulares (gravas y arenas) apenas sufren cambios de volumen al
+saturarse. El problema se reduce a los suelos de grano fino.
+
+2.1.6. SUELOS EXPANSIVOS
+
+El comportamiento descrito es típico de los suelos finos normales, con
+deformaciones significativas pero moderadas (expansiones del orden del 1% o
+ligeramente superiores). Sin embargo, existen algunos suelos en los que la
+expansión por saturación es significativamente superior. Estos suelos denominan
+“expansivos”
+
+El carácter expansivos de un suelo suele estar asociado a la presencia de algunos
+minerales arcillosos que tienen la propiedad de admitir moléculas de agua en el en
+el interior de su red cristalina. De ellos el más frecuente es la montmorillonita. El
+carácter expansivo de estas especies mineralógicas va asociado a una gran
+
+                                                                                  11
+actividad, que se manifiesta también en una elevada plasticidad, siendo frecuentes
+los limites líquidos incluso superiores a 100%. Esto permite identificar la posible
+presencia de estos minerales, y por tanto adoptar las medidas para evaluar y tener
+en cuenta su carácter expansivo.
+
+2.1.7. SUELOS COLAPSABLES
+
+Por otra parte existen algunos suelos en los que la curva de hinchamiento bajo
+carga esta anormalmente desplazada hacia abajo. En ellos, la presión crítica de
+colapso es pequeña, y para las cargas usuales se produce colapso por
+inundación. Estos suelos se denominan “colapsables”. El colapso es difícil de
+explicar analizando las variaciones medias de los presiones de agua y aire. En
+general, el fenómeno va asociado a suelos con estructura muy abierta, de baja
+densidad, en la que las partículas están unidas entre si por enlaces de cierta
+resistencia. La saturación provoca el debilitamiento o destrucción de estos
+enlaces, con el consiguiente colapso de la estructura.
+
+A estos efectos, los propios meniscos capilares de los suelos parcialmente
+saturados actúan como enlaces, provocando los colapsos moderados y que
+pueden ser de mayor magnitud si la estructura del suelo es suficientemente floja.
+En este sentido debe indicarse la peligrosidad de cimentar sobre rellenos no
+compactados, como escombreras o terrenos de echadizo sin control. En ellos, la
+ausencia de compactación produce estructuras muy abiertas, susceptibles de
+colapso ante inundación bajo cargas incluso moderadas.
+
+2.1.8. PRESIÓN DE POROS
+
+En un material agregado como el suelo, la presión de poros es la presión del agua
+que llena los espacios vacíos. Ocurre que cuando esa presión llega a cierto valor,
+el suelo se vuelve inestable, debido a que las partículas pierden cohesión entre si.
+En un suelo se debe controlar la presión de los líquidos lixiviados, mediante un
+adecuado drenaje.
+
+
+
+                                                                                 12
+En cualquier material trifásico (solido, líquido, gaseoso) como los suelos naturales
+o artificiales (como es el caso de terraplenes de presas) la presión de poros
+corresponde a la presión del agua entre los espacios intersticiales de los solidos.
+En estos materiales la resistencia mecánica esta en función del esfuerzo efectivo
+(esfuerzo total – presión de poro) y a mayores presiones de poro menor es su
+resistencia.
+
+En los suelos es importante controlar la presión de poros para aumentar su
+resistencia mecánica. Esto se logra mediante la colocación de drenes profundos
+capas de geotextil drenante y sistemas de canales para la evacuación.
+
+2.1.9. COMPACTACIÓN DE SUELOS
+
+La compactación es un proceso por el cual se disminuye el índice de poros de los
+suelos, sin variar su contenido de humedad (cuando se disminuye la humedad, se
+suele hablar de DESECACION, no de compactación). Aunque hay procesos
+naturales de compactación, el interés se centra en los procesos artificiales. Suele
+distinguirse entre:
+
+   -   Compactación superficial: la que se consigue mediante el paso de
+       elementos      compactadores   sobre   la   superficie   del   terreno.   Es   el
+       procedimiento usual para construcciones de rellenos, terraplenes o presas
+       de materiales sueltos.
+   -   Compactación profunda: se aplica para mejorar las características de
+       terrenos o rellenos preexistentes, de espesor considerable. Se realiza en el
+       interior del terreno mediante diversos procedimientos (columnas de grava,
+       voladuras, inyecciones, etc.). todos ellos requieren el uso de maquinaria
+       especializada.
+
+   Aunque gran parte de los conceptos son generales, nos referiremos en lo que
+   sigue a la compactación superficial.
+
+   El alcance de la compactación en profundidad es pequeño, por lo que el
+   material se extiende en pequeños espesores (de orden de decímetros),
+
+                                                                                      13
+compactando cada capa antes de extender la siguiente. En general se utilizan
+rodillos estáticos o vibratorios, que provocan presión estatica e impacto. En el
+caso de suelos arcillosos (por ejemplo, en núcleos impermeables de presas de
+tierras), se emplean rodillos pata de cabra, que inducen compactación por
+amasado.
+
+2.1.9.1. PROCESO DE COMPACTACION
+
+La compactación es un proceso rápido. La actuación de los elementos
+compactadores sobre cada punto dura escasos segundos, por lo que no da
+tiempo a que produzca expulsión de agua del interior del terreno.
+
+En consecuencia, el proceso tiene lugar sin drenaje, por lo que solo tiene
+sentido en el caso de suelos parcialmente saturados. En un suelo saturado en
+el que no se produce variación del contenido de agua, el volumen no varia, al
+ser incompresibles tanto el agua como las partículas solidas.
+
+2.1.10. EMBALSE
+
+Es el volumen de agua que queda retenido por la presa.
+
+Se denomina embalse a la acumulación de agua producida por una
+obstrucción en el lecho de un rio o arroyo que cierra parcial o totalmente su
+cause.
+
+La obstrucción del cause puede ocurrir por causas naturales como, por
+ejemplo, el derrumbe de una ladera en un tramo estrecho del rio o arroyo, la
+acumulación de placas de hielo o las construcciones hechas por los castores, y
+por obras construidas por el hombre para tal fin, como son las presas.
+
+Embalses artificiales
+
+Los embalses generados al construir una presa pueden tener la finalidad de:
+
+        Regular el caudal de un rio o arroyo, almacenando el agua de los
+         periodos húmedos para utilizarlos durante los periodos mas secos para
+
+                                                                              14
+          el riego, para el abastecimiento de agua potable, para la generación de
+          energía eléctrica, para permitir la navegación. Cuando un embalse tiene
+          mas de un fin, se le llama de usos multiples.
+         Contener los caudales extremos de las avenidas o crecidas. Laminación
+          de avenidas.
+         Crear una diferencia de nivel para generar energía eléctrica, mediante
+          una central hidroeléctrica.
+         Crear espacios para esparcimiento y deportes acuáticos.
+
+Características de los embalses
+
+Las características físicas principales de un embalse son las curvas cota-volumen,
+la curva cota- superficie inundada y el caudal regularizado.
+
+Dependiendo de las características del valle, si este es amplio y abierto, las áreas
+inundables pueden ocupar zonas densamente pobladas, o áreas fértiles para la
+agricultura. En estos casos, antes de construir la presa debe evaluarse muy
+objetivamente las ventajas e inconvenientes, mediante un estudio de impacto
+ambiental, cosa que no siempre se ha hecho en el pasado.
+
+En otros casos, especialmente en zonas altas y abruptas, el embalse ocupa tierras
+deshabitadas, en cuyo caso los impactos ambientales son limitados o inexistentes.
+
+El caudal regularizado es quizás la característica mas importante de los embalses
+destinados justamente, a regularizar, a lo largo del día, del año o periodos
+plurianuales o quizás pasen siglos antes de que este sea deshabilitado por la
+mano humana, el caudal que puede ser retirado en forma continua para el uso
+para el cual se ha construido el embalse.
+
+Niveles característicos de los embalses de los caudales
+
+El nivel de agua en un embalse es siempre mayor que el nivel original del rio.
+Desde el punto de vista de la operación de los embalses, se definen una serie de
+niveles. Los principales son (en orden creciente):
+
+
+                                                                                 15
+      Nivel mínimo. es el nivel minino que puede alcanzar el embalse; coincide
+       con el nivel mínimo de la toma situada en la menor cota.
+      Nivel mínimo operacional. es el nivel por debajo del cual las estructuras
+       asociadas al embalse y la presa no operan u operan en forma inadecuada.
+      Nivel medio. Es el nivel que tiene el 50% de permanencia en el lapso del
+       ciclo de compensación del embalse, que puede ser de un dia, para los
+       pequeños embalses, hasta periodos plurianuales para los grandes
+       embalses. El periodo mas frecuente es de un año.
+      Nivel máximo operacional. Al llegarse a este nivel se comienza a verter
+       agua con el objetivo de mantener el nivel pero sin causar daños aguas
+       abajo.
+      Nivel del vertedero. Si la presa dispone de un solo vertedero libre, el nivel
+       de la solera coincide con el nivel máximo operacional. Si el vertedero esta
+       equipado con compuertas, en nivel de la solera es inferior al máximo
+       operacional.
+      Nivel máximo normal. Al llegarse a este nivel la operación cambia de
+       objetivo y la prioridad es garantizar la seguridad de la presa en esta fase
+       pueden ocurrir daños en aguas abajo; sin embargo, se intentara minimizar
+       los mismos.
+      Nivel máximo. En este nivel ya la prioridad absoluta es la seguridad de la
+       presa, dado que una ruptura seria catastrófica aguas abajo. Se mantiene el
+       nivel a toda costa; el caudal descargado es igual al caudal que entra en el
+       embalse.
+
+Volúmenes característicos de un embalse
+
+Los volúmenes característicos de los embalses están asociados a los niveles; de
+esta forma se tiene:
+
+      Volumen muerto, definido como el volumen almacenado hasta alcanzar el
+       nivel mínimo.
+      Volumen útil, el comprendido entre el nivel mínimo y el nivel máximo
+       operacional.
+                                                                                 16
+      Volumen de laminación, es el volumen comprendido entre el nivel máximo
+       operacional y el nivel máximo normal. Este volumen, como su nombre lo
+       dice, se utiliza para reducir el caudal vertido en las avenidas, para limitar los
+       daños aguas abajo
+
+Caudal característico de un embalse
+
+      Caudal firme. Es el caudal máximo que se puede retirar del embalse de un
+       periodo critico. Si el embalse ha sido dimensionado para compensar los
+       caudales a lo largo de un año hidrológico, generalmente se considera como
+       periodo critico al año hidrológico en el cual se ha registrado el volumen
+       aportado mínimo. Sin embargo, existen otras definiciones para el periodo
+       crítico también aceptadas, como, por ejemplo, el volumen anual de aporte
+       hídrico superado en el 75% de los años, que es una condición menos crítica
+       que la anterior.
+      Caudal regularizado. Es el caudal que se puede retirar del embalse durante
+       todo el año hidrológico, asociado a una probabilidad.
+
+2.1.11. EL VASO
+
+Es el parte del valle que, inundándose, contiene el agua embalsada.
+
+PRINCIPALES COMPONENTES DE UN VASO DE ALMACENAMIENTO
+
+NAMINO (nivel de aguas mínimas de operación): es el nivel mas bajo con el que
+puede operar la presa. Cuando esta es para irrigación y otros usos, el NAMINO
+(también llamado en este caso NAMIN (nivel de aguas mininas)), coincide con el
+nivel al que se encuentra la entrada de la obra de, toma. En el caso de presa para
+generación de energía eléctrica, el NAMINO se fija de acuerdo con la carga
+mínima necesaria para que las turbinas operen en buenas condiciones. El
+volumen muerto es el que queda abajo del NAMINO O NAMIN; es un volumen del
+que no se puede disponer. El volumen de azolves es el que queda debajo del nivel
+de la toma y se reserva para recibir el acarreo de solidos por el rio durante la vida
+útil de la presa. La operación de la presa se lleva a cabo entre el NAMINO o
+
+                                                                                     17
+NAMIN y el NAMO (nivel de aguas máximo ordinario o de operación). EL NAMO
+es el máximo nivel con que puede operar la presa para satisfacer las demandas;
+cuando el vertedor de excedencias (estructura que sirve para desalojar los
+volúmenes excedentes de agua que puede poner en peligro la seguridad de la
+obra) no es controlado por compuertas, el NAMO coincide con su cresta o punto
+mas alto de vertedor. En el caso de que la descarga por el vertedor este
+controlada, EL NAMO puede estar por arriba de la cresta e incluso puede cambiar
+a lo largo del año. Asi en épocas de estiaje es posible fijar un NAMO mayor que en
+épocas de avenidas, pues la probabilidad de que se presente una avenida de la
+primera época es menor que la segunda. El volumen que se almacena entre el
+NAMO y el NAMIN o NAMINO se llama volumen o capacidad útil y es con el que
+se satisface con las demandas de agua.
+
+EL NAME (nivel de aguas máximas extraordinarios) es el nivel mas alto que debe
+alcanzar el agua en el vaso bajo cualquier condición. El volumen que queda entre
+este nivel y el NAMO, llamado súper almacenamiento.
+
+2.1.12. LA CERRADA
+
+También denominado boquilla es el punto concreto o de materiales sueltos del
+terreno donde se construye la presa.
+
+2.1.13. LA PRESA
+
+También denominado cortina propiamente dicha, cuyas funciones básicas son, por
+un lado garantizar la estabilidad de toda la construcción, soportando un empuje
+hidrostático del agua, y por otro no permitir la filtración del agua.
+
+Las presas son estructuras de construcción de mucha utilidad, ya que son usados
+en campos como el riego, el aprovechamiento y generación de energía, el control
+de inundaciones, la navegación, la pesca, control de sedimentos y la recreación.
+
+Un embalse o represa es una acumulación artificial de aguas que tiene como
+particularidad poder ser parcial y/o totalmente vaciado por gravedad o por
+aspiración.
+                                                                                   18
+Según su origen se clasifican en naturales y artificiales. Un embalse de origen
+natural (como un valle inundado) se lo puede clasificar de acuerdo con su tamaño,
+su profundidad, su localización geográfica como: lago charca laguna estanque. Si
+es de origen artificial puede ser cavado en el suelo (por ejemplo, en las gravas), o
+ser consecuencias de una represa en tierra (estanque de piscicultura, por
+ejemplo), de piedras y de hormigón (por ejemplo, las grandes represas).
+
+Las presas de tierra, tienen sección trapezoidal. En ellas se denominan ancho de
+cresta o simplemente cresta, al lado menor, el lado mayor esta definido por la
+línea de contacto entre el material de la presa y el material de la fundación y los
+lados del trapecio constituye los taludes. El que esta en contacto con el agua se
+denomina talud aguas arriba y al opuesto talud aguas abajo.
+
+En las presas zonificadas existen uno o dos espaldones de materiales
+impermeables, núcleo o corazón de la presa, el cual puede ser vertical o inclinado.
+
+Otro elemento importante en las presas homogéneas para almacenamiento, es el
+dren de pie, el cual tiene como función colectar todo el agua que pueda percolar a
+través de la sección o de la función de la misma. El dren desaparece en las presas
+zonificadas cuando el espaldón aguas abajo es impermeable y por lo tanto
+sustituye al dren.
+
+Cuando la presa esta fundada sobre material permeable y se desea cortar el flujo
+de aguas a través de dicho material, se diseña una zanja, denominada dentellón,
+la cual se rellena con el mismo material del núcleo.
+
+Cuando la función es directa sobre la roca, se transforma el dentellón de un a
+pequeña zanja de traba para la mejor unión del material del núcleo con el terreno
+de fundación.
+
+2.1.14. TALUDES
+
+Son las dos superficies principales que limitan el cuerpo de la presa, el anterior o
+de aguas arriba, que esta en contacto con el agua, y el exterior o de aguas abajo.
+
+
+                                                                                 19
+2.1.15. BORDO LIBRE
+
+El bordo libre es la distancia vertical entre la corona y el nivel normal de agua
+dentro de la presa. El bordo libre mínimo es la diferencia entre la corona y el nivel
+máximo de agua esperado. Su objetivo es evitar el desbordamiento por el efecto
+de las olas u otros factores que incremente el nivel de agua en forma violenta.
+Además proporciona un factor de seguridad contra un asentamiento de la presa
+mayor al previsto, al mal funcionamiento del vertedor o a diferencias de niveles
+producto de problemas constructivos.
+
+Las distancias de bordo libre donde fetch es la distancia con la que el viento puede
+actuar sobre una masa de agua
+
+2.1.16. LOS ESTRIBOS
+
+Son los laterales del muro que están en contacto con la cerrada contra la que se
+apoya.
+
+Debe evitarse la entrega de alineamientos sobresalientes a angostos de la ladera
+deben excavarse los materiales meteorizados o sueltos.
+
+Pueden requerirse inyectar a los estribos. Debe proveerse un sistema de control
+de erosión en la unión del talud de la presa y de los estribos.
+
+Los taludes de los estribos, las pendientes fuertes de los estribos producen grietas
+por asentamiento del terraplén de la presa, especialmente en la parte más alta de
+la presa.
+
+2.1.17. LA CIMENTACION
+
+Es la parte de la estructura de la presa, a través de la cual se transmiten las
+cargas al terreno, tanto las producidas por la presión hidrostática como las del
+peso propio de la estructura.
+
+
+
+
+                                                                                  20
+Definir el material que se va a remover para garantizar capacidad de soporte
+suficiente, estabilidad general y asentamientos aceptables. O mejorar la calidad
+del suelo de cimentación si se requiere.
+
+2.1.18. EL ALIVIADERO
+
+También denominado vertedero hidráulico es la estructura hidráulica por la que
+rebosa el agua excedentaria cuando la presa ya esta llena.
+
+2.1.19. LAS COMPUERTAS
+
+Son los dispositivos mecánicos destinados a regular el caudal de agua a través de
+la presa.
+
+2.1.20. EL DESAGUE DE FONDO
+
+Permite mantener el denominado caudal ecológico aguas debajo de la presa y
+vaciar la presa en caso de ser necesario.
+
+2.1.21. NUCLEO IMPERMEABLE
+
+Es el elemento de la presa que cierra el valle al paso del agua contenida en el
+embalse o vaso.
+
+2.1.22. NAME
+
+Abreviación del nivel de aguas, máximo extraordinario; es la evaluación del agua
+en el vaso cuando la presa esta llena y además funciona el vertedor a su máxima
+capacidad. Hay otros niveles usuales en presas, como son el de aguas máximas
+ordinarios, el nivel medio de operación, el mínimo de operación y el máximo
+azolves. La diferencia entre la elevación de la corona y el NAME es bordo libre.
+
+2.1.23. NAMO
+
+Abreviación de nivel de aguas máximo ordinario; es la elevación del agua en el
+vaso.
+
+
+
+                                                                                   21
+2.1.24. NAMI
+
+Abreviación de nivel de aguas mínimas; es la elevación del agua en el vaso.
+
+2.1.25. METODOS DE ESTABILIDAD DE TALUDES EN UNA PRESA DE
+TIERRA
+
+2.1.25.1. CLASIFICACION DE LOS METODOS DE CÁLCULO
+
+LOS METODOS de cálculo para analizar la estabilidad de un talud se pueden
+clasificar en dos grandes grupos:
+
+    Métodos de cálculo en deformaciones.
+    Métodos de equilibrio limite.
+
+
+   a) METODOS DE CALCULO EN DEFORMACIONES
+
+   Consideran en el cálculo las deformaciones del terreno además de las leyes de
+   la estática. Su aplicación práctica es de gran complejidad y el problema debe
+   estudiarse aplicando el método de los elementos finitos u otros métodos
+   numéricos.
+
+   b) METODOS DE EQUILIBRIO LIMITE
+
+   Se basan exclusivamente en las leyes de la estática para determinar el estado
+   de equilibrio de una masa de terreno potencialmente inestable. No tienen en
+   cuenta las deformaciones del terreno. Suponen que la resistencia al corte se
+   moviliza total y simultáneamente a lo largo de la superficie de corte.
+
+   Se pueden clasificar asu vez en dos grupos:
+
+         Métodos exactos
+         Métodos no exactos
+
+
+
+
+                                                                              22
+c) METODOS EXACTOS
+
+La aplicación de las leyes de la estática proporciona una solución exacta del
+problema con la única salvedad de las simplificaciones propias de todos los
+métodos de equilibrio limite (ausencia de deformaciones, factor de seguridad
+constante toda la superficie de rotura, etc.). estos solo es posible en taludes de
+geometría sencilla, como por ejemplo la rotura planar y la rotura por cuñas
+(taludes de roca).
+
+d) METODOS NO EXACTOS
+
+En la mayor parte de los casos la geometría de la superficie de rotura no
+permite obtener una solución exacta del problema mediante la única aplicación
+de las leyes estáticas. El problema es hiperestático y ha de hacerse alguna
+simplificación o hipótesis previa que permita su resolución analítica. Se pueden
+considerar asi los métodos que consideran el equilibrio global de la masa
+deslizante y los métodos de las dovelas o rebanadas, que consideran a la
+masa deslizante dividida en una serie de fajas verticales.
+
+Los métodos de las dovelas o rebanas pueden calificarse en dos grupos:
+
+Métodos aproximados: no cumplen todas las ecuaciones de la estática. Se
+pueden citar por ejemplo los métodos de Fellenius, janbu y BISHOP.
+
+   METODO DE BISHOP
+
+El método de BISHOP supone la superficie de deslizamiento circular, es un
+método de cálculo por dovelas o revanadas. Se supone la masa deslizante
+dividida en n dovelas verticales.
+
+Se aplica solo en superficies de rotura circular.
+
+Método similar al de Fellenius, excepto que considera equilibrio de fuerzas en
+la dirección vertical.
+
+La solución es indeterminada, por lo que requiere un proceso iterativo.
+
+                                                                               23
+Proporciona resultados similares a los métodos precisos.
+
+Estableciendo el equilibrio de momentos de toda la masa deslizante respecto al
+centro del círculo de deslizamiento y despejando el FS.
+
+   METODO MORGENSTERN-PRICE
+
+Al igual que el método de Spencer, también es de aplicación general, y trata de
+alcanzar tanto el equilibrio de momentos como de fuerzas. La diferencia es
+fundamental escriba en que la interacción entre dovelas o rebanadas viene
+dada por una función que evalúa esa interacción a lo largo de la superficie de
+deslizamiento.
+
+El método morgenstern-Price es un método general de cortes realizados en la
+base del equilibrio limite. Debe satisfacer el equilibrio de fuerzas y momentos
+actuando en bloques individuales. Los bloques son creados dividiendo el suelo
+sobre la superficie terrestre dividiendo planos
+
+
+
+
+                                                                            24
+                                  CAPITULO III
+
+3. CARACTERIZACION DEL AREA DE INVESTIGACION
+
+ 3.1. GENERALIDADES
+
+ El presente trabajo de investigación de Geología y Geotecnia corresponde al
+ proyecto “Construcción de la Presa Aricoma”. En el que se ha desarrollado
+ dentro de los lineamientos que establecen la institución Programa Regional de
+ Riego y Drenaje PRORRIDRE. El área de estudio abarca todo la Presa
+ Aricoma, todo esto está Ubicado en toda la cuenca del rio Ramis en el Distrito
+ de Crucero, Provincia de Carabaya, Departamento de Puno.
+
+ Por la necesidad de disponer de una buena infraestructura básica de riego en el
+ departamento de Puno, para mejorar el nivel de vida de la población dedicada
+ principalmente a la actividad agropecuaria y ganadería el Programa Regional de
+ Riego y Drenaje PRORRIDRE a través del Gobierno Regional Puno ha visto por
+ conveniente la implementación del Proyecto “Construcción de la Presa
+ Aricoma”.
+
+ 3.2. UBICACIÓN Y ACCESO AL AREA DEL PROYECTO
+         El área en estudio se encuentra ubicada políticamente en:
+
+         Región          : Puno
+
+         Departamento    : Puno
+
+         Provincia       : Carabaya
+
+         Distrito        : Crucero
+
+         Lugar           : Aricoma.
+
+
+
+ Para llegar a la zona de Proyecto se toma de las siguientes rutas como son:
+
+
+
+
+                                                                               25
+                                               CUADRO - I
+                                  ACCESIBILIDAD AL PROYECTO
+                                                                                                          SERVICIO DE
+            DE          A          RUTA        DIST. (Km .)    TIEMPO (hrs)   TIPO DE VIA    FRECUENCIA
+                                                                                                          TRANSPORTE
+           PUNO       JULIACA       003S           42               1         ASFALTADO       HORARIA     BUS, CAMION
+          JULIACA    CALAPUJA       003S           23               1         ASFALTADO       HORARIA     BUS, CAMION
+                                                                                                          BUS, CAMION,
+      CALAPUJA      AZANGARO        107C          46.5              1         ASFALTADO       HORARIA
+                                                                                                          TAXI, COMBIS.
+                                                                                                           COMBI, BUS,
+      AZANGARO      SAN ANTON     523-030C         48               1         ASFALTADO       HORARIA
+                                                                                                            CAMION.
+      SAN ANTON     DV. CRUCERO     112            37              0.45       ASFALTADO       HORARIA     COMBI, BUS.
+                      PRESA
+     DV. CRUCERO                    112            23               1         AFIRMADO        HORARIA     COMBI, BUS.
+                     ARICOMA
+           FUENTE: ELABORACIÓN PROPIA
+
+
+
+
+                                                   CUADRO – II
+                                    UBICACIÓN DE LA PRESA ARICOMA
+                                              COORDENADAS UTM
+ PUNTO                                     NORTE                              ESTE          COTA (m.s.n.m.)
+EJE - A                                   8’413141.00                 410783.00               4651.649
+EJE - B                                   8’412662.00                 411970.00                4673.075
+                                                              COTA PROMEDIO                 4662.362 m.s.n.m.
+
+   3.3. CLIMA Y VEGETACION
+
+   3.3.1. CLIMA
+   La biotemperatura media anual máxima tienen un rango de 8° C a 11.80° C y
+   las variaciones estacionales no exceden de 5° C es decir es casi uniforme
+   durante el año existiendo mínimas temperaturas en la temporada de otoño e
+   invierno llegando por debajo de 0° C.
+
+   Nuestra zona de proyecto se encuentra dentro de un clima frígido de alta
+   montaña con características de Clima frio boreal-seco en invierno (DWB) con
+   temperatura media superior a 10ºC, por lo menos durante cuatro meses en
+   épocas de avenida. (Clasificación climática de Koppen W.) y en épocas de
+   estiaje las temperaturas descienden (-15º) aproximadamente.
+
+   Las precipitaciones mayores se presentan entre los meses de Diciembre a
+   Marzo tal como consta en el estudio de Hidrología.
+
+
+                                                                                                                  26
+3.3.2. VIENTOS
+
+La velocidad, frecuencia y dirección de los vientos son variadas, resultado del
+flujo atmosférico en el ámbito de la zona de estudio es seco a húmedo. El
+periodo de mayor frecuencia de vientos en términos generales son los meses
+agosto, octubre.
+
+3.3.3. LLUVIAS
+
+La estación de mayor frecuencia e intensidad de lluvias son los meses de
+diciembre a abril.
+
+3.3.4. TEMPERATURA
+
+Constituye uno de los elementos fundamentales que condicionan el
+comportamiento del clima, siendo variada e irregular debido a diversos factores,
+como la ubicación geográfica, altitud, nubosidad, entre otros. La temperatura en
+las madrugadas llegan a temperaturas -15°C bajo cero en día varían de 8° a
+11.80°C.
+
+3.3.5. HELADAS
+
+Las heladas se presentan antes de estación de invierno (mayo, junio, julio,
+agosto y setiembre). Así mismo hacen su presencia después del invierno osea
+en la estación de la primavera (setiembre). En el ámbito de estudio las heladas
+resultan mas intensas sobre todo en los meses de junio, julio, agosto.
+
+3.3.6. VEGETACION
+
+Se tiene una variedad de recursos forestales, los más resaltantes y vistosos en
+la microcuenca son: ichu, iru y chilligua.
+
+3.3.7. CALIDAD DE AGUA EN EL PROYECTO DE LA PRESA
+
+La muestra se toma en ubicación donde se construirá la Presa Aricoma,
+dejándose para su análisis en los laboratorios control de calidad de INIA Puno.
+                                                                              27
+3.4. HIDROGRAFIA
+
+La red hidrográfica que discurre en superficie circundante al área de estudio,
+forma parte de la cuenca del Titicaca, considerando que el divortium acuarium
+está muy próximo.
+
+El área drenada de la micro cuenca en estudio y los ríos próximos, está delimitada
+por la Cordillera de Carabaya, que en realidad es el divortium acuarium, es decir
+que la parte que la cabecera de la laguna constituye la divisoria de aguas con los
+ríos del sistema hidrográfico del Amazonas y la vertiente del Pacífico.
+
+El río crucero, próximo a la zona del proyecto se constituye en el colector principal
+de los distintos sistemas de drenaje, que forma parte de la cuenca endorreica del
+Titicaca, siendo un afluente del río Azángaro.
+
+3.4.1. LAGUNA ARICOMA
+
+Tiene un origen glaciar, que es la principal fuente de escorrentía que finalmente va
+drenar al río Crucero.
+
+La acumulación de sus aguas se produce en una pequeña depresión formada por
+la erosión glaciar y la barrera formada por un depósito de morrena.
+
+
+
+
+                                                                                  28
+3.5. ESTRATIGRAFIA
+
+3.5.1. PALEOZOICO
+
+3.5.1.1. FORMACIÓN ANANEA (SD-a)
+
+    Es una secuencia gruesa pizarrosa, se emplaza en toda la cabecera de las
+    lagunas Cocaña, viluyo y Aricoma, la misma que forma el nevado y parte de
+    la Cordillera oriental, prolongándose hasta la Cordillera real de Bolivia.
+
+    Las pizarras de la formación Ananea afloran conspicuamente en toda la
+    cabecera del área de influencia del proyecto, regionalmente llegan hasta
+    Patambuco y Limbani, Presenta morfologías abruptas, algunos signos de
+    estratificación han desaparecido, sus capas están fuertemente plegadas.
+
+3.5.1.2. GRUPO AMBO (Ci-a)
+
+    Se emplaza en la columna oeste de la Laguna Cocaña (margen derecha), su
+    secuencia es clástica de ambiente continental que sobreyase en aparente
+    continuidad sobre la secuencia pizarrosa de la formación Ananéa, se estima
+    un grosor de 800m.
+
+    Próximo a la laguna Cocaña expone pizarras carbonosas intercaladas con
+    lutitas en capas delgadas característicamente laminares y areniscas
+    cuarzosas de grano fino gris oscuro en capas tabulares de 30ª 40 cm.
+
+3.5.1.3. GRUPO TARMA (Cs-t)
+
+    Se caracteriza litológicamente por contener una intercalación de areniscas,
+    limo arcillitas y calizas micríticas, cuya proporción es muy variable.
+
+    Su morfología es dependiente de la posición de sus capas, porque muestra
+    morfologías suaves y abruptas como en la zona de aproximación hacia la
+    laguna Cocaña en su margen derecha.
+
+
+                                                                                 29
+    Al tope de esta secuencia tenemos una intercalación predominantemente de
+    calizas, areniscas calcáreas color marrón amarillento en superficie
+    meteorizada, con limo arcillitas muy subordinadas en abundancia.
+
+    El Grupo Tarma limita en la margen izquierda con el Grupo Ambo, se marca
+    donde se registra un cambio morfológico resaltante.
+
+3.5.2. CENOZOICO
+
+3.5.2.1. DEPÓSITOS GLACIOFLUVIALES (Qp-gf)
+
+    Ocupan un área extensa en la zona del proyecto, se emplaza en gran
+    medida en el anillo circunlacustre, limitando desde la cabecera de las
+    lagunas hasta las estribaciones de rio crucero, notándose nítidamente en la
+    zona de emplazamiento del eje de presa.
+
+    Los depósitos glaciofluviales presentan una morfología suave y ondulada,
+    con un aligera inclinación de 5 a 10º hacia el Sureste, están intersectados
+    por un sistema de drenaje paralelo a sub paralelo, de pequeños riachuelos y
+    quebradas, que finalmente pasan a ser afluentes el río Crucero.
+
+    En algunas partes, estos depósitos se encuentran cubriendo a las rocas
+    preexistentes, con una distribución caótica.
+
+3.5.2.2. DEPÓSITOS MORRÉNICOS (Qh-mo)
+
+    Tienen una marcada presencia en el flanco posterior del nevado Aricoma (al
+    pie), denotando una regular actividad durante el cuaternario.
+
+    Los materiales que constituyen este depósito muestran una matriz areno
+    arcillosa, con presencia de gravas dispuestas caóticamente, los depósitos
+    yacen sobre los glaciofluviales pre-existentes, por lo que se le atribuye una
+    edad holocénica.
+
+
+                                                                              30
+3.5.2.3. DEPÓSITOS ALUVIALES (Qh-al)
+
+              Tienen una marcada presencia en la margen izquierda, aguas abajo del
+              embalse, compuestos por bloques, guijas, gravas, arenas, limos y arcillas de
+              composición heterogénea y una mala estratificación.
+
+              Estos depósitos se acumulan con diferente intensidad a lo largo de los
+              discursos de los riachuelos del lugar, se ofrecen estos materiales para ser
+              aprovechados como canteras de roca, las que se encuentran como rodados.
+
+                                                                         CUADRO – IV
+
+                                                   Columna estratigráfica de la presa aricoma
+                                            COLUMNA ESTRATIGRAFICA LOCAL - CONSTRUCCION PRESA ANANEA
+ ERATEMA
+
+
+              SISTEMA
+
+
+
+
+                            SERIE                 UNIDADES              COLUMNA                         DESCRIPCION
+
+
+                                              Depositos Aluviales                 Gravas y conglomerados mal clasificados.
+                             Holoceno
+              Cuaternario
+ Cenozoico
+
+
+
+
+                                            Depositos Glaciofluviales             Conglomerados subredondeados, gravas
+                                             Depósitos Morrenicos                 Gravas subangulosas litologicamente heterogeneas.
+                              Pleistoceno
+
+
+
+
+                                             Depositos Lacustrinos                Limos y limolitas de color beige
+                                            Depositos Fluvioglaciares             Gravas subredondeadas a subangulosas.
+
+
+                                                     Grupo                        Areniscas feldespáticas, verde grisaceas hacia la base
+                             Superior
+
+
+
+
+                                                     Tarma                        con intercalación de calizas micriticas grises y limoarci-
+                                                                                  llitas en menor proporción.
+              Carbonifero
+ Paleozoico
+
+
+
+
+                                                     Grupo                        Areniscas cuarzosas blanquecina a gris oscura con
+                             Inferior
+
+
+
+
+                                                     Ambo                         intercalación de limoarcillitas, limolitas oscuras y piza-
+                                                                                  rras, se observa restos de plantas.
+              Devoniano
+
+
+
+
+                                                   Formación                      Pizarras gris coscuras, azuladas caracteristicamente
+                                                    Ananea                        laminares y foliadas, con niveles micaceos y cuarcitas
+              Siluriano
+
+
+
+
+                                                                                  que se intercalan esporádicamentes.
+
+
+
+                                                                                                                                               31
+3.6. GEOMORFOLOGÍA
+
+3.6.1. GEOMORFOLOGÍA REGIONAL
+
+La zona de estudio se halla ubicado en las unidades geomorfológicas regionales
+que se reconocen como cordillera oriental en la zona estudiada, se ha
+diferenciado bajo el criterio morfológico estructural y litológico, estas unidades
+reconocidas se presentan como:
+
+                Relieve Cordillerano (altas cumbres)
+                Colinas Intrandinas
+                Altiplanicie
+                Ladera Cordillerana
+                Valle Fluvioglaciar
+                Lecho Aluvial Altiplánico
+
+ La zona presenta un relieve accidentado, conformando una cadena de
+ montañas, mientras, la llanura se encuentra solo en las estribaciones del
+ emplazamiento de la zona de represamiento en un área muy reducido.
+
+ El principal accidente geográfico próximo lo conforma La Cordillera Oriental,
+ sobre esta se reconocen diversas unidades geomorfológicos, las cuales fueron
+ muy importantes para determinar la relación, morfología-litología, dado que gran
+ parte de la cadena cordillerana se encuentra conformada por rocas
+ metamórficas de bajo grado, como pizarras y cuarcitas, que dan lugar a una
+ cadena de montañas con superficie abrupta y heterogénea.
+
+ De acuerdo a las observaciones de campo se puede señalar el desarrollo de la
+ zona del fue controlado esencialmente por factores estructurales, como son
+ levantamientos de bloque antiguos, fallas; la litología de las rocas ígneas en
+ especial la actividad enudacional, como son la erosión de los glaciares y fluvial,
+ que han interactuado para dar lugar a actual modelado de la superficie.
+
+
+
+
+                                                                                32
+3.6.1.1. HIDROGRAFIA
+
+La red hidrográfica que discurre en superficie circundante al área de estudio,
+forma parte de la cuenca del Titicaca, considerando que el divortium acuarium
+está muy próximo.
+
+El área drenada de la micro cuenca en estudio y los ríos próximos, está
+delimitada por la Cordillera de Carabaya, que en realidad es el divortium
+acuarium, es decir que la parte que la cabecera de la laguna constituye la
+divisoria de aguas con los ríos del sistema hidrográfico del Amazonas y la
+vertiente del Pacífico.
+
+El río crucero, próximo a la zona del proyecto se constituye en el colector
+principal de los distintos sistemas de drenaje, que forma parte de la cuenca
+endorreica del Titicaca, siendo un afluente del río Azángaro.
+
+3.6.1.2. LAGUNA ARICOMA
+
+Tiene un origen glaciar, que es la principal fuente de escorrentía que finalmente
+va drenar al río Crucero.
+
+La acumulación de sus aguas se produce en una pequeña depresión formada
+por la erosión glaciar y la barrera formada por un depósito de morrena.
+
+
+3.6.1.3. TRIBUTARIOS
+
+Tributarios a las lagunas de la zona de estudio provienen directamente del
+deshielo glaciar del nevado Aricoma, unos en forma superficial y otros en forma
+de flujos internos, que desembocan directamente en el interior de la laguna.
+
+Los cerros Patilla, Tinajillani, Quimsa Orko, Coito Pina, y Aricoma, sirven como
+principal fuente de suministro, a través de las filtraciones provenientes del
+sistema glaciar adyacente a la zona, los que devienen de las precipitaciones.
+
+
+                                                                                33
+3.6.1.4. RIO CRUCERO
+
+Sus nacientes se encuentran en el nevado de Ananéa y en la Laguna
+Rinconada, recorre a lo largo de la depresión Ananéa-Crucero de SE a NO, se
+caracteriza por su recorrido sinuoso en la pampa de Crucero, debido a su
+amplitud y poca pendiente de esta parte de la altiplanicie.
+
+3.6.2. GEOMORFOLOGIA LOCAL
+
+La zona de emplazamiento del proyecto, destacan unidades geomórficas bien
+definidas que conforman una topografía muy variada, reconociéndose sectores
+de suave pendiente, superficies onduladas que contrastan con paisajes
+agrestes.
+El área evaluada se encuentra controlada morfo estructuralmente por el flanco
+Oriental de la Cordillera de los Andes en el Sureste peruano; éste accidente
+geomorfológico ha controlado las condiciones climáticas de la zona,
+presentando como característica una variedad de relieves, debido a diferentes
+procesos geomorfológicos que han actuado sobre las diversas litologías,
+condicionados por otros elementos morfo estructurales, como la depresión
+tectónica de Crucero y los bloques paleozoicos levantados, así como la
+variación de las condiciones climáticas.
+
+
+En el área circundante al proyecto se distinguen las siguientes unidades
+geomorfológicas:
+
+
+3.6.2.1. RELIEVE CORDILLERANO
+
+
+Corresponde a los cerros más altos como Patilla, Tinajillani, y Aricoma, entre
+otros, las que presentan fuertes pendientes y en algunos casos picos
+pronunciados.
+
+
+
+
+                                                                            34
+La glaciación cuaternaria es uno de los agentes que actuó en el modelado del
+terreno en casi toda la zona, pero es el relieve cordillerano en donde se nota la
+acción del hielo sobre la roca.
+
+
+3.6.2.2. VALLE FLUVIOGLACIAR
+
+
+Esta bordea todo el vaso de la zona de estudio, presenta pendientes fuertes,
+moderados, con perfiles asimétricos y disectados por quebradas.
+Forma un nexo entre el relieve cordillerano y el horizonte de las aguas de las
+lagunas inmersas en la zona de estudio; la glaciación cuaternaria es aun el
+principal agente modelador, dando lugar y origen al valle de con formaciones
+de gran altura a mediana.
+Litológicamente lo constituyen areniscas y pizarras, con cambios bruscos de
+relieve, notándose una disminución        paulatina de la altitud del eje de la
+cordillera hacia los flancos.
+
+
+3.6.2.3. LECHO ALUVIAL ALTIPLANICO
+Se encuentra en ambos flancos del río Crucero y el proveniente de la laguna
+Aricoma, se caracteriza por una sección transversal en forma de “V”, con
+pendientes moderadas, emplazadas en un fondo rellenado              por depósitos
+fluviales, inconsolidados, arenas, gravas y cantos rodados que van desde sub
+redondeados a redondeados y de diferente composición. Las terrazas fluviales
+se presentan poco desarrolladas y por lo general asimétricas.
+
+
+3.6.2.4. DRENAJE
+
+
+El río Crucero es el colector principal del área, el proyecto se sitúa aguas arriba
+y en su margen derecha,         tiene su origen en los deshielos de la cordillera
+oriental, cuyo caudal es incrementado por pequeños tributarios en la naciente y
+en el trayecto por quebradas y ríos tributarios, finalmente el río Azángaro
+confluye con el río Pucará dando lugar al río Ramis que desemboca en el lago
+
+                                                                                35
+ Titicaca; el modelo de drenaje que presenta la cuenca es dendrítica a
+ subparalela.
+
+
+
+3.7. GEOLOGIA ESTRUCTURAL
+
+ En el área de estudio    está relacionado al ciclo evolutivo de la tectónica
+ herciniana y tectónica andina, estos movimientos tectónicos han controlado la
+ sedimentación y deformación de las unidades mayormente paleozoicas y
+ consecuentemente mesozoicas., de acuerdo a estas características se han
+ determinado cuatro zonas estructurales en función del grado de deformación y
+ control estructural, se puede observar una falla inversa que pone en contacto
+ la formación Ananea contra el grupo ambo, al Oeste de la laguna Cocaña,
+ donde el grupo Tarma suprayace al grupo Ambo.
+
+
+
+
+                                                                            36
+                                 CAPITULO IV
+
+4.0. ANALISIS Y RESULTADOS DE GEOTECNIA DEL PROYECTO
+
+  4.1. CARACTERISTICAS GEOTECNICAS GENERALES DEL VASO Y EJE
+  DE PRESA
+
+  La evaluación Geotécnica del Proyecto Construcción de la Presa Aricoma, tiene
+  como objetivo estudiar en el campo a través de pozos de exploración o
+  calicatas “a cielo abierto”, ensayos de laboratorio a fin de obtener las principales
+  características físicas y mecánicas del suelo, sus propiedades de resistencia,
+  asentamientos y labores de gabinete en base a los cuales se define los perfiles
+  estratigráficos, tipo y profundidad de cimentación de la Presa para luego realizar
+  los   cálculos   de   capacidad    portante    admisible   para   luego   dar    las
+  recomendaciones generales para la cimentación o terreno de fundación donde
+  se implantará las estructuras a construirse.
+
+  Los objetivos específicos del estudio son:
+
+               Reconocimiento del terreno
+               Distribución y ejecución de calicatas.
+               Toma de muestras inalteradas y disturbadas
+               Ejecución de ensayos de laboratorio.
+               Evaluación de los trabajos de campo y laboratorio
+               Perfiles estratigráficos.
+               Análisis de la capacidad portante admisible en roca y suelo.
+               Determinar de asentamientos en suelo.
+
+  METODOLOGÍA
+
+  La metodología de trabajo fue realizada en dos etapas:
+                                                                                   37
+ Primera Etapa.- Se realizó un muestreo sistemático en lugares estratégicos
+   y representativos previo a un programa, mediante calicatas a cielo abierto,
+   efectuándose calicatas de acuerdo a la litología presente del Proyecto como
+   es (Presa, Zonas de embalse, Obras de Arte y Canteras), la profundidad
+   alcanzada obedece a la intensidad y tipos de carga que serán trasmitidos en
+   el sub-suelo o terreno de fundación, llegando hasta 1.50 – 2.00 m. a una
+   distancia de 500 m. en el eje de la Presa, Obras de Arte y Canteras, la
+   ubicación de las calicatas nos permitieron obtener una información confiable
+   y representativa de los suelos potencialmente consideradas como sub
+   rasante o terreno de fundación y materiales de construcción ósea canteras.
+
+   Las muestras se depositaron en bolsas de polietileno con su respectiva
+   tarjeta de identificación, para luego ser remitidos en el laboratorio de
+   mecánica de suelos y concreto de PRORRIDRE.
+
+ Segunda Etapa.- Consiste en el ensayo de muestras en laboratorio de
+   mecánica de suelos y concreto de PRORRIDRE, determinación cualitativa y
+   cuantitativa a partir de los resultados obtenidos en laboratorio, la
+   interpretación de resultados y finalmente la preparación del informe
+   correspondiente.
+
+ ENSAYOS DE MECANICA DE SUELOS QUE SE REALIZARON EN EL
+   LABORATORIO
+
+   Los trabajos en laboratorio de mecánica de suelos consisten en realizar
+   ensayos de muestras obtenidas en las diferentes calicatas excavadas en el
+   campo, ensayos que se realizaron en el Laboratorio de Mecánica de Suelos
+   y Concreto de Programa Regional de Riego y Drenaje (PRORRIDRE), para
+   las siguientes estructuras que compondrá el sistema de riego como es:
+
+      -   Eje de Presa
+
+      -   Zona de Embalse.
+
+      -   Canteras.
+                                                                                38
+     -       Obras de Arte
+
+     -       En el siguiente cuadro se detalla los ensayos solicitados para cada
+             estructura:
+
+                                                        CUADRO – V
+                                       RESUMEN DE ENSAYOS REALIZADOS
+
+ ESTRUCTURA                     NOMBRE DEL ENSAYO
+         ZONA DE EMBALSE, EJE
+
+
+
+
+                                Humedad natural ASTM D-2216.
+          DE PRESA Y OBRAS DE
+
+
+
+
+                                Análisis granulométrico por tamizado ASTM D-422.
+                                Determinación del límite líquido ASTM D-4318.
+                 ARTE
+
+
+
+
+                                Determinación del límite plástico ASTM D-4318
+                                Densidad Natural ASTM D-1556.
+
+                                Peso Específico Relativo de Sólidos (ASTM D854)
+                                Humedad natural ASTM D-2216.
+                                Análisis granulométrico por tamizado ASTM D-422.
+
+                                Determinación del límite líquido ASTM D-4318.
+                                Determinación del límite plástico ASTM D-4318
+               CANTERAS
+
+
+
+
+                                Densidad Natural ASTM D-1556.
+                                Peso Específico Relativo de Sólidos (ASTM D854)
+                                Proctor modificado. ASTM D-1557.
+                                Porcentaje de absorción
+                                Pesos unitarios
+                                Análisis granulométrico por tamizado MTC E-204 para agregados
+                                Ensayo de abrasión los ángeles.
+
+
+
+
+4.2. GEOTECNIA DEL EJE DE PRESA
+
+  4.2.1. TRABAJOS REALIZADOS EN CAMPO.
+
+  Con la finalidad de definir el perfil estratigráfico del área de estudio, se
+  realizaron exploraciones del suelo y roca mediante calicatas a cielo abierto
+  y el muestreo del suelo.
+
+  Calicatas
+
+  Se excavaron 02 Calicatas o Pozos de Exploración a cielo abierto,
+  asignándole como C-01 y C-02 las cuales fueron convenientemente
+  coordinadas y ubicadas, en la zona del eje de la presa.
+
+                                                                                                39
+                    Foto: 01 VISTA DEL EJE DE LA PRESA Y SU DISTRIBUCION DE CALICATAS
+
+
+   Muestreo
+   De cada uno de los horizontes representativos de suelos se extrajeron
+   muestras alteradas que debidamente identificadas se remitieron al
+   laboratorio del Programa regional de Riego y Drenaje PRORRIDRE
+   para los ensayos correspondientes para la identificación y clasificación
+   de suelos, también se hizo densidades naturales en las calicatas – 01 y
+   calicata 02 a una profundidad de 1.00 mts y 1.30mts debajo de la
+   rasante.
+
+
+
+
+                Foto: 02 EJECUCIÓN DE CALICATAS EN EL EJE DE LA PRESA
+
+
+4.2.2. PERFIL ESTRATIGRÁFICO DEL EJE DE LA PRESA
+
+En base a la información obtenida de los trabajos de campo y de los
+ensayos de laboratorio, se han establecido el perfil estratigráfico de las
+calicatas C-01y C-02 Dichos perfiles estratigráficos están hasta una
+profundidad de 2.00 m. para luego continuar con el mismo material de
+                                                                                        40
+profundidad indeterminada.
+         GRAFICO N° 01 PERFIL DE CALICATA C-01 EJE “A”
+
+
+
+
+         GRAFICO N° 02 PERFIL DE CALICATA C-02 EJE “B”
+
+
+
+
+        Esta información se ilustra en los anexos – perfiles estratigráficos
+
+                                                                               41
+4.2.3. DESCRIPCION DEL SUBSUELO EN EL EJE DE LA PRESA
+ARICOMA
+
+CALICATA EJE (C-01):
+0.00 – 2.00 m. Estrato continuando a más profundidad se encuentra material
+conformado por CL y ML denominado arcilla de baja plasticidad y limos de
+baja plasticidad con LL=31.30, IP=11.90 y el 15.03 % de grava, 58.50 % de
+material fino que pasa la malla N° 200 y hay presencia de fragmentos de roca
+aisladamente de tamaños de 6" a 12" todos ellos presentan color gris pardo a
+amarillento su estado de conformación es semicompacto no hay presencia de
+nivel freático.
+
+CALICATA EJE (C-02):
+0.00 – 2.00 m. Estrato conformado a más profundidad se encuentra material
+conformado por CL y ML denominado arcilla de baja plasticidad y limos de
+baja plasticidad con LL=30.30, IP=11.00 y el 17.78 % de grava, 56.87 % de
+material fino que pasa la malla N° 200 y hay presencia de fragmentos de roca
+aisladamente de tamaños de 6" a 8" todos ellos presentan color gris pardo a
+amarillento de consistencia medianamente compacto a blando no hay
+presencia de nivel freático.
+
+4.2.4. CLASIFICACIÓN DE SUELOS EN EL EJE DE LA PRESA
+
+Las muestras ensayadas en el laboratorio se han clasificado de acuerdo al
+Sistema Unificado de Clasificación de Suelos (S.U.C.S.) y las muestras
+restantes que no figuran en el cuadro fueron clasificados por pruebas
+sencillas de campo, observación y comparación con las muestras
+representativas ensayadas.
+
+
+
+
+                                                                         42
+   RESUMEN DE LAS PROPIEDADES FISICAS DEL MATERIAL DE TERRENO DE
+   FUNDACIÓN DEL EJE DE PRESA
+
+                                                                CUADRO - VI
+
+
+
+
+                                                                                   HUMEDAD %
+                                GRANULOMETRIA           LIMITES DE CONSISTENCIA
+                                                                                               CLASIFICACION
+
+                   ESTRATO
+   UBICACIÓN DE                     % QUE PASA           L.L.   L.P.      IP
+                                                                                                                           TIPO DE MATERIAL
+    CALICATAS
+                             # 200 # 40    #4     #2     (%)    (%)      (%)                   SUCS   AASHTO
+
+   C-01 KM=0+750   E-2       58.5   68.3   85.0 100.0   31.3    19.5     11.9     8.8           CL    A-6 ( 5 )   ARCILLA DE BAJA PLASTICIDAD
+   C-01 KM=0+750   E-3       56.9   66.0   82.2 100.0   30.3    19.3     11.0     11.6          CL    A-6 ( 5 )   ARCILLA DE BAJA PLASTICIDAD
+
+
+Fuente: elaboración propia, PRORRIDRE-2013
+
+
+   4.2.5. ANÁLISIS DE LA CIMENTACIÓN EN SUELO EN EL EJE DE PRESA
+
+     4.2.5.1. CÁLCULO DE LA CAPACIDAD PORTANTE ADMISIBLE                                                                                        EN
+     SUELO
+
+     De acuerdo al análisis de cimentación, trabajo de campo, ensayos de
+     laboratorio descripción de los perfiles estratigráficos, y la forma del proyecto se
+     ha considerado un tipo de cimentación corrido y cuadrado donde será
+     desplantado a unos 2 – 3 m. según estudios geofísicos el material glaciario se
+     encuentra en forma masiva..
+
+     4.2.5.2. CÁLCULO DE LA CAPACIDAD PORTANTE ADMISIBLE POR
+     CORTE EN SUELO
+     Se empleará para él cálculo de capacidad de carga última por corte las
+     fórmulas propuestas por Karl Terzaghi (ecuación N° 01 y 02), para zapatas
+     continuas o corridas y cuadrados para las calicatas C-01 y C-02.
+
+
+                                                 qu  1.2 * c * Nc  q Nq  0.40  B N ..............EC  01
+
+                                                 qu  c * Nc  q Nq  0.50  B N ...................EC  02
+
+
+                                    Dónde:
+
+                                    qu                    : Capacidad de carga.
+                                    c                     : Cohesión.
+                                                                                                                                                43
+                             Nc,Nq, NƔ           : Factores de capacidad de carga
+                             Ɣ                   : Densidad natural.
+                             Df                  : Profundidad de desplante
+                             B                   : Ancho de la cimentación.
+                             La capacidad admisible de carga es calculada como en la
+                             ecuación Nº 03:
+
+                             qadm = qu/FS ………..E- 03
+
+                             Dónde:
+
+                             qadm                : Capacidad admisible de carga.
+
+                             F. S.               : Factor de seguridad acápite 3.3 - Norma E050.
+
+                                                                   CUADRO - VII
+                                                                  C-01 KM=0+650
+                                                 PARAMETROS DE CALCULO
+                Angulo de fricción                                 Ø                 22            grados
+                Cohesión                                           c             0.12              kg/m2
+                                                                   Nc            20.27
+                Factores de capacidad de carga                     Nq            9.19
+                                                                  Nw             5.09
+                Peso Especifico del Suelo                          PE           1634.00            kg/m3
+                Peso Especifico del Suelo Saturado                 PE           1680.00            kg/m3
+                Peso Unitario Agua                                 PU            1000              kg/m3
+                Profundidad en el agua                            Zw                 2.5            m.
+
+
+                                                     CUADRO - VIII
+
+              CALCULO DE CAPACIDAD CARGA ULTIMA Y CAPACIDAD PORTANTE SEGÚN A LA PROFUNDIDAD
+            BASE (m .)            1.00   qu   9578.9429   kg/m2         9.57894288         TN/m2            0.96   kg/cm2
+            PROFUND. (m .)        1.00   qd   3831.5772   kg/m2        3.831577152         TN/m2            0.38   kg/cm2
+ Terzaghi   BASE (m .)            1.00   qu   15828.143   kg/m2        15.82814288         TN/m2            1.58   kg/cm2
+ ZAPATA     PROFUND. (m .)        2.00   qd   6331.2572   kg/m2        6.331257152         TN/m2            0.63   kg/cm2
+CUADRADA    BASE (m .)            1.00   qu   18952.743   kg/m2        18.95274288         TN/m2            1.90   kg/cm2
+            PROFUND. (m .)        2.50   qd   7581.0972   kg/m2        7.581097152         TN/m2            0.76   kg/cm2
+
+
+              CALCULO DE CAPACIDAD CARGA ULTIMA Y CAPACIDAD PORTANTE SEGÚN A LA PROFUNDIDAD
+            BASE (m .)            1.00   qu   10410.162   kg/m2         10.4101624         TN/m2            1.04   kg/cm2
+            PROFUND. (m .)        1.00   qd   4164.065    kg/m2         4.16406496         TN/m2            0.42   kg/cm2
+Terzaghi    BASE (m .)            1.00   qu   16659.362   kg/m2         16.6593624         TN/m2            1.67   kg/cm2
+ZAPATA      PROFUND. (m .)        2.00   qd   6663.745    kg/m2         6.66374496         TN/m2            0.67   kg/cm2
+CORRIDA     BASE (m .)            1.00   qu   19783.962   kg/m2         19.7839624         TN/m2            1.98   kg/cm2
+            PROFUND. (m .)        2.50   qd   7913.585    kg/m2         7.91358496         TN/m2            0.79   kg/cm2
+
+
+
+
+                                                                                                                        44
+                                                  CUADRO - IX
+                                                 C-01 KM=0+750
+
+                                             PARAMETROS DE CALCULO
+            Angulo de fricción                                   Ø                  23             grados
+            Cohesión                                             c                 0.15            kg/m2
+                                                                 Nc                21.75
+            Factores de capacidad de carga                       Nq                10.23
+                                                                 Nw                 6
+            Peso Especifico del Suelo                            PE               1644.00          kg/m3
+            Peso Especifico del Suelo Saturado                   PE               1680.00          kg/m3
+            Peso Unitario Agua                                   PU                1000            kg/m3
+            Profundidad en el agua                               Zw                 2.5             m.
+
+
+
+                                                   CUADRO - X
+              CALCULO DE CAPACIDAD CARGA ULTIMA Y CAPACIDAD PORTANTE SEGÚN A LA PROFUNDIDAD
+            BASE (m .)           1.00   qu   10905.915   kg/m2        10.905915            TN/m2           1.09   kg/cm2
+            PROFUND. (m .)       1.00   qd   4362.366    kg/m2        4.362366             TN/m2           0.44   kg/cm2
+ Terzaghi   BASE (m .)           1.00   qu   17862.315   kg/m2        17.862315            TN/m2           1.79   kg/cm2
+ ZAPATA     PROFUND. (m .)       2.00   qd   7144.926    kg/m2        7.144926             TN/m2           0.71   kg/cm2
+CUADRADA    BASE (m .)           1.00   qu   21340.515   kg/m2        21.340515            TN/m2           2.13   kg/cm2
+            PROFUND. (m .)       2.50   qd   8536.206    kg/m2        8.536206             TN/m2           0.85   kg/cm2
+
+
+              CALCULO DE CAPACIDAD CARGA ULTIMA Y CAPACIDAD PORTANTE SEGÚN A LA PROFUNDIDAD
+            BASE (m .)           1.00   qu   11891.663   kg/m2       11.8916625            TN/m2           1.19   kg/cm2
+            PROFUND. (m .)       1.00   qd   4756.665    kg/m2        4.756665             TN/m2           0.48   kg/cm2
+Terzaghi    BASE (m .)           1.00   qu   18848.063   kg/m2       18.8480625            TN/m2           1.88   kg/cm2
+ZAPATA      PROFUND. (m .)       2.00   qd   7539.225    kg/m2        7.539225             TN/m2           0.75   kg/cm2
+CORRIDA     BASE (m .)           1.00   qu   22326.263   kg/m2       22.3262625            TN/m2           2.23   kg/cm2
+            PROFUND. (m .)       2.50   qd   8930.505    kg/m2        8.930505             TN/m2           0.89   kg/cm2
+
+
+
+
+                                                                                                                       45
+FACTORES DE CAPACIDAD DE CARGA DE TERZAGHI; ECUACIÓN
+
+                         CUADRO XI
+
+
+
+
+                                                       46
+SOLUCIÓN: de un problema de capacidad de carga del cuadro VII km 0 + 650
+eje de presa.
+
+Ecuación: 01
+
+Nq = tan2 (45 + Ǿ/2) eπtanǾ
+
+Nc = (Nq - 1) cot Ǿ
+
+Nᵞ = 2(Nq + 1) tan Ǿ
+
+Solución de una capacidad de carga
+
+Con un factor de seguridad (FS) de 2.5 los resultados son en kg/m2
+
+Solución
+
+qu = 1.2 cNc + qNq + 0.4 ᵞBNᵞ
+
+De la tabla de factores para Ǿ = 22°
+
+Nc = 20.27;      Nq = 9.19;   Nᵞ = 5.09
+
+Entonces
+
+qu =(1.2)(320)(20.27)+(3*115)(9.19)+(0.4)(115)(5)(5.09) = 9578.9429 kg/m2
+
+La carga admisible por unidad de área de la cimentación es entonces
+
+Qadm = qu/FS = 9578.9429/2.5 = 3831.5772 kg/m2.
+
+Capacidades de cargas admisibles a una profundidad de 2.50 m en el eje de la
+presa será de:
+ C. CUADRADO C-01 EJE DE PRESA KM=0+650 qad = 0.76 kg/cm2
+
+ C. CUADRADO C-02 EJE DE PRESA KM=0+750 qad= 0.85 kg/cm2
+
+ C. CORRIDO C-01 EJE DE PRESA KM=0+650 qad = 0.79 kg/cm2
+
+ C. CORRIDO C-02 EJE DE PRESA KM=0+750 qad= 0.89 kg/cm2
+
+
+
+                                                                            47
+4.2.5.3. CARACTERÍSTICAS DE MATERIAL PARA EL NÚCLEO DE LA PRESA
+
+  Los núcleos de una presa se construyen para impedir el paso del agua a través
+  del cuerpo de presa, por lo que precisan materiales de baja o muy baja
+  permeabilidad, del orden de 10 - 5 cm/s o inferior. Además no deben ser
+  colapsables, ni contener material orgánica o ser solubles. Debe ser fácilmente
+  compactables. Las arcillas y los limos son los más característicos, aunque
+  también las arenas con contenido arcilloso pueden ser utilizadas; su índice de
+  plasticidad debe estar entre 15 y 35. La selección de estos materiales no
+  incluye en principio a otros de baja permeabilidad que, convenientemente
+  compactados y seleccionados, aporten un elemento impermeable adecuado. La
+  compactación se realizara e tongadas de 20 a 30 cm con rodillo de pata de
+  cabra o a veces con rodillo vibrante.
+
+  El grado de compactación no deberá ser menor al 95% de la Máxima Densidad
+  Seca obtenida del Próctor Modificado.
+
+4.2.5.4. FILTRO Y DRENES
+
+  Los filtros y drenes se utilizan para evitar el paso de las partículas finas de los
+  materiales contiguos y permitir el drenaje. Los volúmenes requeridos suelen ser
+  muy inferiores con respecto al resto de materiales, aunque sus especificaciones
+  son mucho más exigentes, en cuanto a propiedades y granulometrías.
+
+  Los materiales que constituyen un filtro deben satisfacer ciertas condiciones con
+  el objeto de asegurar que cumpla con sus funciones.
+
+  Las especificaciones del filtro están dadas en función de las granulometrías de
+  los materiales por proteger y de los que forman el filtro, especificaciones dadas
+  por Zagi y G. E. Bertram. Y son las siguientes:
+
+             1.-
+
+
+             2.-
+
+                          Dónde:
+                                                                                  48
+                           D15: diámetro para el cual 50% de las partículas son de
+                           menor tamaño.
+
+                           D85: diámetro para el cual 85% de las partículas son
+             menores.
+
+  3.- El material debe de ser de buena graduación y contener menor de 5% de
+  finos que pasan la mal N° 200.
+
+  La primera especificación garantiza que la permeabilidad del filtro sea por lo
+  menos 100 veces mayor que la del material protegido.
+
+  La segunda especificación asegura que las partículas del material protegido
+  serán retenidas por el filtro y se evitara su taponamiento.
+
+  El tercera especificación asegura que las partículas finas del propio filtro serán
+  retenidos por sus partículas de mayor diámetro.
+
+  Si se tiene cubierto por un geotextil la zona de interés, se permitirá
+  granulometría con fragmentos de un solo tamaño.
+
+  El filtro será es colocado en la base del talud aguas abajo.
+
+4.2.5.5. PERMEABILIDAD DE LA CERRADA
+
+  Es importante considerar las condiciones de permeabilidad de la cerrada, no
+  solo como problema de estanqueidad sino como factor geotécnico de gran
+  significado en la estabilidad y seguridad de la presa.
+
+  En general, las cerradas deben reunir condiciones de baja permeabilidad,
+  cuando son lo contrario para las cimentaciones ocasionará los siguientes
+  problemas.
+
+                         Subpresiones en la base de la presa.
+                         Inestabilidades en la zona de aguas debajo de la presa.
+                         Creación de gradientes elevados con altas velocidades
+                           de filtración y riego de erosiones internas.
+                         Inestabilidad de taludes en los estribos.
+
+                                                                                 49
+                        Pérdida significativa de caudales.
+
+
+El análisis de estos factores corresponde a un estudio hidrogeológico, en la
+evaluación de los coeficientes de permeabilidad del área de embalse en el
+cuadro siguiente se da la permeabilidad de algunos suelos.
+
+
+
+
+             CUADRO DE VALORES DEL COEFICIENTE DE PERMEABILIDAD EN SUELOS
+                                              CUADRO - XII
+
+                            TIPO DE SUELO                        K cm/s
+                            GRAVA MAL GRADUADA (GP)              >= 1
+                            GRAVA UNIFORME (GP)                  0.2 - 1
+                            GRAVA BIEN GRADUADA (GW)             0.05 - 0.3
+                            ARENA UNIFORME (SP)                  5X10-3 - 0.2
+                            ARENA BIEN GRADUADA (SW)             10-3-0.1
+                            ARENA LIMOSA (SM)                    10-3-5X10-3
+                            ARENA ARCILLOSA (SC)                 10-4-10-3
+                            LIMO DE BAJA PLASTICIDAD (ML)        5X10-5-10-4
+
+                            ARCILLA DE BAJA PLASTICIDAD (CL)     10-5-10-8
+
+
+          -3           -5                -7                 -9                  -12
+    k = 10       k = 10          k = 10            k = 10               k = 10
+    Alta         Media           Baja              Muy Baja             Prácticamente Impermeable
+
+
+En la zona de la cerrada de la presa Aricoma por sus características y la
+presencia de suelos y capas con material orgánico, tendrá una permeabilidad
+relativamente Madia a Baja que esta entre k = 10-5 y k = 10-9 cm/s en todo el
+eje de la cerrada, porque tenemos suelos de ML, CL. Y finalmente tiene una
+filtración menor 10 litros/min y el material de utilizada para la construcción de la
+cerrada debe cumplir las siguientes características.
+                                          CUADRO - XIII
+                      Características Recomendadas
+                      (Según R. Dal-Ré Tenreiro)
+                      SUCS                    SC, SM, CL, ML
+                      Tamaño máx.             75 a 125 mm.
+                      % de Finos              > a 25%
+                      Límite Líquido          < a 50
+                      Índice de Plasticidad   > a 10
+                                                               -5
+                      Permeabilidad           10-7    ≤ K ≤ 10
+
+
+                                                                                                    50
+4.3. GEOTECNIA DEL ÁREA DE EMBALSE
+
+4.3.1. PERFIL ESTRATIGRÁFICO
+
+En base a la información obtenida de los trabajos de campo y de los ensayos de
+laboratorio, sean establecido el perfil estratigráfico de las calicatas C-01 y C-02
+Dichos perfiles estratigráficos están hasta una profundidad de 1.80 m. la zona de
+embalse está constituido por los siguientes suelos:
+                                        CUADRO - XIV
+                 SUELOS                          PORCENTAJE
+                 CL, CH, MH                      10%
+                 ML, ML –CL                      60%
+                 SM, SP, SP-SM, SM-SC            20%
+                 GM, GC, GM -GC                  5%
+                 GW – GM, GP – GM                5%
+                                        CUADRO - XV
+
+
+
+
+4.3.2. DESCRIPCIÓN DEL SUBSUELO EN EL ÁREA DE EMBALSE
+
+a) MARGEN DERECHO
+
+CALICATA(C-1):
+0.0 - 1.50 m. En la parte superficial se presenta material de limo con mezcla de
+raíces de plantas típicas de lugar posteriormente continua con materiales de SM
+denominado como arena limosa de color gris oscuro de consistencia
+
+                                                                                51
+medianamente compacto a blando con LL=32.50, IP=7.50 y el 13.20 % de grava,
+42.93 % de material fino que pasa la malla N° 200, se encuentra húmedo y el
+nivel freático está a diferentes niveles.
+CALICATA(C-02):
+0.00 - 1.30m. Se presenta una capa de material conformado por mezcla de
+raíces de plantas típicas de lugar y limo en espesor de 0.20 m. continuando a
+más profundidad con material conformado por ML denominado como limo de
+baja plasticidad de color gris oscuro de consistencia medianamente compacto a
+blando con LL=36.90, IP=10.20 y el 7.45 % de grava, 54.01 % de material fino
+que pasa la malla N° 200, y el nivel freático está a diferentes profundidades.
+
+CALICATA(C-03):
+0.00 - 1.30m. En la capa superficial se puede apreciar material conformado por
+mezcla de limos y raíces de plantas típicas de lugar con un espesor de 0.30 m., y
+a más profundidad podemos encontrar material conformado por ML denominado
+como limo de baja plasticidad de color gris oscuro de consistencia medianamente
+compacto a blando su LL=35.90, IP=11 y el 8.61 % de grava, 57.71 % de
+material fino que pasa la malla N° 200, el nivel freático está a diferentes
+profundidades.
+
+CALICATA(C-04):
+0.00 - 1.50m. En la capa superficial se puede apreciar material conformado por
+mezcla de limos y raíces de plantas típicas de lugar con un espesor de 0.30 m., y
+a más profundidad podemos encontrar material conformado por ML denominado
+como limo de baja plasticidad de color gris oscuro de consistencia medianamente
+compacto a blando su LL=36.50, IP=9.90 y el 11.06 % de grava, 59.27 % de
+material fino que pasa la malla N° 200, el nivel freático está a diferentes
+profundidades.
+
+CALICATA(C-05):
+
+
+
+
+                                                                                 52
+0.00 - 1.40m. En la capa superficial se puede apreciar material conformado por
+mezcla de limos y raíces de plantas típicas de lugar con un espesor de 0.30 m., y
+a más profundidad podemos encontrar material conformado por CL denominado
+como arcilla de baja plasticidad de color gris oscuro de consistencia
+medianamente compacto a blando su LL=35.8, IP=16.80 y el 14.19 % de grava,
+54.81 % de material fino que pasa la malla N° 200, el nivel freático está a
+diferentes profundidades.
+
+b) MARGEN IZQUIERDO
+
+CALICATA(C-1):
+0.00 - 1.50 m. En la parte superficial se presenta material de limo con mezcla de
+raíces de plantas típicas de lugar en un espesor de 0.40 m. posteriormente
+continua con materiales de ML denominado como limo de baja plasticidad de
+color gris oscuro de consistencia medianamente compacto a blando con
+LL=38.10, IP=10.50 y el 16.72 % de grava, 55.72 % de material fino que pasa la
+malla N° 200, se encuentra húmedo y el nivel freático está a diferentes niveles.
+
+CALICATA(C-02):
+0.00 - 1.30m. Se presenta una capa de material conformado por mezcla de
+raíces de plantas típicas de lugar y limo en espesor de 0.40 m. continuando a
+más profundidad con material conformado por ML denominado como limo de
+baja plasticidad de color gris oscuro de consistencia medianamente compacto a
+blando con LL=37.70, IP=11.90 y el 16.96 % de grava, 50.06 % de material fino
+que pasa la malla N° 200, y el nivel freático está a diferentes profundidades.
+
+CALICATA(C-03):
+0.00 - 1.50m. En la capa superficial se puede apreciar material conformado por
+mezcla de limos y raíces de plantas típicas de lugar con un espesor de 0.30 m., y
+a más profundidad podemos encontrar material conformado por ML denominado
+como limo de baja plasticidad de color gris oscuro de consistencia medianamente
+compacto a blando su LL=33.10, IP=8.20 y el 9.26 % de grava, 58.10 % de
+
+                                                                                   53
+material fino que pasa la malla N° 200, el nivel freático está a diferentes
+profundidades.
+
+CALICATA(C-04):
+0.00 - 1.50m. En la capa superficial se puede apreciar material conformado por
+mezcla de limos y raíces de plantas típicas de lugar con un espesor de 0.30 m., y
+a más profundidad podemos encontrar material conformado por GM denominado
+como grava limosa con baja plasticidad de color gris oscuro a amarillento de
+consistencia medianamente compacto a compacto su LL=28,20, IP=5.10 y el
+52.02 % de grava, 15.37 % de material fino que pasa la malla N° 200, el nivel
+freático está a diferentes profundidades.
+
+CALICATA(C-05):
+0.0 - 1.40m. En la capa superficial se puede apreciar material conformado por
+mezcla de limos y raíces de plantas típicas de lugar con un espesor de 0.30 m., y
+a más profundidad podemos encontrar material conformado por SM denominado
+como arena limosa con baja plasticidad de color gris oscuro a amarillento de
+consistencia medianamente compacto a compacto su LL=32.20, IP=7.60 y el
+14.36 % de grava, 40.26 % de material fino que pasa la malla N° 200, el nivel
+freático está a diferentes profundidades.
+
+
+
+
+                         Foto: 03 vista zona de embalse de la presa
+                                                                              54
+ 4.3.3. CLASIFICACIÓN DE SUELOS EN EL ÁREA DE EMBALSE
+
+ Las muestras ensayadas en el laboratorio se han clasificado de acuerdo al
+ Sistema Unificado de Clasificación de Suelos (S.U.C.S.) y las muestras restantes
+ que no figuran en el cuadro fueron clasificados por pruebas sencillas de campo,
+ observación y comparación con las muestras representativas ensayadas.
+
+                                                               CLASIFICACION DE SUELOS
+                                                                               CUADRO - XVI
+
+
+
+
+                                                                                                         HUMEDAD %
+                                                   GRANULOMETRIA              LIMITES DE CONSISTENCIA
+                                                                                                                          CLASIFICACION
+                                     ESTRATO
+
+
+
+
+UBICACIÓN DE CALICATES EN Z. DE                         % QUE PASA             L.L.   L.P.      IP
+                                                                                                                                                      TIPO DE MATERIAL
+           EMBALSE
+                                                # 200   # 40   #4      #2      (%)    (%)      (%)                    SUCS       AASHTO
+
+           C-01 N 8413064 - E 411373 E-2        42.9    54.7   86.8   100.0   32.5    25.0     7.5      29.2              SM     A-4 ( 2 )   ARENA LIMOSA
+MARGEN
+        C-02 N 8413223 - E 411442 E-3           54.0    68.1   92.6   100.0   36.9    26.6     10.2     20.3              ML     A-6 ( 4 )   LIMO DE BAJA PLASTICIDAD
+DERECHA
+        C-03 N 8413695 - E411384 E-2            57.7    69.5   91.4   100.0   35.9    24.9     11.0     23.3              ML     A-6 ( 5 )   LIMO DE BAJA PLASTICIDAD
+ DE LA
+        C-04 N 8413944 - E 411466 E-1           59.3    70.1   88.9   100.0   36.5    26.6     9.9      20.0              ML     A-4 ( 5 )   LIMO DE BAJA PLASTICIDAD
+ PRESA
+          C-05 N 8414179 - E 411459 E-2         54.8    66.6   85.8   100.0   35.8    19.1     16.8     18.6              CL     A-6 ( 7 )   ARCILLA DE BAJA PLASTICIDAD
+          C-01 N 8412853 - E 411738 E-2         55.7    69.9   83.3   100.0   38.1    27.5     10.5     19.7              ML     A-6 ( 4 )   LIMO DE BAJA PLASTICIDAD
+ MARGEN
+         C-02 N 8412903 - E 411771 E-2          50.1    58.6   83.0   100.0   37.7    25.8     11.9     22.1              ML     A-6 ( 4 )   LIMO DE BAJA PLASTICIDAD
+IZQUIERD
+         C-03 N 8412959 - E 411821 E-2          58.1    64.4   90.7   100.0   33.1    24.9     8.2      20.9              ML     A-4 ( 5 )   LIMO DE BAJA PLASTICIDAD
+ O DE LA
+         C-04 N 8413104 - E 411940 E-2          15.4    20.5   48.0   100.0   28.2    23.0     5.1      21.7              GM    A-1-b ( 0 ) GRAVA LIMOSA
+  PRESA
+           C-05 N 8412799 - E 411841 E-2        40.3    49.7   85.6   100.0   32.2    24.6     7.6      15.3              SM     A-4 ( 1 )   ARENA LIMOSA
+
+
+
+
+ 4.3.4. PERMEABILIDAD DE LA ZONA DE EMBALSE
+
+ Una de las condiciones básicas que debe reunir un embalse es su estanqueidad.
+ Sin embargo, dependiendo del uso del mismo, las pérdidas de agua pueden ser
+ más o menos tolerables. Así, un embalse de regulación de avenidas no requiere
+ la misma estanqueidad que para abastecimiento o regadío. Por otro lado, las
+ condiciones de impermeabilidad también deben ser analizadas en función de las
+ necesidades                 del               aprovechamiento,                        ya      que,                  en        ocasiones,             puede             ser
+ económicamente rentable proceder a tratamientos de impermeabilización en
+ zonas concretas.
+
+ La construcción de una presa supone un cambio importante en la hidrología e
+ hidrogeología de la cuenca afectada por el embalse, con la inundación de una
+ parte del valle, la elevación de los niveles freáticos y su oscilación periódica.
+ Estas modificaciones afectan a la hidrodinámica de los acuíferos, pudiendo
+ producirse un flujo de agua desde el embalse hacia el exterior del vaso, o bien
+ una recarga del embalse desde los acuíferos que bordean al vaso. El análisis de
+
+                                                                                                                                                                         55
+estos factores corresponde a un estudio hidrogeológico, en la evaluación de los
+coeficientes de permeabilidad del área de embalse en el cuadro siguiente se da
+la permeabilidad de algunos suelos.
+                CUADRO DE VALORES DEL COEFICIENTE DE PERMEABILIDAD EN SUELOS
+                                               CUADRO - XVII
+
+                           TIPO DE SUELO                        K cm/s
+                           GRAVA MAL GRADUADA (GP)              >= 1
+                           GRAVA UNIFORME (GP)                  0.2 - 1
+                           GRAVA BIEN GRADUADA (GW)             0.05 - 0.3
+                           ARENA UNIFORME (SP)                  5X10-3 - 0.2
+                           ARENA BIEN GRADUADA (SW)             10-3-0.1
+                           ARENA LIMOSA (SM)                    10-3-5X10-3
+                           ARENA ARCILLOSA (SC)                 10-4-10-3
+                           LIMO DE BAJA PLASTICIDAD (ML)        5X10-5-10-4
+
+                           ARCILLA DE BAJA PLASTICIDAD (CL)     10-5-10-8
+
+
+           -3         -5                -7                 -9                  -12
+      k = 10    k = 10          k = 10            k = 10               k = 10
+      Alta      Media           Baja              Muy Baja             Prácticamente Impermeable
+
+El área de embalse de la presa aricoma por sus características y la presencia
+de suelos y bofedales, tendrá una estanqueidad relativamente Media a Baja de
+permeabilidad porque tenemos suelos de ML, CL-ML, CL, GM y guas arriba se
+presenta rocas fracturadas tal como se observa en la siguiente foto.
+
+
+
+
+                                 FOTO: 04 AGUAS ABAJO DE LA PRESA
+
+
+
+
+                                                                                                   56
+                            FOTO: 05 AGUAS ARRIBA DE LA PRESA
+
+
+
+4.3.5. ESTABILIDAD DE TALUDES, ZONA DE EMBALSE
+
+Las laderas de los terrenos son mayormente estables, ya sea por las geoformas
+y los materiales constitutivos, la estabilidad natural, al ser perturbada por cortes,
+así como por el peso propio de los rellenos y la estructura a emplazarse para el
+represamiento, se tornará estable.
+
+Para mantener el equilibrio isostático en los macizos rocosos y suelos blandos
+es conveniente mantener los taludes de corte y relleno que se indican en el
+cuadro respectivo.
+
+
+
+
+                                                                                  57
+                                         CUADRO – XVIII
+
+                    PARAMETROS DE TALUDES DE CORTE Y RELLENO
+                              TALUDES DE CORTE
+                                                               TALUD (V:H)
+   TALUDES DE CORTE
+                                                               H<5               5 < H < 10                          H > 10
+
+
+
+
+                                                                                          O
+
+
+
+
+                                                                                                                         DE
+   SUELOS CONSOLIDADOS COMPACTOS                               4:1
+
+
+
+
+                                                                                          ANALISIS DE ESTABILIDAD.
+                                                                                                       BANQUETA
+   CONGLOMERADOS COMUNES                                       3:1
+
+
+
+
+                                                                                                                                     ANALISIS
+   TIERRA COMPACTA                                             2:1-1:1
+   TIERRA SUELTA                                               1: 1
+
+
+
+
+                                                                                                                         ESTABILIDAD
+                                                                                          REQUIERE
+
+
+
+
+                                                                                                                         REQUIERE
+   ARENAS SUELTAS                                              2:1
+   ZONAS BLANDAS CON ABUNDANTE     ARCILLAS      O   ZONAS 1 : 2 hasta 1 :
+   HUMEDICIDAS POR FILTRACIONES                                3
+   TALUDES DE RELLENO
+                                       TALUD (V:H)
+   MATERIALES
+                                       H<5       5 < H < 10            H > 10
+
+
+
+
+                                                                                         DE
+                                                                  DE
+   ENROCADO                            1:1                         O
+
+                                                     ESTABILIDAD.
+
+
+
+
+                                                                             ESTABILIDAD
+                                                     BANQUETA
+   SUELOS DIVERSOS COMPACTADOS     (
+                                                     REQUIERE
+
+
+
+
+                                                                             REQUIERE
+                                                                             ANALISIS
+                                                     ANALISIS
+   MAYORIA DE SUELOS)                  1 : 1.5
+
+   ARENA COMPACTADA                    1:2
+
+
+
+
+4.4. ESTUDIOS REALIZADOS DE CANTERAS
+
+4.4.1. GENERALIDADES
+Uno de los principales objetivos del presente estudio ha sido ubicar y determinar
+las propiedades físicas del material de cantera para relleno de terraplén, núcleo
+de presa, agregado para concreto, roca, fuentes de agua y botaderos, que
+puedan abastecer durante la construcción del proyecto Construcción de la Presa
+Aricoma.
+
+
+4.4.2. TRABAJOS REALIZADOS
+Los trabajos realizados referentes al estudio de canteras son los siguientes:
+ a). CAMPO. Los trabajos de campo consistieron en visitar, explorar, verificar y
+ hacer los muestreos respectivos de cada una de las canteras seleccionadas,
+ para realizar los ensayos en laboratorio de mecánica de suelos y concreto para
+ determinar la calidad y las propiedades física - mecánicas de los materiales de
+
+
+                                                                                                                                                58
+ cada una de las canteras propuestos para el Proyecto de Construcción de la
+ Presa Aricoma.
+
+ b). LABORATORIO. De las muestras obtenidas en el campo se realizaron sus
+ respectivos ensayos de laboratorio tales como la determinación de humedad,
+ granulometría, Límite Líquido, Límite Plástico, las respectivas clasificaciones y
+ diseños de Mezcla para suelo y concreto en el laboratorio de Programa
+ Regional de Riego y Drenaje PRORRIDRE perteneciente al Gobierno Regional
+ de Puno.
+
+
+4.4.3. CANTERAS PARA LA PRESA ARICOMA
+
+
+En total se localizaron nueve (09) zonas de canteras, las que se indican a
+continuación.
+
+
+
+
+                                                                               59
+                                                                                           CUADRO - XIX
+                                Ubicación                   Acceso                                                           Rend.
+                                                                                           Area       Espesor   Volum en                             APERTURA DE MANTENIMIENTO                         Origen del
+Nº    N0MBRE DE CANTERAS           Km .           Estado          Longitud        Lado                                                  Utilidad                                      Tratam iento
+                                                                                                                              %                        ACCESO      DE ACCESO                            Mterial
+                                                                     (Km )                  (m 2)       (m )       (m 3)
+1.00 MATERIAL DE AGREGADO
+                                                                                                                                       CONGRETO
+                               EN EL TRAMO                                                                                            HIDRAULICO,    0.500 KM DESDE
+    MATERIAL AGREGADO           CRUCERO -       REGULAR A    21.00 DESDE EL EJE                                                       FILTRO, DREN       LA VIA     21 KM DESDE EL ACUMULACION
+1.1                                                                             Der./Izq. 16,000.00     1.5     24,000.00    80%                                                                         ALUVIAL
+    CA-01 (RIO CRUCERO)         LIMBANI A          MAL           DE PRESA                                                             AFIRMADO Y        CRUCERO -    EJE DE PRESA  Y ZARANDEO
+                             KM=1+000 - 2+000                                                                                          CAMA PARA         LIMBANI
+                                                                                                                                       ENROCADO
+
+2.00 CANTERAS DE MATERIAL NUCLEO DE PRESA
+
+
+
+      MATERIAL DE NUCLEO       EN EL TRAMO       REGULAR A                                                                             NUCLEO Y
+                                                           3.50 DESDE EL EJE                                                                                        3.00 KM. DESDE ACUMULACION          RESIDUAL
+2.1     DE PRESA ML-01          CRUCERO -       MAL TROCHA                                                                             MEZCLA DE        0.2 KM.
+                                                               DE PRESA           Der.   40,000.00       5      200,000.00   80%                                   EL EJE DE PRESA Y ZARANDEO           GLACIAL
+        (VIZYANE ORJO)           LIMBANI        CARROSABLE                                                                             AFIRMADO
+
+
+
+
+      MATERIAL DE NUCLEO       EN EL TRAMO                                                                                             NUCLEO Y
+                                                REGULAR A     3.00 DESDE EL EJE                                                                                     1.00 KM. DESDE ACUMULACION          RESIDUAL
+2.2     DE PRESA ML-02          CRUCERO -                                                                                              MEZCLA DE        1.00 KM.
+                                                   MAL.           DE PRESA        Der.   80,000.00       5      400,000.00   80%                                   EL EJE DE PRESA Y ZARANDEO           GLACIAL
+         (COITOPINA)             LIMBANI                                                                                               AFIRMADO
+
+
+
+                                 MARGEN
+      MATERIAL DE NUCLEO                                                                                                               NUCLEO Y
+                              EZQUIERDO DEL     REGULAR A     1.50 DESDE EL EJE                                                                                     1.00 KM. DESDE ACUMULACION          RESIDUAL
+2.3     DE PRESA ML-03                                                            Der.   80,000.00       6      480,000.00   85%       MEZCLA DE        1.00 KM.
+                             EJE DE PRESA KM       MAL.           DE PRESA                                                                                         EL EJE DE PRESA Y ZARANDEO           GLACIAL
+         (CONCUYOC)                                                                                                                    AFIRMADO
+                                  0+800
+
+
+3.00 CANTERAS DE ROCA
+                              EN EL MARGEN
+                             DERECHO DE LA                     A 7.00 DESDE EL                                                         ENROCADO,
+                                                                                                                                                                                        ACOPIO,           ROCA
+    CANTERA DE ROCA CR-        LAGUNA DE          MAL A       EJE DE PRESA Y A                                                       OBRAS DE ARTE 2.00 KM DESDE 7.00 KM DESDE LA
+3.1                                                                               Der.   90,000.00       2      180,000.00   80%                                                      SELECCIÓN Y      SEDIM ENTA RI
+        01 (COCAÑA)            ARICOMA EN        REGULAR        3.00 DE RESA                                                               Y       EJEN DE PRESA   EJE DE PRESA                             A
+                                                                                                                                                                                       VOLADURA
+                            DIRECCION AGUAS                        COCAÑA                                                            COMENTACIONES
+                                 ABAJO.
+                           EN EL MARGEN
+                         IZQUIERDO DE LA
+                            LAGUNA DE
+                                                                                                                                       ENROCADO,
+                            ARICOMA EN                                                                                                               0.30 KM DESDE
+    CANTERA DE ROCA CR-                           MAL A       A 7.50 DESDE EL                                                        CIMENTACIONES                 7.50 KM DESDE LA VOLADURA Y           ROCAS
+3.2                     DIRECCION AGUAS                                           Izq.    5,000.00       6      30,000.00    85%                       LA TROCHA
+        02 (PLUTON)                              REGULAR       EJE DE PRESA                                                            Y OBRAS DE                    EJE DE PRESA    SELECCIÓN         VOLCANICA
+                        ABAJO Y MI DE LA                                                                                                             CARROZABLE
+                                                                                                                                          ARTE
+                            CARRETERA
+                             CRUCERO -
+                              LIMBANI
+                           EN EL MARGEN
+                         IZQUIERDO DE LA
+                            LAGUNA DE                                                                                                                                                                    ROCAS
+                                                                                                                                       ENROCADO,
+                            ARICOMA EN                                                                                                               0.50 KM DESDE                                     VOLCANICA
+    CANTERA DE ROCA CR-                           MAL A       A 10.00 DESDE EL                                                       CIMENTACIONES                 8.50 KM DESDE LA     ACOPIO,
+3.3                     DIRECCION AGUAS                                           Izq.   60,000.00       5      300,000.00   80%                       LA TROCHA                                            Y
+            03                                   REGULAR        EJE DE PRESA                                                           Y OBRAS DE                    EJE DE PRESA      SELECCIÓN
+                        ABAJO Y MI DE LA                                                                                                             CARROZABLE                                        SEDIMENTARI
+                                                                                                                                          ARTE
+                            CARRETERA                                                                                                                                                                       A
+                             CRUCERO -
+                              LIMBANI
+4.00 FUENTE DE AGUA
+
+                                  EN LAS                                                                                                CONGRETO
+                                                                                                                                                     0.200 KM DESDE
+      FUENTE DE AGUA FA - 01 INMEDIACIONES DE   REGULAR A     PROMEDIO DE 0.20                                                         HIDRAULICO,                  0.200 KM DESDE
+                                                                                  Izq.                PERMANENTE             100%                       EL EJE DE                   BOMBEO               LAGUNA
+4.1     (LAGUNA ARICOMA)        LA LAGUNA          MAL             KM.                                                                TERRAPLEN Y                   EL EJE DE PRESA
+                                                                                                                                                         PRESA
+                                 ARICOMA                                                                                                 CURADO
+
+5.00 BOTADEROS
+
+                               EN EL TRAMO       REGULAR A                                                                              RELLENO                                       COMPACTADO
+          BOTADERO 01                                      1.50 DESDE EL EJE      Der.    5,000.00       4      20,000.00    100%
+6.1                             CRUCERO -       MAL TROCHA                                                                                                                            EN CAPAS DE       RELLENO
+          (CONCUYOC)                                           DE PRESA
+                                 LIMBANI        CARROSABLE                                                                                                                            0.20 Y 0.25 M.
+
+
+
+
+                 4.4.4. CANTERA DE AGREGADOS PARA CONCRETO Y DISEÑO DE MESCLAS
+                 (MA – 1)
+
+                      4.4.4.1. UBICACIÓN:
+
+                        Se ubica en el discurso del                                                   río Crucero, a 21 Km de la zona de
+                      emplazamiento del eje de presa Aricoma, a 5 Km. MD. De la carretera a
+                      Limbani.
+
+                                                                                                                                                                                           60
+          Coordenadas UTM :
+
+                          NORTE        : 8´408,260
+
+                          ESTE          : 398,733
+
+4.4.4.2. ACCESIBILIDAD:
+
+Desde la población de Crucero, por la carretera que conduce a Limbani, por la
+MD. Tomando una trocha carrozable hacia el río Crucero.
+
+Requiere realizar aperturas que dependerán de los frentes de trabajo, en
+algunos tramos presenta regulares condición de accesibilidad donde se
+requiere mantenimiento de los accesos, en +/- 500m.
+
+4.4.4.3. DESCRIPCIÓN DE MATERIAL
+
+El material se sitúa en el discurso del río Crucero, básicamente en las playas
+formadas, se ubica tanto en la margen derecha e izquierda.
+
+4.4.4.4. MODO DE EXPLOTACIÓN EN CAMPO
+
+Permanente en periodos de estiaje, en épocas de avenida es limitado, se debe
+utilizar maquinaria para su acumulación, requiere selección (zarandeo), y
+lavado de los estratos inferiores (contaminados con lama provenientes de la
+explotación de los yacimientos mineros de la Rinconada),     cuidando de no
+sobrepasar los límites del estrato estudiado, a fin de no contaminarlo con los
+materiales subyacentes.
+
+Se requerirá de zarandeo solo en algunos casos y estratos específicos que
+excedan de los diámetros permitidos.
+
+4.4.4.5. USOS:
+
+                Elaboración de concreto masivo.
+                Requiere de mezcla con un material cohesivo, para ser
+                 utilizado como material de afirmado, capa semipermeable.
+
+                                                                            61
+               Para la formación de la base de los caminos de servicio y
+                acceso a la cantera y tránsito de obra, también se usarán
+                estos materiales.
+4.4.4.6. VOLUMEN:
+
+            Potencia útil                          :           +/- 0.95 m
+            Volumen bruto                              :       10 000 m3
+            Volumen efectivo (castigo 20%):                     8 000 m3
+            Rendimiento                                    :    80%
+
+
+
+         OTRO: Se necesita de zarandeo a partir de la malla 3”.
+
+
+
+
+                       FOTO: 06 Cantera de Agregados Río Crucero, aguas arriba y
+                                      debajo de la zona ubicada.
+
+
+
+
+4.4.5. CANTERA PARA NUCLEO DE LA PRESA. (MATERIAL LIGANTE ML-
+01 (VIZYANE ORJO))
+
+  4.4.5.1. UBICACIÓN
+
+   Se ubica a 3.5 km. MD de la margen derecha de la carretera que conduce a
+   Limbani.
+
+
+
+
+                                                                                   62
+     4.4.5.2. ACCESIBILIDAD
+
+       Requiere apertura de acceso 200m. Mantenimiento de accesos +/- 3.0 Km.
+       (carretera a Limbani).
+
+     4.4.5.3. DESCRIPCIÓN
+
+       Los materiales impermeables que se emplearán como núcleo de presa se
+       localizan en depósitos glaciofluviales derivados de la acción glaciar de la
+       cordillera (nevado Aricoma), constituidos por arenas limosas.
+
+       Geotécnicamente, presenta un suelo cohesivo de mediana compresibilidad,
+       de tonalidad amarillenta.
+
+     4.4.5.4. PERIODO Y MODO DE EXPLOTACIÓN
+
+       Permanente, utilizando maquinaria de extracción y selección.
+
+       Requiere desbroce de material orgánico de 30 a 40 cm.
+
+     4.4.5.5. CARACTERISTICAS FISICAS
+
+                                                            CUADRO - XX
+                                                                     LIMITES DE
+                                     GRANULOMETRIA % QUE                                                       PROCTOR MODIFICADO
+UBICACIÓN EN KM. PARA CANTERAS DE                                   CONSISTENCIA          CLASIFICACION
+                                            PASA
+              NUCLEO                                              L.L.    L.P.     IP                            M.D.S.    C.H.O.
+                                    # 200   # 40     #4     #2    (%)     (%)     (%)     SUCS    AASHTO        (gr/cc.)    (%)
+MATERIAL DE NUCLEO DE PRESA ML-01
+                                    53.09   64.36   82.67   100   32.62   22.14   10.47    ML      A-4 ( 4 )      2.15     11.10
+         (VIZYANE ORJO)
+
+
+     4.4.5.6. USOS
+
+       Una vez realizada la selección se podrá emplear como material para la
+       conformación del núcleo de presa.
+
+                 Conformación del núcleo de presa.
+                 Material de reemplazo (previa mezcla con material granular),
+                 Material de relleno. (previa mezcla con material granular)
+                 Material de afirmado. (previa mezcla con material granular)
+     4.4.5.7. VOLUMEN
+
+                      Potencia útil                                                :           +/- 10 m
+                      Volumen bruto                                                :           200 000 m3
+                      Volumen efectivo (castigo 20%)                               :           160 000 m3
+                      Rendimiento                                                  :             80%
+
+                                                                                                                               63
+ 4.4.5.8. OBSERVACIONES
+
+  El material requiere selección y zarandeo.
+
+                                        CUADRO – XXI
+Cuadro Nº 01
+Características Recomendadas
+                                         Características del Material
+                                                                               Observaciones
+                                         CANTERA VIZYANE ORJO
+(Según R. Dal-Ré Tenreiro)
+SUCS                  SC, SM, CL, ML     SUCS                    ML            Cumple
+Tamaño máx.           75 a 125 mm.       Tamaño máx.             90 mm.        Está en el rango
+% de Finos            > a 25%            % de Finos              53.09         Cumple
+Límite Líquido        < a 50             Límite Líquido          32.62         Cumple
+Índice de Plasticidad > a 10             Índice de Plasticidad   10.47         Cumple
+                                                                               Está en el rango
+                       -7          -5                              -5     -8
+Permeabilidad        10 ≤ K ≤ 10         Permeabilidad           10 – 10       según su clasificación
+                                                                               SUCS
+
+
+4.4.6. MATERIAL LIGANTE ML-02 (COITOPINA)
+
+ 4.4.6.1. UBICACIÓN
+
+  Se ubica a 3.0 km. MD de la margen derecha de la carretera que conduce a
+  Limbani.
+
+ 4.4.6.2. ACCESIBILIDAD
+
+  Requiere apertura de acceso 1000m. Mantenimiento de accesos +/- 1.0
+  Km. (carretera a Limbani).
+
+ 4.4.6.3. DESCRIPCIÓN
+
+  Los materiales impermeables que se emplearán como núcleo de presa se
+  localizan en depósitos glaciofluviales derivados de la acción glaciar de la
+  cordillera (nevado Aricoma), constituidos por arenas limosas.
+
+  Geotécnicamente, presenta un suelo cohesivo de mediana compresibilidad,
+  de tonalidad amarillenta.
+
+ 4.4.6.4. PERIODO Y MODO DE EXPLOTACIÓN
+
+  Permanente, utilizando maquinaria de extracción y selección.
+
+  Requiere desbroce de material orgánico de 30 a 40 cm.
+
+
+
+
+                                                                                                64
+    4.4.6.5. CARACTERÍSTICAS FÍSICAS
+
+                                                            CUADRO - XXII
+                                                                        LIMITES DE
+                                         GRANULOMETRIA % QUE                                                        PROCTOR MODIFICADO
+UBICACIÓN EN KM. PARA CANTERAS DE                                      CONSISTENCIA            CLASIFICACION
+                                                PASA
+              NUCLEO                                                 L.L.    L.P.        IP                           M.D.S.    C.H.O.
+
+                                    # 200    # 40      #4       #2   (%)     (%)         (%)   SUCS   AASHTO         (gr/cc.)    (%)
+MATERIAL DE NUCLEO DE PRESA ML-02
+                                    25.13    38.86    65.05    100   32.84   22.83   10.01      SM    A-2-4 ( 0 )      2.13     10.70
+           (COITOPINA)
+
+
+
+    4.4.6.6. USOS
+
+      Una vez realizada la selección se podrá emplear como material para la
+      conformación del núcleo de presa.
+
+                Conformación del núcleo de presa.
+                Material de reemplazo (previa mezcla con material granular),
+                Material de relleno. (previa mezcla con material granular)
+                Material de afirmado. (previa mezcla con material granular)
+    4.4.6.7. VOLUMEN
+
+               Potencia útil
+                                                                                    :         +/- 10 m
+              Volumen bruto                                                         :         400 000 m3
+              Volumen efectivo (castigo 20%)                                        :         320000 m3
+              Rendimiento                                                           :         80%
+    4.4.6.8. OBSERVACIONES
+
+      El material requiere selección y zarandeo.
+
+                                                              CUADRO - XXIII
+   Cuadro Nº 02
+   Características Recomendadas                                 Características     del   Material
+                                                                                                   Observaciones
+   (Según R. Dal-Ré Tenreiro)                                   CANTERA COITOPINA
+   SUCS                  SC, SM, CL, ML                        SUCS                     SM         Cumple
+   Tamaño máx.           75 a 125 mm.                          Tamaño máx.              90 mm.     Está en el rango
+   % de Finos            > a 25%                               % de Finos               25.13      Cumple
+   Límite Líquido        < a 50                                Límite Líquido           32.84      Cumple
+   Índice de Plasticidad > a 10                                Índice de Plasticidad    10.7       Cumple
+                                                                                                   Está en el rango
+                                    -7           -5                                       -5    -8
+   Permeabilidad                10 ≤ K ≤ 10                    Permeabilidad            10 – 10    según su clasificación
+                                                                                                   SUCS
+
+
+
+
+                                                                                                                                65
+4.4.7. MATERIAL LIGANTE ML-03 (CONCUYOC)
+ 4.4.7.1. UBICACIÓN
+
+  Se ubica a 0+800 km. MD de la margen derecha a una distancia de 1.50
+  km. Desde el eje de la presa y en la carretera que conduce a Limbani tal
+  como se observa en la foto siguiente:
+
+
+
+
+                                  FOTO: 07 CANTERA ML-03
+
+ 4.4.7.2. ACCESIBILIDAD
+
+  Requiere apertura de acceso 1000m. Mantenimiento de accesos +/- 1.0
+  Km. (carretera a Limbani).
+
+ 4.4.7.3. DESCRIPCIÓN
+
+  Los materiales impermeables que se emplearán como núcleo de presa se
+  localizan en depósitos glaciofluviales derivados de la acción glaciar de la
+  cordillera (nevado Aricoma), constituidos por arenas limosas.
+
+  Geotécnicamente, presenta un suelo cohesivo de mediana compresibilidad,
+  de tonalidad amarillenta.
+
+ 4.4.7.4. PERIODO Y MODO DE EXPLOTACIÓN
+
+  Permanente, utilizando maquinaria de extracción y selección.
+
+  Requiere desbroce de material orgánico de 30 a 40 cm.
+
+
+
+
+                                                                          66
+     4.4.7.5. CARACTERÍSTICAS FÍSICAS
+
+                                                             CUADRO - XXIV
+                                                                      LIMITES DE
+                                      GRANULOMETRIA % QUE                                                         PROCTOR MODIFICADO
+UBICACIÓN EN KM. PARA CANTERAS DE                                    CONSISTENCIA            CLASIFICACION
+                                             PASA
+              NUCLEO                                               L.L.    L.P.     IP                              M.D.S.    C.H.O.
+                                     # 200   # 40     #4     #2     (%)    (%)     (%)       SUCS    AASHTO        (gr/cc.)    (%)
+MATERIAL DE NUCLEO DE PRESA ML-03
+           (CONCUYOC)                58.46   68.24   84.97   100   30.86   19.23   11.63      ML      A-4 ( 5 )     2.175     10.8
+
+
+
+     4.4.7.6. USOS
+
+       Una vez realizada la selección se podrá emplear como material para la
+       conformación del núcleo de presa.
+
+                            Conformación del núcleo de presa.
+                            Material de reemplazo (previa mezcla con material granular),
+                            Material de relleno. (previa mezcla con material granular)
+                            Material de afirmado. (previa mezcla con material granular)
+                            Mescla de material semipermeable.
+
+
+     4.4.7.7. VOLUMEN
+
+                      Potencia útil                                                     :          +/- 10 m
+                      Volumen bruto                                                     :          480 000 m3
+                      Volumen efectivo (castigo 20%)                                    :          408 000 m3
+                      Rendimiento                                                       :          85 %
+
+
+     4.4.7.8. OBSERVACIONES
+
+       El material requiere selección y zarandeo.
+
+                                                                   CUADRO - XXV
+    Cuadro Nº 03
+    Características Recomendadas                                Características     del   Material
+                                                                                                   Observaciones
+    (Según R. Dal-Ré Tenreiro)                                  CANTERA CONCUYOC
+    SUCS                  SC, SM, CL, ML                       SUCS                     ML         Cumple
+    Tamaño máx.           75 a 125 mm.                         Tamaño máx.              90 mm.     Está en el rango
+    % de Finos            > a 25%                              % de Finos               58.46      Cumple
+    Límite Líquido        < a 50                               Límite Líquido           30.86      Cumple
+    Índice de Plasticidad > a 10                               Índice de Plasticidad    11.63      Cumple
+                                                                                                   Está en el rango
+                                      -7             -5                                    -5   -8
+    Permeabilidad                   10 ≤ K ≤ 10                Permeabilidad            10 – 10    según su clasificación
+                                                                                                   SUCS
+
+
+
+
+                                                                                                                                       67
+4.4.8. CANTERA DE ROCA PARA LA PRESA ARICOMA.
+
+     CANTERA DE ROCA CR-01 (COCAÑA)
+
+4.4.8.1. UBICACIÓN
+
+  Se localiza a l final de la laguna aricoma, en la MD de la carretera Crucero-
+  Limbani, a 7.00 Km. del eje de presa Aricoma y a 3.00 Km. De la presa
+  Cocaña.
+
+4.4.8.2. ACCESIBILIDAD
+
+  Por trocha que conduce a la Presa Cocaña Requiere apertura de acceso
+  de unos 2000 m. y un mantenimiento de vía de 7.0 Km.
+
+4.4.8.3. DESCRIPCIÓN
+
+  Roca compuesta por pizarras compactas-areniscas cuarzosas
+
+4.4.8.4. PERIODO Y MODO DE EXPLOTACIÓN
+
+  El periodo de explotación es permanente
+
+  El método de explotación debe ser acopio, selección a tajo abierto. En
+  algunos casos utilizar el uso de explosivos es necesario.
+
+  Los rendimientos de cantera tendrán un 40% de dilución por manipuleo
+  sobre fragmentación y explotación selectiva.
+
+4.4.8.5. USOS
+
+             Enrocados de protección
+             
+
+            Enrocados de consolidación,
+            Otros.
+4.4.8.6. VOLUMEN
+
+  Los rendimientos de cantera tendrán un 40% de dilución por manipuleo
+  sobre fragmentación y explotación selectiva.
+
+                Potencia útil                  :      +/- 50 m
+                Volumen bruto                  :      180 000 m3
+                Volumen efectivo               :      144 000m3
+                Rendimiento                    :      80%
+
+
+                                                                            68
+4.4.9. CANTERA DE ROCA CR-02 (PLUTON)
+
+ La cantera de roca propuesta CR-02 para los diferentes trabajos de la
+ estructura que compondrá la Presa Aricoma como son: espaldones de presa,
+ obras de artes, cimentaciones menores, enrocadas y otros. Se localiza en el
+ margen izquierdo de la laguna de aricoma en dirección aguas abajo y mi de
+ la carretera crucero y tienen las siguientes características:
+
+       Litología                        : roca volcánicas de grano fino de
+         colores gris oscuro, con baja fracturación y poca alteración.
+       Pesos específicos (s.s.s.)       : 2.58 - 2.59 (Alto)
+       Porcentaje de Absorción             : 2.25 - 2.55 (Bajo)
+       Pérdida por Intemperismo            : 10.00 a 12.00 %.
+       Abrasión Los Ángeles                : Pérdida inferior a 30%.
+       Calidad geomecánica                 : Mediana a Buena
+       Distancias                          : A 7.50 km. Desde el eje de Presa
+       Mantenimiento                       : Mejorar la carretera 300m.hacia el
+          c°.
+       Volumen explotable                  : 30 000 m3
+       Coordinar con los propietarios de la comunidad.
+
+4.4.10. CANTERA DE ROCA CR-03.
+
+ 4.4.10.1. UBICACIÓN
+
+  Se localiza a l final de la laguna aricoma, en la MD de la carretera Crucero-
+  Limbani, a 10.0 Km. del eje de presa proyectado.
+
+         Coordenadas UTM.
+
+                                      8´419 101 N
+
+                                       414 740 E
+
+
+
+
+                                                                             69
+4.4.10.2. ACCESIBILIDAD
+
+ Por la carretera que conduce a Limbani y se desarrolla por un costado de la
+ laguna Aricoma, de allí hasta 100m. Requiere apertura de acceso de unos
+ 200m. y mantenimiento de vía 4 .0 Km.
+
+4.4.10.3. DESCRIPCIÓN
+
+ Roca compuesta por pizarras compactas-areniscas cuarzosas
+
+4.4.10.4. PERIODO Y MODO DE EXPLOTACIÓN
+
+ El periodo de explotación es permanente
+
+ El método de explotación debe ser a tajo abierto, con apertura de frentes de
+ cantera en la parte inferior de la ladera para aprovechar la caída de bloques
+ por gravedad, el uso de explosivos es necesario.
+
+ Los rendimientos de cantera tendrán un 30% de dilución por manipuleo
+ sobre fragmentación y explotación selectiva.
+
+4.4.10.5. CLASIFICACIÓN
+
+ El afloramiento es tipo de los materiales que constituyen la cordillera y el
+ nevado Aricoma, conformado por pizarras y areniscas cuarzosas, de grano
+ medio,
+
+4.4.10.6. USOS
+
+            Enrocados de protección.
+            Enrocados de consolidación,
+            Otros.
+4.4.10.7. VOLUMEN
+
+ Los rendimientos de cantera tendrán un 30% de dilución por manipuleo
+ sobre fragmentación y explotación selectiva.
+
+               Potencia útil                  :      +/- 50 m
+               Volumen bruto                  :      300 000 m3
+               Volumen efectivo               :      240 000m3
+               Rendimiento                    :      80%
+
+
+
+
+                                                                           70
+      4.4.11. FUENTE DE AGUA (FA-1)
+
+         4.4.11.1. UBICACIÓN
+
+           Se encuentra en la zona del proyecto y a lo largo de la escorrentía
+           superficial del río que es formado por las aguas que discurren de la laguna
+           aguas debajo
+
+           Las aguas de las lagunas Aricoma, Viluyo Ccocha y Cocaña Ccocha,
+           servirán del mismo modo para la elaboración de concretos, curados,
+           compactación, etc.
+
+
+
+
+                                                                     FOTO: 08 FUENTE DE AGUA
+
+
+       4.4.12. BOTADEROS
+
+         Se localizó 01 botaderos donde se detallan en el siguiente cuadro de
+         resumen:
+                                                                 CUADRO - XXVI
+                            Ubicación               Acceso                                                       Rend.
+                                                                                 Area      Espesor   Volum en                                        Origen del
+Nº    N0MBRE DE CANTERAS      Km .         Estado        Longitud        Lado                                            Utilidad   Tratam iento
+                                                                                                                  %                                   Mterial
+                                                             (Km )               (m 2)       (m )      (m 3)
+1.00 BOTADEROS
+
+                           EN EL TRAMO    REGULAR A                                                                      RELLENO    COMPACTADO
+         BOTADERO 01                                3.50 DESDE EL EJE    Der.   5,000.00      4      20,000.00   100%
+6.1                         CRUCERO -    MAL TROCHA                                                                                 EN CAPAS DE       RELLENO
+         (CONCUYOC)                                     DE PRESA
+                             LIMBANI     CARROSABLE                                                                                 0.20 Y 0.25 M.
+
+
+
+
+                                                                                                                                               71
+4.4.13. DISEÑO DE DOS SUELOS Y CONCRETO
+
+ 4.4.13.1.   DISEÑO      DE        SUELOS              PARA            AFIRMADO     Y   CAPA
+ SEMIPERMEABLE DE LA PRESA.
+
+  Este trabajo consiste en el suministro de transporte, colocación y
+  compactación de los materiales de afirmado para la presa y carretera. Los
+  agregados para la construcción deberán ajustarse a las siguientes franjas
+  Granulométricas en afirmado.
+
+                                 CUADRO - XXVII
+
+                                      ABERTURA
+                                                           ESPECIFICACIONES
+                   N° DE MALLAS       DE MALLAS
+                                                            PARA AFIRMADO
+                                       EM m m .
+
+                       11/2"              3 8 .10 0       100.00            100
+                         1"               25.400           90.00            100
+                        3/4"              19.050            65              100
+                        3/8"               9.525            45               80
+                        Nº4                4.760            30               65
+                        Nº10               2.000            22               52
+                        Nº40               0 .4 2 6         15               35
+                       Nº200               0 .0 7 4          0               20
+
+ Los materiales para capa semipermeable de la presa para la construcción
+ deberán ajustarse a las siguientes franjas Granulométricas:
+
+                                     CUADRO - XXVIII
+
+                      E S P E C IF IC A C ION E S C A P A S E M IP E R M E A B LE
+
+                                   ABERTURA
+                        Nº            DE              ESPECIFICACIONES
+                      MALLAS        MALLAS              (DAPENA 1994)
+                                    EN mm.
+                       11/2"          38.100          100.00             100
+                         1"           25.400           80.00             100
+                        3/4"          19.050             70               90
+                        3/8"           9.525             55               80
+                        Nº4            4.760             50               70
+                        Nº10           2.000             40               60
+                        Nº40           0.426             30               50
+                       Nº200           0.074             20               40
+
+
+
+
+                                                                                          72
+4.4.13.1.1. AFIRMADO: ML-03 (CONCUYOC) 25 % Y AGREGADO CA-01
+(RIO CRUCERO) 75 %.
+
+  Esta dos canteras se utilizaran como afirmado en combinación de ambos cumple,
+  según las especificaciones técnicas como relleno, en el siguiente grafico se ve que
+  entra en los parámetros especificados.
+
+                                              CUADRO - XXIX
+                                                                                M E Z C LA D E 0 2 S UE LO S
+                        ARCILLA                      RIO CRUCERO                P A R A C UB E R T UR A D E
+                                                                                 N UE C LE O D E P R E S A
+  TAMIZ EN            (CONCUYOC)                     (HORMIGON)                               ESPECIFICA
+    mm.                                                                         % Q. P A SA     CIONES
+                    PESO                          PESO
+                  RETENIDO
+                           % QUE PASA    25     RETENIDO
+                                                           % QUE PASA    75      D IS E ÑO    (AFIRMADO
+                                                                                                   )
+ 3"      76.200               0.00                            0.00                100.00
+2 1/2"   63.500               0.00                            0.00                100.00
+ 2"      50.800    0.00      100.00     25.00     0.00       100.00     75.00     100.00
+11/2"    38.100    0.00      100.00     25.00    305.45       92.08     69.06     94.06             100
+  1"     25.400    0.00      100.00     25.00    917.00       68.30     51.22     76.22           90 - 100
+3/4"     19.050    0.00      100.00     25.00    294.80       60.65     45.49     70.49           65 - 100
+ 1/2"    12.700    89.08     95.96      23.99    371.85       51.01     38.26     62.25
+3/8"     9.525     53.23     93.55      23.39    251.62       44.48     33.36     56.75           45 - 80
+ 1/4"    6.350
+ #4      4.760    139.61     87.22      21.81    341.00      35.64      26.73     48.54           30 - 65
+ #8      2.380
+# 10     2.000    148.91     80.48      20.12    470.00      23.45      17.59     37.71           22 - 52
+# 16     1.190
+# 20     0.840    112.91     75.36      18.84    205.00      18.13      13.60     32.44
+# 30     0.590
+# 40     0.420    107.40     70.49      17.62    399.00       7.79      5.84      23.46           15 - 35
+# 50     0.295
+# 60     0.250
+# 80     0.180
+# 100    0.149    133.31     64.45      16.11    220.00       2.08      1.56      17.67
+# 140    0.105
+# 200    0.074     82.50     60.71      15.18    11.92        1.77      1.33      16.51            0 - 20
+
+
+
+
+                                                                                                               73
+CANTERA
+                                                     GRAFICO - FECHA
+              : M L-03 (CONCUYOC) Y A GREGA DO CA -01(RIO      03                       : JULIO DEL 2012
+              CRUCERO)
+
+
+                                        CURVA GRANULOMETRICA
+                                                                                                                      100
+                                                                                  LIGANTE
+                                                                                                                      90
+                                                                                                                      80
+                                                                                                                      70
+
+
+
+
+                                                                                                                              % QUE PASA
+                                                                                                                      60
+              AGREGADO                                                                                                50
+                                                                                                                      40
+                                                                                                                      30
+                           ESPECIFICACIONES TECNICAS                                                                  20
+                                                                                                                      10
+                                                                        MATERIAL DISEÑADO
+                                                                                                                     0
+     70.000                            7.000                              0.700                                 0.070
+                                       ABERTURA DE MALLAS EN (mm)
+
+
+                                                  CUADRO - XXX
+                                                                   LIMITES DE
+                                GRANULOMETRIA % QUE                                                                 PROCTOR MODIFICADO
+   UBICACIÓN EN KM. PARA                                          CONSISTENCIA              CLASIFICACION
+                                       PASA
+         AFIRMADO                                               L.L.     L.P.     IP                                  M.D.S.                C.H.O.
+                               # 200   # 40     #4      #2      (%)      (%)      (%)       SUCS     AASHTO          (gr/cc.)                   (%)
+  LIGANTE (CONCUYOC) 25 % Y
+                               16.51   23.46   48.54   100.00   26.08   20.18   5.90        GM        A-1-b ( 0 )      2.22                 8.00
+AGREGADO DE RIO CRUCERO 75 %
+
+      4.4.13.1.2. CAPA SEMIPERMEABLE: ML-03 (CONCUYOC) 60% Y
+      AGREGADO CA-01 (RIO CRUCERO) 40 %.
+        Esta dos canteras se utilizaran para el capa semipermeable por qué en
+        combinación de ambos cumple, según las especificaciones técnicas como
+        relleno, en el siguiente grafico se ve que entra en los parámetros
+        especificados.
+
+
+
+
+                                                                                                                                           74
+               : M L-03 (CONCUYOC) Y A GREGA DO CA -01(RIO   GRAFICO  - 04
+CANTERA        CRUCERO)
+                                                                  FECHA              : JULIO DEL 2012
+
+
+
+                                         CURVA GRANULOMETRICA
+                                                                                                                    100
+                                                                                LIGANTE
+                                                                                                                    90
+                                                                                                                    80
+                                                                                                                    70
+
+
+
+
+                                                                                                                            % QUE PASA
+                                                                                                                    60
+               AGREGADO                                                                                             50
+                                                                                                                    40
+                                                                                                                    30
+                                                                           MATERIAL DISEÑADO                        20
+                             ESPECIFICACIONES TECNICAS
+
+                                                                                                                    10
+                                                                                                                  0
+    70.000                             7.000                            0.700                                0.070
+                                       ABERTURA DE MALLAS EN (mm)
+
+
+                                                     CUADRO - XXXI
+                                                                                               M E Z C LA D E 0 2 S UE LO S
+                              ARCILLA                            RIO CRUCERO                   P A R A C UB E R T UR A D E
+                                                                                                N UE C LE O D E P R E S A
+       TAMIZ EN             (CONCUYOC)                           (HORMIGON)                                  ESPECIFICA
+         mm.                                                                                   % Q. P A SA     CIONES
+                          PESO                             PESO
+                        RETENIDO
+                                 % QUE PASA     60       RETENIDO
+                                                                      % QUE PASA          40    D IS E ÑO     (DAPENA
+                                                                                                                1994)
+       3"      76.200               0.00                                 0.00                    100.00
+      2 1/2"   63.500               0.00                                 0.00                    100.00
+       2"      50.800    0.00      100.00      60.00          0.00      100.00        40.00      100.00
+      11/2"    38.100    0.00      100.00      60.00         305.45      92.08        36.83      96.83             100
+        1"     25.400    0.00      100.00      60.00         917.00      68.30        27.32      87.32           80 - 100
+      3/4"     19.050    0.00      100.00      60.00         294.80      60.65        24.26      84.26           70 - 90
+       1/2"    12.700    89.08     95.96       57.58         371.85      51.01        20.40      77.98
+      3/8"     9.525     53.23     93.55       56.13         251.62      44.48        17.79      73.92           55 - 80
+       1/4"    6.350
+       #4      4.760    139.61     87.22       52.33         341.00     35.64         14.26       66.59          50 - 70
+       #8      2.380
+      # 10     2.000    148.91     80.48       48.29         470.00     23.45         9.38        57.67          40 - 60
+      # 16      1.190
+      # 20     0.840    112.91     75.36       45.22         205.00     18.13         7.25        52.47
+      # 30     0.590
+      # 40     0.420    107.40     70.49       42.30         399.00      7.79         3.11        45.41          30 - 50
+      # 50     0.295
+      # 60     0.250
+      # 80      0.180
+      # 100     0.149   133.31     64.45       38.67         220.00      2.08         0.83        39.50
+      # 140     0.105
+      # 200    0.074     82.50     60.71       36.43         11.92       1.77         0.71        37.14          20 - 40
+
+
+
+
+                                                                                                                                         75
+                                                   CUADRO – XXXII
+                                                                       LIMITES DE
+                                    GRANULOMETRIA % QUE               CONSISTENCIA         CLASIFICACION       PROCTOR MODIFICADO
+   UBICACIÓN EN KM. PARA CAPA
+         SEMIPERMEABLE                     PASA                     L.L.    L.P.     IP                          M.D.S.    C.H.O.
+                                   # 200   # 40     #4      #2      (%)     (%)     (%)    SUCS   AASHTO        (gr/cc.)    (%)
+LIGANTE (CONCUYOC) 60 % Y AGREGADO
+                                   37.14   45.41   66.59   100.00   29.72   20.18   9.54   GM      A-4 ( 0 )      2.21      8.20
+         DE RIO CRUCERO 40 %
+
+
+
+
+     4.4.13.2. DISEÑO DE CONCRETO (CANTERA RIO CRUCERO CA-01).
+       Las canteras propuestas para la realización de concreto hidráulicos son las
+       siguientes:
+
+       El requerimiento promedio de resistencia a la compresión que se diseñaran
+       serán a Fc=140, 175, 210 Kg/Cm2, entonces para nuestro diseño la
+       resistencia promedio será de 210, 245, 294 Kg/Cm2.
+
+       Las condiciones de colocación para las estructuras de nuestras obras la
+       colocación de un asentamiento de 3” – 4” (76.2 mm. a 101.6 mm.).
+
+       En el caso del agregado grueso hay varios husos y se emplea el que se
+       adecue más a la granulometría del agregado, o sea que comprenda el mayor
+       número de tamices que incluya la muestra. Para graficar el huso y la
+       granulometría del agregado.
+
+       Nuestro tamaño máximo será el diámetro del tamiz inmediato superior al que
+       retiene 15% o más en porcentaje acumulado retenido en nuestras canteras
+       tienen un tamaño máximo de 11/2” y 2” en algunos casos por esta razón en
+       algunos casos se necesitaran zarandear utilizando la malla 11/2” para
+       obtener un tamaño máximo de 1” y nuestro diseño será de 1”.
+
+       El cemento que utilizaremos será el cemento portland tipo IP que es el más
+       comercial y adecuado para nuestras estructuras que serán en obra, también
+       la cantidad de bolsas son iguales por ser diseñados con un solo tamaño
+       máximo que es 1”. Tal como se observa en el cuadro siguiente:
+
+
+                                                                                                                           76
+                                                                    CUADRO - XXXIII
+                                                                                       CANTERA AGREGADO 01
+                                                                                              (CRUCERO)
+                                                              ESFUERZO EN
+                                                                                     CANTIDAD DE
+                                                                kg/cm2                              CANTIDAD DE
+                                                                                      CEMENTO
+                                                                                                      BOLSAS
+                                                                                        kg/m3
+                                                                  140                  289.32            6.81
+                                                                  175                  326.67            7.69
+                                                                  210                  379.63            8.93
+
+
+ Para esto además se indicara las pruebas de laboratorio para los agregados
+ realizados previamente que son los siguientes:
+
+4.4.13.2.1. MATERIAL DE AGREGADO 01
+
+                                                                  CUADRO - XXXIV
+                              DESCRIPCION                                               CEMENTO                  AGREGADOS
+                                                                      UNIDAD
+        PROCEDENCIA                    RIO CRUCERO                                       TIPO IP         FINO                GRUESO
+
+        TAMAÑO MAXIMO NOMINAL                                           Pulg.                            1/16                  1"
+
+        PESO UNITARIO SUELTO                                           Kg/m³                             1527                 1530
+
+        PESO UNITARIO COMPACTO                                         Kg/m³                             1722                 1601
+
+        PESO ESPECIFICO                                                gr/cm³             2.96           2.30                 2.55
+
+        ABSORCION                                                        %                               3.35                 2.32
+
+        MODULO DE FINURA                                                                                 3.34                 7.18
+
+        CONTENIDO DE HUMEDAD                                             %                               4.57                 3.63
+
+
+
+ Una vez determinado las cantidades de agua, cemento y agregados que
+ constan en acápite de anexos certificado de diseño de mezclas, los
+ materiales restantes para completar a un m3 de concreto consistirán en
+ arena y el atrapado. La cantidad de arena requerida se puede determinar
+ sobre la base del volumen absoluto como se muestra a continuación:
+
+ MATERIAL DE AGREGADO 01
+           140 Kg/Cm2                                           CUADRO – XXXV
+                                     P E S O E S T IM A D O        V O LUM E N            D IS E ÑO      D IS E ÑO E N          D IS E ÑO UN IT .
+        D E S C R IP C IO N
+                                            SEC O/ m³            A B S O LUT O m ³      UN IT .S E C O      OB R A                   EN OB R A
+
+CEMENTO                                      289.32                  0.0977                 1.00                289                    1.00
+
+AGREGADO FINO                                697.56                  0.3033                 2.41                729                    2.52
+
+AGREGADO GRUESO                              990.59                  0.3890                 3.42                1027                   3.55
+
+AGUA (Ltros.)                                195.00                  0.1950                 0.67                174                    0.60
+AIRE                                          1.50                   0.0150
+
+
+
+
+                                                                                                                                                    77
+                175 Kg/Cm2
+
+                                 PESO ESTIMADO              VOLUMEN              DISEÑO                 DISEÑO EN           DISEÑO UNIT.
+               DESCRIPCION
+                                    SECO/m ³           ABSOLUTO m ³            UNIT.SECO                  OBRA                  EN OBRA
+
+     CEMENTO                             326.67              0.1104                  1.00                  327                   1.00
+
+     AGREGADO FINO                       683.84              0.2973                  2.09                  715                   2.19
+
+     AGREGADO GRUESO                     971.11              0.3813                  2.97                 1006                   3.08
+
+     AGUA (Ltros.)                       196.00              0.1960                  0.60                  175                   0.54
+     AIRE                                 1.50               0.0150
+
+
+
+
+                210 Kg/Cm2
+
+                                  PESO ESTIMADO               VOLUMEN                  DISEÑO               DISEÑO EN             DISEÑO UNIT.
+               DESCRIPCION
+                                         SECO/m ³           ABSOLUTO m ³             UNIT.SECO                   OBRA               EN OBRA
+
+     CEMENTO                              379.63                 0.1283                 1.00                     380                    1.00
+
+     AGREGADO FINO                        656.74                 0.2855                 1.73                     687                    1.81
+
+     AGREGADO GRUESO                      932.62                 0.3662                 2.46                     966                    2.55
+
+     AGUA (Ltros.)                        205.00                 0.2050                 0.54                     185                    0.49
+     AIRE                                  1.50                  0.0150
+
+
+
+
+    Finalmente la dosificación por tandas será para mezcladoras de 9 pies3 y
+    se detallan en el siguiente cuadro:
+
+                                                  CUADRO - XXXVI
+                                          MATERIAL DE AGREGADO 01 (CRUCERO)
+                              140 Kg/Cm 2                                 175 Kg/Cm 2                               210 Kg/Cm 2
+         DESCRIPCION
+                             BOLSA / C= 42.5 PROPORCION BOLSA / C= 42.5 PROPORCION BOLSA / C= 42.5 PROPORCION
+     CEMENTO                      42.5                  1                    42.5                   1                   42.5                    1
+     AGREGADO FINO               107.15               2.48                   93.03                2.15                  76.88                  1.78
+     AGREGADO GRUESO             150.8                3.48                  130.93                3.03                  108.2                  2.5
+     AGUA                        25.49              25.49 Lts.               22.76              22.76 Lts               20.69             20.69 Lts.
+
+
+
+CONCLUSIONES Y RECOMENDACIONES
+
+    CONCLUSIONES
+
+   Las características geológicas-geomorfológicas y geotécnicas del vaso nos
+    señalan que no deben presentarse mayores problemas con referencia a los
+    ensayos de laboratorio.
+
+
+
+                                                                                                                                          78
+   El material de tierras firmes del área de influencia del proyecto se encuentra
+    constituido por depósitos aluviales y glaciofluviales, de composición
+    heterogénea.
+   Estructuralmente, Formación Ananea, se esta desarrollándose con
+    dirección a la cabecera de la laguna Aricoma.
+   La composición general del eje de presa presenta lutitas plomizas en
+    matrices arcillosas de coloración plomiza, horizontes que se prolongan
+    hasta profundidades mayores, proyectándose un primer tramo hasta los 7
+    metros.
+   Las especificaciones del filtro están dadas en función de las granulometrías
+    de los materiales por proteger y de los que forman el filtro, especificaciones
+    dadas por Zagi y G. E. Bertram.
+   En la zona de la cerrada de la presa Aricoma por sus características y la
+    presencia de suelos y capas con mezcla de material orgánico y limo, tendrá
+    una permeabilidad relativamente Alta en el margen derecho de la cerrada,
+    Media a Baja y Muy baja en el margen Izquierdo de la cerrada, porque
+    tenemos suelos de ML; ML-CL.
+   Las canteras a utilizarse para núcleo de presa serán las canteras de concuyoc
+    como principal opción, coitopina, vizyane orjo.
+   Las canteras designadas para afirmado y capa semipermeable son las
+    canteras de coitopina según ensayos nos da favorables para estas
+    conformaciones de afirmado.
+   Para realización de estructuras de concretos se utilizaran previo zarandeo
+    en algunos casos por tener material de boloneria en las canteras que están
+    ubicados a lo largo del rio Crucero.
+
+
+    RECOMENDACIONES
+
+       El material impermeable a utilizarse para constituir el núcleo de presa
+        será previo diseño y verificación de la cantera para que satisfagan los
+        parámetros requeridos. Sin embargo se recomienda efectuar mezclas
+
+                                                                               79
+    adicionales antes y durante la ejecución de la obra.
+   Para utilizar estas canteras, se deberá efectuar un desbroce promedio de
+    0,30 m para eliminar el material intemperizado.
+   Las canteras de roca no tienen mayores inconvenientes en cuanto a su
+    durabilidad y utilidad para la ejecución de las diferentes estructuras que
+    compondrá el proyecto en mención.
+   Debido a las características de los agregados, se recomienda que la
+    dosificación tanto de la arena como de la grava se realice en forma
+    separada.
+   El clima debe ser un factor a considerarse en durante el manejo del
+    concreto, puesto a que las temperaturas mínimas afectaran el resultado
+    de los diseños (considerando que las temperaturas del agua de mezcla
+    se recomienda que deben estar entre los rangos de 23ºC a +/- 15ºC.
+   Durante la etapa de explotación de las canteras deberá de proseguirse
+    con los ensayos, puesto que los estratos y horizontes siempre tendrán
+    variaciones.
+   Deberá realizarse pruebas fisicoquímicas, las fuentes de agua a
+    emplearse en la preparación del concreto, porque la composición de la
+    misma puede variar por el discurso de las aguas subterráneas que
+    provienen de lugares distantes, atravesando diversas formaciones.
+   De los análisis de suelos (químicos) realizados a la muestra del suelo
+    donde irán desplantadas las cimentaciones de los canales principales y
+    laterales, Bocatoma, Presa y obras de arte en la zona del Proyecto se
+    recomienda el uso de CEMENTO PORTLAND TIPO IP.
+
+
+
+
+                                                                           80
+                                   BIBLIOGRAFÍA
+
+1. BROWLES J.E. “MANUAL DE LABORATORIO DE SUELOS” 1978.
+   Ediciones Lerner Mexico
+
+2. BROWLES J.E. “PROPIEDADES GEOFÍSICAS DE LOS SUELOS” 1982
+   Ediciones Lerner México
+
+3. BROWLES J.E. “MANUAL DE LABORATORIO DE MECÁNICA DE SUELOS”
+    1982. Editorial mc Graw – hill latinoamericana Bogotá – Colombia.
+
+4. CRESPO V. C. “MECÁNICA DE SUELOS Y CIMENTACIONES” 1990 Editorial
+   limusa noriega. Mexico
+
+5. DELGADO V. “INGENIERÍA DE CIMENTACIONES” 1996 Editorial alfa omega.
+    México
+
+6. Instituto geológico minero y metalúrgico (INGEMMET), Boletín N° 84
+    “geología del Perú “cuadrángulo LIMBANI 29X
+
+7. MARTINES V. A. J. “GEOTECNIA PARA INGENIEROS “1991. Editorial UNI.
+   Lima – PERÚ
+
+8. TRONCOSO J. H. – 1997 – Fundamentos de ingeniería geotécnica antisísmica,
+    segunda edición, ediciones universidad católica de chile 144p.
+
+9. UNIVERSIDAD NACIONAL DEL ALTIPLANO PUNO 2004. Manual para
+   elaborar proyectos y tesis en pregrado. Coordinación de investigación de la
+   carrera profesional de ingeniería geológica. Puno – Perú 59p
+
+10. UNIVERSIDAD NACIONAL DE INGENIERÍA: “MANUAL DE LABORATORIO
+    DE SUELOS” 1975. UNI – Lima – PERÚ
+
+11. WASHINGTON SANDOVAL E. PH.D. 2012 presas de tierra y enrrocamiento –
+    43p.
+
+12. JUÁREZ B. E. 1996 mecánica de suelos tomo II
+
+12. JUÁREZ B. E. 1996 mecánica de suelos tomo I
+
+13. KRYNINE P.D. – 1972 principios de la geología y la geotecnia para ingenieros.
+
+                                                                               81
+14. WASHINGTON D.C. -1976 diseño de pequeñas presas.
+
+15. LUIS I. DE GONZALES DE VALLEJO ingeniería geológica.
+
+16. BRAJA M. DAS – 2001 – FUNDAMENTOS DE LA INGENIERÍA DE
+    GEOTECNIA. California Estate Sacramento.
+
+17. BRIONES GUTIÉRREZ J. “presas de tierra y enrocamiento y resistencia a la
+    falla por filtración”, lima Diciembre 1994.
+
+18. CHEREQUE M. W. “HIDROLOGÍA” 1990. Editorial PUC. Lima – Perú
+
+19. DEERE, DON U. 1963, “Technical description of Rock Core for Technical
+    purposes”.
+
+20. ESQUIVEL Z. “ANÁLISIS GEOTÉCNICO Y PROPUESTA DE CIMENTACIÓN
+    DEL PROYECTO HUANCARAMA, PRESA SOCTACOCHA” 1999. Apurimac-
+    peru.
+
+21. GOBIERNO DE ESPAÑA, MINISTERIO DE FOMENTO “GUÍA DE
+   CIMENTACIONES EN OBRAS DE CARRETERAS”, 2009.
+
+22. HEREDIA M. H. (2002) – MANUAL PRÁCTICO DEL INGENIERO CIVIL.
+    Primera edición lima 197p.
+
+23. HUANCA B. A. – 1991 – mecánica de suelos-impreso en el Perú, 412p.
+
+24. COSSIO V. J. L. – 2001-mecanica de suelos teoría y problemas-edición
+    corregido y aumentado-lima-peru-180p.
+
+25. BERRY P. L. – 1993-mecanica de suelos – Colombia – 415p.
+
+
+
+
+                                                                          82
+

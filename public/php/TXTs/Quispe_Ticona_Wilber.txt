@@ -1,0 +1,3215 @@
+TESIS UNA - PUNO                                               Universidad
+                                                               Nacional del
+                                                               Altiplano
+
+
+
+
+               UNIVERSIDAD NACIONAL DEL ALTIPLANO
+                   FACULTAD DE CIENCIAS AGRARIAS
+           ESCUELA PROFESIONAL DE INGENIERÍA AGRONÓMICA
+             DEPARTAAMENTO ACADEMICO DE AGRONOMIA Y ZOOTENIA
+
+
+
+
+                                 TESIS
+            ESTIMACIÓN DE HEREDABILIDAD, CORRELACIÓN
+        FENOTÍPICA Y GENÉTICA PARA PESO VIVO Y PESO VELLÓN
+        EN ALPACAS HUACAYA DEL CIP QUIMSACHATA, INIA - PUNO
+
+
+                            PRESENTADA POR:
+
+
+
+                         Bach. Wilber Quispe Ticona
+
+                     PARA OPTAR EL TÍTULO DE:
+
+                        INGENIERO AGRÓNOMO
+                      CON MENCIÓN EN ZOOTECNIA
+
+                                PUNO - PERÚ
+
+
+
+                                   2010
+
+
+
+                                    -1-
+TESIS UNA - PUNO         Universidad
+                         Nacional del
+                         Altiplano
+
+
+
+
+                   -2-
+TESIS UNA - PUNO                                                                          Universidad
+                                                                                          Nacional del
+                                                                                          Altiplano
+
+
+
+                                         DEDICATORIA
+
+
+
+
+        Con el más profundo amor y cariño a mis
+        queridos padres Avelino y Teodora, que
+        siempre me apoyaron en mi formación
+        personal y profesional.
+
+
+
+
+                                                         Con cariño y gratitud a mis
+                                                         hermanos (as): Jorge, Ninfa, Aurora,
+                                                         Inés, Mario e Irma, por su aliento e
+                                                         invalorable contribución en mi
+                                                         formación profesional.
+
+
+
+
+        A toda mi familia y a mis grandes amigos
+        Juan, Jaime y César.
+
+
+
+
+                                                                                      Wilber
+
+
+
+                                                   -3-
+TESIS UNA - PUNO                                                                           Universidad
+                                                                                           Nacional del
+                                                                                           Altiplano
+
+
+
+                                MI SINCERO AGRADECIMIENTO
+
+        A la Universidad Nacional del Altiplano, especialmente a la Escuela Profesional de
+        Ingeniería Agronómica, por la oportunidad de la realización de mis estudios superiores
+        y a su plana docente, por haber compartido sus sabias enseñanzas.
+
+
+
+
+        Al Ing. M. Sc. Javier Mamani Paredes, por aceptar la dirección del presente trabajo de
+        investigación y haberme orientado en esta tarea, mostrando un constante e inestimable
+        apoyo incondicional, paciencia y entusiasmo.
+
+
+
+
+        A los MVZs Teodosio Huanca Mamani, Roberto Gallegos Acero y Rubén Herbert
+        Mamani Cato, por haberme prestado una generosa ayuda en el desarrollo de este trabajo
+        como Asesores.
+
+
+
+
+        A los distinguidos miembros de jurado: Ing. Luis Amílcar Bueno Macedo, MVZ. M. Sc.
+        Uberto Ceferino Olarte Daza e Ing. M. Sc. Jesús Sánchez Mendoza, por acceder
+        amablemente a formar parte del mismo y por su contribución en los aspectos de
+        aprobación del proyecto, ejecución y redacción final del presente trabajo.
+
+
+
+
+        A mis compañeros de trabajo Ingenieros: Eloy Ccaso Quispe, Hector Chambi Condori,
+        Beltrán Ccuno Arenas, José Alberto Maquera Lope, Sergio Guillermo Guerra Diaz y
+        otros, por su comprensión y apoyo incondicional durante la ejecución del presente
+        trabajo.
+
+
+
+
+        A aquellas personas que, directa o indirectamente, han estado a mi lado durante todo
+        este tiempo, en el que me han ofrecido su amistad sin pedir nada a cambio.
+
+
+
+
+                                                                                       Wilber
+
+                                                   -4-
+TESIS UNA - PUNO                                                                          Universidad
+                                                                                          Nacional del
+                                                                                          Altiplano
+
+
+
+                                       ÍNDICE GENERAL
+                                                                                Pág.
+
+
+
+        RESÚMEN………………………………………….…………………........                                     iv
+
+        I.    INTRODUCCIÓN………………….……….………………………..                                   1
+
+        II.   REVISIÓN BIBLIOGRÁFICA…………….……………………….                                 3
+              2.1.      Clasificación taxonómica de las alpacas...……………………...... 3
+              2.2.      Población de alpacas……………………….…………………….. 3
+              2.3.      Características productivas de la alpaca…….……………………. 6
+                   2.3.1. Peso vivo…………………………….……………………                              6
+                           2.3.1.1. Peso vivo al nacimiento…….…………………...             6
+                           2.3.1.2. Peso vivo al destete………….…………………..               6
+                           2.3.1.3. Peso vivo al año de edad…………………...........       7
+                   2.3.2. Peso vellón………………………………………..............                   7
+                           2.3.2.1. Peso vellón a la primera esquila………………...        7
+              2.4.      Marco conceptual………………………………………………... 7
+                   2.4.1. Mejoramiento genético……………………………….......                   7
+                   2.4.2. Genotipo……………………………………………….…                               8
+                   2.4.3. Fenotipo………………………………………………..…                              8
+              2.5.      Parámetros genéticos…………………………………………….. 9
+                   2.5.1. Heredabilidad……………………………………….……                            9
+                           2.5.1.1. Métodos de estimación de heredabilidad….……       10
+                   2.5.2. Correlación genética (rg)………………………….............           11
+                           2.5.2.1. Métodos de estimación de correlación genética... 12
+                   2.5.3. Correlación fenotípica (rp)…………………………..........            12
+                           2.5.3.1. Métodos de estimación de correlación fenotípica  13
+                           2.5.3.2. Coeficientes de correlación………………….…..           13
+                   2.5.4. Factores ambientales modificantes…………………….….               13
+              2.6.      Valores sobre estimaciones de heredabilidad, correlaciones
+                   fenotípicas y genéticas………………………………………….…                         15
+                   2.6.1. Heredabilidad……………………………………………..                           15
+                   2.6.2. Correlaciones fenotípicas…………………………………                     16
+                   2.6.3. Correlaciones genéticas…………………………………...                    18
+
+        III. MATERIALES Y MÉTODOS……………………………………….                                   20
+             3.1. Ámbito de estudio………………………………………………....                           20
+             3.2. Material de estudio………………………………………………...                          20
+             3.3. Manejo y alimentación………………………………………….…                           21
+             3.4. Metodología……………………………………………………….                                 21
+                  3.4.1. Sistematización de datos…………………………………..                    21
+                  3.4.2. Orden, emparejamiento y clasificación de datos….….…        22
+                  3.4.3. Ajuste de datos por fecha al nacimiento…………………..           22
+                         3.4.3.1. Para peso vivo………………………………….…                     23
+                         3.4.3.2. Para peso vellón……………………………….….                   23
+                  3.4.4. Ajuste por efectos medio ambientales…………………..…             24
+                  3.4.5. Ajuste de datos por factores de corrección………………..         24
+
+                                                 -i-
+                                                -5-
+TESIS UNA - PUNO                                                                        Universidad
+                                                                                        Nacional del
+                                                                                        Altiplano
+
+
+
+                 3.4.6.  Distribución de los datos finales…………………………..             25
+                 3.4.7.  Análisis para estimar los componentes de varianza…….…     25
+                 3.4.8.  Análisis para estimar los componentes de covarianza………… 25
+                 3.4.9.  Estimación de heredabilidad (h2)…………………………                26
+                         3.4.9.1. Precisión de la estimación de la heredabilidad.… 27
+                 3.4.10. Estimación de las correlaciones………………………..…               28
+                         3.4.10.1. Correlación genética…….………………………                28
+                         3.4.10.2. Correlación fenotípica…….…………………….              28
+
+        IV. RESULTADOS Y DISCUSIÓN……………………………………..                                    30
+            4.1.       Efecto de factores fijos…………………………………………… 30
+            4.2.       Heredabilidad (h2)………………………………………………... 31
+                 4.2.1. Heredabilidad de peso vivo al nacimiento……….............      32
+                 4.2.2. Heredabilidad de peso vivo al destete…………………….                33
+                 4.2.3. Heredabilidad de peso vellón a la primera esquila………..        33
+                 4.2.4. Heredabilidad de peso vivo al año de edad……………….              34
+            4.3.       Correlaciones     fenotípica    (rp)………………………………………
+                      34
+                 4.3.1. Peso vivo al nacimiento con peso vivo al destete…………          35
+                 4.3.2. Peso vivo al nacimiento con peso vellón a la 1ra. esquila...  36
+                 4.3.3. Peso vivo al nacimiento con peso vivo al año de edad……        37
+                 4.3.4. Peso vivo al destete con peso vellón a la primera esquila.... 37
+                 4.3.5. Peso vivo al destete con peso vivo al año de edad………...       38
+                 4.3.6. Peso vellón a la 1ra. esquila con peso vivo al año de edad..  39
+            4.4.       Correlación     genética    (rg)…………………………………………...
+                      40
+                 4.4.1. Peso vivo al nacimiento con peso vivo al destete…………          41
+                 4.4.2. Peso vivo al nacimiento con peso vellón a la 1ra. esquila...  41
+                 4.4.3. Peso vivo al nacimiento con peso vivo al año de edad……        42
+                 4.4.4. Peso vivo al destete con peso vellón a la primera esquila…    43
+                 4.4.5. Peso vivo al destete con peso vivo al año de edad………...       43
+                 4.4.6. Peso vellón a la 1ra. esquila con peso vivo al año de edad..  44
+
+        V.   CONCLUSIONES……………………………………………..………                                   46
+
+        VI. RECOMENDACIONES………………………………………..……..                                  47
+
+        VII. BIBLIOGRAFIA…………..………………………………………….                                  48
+
+        VIII. ANEXOS………………………………………………………………                                      52
+
+
+
+
+                                              -ii-
+                                               -6-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+                                      ÍNDICE DE CUADROS
+
+        Cuadro 1.  Población mundial de alpacas al 2010…………………………..…                     3
+        Cuadro 2.  Población de alpacas por regiones al 2010…………………….….                  4
+        Cuadro 3.  Población de alpacas en la Región Puno………………………….                     4
+        Cuadro 4.  Población de alpacas de la provincia de Lampa al 2010…………...          5
+        Cuadro 5.  Población de alpacas de la provincia de San Román al 2010……...        5
+        Cuadro 6.  Correlaciones fenotípicas para peso vivo en alpacas de la raza….      18
+        Cuadro 7.  Distribución de los registros finales de alpacas para la estimación
+                   de parámetros genéticos……………………………………………                              25
+        Cuadro 8. Índice de herencia para peso vivo y peso vellón en alpacas
+                   Huacaya del CIP Quimsachata INIA – Puno………………………                      31
+        Cuadro 9. Correlaciones fenotípicas para peso vivo y peso vellón en alpacas
+                   Huacaya del CIP Quimsachata INIA – Puno………………………                      35
+        Cuadro 10. Correlaciones genéticas para peso vivo y peso vellón en
+                   alpacas Huacaya del CIP Quimsachata INIA – Puno……………...               40
+
+
+                                       ÍNDICE DE FIGURAS
+
+        Figura 1. Índice de herencia para peso vivo y peso vellón en alpacas
+                  Huacaya del CIP Quimsachata INIA – Puno……………................           32
+        Figura 2. Correlaciones fenotípicas para peso vivo y peso vellón en
+                  alpacas Huacaya del CIP Quimsachata INIA – Puno…………......              35
+        Figura 3. Correlación fenotípica entre peso vivo al destete y peso vivo
+                  al año de edad en alpacas Huacaya del CIP Quimsachata-INIA-Puno.       38
+        Figura 4. Correlación fenotípica entre peso vivo al año de edad y peso
+                  vellón a la primera esquila en alpacas Huacaya del CIP
+                  Quimsachata-INIA-Puno…………………………………………..                                39
+        Figura 5. Correlaciones genéticas para peso vivo y peso vellón en alpacas
+                  Huacaya del CIP Quimsachata INIA – Puno………………………                       41
+
+
+
+
+                                                  -iii-
+                                                  -7-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+                                              RESUMEN
+
+        El presente estudio se desarrolló en el Centro de Investigación y Producción
+        Quimsachata, INIA – Puno, a partir de los datos base tomados de los registros de
+        reproducción y producción de alpacas Huacaya, acumuladas desde 1997 a 2010. Los
+        objetivos fueron estimar la heredabilidad (h2), correlaciones fenotípicas (rp) y genéticas
+        (rg) de peso vivo y peso vellón. Para estimar dichos parámetros, los datos originales
+        previamente fueron ajustados por edad al nacimiento y luego corregidos por factores de
+        corrección para los efectos medioambientales (año de producción, sexo de la cría y edad
+        de la madre) por el método de Mínimos Cuadrados. La heredabilidad se estimó por el
+        método de componentes de varianza y las correlaciones fenotípicas y genéticas fueron
+        estimadas a partir de los componentes de covariancia, bajo un diseño completamente al
+        azar. Los resultados muestran que las heredabilidades obtenidas para el peso vivo al
+        nacimiento, destete, peso vellón a la primera esquila y peso vivo al año de edad son:
+        0.07±0.12; 0.11±0.13; 0.58±0.21 y 0.12±0.16, respectivamente. Las correlaciones
+        fenotípicas (rp) para peso vivo al nacimiento con: peso vivo al destete, peso vellón a la
+        primera esquila y peso vivo al año de edad son: 0.12, 0.02 y 0.09, respectivamente; para
+        peso vivo al destete con peso vellón a la primera esquila y peso vivo al año de edad son:
+        0.05 y 0.46, respectivamente; y para peso vellón a la primera esquila con peso vivo al
+        año de edad es: 0.07. En tanto, las correlaciones genéticas para peso vivo al nacimiento
+        con: peso vivo al destete, peso vellón a la primera esquila y peso vivo al año de edad
+        son: -0.02±1.01; -1.28±-0.36 y 1.14±0.32, respectivamente; para peso vivo al destete
+        con peso vellón a la primera esquila y peso vivo al año de edad son: 0.43±0.38 y 1.89±-
+        2.28, respectivamente; y para peso vellón a la primera esquila con peso vivo al año de
+        edad es: 0.48±0.38. Por ende, se concluye que las características de heredabilidad,
+        correlación fenotípica y genética, son medianamente altas y positivas, los que
+        permitirán elegir el método de selección más adecuado en un programa de
+        mejoramiento genético.
+
+        Palabras clave: Heredabilidad, correlaciones fenotípicas y genéticas, alpacas y
+        Huacaya.
+
+
+
+
+                                                   -iv-
+                                                   -8-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+                                       I.    INTRODUCCIÓN
+
+
+        En el altiplano peruano, la crianza de alpacas es una actividad de gran importancia
+        socioeconómica, a su vez en esta región se encuentra concentrada la mayor población de
+        alpacas (2´180,670 alpacas) que representa el 54.87% de la población nacional y de ésta
+        el 90% se encuentra en comunidades y parcialidades campesinas (MINAG, 2010); a
+        pesar de las serias limitaciones que impiden un eficiente aprovechamiento de los
+        mismos. Por esta razón, la mejora del nivel de vida del productor alpaquero, expresado
+        ya sea por su mayor capacidad de ahorro o por un mayor consumo, necesariamente
+        dependerá de los mayores ingresos económicos obtenidos. Un incremento de la
+        producción de peso vivo y peso vellón, dependerá de una mayor población de su capital
+        pecuario o de una mayor eficiencia de los individuos de su población ganadera.
+
+
+        La mejora genética actual de la alpaca en los rebaños familiares de los criadores
+        individuales se realiza sin ninguna base genética en la producción de carne y/o vellón,
+        considerando solamente su expresión fenotípica (Málaga y Col., 1998). Por esta razón,
+        los productores de alpacas tienen una preocupación, que viene a ser no sólo la
+        productividad de un animal sino la productividad de sus rebaños en conjunto; los que
+        quieren utilizar técnicas de mejoramiento genético específicos, basados en el
+        conocimiento de parámetros genéticos importantes tales como la heredabilidad,
+        correlaciones fenotípicas y genéticas, para poder mejorar la población de alpacas como
+        un todo. Sin embargo, estos caracteres de interés económico son mensurables y se
+        manifiestan repetidamente de un registro a otro, durante la vida de la alpaca, y estos
+        mismos caracteres guardan ciertas relaciones de interdependencia, los que permiten
+        estimar parámetros genéticos como son: heredabilidad y correlaciones fenotípicas y
+        genéticas.
+
+
+        Actualmente, existe escasa información sobre estimación de parámetros genéticos de las
+        características de interés económico, a pesar de que existen algunos trabajos, pero que
+        no permiten hacer inferencias para el desarrollo de programas de mejoramiento genético
+        específicos, debido a que las características medioambientales en que se desarrollan las
+        alpacas son distintas, es así que, en nuestra región, la cordillera oriental (puna húmeda)
+        posee ventajas comparativas y competitivas que permiten brindar condiciones
+
+
+                                                   -1-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        favorables principalmente en la alimentación de las alpacas, frente a la cordillera
+        occidental (puna seca).
+
+
+        Por esta razón, el mejoramiento genético de la alpaca tiene decisiva importancia para
+        incrementar la producción y productividad, del peso vellón como del peso vivo,
+        seleccionando los animales de mejor rendimiento para estas características, que darán
+        lugar a una descendencia superior al promedio de la población donde fueron elegidos
+        los progenitores con un fenotipo promedio superior a las anteriores generaciones. En
+        base a lo referido, los objetivos del presente trabajo fueron:
+
+
+        a.    Estimar la heredabilidad para el peso vivo al nacimiento, al destete, peso vellón a
+              la primera esquila y peso vivo al año de edad.
+
+
+        b.    Estimar las correlaciones fenotípicas entre peso vivo al nacimiento con: destete,
+              peso vellón a la primera esquila y peso vivo al año de edad; peso vivo al destete
+              con: peso vellón a la primera esquila y peso vivo al año de edad; y peso vellón a la
+              primera esquila con peso vivo al año de edad.
+
+
+        c.    Estimar las correlaciones genéticas entre peso vivo al nacimiento con: destete,
+              peso vellón a la primera esquila y peso vivo al año de edad; peso vivo al destete
+              con: peso vellón a la primera esquila y peso vivo al año de edad; y peso vellón a la
+              primera esquila con peso vivo al año de edad.
+
+
+
+
+                                                    -2-
+TESIS UNA - PUNO                                                                          Universidad
+                                                                                          Nacional del
+                                                                                          Altiplano
+
+
+
+                                II.     REVISIÓN DE LITERATURA
+
+
+        2.1. Clasificación taxonómica de la alpaca
+
+
+        Reino         :       Animal
+        Tipo          :       Mamífero herbívoro
+        Orden         :       Artiodactyla
+        Sub-orden     :       Tylópoda
+        Familia       :       Camelidae
+        Género        :       Vicugna
+        Especie       :       Vicugna pacos L. (Kadwell y Col., 2001).
+
+
+        2.2. Población de alpacas
+
+
+        Cuadro1. Población mundial de alpacas al 2010.
+                   País            Población(Nº de animales)     Porcentaje (%)
+                                             ’
+         Perú                              3 973,952                  83.12
+         Bolivia                            416,952                    8.72
+         Argentina                           23,615                    0.49
+         Chile                               52,317                    1.09
+         Ecuador                               4,600                   0.10
+         Estados Unidos                     126,971                    2.66
+         Oceanía                             25,000                    0.52
+         Australia                          100,000                    2.09
+         Asia                                17,814                    0.37
+         Nueva Zelandia                      20,814                    0.44
+         Canadá                                6,971                   0.15
+         China                                 4,143                   0.09
+         Israel                                2,486                   0.05
+         Europa                                5,392                   0.11
+                                             ’
+                  Total                    4 781,027                   100
+        Fuente: Elaborado en base a datos de MINAG – DRA – DIA-Puno, 2010.
+
+        Según el Cuadro 1, el Perú posee la mayor población de alpacas (3’973,952 alpacas),
+        ocupando así el primer lugar a nivel mundial, el mismo que representa el 83.12% de la
+        población mundial, seguido por Bolivia con 8.72%, Estados Unidos con 2.66%, Chile
+        con 1.09%, Nueva Zelandia con 0.44%, Australia con 2.09%; y el resto de los países
+        completan la población total.
+
+
+
+
+                                                   -3-
+TESIS UNA - PUNO                                                                         Universidad
+                                                                                         Nacional del
+                                                                                         Altiplano
+
+
+
+        Cuadro 2. Población de alpacas por regiones al 2010.
+                  Región              Población(Nº de animales)    Porcentaje (%)
+         Puno                                  2’180,670                54.87
+         Cusco                                  489,162                 12.31
+         Arequipa                               384,239                  9.67
+         Huancavelica                           242,018                  6.09
+         Ayacucho                               204,373                  5.14
+         Apurimac                               179,495                  4.52
+         Moquegua                               105,507                  2.65
+         Tacna                                   42,724                  1.08
+         Pasco                                   38,294                  0.96
+         Junin                                   43,162                  1.09
+         Lima                                    36,561                  0.92
+         Ancash                                  13,015                  0.33
+         Cajamarca                                1,486                  0.04
+         La libertad                              8,522                  0.21
+         Huanuco                                  4,724                  0.12
+                   Total                       3’973,952                 100
+        Fuente: Elaborado en base a datos de MINAG – DRA – DIA-Puno, 2010.
+
+        Según el Cuadro 2, Puno alberga 2’180,670 alpacas, el mismo que representa el 54.87%
+        de la población nacional, seguido por Cusco con 12.31%, Arequipa con 9.67%,
+        Huancavelica con 6.09%, Ayacucho con 5.14%, Apurímac con 4.52%, Moquegua con
+        2.65% y el resto de las regiones completan la población total.
+
+        Cuadro 3. Población de alpacas en la Región Puno.
+                                                 Población (Nº de
+          Cordillera         Provincia                            Porcentaje (%)
+                                                     animales)
+         Oriental      Melgar                         296,050          13.58
+         (Puna         Carabaya                       273,550          12.54
+         húmeda)       Azangaro                       232,980          10.68
+                       Huancane                       189,040           8.67
+                       San Antonio de Putina          141,630           6.49
+                       Sandia                          53,950           2.47
+                       Moho                            13,300           0.61
+                       Sub total                     1’200,500         55.05
+         Occidental    Lampa                          368,930          16.92
+         (Puna seca)   Chujuito – Juli                212,150           9.73
+                       Puno                           177,550           8.14
+                       El Collao                      168,680           7.74
+                       San Román                       52,130           2.39
+                       Yunguyo                          730             0.03
+                       Sub total                      980,170          44.95
+         Total         13 Provincias                 2’180,670          100
+        Fuente: Elaborado en base a datos de MINAG – DRA – DIA-Puno, 2010.
+
+
+
+                                                   -4-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        Según el Cuadro 3, referente a la población de alpacas de la Región Puno por
+        provincias, se puede apreciar que la mayor población de alpacas se encuentra en la
+        Cordillera Oriental (puna húmeda) con una población de 1’200,500 alpacas,
+        constituyendo el 55.05% de la población regional, mientras que en la Cordillera
+        Occidental tiene una población de 980,170 alpacas constituyendo el 44.95%.
+
+
+        Cuadro 4. Población de alpacas de la provincia de Lampa al 2010.
+                      Región                          Población (Nº de animales)
+        Cabanillas                                              11,790
+        Calapuja                                                 985
+        Lampa                                                   41,430
+        Nicasio                                                  530
+        Ocuviri                                                 39,973
+        Palca                                                   31,170
+        Paratía                                                 54,500
+        Pucara                                                  13,109
+        Santa Lucia                                            142,570
+        Vila Vila                                               27,873
+        Total                                                  368,930
+
+        Fuente: Elaborado en base a datos de MINAG – DRA – DIA-Puno, 2010.
+
+        Según el Cuadro 4, referente a la población de alpacas de la provincia de Lampa y sus
+        distritos, se puede apreciar que la mayor población de alpacas se encuentra en el distrito
+        de Santa Lucía con una población de 142,570 alpacas, constituyendo el 38.64% de la
+        población provincial.
+
+
+        Cuadro 5. Población de alpacas de la provincia de San Román al 2010.
+                        Región                          Población (Nº de animales)
+         Cabana                                                    8,260
+         Cabanillas                                               41,274
+         Caracoto                                                   946
+         Juliaca                                                   1,650
+         Total                                                    52,130
+        Fuente: Elaborado en base a datos de MINAG – DRA – DIA-Puno, 2010.
+
+        Según el Cuadro 5, referente a la población de alpacas de la provincia de San Román y
+        sus distritos, se puede apreciar que la mayor población de alpacas se encuentra en el
+        distrito de Cabanillas con una población de 41,274 alpacas, constituyendo el 79.18% de
+        la población provincial, mientras que los distritos de Cabana. Juliaca y Caracoto poseen
+        una población de 8260; 1650 y 946 alpacas, respectivamente.
+
+
+                                                   -5-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+        2.3. Características productivas de la alpaca
+
+
+            2.3.1. Peso vivo
+
+
+            2.3.1.1. Peso vivo al nacimiento
+
+
+            El peso promedio de las alpacas, al nacimiento varía según el sistema de
+            producción, por ejemplo en las comunidades campesinas, se encuentra entre 6,21 a
+            6,84 kg (Días, 1989; Cruz y Col, 1991; y Medina, y Col, 1988); y en los Centros
+            Experimentales, varían desde 7,5 a 9,44 kg (Barcena, 1988; Bustinza, y Col, 1970).
+            La edad de la madre es otro factor que influye en el peso al nacimiento, siendo
+            menores (8,14 kg) en las crías de las alpacas de 2 años de edad, pero este se
+            incrementa en las crías de madres de 5 a 12 años de edad (8,61 kg) y partir de los
+            13 años disminuye (Bustinza y Col, 1988). Igualmente ha observado que alpacas de
+            10 años parieron crías de mayor peso (7,61 kg) en comparación a las madres de 6 a
+            9 años de edad (7,3 kg) (Ampuero, 1987). Estos resultados demuestran que los
+            factores como, lugar de procedencia, sistema de producción y la edad de la madre
+            tienen influencia en el peso al nacimiento de sus crías.
+
+
+            2.3.1.2. Peso vivo al destete
+
+
+            El peso vivo promedio al destete de las alpacas en comunidades campesinas varía
+            en machos de 23,05 a 24,38 kg, y en hembras de 20,98 a 25,32 kg (Cruz y Col,
+            1991; Díaz, 1989), lo cual demuestra que existe diferencia de peso al destete. En un
+            estudio similar, (Barcena, 1988) determinó un promedio superior (27,63 kg) en
+            ambos sexos, lo cual posiblemente se debe a las mejores condiciones de manejo
+            que se practica, en un Centro Experimental. De este modo la diferencia de
+            promedios de peso al destete entre machos y hembras indican que el factor sexo
+            tiene influencia sobre este carácter. Actividad que se realiza aproximadamente entre
+            los 7 a 8 meses de edad (Bustinza, 2001).
+
+
+
+
+                                                   -6-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+           2.3.1.3. Peso vivo al año de edad
+
+
+           El peso vivo promedio al año de edad de alpacas (29,0 kg) de la raza Huacaya,
+           (Ruiz de castilla, 2004), mientras que (Bustinza, 2001) señala que al año de edad
+           alcanza un peso de 30 kg; diferencias que probablemente esté influenciada por los
+           factores sexo y año de producción, los cuales se consideran para estimar los
+           parámetros genéticos.
+
+
+           2.3.2. Peso vellón
+
+
+           2.3.2.1. Peso vellón a la primera esquila
+
+
+           En comunidades campesinas el peso vellón de alpacas a la primera esquila
+           reportado por Cruz y Col. (1991), fue de 2,65 y 2,13 lb.; en cambio Díaz (1989)
+           menciona 1,49 y 1,41 kg en macho y hembras, respectivamente. En el C.E. La
+           Raya, Velarde y Col. (1987) encontraron un promedio de 1,33 kg a la primera
+           esquila en alpacas machos de la raza Huacaya. Tal como ocurre con el peso vivo,
+           estos resultados demuestran que la diferencia de promedios de peso vellón varía
+           según el lugar de procedencia, el sistema de crianza y el sexo. Esta actividad que se
+           realiza aproximadamente a la edad de 9 a 10 meses de edad, (Bustinza, 2001).
+
+
+       2.4. Marco conceptual
+
+
+           2.4.1. Mejoramiento genético
+
+
+           El mejoramiento genético, consiste en aplicar principios biológicos, económicos y
+           matemáticos, con el fin de encontrar estrategias óptimas para aprovechar la
+           variación genética existente en una especie de animales en particular para
+           maximizar su mérito. Esto involucra tanto la variación genética entre los individuos
+           de una raza, como la variación entre razas y cruzas. El mejoramiento genético
+           involucra procesos de evaluación genética y difusión del material genético
+           seleccionado, en los cuales se pueden usar tecnologías reproductivas artificiales
+           tales como la inseminación artificial, la transferencia de embriones y la fertilización
+
+
+                                                  -7-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+           in vitro, así como el uso de marcadores de ADN (Cardellino y Rovira, 1987). Los
+           dos principales problemas en un programa de mejoramiento genético son:
+
+
+           a. Cómo definir el mérito (objetivo del programa) y ,
+           b. Cómo lograr este objetivo (sistema de evaluación, usos y difusión de la mejora a
+               la población comercial).
+           Las dos herramientas primordiales del mejoramiento genético son:
+
+           a. La selección (determinar cuáles individuos van a dejar descendencia).
+           b. Los sistemas de apareamiento (determinar cómo los individuos seleccionados
+               serán apareados (Cardellino y Rovira, 1987).
+
+
+           2.4.2. Genotipo
+
+
+           El Genotipo, es como un mapa de las características genéticas de un individuo (por
+           ej. Genes recesivos y dominantes), es la información o carga genética (almacenada
+           en el ADN) que se posee un organismo y es transmitido de una generación a otra,
+           es decir: Genotipo = Transmisión (Cardellino y Rovira, 1987).
+
+
+           2.4.3. Fenotipo
+
+
+           El Fenotipo, es como un mapa de las características físicas del individuo que
+           consiste en el conjunto de rasgos morfológicos de un ser vivo, así como todas
+           aquellas tangibles, resaltantes y observables los mismos que se expresan a partir del
+           genotipo, es decir: Fenotipo = Expresión (Cardellino y Rovira, 1987).
+
+
+           La investigación en el mejoramiento genético de las alpacas, recién está poniendo
+           un esfuerzo dirigido a la estimación de parámetros genéticos y fenotípicos y a la
+           evaluación de respuestas a la selección de los principales caracteres de importancia
+           económica. Es muy importante poner un esfuerzo grande para diseñar un programa
+           de mejoramiento genético global para las alpacas, que consiga conciliar lo que
+           propone el genetista con lo que tiene en mente el productor alpaquero (Mamani,
+           1988). Los pasos secuenciales en el diseño de este programa de mejoramiento
+           genético de alpacas son:
+
+                                                 -8-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+            - Definición de los objetivos del mejoramiento genético
+            - Elección de los criterios de selección
+            - Organización de los sistemas nacionales de servicios de registros de producción
+            - Interpretación y uso de la información y de los animales seleccionados
+
+
+        2.5. Parámetros genéticos
+
+
+            2.5.1. Heredabilidad
+
+
+            Los valores de heredabilidad pueden variar de cero a uno; si es cero nada de
+            variación en el carácter es genético y la selección será totalmente inefectiva, si la
+            heredabilidad es uno, hay variación ambiental presente y el valor fenotípico es igual
+            al valor de cría, permitiendo una selección muy efectiva; una heredabilidad mayor a
+            0.7 se considera muy alta para algunos caracteres. Por consiguiente tal como indica,
+            (Turner y Young, 1969), el tamaño de la heredabilidad depende de la relación entre
+            la variación aditiva (VA) y la variación fenotípica (VP), ya que algunos cambios en
+            la frecuencia de genes y/o medio ambientales, probablemente esté acompañado por
+            cambios en la heredabilidad. La función más importante de la heredabilidad en el
+            estudio de los caracteres cuantitativos es su papel predictivo que expresa la
+            confiabilidad del valor fenotípico como indicador del valor genético, una
+            clasificación general de grupos de caracteres de producción según la magnitud de
+            los valores de heredabilidad, se resume de la siguiente manera:
+
+
+            - Heredabilidad baja                    0.05 - 0.20
+            - Heredabilidad media a alta            0.20 - 0.45
+            - Heredabilidad alta                    0.45 - 0.60
+            - Heredabilidad alta a muy alta            > 0.60 (Cardellino y Rovira, 1987).
+
+
+            La heredabilidad h2 se define bajo dos conceptos, uno tomándolo en el sentido
+            amplio, lo define como la fracción formada por la variación genética sobre la
+            variación fenotípica:
+                                     VG
+                                2
+                               h = -------
+                                     VP
+
+
+                                                  -9-
+TESIS UNA - PUNO                                                                            Universidad
+                                                                                            Nacional del
+                                                                                            Altiplano
+
+
+
+           Dónde:
+
+
+           h2 = Heredabilidad
+           VG = Varianza genética total
+           VP = Varianza fenotípica total
+
+
+           Otro concepto define la heredabilidad en el sentido limitado como la fracción de la
+           variación genética aditiva sobre la varianza fenotípica total:
+                                      VA
+                                 2
+                                h = ------
+                                      VP, (Lush, 1969).
+
+           Dónde:
+
+
+           h2 = Heredabilidad
+           VG = Varianza genética aditiva
+           VP = Varianza fenotípica total
+
+
+           Esta variabilidad en los estimados de valores de heredabilidad depende de factores
+           como:
+
+
+           - Tamaño de la población
+           - Frecuencias genéticas que gobiernan
+           - Ausencia de dominancia o epistasis, si es que se trata de genes en uno o en
+              diferentes locus respectivamente
+           - Diseño experimental y
+           - Efectos ambientales (Falconer, 1986).
+
+
+           2.5.1.1. Métodos de estimación de heredabilidad
+
+
+           Correlación intraclase entre medios hermanos (H.S.)
+
+
+           Es un método en el que se utiliza la semejanza entre hermanos, es el más utilizado y
+           recomendado en el mejoramiento animal, porque no posee influencia de
+           dominancia materna e interacción, estima ¼ de la heredabilidad, se adapta muy
+
+                                                  -10-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+           bien al tipo de datos que pueden ser obtenidos tanto en estaciones experimentales
+           como en centros de producción (Cardellino y Rovira, 1987). La estructura de la
+           población es de padres apareados con diferentes madres originando descendientes.
+           Es un diseño típico para animales uníparos y de intervalos de generaciones
+           elevados, como vacunos y ovinos. La heredabilidad es igual a: h2=4t, donde t, es el
+           coeficiente de correlación intraclase y 4 la covarianza entre medios hermanos
+           paternos (Becker, 1986).
+
+
+           2.5.2. Correlación genética (rG)
+
+
+           La causa genética de las correlaciones es principalmente la pleiotropía propiedad de
+           un gen merced a la cual afecta a dos o más características, de manera que si un gen
+           se segrega causa una variación simultánea en los caracteres que afecta. Pero la
+           correlación que resulta por pleiotropía o es el efecto total o neto de todos los genes
+           segregantes que afectan ambos caracteres. Algunos pueden incrementar los valores
+           de ambos caracteres, mientras que otros pueden incrementar en uno y disminuir en
+           otro, aunque el ligamiento es también una causa transitoria de correlación
+           particularmente en poblaciones derivadas de cruzas entre estirpes divergentes,
+           aunque con el tiempo la correlación causada por el ligamiento tiende a desaparecer
+           a medida que el entrecruzamiento va separando los genes que estaban
+           originalmente en el mismo bloque en el cromosoma (Falconer, 1986; Cardellino y
+           Rovira, 1987; Lasley, 1970).
+
+
+           Las causas de la correlación genética entre A1 y A2 pueden ser permanentes o
+           transitorias. La causa permanente de que dos caracteres estén genéticamente
+           correlacionados es la pleiotropía; algunos de los genes que afectan a 1, afectan
+           también 2. Una causa no permanente de correlación genética entre dos caracteres,
+           es el ligamiento (linkage), en particular el llamado “desequilibrio genético”
+           (linkage desequilibrium). Con el tiempo, la correlación causada por el ligamiento
+           tiende a desaparecer, a medida que el entrecruzamiento crossing-over va
+           desapareciendo los genes que estaban originando en el mismo bloque en el
+           cromosoma. La correlación genética entre dos caracteres de un mismo animal,
+           puede ser medido, observando a un gran número de pares de individuos
+           íntimamente emparentados, y correlacionando el carácter X en un miembro del par
+
+                                                 -11-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+           con el carácter Y en el otro. Esto requiere un número elevado de individuos, y las
+           estimaciones adolecen de serios errores de muestreo (Cardellino y Rovira, 1987).
+
+
+           2.5.2.1.   Métodos de estimación de correlación genética
+
+
+           Los métodos para estimar correlaciones genéticas son esencialmente los mismos
+           que para estimar la heredabilidad. La base de los métodos es también la covarianza
+           entre parientes, con la diferencia de que ahora se mide dos caracteres en un mismo
+           pariente, de modo que en lugar de sumas de cuadrados lo que se calcula es sumas
+           de productos (Cardellino y Rovira, 1987).
+
+
+           2.5.3. Correlación fenotípica (rP)
+
+
+           La correlación fenotípica, es el grado de correlación que existe entre dos caracteres
+           que pueden ser observadas directamente. Este índice es útil para escoger aquellos
+           caracteres que deben ser usados en un programa de mejoramiento genético.
+           Biológicamente, se define como el resultado de la contribución de elementos
+           comunes del medio ambiente y del genotipo de dos características en estudio.
+
+
+           En otras palabras, viene a ser la suma de las correlaciones genéticas y ambientales,
+           indica además que las correlaciones pueden ser positivas o negativas. El primer
+           caso es, cuando la variación va dirigida en el mismo sentido y en el segundo, varían
+           en sentido opuesto (Stonaker, 1977).
+
+
+           La causa de la correlación fenotípica observada entre dos caracteres no
+           necesariamente es genética, lo cual quiere decir que aunque haya una correlación
+           fenotípica positiva entre 1 y 2 (características), la selección por uno no resultará
+           necesariamente una ganancia genética por dos, así como una correlación fenotípica
+           cero, no implica total independencia genética entre 1 y 2 (Cardellino y Rovira,
+           1987).
+
+
+           La asociación entre dos caracteres que puede ser observada directamente es la
+           correlación de los valores fenotípicos, o correlación fenotípica. Esta se estima
+           usando las mediciones de los caracteres hechos en varios individuos de la
+
+                                                  -12-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+           población, (Falconer, 1983). En términos estadísticos, la correlación es la medición
+           del grado de interrelación que existe entre dos o más variables. La correlación mide
+           el grado de asociación que existe entre ellas, presuponiendo que la causa de
+           interrelación es común en ambas (Calzada, 1983).
+
+
+           El rango de valores posibles de la correlación es de -1 a 1. La causa de la
+           correlación fenotípica observada entre dos caracteres no es necesariamente
+           genética, lo cual quiere decir que aunque haya una correlación fenotípica total, es la
+           correlación ambiental entre 1 y 2, que es la correlación entre los desvíos
+           ambientales más las fuentes genéticas no aditivas, dominancia, interacción y
+           ambiental (Cardellino y Rovira, 1987).
+
+
+           2.5.3.1. Métodos de estimación de correlación fenotípica. (rp)
+
+
+           Los métodos para estimar correlaciones fenotípicas son esencialmente los mismos
+           que para estimar la heredabilidad. La base de los métodos es también la covarianza
+           entre parientes, con la diferencia de que ahora se mide dos caracteres en un mismo
+           pariente, de modo que en lugar de sumas de cuadrados lo que se calcula es sumas
+           de productos (Cardellino y Rovira, 1987).
+
+
+           2.5.3.2. Coeficientes de correlación
+
+
+           Los coeficientes de correlación, se resume de la siguiente manera:
+           - De r = 0.2   a r = 0.3 Coeficiente muy bajo
+           - De r = 0.4   a r = 0.5 Coeficiente bajo
+           - De r = 0.6   a r = 0.7 Coeficiente alto
+           - De r = 0.8   a r = 1.0 Coeficiente muy alto (Calzada, 1983).
+
+
+           2.5.4. Factores ambientales modificantes
+
+
+           El medio ambiente que modifica la expresión genotípica y produce variabilidad en
+           el fenotipo, es debido a factores externos que actúan sobre el individuo, como son
+           el clima, la alimentación, enfermedades, etc., los cuales pueden influir en la etapa
+           prenatal y postnatal. Para reducir la variación de los factores ambientales que
+
+                                                  -13-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+           influyen en la manifestación de una característica, es conveniente uniformizar los
+           sistemas de alimentación, manejo, sanidad, etc., en los hatos ganaderos.
+
+
+           La magnitud de la varianza ambiental para un carácter en distintos periodos de la
+           vida de un animal, puede ser causado por efectos permanentes o sea aquellos que
+           prevalecen en todos los periodos y por efectos temporales, los cuales varían de un
+           periodo a otro (Herrera, 1985).
+
+
+           La gran cantidad de cambios en los genes y en los cromosomas, es la causa de la
+           variación genética en los animales; esta variación genética se expresa. Sin embargo,
+           solo en la medida en que las condiciones y los estímulos ambientales se lo
+           permiten.
+
+
+           El ambiente no modifica en forma directa la constitución genética de un individuo,
+           sino las circunstancias ambientales determinan la expresión con la cual se expresa
+           la tendencia genética, siempre se debe tener en mente la interacción constante entre
+           la herencia y el ambiente. Aun cuando la varianza ambiental no se transmite, esto
+           no debe obstaculizar o limitar a los criadores para conseguir mantener un ambiente
+           favorable como sea posible desde el punto de vista económico, para permitir el
+           desarrollo total de las potencialidades inherentes a los animales (Warwick y
+           Legates, 1980).
+
+
+           Las causas de la correlación ambiental son las desviaciones ambientales (mas
+           dominancia y epistasis), si frente a la misma influencia ambiental de dos caracteres
+           reacciona en la misma dirección tendremos una correlación ambiental positiva y se
+           reacciona en sentido contrario será negativa (Cardellino y Rovira, 1987).
+
+
+           Entre los factores ambientales que modifican la respuesta productiva de las alpacas
+           están: el efecto del año de nacimiento y la edad de la madre. El efecto de los años
+           en la mayoría de los caracteres, persiste hasta la primera esquila y en otras hasta el
+           tercer año de edad. Asimismo, la influencia del día de nacimiento persiste hasta los
+           diez meses de edad. Crías nacidas en los primeros días de la estación de parición
+           muestran una mayor tasa de sobrevivencia (Bustinza y Col. 1988).
+
+
+                                                 -14-
+TESIS UNA - PUNO                                                                            Universidad
+                                                                                            Nacional del
+                                                                                            Altiplano
+
+
+
+        2.6. Valores sobre estimaciones de heredabilidad, correlaciones fenotípicas y
+           genéticas
+
+
+           2.6.1. Heredabilidad
+
+
+           En la población de alpacas de la estación principal de Altura “La Raya” del IVITA,
+           ubicado en la puna húmeda del distrito de Maranganí, Canchis, Cusco, en
+           condiciones extensivas de manejo, usando el método de regresión cría – madre,
+           encontró un valor de heredabilidad para peso al nacimiento, de 0.11 ± 0.14
+           (Velasco, 1980).
+
+
+           En base a la información de esta misma población encontraron heredabilidades para
+           pesos vivos al nacimiento, destete, primera esquila y peso vellón a la primera
+           esquila de 0.53; 0.39; 0.55 y 0.22, respectivamente (Bravo y Velasco, 1982).
+
+
+           Los valores de índices de herencia de una población de alpacas de la raza Huacaya
+           del Centro Experimental La Raya UNSAAC – Cusco, procedentes de 1441
+           registros productivos y reproductivos. Como el doble de la regresión cría – madre
+           fueron estimados los índices de herencia para pesos vivos al nacimiento, destete,
+           primera esquila y peso vellón a la primera esquila, siendo los valores: 0.32 ± 0.12,
+           0.41 ± 0.14, 0.32 ± 0.23 y 0.31 ± 0.17, respectivamente (Quirita y Col, 1990).
+
+
+           Los valores de índices de herencia en una población de alpacas de la raza Huacaya
+           del centro Experimental La Raya de la UNA – Puno, correspondiente a las
+           campañas 1981 – 1985, procedentes de los registros de 450 alpacas madres y de sus
+           respectivas crías. Como el doble de la regresión cría – madre fueron estimados los
+           índices de herencia para pesos vivos al nacimiento, destete (7 meses) y primera
+           esquila (9 meses), siendo los valores 0.17 ± 0.16, 0.73 ± 0.36 y 0.62 ± 0.48,
+           respectivamente. Las heredabilidades estimadas para peso vellón y longitud de
+           mecha a la primera esquila fueron de 0.38 ± 0.34 y 0.43 ± 0.39, respectivamente
+           (Mamani, 1995).
+
+
+           Los valores de índices de herencia de una población de alpacas de la raza Huacaya
+           del Centro Experimental La Raya de la UNA – Puno, correspondiente a las
+
+                                                -15-
+TESIS UNA - PUNO                                                                           Universidad
+                                                                                           Nacional del
+                                                                                           Altiplano
+
+
+
+           campañas de 1982 – 1994, procedentes de los registros de 1857 de alpacas madres
+           y de sus respectivas crías. Como el doble de la regresión cría – madre fueron
+           estimados los índices de herencia para el peso vivo al nacimiento, siendo el valor
+           estimado de 0.491 ± 0.032 (Málaga y Olarte, 1996).
+
+
+           Los valores de índices de herencia de una población de alpacas de la raza Huacaya
+           del Centro Experimental La Raya de la UNA – Puno, correspondiente a las
+           campañas de 1986 – 1990, procedentes de los registros de madres y de sus
+           respectivas crías, fueron estimados los índices de herencia para peso vivo al
+           nacimiento, al destete (7 meses) y primera esquila (9 meses), siendo los valores
+           encontrados de 0.24 ± 0.14, 0.57 ± 0.25 y 0.47 ± 0.36, respectivamente. El índice
+           de herencia estimado para peso vellón a la primera esquila (9 meses), fue de 0.37 ±
+           0.25 (Maquera, 1996).
+
+
+           Los valores de índices de herencia de una población de alpacas de la raza Huacaya
+           del Centro Experimental La Raya de la UNA – Puno, correspondiente a las
+           campañas de 1982 – 1994, procedentes de los registros de 1857 alpacas madres y
+           de sus respectivas crías. Por el método de componentes de covarianza, fueron
+           estimados los índices de herencia para peso vivo al nacimiento, al destete, primera
+           y segunda esquila, siendo 0.52 ± 0.04; 0.42 ± 0.04; 0.50 ± 0.04 y 0.44 ± 0.06,
+           respectivamente (Málaga y Col, 1998).
+
+
+           2.6.2. Correlaciones fenotípicas
+
+
+           En la C.A.P. Huaycho (Nuñoa – Macusani), en 840 alpacas entre Suri y Huacaya
+           encontró correlación entre peso vivo y peso vellón un coeficiente de correlación
+           alto y positivo para machos obtuvo un r =0.99, para hembras un r = 0.52, para
+           Huacaya un r = 0.63, para Suri un r = 0.57 y un promedio general de r = 0.60
+           (Blanco, 1980).
+
+
+           Las correlaciones fenotípicas para peso vivo y longitud de mecha, para peso vivo y
+           peso vellón y para peso al nacimiento y sobrevivencia de 0.12, 0.25 y 0.26,
+           respectivamente. Por otro lado, se determinaron valores medianos de 0.32, 0.36,
+           0.49 y 0.52, para las asociaciones fenotípicas de peso vivo de madre y peso vivo al
+
+                                                -16-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+           nacimiento, peso vivo de madre y peso al destete, peso de vellón y longitud de
+           mecha, y peso vivo y peso vellón, respectivamente (Bustinza y Buferning, 1988).
+
+
+           Las correlaciones fenotípicas de 0.22 y 0.20; entre el peso vivo al nacimiento con el
+           peso al destete, peso vivo al nacimiento con peso vivo a la primera esquila,
+           respectivamente, en una población de alpacas de la raza Huacaya del Centro
+           Experimental La Raya UNSAAC – Cusco (Quirita y Col. (1990).
+
+
+           En una población de alpacas Huacaya del Centro Experimental La Raya de la UNA
+           – Puno, que corresponden a las campañas 1981 – 1985, procedentes de los registros
+           de 450 alpacas madres y de sus respectivas crías. Estimó correlaciones fenotípicas
+           entre el peso al nacimiento con pesos al destete y primera esquila encontrando
+           valores de 0.41 y 0.39, respectivamente y la correlación fenotípica entre peso vivo
+           al destete con peso a la primera esquila fue de 0.84 (Mamani, 1991).
+
+
+           Las correlaciones fenotípicas de una población de alpacas de la raza Huacaya del
+           Centro Experimental La Raya de la UNA – Puno, correspondiente a las campañas
+           de 1986 – 1990, procedentes de los registros de madres y de sus respectivas crías,
+           entre peso al nacimiento con pesos al destete y primera esquila y peso de vellón a la
+           primera esquila, siendo los valores encontrados, de: 0.49, 0.52 y 0.32,
+           respectivamente. El estimado de correlación fenotípica entre peso corporal a la
+           primera esquila con peso de vellón a la primera esquila fue de 0.40 (Maquera,
+           1996).
+
+
+           Los valores de correlaciones fenotípicas para peso vivo en alpacas de la raza
+           Huacaya del Centro Experimental La Raya de la UNA – Puno, correspondiente a
+           las campañas de 1982 – 1994, procedentes de los registros de 1857 alpacas madres
+           y de sus respectivas crías. Por el método de regresión cría – madre (Málaga y Col.
+           1998).
+
+
+
+
+                                                 -17-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+           Cuadro 6. Correlaciones fenotípicas para peso vivo en alpacas de la raza
+                         Huacaya del Centro Experimental La Raya de la UNA- Puno
+                                                          Peso
+               Características                                             A la 2da.
+                                       Al destete      A la 1ra. esquila
+                                                                            esquila
+            Peso al nacimiento            0.43               0.35             0.29
+            Peso al destete                 -                0.80             0.67
+            Peso a la 1ra. Esquila          -                  -              0.75
+           Fuente: Málaga, 1998.
+
+           La correlación fenotípica estimada para peso vivo y peso vellón a la primera esquila
+           en alpacas de la raza Huacaya del Centro Experimental La Raya de la UNA – Puno,
+           siendo este valor de 0.24 (Olarte, 1998).
+
+
+           Las correlaciones fenotípicas, estimadas de una población de alpacas de la raza
+           Huacaya de color del Centro de Innovación y Producción Quimsachata INIA –
+           Puno, correspondiente a las campañas de 1998 – 2003, procedentes de los registros
+           de parición, destete y año de edad, entre peso al nacimiento con peso vivo al destete
+           fue de 0.41, peso al nacimiento con peso vivo al año de edad 0.36 y peso vivo al
+           destete con peso vivo al año de edad 0.77 (Mamani, 2005).
+
+
+           2.6.3. Correlaciones genéticas
+
+
+           Los valores de correlaciones genéticas de peso al nacimiento con el peso al destete,
+           peso a la primera esquila y peso vellón a la primera esquila, en una población de
+           alpacas de la raza Huacaya del Centro Experimental La Raya UNSAAC – Cusco,
+           procedentes de 1441 registros productivos y reproductivos; siendo los valores: 0.57
+           ± 0.17, 0.67 ± 0.20 y 0.34 ± 0.28, respectivamente (Quirita y Col., 1990).
+           La correlación genética para peso vivo y peso vellón a la primera esquila, en una
+           población de alpacas de la raza Huacaya del Centro Experimental La Raya de la
+           UNA – Puno, correspondiente a las campañas 1981 – 1985, siendo el valor de 0.39
+           ± 0.23 (Mamani, 1995).
+
+
+           Las correlaciones genéticas de una población de alpacas de la raza Huacaya del
+           Centro Experimental La Raya de la UNA – Puno, correspondiente a las campañas
+           de 1986 – 1990, procedentes de los registros de madres y de sus respectivas crías,
+
+
+                                                 -18-
+TESIS UNA - PUNO                                                                       Universidad
+                                                                                       Nacional del
+                                                                                       Altiplano
+
+
+
+           para peso vivo y peso vellón a la primera esquila fue de 0.41 ± 0.24 (Maquera,
+           1996).
+
+
+           La correlación genotípica entre peso vivo y peso vellón a la primera esquila en
+           alpacas de la raza Huacaya del Centro Experimental La Raya de la UNA – Puno,
+           siendo este valor de 0.58 ± 0.08 (Olarte, 1998).
+
+
+
+
+                                                 -19-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+                                    III.MATERIALES Y MÉTODOS
+
+
+        3.1. Ámbito de estudio
+
+
+        El presente estudio se realizó en el Centro de Innovación y Producción (CIP)
+        Quimsachata, del Instituto Nacional de Innovación Agraria – INIA – Puno, que se
+        encuentra ubicada entre los distritos de Santa Lucía y Cabanillas de las provincias de
+        Lampa y San Román de la región Puno, respectivamente a 15º 44’00’’ Latitud Sur y 70º
+        41’ 00’’ Longitud Oeste de Greenwich (INCAGRO, 2007) a una altitud promedio de
+        4,300 msnm. La temperatura media anual es de 7ºC (fluctúa entre 3ºC y 15ºC), con una
+        humedad relativa de 40% y con una precipitación pluvial anual que varía entre 400 y
+        688.33, abarca una extensión total de 6,281.5 hás (INIA Illpa, 2008).
+
+
+        El Centro de Innovación y Producción (CIP) Quimsachata, del Instituto Nacional de
+        Innovación Agraria – INIA – Puno, de acuerdo al mapa ecológico del Perú, pertenece a
+        la zona agroecológica de Puna seca. La composición florística y cobertura de pastos en
+        la época de lluvias es buena, disminuyendo notoriamente en la época de estiaje,
+        observándose especies anuales y perennes, donde predominan en su mayoría gramíneas
+        y en menor grado compuestas, ciperáceas, juncáceas y rosáceas, que varían en su
+        composición fundamentalmente de acuerdo a la humedad del suelo, exposición y
+        características edafológicas con textura y materia orgánica (MINAG, 2001).
+
+
+        3.2. Material de estudio
+
+
+        El presente trabajo, se realizó en base a los registros reproductivos y productivos de la
+        población de alpacas Huacaya del Centro de Innovación y Producción (CIP)
+        Quimsachata INIA – Puno, correspondiente a los años 1997 al 2010; los registros
+        utilizados fueron de nacimiento, destete, año de edad y esquila (peso vellón de la
+        primera esquila); los cuales se digitaron en hoja de cálculo del programa Microsoft
+        Excel
+
+
+
+
+                                                  -20-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        3.3. Manejo y alimentación
+
+
+        El manejo de las alpacas en el Centro de Innovación y Producción Quimsachata, se
+        realiza de acuerdo al calendario alpaquero establecido para la zona, bajo la dirección de
+        profesionales especializados, quienes no solo contribuyen en la mejora de la producción
+        y productividad de la alpaca y llama de dicho Centro, sino que también realizan trabajos
+        de investigación a fin de proponer nuevas alternativas tecnológicas para la producción
+        de Camélidos Sudamericanos.
+
+
+        El sistema de alimentación, es totalmente extensivo en praderas nativas. La
+        composición florística y cobertura de pastos en la época de lluvias es buena,
+        observándose especies anuales y perennes tales como Muhlenbergia peruviana (llapa
+        pasto), Hipochoeris stenocephala (pilli), Eleocharis albibracteata (k’emillo), Distichia
+        muscoides (kunkuna), Trifolium amabili (layo), Festuca dolichophylla (chilligua),
+        Alchemilla pinnata (sillu sillu), Calamagrostis rigecens (callo callo), Stipa ichu (ichu),
+        Calamagrostis vicunarum (crespillo), Alchemilla diplophylla (libro libro), Stipa
+        brachiphylla, Parastrephia sp., Astragalus garbancillos (garbancillo), Baccharis sp.
+        (tola), Festuca orthophilla (iru ichu), Margiricarpus pinnatus (kanlli), Muhlenbergia
+        fastigiata (chiji), entre otros (Miranda, 1990).
+
+
+        3.4. Metodología
+
+
+        3.4.1. Sistematización de datos
+
+
+        Luego de recopilado los registros o cuadernos de producción de cada año y para cada
+        característica registrada; se procedió a realizar la digitación de los datos,
+        introduciéndose a una base de datos creado en la hoja de cálculo del Programa
+        Microsoft Excel, los datos fueron introducidos tal y como se registraron y con los
+        criterios de registro considerados en cada actividad productiva, correspondiente a los
+        registros de producción (peso vivo al nacimiento, destete, peso vellón a la primera
+        esquila y peso vivo al año de edad) de los años 1997 al 2010 de alpacas Huacaya.
+
+
+
+
+                                                    -21-
+TESIS UNA - PUNO                                                                                  Universidad
+                                                                                                  Nacional del
+                                                                                                  Altiplano
+
+
+
+        3.4.2. Orden, emparejamiento y clasificación de datos
+
+
+        Luego se realizó el ordenamiento de los datos, eliminándose los registros incompletos;
+        seguidamente se realizó el emparejamiento de los datos para la formación de estructuras
+        familiares; mediante los registros de empadre se identificaron a las alpacas empadradas
+        con los respectivos machos y con los registros de nacimiento se identificó a la cría;
+        luego se emparejó con los registros de destete, primera esquila y año de edad para cada
+        cría; posteriormente se realizó la clasificación de los datos según año de producción,
+        fecha de cada actividad productiva, para luego realizar los ajustes preliminares de los
+        datos; para ello se crearon los registros completos con los diferentes campos, como se
+        describe a continuación:
+
+
+                 -     PADRE           =      Padre
+                 -     MADRE           =      Madre
+                 -     EDADM           =      Edad de la madre
+                 -     AÑONAC          =      Año de nacimiento de la cría
+                 -     ARECRI          =      Arete de cría
+                 -     PENAC           =      Peso de nacimiento
+                 -     COLOR           =      Color de la alpaca
+                 -     SEXO            =      Sexo de la alpaca
+                 -     FEDES           =      Fecha de destete
+                 -     PEDES           =      Peso al destete
+                 -     PEAÑO           =      Peso al año
+                 -     FEESQ           =      Fecha de esquila
+                 -     EDADESQ         =      Edad de esquila
+                 -     PEVELL          =      Peso vellón
+                 -     AÑOESQ          =      Año de esquila
+                 -     PEDEAJU         =      Peso destete ajustado.
+
+        3.4.3. Ajuste de datos por fecha al nacimiento
+
+
+        Con la finalidad de uniformizar y evitar la influencia de las fechas de nacimiento sobre
+        la característica peso vivo al destete y al año de edad, se ajustó a fecha fija siguiendo las
+        fórmulas de Warwick y Legates (1980).
+
+
+
+
+                                                    -22-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+        3.4.3.1. Para peso vivo
+
+
+        Peso destete ajustado.
+                                                PEDES - PENAC
+                                    PEDEAJU = ------------------------- * EPD + PENAC
+                                                    EDADES
+
+        Dónde:
+
+
+                 PEDEAJU       =   Peso vivo al destete ajustado
+                 PEDES         =   Peso al destete
+                 PENAC         =   Peso al nacimiento
+                 EDADES        =   Edad al destete
+                 EPD           =   Edad promedio al destete
+
+        Peso al año de edad ajustado
+
+
+                                           (PEAÑO - PENAC)
+                             PEAÑOAJU = ------------------------------ * EPA + PENAC
+                                                EDAD AÑO
+
+        Dónde:
+
+
+                 PEAÑOAJU             =      Peso vivo al año ajustado.
+                 PEAÑO                =      Peso al año
+                 PENAC                =      Peso al nacimiento
+                 EDADAÑO              =      Edad al año
+                 EPA                  =      Edad promedio al año.
+
+        3.4.3.2. Para peso vellón
+
+
+        Con la finalidad de uniformizar y evitar la influencia de las fechas de esquila sobre la
+        característica de peso vellón a la primera esquila se empleó las fórmulas ideadas por
+        Cardellino y Rovira (1987).
+
+
+        Peso vellón ajustado
+
+
+                                             PEVELL
+                            PEVELLAJU = ----------------------- * EPE
+                                           EDADESQ
+
+                                                   -23-
+TESIS UNA - PUNO                                                                            Universidad
+                                                                                            Nacional del
+                                                                                            Altiplano
+
+
+
+        Dónde:
+
+
+                 PEVELLAJU           =      Peso vellón ajustado.
+                 PEVELL              =      Peso vellón
+                 EDADESQ             =      Edad a la esquila
+                 EPE                 =      Edad promedio a la esquila
+
+        3.4.4. Ajuste por efectos medioambientales
+
+
+        Para corregir la influencia de los efectos no genéticos (medioambientales), como el año
+        de producción, edad de la madre y sexo de la cría, sobre la característica peso vivo y
+        vellón, se ha realizado un análisis de varianza, utilizando el siguiente método aditivo
+        lineal, bajo un diseño completamente al azar.
+
+
+
+
+        Dónde:
+
+
+                       =    Variable respuesta, del i-ésimo año de producción en la j - ésima
+                           edad de la madre y el k-ésimo sexo de la cría.
+                      =    Promedio poblacional.
+                      =    Efecto del i-ésino año de producción
+                      =    Efecto del j-ésima edad de la madre
+                      =    Efecto del k-ésimo sexo de la cría
+                      =    Efecto no controlable o error experimental.
+
+
+        El ajuste de datos se realizó mediante el método de Mínimos Cuadrados para lo cual se
+        utilizó el paquete estadístico SAS (SAS Institute Inc. 2004. SAS/IML 9.1 User´ s Guide.
+        Cary, NC: SAS Institute Inc.).
+
+
+        3.4.5. Ajuste de datos por factores de corrección
+
+
+        Luego de haber determinado la influencia de los factores medioambientales sobre las
+        características de peso vivo y peso de vellón, se realizó el ajuste con los valores de
+        factores de corrección, los que se muestran en el anexo (Cuadros 15 al 22).
+
+
+                                                  -24-
+TESIS UNA - PUNO                                                                                 Universidad
+                                                                                                 Nacional del
+                                                                                                 Altiplano
+
+
+
+        3.4.6. Distribución de los registros finales
+
+
+        Sometido los datos a los ajustes y las correcciones respectivas, se redujo el número de
+        observaciones de los individuos, quedando finalmente como datos corregidos válidos
+        para la estimación de parámetros genéticos siendo estos: heredabilidad, correlaciones
+        fenotípicas y genéticas, los que se aprecian en el siguiente Cuadro:
+        Cuadro 7. Distribución de los registros finales de alpacas para la estimación de
+                   parámetros genéticos.
+               Características           Total general           NO                SI
+         Peso vivo al nacimiento              1761               612             1149
+         Peso vivo al destete                 1427               449              978
+         Peso vivo al año de edad             1136               354              782
+         peso vellón al 1ra esquila            832               262              570
+        Fuente: Elaborado a partir de los registros del C.I.P. Quimsachata – INIA – Puno.
+
+        3.4.7. Análisis para estimar los componentes de varianza
+
+
+        Con los datos ajustados se realizó la estimación de los respectivos componentes de
+        varianza y covarianza genética y fenotípica con el siguiente modelo estadístico.
+
+
+
+
+        Dónde:
+
+                       =   Observación del carácter de la j-ésima progenie, dentro del i-ésimo
+                 padre.
+                       =   Media general o poblacional para la característica en estudio
+                       =   Efecto del i-ésimo padre sobre la j-ésima progenie
+                       =   Error aleatorio de la j-ésima progenie dentro del i-ésimo padre
+
+
+
+        3.4.8. Análisis para estimar los componentes de covarianza
+
+
+        Para estimar los componentes de covarianzas se empleó los principios generales
+        descritos por (Henderson, 1952), utilizando el siguiente modelo Aditivo Lineal bajo un
+        diseño completamente al azar.
+
+
+
+
+                                                   -25-
+TESIS UNA - PUNO                                                                            Universidad
+                                                                                            Nacional del
+                                                                                            Altiplano
+
+
+
+        Dónde:
+
+
+                       = Variable independiente (peso vivo y peso vellón)
+                       =   Media general
+                       =   Efecto del i-ésimo tratamiento
+                       =   Coeficiente de regresión
+                       =   Es el valor de la covarianza o variable concomitante correspondiente
+                           a   , es decir es el ij-ésimo ensayo.
+                       = Es el promedio de las
+                       = Efecto del error.
+
+        Una vez estimado los productos medios esperados del análisis de covarianza se
+        procedió a estimar la covarianza fenotípica (Covp) y covarianza genética (Covg). Con
+        los valores obtenidos de los componentes de varianza y covarianza genética y
+        fenotípica, se procedió a estimar los parámetros genéticos como: heredabilidad y
+        correlaciones fenotípicas y genéticas para peso vivo y peso vellón.
+
+
+        3.4.9. Estimación de heredabilidad (h2)
+
+
+        Luego con los datos finales, fue realizado el cálculo de índice de herencia, para los
+        caracteres en estudio; para ello se ha utilizado el método de medios hermanos paternos
+        (Half Sibs), o correlación intraclase, basado en el parecido entre parientes (Becker,
+        1986).
+
+                                                       Ó
+
+        Dónde:
+                 t    = Correlación intraclase
+                      = Componente de varianza de los padres
+                      = Componente de varianza de los medios hermanos
+
+
+        Luego se multiplica t por 4, ya que la correlación intraclase entre medios hermanos
+        estima un ¼ de la heredabilidad (Becker, 1986). Ver anexo (Cuadros 5, 6, 7 y 8).
+
+
+
+
+                                                  -26-
+TESIS UNA - PUNO                                                                            Universidad
+                                                                                            Nacional del
+                                                                                            Altiplano
+
+
+
+        Dónde:
+
+
+                           = Índice de herencia
+                           = Componente de varianza de los padres
+                           = Componente de varianza de los medios hermanos
+
+
+        Las variables estudiadas fueron:
+
+
+                   -       Peso vivo al nacimiento.
+                   -       Peso vivo al destete.
+                   -       Peso vivo al año de edad.
+                   -       Peso de vellón a la primera esquila.
+
+        3.4.9.1.       Precisión de la estimación de la heredabilidad
+
+
+        No sólo basta hacer una estimación de un parámetro genético, si no que ésta estimación
+        debe completarse con alguna medida que nos dé una idea de la precisión de la misma;
+        esa medida nos da el error estándar. Para lograr estimaciones relativamente precisas es
+        necesario poseer datos bastante numerosos y no solamente eso, sino que también deben
+        tener cierto balance en su estructura (proporción entre número de padres, madres y
+        progenies) que podríamos llamar óptimo o casi óptimo (Cardellino y Rovira, 1987).
+
+
+        Los datos con número reducido de observaciones, conducen a estimaciones con error
+        estándar muy grande, que hacen que los resultados prácticamente sean inservibles.
+        También, el uso de modelos incompletos, que no incluyen fuentes importantes de
+        variación, especialmente ambiental, puede conducir a cometer grandes errores en la
+        estimación de éste parámetro. El método aproximado para estimar el error estándar es
+        mediante la siguiente fórmula:
+
+
+
+
+        Dónde:
+
+
+                           =   Error estándar
+                       2
+                   h       =   Heredabilidad
+                   t       =   Correlación intraclase
+                   k       =   Número de crías por progenitor
+                   s       =   Número de padres
+                                                      -27-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+        3.4.10. Estimación de las correlaciones
+
+
+        Para la estimación de las correlaciones genéticas y fenotípicas para el peso vivo y peso
+        vellón, se determinaron haciendo uso de las varianzas y covarianzas genéticas y
+        fenotípicas resultantes de los análisis de varianza y covarianza calculadas para cada
+        carácter de la siguiente manera:
+
+
+        3.4.10.1. Correlación genética (rG)
+
+
+        Una vez obtenida los componentes de covarianza paternos entre las características, se
+        halló el coeficiente de correlación genética; la metodología utilizada fue la fórmula
+        propuesta por Becker (1986). Ver anexo (Cuadros 9 al 14).
+
+
+
+
+        Dónde:
+
+
+                              =     Correlación genética
+                              =     Covarianza genética aditiva de caracteres XY
+                              =     Variancia genética aditiva de X
+                              =     Variancia genética aditiva de Y
+
+
+        3.4.10.2. Correlación fenotípica (rP)
+
+
+        Para estimar la correlación fenotípica la fórmula utilizada fue la propuesta por Becker
+        (1986). Según anexo (Cuadro 9 al 14).
+
+
+
+
+        Dónde:
+                              =     Correlación fenotípica
+                              =     Covarianza de componente padre
+
+                                                  -28-
+TESIS UNA - PUNO                                                                       Universidad
+                                                                                       Nacional del
+                                                                                       Altiplano
+
+
+
+                              =     Covariancia de componente ambiental (progenie)
+                              =     Variancia de componente padre de X
+                              =     Variancia de componente padre de Y
+                              =     Variancia de componente ambiental de X
+                              =     Variancia de componente ambiental de Y
+
+
+        Las variables estudiadas fueron:
+
+
+                -     Peso vivo al nacimiento con peso vivo al destete.
+                -     Peso vivo al nacimiento con peso vellón a la primera esquila.
+                -     Peso vivo al nacimiento con peso vivo al año de edad.
+                -     Peso vivo al destete con peso vellón a la primera esquila.
+                -     Peso vivo al destete con peso vivo al año de edad.
+                -     Peso vellón a la primera esquila con peso vivo al año de edad.
+
+
+
+
+                                                 -29-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+                                 IV. RESULTADOS Y DISCUSIÓN
+
+
+        4.1. Efectos de factores fijos
+
+
+        Los factores medioambientales o no genéticos considerados como fuente de variación
+        para los caracteres de peso vivo y peso de vellón fueron: el año de producción, sexo de
+        la cría y edad de la madre. Los Cuadros 1 al 4 del anexo, presentan los análisis de
+        varianza para cada una de las características en estudio.
+
+
+        De los cuadros del análisis de varianza se puede deducir que el factor año de
+        producción, mostró diferencia altamente significativa sobre las variables: peso vivo al
+        nacimiento, peso vivo al destete, peso vivo al año de edad y peso vellón a la primera
+        esquila; lo que implica que los efectos del medio ambiente tienen gran influencia sobre
+        el desarrollo de la biomasa corporal de las alpacas a través del tiempo. Al respecto,
+        Mamani (2005) en la misma población de alpacas del CIP Quimsachata INIA- Puno,
+        encontró diferencias altamente significativas para peso vivo al nacimiento y peso vivo
+        al destete. También, Málaga (1998) encontró diferencias altamente significativas para
+        las variables peso vivo al nacimiento y peso vivo al destete en alpacas Huacaya del C.E.
+        La Raya – UNA Puno, con lo que se corrobora que entre los factores ambientales que
+        modifican la respuesta productiva de las alpacas están: el efecto del año de nacimiento y
+        la edad de la madre. El efecto de los años en la mayoría de los caracteres, persiste hasta
+        la primera esquila y en otras hasta el tercer año de edad (Bustinza y Col., 1988).
+
+
+        El factor sexo de la cría, mostró diferencia significativa solamente sobre la variable
+        peso vivo al año de edad, pero no mostró diferencia alguna sobre las variables: peso
+        vivo al nacimiento, peso vivo al destete y peso vellón a la primera esquila, siendo las
+        hembras las más pesadas al año de edad. Sin embargo, Málaga (1998) encontró efecto
+        del factor sexo sobre las variables peso vivo al nacimiento y peso vivo al destete en
+        alpacas del C.E. La Raya – UNA Puno.
+
+
+        Del mismo modo, se puede apreciar que el factor edad de la madre mostró diferencia
+        altamente significativa sólo sobre la variable peso vivo al nacimiento y diferencia
+        significativa sobre la variable peso vivo al destete y peso vellón a la primera esquila,
+        siendo las alpacas hembras las que alcanzaron un mayor peso a edades de 5, 6, 7 y 8
+
+                                                   -30-
+TESIS UNA - PUNO                                                                                Universidad
+                                                                                                Nacional del
+                                                                                                Altiplano
+
+
+
+        años y por tanto son las que reportan mejores rendimientos, debido a la habilidad
+        materna que desarrollan las hembras de esta especie, no mostrando diferencia sobre la
+        variable peso vivo al año de edad, porque las crías a partir del destete ya no dependen
+        de sus madres. Al respecto, Mamani (2005) en la misma población de alpacas del CIP
+        Quimsachata INIA- Puno, encontró efecto altamente significativas sobre las variables:
+        peso vivo al nacimiento y peso vivo al destete. En forma similar, Málaga (1998)
+        encontró efecto altamente significativo del factor de edad de la madre sobre las
+        variables de peso vivo al nacimiento y peso vivo al destete en alpacas del C.E. La Raya
+        – UNA Puno.
+
+
+        En lo que concierne a peso vellón, los factores año de producción y edad de la madre
+        muestran efecto altamente significativo y significativo, respectivamente, sobre la
+        variable: peso vellón a la primera esquila, no siendo influenciada por el factor sexo de la
+        cría. Al respecto, Olarte (1998) encontró que el factor año de producción y el sexo
+        tienen influencia sobre el variable peso vellón a la primera esquila.
+
+
+        Al observar los efectos medio ambientales: año de producción (clima, temperatura,
+        precipitación pluvial, entre otros), edad de la madre y sexo de la cría, se aprecia que
+        influyen en la producción de los animales, por lo que cualquier información generado
+        en este tipo de investigaciones se debe ajustar por los factores de corrección.
+
+
+        4.2. Heredabilidad (h2)
+
+
+        Los valores estimados de heredabilidad para las características de peso vivo al
+        nacimiento, peso vivo al destete, peso vellón a la primera esquila y peso vivo al año de
+        edad y sus respectivos errores estándar, se aprecian en el siguiente Cuadro.
+
+
+        Cuadro 8. Índice de herencia para peso vivo y peso vellón en alpacas Huacaya del
+                   Centro de Innovación y Producción Quimsachata, INIA – Puno.
+                    Característica                Nº                  h2 ± E.E.
+         Peso vivo al nacimiento                 1149                0.07 ± 0.12
+         Peso vivo al destete                     978                0.11 ± 0.13
+         Peso vellón a la primera esquila         570                0.58 ± 0.21
+         Peso vivo al año de edad                 782                0.12 ± 0.16
+        Fuente: Elaborado a partir del anexo (cuadro 5 - 8)
+
+
+
+                                                   -31-
+TESIS UNA - PUNO                                                                                                   Universidad
+                                                                                                                   Nacional del
+                                                                                                                   Altiplano
+
+
+
+        Dónde:
+                                Nº     =   Nº de registros utilizados
+                                h2     =   Heredabilidad
+                                E.E.   =   Error estándar
+
+                                 1
+                               0.9
+          Índice de herencia
+
+
+
+
+                               0.8
+                               0.7
+                                                                                   0.58
+                               0.6
+                               0.5
+                               0.4
+                               0.3
+                               0.2                           0.11                                      0.12
+                               0.1
+                                           0.07
+                                 0
+                                       Peso vivo al   Peso vivo al destete Peso de vellón a la   Peso vivo al año de
+                                       nacimiento                            primera esquila            edad
+                                                                        variable
+        Figura 1. Índice de herencia para peso vivo y peso vellón en alpacas Huacaya del
+                  Centro de Innovación y Producción Quimsachata, INIA – Puno.
+
+        4.2.1. Heredabilidad de peso vivo al nacimiento
+
+
+        La heredabilidad estimada para peso vivo al nacimiento es de 0.07±0.12, siendo muy
+        inferior a los reportes de Ampuero (1987) y Bustinza (2001) quienes indican valores de
+        heredabilidad para el peso vivo al nacimiento en alpacas Huacaya de 0.38±0.33 y
+        0.34±0.23, los mismos que fueron estimados a través de la correlación intraclase de
+        medios hermanos; y mediante regresión cría – madre; Velasco (1980) reporta una
+        heredabilidad de 0.32±0.12; Bravo y Velasco (1982) una heredabilidad de 0.53; Quirita
+        y Col. (1990) una heredabilidad de 0.11, en el Centro Experimental La Raya Cusco,
+        mientras que Apaza y Fernández (1990) muestran valores de 0.38±0.26; Mamani (1995)
+        0.17±0.16 y Maquera (1996) 0.24±0.14; Málaga y Olarte (1996) 0.491±0.032 y Málaga
+        y Col. (1998) 0.52±0.04, todos ellos con datos procedentes de C.E. La Raya Puno.
+
+
+        Los valores de heredabilidad estimados y comparados con otros estudios muestran
+        diferencias, muy probablemente en razón de que las poblaciones de referencia con las
+        del presente estudio son diferentes, dado al criterio de selección a los que son sometidos
+        las diferentes unidades productivas de alpacas; en consecuencia, es razonable esperar
+        variación en los valores de heredabilidad, dado a que el parámetro depende de la
+        frecuencia génica, la cual varía de uno a otro rebaño por efecto de selección.
+                                                                    -32-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+        4.2.2. Heredabilidad de peso vivo al destete
+
+
+        El valor de heredabilidad encontrado para peso vivo al destete en alpacas Huacaya,
+        destetados aproximadamente entre siete a ocho meses es de 0.11±0.13, que es muy
+        inferior a los valores estimados por Quirita y Col. (1990); Bravo y Velasco (1982)
+        quienes encontraron valores de 0.41±0.14 y 0.34, respectivamente para animales del
+        C.E. La Raya UNSAAC – Cusco, utilizando el método de estimación regresión madre -
+        cría. Asimismo, es muy inferior al estimado por Mamani (1995) quien reporta
+        0.73±0.36 y Maquera (1996) indica 0.57±0.25 de heredabilidad para animales del C.E.
+        La Raya UNA – Puno.
+
+
+        Los valores de estimados de heredabilidad comparados con otros estudios muestran
+        diferencias, posiblemente en razón de que las poblaciones de referencia son diferentes a
+        los del presente estudio; en consecuencia, es razonable esperar variación en los valores
+        de heredabilidad, dado a que el parámetro depende de la frecuencia génica, la cual varía
+        de uno a otro rebaño por efecto de selección.
+
+
+        4.2.3. Heredabilidad de peso vellón a la primera esquila
+
+
+        La heredabilidad estimada para peso vellón a la primera esquila en alpacas de la raza
+        Huacaya es de 0.58±0.21, el mismo que es superior a lo reportado por Bravo y Velasco
+        (1982) quienes señalan una heredabilidad de 0.22; Asimismo es superior a los valores
+        encontrados por Roque y Col. (1985) 0.27±0.08; Quirita y Col. (1990) 0.31±0.17;
+        Mamani (1995), 0.38±0.34 y Maquera (1996) 0.37±0.25; pero inferior a lo reportado
+        por Olarte (1998) quien señala una heredabilidad de 0.67±0.13 para esta variable en
+        estudio; todos ellos con datos procedentes del C.E. La Raya Cusco y Puno, estimados a
+        través del método de la regresión madre - cría.
+
+
+        Este valor considerado medio a alto, significa que el carácter es heredable en esa
+        magnitud, expresado porcentualmente; de modo que el apareamiento de mejores
+        individuos para este carácter daría un mejoramiento genético moderado. Por tanto
+        podría emplearse el método de selección por performance o selección por fenotipo,
+        tomando solamente en cuenta la característica de peso vellón a la primera esquila, de
+        manera que se pueda alcanzar buen progreso genético por año y generación en un
+
+                                                  -33-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        programa de mejoramiento genético de alpacas a nivel de las diferentes unidades
+        productivas.
+
+
+        4.2.4. Heredabilidad de peso vivo al año de edad
+
+
+        El valor de heredabilidad encontrado para peso vivo al año de edad en alpacas Huacaya
+        es de 0.12±0.16. Sin embargo, al realizar la consulta bibliográfica respectiva, solamente
+        se pudo encontrar información referente al peso vivo a la primera esquila y no así para
+        peso vivo al año de edad; no obstante se debe de considerar este valor porque la primera
+        esquila se realiza aproximadamente entre los 9 a 10 meses de edad; es así que los
+        valores de heredabilidad encontrados por los diferentes autores a la edad de destete son:
+        Bravo y Velasco (1982) 0.55; Quirita y Col. (1990) 0.32±0.23; Mamani, (1995)
+        0.62±0.48; Maquera, (1996) 0.47±0.36; Málaga y Col. (1998) 0.50±0.04; y Olarte,
+        (1998) 0.79±0.11, respectivamente.
+
+
+        La heredabilidad estimada a través de correlación intraclase por medios hermanos
+        paternos para diferentes características productivas de las alpacas varía. Al respecto se
+        puede indicar que los estimados de heredabilidad para un mismo rasgo pueden mostrar
+        una gran variabilidad, atribuible a los diferentes métodos de estimación, que producen
+        valores que contienen diferentes proporciones de las variancias genéticas, no aditiva y
+        ambiental, también puede atribuirse al tipo y número de datos, al control efectivo de los
+        factores que afectan a la característica, al método utilizado en la estimación de los
+        componentes de variancia, etc. Por otra parte, algunas variaciones reflejan o son
+        consecuencia debido a diferencias reales en la constitución genética de las poblaciones.
+
+
+        4.3. Correlación fenotípica (rp)
+
+
+        Los resultados de correlación fenotípica de las características de peso vivo y peso
+        vellón, se muestran en el siguiente Cuadro.
+
+
+
+
+                                                  -34-
+TESIS UNA - PUNO                                                                                                      Universidad
+                                                                                                                      Nacional del
+                                                                                                                      Altiplano
+
+
+
+        Cuadro 9. Correlaciones fenotípicas para peso vivo y peso vellón en alpacas
+                    Huacaya del Centro de Innovación y Producción Quimsachata, INIA –
+                    Puno.
+                  Carácter                 Nº de datos                rp
+         PENAC - PEDES                         978                   0.12
+         PENAC - PEVELL                        570                   0.02
+         PENAC - PEAÑO                         782                   0.09
+         PEDES - PEVELL                        570                   0.05
+         PEDES - PEAÑO                         782                   0.46
+         PEVELL - PEAÑO                        570                   0.07
+        Fuente: Elaborado a partir del anexo (cuadro 9 - 14)
+
+        Dónde:
+                   rp                =         Correlación fenotípica
+                   Nº                =         Nº de registros utilizados
+                   PENAC             =         Peso vivo al nacimiento
+                   PEDES             =         Peso vivo al destete
+                   PEVELL            =         Peso vellón a la primera esquila
+                   PEAÑO             =         Peso vivo al año de edad
+
+
+                 0.50                                                                        0.46
+                 0.45
+                 0.40
+                 0.35
+                 0.30
+         Valor
+
+
+
+
+                 0.25
+                 0.20
+                 0.15        0.12
+                                                              0.09
+                 0.10                                                                                        0.07
+                                                                             0.05
+                 0.05                        0.02
+                 0.00
+                          PENAC - PEDES   PENAC - PEVELL   PENAC – PEAÑO PEDES – PEVELL   PEDES – PEAÑO   PEVELL – PEAÑO
+
+                                                                  Variables
+        Figura          2. Correlaciones fenotípicas para peso vivo y peso vellón en alpacas
+                           Huacaya del Centro de Innovación y Producción Quimsachata, INIA –
+                           Puno.
+
+        4.3.1. Correlación fenotípica peso vivo al nacimiento con peso vivo al destete
+                   (PENAC-PEDES)
+
+
+        La correlación fenotípica entre peso vivo al nacimiento y al destete es de 0.12, valor
+        positivo y de coeficiente bajo. Este valor es muy inferior a los reportes de Quirita y Col.
+
+                                                                -35-
+TESIS UNA - PUNO                                                                                Universidad
+                                                                                                Nacional del
+                                                                                                Altiplano
+
+
+
+        (1990) quienes estimaron 0.22 para alpacas del C.E. La Raya UNSAAC – Cusco,
+        también muy inferior a los reportes de Mamani (1991), Maquera (1996) y Málaga y
+        Col. (1998) para alpacas de la raza Huacaya del C.E. La Raya de la UNA – Puno,
+        quienes estimaron valores superiores como son: 0.41; 0.49 y 0.43, respectivamente.
+        Siendo, también muy inferior a lo reportado por Mamani (2005) quien encontró una
+        correlación de 0.41 para alpacas de la raza Huacaya de color del C.I.P. Quimsachata
+        INIA – Puno.
+
+
+        Estas diferencias probablemente se explican por las diferencias medioambientales, por
+        la metodología utilizada para su estimación y por los programas de selección diferentes
+        a la que están orientadas estas poblaciones. La correlación entre estas dos características
+        tiene un valor positivo pero con un coeficiente de correlación muy baja lo que
+        significaría que animales que nacen más pesados no siempre obtendrán pesos superiores
+        al destete, por lo cual no sería recomendable realizar una selección por peso entre estas
+        dos características.
+
+
+        4.3.2. Correlación fenotípica peso vivo al nacimiento con peso vellón a la primera
+               esquila (PENAC-PEVELL)
+
+
+        La estimación de correlación fenotípica, para peso vivo al nacimiento con el peso vellón
+        a la primera esquila es de 0.02, valor positivo y de coeficiente muy bajo. Este valor es
+        muy inferior a los reportes de Quirita y Col. (1990) quienes estimaron un valor de 0.18
+        para alpacas del C.E. La Raya UNSAAC – Cusco, también muy inferiores a los reportes
+        de Mamani (1995) y Maquera (1996) quienes encontraron valores de 0.29 y 0.31 para
+        alpacas de la raza Huacaya del C.E. La Raya de la UNA – Puno, respectivamente.
+
+
+        Esta correlación, es positiva pero de coeficiente muy bajo, que además difiere
+        grandemente a los reportes indicados, diferencia que posiblemente se explican por las
+        condiciones medioambientales a las que están sometidos estas poblaciones de alpacas.
+        Lo que significa que estas dos características tienen casi un comportamiento
+        independiente. Por tanto, no se puede realizar selección tomando en cuenta este factor
+        como indicador de la producción de peso vellón a la primera esquila.
+
+
+
+
+                                                   -36-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        4.3.3. Correlación fenotípica peso vivo al nacimiento con peso vivo al año de edad
+               (PENAC-PEAÑO)
+
+
+        La estimación de correlación fenotípica, para peso vivo al nacimiento con el peso vivo
+        al año de edad es de 0.09, valor positivo y de coeficiente muy bajo. Valor muy inferior a
+        lo reportado por Mamani (2005) quien encontró un valor de 0.36 en la misma población
+        de alpacas del CIP Quimsachata INIA – Puno. Asimismo, al realizar la consulta
+        bibliográfica, solamente se pudo encontrar información referente a la correlación
+        existente entre la correlación fenotípica entre pesos vivos al destete con pesos a la
+        primera esquila, siendo estos reportes de Quirita y Col. (1990) en el C.E. La Raya
+        UNSAAC – Cusco, quienes reportan 0.20, mientras que Mamani (1991); Maquera
+        (1996) y Málaga (1998) en el C.E. La Raya UNA – Puno estimaron una correlación de
+        0.39, 0.53 y 0.35 respectivamente. Estas diferencias encontradas, no son propiamente a
+        la correlación existente entre el peso vivo al nacimiento con el peso vivo al año de edad.
+        Sin embrago, sirve como referencia considerando que la primera esquila se realiza
+        aproximadamente entre los 9 y 10 meses (Bustinza, 2001), lo que se aproxima al año de
+        edad; es de valor positivo pero de coeficiente muy bajo, lo que probablemente sea
+        debido a la metodología utilizada para su estimación y por las diferencias medio
+        ambientales, lo que significa que estas dos características correlacionadas muestran casi
+        un comportamiento independiente, por lo cual no es recomendable realizar una
+        selección tomando en cuenta la relación entre estas características.
+
+
+        4.3.4. Correlación fenotípica peso vivo al destete con peso vellón a la primera
+               esquila (PEDES-PEVELL)
+
+
+        La estimación de correlación fenotípica, para peso vivo al destete con el peso vellón a la
+        primera esquila es de 0.05, valor positivo y de coeficiente de correlación muy bajo. Este
+        valor es muy inferior a los reportes de Mamani (1995) y Maquera (1996), quienes
+        estimaron en una población de alpacas de la raza Huacaya del C.E. La Raya UNA –
+        Puno, obteniendo valores de 0.41 y 0.36, respectivamente. Coeficiente que indica que el
+        comportamiento entre estas características es casi independiente, de igual manera que
+        las anteriores correlaciones no es recomendable realizar la selección.
+
+
+
+
+                                                   -37-
+TESIS UNA - PUNO                                                                                            Universidad
+                                                                                                            Nacional del
+                                                                                                            Altiplano
+
+
+
+        4.3.5. Correlación fenotípica peso vivo al destete con peso vivo al año de edad
+                                               (PEDES-PEAÑO)
+
+
+        La estimación de correlación fenotípica, para la característica de peso vivo al destete
+        con el peso vivo al año de edad es de 0.46, valor positivo y de coeficiente de correlación
+        bajo a medio. Este valor es inferior al reporte de Mamani (2005), quien encontró un
+        valor de 0.77, en la misma población de alpacas de la raza Huacaya de color del CIP
+        Quimsachata INIA – Puno. Valor importante, ya que indica el alto grado de asociación
+        entre estas características; este resultado, induce a usar la selección de reproductores
+        tomando en cuenta cualquiera de las dos características durante el periodo del desarrollo
+        corporal.
+
+
+        Por tanto, se puede inferir que la selección por el carácter peso vivo al destete influye
+        medianamente en la selección indirecta del carácter peso vivo al año de edad. No
+        obstante, al realizar la consulta bibliográfica se pudo encontrar reportes de Mamani
+        (1991), Maquera (1996) y Málaga (1998), quienes encontraron valores de 0.84; 0.88 y
+        0.80 respectivamente, para la correlación entre el peso vivo al destete con el peso a la
+        primera esquila de las alpacas del C.E. La Raya – Puno, valores que también indican el
+        alto grado de asociación entre estas dos características productivas de las alpacas.
+
+                                          32
+                                                r=0.46
+                                          30
+
+
+
+                                          28
+
+
+
+                                          26
+
+
+
+                                          24
+
+
+
+                                          22
+           Peso vivo al año de edad, kg
+
+
+
+
+                                          20
+
+
+
+                                          18
+                                           18            20    22              24                 26   28   30
+                                                                    P eso vivo al dest et e, kg
+
+        Figura 3. Correlación fenotípica entre peso vivo al destete y peso vivo al año de
+        edad en alpacas Huacaya del C.I.P. Quimsachata, INIA - Puno.
+
+                                                                           -38-
+TESIS UNA - PUNO                                                                                                    Universidad
+                                                                                                                    Nacional del
+                                                                                                                    Altiplano
+
+
+
+        4.3.6. Correlación fenotípica entre peso vellón a la primera esquila con peso vivo
+                                                       al año de edad (PEVELL-PEAÑO)
+
+
+        La estimación de correlación fenotípica, para la característica de peso vellón a la
+        primera esquila con el peso vivo al año de edad es de 0.07, valor positivo y de
+        coeficiente muy bajo. Valor que indica que la asociación entre estas dos características
+        es muy baja, lo que quiere decir que las características correlacionadas muestran un
+        comportamiento casi independiente. Sin embargo, al realizar la consulta bibliográfica
+        respectiva, solamente se encontró información respecto a la correlación entre el peso
+        vivo a la primera esquila con peso vellón a la primera esquila, estimados por Maquera
+        (1996) y Olarte (1998) quienes encontraron valores de 0.40 y 0.24, respectivamente en
+        alpacas de la raza Huacaya del C.E. La Raya de la UNA – Puno.
+
+
+        En síntesis, la correlación del peso vivo al destete con el peso vivo al año de edad
+        además de ser positiva tiene un coeficiente medianamente alto, de manera que se tendrá
+        mediana confiabilidad de seleccionar al destete e indirectamente se estaría
+        seleccionando la velocidad de crecimiento posterior al destete, debido probablemente a
+        la acción de los genes pleiotrópicos. Sin embargo, la relación entre el peso vivo al
+        nacimiento con: peso al destete, peso vellón a la primera esquila y peso vivo al año de
+        edad tienen un coeficiente de correlación muy bajo, mostrando que estas características
+        correlacionadas tiene un comportamiento casi independiente.
+
+                                                 1.6
+                                                       r=0.07
+                                                 1.5
+
+                                                 1.4
+
+                                                 1.3
+
+                                                 1.2
+
+                                                 1.1
+
+                                                 1.0
+
+                                                 0.9
+          Peso vellón a la primera esquila, kg
+
+
+
+
+                                                 0.8
+
+                                                 0.7
+                                                    18          20   22     24           26      28       30   32   34
+                                                                          Pes o vivo al año de edad, kg
+
+        Figura 4. Correlación fenotípica entre peso vellón a la primera esquila y peso vivo
+                  al año de edad en alpacas Huacaya del C.I.P. Quimsachata, INIA - Puno.
+
+
+                                                                                  -39-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        Sin embargo, al realizar la consulta bibliográfica respectiva nos lleva a pensar que no se
+        puede seleccionar tomando en cuenta el carácter del peso vivo al nacimiento para elegir
+        indirectamente su desarrollo posterior, ya que el medio ambiente (Puna seca) a la cual
+        están sometidos durante su desarrollo posterior al nacimiento será muy variable,
+        inclusive adversa. Por tanto, la correlación fenotípica observada demuestra que no
+        necesariamente es de naturaleza genética, es decir una selección por estas características
+        correlacionadas no siempre conducirá a una ganancia genética (Cardellino y Rovira,
+        1987).
+
+
+        4.4. Correlación genética (rg)
+
+
+        Las correlaciones genéticas (rg) obtenidas en el presente estudio para las características
+        de peso vivo y peso vellón, se presentan de la siguiente manera:
+
+
+        Cuadro 10. Correlaciones genéticas para peso vivo y peso vellón en
+                     alpacas Huacaya del Centro de Innovación y Producción
+                     Quimsachata, INIA – Puno.
+                Carácter               Nº de datos               rg ± E.E.
+         PENAC - PEDES                     978                 -0.02 ± 1.01
+         PENAC - PEVELL                    570                -1.28 ± -0.36
+         PENAC - PEAÑO                     782                 1.14 ± -0.32
+         PEDES - PEVELL                    570                 0.43 ± 0.38
+         PEDES - PEAÑO                     782                 1.89 ± -2.28
+         PEVELL - PEAÑO                    570                 0.48 ± 0.38
+        Fuente: Elaborado a partir del anexo (Cuadro 9 - 14)
+
+        Dónde:
+
+                 rg           =     Correlación genética
+                 Nº           =     Nº de registros utilizados
+                 PENAC        =     Peso vivo al nacimiento
+                 PEDES        =     Peso vivo al destete
+                 PEVELL       =     Peso vellón a la primera esquila
+                 PEAÑO        =     Peso vivo al año de edad
+
+
+
+
+                                                  -40-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+          0.60
+
+                                                                               0.48
+          0.50
+                                                        0.43
+          0.40
+
+          0.30
+
+          0.20
+
+          0.10
+                            -0.02
+          0.00
+                     PENAC - PEDES                 PEDES – PEVELL       PEVELL – PEAÑO
+          -0.10
+        Figura 5. Correlaciones genéticas para peso vivo y peso vellón en alpacas Huacaya
+                  del Centro de Innovación y Producción Quimsachata, INIA – Puno.
+
+        4.4.1. Correlación genética peso vivo al nacimiento con peso vivo al destete
+               (PENAC-PEDES)
+
+
+        La correlación genética de alpacas Huacaya entre peso vivo al nacimiento con peso vivo
+        al destete es de -0.02±1.01, valor negativo. Este valor es muy inferior a los reportados
+        por Quirita y Col. (1990), quienes encontraron valores de 0.57±0.17 para alpacas
+        Huacaya del C.E. La Raya UNSAAC – Cusco, también inferiores a los reportes de
+        Málaga y Col. (1998) 1.03±0.31 para alpacas del C.E. La Raya UNA – Puno. Lo que
+        implica que la asociación genética entre estas dos características, es contraproducente,
+        consiguientemente si se selecciona por una característica para mejorar, se deprime la
+        manifestación de la otra característica.
+
+        4.4.2. Correlación genética peso vivo al nacimiento con peso vellón a la primera
+               esquila (PENAC-PEVELL)
+
+
+        La correlación genética entre peso vivo al nacimiento y peso vellón a la primera esquila
+        es de -1.28±-0.36, éste valor se encuentra fuera del espacio paramétrico de la
+        correlación que va de -1 a +1, probablemente por la metodología que se ha utilizado
+        (Método de Mínimos Cuadrados Ordinarios) lo cual probablemente no sucedería si se
+        hubiera utilizado el método de máxima verosimilitud restringida (REML) y el método
+        de muestreo de Gibbs, ambas en la actualidad son las más utilizadas en mejora genética
+        animal.
+
+
+
+                                                     -41-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+        Ello es así porque los estimadores hallados son aplicables a modelos mixtos
+        desequilibrados, permiten utilizar fácilmente toda la información que contienen los
+        datos, no subestiman la varianza residual y, no están afectados por la existencia de
+        determinados tipos de selección o, si lo están, lo están menos que otros estimadores
+        (Meyer, 1990). Este valor difiere totalmente a los reportados por Quirita y Col. (1990),
+        quien reporta un valor de 0.34±0.28 para alpacas Huacaya del C.E. La Raya UNSAAC
+        – Cusco, entre peso vivo al nacimiento con peso vellón a la primera esquila, existiendo
+        solo esta estimación entre estas características. Lo que implica que la asociación
+        genética entre estas dos características, es contraproducente, consiguientemente si se
+        selecciona por una característica para mejorar, se deprime la manifestación de la otra
+        característica, mostrando independencia, significa que animales más pesados al
+        nacimiento por causas ambientales (efecto maternal) no implicaría obtener vellones
+        pesados a la primera esquila.
+
+
+        4.4.3. Correlación genética peso vivo al nacimiento con peso vivo al año de edad
+               (PENAC-PEAÑO)
+
+
+        La correlación genética entre peso vivo al nacimiento y peso vivo al año de edad es de
+        1.14±-0.32; éste valor se encuentra fuera del espacio paramétrico de la correlación que
+        va de -1 a +1, probablemente por la metodología que se ha utilizado (Método de
+        Mínimos Cuadrados Ordinarios) lo cual probablemente no sucedería si se hubiera
+        utilizado el método de máxima verosimilitud restringida (REML) y el método de
+        muestreo de Gibbs, el método REML y el de Gibbs sampling, ambas en la actualidad
+        son las más utilizadas en mejora genética animal.
+
+
+
+        Ello es así porque los estimadores hallados son aplicables a modelos mixtos
+        desequilibrados, permite utilizar fácilmente toda la información que contienen los datos,
+        no subestiman la varianza residual y, no están afectados por la existencia de
+        determinados tipos de selección o, si lo están, lo están menos que otros estimadores
+        (Meyer, 1990); no obstante Quirita y Col. (1990) en una población de alpacas del C.E.
+        La raya UNSAAC – Cusco, encontraron una correlación de 0.67±0.20, para la misma
+        característica en estudio. Asumiendo, que la esquila se realiza aproximadamente entre
+        los 9 y 10 meses de edad, el cual está muy próximo al año de edad.
+
+                                                  -42-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+        4.4.4. Correlación peso vivo al destete con peso vellón a la primera esquila
+               (PEDES-PEVELL)
+
+
+        La correlación genética obtenida entre peso vivo al destete y peso vellón a la primera
+        esquila es de 0.43±0.38, valor positivo y de coeficiente medianamente alto. Al hacer
+        referencia sobre esta correlación se debe de señalar que es un valor medianamente alto,
+        lo cual sí atribuiría a la acción pleiotrópica de los genes; y por consiguiente al
+        seleccionar por el carácter de peso vivo al destete se estaría asegurando la selección
+        indirecta del carácter peso vellón a la primera esquila.
+
+
+        4.4.5. Correlación peso vivo al destete con peso vivo al año de edad (PEDES-
+               PEAÑO)
+
+
+        La correlación genética obtenida entre peso vivo al destete y peso vivo al año de edad
+        en alpacas Huacaya es de 1.89±-2.28, éste valor se encuentra fuera del espacio
+        paramétrico de la correlación que va de -1 a +1, probablemente por la metodología que
+        se ha utilizado (Método de Mínimos Cuadrados Ordinarios) lo cual no sucedería si se
+        hubiera utilizado el método de máxima verosimilitud restringida (REML) y el método
+        de muestreo de Gibbs, ambas en la actualidad son las más utilizadas en mejora genética
+        animal. Ello es así porque los estimadores hallados son aplicables a modelos mixtos
+        desequilibrados, permiten utilizar fácilmente toda la información que contienen los
+        datos, no subestiman la varianza residual y, no están afectados por la existencia de
+        determinados tipos de selección o, si lo están, lo están menos que otros estimadores
+        (Meyer, 1990).
+
+
+        La causa permanente de que dos caracteres estén genéticamente correlacionados es la
+        pleiotropía; algunos de los genes que afectan a 1, afectan también a 2 (Cardellino y
+        Rovira, 1987), y por consiguiente al seleccionar por el carácter de peso vivo al destete
+        se estaría asegurando la selección indirecta del carácter peso vivo al año de edad.
+
+
+
+
+                                                   -43-
+TESIS UNA - PUNO                                                                               Universidad
+                                                                                               Nacional del
+                                                                                               Altiplano
+
+
+
+        4.4.6. Correlación peso vellón a la primera esquila con peso vivo al año de edad
+               (PEVELL-PEAÑO)
+
+
+        La correlación genética encontrada entre peso vellón a la primera esquila y el peso vivo
+        al año de edad es de 0.48±0.38, valor positivo y de coeficiente medianamente alto. No
+        obstante, al realizar la consulta bibliográfica, se encontró solamente información
+        respecto a la correlación entre peso vivo y peso de vellón a la primera esquila en una
+        población de alpacas de la raza Huacaya del C.E. La Raya – Puno, estimados por
+        Mamani (1995), Maquera (1996) y Olarte (1998), siendo estos valores de 0.39±0.23;
+        0.41±0.24 y 0.58±0.08, respectivamente. Lo cual probablemente se atribuye a la acción
+        pleiotrópica de los genes; y por consiguiente al seleccionar por el carácter de peso
+        vellón a la primera esquila se estaría asegurando la selección indirecta del carácter peso
+        vivo al año de edad.
+
+
+        Los valores estimados de correlación genética no son constantes, si no que dependen de
+        la composición genética de la población (frecuencias génicas y genotípicas) así como el
+        medio ambiente, es así que se recomienda que es necesario realizar estimaciones locales
+        y, además, repetirlas con cierta frecuencia a medida que la población evoluciona en el
+        tiempo. También indica que las correlaciones genéticas son afectadas por el medio
+        ambiente; hay evidencias de que las correlaciones genéticas son menos negativas, donde
+        la alimentación es más intensa que en las zonas con limitada disponibilidad de
+        alimentos; periodo y numero de datos diferentes utilizados en la estimación de esta
+        correlación, así mismo quizá se deba a los programas diferentes que persiguen estas
+        poblaciones (Cardellino y Rovira, 1987).
+
+
+        Por lo tanto, al igual que la heredabilidad, las estimaciones de las correlaciones
+        genéticas pueden mostrar una gran variabilidad, esto puede atribuirse a los diferentes
+        métodos de estimación, que producen valores que contienen diferentes proporciones de
+        las variancias genéticas, no aditiva y ambiental, también puede atribuirse al tipo de
+        datos, al control efectivo de los factores que afectan a la característica, al método
+        utilizado en la estimación de los componentes de variancia, etc. (Zerlotti y Col., 1995).
+        Por otra parte, algunas variaciones reflejan o son consecuencia debido a diferencias
+        reales en la constitución genética de las poblaciones.
+
+
+                                                   -44-
+TESIS UNA - PUNO                                                                          Universidad
+                                                                                          Nacional del
+                                                                                          Altiplano
+
+
+
+        Asimismo, esta diferencia, posiblemente se debe a que sus programas de mejoramiento
+        genético son diferentes, puesto que las poblaciones de alpacas tanto del C.E. La Raya
+        Cusco y Puno, están orientados principalmente a la mejora del peso vivo y vellón,
+        además se encuentran en la zona agroecológica de Puna húmeda, mientras que la
+        población de alpacas del Centro de Innovación y Producción Quimsachata está
+        orientada a la conservación del Banco de Germoplasma de alpacas de color, ubicada en
+        la zona agroecológica de Puna seca, el mismo que cuenta con características muy
+        diferentes a las de Puna húmeda.
+
+
+
+
+                                                -45-
+TESIS UNA - PUNO                                                                              Universidad
+                                                                                              Nacional del
+                                                                                              Altiplano
+
+
+
+                                      V.     CONCLUSIONES
+
+
+        En base a los resultados obtenidos, las conclusiones del presente estudio sobre los
+        estimados de heredabilidad, correlaciones fenotípicas y genéticas para peso vivo y peso
+        vellón de alpacas de la raza Huacaya del Centro de Innovación y Producción
+        Quimsachata INIA - Puno son:
+
+
+         1. El valor de heredabilidad para peso vellón a la primera esquila es de 0.58±0.21,
+            siendo el único valor medianamente alto; mientras los valores estimados de las
+            heredabilidades del peso vivo: al nacimiento, al destete y al año de edad son de
+            0.07±0.12; 0.11±0.13 y 0.12±0.16, valores positivos pero de coeficientes muy
+            bajos, respectivamente.
+
+
+         2. En relación, a los estimados de correlación fenotípica, sólo la correlación entre el
+            peso vivo al destete y el peso vivo al año de edad es de 0.46, coeficiente positivo y
+            alto; mientras que los coeficientes de otras correlaciones resultaron bajos, pero
+            positivos.
+
+
+         3. Los estimados de correlación genética, de peso vivo al destete y al año de edad con
+            peso vellón a la primera esquila, son las dos únicas correlaciones que se encuentran
+            dentro del rango de las correlaciones siendo estas de 0.43±0.38 y 0.48±0.38,
+            respectivamente, siendo estas positivas y medianamente altos. Mientras, que las
+            otras correlaciones resultaron fuera de los rangos de correlación, siendo estas más
+            de uno y algunos negativos.
+
+
+
+
+                                                  -46-
+TESIS UNA - PUNO                                                                             Universidad
+                                                                                             Nacional del
+                                                                                             Altiplano
+
+
+
+                                    VI. RECOMENDACIONES
+
+
+        En base a las conclusiones del presente estudio se recomienda lo siguiente:
+
+
+        1.   Sobre los valores de heredabilidad, emplear la selección como método de mejora
+             genética, para la característica peso vellón a la primera esquila en alpacas
+             Huacaya del CIP Quimsachata, INIA – Puno.
+
+
+        2.   Sobre los valores de correlación fenotípica para la característica de peso vivo, se
+             recomienda realizar la selección de animales por peso vivo, teniendo en
+             consideración, preferentemente, el peso vivo al destete; de modo que
+             automáticamente se estará seleccionando su futuro desarrollo.
+
+
+
+        3.   Sobre los valores de correlación genética para las características de peso vivo, se
+             recomienda realizar la selección de animales por peso vivo, teniendo en
+             consideración, preferentemente, el peso vivo al destete y peso vivo al año de edad;
+             de modo que al realizar ésta selección, también se estará seleccionando animales
+             que tengan un mayor peso vellón a la primera esquila.
+
+
+        4.   Manejar con mayor cuidado los registros de producción y reproducción, para
+             estimar parámetros genéticos de las características de importancia económica, de
+             manera periódica y en cada zona agroecológica, a fin de observar el
+             comportamiento de estos parámetros y plantear programas de mejoramiento
+             genético más específicos.
+
+
+        5.   Se recomienda estimar los parámetros genéticos mediante el método de Máxima
+             Verosimilitud Restringida (REML) puesto que este método tiene en cuenta la
+             deriva y selección genética.
+
+
+
+
+                                                  -47-
+TESIS UNA - PUNO                                                                           Universidad
+                                                                                           Nacional del
+                                                                                           Altiplano
+
+
+
+                                      VII. BIBLIOGRAFIA
+
+        ANDRADE, A., 1992. La Alpaca potencial de los altos andes sudamericanos. Informe
+              Técnico. PAL-INIAA-COTESU., Puno – Perú.
+
+        AMPUERO, E., 1987. Influencia del peso vivo y edad de las madres alpacas en las
+              crías. Resúmenes de la X Reunión Científica Anual de la Asociación Peruana de
+              Producción Animal (APPA) Puno – Perú.
+
+        BARCENA, E., 1988. Biometría del desarrollo de la alpaca del nacimiento hasta los 12
+              meses de edad. Resúmenes VI Convención Internacional de Especialistas de
+              Camélidos. Oruro. Bolivia.
+
+        BECKER, W., 1986. Manual de Genética Cuantitativa. Academic Interprises. Pullman,
+              Washington – EE.UU.
+
+        BLANCO, V. H., 1980. Peso vivo, peso vellón y rendimiento de vellón de alpacas en la
+              CAP. Huaycho Ltda. Nº 44. Tesis Med. Vet. y Zoot. UNTA. Puno - Perú.
+
+        BRAVO .W. y J. VELAZCO. 1982. Heredabilidad de pesos al nacimiento, al destete y
+              a la primera esquila en alpacas.VII Congreso Nacional de Ciencias Veterinarias,
+              10 – 13 de Noviembre, Ica – Perú.
+
+        BUSTINZA, V., 1986. Los Camélidos Sudamericanos Domésticos y el Desarrollo
+              Andino. Facultad de Medicina Veterinaria y Zootecnia – Instituto de
+              Investigaciones para el Desarrollo Social del Altiplano, UNA – Puno, Perú.
+
+        BUSTINZA, V., P. J. BURFENING y R. L. BLACKWELL. 1988. Factors Affecting
+              Survival in Young Alpacas. (Lama pacos). J. Animal Sciencie.
+
+        BUSTINZA, V., 2001. La Alpaca Primera Edición. Tomo II. Fac. Med. Vet. y Zoot. –
+              Instituto de Investigación y Promoción de Camélidos - UNA-Puno.
+
+        CALZADA, J. 1983. Métodos Estadísticos para la Investigación. Tercera Edición.
+              Editorial Distribución Milagros S.A. Lima – Perú.
+
+        CARDELLINO, R. J. ROVIRA. 1987. Mejoramiento Genético Animal. Editorial
+              Agropecuario Hemisferio Sur S.R.L. Montevideo – Uruguay.
+
+
+                                                  -48-
+TESIS UNA - PUNO                                                                        Universidad
+                                                                                        Nacional del
+                                                                                        Altiplano
+
+
+
+        CRUZ, C. BUSTINZA, V. Y SANCHEZ, C. 1991. Índices productivos de alpacas en
+               Chichillapi. Resúmenes VI Convención Internacional de Especialistas en
+               Camélidos. Oruro. Bolivia.
+
+        DIAZ, V. 1989. La crianza familiar de alpacas, ovinos y llamas en la Comunidad
+               Campesina de Túpac Amaru de Macusani. Tesis. Med. Vet. y Zootec. FMVZ.
+               UNA – PUNO.
+
+        FALCONER, D. 1986. Introducción a la Genética Cuantitativa. Segunda Edición en
+               Español Editorial Continental S. A. México.
+
+        HERDERSON, C. 1952. Estimation of variance and covariance components. Presented
+               at North Carolina Status Conference. Cornell University.
+
+        HERRERA, J. 1985. Introducción al Mejoramiento Genético Animal. Colegio de
+               Postgraduados. Centro de Ganadería. Chapingo – México.
+
+        INCAGRO, 2007. Informe de instituciones de unidades experimentales de los bofedales
+               de puna seca y húmeda. Puno – Perú.
+
+        INIA – Illpa, 2008. Plan operativo anual INIA – Illpa. Puno – Perú.
+
+        LUSH, J. L. 1969. Bases para la selección animal. Ediciones agropecuarias. Buenos
+               Aires – Argentina.
+
+        KADWELL, M.; M. FERNANDEZ; H.F. STANLEY; R. BALDI; J.C. WHEELER; R.
+               ROSADIO; M.W. BRUFORD. 2001. Genetic analysis reveals the wild ancestors
+               of the llama and y alpaca. P. Roy. Soc. Lond. B.
+
+        MALAGA, J. y U. OLARTE, 1996. Heredabilidad y repetibilidad para peso vivo al
+               nacimiento en alpacas Huacaya. Resúmenes de la XIX Reunión Científica Anual
+               de la Asociación Peruana de producción Animal. UNSAAC.
+
+        MALAGA, J., BUSTINZA, V. y CALDERON, J. 1998. Parámetros Genéticos de Peso
+               Vivo en Alpacas Huacaya. Resúmenes de la XIX Reunión Científica Anual de la
+               Asociación Peruana de producción Animal. Universidad Nacional del Altiplano
+               Puno – 1998.
+
+
+
+                                                 -49-
+TESIS UNA - PUNO                                                                           Universidad
+                                                                                           Nacional del
+                                                                                           Altiplano
+
+
+
+        MAMANI, G. 1988. Mejoramiento genético de alpacas. En: “Encuentro Técnico
+              Microregional sobre alpacas, pastos y post – producción”, realizado en Lampa,
+              Puno, 16 al 28 de Mayo de 1988, Puno – Perú.
+
+        MAMANI, G. 1991. Parámetros Genéticos de peso vivo y peso vellón en alpacas
+              Huacaya del C.E. La Raya – Puno. Resúmenes de la VII Convención
+              Internacional de Camélidos Sudamericanos. Jujuy – Argentina.
+
+        MAMANI, G. 1995. Transmisión hereditaria del peso vivo y de vellón en alpacas
+              Huacaya de Puna Húmeda, Puno. Resúmenes de la XVII Reunión Científica
+              Anual de la Asociacion Peruana de Producción Animal. Universidad Nacional
+              Pedro Ruiz Gallo.
+
+        MAMANI, G. 2005. Estimación de repetibilidad y correlación fenotípica para peso vivo
+              al nacimiento, destete y al año de edad en alpacas Huacaya de color en el C.I.P.
+              Quimsachata – Puno. Tesis MVZ. UNA. Puno – Perú.
+
+        MAMANI, J. 2011. Producción de Camélidos Sudamericanos. UNA-FCA-DAAZ-
+              2011. Puno – Perú.
+
+        MAQUERA, L. 1996. Estimación de algunos parámetros genéticos y fenotípicos en
+              alpacas de la raza Huacaya del Centro Experimental La Raya. Tesis MVZ. UNA.
+              Puno – Perú.
+
+        MARSHALL, L. G.; BUTLER, R. F.; DRAKE, R. E.; CURTIS, G. H. AND
+              TEDFORD, R. H., 1979. Calibration of the great american interchange. Science.
+
+        MEDINA, G., BUSTINZA, V. y OLARTE, U.,1988. Mejoramiento de alpacas a través
+              de reproductores en Comunidades Campesinas. Resúmenes. VI Convención
+              Internacional de Especialistas en Camélidos. Oruro. Bolivia.
+
+        MEYER, K. 1990. Present Status of Knowledgement About Statistical Procedures and
+              Algorithms to Estímate Variance and Covarance Components. Proc. 4th World
+              Congress on Genetics Applied Livestock Production, Edinburg, XIII: 407-418.
+
+        MINISTERIO DE AGRICULTURA, 2001. Oficina de Información Agraria. Dirección
+              Regional Agraria Puno – Perú.
+
+
+                                                -50-
+TESIS UNA - PUNO                                                                          Universidad
+                                                                                          Nacional del
+                                                                                          Altiplano
+
+
+
+        MINISTERIO DE AGRICULTURA, 2010. Oficina de Información Agraria. Dirección
+               Regional Agraria Puno – Perú.
+
+        MIRANDA, F., 1990. Evaluación Edafoagrostológica de Praderas Naturales del Centro
+               de Experimental Quimsachata INIA Puno. Tesis Ing. Agronómica. UNA – Puno,
+               Perú.
+
+        OLARTE, U., 1998. Índices de Selección en el Mejoramiento Genético de la Alpaca.
+               Tesis de Post Grado en Ganadería Andina, UNA – Puno.
+
+        QUIRITA, C.; M. RUIZ DE CASTILLA y G. ALAGON. 1990. Estimación de los
+               parámetros genéticos en alpacas Huacaya del Centro Experimental La Raya de la
+               UNSAAC. Tesis de F.I.Z. Cusco - Perú.
+
+        RUIZ DE CASTILLA, M. 2004. Genética y mejoramiento de animales domésticos.
+               Primera edición. Editorial universitaria – UNSAAC – Cusco.
+
+        SAS Institute Inc. 2004. SAS/IML 9.1 User’s Guide. Cary, NC: SAS Institute Inc.
+
+        SENAMHI, 2003. Datos de Coordenadas Geográficas, Precipitación Pluvial y
+               Temperatura. Puno – Perú.
+
+        STONAKER, H. H. 1977. Genética Para el Mejoramiento Animal. AID. Centro
+               Regional de Ayuda Técnica México.
+
+        TURNER, H. and YOUNG, S., 1969. Quantitative Genetics in sheep breeding. Cornell
+               University Press. ITHACA. New York.
+
+        VELASCO, J. 1980. Índice de herencia de peso vivo al nacimiento. IV Reunión
+               Científica Anual de la APPA. Ayacucho – Perú.
+
+        VELARDE, N., MAMANI, G. y BUSTINZA, V., 1987. Efecto de la edad sobre la
+               producción de carne y fibra en alpacas machos de la raza Huacaya. Resumenes
+               de la X Reunión Científica Anual de la Asociación Peruana de Producción
+               Animal (APPA) Puno – Perú.
+
+        WARWICK, E. and J. LEGATES. 1980. “Cría y mejoramiento del Ganado” Tercera
+               edición. Editorial Mc-Graw. Hill. México.
+
+
+                                                -51-
+TESIS UNA - PUNO                                                           Universidad
+                                                                           Nacional del
+                                                                           Altiplano
+
+
+
+                                         ANEXOS
+
+
+        CUADRO 1. ANÁLISIS DE VARIANCIA PARA EL PESO VIVO AL NACIMIENTO
+             F.V.        G.L.            S.C.        C.M.       F     Sig.
+         Año              13            14.27437737 1.09802903 4.25    **
+         Sexo              1             0.02651739 0.02651739 0.10   N.S.
+         Edad              9             8.60944644 0.95660516 3.71    **
+         Error           1125          290.3381403   0.2580783
+         Total           1148           313.2484815
+        R2             =      0.073738
+        C.V.           =      8.033054%
+        Error estándar =      0.508014
+        Media          =      6.324047
+
+
+        CUADRO 2. ANÁLISIS DE VARIANCIA PARA EL PESO VIVO AL DESTETE.
+             F.V.        G.L.            S.C.        C.M.       F        Sig.
+         Año              10            447.9551971 44.7955197 7.47       **
+         Sexo              1             16.7822180 16.7822180 2.80      N.S.
+         Edad              9            117.0146245 13.0016249 2.17        *
+         Error           957            5738.595368   5.996442
+         Total           977            6320.347408
+        R2             =      0.092044
+        C.V.           =      10.37314%
+        Error estándar =      2.448763
+        Media          =      23.606780
+
+
+        CUADRO 3. ANVA PARA EL PESO VIVO AL AÑO DE EDAD.
+             F.V.        G.L.            S.C.        C.M.          F     Sig.
+         Año              8            787.7993407  98.4749176   15.81    **
+         Sexo             1              37.6664190 37.6664190    6.05     *
+         Edad             9              63.4508984  7.0500998    1.13   N.S.
+         Error           763            4752.890931   6.229215
+         Total           781            5641.807589
+        R2             =      0.157559
+        C.V.           =      9.582734%
+        Error estándar =      2.495840
+        Media          =      26.04517
+
+
+        CUADRO 4. ANVA PARA EL PESO VELLON A LA PRIMERA ESQUILA
+             F.V.        G.L.           S.C.        C.M.       F         Sig.
+         Año              8             1.63020779 0.20377597 9.95        **
+         Sexo             1             0.00009694 0.00009694 0.00       N.S.
+         Edad             7             0.44751267 0.06393038 3.12         *
+         Error           553           11.32880298 0.02048608
+         Total           569           13.40662039
+         2
+        R              =      0.154984
+        C.V.           =      12.31960%
+        Error estándar =      0.143130
+        Media          =      1.161804
+
+
+                                           -52-
+TESIS UNA - PUNO                                                                           Universidad
+                                                                                           Nacional del
+                                                                                           Altiplano
+
+
+
+        ANALISIS DE VARIANZA PARA HALLAR LOS COMPONENTES DE VARIANZA
+
+
+       CUADRO 5. ANVA DEL PESO VIVO AL NACIMIENTO
+                                                                                   Componente de
+         F.V.    G.L.        S.C.          C.M.    Cuadrado de la media esperado
+                                                                                      varianza
+        Padre     372     97.663409    0.262536    CM(Error) + 3.0718 CM(Padre)      0.0046156
+        Error     776     192.725977   0.248358    CM(Error)                          0.248358
+        Total     1148 290.389386
+       Media                           =      6.324047
+       Error estándar de la media      =      0.498355294
+       Coeficiente de variabilidad     =      7.88%
+
+
+       CUADRO 6. ANVA DEL PESO VIVO AL DESTETE
+                                                                                   Componente de
+         F.V.    G.L.        S.C.          C.M.    Cuadrado de la media esperado
+                                                                                     varianza
+        Padre     313     1955.560324 6.247797 CM(Error) + 3.103 CM(Padre)            0.16864
+        Error     664     3801.077005 5.724514 CM(Error)                              5.72451
+        Total     977     5756.637328
+       Media                          =     23.60678
+       Error estándar de la media     =     2.392595662
+       Coeficiente de variabilidad    =     10.14%
+
+
+       CUADRO 7. ANVA DEL PESO VIVO AL AÑO DE EDAD
+                                                                                   Componente de
+         F.V.    G.L.        S.C.          C.M.    Cuadrado de la media esperado
+                                                                                     varianza
+        Padre     281     1828.704747 6.507846 CM(Error) + 2.7616 CM(Padre)           0.19004
+        Error     500     2991.519069 5.983038 CM(Error)                              5.98304
+        Total     781     4820.223816
+       Media                          =     26.04517
+       Error estándar de la media     =     2.446024939
+       Coeficiente de variabilidad    =     9.39%
+
+
+       CUADRO 8. ANVA DEL PESO VELLON A LA PRIMERA ESQUILA
+                                                                                   Componente de
+         F.V.    G.L.        S.C.          C.M.    Cuadrado de la media esperado
+                                                                                      varianza
+        Padre     240     5.721803     0.023841    CM(Error) + 2.3563 CM(Padre)      0.0028818
+        Error     329     5.609544     0.017050    CM(Error)                          0.01705
+        Total     569     11.331348
+       Media                           =      1.161804
+       Error estándar de la media      =      0.130575648
+       Coeficiente de variabilidad     =      11.24%
+
+
+
+
+                                                  -53-
+TESIS UNA - PUNO                                                                                 Universidad
+                                                                                                 Nacional del
+                                                                                                 Altiplano
+
+
+
+           ANÁLISIS DE COVARIANZA PARA HALLAR LOS COMPONENTES DE
+                                COVARIANZA
+
+      CUADRO 9. ANCOVA ENTRE PESO VIVO AL NACIMIENTO Y PESO VIVO AL DESTETE
+                                                 Componen     Componente de
+                                                                                   Cuadrado medio
+         F.V.   G.L.     S.P.          P.M.          te de    correlación de la
+                                                                                   de la correlación
+                                                 covarianza       varianza
+        Padre   259    38.511168     0.148692     -0.000667        0.0000               0.1276
+        Error   388    58.335346     0.150349      0.150349        0.1289               0.1289
+        Total   647    96.846515     0.149685      0.149682        0.1283               0.1283
+
+      CUADRO 10. ANCOVA ENTRE PESO VIVO AL NACIMIENTO Y PESO VIVO AL AÑO DE DAD
+                                                 Componen     Componente de
+                                                                                   Cuadrado medio
+         F.V.   G.L.     S.P.          P.M.         te de     correlación de la
+                                                                                   de la correlación
+                                                 covarianza       varianza
+        Padre   240    38.275002     0.159479     0.033843         1.1377               0.1282
+        Error   302    25.213568     0.083489     0.083489         0.0712               0.0712
+        Total   542    63.488570     0.117138     0.117332         0.0974               0.0973
+
+      CUADRO 11. ANCOVA ENTRE PESO VIVO AL NACIMIENTO Y PESO VELLÓN
+                                                 Componen     Componente de
+                                                                                   Cuadrado medio
+         F.V.   G.L.     S.P.          P.M.          te de    correlación de la
+                                                                                   de la correlación
+                                                 covarianza       varianza
+        Padre   198    -0.515144     -0.002602    -0.004654        -0.6713             -0.0352
+        Error   164     0.961177      0.005861     0.005861         0.0986              0.0986
+        Total   362     0.446033      0.001232     0.001206         0.0179              0.0183
+
+      CUADRO 12. ANCOVA ENTRE PESO VIVO AL DESTETE Y PESO VIVO AL AÑO DE EDAD
+                                                 Component      Componente de
+                                                                                   Cuadrado medio
+         F.V.   G.L.      S.P.          P.M.         e de       correlación de
+                                                                                   de la correlación
+                                                 covarianza       la varianza
+        Padre   254    838.449446     3.300982    0.338687           2.9444             0.5603
+        Error   388     950.926139    2.450841    2.450841           0.4440             0.4440
+        Total   642    1789.375586    2.787189    2.789528           0.4921             0.4917
+
+      CUADRO 13. ANCOVA ENTRE PESO VIVO AL DESTETE Y PESO VELLÓN A LA 1ra. ESQUILA
+                                                  Componente       Componente          Cuadrado
+         F.V.   G.L.      S.P.          P.M.           de         de correlación      medio de la
+                                                   covarianza     de la varianza      correlación
+        Padre   383    10.865355      0.028369      0.009338          0.0000            0.0818
+        Error   424     3.714266      0.008760      0.008760          0.0274            0.0274
+        Total   807    14.579621      0.018066      0.018098          0.0543            0.0542
+
+      CUADRO 14. ANCOVA ENTRE PESO VIVO AL AÑO Y PESO VELLÓN A LA PRIMERA ESQUILA
+                                                  Componente       Componente          Cuadrado
+         F.V.   G.L.      S.P.          P.M.           de         de correlación      medio de la
+                                                   covarianza     de la varianza      correlación
+        Padre   190     7.021803      0.036957      0.011164          0.6973            0.1105
+        Error   191     2.809782      0.014711      0.014711          0.0486            0.0486
+        Total   381     9.831585      0.025805      0.025875          0.0812            0.0810
+
+
+
+
+                                                 -54-
+TESIS UNA - PUNO                                                  Universidad
+                                                                  Nacional del
+                                                                  Altiplano
+
+
+
+                                      PROMEDIOS
+
+                                   PESO AL NACIMIENTO
+                   AÑO            N              PROMEDIO (Kg)
+                   1997            7                6.400000
+                   1998           81                6.344444
+                   1999           13                6.346154
+                   2000           58                6.413793
+                   2001           83                6.204819
+                   2002          124                6.120968
+                   2003           88                6.234091
+                   2004            8                6.125000
+                   2005          101                6.416832
+                   2006          101                6.490099
+                   2007          148                6.398649
+                   2008          100                6.415000
+                   2009          132                6.235076
+                   2010          105                6.346667
+                   Total         1149
+
+
+                                    PESO AL DESTETE
+                    AÑO     N                PROMEDIO (Kg)
+                    1998   60                  24.8065189
+                    1999   13                  24.4227616
+                    2000   68                  24.2789856
+                   2001    89                  23.8066103
+                    2002   78                  23.7053692
+                    2003   66                   23.907251
+                    2005   93                  24.5017906
+                    2006   97                  23.6353958
+                    2007   153                 22.6055101
+                    2008   133                 23.5858378
+                    2009   128                 22.7970921
+                   Total   978
+
+
+                                     PESO VIVO AL AÑO
+                   AÑO            N               PROMEDIO (Kg)
+                   1998          57                  26.985393
+                   1999          12                  25.409666
+                   2000          74                  26.825095
+                   2003          72                  26.125490
+                   2005          80                  27.524281
+                   2006          95                  26.414168
+                   2007          128                 24.088173
+                   2008          123                 25.808165
+                   2009          141                 26.164323
+                   Total         782
+                                          -55-
+TESIS UNA - PUNO                                                              Universidad
+                                                                              Nacional del
+                                                                              Altiplano
+
+
+
+
+                           PESO VELLON A LA PRIMERA ESQUILA
+
+
+
+                   AÑO           N                PROMEDIO (Kg)
+                   1998         49                   1.1099071
+                   1999         10                   1.1037887
+                   2000         69                   1.1104661
+                   2003         19                   1.0724570
+                   2005         72                   1.2320208
+                   2006         32                   1.1194165
+                   2007         158                  1.1308783
+                   2008         103                  1.2229665
+                   2009         58                   1.2178438
+                   Total        570
+
+
+
+                               FACTORES DE CORRECCIÓN
+
+
+
+             CUADRO 15. PARA PENAC POR EFECTO AÑO DE NACIMIENTO
+                  PENAC
+               PROMEDIO       Promedio de
+                6.317038326     mínimos     Diferencia Factor de corrección
+                               cuadrados
+                    Año
+                    1997      6.507770430  0.190732104    -0.190732104
+                    1998      6.339720210  0.022681884    -0.022681884
+                    1999      6.349700670  0.032662344    -0.032662344
+                    2000      6.375742140  0.058703814    -0.058703814
+                    2001      6.163478650 -0.153559676     0.153559676
+                    2002      6.105681070 -0.211357256     0.211357256
+                    2003      6.236869840 -0.080168486     0.080168486
+                    2004      6.094033740 -0.223004586     0.223004586
+                    2005      6.403911300  0.086872974    -0.086872974
+                    2006      6.478422510  0.161384184    -0.161384184
+                    2007      6.415035680  0.097997354    -0.097997354
+                    2008      6.422067190  0.105028864    -0.105028864
+                    2009      6.215332550 -0.101705776     0.101705776
+                    2010      6.330770580  0.013732254    -0.013732254
+                                           0.000000000     0.000000000
+
+
+
+
+                                          -56-
+TESIS UNA - PUNO                                                        Universidad
+                                                                        Nacional del
+                                                                        Altiplano
+
+
+
+               CUADRO 16. PARA PENAC POR EFECTO EDAD DE LA MADRE
+                   PENAC
+                  6.3170383
+                    EDAD        LSMEANS         DESV.      FACTOR
+                       2        6.115242130 -0.201796196  0.201796196
+                       3        6.181519050 -0.135519276  0.135519276
+                       4        6.222323230 -0.094715096  0.094715096
+                       5        6.315581740 -0.001456586  0.001456586
+                       6        6.433845140  0.116806814 -0.116806814
+                       7        6.410363470  0.093325144 -0.093325144
+                       8        6.341068910  0.024030584 -0.024030584
+                       9        6.381398660  0.064360334 -0.064360334
+                      10        6.353260420  0.036222094 -0.036222094
+                      11        6.415780510  0.098742184 -0.098742184
+                                             0.000000000  0.000000000
+
+
+
+                                PESO VIVO AL DESTETE
+
+
+
+               CUADRO 17. PARA PEDES POR EFECTO AÑO DE NACIMIENTO
+                   PEDES
+                 23.95657195
+                     AÑO        LSMEANS         DESV.      FACTOR
+                     1998       24.79212920  0.835557245 -0.835557245
+                     1999       24.36438090  0.407808945 -0.407808945
+                     2000       24.41851810  0.461946145 -0.461946145
+                     2001       23.92180810 -0.034763855  0.034763855
+                     2002       23.99356490  0.036992945 -0.036992945
+                     2003       24.08651760  0.129945645 -0.129945645
+                     2005       24.67876110  0.722189145 -0.722189145
+                     2006       23.70503420 -0.251537755  0.251537755
+                     2007       22.76743600 -1.189135955  1.189135955
+                     2008       23.76076680 -0.195805155  0.195805155
+                     2009       23.03337460 -0.923197355  0.923197355
+                                             0.000000000  0.000000000
+
+
+
+
+                                         -57-
+TESIS UNA - PUNO                                                        Universidad
+                                                                        Nacional del
+                                                                        Altiplano
+
+
+
+
+               CUADRO 18. PARA PEDES POR EFECTO EDAD DE LA MADRE
+                    PEDES
+                  23.95657198
+                     EDAD       LSMEANS        DESV.      FACTOR
+                        2        24.3188879  0.36231592 -0.36231592
+                        3        23.2093893 -0.74718268  0.74718268
+                        4        23.7420622 -0.21450978  0.21450978
+                        5        23.7703265 -0.18624548  0.18624548
+                        6        23.4745616 -0.48201038  0.48201038
+                        7        24.0958082  0.13923622 -0.13923622
+                        8        23.9650679  0.00849592 -0.00849592
+                        9        24.4353123  0.47874032 -0.47874032
+                       10        24.0840919  0.12751992 -0.12751992
+                       11        24.470212   0.51364002 -0.51364002
+                                             0.00000000  0.00000000
+
+
+
+
+                             PESO VIVO AL AÑO DE EDAD
+
+
+
+               CUADRO 19. PARA PEVI POR EFECTO AÑO DE NACIMIENTO
+                   PEVIAÑO
+                  26.17377304
+                      AÑO        LSMEANS        DESV.      FACTOR
+                      1998      27.16657640  0.992803356 -0.992803356
+                      1999      25.50885070 -0.664922344  0.664922344
+                      2000      26.72732080  0.553547756 -0.553547756
+                      2003      26.07419090 -0.099582144  0.099582144
+                      2005      27.54052590  1.366752856 -1.366752856
+                      2006      26.39723170  0.223458656 -0.223458656
+                      2007      24.10351640 -2.070256644  2.070256644
+                      2008      25.85451310 -0.319259944  0.319259944
+                      2009      26.19123150  0.017458456 -0.017458456
+                                             0.000000000  0.000000000
+
+
+
+
+                                         -58-
+TESIS UNA - PUNO                                                        Universidad
+                                                                        Nacional del
+                                                                        Altiplano
+
+
+
+
+               CUADRO 20. PARA PEVI POR EFECTO SEXO
+                   PEVIAÑO
+                  26.17377300
+                     SEXO        LSMEANS        DESV.       FACTOR
+                       H         26.3961574   0.2223844    -0.2223844
+                       M         25.9513886  -0.2223844     0.2223844
+                                              0.0000000     0.0000000
+
+
+
+
+                           PESO VELLON PRIMERA ESQUILA
+
+
+
+
+              CUADRO 21. PARA PEVELL POR EFECTO AÑO DE NACIMIENTO
+                PEVELLAJU
+                 1.13778824
+                    AÑO         LSMEANS        DESV.      FACTOR
+                    1998        1.09664759 -0.041140653  0.041140653
+                    1999        1.09552947 -0.042258773  0.042258773
+                    2000        1.10262903 -0.035159213  0.035159213
+                    2003        1.05967765 -0.078110593  0.078110593
+                    2005        1.22597546  0.088187217 -0.088187217
+                    2006        1.11242095 -0.025367293  0.025367293
+                    2007        1.12847717 -0.009311073  0.009311073
+                    2008        1.21304758  0.075259337 -0.075259337
+                    2009        1.20568929  0.067901047 -0.067901047
+                                            0.000000000  0.000000000
+
+
+
+               CUADRO 22. PARA PEVELL POR EFECTO EDAD DE LA MADRE
+                 PEVELLAJU
+                  1.137788244
+                     EDAD       LSMEANS         DESV.       FACTOR
+                        3        1.09683796 -0.040950284  0.040950284
+                        4        1.13902162  0.001233376 -0.001233376
+                        5        1.16124754  0.023459296 -0.023459296
+                        6        1.16753308  0.029744836 -0.029744836
+                        7        1.18474431  0.046956066 -0.046956066
+                        8        1.14175745  0.003969206 -0.003969206
+                        9        1.13701672 -0.000771524  0.000771524
+                       10        1.07414727 -0.063640974  0.063640974
+                                              0.00000000   0.00000000
+
+                                         -59-
+TESIS UNA - PUNO          Universidad
+                          Nacional del
+                          Altiplano
+
+
+
+
+                   -60-
+

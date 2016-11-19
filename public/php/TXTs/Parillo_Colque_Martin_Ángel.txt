@@ -1,0 +1,3727 @@
+  UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+    FACULTAD DE INGENIERIA GEOLOGICA E INGENIERIA
+                      METALURGICA
+     ESCUELA PROFESIONAL DE INGENIERIA METALURGICA
+
+
+
+
+ “ESTUDIO METALURGICO DE MINERALES DE ORO
+       DEL SECTOR LIMBANI – REGION PUNO”
+
+
+                         TESIS
+
+                     PRESENTADO POR:
+              MARTIN ANGEL PARILLO COLQUE.
+
+
+
+
+PARA OPTAR EL TITULO PROFESIONAL DE INGENIERO METALURGISTA
+
+
+
+
+                      PUNO - PERU
+                          2014
+AREA: Metalurgia extractiva
+TEMA: Tecnología del oro y plata
+
+
+
+
+                                   2
+                            AGRADECIMIENTOS:
+
+
+
+
+Por haber contribuido decididamente en el presente trabajo de
+
+
+Investigación:
+
+
+A mis padres Anastacio e Isabel.
+
+
+A mi esposa: Celia.
+
+
+A mis docentes, y en especial al Ing. Alberto Maquera, Ing. German Coillo.
+
+
+A mis amigos
+
+
+A Dios por haberme dado la vida y salud.
+
+
+
+
+                                                                             3
+                               DEDICATORIA:
+
+
+
+
+A mis padres:
+
+
+Con amor, por su ayuda incondicional, su comprensión y cariño.
+
+
+
+
+A mi esposa:
+
+
+Celia con cariño por ser el estímulo en las decisiones que he tomado
+
+
+
+
+                                                                       4
+                              INDICE
+
+
+RESUMEN………………………………………………………………………......8
+
+INTRODUCCION………………………………………………………………….10
+
+
+
+CAPITULO I         ASPECTOS GENERALES
+
+
+
+1.1.   PROBLEMA DE INVESTIGACION………………………………………12
+
+1.2.   JUSTIFICACION…………………………………………………………..13
+
+1.3.   OBJETIVOS
+
+1.3.1. Objetivo general……………………………………………………………15
+
+1.3.2. Objetivo Especifico………………………………………………………..16
+
+1.4.   AMBITO DE ESTUDIO……………………………………………………16
+
+1.5.   IMPORTANCIA DEL ESTUDIO……………………………...................17
+
+1.6.   HIPOTESIS…………………………………………………………………18
+
+1.6.1. Hipótesis general…………………………………………………………..18
+
+1.6.2. Hipótesis específicos……………………………………………………...18
+
+
+
+CAPITULO II        MARCO REFERENCIAL
+
+
+
+2.1. MARCO TEORICO……………………………………………………………19
+
+2.1.1. El mineral de oro……………………………………………………………19
+
+2.1.2. Tipos de depósitos auríferos………………………………………………20
+
+2.1.3. Minerales de oro…………………………………………………………….21
+
+
+
+                                                                 5
+2.1.4. Propiedades físicas…………………………………………………………22
+
+2.1.5. Propiedades químicas………………………………………………………22
+
+2.1.6. El oro al estado natural y sus procesos…………………………………..23
+
+     2.1.6.1. Concentración gravimétrica………………………………………25
+
+     2.1.6.2. Fundamentos de flotación………………………………………..32
+
+     2.1.6.3. Carbón activado…………………………………………………..34
+
+2.1.7. Lixiviación…………………………………………………………………….35
+
+     2.1.7.1. Cianuro……………………………………………………………..36
+
+     2.1.7.2. Fundamentos de cianuracion……………………………………39
+
+2.1.8. Proceso de refinación………………………………………………………42
+
+2.1.9. Tostación…………………………………………………………………….43
+
+2.2. MINERIA ARTESANAL Y PEQUEÑAS MINERIAS……………………….44
+
+2.3. RELAVES AURIFEROS………………………………………………………46
+
+
+
+CAPITULO III    METODOLOGIA
+
+
+
+3.1. CARACTERIZACION MINERALOGICA……………………………………47
+
+     3.1.1. Datos composicionales y mineralógicas…………………………..48
+
+     3.1.2. Datos Geométricos…………………………………………………..49
+
+     3.1.3. Datos cuantitativos…………………………………………………...50
+
+3.2. MUESTREO DEL MATERIAL…………………………………………………52
+
+     3.2.1. Preparación del material muestreado……………………………...52
+
+     3.2.2. Trituración……………………………………………………………..53
+
+     3.2.3. Homogenización y cuarteo………………………………………….54
+
+
+                                                                  6
+3.3. CARACTERIZACION………………………………………………………….55
+
+
+
+CAPITULO IV
+
+RESULTADOS Y DISCUSIONES
+
+
+
+4.1. DETALLE EXPERIMENTAL………………………………………………….56
+
+4.1.1. Cianuracion…………………………………………………………………..56
+
+4.1.2. Características de la muestra y materiales………………………………59
+
+4.1.3. Efecto del tamaño de la partícula…………………………………………62
+
+4.1.4. Efecto de la concentración de cianuro……………………………………63
+
+4.2. RESULTADOS…………………………………………………………………64
+
+4.3. RECUPERACION DE ORO MEDIANTE CEMENTACION CON ZINC…65
+
+4.4. RECUPERACION DE ORO MEDIANTE ELECTRODEPOSICION……..71
+
+
+
+CONCLUSIONES…………………………………………………………………..78
+
+BIBLIOGRAFIA……………………………………………………………………..80
+
+
+
+
+                                                                  7
+                                   RESUMEN
+
+
+La finalidad del presente trabajo de investigación intitulado "Estudio Metalúrgico
+
+de Minerales de Oro del sector Limbani – Región Puno”, es el de ofrecer a
+
+mineros artesanales, pequeños mineros y aficionados,          una guía que les
+
+permita desarrollar a nivel experimental, el proceso de cianuración,
+
+contribuyendo de esta manera, en llenar el vacío que existe sobre esta clase de
+
+trabajos, teniendo en cuenta la gran importancia del proceso experimental, el
+
+cual debe de ser desarrollado desde el inicio de la exploración y terminar con el
+
+fin de la explotación del yacimiento, con la finalidad de modificar o mejorar los
+
+métodos empleados y hacerlos más eficientes y económicos Evitando de esta
+
+manera los fracasos que son frecuentes en la Minería Peruana, por no dar la
+
+debida importancia a la Investigación y Experimentación Minero-Metalúrgica.
+
+
+
+El mineral en estudio es procedente de yacimientos ubicados en la Región
+
+Puno, en la Provincia de Sandia Distrito de Limbani, donde el oro y otros
+
+elementos valiosos se presentan en forma de inclusiones en la ganga; tiene
+
+tamaños promedio de 0.01 mm., su contenido metálico es de 1 a 2 gr./Tc de
+
+oro.
+
+
+
+En los procesos adoptados, el trabajo experimental esta dividido en dos partes
+
+una primera parte denominada pruebas de diagnóstico que se hace con la
+
+finalidad de ver si el mineral propuesto obedece al proceso, la segunda parte
+
+es a escala de laboratorio, que se realiza en columnas con 20 kilos de mineral,
+
+
+
+
+                                                                                8
+tomando variables establecidas en la prueba de diagnóstico con la única
+
+diferencia que la granulometría es mayor que en la primera etapa.
+
+El presente estudio además de dar las pautas necesarias para llevar adelante
+
+el proceso de cianuración a nivel experimental, demuestra que es factible
+
+metalúrgicamente el proceso para el mineral en estudio, y que puede ser
+
+aplicado en el tratamiento de grandes cantidades de mineral haciendo los
+
+ajustes necesarios de las variables establecidas en la etapa experimental.
+
+Las pruebas experimentales se desarrollarán a escala de laboratorio.
+
+
+
+
+                                                                             9
+                                INTRODUCCIÓN
+
+
+El Departamento de Puno en lo referente a la minería del Oro es muy grande
+
+ya que existen reservas apreciables que van desde relaves hasta minerales de
+
+buena ley, para la extracción se utilizan diferentes métodos, las mismas que
+
+fueron utilizados en la época del incanato, de los españoles, etc. muchas de
+
+estas técnicas se siguen usando por ejemplo la concentración magnética,
+
+concentración gravimétrica, la amalgamación, cianuración etc. En la actualidad
+
+el tratamiento de minerales de oro requiere de técnicas especiales, es decir se
+
+deben hacer seguimientos complejos, por lo que los metalurgistas tenemos la
+
+necesidad de desarrollar nuevos métodos de procesamiento, aplicar los ya
+
+conocidos. Así, dependiendo de la mineralogía, reservas, ley, topografía, clima,
+
+ubicación y la naturaleza de la distribución del oro dentro del mineral.
+
+
+
+La minería artesanal tiene una gran necesidad de aplicar nuevas técnicas de
+
+procesamiento, de esta forma lograr una mejor recuperación, pero se debe
+
+incidir en una recuperación limpia cuidando principalmente los efectos de la
+
+contaminación.
+
+
+
+Entre esos problemas ocupan un lugar preponderante, los de carácter
+
+metalúrgico, cuya resolución deberá de comenzar a estudiarse desde la etapa
+
+de la exploración del yacimiento y no terminar sino hasta que prácticamente se
+
+han agotado los minerales, ya que aún teniendo la planta metalúrgica en
+
+operación, siempre será posible mejorar o modificar el tratamiento con el fin de
+
+hacer lo más económico o más eficiente. Es evidente que entre las causas que
+
+
+                                                                              10
+con mayor frecuencia provocan fracasos en la industria Minero-Metalúrgica se
+
+encuentra el desconocimiento del sistema de beneficio o tratamiento
+
+metalúrgico adecuado de los minerales cuya explotación se plantea.
+
+
+
+Por lo anterior se requiere de la investigación Metalúrgica, antes de proyectar
+
+una planta de beneficio y como ya se a indicado, aún ya en operación es
+
+indispensable seguir la experimentación para aprovechar nuevos reactivos,
+
+nuevos equipos, así como para estudiar el comportamiento de los diferentes
+
+minerales que presentan los yacimientos en los diversos horizontes, es decir la
+
+investigación Metalúrgica es necesaria durante toda la vida de la planta, ya que
+
+elimina una de las principales causas de fracaso y permite aumentar de
+
+manera considerable los rendimientos económicos y la eficiencia del
+
+tratamiento.
+
+
+
+
+                                                                              11
+                                  CAPITULO I
+
+
+
+                            ASPECTOS GENERALES
+
+
+
+1.1.   PROBLEMA DE INVESTIGACION
+
+
+
+       Si bien el método de extracción de oro mas importante y empleado en la
+
+       actualidad   es la    cianuración,   no   siempre   es posible   aplicarlo
+
+       exitosamente en forma directa si no se tiene en cuenta las
+
+       características del mineral o concentrado.
+
+
+
+       En nuestro país la mayoría de los recursos minerales se explotan sin
+
+       tener un conocimiento preciso del depósito (mineralogía, asociaciones
+
+       de minerales al oro, grado de liberación etc), lo que genera bajas
+
+       recuperaciones y pérdida productiva del depósito.
+
+
+
+       Las dificultades en el tratamiento por cianuración se presentan
+
+       principalmente en minerales en que el oro esta finamente diseminado en
+
+       minerales sulfurados, sea que este se presente como oro libre o como
+
+
+                                                                               12
+       oro encapsulado. La sola presencia de sulfuros de hierro y de metales
+
+       base, de minerales de arsénico, antimonio, bismuto, etc. hacen difícil su
+
+       tratamiento por cianuración convencional.
+
+
+
+       Nagy, establece que para que el oro se disuelva completamente en
+
+       soluciones   alcalinas   de   cianuro,   se   deben   satisfacer   ciertos
+
+       requerimientos, tales como:
+
+
+
+
+           El oro debe estar como partículas discretas y limpias.
+
+           Deben estar ausentes de impurezas que puedan inhibir la
+
+             reacción.
+
+           Se debe disponer de un adecuado suministro de oxígeno.
+
+           Hasta donde concierne al segundo requerimiento, muchas minas
+
+             de oro poseen constituyentes que se descomponen en soluciones
+
+             de cianuro lo que ocasiona la aparición de compuestos, en
+
+             solución, que pueden inhibir la reacción de disolución del oro.
+
+
+
+DEFINICION DEL PROBLEMA
+
+¿Es posible un estudio metalúrgico del proceso de cianuración para mejorar y
+
+recuperar minerales de oro utilizados en la minería artesanal?
+
+
+
+1.2.   JUSTIFICACION
+
+
+
+       Aunque los procesos de la extracción de oro no han cambiado
+
+       fundamentalmente desde la introducción de las técnicas de cianuración
+
+
+                                                                               13
+ya hace cerca de un siglo, en los últimos 50 años se han visto grandes
+
+cambios en los métodos utilizados, estos cambios los que de alguna u
+
+otra manera ha permitido la elaboración de este trabajo.
+
+
+
+La lixiviación se ha convertido en el proceso más utilizado para
+
+minerales de baja ley en la industria minero-metalúrgica, el cianuro ha
+
+tomado un papel muy importante debido a que reacciona fácilmente con
+
+los metales preciosos, los procesos para la recuperación de oro y plata
+
+son adsorción con carbón activado y cementación de oro con zinc
+
+(Merrill-Crowe), la extracción del oro por medio de técnicas metalúrgicas
+
+tales como el proceso de adsorción con carbón activado, constituye un
+
+ejemplo de los cambios surgidos para tales propósitos, pero el proceso
+
+de cementación con zinc sigue siendo el más utilizados, estos procesos
+
+son presentados en este trabajo.
+
+
+
+Ambientalmente las formas de cianuro libre (HCN y CN), no son
+
+generalmente detectables en efluentes mineros, la preocupación por la
+
+toxicidad de los efluentes radica en las formas complejas de cianuro y la
+
+posibilidad de romperse y generar cianuro libre en el nuevo sistema, esta
+
+solución de cianuro se debe de manejar con cierto cuidado mediante
+
+soluciones diluidas durante todo el proceso generalmente entre el 0.01%
+
+a 0.05% de cianuro (100 a 500 partes por millón) y mantener un pH entre
+
+10.5 a 11.5 para mantener un ambiente alcalino en la solución evitando
+
+que se forme una gran cantidad de cianuro de hidrógeno (ácido
+
+cianhídrico), el cual es sumamente contaminante.
+
+
+
+                                                                       14
+       Después    de     haber   extraído    el   oro      por   medio   del    proceso
+
+       hidrometalúrgico, el cianuro puede estar presente como cianuro libre,
+
+       cianuro débilmente complejado y cianuro fuertemente complejado, los
+
+       procesos que se emplean para el tratamiento del cianuro restante en la
+
+       solución, son la degradación natural, oxidación química, precipitación y
+
+       biodegradación,    los    cuales     nos   sirven     para   disminuir   así   la
+
+       contaminación al ambiente.
+
+
+
+       En el trabajo presentamos información sobre el cianuro, su uso en la
+
+       industria, las diferentes formas en las que se encuentra el cianuro
+
+       (cianuro total), los diferentes procesos que hay para la recuperación de
+
+       oro y plata, así como los principales métodos de degradación de cianuro
+
+       y finalmente el manejo de algunos riesgos de cianuro en la industria
+
+       minero metalúrgica, se pretende que este escrito sirva como una guía y
+
+       resulte de mucha importancia no solo para éste caso en particular sino
+
+       para quienes se interesen en la aplicación de las técnicas descritas.
+
+
+
+1.3.   OBJETIVOS
+
+
+1.3.1. Objetivo General
+
+
+       Establecer el estudio metalúrgico de minerales oro del sector Limbani
+
+       Región Puno a fin de obtener un proceso productivo óptimo.
+
+
+
+
+                                                                                      15
+1.3.2. Objetivos específicos
+
+       Describir las propiedades del mineral que se tratara en la cianuración
+
+       por diferentes procesos
+
+       Evaluar el proceso productivo, fundamentalmente en las características
+
+       de la solución, el contenido de oro y plata, con la finalidad de que este
+
+       proceso sea metalúrgicamente eficiente al más bajo costo
+
+       Presentar las principales técnicas para la lixiviación y recuperación de
+
+       oro que se utilizan en la actualidad.
+
+
+
+1.4.   AMBITO DE ESTUDIO
+
+
+
+       El mineral en estudio es procedente de yacimientos ubicados en la
+
+       Región Puno, en la Provincia de Sandia, Distrito de Limbani, donde el
+
+       oro y otros elementos valiosos se presentan en forma de inclusiones en
+
+       la ganga; tiene tamaños promedio de 0.01 mm., su contenido metálico
+
+       es de 1 a 2 gr. /Tc de oro.
+
+
+
+       Además nuestro país cuenta con innumerables depósitos auríferos
+
+       primarios   (FILONEANOS)        y   secundarios   (PLACERES),   que   se
+
+       caracterizan por ser de baja ley y cuya explotación para ser rentable
+
+       requiere del movimiento de grandes volúmenes de material con equipos
+
+       e instalaciones costosas. Por otra parte existen minerales de desmonte y
+
+       relaves que     contienen     elementos valiosos susceptibles    de ser
+
+       recuperados. Por esto se propone, estudiar y desarrollar un método
+
+       adecuado para la recuperación del oro, empleando la técnica de
+
+
+                                                                              16
+       lixiviación por cianuración seguido de un precipitado con zinc o carbón
+
+       activado.
+
+
+
+1.5.   IMPORTANCIA DEL ESTUDIO
+
+
+
+       El Perú para salir de la crisis económica actual necesita una mayor
+
+       captación de recursos para aumentar el ingreso de divisas, por lo que se
+
+       hace imperativo, explotar nuestros depósitos mineros con técnicas
+
+       eficientes.
+
+
+
+       El precio de los minerales en especial de la plata como del oro, metal
+
+       precioso que generalmente se presenta asociado a la plata, es uno de
+
+       los mejores incentivos para la explotación de estos minerales por parte
+
+       del minero artesanal, pequeño minero. Además debido a la importancia
+
+       de estos minerales como material estratégico que garantiza la solvencia
+
+       fiscal del país con la circulación de la moneda, se hace necesario
+
+       incentivar su producción, por este motivo el método de lixiviación por
+
+       cianuración en montones es importante, ya que en nuestro país existen
+
+       depósitos minerales que no se pueden tratar económicamente por los
+
+       métodos tradicionales por el alto costo de operación y equipos.
+
+
+
+       No obstante, es necesario recalcar que este trabajo se refiere a una
+
+       mínima cantidad de mineral; por este motivo el principal objetivo, es de
+
+       llevar más adelante el estudio de este proceso con cantidades más
+
+       importantes de mineral y llegar de esta manera a conclusiones positivas
+
+
+                                                                             17
+       más generales. Por lo tanto estos trabajos tienen como meta presentar
+
+       resultados perfectamente definidos antes de pasar a la escala industrial.
+
+       Pero todas estas metas están acondicionadas por el factor económico
+
+       que demandan los estudios, lo que difícilmente se llega a las metas
+
+       esperadas, por la falta de interés y de confianza de parte del minero de
+
+       hacer la inversión necesaria en los estudios experimentales.
+
+
+
+1.6.   HIPOTESIS
+
+
+
+1.6.1. Hipótesis general
+
+
+
+       Mediante un estudio metalúrgico detallado y práctico se establecerá el
+
+       comportamiento del cianuro para los diferentes minerales que utilizan
+
+       los mineros artesanales como materia prima.
+
+
+
+1.6.2. Hipótesis específicos
+
+
+
+       Se determinará el grado de molienda del mineral para liberar el oro en
+
+       estado libre.
+
+
+
+       Nos permitirá determinar la cinética de cianuración del mineral (tiempo
+
+       de residencia), la concentración adecuada de cianuro, el consumo de
+
+       cianuro y cal requeridos en el proceso.
+
+
+
+
+                                                                              18
+                                CAPITULO II
+
+
+                           MARCO REFERENCIAL
+
+
+2.1. MARCO TEORICO
+
+
+2.1.1. EL MINERAL DE ORO
+
+
+
+     El oro, como metal precioso ha concitado el interés humano porque este
+
+     metal ha sido empleado principalmente con fines decorativos y
+
+     monetarios.
+
+     El oro se presenta en la naturaleza en estado nativo y combinado con
+
+     otros elementos metálicos. El oro nativo generalmente está aleado con
+
+     plata, la cual puede alcanzar hasta un 39%; igualmente, contiene a
+
+     menudo pequeñas cantidades de cobre y hierro y a veces plomo,
+
+     bismuto y mercurio.
+
+     El oro es susceptible de existir en cercanías geológicas relativamente
+
+     variadas (rocas sedimentarias, vetas intra plutónicas o peri plutónicas).
+
+     El oro es químicamente inerte en ambientes naturales y es poco
+
+     afectado durante el intemperismo y descomposición de la roca que lo
+
+     contiene.
+
+
+
+                                                                                 19
+2.1.2. TIPOS DE DEPÓSITOS AURÍFEROS
+
+  Existen muchas clasificaciones de depósitos, a continuación mostramos la
+
+  hecha por Boyle (1979), que distingue 10 tipos de depósitos auríferos:
+
+        Diques auríferos porfídicos, sills, y stocks, pegmatitas auríferas,
+
+         cuerpos graníticos escasamente veteados; aplitas y albititas.
+
+        Cuerpos carbonatados o relativamente carbonatados.
+
+        Depósitos auríferos tipo skarn.
+
+        Placeres    de   oro-plata    y   plata-oro,   diaclasas   mineralizadas,
+
+         mineralizaciones hacia abajo y cuerpos irregulares solidificados en
+
+         fracturas, fallas y zonas.
+
+        Placeres auríferos, fisuras mineralizadas, zonas de encapes, venas
+
+         estratificadas en fallas y fracturas.
+
+        Placeres    de   oro-plata    y   plata-oro,   diaclasas   mineralizadas,
+
+         stockworks y zonas solidificadas en un ambiente geológico complejo
+
+         con rocas sedimentarias, volcánicas y varios tipos de rocas intrusivas
+
+         y graníticas.
+
+        Depósitos diseminados y tipo stockworks oro-plata, en rocas ígneas,
+
+         volcánicas y sedimentarias.
+
+        Depósitos de oro en conglomerados de cuarzo y cuarcitas.
+
+        Placeres aluviales y eluviales.
+
+        Otras fuentes de oro que contienen sulfuros cupríferos, arseniuros,
+
+         seleniuros y sulfosales, además de otros metales.
+
+
+
+
+                                                                                20
+2.1.2. MINERALES DE ORO
+
+   El oro se encuentra en estado nativo comúnmente y se puede presentar en
+
+   venas y filones de cuarzo, en este cuadro se ubican los diseminados.
+
+   El oro se encuentra también en placeres y depósitos aluviales de corrientes
+
+   antiguas y modernas.
+
+   El oro nativo de zonas de oxidación y de los placeres frecuentemente
+
+   contiene plata en pequeñas proporciones así como otros metales.
+
+   El oro nativo puede ser Oro limpio, oro empañado, oro revestido, electrum,
+
+   oro cuprífero.
+
+   El oro en otros minerales, como producto secundario, con las especies de
+
+   cobre, plata, plomo, arsénico y antimonio
+
+   El oro asociado a la pirita y a la arsenopirita, se presenta como solución
+
+   sólida y oro extremadamente fino, también se encuentra como ampolla de
+
+   inclusiones, micro venillas, rellenos de intersticios, emplazamientos etc.
+
+   El tamaño del grano de oro es determinante en el proceso metalúrgico
+
+   elegido, se divide por el tamaño en Oro grueso que viene a ser el oro
+
+   aluvial en forma de pepitas, el oro filoniano en forma de escamas o hilos,
+
+   hasta un tamaño no menor a 0.2 mm. El denominado oro fino sería un
+
+   rango de tamaños del oro grueso y el oro ultra fino, estaría entre 0.2 mm
+
+   (200 micrones) y los 10 micrones, quedando el denominado oro ultra fino
+
+   que estaría libre o encapsulado menor a 10 micrones.
+
+   El tratamiento de los minerales de oro se basa fundamentalmente en las
+   propiedades del oro, su alto peso específico, su carácter hidrofóbico y su
+
+
+
+
+                                                                                21
+   solubilidad en soluciones cianuradas dando lugar a varios esquemas de
+   tratamiento metalúrgico para recuperar el oro.
+
+
+
+2.1.4. PROPIEDADES FÍSICAS
+
+   El oro, es un metal amarillo brillante por la luz reflejada, en láminas muy
+
+   delgadas. Es el más maleable y dúctil de todos los metales. En estado puro
+
+   es demasiado blando para ser usado en joyería y para acuñar moneda, por
+
+   lo que se alea siempre para tales fines con plata o cobre. Su punto de
+
+   fusión es de 1073ºC y la volatilización 2600ºC. El peso atómico es 197.2,
+
+   respectivamente. La densidad del oro es de 19,42. Es más liviano a medida
+
+   que contiene mayor proporción de plata. Cristaliza en el sistema cúbico. El
+
+   oro se alea con plata, cobre, paladio y otros metales. La cantidad de oro en
+
+   estas aleaciones se expresa generalmente en quilates. El oro puro es de
+
+   24 quilates.
+
+
+
+2.1.5. PROPIEDADES QUÍMICAS
+
+
+
+
+        El oro es fácilmente soluble en agua regia, que produce cloro
+
+         naciente.
+
+        El oro se disuelve en ácido clorhídrico en presencia de sustancias
+
+         orgánicas.
+
+        El oro es disuelto por cloruros férricos y cúpricos.
+
+        El oro es algo soluble en una solución de carbonato de sodio al 10%
+
+        El oro es soluble en soluciones cianuradas.
+
+
+
+
+                                                                               22
+2.1.6. EL ORO AL ESTADO NATURAL Y SUS PROCESOS
+
+  El oro se encuentra nativo en el cuarzo de las pizarras cristalinas, en las
+
+  rocas graníticas (filones o mantos), en las arenas de algunos ríos y terrenos
+
+  aluviales (placeres) en forma de laminitas o granos y en masas de algunos
+
+  gramos (pepitas). También se encuentra libre pero asociado con la pirita
+
+  (sulfuro de hierro), galena (sulfuro de plomo) y blenda (sulfuro de cinc) y
+
+  combinado con el teluro y selenio
+
+
+
+     a. Cuando el oro abundaba en los placeres o arenas de los ríos, se
+
+        sometían las arenas y barros auríferos a lavados dentro de cubetas o
+
+        bateas, sometiendo la masa a un movimiento especial para que el
+
+        oro, por su mayor densidad, se reuniese en el fondo, expulsando da
+
+        la cubeta las arenas que lo acompañaban.
+
+        Otras veces se arrastraban las arenas auríferas o el mineral
+
+        disgregado por fuertes chorros de agua por canales inclinados,
+
+        interrumpidos, de vez en cuando, por salientes y depósitos de
+
+        sedimentación, disponiendo cedazos para impedir el paso de
+
+        estériles arrastrados por el agua.
+
+        Las arenas con oro se trituraban finamente, se arrastraban por el
+
+        agua, descendían en planos inclinados, donde se colocaba mercurio
+
+        que disolvía el oro. La amalgama de oro-mercurio se recogía en
+
+        depósitos y se destilaba en retortas, se comprimía en prensa
+
+        hidráulica, se recuperaba el mercurio y quedaba el oro en las
+
+        retortas.
+
+
+
+
+                                                                             23
+b. En otras explotaciones se transformaba el oro en cloruro, se
+
+  agregaba sulfato de hierro que precipitaba el oro metálico.
+
+  La mayoría de las minas más profundas explotadas en los Estados
+
+  Unidos durante la fiebre del oro del siglo XIX se valieron de la
+
+  amalgamación con mercurio para concentrar el oro en polvo después
+
+  de triturar el cuarzo en un molino. Pero el proceso con mercurio era
+
+  ineficiente; por ejemplo, sólo se recuperaba el 60% del oro.
+
+
+
+c. Los inventores buscaron otro método y en Escocia, en 1887, se
+
+  utilizó por primera vez el cianuro, que luego se empleó en los campos
+
+  Witwatersrand en Sudáfrica. Este método no sólo permitía aumentar
+
+  la recuperación del oro, por ejemplo más del 97%, sino que hacía
+
+  rentable explotar minerales con muy bajo contenido de oro
+
+  diseminado en general en grandes extensiones
+
+
+
+  Hoy el oro se obtiene casi exclusivamente por cianuración. Es que en
+
+  1969 la oficina de Minas de los Estados Unidos (US Bureau Of
+
+  Mines) propuso el sistema de remojo con cianuro al aire libre como
+
+  método económico para tratar grandes volúmenes de minerales de
+
+  oro de baja ley (con muy poco oro por tonelada de mineral). Por otra
+
+  parte, los costos de la mano de obra eran crecientes y esto hizo que
+
+  las minas a cielo abierto fueran más competitivas que las
+
+  subterráneas, que requerían grandes cantidades de mano de obra, al
+
+  tiempo que se descubrían grandes volúmenes de mineral de oro de
+
+  baja ley.
+
+
+
+                                                                     24
+         Los bajos costos y la capacidad de procesar cantidades inmensas de
+
+         material, que caracterizan a la técnica conocida como “lixiviación de
+
+         cúmulos”, se impuso en casi todo el mundo como el método preferido
+
+         para extraer el oro de los minerales.
+
+
+
+         Este procedimiento se funda en que las disoluciones diluidas de los
+
+         cianuros alcalinos tienen la propiedad de disolver el oro de los
+
+         minerales que lo contienen. La disolución se lleva a cabo en
+
+         presencia de un agente oxidante.
+
+         La reacción química simplificada sería la siguiente:
+
+            4 Au + 8 Na CN + 02 + 2 H2 O = 4 (CN)2 NaAu + 4 NaOH
+
+
+
+2.1.6.1. Concentración gravimétrica del oro
+
+
+
+      La concentración gravimétrica es un proceso tal cual que las partículas
+
+      de tamaños distintos, forma y densidades son separadas unas de otras
+
+      por la acción de la fuerza de gravedad o por la fuerza centrífuga.
+
+
+
+
+                                                                            25
+            TABLA 1. Comparación entre Equipos de Concentración Gravimétrica
+
+Equipos         Aplicación             Granulometría                 Rango       de   Recuperación
+                                       Mm               (# Ty )      rendimiento
+
+Canaletas       Placeres               Oro     grueso      (amplia    50 – 60 m³/h       40 – 70
+                                       granulometría)
+                                       +0.15          +100
+
+Jigs            Menas en general       Oro grueso                       Variable         40 -70
+                                       +0.850          3-20
+                                       Oro fino
+                                       0.074           200
+                Menas,
+Mesas           concentrados       y   Oro fino                         Variable         40 – 70
+                otras pulpas           0.850        20 – 400
+
+                Menas,
+Espirales       concentrados       y   Oro fino                       0.5 - 2.5 t/n      50 - 80
+                otras pulpas           -2
+
+                Menas,
+Conos           concentrados       y                                  Sobre 60 t/n       50 - 80
+                otras pulpas           Oro fino
+                                       -3            7 - 400
+
+Fuente: N. Jacinto, Apuntes de cátedra II UTO
+
+
+
+          A continuación se procede a detallar cada equipo gravimétrico:
+
+
+
+          Canaletas
+
+          Se han usado por siglos en la separación de los minerales pesados,
+
+          especialmente menas auríferas, principalmente en las operaciones
+
+          pequeñas de minería aurífera aluvial y en la concentración de mineral
+
+          primario molido.
+
+
+          En su forma simple consiste en una canaleta con una inclinación, según
+
+          la forma de operación y tamaño de grano de la alimentación para la
+
+          preconcentración semicontínua                  de alimentaciones de minerales
+
+          pesados y alrededor de 15º para el post lavado de concentrados
+
+          clasificados con estrecho rango de tamaño de grano en ritmo de trabajo
+
+
+
+                                                                                                   26
+intermitente. Según el caso de uso se emplean las canaletas de
+
+2x0.5x0.5 m hasta 100x2x2 m.
+
+
+Chua Mecánica
+
+Un equipo de diseño sencillo, denominada localmente “chua mecánica”
+
+para recuperar oro, inicialmente, de descartes de canaletas (colas) de
+
+algunas cooperativas.
+
+
+La recuperación del oro, junto a una fracción de arenas negras con
+
+importantes contenidos de granates, ilmenita, wolframita y casiterita, se
+
+realiza por sedimentación y estratificación de las partículas pesadas
+
+hacia la pared del fondo del plato parabólico de donde las 8 gradas
+
+talladas de espirales van recogiendo las partículas pesadas hacia el
+
+centro del plato, descargándose en forma continua por un orificio central
+
+hacia la parte posterior del mismo. El material liviano, formado por arena
+
+cuarcífera, pizarra y esquistos principalmente, se descarga por rebalse
+
+sobre los bordes del plato a una tolva para su retratamiento en una
+
+segunda máquina similar o para su descarte final.
+
+
+
+Mesa Concentradora
+
+Las mesas concentradoras son aparatos de concentración gravimétrica
+
+con flujo laminar sobre una superficie inclinada. Aquí se habla
+
+principalmente de los tipos con movimiento longitudinal vibratorio, donde
+
+las partículas de mineral se diferencian formando bandas en abanico
+
+(cejas), según su peso específico (y la granulometría). Otros tipos de
+
+mesas (mesas de banda, mesas basculantes, mesas de paño sin fin,
+
+
+
+                                                                        27
+mesas redondas, etc.) son raramente usadas en la pequeña minería y
+
+por esto no se describen aquí en detalle.
+
+
+De acuerdo a su modelo y tamaño, las mesas se utilizan para concentrar
+
+minerales finos y ultra finos con una capacidad hasta un máximo de 1,5
+
+t/h por unidad.
+
+
+Concentradores Centrífugos
+
+
+Los concentradores centrífugos constituyen la principal innovación
+
+realizada a los implementos de concentración gravimétrica de oro. En un
+
+tiempo muy corto, han ganado gran aceptación para la recuperación
+
+gravimétrica de oro en minas grandes; frecuentemente en los circuitos
+
+de molienda para separar oro libre y evitar sobremolienda y antes de
+
+plantas de cianuración o flotación para recuperar el oro grueso. También
+
+existen muchas aplicaciones en plantas industriales en la minería
+
+aurífera aluvial. Otra aplicación especial para los concentradores
+
+centrífugos es la recuperación del oro como un producto secundario, por
+
+ejemplo en canteras de grava.
+
+
+Mientras las partículas sean de menor tamaño, más fuertes son con
+
+relación a la gravedad, la fuerza hidráulica y la viscosidad, por lo cual el
+
+rendimiento de la separación gravimétrica decrece considerablemente
+
+para tamaños finos.
+
+
+
+
+                                                                          28
+Concentrador centrífugo Knelson
+
+
+Este equipo fue desarrollado en Canadá por Byron Knelson, un equipo
+
+de Alta Gravedad, equipo que constituye el avance más notable de esta
+
+década en lo que ha recuperación gravimétrica del oro se refiere.
+
+
+Cabe remarcar que en las numerosas operaciones mineras auríferas en
+
+que se está utilizando el Concentrador Knelson ha quedado plenamente
+
+demostrado su superioridad en el mercado frente a cualquier otro equipo
+
+que se use en estas mismas aplicaciones satisfaciendo a los usuarios
+
+por su alto rendimiento que sobrepasa el 95% en recuperación de oro y
+
+además, por la cualidad de sus componentes que han demostrado una
+
+sólida robustez y resistencia a la abrasión.
+
+
+Está basado en la fuerza centrífuga la cual logra aumentar la aceleración
+
+gravitacional 60 veces lo del equipo normal. Se diferencia de otros
+
+equipos pues tiene una inyección de agua en contra presión, provocando
+
+que la masa en los rifles del tazón giratorio sea fluidizada, consiguiendo
+
+así, que las partículas livianas sean expulsadas hacia afuera.
+
+
+Para recuperar el oro no mojable denominado hidrófobo o flotante, que
+
+actualmente debido a las limitaciones de los sistemas y equipos
+
+empleados se pierde irremediablemente en los relaves de los lavaderos
+
+del país.
+
+
+
+
+                                                                        29
+Concentrador Jig - Kelsey
+
+
+Este concentrador fue concebido a partir de Jig Harz colocado en
+
+posición horizontal girado en un campo centrífugo; esa fue la idea con la
+
+que Chris Kelsey desarrolló el Jig centrífugo empleando un complicado
+
+mecanismo que hace rotar la criba para generar el campo centrífugo y
+
+un diafragma fijo detrás de la criba que genera la cama pulsante.
+
+
+El jig centrífugo defiere de los demás jigs no solo porque trabaja a
+
+aceleraciones de gravedad mayores que llegan hasta 60 G sino que la
+
+cama de finas partículas que se forman actúan como una pulpa de
+
+medio denso que facilita la eficiencia de separación. A diferencia de
+
+otras centrífugas, el jig Kelsey, trabaja en forma continua; recibe la
+
+alimentación pulpa entre a 20 a 60% sólidos, por efecto de la fuerza
+
+centrífuga.
+
+
+Concentrador Falcón
+
+
+La recuperación de metales y minerales FINOS de los flujos de proceso
+
+ha sido siempre una dificultad. Con la serie de Concentradores
+
+Centrífugos   Continuos    Falcón, su diseño simple y una fuerza de
+
+gravedad de 300 G se hace ahora posible lo históricamente imposible.
+
+
+El objetivo primario de esta es maximizar la recuperación y disminuir la
+
+masa entrante a los procesos subsiguientes. Esto hace a las unidades
+
+perfectas para pre concentrar o retratar flujos, pues no se emplea agua
+
+adicional de proceso y los concentrados producidos están efectivamente
+
+deslamados y desaguados.
+
+
+                                                                       30
+Los fabricantes de la Falcón han desarrollado en Canadá un sistema
+
+continuo de concentración centrífuga por gravedad a lo largo de los 15
+
+últimos años. La nueva serie Falcón-C ha demostrado alta efectividad
+
+en   la     preconcentración,   reduciendo    el   tonelaje    a   las   etapas
+
+subsiguientes. La Falcón-C trabaja bien en la depuración (scavenger) en
+
+procesos de recuperación de colas. Se obtienen mejores recuperaciones
+
+con menores costos operativos, pero además se elimina el agua de
+
+fluidización y el exceso del agua del proceso.
+
+
+Esta tecnología ha sido puesta a prueba para oro, cobre, estaño, carbón,
+
+hierro, plata, minerales pesados y en especial tantalio.
+
+
+
+
+Análisis granulométrico
+
+
+
+El análisis de tamaño de los diversos productos de una planta de
+
+beneficio     de   minerales    constituye   una   parte      fundamental   del
+
+procedimiento de pruebas de laboratorio. Este análisis es de gran
+
+importancia para la determinación de la calidad de la molienda y para
+
+establecer el grado de liberación de los valores de la mena en varios
+
+tamaños de partículas. En la etapa de separación, el análisis del tamaño
+
+de los productos se usa para determinar el tamaño óptimo de la
+
+alimentación al proceso para obtener una máxima eficiencia y determinar
+
+el tamaño en que ocurre cualquier pérdida en la planta, de manera que
+
+se puede corregir.
+
+
+
+
+                                                                             31
+      Técnicas microscópicas
+
+
+
+      Estas técnicas involucran la determinación del tamaño por medición
+
+      directa de la imagen ampliada de la partícula sometida a análisis. Para
+
+      ello, puede utilizarse la escala del ocular del microscopio o una foto
+
+      micrografía obtenida y medir una longitud preseleccionada.
+
+
+
+      Es necesario tomar varias precauciones. Se requiere el conteo de un
+
+      número bastante grande de partículas para asegurar la precisión de los
+
+      parámetros medidos. El trabajo puede ser tedioso, los datos deben ser
+
+      cuidadosamente revisados para eliminar posibles errores, debido al
+
+      descuido del analista. Se deben tomar precauciones para obtener una
+
+      buena dispersión de la muestra a fin de que se pueda observar una sola
+
+      partícula ala vez y no un aglomerado de ellas.
+
+
+
+2.1.6.2. Fundamentos de la flotación.
+
+
+
+      La flotación es un proceso físico-químico de separación de materias de
+
+      distinto origen que se efectúa desde sus pulpas acuosas por medio de
+
+      burbujas de gas a base de sus propiedades hidrofílicas e hidrofóbicas.
+
+
+
+      La flotación es una de las técnicas más importantes y versátiles en el
+
+      procesamiento de menas, su aplicación se expande al tratamiento de
+
+      otros materiales.
+
+
+
+
+                                                                               32
+Flotación De Oro
+
+
+
+Antes de hacer referencia a la flotación de oro propiamente se debe
+
+indicar algunos aspectos por los cuales se justifica el hecho de no usar
+
+concentración gravimétrica, por ejemplo presenta la dificultad de no
+
+poder recuperar el oro fino que irremediablemente son arrastradas en las
+
+colas, inclusive partículas relativamente gruesas que tienen formas
+
+especiales favoreciendo a que sean arrastradas en las colas.
+
+
+
+Entonces la flotación es una buena alternativa para recuperar el oro fino
+
+cuando este se muestra libre en la muestra o acompañado de sulfuros.
+
+
+
+La flotación se usa bastante en la recuperación de oro, sin embargo, los
+
+objetivos y el modo de aplicación son muy variables y dependen del tipo
+
+de mineral, de las asociaciones de oro, otros valores metálicos,
+
+consideraciones de mercado y requerimientos ambientales.
+
+
+
+Reactivos De Flotación
+
+
+
+Estos reactivos aseguran que la flotación     sea altamente selectiva y
+
+eficiente, siendo su función hacer variar la tensión superficial de los
+
+minerales.
+
+
+
+
+                                                                       33
+2.1.6.3. Carbón activado
+
+      El Carbón Activado no viene a ser sino un Carbón con una gran área
+
+      superficial, al cual se le ha eliminado las sustancias volátiles y destruido
+
+      algunos enlaces moleculares débiles a través de un tratamiento Piro-
+
+      metalúrgico.
+
+      El carbón tiene la propiedad de adsorber el oro y la plata a partir de
+
+      soluciones hasta el grado de 7% de su peso en oro y 3% de su peso en
+
+      plata sin mostrar el más ligero cambio en su apariencia.
+
+      Estas afirmaciones hechas hasta 1921 también son aplicables
+
+      actualmente, debido a la complejidad de carácter físico y químico del
+
+      carbón activado.
+
+      Para optimizar la performance metalúrgica de un proceso que usa
+
+      carbón activado para recuperar oro y plata, algunos comprenden lo que
+
+      involucra y a veces una química compleja es muy necesaria.
+
+      Propiedades
+
+      Las propiedades más importantes del Carbón Activado usado en la
+
+      extracción del oro son:
+
+            a. Capacidad de Adsorción.
+
+            b. Velocidad de Adsorción.
+
+            c. Resistencia Mecánica y Resistencia al uso.
+
+            d. Características de Reactivación.
+
+            e. Distribución del tamaño de Partículas.
+
+
+
+
+                                                                                34
+2.1.7. Lixiviación
+
+
+
+      Lixiviar es extraer una sustancia (el oro) de una masa sólida (rocas
+
+      pulverizadas) mediante el tratamiento con un líquido (solución de cianuro
+
+      de sodio). La masa de mineral pulverizado expuesta al aire          (cielo
+
+      abierto) es rociada con la solución de cianuro de sodio.
+
+
+
+      La lixiviación del oro se realiza utilizando principalmente uno de estos
+
+      dos métodos: el Merrill-Crowe o el de absorción con carbón.
+
+
+
+      A. En el Merrill-Crowe se agrega zinc en polvo y sales de plomo a la
+
+          solución de cianuro con oro. El oro se separa y precipita y el zinc en
+
+          polvo se combina con el cianuro. Luego se funde el precipitado para
+
+          obtener el oro. Las escorias se descargan habitualmente en las pilas
+
+          de desecho o “colas”.
+
+
+
+          El cianuro estéril puede ser destinado a un ciclo abierto en cuyo caso
+
+          se diluye y luego se descarga a cursos de agua o a un ciclo cerrado
+
+          para recuperarlo y volverlo a usar.
+
+
+
+      B. La recuperación con carbón se usa más en explotaciones pequeñas
+
+          y con bajo contenido de plata. En este caso la “solución encinta” se
+
+          impulsa a través de columnas de carbón activado. El oro y la plata de
+
+          la solución se adhieren al carbón y la solución estéril, que todavía
+
+          contiene cianuro, se lleva a un embalse de almacenamiento.
+
+
+                                                                              35
+         El oro y la plata se separan del carbón con soda cáustica caliente y la
+
+         solución pasa luego por una celda con ánodo de acero inoxidable y
+
+         cátodo para captar el material. El carbón gastado se reactiva en un
+
+         horno y se lo reutiliza
+
+
+
+         Un problema en la etapa de lixiviación es que la membrana,
+
+         generalmente de polietileno de alta densidad, se perfore por el peso
+
+         del cúmulo que puede tener entre 40 y 50 metros de altura Además,
+
+         si la superficie del cúmulo es extensa los forros son enormes. Por
+
+         ejemplo, los mineros del cobre no confían en estos forros para su
+
+         minería.
+
+
+
+         El otro problema son las lagunas que se forman en la zona del
+
+         yacimiento con los líquidos del tratamiento que contienen cianuros y
+
+         metales pesados.
+
+
+
+2.1.7.1. Cianuro
+
+
+
+      El radical cianuro es una combinación de Carbono (C) y de Nitrógeno (N)
+
+      con una carga negativa, donde el Nitrógeno funciona como trivalente, es
+
+      decir comparte tres uniones con el Carbono. CN si aparece un elemento
+
+      con una carga positiva como puede ser el Na (sodio), K (potasio) o Ca
+
+      (calcio) su unión con el cianuro forma una sal:
+
+
+
+
+                                                                              36
+        NaCN        Cianuro de Sodio
+
+        KCN         Cianuro de Potasio
+
+        Ca(CN)2     Cianuro de Calcio
+
+
+
+Estas sales alcalinas son solubles en agua, cuyo aspecto es el de un
+
+sólido blanco sin olor y sumamente tóxico.
+
+
+
+El ácido cianhídrico (HCN) es un líquido incoloro que hierve a 26 grados
+
+centígrados (es decir fácilmente volatilizable) y es soluble en agua,
+
+sumamente tóxica y con olor a almendras amargas y es un veneno
+
+potentísimo.
+
+
+
+El cianuro libre se genera cuando el cianuro se disuelve en agua. Si bien
+
+se conocen fuentes naturales de cianuro (por ejemplo, en las almendras,
+
+cáscaras de papas y de mandioca, porotos blancos y sorgo), la mayor
+
+parte del cianuro que existe en el mundo no provine de fuentes naturales
+
+sino que es fabricado por el hombre para aplicarlo en diferentes
+
+actividades e industrias (galvanoplastia, curtiembres, fabricación de
+
+nylon, plásticos y cerca del 8% se utiliza principalmente en la minería del
+
+oro).
+
+
+
+Una de las propiedades químicas del cianuro es su capacidad para
+
+combinarse con metales, por ejemplo con el oro (Au) formando cianuro
+
+de oro. El cianuro se presta a formar mezclas con la mayoría de los
+
+
+
+
+                                                                         37
+principales metales para formar compuestos o complejos químicos, por
+
+lo que es de gran utilidad para la extracción de metales de una mena.
+
+
+
+El cianuro también tiende a reaccionar químicamente con la mayoría de
+
+otros elementos químicos, produciendo un gran variedad de compuestos
+
+tóxicos y no tóxicos. Además, el cianuro (que contiene carbono, lo que
+
+significa que es un compuesto orgánico) reacciona fácilmente con otros
+
+compuestos orgánicos, inclusive organismos vivos.
+
+
+
+A diferencia del mercurio y otros metales, el cianuro en su forma pura no
+
+se acumula en la cadena alimenticia. La luz del sol, los ambientes con
+
+pH neutral y los microorganismos del suelo causan la desintegración
+
+rápida del cianuro en partículas no tóxicas. Pero es probable que esta
+
+desintegración   se   vea   disminuida    cuando    no   hay   suficientes
+
+microorganismos que contribuyan a este proceso (por ejemplo en
+
+algunos climas desérticos), o en aguas subterráneas, o bajo capas de
+
+hielo, en donde el cianuro no está expuesto a la luz solar.
+
+
+
+A pesar de que la mayoría del cianuro presente en aguas provenientes
+
+de faenas mineras se desintegra y resulta en compuestos que no son
+
+nocivos, siempre puede haber concentraciones importantes de otros
+
+compuestos cianúricos tóxicos que persisten en el ambiente. Estos
+
+compuestos persistentes constituyen el más alto riesgo para las
+
+especies vulnerables de peces de agua fresca.
+
+
+
+
+                                                                        38
+     El cianuro tiene dos usos principales en la minería:
+
+
+
+        -   Ya que tiene una atracción natural al oro, la plata y otros metales,
+
+            el cianuro es utilizado cada vez más a menudo para extraer oro
+
+            de menas de baja ley en oro utilizando procedimientos de
+
+            lixiviación en cúmulos. El cianuro se va pegando al oro a medida
+
+            que va penetrando la mena triturada, lo que permite más adelante
+
+            captar la solución de oro y cianuro. Finalmente, el oro es
+
+            separado del cianuro. Este método también es usado para la
+
+            extracción de la plata.
+
+
+
+        -   El cianuro también es usado en la molienda y concentración de
+
+            cobre, plomo, cinc, cobalto y molibdeno. Se agrega cianuro en
+
+            ciertas fases de la molienda para separar los minerales valiosos
+
+            de la mena, como por ejemplo el sulfuro.
+
+
+
+        -
+
+2.1.7.2. Fundamentos de cianuración
+
+
+
+     Los procesos metalúrgicos en los últimos tiempos están adquiriendo
+
+     mayor importancia dentro del campo de la metalurgia extractiva la que
+
+     involucra la recuperación de componentes valiosos de materiales
+
+     primarios y secundarios (minerales de baja ley) haciéndose extensiva a
+
+     materiales no metálicos.
+
+
+
+
+                                                                              39
+Los materiales primarios y secundarios comprenden minerales de baja
+
+ley o materiales de desperdicios de minas que no pueden ser
+
+económicamente tratados por procesos de concentración gravimétrica y
+
+piro metalúrgicamente, tales como fundición y refinación convencional,
+
+además los procesos hidrometalúrgicos son usualmente más baratos en
+
+costos de capital y son relativamente más fáciles de controlar el proceso
+
+mismo.
+
+
+
+Los procesos de lixiviación comprenden la disolución del valor metálico
+
+de una materia prima en una solución acuosa con agentes químicos
+
+apropiados en un espacio limitado.
+
+
+
+Lixiviación en pila.- La lixiviación en pila con cianuro de los minerales
+
+de oro y plata, constituye un desarrollo hidrometalúrgico relativamente
+
+reciente. Hoy en día, se usan comercialmente dos métodos básicos de
+
+lixiviación por cianuración en pila, los que usan el mineral tal como sale
+
+de la mina y los que se usan el mineral chancado. Si la mena es
+
+quebrada y dejada en su lugar o cuando ésta permite la percolación de
+
+la solución lixiviante sin necesidad del uso de explosivos, se puede
+
+lixiviar “in situ”, esto es, en el mismo lugar sin mover la mena. Un cuerpo
+
+mineralizado expuesto a la vista, vale decir, no escondido, puede ser
+
+lixiviado insitu, rociando la solución lixiviante sobre la superficie y
+
+reuniendo en pozos de recuperación, después de que la solución haya
+
+percolado a través de la mena.
+
+
+
+
+                                                                         40
+Percolación.-    La percolación se refiere a la manera en la cual las
+
+soluciones lixiviantes fluyen por gravedad a través de la pila. A superficie
+
+de una pila de pobre percolación puede llegar a ser inundada y las
+
+soluciones lixiviantes pueden correr sobre los lados de la pila, causando
+
+una severa erosión. La pila puede no permitir suficiente solución para
+
+mojar el mineral, de modo que la lixiviación ocurre sólo sobre las
+
+superficies extremas de la pila.
+
+
+
+Lixiviación en vats.- En los últimos años la Robertson Research
+
+Internacional Limited ha estado dedicado al desarrollo de un sistema de
+
+lixiviación en vat/pila en el Sudan, para ello se realizaron muchas
+
+pruebas, tal es así que se consideró el deposito más atractivo. Puesto
+
+que, además del potencial de mina de roca dura, había ya una sustancial
+
+reserva de colas o residuos conteniendo oro que podrían soportar una
+
+pequeña operación comercial independiente durante varios años.
+
+
+
+La lixiviación se lleva a cabo en piscinas de 5,5 m de diámetro,
+
+acondicionados con un sistema de filtración, las soluciones del proceso
+
+son almacenadas en piscinas y son recirculadas en pequeña bombas
+
+centrifugas a una unidad de adsorción de carbón para recuperar el oro.
+
+
+
+Proceso Merrill Crowe.- Es el proceso de cementación con Zinc para
+
+la precipitación de oro de las soluciones de cianuro. Este proceso Merrill
+
+Crowe tiene por objeto de evitar la eliminación del oxigeno contenido en
+
+la solución de cianuro, y es usado principalmente en el sistema de
+
+
+                                                                          41
+      precipitación por el polvo de zinc pero puede ser también empleado
+
+      cuando se usa la precipitación por las virutas de este metal.
+
+
+
+      Clarificación.- El objetivo de esta etapa es eliminar la presencia de
+
+      sólidos en suspensión en la solución Pregnant, remanentes que no han
+
+      podido ser eliminados en la etapa anterior; y entregar una solución
+
+      clarificada a la siguiente etapa. Para ello se utilizan filtros clarificadores.
+
+
+
+2.1.8. Proceso de refinación
+
+
+
+      Horno de fundición.- Para la fundición de precipitados Merrill Crowe, se
+
+      usa generalmente hornos basculantes ya sea de combustión por
+
+      petróleo, por gas o eléctricos. La parte externa es metálica y la cámara
+
+      donde se realiza la combustión y va el crisol de grafito, es revestida
+
+      totalmente de refractarios teniendo en cuenta que se va alcanzar una
+
+      temperatura de aproximadamente entre los 1200 ºC sabiendo que la
+
+      temperatura de fusión del Au es de 1063 ºC y de la Ag de 960 ºC.
+
+
+
+      Crisol.- Los crisoles que se utilizan para la fundición de precipitados
+
+      Merrill Crowe son generalmente de grafito (SiC = Carburo de silicio) y su
+
+      tamaño va a depender del porte del horno y de la cantidad de precipitado
+
+      a fundir. Como recomendación adicional se puede decir que a los
+
+      crisoles antes de ser cargados con precipitado deben de ser pre-
+
+      calentados durante 1 a 1.5 horas, para evitar que el crisol sufra choques
+
+      térmicos durante el carguío.
+
+
+                                                                                        42
+      Lingoteras.- Las lingoteras que se utilizan para decepcionar el metal
+
+      líquido (DORE), son hechas de material de hierro fundido, con una
+
+      capacidad de recepción de 500 onzas, se prefiere que sea de hierro
+
+      fundido porque su temperatura de fusión de este material es de 1536 ºC,
+
+      muy superior a los 1200 ºC, con la cual sale el metal líquido del horno de
+
+      fusión.
+
+
+
+      Escoria.- Es una mezcla fundida de una composición química definida
+
+      (boratos y silicatos), generada por reacciones químicas que se originan
+
+      dentro del crisol durante el proceso de fusión.
+
+
+
+2.1.9. Tostación
+
+
+
+      La tostación ha sido el método tradicional empleado por muchos años
+
+      para el tratamiento de menas y concentrados de oro refractarios, que
+
+      contienen azufre, arsénico, antimonio o teluros. Consta de una tostación
+
+      oxidante.
+
+
+
+      Tostación Oxidante
+
+      Es una operación muy antigua y en la actualidad se esta empleando en
+
+      Canadá, Sudáfrica y Australia entre otros. Los objetivos que se busca
+
+      con la tostación son:
+
+
+
+         -      destrucción de la fase del metal sulfuroso.
+
+                                                                              43
+        -   Exposición del oro en el sulfuro.
+
+        -   Producción de un área superficial grande, calcinas altamente
+
+            porosas.
+
+        -   Minimizar la producción de constituyentes reactivos en la calcina,
+
+            pirrotita, sulfatos ferrosos y otros.
+
+        -   Fijación del arsénico, azufre en una forma aceptable para el
+
+            medio ambiente.
+
+
+
+     El método frecuentemente empleado en la industria es el de la tostación
+
+     en dos etapas:
+
+
+
+     En la primera etapa, efectuada en condiciones reductoras en deficiencia
+
+     de oxígeno, se produce una calcina pobre en arsénico conteniendo
+
+     principalmente magnetita.
+
+
+
+     En la segunda etapa, la magnetita es transformada en hematina bajo
+
+     condiciones oxidantes. Industrialmente las dos etapas se realizan en
+
+     hornos de lecho fluidizado estacionario y con circulación.
+
+
+
+2.2. MINERIA ARTESANAL Y PEQUEÑA MINERÍA
+
+
+
+
+     La Ley General de Minería establece dos regímenes para el desarrollo
+
+     de la actividad minera en el Perú. El Régimen General, para la actividad
+
+     de la Mediana y Gran Minería, así como el Régimen Especial, para la
+
+
+
+                                                                            44
+actividad de la Pequeña minería y Minería artesanal, que es supervisado
+
+por las Direcciones Regionales de Minería, DREM, en cada región.
+
+
+
+
+La pequeña minería y la minería artesanal son actividades de extracción
+
+minera que se vienen desarrollando de manera informal y con escasos
+
+recursos, intensificándose a partir de la década de los 80´s hasta la
+
+fecha.
+
+
+
+
+En ambas formas de minería prima la informalidad, la explotación laboral
+
+y la explotación irracional de recursos naturales. En Madre de Dios
+
+existen aproximadamente 30 mil mineros dedicados a este régimen
+
+artesanal que es uno de los principales dinamizadores de la economía
+
+local, pero también fuente de serios conflictos sociales, así como se
+
+presentan en otras regiones con minería ilegal tales como Piura, Nazca,
+
+Puno y Cusco, entre otras.
+
+La definición de la pequeña minería engloba a las cooperativas, la
+
+minería artesanal, la minería informal. La pequeña minería ha
+
+incrementado su participación en la producción de casi todos los
+
+minerales, con excepción del oro. También en este último sector la
+
+pequeña minería ha aumentado la producción.
+
+
+
+
+                                                                      45
+2.3. RELAVES AURÍFEROS
+
+
+
+     La explotación rentable de yacimientos no depende exclusivamente del
+
+     contenido de oro, sino también del consumo de agua que demanda el
+
+     tratamiento de cada tipo de material; así una ley intermedia o alta en una
+
+     matriz sumamente arcillosa puede ser menos rentable y menos
+
+     aceptable que un material de menor ley pero con un contenido
+
+     moderado de arcilla. Los mineros no pueden seleccionar entre estos
+
+     tipos de materiales o realizar un minado más selectivo debido a la
+
+     ausencia de exploración apropiada.
+
+
+
+     El relave, tanto grueso como fino, se almacena en sitios seleccionados
+
+     de acuerdo a su accesibilidad y facilidad de transporte, antes que
+
+     basados en el contenido de oro recuperable. Como resultado se han
+
+     cubierto con montañas de relaves áreas que probablemente tengan igual
+
+     o mayor contenido de oro que las zonas explotadas. El costo de remover
+
+     el material supra yacente perjudica notablemente la rentabilidad de su
+
+     explotación.
+
+
+
+     También el método empleado favorece el almacenamiento del relave
+
+     grueso sobre áreas mineralizadas que podrían haberse explotado en
+
+     otras circunstancias.
+
+
+
+     Los relaves tanto grueso como fino se descargan sin planificación, y
+
+     terminan cubriendo extensas zonas que contienen oro.
+
+
+                                                                             46
+                               CAPITULO III
+
+                              METODOLOGÍA
+
+
+
+Para   la realización del presente trabajo se empleara una metodología
+
+descriptiva del proceso que esta operando en algunas empresas y
+
+posteriormente realizar estudios prácticos y comparativos con otros estudios
+
+técnicos metalúrgicos para la obtención del oro, realizándose estos por medio
+
+de pruebas metalúrgicas.
+
+
+
+3.1. CARACTERIZACION MINERALOGICA
+
+
+
+   Las pruebas de caracterización permiten encontrar un camino para el
+
+   procesamiento experimental puesto que los análisis practicados aportan
+
+   información útil   que permite evitar errores experimentales y ensayos
+
+   inútiles que generarían incrementos en los costos.
+
+
+
+   Lopez M (1999) citando a Del Valle (1997) clasifica la información obtenida
+
+   de la caracterización mineralógica en varios grupos así:
+
+
+
+                                                                            47
+3.1.1. Grupo I: Datos composicionales y mineralógicos
+
+
+
+   Minerales de mena:
+
+
+
+   Dan información sobre flotabilidad, solubilidad, reductibilidad, clivajes y
+
+   fisuras para el acceso a soluciones, deslustre y recubrimiento, propiedades
+
+   magnéticas,    gravedad    específica,   minerales   complejos.   Minerales
+
+   metálicos sin valor. Minerales oxidados y grado de oxidación. Minerales de
+
+   ganga
+
+
+
+   Minerales inconvenientes y perjudiciales:
+
+
+
+   En los casos de las menas auroargentíferas hay minerales nocivos para el
+
+   procesamiento. Entre los minerales que inhiben la cianuración tenemos:
+
+
+
+         -   Minerales consumidores de oxígeno: pirrotina, marcasita y
+
+             ocasionalmente pirita.
+
+         -   Minerales cianicidas: Sulfuros de cobre y minerales oxidados de
+
+             As, Sb y Cu.
+
+         -   Minerales consumidores de oxígeno y cianuro.
+
+         -   Perdida en las colas
+
+
+
+
+                                                                            48
+3.1.2. Grupo II: Datos geométricos
+
+
+
+   Se trata de definir la forma del mineral de interés económico, el tamaño del
+
+   grano y las relaciones de inter crecimiento de los minerales de mena y
+
+   ganga, aspectos necesarios para diseñar una planta de procesamiento
+
+   mineral.
+
+
+
+   En el aspecto geométrico existen tres factores que trabajan estrechamente
+
+   unidos:
+
+
+
+   El modelo de inter crecimiento mineral.
+
+
+
+   El tamaño de las partículas intercrecidas:
+
+
+
+   Da el tamaño de liberación, es decir el tamaño al cual se debe moler.
+
+
+
+   La naturaleza del límite entre partículas intercrecidas:
+
+
+
+   Lo cual indica si los granos se romperán o no en los límites y de no ocurrir
+
+   la ruptura se puede establecer si es necesario realizar una molienda más
+
+   fina para alcanzar el grado de liberación.
+
+
+
+
+                                                                             49
+   La Figura 1 se presenta los tipos morfológicos de textura y su influencia en
+
+   el procesamiento de minerales según Craig y Vaugham (1981)
+
+
+
+
+3.1.3. Grupo III: Datos cuantitativos
+
+
+
+   El cálculo cuantitativo de los tamaños de las partículas de las especies
+
+   minerales contenidas en la mena permite establecer los parámetros
+
+   adecuados para el procesamiento mineral así como para la extracción del
+
+
+                                                                             50
+mineral y/o la especie de interés. Es por lo tanto necesario que los
+
+constituyentes mineralógicos cuantificados sean presentados de manera
+
+cuantitativa o semi cuantitativa con el fin de darle la máxima utilización a la
+
+caracterización.
+
+
+
+Los minerales auríferos complejos son causa de pérdidas de oro debido a
+
+que algunas características mineralógicas afectan la recuperación. La
+
+textura, los intercrecimientos, la localización y distribución de los metales
+
+de interés, son tema fundamental a definir por la caracterización puesto
+
+que pueden ocasionar problemas en el procesamiento.
+
+
+
+Como ya se explicó la necesidad de procesos de oxidación como pre
+
+tratamiento para minerales y concentrados de sulfuros, carbonáceos y
+
+teluros son obligatorios para incrementar la extracción hidrometalurgia. Las
+
+asociaciones mineralógicas más importantes en las menas de sulfuros
+
+auríferos que exigen pre tratamiento oxidante previo a la lixiviación
+
+convencional se ilustran en la figura 2
+
+
+
+
+                                                                             51
+3.2.   MUESTREO DE MATERIAL
+
+
+
+       La recolección de muestras representativas se realizó en la parte norte
+
+       de los yacimientos del Distrito de Limbani. El método de muestreo que
+
+       se utilizó es el de acopio, este fue de fácil manipulación ya que el
+
+       material había sido sometido al chancado previamente y se encontraba
+
+       expuesto a la intemperie en diámetros de 10 cm aproximadamente, se
+
+       escogió fragmentos representativos del yacimiento, hasta obtener         el
+
+       peso aproximado de 46 Kg (un saco de muestras).
+
+
+
+3.2.1. Preparación del material muestreado
+
+
+
+       El material es muestreado en el yacimiento Fortuna I, como un skarn de
+
+       sustancias minerales valiosas y estériles, por lo cual resulta necesaria su
+
+       preparación mecánica y así lograr una separación adecuada de la mena.
+
+
+
+       Al ser mineral fresco que se encontraba expuesto a las condiciones
+
+       climáticas del sector fue necesario secarlo en una estufa a 50ºC. Luego
+
+       se procedió a llevar a cabo las operaciones mecánicas de reducción de
+
+       tamaño que se realizan con el fin de obtener un grado de liberación
+
+       apropiado del mineral.
+
+
+
+
+                                                                                52
+3.2.2. Trituración
+
+
+
+      La trituración de sustancias sólidas transforma un determinado material
+
+      en trozos de menor tamaño. Para la trituración de los materiales se
+
+      incrementa su superficie libre, según las propiedades físicas de una
+
+      sustancia, su dureza, su fragilidad, se emplean métodos distintos de
+
+      trituración que pueden ser: por presión o impacto, fractura, escisión o
+
+      corte.
+
+
+
+      Se la realiza en una trituradora de mandíbulas cuyas ventajas permiten
+
+      la manipulación adecuada de material así como también obtener un
+
+      tamaño de partícula adecuado.
+
+
+
+      La boca de alimentación de la trituradora es grande, por lo tanto
+
+      colocamos el material poco a poco, por la acción de las mandíbulas (fija
+
+      y móvil) se realiza la trituración y se descarga el producto por la parte
+
+      inferior debido al movimiento de la mandíbula móvil.
+
+
+
+      Las mandíbulas se regulan previamente para obtener un tamaño de
+
+      partícula de 2mm; una vez realizada la trituración pasamos el producto
+
+      por un tamiz ASTM #10 con el fin de clasificar el material, el retenido
+
+      pasará nuevamente a ser triturado y el pasante quedará en stock para
+
+      las preparaciones posteriores.
+
+
+
+
+                                                                             53
+3.2.3. Homogenización y Cuarteo.
+
+
+
+      La homogenización consiste en mezclar y amontonar sucesivamente el
+
+      material hasta conseguir que el material este visiblemente homogéneo.
+
+
+
+      Colocamos el material en un plástico y homogenizamos con movimiento
+
+      continuo, de forma circular, cogiendo cada punta del plástico sin dejar
+
+      partes muertas.
+
+
+
+      Luego se procede a la reducción de la muestra, aplicado cuarteo.
+
+      En el cuarteo se intenta obtener la cantidad de material suficiente para
+
+      realizar los ensayos de caracterización.
+
+
+
+      El material se distribuye para formar primero un cono y después una
+
+      “torta” circular plana, respetando lo máximo posible la simetría lograda
+
+      en el paso anterior, finalmente la torta circular se divide en 4 partes a lo
+
+      largo de 2 diagonales perpendiculares entre sí. Dos cuartos opuestos se
+
+      separan como muestras y el par restante constituye el rechazo.
+
+
+
+
+      Se repite las veces que sea necesario para obtener aproximadamente
+
+      1Kg.
+
+
+
+
+                                                                                54
+3.3.   CARACTERIZACIÓN DEL MINERAL.
+
+
+
+       La caracterización del mineral permite conocer las características físicas,
+
+       químicas y mineralógicas del mineral para tener como referencia e iniciar
+
+       con los ensayos metalúrgicos.
+
+
+
+
+                                                                                55
+                                 CAPITULO IV
+
+
+                         RESULTADOS Y DISCUSIONES
+
+
+4.1. DETALLE EXPERIMENTAL
+
+
+4.1.1. CIANURACIÓN
+
+     La cianuración es el proceso electroquímico de disolución del oro, plata y
+
+     algunos otros componentes que se pueden encontrar en un mineral
+
+     aurífero, mediante el uso de una solución alcalina de cianuro, que forma
+
+     aniones complejos de oro, estables en condiciones acuosas. Este
+
+     proceso implica una serie de reacciones que ocurren en la superficie del
+
+     sólido.
+
+
+     Elsner (1846) propuso la reacción global de disolución del oro mediante
+
+     una solución acuosa de cianuro, en presencia de oxígeno:
+
+
+
+
+   4Au      + 8NaCN +       O2      +   2H2O  4NaAu(CN)2 + 4NaOH
+  Oro          Cianuro    Oxígeno       Agua    Complejo de        Sosa
+ metálico        de                              cianuro de      cáustica
+                sodio                                oro
+
+
+
+
+                                                                             56
+  La reacción global corresponde a una reacción heterogénea que incluye
+
+  3 fases diferentes: Fase sólida (oro metálico), líquido (agua, sales
+
+  disueltas de cianuro), gas (oxígeno)
+
+
+ Tabla No.1. Influencia del pH en la recuperación de oro por cianuración
+
+       Ph       Recuperación de oro Consumo CNNa Consumo Cal
+                    en solución
+                        (%)            (Kg/ton)    (Kg/ton)
+       9,5              67,9             12,5         3,1
+       10               71,0              1,7         1,5
+       11               74,3              2,1         3,5
+       12               71,1              1,5        11,5
+
+
+
+
+Se observa que a pH= 9,5 la recuperación de oro obtenida es la más baja,
+
+esto debido a que si se opera a un valor de pH menor que 10, el cianuro
+
+libre estará en mayor proporción como HCN, que es muy volátil a
+
+temperatura ambiente, y no reacciona con el material, el consumo de
+
+cianuro además se incrementa sustancialmente en este caso (12,5 Kg/ton).
+
+
+         -   Absorción de oxígeno en la solución
+
+         -   Transporte de cianuro disuelto y oxígeno a la interfase sólido
+
+             líquido
+
+         -   Transporte de los reactantes al interior del sólido por poros o
+
+             canales
+
+         -   Adsorción del cianuro y oxígeno en la superficie del sólido
+
+         -   Reacción electroquímica en la superficie
+
+         -   Desorción del complejo soluble oro-cianuro y otros productos
+
+             de la reacción
+
+
+
+                                                                           57
+           -   Transporte de los productos desde los sitios de reacción hacia
+
+               la superficie del sólido por poros o canales
+
+           -   Transporte de los productos desde la interfase fluido-sólido
+
+               hacia la solución
+
+
+
+El yacimiento original es de tipo refractario y su origen es hidrotermal, en el
+
+que el oro se encuentra en grano fino, íntimamente asociado a la pirita.
+
+
+
+Objetivo
+
+
+
+   -   Estudiar a nivel laboratorio, la factibilidad técnica de aplicar un
+
+       proceso combinado: pirometúrgico (calcinación y tostación) e
+
+       hidrometalúrgico (cianuración), para el tratamiento de minerales del
+
+       distrito de Limbani.
+
+   -   Establecer los parámetros óptimos del proceso, para alcanzar una
+
+       mayor recuperación.
+
+   -   Conseguir elevar el grado de recuperación en la cianuración de la
+
+       muestra flotada de las actuales condiciones en las que se trabaja,
+
+       utilizando para ello los reactivos adecuados.
+
+En resumen, la propuesta de las pruebas para la recuperación de
+
+elementos de valor se muestra en la Gráfico.
+
+
+
+
+                                                                             58
+                                  MINERAL
+
+
+
+
+                              PREPARACIÓN
+
+                               DEL MINERAL
+
+
+
+
+CaO                                                      NaCN
+                               CIANURACIÓN
+
+
+
+
+                                                      SOLUCIÓN PREÑADA
+MATERIAL INSOLUBLE
+
+
+
+                                                     ANÁLISIS QUÍMICO Au
+
+
+
+
+         Gráfico Nº 1 Flujo grama de cianuración directa experimental
+
+4.1.2. Características de la muestra y materiales utilizados
+
+
+
+  Materia prima.- El material con el cual se trabajará en la siguiente prueba,
+
+  consiste en dos muestras provenientes de la prueba anterior la flotación de
+
+  sulfuros, de los cuales uno ha sido tostado y el otro permanece tal como
+
+  vino de la flotación.
+
+
+
+
+                                                                            59
+La cantidad con la que se cuenta son:
+
+ Mineral flotado tostado: 250 g
+
+ Mineral flotado sin tostar: 300 g
+
+
+
+ Reactivos
+
+
+
+   Los reactivos empleados en la experimentación, fueron:
+
+
+
+          Cianuro de sodio =          grado industrial
+
+          Oxido de calcio     =      grado industrial
+
+          Agua               =       para todas las pruebas se empleó
+
+                                     agua de grifo.
+
+
+
+ Equipo
+
+
+
+El equipo utilizado en las pruebas fue:
+
+
+
+      Tanque de vidrio de 1 litro de capacidad
+
+      Agitador eléctrico
+
+      pH metro
+
+      Material de vidrio (vasos de precipitación, vasos Erlenmeyer)
+
+      Papel filtro
+
+      Otros accesorios.
+
+
+
+
+                                                                        60
+Procedimiento experimental
+
+
+
+  1. Preparar correctamente el reactor en donde se cianurará el material
+
+     aurífero.
+
+  2. Se echa agua en el reactor, (678 ml, según cálculos) proporcional a
+
+     la cantidad de material, agregando en seguida el material a cianurar
+
+     e iniciar la agitación.
+
+  3. Se procedió a medir el pH natural de la pulpa, en este caso fue 3,12.
+
+  4. Entonces para trabajar en medio alcalino, que es lo que se quiere se
+
+     añadió cal de a pocos hasta llegar a un pH de 10,5.
+
+  5. Se mantuvo agitándose durante 1 hora para su respectivo
+
+     acondicionamiento.
+
+  6. Para la prueba se tomó una pequeña muestra de solución,
+
+     obviamente la agitación paró por unos 10min. enviándose dicha
+
+     muestra a análisis químico.
+
+  7. La agitación fue permanente y durante 24 horas seguidas.
+
+  8. Se procedió al apagado del agitador pasadas las 24 horas, en
+
+     seguida se tomó otra poca de muestra para su análisis químico y
+
+     luego se filtró la pulpa.
+
+  9. Finalmente se lavó el queque para una mejor recuperación y
+
+     dejándose secar.
+
+  10. Por último se pesó, cuarteó y se tomó una pequeña muestra la cual
+
+     se envió a su respectivo análisis químico.
+
+  11. Los pasos ya descritos se realizan para los dos tipos de materiales
+
+     tostados y sin tostar, tomando los mismos parámetros.
+
+                                                                         61
+4.1.3. Efecto del tamaño de la partícula
+
+    Los parámetros empleados en las pruebas fueron;
+
+
+
+             TABLA 2. Condiciones de operación en la prueba de cianuración
+
+           Condiciones de operación en la prueba de cianuración
+
+
+   Cabeza Au (g/tn)                                   71 y 60
+
+   Peso concentrado compósito (g)                     250 y 300
+
+   Granulometría del concentrado                     75% -150 #
+
+   Concentración de cianuro                             2gr/lt
+
+   Dilución (L/S)                                        4/1
+
+   pH cianuración                                        10.5
+
+   Tiempo de cianuración (h)                              24
+Fuente: Flotación de minerales III.
+
+
+
+
+Efecto del tamaño de partícula en la extracción del metal precioso:
+
+TABLA3. Tamaño de partícula en la extracción para material sin tostar
+
+                          Tamaño partícula    Au     % Extr.
+                               µm            g/tn.     Au
+                               104           14.94    54.40
+                               53            18.60    64.50
+                                      38     21.42     78.60
+
+
+
+TABLA 4 Tamaño de partícula en la extracción para material tostado
+
+                          Tamaño partícula    Au     % Extr.
+                               µm            g/tn.     Au
+                               104           21.24    62.32
+                               53            17.45    67.34
+                                      38     44.45     88.45
+
+
+
+
+                                                                             62
+4.1.4. Efecto de la concentración de cianuro de sodio
+
+
+
+
+Establecido el tamaño de partícula óptimo, se procedió a experimentar la
+
+influencia de la concentración de la concentración de cianuro de sodio en el
+
+proceso, para lo cual se tomaron los siguientes parámetros de operación:
+
+
+
+     Tamaño de partícula             =    38 micrones
+
+     Relación sólido-líquido         =    25 % sólidos
+
+     pH de la pulpa                  = 10.5
+
+     Tiempo de cianuración           = 24 horas
+
+     Concentración de NaCN           = Variable
+
+
+
+Los resultados obtenidos en el efecto de la concentración de NaCN en la
+
+extracción del metal precioso, se presentan en la siguiente tabla:
+
+
+
+TABLA. 5 Concentración de NaCN en la extracción del oro para el material sin tostar
+
+                       Conc. NaCN (g/l)      Au g/tn.    % Extr. Au
+                             0.5              4.41          61.50
+                             1.0              18.75         68.80
+                             2.0              20.88         78.60
+                             2.5              20.19         74.10
+
+
+
+
+TABLA 6 Concentración de NaCN en la extracción del oro para el material calcinado
+
+                        Conc. NaCN (g/l)     Au g/tn.    % Extr. Au
+                              0.5             4.41         63.44
+                              1.0             18.75        64.56
+                               2.0            20.88        79.04
+                               2.5            20.19        87.82
+
+
+
+
+                                                                                      63
+Como ya se tiene conocimiento de los parámetros óptimos obtenidos para el
+
+tamaño que se ha trabajado es 10.5 pues, se sabe que este punto el proceso
+
+de cianuración es óptimo.
+
+
+
+4.2. RESULTADOS
+
+
+
+Efecto del tamaño de partícula
+
+
+
+Los resultados de la tabla 2 y 3, muestran que a medida que disminuya el
+
+tamaño de la partícula aumenta la extracción, obteniéndose a 38 micrones,
+
+extracciones de 78,6% y 88,45% de oro respectivamente.
+
+Se estima trabajar con tamaños de grano de 38 micrones, ya que es posible
+
+obtener este tamaño mediante circuitos de molienda convencionales.
+
+
+
+Efecto de la concentración de cianuro de sodio
+
+
+
+La tabla 4 nos muestra que la concentración de cianuro que ofrece los mejores
+
+resultados, es de 2gr/lt con 78,6% de extracción de oro.
+
+Y para la calcina la concentración de cianuro más óptima es de 2,5 gr/t con
+
+87.82% de extracción de oro.
+
+La bibliografía recomienda utilizar una concentración inicial de cianuro es de 1
+
+gr/lt para menas oxidadas, en cambio en las menas periticas se aconseja
+
+duplicar esta concentración.
+
+En cuanto al hecho que a mayores concentraciones se obtengan menores
+
+extracciones de los metales preciosos, porque el oro forma compuestos
+
+
+
+
+                                                                              64
+aúricos, razón por la cual la extracción de oro disminuye. Actualmente esta
+
+demostrado que la concentración inicial de cianuro sólo influye en el tiempo de
+
+extracción, por cuya razón a altas concentraciones disminuye la velocidad de
+
+disolución del oro. Sin embargo, un sistema debe encontrarse en equilibrio
+
+químico, por lo cual, a determinadas            concentraciones de cianuro, las
+
+propiedades físicas se hacen constantes con el transcurso del tiempo.
+
+
+
+Efecto del pH en la cianuración
+
+
+
+El pH más recomendable en la           extracción de oro se efectúa a pH 10.5,
+
+disminuyendo la extracción conforme aumenta el pH. Probablemente este
+
+hecho se deba a que al aumentar el pH, se incrementa la presencia de iones
+
+sulfuro ya que los iones oxidrilos descomponen a la pirita para formar el
+
+Fe(OH)2 que es estable en soluciones alcalinas.
+
+
+
+4.3. RECUPERACIÓN DE ORO MEDIANTE CEMENTACIÓN CON ZINC.
+
+
+
+      El oro que se encuentra disuelto en forma de un cianuro complejo, se
+
+      puede recuperar de las soluciones ricas, utilizando la precipitación con
+
+      zinc metálico. La cementación es un proceso de precipitación del oro en
+
+      forma   metálica   sobre    el     zinc   dado   su   mayor   potencial   y
+
+      electronegatividad (el oro es más noble que el zinc). La precipitación o
+
+      cementación del oro con zinc, es un proceso que se conoce desde
+
+      1890, y el cual experimentó en los años subsecuentes algunas
+
+      modificaciones prácticas importantes como fue el agregar sales de
+
+
+
+                                                                                65
+plomo con el objetivo de promover la actividad electroquímica de las
+
+reacciones y evitar la pasivación de la superficie del zinc; también se
+
+sustituyó las láminas (virutas) por polvo de zinc, lo que incrementa el
+
+área superficial específica y por consiguiente, mejora considerablemente
+
+la cinética y eficiencia del proceso; la tercera modificación fue la
+
+desaireación de la solución rica antes de agregar el polvo de zinc (este
+
+proceso es conocido actualmente como Merrill-Crowe)
+
+
+
+La reacción electroquímica principal, que ocurre en la precipitación del
+
+oro con zinc, es la siguiente:
+
+
+
+       Au (CN)2- + Zno + 4 CN-  Auo + Zn(CN)42- + 2 CN-
+
+
+
+
+El proceso industrial que se emplea es altamente eficiente y se conoce
+
+con el nombre de Merril- Crowe, en este se alcanzan recuperaciones
+
+de oro de hasta el 99.5%. Este proceso involucra cuatro operaciones
+
+principales que son, según la secuencia de ejecución: la clarificación de
+
+la solución rica; la desoxigenación; la adición de sales de plomo y polvo
+
+de zinc y la recuperación del precipitado, en filtros para el cemento. El
+
+proceso en secuencia, se esquematiza en la figura siguiente:
+
+
+
+
+                                                                       66
+   Aire
+
+            Bomba de
+              vacío             Znº, NaCN, Acet. Pb
+
+                                                         Sol. pobre
+Sol. rica
+
+
+                                                              Cemento
+       Filtro Solución                                        Au-Zn
+             rica        Torre de               Filtro de
+                          vacío              cemento Au-Zn
+
+
+            Figura 2. Esquema del proceso Merrill - Crowe.
+
+
+
+La primera operación es la clarificación de la solución que proviene de la
+
+lixiviación. Consiste en la eliminación de los sólidos finos presentes, por
+
+medio de filtros, hasta alcanzar un porcentaje máximo de 5 ppm de
+
+sólidos en solución. La efectiva ejecución de esta etapa incidirá en la
+
+eficiencia del proceso e incremento de la ley de oro en los precipitados.
+
+
+
+Después que la solución está libre de partículas en suspensión, se
+
+conduce hasta la torre de desaireación, donde por medio del vacío, se
+
+logra reducir el porcentaje de oxígeno en solución desde alrededor de
+
+6,5 ppm O2 hasta aproximadamente 1 ppm O2. El oxígeno incrementa el
+
+consumo de zinc y, debido a la presencia de cianuro libre, el oro
+
+precipitado se puede redisolver.
+
+
+
+
+                                                                            67
+Antes de agregar el polvo de zinc, se ajusta el porcentaje de cianuro
+
+libre en la solución. La concentración de cianuro libre necesario para la
+
+cementación, depende de la concentración de oro en solución. Para el
+
+tratamiento de soluciones diluidas, < 1 g Au/t a un pH de 10,5, se
+
+recomienda trabajar con concentraciones de cianuro libre superiores a
+
+0,2 g/l NaCN. Para soluciones concentradas, en el orden de 20 a 100
+
+gAu/t, la mínima concentración de cianuro libre aconsejada está entre 2–
+
+5 g/l NaCN. El polvo de zinc, con un tamaño muy fino (<400 mallas), se
+
+agrega, mediante alimentadores especiales, a razón de 0,5 a 1,5 partes
+
+de zinc por parte de oro.
+
+
+
+La cantidad agregada va a depender de la presencia de plata y de otros
+
+componentes disueltos en la solución. En esta etapa también se agrega
+
+el nitrato o acetato de plomo en una relación en peso de Pb/Zn de 1/7 –
+
+1/10, o en proporción a una cantidad cercana a 0,5 partes de sal de
+
+plomo por parte de oro.
+
+
+
+La última operación es la separación del precipitado (cemento) de la
+
+solución empobrecida mediante el uso de filtros. La solución pobre se
+
+recircula a la planta de lixiviación y el precipitado o cemento, constituido
+
+esencialmente de oro, plata, zinc, plomo, se envía a la fundición para la
+
+elaboración del bullión.
+
+
+
+
+En los procesos aplicados en el Ecuador, también se cementa el oro en
+
+tanques agitados sin eliminación del oxígeno disuelto, en este caso, los
+
+
+                                                                          68
+      consumos de zinc, están en el orden de 10 - 20 g de zinc /g de oro. Es
+
+      una técnica más sencilla, tiene buenas recuperaciones de oro de la
+
+      solución, pero consume mayor cantidad de zinc. El tiempo de contacto
+
+      es de aproximadamente 30 minutos.
+
+
+
+      Los sistemas de cianuración por percolación, utilizan cementación con
+
+      cinc en virutas de 0,5 cm de ancho, colocadas en canastas de madera
+
+      que se sumergen en la solución preñada a partir del décimo octavo día
+
+      de cianuración. Los consumos de cinc se estiman del orden de 50
+
+      gramos de viruta/gramo de oro. Los tiempos de cementación están entre
+
+      5 - 10 días. El cemento de cinc obtenido es refinado empleando
+
+      principalmente ácido nítrico.
+
+
+
+      El proceso de cementación con cinc es ventajoso por su simplicidad y
+
+      bajo costo, sin embargo se logra un metal recuperado es de baja calidad
+
+      y por tanto se tiene un consumo en exceso del metal cementante.
+
+
+
+4.3.1. Factores que afectan la precipitación de oro con el cinc
+
+
+      Varios factores afectan el proceso de cementación de una u otra
+
+      manera, y de acuerdo al adecuado control de estos se tendrá un
+
+      aumento o disminución en la eficiencia de precipitación de oro, estos
+
+      factores son los siguientes:
+
+
+
+
+                                                                           69
+a. Concentración de oro en solución: La razón de precipitación
+
+   generalmente se incrementa con el aumento de la concentración
+
+   de oro de la solución
+
+
+
+b. Concentración      de   cianuro:    El   efecto     general   de   la
+
+   concentración del cianuro libre, en la práctica, afecta de manera
+
+   leve a la precipitación, pero esto solamente hasta un valor
+
+   determinado que depende de la concentración de oro y el pH.
+
+
+
+c. Concentración de zinc: La reacción de disolución del zinc
+
+   disminuye con el aumento de la concentración del ion de zinc, sin
+
+   embargo, esto es relativo. Altas concentraciones de zinc pueden
+
+   generar la formación de hidróxido de zinc insoluble, el cual puede
+
+   pasivar la superficie del metal y reducir severamente la razón de
+
+   precipitación.
+
+
+
+d. Tamaño de partícula del zinc: Un incremento en la superficie
+
+   disponible del zinc aumenta la velocidad de la reacción.
+
+
+
+e. Temperatura: La aceleración de la precipitación es evidente con
+
+   el incremento de la temperatura. Por ejemplo el oro precipita en 2
+
+   horas a 35 0 C, y precipita en 24 horas a 20 0 C.
+
+
+
+f. Oxígeno disuelto: La presencia de oxígeno disuelto disminuye la
+
+   cinética de la precipitación, pues la reducción de oxígeno compite
+
+
+                                                                      70
+            con la reducción de oro, pero esto dependerá de la temperatura y
+
+            de la concentración del metal precioso en solución.
+
+
+
+         g. pH. : Se indica que el pH óptimo para la precipitación de oro,
+
+            desde soluciones frías diluidas, está en un rango de 11.5 a 11.9
+
+
+
+         h. Efecto de ciertos iones metálicos pesados polivalentes: El
+
+            efecto benéfico de iones de plomo en la precipitación desde
+
+            soluciones diluidas a baja temperatura es evidente;      el Pb +2
+
+            reduce a la superficie del cinc formando áreas cargadas catódicas
+
+            de plomo metálico. Generalmente se usa de 0.001 a 0.01 g/l
+
+            como óptimo en el proceso Merril-Crowe. Un exceso de plomo
+
+            disminuye la eficiencia debido probablemente a que el cinc se
+
+            recubre de una capa de plomo.
+
+
+
+4.4. Recuperación de oro mediante electrodeposición.
+
+
+
+
+     La electrodeposición es el proceso por el cual se aprovecha el paso de
+
+     la corriente eléctrica a través de una solución conductora para provocar
+
+     la migración de las especies metálicas presentes (o cationes) hacia el
+
+     polo negativo (o cátodo) de una celda electroquímica. Los cationes
+
+     aceptan electrones y se depositan en forma metálica sobre el electrodo
+
+     negativo o cátodo.
+
+
+
+
+                                                                               71
+       1. Solución acuosa conductora: que tiene en su seno, cationes que
+
+          sirven de paso a la corriente eléctrica y electrones.
+
+       2. Electrodos: positivo o ánodo y negativo o cátodo. Estos electrodos
+
+          están conectados directamente a los polos de una fuente de poder.
+
+       El momento en que circula corriente por el sistema, ocurren las
+
+siguientes reacciones en los electrodos:
+
+Reacción anódica (ánodo):          HOH            1/2 O2o + 2H+ + 2e-
+                                   agua           oxígeno     ion      electrones
+                                                            hidrógeno
+
+
+Reacción catiónica (cátodo)        2Au(CN)2- (aq) + 2e-              2Auo+ 4CN-
+                              Complejo cianurado     electrones       oro
+                                       áurico                       metálico
+
+
+REACCION GLOBAL 2Au(CN)2- (aq)+ H2O                         2Auo + 4CN- +1/2 2H+
+
+
+       Se denomina corriente catódica al paso de los electrones del cátodo al
+
+       ánodo.
+
+       El proceso de electrólisis, está gobernado por las leyes de Faraday, que
+
+       dicen:
+
+       Primera Ley: La cantidad de metal depositado en el cátodo es
+
+       directamente proporcional a la cantidad de electricidad que atraviesa la
+
+       celda
+
+       Segunda Ley: Una cantidad dada de electricidad deposita el mismo
+
+       número de equivalentes químicos de la sustancia en el cátodo. Con:
+
+
+                                            Peso atómico
+                       Peso equivalente =
+                                             Valencia
+
+
+                                                                                    72
+El equivalente electroquímico de un metal, es el número de gramos del
+
+   metal que son depositados en el cátodo por cada coulombio de
+
+electricidad que pasa por la celda. (1 coulombio = amp.seg)
+
+
+
+La ley de Faraday establece que los equivalentes químicos son
+
+proporcionales a los equivalentes electroquímicos, siendo constante la
+
+razón de proporcionalidad e igual a 96500 coulombios (= 26,81 Amperios.
+
+Hora) (constante de Faraday).
+
+
+
+          # Equivalentes químicos = 96500 x # equivalentes electroquímicos
+
+
+
+Esto quiere decir, que usando una corriente de 1 Amperio x hora, se
+
+pueden depositar 2,4524 gramos de oro metálico.
+
+
+
+Normalmente, hay pérdidas de corriente, debido a varios factores, por lo
+
+que se requiere aplicar un mayor voltaje que el requerido.
+
+
+
+   -   Caída de voltaje debido a la resistencia interna de los electrodos,
+
+       normalmente fabricados de metales.
+
+   -   Caída de voltaje debido a la resistencia de los contactos eléctricos.
+
+   -   Caída de voltaje debido a reacciones secundarias en el electrolito,
+
+       provocadas por impurezas en la solución conductora.
+
+La temperatura es un factor que influye en la eficiencia de corriente. Para el
+
+caso del oro, se recomienda trabajar a 80oC. En la tabla 1, se presentan los
+
+parámetros de operación de una celda para recuperación de oro.
+
+
+
+                                                                               73
+           Tabla 7. Condiciones operatorias para la electrodeposición del oro:
+
+Elemento     Concentración      Voltaje Voltaje      Densidad     Material Material
+                de oro en       teórico práctico        de        del ánodo   del
+                solución          (V)     (V)        corriente              cátodo
+                   (g/l)                              (A/m2)
+  Oro        500 – 6000 mg/l      0,27      3-5      350 – 500   Acero Inox      Hierro
+
+
+
+
+   Al igual que existen varios procesos de desorción, también existen diversos
+
+   diseños de celdas de electrodeposición del oro, a partir de la solución
+
+   concentrada obtenida de la desorción del carbón. En términos generales, la
+
+   electrodeposición del oro utiliza cátodos que pueden estar constituidos de
+
+   lana de acero ordinario, lana de acero inoxidable, planchas de acero
+
+   inoxidable o de grafito; mientras que los ánodos son fabricados
+
+   principalmente de acero inoxidable.
+
+
+
+   Condiciones de operación típicas en estas celdas son: un voltaje de celda
+
+   entre 3 - 5 V, una densidad de corriente entre 350 - 500 Amp/m2,
+
+   temperatura de 80ºC, concentración de entrada de 500 ppm Au a 6 g Au/l,
+
+   concentración de salida de la solución, 10 - 20 ppm Au. En este proceso se
+
+   obtienen recuperaciones superiores al 99%.
+
+
+
+   Equipos y materiales
+
+
+   Celdas. Son cubas o recipientes rectangulares de concreto en las cuales la
+
+   profundidad siempre excede al ancho. Las celdas usualmente están
+
+   revestidas de fibra o material plástico, resistente a la temperatura. Las
+
+   tuberías de entrada y salida son de acero negro, acero inoxidable o
+
+
+                                                                                          74
+material plástico. A lo largo de la celda están ubicados las barras
+
+conductoras de corriente, llamados también “busbars”.
+
+
+
+Ánodos. Para la electrodeposición o electrorefinación de oro, lo usual es
+
+usar ánodos de acero inoxidable. Siempre se utiliza un ánodo más que el
+
+número de cátodos, por ejemplo, si se usan 6 cátodos, se usarán 7 ánodos.
+
+
+
+Cátodos. Los cátodos pueden estar constituidos por una estructura de
+
+acero inoxidable, con esponja de hierro tejida en la estructura.
+
+
+
+Los cátodos son introducidos en “cajas” o fundas de fibra o material
+
+plástico, agujereadas para favorecer el paso de la solución, necesarias
+
+para recoger el oro fino en polvo que se desprende de los cátodos.
+
+
+
+Los cátodos de lana de acero son muy útiles por la alta superficie para
+
+precipitación que presentan. Teóricamente pueden cargar hasta 20 veces
+
+su peso de metales pesados,. Sin embargo, esto en la práctica no ocurre,
+
+considerándose que cargas de 1 – 2 kg Au/kg de lana de acero. La
+
+cantidad de lana de acero empleada varía entre 5 – 15 g/l, aunque también
+
+se usado hasta 30 g/l.
+
+
+
+La ventaja de usar mallas de acero inoxidable, reside en el hecho de que
+
+se usan y se rehúsan de manera ilimitada, además de la facilidad de
+
+limpieza del oro depositado, usando un cepillo de acero. La refinación del
+
+
+
+
+                                                                        75
+oro catódico, requerirá una mínima cantidad de ácido, dependiendo de las
+
+impurezas depositadas con el oro, principalmente cobre y mercurio
+
+
+
+Ánodo: planchas de acero inoxidable de 40x40 cm., de 1/4” de espesor,
+
+con perforaciones de 1/4” cada cm., con un perno de bronce soldado en un
+
+extremo de la parte superior, para servir de conexión eléctrica con la barra
+
+conductora de electricidad.
+
+
+
+Cátodos: varillas de acero inoxidable de 1/4” formando una estructura tipo
+
+trinche (3 patas unidas en la parte superior) con dimensiones de 40x40
+
+cm., entrelazado o tejido con 30 g/l de lana de acero #1. Tiene también un
+
+perno de bronce soldado en un extremo de la parte superior, que sirve de
+
+conexión eléctrica con la barra conductora. El cátodo está protegido
+
+durante la operación, en una caja de goma o de fibra de 7 cm. de espesor,
+
+con perforaciones.
+
+
+
+Celda electrolítica: caja rectangular de 1m x 45cm, de plancha de hierro
+
+negro de 1/4”, recubierto interiormente por goma vulcanizada en frío. Esta
+
+celda esta diseñada para 9 cátodos y 10 ánodos, separados entre sí cada 4
+
+cm.
+
+Barras de cobre de 3x85x0.6 cm, conductoras de corriente.
+
+
+
+
+                                                                          76
+                   PRUEBA DE CIANURACION EN COLUMNA SEMI PILOTO
+
+
+                                LAVADO DE MINERAL         INICIO DE LIXIVIACION
+TOMA DE MUESTRA                                            CON NaCN AL 0.1 %
+                                    CON AGUA
+
+                                                                          REPETICION DE
+                                                                          PRUEBA CON LA
+                                                                          MISMA SOLUC.
+                                                             CONTROL DE PH
+                                MEDIDA DEL GRADO            GASTO DE CIANURO
+PREPARACION MUESTRA             DE IMPREGNACION          TOMA DE MUESTRA ANALISIS
+
+
+
+
+                                                         CAMBIO DE SOLUCION
+TOMA DE MUESTRA                  MEDIDA DEL GRADO
+                                                              (8 VECES)
+  PARA ANALISIS                   DE EVAPORACION
+
+
+
+
+ PREPARACION DEL                ACONDICIONAMIENTO           FIN DE PRUEBA
+      EQUIPO                      DEL PH CON CaO
+
+
+
+
+CARGADO DE MINERAL                 DETERMINAR EL           LAVADO CON AGUA
+  EN LA COLUMNA                 FLUJO PERCOLACION               FRESCA
+
+                                                           CONTROL DE GASTO
+                                                          REACTIVOS Y BALANCE
+                                                             METALURGICO
+
+
+
+
+                                                                                    77
+                               CONCLUSIONES
+
+
+El tamaño de partícula es determinante, muestran que a medida que disminuya
+
+el tamaño de la partícula aumenta la extracción, obteniéndose a 38 micrones,
+
+extracciones de 78,6% y 88,45% de oro respectivamente.
+
+Se estima trabajar con tamaños de grano de 38 micrones, ya que es posible
+
+obtener este tamaño mediante circuitos de molienda convencionales.
+
+
+
+La concentración de cianuro que ofrece los mejores resultados, es de 2gr/lt con
+
+78,6% de extracción de oro.
+
+Y para la calcina la concentración de cianuro más óptima es de 2,5 gr/t con
+
+87.82% de extracción de oro.
+
+La bibliografía recomienda utilizar una concentración inicial de cianuro es de 1
+
+gr/lt para menas oxidadas, en cambio en las menas piríticas se aconseja
+
+duplicar esta concentración.
+
+
+
+En cuanto al hecho que a mayores concentraciones se obtengan menores
+
+extracciones de los metales preciosos, porque el oro forma compuestos
+
+áuricos, razón por la cual la extracción de oro disminuye. Actualmente esta
+
+demostrado que la concentración inicial de cianuro sólo influye en el tiempo de
+
+extracción, por cuya razón a altas concentraciones disminuye la velocidad de
+
+disolución del oro. Sin embargo, un sistema debe encontrarse en equilibrio
+
+químico, por lo cual, a determinadas         concentraciones de cianuro, las
+
+propiedades físicas se hacen constantes con el transcurso del tiempo.
+
+
+
+
+                                                                              78
+El pH más recomendable en la        extracción de oro se efectúa a pH 10.5,
+
+disminuyendo la extracción conforme aumenta el pH. Probablemente este
+
+hecho se deba a que al aumentar el pH, se incrementa la presencia de iones
+
+sulfuro ya que los iones oxidrilos descomponen a la pirita para formar el
+
+Fe(OH)2 que es estable en soluciones alcalinas.
+
+
+
+El proceso experimental realizado es solamente una de las alternativas
+
+posibles de aplicar el proceso de cianuración, ya que éste puede ir combinado
+
+con otro que haga en lo posible lograr una mejor optimización de las variables.
+
+
+
+La granulometría debe de ser lo más óptima posible dejando la mayor
+
+superficie de contacto con la solución lixiviante. Siendo ésta variable una de
+
+las más negativas del proceso desarrollado, por que se nota que en las
+
+partículas gruesas está la mayor cantidad de valores retenidos sin disolver.
+
+Además cuando hay mucho fino, también es un factor negativo, porque estos
+
+con el tiempo se asientan en el fondo de la columna de mineral y no deja
+
+circular la solución lixiviante.
+
+
+
+
+                                                                                  79
+                               BIBLIOGRAFÍA
+
+
+ASTUCURI VENANCIO T.             "PRINCIPIOS DE HIDROMETALURGIA y
+
+ALGUNAS APLICACIONES", Colección Ciencias. Lima-Perú
+
+
+
+BRAY JHON L.        METALURGIA EXTRACTIVA DE LOS METALES NO
+
+FERROSOS", Ediciones Inerciencia, Madrid-España,
+
+
+
+DE LA TORRE, JUAN RUBIO l "METALURGIA DEL ORO", Madrid V, Rio. S.A.,
+
+1985
+
+
+
+DIEZ CANSECO, ERNESTO: "METALURGIA DEL ORO Y DE LA PLATA"
+
+Copias Mimeografiadas, Universidad Nacional de Ingeniería, Lima-Perú,
+
+
+
+E. L. RHEAD, "METALURGIA", Editorial Labor Barcelona España.
+
+
+
+FORT MICHSL,       "LECCIONES DE METALURGIA ESPECIAL DE ORO Y
+
+PLATA" Copias Mimeografiadas, Universidad Nacional de Ingeniería, Lima-
+
+Perú.
+
+
+
+GUTIÉRREZ BLANCO Gróver, “I Conferencia Internacional de la Metalurgia de
+
+los Metales Preciosos”. Edit. IMRAL Oruro-Bolivia. 1995.
+
+
+
+
+                                                                        80
+HINOJOSA CARRASCO Octavio, “Metalurgia Extractiva de oro y plata”,
+
+Cajamarca-Perú. Octubre.2005
+
+
+
+IGNACIO GALARZA Job A. “Evaluación y Comparación de los Equipos
+
+Centrífugos Gravimétricos en la Concentración de Menas Auríferas”. Oruro.
+
+1992.
+
+
+
+TAGGART, A. F.    "HANDBOOK OF MINERAL DRESSING", Editorial John
+
+Wiley Sons. New York.
+
+TECSUP, “Hidrometalurgia del Oro”. Programa de Capacitación Continua.
+
+Lima-Peru. Marzo. 2002.
+
+
+
+
+                                                                       81
+

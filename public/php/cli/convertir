@@ -1,0 +1,8 @@
+<?php
+include('../Clases/Convertir.php');
+
+//print_r($argv);
+
+$ruta = $argv[1];
+$destino = $argv[2];
+Convertir::TodoPDFaTXT($ruta, $destino);

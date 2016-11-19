@@ -1,0 +1,3056 @@
+     UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+  FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
+
+ ESCUELA PROFESIONAL DE MEDICINA VETERINARIA Y ZOOTECNIA
+
+
+
+
+“NIVEL DE ENERGÍA Y PROTEÍNA EN LA DIETA SOBRE LA FORMACIÓN
+       DE RESIDUOS EN CULTIVOS DE TRUCHAS ARCO IRIS”
+
+                           TESIS
+
+                     PRESENTADA POR:
+
+
+         Bach. PAOLO ABIMAEL MACEDO SUCARI
+
+
+           PARA OPTAR EL TÍTULO PROFESIONAL DE:
+
+
+         MÉDICO VETERINARIO Y ZOOTECNISTA
+
+
+                        PUNO – PERÚ
+
+
+                           2015
+            UNIVERSIDAD NACIONAL DEL ALTIPLANO
+     FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
+                                    TESIS
+   “NIVEL DE ENERGÍA Y PROTEÍNA EN LA DIETA SOBRE LA
+FORMACIÓN DE RESIDUOS EN CULTIVOS DE TRUCHAS ARCO IRIS”
+                  Tesis para optar el título profesional de:
+
+                      Médico veterinario y Zootecnista
+
+                              Presentado por:
+
+                PAOLO ABIMAEL MACEDO SUCARI
+
+   APROBADA POR EL SIGUIENTE JURADO CONFORMADO POR:
+
+
+
+  Presidente de Jurado          :
+                                    Ph. D. Bernardo Roque Huanca
+
+
+
+
+  Primer miembro                :
+                                    MVZ. Marino Francisco Ávila Felipe
+
+
+
+
+  Segundo miembro               :
+                                    Mg. Sc. Bilo Wenceslao Calsín Calsín
+
+
+
+
+  Director de Tesis             :
+                                    Dr. Marcelino Jorge Araníbar Araníbar
+
+
+
+
+  Asesor                        :
+                                    MVZ. Francisco Halley Rodríguez Huanca
+
+ÁREA : Nutrición animal
+TEMA : Alimentos, forrajes convencionales
+                                             DEDICATORIA
+
+
+
+
+A mis amados padres Amilcar y Maria, y mis
+queridos hermanos Rassiel y Jhoel Lenin; por
+todo su esfuerzo y sacrificio para bridarme todo el
+amor, la comprensión, el apoyo incondicional y la
+confianza en mí.
+
+
+
+
+                                                             A mi Director Dr. Marcelino J.
+                                                           Araníbar, por cultivar mi mente en la
+                                                                                  investigación.
+
+
+                                                                                             iii
+                               AGRADECIMIENTOS
+
+A Dios que siempre está a mi lado, dándome fuerzas en los momentos difíciles por
+protegerme, darme las alegrías y bendiciones; guiando mis pasos y la de mi familia.
+
+A la Universidad Nacional del Altiplano Puno, por ser el alma formadora de personas,
+intelectual y espiritualmente, en especial a la Facultad de Medicina Veterinaria y
+Zootecnia.
+
+Mis más sinceros agradecimientos al director de esta tesis, Dr. Marcelino Jorge
+Araníbar, por su sabiduría y orientación en mi formación como profesional.
+
+Gratamente al Dr. Bernardo Roque Huanca, por facilitarme el acceso al Laboratorio de
+Nutrición Animal FMVZ para realizar los análisis de las muestras y por ser de gran
+apoyo, confianza y paciencia durante la ejecución del presente trabajo sobre todo por
+esa gran amistad.
+
+A los compañeros y amigos, por su apoyo moral.
+
+
+
+
+                                                                                      iv
+                                                         ÍNDICE
+
+ÍNDICE DE GRÁFICOS ............................................................................................... viii
+ÍNDICE DE FOTOGRAFÍAS ......................................................................................... viii
+LISTA DE ABREVIATURAS ......................................................................................... x
+I. INTRODUCCIÓN ......................................................................................................... 1
+II. REVISIÓN BIBLIOGRÁFICA ................................................................................... 3
+   2.1.     Acuicultura ......................................................................................................... 3
+   2.2.     Efecto ambiental de la acuicultura ..................................................................... 3
+      2.2.1.       Acumulación de materia orgánica. ............................................................. 4
+          2.2.1.1.       Los residuos sólidos ............................................................................ 5
+          2.2.1.2.       Nitrógeno ............................................................................................. 6
+          2.2.1.3.       Fósforo ................................................................................................. 7
+      2.2.2.       Efectos que ejercen residuos sólidos .......................................................... 9
+   2.3.     Antecedentes .................................................................................................... 10
+   2.4.     La Nutrición y Alimentación de Peces............................................................. 11
+   2.5.     Composición de los alimentos ......................................................................... 12
+   2.6.     Fuente de proteína ............................................................................................ 13
+   2.7.     Relación de energía y proteína ......................................................................... 14
+   2.8.     Requerimientos nutricionales de la trucha ....................................................... 15
+      2.8.1.       Requerimientos de proteína en peces ........................................................ 16
+      2.8.2.       Requerimientos de lípidos en peces .......................................................... 18
+      2.8.3.       La energía en la nutrición de peces ........................................................... 20
+   2.9.     Principales Insumos utilizados en la formulación de dietas............................. 22
+      2.9.1.       Harina Pioval-2® ....................................................................................... 22
+      2.9.2.       Harina de Pota (Dosidicus gigas).............................................................. 23
+      2.9.3.       Harina de Pescado prime .......................................................................... 23
+      2.9.4.       Harina de maíz .......................................................................................... 24
+      2.9.5.       Soya integral extruida ............................................................................... 24
+      2.9.6.       Aceite de pescado ..................................................................................... 25
+      2.9.7.       Aceite vegetal ........................................................................................... 26
+III. MATERIAL Y MÉTODOS...................................................................................... 27
+   3.1. Ámbito de estudio ................................................................................................ 27
+   3.2.     Instalaciones de cultivo .................................................................................... 27
+   3.3.     Instalaciones para colección de materia orgánica ............................................ 28
+
+
+                                                                                                                                  v
+   3.4.      Animales .......................................................................................................... 29
+   3.5.      Material de laboratorio ..................................................................................... 29
+   3.6.      Dietas en prueba ............................................................................................... 30
+   3.7.      Metodología ..................................................................................................... 35
+      3.7.1.        Determinación de emisiones de materia orgánica (MO) .......................... 35
+      3.7.2.        Determinación de nitrógeno...................................................................... 36
+      3.7.3.        Determinación de fósforo ......................................................................... 36
+   3.8.      Análisis estadístico ........................................................................................... 37
+V. RESULTADOS Y DISCUSIONES ........................................................................... 38
+   4.1.      Materia orgánica (MO) .................................................................................... 38
+   4.2.      Nitrógeno (N) ................................................................................................... 40
+   4.3.      Fósforo (P) ....................................................................................................... 43
+V. CONCLUSIONES ..................................................................................................... 47
+ANEXOS ........................................................................................................................ 56
+
+
+
+
+                                                                                                                                vi
+                               ÍNDICE DE TABLAS
+
+                                                                     Pág.
+Tabla 1.    Coeficiente de digestibilidad aparente de las dietas con 10
+            diferentes niveles de energía y aminoácidos.
+Tabla 2.    Coeficiente de digestibilidad aparente de las dietas con 11
+            diferentes niveles de nitrógeno y fósforo.
+Tabla 3.    Requerimientos nutritivos de la truchas “arco iris” juveniles.   16
+Tabla 4.    Contenido de MS, PB, GB, y EB de las materias primas.            22
+Tabla 5.    Contenido de aminoácidos en la harina de cuero hidrolizado 23
+            (% de proteína).
+Tabla 6.    Composición nutricional Ewos Van-500.                            30
+Tabla 7.    Composición químico proximal de las materias primas 32
+            empleados en la formulación de las dietas experimentales.
+Tabla 8.    Particularidades de niveles de grasa, e inclusión de proteína 33
+            animal (harina de pescado, harina Pioval-2 y harina de pota)
+Tabla 9.    Composición de las dietas experimentales para truchas en 34
+            crecimiento. Inclusión de aceite en la dieta, 6% 12% y 18%.
+Tabla 10.   Análisis de la composición químico-proximal de las dietas 35
+            experimentales.
+Tabla 11.   Materia orgánica (MO) de las dietas experimentales y 38
+            residuos sólidos colectados.
+Tabla 12.   Nitrógeno (N) de las dietas experimentales y residuos 40
+            sólidos colectados.
+Tabla 13.   Fósforo (P) de las dietas experimentales y residuos sólidos 44
+            colectados.
+Tabla 14.   Análisis de la composición químico-proximal de las dietas 68
+            experimentales.
+Tabla 15.   Análisis de la composición químico-proximal residuos 69
+            sólidos colectados.
+Tabla 16.   Total de alimento consumido (TAC), consumo promedio 70
+            (CP), consumo promedio diario (CMD), peso de residuos,
+            materia orgánica (MO), nitrógeno(N), fósforo (P), sólido
+            colectado (PRSC), materia seca (MS) durante 10 días.
+
+
+                                                                                  vii
+                             ÍNDICE DE GRÁFICOS
+                                                                          Pág.
+Figura 1.   El flujo y el destino de los nutrientes en un sistema de 5
+            acuicultura en jaulas (Gregor, 2007).
+Figura 2.   Distribución de nitrógeno en el cultivo en jaulas de 7
+            salmónidos (Adaptado por Rosenthal, 1994).
+Figura 3.   El flujo y el destino de los componentes nutritivos de un 8
+            sistema de jaulas de salmón (Wang et al., 2012).
+Figura 4.   Partición de la energía del alimento en peces (NRC, 1993).    22
+Figura 5.   Esquema de distribución de jaulas, con sus respectivos 28
+            tratamientos y repeticiones de las dietas en experimento.
+Figura 6.   Instalación de la malla colectora.                            28
+Figura 7.   Correlación entre el contenido de materia orgánica (MO) 40
+            en las dietas y la MO en los residuos colectados.
+Figura 8.   Correlación entre el contenido de Nitrógeno (N) en las 43
+            dietas y el N en los residuos colectados.
+Figura 9.   Correlación entre el contenido de fósforo (P) en las dietas y 46
+            el P en los residuos colectados.
+
+
+                       ÍNDICE DE FOTOGRAFÍAS
+
+
+Foto 1.      Alimento NRC-93 formulado con insumos                        58
+             convencionales, (6 % de aceite).
+Foto 2.      Dietas experimentales con energía alta (EB1 y EB2) un        58
+             nivel de aceite de 12%.
+Foto 3.      Alimento elaborado EB2 en la planta de alimentos de 58
+             Arapa SAC.
+Foto 4.      Dietas experimentales con energía alta (EA1 y EA2) y un 59
+             nivel de aceite de 18%.
+Foto 5.      Alimento comercial Ewos®                                     60
+Foto 6.      Vista general de la estructura completa con sus 42 bolsas 61
+             de ensayo e identificación de acuerdo a los tratamientos y
+             repeticiones.
+Foto 7.      Vista de una malla colectora con residuos sólidos.           61
+
+                                                                                 viii
+Foto 8.    Residuos sólidos colectados en materia húmeda.        61
+Foto 9.    Residuos sólidos colectados en materia seca.          61
+Foto 10.   Determinación de fósforo en las dietas y residuos.    63
+Foto 11    Determinación de Nitrógeno en el M. micro Kjeldahl.   63
+
+
+
+
+                                                                      ix
+                        LISTA DE ABREVIATURAS
+
+
+AOAC   Association Official of Chemical Analytic
+Cen    Cenizas
+EA1    Energía alta 1
+EA2    Energía alta 2
+EB1    Energía baja 1
+EB2    Energía baja 2
+EEM    Error estándar de la media
+ED     Energía digestible
+EM     Energía metabolizable
+EN     Energía neta
+g      Gramo
+g-1    por gramo
+IC     Incremento caloric
+MB     Metabolismo basal
+MS     Materia seca
+MO     Materia orgánica
+msnm   Metros sobre nivel del mar
+N      Nitrógeno
+NRC    National Research Council
+OD     Oxígeno disuelto
+P      Fósforo
+SAC    Sociedad Anónima Cerrada
+SAS    Statistical Analysis Systems
+TM     Toneladas métricas
+
+
+
+
+                                                   x
+                                           RESUMEN
+
+El estudio fue realizado con el objetivo de determinar el nivel de energía y proteína de las dietas
+sobre la formación de residuos de materia orgánica (MO), nitrógeno (N) y fósforo (P) en el
+cultivo de truchas; en la cual, se utilizó un lote de 2100 truchas juveniles de 24.9±0.1cm de
+longitud y 227.6±6.3 g de peso procedentes de la empresa Paola’s Trout SAC de Chucuito. Los
+animales fueron distribuidos en 6 tratamientos, con 7 jaulas por tratamiento y 50 truchas por
+jaula. Las dietas fueron: Seis dietas con dos niveles de aceite (baja 12% vs alto ˃18%), cada
+nivel estuvo constituido por 60% aceite de pescado + 40% aceite vegetal. La dieta con 6% de
+aceite fue considerada dieta control (NRC-93). Las dietas de energía baja (EB1 y EB2) contienen
+12 % de aceite y las dietas de energía alta (EA1 y EA2) contienen de 18% de aceite. Las dietas1
+sin harina de pota y las dietas2 con 9% de harina de pota. La Ewos (dieta comercial). Los
+residuos sólidos colectados de las dietas experimentales fueron tomados de las mallas colectoras
+acondicionadas a cada jaula. Las muestras se conservaron en frio hasta la llegada al laboratorio.
+Después de un escurrido, se secaron en estufa (Dry Cabinet® Hungría) con circulación de aire a
+60°C por 72 horas hasta obtener el peso constante y fueron molidas, los análisis químicos se
+realizaron siguiendo la metodología de AOAC (2012). El análisis estadístico fue realizado con
+el paquete estadístico SAS. Los resultados indican que las dietas tuvieron efecto significativo
+(P<0.05) sobre las emisiones de residuos sólidos, siendo mayor en las dietas de energía baja
+NRC-93, EB1 y EB2 (1998.10, 1825.57, 1632.49, Kg/TM, respectivamente) por año para la
+materia orgánica; siendo mayor descarga de N en la EB1 y EA1 (57.59 y 52.49Kg/TM,
+respectivamente). La mayor descarga de P lo tuvo NRC-93 (5.13Kg/TM). Se concluye que las
+truchas que consumieron las dietas elaboradas con niveles de energía baja son las que generan
+mayor emisión de residuos al agua. La fuente de proteína animal (HP) incrementa en contenido
+de P en los residuos.
+
+Palabras clave: Energía, proteína, residuos, nitrógeno y fósforo.
+
+
+
+
+                                                                                                xi
+                             I. INTRODUCCIÓN
+
+La acuicultura ha tenido un crecimiento a nivel mundial. Sin embargo, a medida
+que incrementa la producción y la rentabilidad, también crecen las dudas sobre su
+impacto ambiental. Del mismo modo la producción truchícola en la región Puno se
+ha incrementado considerablemente, alcanzando 29.09 mil TM/año (Ministerio de
+la Producción, 2013). La constante descarga de desechos sólidos y líquidos en lagos
+y lagunas ha ocasionado problemas en los cuerpos de agua de todo el mundo, y el
+lago Titicaca no es la excepción (Fonturbel, 2005).
+
+La composición nutricional de la dieta, la digestibilidad y la retención de los
+ingredientes en el tejido corporal son los principales factores que influyen en la
+producción de residuos en la acuicultura. Los alimentos y la formulas alimenticias
+contienen nutrientes orgánicos como proteína/nitrógeno (N) y fósforo (P), cuando
+estos tienen baja digestibilidad o menor bio-utilización corporal, se produce mayor
+liberación en el agua y es otra fuente de polución del ecosistema acuático
+(Akinrotimi et al., 2011).
+
+El nivel de energía es un componente importante en la dieta de los peces y está
+relacionado directamente con la digestibilidad de las dietas, por ello el incremento
+de energía en la dieta es muy importante ya que permite la asimilación del resto de
+nutrientes, el nivel de energía está relacionado directamente con la inclusión de
+lípidos (aceite) en la dieta ya sea estos de origen marino como el aceite de pescado
+u otra fuente como la vegetal.
+
+En la alimentación de salmónidos, debido a su excepcional calidad se emplean altos
+niveles de harina de pescado en la fabricación de alimentos en salmones, lo cual
+redunda en niveles inconvenientemente altos de fósforo alrededor de 2.5% en la
+dieta, los que al exceder los requerimientos del pez, son excretados, resultando muy
+eutrificantes (Romero y Manríquez, 1993).
+
+La expansión rápida de la acuicultura solo podrá alcanzar mediante un modelo que
+aplique aspectos técnicos y principios ecológicos, que utilice una planificación
+racional que permita ampliar su impacto social y económico. De esta forma la
+acuicultura podrá convertirse en una actividad ecológica y socialmente responsable
+que permita potenciar las pesquerías tradicionales, recuperar hábitats y ecosistemas
+dañados (Vergara et al., 2005).
+
+
+                                                                                  1
+En el trabajo de investigación se planteó formular dietas con altos niveles de
+energía y proteína, teniendo como objetivo determinar el efecto del nivel de energía
+y proteína en la formación de residuos de materia orgánica (MO), nitrógeno (N) y
+fósforo (P), así presentar como una alternativa en la producción de truchas que
+permitan alcanzar la mayor disponibilidad de los macronutrientes de la dieta que
+logren reducir la formación de residuos ; sin disminuir el rendimiento productivo de
+las truchas arco iris.
+
+
+
+
+                                                                                  2
+                            II. REVISIÓN BIBLIOGRÁFICA
+
+2.1.   Acuicultura
+
+       La acuicultura se puede definir como el cultivo de organismos acuáticos en
+
+       cautividad con fines comerciales. Se conoce como “acuicultura intensiva”, y se
+
+       caracteriza fundamentalmente por el empleo de tanques o jaulas flotantes para
+
+       mantener los animales en cautividad, empleo piensos artificiales, siembra regular
+
+       y protección frente a depredadores con fin de conseguir mayor producción. (Utete
+
+       et al., 2013; Vergara et al., 2005). La acuicultura se está desarrollando
+
+       rápidamente y es el sector de más rápido crecimiento en la producción de
+
+       alimentos, con casi la mitad del suministro de pescado y mariscos del mundo
+
+       provienen de la acuicultura. Este crecimiento de la acuicultura ha llevado para
+
+       convertirse en una importante fuente de alimentos e ingresos para gran parte de la
+
+       población mundial (Wang et al., 2012). En contraste, la producción acuícola ha
+
+       seguido mostrando un fuerte crecimiento, pasando de unos 37 millones de
+
+       toneladas en 2002 a 50 millones de toneladas en el 2007, los peces se encuentran
+
+       estadísticamente alrededor de la mitad de la producción acuícola seguido por
+
+       moluscos y plantas cada uno 20% a 23% respectivamente (Díaz et al.,2012).
+
+2.2.   Efecto ambiental de la acuicultura
+
+       El desarrollo y la intensificación de la acuicultura han puesto de manifiesto un
+
+       amplio abanico de cuestiones asociadas con el medio ambiente y es objeto de
+
+       múltiples investigaciones, particularmente en instalaciones de acuicultura
+
+       intensiva (Díaz et al., 2012). En estos últimos años los impactos negativos de la
+
+       acuicultura sobre los ecosistemas naturales acuáticos, es objeto de severa crítica
+
+       pública, por que conduce al deterioro de la calidad del agua y los cambios de la
+
+       estructura de los fondos bénticos (Imanpour et al., 2013).
+                                                                                       3
+Los vertidos de la acuicultura pueden contener tres tipos de contaminantes: (1)
+
+productos farmacéuticos y desinfectantes, aunque sus impactos en la salud
+
+humana no han sido detectados categóricamente y en los ecosistemas marinos
+
+varían dependiendo de las condiciones del cultivo. (2) bacterias patógenas, virus y
+
+parásitos; (3) residuos de comida, heces y compuestos derivados del metabolismo
+
+de los peces (Haya et al., 2001).
+
+Una proporción variable del alimento suministrado a los organismos cultivados
+
+(1-30%) no es ingerido bien porque se sobrealimenta, o bien porque el sistema o
+
+su gestión es deficiente, no optimizando su consumo. Otros factores, como
+
+contenidos en material pulverizado de los piensos, contribuyen a esta fracción de
+
+residuos sólidos. La fracción no digerida del alimento es eliminada por los
+
+animales en forma de heces sólidas, mientras que aquellos nutrientes absorbidos
+
+en exceso son excretados junto a los productos finales del catabolismo de las
+
+proteínas en forma de amonio y urea disueltos, a través de las branquias, estos
+
+residuos se producen típicamente ya sea de la descarga de nutrientes en dilución o
+
+particulada (Vergara et al., 2005).
+
+2.2.1. Acumulación de materia orgánica.
+
+La materia orgánica liberada por la acuicultura es eliminado al medio ambiente
+
+acuático, contienen heces, alimento no digerido y excreciones metabólicas, estos
+
+residuos sólidos están formados por nutrientes orgánicos e inorgánicos (Husa et
+
+al., 2014). Las cantidades de contaminantes están relacionados con la
+
+composición química de los alimentos y su estabilidad, así como también los
+
+métodos de alimentación para los peces (Fadaeifard et al., 2013). Cuando el flujo
+
+de estos compuestos hacia el medio ambiente supera la capacidad de asimilación
+
+de los ecosistemas, podría causar severos impactos tanto en la columna del agua,
+
+                                                                                 4
+ el los bentos (comunidades de sustratos), disminuyendo del oxígeno disponible,
+
+ afectando al biodiversidad local (Husa et al., 2014).
+
+ Existen dos tipos generales de residuos producidos por sub productos:
+
+  Residuos en forma particulada, incluyen compuestos sólidos en suspensión y
+
+ sedimentación que pueden incluir heces, alimento no ingerido y nitrógeno y
+
+ fósforo en forma de sedimentos sólidos.
+
+  Residuos que derivan de la descarga de nutrientes en dilución, incluyen
+
+ compuestos orgánicos de nitrógeno y fósforo en forma disuelta derivados del
+
+ metabolismo de los peces y la descomposición de residuos sólidos.
+
+
+
+
+   Figura 1. El flujo y el destino de los nutrientes en un sistema de acuicultura en jaulas
+              (Reid, 2007).
+
+2.2.1.1.    Los residuos sólidos
+
+Los residuos sólidos de la acuicultura se compone por alimentos no ingeridos y
+
+materia fecal (Fadaeifard et al., 2013). Grandes cantidades de partículas fecales y
+
+desperdicios de alimentos se hunden rápidamente y pueden acumularse en los
+
+                                                                                              5
+sedimentos en los fondos de los lagos (Wang et al., 2012). Los residuos fecales está
+
+compuesto por la fracción no digerida del alimento que es eliminada por los peces
+
+en forma de heces solidas (Buschmann y Fortt, 2005).
+
+Las partículas fecales y desperdicios de alimento contienen partícula orgánica de
+
+carbono (POC), partícula orgánica de nitrógeno (PON) y partícula orgánica de
+
+fósforo (POP) que se liberan a través de la defecación y del alimento no ingerido,
+
+estas partículas se generan a través de la dilución de las fracciones orgánicas (Wang
+
+et al., 2012). La cantidad y la composición es relativa en la materia fecal serán
+
+determinados por los componentes digeribles de la dieta. Primeras estimaciones de
+
+la perdidas de alimento en la acuicultura en jaulas abiertas eran alrededor de un
+
+20% y debido a los avances de la tecnología ha disminuido por debajo del 5%
+
+(Arhonditsis y brett, 2005).
+
+2.2.1.2.    Nitrógeno
+
+El nitrógeno es uno de los elementos liberados al medio ambiente acuático. Este,
+
+diferencia del fósforo, permanece en mayor proporción disuelto en la columna de
+
+agua. (Buschmann y Fortt, 2005).
+
+Las variables del nitrógeno son: nitrógeno inorgánico disuelto (DIN) que está
+
+formado por el amonio y nitrato que es la forma predominante de N, liberado por
+
+las excreción de los peces siendo 62% de forma disuelta, mientras que una pequeña
+
+parte se liberan en forma de partícula orgánica de nitrógeno (PON) estas se liberan
+
+a través de la defecación y la perdidas de alimento. El nitrógeno orgánico disuelto
+
+(DON) se generan a través de la disolución de las partículas orgánicas en un 13%
+
+de N formando el sedimento solido (Wang et al., 2012). Tanto el nitrato y el
+
+amonio se incorporan al fitoplancton y estos juegan un papel vital en el
+
+
+
+                                                                                   6
+metabolismo biológico estimulando el crecimiento del fitoplancton (Utete et al.,
+
+2013; Husa et al., 2014).
+
+Una fracción de partículas nitrógeno orgánico se hidroliza en DON y otra fracción
+
+se deposita en el sedimento. El DON es mineralizado en amonio en la columna de
+
+agua oxigenada, está siendo oxidado a nitrato a través de la nitrificación en función
+
+de amonio disponible, oxígeno disuelto, temperatura y luz. Durante condiciones de
+
+anoxia, el nitrato se pierde como gas de nitrógeno a través de la desnitrificación
+
+(Arhonditsis y Brett 2005).
+
+
+
+
+       Figura 2. Distribución de nitrógeno en el cultivo en jaulas de salmónidos
+              (Adaptado por Rosenthal, 1994).
+
+2.2.1.3.   Fósforo
+
+El fósforo se acumula principalmente en los sedimentos que se encuentran bajo la
+
+balsas de las jaulas, y es utiliza como indicador de contaminación (Buschman y
+
+Fortt, 2005). De los cuales el 11% del fósforo se encuentra en forma disuelta y 66%
+
+del fósforo se encuentra en forma de sedimentos sólidos. El P es excretado por los
+
+peces como ortofosfato disuelto, siendo la forma de fósforo inorgánico disuelto
+
+(DIP) y también partículas orgánica de fósforo (POP) liberado a través de al
+
+defecación y perdida de alimento. El fósforo orgánico disuelto (DOP) se genera a
+
+
+                                                                                   7
+través de la disolución POP. Esto está relacionado con la abundancia en las harinas
+
+de pescado en al dietas (Wang et al., 2012).
+
+El fitoplancton asimila al ortofosfato para su metabolismo basal y partículas de
+
+fósforo orgánico son hidrolizados a DOP y la otra fracción se deposita en el
+
+sedimento. DOP se mineraliza a ortofosfato, y los detritos de partículas de fósforo
+
+orgánico es asimilado por zooplancton (Arhonditsis, 2005).
+
+
+
+
+Figura 3. El flujo y el destino de los elementos de nutrientes de un sistema de jaulas de
+          salmón. Nitrógeno inorgánico disuelto (DIN) y fósforo inorgánico disuelto
+          (DIP)) se liberan a través de la excreción, y el carbono inorgánico (CO2) a
+          través de la respiración. Partículas orgánicas C, N y P (POC, PON y POP,
+          respectivamente) son liberados a través de la defecación y la pérdida de
+          alimentación. DOC, DON y DOP, se vuelven a suspender a partir de las heces y
+          las partículas de alimento siendo asimilado por bacterias y fitoplancton (Wang
+          et al., 2012).
+
+
+
+
+                                                                                       8
+2.2.2.   Efectos que ejercen residuos sólidos
+
+Los residuos sólidos y disueltos pueden causar diversos problemas tales como la
+
+eutrofización, agotamiento de oxígeno y alteración de la biodiversidad local, tanto
+
+en la columna del agua como en el fondo del marino (Vergara et al., 2005).
+
+Un efecto cada vez más importante de la piscicultura intensiva es la eutrofización
+
+de las aguas circundantes a jaulas de cría o de los ríos que reciben efluentes
+
+acuícolas de producen la excreción desechos fecales que se combinan con
+
+nutrientes liberados por la descomposición del exceso de alimento, elevando los
+
+niveles de nutrientes por encima de lo normal, creando un ambiente ideal para la
+
+proliferación de algas nocivas y otros problemas (Schindler, 2012).
+
+La eutrofización puede ser perjudicial tanto para los ecosistemas marinos y agua
+
+dulce, conduciendo a una serie de efectos que incluyen:
+
+   El crecimiento excesivo de fitoplancton y de macroalgas que es la fuente de
+
+    acumulación de carbono orgánico. Esto también va reducir la penetración de la
+
+    luz y produciendo a una pérdida de la vegetación acuática.
+
+   Un desequilibrio de nutrientes que pueden conducir a un cambio en la
+
+    composición de especies de fitoplancton y la creación de condiciones
+
+    favorables para la proliferación de algas toxicas. Estas floraciones de algas
+
+    nocivas puede causar muertes de los recursos marinos.
+
+   Cambios en la composición de especies y biomasa de la comunidad bentónica,
+
+    llevando a una reducción de las especies y una mayor dominancia de
+
+    organismos gelatinosos.
+
+   Bajo nivel de oxígeno disuelto conducirá a la zonas hipóxica o muertas (Díaz
+
+    et al., 2012).
+
+                                                                                 9
+2.3. Antecedentes
+
+     En un trabajo anterior realizado con estas mismas dietas y los mismos niveles de
+
+     energía, donde determinaron la digestibilidad de materia seca (MS), materia
+
+     orgánica (MO), proteína bruta (PB), grasa bruta (GB) y energía Bruta (EB). Así
+
+     mismo en la tabla 2 se observa la energía digestible (ED), coeficiente de
+
+     digestibilidad aparente (CDA) del N y P, de diferentes dietas con diferentes niveles
+
+     de energía y aminoácidos.
+
+       Tabla 1. Coeficiente de digestibilidad aparente de las dietas con diferentes
+       niveles de energía y aminoácidos.
+                        Coeficiente de digestibilidad aparente, %
+         DIETAS       MS         MO      PB        GB       EB        ED, Cal.g-1
+
+         Ewos        79.66      83.22   91.90     92.41    85.45     4744.54
+         NRC-93       71.98      75.90   90.32     91.75    79.84     4067.52
+         EB1          76.33      78.69   89.86     91.47    81.07     4471.07
+         EB2          76.21      79.08   91.02     92.07    81.80     4388.64
+         EA1          77.53      80.68   89.10     93.04    82.24     4440.38
+         EA2          78.65      82.18   90.80     93.78    84.10     4625.07
+         MS= materia seca, MO= materia orgánica, PB= proteína bruta, GB= grasa
+         bruta, EB= energía bruta (%) y energía digestible (Cal.g-1) de las dietas
+         experimentales (Nuñes, 2014).
+
+
+
+
+                                                                                      10
+        Tabla 2. Coeficiente de digestibilidad aparente de las dietas con diferentes
+        niveles de nitrógeno y fósforo.
+                              Fósforo                            Nitrógeno
+         Dietas
+                   P en dieta     CDA        PD         N en dieta CDA ND
+        Ewos®          0.88       50.29     0.45           6.23       91.9    5.72
+        NRC-93         0.99       37.54     0.37           5.83       90.32   5.27
+        EB1            0.78       61.65     0.48           6.63       89.86   5.95
+        EB2            0.98       58.71     0.58           6.36       91.02   5.79
+        EA1            0.93       60.76     0.57           6.23       89.1    5.55
+        EA2            0.83       48.18     0.4            6.43       90.8    5.84
+       CDA= Coeficiente de digestibilidad, P= aparente de fósforo, N= nitrógeno, PD=
+       fósforo digestible y ND= nitrógeno digestible de las dietas experimentales
+       (Nuñes, 2014).
+
+2.4. La Nutrición y Alimentación de Peces
+
+     La importancia de la alimentación de peces proviene de la necesidad de aprovechar
+
+     de una forma óptima por parte del hombre los recursos acuícola y desde un punto
+
+     de vista ecológico nos interesa como mecanismo indicador de las interacciones de
+
+     las comunidades ictiológicas en el medio acuático. Todos los recursos alimenticios
+
+     presentes en el medio que habitan. Los salmónidos son peces carnívoros poco
+
+     especializados que en un medio natural se alimentan de una gran variedad de
+
+     invertebrados acuáticos. Son especies oportunistas, no sólo por la variedad de su
+
+     dieta, sino por la facilidad de adaptación a los cambios ambientales y a la
+
+     disponibilidad de alimento (García et al., 1993). La investigación en el campo de la
+
+     nutrición de peces se ha desarrollado muchísimo en las últimas décadas, y sé está
+
+     perfeccionando constantemente. A pesar de ello, aún supone el capítulo de mayores
+
+     costos en todo el proceso de cultivo de peces, y en algunos casos es el actual cuello
+
+     de botella de la acuicultura, considerando que, el rendimiento final del cultivo
+
+     depende, de la cantidad y calidad del alimento, además, las condiciones de cultivo
+
+     afectan a la fisiología y nutrición de los animales en desarrollo y a la vez, las
+
+                                                                                       11
+     propiedades del alimento afectan a cambios de las condiciones del medio (por
+
+     acumulación de detritus, productos de excreción etc.). Por todo ello, mediante la
+
+     nutrición se puede influir en el comportamiento, en la integridad estructural, en el
+
+     estado sanitario general, en varias funciones fisiológicas, en el crecimiento y la
+
+     reproducción (Gatlin et al., 2007; Laining et al., 2010).
+
+2.5. Composición de los alimentos
+
+     Los alimentos comerciales formulados durante la última década han cambiado
+
+     considerablemente y difieren sustancialmente de los llamados alimentos
+
+     convencionales. Estos alimentos son más altos en energía digestible, lo que
+
+     significa que tienen una mayor eficiencia de los alimentos, siendo menos la
+
+     producción de desechos sólidos y solubles (Vandenberg et al., 2012).
+
+     Composición de los alimentos, tasas conversión, la digestibilidad y la fabricación
+
+     de los alimentos determinan en gran medida el nivel de descargas en el cultivo de
+
+     peces, y por lo tanto la emisión de materia orgánica y los nutrientes (fósforo y
+
+     nitrógeno) al entorno. El manejo de nutrientes a través de la formulación y la
+
+     fabricación de alimentos es considerado el mejor camino en la reducción de la
+
+     producción de estas emisiones que provocan la degradación al medio ambiente y la
+
+     degradación de salud de los peces por la invasión de especies patógenas (Mustapha
+
+     et al., 2013).
+
+     Con el fin de minimizar el impacto de estos problemas, los productores deben
+
+     mejorar, técnicas de gestión en la alimentación, minimizar los residuos mediante el
+
+     uso alimentos de calidad y altamente digestible, con concentraciones más bajas de
+
+     nitrógeno y fósforo, sin reducir su valor nutritivo (Mustapha et al., 2013).
+
+
+
+
+                                                                                      12
+2.6. Fuente de proteína
+
+     La composición de la dieta por la cantidad de proteína es un factor que afecta la
+
+     excreción de nitrógeno, pero también afecta a la retención y la excreción de que
+
+     conduce a la eutrofización por los efluentes de los peces acuáticos.
+
+     Los peces que se cultivan son carnívoros estrictos, en algunos casos, omnívoros.
+
+     Por ello, generalmente las dietas de los peces son muy ricas en proteínas (40-60%),
+
+     lo cual conlleva una fuerte excreción de nitrógeno, cuya velocidad de excreción
+
+     está relacionada directamente con la cantidad y calidad de la proteína suministrada
+
+     en el alimento. La tendencia actual es buscar medios para disminuir la perdida de
+
+     nitrógeno y aumentar su retención controlando la relación entre la proteína
+
+     digestible y el total de energía digestible de la dieta.
+
+     El Fósforo en la dieta es esencial para la óptima el crecimiento y el metabolismo de
+
+     los peces. Es el más importante mineral necesario por los peces, ya que su requisito
+
+     y funciones son superiores a la de cualquier otro elemento mineral (NCR, 1993). La
+
+     harina de pescado es la fuente de la mayor parte de P en las dietas de peces y
+
+     mejora la calidad del alimento que implica retener P, es una de las principales
+
+     estrategias para reducir el impacto ambiental de la acuicultura. El fósforo es un
+
+     elemento, cuando está presente en cantidades excesivas en el medio acuático,
+
+     conduce a la eutrofización (Mustapha et al., 2013).
+
+     Así mismo, el elevado precio que las fuentes de proteína, principalmente las harinas
+
+     de pescado, tienen en el mercado hace que las investigaciones encaminadas hacia la
+
+     búsqueda del máximo aprovechamiento proteico sea uno de los principales
+
+     objetivos de las empresas dedicadas a la elaboración de dietas para peces (Sanz,
+
+     2001). Y también la alimentación de especies acuícolas en el futuro va orientada a
+
+
+                                                                                      13
+     tres aspectos: mayor utilización de proteínas vegetales y derivados de proteínas
+
+     animales; menor excreción de nutrientes en las aguas y mínimo riesgo para la salud
+
+     humana.
+
+2.7. Relación de energía y proteína
+
+     La optimización de la relación proteína/energía (P/E) tienen un papel importante en
+
+     la utilización de energía y proteínas (Mustapha et al., 2013). Así, uno de los
+
+     factores que afectan a la optimización de la eficiencia de la dieta es el equilibrio
+
+     entre la proteína digestible (disponibilidad de aminoácidos) y la energía de origen
+
+     no proteica en los alimentos. Este equilibrio se representa por la proporción de
+
+     proteína digerible (DP) y la energía digestible (ED) de la dieta. Para obtener una
+
+     mejor optimización de la relación DP/DE es reduciendo la tasa de esta relación con
+
+     otra fuente de alimento (grasa o carbohidratos) para permitir el ahorro de la
+
+     proteína. Muchos estudios han demostrado que el aumento dietética de ED no
+
+     proteico en los alimentos dio como resultado una mejor retención de la proteína y
+
+     una disminución en la excreción de nitrógeno amoniacal (Mustapha et al., 2013).
+
+     Por otro lado, los aminoácidos y ácidos grasos constituyen las fuentes energéticas
+
+     más importantes de los salmones (Cho y Kaushik, 1990), siendo los carbohidratos
+
+     de uso limitado. Por su parte, la síntesis de proteínas y la mantención implican un
+
+     gasto energético inevitable; por lo que el destino gluconeogénico de los
+
+     aminoácidos debería ser disminuido, destinando, preferentemente, la energía
+
+     contenida en los aminoácidos a procesos de biosíntesis corporales que potencien la
+
+     ganancia   de   peso,   y   que   las   necesidades   energéticas   sean   cubiertas
+
+     significativamente por ácidos grasos y, en alguna medida, por carbohidratos
+
+     (Pokniak et al., 2004). Una apropiada proporción de proteína/energía digestible
+
+     influye de manera relevante la eficiencia de utilización de la proteína y energía de
+
+                                                                                       14
+     las dietas (Cho, 1992). Así, al aumentar los niveles de energía de las dietas y
+
+     disminuir apropiadamente el contenido de proteína, se logra una mayor retención de
+
+     nitrógeno y energía, lo que favorece el crecimiento, disminuyendo, por otra parte, la
+
+     descarga nitrogenada al medio (Pokniak et al., 2004). Una elevada ingesta de
+
+     energía y un inapropiado balance proteína/energía darían como resultado que una
+
+     gran proporción de la energía sea retenida como lípidos (Cho y Kaushik, 1990) y
+
+     (NRC 1993). La entrega de dietas hiperenergéticas implicaría un menor consumo
+
+     de alimentos, puesto que los peces, al igual que otros animales, regulan su ingesta
+
+     por el contenido energético de la dieta (Cho y Kaushik, 1990).
+
+2.8. Requerimientos nutricionales de la trucha
+
+     La trucha es muy eficiente para usar proteína de la dieta y lípidos para su energía,
+
+     pero asimila pobremente los carbohidratos. Los niveles altos de carbohidratos
+
+     digeribles en el alimento incrementan los depósitos de glucógeno en el hígado,
+
+     reduce el apetito y su crecimiento, se recomienda que no tenga más del 12% en la
+
+     dieta. Un 5 % o más de aceite de peces marinos en la dieta usualmente proveen
+
+     suficiente cantidades de ácidos grasos n-3; requieren de quince vitaminas en su
+
+     dieta para asegurar un buen crecimiento y optima salud. Los salmónidos, necesitan
+
+     en su dieta varios minerales, los cuales son utilizados para propósito estructural,
+
+     osmorregulación, y como cofactores en las reacciones metabólicas, entre los
+
+     minerales se incluyen: Fósforo, manganeso, zinc, cobre, entre otros (Castro y
+
+     Chirinos, 2008).
+
+
+
+
+                                                                                       15
+Tabla 3. Requerimientos nutritivos de las truchas “arco iris” juveniles.
+Nutrientes                             Composición en alimentos
+Proteínas                                       40–45%
+
+Carbohidratos                                    9–12%
+
+Lípidos                                          8–10%
+Minerales                                          2%
+                 P 0.45-0.8%; Mg 0.05-0.07%; Zn 15-30 ppm; Mn 2.4-13 ppm; Cu
+                 3-5 ppm; Co 0.1 ppm; Se 0,25 ppm.
+                  Vitamina A: 2 500-3 500 U.I. kg-1; Vitamina D 2 400-3 000 U.I.
+                  kg-1; Vitamina E 30-100 U.I. kg-1; Vitamina K 10-15 mg kg-1;
+                  Vitamina C 100-300 mg kg-1; Tiamina 10 mg kg-1; Riboflavina 20
+Vitaminas         mg kg-1; Piridoxina 10 mg kg-1; Biotina 0.1-0.4 mg kg-1; Ácido
+                  nicotínico 150 mg kg-1; Ácido pantoténico 40-60 mg kg-1; Ácido
+                  fólico 5 mg kg-1; Inositol 400 mg kg-1; Colina 3.000 mg kg-1;
+                  Cianocobalamina (vitamina B12) 0.01-0.02 mg kg-1.
+                  Arginina 1.5%; Histidina 0.7%; Isoleucina 0.9%; Leucina 1.4%;
+
+Aminoácidos       Lisina 1.8%; Metionina+Cistina 1.0%; Fenilalanina+Tirosina
+                  1.8%; Treonina 0.8; Triptófano 0.2% y Valina 1.2%.
+
+NRC (1993) y Castro y Chirinos (2008).
+
+2.8.1. Requerimientos de proteína en peces
+
+Una vez la proteína es digerida o hidrolizada se liberan los aminoácidos, los cuales
+
+son absorbidos por el tracto intestinal y distribuidos a través de la sangre a todos los
+
+órganos y tejido del animal. Los aminoácidos son utilizados por los tejidos para
+
+formar nueva proteína ya sea para crecimiento reproducción o mantenimiento. Un
+
+suministro inadecuado de proteína en la dieta puede ocasionar un retraso o
+
+detenimiento total del crecimiento. Los aminoácidos esenciales no pueden ser
+
+sintetizados en el organismo animal debido a lo complejo de su constitución;
+
+entonces deben ser aportados por la ración, En el caso de los aminoácidos no
+
+
+
+                                                                                     16
+esenciales estos son los que sí pueden ser sintetizados por el organismo (Tacon,
+
+1987).
+
+El óptimo de proteína requerido por los peces y camarones en la dieta está
+
+íntimamente relacionado con el balance de energía-proteína, la composición de
+
+aminoácidos, la digestibilidad de la misma y la cantidad y calidad de la fuente de
+
+energía no proteica. La proteína se requiere en la dieta, para proveer los
+
+aminoácidos esenciales y el nitrógeno para la producción de los aminoácidos no
+
+esenciales (Guillaume et al., 2004). La proteína de los tejidos corporales incorpora
+
+alrededor de 23 aminoácidos y, entre estos, 10 deben ser suplidos en la dieta, dado
+
+que los peces no pueden sintetizarlos. Los aminoácidos se requieren para
+
+mantención, crecimiento, reproducción y repleción de tejidos. Una gran proporción
+
+de los aminoácidos consumidos por los peces, son catalizados para la producción de
+
+energía y los peces están bien adaptados para emplear de esta forma, las proteínas
+
+consumidas en exceso. Algo se puede economizar, si otra fuente de combustible
+
+dietario está presente en cantidades adecuadas, por ejemplo, si se aumenta el
+
+contenido de lípidos (grasa) de la dieta, se puede reducir el catabolismo de los
+
+aminoácidos de la dieta y, por ende los requerimientos (Cho et al., 1982).
+
+En general para todas las especies se deberá considerar que las necesidades de
+
+proteína están influenciadas por la calidad de la misma, factores ambientales, en
+
+especial temperatura y de manera particular por la edad de animal (Guillaume et al.,
+
+2004).
+
+-   Trucha arco iris
+
+Para trucha arco iris se considera como óptimo un 40% cuando se utiliza harina de
+
+pescado blanca (importante harina de pescado de mar). El contenido proteico
+
+mínimo necesario para un rápido desarrollo, depende en gran parte de la tasa
+                                                                                 17
+energética del alimento. Para esta especie es suficiente un 36% de proteína en la
+
+dieta siempre y cuando el aporte energético sea elevado. Como la trucha aprovecha
+
+muy mal los carbohidratos para fines energéticos, hace falta un 40% de proteína
+
+bruta si se quiere trabajar con altas cantidades de carbohidratos. Si es la grasa el
+
+principal constituyente para fuente de energía, sólo se requiere de un 30 a un 35%
+
+de proteína para obtener un crecimiento máximo (Tacon, 1987).
+
+2.8.2.   Requerimientos de lípidos en peces
+
+Esta categoría comprende una amplia variedad de compuestos. Los lípidos
+
+desempeñan muchos papeles como: suministro de energía, integran estructuras, son
+
+precursores de muchas substancias reactivas, etc. Tanto en la dieta, como en la
+
+carcasa de los peces, las formas en que más frecuentemente se encuentran los
+
+lípidos son como triglicéridos y fosfolípidos y a veces como ceras (Guillaume y
+
+Metailler, 1999). Los triglicéridos corresponden a una molécula de glicerol a la que
+
+se ligan tres ácidos grasos. Los fosfolípidos, también corresponden a una molécula
+
+de glicerol, pero con solo dos ácidos grasos y, en lugar del tercer ácido graso se liga
+
+un ácido fosfórico u otro tipo de molécula (colina, inositol, etc.). Las ceras
+
+corresponden a un ácido graso y un alcohol de cadena larga y, son una forma
+
+común de almacenamiento de lípidos en ciertas especies de zooplancton. El rol
+
+principal de los triglicéridos es el almacenamiento de lípidos (ácidos grasos). Por
+
+otra parte, los fosfolípidos se encuentran en las estructuras de membranas celulares
+
+(bicapa de lípidos). Los ácidos grasos son los principales componentes activos de
+
+los lípidos de la dieta. Los peces son incapaces de sintetizar ácidos grasos
+
+insaturados en las posiciones n-3 o n-6, no obstante estos ácidos grasos son
+
+esenciales para muchas funciones. Por tanto estos dos tipos de ácidos grasos son
+
+
+
+
+                                                                                    18
+esenciales para el animal y deben ser proporcionados en la dieta (Cho y Kaushik,
+
+1990).
+
+-   Trucha arco iris
+
+Los aceites incluidos en los alimentos para trucha arcoíris desarrollan su máximo
+
+efecto cuando están en proporción hasta del 24%. Este porcentaje de aceite de
+
+aunque coincide con el 36% de proteína de la ración. Produciendo rápido
+
+crecimiento, buena conversión de alimento y óptimo aprovechamiento de la
+
+proteína. Ciertos investigadores determinaron como proporción óptima de proteína-
+
+grasa, la de 35% y 18% respectivamente, administrándose una mezcla de aceite de
+
+soya más aceite de hígado de gádido en la relación 3:2; Cuando al menos la mitad
+
+de la grasa de la ración está constituida por aceite de pescado o aceite de calamar,
+
+no se presenta ningún tipo de carencia (Guillaume y Metailler, 1999).
+
+El 35-40% de la energía digestible del alimento puede corresponder a grasa y un
+
+40-45% a proteína. Como óptimo para trucha se puede considerar por lo regular una
+
+proporción de grasa en el alimento concentrado del 15-20%. Con el 15% de grasa
+
+en la ración aumenta la tasa de grasa en la totalidad del pez hasta el 11.41%. Lo que
+
+supone alrededor de un 9% de contenido de grasa en la porción comestible. Se ha
+
+reportado que los reproductores de trucha alimentados con dietas de alto nivel de
+
+energía y alta proteína (16-17% lípidos y 48-49% proteína) producen grandes
+
+cantidades de huevos, al contrario de peces alimentados con medianos o bajos
+
+niveles de energía y proteína (6-9% lípidos y 36-42% proteína), considerando
+
+siempre el perfil de aminoácidos y ácidos grasos esenciales (Tacon, 1987).
+
+
+
+
+                                                                                  19
+2.8.3.   La energía en la nutrición de peces
+
+La energía del alimento ingerido por los peces se divide en muchos componentes,
+
+en la figura 4, se ilustra el flujo de la energía consumida en el organismo del pez.
+
+La energía se pierde en muchos lugares entre el consumo y los productos
+
+recuperados. Las pérdidas ocurren en la excreción fecal, urinaria, branquial y como
+
+calor (NRC, 1993). El incremento de calor (IC) es el incremento en la producción
+
+de calor subsecuente a la ingestión de alimento. Los factores que contribuyen a IC
+
+son los procesos de digestión y absorción, la transformación e inter-conversión de
+
+los substratos y su retención en los tejidos (ER), y la formación y excreción de los
+
+desechos metabólicos. La principal base bioquímica para IC en mamíferos y aves es
+
+la energía requerida para el consumo, la des-aminación y excreción del nitrógeno
+
+(N) amínico ingerido; sin embargo, esta pérdida de energía es menor en peces
+
+debido a que pueden eliminar los productos del metabolismo proteico (amoníaco,
+
+bicarbonato y dióxido de carbono) sin la necesidad de sintetizar urea, ácido úrico, u
+
+otros compuestos similares (NRC, 1993).
+
+En peces, IC es mayor para dietas con alto contenido de proteína según Cho et al.
+
+(1982), mientras que en mamíferos y aves, una dieta de alta proteína tiene un efecto
+
+más marcado sobre el incremento de calor, debido al gasto de energía en la síntesis
+
+de urea o ácido úrico a partir de nitrógeno desaminado. El costo energético de la
+
+síntesis de urea y ácido úrico es de 3.1 y 2.4 kcal g-1 N, respectivamente. En peces,
+
+en cambio, el amoníaco es el principal producto de desecho nitrogenado del
+
+metabolismo. Debido a que esta forma de nitrógeno se libera rápidamente en el
+
+agua, no es necesario gasto de energía para la síntesis de urea o ácido úrico. Cho et
+
+al., (1982) encontró que IC en la trucha arco iris a 15°C es 5 a 15% de la energía
+
+bruta consumida (IE) y cae a medida que la relación de proteína a energía
+
+                                                                                  20
+disminuye. IC para el ganado puede ser de 20 a 30% de EB (NRC, 1993). Así,
+
+debido al menor incremento de calor de los peces, la energía neta (EN), energía útil
+
+para el mantenimiento y crecimiento, en dietas de producción es mayor para peces
+
+que para animales de sangre caliente. La energía neta de mantenimiento (ENm) es
+
+la energía requerida para mantener las funciones esenciales inmediatas para la vida
+
+del organismo. La mayor parte de la energía neta de mantenimiento se gasta en el
+
+metabolismo basal (MB), tales como la respiración, transporte de iones y
+
+metabolitos, recambio de constituyentes corporales, y circulación. Una porción más
+
+pequeña se gasta para la actividad voluntaria o reposo (AF) y, en el caso de
+
+animales homeotermos, la termorregulación (TR) de la temperatura corporal.
+
+Puesto que los peces no regulan la temperatura corporal y gastan menos energía en
+
+el mantenimiento de la posición en el agua que los animales terrestres, el
+
+requerimiento de ENm de los peces es menor que para homeotermos. La
+
+producción de calor en ayuno (PCA) es una aproximación a ENm (NRC, 1993).
+
+
+La energía metabolizable, donde sea aplicable, es la medida más precisa de la
+
+energía disponible para los peces; sin embargo, EM ofrece poca ventaja sobre ED,
+
+debido a que EF representa la mayor parte de las pérdidas por excreción. Las
+
+pérdidas de energía a través de las branquias y los riñones son menores en peces
+
+que las pérdidas de energía no fecal de los mamíferos y aves, y no varían tanto
+
+entre alimentos como las pérdidas de EF. Además, la determinación de EM es
+
+difícil debido a la necesidad de forzar la alimentación y confinar los peces en
+
+cámaras de metabolismo con ayuda de un collar para la colección simultánea de las
+
+excreciones fecal, branquial, y urinaria. Es más fácil determinar ED alimentando
+
+voluntariamente los peces, con tal de utilizar técnicas apropiadas para colectar las
+
+heces sin pérdida de los nutrientes y obtener valores confiables (Cho et al., 1982).
+
+                                                                                   21
+      Figura 4. Partición de la energía del alimento en peces. Se observa las pérdidas a
+                medida que el alimento se digiere y metaboliza, quedando una fracción de
+                la energía para la retención como tejido nuevo (NRC, 1993).
+
+2.9. Principales Insumos utilizados en la formulación de dietas
+
+     2.9.1.   Harina Pioval-2®
+
+     El Pioval-2®, es la harina de pieles de ovino y alpaca hidrolizadas por calor; lo que
+
+     simplifica las moléculas complejas, mejora la calidad de los alimentos y el valor
+
+     nutritivo de las proteínas (Rodríguez, 2010). Es un alimento no convencional en
+
+     base a la harina de hidrolizados de pieles de ovino y alpaca; en donde la hidrolisis
+
+     se realizó en un autoclave a 130°C con 20 PSI de presión durante dos horas,
+
+     seguido del secado y la molienda (Araníbar, 2010).
+
+     Tabla 4. Contenido de MS, PB, GB, y EB de las materias primas.
+     PIOVAL-2 ®;                 MS,%         PB,%         GB,%          EB,Kcal/g
+     Ovino                        94.9         69.2         12.0           5,79
+     Alpaca                      94.5          76.7          7.0             5,41
+     Pescado                      93           62.8           -               -
+     MS=materia seca, PB=proteína bruta, GB=grasa bruta, EB=energía bruta.
+     (Rodríguez, 2010).
+
+
+
+
+                                                                                           22
+En la tabla 5, observamos el porcentaje de aminoácidos, parte de la proteína total de
+
+los hidrolizados de pieles de ovinos y alpacas.
+
+
+ Tabla 5. Contenido de aminoácidos en la harina de cuero hidrolizado (% de proteína).
+ Arg     Cis    Gli    His     Ils   Leu    Lis    Met     Fe    Tre    Tri    Tir      Val
+
+  9.1    0.0   25.5    0.8    2.6    5.2    4.3    0.9    2.5    1.8    0.0    1.2      2.5
+ Arg=Arginina, Cis=Cistina, Gli=Glisina, His=Histidina, Ils=Isoleusina, Leu=Leusina,
+ Lis=Lisina, Met=Metionina, Fe=Fenilalanina, Tre=Treonina, Tri=Triptófano, Tir=Tirosina,
+ Val=Valina.
+
+2.9.2. Harina de Pota (Dosidicus gigas)
+
+Es una especie pelágica oceánica que realiza migraciones por alimentación y
+
+reproducción, encontrándose en las zonas del Pacífico Central y Sur Oriental desde
+
+el Golfo de California hasta Chile. Tiene un aspecto casi idéntico al calamar con el
+
+que suele confundirse y, por ello, recibe el nombre de “calamar gigante”; teniendo
+
+otros nombres comunes como: jibia, calamar volador, jumbo squid. Entre las
+
+variedades y/o formas de la harina de pota (squid meal) se pueden mencionar las
+
+siguientes: residual, prime, súper prime, súper prime especial, estándar, secada al
+
+vapor, martajada, granulada, etc. Todas estas presentaciones dependen del nivel de
+
+proteínas, partes de pota que han sido utilizadas, así como el proceso para su
+
+elaboración.
+
+2.9.3.   Harina de Pescado prime
+
+La harina de pescado es la materia prima que predomina en las dietas de la mayoría
+
+de peces, especialmente de truchas (Fickler, 2003). Debido a que son carnívoras.
+
+Las raciones generalmente contienen alrededor de 50% de harina pescado para
+
+cubrir los altos niveles de proteína de las truchas en crecimiento. Estas harinas
+
+constituyen fuentes de proteína bien adaptadas para los peces, porque poseen un
+
+perfil de aminoácidos que cubren las necesidades de los vertebrados y
+
+                                                                                  23
+particularmente de los animales acuáticos. Su composición en aceites es una
+
+excelente fuente de energía y poseen un contenido elevado de ácidos grasos poli
+
+insaturados de cadena larga (AGPICL). Estos ácidos grasos son los más
+
+importantes para los peces. También son buenas fuentes de minerales esenciales
+
+(calcio, fósforo, magnesio, y oligo-elementos) y vitaminas (B12, A, D, Colina,
+
+Inositol, y también otras vitaminas en menor cantidad con la excepción de la
+
+vitamina C), estas harinas también aportan carotinoides (Shimada, 2009).
+
+2.9.4. Harina de maíz
+
+El maíz tiene tres aplicaciones posibles: alimento, forraje y materia prima para la
+
+industria. Como alimento, se puede utilizar todo el grano, maduro o no, o bien se
+
+puede elaborar con técnicas de molienda en seco para obtener un número
+
+relativamente amplio de productos intermedios, partículas de diferentes tamaños,
+
+escamas, harina y harina fina, que a su vez tienen un gran número de aplicaciones
+
+en una amplia variedad de alimentos. Desde hace relativamente poco, el maíz «de
+
+elevada humedad» ha despertado gran interés como alimento para animales, debido
+
+a su menor costo y a su capacidad de mejorar la eficiencia de la transformación de
+
+los alimentos (Burge y Duensing, 1989).
+
+2.9.5. Soya integral extruida
+
+Debido al costo elevado de harina de pescado, las proteínas vegetales se han
+
+constituido como la alternativa más viable para su sustitución en dietas acuícolas.
+
+Las leguminosas son principales fuentes de proteína vegetal por su elevado
+
+contenido de proteína de buena calidad, vitaminas y minerales, particularmente
+
+fósforo y hierro, sin embargo su calidad nutricional es afectada por la presencia de
+
+factores anti nutricionales entre los que destacan los inhibidores de proteasas. Los
+
+estudios indican que la soya entera tratada con calor puede sustituir hasta 73% de la
+                                                                                  24
+proteína animal en dietas para peces, mientras que la harina es considerada
+
+actualmente uno de los ingredientes más importantes en dietas para salmónidos y
+
+bagre, en cuya dieta puede sustituir 75 y 100% de la proteína animal,
+
+respectivamente (Olvera y Olivera, 2000).
+
+La semilla de soya es una excelente fuente de proteínas y vitaminas. Es la proteína
+
+vegetal más abundante y con uno de los mejores perfiles de aminoácidos de entre
+
+los ingredientes vegetales en relación con los requerimientos de los peces, por lo
+
+que se han hecho múltiples estudios para evaluar su eficiencia en dietas para peces.
+
+Sin embargo, contiene factores anti nutricionales termolábiles incluyendo
+
+inhibidores de tripsina, hemaglutininas, goitrógenos y factores anti vitaminas D, E y
+
+B12, además de anti nutrientes resistentes al calor entre los que se encuentran
+
+saponinas, estrógenos, factores flatulentos y lisinoalanina, los cuales afectan su
+
+valor alimenticio y reducen la palatabilidad de los alimentos cuando se preparan
+
+con niveles elevados de este material. Adicionalmente, aproximadamente 70% del
+
+fósforo en la semilla se encuentra formando parte de fitatos por lo que no está
+
+disponible para los mono gástricos. Los fitatos actúan como quelantes formando
+
+complejos indigeribles de proteína-ácido fítico que pueden reducir la disponibilidad
+
+de la proteína y minerales tales como el zinc, manganeso, cobre, molibdeno, calcio,
+
+magnesio y fierro (NRC, 1993).
+
+2.9.6. Aceite de pescado
+
+El aceite de pescado es la fuente disponible más rica de ácidos grasos de cadena
+
+larga altamente insaturados EPA y DHA y el aceite de anchoveta peruana dispone
+
+de uno de los contenidos más altos de estos ácidos grasos entre todos los aceites de
+
+pescado. Esto significa que la búsqueda de aceite está en aumento para su inclusión
+
+no sólo para cápsulas para consumo directo sino también para alimentos
+
+                                                                                  25
+funcionales. Sin embargo, a pesar de este mercado en aumento, la mayoría del
+
+aceite de anchoveta se destina a la inclusión en nutrición acuícola asegurando así la
+
+salud de los peces e impartiendo valiosas propiedades promotoras de la salud en los
+
+productos finales. El aceite de pescado tiene menor a 4% de ácidos grasos libres,
+
+menor a 2% de materia insaponificable, menor a 0.8% de humedad e impurezas,
+
+160-180 de valor yódico, 20-35% de totox, 15-17% de EPA Omega 3 y 7-9% de
+
+DHA Omega 3 (IFFO, 2007).
+
+2.9.7. Aceite vegetal
+
+La sustitución con ciertos aceites vegetales ricos en ácido linolénico siempre que
+
+reemplace solo en parte a los aceites marinos, en general no haría más susceptibles
+
+a las enfermedades en los peces. En cuanto a los aceites que hoy día se incorporan
+
+en algunas dietas hasta en un 40%, se ha mejorado la calidad entregando al
+
+comercio un producto, rico en ácidos grasos polinsaturados de cadena larga del tipo
+
+Omega 3, garantizando una media de 30% de EPA y DHA. Estos aceites tienen
+
+además un bajo contenido de oxidación medido como TOTOX (Anisidina y
+
+Peróxido) y un bajo contenido de oxiácidos.
+
+
+
+
+                                                                                  26
+                             III. MATERIAL Y MÉTODOS
+
+ 3.1. Ámbito de estudio
+
+     El trabajo de investigación, se desarrolló en las instalaciones de la Empresa Paola’s
+
+     Trout SAC del distrito de Chucuito, provincia de Puno, a 18 Km de la carretera
+
+     panamericana Puno-Ilave, a una altitud de 3812 msnm, entre las coordenadas
+
+     15°33’15’’ de latitud Sur y 69°53’21’’ de longitud Oeste.
+
+      Los análisis químico-proximal y las dietas se formularon en el Laboratorio de
+
+     Nutrición Animal de la Facultad de Medicina Veterinaria y Zootecnia de la
+
+     Universidad Nacional del Altiplano de Puno, situado a 3828 m.s.n.m. de altitud a
+
+     16º35’36” latitud Sur y 68º34’02” longitud Oeste. El peletizado y la extrusión de
+
+     las dietas formuladas se realizaron en la planta de alimentos Arapa SAC. La
+
+     duración del experimento fue entre Julio - setiembre del 2014.
+
+3.2. Instalaciones de cultivo
+
+     El experimento se realizó en un sistema de jaulas flotantes de confinamiento semi-
+
+     sumergidas. Se utilizó 2 estructuras cuadradas rígidas de 5m X 5m de longitud,
+
+     sostenidas con palos de eucalipto de 6m de longitud unidas en sus extremos con
+
+     flotadores en cada esquina, en los cuales se acondiciono 42 mini jaulas de cultivo.
+
+     Las mini bolsas fueron confeccionadas para el cultivo de truchas en jaulas flotantes
+
+     de 1.20m X 1.20m de longitud por 1.60m de altura, con mallas de ¾, hilo
+
+     alquitranado de 210/24 y cabo de ¼ de pulgada, la cual se instaló en las estructuras
+
+     rígidas de 5x5 m, para luego poder sembrar las truchas juveniles.
+
+
+
+
+                                                                                       27
+  EB1       NRC     EB2        EB2     EA2      NRC                        EA2    EWOS     NRC
+
+                                                       EA1   EB1   EB2
+
+  EB2      EWOS     EA2       EWOS     EA1      EB2                        NRC     EB2     EB1
+
+
+
+ EWOS       EB1     EA1        EA2     NRC      EB1                        EB1     EA1    EWOS
+
+                                                       EA2   NRC   EA1
+
+  EA1       EA2     NRC        EB1    EWOS      EA1                       EWOS     EA2     EB2
+
+
+  Figura 5. Esquema de distribución de jaulas, con sus respectivos tratamientos y repeticiones
+           de las dietas en experimento.
+
+
+3.3. Instalaciones para colección de materia orgánica
+
+        El confecciono 42 colectores circulares rígido de 1.20m de diámetro, con malla fina
+
+        de 1/32, sujetada a los bordes de un alambrón con hilo alquitranado de 210/ 24,
+
+        estas se instalaron sumergidas por debajo de cada mini bolsa de cultivo para
+
+        truchas, sujetadas con cabos a las cuatro esquinas (ver figura. 6, representación
+
+        gráfica).
+
+
+
+
+        Figura 6. Instalación de la malla colectora.
+
+
+
+
+                                                                                           28
+3.4. Animales
+
+     En el ensayo se emplearon 2100 truchas arco iris (Oncorhynchus mykiss) de la
+
+     etapa juvenil, estos fueron distribuidos al azar en 42 mini jaulas de cultivo (50
+
+     truchas/jaula), las truchas tenían un peso inicial promedio de 227.6±6.3g y una
+
+     longitud promedio de 24.9±0.1cm procedentes de la empresa Paola's Trout del
+
+     distrito de Chucuito-Puno.
+
+3.5. Material de laboratorio
+
+                Reactivos
+
+          -     Ácido sulfúrico H2SO4
+
+          -     Hidróxido de sodio NaOH al 50%
+
+          -     Ácido bórico H3BO3
+
+          -     Ácido clorhídrico HCl 0.05N
+
+                Equipos
+
+          -     Destilador de agua x 0.25 litros/hora.
+
+          -     Estufa National, E5510.
+
+          -     Mufla Furnace 48000.
+
+          -     Espectrofotómetro Jenway®.
+
+          -     Mezclador de alimentos x 50kg.
+
+          -     Molino, Trapp TRF – 800.
+
+          -     Balanza analítica x 205g/0.1mg, Boeco®.
+
+          -     Balanza digital x 10000g/1g, Boeco®.
+
+          Otros materiales
+
+          -     Material de vidrio (balones Kjeldahl, vasos de 300, 500 y 800ml,
+
+                Beakers, embudos)
+
+
+
+                                                                                   29
+             -       Otros materiales (crisoles, papel filtro, papel aluminio, recipientes,
+
+                     bolsas herméticas, marcadores).
+
+             -       Fichas de registros.
+
+             -       Cámara fotográfica.
+
+3.6. Dietas en prueba
+
+     Se utilizaron 6 dietas: una dieta comercial (Ewos®). EWOS Chile Alimentos, es la
+
+     filial chilena de la empresa de origen Noruego EWOS. La Compañía se dedica a la
+
+     fabricación y comercialización de alimento para peces y tiene operaciones desde la
+
+     Región del Bío Bío al sur. EWOS Chile es parte del Grupo Cermaq, consorcio
+
+     industrial y comercial de capitales noruegos, ligado a la producción de alimento
+
+     para peces, cultivo de peces y operaciones comerciales de granos.
+
+     Tabla 6. Composición nutricional Ewos Van-500.
+
+
+
+
+                                                                                                                              nitrogenado
+                                     Uso
+
+
+
+
+                                                                                                                Extracto no
+                                                                                                  Fibra cruda
+                                                                              Humedad
+                                                 Proteína
+
+
+
+
+                                                                                        Cenizas
+                                                                    Lípidos
+                                                            Cruda
+          Alimento
+
+
+
+
+                                 recomendado
+                       Calibre
+
+
+
+
+                                 para peces de
+                                   Gramos           Min.            Min. Max. Max. Max.                             Max.
+       EWOS           500         500 – 1000            38          25        10        10        2.5                     18
+         www.ewos.com/wps/wcm/connect/ewos-content-chile/ewos-chile
+
+
+     Las dietas se completaron con una dieta a base de insumos convencionales para la
+
+     alimentación en trucha que incluyo 6% de aceite (NRC-93); dos dietas que tuvieron
+
+     12% de aceite (energía baja; EB1 vs EB2) y dos dietas tuvieron 18% de aceite
+
+     (energía alta; EA1 vs EA2). La formulación de las dietas se formularon a mínimo
+
+     costo con el Software Mini-Mix® (Format International, Inglaterra), luego de la
+
+     formulación las materias primas fueron molidas, mezcladas y extruidas en la planta
+
+     de elaboración de alimentos para peces Arapa S.A.C. (Kahl® extrusor OEE-8) con
+
+     una capacidad de producción de 200 Kg por hora. La composición química de las
+
+                                                                                                                              30
+materias primas empleadas en la formulación se muestra en la tabla 7 y en la tabla 8
+
+las especificaciones de las dietas experimentales, la formulación de las dietas y el
+
+contenido nutricional se muestra en la tabla 9, queriéndose lograr dietas con una
+
+alta digestibilidad que reduzcan la contaminación del agua.
+
+
+
+
+                                                                                 31
+     Tabla 7. Composición de las materias primas empleados en la formulación de las dietas experimentales.
+                                      Precio,       EM,       PC,     FC,     Ca,       P,     Lis.,   Met.,   Cis.,   Trp.,   Arg.,   Tre.,
+           Materias primas
+                                       S/. g-1    Mcal Kg-1    %       %       %        %       %        %      %       %       %       %
+     Harina pescado prime               4.50        3.300     66.00   1.50    4.30     2.95    5.20     1.80   1.00    0.80    3.40    2.60
+     Pioval 2® *                        2.50        3.300     70.00   2.00    0.05     0.05    1.50     0.45   4.50    0.15    3.40    2.90
+     Harina de pota                     3.50        3.000     80.00   2.50    0.80     0.60    3.50     1.50   11.20   1.00    3.60    3.00
+     Soya integral extruida             1.40        2.250     44.00   6.20    0.32     0.20    2.90     0.65   0.67    0.60    3.20    1.80
+     Harina de maíz                     0.80        3.310     7.70    2.50    0.02     0.27    0.22     0.16   0.17    0.06    1.50    0.27
+     Harina de trigo                    0.65        2.500     16.00   6.00    0.09     0.21    0.70     0.17   0.20    0.20    0.10    0.50
+     Aceite de pescado                  5.00        8.400     0.00    0.00    0.00     0.00    0.00     0.00   0.00    0.00    0.00    0.00
+     Aceite de soya                     3.80        9.000     0.00    0.00    0.00     0.00    0.00     0.00   0.00    0.00    0.00    0.00
+     Metionina DL                      16.50        4.360     58.50   0.00    0.00     0.00    0.00    99.00   0.00    0.00    0.00    0.00
+     Lisina HCL                        14.80        0.00      0.00    0.00    0.00     0.00    95.00    0.00   0.00    0.00    0.00    0.00
+     Treonina 98%                      23.00        3.230     0.00    0.00    0.00     0.00    0.00     0.00   0.00    0.00    0.00    98.00
+     Fosfato bicálcico (Fosbic®)        1.85        0.00      0.00    0.00    25.5     18.50   0.00     0.00   0.00    0.00    0.00    0.00
+     Premix V+M                        18.50        0.00      0.00    0.00    0.00     0.00    0.00     0.00   0.00    0.00    0.00    0.00
+     Montchack 3T (Chacko)              0.80        0.00      0.00    0.00    0.33     0.55    0.00     0.00   0.00    0.00    0.00    0.00
+     Celite (Hyflo Super Cel®)         52.00        0.00      0.00    0.00    0.00     0.00    0.00     0.00   0.00    0.00    0.00    0.00
+     Harina de orégano                  5.00        0.00      0.00    0.00    0.00     0.00    0.00     0.00   0.00    0.00    0.00    0.00
+     * Hidrolizados de pieles de ovino y alpaca
+
+
+
+
+32
+     Tabla 8. Particularidades de niveles de grasa, e inclusión de proteína animal (harina de pescado, harina Pioval-2® y harina de pota
+
+      Nivel       Fuente de Proteína             Alimento                                          Especificaciones
+
+                                                                 Alimento formulado y elaborado para el experimento. Esta fue una dieta
+     control                                      NRC-93         convencional, la adición de 6% de aceite (60% aceite de pescado + 40% aceite
+                   Harina de pescado
+                                                (6% aceite)      vegetal) la clasifica como alimento bajo en energía. Incluye alto nivel de harina de
+                                                                 pescado como principal fuente de proteína animal.
+
+                  Harina de pescado y             EB1            Alimento formulado y elaborado para el experimento. Contiene 12% de aceite
+                       Pioval-2®               (12% aceite)      adicionado. Incluye dos fuentes de proteína animal (harina de pescado y Pioval-2®).
+      baja
+               Harina de pescado, harina          EB2            A diferencia de la anterior, contiene tres fuentes de proteína animal (harina de
+               Pioval-2® y harina de pota      (12% aceite)      pescado, harina Pioval-2® y harina de pota).
+
+                                                                 Alimento formulado y elaborado para el experimento. Contiene 18% de aceite
+                  Harina de pescado y             EA1
+                                                                 adicionado. Incluye dos fuentes de proteína animal (harina de pescado y Pioval-2®).
+                       Pioval-2®               (18% aceite)
+                                                                 Se considera dieta alta en energía.
+
+
+      Alto     Harina de pescado, harina          EA2            A diferencia de la anterior, contiene tres fuentes de proteína animal (harina de
+               Pioval-2® y harina de pota      (18% aceite)      pescado, harina Pioval-2® y harina de pota). Se considera dieta alta en energía.
+
+
+                                                 Ewos®        Alimento comercial tal como se expende en el mercado de Procedencia Noruega
+                            -
+                                             (25% min aceite) filial Chilena.
+
+
+
+
+33
+Tabla 9. Composición de las dietas experimentales para truchas en
+crecimiento. Inclusión de aceite en la dieta, 6% 12% y 18%
+                                       NRC-
+                             Ewos                EB1      EB2       EA1      EA2
+                                         93
+Ingredientes                                Inclusión de aceite en la dieta, %
+                                          6       12       12        18       18
+Harina de pescado prime                38.00 20.00 20.00 26.00 26.00
+Harina de pota                          0.00     0.00     9.00      0.00     9.00
+Harina Pioval-2                         0.00 20.00 10.00 15.20               6.90
+Soya integral extruida                 25.00 25.00 25.00 25.00 25.00
+Harinilla de trigo                     15.00 9.50        12.00      8.11     8.90
+Harina de maíz                         15.20 11.46 10.30            5.20     5.00
+Aceite de pescado                       3.60     7.20     7.20     11.26 10.74
+Aceite de soya                          2.40     4.80     4.80      7.51     7.16
+Lisina HCl                              0.00     0.33     0.11      0.29     0.08
+DL-Metionina 99                         0.00     0.53     0.42      0.53     0.42
+Treonina, 98                            0.00     0.00     0.00      0.10     0.00
+Carbonato de calcio                     0.00     0.38     0.37      0.00     0.00
+Premix acuicultura                      0.20     0.20     0.20      0.20     0.20
+Cloruro de colina                       0.10     0.10     0.10      0.10     0.10
+Harina de orégano                       0.10     0.10     0.10      0.10     0.10
+                   ®
+Arcilla Montchack                       0.40     0.40     0.40      0.40     0.40
+Total                                 100.00 100.00 100.00 100.00 100.00
+Costo, S/. Kg                           2.88     3.13     3.07      3.58     3.49
+Nutrientes calculados, % de la base natural
+Energía Digestible,
+                             5.48       3.81     4.05     4.06      4.50     4.50
+Mcal/kg
+Proteína cruda, %           Min 38 38.11 39.25 38.36 39.00 39.00
+Fibra cruda, %              Max 25 3.17          2.70     2.77      2.42     2.44
+Ca, %                                   1.49     1.00     1.00      1.06     1.07
+P total, %                   0.89       1.22     0.78     0.79      0.88     0.89
+Lys, %                                  2.61     2.03     2.03      2.25     2.25
+Met, %                                  0.92     1.10     1.10      1.20     1.20
+Cis, %                                  0.38     0.45     0.48      0.58     0.53
+Trip, %                                 0.49     0.42     0.45      0.44     0.47
+Arg, %                                  2.52     3.36     2.80      3.17     2.72
+Tre, %                                  1.65     1.70     1.65      1.64     1.69
+NRC-93: dieta con ingredientes convencionales; EB1: dieta con energía baja 1; EB2: dieta
+con energía baja 2; EA1: dieta con energía alta 1; EA2: dieta con energía alta 2.
+
+
+
+
+                                                                                           34
+             Tabla 10. Análisis de la composición químico-proximal de las
+             dietas experimentales.
+                                               Componentes, %
+                   Dietas
+                                    MS         C       MO        P        N
+             NRC-93                   95.7         9.98       90.02        0.99      5.83
+             EB1                     95.16         7.29       92.71        0.78      6.63
+             EB2                     96.10         8.04       91.96        0.98      6.36
+             EA1                     96.76         8.3         91.7        0.93      6.23
+             EA2                     97.21         8.71       91.29        0.83      6.43
+             Ewos®                   97.03         6.11       93.89        0.88      6.23
+             MS: Materia seca, C: Ceniza, MO: Materia orgánica, P: Fósforo, y N: Nitrógeno.
+
+3.7. Metodología
+
+    3.7.1.    Determinación de emisiones de materia orgánica (MO)
+
+    Los desechos sólidos colectados de las dietas experimentales fueron tomados de las
+
+    mallas colectoras acondicionadas en cada jaula. Las muestras se conservaban en frio
+
+    hasta la llegada al laboratorio. Después de escurrir bien, los residuos se secaron en
+
+    estufa (Dry Cabinet® Hungría) con circulación de aire a 60 °C por 72 horas hasta
+
+    obtener el peso constante, luego envasados y conservados hasta su molienda para los
+
+    análisis respectivos. El pesado de las muestras de residuos y las dietas se realizaron
+
+    en la balanza de precisión Boeco® de 210g de capacidad, con un error 0.1mg. La
+
+    MO y CT (cenizas totales) se determinaron mediante la incineración de las muestras
+
+    en el (Thermolyne® Furnace-4800) 600ºC 4 h. Tres muestras por cada tratamiento de
+
+    0.5g de peso seco. Las cenizas obtenidas después de la combustión se pesaron y se
+
+    determinaron su porcentaje. El porcentaje de MO (peso seco libre de cenizas) se
+
+    calculó como100 menos el porcentaje de cenizas totales.
+
+
+
+
+                                                                                              35
+3.7.2.     Determinación de nitrógeno
+
+El contenido nitrógeno (% N) en la materia orgánica se determinó por el método
+
+Kjeldahl por digestión de las muestras con ácido sulfúrico concentrado con adición
+
+de catalizador, es seguido de la destilación con NaOH al 50% en presencia de una
+
+solución indicadora con ácido bórico al 2%. Por último se realizó la titulación con
+
+HCl al 0.05 N.
+
+
+                       volumen  ml  x normalidad   x meq. del Nitrógeno   
+            NT,%                                                           x 100
+                                                                             
+                               Peso de la muestra    analizada   g        
+
+
+
+3.7.3.     Determinación de fósforo
+
+El contenido fósforo (% P) en los residuos sólidos colectados se determinó por el
+
+método el Photometric Method AOAC Official Method 965.17, Phosphorus in
+
+Animal Feed and Pet Food.
+
+Procedimiento
+
+1.   Pesar 5g de muestras colocar en una capsula y calcinar a 600°C por 6h,
+
+obteniéndose la ceniza libre de carbón.
+
+2.   Digerir las cenizas con 40 mL de la solución acida HCl (1:3) y unas gotas de
+
+HNO3 concentrado. Llevar a ebullición suave durante aproximadamente 5min y
+
+enfriar.
+
+3.   Transferir a una fiola de 100mL, completar a volumen enjuagando con agua
+
+caliente los crisoles, transferir una alícuota adecuada en una fiola de 25mL luego
+
+adicionar 5mL, del reactivo molibdovanadato. Diluir a volumen con agua destilada y
+
+homogenizar bien.
+
+
+
+
+                                                                                       36
+     4.   Esperar 10min y leer la absorbancia a 400nm, primero llevar el equipo a 0 de
+
+     absorbancia con una solución testigo y determinar ppm de P a partir de la curva
+
+     preparada.
+
+
+     La fórmula para determinar el contenido de fósforo fue P, %=0.0025 ppm/g de
+
+     muestra en la alícuota.
+
+
+
+
+3.8. Análisis estadístico
+
+     Los datos fueron sometidos a un diseño de una vía de clasificación, determinando
+
+     diferencias en las emisiones de materia orgánica (MO), nitrógeno (N) y fósforo (P)
+
+     de los peces alimentados con dietas con distintos niveles de energía y proteína. Los
+
+     análisis químicos proximales de los residuos sólidos fueron analizados en un diseño
+
+     completo al azar con 6 tratamientos y 3 réplicas por tratamiento, y vertidos de
+
+     residuos al medio por tonelada de peces producidos fueron analizados en un diseño
+
+     completo al azar con 6 tratamientos y 7 réplicas por tratamiento. Las diferencias
+
+     entre medias fueron determinadas mediante la prueba de Tukey, con la ayuda de un
+
+     Programa estadístico SAS, versión 9.2 sujeto al siguiente modelo aditivo lineal es el
+
+     siguiente:
+
+     Dónde:
+
+
+                                        Yij= µ + i+ εij
+
+
+           Yij = Variable respuesta
+           µ = media general
+           i = efecto de los tratamientos
+           εij = error experimenta
+
+
+                                                                                       37
+                             V. RESULTADOS Y DISCUSIONES
+
+4.1. Materia orgánica (MO)
+
+    En la tabla 11, se aprecian las concentraciones en las dietas y residuos de la materia
+
+    orgánica (MO) de seis dietas experimentales (dieta control=NRC-93, dietas de
+
+    energía baja=EB1 y EB2, dietas de energía alta=EA1, EA2 y la dieta
+
+    comercial=Ewos®); en donde se indica que existe diferencia significativa (P<0.05)
+
+    entre las concentraciones y vertidos al medio por tonelada de peces producidos.
+
+
+     Tabla 11. Materia orgánica (MO) en las dietas y residuos sólidos colectados.
+
+                                                                     Dietas
+              Variable                                                                                        EEM        P
+                                    NRC-93         EB1         EB2            EA1       EA2        Ewos®
+     Dieta,% (n=3)                   90.02f      92.71b       91.96c      91.70d       91.29e      93.89a     0.13 0.001
+     Residuos,% (n=3)                95.91e      97.99a       96.86c      97.73b       96.43d      96.43d     0.15 0.001
+     Residuos, Kg/TM (n=7) 1998.10a 1825.57a 1632.49b 1493.41b 1272.09c 1185.57c 41.06 0.001
+     EEM = Error estándar de la media. n= observaciones por media. Medias con letras distintas dentro de la misma columna,
+     difieren a la prueba de Tukey (P<0.05). Kg/TM=vertidos de residuos al medio por tonelada de peces producidos /año.
+     Residuos=heces, alimento no consumido y otros.
+
+
+   La MO fue superior en la dieta Ewos® (93.89%) y el menor lo obtuvo la dieta NRC-
+
+   93 baja en energía (90.02%) siendo menor a las otras dietas.
+
+   En el experimento se observó que la MO, resulto mayor en la dieta Ewos® esto se
+
+   debe a que posee insumos de excelente calidad como la harina de pescado (HP)
+
+   como fuente principal de proteína, menor la dieta NRC-93 que se formuló
+
+   únicamente con HP como única fuente de proteína.
+
+   La MO en los desechos sólidos colectados fue superior EB1 y EA1 (97.99 y 97.73%,
+
+   respectivamente) y presentaron valores intermedios EB2, EA2 y Ewos® (96.86,
+
+   96.43 y 93.43%, respectivamente) y el menor lo obtuvo NRC- 93 (95.91%).
+
+   Los vertidos de residuos al medio por tonelada de peces producidos en un año, donde
+
+   genero mayor emisión de MO la dieta NRC-93 y EB1 (1998.10 y 1825.57 Kg/TM,
+
+                                                                                                             38
+respectivamente) seguido por dietas y EB2 y EA1 (1825.57 y 1493.41Kg/TM,
+
+respectivamente) y los que generaron menor fueron la dietas con nivel de energía
+
+alta, EA2 y Ewos® (1272.09 y 1185.57 Kg/TM, respetivamente). Halver y Hardy
+
+(2002) observo que cantidades de materia orgánica colectadas está relacionada con el
+
+nivel de energía de la dieta y proteína, como se sabe los lípidos proporcionan la
+
+cantidad suficiente de energía para la asimilación de la mayor cantidad de los
+
+nutrientes de la dieta incluyendo aquellos que son poco digeridos.
+
+Gregor (2007) realizo estudios donde determino composición proximal, de un típico
+
+alimento para salmón Atlántico, con un 42% proteína cruda y 33% de nivel de aceite
+
+donde encontró materia orgánica en dieta de (93.2 %) y en las heces encontró
+
+(96.6%). Estos resultados son muy similares a los obtenidos en el ensayo, con la
+
+dieta Ewos® esto se debe probablemente a que posee insumos de excelente calidad
+
+como la harina de pescado y alto nivel de energía.
+
+Nuñes (2014) en un ensayo de digestibilidad en truchas donde trabajo con estas
+
+mismas dietas y los mismos niveles de energía, donde determino la digestibilidad
+
+MO, presento las siguientes en Ewos® (83.22%), EA2 (82.18%), EA1 (80.68), EB2
+
+(79.08 y EB1 (78.69%) y el menor valor corresponde a NRC-93 (75.90%) lo que
+
+afirma que existe una relación directa entre el nivel de aceite de la dieta y la
+
+digestibilidad de la misma.
+
+En la figura 7 se aprecia la relación que existe entre el porcentaje de materia orgánica
+
+de la dieta con la materia orgánica de los residuos. La correlación baja (r = 0.36) es
+
+positiva y nos indica que a medida que la materia orgánica incrementa en la dieta,
+
+también incrementa en los residuos colectados. Aunque debemos aclarar que la
+
+materia orgánica de los residuos está influenciada por la presencia de alimentos no
+
+
+
+                                                                                     39
+   digeridos (heces) por las truchas, residuos de alimentos no consumidos, algas,
+
+   camaroncillos y caracoles.
+
+
+
+
+      Figura 7. Correlación entre el contenido de materia orgánica (MO) en las dietas y
+             la MO en los residuos colectados.
+
+
+4.2. Nitrógeno (N)
+
+    En la tabla 12, se aprecian las concentraciones en la dietas y residuos de nitrógeno
+
+    (N) de seis dietas experimentales (dieta control=NRC-93, dietas de energía
+
+    baja=EB1 y EB2, dietas de energía alta=EA1, EA2 y dieta comercial=Ewos®); en
+
+    donde se indica que existe diferencia significativa (P<0.05) entre las
+
+    concentraciones y vertidos al medio por tonelada de peces producidos.
+
+
+     Tabla 12. Nitrógeno (N) en las dietas experimentales y residuos sólidos colectados.
+                                                              Dietas
+              Variable                                                                                 EEM     P
+                                    NRC-93         EB1       EB2       EA1       EA2       Ewos®
+     Dieta, % (n=3)                   5.83d       6.63a 6.36bc 6.23c             6.43b     6.23c       0.25   0.001
+     Residuos, % (n=3)                2.79d       3.96b      1.78e 4.16ab        3.62c     4.29a       0.11   0.001
+                                            c            a         c         b         c           d
+     Residuos, kg/TM (n=7)            46.79      57.59 44.57 52.49 42.23                   35.65       1.19   0.001
+     EEM = Error estándar de la media. n= observaciones por media. Medias con letras distintas dentro de la misma
+     columna, difieren a la prueba de Tukey (P<0.05). Kg/TM=vertidos al medio por tonelada de peces
+     producidos/año. Residuos=heces, alimento no consumido y otros.
+
+
+
+
+                                                                                                                   40
+Las concentraciones de N fue superior en la dieta EB1 (6.63%) seguido de las dietas
+
+EA2 y EB2 (6.43 y 6.36%, respectivamente) presentan valores inferiores las dietas
+
+EA1, Ewos® y NRC (6.23, 6.23 y 5.58% respectivamente). esto se debe por la
+
+cantidad de proteína cruda, que contiene dietas experimentales donde la dieta EB1
+
+presenta (39.25%) y las que siguen EA2 y EB2 (39.00 y 38.36 %, respectivamente) y
+
+los presentaron valores inferiores la EA1, Ewos® y NRC-93 (39.00, 38 min y
+
+38.11%, respectivamente) por tanto esto concuerda con el contenido de nutrientes
+
+calculados de las dietas experimentales formuladas.
+
+La mayor concentración de N en los residuos sólidos colectados presento la dieta
+
+Ewos® (4.29%) seguido de EA1 y EB1 (4.16 y 3.96%, respectivamente) y presentan
+
+valores intermedios la EA2, y NRC-93 (3.62 y 2.79% respectivamente) y el menor es
+
+EB2 (1.78%). En la dieta Ewos® encontramos mayor concentración nitrógeno en los
+
+residuos colectados probablemente este influenciada por la formación de un
+
+ecosistema en cada malla colectora en donde está formado por las algas,
+
+camaroncillos y caracoles.
+
+Por otro lado vertidos de residuos al medio por tonelada de peces producidos en un
+
+año, donde la dietas que mayor N generaron fue EB1 y EA1 (57.59 y 52.49 Kg/TM,
+
+respectivamente) y con valores intermedios las dietas NRC, EB2 y EA2 (46.79,
+
+44.57 y 42.23 Kg/TM, respectivamente) y la dieta que menor genero fue la Ewos®
+
+(35.65Kg/TM). Los cual estos resultados este mas relacionado con la proteína de la
+
+dieta y los aminoácidos que forman parte de ella, a lo que diremos que la calidad de
+
+la proteína de los insumos empleados en la alimentación de truchas debe ser de muy
+
+buena calidad para tenga una buena digestibilidad. En nuestro trabajo la mayor
+
+concentración de nitrógeno en los residuos colectados lo obtuvo las dietas EA1 y
+
+EB1, que su fuente de proteína contienen HP y Pioval-2®, y este último insumo no
+
+                                                                                 41
+posee un buen balance de aminoácidos haciéndole poco digestible lo que corrobora a
+
+lo manifestado por Canaza (2011), que no obtuvo buenos resultados en la
+
+digestibilidad de los nutrientes de Pioval-2®, muy contrario a lo que ocurre con la HP
+
+por el buen perfil de aminoácidos.
+
+Moccia et al. (2007) evaluó tres dietas con diferente nivel de proteína/lípido/N, D1:
+
+41/23/5.18±0.99%, D2: 45/22/6.09±1.40% y D3: 41/24/4.50±1.38%; alcanzado la
+
+concentración de N en heces de (3.62±0.28, 5.20±0.04 y 3.08±0.01%
+
+respectivamente), La cual podemos señalar que la composición de la dieta por la
+
+cantidad de proteína es un factor que afecta la excreción de nitrógeno (Mustapha et
+
+al., 2013).
+
+En otro trabajo reportado por Vergara et al. (2005) analizo dietas comerciales para
+
+peces lubinas y doradas, donde concentración de N en las dientas estuvo entre los
+
+niveles de (6.1% a 7.3%), encontrando la concentración de N en la heces: lubinas
+
+(5.5 a 6.05 %) y la peces doradas (2.68 a 2.97%). que es similar encontrado en
+
+nuestro trabajo, es importante la calidad de la proteína de la dieta que actúa
+
+directamente en la retención de este nutriente.
+
+Dalgaard y Pedersen (2011) en un ensayo con tres tratamientos realizo el balance del
+
+N de la dieta donde el 49.1±3.0% es retenido en el pez, 51.2±4.1% se disuelve en el
+
+agua y un 7.4±0.6% es N sólido, y este último representa a la excreción de nitrógeno
+
+que es un valor similar a la cantidad promedio excretada en nuestro trabajo, cabe
+
+señalar que la el nitrógeno en el agua se disuelve muy rápidamente formando el
+
+amonio que eutrofiza el ecosistema acuático.
+
+Ackefors y Enell (1990), trabajo en salmónidos, con un índice de conversión de 1.5,
+
+la cantidad de nitrógeno eliminado al medio estaría entre 63 y 93 kg por tonelada de
+
+peces producida, con índices de conversión entre 0.9 y 1.8, Gebauer (1990) afirma
+                                                                                   42
+    que en granjas de salmónidos en noruega, se aportan al medio entre 35 y 100 kg de
+
+    nitrógeno, por tonelada de peces producidos, Ackefors (1999) describe para un índice
+
+    de conversión de 1.3, un aporte 53 kg de nitrógeno. Los resultados de vertidos de
+
+    residuos al medio por tonelada de peces producidos en un año, obtenidos en nuestro
+
+    trabajo son similares.
+
+    En la figura 8 se aprecia la relación que existe entre el porcentaje de nitrógeno en la
+
+    dieta con el nitrógeno de los residuos. La correlación baja (r=0.22) es positiva y nos
+
+    indica que a medida que el nitrógeno incrementa en la dieta, también incrementa en
+
+    los residuos colectados. Aunque debemos aclarar que el nitrógeno de los residuos
+
+    está influenciada por la presencia de alimentos no digeridos (heces) por las truchas,
+
+    residuos de alimentos no consumidos, algas, camaroncillos y caracoles.
+
+
+
+
+        Figura 8. Correlación entre el contenido de Nitrógeno (N) en las dietas y el N en los
+               residuos colectados.
+4.3. Fósforo (P)
+
+    En la tabla 13, se aprecian las concentraciones en las dietas y residuos de fósforo
+
+    (P) de seis dietas experimentales (dieta control=NRC-93, dietas de energía baja=EB1
+
+    y EB2, dietas de energía alta=EA1, EA2 y dieta comercial=Ewos®); en donde se
+
+
+
+
+                                                                                                43
+ indica que existe diferencia significativa (P<0.05) entre las concentraciones y
+
+ vertidos al medio por tonelada de peces producidos.
+
+Tabla 13. Fósforo (P) en las dietas experimentales y residuos sólidos colectados.
+                                                        Dietas
+         Variable                                                                          EEM          P
+                                NRC-93       EB1     EB2      EA1      EA2      Ewos®
+Dieta,% (n=3)                     0.99a      0.78d 0.98a 0.93ab 0.83cd          0.88cd      0.21     0.001
+Residuos,% (n=3)                  3.09a      1.40c 2.21b 2.40b 2.69ab           2.96ab      0.25     0.001
+Residuos, Kg/TM (n=7)             5.13a      2.56c 3.16b 2.82bc 3.04b            3.09b     .008      0.001
+EEM = Error estándar de la media. n= observaciones por media. Medias con letras distintas dentro de la misma
+columna, difieren a la prueba de Tukey (P<0.05). Kg/TM=vertidos al medio por tonelada de peces
+producidos/año. Residuos=heces, alimento no consumido y otros.
+
+
+
+Los concentraciones de P fue mayor en las dietas NRC-93 y EB2 (0,99 y 0.98%,
+
+respectivamente) seguido por EA1 (0.93%) y presentan valores intermedios la dietas
+
+Ewos®, EA2 y EB1 (0.88, 0.83 y 0.78 %, respectivamente. Los concentración P de
+
+los residuos sólidos colectados de fue mayor en las dietas NRC-93 baja en energía
+
+(3.09%) seguido por Ewos® y EA2 (2.96 y 2.69%, respectivamente) y presentan
+
+valores intermedios la dietas EA1 y EB2 (2.40 y 2.21%, respectivamente); y el valor
+
+menor se obtuvo EB1 (1.40%).
+
+Por otro lado vertidos de residuos al medio por tonelada de peces producidos en año,
+
+donde la dietas que mayor P generaron fue NRC-93 (5.13 Kg/TM) y con valores
+
+intermedios las dietas EB2, Ewos® y EA2 (3.16, 3.09 y 3.04Kg/TM,
+
+respectivamente) y la dieta que menor genero fue la EA1 y EB1 (2.82 y 2.56 Kg/TM,
+
+respectivamente). EL P fue mayor en NRC-93 esto se deba por la fuente de proteína
+
+donde la dieta solo contiene HP. La harina de pescado contiene (2.95%) de P, es la
+
+fuente de la mayor parte de P en la dieta de los peces y mejora la calidad del
+
+alimento implica de retener P en la dieta es una de las principales estrategias para
+
+reducir el impacto ambiental de la acuicultura. El fósforo es un elemento, cuando
+
+está presente en cantidades excesivas, conduce a la eutrofización de los recursos
+
+
+                                                                                                               44
+acuáticos (Mustapha et al., 2013). Y la dieta EB1 tubo valor menor esto se debe que
+
+la fuente de proteína, que se formularon con la combinación de Pioval-2® que
+
+contiene P (0.05%) y HP.
+
+En otro trabajo hecho por Vergara et al. (2005) analizo dietas para los peces lubinas
+
+y doradas que contienen P entorno al (1%), encontrando la concentración de P en las
+
+heces en ambas especies (entre 2.05 y 2.49%).
+
+La concentración de residuos colectados de P, ya que lo que no es retenido por el pez
+
+será desechado al medio acuático provocando la polución y/o eutrofización en el
+
+presente trabajo de investigación la mayor excreción de P fue producido por la dieta
+
+NRC-93, siendo la dieta que tuvo como principal insumo la HP y fue menor en las
+
+dietas a los que les reemplazo en parte la HP por el Pioval-2® y la harina de pota,
+
+podemos señalar que la elevada cantidad de P en dieta disminuye la retención de este
+
+en el pez, lo que también es manifestado por Fontagne et al. (2009) que señala que
+
+los peces solo retienen el P requerido y el resto es excretado a la columna de agua.
+
+Moccia et al. (2007) evaluó tres dietas con diferente nivel de proteína/lípido/P, D1:
+
+41/23/1.1%, D2: 45/22/6.09±1.15% y D3: 41/24/0.9%; alcanzado la concentración
+
+de P en heces de (2.51±0.13, 3.86±0.13 y 2.25±0.07% respectivamente. podemos
+
+señalar cantidad de e P excretado está íntimamente relacionado a la cantidad de P en
+
+la dieta, encontraron que a mayor nivel de P en la dieta mayor es la excreción a la
+
+columna de agua (Bureau y Cho 1999). Lo cuales los datos encontrados en el
+
+presente trabajo concuerdan principalmente con los residuos sólidos de NRC-93, que
+
+la única fuente de proteína es HP y presenta una energía baja. Esta elimino mayor
+
+concentración P frente a la demás dietas en estudio.
+
+Si comparamos estos resultados con los obtenidos por otros investigadores podemos
+
+observar que las descargas al medio por año son mayores con nuestros resultados.
+                                                                                       45
+Ackefors y Enell (1990), trabajo en salmónidos, con un índice de conversión de1,5,
+
+la cantidad de fosforo eliminado al medio estaría entre 6.5 y 12.5 kg por tonelada de
+
+peces producida, con índices de conversión entre 0.9 y 1.8, Gebauer (1990) afirma
+
+que en granjas de salmónidos en noruega, se aportan al medio entre 7 y 18 kg de
+
+fosforo, por tonelada de peces producidos, Ackefors (1999) describe para un índice
+
+de conversión de 1.3, un aporte 9.5 kg de fosforo.
+
+En la figura 9 se aprecia la relación que existe entre el porcentaje de fósforo en la
+
+dieta con el fósforo de los residuos. La correlación media(r = 0.53) es positiva y nos
+
+indica que a medida que el fósforo incrementa en la dieta, también incrementa en los
+
+residuos colectados. Aunque debemos aclarar que el fósforo de los residuos está
+
+influenciada por la presencia de alimentos no digeridos (heces) por las truchas,
+
+residuos de alimentos no consumidos, algas, camaroncillos y caracoles.
+
+
+
+
+  Figura 9. Relación entre el contenido de fósforo (P) de las dietas y el P de los
+           residuos colectados.
+
+
+
+
+                                                                                     46
+                                V. CONCLUSIONES
+
+5.1. La que mayor MO género al medio, fue la NRC-93 con (1998.10 Kg/TM), seguido
+
+    EB1 (1825.57 Kg/TM), EB2 (1632.49 Kg/TM), EA1 (1493.41 Kg/TM), EA2
+
+    (1272.09 Kg/TM) y el menor Ewos® (1185.57 Kg/TM).
+
+5.2. La descarga N, EB1 género mayor con (57.59 Kg/TM), seguido EA1 (52.49
+
+    Kg/TM), y NRC-93 (46.79 Kg/TM), EB2 (44.57 Kg/TM) EA2 (42.23 Kg/TM) y
+
+    menor obtuvo fue la Ewos® (35.65Kg/TM).
+
+5.5. La descarga P, la NRC-93 (5.13 Kg/TM) genero mayor descarga y seguido EB2
+
+    (3.16 Kg/TM), Ewos® (3.09 Kg/TM), EA2 (3.04 Kg/TM) y la que menor genero fue
+
+    la EA1 (2.82 Kg/TM) y EB1 (2.56 Kg/TM).
+
+5.1. La concentración de MO, N y P en la dieta presenta una correlación positiva con la
+
+    cantidad observada en los residuos colectados.
+
+
+
+
+                                                                                    47
+                            VI. RECOMENDACIONES
+
+6.1. Realizar trabajos de investigación referidos al fósforo y nitrógeno disuelto en el
+
+    agua por ser componentes que intervienen en la polución del ecosistema acuático.
+
+6.2. Se recomienda realizar trabajos de concentración de sedimentos en los fondos de
+
+     los lagos, donde las zonas de concentración de crianza de truchas es alto.
+
+
+
+
+                                                                                    48
+                      VII. REFERENCIA BIBLIOGRAFÍCA
+
+Ackefors, H. 1999. Sustainable Aquaculture Food for the future. En: Proceedings of the
+
+       second International Symposium on sustainable aquaculture. Balkeme.
+
+       Rotterdam. 145-169.
+
+Ackefors, H. and M. ENELL 1990. Discharge of nutrients from Swedish fish farming to
+
+       adjacent sea areas. Ambio. 19 (1). 28-35.
+
+Akinrotimi, O. A., O. M. Abu and A. A. Aranyo. 2011. Environmental friendly
+
+       aquaculture key to sustainable fish farming development in Nigeria. Continental
+
+       J. Fisheries and Aquatic Science. 5(2): 17-31.
+
+Araníbar, M.J. 2010. Recuperación y valorización de pieles de ovino y alpaca
+
+       (PIOVAL-2) en función a su valor nutritivo para alimentación animal. Tesis de
+
+       pregrado en ciencias biológicas. Universidad Nacional del Altiplano. Puno.
+
+       Perú.
+
+Arhonditsis, G. B. and M. T. Brett. 2005. Eutrophication model for Lake Washington
+
+       (USA) Part I. Model description and sensitivity analysis. Ecological Modelling.
+
+       187: 40-178.
+
+Bureau, D. P. and C. Y. Cho. 1999. Phosphorus utilization by rainbow trout
+
+           (Oncorhynchus mykiis): estimation of dissolved phosphorus waste output.
+
+           Aquaculture 188: 363-382
+
+Burge, R. M. and W. Duensing. 1989. Processing and dietary fiber ingredient
+
+       applications of corn bran Foods world. 39: 535-538.
+
+Buschmann, A. H. y A. Fortt. 2005. Efectos ambientales de la acuicultura intensiva y
+
+       alternativas para un desarrollo sustentable. Rev. Ambiente y Desarrollo, 21(3):
+
+       58-64.
+
+                                                                                   49
+Canaza, C. 2011. Digestibilidad de hidrolizados de pieles de ovino y alpaca. Tesis de
+
+           pregrado en Medicina Veterinaria y Zootecnia. Universidad Nacional del
+
+           Altiplano. Puno. Perú.
+
+Castro, J. I. y D. M. Chirinos. 2008. Manual de formulación de raciones balanceadas
+
+       para animales. Primera edición CONCYTEC. Perú. Pág. 230.
+
+Cho, C. Y. 1992. Feeding systems for rainbow trout and other salmon ids with reference
+
+       to current estimates of energy and protein requirements. Aquaculture. 100: 107-
+
+       123.
+
+Cho, C. Y. and S. J. Kaushik. 1990. Nutritional energetics in fish: Energy and protein
+
+       utilization in rainbow trout (Salmo gairdneri). World Rev. Nutr. Diet. 61:132-
+
+       172.
+
+Cho, C.Y., S. J. Slinger and H.S. Bayley. 1982. Bioenergetics of salmonid fishes:
+
+       energy intake, expenditure and productivity. Comp. Biochem. Physiol.73:25-41.
+
+Dalgaard, J. and P. B. Pedersen. 2011. Solid and suspended/dissolved waste (N, P, O)
+
+       from rainbow trout (Oncorhynchus mykiss). Aquaculture. 313: 92-99.
+
+Díaz, R., N. N. Rabalais and D. L. Breitburg. 2012. Agriculture’s Impact on
+
+       Aquaculture: Hypoxia and Eutrophication in Marine Waters. OECD Publishing,
+
+       rights@oecd.org, or by fax: +33 1 45 24 99 30.
+
+Fadaeifard, F., M. Raissy, M. Faghani, A. Majlesi and G. N. Farahani. 2013. Evaluation
+
+       of physicochemical parameters of waste water from rainbow trout fish farms
+
+       and their impacts on water quality of Koohrang stream-Iran. Global Science
+
+       Research Journals. 1(1):109-116.
+
+Fickler, J. 2003. Harina de pescado. Revista Alimentos Balanceados para Animales.
+
+       Edición Ene-Feb. Pág. 35.
+
+                                                                                   50
+Fontagne, S., N. Silva, D. Bazin, A. Ramos, P. Aguirre, A. Surget, A. Abrantes, S. J.
+
+       Kaushik and D. M. Power. 2009. Effects of dietary Phosphorus and calcium
+
+       level on growth and skeletal development in rainbow trout (Oncorhynchus
+
+       mykiss) fry. Aquaculture. 297: 141-150.
+
+Fonturbel, F. 2005. Indicadores fisicoquímicos y biológicos del proceso de
+
+       eutrofización del lago Titikaka (Bolivia). Ecología Aplicada. 4: 135-141.
+
+García, D., M. Mayo, R. Hervella, C. Barceló y C. Fernández. 1993. Principios y
+
+       Técnicas de gestión en la pesca de aguas continentales. Ediciones Mundi-
+
+       Prensa, Madrid. 247 pp.
+
+Gatlin, D. M., F. T. Barrows, P. Brown, K. Dabrowski, T. G. Gaylord, R. W. Hardy, E.
+
+       Herman, G. Hu, A. Krogdahl, R. Nelson, K. Overturf, M. Rust, W. Sealey, D.
+
+       Skonberg, E. J. Souza, D. Stone, R. Wilson and E. Wur. 2007. Expanding the
+
+       utilization of sustainable plant products in aquafeeds: a review. Aquaculture
+
+       Research. 38: 551-579.
+
+Gebauer, R. 1990. Forurensing fra fiskeoppdrett. Utredningsoppgave i “Videreregaende
+
+       vannrenseteknikk”. NTH. Trondheim. 18 p.
+
+ Gregor, K. 2007. Chapter One: Nutrient Releases from Salmon Aquaculture. Report of
+
+        the Technical Working Group (WWF) on Nutrients and Carrying Capacity of
+
+        the Salmon Aquaculture Dialogue. 17pp.
+
+Guillaume, J. and R. Metailler, 1999. Nutrition et alimentation des poissons et
+
+       crustacés: Editions Inraifremer. France. pp. 147-169.
+
+Guillaume, J., S. Kaushik, P. Bergot y R. Metailler. 2004. Nutrición y alimentación de
+
+       peces y crustáceos. Ediciones Mundi-Prensa. España.
+
+
+
+                                                                                   51
+Halver, J. E. and R. W. Hardy. 2002. Fish Nutrition. Third Edition. Editory Elsevier.
+
+          USA.
+
+Haya, K., L. E. Burridge and B. D. Chang. 2001. Environmental impact of chemical
+
+       wastes produced by the salmon aquaculture industry. ICES Journal of Marine
+
+       Science. 58:492-496.
+
+Husa, V., T. Kutti, A. Ervik, K. Sjotun, P. K. Hansen and J. Aure. 2014. Regional
+
+       impact from fin-fish farming in an intensive production area (Hardangerfjord,
+
+       Norway). Marine Biology Research.10(3): 241-252.
+
+Imanpour, J., M. Sharifinia y A. B. Makrani. 2013. Assessment of fish farm effluents on
+
+       macroinvertebrates based on biological indices in Tajan River (North Iran).
+
+       Caspian J. Env. Sci. 11(1): 29-39.
+
+International fish meal and oil organization (IFFO). 2007. Instituto de Nutrición y
+
+       Tecnología de los Alimentos INTA, P. Universidad Católica de Chile y
+
+       Especialidades Industriales Ltda. Santiago. Chile.
+
+Laining, A., R. F. Traifalgar, M. Thu, C. F. Komilus, M. A. Kader, S. Koshio, M.
+
+       Ishikawa and S. Yokoyama. 2010. Influence of dietary phytic acid on growth,
+
+       feed intake, and nutrient utilization in juveniles Japanese flounder. Paralichthys
+
+       olivaceus. Journal of the World Aquaculture Society. 41: 746-755.
+
+Ministerio de la Producción. 2013. Recuperado de: http://www.ministerio de la
+
+       produccion /reporte/ dirección regional de la producción puno324/ htm.
+
+Moccia, R., D. Bevan y G. Reid. 2007. Composition of Fecal Waste from Commercial.
+
+       University of Guelph. Canada.
+
+Mustapha, A., B Driss, E. Khadija and B. Mohammed. 2013. Optimization and
+
+       efficiency in rainbow trout fed diets for reduce the environment Impact in
+
+                                                                                      52
+       Morocco. Universal Journal of Environmental Research and Technology.
+
+       3(2):318-325.
+
+National Research Council (NRC). 1993. Nutrient Requirements of Fish. National
+
+       Academy Press, Washington D. C., U.S.A.
+
+Naylor R.L., S.L Williams y D.R. Strong. 2001. Aquaculture a Gateway for Exotic
+
+       Species. Science 294: 1655-1656.
+
+Nuñes, E. 2014. Digestibilidad de dietas con diferentes niveles de energía en truchas
+
+       (Oncorhynchus mykiss) juveniles. Tesis de pregrado Universidad Nacional del
+
+       Altiplano. Facultad de Medicina Veterinaria y Zootecnia. Puno. Perú.
+
+Olvera, M. A. y L. Olivera. 2000. Potencialidad del uso de las leguminosas como fuente
+
+       proteica en alimentos para peces. Avances en Nutrición Acuícola IV. Memorias
+
+       del IV Simposium Internacional de Nutrición Acuícola. Noviembre, México.
+
+       151-168.
+
+Pokniak, J., S. Muñoz, N. Diaz, C. Gonzalez, and I. Diaz. 2004. The effect of diets with
+
+       different   protein/lipid   ratios   on   productive   performanceand    carcass
+
+       characteristics of the Pacific salmon (Oncorhynchus kisutch). Universidad de
+
+       Chile. Arch. Med. Vet. XXXVI, Nº 2
+
+Reid, G. K. 2007. Nutrient impacts of farmed atlantic salmon (Salmo salar) on pelagic
+
+       ecosystems and implications for carrying capacity. Chapter One: Nutrient
+
+       Releases from Salmon Aquaculture. University of New Brunswick. Canadá.
+
+Rodriguez, F. H. 2010. Determinación del contenido de energía digestible de
+
+       hidrolizados de pieles de ovinos y alpacas (PIOVAL-2) en truchas arco iris
+
+       (Oncorhynchus mykiss). Tesis de pregrado Universidad Nacional del Altiplano.
+
+       Facultad de Medicina Veterinaria y Zootecnia. Puno. Perú.
+
+                                                                                     53
+Romero, J. J. y J. A. Manríquez. 1993. Esfuerzos desarrollados en Chile para disminuir
+
+       el impacto ecológico de la alimentación en centros de cultivos de peces.
+
+       Seminario Internacional Acuicultura y Medio Ambiente. Santiago, 2-3
+
+       septiembre de 1993. Fundación Chile. 189 pp.
+
+Rosenthal, H. 1994. Aquaculture and the environment. World Aquaculture. 25(2): 4.
+
+Sanz, F. 2001. La alimentación en piscicultura. XVII Curso de especialización FEDNA,
+
+       Avances en nutrición y alimentación animal. Madrid, España.
+
+Schindler, D. W. 2012. The dilemma of controlling cultural eutrophication of lakes.
+
+       Environmental Science.
+
+Shimada, A. 2009. Nutrición animal. 2da Ed. Edit. Trillas-México. Pág. 360.
+
+Tacon, A. G. 1987. Nutrición y Alimentación de Peces y Camarones Cultivados.
+
+       Manual de Capacitación. Vol. 1. FAO. Brazil.
+
+Utete, B., L. mutasa, N. Ndhlovu and I. H. Tendaupenyu. 2013. Impact of Aquaculture
+
+       on Water Quality in Lake Kariba, Zimbabwe, International Journal of
+
+       Aquaculture. 3(4):11-16.
+
+Vandenberg, G., E. Boucher, E. Proulx, D. Proulx, A. Dubé and G. Ouellet. 2012.
+
+       Characterization of waste generated by trout fed commercial feed currently used
+
+       in Canada. grant.vandenberg@fsaa.ulaval.ca
+
+Vergara, M. J., R. Haroun, M. N. González, L. Molina, M. O. Briz, A. Boyra, L.
+
+       Gutiérrez, and A. Ballesta. 2005. “Evaluación del Impacto Ambiental de la
+
+       Acuicultura en Jaulas en Canarias”. Oceanográfica, Telde. ISBN: 84-609-4073-
+
+       X. 110 pp.
+
+
+
+
+                                                                                    54
+Wang, X., L. M. Olsen, K. I. Reitan and Y. Olsen. 2012. Discharge of nutrient wastes
+
+       from salmon farms: environmental effects, and potential for integrated multi-
+
+       trophic aquaculture. Aquacult Environ Interact. 2:267-283.
+
+Wilson, R. P. and W. E. Poe. 1985. Apparent digestibility protein and energy
+
+       coefficients of feed ingredients for channel catfish. Prog. Fish-Cult. 47: 154-
+
+       158.
+
+
+
+
+                                                                                   55
+ANEXOS
+
+
+
+
+         56
+A: 1
+DIETAS
+
+
+
+
+         57
+Foto 1. Alimento NRC-93 formulado con Foto 2. El segundo nivel de aceite (12%)
+insumos convencionales, se incluyó 6% estaba conformado por las dietas EB1 y EB2.
+de aceite.                            Estas dietas fueron consideradas como dietas
+                                      con energía baja.
+
+
+
+
+Foto 3. Alimento elaborado EB2 extruido   Foto 4. El tercer nivel de aceite (18%)
+en la planta de alimentos de Arapa SAC,   estaba conformado por las dietas EA1 y
+listo para ser usado en la prueba de      EA2. Estas dietas fueron consideradas como
+digestibilidad.                           dietas con energía alta.
+                                                                                  58
+Foto 5. Alimento comercial Ewos®.
+
+
+
+
+                                    59
+             A 2:
+INSTALACIONES DE CULTIVO Y COLECCIÓN DE
+               RECIDUOS
+
+
+
+
+                                      60
+Foto 6. Vista general de la estructura Foto 7. Vista de una malla colectora con
+completa con sus 42 bolsas de ensayo e residuos sólidos.
+identificación de acuerdo a los tratamientos.
+
+
+
+
+Foto 8. Residuos sólidos colectados en Foto 9. Residuos sólidos colectados en
+materia húmeda.                        materia seca.
+
+
+
+
+                                                                                61
+      A3
+ANALISIS DE LABORATORIO
+
+
+
+
+                          62
+Foto 10. Determinación de fósforo en las   Foto 11. Determinación de Nitrógeno en el
+dietas y residuos.                         M. micro Kjeldahl.
+
+
+
+
+                                                                                63
+           A 4:
+DATOS DE LOS ANALISIS DE VARIANZA Y
+       CALCULOS REALIZADOS
+
+
+
+
+                                      64
+ANVA
+
+Variable dependiente: Materia orgánica en las dietas.
+
+                  Suma de     Cuadrado    Coeficiente de
+Fuente      GL                                             F- Valor   Pr > F
+                 cuadrados de la media     variabilidad
+
+Modelo      5    25.6972444 5.1394489          0.066516    1374.59    0.001
+
+Error       12   0.04486667 0.0037389
+
+Total
+            17   25.7421111
+corregido
+
+Variable dependiente: Nitrógeno en las dietas.
+
+                  Suma de     Cuadrado    Coeficiente de
+Fuente      GL                                             F- Valor   Pr > F
+                 cuadrados de la media     variabilidad
+
+Modelo      5    1.05856111 0.2117122          0.825198     78.74     0.001
+
+Error       12   0.03226667 0.0026889
+
+Total
+            17   1.09082778
+corregido
+
+Variable dependiente: Fósforo en las dietas.
+
+                  Suma de     Cuadrado    Coeficiente de
+Fuente      GL                                             F- Valor   Pr > F
+                 cuadrados de la media     variabilidad
+
+Modelo      5    0.10817778 0.0216356          21.59878    2.569173   0.001
+
+Error       12   0.0064000    2.1163873        0.0005333
+
+Total
+            17   0.11457778
+corregido
+
+
+
+
+                                                                               65
+ANVA
+
+Variable dependiente: Materia orgánica en los residuos colectados.
+
+                     Suma de     Cuadrado de   Coeficiente de
+Fuente         GL                                               F- Valor   Pr > F
+                     cuadrados     la media     variabilidad
+
+Modelo          5     9.8934      1.9786800      0.038155       1447.81    0.001
+
+Error          12     0.0164      0.0013667
+
+Total
+               17     9.9098
+corregido
+
+Variable dependiente: Nitrógeno en los residuos colectados.
+
+                     Suma de     Cuadrado de   Coeficiente de
+Fuente         GL                                               F- Valor   Pr > F
+                     cuadrados     la media     variabilidad
+
+Modelo          5   14.192311     2.8384622      0.825198       2.200411   0.001
+
+Error          12   0.0685333     0.0057111
+
+Total
+               17   14.260844
+corregido
+
+Variable dependiente: Fósforo en los residuos colectados.
+
+                     Suma de     Cuadrado de   Coeficiente de
+Fuente         GL                                               F- Valor   Pr > F
+                     cuadrados     la media     variabilidad
+
+Modelo          5   5.8692444     1.1738489       11.219         15.94     0.001
+
+Error          12   0.8837333     0.0736444
+
+Total
+               17   6.7529778
+corregido
+
+
+
+
+                                                                              66
+ANVA
+
+Variable dependiente: Residuos Kg/TM, Materia orgánica.
+
+                     Suma de     Cuadrado de Coeficiente de
+Fuente        GL                                                 F- Valor   Pr > F
+                    cuadrados     la media       variabilidad
+
+Modelo         5    3464095.41   692819.08        6.929159        58.7      0.001
+
+Error         36    424898.339   11802.732
+
+Total
+              41    3888993.75
+corregido
+
+Variable dependiente: Residuos Kg/TM, Nitrógeno.
+
+                      Suma de     Cuadrado      Coeficiente de
+Fuente        GL                                                 F- Valor   Pr > F
+                     cuadrados    de la media    variabilidad
+
+Modelo         5    2090.19505    418.03901       6.779613        41.96     0.001
+
+Error         36      358.625      9.961806
+
+Total
+              41    2448.82005
+corregido
+
+Variable dependiente: Residuos Kg/TM, Fosforo.
+
+                      Suma de     Cuadrado      Coeficiente de
+Fuente        GL                                                 F- Valor   Pr > F
+                     cuadrados    de la media    variabilidad
+
+Modelo         5    29.7080476    5.9416095       6.773445       118.95     0.001
+
+Error         36    1.79814286    2.1163873
+
+Total
+              41    31.5061905
+corregido
+
+
+
+
+                                                                                67
+Tabla 14. Análisis de la composición químico-proximal de las dietas experimentales,
+tres repeticiones por tratamiento.
+  Dietas Trat Rep            MS,%        C,%         MO,%           N,%      P,%
+            1      1        95.68        10.09        89.91        5.86      0.95
+NRC-93      1      2        95.71        9.87         90.13        5.81      1.04
+            1      3        95.70        9.98         90.02        5.83      0.99
+            2      1        95.18        7.34         92.66        6.67      0.76
+  EB1       2      2        95.15        7.24         92.76        6.58      0.80
+            2      3        95.16        7.29         92.71        6.63      0.78
+            3      1        96.55        8.06         91.94        6.40      1.00
+  EB2       3      2        95.66        8.02         91.98        6.32      0.96
+            3      3        96.10        8.04         91.96        6.36      0.98
+            4      1        97.10        8.34         91.66        6.15      0.94
+  EA1       4      2        96.42        8.26         91.74        6.31      0.92
+            4      3        96.76        8.30         91.70        6.23      0.93
+            5      1        97.26        8.78         91.22        6.49      0.83
+  EA2       5      2        97.15        8.65         91.35        6.36      0.82
+            5      3        97.21        8.71         91.29        6.43      0.83
+            6      1        97.15        6.15         93.85        6.19      0.90
+ Ewos®      6      2        96.91        6.07         93.93        6.26      0.87
+            6      3        97.03        6.11         93.89        6.23      0.88
+MS: Materia seca, C: Cenizas, MO: Materia orgánica, N: Nitrógeno y P: Fósforo.
+
+
+
+
+                                                                                      68
+Tabla 15. Análisis de la composición químico-proximal residuos sólidos colectados,
+tres repeticiones por tratamiento.
+      Residuos           Trat      Rep   C,%        MO,%           N,%       P,%
+                       1         1         4.05          95.95     2.88      2.98
+     NRC-93            1         2         4.13          95.87     2.70      3.19
+                       1         3         4.09          95.91     2.79      3.09
+                       2         1         1.99          98.01     3.91      1.09
+       EB1             2         2         2.03          97.97     4.02      1.72
+                       2         3         2.01          97.99     3.96      1.40
+                       3         1         3.21          96.79     1.81      1.78
+       EB2             3         2         3.08          96.92     1.75      2.65
+                       3         3         3.14          96.86     1.78      2.21
+                       4         1         2.25          97.75     4.27      1.97
+       EA1             4         2         2.35          97.70     4.05      2.34
+                       4         3         2.30          97.73     4.16      2.16
+                       5         1         3.54          96.46     3.53      2.54
+       EA2             5         2         3.61          96.39     3.71      2.85
+                       5         3         3.57          96.43     3.62      2.69
+                       6         1         3.58          96.42     4.25      2.67
+      Ewos®            6         2         3.56          96.44     4.34      3.25
+                       6         3         3.57          96.43     4.29      2.96
+C: Cenizas, MO: Materia orgánica, N: Nitrógeno y P: Fósforo.
+
+
+
+
+                                                                                     69
+Tabla 16. Total de alimento consumido (TAC), consumo promedio (CP), consumo promedio diario (CMD), peso de residuos,
+materia orgánica (MO), nitrógeno(N), fósforo (P), sólido colectado (PRSC), materia seca (MS) durante 10 días.
+                                                N°            Total     kg/TM       kg/TM kg/TM                  MS,
+Trat Rep            TAC          CP                                                                      PRSC, g
+                                           Peces/Jaula Peces, Kg         (MO)         (N)       (P)              %
+  1      1       1896.44      199.29       44.00          9.33      1878.46     43.99     4.82       22.3      5.25
+  1      2       2232.45      234.60       49.00         10.39      1985.64     46.50     5.09       31.4      6.01
+  1      3       2559.14      268.93       49.00         10.39      2276.21     53.30     5.84       29.5      6.01
+
+  1      4       2194.96      230.66       49.00         10.39      1952.30     45.72     5.01        6.7      8.95
+  1      5       2095.61      220.22       50.00         10.61      1826.65     42.77     4.69       22.2      6.4
+  1      6       2327.99      244.64       50.00         10.61      2029.21     47.52     5.21       19.1      8.47
+  1      7       2338.37      245.73       50.00         10.61      2038.25     47.73     5.23        4.3      4.95
+
+  2      1       2219.77      229.41       47.00          9.94      1795.07     56.63     2.52       11.9      6.95
+  2      2       2204.29      227.81       50.00         10.58      1675.59     52.86     2.35       38.7      7.48
+  2      3       2213.19      228.73       50.00         10.58      1682.36     53.07     2.36       33.9      8.89
+  2      4       1988.51      205.51       39.00          8.25      1937.91     61.14     2.72       23.1     10.29
+  2      5       2657.00      274.60       50.00         10.58      2019.74     63.72     2.84       18.6      8.47
+  2      6       2660.9       275.00       50.00         10.58      2022.69     63.81     2.84        5.7      7.02
+  2      7       2121.56      219.26       49.00         10.36      1645.62     51.92     2.31       46.2      7.26
+  3      1       2268.15      234.41       49.00         11.05      1619.90     44.22     3.13        4.8      5.12
+
+  3      2       2544.4       262.96       50.00         11.28      1780.85     48.62     3.44       17.7      6.4
+  3      3       2399.65      248.00       50.00         11.28      1679.54     45.85     3.25        6.9      6.48
+  3      4       2336.75      241.50       50.00         11.28      1635.52     44.65     3.16        7.6      7.14
+  3      5       2048.51      211.71       49.00         11.05      1463.03     39.94     2.83        2.2      6.55
+  3      6       2327.27      240.52       50.00         11.28      1628.88     44.47     3.15         2       5.24
+  3      7       2314.21      239.17       50.00         11.28      1619.74     44.22     3.13        4.3      5.1
+  4      1       2057.16      211.62       49.00         10.64      1402.82     49.31     2.65       31.4      7.51
+
+  4      2       1750.36      180.06       40.00          8.68      1462.17     51.39     2.76       14.9      8.26
+  4      3       2177.31      223.98       49.00         10.64      1484.75     52.19     2.80       29.8      8.96
+  4      4       2236.61      230.08       49.00         10.64      1525.19     53.61     2.88       15.6      9.7
+  4      5       2195.88      225.89       50.00         10.86      1467.46     51.58     2.77       13.2      5.59
+  4      6       2420.53      249.00       50.00         10.86      1617.59     56.86     3.06       13.1     10.69
+  4      7       2190.72      225.36       49.00         10.64      1493.90     52.51     2.82        1.9      4.48
+  5      1       2316.59      238.75       50.00         12.39      1253.35     41.61     3.00       27.4      7.17
+
+  5      2       2559.65      263.80       50.00         12.39      1384.85     45.97     3.31       24.3      5.96
+  5      3       2412.17      248.60       50.00         12.39      1305.06     43.32     3.12       29.3      5.33
+  5      4       2204.72      227.22       49.00         12.14      1217.17     40.41     2.91       15.9      6.16
+  5      5       2306.69      237.73       50.00         12.39      1248.00     41.43     2.98        3.2      6.75
+  5      6       2270.5       234.00       50.00         12.39      1228.42     40.78     2.94        6.6      6.83
+  5      7       2343.27      241.50       50.00         12.39      1267.79     42.09     3.03        9.8      6.08
+  6      1       2465.71      257.65       47.00         11.83      1334.46     40.13     3.48       17.7      6.48
+
+  6      2       2405.13      251.32       50.00         12.58      1223.58     36.80     3.19        3.9      6.51
+  6      3       2185.31      228.35       49.00         12.33      1134.43     34.12     2.96       10.5      2.2
+  6      4       2255.55      235.69       48.00         12.08      1195.29     35.95     3.12       23.1      4.81
+  6      5       2146.17      224.26       49.00         12.33      1114.11     33.51     2.90       10.5      6.46
+  6      6       2264.64      236.64       50.00         12.58      1152.11     34.65     3.00       40.1      5.43
+  6      7       2160.62      225.77       48.00         12.08      1144.98     34.43     2.98       17.1      7.1
+
+
+
+                                                                                                                       70
+

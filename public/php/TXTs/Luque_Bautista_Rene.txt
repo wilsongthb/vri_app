@@ -1,0 +1,4040 @@
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+    FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA,
+               ELECTRÓNICA Y SISTEMAS
+ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+
+
+
+"MODELO WEB INTELIGENTE PARA EL TRATAMIENTO DE INFORMACIÓN
+ DE COMERCIO ELECTRONICO COMO INSTRUMENTO FACILITADOR DE
+    RUTAS TURISTICAS EN LA CAMARA DE COMERCIO PUNO 2011"
+
+                        TESIS
+
+                  PRESENTADA POR:
+
+                RENE LUQUE BAUTISTA
+
+               PARA OPTAR EL TITULO DE:
+
+             INGENIERO DE SISTEMAS
+
+                      PUNO – PERU
+
+                          2013
+ÁREA: Informática
+TEMA: Sistemas de información tradicionales y expertos
+DEDICATORIA
+
+  A DIOS POR HACER POSIBLE QUE PUEDA
+  CUMPLIR CON ESTE CAPITULO DE MI
+  VIDA CUIDANDOME Y PROTEGIENDOME
+  SIEMPRE
+  A MIS PADRES: ALEJANDRA FIDELA
+  BAUTISTA DE LUQUE, DIEGO LUQUE
+  CCAMA, QUIENES PUSIERON TODO SU
+  ESFUERZO POR SACARME ADELANTE Y
+  HACERME UN PROFESIONAL DE BIEN
+
+
+  AL AMOR DE MI VIDA: LIC. LILY KARINA
+  MAMANI GALLEGOS, QUIEN ME IMPULSO
+  A SEGUIR ADELANTE CON LA PACIENCIA
+  Y     LA   DEDICACION    DE   UNA    FIEL
+  COMPAÑERA
+  A MIS HERMANOS: NELSON, ISABEL,
+  MARY, JHONY Y PERCY, QUIENES CON
+  SUS         EXPERIENCIAS       SUPIERON
+  AYUDARME       Y    APOYARME    EN    LOS
+  MEJORES Y PEORES MOMENTOS DE MI
+  VIDA, GRACIAS HERMANOS.
+  AL GRUPO LOS LOBOS, QUIENES EN TODO
+  ESTE       TIEMPO   ME     AYUDARON    Y
+  GUIARON EN ESTE CAMINO COMO SI
+  FUERAN UN PADRE Y A QUIEN GRACIAS
+  HOY PUEDO DECIR SUEÑO CUMPLIDO.
+                                  Agradecimiento
+
+Quisiera empezar agradeciendo a la autoridades de la Universidad Nacional del
+
+Altiplano, a la Facultad de Ingeniería Mecánica eléctrica, Electrónica y Sistemas, a la
+
+Escuela Profesional de Ingeniería de Sistemas y de manera muy especial a mis
+
+docentes que me acompañaron a lo largo de mi formación profesional inculcándome
+
+todo sus conocimientos y experiencia incentivándome a ser un gran profesional.
+
+
+
+Esta investigación no tendría el valor adecuado si es que con ella yo no hubiera
+
+adquirido nuevos conocimientos que le han dado un valor agregado a mi vida porque
+
+ahora comprendo la razón por la que tenemos que ser mejores día a día ya que no
+
+basta con tener las herramientas si no debemos aprender a usarlas.
+
+
+
+Y finalmente quisiera expresar mi agradecimiento infinito a mi admirado grupo político
+
+Los Lobos, quienes fueron mis mentores y que con una gran paciencia me han
+
+ayudado a poder cumplir este sueño, orientándome siempre, apoyándome cuando lo
+
+he necesitado y a quién gracias hoy puedo culminar con mi investigación.
+
+                                                                      Muchas Gracias.
+                                           INDICE
+
+
+                                                                                         Pág.
+DEDICATORIA
+AGRADECIMIENTO
+
+
+RESUMEN…………………………….………………………………….………………… 01
+ABSTRACT………………………………..……………………………………………….. 02
+INTRODUCCION………………………………..……………………………................... 03
+
+
+CAPITULO I………………………………………………...………………………….…… 05
+
+
+PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES Y OBJETIVOS DE LA 15
+                                                                                            06
+INVESTIGACION…………………………………….……....………………………..…...
+                                                                                          2306
+1.1. Planteamiento del problema…………………...……….........................................
+                                                                                          3107
+1.2. Antecedentes de la investigación….….…………...….....………..........................
+                                                                                            09
+1.3. Justificación e importancia de la investigación…...…………………………..……32
+                                                                                            10
+1.4. Objetivos de la investigación………….…..…………...........................................
+                                                                                          3310
+1.5. Hipótesis y variables………………….…………………….…..…………………..…
+                                                                                          3412
+1.6. Alcances y Limitaciones……..….…….…………………….………..………………
+                                                                                         36
+                                                                                          13
+CAPITULO II…………………………………………………..………………….............
+                                                                                           14
+MARCO TEORICO, MARCO CONCEPTUAL.……………………............................
+                                                                  14
+2.1 Marco teórico………………………………………………….….…….………………
+                                                                 65
+2.2 Marco conceptual……………………………………………….……........................ 52
+                                                                                         6731
+
+                                                                                          32
+                                                                                         69
+                                                                                          33
+
+                                                                                           34
+
+                                                                                         3936
+
+
+                                                                                         40
+CAPITULO III……………………………………………….……………………………….                                                     55
+
+
+METODOLOGIA DE INVESTIGACION Y LA RECOLECCIÓN DE DATOS…….…..                                     56
+
+3.1. Metodología De La Investigación……………..……………………......................                        56
+
+3.2. Tipo de estudio………………………..………..………………..……….….…..……                                          57
+
+3.3.Tecnicas de investigación..…………….……..………………..……….….…..……                                     57
+
+
+CAPITULO IV…………………………………………………...……..………………….                                                    65
+
+
+PROCESAMIENTO            DE     DATOS,      EXPOSICION         Y    ANALISIS       DE     LOS
+                                                                                                 66
+RESULTADOS…………………………………………….……………………................
+4.1. Análisis Y Diseño Del Entorno Del Sistema Web Inteligente………………........                     66
+
+4.2. Implementación del prototipo del sistema web inteligente.................................   79
+4.3 Evaluación del nivel de optimización en la administración de la información de
+rutas turísticas………………………………………………………………………………                                                   83
+
+                                                                                                 88
+CAPITULO V.………………………………………………………..…..……………..….
+
+
+CONCLUCIONES Y RECOMENDACIONES..……………….………..……………..…                                             88
+BIBLIOGRAFICA………………………………………………………….……………..…                                                     91
+ANEXOS (CD)………………...……………………………….…………..…...................                                      93
+                                        LISTA DE TABLAS
+
+
+                                                                                                                    Pág.
+
+                                                                                                                     66
+TABLA 01. Registrarse usuario… … . . . . …………………………….……………….….
+                                                                                                                     67
+TABLA 02. Editar usuario............................................... .......... ............
+                                                                                                                     67
+TABLA 03. Eliminar usuario.......................................................................................
+                                                                                                                     68
+TABLA 04. Mostrar usuario………………….……………………………….…………….
+                                                                                                                     68
+TABLA 05. Registra Rutas.........................................................................................
+                                                                                                                     68
+TABLA 06. Registra paquetes....................................................................................
+                                                                                                                     69
+TABLA 07. Búsqueda de rutas……………………………................................................
+                                                                                                                     69
+TABLA 08. Selecciona paquetes………..…...……………………………………………
+                                                                                                                     69
+TABLA 09 Compra de paquetes……….…….............................................................
+                                                                                                                     70
+TABLA 10. Verifica compras.......................................................................................
+TABLA 11. Especificación administrar cliente ……………………….….…….……….. 74
+                                                                  75
+TABLA 12. Registro de usuario ...……………………………………….……………….
+                                                                  76
+TABLA 13. Rutas turísticas…...………………………………………….……………….
+TABLA 14. Elige rutas turísticas……………………...…………………….……………. 77
+                                       LISTA DE FIGURAS
+
+
+                                                                                                          Pág.
+
+
+                                                                                                               22
+FIGURA 01. Taxonomía de los Sistemas Web.............................................................
+                                                                                                               71
+FIGURA 02. Diagrama de casos de uso del sistema..................................................
+                                                                                                               71
+FIGURA 03. Módulo administrar usuario……….........................................................
+                                                                                                               72
+FIGURA 04. Módulo rutas turísticas…………….……………………………….….…….
+                                                                                                               73
+FIGURA 05. Módulo de compras……….....................................................................
+                                                                                                               79
+FIGURA 06. Pantalla principal...................................................................................
+                                                                                                               80
+FIGURA 07. Pantalla de ubicación en el mundo………………………………………..
+                                                                                                               80
+FIGURA 08. Mapa de ubicación de Puno en el mundo…………………...……………
+FIGURA 09. Pantalla de registro de cliente................................................................81
+FIGURA 10. Pantalla que muestra los destinos turísticos …………………….……....81
+FIGURA 11. Pantalla de resultado de búsqueda de paquetes turísticos...................82
+                                                                                               82
+FIGURA 12. Pantalla de compra de paquetes turísticos.............................................
+                                                                                               83
+FIGURA 13 Automatización de requerimientos en usuarios y administradores….….
+                                                                                               84
+FIGURA14. Nivel de dificultad del sistema web………….….……...…………………..
+FIGURA 15. Nivel de rapidez y facilidad de registro...................................................84
+FIGURA 16. Nivel de rapidez de búsqueda de rutas turísticas.……..........................85
+FIGURA 17. Errores del sistema……........................................................................86
+                                                                                         86
+FIGURA 18. Mejora del tratamiento de información de rutas turísticas......................
+                                                                                         87
+FIGURA 19. Calificación de modelo Web inteligente………………...…………………
+                                 RESUMEN
+
+El presente trabajo de investigación evalúa el tratamiento de información como
+
+facilitador de rutas turísticas, estas se fundamentan en los principios de la
+
+inteligencia artificial, como instrumento de modelamiento de rutas más
+
+convenientes que existieran en nuestro país y en especial en el departamento de
+
+Puno, dichas rutas turísticas vendrían a ser conocidas gracias a nuestro sistema
+
+que implementaremos en la cámara de comercio de Puno. Este proyecto han
+
+sido desarrolladas empleando información real recolectada de campo, siendo
+
+necesario determinar si su aplicación directa sería válida para la obtención de
+
+resultados en cuanto al nivel de turismo en el departamento de puno. Como
+
+resultado de los análisis de este estudio, se verificó que para condiciones
+
+próximas a las rutas de turismo, no existen en la realidad dicha información que
+
+facilite al turista que nos visita la ubicación y la mejor toma de decisiones.
+
+Finalmente este estudio dará a conocer todas las rutas turísticas que existen en
+
+el departamento de Puno, en relación a su costo y beneficio.
+
+En la actualidad en el departamento de puno, se viene dando el crecimiento
+
+acelerado de niveles de visitas de los turista, promocionando mejor se duplicaría
+
+los niveles de visitas e ingresos económicos a la población dedicada a este
+
+rubro, generando mayores puestos de trabajo, es ahí donde nace mi interés al
+
+realizar esta investigación, facilitando al turista las rutas turísticas y sus
+
+respectivas distancia y tiempos que generaría interés única en visitar nuestro
+
+departamento, facilitando este instrumento de ayuda, para facilitar el crecimiento
+
+y ingresos económicos a la región es estos últimos años.
+
+
+                                                                                1
+                               ABSTRACT
+
+This research evaluates the processing of information in facilitating tourist
+
+routes, these are based on the principles of artificial intelligence as a tool
+
+for modeling more convenient routes that exist in our country and
+
+especially in the department of Puno, such tourist routes would become
+
+known thanks to our system that we will implement in the chamber of
+
+commerce of Puno. This project has been developed using real data
+
+collected from field, being necessary to determine whether direct
+
+application would be valid for obtaining results in the level of tourism in
+
+the department of Puno. As a result of analysis of this study, we found
+
+that the routes for future tourism conditions do not exist in reality that
+
+information to provide the tourists who visit us the location and better
+
+decision making. Finally, this study will present all tourist routes that exist
+
+in the department of Puno, in relation to its cost and benefit.
+
+Currently in the department of Puno, has been giving the accelerated
+
+levels of visitors in the tourist growth, promoting better levels of visits and
+
+income to the population engaged in this area, generating more jobs
+
+would be doubled, is there where my interest in doing this research is
+
+born, facilitating tourist routes and their respective distance and time to
+
+generate unique interest in visiting our department, providing this aid
+
+instrument to facilitate economic growth and income to the region in
+
+recent years is .
+
+
+
+
+                                                                              2
+                                      INTRODUCCIÓN
+
+
+Se ha visto que la rigurosidad de las fuerzas competitivas han obligado,
+
+especialmente en los últimos años, a buscar en los distintos aspectos del que
+
+hacer empresarial actividades que deban ser mejoradas u optimizadas. No siendo
+
+los procesos logísticos una excepción.
+
+
+
+Diversos      autores      han expuesto distintas razones del porqué las funciones
+
+logísticas deben ser foco de atención, entre otras; la                     globalización       de    los
+
+mercados, la especial oportunidad de industrias nacionales con motivo de los
+
+tratados de libre comercio, el nuevo desafío del mercado electrónico, las
+
+tendencias oligopólicas de algunos mercados. La gran demanda actual por la
+
+modernización del país; ir de la mano tecnología y desarrollo hacen que las
+
+pequeñas, medianas y grandes empresas del departamento y del país tengan la
+
+gran necesidad de actualizar los nuevos conocimientos de marketing y ventas, los
+
+cuales entrelazados con el comercio digital o comercio electrónico hacen visualizar
+
+la gran necesidad de utilizar medios digitales como el Internet.
+
+
+
+Al ser Internet un medio abierto, basta tener acceso a ella y es posible publicar
+
+algo. Además, es un medio rápido de gran visibilidad, libre de arbitraje, requisitos y
+
+normas, y con cobertura internacional que hacen de ella el soporte preferido por
+
+muchos.1
+
+
+
+1
+ “Buscadores: un mundo que descubrir (I)” Lic. Ania Torres Pombert, Periódico “Juventud Rebelde” . 27 de
+Abril del 2006
+
+                                                                                                       3
+El empresario que en estos tiempos tenga solo una parte de la información, por
+
+amplia y actualizada que esta sea, dejará abierto el camino al fracaso. Internet
+
+permite conocer rápidamente qué se ha hecho en cualquier parte del mundo en
+
+cualquier disciplina de la ciencia, quiénes y bajo cuáles presupuestos teóricos.2
+
+
+
+Hablar de Internet y de comercio electrónico es sinónimo de desarrollo y progreso
+
+para así dar a conocer los productos de la región para un mayor conocimiento del
+
+mundo globalizado.
+
+
+
+Es por esto que conceptos como el de desarrollar aplicaciones inteligentes en la
+
+web es algo normal en estos días; la aplicación de tecnología web 3.0 para la
+
+generación de conocimiento nos da como resultado la búsqueda de información
+
+realmente necesaria, en este caso información de rutas turísticas, que será
+
+alimentado por los usuarios de la red, tales como, empresarios de turismo,
+
+corredores turísticos, corporaciones de turismo en la región Puno, nacional e
+
+internacional.
+
+
+
+
+2
+    “Internet en Cuba: año diez” Alexis Schalachter, Periódico Granma. 27 de Abril 2006
+
+                                                                                          4
+               CAPITULO I
+
+PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES Y
+
+       OBJETIVOS DE LA INVESTIGACION
+
+
+
+
+                                             5
+                                  CAPITULO I
+
+
+
+   PLANTEAMIENTO DEL PROBLEMA, ANTECEDENTES Y OBJETIVOS DE
+
+                                  LA INVESTIGACION.
+
+1.1. PLANTEAMIENTO DEL PROBLEMA.
+
+El tratamiento de la información de rutas turísticas en puno actualmente se
+
+realiza de una manera totalmente informal, solo de un mínimo rutas diseñadas
+
+por empresarios al azar, solo se basa en estimaciones y experiencia personal de
+
+los promotores de dichas rutas.
+
+La Cámara de comercio y otras instituciones tienen esta tarea como objetivo
+
+principal en la difusión y tratamiento de esta información ya que la región Puno
+
+está considerada en un 80% como un departamento turístico como ingreso
+
+económico de la población circunlacustre y un 70% de rutas turísticas de
+
+aventura.
+
+Casi el 65% de empresas dedicadas al turismo en Puno se basa únicamente en
+
+la información planteada por las rutas turísticas comunes y solamente la
+
+presentadas en un comité evaluador que se basa en información georeferencial
+
+absolutamente básica sin principios de manejo de información y/o un sistema de
+
+información geográfico (SIG), para una posterior toma de decisiones.
+
+Es por esto que planteamos aplicar tecnología desarrollando un sistema Web
+
+inteligente que pueda asumir los retos del manejo de información colaborativa y
+
+de promoción turística en Puno.
+
+
+
+
+                                                                              6
+DEFINICION DEL PROBLEMA
+
+PROBLEMA GENERAL
+
+¿Con el desarrollo e implementación de un Modelo Web inteligente para el
+
+tratamiento de información de comercio electrónico como instrumento facilitador
+
+de rutas turísticas en la cámara de comercio de Puno mejora el tratamiento de la
+
+Información de rutas turísticas en Puno?.
+
+PROBLEMAS ESPECIFICOS
+
+     En este contexto surgen las siguientes interrogantes:
+
+   ¿Al analizar y diseñar el entorno del modelo Web Inteligente, aplicando
+
+     conceptos de Web 3.0, modelando la información turística se podrá hacer la
+
+     representación en la Web?
+
+   ¿Cómo Implementar el prototipo del modelo Web inteligente evaluando los
+
+     niveles de comercio electrónico?
+
+   ¿Cómo evaluamos el nivel de optimización en la administración de la
+
+     información de rutas turísticas en: calidad de información e Inteligencia de
+
+     Búsqueda?
+
+
+
+1.2 ANTECEDENTES
+
+Existen diferentes trabajos referidos al tema, como los que podemos mostrar a
+
+continuación, pero ninguno en el departamento de Puno, la aplicación de este
+
+enfoque de administración de trabajos de Investigación, no fue considerado ni al
+
+nivel prototipado.
+
+
+
+
+                                                                               7
+-Ambiente de trabajo cooperativo en Internet para Management Game,
+
+realizado en el Departamento de Ingeniería en Sistemas computacionales
+
+en la Universidad de las Américas Puebla - México 1998.
+
+En esta tesis se implementa un conjunto de herramientas para realizar el trabajo
+
+cooperativo, desarrollado en Java para un ambiente de aprendizaje en Internet
+
+basado en simulación. El marco de referencia del trabajo es el juego
+
+Management Game de la Universidad de Carnegie Mellón. Este trabajo presenta
+
+el diseño y desarrollo de herramientas que permiten a los estudiantes planear y
+
+establecer reuniones de trabajo virtuales, manteniéndolos consientes de sus
+
+capacidades, compromisos, disponibilidad y actividades.
+
+-TOP: Una Plataforma para el Desarrollo de Interfaces y Aplicaciones
+
+Colaborativas sobre Web.
+
+En este trabajo se propone una plataforma basada en objetos para la
+
+construcción de aplicaciones colaborativas Groupware sobre el Web. Se describe
+
+un esquema de comunicación para que aplicaciones construidas sobre el Web
+
+puedan intercambiar mensajes con un servidor de objetos. Este esquema provee
+
+una gran flexibilidad para la construcción de interfaces Web y para el desarrollo
+
+de aplicaciones colaborativas en Internet. Se muestran también algunos
+
+ejemplos de aplicaciones colaborativas desarrolladas sobre Internet utilizando la
+
+plataforma orientada a objetos. La interfaz de estas aplicaciones fue construida
+
+sobre el Web utilizando el esquema de comunicación propuesto.
+
+La plataforma TOP ("Ten Objects Platform") es parte del proyecto CLASS
+
+("Computer Learning Applications for Students' Support") y nace debido a la falta
+
+de herramientas para la rápida construcción y modificación de aplicaciones
+                                                                               8
+colaborativas. Esta plataforma está compuesta por diez objetos para la
+
+construcción de aplicaciones colaborativas, y un servidor que provee acceso a
+
+los métodos y atributos de estos objetos.
+
+
+
+1. 3 JUSTIFICACION E IMPORTANCIA DE LA INVESTIGACIÓN
+
+Considerando el problema planteado y los objetivos que enmarcan este proceso
+
+de investigación, podemos justificar un sistema web inteligente que nos podrá
+
+ayudar en la visualización y búsquedas de rutas turísticas en la región Puno,
+
+basado en el concepto de asistencia y autogestión al Cliente, para lo cual este
+
+mercado solo se ha orientado a la venta de productos y servicios, descuidando la
+
+percepción del consumidor como motor fundamental para cumplir este proceso,
+
+dado que su necesidad se orienta a saber información que como sabemos
+
+mucha está escrita, pero ¿el Consumidor entiende y comprende lo que el texto
+
+rígido quiere decir? no es más fácil establecer contacto directo con un
+
+especialista que lo provea de información lo guíe y oriente, principalmente en la
+
+ruta que desea realizar en un posible viaje de turismo que desee realizar.
+
+El resultado final del proyecto permitirá conocer las formas y métodos para una
+
+mayor   adaptación de los comerciantes de rutas turísticas hacia el comercio
+
+electrónico. En el informe final se propondrán nuevas formas de sensibilización a
+
+partir de los resultados obtenidos en el proyecto.
+
+Del mismo modo se aplicara las nuevas formas de adaptación para generar cada
+
+vez mayor cantidad de comerciantes que opten por el comercio electrónico para
+
+la exportación de productos y principalmente motivar el turismo en toda la región
+
+a donde se aplique.
+                                                                               9
+1.4. OBJETIVOS DE ESTUDIO.
+
+1.4.1. OBJETIVO GENERAL
+
+Implementar un Modelo Web inteligente para el tratamiento de información de
+
+Comercio Electrónico como instrumento facilitador de rutas turísticas en la
+
+Cámara de Comercio de Puno 2011
+
+    1.4.2. OBJETIVOS ESPECÍFICOS
+
+  Analizar y diseñar el entorno del Modelo Web Inteligente, aplicando
+
+    conceptos de Web 3.0, modelando la información turística con una
+
+    ontología de datos para su representación en la Web.
+
+  Implementar el prototipo del Modelo Web inteligente evaluando los niveles
+
+    de comercio electrónico.
+
+  Evaluar el nivel de optimización en la administración de la información de
+
+    rutas turísticas en: calidad de información e Inteligencia de Búsqueda.
+
+
+
+1.5. HIPÓTESIS Y VARIABLES
+
+  1.5.1.   HIPOTESIS GENERAL.
+
+ Con el desarrollo de un entorno Modelo Web Inteligente para el tratamiento de
+
+ información de comercio electrónico mejorara el tratamiento en: tiempo, coste y
+
+ contenido; y la administración en niveles de inteligencia de búsqueda de la
+
+ información rutas turísticas en la cámara de comercio de Puno.
+
+
+
+
+                                                                              10
+1.5.2.   HIPOTESIS ESPECÍFICOS.
+
+              Al analizar y diseñar el entorno del Modelo Web Inteligente,
+
+                aplicando conceptos de Web 3.0, modelando la información
+
+                turística con una ontología de datos para su representación en
+
+                la Web, nos permitirá facilitar información al turista
+
+              Si Implementamos          el prototipo del Modelo Web inteligente
+
+                evaluando los niveles de comercio electrónico, obtendremos
+
+                resultados positivos con respecto a nuestra investigación
+
+              Evaluar el nivel de optimización en la administración de la
+
+                información de rutas turísticas en: calidad de información e
+
+                Inteligencia de Búsqueda, darían resultados esperados y
+
+                mejoraríamos el nivel de servicio al turista.
+
+
+
+1.5.3.   VARIABLES DE ESTUDIO.
+
+
+
+    VARIABLES INDEPENDIENTES.
+
+            Conteo de rutas turísticas
+
+
+            Distancia de rutas turísticas
+
+
+            Tipos de rutas turísticas
+
+
+    VARIABLES DEPENDIENTES.
+
+            Niveles de Servicios
+
+
+
+
+                                                                             11
+1.6. ALCANCES Y LIMITACIONES
+
+
+
+En este caso el estudio para el desarrollo de comercio electrónico con web
+
+inteligente, es un tema muy general ya que se puede aplicar casi a todos los
+
+sistemas que se puedan desarrollar, en nuestra investigación lo que se quiere
+
+es primero investigar en si el desarrollo de un sistema web inteligente que
+
+optimice en tiempo, costo y calidad de de información en la web para la
+
+comercialización de esta al mundo entero.
+
+Realizar dicha información en fase de investigación es primordial salvaguardar
+
+el derecho a la información que en este caso es la razón del sistema, que la
+
+venta posterior será la venta de esta información como un servicio en el
+
+comercio electrónico, así se obtendrá los resultados esperados.
+
+Esta clase de cuidado en el manejo de la información nos presenta la
+
+adquisición de métodos de seguridad y equipos los cuales en esta fase de la
+
+investigación serán considerados como nuestra limitante.
+
+Además, se analizo que muy pocas personas en nuestro país investigan temas
+
+de tal categoría es por eso que consideramos que es también una limitante no
+
+contar con antecedentes de éxito en nuestra investigación.
+
+
+
+
+                                                                           12
+         CAPITULO II
+
+MARCO TEORICO, MARCO CONCEPTUAL
+
+
+
+
+                                  13
+                                 CAPITULO II
+
+
+
+                MARCO TEORICO, MARCO CONCEPTUAL
+
+2.1. MARCO TEORICO
+
+2.1.1. MARCO REFERENCIAL.
+
+
+En el mundo de hoy, el cual se encuentra orientado al reto de las
+
+telecomunicaciones y a los servicios de valor agregado, es Internet uno de los
+
+medios con mayor auge a nivel mundial, dado su alcance, expansión y por su
+
+capacidad de mantener comunicado a los usuarios que tienen acceso. Su uso y
+
+aplicación es utilizada por millones de usuarios finales, comerciantes, grandes
+
+empresas y corporaciones, entre lo que podemos mencionar: búsqueda de
+
+información,   diversificación   de   productos,   disponibilidad   de   recursos
+
+tecnológicos, y comercio electrónico (E-Commerce) concepto que utilizaremos
+
+como patrón básico de nuestra investigación.
+
+Internet es una red de redes de computadoras que intercambian información
+
+entre sí. La palabra Internet se deriva del término Internetwork, que significa
+
+“trabajo de redes”. Una forma fácil de visualizar Internet es imaginarla como una
+
+gran nube de computadoras conectadas que está cambiando y creciendo de
+
+manera constante, conforme se integran nuevas computadoras y redes que a
+
+su vez también están evolucionando. Dentro de esta nube de Internet, hay
+
+muchas redes de computadoras que están conectadas entre sí. Estos sistemas
+
+usan un conjunto de protocolos para el intercambio de datos.
+
+
+
+                                                                              14
+Internet creció a partir de un programa de investigación de la Agencia de
+
+Proyectos de Investigación avanzados de la defensa de los Estados Unidos
+
+(DARPA, por sus siglas en inglés), que se centro en las formas de enlazar
+
+diversas redes de computadoras. El resultado fue ARPANET, que se inició en
+
+1969. En 1971, estaban conectadas cerca de 40 computadoras o anfitriones a
+
+ARPANET, y los investigadores trabajaban para desarrollar la capacidad de
+
+enviar correo electrónico mediante las redes. ARPANET continuó creciendo a lo
+
+largo de los años setenta y también empezaron a conectarse otras redes de
+
+computadoras. Conforme se conectaron más y más redes a ARPANET, este
+
+gran complejo de redes llegó a conocerse entre ellas como Internet. La
+
+ARPANET original se debilitó en 1990 y dejó a Internet como su sucesora
+
+próspera.
+
+Internet ha experimentado un crecimiento increíble en los últimos diez años. En
+
+1984, había más o menos 1.000 anfitriones en Internet. Hacia 1989, este total
+
+había crecido a más de 100.000 computadores anfitriones. Tres años más
+
+tarde, en 1992, el total era más de 1.000.000 de computadoras en Internet.
+
+Para Julio de 1994, existían más de 3.2 millones de computadoras anfitriones
+
+en la red, con alrededor de 20 millones de usuarios.
+
+Sin duda alguna, la navegación por Internet se ha simplificado mucho con la
+
+introducción del World Wide Web (WWW por sus siglas en ingles), y con el
+
+desarrollo de herramientas de recuperación de información fáciles de utilizar,
+
+muchos usuarios no técnicos están descubriendo que Internet tiene amplios
+
+recursos de información a los que puede tener acceso.
+
+
+
+                                                                            15
+En el estudio de sistemas que tengan una interacción en manejo de entradas y
+
+administración de consultas vía Web, se tiene un gran avance en el país de
+
+Chile. Ya que este país invierte mucho en su educación y en el manejo de
+
+entornos colaborativos para la Gestión de conocimiento, pero hasta la fecha el
+
+tema, tal como se planteo, no tiene un estudio formal en dicho país.
+
+//REFERENCIA
+
+Trabajos de Investigación como: Estrategias de implantación de las
+
+Tecnologías de la Información en el ámbito de las organizaciones
+
+académicas, por los M. Sc. Enrique Rubio Royo y Ángel Hidalgo Blanco, del
+
+Programa de Doctorado de la Universidad las Palmas de Gran Canaria,
+
+España. Cuyo objetivo es:
+
+Identificar y analizar las estrategias de implantación de las tecnologías de la
+
+información adoptadas, a nivel institucional, por diferentes organizaciones
+
+académicas, líderes a nivel mundial, en relación a:
+
+
+
+              o Análisis de las organizaciones desde el punto de vista de la
+
+                 información (Internet-Intranet-Extranet)
+
+              o Innovación tecnológica en las organizaciones
+
+              o Gestión del conocimiento
+
+              o Formación basada en Web
+
+              o Redes de aprendizaje colaborativas y asíncronas
+
+              o Entornos virtuales de trabajo colaborativo
+
+
+
+
+                                                                            16
+La siguiente tesis: Metodología y procedimientos automáticos para obtener el
+
+mapa de la investigación en una especialidad, desarrollada por el M.Sc. José
+
+Lloréns Sánchez, en cuyo resumen plantea:
+
+Las formas de comunicación de los conocimientos científicos que sirven de
+
+base a las investigaciones en curso, están cambiando. Por otra parte, no es
+
+cierto que todo vaya a encontrarse en las utilidades públicas de Internet (WWW,
+
+revistas electrónica). Mucha información circula de persona a persona. Mucha
+
+otra está en artículos de revista, que debido a su enorme cantidad y desigual
+
+distribución, no se explotan en todas sus posibilidades.
+
+Cada especialidad debe hacerse el mapa de sus recursos de información,
+
+cuantificar su acceso a ellos, determinar si el exceso de información está
+
+perjudicando, averiguar los frentes activos en resultados recientes, detectar la
+
+emergencia de nuevos conceptos aun no cristalizados en un lenguaje
+
+apropiado, etc. Para ello puede tomarse como material crudo el contenido de
+
+las bases de datos bibliográficas. Hay que desarrollar una metodología
+
+(apoyada en procedimientos informáticos) que pueda aplicarse con poco
+
+esfuerzo y que obtenga resultados apreciables.
+
+
+
+2.1.2. MARCO TEORICO.
+
+
+COMERCIO ELECTRONICO
+
+
+El E-Commerce es dividido en dos categorías: Business-to-Consumer o
+
+comercio de negocio-a-consumidor y Business-to-Business commerce.
+
+
+
+                                                                             17
+Business-to-Consumer Commerce
+
+
+En comercio del Negocio-a-consumidor, los negocios crean los frentes del
+
+almacén electrónico que ofrecen la información, mercancías, y servicios a los
+
+consumidores. Internet, Tiendas Virtuales o Shopping Malls se extienden las
+
+ventas los bienes de consumo que se extienden de las tortas y de los vinos a las
+
+computadoras y a los coches.
+
+
+Un    ejemplo    de    business-to-consumer      es    el   sitio   tuelectronica.com
+
+(http://www.tuelectronica.com), y el sitio patilla.com (http://ww2.patilla.com/).
+
+
+Business-to- Business Commerce
+
+
+El comercio del Negocio-a-Negocio incluye en línea vender al por mayor, en el
+
+cual los negocios venden mercancías y servicios al otro negocio en la web.
+
+
+El comercio del Negocio-a-consumidor es tramitado usando tecnologías del
+
+intercambio de los datos electrónicos Electronic Data Interchange (EDI por sus
+
+siglas en ingles). EDI define los formatos, los tipos de datos, y las instrucciones
+
+de enrutamiento para el intercambio electrónico de los documentos de negocio
+
+entre los sistemas informáticos de las compañías.
+
+
+Dentro de este marco conceptual, el modelo de comercio electrónico conocido
+
+comúnmente es el de la Tienda Virtual, el cual es constituido por el propio
+
+comerciante, y que consiste en hacer presencia en la web a través de páginas
+
+web mostrando la gama de productos de la empresa. Este modelo se simplifica
+
+aún más cuando el comerciante arrienda un dominio en cualquier servidor de
+
+
+                                                                                    18
+Internet, dado que no necesita desplegar sus propios recursos ya están
+
+disponibles. Ejemplo de este modelo, podemos citar a                 www.terra.com,
+
+www.amazone.com,        y    hecho     en      Venezuela     www.ticketcentro.com,
+
+www.tutienda.cantv.net, entre muchos otros que podemos citar y que hoy por
+
+hoy su éxito y repercusión en el mercado hace que sea líder en el mercado
+
+mundial.
+
+
+DESARROLLO DE APLICACIONES WEB
+
+
+La poca rigurosidad en el desarrollo de sitios Web se nota desde la terminología
+
+utilizada. Términos como aplicación Web y sitio Web tienen distintos significados
+
+para distintos autores. Varios autores han definido taxonomías para tratar de
+
+clasificar los distintos tipos de aplicaciones Web. Por ejemplo, Ginige y
+
+Murugesan definen las siguientes categorías de aplicaciones Web:
+
+
+
+      Informativas (noticias en línea, servicios de noticias, catálogos,
+
+       manuales).
+
+      Interactivas (formularios de registro, servicios en línea).
+
+      Transaccionales (compras electrónicas, bancos en línea).
+
+      Sistemas de workflow (planificación en línea, administración de
+
+       inventarios, monitoreo).
+
+      Ambientes o entornos de trabajo colaborativo (sistemas distribuidos de
+
+       autoría, herramientas colaborativas).
+
+      Comunidades en línea (grupos de chat, sistemas de recomendación).
+
+                                                                                19
+      Portales Web (centros comerciales electrónicos, intermediarios en línea).
+
+   (Ginige y Murugesan, 2001, 14-18).
+
+
+
+Por su parte, Pressman define las siguientes categorías de aplicaciones Web:
+
+      Informativas (se proporciona un contenido sólo de lectura con
+
+       navegación y enlaces simples),
+
+      De descarga (el usuario descarga información desde el servidor),
+
+      Personalizable (el usuario personaliza el contenido según sus propias
+
+       necesidades),
+
+      Interactivas (comunicación entre comunidades de usuarios),
+
+      Con entradas de usuario (el ingreso de información por parte del usuario
+
+       a través de formularios es el mecanismo primario),
+
+      Orientadas a transacciones (solicitudes del usuario al servidor Web),
+
+      Orientadas a servicios (proporcionan servicios a los usuarios),
+
+      Portales (el usuario navega en la aplicación y esta lo lleva a servicios
+
+       fuera del dominio del portal),
+
+      Con acceso a bases de datos (el usuario extrae información de una base
+
+       de datos),
+
+      Almacenes de datos (el usuario consulta información en una colección
+
+       grande de datos). (Pressman, R., 2002, 523)
+
+
+
+
+                                                                               20
+a) Taxonomías WEB
+
+Jim Conallen trata de establecer algunas diferencias entre los sistemas Web
+
+desde el punto de vista de la modificación de la lógica del negocio. Según
+
+Conallen, una aplicación Web es un sistema Web (servidor Web, red, protocolo
+
+HTTP, y browser) en el cual el usuario, a través de navegación y entrada de
+
+datos, afecta el estado del negocio. De este modo, un sitio Web es un sistema
+
+Web donde la navegación del usuario no modifica lógica de negocio, o un
+
+sistema Web donde no hay lógica del negocio. Sin embargo, esta clasificación
+
+es un poco confusa. Una buena parte de los sistemas Web existentes extraen
+
+parte de la información que presentan a los usuarios desde bases de datos, y
+
+ocasionalmente modifican esta información, dependiendo de las acciones del
+
+usuario. De las cuatro operaciones básicas para el manejo de datos: crear
+
+(inserí), recuperar (select), modificar (ypdate) y borrar (delete), es común que los
+
+sistemas Web utilicen la segunda para desplegar información. Sin embargo, son
+
+las otras tres las que modifican el estado de una base de datos (el estado de la
+
+lógica del negocio), y es la presencia de estas operaciones, según la definición
+
+de Conallen, lo que define la funcionalidad de un sistema Web: en qué
+
+proporción la interacción del usuario con el sistema permite modificar el estado
+
+de los datos del sistema. Podríamos entonces decir que un sistema Web tiene
+
+tres componentes fundamentales:
+
+          El diseño gráfico.
+
+          El contenido.
+
+          La funcionalidad.
+
+
+
+                                                                                21
+Es muy importante diferenciar estos aspectos pues el perfil de la persona
+
+encargada de implementar cada componente, es distinto. De acuerdo con estos
+
+tres nuevos criterios, podríamos definir una nueva taxonomía para sistemas
+
+Web. Los sistemas Web se clasificarían dependiendo de la cantidad y tipo de
+
+código (HTML, scripts y otros lenguajes de programación) que posean, según la
+
+cantidad de información que contengan, y según la calidad y complejidad del
+
+diseño. La figura, muestra esta taxonomía, compuesta por un sistema con tres
+
+dimensiones: contenido, diseño y funcionalidad.
+
+
+
+              Figura Nº 01: Taxonomía de los Sistemas Web
+
+
+
+
+En la taxonomía de la figura, el plano de la zona A determina los sistemas que
+
+no contienen código ejecutable, es decir, los sistemas que no poseen
+
+funcionalidad. Estos sistemas podrían ser llamados portales o sitios Web. La
+
+zona B, por el contrario, define los sistemas que contienen mucha funcionalidad,
+
+independientemente del contenido y del diseño. Estos sistemas podrían llamarse
+
+aplicaciones Web. Pero, ¿qué pasa con un sistema Web que no cae en ninguna
+
+de las dos regiones señaladas?, ¿sería considerado un sitio o una aplicación
+
+Web? En realidad lo más importante es estimar el tiempo y esfuerzo en el
+
+
+                                                                             22
+desarrollo del sistema Web. El límite que hace la diferencia entre sitio y
+
+aplicación, dependerá de las métricas de estimación de cada empresa. Para
+
+nuestros efectos, diremos que una aplicación Web es aquella que requiere
+
+suficiente esfuerzo en cuanto a su funcionalidad, como para que se requiera un
+
+ingeniero de software.
+
+
+
+b) Formulación, análisis y diseño de sistemas WEB
+
+Considerando a Roger Pressman, indica que la formulación y el análisis de
+
+sistemas de aplicaciones basadas en WEB representa una sucesión de
+
+actividades de ingeniería Web que comienza con la identificación de metas
+
+globales para la WebApp y termina con el desarrollo de un módulo de análisis o
+
+especificación de requisitos para el sistema.
+
+
+
+La formulación debe responder a las preguntas:
+
+             ¿Cuál es la motivación principal para la WebApp?
+
+             ¿Por que es necesaria la WebApp?
+
+             ¿Quién va a utilizar la WebApp?
+
+
+
+Mientras que en el análisis se debe realizar cuatro tipos de análisis diferentes:
+
+             Análisis de contenido
+
+             Análisis de la interacción
+
+             Análisis funcional
+
+
+                                                                                    23
+              Análisis de la configuración
+
+
+En el caso del diseño, con objeto de realizar un diseño eficaz basado en Web, el
+
+ingeniero deberá trabajar reutilizando cuatro elementos técnicos:
+
+              Principios y métodos de diseño, que incluye la medularidad eficaz,
+
+               la elaboración paso a paso y otras heurísticas.
+
+              Reglas de oro, la aplicación de un conjunto de heurísticas de
+
+               diseño.
+
+              Configuración de diseño, que se pueden aplicar no solo a los
+
+               elementos funcionales, sino también a los documentos, gráficos y
+
+               estética general de un sitio Web.
+
+              Plantillas, se pueden utilizar para proporcionar un marco de trabajo
+
+               esquemático de cualquier configuración de diseño o documento a
+
+               utilizar. (Pressman, R., 2002, 526 - 528)
+
+
+2.1.3. EL TURISMO
+
+
+Es el conjunto de los viajes cuyo objeto es el placer o por motivos comerciales o
+
+profesionales y otros análogos, y durante los cuales la ausencia de la residencia
+
+habitual es temporal, no son turismo los viajes realizados para trasladarse al
+
+lugar de trabajo.
+
+
+Walter Hunziker - Kurt Krapf, 1942 dicen que "El turismo es el conjunto de
+
+relaciones y fenómenos producidos por el desplazamiento y permanencia de
+
+
+
+
+                                                                               24
+personas fuera de su domicilio, en tanto que dichos desplazamientos y
+
+permanencia no están motivados por una actividad lucrativa".
+
+
+El término "turismología" surgió en los años '60. Pero fue el yugoslavo Živadin
+
+Jovičić (geógrafo en su formación académica), el científico considerado "padre
+
+de la turismología", quién lo popularizó cuando fundó la revista del mismo
+
+nombre en 1972.
+
+
+Jovicic consideraba que ninguna de las ciencias existentes podía realizar el
+
+estudio del turismo en toda su dimensión (ni la geografía, ni la economía, ni la
+
+sociología, etc.) por considerar que sus aportaciones son unilaterales. Esto lo
+
+permitiría la creación de una ciencia independiente, la turismología.
+
+
+2.1.4 EL TURISTA
+
+
+Un turista es aquella persona que se traslada de su domicilio habitual a otro
+
+punto geográfico, estando ausente de su lugar de residencia habitual más de 24
+
+horas y realizando pernoctación en el otro punto geográfico. Las características
+
+que lo definen como turista no responden a un sólo aspecto, por ejemplo, el
+
+cultural. Aquella persona que visita distintos puntos de su país, o del planeta, y
+
+que lo hace para aprender más o para aumentar su conocimiento cultural es
+
+turista. Sin embargo, una persona que visita por motivos de salud, puede
+
+cumplir con otras características que lo definen como turista, y sin embargo, no
+
+visitó un lugar para aumentar su conocimiento, ni para aprender más.Todo
+
+individuo que se moviliza de un lugar a otro es considerado viajero. Entre la
+
+figura de "viajero" podemos distinguir al poto al "visitante" de los "otros
+                                                                               25
+viajeros". Es visitante el que viaja a un lugar fuera de su entorno habitual y no
+
+responde a una actividad remunerada en el destino por residentes. Entre los
+
+visitantes podemos distinguir a los turistas y a los excursionistas, y la única
+
+característica que los diferencia es si pernoctan o no en el destino. El carácter
+
+lucrativo no es determinante para la clasificación de la actividad como de
+
+turismo. De hecho, el turismo de negocios es lucrativo para el individuo
+
+considerado turista, y no por ello deja de ser considerado como tal, ni de
+
+realizar actividades turísticas. Para la identificación del entorno habitual se
+
+considera la frecuencia con que se viaja a determinada localidad o región, y la
+
+distancia entre el origen y el destino. Sin embargo, frecuencia y distancia no son
+
+conceptos exhaustivos, siendo todavía difusos.
+
+
+2.1.5 TURISMO SOSTENIBLE
+
+
+El turismo sostenible o turismo sustentable es una forma de turismo que sigue
+
+los principios de sostenibilidad. El turismo sostenible es una industria
+
+comprometida a hacer un bajo impacto sobre el medio ambiente y cultura local,
+
+al tiempo que contribuye a generar ingresos y empleo para la población local.
+
+
+Sector turístico
+
+
+El sector turístico ofrece productos (servicios + derechos de uso) a través de las
+
+diferentes empresas y diversas organizaciones públicas y privadas.
+
+
+
+
+                                                                                26
+2.1.6 PRODUCTOS TURÍSTICOS
+
+
+Turismo individual
+
+
+Es aquel cuyo programa de actividades e itinerario son decididos por los
+
+viajeros sin intervención de operadores turísticos.
+
+
+Turismo de masas
+
+
+Es aquel que se realiza masivamente por todo tipo de personas, sin importar su
+
+nivel económico por lo que no es un tipo de turismo exclusivo. Es el más
+
+convencional, pasivo y estacional. Es normalmente menos exigente y
+
+especializado. Aquí podemos encontrar el turismo de sol y playa.
+
+
+Turismo cultural
+
+
+Es el que precisa de recursos histórico-artísticos para su desarrollo. Es más
+
+exigente y menos estacional.
+
+
+   Creativo: vinculado a la realización de actividades artísticas y creativas en
+
+el lugar de destino.
+
+   Urbano: desarrollado en ciudades principalmente en aquellas que son
+
+Patrimonio de la Humanidad. Clientes de nivel cultural y poder adquisitivo alto,
+
+es el tipo de turismo más grande del mundo y esta dado por un turismo masivo.
+
+   Monumental: vinculado exclusivamente a monumentos histórico-artísticos
+
+que pueden estar alejados de núcleos de población importantes.
+
+
+
+
+                                                                              27
+   Arqueológico: vinculado a yacimientos y sitios arqueológicos que pueden
+
+estar alejados de núcleos de población importantes.
+
+   Funerario: vinculado cementerios donde o bien hay tumbas realizadas por
+
+arquitectos famosos o bien hay personajes famosos enterrados allí.
+
+   De compras: vinculado a las compras a buen precio o exclusivos. Incluye
+
+artículos de lujo, arte, artesanía y artículos de uso común como calzado,
+
+electrónica, etc.
+
+   Etnográfico: vinculado a las costumbres y tradiciones de los pueblos. En
+
+algunos casos cercano al turismo ecológico.
+
+   Literario: motivado por lugares o eventos de carácter bibliográfico.
+
+   Idiomático: vinculado a los estudios, fundamentalmente a los de idiomas.
+
+   Gastronómico: vinculado a la comida tradicional de un determinado lugar.
+
+   Enológico: vinculado a los vinos de una zona.
+
+   Industrial: motivado por la visita a fábricas o grandes construcciones civiles
+
+
+Turismo natural
+
+
+Se desarrolla en un medio natural, tratando siempre de realizar actividades
+
+recreativas sin deteriorar el entorno.
+
+
+   Rural: es desarrollado en el medio rural, cuya principal motivación es
+
+conocer las costumbres y las tradiciones del hombre en el mundo rural. Se
+
+interesa por la gastronomía, la cultura popular, artesanía.
+
+
+
+
+                                                                                28
+   Ecoturismo: basado en el contacto con la naturaleza. Sus recursos los
+
+componen las reservas y parques nacionales, es decir, una flora y fauna
+
+interesante en la zona receptiva.
+
+   Agroturismo: su finalidad es mostrar y explicar el proceso de producción
+
+de las fincas agropecuarias y las agroindustrias.
+
+   Agroecoturismo: es aquel donde el visitante se aloja en habitación con
+
+estándares turísticos pero participa en las labores agrícolas, convive con la
+
+comunidad y consume los alimentos recolectados con la familia.
+
+   Ornitológico: es el turismo centrado en el avistamiento y observación de
+
+aves.
+
+   Ictioturismo: es la actividad turística centrada en la práctica de la pesca
+
+realizada en áreas naturales permitidas.
+
+   Cinegético: Turismo enfocado a la caza de animales en lugares específicos
+
+(ranchos cinegéticos), donde se permite cazar solamente a animales que han
+
+sido criados específicamente para este fin.
+
+
+Turismo activo
+
+
+El turismo activo es aquel que se realiza en espacios naturales, el turismo
+
+activo está estrechamente relacionado con el turismo rural y generalmente este
+
+tipo de actividades se realizan en un parque natural debido al interés ecológico
+
+que estos presentan.
+
+
+   Parques temáticos: basado en atracciones turísticas de temas concretos.
+
+Se caracteriza por la participación activa en todo momento del visitante.
+
+
+                                                                             29
+   Deportivo: la principal motivación es practicar algún deporte. Se puede
+
+dividir en dos grupos: deporte de exterior y el de interior. También se podría
+
+hacer otra subdivisión en función del que practica el deporte, o quien lo ve.
+
+   Aventura: aquí solo se practican deportes de riesgo. El usuario de este tipo
+
+de turismo suele ser de nivel adquisitivo y cultural alto y de muy buena forma
+
+física (rafting, rappel, etc.).
+
+   Religioso: una oferta ligada a lugares o acontecimientos de carácter
+
+religioso de relevancia. Los cuatro núcleos de mayor importancia en el mundo
+
+son: Jerusalén, Roma, La Meca y Santiago de Compostela (en este último el
+
+Camino de Santiago tiene una doble vertiente deportiva y religiosa).
+
+   Espiritual: su motivación es el recogimiento y la meditación (monasterios,
+
+retiros espirituales, cursos de filosofía oriental, etc.).
+
+   Místico: Se relaciona con el turismo orientado a la visita de lugares
+
+místicos.
+
+   Termal o de salud: está vinculado a los balnearios que ofrecen
+
+tratamientos para diversas dolencias (reumatológicas, estrés, dermatológicas,
+
+tratamientos de belleza, etc.). La infraestructura cuenta normalmente con un
+
+núcleo principal o instalación termal independiente de las instalaciones
+
+hoteleras.
+
+   Médico: está orientado a la vinculación del viaje con la realización de
+
+intervenciones quirúrgicas, dentales o tratamientos médicos en países donde
+
+son más baratas las atenciones.
+
+   Social: aquel dedicado a la participación en actividades para mejorar las
+
+condiciones de las capas de población económicamente más débiles.
+                                                                                30
+   Experiencial: aquel en el que el participante toma parte activa en la
+
+actividad que está desarrollando. Los turistas se sumergen dentro de historias
+
+más o menos fantásticas como en una película.
+
+   Itinerante: se desarrolla activamente en varios lugares siguiendo rutas e
+
+itinerarios preestablecidos.
+
+
+Turismo de negocios
+
+
+El turismo de negocios es aquel que se desarrolla con objeto o fin de llevar a
+
+cabo un negocio o un acuerdo comercial, se desarrolla entre empresas por lo
+
+general.   Utilizado   por     empresarios,   ejecutivos,   comerciantes   y   otros
+
+profesionales para cerrar negocios, captar clientes o prestar servicios. La
+
+estacionalidad es invertida a la vacacional, por lo que es un producto muy
+
+importante para el sector. El cliente suele ser de alto poder adquisitivo. Se trata
+
+de un turismo fundamentalmente urbano y con necesidades de infraestructura
+
+muy concretas como la conexión a internet.
+
+
+   Reuniones y congresos: muy importante y habitualmente confundido con
+
+el de convenciones. El congreso reúne a un colectivo o asociación y suele tener
+
+carácter científico. Acuden profesionales del mismo sector pero que no tienen
+
+porque ser de la misma empresa.
+
+   Seminarios y convenciones: a diferencia del congreso, la convención
+
+suele reunir a distintos profesionales de una misma empresa con el objeto de
+
+dar a conocer a sus empleados un nuevo producto, tratar la planificación
+
+estratégica para la nueva campaña, etc.
+
+                                                                                 31
+   Viajes de incentivo: vinculado a viajes de negocios, mientras que éste
+
+último es de trabajo, los de incentivo son de placer. Utilizado por la dirección de
+
+grandes    empresas     para   mejorar    el   rendimiento    de   sus   empleados,
+
+incentivándolos a ello con un viaje que puede ser individual o de grupo.
+
+   Fam trips: Los viajes de familiarización (fam trips) son viajes en los cuales
+
+periodistas, operadores turísticos o agencias de viajes viven la experiencia del
+
+destino turístico de primera mano. Los beneficios de esta práctica incluyen
+
+generar interés en el destino, que el mismo aparezca en los medios de
+
+comunicación, la construcción de relaciones y contactos, y la posibilidad de
+
+crear un interés en otro ángulo de la historia o el destino turístico.
+
+
+Turismo científico
+
+
+   El turismo científico es una modalidad de turismo cuya motivación es el
+
+interés en la ciencia o la necesidad de realizar estudios e investigaciones
+
+científicas en lugares especiales como estaciones biológicas o yacimientos
+
+arqueológicos.
+
+   En ocasiones existe la necesidad de viajar para observar in situ alguna
+
+realidad que es objeto de estudio. El turismo científico se realiza de forma
+
+individual o en pequeños grupos para evitar alterar el objeto de estudio en un
+
+entorno natural.
+
+   El turismo científico para el público en general apareció por primera vez en
+
+países desarrollados, con el objeto de involucrar de una manera más directa y
+
+participativa a las personas en el conocimiento del mundo natural.
+
+
+
+                                                                                 32
+   Esta modalidad de turismo, busca ofrecer vacaciones orientadas a un mejor
+
+entendimiento de la naturaleza desde un punto de vista científico. Este turismo
+
+es muy buena fuente de beneficios económicos.
+
+   Ahora, en aras de una nueva visión de la ciencia desde la perspectiva de la
+
+socialización del conocimiento, nace el Turismo Científico Social orientada al
+
+fomento de una cultura turística y científica que permite conocer, compartir y
+
+valorar el origen, las costumbres, la sabiduría de un pueblo de forma creativa.
+
+Proporcional al desarrollo social y al beneficio que el turismo aporta al valuarte
+
+de una localidad.
+
+
+Turismo espacial
+
+
+Turismo espacialAnousheh Ansari, de origen iraní, fue la primera mujer turista
+
+en órbita y la cuarta del mundo.
+
+
+Comenzó a principios del siglo XXI realizado por personas muy ricas y
+
+valientes, los riesgos de perder la vida en un viaje al espacio son elevados. Los
+
+primeros viajes consistían en una estancia de 3 o más días en la Estación
+
+Espacial Internacional en la que realizaban fotografías del espacio y la Tierra,
+
+videos, conversaciones con personas en la estación, disfrutar de la ingravidez,
+
+colaborar con los tripulantes de la estación y también realización de pequeños
+
+experimentos. Varias empresas trabajan en la construcción de naves capaces
+
+de realizar vuelos suborbitales y orbitales, asi como en un hotel modulable para
+
+estancias más largas y asequibles que las actuales, valoradas en unos 21
+
+millones de dólares
+
+
+                                                                               33
+2.1.7. SERVICIOS TURÍSTICOS
+
+
+Tienen la consideración de servicios turísticos la prestación del:
+
+
+   Servicio de alojamiento, cuando se facilite hospedaje o estancia a los
+
+usuarios de servicios turísticos, con o sin prestación de otros servicios
+
+complementarios.
+
+
+   Servicio de alimentación, cuando se proporcione alimentos o bebidas
+
+para ser consumidas en el mismo establecimiento o en instalaciones ajenas.
+
+   Servicio de guía, cuando se preste servicios de guianza turística
+
+profesional, para interpretar el patrimonio natural y cultural de un lugar.
+
+   Servicio de acogida, cuando se brinde organización de eventos como
+
+reuniones, congresos, seminarios o convenciones.
+
+   Servicio de información, cuando se facilite información a usuarios de
+
+servicios turísticos sobre recursos turísticos, con o sin prestación de otros
+
+servicios complementarios.
+
+   Servicio de intermediación, cuando en la prestación de cualquier tipo de
+
+servicio turístico susceptible de ser demandado por un usuario, intervienen
+
+personas como medio para facilitarlos.
+
+   Servicios de consultoría turística, esta dado por especialistas licenciados
+
+en el sector turismo para realizar la labor de consultoría turística. Alguno de los
+
+más importantes incluyen a CBRE, Jones Lang o PHG Hotels & Resorts.
+
+
+
+
+                                                                                34
+2.1.8. INFORMACIÓN TURÍSTICA
+
+
+La información turística es el conjunto de servicios que se ofrecen al turista con
+
+el objetivo de informarle, orientarle, facilitarle y atenderle durante su viaje o
+
+estancia vacacional en oficinas de información turística a través de
+
+informadores turísticos o guías, intérpretes, correos de turismo, acompañantes
+
+de grupo, videotex, etc.
+
+
+La definición incluye aquellos servicios públicos dependientes por regla general
+
+de organismos públicos o instituciones que tienen como misión informar facilitar
+
+y orientar al turista durante su estancia vacacional o viajes facilitando
+
+gratuitamente información.
+
+
+Servicios de acogida
+
+
+   Áreas de servicio. Este servicio consiste en recibir a algún turista en su
+
+casa o cualquier otro lugar ofreciéndole sin coste algunos de los servicios que
+
+se ofrecen en un hotel como lo son la alimentación, el hospedaje etc.
+
+
+   Áreas de servicio para autocaravanas. Son puntos de vaciado ecológico de
+
+las aguas residuales de estos vehículos así como para el suministro de agua
+
+potable de los mismos. Dado que la actividad principal de estos vehículos y de
+
+sus usuarios es viajar habitando, el nuevo código de circulación de vehículos de
+
+motor lo define como tal, vehículo vivienda, que, en su afán itinerante, utiliza
+
+habitualmente las infraestructuras viarias.
+
+
+
+
+                                                                               35
+2.1.9. EMPRESAS TURÍSTICAS
+
+
+Son aquellas relacionadas con el turismo. Hay dos grandes bloques las que
+
+producen bienes y servicios (productoras), y las que los distribuyen
+
+(distribuidoras).
+
+
+La hotelería es la rama del turismo que presta el servicio del alojamiento al
+
+turista. Este puede tener diversas clasificaciones, según el confort y el lugar
+
+donde se encuentren. Cada instalación hotelera tiene sus propias cualidades.
+
+
+Los establecimientos hoteleros se dividen en:
+
+
+   Hoteles: establecimientos que, ofreciendo alojamiento con o sin comedor y
+
+otros servicios complementarios, ocupan la totalidad de uno o varios edificios (o
+
+una parte independizada de ellos) constituyendo sus dependencias todo un
+
+homogéneo con accesos, escaleras y ascensores de uso exclusivo y que reúna
+
+los requisitos técnicos mínimos para cada categoría. Se clasifican en 1 estrella
+
+o categoría básica, 2, 3, 4, 4 superior, 5 estrellas y Gran lujo.
+
+   Pensiones: establecimientos que, ofreciendo alojamiento con o sin
+
+comedor y otros servicios complementarios, tienen una estructura y
+
+características que les impide alcanzar los requisitos y condiciones exigidas en
+
+los hoteles.
+
+
+Otros establecimientos destinados al alojamiento turístico son:
+
+
+
+
+                                                                               36
+   Apartamentos turísticos: son bloques de apartamentos, casas, bungalows
+
+y demás edificaciones similares que, disponiendo de las necesarias
+
+instalaciones y servicios. Se clasifican por categorías en 1, 2, 3 y 4 llaves.
+
+
+   Ciudades de vacaciones: son que debido a su situación física,
+
+instalaciones y servicios, permiten al usuario la vida al aire libre, el contacto con
+
+la naturaleza y la práctica del deporte en espacios abiertos, facilitándole
+
+hospedaje mediante contraprestación económica. Se clasifican en 1, 2 y 3
+
+estrellas.
+
+
+   Campings: el camping es un terreno debidamente delimitado, dotado y
+
+acondicionado para la ocupación temporal por personas que pretendan hacer
+
+vida al aire libre con fines vacacionales o de ocio y que pasen las noches en
+
+tiendas de campaña (acampada), remolques, caravanas u otros elementos
+
+similares fácilmente transportables. Sus instalaciones pueden tener carácter de
+
+residencia permanente desde el punto de vista constructivo aunque la
+
+Administración puede autorizar construcciones fijas si son destinadas a
+
+alojamiento    temporal,    siempre    y      cuando   se   encuentren   instalaciones
+
+independientes y no superen el 25% de las plazas total del camping. Se
+
+clasifican en: lujo, 1ª, 2ª y 3ª categoría.
+
+
+   Time sharing: se trata de alojamiento en régimen de aprovechamiento por
+
+turnos. Se entiende aquel que atribuye a su titular la facultad de disfrutar con
+
+carácter exclusivo durante un período concreto de cada año. Dicha facultad no
+
+permite al titular alteraciones en el apartamento ni en el mobiliario.
+
+
+                                                                                   37
+   Establecimientos de turismo rural: edificaciones ubicadas en el medio
+
+rural que, reuniendo características rurales de construcción, antigüedad y
+
+tipicidad y desarrollando o no actividades agropecuarias, prestan servicios de
+
+alojamiento turístico mediante contraprestación económica. Tienen diversas
+
+clasificaciones locales.
+
+
+   Viviendas     vacacionales:    unidades    de    alojamiento    aisladas   en
+
+apartamentos, bungalows, viviendas uniformes y en general cualquier vivienda
+
+ofrecida por motivos vacacionales mediante contraprestación económica. En
+
+todo caso se referirá al alojamiento del piso completo, pero nunca por
+
+habitaciones.
+
+
+   Balnearios: empresas de Aguas Termales, minerales, de manantial, así
+
+como los centros de talasoterapia, siempre y cuando dispongan de
+
+instalaciones turísticas complementarias.
+
+
+   Consultoras hoteleras: empresas que asesoran a los propietarios de
+
+establecimientos hoteleros (propietarios individuales, fondos de inversión, family
+
+offices, etc.) en la puesta en valor de este tipo de activos. Estas empresas
+
+pueden asesorar en la búsqueda de operador hotelero, búsqueda de inversor,
+
+etc. Ejemplo: CBRE, Jones Lang, PHG Hotels & Resorts, entre otras.
+
+
+Restauración
+
+
+Son establecimientos de restauración aquellos cuya actividad principal es la de
+
+suministrar habitualmente y mediante precio alimentos y bebidas para su
+
+
+                                                                               38
+consumo dentro o fuera del local. Aunque estos establecimientos son
+
+considerados de utilización pública podrán sus propietarios establecer normas o
+
+consideraciones sobre el curso de sus servicios e instalaciones.
+
+
+Los establecimientos de restauración se dividen en dos tipos:
+
+
+     Alimentación comercial: es aquella cuya clientela no es cautiva
+
+encontrándose alternativas a su disposición. Éstas se dividen a su vez en:
+
+o    Tradicional: relacionadas con las tradiciones y costumbres gastronómicas
+
+de     la   zona   (marisquerías,   pulperías,   parrilladas,   raxerías,   arrocerías,
+
+jamonerías, bares de tapas, cervecerías, sidrerías, …). También un chino y una
+
+pizzería se consideran también tradicionales en cuanto al modo de gestionarlo.
+
+o    Neoalimentación: establecimientos de restauración que responden a
+
+innovaciones culinarias (cocina de autor) y medios de gestión novedosos. (Mc.
+
+Donald´s, máquinas de vending,…).
+
+     Alimentación social: es aquella cuya clientela, por su condición de
+
+colectividad, es cautiva, o que en su mayoría lo acaban siendo (grandes
+
+superficies    comerciales,   autopistas,    estaciones    de    tren,   de   servicio,
+
+aeropuertos, los colegios,…). Se caracteriza porque reduce el precio a costa de
+
+disminuir la oferta. Este tipo de restauración cubre los costes fijos con una
+
+clientela habitual.
+
+
+Los establecimientos principales de alimentación son:
+
+
+     Restaurante: dispone de cocina y comedor con el fin de ofrecer comidas
+
+y/o cenas mediante precio para ser consumidas en el mismo local. Se clasifican
+                                                                                    39
+en: 5,4,3,2 y 1 tenedor. Aquellos que reúnen especiales características de
+
+edificación, antigüedad y localización geográfica, fijadas en las disposiciones
+
+que se establecen, podrán usar (previa autorización administrativa) la
+
+denominación de “casas de comidas”.
+
+
+   Cafetería: establecimiento que en una misma unidad espacial dispone de
+
+barra y servicios de mesa, careciendo de comedor, con el fin de ofrecer al
+
+público mediante precio y a cualquier hora del horario de apertura: helados,
+
+refrescos, bebidas en general, tapas frías o calientes, bocadillos y platos
+
+combinados/simples de elaboración sencilla y rápida en frío o a la plancha. Se
+
+clasifican en: 3, 2 o 1 taza.
+
+
+   Bar: establecimiento que dispone de barra y que, careciendo de comedor,
+
+también puede disponer de servicio de mesa en la misma unidad espacial con
+
+el fin de proporcionar al público bebidas acompañadas o no de tapas y
+
+bocadillos, y como máximo de 1 plato del día. Aquellos que reúnen
+
+características especiales (reconocidas por la administración) de edificación,
+
+antigüedad y localización geográfica, podrán usar la denominación de
+
+“tabernas”.
+
+
+Transporte
+
+
+Son compañías de transporte aquellas destinadas a trasladar o transportar
+
+viajeros de un punto a otro. Se clasifican en:
+
+
+   Transporte aéreo (líneas regulares y charter)
+
+
+                                                                            40
+   Transporte terrestre (autocar, tren, Automóvil y alquileres de automóviles)
+
+   Transporte marítimo (líneas regulares y cruceros)
+
+
+Agencias de viajes: Las empresas distribuidoras de bienes y servicios turísticos
+
+son aquellas que, en posesión de un título o licencia, ejercen actividades de
+
+intermediación turística.
+
+
+Las agencias se clasifican en 3 grupos:
+
+
+   Mayoristas: proyectan, elaboran y organizan toda clase de servicios y
+
+paquetes turísticos para venderlos a otras agencias, no pudiendo ofrecer ni
+
+vender sus servicios directamente al público.
+
+   Minoristas: comercializan los productos elaborados por las mayoristas o
+
+los suyos propios directamente al consumidor, no pudiendo en ningún caso
+
+ofrecer sus productos a otras agencias.
+
+   Mayoristas-minoristas: son empresas que, disponiendo de las dos
+
+licencias, pueden elaborar y vender paquetes turísticos a otras empresas y al
+
+público en general dependiendo de la reglamentación del país.
+
+   Agencias operadoras: Aquella que proyecta, elabora, diseña, organiza y
+
+opera sus productos y servicios dentro del territorio nacional, para ser ofrecidos
+
+y vendidos a través de las agencias mayoristas y minoristas, pudiendo también
+
+ofrecerlos y venderlos directamente al turista.
+
+
+Las agencias de viajes también se pueden clasificar en emisoras y receptoras.
+
+
+   Emisoras: las que envían viajeros a otros lugares,
+
+
+                                                                                  41
+   Receptoras: las que reciben y acogen a los turistas procedentes del
+
+exterior.
+
+   Emisoras-receptoras: realizan ambas funciones.
+
+
+Otras empresas relacionadas
+
+
+Hay otras muchas empresas relacionadas con el turismo directa o
+
+indirectamente como las de ocio (cines, discotecas, espectáculos), empresas de
+
+equipamiento de hostelería, lavanderías, artículos de viaje, publicaciones
+
+especializadas, etc.
+
+
+Organizaciones internacionales relacionadas con el turismo
+
+
+   Organización Mundial del Turismo (OMT). Su objetivo es promover el
+
+desarrollo económico, social y cultural del turismo y los viajes a nivel mundial.
+
+Cooperación entre países. Elaborar datos estadísticos. Asesora de la ONU.
+
+Sede en Madrid.
+
+   Organización de Aviación Civil Internacional (OACI). Promueve la aviación
+
+civil a escala mundial y establece las normas internacionales que la rigen. Sede
+
+en Montreal
+
+   Asociación Internacional de Transporte Aéreo (IATA). De carácter privado,
+
+forman parte de ella cualquier compañía aérea que tenga de su gobierno
+
+autorización para operar de forma regular. Establece cooperación entre
+
+compañías en cuanto a servicios, liquidación de billetes, interviene y regula el
+
+tráfico aéreo, establece códigos de compañías aéreas, aeropuertos, billetes,
+
+
+
+                                                                              42
+actúa en el campo de la seguridad y participa en negociaciones entre
+
+gobiernos. Sede en Ginebra y Montreal.
+
+   Unión Internacional de Ferrocarriles (UIC). Es la asociación mundial para la
+
+cooperación entre los principales actores del sector ferroviario internacional.
+
+Sede en París.
+
+   Unión Internacional de Transporte por Carretera (IRU). Es la organización
+
+mundial que defiende los intereses de los operadores de autobuses, taxis y
+
+camiones para asegurar el crecimiento económico y la prosperidad a través de
+
+la movilidad sostenible de personas y mercancías por carretera en todo el
+
+mundo. Sede en Ginebra
+
+   Federación Universal de Asociaciones de Agencias de Viajes (FUAAV).
+
+Conformada por las Asociaciones Nacionales de Agencias de Viajes de casi
+
+100 países. Sede en Mónaco.
+
+   Unión de Federaciones de Asociaciones de Agencias de Viajes (UFTAA).
+
+Es un organismo mundial que representa la industria de las agencias de viajes y
+
+de turismo. Sede en Bruselas.
+
+   Asociación Internacional de Congresos y Convenciones (ICCA). Comunidad
+
+mundial para la industria de reuniones y eventos, que permite a sus miembros
+
+generar y mantener una ventaja competitiva significativa en el mercado. Sede
+
+en Ámsterdam.
+
+   Asociación Internacional de Hoteles y Restaurantes (IH&RA). Asociación
+
+que representa los intereses colectivos de la industria hotelera y de restauración
+
+ante los principales organismos internacionales. Sede en Londres.
+
+   International Youth Hostel Federation (IYHF). Sede en el Reino Unido.
+                                                                               43
+2.1.10. EFECTOS DEL TURISMO
+
+
+Efectos económicos
+
+
+Son muy relevantes debido al nivel de negocio que representa. Según la OMT
+
+el volumen de sector turístico en el 2003 ya representaba aproximadamente el
+
+6% de las exportaciones mundiales de bienes y servicios; Esta cifra
+
+representaba el 30% de la exportación de servicios. Estos flujos económicos
+
+debidos al turismo afectan tanto en términos macroeconómicos como
+
+microeconómicos tanto en las zonas emisoras como en las receptoras (aunque
+
+especialmente en éstas). Las repercusiones económicas del turismo se pueden
+
+clasificar en las siguientes:
+
+
+Dependencia de la situación económica general
+
+
+La demanda turística depende sobre todo de la fuerte situación económica de
+
+los países avanzados. Cuando la economía crece también normalmente crece
+
+el dinero disponible de la población. Y una parte importante de este dinero
+
+disponible por la población se gasta en el turismo, particularmente en las
+
+economías en desarrollo. Una retracción económica normalmente reduce el
+
+gasto turístico.
+
+
+En general el crecimiento de los desplazamientos turísticos sigue claramente
+
+las tendencias de crecimiento económico medidas por el PIB. Los años en que
+
+el crecimiento económico mundial excede el 4%, el crecimiento del volumen
+
+turístico tiende a ser mayor y los años en los que elPIB el turismo crece incluso
+
+
+                                                                              44
+menos. En el periodo 1975-2000 el turismo se incrementó una media de un
+
+4,6% anual.
+
+
+Empleo
+
+
+El turismo requiere una considerable mano de obra y, sobre todo, el mantener
+
+una reserva de trabajadores especializados. El sector turístico ocupa alrededor
+
+de un 10% de la población activa del mundo, no solo en empleo directo sino
+
+también en indirecto. El problema que plantea el turismo con respecto al empleo
+
+es la fuerte estacionalidad, pues un gran número de puestos de trabajo se
+
+crean en temporada alta. También el volumen turístico depende en gran medida
+
+de la situación macroeconómica. Además este empleo presenta unas
+
+condiciones particulares. Por ejemplo en España, en según el INE en el 2004 el
+
+sector turístico en relación con la media de área de servicios tenía un salario
+
+medio inferior, una estabilidad de empleo menor y una participación mayor de la
+
+mujer. También este tipo de empleo constituye una parte más importante de los
+
+gastos empresariales (con una tasa del 64,7) y la menor tasa de valor añadido
+
+(43,7). Tanta es la importancia actual del turismo que en varios países existe la
+
+carrera universitaria y estudios de posgrado dedicados al turismo.
+
+
+Producción
+
+
+El turismo supone en los países eminentemente turísticos un peso específico
+
+elevado en su PIB, por ejemplo en España según el INE representó un 11% del
+
+PIB en 2004 con una facturación de 91.988'7 millones de euros, de los cuales el
+
+
+
+                                                                              45
+41.346'3 millones (un 4'9 % del PIB) corresponden a lo que se denomina
+
+turismo receptor (de origen internacional).
+
+
+Presión inflacionista
+
+
+Al incrementarse los precios en la temporada alta en los núcleos receptores,
+
+automáticamente afecta a toda la población de la zona. Hay una oferta
+
+monetaria excesiva, por lo que la demanda está dispuesta a pagar más por los
+
+alquileres, salarios, etc.
+
+
+Distribución de la renta
+
+
+El turismo tiene un efecto multiplicador y equilibrador en los países
+
+desarrollados, puesto que al generar empleo disminuye en cierta medida las
+
+diferencias económicas entre la población.
+
+
+Tasa de cambio
+
+
+El valor internacional del mercado de divisas tiene una incidencia directa sobre
+
+el turismo, pues una bajada o subida de las diferentes divisas repercute positiva
+
+o negativamente en el número de turistas en las distintas zonas. Por otra parte
+
+cuantos más turistas entran más sube la moneda local del país repercutiendo
+
+de esta manera en el mercado de divisas.
+
+
+Sobre la balanza de pagos
+
+
+Los países receptores exportan turismo porque, aunque en realidad lo reciben,
+
+se trata de un producto de exportación solo que consumido en el lugar de
+                                                                              46
+producción. Los ingresos por turismo aumentan en relación a los pagos, por lo
+
+tanto la balanza se ve beneficiada. Además tiene un efecto positivo en las
+
+exportaciones de otros bienes, pues promociona los productos locales a través
+
+de los turistas que los han conocido in situ.
+
+
+Inversiones públicas
+
+
+El desarrollo de las zonas turísticas crea inversiones por parte de las
+
+Administraciones Públicas en infraestructuras (aeropuertos, carreteras,…) para
+
+adecuar la oferta turística a la demanda. Además se embellecen y mejoran las
+
+ciudades (parques, limpieza,...)para que sean agradables para el turista. Todo
+
+ello no hace sino mejorar la vida del ciudadano y la estancia del turista en el
+
+lugar de destino.
+
+
+Efectos culturales
+
+
+El turismo pone en contacto a diferentes culturas: la local o receptora con la
+
+foránea o emisora. Esto supone un intercambio de pautas de conducta, formas
+
+de vida, hábitos de diversa índole (gastronómicos, lingüísticos, estéticos,…).
+
+Este efecto, aunque positivo en ocasiones, puede llegar a ser perjudicial para la
+
+población autóctona, ya que pueden perder su identidad al intentar adaptarse a
+
+los gustos y tradiciones del visitante (por ejemplo la artesanía de los Massai en
+
+Kenia cambió sus colores tradicionales adaptándose al gusto del turista). Entre
+
+los efectos culturales del turismo destacan los siguientes:
+
+
+
+
+                                                                              47
+Aculturación
+
+
+El modelo de aculturación puede aplicarse al contacto entre turistas y
+
+anfitriones. Este módelo explica que cuando dos culturas entran en contacto
+
+cada una de las dos tiende a asemejarse en parte a la otra mediante un
+
+proceso de préstamo. En el caso del turismo es carácteristico que este proceso
+
+de préstamo sea asimétrico. Los turistas tienen menos probabilidades de tomar
+
+determinado elementos de sus anfitriones. Esto provoca una cadena de
+
+transformaciones en la comunidad de la zona turística para convertirse en algo
+
+cada vez más parecido a la cultura de los turistas. Durante esta interacción el
+
+turista a menudo altera su conducta cuando esta lejos de su país y sus
+
+anfitriones aprenderán a menudo una serie de papeles destinados a encajar
+
+con los gustos de los visitantes. El turista a menudo desea enriquecer todo lo
+
+posible su viaje y su tiempo de ocio. Los motivos del turista se reflejarán sus
+
+expectativas y en su conducta en la zona turística.
+
+
+Efectos sociopolíticos
+
+
+El turismo es una actividad económica más, por lo que debe existir un control
+
+público en materia de fiscalidad, seguridad, etc.
+
+
+   Desarrollo turístico: el desarrollo del turismo en gran escala requiere con
+
+frecuencia la participación del gobierno central que es el único dotado del poder
+
+necesario para mejorar la competitividad a nivel internacional por la popularidad
+
+turística para lo que a menudo ha de ofrecer concesiones importantes. Además
+
+
+
+                                                                              48
+son los únicos capaces de obtener asignaciones turísticas de los fondos de la
+
+ONU o de otros gobiernos.
+
+   Control en materia de legislación: se crean leyes que regulan las
+
+actividades turísticas, especialmente en materia de sanidad, fiscalidad, etc.
+
+   Control monetario del capital que entra y sale del país.
+
+   Control sanitario: se controlan las vacunas que se precisan para visitar
+
+ciertos países, así como las que se les exigen a ciudadanos procedentes de
+
+país de riesgo.
+
+   Medidas de protección del ambiente: actualmente la conciencia
+
+económica de los gobiernos ha llevado a una protección continua del medio
+
+porque la naturaleza es la materia prima del turismo y si no se cuida afectará
+
+negativamente al turismo futuro. Las Administraciones Públicas suelen
+
+desarrollar políticas de sostenibilidad que velen por una planificación ordenada
+
+que respete la cadena ecológica.
+
+
+También hay otro tipo de efectos sociopolíticos no relacionados exclusivamente
+
+con el control de las administraciones públicas.
+
+
+   Efectos tecnológicos: aquellas sociedades receptoras de flujos turísticos
+
+se benefician en general de todos los avances de la tecnología al ser solicitada
+
+por los visitantes.
+
+   Efectos políticos: el turísmo puede influir en cierta medida en la política de
+
+un país pues su mala imagen internacional puede afectar los flujos turísticos.
+
+   Efectos sociales: la llegada masiva de turistas puede generar rechazos a
+
+ciertas culturas o razas.
+                                                                                 49
+   Efectos ambientales: el desarrollo turístico ha traído fuertes impactos en el
+
+medioambiente como la contaminación de ríos, acústica, estética. Aunque entre
+
+los impactos más importantes cabe citar la pérdida de la diversidad biológica y
+
+la limitación de recursos naturales sobre los cuales se asienta la actividad
+
+turística. Esta sobreexplotación de recursos se ha incrementado en los últimos
+
+años a niveles no sostenibles. El turismo no puede funcionar sin los recursos
+
+naturales básicos sobre los que se asienta ya que su propia degradación
+
+ambiental incide directamente sobre su oferta y puede poner en peligro la
+
+misma actividad turística en si. Por todo ello diversos organismos y
+
+convenciones (Agenda 21, ONU) en los últimos años han tomado conciencia de
+
+la importancia de la conservación del entorno natural para aplicar no solo al
+
+sector turístico sino a todos los ámbitos sociales para alcanzar un desarrollo
+
+sustentable.
+
+
+2.1.11 COMERCIO ELECTRONICO
+
+
+El comercio electrónico, también conocido como e-commerce (electronic
+
+commerce en inglés), consiste en la compra y venta de productos o de servicios
+
+a través de medios electrónicos, tales como Internet y otras redes informáticas.
+
+Originalmente el término se aplicaba a la realización de transacciones mediante
+
+medios electrónicos tales como el Intercambio electrónico de datos, sin
+
+embargo con el advenimiento de la Internet y la World Wide Web a mediados
+
+de los años 90 comenzó a referirse principalmente a la venta de bienes y
+
+servicios a través de Internet, usando como forma de pago medios electrónicos,
+
+tales como las tarjetas de crédito.
+                                                                              50
+La cantidad de comercio llevada a cabo electrónicamente ha crecido de manera
+
+extraordinaria debido a Internet. Una gran variedad de comercio se realiza de
+
+esta manera, estimulando la creación y utilización de innovaciones como la
+
+transferencia de fondos electrónica, la administración de cadenas de suministro,
+
+el marketing en Internet, el procesamiento de transacciones en línea (OLTP), el
+
+intercambio electrónico de datos (EDI), los sistemas de administración del
+
+inventario y los sistemas automatizados de recolección de datos.
+
+
+
+
+Fuente: (Pressman, R., 2002, 523)
+
+
+
+
+El E-Commerce es dividido en dos categorías: Business-to-Consumer o
+
+comercio de negocio-a-consumidor y Business-to-Business commerce.
+
+
+
+
+                                                                             51
+2.2. MARCO CONCEPTUAL.
+
+
+
+GROUPWARE
+
+Elemento de software que permite la comunicación, cooperación y colaboración
+
+efectivas en un grupo de agentes activos distribuidos, trabajando de manera
+
+coordinada en una área común.
+
+REUNIÓN ELECTRÓNICA
+
+Son sistemas que ofrecen ambientes especiales de hardware y software, para
+
+apoyar reuniones, con el uso de estaciones de trabajo en red, o uso de
+
+pantallas a manera de pizarras computarizadas y equipos de audio y video.
+
+Típicamente estos sistemas incluyen asistencia en la preparación de la reunión,
+
+como herramientas de generación de ideas, organización y priorización de
+
+ideas propuestas y sistemas de apoyo a las decisiones.
+
+REVISIÓN DE PROYECTOS
+
+Reunión de los miembros del Jurado revisor de tesis, Director de tesis, Asesor
+
+de tesis y el ejecutor, con el propósito de realizar la revisión del proyecto de
+
+investigación y anotar las observaciones, sugerencias y recomendaciones.
+
+Además los responsables de la investigación tienen la posibilidad de sustentar
+
+el proyecto y responder a las observaciones.
+
+WEB
+
+Se utiliza el término Web para indicar el uso de las diversas herramientas de
+
+Internet es decir la red de redes, que interconecta varias redes de todo el
+
+mundo, ofreciendo sus servicios a millones de usuarios. Su gran auge ha
+
+facilitado su acceso y utilización por cualquier persona. En Internet podemos
+                                                                             52
+enviar mensajes, escuchar música, ver animaciones, crear un comercio virtual o
+
+tener acceso a información de casi cualquier tipo. El Worid Wide Web (WWW)
+
+es la principal herramienta consistente en un sistema de páginas con
+
+hipervínculos de texto e imágenes que permiten el desplazamiento de una a
+
+otra.
+
+WORKFLOW
+
+Los sistemas de flujo de trabajo constituyen ambientes que hacen posible la
+
+colaboración y cooperación para la automatización de procesos de trabajo.
+
+Cuando se realiza una tarea se lleva un proceso ordenado, al identificar este
+
+proceso se le puede considerar como el flujo de trabajo, identificando
+
+perfectamente los pasos seguidos se puede automatizar cualquier tarea.
+
+COMUNICACIÓN SÍNCRONA
+
+El intercambio de un mensaje es una operación atómica que exige la
+
+participación simultánea del emisor y el receptor. Comunicación que se realiza
+
+en la Web entre dos o más personas al mismo instante, pero pudiendo estar las
+
+personas en el mismo lugar o en lugares muy lejanos, un ejemplo clásico de
+
+este tipo de comunicación es el Chat.
+
+COMUNICACIÓN ASÍNCRONA
+
+El emisor puede enviar un mensaje sin bloquearse; el receptor lo puede recoger
+
+más tarde. Comunicación que se realiza en la Web entre dos o más personas
+
+pero en diferente tiempo, considera el envío y recepción de mensajes e incluso
+
+archivos completos de usuarios con una dirección de correo electrónico. Un
+
+ejemplo clásico de este tipo de comunicación es el correo electrónico.
+
+
+
+                                                                           53
+EDITOR MULTIUSUARIO
+
+Editor de texto similar a Microsoft Word u otro, con la característica especial de
+
+que varios usuarios pueden trabajar sobre un mismo documento, es decir tiene
+
+la capacidad de realizar la configuración del documento, escribir o modificar el
+
+documento, cambiar tipos de letras, etc. El cual puede estar instalado en una
+
+Intranet o en la Web.
+
+INTERNET
+
+Infraestructura de redes a escala mundial que se conecta a la vez a todo tipo
+
+de computadores. Desarrollado originariamente para los militares de Estados
+
+Unidos, después se utilizó para el gobierno, la investigación académica y
+
+comercial y para comunicaciones.
+
+
+
+
+                                                                               54
+         CAPITULO III
+
+METODOLOGIA DE INVESTIGACION Y LA
+    RECOLECCIÓN DE DATOS
+
+
+
+
+                                    55
+                               CAPITULO III
+
+
+     METODOLOGIA DE INVESTIGACION Y LA RECOLECCIÓN DE DATOS
+
+
+
+3.1. METODOLOGIA DE LA INVESTIGACION
+
+
+
+En el presente capitulo trata de la metodología utilizada en el proceso de la
+
+investigación dividido en el tipo de método que se ha utilizado en la
+
+investigación son el método deductivo, inductivo, basados desde tipo de
+
+investigación Experimental, en donde se tiene como población a los lugares
+
+turísticos, es decir a criterio del investigador; en cuanto a las técnicas de
+
+recolección de datos se aplicó observación directa del investigador con un
+
+conjunto de colaboradores.
+
+
+ -    Método deductivo.
+
+Parte de lo general a lo particular, puede afirmarse que va de arriba hacia
+
+abajo. En el que hacer científico. “De las acciones, principios y postulantes
+
+se obtienen derivaciones de aplicación práctica”. Es el método utilizado para
+
+formular el proyecto de investigación y para la obtención de los resultados de
+
+la investigación, referente al problema de rutas turísticas en la ciudad de
+
+Puno.
+
+ -    Método inductivo.
+
+ Se basa, particularmente “en la observación directa de los hechos, en la
+
+ experimentación de los fenómenos y en el estudio de las relaciones e
+
+ influencias mutuas que existen entre ellos. La primera operación analítica
+
+                                                                           56
+consiste en separar del conjunto, en disociar los actos simples o
+
+elementales para examinarlos individualmente”. El presente método se
+
+utilizó para desarrollar como es que influyen la selección de rutas turísticas
+
+en ahorrar tiempo y economía, para los turistas.
+
+
+3.2. TIPO DE ESTUDIO
+
+
+TIPO DE INVESTIGACIÓN
+El tipo de investigación es experimental ya que se implementa un entorno
+
+de software Groupware, el cual se experimenta en la población de la
+
+investigación y se evalúa los resultados que se obtiene en cuanto al costo,
+
+tiempo y efectividad de la revisiones de los proyectos de investigación y los
+
+borradores de tesis en la Escuela Profesional de Ingeniería de Sistemas de
+
+la Universidad Nacional del Altiplano.
+
+
+3.3. TÉCNICAS DE INVESTIGACIÓN
+
+
+3.3.1. Técnicas de recopilación de información
+
+
+Con la finalidad de obtener información necesaria para poder verificar las
+
+hipótesis planteadas, y de acuerdo con la delimitación de las variables e
+
+indicadores, se decidió emplear cuatro técnicas o pasos que los detallare a
+
+continuación: La presente investigación está compuesta por cuatro etapas,
+
+la primera se encuentra conformada por todo el proceso de selección de la
+
+rutas turísticas, según las zonas de turismo en la región de Puno, y según la
+
+afluencia del turismo en nuestra región, la   misma    que    debía   cumplir
+
+
+                                                                           57
+una serie de requisitos relacionados con las características geométricas,
+
+las características de cada zona de estudio; La segunda etapa corresponde
+
+al registro de datos de campo, observación directa e indirecta para lo cual
+
+se empleó el método manual mediante fichas elaboradas según las
+
+características de las informaciones del turismo en la región, obteniendo
+
+información de las agencias de turismo que existen en nuestra región, de
+
+esta manera facilite mi información necesaria para la obtención de las rutas
+
+turísticas y los respectivos paquetes turísticos, estos datos fueron
+
+necesarios para alimentar nuestra base de datos para realizar nuestro
+
+sistema web inteligente sobre rutas turísticas. El proceso de extracción de
+
+la información de campo a partir de las fichas impresas constituye la tercera
+
+etapa de este estudio. Cabe mencionar que toda la extracción de datos y
+
+demás    información     relevante,    como        por    ejemplo: rutas turísticas,
+
+paquetes turísticos, costo y tiempo,      etc. se realizó de manera manual.
+
+Adicionalmente a la extracción de datos, también fueron estimados algunos
+
+de los parámetros fundamentales, tales como los precios de cada ruta
+
+turística, y la facilidad para el cliente en la toma de decisiones. la cuarta
+
+etapa comprende implementación del prototipo del sistema web inteligente
+
+arquitectura   del   sistema,   la    aplicación     de    las   metodologías    de
+
+implementación del sistema y la pagina web inteligente.
+
+
+
+
+                                                                                 58
+3.3.2. CAMPO DE VERIFICACIÓN
+UBICACIÓN TEMPORAL
+La investigación corresponde al periodo comprendido entre Octubre de
+
+2012 a Marzo de 2013.
+
+
+3.3.3.ÁMBITO DE ESTUDIO
+POBLACION Y MUESTRA
+
+-Población
+La población asumida será los lugares turísticos del departamento de Puno
+
+y todas las agencias    de viajes que existen en este lugar incluido la
+
+Cámara de comercio de Puno debido a que este problema se presenta en
+
+estos lugares.
+
+-Muestra
+
+Para el caso de validación del sistema se planea la participación de los
+
+Administradores designados por la cámara de comercio y 10 instituciones
+
+de turismo. Para luego pasar a prototipar en diferentes Lugares del
+
+departamento. Tomando muestras de 2 lugares de agencias de viajes, que
+
+se tomaran en el momento de decisión.
+
+
+
+                 MUESTRA DE LA INVESTIGACIÓN
+             Población del proyecto      Nº       %
+             Administradores             5        33
+             Usuarios                    10       67
+             Total                       15      100
+             Fuente Elaboración Propia
+
+
+
+
+                                                                       59
+FACTORES DE CALIDAD DEL SOFTWARE
+
+Para verificar la calidad del software se plantea el uso de las criterios de
+
+calidad de software propuestos por ISO 9126, el cual “ha sido desarrollado
+
+en un intento de identificar los atributos claves de calidad para el software,
+
+el estándar identifica seis atributos claves de calidad: La funcionalidad, la
+
+confiabilidad, la usabilidad, la eficiencia, la facilidad de mantenimiento y la
+
+portabilidad” (Pressman, R., 2002, 326). Estos criterios ubicados en una
+
+escala nos muestran el nivel de calidad del entorno como instrumento para
+
+la prueba del software
+
+
+
+METODOLOGÍA DE DESARROLLO DE SOFTWARE
+
+Método de desarrollo
+
+El modelo que se plantea para el desarrollo del presente trabajo es el
+
+modelo en espiral, que utiliza el análisis, diseño, implementación y prueba
+
+del software, peor en forma progresiva y evolutiva. Este modelo “….
+
+Proporciona    el   potencial   para   el   desarrollo   rápido   de   versiones
+
+incrementales de software. En el modelo en espiral, el software se
+
+desarrolla en una serie de versiones incrementales. Durante las primeras
+
+iteraciones, la versión incremental podría ser un modelo en papel o un
+
+prototipo, durante las últimas iteraciones, se producen versiones cada vez
+
+más completas del sistema diseñado”. (Pressman, R., 2002, 24).
+
+
+
+
+                                                                             60
+Modelo en Espiral en aplicación
+
+
+
+El modelo se representa de la siguiente manera:
+
+
+
+
+En el gráfico podemos observar que en el desarrollo del modelo se cuenta
+
+con cuatro etapas bien definidas las cuelas son:
+
+1.-Planteamiento de Objetivos.
+
+Donde se identifican los objetivos específicos para cada fase del proyecto.
+
+Para el caso del proyecto, en el primer espiral se planteó los requisitos del
+
+sistema iniciales, los cuales se fueron refinando en las siguientes espirales
+
+de evolución, logrando finalmente conseguir los requisitos finales del
+
+sistema que son los que se consideran en el presente trabajo. El producto
+
+de este cuadrante de la metodología son los diagramas de casos de uso y
+
+
+
+                                                                          61
+los diagramas de interacción que sirven de base para el proceso de diseñó
+
+e implementación en un lenguaje de programación.
+
+
+
+2.-Identificación y reducción de riesgos.
+
+Los riesgos clave se identifican y analizan, y la información sirve para
+
+minimizar los riesgos.
+
+En el trabajo se consideran riesgos a los elementos que no permitan
+
+alcanzar el logro de los objetivos y cubrir las necesidades del sistema, de tal
+
+manera que no podamos lograr cubrir los requisitos mínimos enmarcados
+
+en la norma ISO 9126 que describe las características de calidad de
+
+software, como la usabilidad, funcionalidad, etc. Por lo tanto en cada espiral
+
+se realizó el análisis de estos riesgos, que en la última espiral no
+
+encontramos una amenaza grande al sistema y cumpliendo los requisitos
+
+del estándar de calidad.
+
+
+
+3.- Desarrollo y Validación.
+
+Se elige un modelo apropiado para la siguiente fase del desarrollo.
+
+El primer modelo que funcionó del sistema es uno en papel, que tuvo como
+
+centro el diseño de la base de datos y de los módulos funcionales que
+
+conformarían el sistema, en base a las consultas realizadas en las tablas se
+
+pudo verificar que el modelo estaba listo para pasar a una segunda etapa
+
+en la cual se implementaría la base de datos en un sistema manejador de
+
+bases de datos, para luego realizar el primer prototipo de software que
+
+cubría los requisitos básicos que fueron refinándose en las siguientes
+                                                                            62
+espirales del modelo, hasta que finalmente se tuvo el modelo final que no
+
+se considera de ninguna manera terminado, pero que ya cubre todos los
+
+requisitos previstos por los usuarios.
+
+
+
+4.-Planeación.
+
+Se revisa el proyecto y se trazan planes para la siguiente ronda del espiral.
+
+En este cuadrante se considera los diferentes planes considerados desde la
+
+espiral inicial hasta lograr la espiral final de desarrollo. En el primer espiral
+
+donde se concluyó las etapas de análisis y diseño iniciales con los
+
+requisitos del software y el primer modelo en papel que funciona se planificó
+
+el proceso para su implementación y verificación en una segunda espiral,
+
+donde se implementaría el modelo en software logrando el primer prototipo
+
+de software, este luego de las revisiones realizadas y la afinaciones en las
+
+tablas, los campos y las relaciones entre tablas para lograr las consultas
+
+que mostraran el producto del sistema se paso a otros niveles en las
+
+espirales logrando el producto final que fue puesto a prueba y evaluado por
+
+el usuario final.
+
+
+
+METODOLOGÍA
+
+Para el desarrollo del entorno Groupware se empleará            la Metodología
+
+Orientada a objetos, en donde        el dominio del problema se caracteriza
+
+mediante un conjunto de objetos con atributos y comportamientos
+
+específicos. Los objetos son manipulados mediante una colección de
+
+funciones llamadas métodos, operaciones o servicio, y se comunican entre
+                                                                              63
+ellos mediante un protocolo de mensajes. Los objetos se clasifican
+
+mediante clases y subclases”. (Presuman, R., 2002, 343). Para el proceso
+
+de análisis y diseño se utilizara del Lenguaje de Modelamiento Unificado
+
+(UML – Unified Modeling Languaje) con la herramienta Rational Software.
+
+
+
+
+                                                                      64
+          CAPITULO IV
+PROCESAMIENTO DE DATOS, EXPOSICION Y
+
+   ANALISIS DE LOS RESULTADOS
+
+
+
+
+                                       65
+                            CAPITULO IV
+
+   PROCESAMIENTO DE DATOS, EXPOSICION Y ANALISIS DE LOS
+
+                               RESULTADOS
+
+
+4.1. ANALISIS Y DISEÑO DEL ENTORNO DEL SISTEMA WEB
+INTELIGENTE
+
+
+4.1.1 ANÁLISIS DE REQUISITOS DEL SISTEMA
+
+
+El análisis de requisitos permitió determinar con claridad sobre lo que desea
+
+el usuario; identificando el problema, los actores, los procesos, los objetos y
+
+responsabilidades principales que realizan.
+
+Mediante Entrevistas y Observaciones Directas se identificó los siguientes
+
+Requisitos los cuales fueron validados por los involucrados del Sistema:
+
+
+A) REQUISITOS FUNCIONALES
+
+
+                    REQUISITO FUNCIONAL 01
+
+                 Tabla N° 01. Registrarse usuario
+   Funcionalidad 01 Registrarse usuario al sistema.
+
+   Descripción.        Permite registrarse nuevos usuario al sistema,
+                       podrá realizarlo cualquier tipo de usuario ya sea
+                       “CLIENTE”.
+   Importancia.        Vital
+
+   Comentario.         El usuario podrá registrarse libremente al sistema,
+                       en la le pedirá un usuario y contraseña para estar
+                       registrado en el sistemas.
+  Fuente: Elaboración propia
+
+
+                                                                            66
+                  REQUISITO FUNCIONAL 02
+
+                    Tabla N°. 02. Editar usuario
+ Funcionalidad 02        Editar usuario.
+
+ Descripción.            Permite al usuario editar su perfil.
+
+ Importancia.            Vital
+
+ Comentario.             El usuario podrá editar su perfil, ya sea nombres
+
+                         y contraseña.
+
+Fuente: Elaboración propia
+
+
+                      REQUISITO FUNCIONAL 03
+
+                Tabla N°. 03. Eliminar usuario
+ Funcionalidad 03    Eliminar usuario.
+
+ Descripción.            Permite al usuario eliminar su cuenta.
+
+ Importancia.           Vital
+
+ Comentario.            El usuario podrá eliminar usuario su cuenta (el
+
+                        estudiante o docente que elimina su cuenta ya no
+
+                        podrá compartir publicaciones, examen, foros y
+
+                        videos).
+
+Fuente: Elaboración propia
+
+
+
+
+                                                                         67
+                      REQUISITO FUNCIONAL 04
+
+                Tabla N°. 04. Mostrar usuario
+ Funcionalidad 04    Mostrar usuario.
+
+ Descripción.             Permite al sistema mostrar al usuario.
+
+ Importancia.            Vital
+
+ Comentario.             El sistema muestra a todo los usuarios que se
+
+                         registraron.
+
+Fuente: Elaboración propia
+
+
+                 REQUISITO FUNCIONAL 05
+
+                     Tabla N° 05. Registra Rutas
+ Funcionalidad 05.       Registra Rutas
+
+ Descripción.            Permitirá registrar las rutas turísticas.
+
+ Importancia.            Vital
+
+ Comentario.             El administrador podrá crear rutas turísticas
+
+Fuente: Elaboración propia
+
+
+                 REQUISITO FUNCIONAL 06
+
+                Tabla N°06. Registra paquetes
+ Funcionalidad 06.    Registra paquetes.
+
+ Descripción.            Permite crear paquetes turísticos
+
+ Importancia.            Vital
+
+ Comentario.             El usuario podrá crear nuevas rutas turísticas.
+
+Fuente: Elaboración propia
+
+
+
+
+                                                                           68
+                 REQUISITO FUNCIONAL 07
+
+               Tabla N° 07. Búsqueda de rutas
+ Funcionalidad 07.   Búsqueda de rutas.
+
+ Descripción.         El cliente podrá realizar la búsqueda de rutas con
+
+                      información completa.
+
+ Importancia.         Vital
+
+ Comentario.          Se aplica algoritmos de búsqueda según diversos
+
+                      criterios.
+
+Fuente: Elaboración propia
+
+
+                  REQUISITO FUNCIONAL 08
+
+              Tabla N° 08. Selecciona paquetes
+ Funcionalidad 08.   Selecciona paquetes.
+
+ Descripción.         El cliente luego de realizar la búsqueda de los
+                      paquetes turísticos podrá seleccionar alguno o
+                      varios de ellos.
+ Importancia.         Vital
+ Comentario.          En base a un carrito de compras.
+
+Fuente: Elaboración propia
+
+
+                 REQUISITO FUNCIONAL 09
+
+               Tabla N° 09. Compra de paquetes
+ Funcionalidad 09.    Compra de paquetes.
+
+ Descripción.         Permitirá que el cliente compre un paquete
+                      seleccionado.
+ Importancia.         Vital
+
+ Comentario.          El cliente realiza la compra por diversos métodos
+                      de pago.
+Fuente: Elaboración propia
+
+                                                                       69
+                    REQUISITO FUNCIONAL 10
+
+                  Tabla N° 10. Verifica compras
+  Funcionalidad 10.    Verifica compras.
+
+  Descripción.           Permite al administrador verificar las compras
+
+                         realizadas y tener los paquetes listos para su
+
+                         atención.
+
+  Importancia.           Vital
+
+  Comentario.            El administrador continua el proceso de compra
+
+ Fuente: Elaboración propia
+
+
+B) REQUISITOS NO FUNCIONALES
+
+
+4.1.2 ANÁLISIS CASOS DE USO
+
+Los diagramas de casos de uso permitieron documentar el comportamiento
+
+del sistema desde el punto de vista del usuario. Por lo tanto los casos de
+
+uso determinaron los requisitos funcionales del sistema es decir,
+
+representan las funciones que un sistema puede ejecutar.
+
+Su principal ventaja es la facilidad para interpretarlos, lo que hace que sean
+
+especialmente útiles en la comunicación con los usuarios.
+
+A continuación se define los diagramas de casos de uso del sistema:
+
+
+
+
+                                                                           70
+             FIGURA N°02 . Diagrama de casos de uso del sistema
+
+
+
+
+Fuente: Elaboración propia
+
+
+              FIGURA N°03 Módulo administrar usuario
+
+
+
+
+Fuente: Elaboración propia
+
+                                                                  71
+En este módulo de administrar usuario, permite al usuario registrarse
+
+libremente como también puede realizar dichas operaciones, editar su perfil
+
+de usuario, eliminar su cuenta de usuario y mostrar al usuario, lo que hace
+
+es registrar al cliente.
+
+                FIGURA N°04 Módulo rutas turísticas
+
+
+
+
+Fuente: Elaboración propia
+
+En este modulo el cliente realiza la búsqueda de las rutas turísticas y lo
+
+selecciona por los paquetes turísticos más convenientes según las
+
+necesidades del cliente, el administrador del sistema cumple la función de
+
+registrar las rutas turísticas y los respectivos paquetes turísticos que ofrece
+
+las agencias de turismo según la cámara de comercio de Puno, este caso
+
+de uso cumple estas función según lo diseñado el sistema.
+
+
+
+
+                                                                            72
+                 FIGURA N°05 Módulo de compras
+
+
+
+
+Fuente: Elaboración propia
+
+
+En este caso de uso se puede observar la compra realizada por el cliente
+
+previa elección de los paquetes turísticos y sus respectivas rutas turísticas
+
+ofrecidas por el sistema, que satisfagan las necesidades respectivas del
+
+cliente, donde el administrador verifica la elección por parte del cliente. Este
+
+sistema permite la elección de la mejor ruta turística a menor costo y tiempo
+
+y mejor satisfacción del cliente.
+
+
+
+
+                                                                             73
+   ESPECIFICACIÓN DE CASOS DE USO
+
+   A continuación se especifican los casos de uso:
+
+
+                 Tabla N° 11. Especificación administrar cliente
+
+ Caso de Uso     Administrar cliente
+ Actores         Admin, cliente
+ Tipo            Primario
+ Referencia      RF01, RF02, RF03, RF04.
+ Precondicion    Admin, y cliente.
+ es
+ Descripción  Permite que el cliente y el administrador se registren, edite,
+              elimine, muestre.
+ Flujo Normal                  ACTOR                     SISTEMA
+ de            1 El cliente se registra, editar
+                  su perfil, eliminar su cuenta y
+ Eventos          mostrar cuenta.
+               2                                  Muestra Registrarse:
+                                                     Usuario
+
+
+                  3 Llena y entrega información
+                    solicitada.
+                  4                                     Muestra usuario
+                                                          registrado.
+                   5 Hace Cambios: editar perfil,
+                     elimina su cuenta y muestra
+                     cuenta.
+                   6                               Verifica y Valida Cambios.
+                   7                               Registra cambios.
+                   8                               Comunica los cambios
+                                                   realizados
+ Flujo Alterno                  ACTOR                        SISTEMA
+ de Eventos        1                                 No se puede realizar los
+                                                    cambios.
+ Poscondición Información registrado, editado, eliminado.
+Fuente: Elaboración propia.
+
+
+
+
+                                                                          74
+                          Tabla N° 12. Registro de usuario
+ Caso de Uso     Registro de usuario
+ Actores         Admin, cliente
+ Tipo            Primario
+ Referencia      RF01, RF02, RF03, RF04.
+ Precondicion    Admin, y cliente.
+ es
+ Descripción  Permite que el cliente y el administrador se registren, edite,
+              elimine, muestre.
+ Flujo Normal                  ACTOR                     SISTEMA
+ de            1 El cliente se registra, editar
+                  su perfil, eliminar su cuenta y
+ Eventos          mostrar cuenta.
+               2                                  Muestra Registrarse:
+                                                     Usuario
+
+
+                   3 Llena y entrega información
+                     solicitada.
+                   4                               Muestra             usuario
+                                                   registrado.
+                   5 Hace Cambios: editar perfil,
+                     elimina su cuenta y muestra
+                     cuenta.
+                   6                               Verifica y Valida Cambios.
+                   7                               Registra cambios.
+                   8                               Comunica los cambios
+                                                   realizados
+ Flujo Alterno                   ACTOR                       SISTEMA
+ de Eventos        1 No se puede realizar los
+                     cambios.
+ Poscondición Información registrado, editado, eliminado.
+Fuente: Elaboración propia.
+
+
+
+
+                                                                         75
+                             Tabla N° 13. Rutas turísticas
+ Caso de Uso      Módulo rutas turísticas
+ Actores          Admin, cliente
+ Tipo             Primario
+ Referencia       RF01, RF02, RF03, RF04.
+ Precondicion     Admin, y cliente.
+ es
+ Descripción  Permite que el cliente y el administrador se registren, edite,
+              elimine, muestre.
+ Flujo Normal                  ACTOR                       SISTEMA
+ de            1 El cliente escoge las rutas
+                  turísticas y paquetes turísticos,
+ Eventos          según la base de datos
+                  registrada.
+               2                                    Muestra rutas turísticas:
+                                                       Usuario
+
+
+                   3 Elige la ruta turística
+
+                   4                                 Muestra     ruta    turística
+                                                     escogido
+                   5 Hace Cambios: de rutas
+                     turísticas escogidas según los
+                     precios establecidos en los
+                     paquetes turísticos.
+                   6                                   Verifica y Valida Cambios.
+                   7                                   Registra cambios.
+                   8                                   Comunica los cambios
+                                                       realizados
+ Flujo Alterno                    ACTOR                          SISTEMA
+ de Eventos        1 Queda satisfecho con la No se puede realizar los
+                      elección de la ruta turística y cambios.
+                      su respectivo paquete turístico.
+ Poscondición Información registrado, editado, eliminado.
+Fuente: Elaboración propia.
+
+
+
+
+                                                                             76
+                         Tabla N° 14. Elige rutas turísticas
+ Caso de Uso     Realiza compras de paquetes
+ Actores         Admin, cliente
+ Tipo            Primario
+ Referencia      RF01, RF02, RF03, RF04.
+ Precondicion    Admin, y cliente.
+ es
+ Descripción  Permite que el cliente y el administrador verifique las condiciones
+              de compra de los paquetes turísticos.
+ Flujo Normal               ACTOR                            SISTEMA
+ de            1 El cliente elige y compra el
+                 paquete turístico.
+ Eventos       2                                   Muestra compra realizada:
+                                                       Usuario
+
+
+                  3 Realiza       la     transacción
+                    financiera.
+                  4                                    Muestra          la   compra
+                                                       realizada.
+                   5 Venta realizada del paquete
+                     turístico
+                   6                               Verifica y Valida la compra.
+                   7                               Registra compra.
+                   8                               Comunica       la     compra
+                                                   realizada     del    paquete
+                                                   turístico.
+ Flujo Alterno                  ACTOR                         SISTEMA
+ de Eventos        1                                No se puede realizar los
+                                                    cambios.
+ Poscondición Información registrado, editado, eliminado.
+Fuente: Elaboración propia.
+
+
+
+   4.1.3 DISEÑO DE SISTEMA
+
+   DIAGRAMA DE CLASES
+
+   Se diagrama las clases que han surgido, identificando las responsabilidades
+
+   que tienen asociadas, sus atributos, y las relaciones entre ellas.
+
+
+
+                                                                               77
+El diseño de las clases son la realización de los casos de uso y los
+
+requisitos, además de algunos aspectos como:
+
+•     Sus operaciones
+
+•     Sus atributos
+
+•     Las relaciones en las que participa
+
+
+
+
+                                                                  78
+    DISEÑO DE INTERFACES
+
+    4.2   IMPLEMENTACION      DEL   PROTOTIPO     DEL   SISTEMA   WEB
+
+    INTELIGENTE
+
+    ARQUITECTURA DEL SISTEMA
+
+    PANTALLAS DEL SISTEMA
+
+                     FIGURA N°06 Pantalla principal
+
+
+
+
+Fuente: Elaboración propia.
+
+
+
+
+                                                                   79
+                  FIGURA N°07 Pantalla de ubicación en el mundo
+
+
+
+
+Fuente: Elaboración propia.
+
+           FIGURA N°08 Mapa de ubicación de Puno en el mundo
+
+
+
+
+Fuente: Elaboración propia.
+
+                                                                  80
+                FIGURA N°09 Pantalla de registro de cliente
+
+
+
+
+Fuente: Elaboración propia.
+
+         FIGURA N°10 Pantalla que muestra los destinos turísticos
+
+
+
+
+Fuente: Elaboración propia.
+
+                                                                    81
+  FIGURA N°11 Pantalla de resultado de búsqueda de paquetes turísticos
+
+
+
+
+Fuente: Elaboración propia.
+
+          FIGURA N°12 Pantalla de compra de paquetes turísticos
+
+
+
+
+Fuente: Elaboración propia.
+                                                                         82
+  4.3 EVALUACIÓN DEL NIVEL DE OPTIMIZACIÓN EN                              LA
+  ADMINISTRACIÓN DE LA INFORMACIÓN DE RUTAS TURÍSTICAS.
+
+
+  Con los datos obtenidos en la encuesta realizada se puede concluir el nivel
+
+  de optimización en cuanto a la administración de información de rutas
+
+  turísticas, que el modelo web inteligente para el tratamiento de información
+
+  de comercio electrónico como instrumento facilitador de rutas turísticas en
+
+  la cámara de comercio de Puno,       es aceptable porque ayuda y facilita
+
+  información a los turistas nacionales y extranjeros que desean conocer
+
+  nuestra región, así lo demuestra el grado de aceptación de los
+
+  encuestados, que vieron en este instrumento de sistema web inteligente
+
+  como un gran apoyo para su mejor toma de decisiones en cuanto a la
+
+  elección de rutas turísticas con sus respectivos paquetes turísticos. Así lo
+
+  demuestran las encuestas realizadas, como se muestra en la figura N° 13.
+
+
+
+  FIGURA N°13 Automatización de requerimientos en usuarios y
+  administradores
+
+
+
+
+Fuente: Elaboracion propia
+
+                                                                           83
+El nivel de dificultad del sistema web inteligente es nulo ya que ha sido
+
+diseñado de manera intuitiva y practica para el usuario y como para el
+
+administrador, sin necesidad de uso de manuales instructivos.
+
+
+              FIGURA N°14 Nivel de dificultad del sistema web
+
+
+
+
+ Fuente: Elaboracion propia
+
+            FIGURA N°15 Nivel de rapidez y facilidad de registro
+
+
+
+
+ Fuente: Elaboracion propia
+
+
+                                                                      84
+Efectivamente tal como se muestra en la figura N° 15 el sistema Web
+
+inteligente facilita el nivel de registro y la rapidez con la que el cliente y
+
+administrador consulta y elabora rutas turísticas en la cámara de comercio de
+
+Puno.
+
+
+
+     FIGURA N°16 Nivel de rapidez de búsqueda de rutas turísticas
+
+
+
+
+     Fuente: Elaboracion propia
+
+  La presente figura nos corrobora la información brindada sobre el nivel de
+
+  rapidez de búsqueda de rutas turísticas a nivel de usuario y administración,
+
+  de esta manera concluimos que el sistema web inteligente nos facilitara a
+
+  tomar mejor las decisiones para satisfacer las necesidades del turista.
+
+
+
+
+                                                                            85
+                   FIGURA N°17 Errores del sistema
+
+
+
+
+ Fuente: Elaboracion propia
+
+Del total de encuestados un administrador considera que es posible
+
+mejorar el sistema, la mayoría considera que el sistema no tiene errores
+
+ya que es muy fácil su manejo y su uso conlleva al ahorro de tiempo en el
+
+diseño y consulta de rutas turísticas a nivel usuario y administrador.
+
+
+FIGURA N°18 Mejora del tratamiento de información de rutas turísticas
+
+
+
+
+  Fuente: Elaboracion propia
+
+                                                                         86
+          FIGURA N°19 Calificación de modelo Web inteligente
+
+
+
+
+  Fuente: Elaboracion propia
+
+Para el tratamiento de la presente pregunta hemos utilizado la escala de 01
+
+a 03 bajo y de 04 a 07 medio y de 08 a 10 un nivel alto, dando como
+
+resultado 12 de los usuarios encuestados califican con un nivel alto el
+
+modelo web inteligente implementado en la cámara de comercio de Puno.
+
+Esto nos conlleva a mejorar el nivel de información en cuanto a los lugares
+
+turísticos en nuestra región de Puno, para lo cual este instrumento
+
+facilitador de rutas turísticas será una mejor opción para el manejo de
+
+información de todo el paisaje turístico y de los diferente paquetes turísticos
+
+que se ofrecen en nuestra región de Puno.
+
+
+
+
+                                                                            87
+        CAPÍTULO V
+
+CONCLUSIONES Y RECOMENDACIONES
+
+
+
+
+                                 88
+                            CAPÍTULO V
+
+
+              CONCLUSIONES Y RECOMENDACIONES
+
+1.- Los resultados obtenidos en la presente investigación demuestran que la
+
+aplicabilidad de este sistema web inteligente en la cámara de comercio de
+
+Puno ayudara a solucionar problemas que se presentan hoy en día en el
+
+sector turismo en nuestra región, este sistema web inteligente ayudara a los
+
+turistas a dar mejor información sobre las rutas turísticas en nuestra región
+
+y ofrecer los diferentes paquetes turísticos que ofrecen las agencias de
+
+turismo en nuestra región, optimizando el nivel de organización de rutas
+
+turísticas de la región, mayor satisfacción al cliente.se recomienda la
+
+implementación inmediata según los resultados obtenidos de la presente
+
+investigación realizada en la zona turismo en nuestra región.
+
+2.- Al analizar y diseñar el entorno del sistema Web Inteligente, aplicando
+
+conceptos de Web 3.0, modelando la información turística con una
+
+ontología de datos para su representación en la Web. Permitirá dar con
+
+mucha claridad al turista sobre la información de rutas turísticas más
+
+rápidamente haciendo fácil su utilización y satisfacción, no requiriendo de
+
+manuales para su utilización según los resultados obtenidos en la presente
+
+investigación, por ser muy fácil su utilización.
+
+3.- Al implementar el prototipo del Sistema Web inteligente evaluando los
+
+niveles de comercio electrónico, se optimizara el nivel de comercio de
+
+paquetes turísticos y rutas turísticas en nuestra región, facilitando
+
+información al visitante a nuestra región, mostrándolo las diferentes zonas
+
+                                                                          89
+turísticas de la región de Puno. Este sistema web inteligente es de fácil uso
+
+para el cliente y acceso rápido y oportuno.
+
+4.- Al evaluar el nivel de optimización en la administración de la información
+
+de rutas turísticas en: calidad de información e Inteligencia de Búsqueda.
+
+Se pudo verificar que este sistema web inteligente ayudara de manera
+
+positiva en cuanto a lo referente de elección de rutas turísticas con sus
+
+respectivos paquetes turísticos que ofrece las diferentes agencias de
+
+turismo que existe en nuestra región, satisfaciendo al cliente en un tiempo
+
+oportuno, de esta manera la cámara de comercio de Puno debería de
+
+implementar este sistema web inteligente como instrumento facilitador de
+
+rutas turísticas en nuestra región.
+
+Finalmente, es necesario tener en cuenta que se deben analizar una
+
+cantidad mayor de información sobre el turismo en nuestra región para de
+
+ese modo enriquecer las conclusiones aquí presentadas. Así mismo, cabe
+
+mencionar que este estudio no abarca todas las rutas turísticas de nuestra
+
+región, motivos de economía pues demanda mayor gasto realizar este
+
+estudio en su conjunto, la presente investigación fue solventado los gastos
+
+a cuenta del investigador; por lo queda a cuenta de los futuros
+
+investigadores profundizar estos y otros aspectos que pudieran estar
+
+ausentes en el presente investigación, con esto finalizo mi investigación
+
+dando mi recomendación producto de mi investigación que debe de
+
+implementarse definitivamente este sistema web inteligente de comercio
+
+electrónico como un instrumento facilitador de rutas turísticas en nuestra
+
+región en la cámara de comercio de Puno,
+                                                                           90
+                                  BIBLIOGRÁFIA
+
+   Huidobro Moya, José Manuel: Redes y Servicios de Telecomunicaciones, España,
+
+Paraninfo - Thompson Learning, 2001.
+
+   Lara Carrero, Lorenzo: Comercio Electrónico: las fronteras de la ley, Venezuela,
+
+Cavecom-e/CANTV Servicios, 1999.
+
+   Guangwani Neetu, Garg Sangeeta, K.R. Jayanthy: eCommerce Development:
+
+BUsiness to Consumer, USA, Microsoft Mastering, 1999.
+
+   Ayala C. Groupware: Notas del Curso, Departamento de Ingeniería en Sistemas
+
+computacionales,    Universidad   de    las   Américas    Puebla    México,   2000.
+
+http://www.pue.udlap.mx/
+
+   Baecker, R.M. Reading in Groupware and Computer Suported Cooperative Work.
+
+Morgan Kaufmann Publishers, San Francisco Californaia, 1999.
+
+   Bostrom, R.P., Anson, R. And Clawson V. K. Group Facilitation and group support
+
+Systems. In. Jessup, L. Valacich, J.S. Group Support Systems – New Perspectives.
+
+MacMillan Pub, Co. 1993.
+
+   Booch, Grady [1996]. ANALISIS Y DISEÑO ORIENTADO A OBJETOS. Segunda
+
+Edición, Editorial Addison-Wesley/Diaz Santos Iberoamericana S.A. Estados Unidos
+
+de América.
+
+   Cabral, Juan y Garbini, Juan Carlos. “Mirando la Empresa con otra perspectiva”.
+
+Separata del primer evento Genexus Datawarehouse. Elaborado por HST. Sin mención
+
+del año de publicación
+
+   Checkland, Peter [1993]. PENSAMIENTO DE SISTEMAS, PRÁCTICA DE
+
+SISTEMAS. Primera Edición, Editorial Limusa, México. (versión autorizada en español
+
+de la obra: SYSTEM THINKING, SYSTEMS PRACTICE).
+
+
+
+
+                                                                                 91
+   Ellis. C.A., Gibbs S.J. y Rein G.L. Ingeniería para la Interacción Humana –
+
+Computadora. Morgan Kaufmann Publishers, San Francisco. 1996.
+
+   Ellis. C., Gibbs S. y Rein G. “Groupware, Some Sigues and Experiencies”.
+
+Comunications of the ACM, Vol 34, Nº 1, 1991.
+
+   Hernandez Sampieri, R, [1997] “Metodología de la Investigación”, Primera Edicion,
+
+Editorial Mc-Graw Hill. 486p.
+
+   Pressman, Roger S. [2001]. INGENIERIA DEL SOFTWARE, UN ENFOQUE
+
+PRACTICO. Editorial McGraw Hill Hispanoamericana S. A. España.
+
+   Senn, James A. [1999]. ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION.
+
+Segunda Edición. Editorial McGraw Hill Interamericana S.A. México.
+
+
+
+
+                                                                                  92
+ANEXOS
+
+
+
+
+         93
+                        ANEXO Nro. 1
+ENCUESTA SOBRE EL FUNCIONAMIENTO DEL MODELO WEB INTELIGENTE
+ PARA EL TRATAMIENTO DE INFORMACIÓN DE COMERCIO ELECTRONICO
+COMO INSTRUMENTO FACILITADOR DE RUTAS TURISTICAS EN LA CAMARA
+                    DE COMERCIO DE PUNO
+
+LUEGO DE HABER FINALIZADO EL DESARROLLO DEL MODELO WEB
+INTELIGENTE PARA EL TRATAMIENTO DE INFORMACIÓN DE COMERCIO
+ELECTRONICO COMO INSTRUMENTO FACILITADOR DE RUTAS TURISTICAS
+EN LA CAMARA DE COMERCIO DE PUNO, LE SOLICITAMOS RESPONDER A
+LAS SIGUIENTES PREGUNTAS PARA EVALUAR EL ALCANCE Y
+FUNCIONAMIENTO DEL MISMO.
+
+ENCUESTADO________________________________                                       FECHA___/___/___
+
+  1) ¿Considera que con el desarrollo del modelo web inteligente, se ha
+     automatizado todos los requerimientos que se desarrollan en la cámara de
+     comercio?
+
+     Si              No
+
+     Si su repuesta es NO, indique los requerimientos que faltan automatizar:
+
+     ---------------------------------------------------------------------------------------------------------
+     ---------------------------------------------------------------------------------------------------------
+     ---------------------------------------------------------------------------------------------
+
+  2) ¿Qué nivel de dificultad tiene el uso del sistema web?
+
+     Fácil           No Muy Fácil                        Difícil
+
+  3) ¿Considera que el modelo web inteligente le permite registrar información de
+     lugares y rutas turísticas con mayor rapidez y facilidad?
+
+     Si              No
+
+  4) ¿Considera que el modelo web inteligente le permite realizar la búsqueda de
+     rutas y paquetes turísticos con rapidez y facilidad?
+
+     Si              No
+
+     Si su repuesta es NO, indique el motivo
+
+     ---------------------------------------------------------------------------------------------------------
+     ---------------------------------------------------------------------------------------------------------
+     ---------------------------------------------------------------------------------------------
+                                                                                                       94
+5) ¿Cree usted que pude hacer uso del sistema sin revisar previamente el
+   manual del usuario?
+
+   Si               No
+
+
+
+6) ¿Considera que el nuevo sistema presenta errores?
+
+   Si               Mas o Menos                         No
+
+
+   Si su respuesta es SÍ ¿Cuáles son?
+
+   ---------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------
+
+7) Considera usted que con el nuevo modelo web inteligente se mejora el
+   tratamiento de la Información de rutas turísticas en Puno. ¿Por qué?
+
+   Si               Mas o Menos                         No
+
+   ---------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------------
+
+8) En la escala de 01 al 10. ¿Qué calificativo considera que merece el nuevo
+   modelo web inteligente?
+
+   ---------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------
+   ------------------------------------------------------------------------------------------------
+
+   Gracias por su tiempo.
+
+
+
+
+                                                                                                     95
+

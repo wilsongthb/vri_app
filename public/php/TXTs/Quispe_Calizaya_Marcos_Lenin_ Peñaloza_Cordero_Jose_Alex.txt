@@ -1,0 +1,3036 @@
+   UNIVERSIDAD NACIONAL DEL ALTIPLANO
+  FACULTAD DE INGENIERIA MECÁNICA ELÉCTRICA, ELECTRÓNICA Y SISTEMAS
+
+           ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+
+
+
+“MODELO DE ARBITRAJE SOPORTADO POR UN SISTEMA EXPERTO
+PARA MEJORAR LA GESTION DE INFORMACION Y VALIDACION DE LOS
+BENEFICIARIOS DEL PROGRAMA DE ASISTENCIA SOCIAL PENSION
+SESENTA Y CINCO EN LA MUNICIPALIDAD PROVINCIAL DE YUNGUYO”
+
+                               TESIS
+
+                       PRESENTADO POR:
+
+              MARCOS LENIN QUISPE CALISAYA
+
+               JOSE ALEX PEÑALOZA CORDERO
+
+          PARA OPTAR EL TÍTULO PROFESIONAL DE:
+
+                    INGENIERO DE SISTEMAS
+
+                          PUNO – PERU
+                             2014
+
+
+
+
+                                                                      1
+ÁREA: Informática
+TEMA: Sistemas de información tradicionales y expertos
+
+                                                         2
+                         DEDICATORIA
+
+
+Este pequeño trabajo que empezó desde la educación de mis padres
+hacia mi formación como ser humano: inicial, primaria, secundaria y
+superior lo dedico a mis padres y hermanos quienes tuvieron la gran
+responsabilidad de coayugar en mi formación profesional con
+pensamientos duros y firmes cuales son construir una patria digna,
+justa y grande.
+
+
+A mis padres:
+
+
+      Julio
+              Eugenia
+
+
+                   A mis hermanos:
+
+
+                         Lenin
+                                 Ronaldo
+                                      Roccio
+
+
+                                               A mi abuelo:
+
+
+                                                          Bonifacio
+
+
+
+
+                                                                  3
+                       AGRADECIMIENTO
+
+
+Quiero expresar mi más sincero agradecimiento a mis padres,
+hermanos y amigos por todo el apoyo que me brindaron
+durante el desarrollo de mi carrera profesional y enseñarme
+que la perseverancia y el esfuerzo son el camino para lograr
+objetivos de tal forma poder crear una patria digna, justa, y por
+supuesto demócrata.
+
+
+No puedo dejar de nombrar a todos mis docentes de la Escuela
+Profesional de Ingeniería de Sistemas por la orientación
+profesional que recibí a lo largo de estos años, especialmente
+a Elmer Coyla Idme, Feder Ponce, Adolfo Jiménez, Robert
+Romero, Henry Condori, Edgar Holguín, Ángel Olazábal,
+Edelfré Flores, etc.
+
+
+Asimismo, Lic. Walker Chalco Rondón (Alcalde de la Provincia
+de Yunguyo) por haberme brindado la oportunidad necesaria
+para tener acceso a toda la información necesaria para el
+desarrollo de esta tesis.
+
+
+A todos mi mayor reconocimiento y gratitud.
+
+
+
+
+                                                                4
+                INDICE
+
+                                                              Pág.
+CAPÍTULO I. PLANTEAMIENTO DEL PROBLEMA Y OBJETIVOS DE LA
+INVESTIGACION…………………………..……………………………………………13
+1.1 FORMULACIÓN Y DEFINICIÓN DEL PROBLEMA…………………………….13
+1.2 JUSTIFICACIÓN DE LA INVESTIGACIÓN………………………………………13
+1.3 OBJETIVOS………………………………………………………………………… 14
+       1.3.1 OBJETIVO GENERAL……………………………………………………14
+       1.3.2 OBJETIVOS ESPECÍFICOS…………………………………………….14
+1.4 LIMITES DE LA INVESTIGACIÓN………………………………………………..15
+1.5 HIPÓTESIS GENERAL…………………………………………………………….15
+       CAPÍTULO II. MARCO TEÓRICO……………………………………………..16
+2.1 ANTECEDENTES DE LA INVESTIGACIÓN…………………………………….16
+       2.1.1 TESIS: “PROTOTIPO DE SISTEMA EXPERTO PARA EL
+              DIAGNOSTICO DE FALLAS EN UNA RED DE AREA LOCAL”…...21
+       2.1.2 TESIS: “SISTEMA EXPERTO DE ORIENTACIÓN VOCACIONAL
+              PROFESIONAL”………………………………………………………… 21
+       2.1.3 TESIS: MODELADO DE SISTEMA EXPERTO EN SOFTWARE
+              BASADO EN MDE…………………………………………………….... 21
+       2.1.4 TESIS: METODOLOGÍA PARA EL DESARROLLO DE SISTEMAS
+              EXPERTOS………………………………………………………………22
+       2.1.5 TESIS: “SISTEMA EXPERTO AREA PARA LA PSICOLOGÍA
+              DEPORTIVA”…………………………………………………………….22
+2.2 INTELIGENCIA ARTIFICIAL………………………………………………………22
+       2.2.1 DEFINICIÓN………………………………………………………………22
+       2.2.2 LAS ÁREAS RELACIONADAS CON LA INTELIGENCIA
+              ARTIFICIAL……………………………………………………………... 23
+2.3 REPRESENTACIÓN DEL CONOCIMIENTO……………………………………23
+       2.3.1 MÉTODOS DE REPRESENTACIÓN DEL CONOCIMIENTO……….24
+       2.3.2 LAS REDES SEMÁNTICAS……………………………………………..25
+       2.3.3 LAS INFERENCIAS……………………………………………………… 27
+2.4 SISTEMAS EXPERTOS…………………………………………………………... 30
+       2.4.1 DEFINICIÓN DE UN SISTEMA EXPERTO……………………………30
+       2.4.2 LA ARQUITECTURA DE LOS SISTEMAS EXPERTOS……………..31
+       2.4.3 EL ELEMENTO HUMANO EN LOS SISTEMAS EXPERTOS……… 33
+       2.4.4 INGENIERÍA DEL CONOCIMIENTO………………………………….. 34
+        CAPÍTULO III. MATERIALES Y MÉTODOS………………………………..35
+3.1 TRABAJO EXPERIMENTAL……………………………………………………… 35
+       3.1.1 METODOLOGÍA DE LA INVESTIGACIÓN…………………………….35
+
+
+                                                                  5
+       3.1.2 DISEÑO DE LA INVESTIGACIÓN……………………………………...35
+       3.1.3 POBLACIÓN Y MUESTRA………………………………………………36
+3.2 SISTEMA DE VARIABLES………………………………………………………...37
+       3.2.1 DEFINICIÓN DE VARIABLES………………………………………….. 37
+       3.2.2 TÉCNICAS DE RECOLECCIÓN DE DATOS………………………….37
+3.3 MATERIAL EXPERIMENTAL……………………………………………………...38
+3.4 MÉTODOS EXPERIMENTALES…………………………………………………. 39
+       3.4.1 MÉTODO DE TRATAMIENTO DE DATOS…………………………… 39
+       3.4.2 PRUEBA DE HIPÓTESIS PARA DOS MUESTRAS
+       RELACIONADAS………………………………………………………………..40
+       CAPÍTULO IV.RESULTADOS Y DISCUSIÓN……………………………….42
+4.1 REQUERIMIENTOS DE PENSIÓN SESENTA Y CINCO……………………..42
+       4.1.1 ANÁLISIS DE REQUISITOS…………………………………………….42
+       4.1.2 DESARROLLO DEL MODELO LINEAL DE CICLO DE VIDA PARA
+       EL PROTOTIPO DE SISTEMA EXPERTO………………………………….. 42
+       4.1.3 DISEÑO DEL CONOCIMIENTO……………………………………….. 43
+       4.10.4 CÓDIGO Y VERIFICACIÓN………………………………………….. 52
+       4.10.5 VERIFICACIÓN DEL CONOCIMIENTO……………………………...53
+       4.10.6 EVALUACIÓN DEL SISTEMA………………………………………… 53
+4.11 PRUEBA DEL SISTEMA EXPERTO…………………………………………… 53
+       4.11.1 SITUACIÓN ACTUAL………………………………………………….. 53
+       4.11.2 SISTEMA PROPUESTO………………………………………………. 56
+4.11 REQUERIMIENTO DE MATERIALES Y EQUIPOS PARA EL
+FUNCIONAMIENTO DEL PROTOTIPO DE SISTEMA EXPERTO………………..58
+       4.11.1 HARDWARE……………………………………………………………. 58
+       4.11.2 SOFTWARE…………………………………………………………….. 58
+       4.12 PRUEBA DE HIPÓTESIS……………………………………………….. 59
+CAPÍTULO V. CONCLUSIONES………………………………………………………61
+CAPÍTULO VI. RECOMENDACIONES……………………………………………….63
+CAPÍTULO VII. GLOSARIO, BIBLIOGRAFÍA Y ANEXOS………………………….64
+7.1 GLOSARIO…………………………………………………………………………. 64
+7.2 BIBLIOGRAFÍA…………………………………………………………………….. 67
+       7.2.1 TEXTOS……………………………………………………………………66
+       7.2.2 DOCUMENTOS ELECTRÓNICOS……………………………………..69
+       7.2.3 TESIS……………………………………………………………………… 70
+       7.3 ANEXOS…………………………………………………………………….. 71
+
+
+
+
+                                                              6
+                       INDICE DE FIGURAS
+
+
+FIGURA N° 01: ÁREAS DE LA INTELIGENCIA ARTIFICIAL……………………...23
+FIGURA N° 02: ARQUITECTURA DE UN SISTEMA DE PRODUCCIÓN………..26
+FIGURA N° 03: MODELO DEL MOTOR DE INFERENCIA……………………..…27
+FIGURA N° 04: INFERENCIA: FORWARD CHAINING…………………………….29
+FIGURA N° 05: LA ARQUITECTURA TÍPICA DE UN SISTEMA EXPERTO….…32
+FIGURA N° 06: MODELO DE DESARROLLO DE SISTEMA EXPERTO………...39
+FIGURA N° 07: ARBOL DE REGLAS Y SECCIONES……………………………...43
+FIGURA N° 08: INTERFAZ PRINCIPAL DE USUARIO…………………………….47
+FIGURA N° 09: INTERFAZ DE SELECCIÓN………………………………………..48
+FIGURA N° 10: INTERFAZ DE EXPLICACIÓN……………………………………..48
+FIGURA N° 11: INTERFAZ DE SELECCIÓN SOFTWARE………………………..49
+FIGURA N° 12: INTERFAZ DE SELECCIÓN DATOS………………………………49
+FIGURA N° 13: CUADRO DE DIALOGO…………………………………………….50
+FIGURA N° 14: OPERACIÓN DE USUARIO………………………………………..50
+FIGURA N° 15: INTERFAZ DE REPORTES………………………………………...51
+FIGURA N° 16: INTERFAZ QUE GUARDA LOS ARCHIVOS……………………..51
+FIGURA N° 17: OCUPACIONES REALISTAS………………………………………82
+FIGURA N° 18: OCUPACIONES INVESTIGATIVAS……………………………….83
+FIGURA N° 19: OCUPACIONES EMPRENDEDORAS…………………………….84
+FIGURA N° 20: RESULTADOS DEL SISTEMA……………………………………..91
+
+
+
+
+                                                              7
+                     INDICE DE CUADROS
+
+
+CUADRO N° 01: POBLACIÓN……………………………………………………...…36
+GRÁFICO N°02: UNIDADES OPERATIVAS…………………………………………71
+CUADRO N° 03: ESTÁNDARES INTERNACIONALES…………………………….72
+CUADRO N° 04: VERIFICACION SISTEMA…………………………………………85
+CUADRO N° 05: VERIFICACION RESPUESTAS…………………………………..85
+CUADRO N° 06: VERIFICAION ACTUALIZACION…………………………………85
+CUADRO N° 07: VERIFICACION REGISTRAR USUARIOS………………………86
+CUADRO N° 08: VERIFICACION MODIFICAR USUARIOS……………………….86
+CUADRO N° 09: VERIFICACION ELIMINAR USUARIOS…………………………86
+CUADRO N° 10: VERIFICACION USUARIOS NUEVOS…………………………87
+CUADRO N° 11: VERIFICACION PARA MODIFICAR USUSARIOS……………..87
+CUADRO N° 12: VERIFICACION INGRESO SISTEMA……………………………88
+CUADRO N° 13: VERIFICACION REGISTRAR REGLAS…………………………88
+CUADRO N° 14: VERIFICACION ELIMINAR REGLAS…………………………….88
+CUADRO N° 15: VERIFICACION MODIFICAR USUARIOS……………………….89
+CUADRO N° 16: VERIFICACION POTENCIALES USUARIOS…………………...89
+CUADRO N° 17: VALIDAR USUARIOS………………………………………………89
+CUADRO N° 18: ELIMINAR USUARIOS EVALUADOS……………………………90
+
+
+
+
+                                                           8
+                     INDICE DE GRAFICOS
+
+
+GRÁFICO N° 01: PORCENTAJE DE TIEMPO DE ATENCIÓN…………………...55
+GRAFICO Nº 02: PORCENTAJE DE DIFICULTAD DE CALCULOS……………..55
+GRAFICO Nº 03: PORCENTAJE DE DIFICULTAD DE DATOS…………………..56
+GRÁFICO N° 04: USO PROTOTIPO…………………………………………………57
+GRÁFICO N° 05: OPINIÓN SOBRE EL USO DEL PROTOTIPO…………………57
+GRÁFICO N° 06: INTERPRETACION USO DE PROTOTIPO…………………….58
+
+
+
+
+                                                             9
+                                     RESUMEN
+
+
+El presente trabajo de tesis se desarrolla entre los años 2012 – 2013, da solución
+
+al problema que se presenta en la validación de nuevos usuarios en el Programa
+
+Pensión sesenta y cinco de la Municipalidad Provincial de Yunguyo. Para la
+
+solución a éste problema se emplearon las siguientes técnicas y métodos para el
+
+desarrollo del prototipo; así mismo se trazó como objetivo “Determinar el grado de
+
+influencia que ejerce el modelo de arbitraje soportado por un sistema experto para
+
+mejorar la gestión de información y validación para los beneficiarios del Programa
+
+de Asistencia Social Pensión Sesenta y cinco en la Municipalidad Provincial de
+
+Yunguyo”.El diseño elegido de la investigación fue el Cuasi-Experimental, con un
+
+solo grupo de prueba al cual se le aplicó dos cuestionarios (pretest y postest) y así
+
+evaluar y validar la hipótesis de investigación aplicando la prueba de Wilcoxon para
+
+dos muestra relacionadas con el estadístico de prueba Z, encontrándose los
+
+siguientes resultados para una muestra de 35 personas: el promedio de tiempo en
+
+la validación es de 2,7 meses frente a 1,8 meses con el uso del prototipo, logrando
+
+una optimización de 150%. Los resultados estadísticos de la prueba arrojaron para
+
+Zc = 0.00008 < 0.05, con lo que se acepta la hipótesis alterna.
+
+
+PALABRAS CLAVES: Tesis, Validación, Técnicas, Métodos, Gestión, Asistencia, Hipótesis.
+
+
+                                                                                     10
+                                 INTRODUCCIÓN
+
+
+Los Sistemas Expertos (S .E.) son una ciencia de naturaleza social, además de
+Inteligencia y razonamiento, por lo tanto, estudiados en diversos ámbitos bajo
+distintas perspectivas. Actualmente, encontramos múltiples ejemplos de la
+utilización de los Sistemas Expertos (S.E) en nuestra sociedad aportando
+confiabilidad en su uso: desde escuelas, bancos, universidades, organismos del
+Estado, etc., para ello siguiendo modelos, estrategias y métodos propuestos por los
+investigadores.
+
+
+La Administración Pública del Estado es un conjunto de acciones mediante las
+cuales las entidades tienden al logro de sus fines, objetivos y metas; en este
+contexto, considera a sus problemas de gestión y de existencia propia, tanto en sus
+relaciones con otros organismos semejantes para asegurar la ejecución de su
+misión. De tal forma se crea en todas las municipalidades provinciales y distritales
+oficinas de sistema de focalización de hogares SISFOH el cual está encargado de
+focalizar hogares de extrema pobreza aplicando la ficha socioeconómica única el
+cual esta ficha determina los diferentes niveles de clasificación tanto como pobre
+extremo, pobre y no pobre el cual es un indicador primordial para que los
+ciudadanos peruanos puedan acceder a diferentes programas que creó el gobierno
+a partir de la administración del ministerio de desarrollo e inclusión para este caso
+nosotros hemos optado nuestra investigación en uno de sus programas cual es el
+Programa de asistencia solidaria pensión sesenta y cinco que se encarga de
+proveer información de potenciales usuarios previamente aplicadas las fichas
+socioeconómicas sin embargo nuestro trabajo no solamente se basa en recojo de
+información si no en reconocimientos de patrones cual uno de nuestros indicadores
+fue las imágenes que demostraron una gran aportación.
+
+
+Finalmente describiremos brevemente contenido de siete capítulos que consta
+nuestra tesis:
+
+                                                                                   11
+EL PRIMER CAPÍTULO, denomina planteamiento del problema y objetivos de la
+investigación, constituido por el planteamiento del problema, justificación de la
+investigación, los objetivos planteados, los límites de la investigación y la hipótesis
+planteada;
+
+
+EL SEGUNDO CAPÍTULO, en este capítulo describimos las diferentes teorías
+conceptos que se resumen en estos títulos: Marco teórico, constituido por los
+antecedentes de la investigación, marco teórico y base teórica.
+
+
+EL TERCER CAPÍTULO, se describió las variables y métodos el cual nos llevo a
+diferentes soluciones que se fueron fortaleciendo una a una donde detallamos en
+estos títulos y subtítulos que consta de: Materiales y métodos, constituido por el
+trabajo experimental, sistema de variables, material experimental y métodos
+experimentales; el
+
+
+CUARTO CAPÍTULO, en este capítulo consta de Resultados y discusión,
+constituido por el desarrollo de cada objetivo específico de la investigación; donde
+demostramos cada una de nuestras hipótesis y objetivos mediante el uso de
+métodos y variables que facilitaron el desarrollo de nuestro sistema experto
+
+
+EL QUINTO CAPÍTULO, consta de cuatro conclusiones el cual describe que el
+sistema experto ha sido una buena opción para el desarrollo de información.
+
+
+EL SEXTO CAPÍTULO, denominado recomendaciones y finalmente
+
+
+EL SÉPTIMO CAPÍTULO, glosario, bibliografía y anexos.
+
+
+
+
+                                                                                     12
+     CAPÍTULO I. PLANTEAMIENTO Y OBJETIVOS DE LA INVESTIGACION
+
+
+1.1 FORMULACIÓN Y DEFINICIÓN DEL PROBLEMA
+
+
+      El Grupo de Análisis para el Desarrollo (GRADE) iniciará el estudio
+      “Pensión Sesenta y cinco y Más” con el objetivo de evaluar el impacto de
+      este programa social en el bienestar de los adultos mayores en extrema
+      pobreza y sus familias, en el marco del proyecto regional “Protección social
+      y más”, en el que también se medirá el impacto de iniciativas similares en
+      Colombia y Uruguay.
+
+
+      Juan José Díaz, investigador de GRADE, explicó que Pensión Pensión
+      Sesenta y cinco fue el programa seleccionado en el Perú para ser
+      analizado, porque logró hacer visible a una población apartada y vulnerable
+      que nunca antes había sido considerada.
+
+
+      ¿Cuál es el grado de influencia que ejerce el modelo de arbitraje soportado
+      por un sistema experto para mejorar la gestión de información y validación
+      para los beneficiarios del programa de asistencia social Pensión Sesenta y
+      cinco en la Municipalidad Provincial de Yunguyo?
+
+
+1.2 JUSTIFICACIÓN DE LA INVESTIGACIÓN
+
+
+      La difusión del conocimiento es un aspecto fundamental para el progreso,
+      por ende, en las tareas de enseñanza así como de investigación, la
+      publicación es un componente importante, uno de los principales productos
+      de la investigación y de la actividad científica. Así los hallazgos
+      de la investigación o las soluciones que se proponen a raíz de ella, sólo
+      están sometidas al juicio y a la crítica de los usuarios o al intento de
+      replicación de otros investigadores, cuando son publicadas en forma
+
+                                                                                13
+                adecuada.
+                Este proceso de evaluación de trabajos de investigación será desarrollada
+                por un modelo de arbitraje soportado por un sistema experto que nos
+                permitirá evitar la mala validación y manipulación de información y mejorar
+                el contenido de la información real en cuanto al levantamiento de
+                recopilación de datos en fichas socioeconómicas los que ayudara a
+                fortalecer la Bases de Datos y un mejor lenguaje de decisión.
+
+
+1.3 OBJETIVOS
+
+
+              1.3.1 OBJETIVO GENERAL
+
+
+                Determinar el grado de influencia que ejerce el modelo de arbitraje
+                soportado por un sistema experto para mejorar la gestión de información y
+                validación para los beneficiarios del Programa de Asistencia Social Pensión
+                Sesenta y cinco en la Municipalidad Provincial de Yunguyo.
+
+
+              1.3.2 OBJETIVOS ESPECÍFICOS
+
+
+                         Establecer el grado de influencia que ejerce el modelo de arbitraje
+                          soportado por un sistema experto para mejorar eficientemente la
+                          gestión de información y validación de los beneficiarios  del
+                          Programa de Asistencia Social Pensión Sesenta y cinco en la
+                          Municipalidad Provincial de Yunguyo.
+
+
+                         Establecer el grado de influencia que ejerce el modelo de arbitraje
+                          soportado por un sistema experto para mejorar eficazmente la
+                          gestión de información y validación de los beneficiarios del Programa
+                          Pensión Sesenta y cinco de la Municipalidad Provincial de Yunguyo.
+
+
+
+
+      Ver anexo N° 01: cuadro N° 03
+
+                                                                                             14
+            Demostrar que el modelo de arbitraje soportado por un Sistema
+             Experto para mejorar la gestión de información y validación de los
+             beneficiarios del Programa Social Pensión Sesenta y cinco de la
+             Municipalidad Provincial de Yunguyo reduce el tiempo de respuesta
+             a las consultas de los beneficiarios.
+
+
+1.4 LIMITES DE LA INVESTIGACIÓN
+
+
+      El sistema Experto que se considera tendrá cobertura en los siguientes
+      aspectos:
+      Tiempo: 2013 – 2014.
+      Espacio: Municipalidad Provincial de Yunguyo
+      Desarrollo, Oficina de Sistema de Focalización de Hogares y Programa de
+      Asistencia Social Pensión sesenta y cinco de la Municipalidad Provincial de
+      Yunguyo.
+      Temática1: Validación y gestión de información para el Programa de
+      Asistencia Social Pensión Sesenta y cinco de la Municipalidad Provincial
+      de Yunguyo.
+
+
+1.5 HIPÓTESIS GENERAL
+
+
+      El modelo de arbitraje soportado por un sistema experto influye
+      significativamente en la gestión de información y validación para los
+      beneficiarios del programa de asistencia social pensión sesenta y cinco en
+      la Municipalidad Provincial de Yunguyo.
+
+
+
+
+                                                                               15
+                                       CAPÍTULO II. MARCO TEÓRICO
+
+
+2.1 ANTECEDENTES DE LA INVESTIGACIÓN
+
+
+               Mediante Decreto Supremo Nº 081-2011-PCM, se creó el Programa
+               Nacional de Asistencia Solidaria “Pensión Sesenta y cinco”, a cargo de la
+               Presidencia del Consejo de Ministros, con la finalidad de otorgar
+               subvenciones económicas a las personas adultas en condición de extrema
+               pobreza a partir de los sesenta y cinco (Pensión Sesenta y cinco) años de
+               edad que cumplan con los requisitos establecidos por la indicada norma.
+               Encargándose al Programa Nacional de Apoyo Directo a los más Pobres –
+               “JUNTOS”, a través de la Unidad Ejecutora 010 de dicho Programa el
+               proceso de ejecución y administración de recursos del Programa “Pensión
+               Sesenta y cinco “Posteriormente, mediante Decreto Supremo N° 006-2012-
+               MIDIS1, en su artículo 1. Modifica la norma de creación Pensión Sesenta y
+               cinco, decretándose que el Programa “Pensión Sesenta y cinco estará a
+               cargo del Ministerio de Desarrollo e Inclusión Social, para otorgar
+               subvenciones económicas a los adultos en condiciones de extrema
+               pobreza a partir de los sesenta y cinco (Sesenta y cinco) años de edad que
+               cumplan con los requisitos establecidos por la norma. Indicando, además,
+               que el Programa contará con un Director Ejecutivo designado por
+               Resolución Suprema.
+
+
+               En tal sentido, mediante Resolución Ministerial Nº 009-2012-MIDIS, se
+               aprobó la desagregación de recursos del Pliego 040- Ministerio de
+               Desarrollo e Inclusión Social a favor de sus Unidades Ejecutoras, entre
+               ellas, la Unidad Ejecutora 005: Programa Nacional de Apoyo Directo a los
+               Más Pobres – “JUNTOS”, a la cual se le asigna los recursos del Programa
+
+
+
+
+      Ver anexo N° 01 : cuadro N° 05
+
+                                                                                       16
+              Nacional de Asistencia Solidaria “Pensión Sesenta y cinco”.
+               Por tal razón, mediante Oficio Nº 012 -2012-MIDIS/CNP65, de fecha 23 de
+              enero de 2012 se remitió al Programa Nacional de Apoyo Directo a los más
+              Pobres “JUNTOS” el Plan Operativo Institucional 2012 del Programa
+              “Pensión Sesenta y cinco”. Luego, en mayo de este año 2012, en los
+              considerandos del Decreto Supremo Nº 006-2012-MIDIS, señala que,
+              mediante informe Nº 088-2012-EF/50.06, la Dirección General de
+              Presupuesto Público del Ministerio de Economía y Finanzas se ha
+              pronunciado favorablemente respecto a la creación de la Unidad Ejecutora
+              006: Programa Nacional de Asistencia Solidaria “Pensión 65” del Pliego 040
+              – Ministerio de Desarrollo e Inclusión Social, la misma que tendrá a su cargo
+              la administración y ejecución de los recursos del referido programa social y
+              da por concluido el encargo al Programa Nacional de Apoyo Directo a los
+              Más Pobres “JUNTOS” del proceso de ejecución y administración de
+              recursos del Programa Nacional de Asistencia Solidaria “Pensión
+              65”.Mediante la Resolución Ministerial Nº 065-2012-MIDIS se formaliza la
+              creación de la Unidad Ejecutora 006: Programa Nacional de Asistencia
+              Solidaria “Pensión 65” del Pliego 040 –Ministerio de Desarrollo e Inclusión
+              Social; así como designar al Director Ejecutivo del citado Programa como
+              encargado de la referida unidad ejecutora por lo cual este Plan Operativo
+              se enmarca presupuestalmente en dicha unidad ejecutora. Creada la
+              Unidad Ejecutora del Programa “Pensión 65” y de acuerdo con los Informes
+              Nº 048-2012-MIDIS/SG/OGPP y Nº 084-2012-MIDIS/SG/OGPP, de la
+              Oficina General de Planeamiento y Presupuesto. Señala que es necesario
+              autorizar una modificación presupuestaria, transfiriendo los recursos
+              correspondientes al Programa Nacional de Asistencia Solidaria “Pensión
+              65” previstos en la Unidad Ejecutora 005 Programa Nacional de Apoyo
+              Directo a los Más Pobres – “JUNTOS”, a la Unidad Ejecutora 006 Programa
+              Nacional de Asistencia Solidaria “Pensión 65”.Mediante Resolución
+              Ministerial Nº 070-2012-MIDIS del 11.05.2012, se autoriza una modificación
+
+   Programa de ayuda a los más necesitados.
+
+                                                                                         17
+             presupuestaria en el Nivel Funcional Programático en el Presupuesto
+             Institucional del Pliego Nº 040: Ministerio de Desarrollo e Inclusión Social
+             para el año fiscal 2012, de la Unidad Ejecutora 005: Programa Nacional de
+             Apoyo “JUNTOS” a favor de la Unidad Ejecutora 006: Programa Pensión
+             65, por un monto total de S/. 214 431 731,00 (Doscientos catorce millones
+             cuatrocientos treinta y uno mil setecientos treinta y uno con 00/100 nuevos
+             soles) por la fuente de financiamiento recursos ordinarios, disponiéndose
+             que las respectivas unidades ejecutores elaboren las correspondientes
+             “Notas Modificatorias Presupuestarias”. Fuente: Instituto Nacional de
+             Estadística e Informática - INE.En el trimestre enero-febrero-marzo 2013,
+             el 16,1% de hogares con al menos uno de sus miembros es adulto mayor,
+             se beneficiaron de algún programa alimentario, tales como: Vaso de Leche,
+             comedor popular, entre otros. Respecto con similar trimestre del año
+             anterior, se observa que disminuyó en 6,7 puntos porcentuales.
+
+
+             A nivel de ámbito geográfico, la mayor proporción de hogares donde al
+             menos una persona adulta mayor se ha beneficiado de algún programa
+             alimentario es en el área rural con 31,4%, y en el área urbana con 8,2%.Con
+             relación a similar trimestre enero-febrero-marzo 2012, la mayor reducción
+             en la proporción de hogares beneficiarios de programas alimentarios se
+             produjo en el área rural con 8,9 puntos porcentuales que en el área urbana
+             con 5,0 puntos porcentuales.
+             MEXICO at el (2012) en su investigación realizada concluye indicando que:
+             DESARROLLO SOCIAL
+             Oportunidades: Hay apoyos en efectivo para becas educativas, servicios
+             de salud y complementos alimenticios para niños menores de 5 años y
+             mujeres embarazadas.
+
+
+             El Programa 3 x 1 Para Migrantes– El Programa 3×1 para Migrantes apoya
+             las iniciativas de los mexicanos que viven en el exterior y les brinda la
+
+   INEI (INSTITUTO NACIONAL DE INFORMATICA)
+
+                                                                                       18
+             oportunidad de canalizar recursos a México, en obras de impacto social que
+             benefician directamente a sus comunidades de origen. Funciona con las
+             aportaciones de clubes o federaciones de migrantes radicados en el
+             extranjero, la del Gobierno Federal -a través de Sede sol-, y la de los
+             gobiernos Estatal y Municipal. Por cada peso que aportan los migrantes,
+             los gobiernos Federal, estatal y municipal ponen 3 pesos; por eso se llama
+             3×1.
+
+
+             Programa 70 y Más Adultos Mayores – El Programa 70 y Más atiende a los
+             adultos mayores de 70 años o más que vivan en localidades de hasta 30
+             mil habitantes. Los beneficiarios reciben apoyos económicos de 500 pesos
+             mensuales, que se paga cada dos meses; participan en grupos de
+             crecimiento y jornadas informativas sobre temas de salud y obtienen
+             facilidades para el acceso a servicios y apoyos de instituciones como el
+             INAPAM, además de las que ofrecen actividades productivas y
+             ocupacionales.
+
+
+             Atención a Jornaleros Agrícolas – Contribuir a la protección social de los
+             hombres y mujeres jornaleros agrícolas de 16 años y sus familias, mediante
+             acciones de ampliación de sus capacidades, otorgando apoyos en
+             alimentación, salud, infraestructura, educación e información y acceso a los
+             servicios básicos.
+
+
+             Programa de Empleo Temporal (PET) – El Programa de Empleo Temporal
+             (PET) atiende a las personas afectadas por la baja oferta laboral o por
+             fenómenos naturales, con apoyos económicos temporales por su
+             participación en proyectos de beneficio familiar o comunitario.
+             Programa Estancias Infantiles para Apoyar a Madres Trabajadoras –
+             Estancias Infantiles para Apoyar a Madres Trabajadoras es un Programa
+             que apoya a las madres que trabajan, buscan empleo o estudian y a los
+
+   INAPAM : POLITICA DE APOYOS SOCIALES
+
+                                                                                       19
+              padres solos con hijos o niños bajo su cuidado entre 1 y hasta 3 años 11
+              meses de edad (un día antes de cumplir los 4 años) y entre 1 y hasta 5
+              años 11 meses de edad (un día antes de cumplir los 6 años) en caso de
+              niños o niñas con alguna discapacidad, que viven en hogares con ingresos
+              mensuales de hasta 1.5 salarios mínimos per cápita, a través de subsidios
+              a los servicios de cuidado y atención infantil para sus hijos.
+              Programa Opciones Productivas– Opciones Productivas es un programa
+              que apoya proyectos productivos de la población que vive en condiciones
+              de pobreza, incorporando en ellos el desarrollo de capacidades humanas y
+              técnicas como elementos para promover su sustentabilidad económica y
+              ambiental.
+              Programa Abasto Rural (Diconsa)– Abastecer localidades rurales de alta y
+              muy alta marginación y de 200 a 2500 habitantes con productos básicos.
+              Programa “Tu Casa” (FONHAPO) – El programa otorga subsidios para
+              adquirir, edificar, terminar, ampliar o mejorar la vivienda de la población que
+              vive en pobreza patrimonial.
+              Programa Vivienda Rural (FONHAPO) – Apoya económicamente a familias
+              rurales o indígenas para la edificación de Unidades Básicas de Vivienda
+              Rural o para ampliar y mejorar su vivienda actual que vivan en localidades
+              rurales o indígenas de hasta 5 mil habitantes de alta o muy alta
+              marginación.
+              Fondo Nacional para el Fomento de las Artesanías (FONHART) – Fonart
+              contribuye al mejoramiento del ingreso familiar de los artesanos que
+              preservan técnicas y diseños tradicionales en regiones de alta y muy alta
+              marginación que por su situación geográfica no pueden acceder a los
+              mercados de artesanías. Apoya a los artesanos de manera individual con
+              recursos económicos para la adquisición de materia prima, herramientas
+              de trabajo y gastos vinculados al proceso productivo artesanal.
+
+
+
+
+   Opciones Productivas: Acción a generar puestos de trabajos.
+
+                                                                                           20
+2.1.1 TESIS: “PROTOTIPO DE SISTEMA                    EXPERTO PARA EL
+       DIAGNOSTICO DE FALLAS EN UNA RED DE AREA LOCAL”
+
+
+El presente proyecto de tesis basado en la ciencia de la inteligencia artificial
+en el área de los sistemas expertos, abstrae el conocimiento del
+especialista de redes, almacenándolo en una base conocimientos y
+utilizando el método inferencia basada en datos encuentra una solución a
+una falla que ocurra en una red de área local.
+
+
+2.1.2 TESIS: “SISTEMA EXPERTO DE ORIENTACIÓN VOCACIONAL
+       PROFESIONAL”
+
+
+Esta tesis doctoral tiene dos partes: una parte teórica y una parte
+experimental:
+       En la parte teórica, partiremos de un concepto general de orientación
+        educativa para posteriormente profundizar en la orientación
+        vocacional y profesional.
+
+
+       En la parte experimental se llevará a cabo el diseño del Sistema
+        Experto de Orientación Profesional, a partir del conocimiento de las
+        aptitudes, personalidad e intereses del sujeto
+
+
+2.1.3 TESIS: MODELADO DE SISTEMA EXPERTO EN SOFTWARE
+       BASADO EN MDE.
+
+
+Esta Tesis presenta una propuesta para la transformación de modelos,
+específicamente del modelo de componentes y conectores.
+
+
+
+
+                                                                              21
+            2.1.4 TESIS: METODOLOGÍA PARA EL DESARROLLO DE SISTEMAS
+                     EXPERTOS.
+
+
+              Esta tecnología ha demostrado sus posibilidades en áreas como el
+              diagnóstico y tratamiento de infecciones para ayudar a los médicos a elegir
+              la terapia adecuada (MYCIN).
+
+
+            2.1.5 TESIS: “SISTEMA EXPERTO AREA PARA LA PSICOLOGÍA
+                     DEPORTIVA”
+
+
+              La Tesis trata de emular la psicología deportiva tratando de agarrar
+              patrones de capacidad, manipulación y control basado en sistemas
+              inteligentes que captan una secuencia de parecidos. El cual se puede
+              caracterizar como manejo, control, e inteligencia lo que permite que la
+              maquina trate de dimensionar o parecer un simulador humano por lo tanto
+              se puede clasificar patrones de comparación humano y máquina.
+
+
+2.2         INTELIGENCIA ARTIFICIAL
+
+
+            2.2.1 DEFINICIÓN
+
+
+              La inteligencia artificial(7) es parte de las ciencias de la computación
+              interesada en el diseño e implementación de programas que simulen. La
+              inteligencia humana, es decir simulan aquellas tareas que envuelven
+              habilidades mentales tales como entendimiento del lenguaje natural,
+              percepción visual, reconocimiento y síntesis de voz, aprendizaje,
+              razonamiento, reducción de problemas, etc.
+
+(7)   AVILA ACOSTA, Roberto B. Inteligencia Artificial. Editorial Estudios y ediciones R.A. Lima, Perú. 2001.
+
+                                                                                                                22
+            2.2.2 LAS ÁREAS RELACIONADAS CON LA INTELIGENCIA ARTIFICIAL
+
+
+              El desarrollo de máquinas que exhiban características inteligentes involucra
+              muchas ciencias y tecnologías. Una clasificación práctica de la inteligencia
+              artificial en relación con las disciplinas que interactúan se presenta al
+              considerar las salidas o áreas aplicadas Las principales áreas incluyen:
+              sistemas expertos, redes neuronales artificiales, procesamiento de
+              lenguaje natural, entendimiento de la voz, robótica y sistemas sensoriales,
+              reconocimiento de escenas y patrones(8), instrucciones inteligentes
+              asistidas por computadora, lógica difusa, etc.
+
+
+                                                       Figura N° 01
+                                           Áreas de la Inteligencia Artificial.
+
+
+
+
+2.3 REPRESENTACIÓN DEL CONOCIMIENTO
+
+
+              Para el procesamiento y la manipulación del conocimiento en sistemas
+              expertos es necesario formalizar y estructurar dicho conocimiento. En su
+
+(8)   Patrones: Muestra de reconocimiento genéticos.
+
+                                                                                        23
+         mayor parte, se dispone del conocimiento a través de entrevistas con los
+         expertos en forma de descripciones de casos o en partes de su actividad.
+         Los métodos formales de representación del conocimiento son distintos
+         aspectos de la lógica; por ejemplo, lógica de predicados, lógica modal,
+         lógica multivaluada y lógica difusa(9).
+
+
+         Para ello se han desarrollado procedimientos de presentación del
+         conocimiento, pueden ofrecer apoyo eficiente a la estructuración y al
+         procesamiento del saber.
+
+
+        2.3.1 MÉTODOS DE REPRESENTACIÓN DEL CONOCIMIENTO
+
+
+         Conocimiento almacenado de los expertos y otras fuentes debe ser
+         organizado de tal manera que el programa de inferencias de la
+         computadora pueda acceder a este conocimiento siempre que necesite
+         obtener conclusiones(10). Existen muchos métodos para representación del
+         conocimiento        en    inteligencia      artificial.   Muchos      de     estos     son
+         representaciones pictóricas los beneficios de las representaciones
+         pictóricas son:
+
+
+         -Validez con un medio de comunicación uniforme entre desarrolladores y
+         usuarios.
+         -Sistema de prueba y depuración lógica, debido al claro diseño y
+         documentación.
+         -Metodología que llenan la documentación y confirman la calidad de las
+         revisiones con los usuarios.
+         -Exactitud de las soluciones por medio de la documentación y por las
+         pruebas lógicas.
+         -Sencillo mantenimiento debido al mínimo esfuerzo requerido para
+
+(9)[12] PFAFFENBERGER, Bryan. Diccionario de términos de computación. Editorial PRINTICE HALL
+Hispanoamérica SA, México, 1999.
+(10) [T1] AGREDA SALDAÑA, Luís Jaime. 2003.
+
+
+                                                                                                 24
+             entender e interpretar el código de otra persona.
+
+
+             -Productividad       en    la   distribución,    usando      una     comunicación        y
+             documentación uniforme.
+             -Fácil codificación del sistema a la estructura elegida.
+
+
+            2.3.2 LAS REDES SEMÁNTICAS
+
+
+             Son una representación gráfica de los vínculos entre los elementos de un
+             dominio, donde el significado de un concepto depende del modo en que se
+             encuentre conectado con otros conceptos.
+
+
+             Los componentes básicos de una red semántica son los nodos y los
+             enlaces (arcos ó ligas). Los nodos se usan para mostrar elementos del
+             dominio. Se representan gráficamente como rectángulos y son rotulados
+             (etiquetados) con los nombres de los elementos representados.
+
+
+             Los enlaces representan relaciones entre los elementos. Un enlace se
+             muestra como un vector desde un nodo a otro nodo; se rotula con el nombre
+             de las relaciones representadas.
+
+
+             A) LOS ÁRBOLES DE DECISIÓN ES UNA REPRESENTACIÓN, O SEA,
+                 UN ÁRBOL SEMÁNTICO EN EL QUE:
+
+
+             -Cada nodo está conectado con un conjunto de repuestas posibles.
+             -Cada nodo que no sea hoja está conectado con una prueba que divide su
+             conjunto de respuestas posibles en sub conjuntos respectivos a varios
+             resultados de pruebas.
+             -Cada rama lleva un sub-conjunto particular de resultados de prueba a otro
+             nodo(11).
+
+(11)   [3] DALTON, Patrick y WHITEHEAD, Paul. Programación. Editorial GRUPO ANAYA. Madrid, España. 2001.
+
+                                                                                                     25
+En muchas ocasiones es similar a una red semántica jerárquica limitada
+por una serie de reglas, que ajusta estrategias de búsqueda con relaciones
+del conocimiento. La mayor ventaja de estos árboles es que pueden reducir
+el proceso de adquisición del   conocimiento, y se pueden convertir
+sencillamente en reglas de producción
+
+
+B) LAS REGLAS DE PRODUCCIÓN
+
+
+Los sistemas de producción son bosquejos de representación del
+conocimiento en forma modular, es decir que el conocimiento es
+presentado como reglas de producción en la forma de duplas de condición-
+acción.
+Cada regla de producción en la base del conocimiento crea un fragmento
+automático de experiencia para que sea desarrollado y modificado aparte
+de otras reglas.
+                         Figura N°02
+            Arquitectura de un Sistema de Producción.
+
+
+
+
+                                                                        26
+ Cuando las combinamos y las introducimos a una máquina de inferencias,
+ el conjunto de reglas logra un comportamiento sinérgico, brindando
+ mayores resultados que la suma de las soluciones de cada una de las
+ reglas. En la realidad las reglas de la base de conocimientos son
+ dependientes, por lo que a medida que la base de conocimientos aumenta,
+ las reglas se convierten más en interdependientes. Las reglas no son sólo
+ un formalismo que representa el conocimiento en la computadora, sino
+ también un modelo            de su comportamiento actual.
+
+
+2.3.3 LAS INFERENCIAS
+
+
+ Es “El proceso de usó de un sistema experto para validar una nueva
+ información que empieza de una información conocida”. Cuando la base de
+ conocimientos se completa está lista para usarse, pero requerimos de un
+ programa que nos capacite para procesar          el   conocimiento   realizar
+ inferencias y tomar decisiones) y como resultado, solucionar problemas.
+
+
+ Este programa es un algoritmo que regula algún proceso de razonamiento
+ y generalmente es llamado: la máquina de inferencias, programa de control
+ o interpretador de reglas.
+                                   Figura N° 03
+                       Modelo del motor de Inferencia
+
+
+
+
+                                                                            27
+          El programa de control guía la búsqueda en la base de conocimientos,
+          decidiendo que regla se debe investigar y que atributo reconocer. El
+          procedimiento involucra el uso de la inferencia en reglas (reconocimiento
+          de patrones).Los programas de control más populares son:
+          El backward chaining (dirigido con la meta) y el forward chaining (dirigido
+          con los datos)(12).
+
+
+          A) LA INFERENCIA CON REGLAS: EL FORWARD CHAINING
+          (DIRIGIDO CON LOS DATOS)
+
+
+          Ejemplo:
+
+
+          Regla #1:
+
+
+          IF (Sí) una guerra internacional empieza,
+          THEN (entonces) el precio del petróleo sube.
+
+
+          Asumiendo que un sistema experto sabe que una guerra internacional
+          acaba de empezar, esta información es almacenada en la parte de las
+          afirmaciones de la base de conocimiento, lo que significa que la premisa de
+          la regla #1 (la parte del if) es verdadera.
+
+
+          Esto conlleva que la parte de las conclusiones se evalúen igualmente en
+          verdadero.
+
+
+          Entonces la regla #1 se dispara, es decir, que todas las partes de la regla
+          son satisfechas (ya sea en verdadero o en falso).
+
+
+
+
+(12)
+   w5] BELMONTE MARIN, José. Ingeniería de la Usabilidad. Disponible en: http://griho.udl. es/ mpiua/
+TrabajosRelacionados/TFC_web_CulturaNoctur a. pdf. Consultado el: 7 ene 2007.
+
+                                                                                                        28
+Conclusión puede ser tan sencillo como un reconocimiento de patrones
+simbólicos contra un patrón similar en la base de aseveraciones.
+A esta actividad se le llama: reconocimiento de patrones.
+
+
+Cada regla en la base de conocimientos se puede verificar para ver si sus
+premisas o conclusión pueden ser satisfechas por aseveraciones hechas
+anteriormente. Este procedimiento puede ser en dos direcciones, hacia
+adelante o hacia atrás y seguirá de esta forma hasta que no exista la
+posibilidad de disparar más reglas o que se llegue a una conclusión.
+
+
+                          Figura N° 04
+                  Inferencia: Forward Chaining
+
+
+
+
+B) APROXIMACIÓN PARA CONTROLAR               LA       MÁQUINA          DE
+INFERENCIA EN LOS SISTEMAS BASADOS EN REGLAS: EL
+FORWARD CHAINING.
+
+
+Se puede comprender mejor con un ejemplo como el siguiente:
+Si tenemos que volar desde Sonora hasta Mérida y no existen vuelos
+directos, debemos encontrar una ruta con vuelos de escalas que
+
+
+
+                                                                       29
+          comiencen en Sonora y terminen en Mérida(13).
+          Existen dos formas básicas para lograr esto:
+
+
+                  Comenzar con todos los vuelos que salen de Sonora y ver sus
+                   destinos (ciudades intermedias).Después localizar todos los vuelos
+                   que salen de cada una de esas ciudades intermedias y encontrar en
+                   donde aterrizarán; esto continúa hasta encontrar a Mérida. En este
+                   caso, se está trabajando hacia adelante desde                       Sonora       hasta
+                   llegar a la meta.
+
+
+           Este proceso de búsqueda es el forward chaining
+          (Dirigido con los datos). Este ejemplo muestra la importancia de las
+          heurísticas en el proceso de búsqueda. Se pueden incluir heurísticas en el
+          backward y forward chaining(14) para mejorar la búsqueda.
+
+
+          La palabra chaining significa: las ligas del conjunto de reglas pertinentes.
+
+
+2.4 SISTEMAS EXPERTOS
+
+
+        2.4.1 DEFINICIÓN DE UN SISTEMA EXPERTO
+
+
+          "Un programa de computación inteligente que usa el conocimiento y los
+          procedimientos de inferencia para resolver problemas que son lo
+          suficientemente difíciles como para requerir significativa experiencia
+          humana para su solución” (feigenbaum(15)). Es decir, un sistema experto es
+          un sistema de cómputo que emula la habilidad de tomar decisiones de un
+          especialista humano.
+
+
+
+
+(13) [7] HERNÁNDEZ SAMPIERI, Roberto y otros. Metodología de la investigación. Cuarta edición. Editorial
+McGRAW -HILL. Mexico, 2006.
+(14) Significa: las ligas del conjunto de reglas pertinentes.
+(15) [6] FOWLER, Martín. UML, gota a gota. Editorial Addison Wesley. México. 1999.
+
+
+                                                                                                           30
+ A) CARACTERÍSTICAS DE UN SISTEMA EXPERTO IDEAL:
+
+
+ Extenso conocimiento específico a partir del campo de interés.
+       Empleo de técnicas de búsqueda.
+       Soporte para análisis heurístico.
+       Capacidad para inferir nuevos conocimientos a partir los ya
+        existentes.
+       Procesamiento de símbolos.
+       Facultad para explicar su propio razonamiento.
+
+
+2.4.2 LA ARQUITECTURA DE LOS SISTEMAS EXPERTOS
+
+
+ El principio fundamental en el diseño de los sistemas expertos, fue
+ dilucidado hacia 1547, cuando Francis Bacón escribió, “el conocimiento es
+ poder”.
+
+
+ Los sistemas expertos están formados de dos partes esenciales:
+ El ambiente de desarrollo.
+ Es empleado por el programador de sistema experto para construir los
+ componentes e introducir conocimientos a las bases de conocimiento.
+
+
+ El ambiente de consulta.
+
+
+ Es utilizado por el usuario no experto para n tener conocimiento, consejos
+ y/o experiencia.
+
+
+ Los sistemas expertos utilizan una amplia variedad de arquitecturas
+ específicas en sus sistemas.
+
+
+
+
+                                                                         31
+                         Figura N° 05
+     La Arquitectura típica de un Sistema Experto.
+
+
+
+
+A) BASE DE CONOCIMIENTOS
+
+
+Contiene el conocimiento de los hechos y de las experiencias de los
+expertos en un dominio determinado.
+
+
+B) MOTOR DE INFERENCIA
+
+
+Puede simular la estrategia de solución de un experto.
+
+
+C) MODULO EXPLICATIVO
+
+
+Explica al usuario la estrategia de solución encontrada y el porqué de las
+decisiones tomadas.
+
+
+
+
+                                                                        32
+              D) LA INTERFAZ CON EL USUARIO
+
+
+              Sirve para que éste pueda realizar una consulta en lenguaje lo más natural
+              posible.
+
+
+              E) MODULO DE ADQUISICIÓN DEL CONOCIMIENTO
+
+
+              Ofrece ayuda a la estructuración e implementación del conocimiento en la
+              base de conocimientos.
+
+
+             2.4.3 EL ELEMENTO HUMANO EN LOS SISTEMAS EXPERTOS
+
+
+              Por lo menos dos personas cooperan en el desarrollo y uso de un sistema
+              experto:
+
+
+              El experto y el usuario, aunque generalmente tendremos al ingeniero en
+              conocimiento y al programador del sistema.
+
+
+              A) EL EXPERTO
+
+
+              Es la persona con experiencia en el dominio por sus conocimientos y la
+              capacidad para aplicarlos dando consejos y/o solucionando problemas. El
+              experto conoce los hechos que son importantes y las relaciones entre ellos.
+              Que plantea las preguntas al experto(16), estructura sus conocimientos y los
+              la implementa en base de conocimientos.
+
+
+              B) EL INGENIERO DEL CONOCIMIENTO
+
+
+              Que plantea las preguntas al experto, estructura sus conocimientos y los la
+              implementa en base de conocimientos.
+
+(16)   [1] AVILA ACOSTA, Roberto B. Inteligencia Artificial. Editorial Estudios y ediciones R.A. Lima, Perú. 2001.
+
+                                                                                                                33
+          Que aporta sus deseos y sus ideas, determinado especialmente el
+          escenario en el que debe aplicarse el sistema experto.
+        2.4.4 INGENIERÍA DEL CONOCIMIENTO
+
+
+          La ingeniería de conocimiento(17) trabaja con la adquisición del
+          conocimiento, su representación, su validación, su inferencia, su
+          explicación y su mantenimiento. La principal meta de la ingeniería de
+          conocimiento es crear programas de naturaleza modular, para poder añadir
+          módulos sin influir en los que ya laboran(18).
+
+
+
+
+(17)[8] LARDENT, Alberto. Sistemas de información para la gestión empresarial. Editorial Prentice-Hall. Buenos
+Aire, Argentina. 2001.
+(18) [w7] MARCOS MORA, Mari Carmen.            Evaluación de la Usabilidad en sistemas de información Web
+municipales. Disponible en: http://bd. ub.es/isko2005/marcos.pdf. Consultado el: 12 may 2007.
+
+                                                                                                           34
+                            CAPÍTULO III. MATERIALES Y MÉTODOS
+
+
+3.1     TRABAJO EXPERIMENTAL
+
+
+        3.1.1 METODOLOGÍA DE LA INVESTIGACIÓN
+
+
+         Esta tesis, La investigación es de carácter experimental, ya que se medirá
+         la calidad de los trabajos de investigación al ser revisado por el modelo de
+         arbitraje soportado por un sistema experto de acuerdo con las
+         características de la hipótesis, los objetivos y la pregunta de investigación ,
+         se enmarca dentro del enfoque cuantitativo correlacional, es decir, una
+         investigación que pretende analizar la relación entre el Sistema Experto y
+         tiempo de formulación de los S.E, dentro del contexto tecnológico y
+         administrativo; sustentada bajo el siguiente concepto: “los estudios
+         correlacionales miden el grado de asociación entre esas dos o más
+         variables. Es decir, miden cada variable presuntamente relacionada y,
+         después, miden y analizan la correlación”.
+
+
+        3.1.2 DISEÑO DE LA INVESTIGACIÓN
+
+
+         El diseño de la investigación es el cuasi-experimental. Los diseños cuasi -
+         experimentales manipulan al menos, una variable independiente para
+         observar su efecto y relación con una o más variables dependientes.
+
+
+         Según Segura Cordona (2003); un estudio experimental o necesariamente
+         posee dos grupos, el experimental y el de control, esto condujo a elegir un
+         solo grupo experimental al cual se le sometió a una prueba de pretest y
+         postest(19).
+
+
+(19)
+  [2] CÓRDOVA ZAMORA, Manuel. ESTADÍSTICA descriptiva e inferencial. Cuarta edición. Editorial
+Moshera. Lima, Perú. 2001.
+
+                                                                                                 35
+ El grupo experimental estuvo conformado por los encargados de la
+ elaboración del SISFOH de la Municipalidad Provincial de Yunguyo.
+ El diseño elegido es de dos grupos:
+ Un grupo experimental
+ Un grupo control
+ Con post test solamente, cuya representación gráfica es la siguiente:
+
+
+ G1:         x O1
+ G2:         – O2
+
+
+ Donde:
+
+
+ G1:         Grupo experimental.
+ G2:         Grupo control.
+ O:          Observación
+ X:          Tratamiento con el modelo de arbitraje.
+ -:          Sin Tratamiento con el Modelo arbitraje.
+
+
+3.1.3 POBLACIÓN Y MUESTRA
+
+
+ POBLACIÓN.
+
+
+ Para el desarrollo de la investigación se seleccionaron como población a
+ los beneficiarios del Programa - Pensión 65. de la Municipalidad Provincial
+ de Yunguyo.
+                           Cuadro N° 01: Población
+                         Usuarios                          Población
+  Personas de la tercera edad del Distrito de Yunguyo      1200
+  Trabajadores Administrativos MPY-SISFOH                  05
+
+                                                                          36
+           Oficina de planificación y presupuesto                                  01
+                         Fuente: Municipalidad provincial de yunguyo
+          MUESTRA.
+
+
+          Para el cálculo de la muestra se utilizó la técnica del Muestreo Aleatorio
+          estratificado muestra por acceso más fácil’, que consiste en seleccionar a
+          aquellos con los que se puede contar de forma fácil. La muestra estuvo
+          conformado por los encargados del Sisfoh.
+
+
+3.2 SISTEMA DE VARIABLES
+
+
+          Herndez et all (2006)(20), recomienda definir las variables: “cualquier
+          persona que lea la investigación le den el mismo significado a los términos
+          o variables incluidos en las hipótesis, es común que un mismo concepto se
+          emplee de maneras distintas.
+
+
+        3.2.1 DEFINICIÓN DE VARIABLES
+
+
+          Prototipo Modelo de arbitraje soportado por un Sistema Experto. (Variable
+          independiente).
+          Gestión y validación de los beneficiarios del programa de asistencia social
+          pensión – 65 de la Municipalidad Provincial de Yunguyo. (variable
+          dependiente)
+
+
+        3.2.2 TÉCNICAS DE RECOLECCIÓN DE DATOS
+
+
+          La entrevista fue la técnica de recolección de datos preferida, fue en
+          formato abierto, no estructurado, es decir, como una conversación de
+          formular preguntas y escuchar.
+
+
+(20)
+  [7] HERNÁNDEZ SAMPIERI, Roberto y otros. Metodología de la investigación. Cuarta edición. Editorial
+McGRAW -HILL. Mexico, 2006.
+
+                                                                                                        37
+             En la presente investigación se realizaron 5 entrevistas:
+             - Entrevista al Jefe del SISFOH, Ing. Marcial Avelardo Tito Zevallos.
+             - Cuatro entrevistas al Jefe de Pensión Sesenta y cinco Ing. Edgar Ivan
+             Siguairo Alvarez Grabación de audio sobre la elaboración del Proceso
+             dirigido a las siguientes Unidades Operativas(22):
+             - SISFOH.
+             - Pensión Sesenta y cinco.
+             - Centros de Investigación y Producción               y Centros de Investigación y
+             Servicios.
+             - MIDIS.
+             - Oficinas.
+
+
+             Se desarrollaron dos pruebas: previa y posteriormente al tratamiento
+             (pretest y postest), con la finalidad de medir el prototipo de SE frente al
+             tiempo de entrega de la formulación del OPI de la MPY. Para dichas
+             pruebas se utilizó un cuestionario de preguntas cerradas que involucran
+             a las variables de estudio(21).
+
+
+3.3 MATERIAL EXPERIMENTAL
+
+
+             Las investigaciones vistas en el marco teórico permitieron establecer un
+             marco de trabajo a seguir para el proceso del sistema experto y así cumplir
+             con el objetivo de la investigación. Para el modelado de análisis se usó el
+             modelo del dominio del Proceso Unificado, modelo de datos; para el
+             modelado del diseño se usó los artefactos del Visual Prolog y el diseño de
+             la interfaz se realizó con la metodología OOHDM(23). Después de la
+
+
+
+(22)
+       Ver Anexo N° 01: Cuadro de la Unidad Operativa SISFOH
+(21)   [w7] MARCOS MORA, Mari Carmen.        Evaluación de la Usabilidad en sistemas de información Web
+municipales. Disponible en: http://bd. ub.es/isko2005/marcos.pdf. Consultado el: 12 may 2007.
+(23) [10] LUQUE RUIZ, Irene. Base de Datos Desde Chen hasta Codd con ORACLE. Primera edición. Editorial
+
+RA-MA. Madrid, España, 2002. Página de 3 a 6,14, 15.
+
+
+
+                                                                                                    38
+              finalización del prototipo se puso a disposición de los usuarios para su
+              prueba respectiva.
+
+
+
+
+                                             Figura N° 06
+                            Modelo de Desarrollo del Sistema Experto(24)
+
+
+
+
+                              Fuente: SISFOH- MUNICIPALIDAD YUNGUYO
+
+
+              El material experimental estuvo constituido por: “Prototipo de Sistema
+              experto que permita reducir el tiempo de validación a los usuarios del
+              Programa Pensión Sesenta y cinco de la Municipalidad Provincial de
+              Yunguyo”.
+
+
+              Para el desarrollo del Sistema Experto se utilizó las siguientes
+              herramientas:
+              - Visual Prolog
+              - Software estadístico SPSS 11.5 y Excel
+
+
+
+
+(24)   Ver Anexo N° 01: Cuadro de la Unidad Operativa SISFOH
+
+
+
+                                                                                    39
+3.4 MÉTODOS EXPERIMENTALES
+
+
+    3.4.1 MÉTODO DE TRATAMIENTO DE DATOS
+
+
+     Luego de la aplicación de la prueba del sistema experto y los cuestionarios,
+     se procedió con el tratamiento de los datos de la siguiente manera:
+
+
+     Los datos numéricos se procesaron y se tabularon, luego se construyeron
+     con ellos cuadros estadísticos. Para el procesamiento e interpretación de
+     los datos se utilizó el software estadístico SPSS 11.5 y Excel.
+
+
+    3.4.2 PRUEBA DE HIPÓTESIS PARA DOS MUESTRAS RELACIONADAS
+
+
+     Planteamiento de la hipótesis nula H0 y la hipótesis alterna H1:
+
+
+     H0: El de sistema experto no permite reducir notablemente el tiempo de
+     entrega de la validación de beneficiarios del programa pensión sesenta y
+     cinco de la MPY.
+
+
+     H1: El sistema experto permite reducir notablemente el tiempo de entrega
+     de la validación de beneficiarios del programa pensión sesenta y cinco de
+     la MPY.
+
+
+     Nivel de significancia con error de tipo I:
+
+
+     α=5%
+
+
+
+
+                                                                               40
+              Estadístico de prueba de Wilcoxon(25) a utilizar ‘Z’ para la diferencia dos
+              muestras relacionadas:
+
+
+
+
+              Donde:
+              ‘n’ cantidad de muestras
+              ‘T’ menor de las dos sumas de rangos
+
+
+            Regla de decisión:
+
+
+            Se compara el estadístico calculado con formula y el estadístico de tabla (26).
+
+
+            Si Zc<Zt se rechaza H0;
+
+
+            Donde:
+
+
+            Zc: valor de la probabilidad en la tabla.
+
+
+            Por lo tanto, el sistema experto permite reducir notablemente el tiempo de
+            entrega de la validación de beneficiarios del Programa Pensión sesenta y
+            cinco de la MPY(27).
+
+
+
+
+(25)
+       Wilcoxon: Modelo estadístico para estimar muestras.
+(26)
+     [2] CÓRDOVA ZAMORA, Manuel. ESTADÍSTICA descriptiva e inferencial. Cuarta edición. Editorial Moshera.
+Lima, Perú. 2001.
+(27) Ver Anexo N° 04: Capacidad Operativa de la Municipalidad
+
+
+                                                                                                       41
+                               CAPÍTULO IV.RESULTADOS Y DISCUSIÓN
+
+
+4.1 REQUERIMIENTOS DE PENSIÓN SESENTA Y CINCO
+
+
+            4.1.1 ANÁLISIS DE REQUISITOS
+
+
+              El análisis de requisitos permitió identificar a los objetos del dominio, las
+              relaciones entre los objetos que intervienen en el problema, los
+              beneficiarios, los objetivos y responsabilidades principales que realizan.
+              Para la siguiente etapa del análisis se utilizó las Fichas Socioeconómicas
+              Únicas, que viene a ser un indicador de datos(28). Esta ficha permitió
+              identificar a los posibles beneficiarios, base primordial para la elaboración
+              del diseño del Sistema Experto a través de preguntas por levantamiento de
+              información aplicada a diferentes hogares.
+
+
+            4.1.2 DESARROLLO DEL MODELO LINEAL DE CICLO DE VIDA PARA
+            EL PROTOTIPO DE SISTEMA EXPERTO.
+
+
+              En esta etapa desarrollamos el modelo lineal del ciclo de vida para sistemas
+              expertos que es una metodología de la ingeniería de software consistente
+              en seis pasos claves para desarrollar sistemas expertos.
+              El “MODELO DE ARBITRAJE SOPORTADO POR UN SISTEMA
+              EXPERTO PARA MEJORAR LA GESTION DE INFORMACION Y
+              VALIDACION          DE     LOS         BENEFICIARIOS   DEL   PROGRAMA     DE
+              ASISTENCIA         SOCIAL        PENSION      SESENTA    Y   CINCO   EN   LA
+              MUNICIPALIDAD PROVINCIAL DE YUNGUYO”, cumple con las normas
+              de la calidad en el software(29).
+
+
+
+(28)   Ver Anexo N° 05: Ficha Socioeconómica Única
+(29)
+       Ver Anexo N° 01: Estándares Internacionales
+
+
+
+                                                                                         42
+        4.1.3 DISEÑO DEL CONOCIMIENTO
+
+
+          A) Definición Del Conocimiento.
+
+
+          Representación Del Conocimiento. Representar el conocimiento usamos la
+          red de conocimientos y las reglas de producción en la aplicación de Visual
+          Prolog(30).
+
+
+          B) Diseño Detallado.
+
+
+          Estructura del diseño. Aquí se especifica cómo se organiza lógicamente el
+          conocimiento mediante una RED DE CONOCIMIENTO.
+          Estrategia de implantación. Se almacenó el conocimiento del experto en
+          una base de conocimientos, luego para llegar a una solución se usa la
+          estrategia de inferencia modus ponens y la forma de control que se usa es
+          el encaminamiento o razonamiento hacia adelante (forward chaining)(31).
+
+
+                                                   Figura N° 07
+                                         Arbol de reglas y secciones
+
+
+
+
+(30)
+  [1] AVILA ACOSTA, Roberto B. Inteligencia Artificial. Editorial Estudios y ediciones R.A. Lima, Perú. 2001.
+(31)
+  [4] DE LA CRUZ VILLAR, Joel. Sistemas Expertos. Primera edición. Editorial Megaby te SAC. Lima, Perú,
+2004.
+
+
+                                                                                                          43
+Implementación de reglas del prototipo.
+
+Regla 1
+
+Si   : FSU falta característica 1.
+
+Entonces: Llenar campos vacios.
+
+Regla 2
+
+Si   : FSU falta característica 2.
+
+Entonces: Llenar campos vacios.
+
+Regla 3
+
+Si   : FSU falta característica 3.
+
+Entonces: Llenar campos vacios.
+
+Regla 4
+
+Si   : FSU falta característica 4.
+
+Entonces: Llenar campos vacios.
+
+Regla 5
+
+Si   : FSU falta característica 5.
+
+Entonces: Llenar campos vacios.
+
+Regla 6
+
+Si   : FSU falta ubigeo.
+
+Entonces: Llenar campos vacios.
+
+
+                                          44
+Regla 6
+
+Si   : FSU falta ubigeo.
+
+Entonces: Llenar campos vacios.
+
+Regla 7
+
+Si   : FSU falta tipo vivienda.
+
+Entonces    : Llenar tipo vivienda.
+
+Regla 8
+
+Si   : FSU falta tipo de piso.
+
+Entonces    : Llenar tipo de piso.
+
+Regla 9
+
+Si   : FSU falta tipo de techo.
+
+Entonces    : Ingresar tipo de techo.
+
+Regla 10
+
+Si   : FSU falta llenar servicios básicos.
+
+Entonces    : Agregar datos.
+
+Regla 11
+
+Si   : FSU falta parentesco familiar.
+
+Entonces    : Agregar dato.
+
+Regla 12
+
+
+                                             45
+Si   : FSU falta seguro.
+
+Entonces    : Agregar seguro.
+
+Regla 13
+
+Si   : FSU falta núcleo familiar.
+
+Entonces    : Agregar núcleo familiar.
+
+Regla 14
+
+Si   : FSU falta nivel educativo.
+
+Entonces    : Agregar nivel educativo.
+
+Regla 15
+
+Si   : FSU falta tipo discapacidad.
+
+Entonces    : Agregar tipo discapacidad.
+
+Regla 16
+
+Si   : FSU falta tipo beneficiario.
+
+Entonces    : Agregar tipo beneficiario.
+
+Regla 17
+
+Si   : FSU falta datos de usuario.
+
+Entonces    : Agregar datos personales.
+
+Regla 18
+
+Si   : FSU falta DNI’s.
+
+
+                                           46
+Regla 19
+
+Si   : FSU falta fecha, día, mes.
+
+Entonces   : Agregar dato.
+
+Regla 20
+
+Si   : FSU falta número de ficha.
+
+Entonces   : Agregar número de ficha válidas.
+
+Interfaz   detallada     del    usuario.
+
+Se presenta algunas muestras de un total que supera unas 300 pantallas
+
+del sistema.
+
+                         Figura N° 08
+
+           Pantalla N° 01: Interfaz principal de usuario
+
+
+
+
+                                                                    47
+      Figura N° 09
+Pantalla N° 02: Interfaz de Selección
+
+
+
+
+      Figura N° 10
+Pantalla N° 03: Interfaz de Explicación
+
+
+
+
+                                          48
+             Figura N° 11
+  Pantalla N°04: Interfaz de selección software
+
+
+
+
+             Figura N° 12
+Pantalla N° 05: Interfaz de selección Datos
+
+
+
+
+                                                  49
+            Figura N°13
+      Pantalla N° 06: Cuadro de dialogo.
+
+
+
+
+            Figura N° 14
+Pantalla N° 07: Operación de usuario.
+
+
+
+
+                                           50
+                         Figura N° 15
+            Pantalla N°08: Interfaz de Reportes
+
+
+
+
+                         Figura N° 16
+Pantalla 9: Interfaz que Guarda los archivos
+
+
+
+
+                                                  51
+           4.10.4 CÓDIGO Y VERIFICACIÓN
+
+
+             a) Codificación.
+
+
+             El código de Visual Prolog(32) se presenta en el Anexo No. 07.
+
+
+             b) Pruebas.
+
+
+             Se hizo la prueba del sistema experto en la oficina del SISFOH PENSION
+             65 DE LA MUNICIPALIDAD PROVINCIAL DE YUNGUYO donde se obtuvo
+             el resultado estadístico de 90% lo calificó como excelente y el 10% muy
+             bueno, se muestran en el cuadro siguiente.
+
+
+             Esta prueba consistió en la operación, aceptación y la capacidad de
+             respuesta como si un especialista humano estuviese guiando en la solución
+             de problemas que ocurren en las oficinas de pensión 65.
+
+
+             c) Manual de usuario.
+
+
+             El modo de operación es propio de todos los sistemas que cumplen el
+             estándar GUI (Graphical User Interface), sin embargo se puso especial
+             atención en el componente explicativo del sistema con gráficos y textos que
+             van guiando al usuario paso a paso. Además de un módulo especial de
+             explicación en la cual se fundamenta el porqué de la pregunta que se
+             plantea.
+
+
+             d) Documento descripción del sistema.
+             La funcionalidad del prototipo de sistema experto para el diagnóstico y
+             solución de fallas mediante recomendaciones es excelente porque se han
+
+
+
+(32)   Ver Anexo N° 07: EXTRACTO BASE DE HECHOS
+
+                                                                                      52
+     estructurado las fallas de la siguiente manera:
+    4.10.5 VERIFICACIÓN DEL CONOCIMIENTO
+
+
+     a) Análisis de prueba.
+
+
+     Verificamos que el conocimiento sea exacto y preciso durante la prueba de
+     una sesión de preguntas sobre la capacidad de respuestas del sistema
+     experto se ha obtenido:
+
+
+    4.10.6 EVALUACIÓN DEL SISTEMA
+
+
+     a) Evaluación de resultados.
+
+
+     Los resultados de la prueba y verificación del prototipo de sistema experto
+     resultaron satisfactorios debido a que las empresas e instituciones podían
+     tener un software de apoyo para solucionar sus problemas.
+
+
+     b) Validación.
+
+
+     Se define como el proceso que nos indica si hemos construido el sistema
+     correcto para las necesidades planteadas.
+     Para la validación del sistema experto, realizamos una evaluación del
+     sistema con dos especialistas en pensión 65 que no trabajaron en el
+     desarrollo del proyecto, aunque difería en el modo de razonamiento y
+     secuencia de diagnóstico se arribó a las mismas conclusiones.
+
+
+4.11 PRUEBA DEL SISTEMA EXPERTO
+    4.11.1 SITUACIÓN ACTUAL
+
+
+     Para conocer la situación actual sobre la elaboración del SE de la oficina
+     del Programa de Asistencia Solidaria Pensión Sesenta y cinco de la
+
+
+                                                                              53
+municipalidad provincial de Yunguyo se realizó un cuestionario dirigido a
+los actores de dicho Programa.
+Encuesta
+La estructura del primer cuestionario fue el siguiente:
+1. ¿Cuánto tiempo se demora en atender un nuevo beneficiario?
+
+
+a. Menos de cinco horas
+b. Menos de cuatro horas
+c. Menos de tres horas
+d. Menos de dos horas
+e. Menos de una hora
+
+
+2. La complejidad para los cálculos porcentuales mensuales y trimestrales
+    de la programación de atenciones es:
+
+
+a. Muy fácil
+b. Fácil
+c. Normal
+d. Difícil
+e. Muy difícil
+
+
+3. Respecto a los datos e información, ¿tiene dificultad en encontrar las
+    características de los mismos?
+a. Completamente
+b. Aceptablemente
+c. Regular
+d. Poco
+e. Nada
+
+
+Resultado del primer cuestionario
+El resultado de la encuesta a las preguntas fue:
+
+
+                                                                       54
+¿Cuánto tiempo se demora en atender a un nuevo beneficiario?
+
+
+
+
+            Gráfico N° 01: Porcentaje de tiempo de atención
+
+
+1. La complejidad para los cálculos porcentuales mensuales y trimestrales
+   de la programación de atenciones es:
+
+
+
+
+Grafico N° 02: Porcentaje de dificultad de cálculos porcentuales
+
+
+
+
+                                                                       55
+              2. Respecto a los datos e información, ¿Indique la dificultad en encontrar
+                   las características de los mismos?
+                                                                                                         }
+
+
+
+
+                 Grafico N° 03: Porcentaje de dificultad de datos e información
+
+
+             4.11.2 SISTEMA PROPUESTO
+
+
+              Una vez terminada la implementación del sistema, se procedió con el
+              segundo cuestionario luego del uso (pos test)(33).
+
+
+              Encuesta
+              Respecto a la Usabilidad:
+              1. ¿Cuál es su opinión con respecto al uso del sistema experto16?
+
+
+              a. Excelente
+              b. Muy bueno
+              c. Bueno
+
+
+
+
+(33)   [1] AVILA ACOSTA, Roberto B. Inteligencia Artificial. Editorial Estudios y ediciones R.A. Lima, Perú. 2001.
+
+
+                                                                                                                56
+2. ¿Cuál es su opinión con respecto a la interfaz?
+
+
+a. Excelente
+b. Muy bueno
+c. Bueno
+¿Cuál es su opinión con respecto al uso del sistema?
+
+
+
+
+     Grafico N° 04: Opinión sobre el uso del prototipo
+
+
+
+
+                  Grafico N° 05: Uso prototipo
+
+
+Interpretación: De los resultados se puede afirmar que el 52% opina que el
+
+
+                                                                        57
+              uso del sistema es muy bueno, el 34% opina que es excelente y el 14%
+              opina que es bueno, se concluye entonces que el uso del sistema es muy
+              bueno.
+
+
+              ¿Cuál es su opinión con respecto a la interfaz?
+
+
+
+
+                             Grafico N° 06: Interpretación uso del prototipo
+
+
+4.11         REQUERIMIENTO               DE      MATERIALES       Y   EQUIPOS   PARA   EL
+FUNCIONAMIENTO DEL PROTOTIPO DE SISTEMA EXPERTO(34).
+
+
+            4.11.1 Hardware
+              - Un computador compatible Pentium - multimedia.
+              - 32 Mb de memoria RAM.
+              - 120 Mb de espacio libre en el disco duro.
+              - Tarjeta de red Ethernet.
+
+
+            4.11.2 Software
+              - Sistema operativo Microsoft Windows.
+
+(34)   Ver Anexo N° 04: Capacidad Operativa de la Municipalidad
+
+                                                                                       58
+4.12 PRUEBA DE HIPÓTESIS
+
+
+ a) Hipótesis Estadística.
+
+
+ Hipótesis Nula (H0):
+ H0: El modelo de arbitraje soportado por un sistema experto no influye
+ significativamente en la mejora de la gestión de información y validación de
+ beneficiarios del programa pensión sesenta y cinco de la MPY.
+
+
+ Hipótesis Alterna (H1):
+ H1: El modelo de arbitraje soportado por un sistema experto influye
+ significativamente en la mejora de la gestión de información y validación
+ de beneficiarios del programa pensión sesenta y cinco de la MPY.
+
+
+ b) El nivel de significancia.
+ α=0.05
+
+
+ c) Cálculo de la prueba de Wilcoxon para la diferencia de las dos
+ muestras relacionadas:
+ El valor de Z calculado es: Zc = - 3,796
+
+
+d) Determinar el ‘Zc’ tabulado para una cola.
+ Según la tabla de probabilidades de la normal tipificada obtendremos el
+ siguiente valor para Zc
+ Zc = 0.5 – 0.49992 = 0.00008
+
+
+e) Decisión:
+
+
+ El valor de Zc = 0.00008 < 0.05 se ubica en la región de rechazo de la
+
+
+                                                                           59
+           hipótesis nula, por lo tanto, se rechaza la hipótesis nula y se acepta la
+           hipótesis alterna. En consecuencia, se verifica que:
+           “El modelo de arbitraje soportado por un sistema experto influye
+           significativamente en la mejora de la gestión de información y
+           validación de beneficiarios del programa pensión sesenta y cinco de
+           la MPY(35)”
+
+
+
+
+(35) [2]
+      CÓRDOVA ZAMORA, Manuel. ESTADÍSTICA descriptiva e inferencial. Cuarta edición. Editorial Moshera.
+Lima, Perú. 2001.
+
+
+                                                                                                    60
+                     CAPÍTULO V. CONCLUSIONES
+
+
+Las principales conclusiones de esta tesis en orden de desarrollo son:
+
+
+Primera
+
+
+Que aplicando las técnicas de recolección de datos como las entrevistas, y
+captura de información a través de los formatos, se ha obtenido determinar
+con claridad cuales fueron los requerimientos de los usuarios del Programa
+Pensión Sesenta y Cinco de la Municipalidad Provincial de Yunguyo y así
+obtener como resultado el modelo del dominio inicial aplicando los
+Sistemas expertos asimismo los cuestionarios y las pruebas permitieron
+determinar la adaptación de los encargados del Programa Pensión sesenta
+y cinco frente al SE, Para evaluar y validar la investigación de la
+funcionalidad del sistema experto frente a la reducción del tiempo de
+atención para la gestión de información y validación a los beneficiarios del
+Programa de asistencia Social Pensión Sesenta y cinco de la Municipalidad
+Provincial de Yunguyo; se empleó la prueba e estadística de Wilcoxon para
+dos muestras relacionadas.
+
+
+Segunda
+
+
+Al analizar y emplear los principios,   métodos    y herramientas de        la
+inteligencia artificial en el área de sistemas expertos, nos brindo el soporte
+adecuado para desarrollar el prototipo de sistema experto, utilizando el
+lenguaje de programación Visual Prolog. El prototipo de sistema experto
+solucionó los problemas de la validación a los potenciales usuarios del
+Programa Pensión 65 de la Municipalidad Provincial de Yunguyo,
+
+
+
+
+                                                                            61
+Tercera
+
+
+Se demostró que Visual Prolog es un lenguaje de programación de
+inteligencia artificial aplicado a los sistemas expertos muy versátil y
+amigable, muy particularmente para sistemas expertos basados en reglas
+de producción.
+
+
+Cuarta
+
+
+Se demostró que el modelo de arbitraje soportado por un Sistema Experto
+para mejorar la gestión de información y validación de los beneficiarios del
+Programa Social Pensión Sesenta y cinco de la Municipalidad Provincial de
+Yunguyo reduce el tiempo de respuesta a las consultas de los beneficiarios.
+
+
+
+
+                                                                          62
+                 CAPÍTULO VI. RECOMENDACIONES
+
+
+Primera
+
+
+Los sistemas expertos como un área de investigación de la inteligencia
+artificial, hacen uso del conocimiento especializado para resolver
+problemas como un especialista humano, y este tiene conocimientos o
+habilidades especiales para resolver problemas con mucha mayor
+eficiencia y bajo costo. Por lo que se recomienda poner especial énfasis en
+la nueva generación de profesionales de sistemas que dediquen tiempo e
+investigación al desarrollo de los mismos para beneficio de nuestra región.
+
+
+Segunda
+
+
+Ya que es de mucha ayuda el prototipo de sistema experto en la
+manipulación de datos, debido a que estas siempre tienen problemas de
+algún tipo, a lo cual el sistema experto ayuda a solucionar los problemas
+que   se   presenten,    asistiendo   a   los   encargados     de   dichas
+responsabilidades. Por lo que se recomienda un trabajo concienzudo de
+marketing para su promoción y aplicación masiva.
+
+
+Tercera
+
+
+Se recomienda que el prototipo debe culminarse hasta constituirse en un
+sistema experto, y que pueda interactuar con sistemas expertos de
+diagnóstico y solución de manipulación de datos así como el modelo de
+arbitraje soportado por un Sistema Experto para mejorar la gestión de
+información y validación de los beneficiarios del Programa Social Pensión
+Sesenta y cinco de la Municipalidad Provincial de Yunguyo.
+
+
+
+                                                                         63
+          CAPÍTULO VII. GLOSARIO, BIBLIOGRAFÍA Y ANEXOS
+
+
+7.1   GLOSARIO
+
+
+      API. Interfaz de Programación de Aplicaciones, conjunto de estándares o
+      convenciones que permiten a un hipervínculo originar una llamada a un
+      programa externo al servidor. Pfaffenberger (1999).
+      Archivo. Una colección de información completa y con nombre tal como un
+      programa, un conjunto de datos utilizado por un programa, o un documento
+      creado por el usuario. Un archivo es la unidad básica de almacenamiento
+      que habilita a una computadora para distinguir un conjunto de información
+      de otro. Woodcock (2001)
+      Artefacto. Es el término general para cualquier producto del trabajo: código,
+      gráficos Web, esquema de base de datos, documentos de texto,
+      diagramas, modelos, etc. Larman (2001)
+      Browser. Explorador, navegador. Programa que permite al usuario navegar
+      por World Wide Web. Un navegador sirve como cliente de servidores Web
+      y de otro tipo en Internet. Pfaffenberger (1999)
+      Datos. Información (como texto, números, sonidos e imágenes) en un
+      formato que puede procesar una computadora. Pfaffenberger(1999)
+      Escenario. Secuencia de acciones que ilustra un comportamiento. Un
+      escenario se puede utilizar para ilustrar la interacción o ejecución de una
+      instancia de caso de uso. Rumbaugh (2000)
+      Estructura. Distribución y orden de las partes que componen un todo y
+      conjunto de relaciones existentes entre los diversos elementos que la
+      forman, en el que cada elemento depende de los otros y existe en función
+      de ese todo. Larden (2001, p. 83)
+      Formulario. Formulario en pantalla que permite a los usuarios proporcionar
+      información introduciendo datos en las áreas provistas para este fin.
+      Pfaffenberger (1999)
+      Hardware. Componentes electrónicos, tarjetas, periféricos y equipo que
+
+
+                                                                                 64
+conforman un sistema de computación. Pfaffenberger (1999)
+Hipertexto. Texto vinculado en forma compleja y no secuencial de
+asociaciones en el que el usuario puede explorar a través de temas
+relacionados. Woodcock (2001).
+Información. Significado de los datos, según se pretenda que sean
+interpretados. Woodcock (2001)
+Internet. Sistema de redes de computadoras enlazadas, con alcance
+mundial y de continuo crecimiento, que facilita servicios de transmisión de
+datos como el inicio de sesión remoto, transferencia de archivos, correo
+electrónico, World Wide Web y grupos de noticias. Internet, la cual
+descansa sobre TCP/IP, asigna a cada computadora una dirección Internet
+única (IP), con el fin de que dos computadoras puedan conectarse entre sí
+en la red para intercambiar datos. Pfaffenberger (1999)
+Modelo mental (o modelo de usuario). Es la abstracción del conocimiento
+interno que posee el usuario. Este modelo nos da una medida real de lo
+que el usuario piensa/conoce acerca del sistema informático. Este modelo
+guía las intenciones del usuario para realizar una tarea en el sistema.
+Además, este modelo mental se puede ir modificando conforme se
+interacciona con el sistema.
+Modelo. Un modelo es una representación de algo en el mismo u otro
+medio. El modelo capta los aspectos importantes de lo que estamos
+modelando, desde cierto punto de vista y simplifica u omite el resto,
+Rumbaugh (2 000).
+Procedimiento. Secuencia de instrucciones, que suele contar con
+constantes, tipos de datos y variables asociadas, y cuyo objetivo es ejecutar
+una única tarea. Un procedimiento puede llamar (ejecutar) a otros
+procedimientos. Pfaffenberger (1999)
+Programa de aplicación. Un programa diseñado para asistir en la
+realización de una tarea específica, tal como un procesador de texto,
+contabilidad o gestión de inventario. Woodcock (2001)
+Requerimiento. Características que se desea que posea un sistema o un
+
+
+                                                                           65
+software.
+Software. Programa o programas de computadora, en contraste con el
+equipo físico en que se ejecutan estos (hardware). Por convención, el
+software se divide en dos categorías: software de sistema (programa
+necesario para operar la computadora) y programas de aplicación (que
+permite a los usuarios desarrollar tareas utilizando la computadora).
+Pfaffenberger (1999)
+Subsistemas. Un sistema puede estar constituido por múltiples partes y
+subsistemas. En general, desde el punto de vista de un sistema
+determinado, un subsistema es fundamental para el funcionamiento del
+sistema que lo contiene.
+Tecnología. La aplicación de la ciencia e ingeniería al desarrollo de
+máquinas y procedimientos para reforzar o mejorar las condiciones
+humanas, o por lo menos para mejorar la eficacia humana en algunos
+aspectos. Woodcock (2001)
+Telecomunicación. La transmisión y recepción de información de cualquier
+tipo, incluyendo datos, imágenes de televisión, sonido y facsímiles,
+utilizando señales eléctricas u ópticas en viadas sobre cables o fibras o a
+través del aire. Woodcock (2001)
+
+
+
+
+                                                                         66
+7.2   BIBLIOGRAFÍA
+
+
+      7.2.1 TEXTOS
+
+
+       [1] AVILA ACOSTA, Roberto B. Inteligencia Artificial. Editorial Estudios y
+       ediciones R.A. Lima, Perú. 2001.
+
+
+       [2] CÓRDOVA ZAMORA, Manuel. ESTADÍSTICA descriptiva e inferencial.
+       Cuarta edición. Editorial Moshera. Lima, Perú. 2001.
+
+
+       [3] DALTON, Patrick y WHITEHEAD, Paul. Programación. Editorial GRUPO
+       ANAYA. Madrid, España. 2001.
+
+
+       [4] DE LA CRUZ VILLAR, Joel. Java Y MySQL. Primera edición. Editorial
+       Megaby te SAC. Lima, Perú, 2004.
+
+
+       [5] DE MIGUEL CASTAÑO, Adoración y otros. Diseño de base de datos
+       relacionales. Primera edición. Editorial RA -MA. Madrid, España. 2000.
+
+
+       [6] FOWLER, Martín. UML, gota a gota. Editorial Addison Wesley. México.
+       1999.
+
+
+       [7] HERNÁNDEZ SAMPIERI, Roberto y otros. Metodología de la
+       investigación. Cuarta edición. Editorial McGRAW -HILL. Mexico, 2006.
+
+
+       [8] LARDENT, Alberto. Sistemas de información para la gestión
+       empresarial. Editorial Prentice-Hall. Buenos Aire, Argentina. 2001.
+
+
+       [9] LARMAN,Craig. UML y Patrones, una introducción al análisis y diseño
+       orientado a objetos y al Proceso Unificado. Segunda edición. Editorial
+
+
+                                                                                67
+Prentice -Hall. Madrid, España. 2001.
+[10] LUQUE RUIZ, Irene. Base de Datos Desde Chen hasta Codd con
+ORACLE. Primera edición. Editorial RA-MA. Madrid, España, 2002. Página
+de 3 a 6,14, 15.
+
+
+[11] MySQL AB. Manual de referencia de MySQL 5.0. Capítulo:
+Introducción general.2006.
+
+
+[12] PFAFFENBERGER, Bryan. Diccionario de términos de computación.
+Editorial PRINTICE HALL Hispanoamérica SA, México, 1999.
+
+
+
+
+                                                                    68
+7.2.2 DOCUMENTOS ELECTRÓNICOS
+
+
+[w1]ALEGSA HERNÁNDEZ SAMPIERI, Roberto .http:// www. alegsa.
+com.ar/Diccionario/dic. php? palabra=subsistema
+
+
+[w2] ACIMED. Lic. Keilyn Rodríguez Perojo y Lic. Rodrigo Ronda
+León.http://bvs.sld.cu/ revistas/aci/vol14_1_06/aci 08106.htm. Consultado
+el 19 abr 2007
+
+
+[w3] ComIP. Comité de Informática Publica, gobierno de Mendoza; www.
+comip.mendoza.gov.ar/cobit.doc . Gestión pública. Consultado el: 23 may
+2007.
+
+
+[w4] GESTIOPOLIS. VEGA BRICEÑO, Edgar Armando, Disponible en:
+http://www.gestiopolis.com/Canales4/mkt/simparalas.htm. Consultado el:
+19 abr 2007.
+
+
+[w5] BELMONTE MARIN, José. Ingeniería de la Usabilidad. Disponible en:
+http://griho.udl. es/ mpiua/ TrabajosRelacionados/TFC_web_CulturaNoctur
+a. pdf. Consultado el: 7 ene 2007.
+
+
+[w6] TONI GRANOLLERS, Jesús L. La Ingeniería de la Usabilidad y de la
+accesibilidad aplicada al diseño y desarrollo de sitios Web. Disponible en:
+Trabajos Relacionados.pdf. Consultado el: 12 dic 2006.
+
+
+[w7] MARCOS MORA, Mari Carmen.           Evaluación de la Usabilidad en
+sistemas de información Web municipales. Disponible en: http://bd.
+ub.es/isko2005/marcos.pdf. Consultado el: 12 may 2007.
+
+
+[w8] NSU. No Sólo Usabilidad magazine. www. no solo usabilidad
+.com/artículos/cardsorting.htm. Yusef Hassan Montero. Grupo SCImago,
+
+
+                                                                         69
+7.2.3 TESIS
+
+
+ [T1] AGREDA SALDAÑA, Luís Jaime. 2003. “Elaboración de un sistema
+ experto para el área informática de la gerencia departamental Lima de
+ ESSALUD”. Para optar el título de Ingeniero Industrial. Universidad
+ Nacional de Ingeniería. Facultad de Ingeniería Industrial y de Sistemas.
+
+
+ [T2] ARTICA GAMARRA, Maribel Giovanna. 2003. “Implementación del
+ Sistema Administrativo automatizado del Proyecto Especial Pichis
+ Palcazú”. Para optar el título de Ingeniero de Sistemas. Universidad
+ Nacional Federico Villareal. Facultad de Ingeniería Industrial y Sistemas.
+
+
+ [T3] BORJAS GIRALDO, Alejandro César. 2003. “Implementación de
+ Sistema de Gestión Presupuestaria para Entidades Públicas basada en
+ metodología UML” .Para optar el título de Ingeniero de Sistemas.
+ Universidad Nacional Mayor de San Marcos. Facultad de Ingeniería de
+ Sistemas e Informática.
+
+
+ [T4] FLORES MOROCO, Juan Antonio. 2005. “Portal Web Académico
+ utilizando herramientas con Licencia GNU GPL para optimizar la gestión
+ Académica de la Universidad Nacional del Altiplano – 2004”. Para optar el
+ título de Ingeniero de Sistemas. Universidad Nacional del Altiplano.
+ Facultad de Ingeniería Estadística.
+
+
+ [T5] SALCEDO ISLA, Juan Rubén y SÁNCHEZ ORTIZ, Félix Martín. 20 05.
+ “Propuesta de un Sistema de Información de gestión Administrativa para
+ las Unidades de Producción de la Universidad Nacional Mayor de San
+ Marcos”. Para optar el título de Ingeniero de Sistemas. Universidad
+ Nacional Mayor de San Marcos. Facultad de Ingeniería de Sistemas e
+ Informática.
+
+
+
+                                                                              70
+7.3 ANEXOS
+
+
+                         Anexo N° 01
+
+
+             Cuadro N° 02: Unidad Operativa SISFOH
+
+
+
+
+                 Fuente: Oficina MPY Yunguyo
+
+
+
+
+                                                     71
+                                           Cuadro N° 03: Estándares Internacionales
+Cate-
+                                Estándarinternacional                                   Descripción/partes
+gorías
+                                ISO6385(1981)           Principiosergonómicoseneldiseñodesistemasdetrabajo.
+                                                        Procesosdediseñocentradoenelhombreparasistemas
+                                ISO13407(1999)
+                                                        interactivos.
+  Estándarorientadoalproceso
+                                                        Requerimientosergonómicosparatrabajosdeoficinacon
+                                                        terminalesdevisualización.
+                                ISO9241                 Parte1:Introduccióngeneral(1997).
+                                                        Parte2:Guíasobrerequerimientosdetarea(1992).Parte11:Guíasobre
+                                                        usabilidad(1998).
+                                                        Principiosergonómicosrelacionadosconlacargadetrabajo
+                                ISO10075(1991)
+                                                        mental-Términosgeneralesydefiniciones.
+                                                        Tecnologíadelainformación-Evaluacióndeproductode
+                                ISO/IEC14598            software.
+                                                        Parte1:Visióngeneral(1999).
+                                                        Requerimientosergonómicosparatrabajosdeoficina con
+                                                        terminalesdevisualización.
+                                                        Parte3:Requerimientosparalavisualizaciónenmonitores
+                                                        (1992).
+                                                        Parte4:Requerimientosparateclado(1998).
+                                                        Parte5:Requerimientosdeposturay“layout”paraestaciones
+                                                        detrabajo(1998).
+                                                        Parte6:Guíasobreelentornodetrabajo(1999).
+                                                        Parte7:Requerimientosparaeltratamientodereflejoen
+  Estándarorientadoalproducto
+
+
+
+
+                                                        monitores(1998).
+                                ISO9241                 Parte8:Requerimientosparaelusodecoloresenmonitores
+                                                        (1997).
+                                                        Parte9:Requerimientosparadispositivosdeentradasin
+                                                        teclado(2000).
+                                                        Parte10:Principiosdediálogo(1996).
+                                                        Parte12:Presentacióndeinformación(1998).Parte13:Guíadeusuario
+                                                        (1998).
+                                                        Parte14:Diálogosdemenús(1997).
+                                                        Parte15:Diálogosdecomandos(1997).
+                                                        Parte16:Diálogosdemanipulacióndirecta(1999).Parte17:Diálogosp
+                                                        ararellenarformularios(1998).
+                                                        Tecnologíadelainformación-Interfacesysímbolosde
+                                                        sistemasdeusuario-Símbolosyfuncionesdeiconos.
+                                                        Parte1:Iconos-General(2000).
+                                ISO11581
+                                                        Parte2:Iconosdeobjetos(2000).Parte3:Iconosdepunteros(2000).Part
+                                                        e6:Iconosdeacción(1999).
+
+
+
+
+Fuente: Estándares Internacionales en Usabilidad de procesos.
+
+
+
+
+                                                                                                                    72
+                                  Anexo N° 02
+
+
+Ley General del Sistema Nacional del Presupuesto; vigente a partir del 1
+de enero del año2005 [w5]
+
+
+Art. 8°.El Presupuesto constituye el instrumento de gestión del Estado que
+permite a las entidades lograr sus objetivos y metas contenidas en su Plan
+Operativo Institucional (P.O.I.). Asimismo, es la expresión cuantificada,
+conjunta y sistemática de los gastos a atender durante el año fiscal, por
+cada una de las Entidades que forman parte del Sector Público y refleja los
+ingresos que financian dichos gastos.
+
+
+Art.71°.   Planes   y   Presupuestos    Institucionales,   Plan   Estratégico
+Institucional y Plan Operativo.
+
+
+71.1 Las Entidades, para la elaboración de sus Planes Operativos
+Institucionales y Presupuestos Institucionales, deben tomar en cuenta su
+Plan Estratégico Institucional (PEI) que debe ser concordante con el Plan
+Estratégico de desarrollo Nacional (PEDN), los Planes Estratégicos
+Sectoriales Multianuales (PESEM), los Planes de Desarrollo Regional
+Concertados (PDRC), y los Planes de Desarrollo Local Concertados
+(PDLC), según sea el caso.
+
+
+
+
+                                                                           73
+                               Anexo N° 03
+
+
+Estatuto Universitario, aprobado en Asamblea Universitaria del 03 –12-
+1999.
+
+
+De los Órganos de A asesoramiento de la Universidad.
+Art. 48°. La Oficina General de Planificación y Desarrollo es la instancia
+encargada de asesorar a los órganos de gobierno de la Universidad, en la
+formulación y revisión de la política global y los planes de desarrollo, y en
+la elaboración y evaluación del presupuesto. Asimismo, Se encarga de
+proponer normas para racionalizar los recursos materiales y humanos de
+la Universidad.
+De la Gestión Presupuestaria
+
+
+Art. 196°: Son recursos económicos financieros de la Universidad Nacional
+del Altiplano: Los Recursos Ordinarios; los Recursos Directamente
+Recaudados por los centros de investigación y producción o de servicios y
+empresas universitarias; las operaciones de crédito interno o externo; las
+transferencias del Gobierno Regional, Gobierno Local, Instituciones
+Públicas o Privadas nacionales o internacionales; saldos de balance de
+ejercicios anteriores; y otros que provengan de leyes especiales, convenios
+y donaciones.
+
+
+
+
+                                                                           74
+                           Anexo N° 04
+
+
+
+
+Ficha de datos requeridos de la Oficina Central de Focalización Lima
+
+
+
+
+                                                                       75
+       Anexo N° 05
+
+
+
+
+Ficha Socioeconómica Única
+
+
+
+
+                             76
+                          Anexo N° 06
+
+
+
+
+Cada municipalidad podrá adaptar sus actividades de acuerdo a las
+                necesidades de su realidad local.
+
+
+
+
+                                                                    77
+                               Anexo N° 07
+
+
+EXTRACTO BASE DE HECHOS
+
+
+<base_hechos>
+<test_holland>
+<factor>ACTIVIDADES
+<descripción>Seleccione la casilla debajo de Sí para indicar aquellas
+actividades que le gustaría hacer. Seleccione la opción No para indicar
+aquellas que le desagradan hacer o le serían indiferentes
+</descripción>
+<ocupacion>REALISTAS
+<pregunta>Ingresar Datos</pregunta>
+<pregunta>Validar.</pregunta>
+<pregunta>Agregar.</pregunta>
+<pregunta>Reportes.</pregunta>
+<pregunta>Nivel Socio Económico.</pregunta>
+</ocupación>
+<ocupación>INVESTIGATIVAS
+<pregunta>Leer Instructivo Empadronamiento.</pregunta>
+<pregunta>Llenado de FSU.</pregunta>
+</ocupación>
+</factor>
+<factor>HABILIDADES
+<descripción>Seleccione la casilla debajo de Sí para indicar aquellas
+actividades que puede hacer bien o de manera competente. Seleccione la
+opción No para indicar aquellas actividades que nunca ha realizado o
+realiza de manera deficiente
+</descripción>
+<ocupacion>REALISTAS
+<pregunta>     He   usado   herramientas   Informáticos   para   Digitación.
+
+
+                                                                          78
+</pregunta>
+<pregunta>Puedo utilizar estadísticas.</pregunta>
+</beneficiario>
+</factor>
+<nivel>pobre</nivel>
+<nivel>pobre extremo</nivel>
+<nivel>no pobre</nivel>
+<nivel>potencial</nivel>
+<nivel>en espera</nivel>
+<nivel>focalizado</nivel>
+</test_holland>
+</base_hechos>
+
+
+
+
+                                                    79
+EXTRACTO BASE DE CONOCIMIENTO.
+
+
+<base_conocimiento>
+<regla>
+<premisa>REALISTAS > INVESTIGATIVAS> SOCIALES</premisa>
+<conclusión>REALISTAS y INVESTIGATIVAS y SOCIALES</conclusión>
+</regla>
+<regla>
+<premisa>REALISTAS>INVESTIGATIVAS>EMPRENDEDORAS
+</premisa>
+<conclusión> REALISTAS y INVESTIGATIVAS y
+EMPRENDEDORAS</conclusión>
+</regla>
+<regla>
+<premisa> INVESTIGATIVAS>CONVENCIONALES</premisa>
+<conclusion>INVESTIGATIVAS y REALISTAS y
+CONVENCIONALES</conclusion>
+</regla>
+<regla>
+<premisa>EMPRENDEDORAS>INVESTIGATIVAS>
+REALISTAS</premisa>
+<conclusión>EMPRENDEDORAS y INVESTIGATIVAS y
+REALISTAS</conclusión>
+</regla>
+<regla>
+<premisa>REALISTAS y INVESTIGATIVAS y SOCIALES</premisa>
+<conclusión>Pobre</conclusión>
+</regla>
+<regla>
+<premisa>REALISTAS y INVESTIGATIVAS
+VAS y EMPRENDEDORAS</premisa>
+
+
+                                                            80
+<conclusión>Pobre Extremo</conclusión>
+</regla>
+<regla>
+<premisa>INVESTIGATIVAS y REALIST
+AS y CONVENCIONALES </premisa>
+<conclusión> no pobre</conclusión>
+</regla><regla><premisa>EMPRENDEDORAS y INVESTIG
+ATIVAS y REALISTAS</premisa>
+<conclusión>en espera</conclusión>
+</regla></base_conocimiento>
+
+
+
+
+                                                   81
+                     Ocupaciones Realistas
+
+
+
+
+                        Figura N° 17
+Ocupaciones realistas del inventario auto-dirigido de Holland
+
+
+
+
+                                                                82
+               Ocupaciones Investigativas
+
+
+
+
+                    FIGURA N° 18
+OCUPACIONES INVESTIGATIVAS DEL INVENTARIO AUTODIRIGIDO
+                      de Holland
+
+
+
+
+                                                     83
+                Ocupaciones Emprendedoras
+
+
+
+
+                    FIGURA N° 19
+OCUPACIONES EMPRENDEDORAS DEL INVENTARIO AUTO DIRIGIDO
+                    DE HOLLAND.
+
+
+
+
+                                                    84
+              PRUEBAS CON EL USUARIO EXPERTO
+
+
+              CUADRO N° 04: VERIFICACION SISTEMA
+
+                                                 PE001
+Objetivo             Verificar que las respuestas del sistema de la
+                     Evaluación del Inventario auto dirigido de Holland
+                     coincidan las respuestas que el usuario brindaría.
+Resultado Obtenido   Éxito.
+Comentario.          El beneficiario rinde el test en el sistema y en el.
+                     Los resultados obtenidos por el sistema y por el
+                     usuario experto coinciden.
+
+
+
+
+            CUADRO N° 05: VERIFICACION RESPUESTAS
+
+                                                 PE002
+Objetivo             Verificar que las respuestas del sistema de la
+                     evaluación    del     Inventario      de   preferencias
+                     personales    de    Edwards        coincidan   con     las
+                     respuestas que el experto brindaría.
+Resultado Obtenido   Éxito.
+Comentario.          El usuario experto usó el sistema y comprobó que
+                     Los resultados obtenidos coinciden con los que el
+                     proporcionaría.
+
+
+
+
+           CUADRO N° 06: VERIFICACION ACTUALIZACION
+
+                                                PS003
+Objetivo             Verificar que la página demore en ser actualizada
+                     Un tiempo menor a cinco segundos.
+Resultado Obtenido   Éxito.
+
+
+
+
+                                                                                  85
+                     CATALOGO DE PRUEBAS
+
+
+    CUADRO N° 07: VERIFICACION REGISTRAR USUARIOS
+
+                                             PU001-1
+Objetivo              Verificar que se puedan agregar usuarios al
+                      sistema.
+Pasos a seguir           1. Seleccionar la opción “Registrar”.
+                         2. Llenar los campos obligatorios.
+                         3. Seleccionar la opción “Aceptar”.
+Resultado Esperado    Se registró un nuevo usuario en el sistema.
+Resultado Obtenido    Éxito.
+
+
+
+
+     CUADRO N° 08: VERIFICACION MODIFICAR USUARIOS
+
+                                                PU001-2
+Objetivo              Verificar que se puedan modificar usuarios del
+                      sistema.
+Pasos a seguir           1. Seleccionar el nombre del usuario a
+                               modificar.
+                         2. Modificar los valores del usuario.
+                         3. Seleccionar la opción “Aceptar”.
+Resultado Esperado    Se han modificado los datos del usuario.
+Resultado Obtenido    Éxito.
+
+
+
+      CUADRO N° 09: VERIFICACIONELIMINAR USUARIOS
+                                                PU001-3
+Objetivo             Verificar que se puedan agregar eliminar usuarios
+                     del sistema.
+Pasosa seguir            1. Seleccionar la opción “Eliminar”.
+                         2. Contestar afirmativamente a la pregunta de
+                               confirmación.
+Resultado Esperado   Se eliminó el usuario del sistema.
+Resultado Obtenido   Éxito.
+
+
+                                                                         86
+      CUADRO N° 10: VERIFICACION USUARIOS NUEVOS
+
+                                          PU002-1
+Objetivo             Verificar que se puedan agregar USUARIOS
+                     NUEVOS
+
+Pasos a seguir          1. Seleccionar la opción “Registrar”.
+                        2. Llenar los campos obligatorios (Nombre,
+                              presentación, perfill).
+                        3. Seleccionar la opción “Aceptar”.
+Resultado Esperado   Se registró un nuevo usuario en el sistema.
+Resultado Obtenido   Éxito.
+
+
+
+
+ CUADRO N°11: VERIFICACIONPARA MODIFICAR USUSARIOS
+
+                                              PU002-2
+Objetivo             Verificar que se puedan modificar carreras del
+                     sistema.
+Pasos a seguir          1. Seleccionar el nombre USUARIO
+                        2. Modificar los campos necesarios(Nombre,
+                              presentación, perfil, duración, estudios).
+                        3. Seleccionar la opción “Aceptar”.
+
+
+
+
+Resultado Esperado   Se modificó
+Resultado Obtenido   Éxito.
+
+
+
+
+                                                                           87
+       CUADRO N° 12: VERIFICACION INGRESO SISTEMA
+
+                                                  PU003
+Objetivo             Verificar que se puede iniciar sesión utilizando una
+                     Combinación correcta de usuario y contraseña.
+Pasos a seguir          1. Ingresar un nombre de usuario.
+                        2. Ingresar la contraseña del usuario.
+Resultado Esperado   Se inició sesión satisfactoriamente.
+Resultado Obtenido   Éxito.
+
+
+
+
+     CUADRO N° 13: VERIFICACION REGISTRAR REGLAS.
+
+                                                PU004-1
+Objetivo             Verificar que el sistema pueda registrar reglas de la
+                     Base de conocimientos.
+Pasosa seguir           1. Llenar los campos obligatorios(tres
+                              Ocupaciones y conjunto de carreras).
+                        2. Seleccionar la opción “Registrar”.
+Resultado Esperado   Se registró una nueva regla en el sistema.
+Resultado Obtenido   Éxito.
+
+
+
+
+       CUADRO N° 14: VERIFICACIONELIMINAR REGLAS
+
+                                                PU004-2
+Objetivo             Verificar que el sistema pueda eliminar reglas de la
+                     Base de conocimientos.
+Pasos a seguir          1. Seleccionar la opción “Eliminar”.
+                        2. Contestar afirmativamente a la pregunta de
+                              confirmación.
+Resultado Esperado   Se eliminó la regla del sistema.
+Resultado Obtenido   Éxito.
+
+
+
+
+                                                                             88
+    CUADRO N° 15: VERIFICACION MODIFICAR USUARIOS
+
+                                                PU005-1
+Objetivo             Verificar que el usuario pueda modificar la
+                     Información relacionada a usuarios en espera.
+
+
+Pasos a seguir          1. Modificar los campos necesarios (nombre
+                              del     factor     y      descripción,     lista     de
+                              ocupaciones).
+                         2. Seleccionar la opción “Guardar”.
+Resultado Esperado   Se modificó el factor.
+Resultado Obtenido   Éxito.
+
+
+
+
+   CUADRO N° 16: VERIFICACION POTENCIALES USUARIOS
+
+                                                    PU005-2
+Objetivo             Verificar      que    el   usuario pueda          registrar   la
+                     información          relacionada      al   Inventario         de
+                     preferencias personales del programa.
+Pasos a seguir          1. Llenar los campos obligatorios(descripción).
+                         2. Seleccionar la opción “Guardar”.
+Resultado Esperado   Se registró exitosamente la información ingresada
+                     Del Inventario auto dirigido de Holland en el
+                     sistema.
+Resultado Obtenido   Éxito.
+
+
+
+
+                 CUADRO N° 17: VALIDAR USUARIOS
+                                               PU005-3
+Objetivo             Verificar que se puedan registrar el nombre de las
+                     Personas a evaluar por el sistema.
+Pasos a seguir          1. Ingresar el nombre.
+                         2. Seleccionar la opción “Guardar”.
+Resultado Esperado   Se registró exitosamente.
+Resultado Obtenido   Éxito.
+
+
+                                                                                        89
+       CUADRO N° 18: ELIMINAR USUARIOS EVALUADOS
+
+                                               PU005-6
+Objetivo             Verificar que se puedan eliminar el nombre de Los
+                     usuarios evaluados por el sistema.
+
+Pasos a seguir          1. Seleccionar la opción “Eliminar”.
+                        2. Contestar afirmativamente a la pregunta de
+                              confirmación.
+Resultado Esperado   Se eliminó el nombre de la carrera del sistema.
+Resultado Obtenido   Éxito.
+
+
+
+
+                                                                         90
+        Resultados del Sistema
+
+
+              Figura N° 20
+   Figura N° 20.1: Reportes de Usuarios
+
+
+
+
+Figura N° 20.2: Reportes de Usuarios N° 01
+
+
+
+
+                                             91
+Figura N° 20.3: Reportes de Usuarios N° 02
+
+
+
+
+Figura N° 20.4: Reportes de Usuarios N° 03
+
+
+
+
+                                             92
+              Figura N° 20.5: Reportes de Usuarios N° 04
+
+
+
+
+Figura N° 20.6: Reportes de Usuarios N° 05
+
+
+
+
+              Figura N° 20.7: Reportes de Usuarios N° 06
+
+
+
+
+                                                           93
+Figura N° 20.8: Reportes de Usuarios N° 07
+
+
+
+
+Figura N° 20.9: Reportes de Usuarios N° 08
+
+
+
+
+                                             94
+Figura N° 20.10: Reportes de Usuarios N° 09
+
+
+
+
+Figura N° 20.11: Reportes de Usuarios N° 10
+
+
+
+
+                                              95
+Figura N° 20.12: Reportes de Usuarios N° 11
+
+
+
+
+Figura N° 20.13: Reportes de Usuarios N° 12
+
+
+
+
+                                              96
+Figura N° 20.14: Reportes de Usuarios N° 13
+
+
+
+
+Figura N° 20.15: Reportes de Usuarios N° 14
+
+
+
+
+                                              97
+              Figura N° 20.16: Reportes de Usuarios N° 15
+
+
+
+
+Figura N° 20.17: Reportes de Usuarios N° 16
+
+
+
+
+                                                            98
+Figura N° 20.18: Reportes de Usuarios N° 17
+
+
+
+
+                                              99
+Figura N° 20.19: Reportes de Usuarios N° 18
+
+
+
+
+Figura N° 20.20: Reportes de Usuarios N° 19
+
+
+
+
+                                              100
+Figura N° 20.21: Reportes de Usuarios N° 20
+
+
+
+
+Figura N° 20.22: Reportes de Usuarios N° 21
+
+
+
+
+                                              101
+Figura N° 20.23: Reportes de Usuarios N° 22
+
+
+
+
+Figura N° 20.24: Reportes de Usuarios N° 23
+
+
+
+
+                                              102
+Figura N° 20.25: Reportes de Usuarios N° 24
+
+
+
+
+                                              103
+7.4 SIGLAS
+
+
+      MIDIS                  Ministerio de Desarrollo e Inclusión Social
+      SISFOH                 Sistema de Focalización de Hogares
+      UCF                    Unidad Central de Focalización
+      ULF                    Unidad Local de Focalización
+      Us                     Usuario
+      FSU                    Ficha Socioeconómica Única
+      DDL                    Data Definition Language
+      DML                    Data Manipulation Language.
+      DSDL                   Data Storage Definition Lnguage
+      HTTP                   Hipert Text Transfer Protocol
+      M.E.F.                 Ministerio de Economía y Finanzas
+      O.G.P.D.               Oficina General de Planificación y Desarrollo
+      O.P.P.                 Oficina de Planes y Proyectos
+      P.O.A.                 Plan Operativo Anual
+      P.O.I.                 Plan Operativo Institucional
+      R.D.R.                 Recursos Directamente Recaudados
+      R.O.                   Recursos Ordinarios
+      RSA                    Rivest Shamir Adleman (Sist. Criptográfico con
+      clave Pública) SE Sistema Experto
+      T.I.C.                 Tecnología de Información y Comunicación
+      U.N.A.                 Universidad Nacional del Altiplano
+      SE                     Sistema Experto
+
+
+
+
+                                                                             104
+
