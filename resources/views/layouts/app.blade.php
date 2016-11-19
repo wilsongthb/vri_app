@@ -13,6 +13,7 @@
     <!-- Styles -->
     <link href="{{url('/css/app.css')}}" rel="stylesheet">
     <link href="{{url('/css/w3.css')}}" rel="stylesheet">
+    @yield('link')
 
     <!-- Scripts -->
     <script>

@@ -19,7 +19,7 @@
     <div class="panel-heading">Administracion</div>
     <div class="panel-body">
         <ul>
-            <li><a href="{{url('/vri/archivosycarpetas')}}">Archivos y Carpetas</a></li>
+            <li><a href="{{url('/vri/archivosycarpetas')}}">Ver Archivos y Carpetas</a></li>
             <li><a href="#">Lista de Fuentes</a></li>
         </ul>
     </div>
