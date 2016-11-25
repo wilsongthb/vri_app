@@ -1,5 +1,7 @@
 /node_modules
 /public/storage
+/public/php/PDFs
+/public/php/TXTs
 /vendor
 /.idea
 Homestead.json

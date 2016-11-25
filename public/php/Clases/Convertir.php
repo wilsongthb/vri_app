@@ -41,7 +41,7 @@ class Convertir
             - esta funcion convierte todos los archivos PDF a TXT de la $ruta
             - esta funcion esta hecha para ser usada en cli porque puede
               tomar mucho tiempo como espera de un response
-            - se recomienda su uso en cli
+            - esta funcion esta diseñada para su uso en cli(linea de comandos de linux)
             - para guardar las respuesta mostradas en un string agrege un tercer
               parametro con el valor true
         */
@@ -108,5 +108,16 @@ class Convertir
             'respuestas' => $r,
             'ocurrencias' => $ocurrencias
         ];
+    }
+    public static function PDFaTXT($pdf, $destino){
+        echo getcwd()."\n";
+        $comando = 'pdftotext -layout "' . $pdf . '" >>respuesta.txt 2>>error.txt';
+        echo "$comando\n";
+        exec($comando);
+
+        $ruta_txt = substr($pdf, 0, strrpos($pdf, '.')) . '.txt';
+        $comando = 'mv "' . $ruta_txt . '" "' . $destino . '" >>respuesta.txt 2>>error.txt';
+        echo "$comando\n";
+        system($comando);
     }
 }

@@ -1,6 +1,4 @@
 <?php
 require('../Clases/Archivos.php');
-//php file "repositorio" "N orden"
-//ejm: php file ../src 2
 echo Archivos::lista_c($argv[1])['archivos'][$argv[2]]['direccion'] . PHP_EOL;
 ?>
