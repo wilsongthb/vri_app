@@ -1,4 +1,6 @@
 <?php
+/*devuelve un response html que muestra la ultima linea escrita en respuesta.txt*/
+
 $fichero = "respuesta.txt";
 $filas = file($fichero);
 $ultima_linea = count($filas);

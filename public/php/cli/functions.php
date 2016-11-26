@@ -1,4 +1,13 @@
 <?php
+/*
+    Estas funcions estan definidas solo para la aplicacion class_implements
+    no estan preparadas para ser usadas para la web
+
+    aun no se a comprobado la seguridad de las funciones
+    aun no se ha comprobado errores de las funciones
+*/
+
+
 require('../Clases/Archivos.php');
 require('../Clases/Convertir.php');
 
@@ -7,13 +16,12 @@ function imprimir($frase){
     echo $frase . PHP_EOL;
 }
 function buscar($repositorios, $ruta_archivo_verificar, &$resultados){
-    //$resultados = [];
     $resultados_p = [];
 
     $archivo_verificar = file_get_contents($ruta_archivo_verificar);
 
     foreach ($repositorios as $repositorio) {
-        foreach ($repositorio['archivos'] as $clave => $archivo) {
+        foreach ($repositorio as $clave => $archivo) {
             $archivo_string = file_get_contents($archivo['direccion']);
 
             $similitud = 0;
@@ -25,25 +33,15 @@ function buscar($repositorios, $ruta_archivo_verificar, &$resultados){
                 'similitud' => $similitud
             ];
             
-            imprimir($clave+1 . " de " . count($repositorio['archivos']));
+            imprimir($clave+1 . "\tde " . count($repositorio));
         }
     }
     arsort($resultados_p);
     return $resultados_p;
 }
+function comparacion($text1, $text2){
+    /*
+        compara dos strings, devuelve una cadena con las partes iguales
+    */
 
-$repositorios = [
-    'pruebas' => Archivos::lista_c('../src')
-];
-
-$ruta_archivo_verificar = '../src/¿Por qué Michael Phelps puede tomar 12.txt';
-
-$tiempo_inicio = microtime(true);
-$resultados_p = buscar($repositorios,$ruta_archivo_verificar, $resultados);
-$tiempo_fin = microtime(true);
-$tiempo = bcsub($tiempo_fin, $tiempo_inicio, 4);
- 
-imprimir("Tiempo empleado: " . ($tiempo) . "s");
-
-print_r($resultados_p);
-?>
+}

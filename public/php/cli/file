@@ -1,4 +1,0 @@
-<?php
-require('../Clases/Archivos.php');
-echo Archivos::lista_c($argv[1])['archivos'][$argv[2]]['direccion'] . PHP_EOL;
-?>

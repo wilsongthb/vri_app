@@ -1,0 +1,10 @@
+<?php
+$text1 = file_get_contents('prueba.txt');
+
+$res = str_replace(
+    [' ','\n','
+'],
+    '',
+    $text1
+);
+echo $res;
