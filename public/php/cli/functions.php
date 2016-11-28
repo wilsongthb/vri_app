@@ -39,9 +39,48 @@ function buscar($repositorios, $ruta_archivo_verificar, &$resultados){
     arsort($resultados_p);
     return $resultados_p;
 }
-function comparacion($text1, $text2){
+function comparacion($text1, $text2, $minimo = 10){
     /*
         compara dos strings, devuelve una cadena con las partes iguales
     */
 
+    $ultimo_encontrado = "";
+    $encontrados = [];
+    $buscado = "";
+    /*
+    for ($i=0; $i < strlen($text1); $i++) { 
+        //echo $text1[$i] . "...";
+        
+        while(stripos($text2, $buscado) !== false){
+            $ultimo_encontrado = $buscado;
+            //echo "se encontro $buscado\n";
+            //$ultimo_encontrado .= $buscado;
+            $buscado .= $text1[$i]; 
+        }
+    }
+    echo "Ultimo encontrado: $ultimo_encontrado\n";*/
+    for ($i=0; $i < strlen($text1); $i++) {
+        $buscado .=  $text1[$i];
+        $posicion = stripos($text2, $buscado);
+        if($posicion !== false){
+            //echo "s";
+            $ultimo_encontrado = $buscado;
+        }else{
+            //echo "n";
+            if(strlen($ultimo_encontrado) > $minimo){
+                $encontrados[] = $ultimo_encontrado;
+            }
+            $buscado = "";
+        }
+    }
+    $orden = [];
+    foreach ($encontrados as $key => $value) {
+        $orden[$key] = strlen($value);
+    }
+    asort($orden);
+    $mayor_coincidencia = $encontrados[array_keys($orden, max($orden))[0]];
+    return [
+        'encontrados' => $encontrados,
+        'mayor coincidnecia' => $mayor_coincidencia
+    ];
 }
