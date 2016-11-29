@@ -47,40 +47,34 @@ function comparacion($text1, $text2, $minimo = 10){
     $ultimo_encontrado = "";
     $encontrados = [];
     $buscado = "";
-    /*
-    for ($i=0; $i < strlen($text1); $i++) { 
-        //echo $text1[$i] . "...";
-        
-        while(stripos($text2, $buscado) !== false){
-            $ultimo_encontrado = $buscado;
-            //echo "se encontro $buscado\n";
-            //$ultimo_encontrado .= $buscado;
-            $buscado .= $text1[$i]; 
-        }
-    }
-    echo "Ultimo encontrado: $ultimo_encontrado\n";*/
-    for ($i=0; $i < strlen($text1); $i++) {
+
+    $longitud_text1 = strlen($text1);
+
+    for ($i=0; $i < $longitud_text1; $i++) {
         $buscado .=  $text1[$i];
         $posicion = stripos($text2, $buscado);
         if($posicion !== false){
-            //echo "s";
+            echo "+";
             $ultimo_encontrado = $buscado;
         }else{
-            //echo "n";
+            echo ">";
             if(strlen($ultimo_encontrado) > $minimo){
-                $encontrados[] = $ultimo_encontrado;
+                if(!array_search(utf8_encode($ultimo_encontrado), $encontrados)){
+                    $encontrados[] = utf8_encode($ultimo_encontrado);
+                }
             }
             $buscado = "";
         }
+        echo $i+1 . ' de ' . $longitud_text1 . PHP_EOL;
     }
     $orden = [];
     foreach ($encontrados as $key => $value) {
         $orden[$key] = strlen($value);
     }
     asort($orden);
-    $mayor_coincidencia = $encontrados[array_keys($orden, max($orden))[0]];
+    $mayor_coincidencia = utf8_encode($encontrados[array_keys($orden, max($orden))[0]]);
     return [
         'encontrados' => $encontrados,
-        'mayor coincidnecia' => $mayor_coincidencia
+        'mayor coincidencia' => $mayor_coincidencia
     ];
 }
