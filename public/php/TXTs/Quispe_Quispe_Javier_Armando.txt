@@ -1,91 +1,82 @@
 UNIVERSIDAD NACIONAL DEL ALTIPLANO
-     Facultad de Ingeniería Civil y Arquitectura
- Escuela Profesional de Ciencias Físico - Matemáticas
+Facultad de Ingeniería Civil y Arquitectura
+Escuela Profesional de Ciencias Físico - Matemáticas
 
-
-
-
- “DETERMINACIÓN DE LA VARIACIÓN DEL EXCESO DE
-      REACTIVIDAD POR MODIFICACIÓN EN LA
+“DETERMINACIÓN DE LA VARIACIÓN DEL EXCESO DE
+REACTIVIDAD POR MODIFICACIÓN EN LA
 CONFIGURACIÓN DE BARRAS DE CONTROL Y POSICIÓN
-    DE ELEMENTOS COMBUSTIBLES DEL REACTOR
-                NUCLEAR RP10”
+DE ELEMENTOS COMBUSTIBLES DEL REACTOR
+NUCLEAR RP10”
 
+TESIS
+PRESENTADO POR:
 
-                      TESIS
-
-                  PRESENTADO POR:
-
-        Quispe Quispe Javier Armando
-
-        PARA OPTAR EL TITULO PROFESIONAL DE:
+Quispe Quispe Javier Armando
+PARA OPTAR EL TITULO PROFESIONAL DE:
 
 LICENCIADO EN CIENCIAS FÍSICO MATEMÁTICAS
+PUNO - PERÚ
+2016
 
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+FACULTAD DE INGENIERÍA CIVIL Y ARQUITECTURA
+ESCUELA PROFESIONAL DE CS. FÍSICO MATEMÁTICAS
+DETERMINACIÓN DE LA VARIACIÓN DEL EXCESO DE REACTIVIDAD POR MODIFICACIÓN EN LA
+CONFIGURACIÓN DE BARRAS DE CONTROL Y POSICIÓN DE ELEMENTOS COMBUSTIBLES DEL REACTOR
+NUCLEAR RP10
 
-                     PUNO - PERÚ
+TESIS
+Presentado por:
+Javier Armando Quispe Quispe
 
-                         2016
-                        UNIVERSIDAD NACIONAL DEL ALTIPLANO
-                       FACULTAD DE INGENIERÍA CIVIL Y ARQUITECTURA
-                     ESCUELA PROFESIONAL DE CS. FÍSICO MATEMÁTICAS
+APROBADO POR EL JURADO SUPERVISOR CONFORMADO POR:
 
+PRESIDENTE
 
-    DETERMINACIÓN DE LA VARIACIÓN DEL EXCESO DE REACTIVIDAD POR MODIFICACIÓN EN LA
- CONFIGURACIÓN DE BARRAS DE CONTROL Y POSICIÓN DE ELEMENTOS COMBUSTIBLES DEL REACTOR
-                                    NUCLEAR RP10
+:
 
+__________________________________________
+Lic. Hugo CONDORI RAMOS
 
+PRIMER MIEMBRO
 
-                                          TESIS
-                                      Presentado por:
+:
 
-                                Javier Armando Quispe Quispe
+__________________________________________
+Lic. Faustino MURILLO MAMANI
 
+SEGUNDO MIEMBRO
 
+:
 
-                  APROBADO POR EL JURADO SUPERVISOR CONFORMADO POR:
+__________________________________________
+Lic. Pedro QUISPE AYMACHOQUE
 
+DIRECTOR DE TESIS
 
+:
 
-PRESIDENTE                  :         __________________________________________
+__________________________________________
+Lic. Matías HUILLCA ARBIETO
 
-                                                Lic. Hugo CONDORI RAMOS
+ASESOR DE TESIS
 
+Área:
 
+:
 
-PRIMER MIEMBRO              :         __________________________________________
+__________________________________________
 
-                                              Lic. Faustino MURILLO MAMANI
+Física
 
+Línea de Investigación: Física Nuclear
 
-
-SEGUNDO MIEMBRO          :            __________________________________________
-
-                                            Lic. Pedro QUISPE AYMACHOQUE
-
-
-
-DIRECTOR DE TESIS       :             __________________________________________
-
-                                               Lic. Matías HUILLCA ARBIETO
-
-
-
-ASESOR DE TESIS         :             __________________________________________
-
- Área:         Física
-
- Línea de Investigación: Física Nuclear
-         DEDICATORIA
-
+DEDICATORIA
 A mis padres David y Nelly
+a mi hermana Karen
+y a todos mis amigos
 
-       a mi hermana Karen
-
-      y a todos mis amigos
 Agradecimientos
-
 
 Tengo el placer de escribir estas líneas el cual me permite expresar mis sentimientos de
 gratitud hacia todas las personas que me apoyaron en la realización de este trabajo de
@@ -109,96 +100,97 @@ agradezco infinitamente al grupo de Física experimental de reactores RENU y gru
 cálculo de análisis y seguridad CASE del IPEN conformados por el Mg. Rubén Bruna,
 Mg. Mariano Vela, Mg. Alberto Gallardo, Mg. José Castro, Mg. Roberto Giol, Ing.
 Alberto Salazar por todo el apoyo que me brindaron.
-
 De igual forma agradezco a mi director de tesis al Lic. Matías Huillca por haberme
 guiado en la elaboración de la tesis, agradezco a todos los docentes de la escuela
 profesional de ciencias Físico Matemáticas de la Universidad Nacional del Altiplano
 por los años de formación durante el periodo de pregrado.
-Índice
 
+Índice
 Resumen ...................................................................................................................................... 11
 Abstract ....................................................................................................................................... 12
 Introducción ................................................................................................................................ 13
-   1.1. Planteamiento del problema ............................................................................................ 13
-   1.2. Antecedentes de la investigación .................................................................................... 14
-   1.3. Hipótesis.......................................................................................................................... 15
-   1.4. Objetivos ......................................................................................................................... 15
-       1.4.1. Objetivos generales .................................................................................................. 15
-       1.4.2. Objetivos Específicos .............................................................................................. 15
-   1.5. Justificación .................................................................................................................... 16
-   1.6. Limitaciones de estudio................................................................................................... 16
-   1.7. Definición de términos .................................................................................................... 17
-       1.7.1. Quemado ................................................................................................................. 17
-       1.7.2. Reactividad............................................................................................................... 17
-       1.7.3. Exceso de Reactividad ............................................................................................ 17
-       1.7.4. Barra de control ........................................................................................................ 17
-       1.7.5. Scram ....................................................................................................................... 17
-       1.7.6. Núcleo ...................................................................................................................... 17
-       1.7.7. Crítico....................................................................................................................... 18
-       1.7.8. Físil........................................................................................................................... 18
-       1.7.9. Factor de multiplicación efectivo ............................................................................. 18
+1.1. Planteamiento del problema ............................................................................................ 13
+1.2. Antecedentes de la investigación .................................................................................... 14
+1.3. Hipótesis.......................................................................................................................... 15
+1.4. Objetivos ......................................................................................................................... 15
+1.4.1. Objetivos generales .................................................................................................. 15
+1.4.2. Objetivos Específicos .............................................................................................. 15
+1.5. Justificación .................................................................................................................... 16
+1.6. Limitaciones de estudio................................................................................................... 16
+1.7. Definición de términos .................................................................................................... 17
+1.7.1. Quemado ................................................................................................................. 17
+1.7.2. Reactividad............................................................................................................... 17
+1.7.3. Exceso de Reactividad ............................................................................................ 17
+1.7.4. Barra de control ........................................................................................................ 17
+1.7.5. Scram ....................................................................................................................... 17
+1.7.6. Núcleo ...................................................................................................................... 17
+1.7.7. Crítico....................................................................................................................... 18
+1.7.8. Físil........................................................................................................................... 18
+1.7.9. Factor de multiplicación efectivo ............................................................................. 18
 Marco teórico .............................................................................................................................. 19
-   2.1. Fisión Nuclear ................................................................................................................. 19
-   2.2. Sección eficaz ................................................................................................................. 21
-       2.2.1. Sección eficaz neutrónica ......................................................................................... 22
-   2.3. Cinética de los reactores nucleares ................................................................................. 24
-       2.3.1. Neutrones instantáneos y neutrones retardados........................................................ 24
-       2.3.2. Fracción efectiva de neutrones retardados en un reactor finito ................................ 27
-       2.3.3. Ecuaciones de la cinética puntual............................................................................. 27
-       2.3.4. Ecuación de Inhour .................................................................................................. 28
-       2.3.5. Método del periodo positivo ................................................................................... 29
-   2.4. Detectores de neutrones .................................................................................................. 29
+2.1. Fisión Nuclear ................................................................................................................. 19
+2.2. Sección eficaz ................................................................................................................. 21
+2.2.1. Sección eficaz neutrónica ......................................................................................... 22
+2.3. Cinética de los reactores nucleares ................................................................................. 24
+2.3.1. Neutrones instantáneos y neutrones retardados........................................................ 24
+2.3.2. Fracción efectiva de neutrones retardados en un reactor finito ................................ 27
+2.3.3. Ecuaciones de la cinética puntual............................................................................. 27
+2.3.4. Ecuación de Inhour .................................................................................................. 28
+2.3.5. Método del periodo positivo ................................................................................... 29
+2.4. Detectores de neutrones .................................................................................................. 29
+
 Metodología ................................................................................................................................ 31
-   3.1 Metodología ...................................................................................................................... 31
-   3.2. Equipos e instrumentos de medición............................................................................... 33
-       3.2.1. Reactor nuclear RP – 10 ........................................................................................... 33
-       3.2.2. Panel de control del RP10 ........................................................................................ 36
-       3.2.3. Sistema de adquisición de datos ............................................................................... 36
+3.1 Metodología ...................................................................................................................... 31
+3.2. Equipos e instrumentos de medición............................................................................... 33
+3.2.1. Reactor nuclear RP – 10 ........................................................................................... 33
+3.2.2. Panel de control del RP10 ........................................................................................ 36
+3.2.3. Sistema de adquisición de datos ............................................................................... 36
 Procedimiento experimental........................................................................................................ 38
-   4.1. Identificación de los componentes del núcleo.................................................................. 38
-       4.1.1. Identificación de las barras de control y seguridad .................................................. 38
-       4.1.2. Identificación de los elementos combustibles .......................................................... 39
-   4.2. Calibración de las barras de control en configuración diagonal ..................................... 40
-   4.3. Construcción de núcleos experimentales ........................................................................ 42
-   4.4. Determinación de posición a crítico de los núcleos ........................................................ 45
-   4.5. Determinación del exceso de reactividad ........................................................................ 47
-   4.6. Cambio de configuración de núcleo ................................................................................ 49
-   4.7. Calibración de las barras de control en configuración lineal .......................................... 49
-   4.8. Construcción de núcleos experimentales ........................................................................ 51
-   4.9. Determinación de posición a critico de los núcleos ........................................................ 52
-   4.10. Determinación del exceso de reactividad ...................................................................... 54
+4.1. Identificación de los componentes del núcleo.................................................................. 38
+4.1.1. Identificación de las barras de control y seguridad .................................................. 38
+4.1.2. Identificación de los elementos combustibles .......................................................... 39
+4.2. Calibración de las barras de control en configuración diagonal ..................................... 40
+4.3. Construcción de núcleos experimentales ........................................................................ 42
+4.4. Determinación de posición a crítico de los núcleos ........................................................ 45
+4.5. Determinación del exceso de reactividad ........................................................................ 47
+4.6. Cambio de configuración de núcleo ................................................................................ 49
+4.7. Calibración de las barras de control en configuración lineal .......................................... 49
+4.8. Construcción de núcleos experimentales ........................................................................ 51
+4.9. Determinación de posición a critico de los núcleos ........................................................ 52
+4.10. Determinación del exceso de reactividad ...................................................................... 54
 Análisis y discusión de resultados............................................................................................... 55
-   5.1. Resultados con las barras en posición DIAGONAL ....................................................... 55
-       5.1.1. Tiempos de doblaje de flujo ..................................................................................... 55
-       5.1.2. Reactividades de las barras de control ..................................................................... 56
-       5.1.3. Curvas de reactividad acumulada............................................................................. 57
-       5.1.4. Posiciones a crítico................................................................................................... 59
-       5.1.5. Excesos de reactividad ............................................................................................. 60
-   5.2. Resultados con las barras en posición LINEAL.............................................................. 62
-       5.2.1. Tiempos de doblaje de flujo ..................................................................................... 62
-       5.2.2. Reactividades de las barras de control ..................................................................... 63
-       5.2.3. Curvas de reactividad acumulada............................................................................. 63
-       5.2.4. Posiciones a crítico................................................................................................... 65
-       5.2.5. Excesos de reactividad ............................................................................................. 66
-   5.3. Discusión de resultados ................................................................................................... 68
+5.1. Resultados con las barras en posición DIAGONAL ....................................................... 55
+5.1.1. Tiempos de doblaje de flujo ..................................................................................... 55
+5.1.2. Reactividades de las barras de control ..................................................................... 56
+5.1.3. Curvas de reactividad acumulada............................................................................. 57
+5.1.4. Posiciones a crítico................................................................................................... 59
+5.1.5. Excesos de reactividad ............................................................................................. 60
+5.2. Resultados con las barras en posición LINEAL.............................................................. 62
+5.2.1. Tiempos de doblaje de flujo ..................................................................................... 62
+5.2.2. Reactividades de las barras de control ..................................................................... 63
+5.2.3. Curvas de reactividad acumulada............................................................................. 63
+5.2.4. Posiciones a crítico................................................................................................... 65
+5.2.5. Excesos de reactividad ............................................................................................. 66
+5.3. Discusión de resultados ................................................................................................... 68
 Conclusiones y recomendaciones ............................................................................................... 78
-   6.1. Conclusiones ................................................................................................................... 78
-   6.2. Recomendaciones............................................................................................................ 79
+
+6.1. Conclusiones ................................................................................................................... 78
+6.2. Recomendaciones............................................................................................................ 79
 Bibliografía ................................................................................................................................. 80
 Apéndice A ................................................................................................................................. 82
-   A.1 Código WIMS .................................................................................................................. 82
-   A.2 Código CITATION .......................................................................................................... 82
-   A.3 Código WIMSCIT ............................................................................................................ 82
-       A.3.1. Requerimientos de software .................................................................................... 82
-   A.4 Código CITVAP............................................................................................................... 83
+A.1 Código WIMS .................................................................................................................. 82
+A.2 Código CITATION .......................................................................................................... 82
+A.3 Código WIMSCIT ............................................................................................................ 82
+A.3.1. Requerimientos de software .................................................................................... 82
+A.4 Código CITVAP............................................................................................................... 83
 Apéndice B.................................................................................................................................. 85
-   B.1. Demostración de la ecuación de Inhour ......................................................................... 85
+B.1. Demostración de la ecuación de Inhour ......................................................................... 85
 Apéndice C.................................................................................................................................. 87
-   C.1. Ecuación de INHOUR utilizado en el RP-10 para hallar reactividad ............................. 87
+C.1. Ecuación de INHOUR utilizado en el RP-10 para hallar reactividad ............................. 87
 Apéndice D .................................................................................................................................. 88
-   D.1. Fotos ............................................................................................................................... 88
-Índice de figuras
+D.1. Fotos ............................................................................................................................... 88
 
+Índice de figuras
 Figura 2.1. Fisión nuclear .......................................................................................................... 19
 Figura 2.2. Reacción en cadena.................................................................................................. 20
 Figura 2.3. Áreas que representan una probabilidad de reacción ............................................... 23
@@ -235,13 +227,14 @@ Figura 5.2. Curva integral de reactividad de la BC2, en posición Diagonal .....
 Figura 5.3. Curva integral de reactividad de la BC1, en posición Lineal .................................. 64
 Figura 5.4. Curva integral de reactividad de la BC2, en posición Lineal .................................. 64
 Figura 5.5. Excesos de reactividad para cada configuración de núcleo con las barras de control
-             en posición DIAGONAL ........................................................................................ 68
+en posición DIAGONAL ........................................................................................ 68
 Figura 5.6. Análisis estadístico de los excesos de reactividad para todos los núcleos con las
-            barras de control en posición DIAGONAL .............................................................. 69
+barras de control en posición DIAGONAL .............................................................. 69
 Figura 5.7. Excesos de reactividad para cada configuración de núcleo con las barras de control
-             en posición LINEAL ............................................................................................... 70
+en posición LINEAL ............................................................................................... 70
 Figura 5.8. Análisis estadístico de los excesos de reactividad para todos los núcleos con las
-             barras de control en posición LINEAL ................................................................... 70
+barras de control en posición LINEAL ................................................................... 70
+
 Figura 5.9. BC2 introducida vs exceso de reactividad con BC1:0%Barra................................. 71
 Figura 5.10. Barra introducida BC1 vs exceso de reactividad con BC2:0%.............................. 71
 Figura 5.11. Barra introducida BC2 vs exceso de reactividad con BC1:35%............................ 72
@@ -251,11 +244,11 @@ Figura 5.14. Barra introducida BC1 vs exceso de reactividad con BC2:0%..........
 Figura 5.15. Barra introducida BC2 vs exceso de reactividad con BC1:35%............................ 74
 Figura 5.16. Barra introducida BC1 vs exceso de reactividad con BC2:46%............................ 74
 Figura 5.17. Exceso de reactividad vs configuración de núcleo vs posición a crítico con las
-             barras de control en posición DIAGONAL........................................................... 75
+barras de control en posición DIAGONAL........................................................... 75
 Figura 5.18. Exceso de reactividad vs configuración de núcleo vs posición a crítico con las
-             barras de control en posición LINEAL ................................................................. 76
+barras de control en posición LINEAL ................................................................. 76
 Figura 5.19. Comparación de los resultados experimentales con los códigos Wimscit y Citvap
-             para la configuración de Núcleo de barras DIAGONAL ...................................... 77
+para la configuración de Núcleo de barras DIAGONAL ...................................... 77
 Figura D.1. Reactor nuclear RP – 10 ......................................................................................... 88
 Figura D.2. Vista interior del reactor ......................................................................................... 88
 Figura D.3. Núcleo del reactor ................................................................................................... 89
@@ -267,8 +260,8 @@ Figura D.8. Monitoreo del núcleo N38D .........................................
 Figura D.9. Registrando datos del sistema de adquisición de datos SAD.................................. 92
 Figura D.10. Registrando datos de la consola del reactor .......................................................... 92
 Figura D.11. Presentación de resultados experimentales ........................................................... 93
-Índice de tablas
 
+Índice de tablas
 Tabla 2.1. Secciones eficaces para neutrones térmicos de diferentes combustibles .................. 24
 Tabla 2.2. Parámetros de neutrones retardados para seis grupos (Tuttle) .................................. 26
 Tabla 2.3. Parámetros de neutrones retardados para seis grupos (Keepin) ................................ 27
@@ -299,23 +292,20 @@ Tabla 5.22. Excesos de reactividad para la configuración de núcleo N38C. .....
 Tabla 5.23. Excesos de reactividad para la configuración de núcleo N38D .............................. 67
 Tabla 5.24. Excesos de reactividad para la configuración de núcleo N38E............................... 67
 Tabla 5.25. Excesos de reactividad para la configuración de núcleo N38F ............................... 67
-                                      Resumen
 
-
+Resumen
 Este trabajo presenta los resultados de la determinación de la variación del valor del
 exceso de reactividad debido en primer lugar al cambio de posición de los elementos
 combustibles y en segundo lugar a la configuración de las barras de control, finalmente
 se muestran las comparaciones de los resultados obtenidos experimentalmente frente a
 resultados hallados por medio de dos códigos de cálculo neutrónico WINSCIT y
 CITVAP.
-
 La metodología inició eligiendo la configuración de barras de control las cuales ofrecen
 dos opciones (diagonal y lineal), seguidamente se procede a calibrar las barras de
 control, luego se construyen nuevos núcleos intercambiando elementos combustibles de
 diferente grado de quemado, en total se construyeron cinco núcleos los cuales se
 denominan N38B, N38C, N38D, N38E y N38F, seguidamente se determina el exceso
 de reactividad mediante el método del periodo positivo.
-
 En primer lugar los valores de exceso de reactividad presentan alto grado de dispersión
 teniendo las barras de control en configuración diagonal, registrando valores de
 dispersión de 97 pcm, 153 pcm, 47 pcm, 34 pcm y 59 pcm para los núcleos N38B,
@@ -329,30 +319,28 @@ estándar de 120 pcm respecto al promedio de los excesos de reactividad de todos
 núcleos y es más disperso con las barras de control en configuración lineal con una
 desviación estándar de 300 pcm respecto al promedio de los excesos de reactividad de
 todos los núcleos.
-
 La comparación de los resultados obtenidos experimentalmente con resultados
-obtenidos mediante los códigos de cálculo WINSCIT          y CITVAP muestra que el
+obtenidos mediante los códigos de cálculo WINSCIT
+
+y CITVAP muestra que el
+
 comportamiento de la curva obtenida experimentalmente se asemeja con los resultados
 obtenidos mediante el código de cálculo CITVAP, resultados que validan el código
 determinista CITVAP.
+11
 
-                                                                                     11
-                                       Abstract
-
-
+Abstract
 This work presents the results of the determination of the variation of the value of the
 excess of reactivity owed in the first place at the rate of exchange of position of the
 combustible elements and secondly to the configuration of the bars of control, finally
 show him the comparisons of the results obtained experimentally in front of results
 found by means of two determinist codes of calculation WINSCIT and CITVAP.
-
 The methodology started electing the configuration of bars of control which offer two
 options (diagonal and linear), straightaway it is proceeded to calibrate the bars of
 control, next they are constructed new nucleuses exchanging combustible elements of
 different degree of burning, in total they are built five nucleuses N38B, N38C, N38D,
 N38E and N38F, next determines the excess of reactivity using the positive period
 method.
-
 In the first place the values of excess of reactivity present high degree of dispersion
 having the bars of control in diagonal configuration, registering values of dispersion of
 97 pcm, 153 pcm, 47 pcm, 34 pcm and 59 pcm for the nucleuses N38B, N38C, N38D,
@@ -365,22 +353,16 @@ pcm is standard deviation in relation to the average of the excesses of reactivi
 the nucleuses and it's more disperse with the bars of control in linear configuration with
 an standard deviation of 300 pcm in relation to the average of the excesses of reactivity
 of all the nucleuses.
-
 The comparison of the results gotten experimentally out of with results obtained by
 means of the codes calculate WINSCIT and CITVAP, show the behavior of the curve
 obtained experimentally resembles with the results obtained by means of the code
 CITVAP, results that they validate the deterministic code CITVAP.
 
+12
 
-
-
-                                                                                        12
 Capítulo 1
-
 Introducción
 1.1. Planteamiento del problema
-
-
 Los conocimientos en operatividad y seguridad de los reactores nucleares de
 investigación de países que tienen más antigüedad en el uso de energía nuclear, como
 son los reactores nucleares de Argentina Atucha I y Atucha II y los reactores nucleares
@@ -391,7 +373,6 @@ Brasil los cuales serán construidos en ambos países, los países que cuentan c
 reactores de investigación como el reactor nuclear RP10 de Perú buscan tener más
 información acerca de los parámetros que son utilizados en los procedimientos de
 operación.
-
 No existen muchos estudios que nos muestren la influencia que tienen la posición de las
 barras de control y el grado de quemado en la determinación experimental del exceso de
 reactividad, el único trabajo de investigación que se puede encontrar es el realizado por
@@ -402,12 +383,10 @@ barras de control al intercambiar los grados de quemado de los elementos combust
 cercanos a las barras de control, investigación que fue determinado por medio de código
 de cálculo CITACION y código de cálculo TRIPOLI mas no fue comprobado
 
+13
 
-
-                                                                                      13
 experimentalmente por lo tanto sobre este trabajo de investigación aún existen vacíos de
 información.
-
 Por ello la presente investigación pretende comprobar la variación del exceso de
 reactividad por modificación de la posición de las barras de control y las posiciones de
 diferentes elementos combustibles que tienen distintos grados de quemado, obteniendo
@@ -417,11 +396,7 @@ obtenidos por medio de los códigos de cálculo WIMSCIT y CITVAP que actualmente
 vienen utilizándose en el RP10, para de esa forma poder validar una línea de cálculo y
 por consiguiente tener mayor seguridad en la operación de la instalación.
 
-
-
 1.2. Antecedentes de la investigación
-
-
 Savva P, Varvayanni M, Catsaros N (2010). Dependencia de la barra de control
 respecto del quemado de combustible. Un parámetro importante en el diseño y el
 análisis del núcleo de un reactor nuclear es el valor de la reactividad de las barras de
@@ -441,56 +416,50 @@ el núcleo, el valor de las barras se reduce significativamente, mientras que la
 con el aumento de grado de quemado y depende de la posición de las barras en el
 núcleo. El valor obtenido con el uso del código de Monte Carlo es más alta que la
 obtenida a partir del código determinista.
+14
 
-
-                                                                                        14
 1.3. Hipótesis.
-
-
 La determinación experimental del exceso de reactividad de una configuración nuclear
 se ve influenciada por el cambio de posición de las barras de control que ofrece dos
 opciones (Lineal y diagonal).
-
 La determinación experimental del exceso de reactividad de una configuración nuclear
 se ve influenciada por el cambio de posición de los elementos combustibles de diferente
 grado de quemado.
-
 El cálculo del exceso de reactividad mediante el código neutrónico WIMSCIT presenta
 menos incertidumbre en comparación con los valores calculados mediante el código
 neutrónico CITVAP.
 
-
-
 1.4. Objetivos
-
 1.4.1. Objetivos generales
-
 
 Conocer la variación que presenta el exceso de reactividad por el cambio de posición de
 algunos de los componentes básicos de la configuración de núcleo del RP – 10 y validar
 una línea de cálculo neutrónico a través de la comparación con resultados
 experimentales.
-
 1.4.2. Objetivos Específicos
+
 
+Conocer la variación que presenta el exceso de reactividad del núcleo del reactor
+RP10, por modificación de las barras de control.
 
-      Conocer la variación que presenta el exceso de reactividad del núcleo del reactor
-       RP10, por modificación de las barras de control.
+
 
-      Conocer la variación que presenta el exceso de reactividad del núcleo del reactor
-       RP10, por modificación en la posición de los elementos combustibles de
-       diferentes grados de quemado.
+Conocer la variación que presenta el exceso de reactividad del núcleo del reactor
+RP10, por modificación en la posición de los elementos combustibles de
+diferentes grados de quemado.
 
-      Establecer el rango de variación de los excesos de reactividad.
+
 
-      Validar uno de los dos códigos determinísticos de cálculo neutrónico
-       (WIMSCIT, CITVAP).
+Establecer el rango de variación de los excesos de reactividad.
 
+
 
-                                                                                     15
+Validar uno de los dos códigos determinísticos de cálculo neutrónico
+(WIMSCIT, CITVAP).
+
+15
+
 1.5. Justificación
-
-
 Los radioisótopos que se utilizan en la medicina nuclear de los principales hospitales del
 Perú como el Instituto Nacional de Enfermedades Neoplásicas (INEN) van en aumento,
 esto se puede constatar ya que la Planta de Producción de Radioisótopos (PPR) del
@@ -498,7 +467,6 @@ Instituto Peruano de Energía Nuclear (IPEN) superó el año 2013 las expectativ
 ingreso anual proyectadas por la venta de radiofármacos a los centros de medicina
 nuclear del país obteniéndose un ingreso de 2.96 millones de nuevos soles superando en
 un 50% los ingresos obtenidos el año 2012.
-
 El radioisótopo más solicitado al IPEN es el Tecnecio 99 que es indispensable para la
 obtención de un radiodiagnóstico médico de diferentes órganos (cerebro, tiroides,
 glándulas salivales y mucosa gástrica) en segundo lugar tenemos al radioisótopo Iodo
@@ -507,7 +475,6 @@ en el diagnóstico y confirmación de sospecha de hipertiroidismo, en el tratami
 hipertiroidismo y de cáncer de tiroides entre otros males, estos radiofármacos y muchos
 más son producidos diariamente en los laboratorios de la PPR – IPEN (Planta de
 Producción de Radioisotopos).
-
 El reactor peruano RP10 quien genera estos y otros radioisótopos a escala comercial,
 necesita de estos nuevos conocimientos y posteriores estudios que se puedan validar con
 los resultados obtenidos en el área de la operación segura del reactor y de esa manera
@@ -517,121 +484,80 @@ es importante el estudio minucioso de los parámetros nucleares que garantizan e
 funcionamiento del reactor Peruano RP10.
 
 1.6. Limitaciones de estudio
-
-
 La presente investigación experimental, está dirigido a reactores de investigación y
 producción de radioisótopos con potencias que no superen los 10 Mw, que funcionan
 con combustibles tipo placa de U3O8 enriquecidos al 20 por ciento.
 
+16
 
-
-
-                                                                                       16
 1.7. Definición de términos
-
-
 1.7.1. Quemado
-
-
 Es el consumo o grado de quemado del material fisil U – 235, se expresa en % de U235.
 También Es la relación entre la cantidad de energía generada por el elemento
 combustible y la masa inicial total de Uranio, que se expresa en Mw-d/TonU.
-
 1.7.2. Reactividad
 
-
 Es la medida de la variación de la población neutrónica.
-
 1.7.3. Exceso de Reactividad
-
-
 Es la reactividad (ρ > 0) debido solo al combustible nuclear presente en el núcleo del
 reactor, sin tener en cuenta la reactividad (negativa) del xenón, las barras de control y
 materiales a irradiar. Por ello, su cálculo se hace a 1w, con todas las barras afuera.
-
 1.7.4. Barra de control
-
 
 Barra, placa o tubo conteniendo un material absorbente de neutrones (hafnio, boro,
 aleación de plata, indio y cadmio, etc.) que se utiliza para controlar la potencia de un
 reactor, a través del aporte de reactividad negativa o positiva asociado a su inserción o
 extracción del núcleo respectivamente.
-
 1.7.5. Scram
-
 
 Disparo o parada rápida del reactor; disparo de emergencia del reactor; parada brusca
 del reactor mediante la inserción manual automática de las barras de control, para evitar
 o minimizar las consecuencias de una condición considerada peligrosa.
-
 1.7.6. Núcleo
-
 
 En un reactor nuclear, región del mismo que contiene el material fisible o combustible,
 el moderador, los venenos neutrónicos y estructuras soporte, y en La que se produce la
 reacción de fisión nuclear en cadena.
+17
 
-
-                                                                                         17
 1.7.7. Crítico
-
 
 En el caso de un reactor nuclear, condición caracterizada por un ritmo de producción de
 neutrones por fisión (excluidas las fuentes de neutrones cuyas intensidades son
 independientes del ritmo de fisión) exactamente igual al de desaparición de neutrones
 por absorción (en material fisible o no fisible) o fuga del reactor, estableciéndose así la
 reacción nuclear en cadena auto sostenida.
-
 1.7.8. Físil
-
 
 En general, material o elemento susceptible de experimentar reacciones de fisión
 nuclear con neutrones de cualquier energía (fisionable), aunque normalmente se llaman
 fisibles a aquellos elementos que pueden fisionarse por interacción con neutrones lentos
 o térmicos, por ejemplo el U – 233, U – 235, Pu – 239 y Pu – 241.
-
 1.7.9. Factor de multiplicación efectivo
-
 
 Es la relación entre el número de neutrones producido y el número absorbido o fugado
 considerando el tamaño finito del reactor y la consiguiente fuga de neutrones al exterior.
 
+18
 
-
-
-                                                                                        18
 Capítulo 2
-
 Marco teórico
-
-
 2.1. Fisión Nuclear
-
-
 Los núcleos de átomos pesados, al ser bombardeados con neutrones, pueden dividirse o
 partir en dos fragmentos (raramente en tres) formados por núcleos de átomos más
 ligeros, con emisión de neutrones y con un gran desprendimiento de energía, como
 consecuencia de la mayor estabilidad del producto resultante. A este tipo de reacciones
 nucleares se las denomina reacciones de fisión nuclear (Fig. 2.1).
 
+Figura 2.1. Fisión nuclear
 
+19
 
-
-                               Figura 2.1. Fisión nuclear
-
-
-
-
-                                                                                    19
 Unas reacciones típicas de fisión podrían ser las siguientes:
-
-
-
 
 La probabilidad de la reacción de fisión aumenta cuando disminuye la energía de los
 neutrones proyectiles, que por esta razón han de ser frenados (moderados) antes de que
 interaccionen con el combustible.
-
 El núcleo que absorbe el neutrón queda “excitado” (núcleo compuesto), se estira y se
 rompe brutalmente (productos de fisión) liberando dos o tres neutrones muy
 energéticos. Estos neutrones podrán, a su vez y en condiciones adecuadas
@@ -639,30 +565,23 @@ energéticos. Estos neutrones podrán, a su vez y en condiciones adecuadas
 liberarán otros neutrones, y así sucesivamente. Este efecto multiplicador se llama
 “reacción en cadena” (Fig. 2.2).
 
-
-
-
-                            Figura 2.2. Reacción en cadena
-
-
+Figura 2.2. Reacción en cadena
 
 Si se logra mantener una población de neutrones tal que el número de fisiones que
 tienen lugar por unidad de tiempo permanece constante, se dice que la reacción está
 controlada. Este es el principio de funcionamiento en el que están basados los reactores
 nucleares, que son fuentes controlables de energía nuclear de fisión.
-
 Las reacciones de fisión fueron descubiertas por Otto Hahn y Fritz Strassman en 1939, y
 el artífice encargado de la puesta en práctica de la idea de desarrollar la reacción en
 cadena fue Enrico Fermi, que reunía la doble condición de ser un magnífico teórico y un
+20
 
-                                                                                     20
 hábil experimentador. El 2 de diciembre de 1942 consiguió, con su equipo, la reacción
 de fisión en cadena auto sostenida en la famosa Chicago Pile 1 (abreviadamente CP-1),
 construida en una pista de squash bajo las gradas del estadio de fútbol de la Universidad
 de Chicago. Se trataba de un apilamiento de aproximadamente 7m × 7m constituido por
 bloques de grafito (moderador de neutrones), atravesado de lado a lado por barras de
 uranio natural (combustible nuclear) de una pulgada de diámetro.
-
 Las reacciones de fisión que tienen lugar en los reactores nucleares se producen al ser
 bombardeados con neutrones núcleos de átomos pesados U, Pu, Th, entre otros, pero no
 se producen de la misma forma en todos los núcleos. Como ya se ha mencionado
@@ -674,7 +593,6 @@ fértiles son aquellos que tienen un número par de nucleones, mientras que los
 fisionables son los que disponen de un número impar de ellos. De entre los primeros: U
 – 238, Pu – 240, Pu – 242, Th – 232 son los más importantes; mientras que entre los
 fisionables: U – 233, U – 235, Pu – 239, Pu – 241.
-
 La capacidad de fisión de los núcleos se mide a través del valor de la sección eficaz que
 presentan para la fisión, la cual depende de la energía de los neutrones que
 interaccionan con dichos núcleos. A medida que dicha energía disminuye la sección
@@ -687,33 +605,23 @@ rápidos, pudiendo, eso sí, producir núcleos fisionables con cualquier energí
 neutrón.
 
 2.2. Sección eficaz
-
-
 Uno de los objetivos fundamentales de la física de reactores es introducir el concepto de
 economía de neutrones. Dichos neutrones son absorbidos en el combustible como así
 también en los materiales del reactor, debiendo por consiguiente minimizar estas
+21
 
-                                                                                      21
 pérdidas. Una de las formas de lograrlo es conociendo las propiedades de los materiales
 mediante sus secciones eficaces.
-
 2.2.1. Sección eficaz neutrónica
-
-
 Tomaremos como ejemplo de interés el U – 235 y las posibles reacciones con los
 neutrones:
-
-   1. Dispersión inelástico: Puede ocurrir si las energías de los neutrones son
-       superiores a 0.1 Mev.
-
-   2. Dispersión elástico: Es posible a cualquier energía de los neutrones
-
-   3. Captura radioactiva: El neutrón puede ser capturado con el rango amplio de
-       energías.
-
-   4. Reacción de fisión: El neutrón puede causar fisión con un rango amplio de
-       energías.
-
+1. Dispersión inelástico: Puede ocurrir si las energías de los neutrones son
+superiores a 0.1 Mev.
+2. Dispersión elástico: Es posible a cualquier energía de los neutrones
+3. Captura radioactiva: El neutrón puede ser capturado con el rango amplio de
+energías.
+4. Reacción de fisión: El neutrón puede causar fisión con un rango amplio de
+energías.
 Comparando las posibilidades de que cada reacción pueda concretarse se cumple que la
 fisión es mucho más probable al igual que la captura radiactiva para neutrones lentos
 (baja energía) que para neutrones rápidos (altas energías) y que la fisión siempre es más
@@ -721,26 +629,19 @@ probable que la captura radioactiva. También debemos considerar que algunas
 reacciones son más probables con algunos núcleos que con otros o a distintas energías.
 Así siempre comparamos las chances de que varias reacciones sucedan; o sea, lo
 importante es la probabilidad de que cierta reacción suceda.
-
 Estas reacciones constituyen bombardeos de neutrones con núcleos (blancos) y sus
 probabilidades de concentrarse es medida en términos de áreas llamadas secciones
 eficaces. Gráficamente haremos la comparación con el tiro al blanco:
 
+22
 
-
-
-                                                                                      22
-            Figura 2.3. Áreas que representan una probabilidad de reacción
-    1. Si la bala pasa fuera del blanco podemos suponer que el neutrón erra al núcleo,
-       es decir no ocurre ninguna reacción.
-
-    2. El área “d” es la más probable de acertar y nos representa la probabilidad de que
-       la reacción más fácil ocurra.
-
-    3. El área “e” representa la siguiente área que tiene más probabilidad de ocurrir.
-
-    4. El área “a” representa la probabilidad de producirse la reacción más difícil.
-
+Figura 2.3. Áreas que representan una probabilidad de reacción
+1. Si la bala pasa fuera del blanco podemos suponer que el neutrón erra al núcleo,
+es decir no ocurre ninguna reacción.
+2. El área “d” es la más probable de acertar y nos representa la probabilidad de que
+la reacción más fácil ocurra.
+3. El área “e” representa la siguiente área que tiene más probabilidad de ocurrir.
+4. El área “a” representa la probabilidad de producirse la reacción más difícil.
 
 Está área nos representa la sección eficaz para la reacción en particular. Estas secciones
 eficaces por referirse a núcleos individuales son llamadas secciones eficaces
@@ -749,32 +650,28 @@ microscópicas y como se trata de áreas extremadamente pequeñas, cuyos valores
 del orden del área de un núcleo de tamaño mediano. Como ejemplo significativo
 podemos contar con una reacción de 100 barn y otra de 0.1 barn, de las cuales se deduce
 que la primera conceptualmente es 1000 veces más probable de ocurrir que la segunda.
-
 Las secciones eficaces tienen fundamental importancia en la elección de los materiales a
 utilizar en un reactor. Por ejemplo podríamos decir que no queremos utilizar materiales
 con valores mayores que 0.7 barn para la reacción (n,ϒ) y esta situación puede imponer
 severas restricciones al tipo del material a utilizar en los reactores.
-
 La simbología adoptada para individualizar las probabilidades o secciones eficaces de
 los distintos tipos de reacciones es:
 
+23
 
+σf :
+σa :
+σs :
+σ(n,ϒ) :
 
+Sección eficaz de fisión
+Sección eficaz de absorción
+Sección eficaz de dispersión elástico
+Sección eficaz de captura radiactiva
 
-                                                                                         23
-    σf :   Sección eficaz de fisión
-    σa :   Sección eficaz de absorción
-    σs :   Sección eficaz de dispersión elástico
-σ(n,ϒ) :   Sección eficaz de captura radiactiva
-
-
-
-
-   Tabla 2.1. Secciones eficaces para neutrones térmicos de diferentes combustibles
+Tabla 2.1. Secciones eficaces para neutrones térmicos de diferentes combustibles
 
 2.3. Cinética de los reactores nucleares
-
-
 La potencia de funcionamiento de un reactor nuclear depende de la masa del material
 físil presente, de la sección eficaz microscópica de fisión y del flujo neutrónico, de estos
 factores, es evidente que el que mejor se presta al control de la potencia es el flujo o la
@@ -787,139 +684,129 @@ comportamiento de un reactor en función del tiempo (cinética del reactor), deb
 variaciones del factor de multiplicación efectivo, se refiere estrictamente a reactores
 térmicos homogéneos y desnudos, si bien las conclusiones generales son aplicables a
 reactores de todos los tipos.
-
 2.3.1. Neutrones instantáneos y neutrones retardados
-
 
 Sea un isótopo físil perteneciente al combustible del reactor. En la fisión de este
 isótopo, se producen en promedio ν neutrones que, de acuerdo al tiempo de aparición, se
 clasifican en νp neutrones “instantáneos” y νd neutrones “retardados”. La llamada
 fracción de neutrones retardados para cada isótopo físil se define:
 
+24
 
-
-
-                                                                                         24
 Los neutrones instantáneos son emitidos por los productos de fisión, que quedan en un
 estado excitado de energía con una vida media menor de 10-14 seg, con una energía
 media <Ep>. Estos neutrones tienen una vida media en el reactor, llamada vida media
 de los neutrones instantáneos “lp” o simplemente “vida media l”, tal que lp ≈ td , siendo
 td el tiempo de difusión.
-
 Los neutrones retardados, aparecen como consecuencia del decaimiento radioactivo de
 algunos productos de fisión. Estos nucleídos llamados “precursores”, emiten radiación
 beta produciéndose los nucleídos llamados “emisores” que quedan en un estado
 excitado de energía y llegan a su estado fundamental emitiendo el “neutrón retardado” y
 radiación gamma.
-
 La contribución de los neutrones retardados a la cinética del reactor se tiene en cuenta a
 través del decaimiento de un conjunto de “m” grupos de “precursores”, donde la
-concentración Ci de cada grupo “i” decae con una constante           , dando lugar a
-neutrones, que en promedio aparecerán en un tiempo             después de la fisión, con
+concentración Ci de cada grupo “i” decae con una constante
+neutrones, que en promedio aparecerán en un tiempo
+
+, dando lugar a
+
+después de la fisión, con
+
 una energía media <Ed>·Aβi = νdi/ ν , se la llama “fracción de neutrones retardados del
 grupo i” y resulta:
-
-
-                                            ∑
-
-
+∑
 A estos neutrones, se les asocia una vida media “ ”, siendo:
 
-
-
-
 En la figura 2.4 se muestra el esquema de decaimiento para uno de los productos de
-fisión del U235, donde      = 78.6 seg.
+fisión del U235, donde
 
+= 78.6 seg.
 
+25
 
-
-                                                                                       25
-             Figura 2.4. Esquema de producción de neutrones retardados
+Figura 2.4. Esquema de producción de neutrones retardados
 Para describir adecuadamente la cinética del reactor, se ha encontrado que es necesario
 y suficiente considerar m = 6.
 
-
-
-
 Para el U235 y Pu239 , los valores de β correspondientes al juego de constantes de
-Keepin son               y             respectivamente. En la tabla 2.2 y tabla 2.3, se
-dan los valores para el U235 de los juegos de constantes   ,   de Tuttle y Keepin.
+Keepin son
 
+y
 
+respectivamente. En la tabla 2.2 y tabla 2.3, se
 
+dan los valores para el U235 de los juegos de constantes
 
-        Tabla 2.2. Parámetros de neutrones retardados para seis grupos (Tuttle)
+,
 
+de Tuttle y Keepin.
 
+Tabla 2.2. Parámetros de neutrones retardados para seis grupos (Tuttle)
 
+26
 
-                                                                                          26
-       Tabla 2.3. Parámetros de neutrones retardados para seis grupos (Keepin)
-
-
+Tabla 2.3. Parámetros de neutrones retardados para seis grupos (Keepin)
 
 2.3.2. Fracción efectiva de neutrones retardados en un reactor finito
-
 
 Durante el proceso de moderación en un reactor térmico, el neutrón interacciona con los
 átomos del medio (moderador) disminuyendo su energía hasta la energía térmica, con la
 cual vuelve a tener alta probabilidad de producir la fisión. Dado que <Ep> ≠ <Ed>
 (para el U235: <Ep> ≈2 Mev; <Ed> ≈ 0.4 Mev), en un reactor finito la probabilidad de
 escape durante este proceso será distinta para los neutrones instantáneos y retardados,
-siendo necesario definir la “fracción efectiva de neutrones retardados       ”, como la
+siendo necesario definir la “fracción efectiva de neutrones retardados
+
+”, como la
+
 fracción de estos neutrones que llegan a energía térmica. En consecuencia:
 
+(
 
-                                     (                             )
+Para diferenciarla de
 
+)
 
+, a β =
 
-Para diferenciarla de      , a β =           se la llama “fracción nuclear de neutrones
-retardados” y se la indica con    . A veces         se la indica simplemente con β. En
-adelante, usaremos la notación:          .
+retardados” y se la indica con
+adelante, usaremos la notación:
+
+se la llama “fracción nuclear de neutrones
+
+. A veces
+
+se la indica simplemente con β. En
+
+.
 
 2.3.3. Ecuaciones de la cinética puntual
-
 
 Las relaciones base para los diversos métodos a emplearse son las denominadas que
 vienen dadas por las ecuaciones siguientes (LUNA, 2012).
 
+27
 
-
-
-                                                                                    27
 Para describir adecuadamente la cinética del reactor, se ha encontrado que es necesario
 y suficiente considerar m=6.
-
 Donde.
 
-
-
-
 2.3.4. Ecuación de Inhour
-
 
 La reactividad se expresa, en ocasiones, mediante la unidad denominada hora inversa,
 que se define como la reactividad a la que corresponde un período estable de una hora.
 Se expresa por la siguiente ecuación:
 
+∑
 
-                                              ∑               ( )
-
-
-
+( )
 
 Debido a la gran importancia que tiene la criticidad instantánea, se acostumbra en
 algunos casos a medir la reactividad en unidades de β, considerando que cuando el valor
 de ρ es igual a β, se tiene una unidad de reactividad. A esta unidad se denomina dollar.
 
+28
 
-
-
-                                                                                      28
 2.3.5. Método del periodo positivo
-
 
 En un sistema estacionario, al introducir una cierta reactividad, el sistema evoluciona
 con el tiempo de una cierta forma, que puede conocerse analíticamente resolviendo las
@@ -927,42 +814,42 @@ ecuaciones cinéticas, o bien, experimentalmente, midiendo ciertos parámetros.
 Finalmente, el sistema tiende a evolucionar en forma asintótica, una vez que termina el
 periodo transitorio. De esta forma, el flujo neutrónico será.
 
+(⃗ )
 
-
-                                      (⃗ )     (⃗ )
+(⃗ )
 
 Luego si se pueden medir ambos niveles de flujo en los dos instantes, o mejor si se
 miden en distintos intervalos, se puede determinar la pendiente logarítmica,
 caracterizada por el parámetro α. De esta forma, el valor de α correspondiente al modo
 fundamental puede ponerse en forma de un periodo asintótico, definido por.
 
-
-
-
 Que es la ecuación que permite relacionar al periodo del reactor con la reactividad y
 justifica el método del periodo asintótico o de doblaje del flujo. Dónde: T (período
 asintótico), que es el tiempo que hay que esperar para que la población N se incremente
-en un factor e. Vinculado al período se define el tiempo de doblaje    que es el tiempo
+en un factor e. Vinculado al período se define el tiempo de doblaje
+
+que es el tiempo
+
 necesario para que la población N se duplique, y resulta.
 
-
-                                                ( )
-
+( )
 Si la reactividad se relaciona con el tiempo de destrucción , en lugar de con el tiempo
-de generación    se obtiene.
+de generación
 
+se obtiene.
 
-                                                   ∑
-                                  (      )
+(
+
+)
+
+∑
 
 2.4. Detectores de neutrones
-
-
 Un detector neutrónico, es un tubo con una cámara hermética llena de un gas con un
 elemento químico que tiene una alta probabilidad de tener una reacción nuclear con
 neutrones térmicos. Dentro de la cámara hay dos electrodos entre los cuales se aplica un
+29
 
-                                                                                     29
 campo eléctrico (con diferencia de potencial V ≈ 1500 volts). El neutrón térmico que
 penetra en dicha cámara tiene una alta probabilidad de interactuar con él gas
 produciéndose la reacción nuclear. Los núcleos resultantes de dicha reacción nuclear,
@@ -975,21 +862,14 @@ detector, corresponderá un “pulso eléctrico” y por lo tanto “una cuenta�
 contaje “C”. Uno de los gases más utilizados en la actualidad, es el Helio. Con este gas
 se produce la reacción:
 
-
-
 Otro de los compuestos utilizados es el “BF3” con el isótopo 10B del elemento químico
 “Boro”. En este caso la reacción nuclear es:
 
+30
 
-
-
-                                                                                      30
 Capítulo 3
-
 Metodología
 3.1 Metodología
-
-
 Uno de los objetivos de este trabajo fue evaluar la variación del exceso de reactividad
 por la modificación de dos factores principales: Cambio de posición de elementos
 combustibles cercanos a los detectores y Cambio de la configuración de las barras de
@@ -999,69 +879,66 @@ alcanzaron el estado crítico, y luego se determinaron los excesos de reactivida
 uno de los nuevos núcleos mediante el método de periodo positivo el cual es un método
 sencillo e implementado en el RP10 para determinar el exceso de reactividad del
 núcleo.
-
 Se rechazó el método de ROD DROP para la determinación del exceso de reactividad,
 ya que en su procedimiento al alcanzar el estado crítico y luego efectuar la inserción
 brusca de una de las barras de control (la misma con la que se llega a critico), se
 produce SCRAM de barra, el cual demandaría más tiempo para la obtención del exceso
 de reactividad, teniendo en cuanta que se construirían cinco nuevos núcleos.
-
 Para poder realizar los procedimientos descritos anteriormente se desarrolló una
 metodología (figura 3.1). Esta consiste en siete etapas que inicia con la posición de las
 barras de control, calibración de las barras de control, construcción de nuevos núcleos,
 determinación de excesos de reactividad, determinación de las incertidumbres, análisis
 
+31
 
-
-
-                                                                                      31
 estadístico de resultados y comparación con dos códigos de cálculo. Los pasos se
 enlistan y explican a continuación.
 
+Figura 3.1.5Diagrama de la metodología
 
+
 
+Posición de las barras de control. Se estableció una posición para las barras de
+control teniendo como opciones la posición LINEAL y la posición DIAGONAL.
 
-                       Figura 3.1.5Diagrama de la metodología
+
 
+Calibración de las barras de control. Se calibró las barras de control para cada
+una de las posiciones establecidas anteriormente.
 
+
 
-      Posición de las barras de control. Se estableció una posición para las barras de
-       control teniendo como opciones la posición LINEAL y la posición DIAGONAL.
+Construcción de nuevos núcleos. Se construyeron cinco núcleos intercambiando
+las posiciones de los elementos combustibles de diferente grado de quemado
+cercanos a los detectores.
 
+32
 
-      Calibración de las barras de control. Se calibró las barras de control para cada
-       una de las posiciones establecidas anteriormente.
+
 
+Determinación de excesos de reactividad. Se determinó el exceso de reactividad
+mediante el método de periodo positivo o método de doblaje de flujo.
 
+
 
-      Construcción de nuevos núcleos. Se construyeron cinco núcleos intercambiando
-       las posiciones de los elementos combustibles de diferente grado de quemado
-       cercanos a los detectores.
+Determinación de las incertidumbres. Se determinó el error en las mediciones
+mediante el método de propagación de errores, puesto que se utilizaron
+constantes experimentales al hallar el exceso de reactividad.
 
+
 
-                                                                                    32
-      Determinación de excesos de reactividad. Se determinó el exceso de reactividad
-       mediante el método de periodo positivo o método de doblaje de flujo.
-      Determinación de las incertidumbres. Se determinó el error en las mediciones
-       mediante el método de propagación de errores, puesto que se utilizaron
-       constantes experimentales al hallar el exceso de reactividad.
+Análisis estadístico de resultados. Se utilizó la estadística descriptiva para
+analizar los resultados obtenidos.
 
+
 
-      Análisis estadístico de resultados. Se utilizó la estadística descriptiva para
-       analizar los resultados obtenidos.
-
-
-      Comparación con dos códigos de cálculo. Se utilizó los códigos de cálculo
-       neutrónico Wimscit y Citvap para determinar los excesos de reactividad de cada
-       núcleo propuesto para luego ser comparados con los resultados obtenidos
-       experimentalmente.
-
+Comparación con dos códigos de cálculo. Se utilizó los códigos de cálculo
+neutrónico Wimscit y Citvap para determinar los excesos de reactividad de cada
+núcleo propuesto para luego ser comparados con los resultados obtenidos
+experimentalmente.
 
 3.2. Equipos e instrumentos de medición
-
-
 3.2.1. Reactor nuclear RP – 10
-
 
 El reactor nuclear de investigación RP-10 es un reactor de 10 MW de potencia térmica
 nominal, tipo tanque-abierto, con elementos combustibles tipo MTR (Material Testing
@@ -1079,28 +956,20 @@ de los cuales se alojan 16 placas de combustible, mientras que en los ECC se alo
 placas de combustibles para permitir el desplazamiento de dos placas absolvedores de
 neutrones. El espacio libre sobre la placa grilla 10 X 10 está completada con elementos
 
+33
 
-                                                                                     33
 reflectores fabricados de Berilio y Grafito. El agua ligera que circula por convección
 forzada de arriba hacia abajo es el refrigerante del núcleo.
 
+Figura 3.2. 6Reactor Nuclear RP10
 
+34
 
-
-                           Figura 3.2. 6Reactor Nuclear RP10
-
-
-
-
-                                                                                   34
 Figura 3.3. 7Núcleo del Reactor RP10
 
+35
 
-
-
-                                       35
 3.2.2. Panel de control del RP10
-
 
 El panel de control del RP10 es un sistema electrónico que permite operar el reactor,
 una de sus funciones es el de poder mover las barras de control y seguridad para obtener
@@ -1109,373 +978,298 @@ son de medición logarítmica y un cuarto detector de marcha que es de medición
 usados como referencia principal para el control del flujo neutrónico por parte del
 operador.
 
-
-
-
-                        Figura 3.4. 8Panel de control del RP10
-
-
+Figura 3.4. 8Panel de control del RP10
 
 3.2.3. Sistema de adquisición de datos
-
 
 Es un sistema de cómputo en el que se registra en una PC y en tiempo real, los datos
 neutrónicos y termohidráulicos durante la operación del RP10.
 
+36
 
-
-
-                                                                                     36
 Figura 3.5. 9Pantalla principal del sistema de adquisición de datos
 
+37
 
-
-
-                                                                      37
 Capítulo 4
-
 Procedimiento experimental
-
-
 El desarrollo de las actividades llevadas a cabo en cada etapa de la metodología
 propuesta, desde la calibración de las barras de control hasta la realización de las
 modificaciones de núcleo, se presenta en esta sección.
 
-
-
 4.1. Identificación de los componentes del núcleo
-
-
 En esta primera parte de la metodología, se realizaron 3 actividades, las cuales se
 describen a continuación.
 
-
-
 4.1.1. Identificación de las barras de control y seguridad
-
 
 Se identificó las barras de control y seguridad que iban a ser modificados de posición
 para tener la configuración de barras lineal y configuración de barras diagonal como se
 ilustra en la figura 4.1.
 
+38
 
-
-
-                                                                                    38
-                        Figura 4.10. Componentes del núcleo
-
-
+Figura 4.10. Componentes del núcleo
 
 4.1.2. Identificación de los elementos combustibles
-
 
 Se identificó los elementos combustibles que iban a ser intercambiados de posición y el
 elemento combustible base como se ilustra en la figura 4.2, los cuales al ser
 intercambiados formarían los núcleos N38C, N38D, N38E y N38F.
 
+39
 
-
-
-                                                                                    39
-                  Figura 4.2. 11Elementos combustibles de intercambio
-
-
+Figura 4.2. 11Elementos combustibles de intercambio
 
 4.2. Calibración de las barras de control en configuración diagonal
-
-
 Para iniciar la calibración de las barras de control se paró la operación del reactor por 3
 días para tener el núcleo sin la presencia de Xe – 135, luego se siguió los pasos que se
 detallan a continuación.
+
 
-      Se eligió la barra de control BC1 como la barra de extracción, introduciéndola
-       hasta tener 0% de su longitud fuera del núcleo.
+Se eligió la barra de control BC1 como la barra de extracción, introduciéndola
+hasta tener 0% de su longitud fuera del núcleo.
 
+
 
-      Extrajimos la barra de control BC2, hasta tener 100% de su longitud fuera del
-       núcleo.
+Extrajimos la barra de control BC2, hasta tener 100% de su longitud fuera del
+núcleo.
 
+
 
+Se utilizó la barra de seguridad BS3 con la que se puso el reactor en estado
+crítico, ver figura 4.3.
 
-      Se utilizó la barra de seguridad BS3 con la que se puso el reactor en estado
-       crítico, ver figura 4.3.
+40
 
+Figura 4.3.12Barras de control de inserción y extracción
 
-                                                                                           40
-             Figura 4.3.12Barras de control de inserción y extracción
+
 
+Estando en estado crítico se extrajo una porción de la barra a calibrar BC1
+haciendo al reactor ligeramente supercrítico.
 
+
 
-   Estando en estado crítico se extrajo una porción de la barra a calibrar BC1
-    haciendo al reactor ligeramente supercrítico.
+Transcurrido un cierto tiempo lo suficiente como para que desaparezcan los
+transitorios se midió el tiempo que utiliza el flujo en duplicarse, ver figura 4.4, a
+partir del cual se determinó el periodo del reactor vía ecuación de INHOUR.
 
+Figura 4.4.13Monitor de flujo neutrónico
 
-   Transcurrido un cierto tiempo lo suficiente como para que desaparezcan los
-    transitorios se midió el tiempo que utiliza el flujo en duplicarse, ver figura 4.4, a
-    partir del cual se determinó el periodo del reactor vía ecuación de INHOUR.
+41
 
-
-
-
-                    Figura 4.4.13Monitor de flujo neutrónico
-
-
-
-
-                                                                                      41
 4.3. Construcción de núcleos experimentales
-
-
 La configuración de núcleo N38B se encontraba ya establecida tal como se muestra en
 la figura 4.5 con el elemento combustible A - 009 en la posición D7, el cual fue nuestro
 núcleo de inicio.
 
-
-
-
-                      Figura 14.5. Configuración de núcleo N38B
-
-
+Figura 14.5. Configuración de núcleo N38B
 
 Procedimos a construir los núcleos N38C, N38D, N38E y N38F intercambiando los
 elementos combustibles de diferente grado de quemado teniendo al elemento A - 009
 como elemento fijo tal y como se indica en la tabla 4.1, ver figuras 4.6, 4.7, 4.8 y 4.9.
 
-
-
-
 Tabla 4.1. Posición y grado de quemado de los elementos combustibles de intercambio
+42
 
-                                                                                            42
 Figura 4.6.15Configuración de núcleo N38C
-
-
-
 
 Figura 4.7.16Configuración de núcleo N38D
 
+43
 
-                                            43
 Figura 4.8.17Configuración de núcleo N38E
-
-
-
 
 Figura 18. Configuración de núcleo N38F
 
+44
 
-                                            44
 4.4. Determinación de posición a crítico de los núcleos
-
-
 Se determinó la posición que hace crítico al reactor para cada una de las configuraciones
 de núcleo, realizando cuatro diferentes inserciones de barra, insertamos la barra de
 control propuesta y llegamos a crítico con la barra de control compensadora como se
 detalla a continuación.
 
+
 
+Insertamos la barra de control BC1 hasta tener 0% de la longitud de la barra
+fuera del núcleo
 
-      Insertamos la barra de control BC1 hasta tener 0% de la longitud de la barra
-       fuera del núcleo
-      Llegamos a crítico con la barra de control BC2 ver figura 4.10.
+
 
+Llegamos a crítico con la barra de control BC2 ver figura 4.10.
 
+Figura 4.10.19Primera inserción de barra
 
+
 
-                          Figura 4.10.19Primera inserción de barra
+Insertamos la barra de control BC1 hasta quedar 35% de la longitud de la barra
+fuera del núcleo ver figura 4.11.
 
+
 
+Llegamos a crítico con la barra de control BC2.
 
-      Insertamos la barra de control BC1 hasta quedar 35% de la longitud de la barra
-       fuera del núcleo ver figura 4.11.
-      Llegamos a crítico con la barra de control BC2.
+45
 
+Figura 4.11.20Segunda inserción de barra
 
+
 
+Insertamos la barra de control BC2 hasta quedar 0% de la longitud de la barra
+fuera del núcleo ver figura 4.12.
 
-                                                                                      45
-                      Figura 4.11.20Segunda inserción de barra
+
 
+Llegamos a crítico con la barra de control BC1.
 
+Figura 21. Tercera inserción de barra
 
-   Insertamos la barra de control BC2 hasta quedar 0% de la longitud de la barra
-    fuera del núcleo ver figura 4.12.
-   Llegamos a crítico con la barra de control BC1.
+
 
+Insertamos la barra de control BC2 hasta quedar 46% de la longitud de la barra
+fuera del núcleo ver figura 4.13.
 
+
 
+Llegamos a crítico con la barra de control BC1.
+46
 
-                      Figura 21. Tercera inserción de barra
-
-
-
-   Insertamos la barra de control BC2 hasta quedar 46% de la longitud de la barra
-    fuera del núcleo ver figura 4.13.
-   Llegamos a crítico con la barra de control BC1.
-
-                                                                                    46
-                        Figura 4.13.22Cuarta inserción de barra
-
-
+Figura 4.13.22Cuarta inserción de barra
 
 4.5. Determinación del exceso de reactividad
-
-
 Determinamos el exceso de reactividad por el método de periodo positivo, ver figura
 4.14.
 
+47
 
-
-
-                                                                                47
 Figura 4.14.23Diagrama de flujo del método de periodo positivo
 
+48
 
-
-
-                                                                 48
 4.6. Cambio de configuración de núcleo
-
-
 Se intercambió la posición de las barras de control F3 y F6 para establecer la
 configuración de núcleo lineal como se muestra en la figura 4.15.
 
-
-
-
-        Figura 24.15. Configuración de las barras de control en posición lineal
-
-
+Figura 24.15. Configuración de las barras de control en posición lineal
 
 4.7. Calibración de las barras de control en configuración lineal
-
-
 Para iniciar la calibración de las barras de control se paró la operación del reactor por 3
 días para tener el núcleo sin la presencia de Xe – 135, luego se siguió los pasos que se
 detallan a continuación.
+
 
-      Se eligió la barra de control BC1 como la barra de extracción, introduciéndola
-       hasta tener 0% de su longitud fuera del núcleo.
-      Extrajimos la barra de control BC2, hasta tener 100% de su longitud fuera del
-       núcleo.
-                                                                                           49
-   Se utilizó la barra de seguridad BS3 con la que se puso el reactor en estado
-    crítico, ver figura 4.16.
+Se eligió la barra de control BC1 como la barra de extracción, introduciéndola
+hasta tener 0% de su longitud fuera del núcleo.
 
+
 
+Extrajimos la barra de control BC2, hasta tener 100% de su longitud fuera del
+núcleo.
+49
 
+
 
-             Figura 25. Barras de control de inserción y extracción
+Se utilizó la barra de seguridad BS3 con la que se puso el reactor en estado
+crítico, ver figura 4.16.
 
+Figura 25. Barras de control de inserción y extracción
 
+
 
-   Estando en estado crítico se extrajo una porción de la barra a calibrar BC1
-    haciendo al reactor ligeramente supercrítico.
-   Transcurrido un cierto tiempo lo suficiente como para que desaparezcan los
-    transitorios se midió el tiempo que utiliza el flujo en duplicarse, ver figura 4.17,
-    a partir del cual se determinó el periodo del reactor vía ecuación de INHOUR.
+Estando en estado crítico se extrajo una porción de la barra a calibrar BC1
+haciendo al reactor ligeramente supercrítico.
 
+
 
+Transcurrido un cierto tiempo lo suficiente como para que desaparezcan los
+transitorios se midió el tiempo que utiliza el flujo en duplicarse, ver figura 4.17,
+a partir del cual se determinó el periodo del reactor vía ecuación de INHOUR.
 
+Figura 26. Monitor de flujo neutrónico
+50
 
-                      Figura 26. Monitor de flujo neutrónico
+
 
-                                                                                     50
-       Se repiten los cinco pasos anteriores para cada porción de barra hasta alcanzar
-        toda su longitud.
+Se repiten los cinco pasos anteriores para cada porción de barra hasta alcanzar
+toda su longitud.
 
 4.8. Construcción de núcleos experimentales
-
-
 Se intercambió las posiciones de los elementos combustibles los cuales se encontraban
 en la posición del núcleo N38F y se estableció el núcleo N38B tal como se muestra en
 la figura 4.18.
 
-
-
-
-                       Figura 27. Configuración de núcleo N38B
-
-
+Figura 27. Configuración de núcleo N38B
 
 Procedimos a construir los núcleos N38C, N38D, N38E y N38F intercambiando los
 elementos combustibles de diferente grado de quemado teniendo al elemento A - 009
 como elemento fijo tal y como se indica en la tabla 4.2, ver figuras 4.6, 4.7, 4.8 y 4.9.
 
+51
 
-
-
-                                                                                            51
 Tabla 4.2. 5Posición y grado de quemado de los elementos combustibles de intercambio
 
-
-
 4.9. Determinación de posición a critico de los núcleos
-
-
 Se determinó la posición que hace crítico al reactor para cada una de las configuraciones
 de núcleo, realizando cuatro diferentes inserciones de barra, insertamos la barra de
 control propuesta y llegamos a crítico con la barra de control compensadora como se
 detalla a continuación.
+
 
-      Insertamos la barra de control BC1 hasta tener 0% de la longitud de la barra
-       fuera del núcleo.
-      Llegamos a crítico con la barra de control BC2.
+Insertamos la barra de control BC1 hasta tener 0% de la longitud de la barra
+fuera del núcleo.
 
+
 
+Llegamos a crítico con la barra de control BC2.
 
+Figura 28. Primera inserción de barra
+
 
-                           Figura 28. Primera inserción de barra
+Insertamos la barra de control BC1 hasta quedar 35% de la longitud de la barra
+fuera del núcleo.
 
-      Insertamos la barra de control BC1 hasta quedar 35% de la longitud de la barra
-       fuera del núcleo.
-      Llegamos a crítico con la barra de control BC2.
+
 
+Llegamos a crítico con la barra de control BC2.
 
+52
 
-                                                                                      52
-                        Figura 29. Segunda inserción de barra
+Figura 29. Segunda inserción de barra
+
 
-   Insertamos la barra de control BC2 hasta quedar 0% de la longitud de la barra
-    fuera del núcleo.
-   Llegamos a crítico con la barra de control BC1.
+Insertamos la barra de control BC2 hasta quedar 0% de la longitud de la barra
+fuera del núcleo.
 
+
 
+Llegamos a crítico con la barra de control BC1.
 
+Figura 30. Tercera inserción de barra
 
-                        Figura 30. Tercera inserción de barra
+
 
+Insertamos la barra de control BC2 hasta quedar 46% de la longitud de la barra
+fuera del núcleo.
 
+
 
-   Insertamos la barra de control BC2 hasta quedar 46% de la longitud de la barra
-    fuera del núcleo.
-   Llegamos a crítico con la barra de control BC1.
+Llegamos a crítico con la barra de control BC1.
+53
 
-                                                                                    53
-                       Figura 31. Cuarta inserción de barra
-
-
+Figura 31. Cuarta inserción de barra
 
 4.10. Determinación del exceso de reactividad
-
-
 Determinamos el exceso de reactividad por el método de periodo positivo, ver figura
 4.14.
 
+54
 
-
-
-                                                                                54
 Capítulo 5
-
 Análisis y discusión de resultados
-
-
 5.1. Resultados con las barras en posición DIAGONAL
-
-
 5.1.1. Tiempos de doblaje de flujo
-
 
 La tabla 5.2 nos muestra las mediciones del tiempo de doblaje del flujo neutrónico, se
 consideró tres lecturas en esta investigación y se utilizó el promedio ya que es el mejor
@@ -1487,19 +1281,13 @@ barra extraída, se realizó este procedimiento con la secuencia de extracción 
 como se muestra en la tabla 5.1, donde se ha tratado de mantener un periodo de 50
 segundos, teniendo las dos barras de control en la posición DIAGONAL.
 
-
-
-
 Tabla 5.1.6 Secuencia de extracción de barra a calibrar por método de periodo positivo
 
+55
 
-
-                                                                                        55
-    Tabla 5.2.7 Tiempos de doblaje con las barras de control en posición diagonal
-
+Tabla 5.2.7 Tiempos de doblaje con las barras de control en posición diagonal
 
 5.1.2. Reactividades de las barras de control
-
 
 La tabla 5.3 nos muestra el peso de las barras de control, el cual nos indica que la barra
 de control BC1 tiene mayor reactividad ya que posee 2729 pcm de reactividad mientras
@@ -1508,16 +1296,11 @@ nos brinda los valores de reactividad acumulada de ambas barras de control la cu
 utilizó para construir las curvas de reactividad de la barra de control BC1 y la barra de
 control BC2.
 
+56
 
-
-
-                                                                                       56
-            Tabla 5.3. 8Reactividades de las barras de control BC1 y BC2
-
-
+Tabla 5.3. 8Reactividades de las barras de control BC1 y BC2
 
 5.1.3. Curvas de reactividad acumulada
-
 
 Con las reactividades acumuladas se procedió a construir las curvas de reactividad de la
 barra de control BC1 y la barra de control BC2, el cual nos muestra un mínimo error en
@@ -1526,18 +1309,14 @@ que se utilizó la interpolación SPLINE para determinar los valores medios en l
 encontrar el polinomio que más se ajusta a la curva como se puede observar en las
 figuras 5.1 y 5.2. Dichas curvas se utilizaron para calcular los excesos de reactividad del
 núcleo.
+57
 
-                                                                                        57
 Figura 32 Curva integral de reactividad de la BC1, en posición Diagonal
 
-
-
-
 Figura 33. Curva integral de reactividad de la BC2, en posición Diagonal
+58
 
-                                                                           58
 5.1.4. Posiciones a crítico
-
 
 Las siguientes tablas nos muestran los valores de las posiciones de las barras de control
 BC2 que nos permitió llegar al estado de criticidad del núcleo, cuando se posiciono la
@@ -1546,76 +1325,41 @@ de las barras de control BC1 que nos permitió llegar al estado de criticidad de
 cuando se posicionó la barra de control BC2 al 0% y 46%, para cada uno de los núcleos
 propuestos: N38B, N38C, N38D, N38E y N38F.
 
+Tabla 5.4.9 Posición de crítico, para la configuración de núcleo N38B
 
+Tabla 5.5.10Posición de crítico, para la configuración de núcleo N38C
 
+Tabla 11. Posición de crítico, para la configuración de núcleo N38D
 
-         Tabla 5.4.9 Posición de crítico, para la configuración de núcleo N38B
+59
 
+Tabla 12. Posición de crítico, para la configuración de núcleo N38E
 
-
-
-         Tabla 5.5.10Posición de crítico, para la configuración de núcleo N38C
-
-
-
-
-         Tabla 11. Posición de crítico, para la configuración de núcleo N38D
-
-
-
-
-                                                                                      59
-            Tabla 12. Posición de crítico, para la configuración de núcleo N38E
-
-
-
-
-            Tabla 13. Posición de crítico, para la configuración de núcleo N38F
-
+Tabla 13. Posición de crítico, para la configuración de núcleo N38F
 
 5.1.5. Excesos de reactividad
-
 
 Las siguientes tablas nos muestran los excesos de reactividad para cada una de las
 posiciones que llevan al reactor al estado crítico para cada uno de los núcleos
 propuestos 38B, 38C, 38D, 38F y 38E, valores que no superan el 1.2 % de error
 relativo.
 
+Tabla 14. Excesos de reactividad para la configuración de núcleo N38B
 
+60
 
-
-        Tabla 14. Excesos de reactividad para la configuración de núcleo N38B
-
-
-
-
-                                                                                  60
 Tabla 15. Excesos de reactividad para la configuración de núcleo N38C
-
-
-
 
 Tabla 16. Excesos de reactividad para la configuración de núcleo N38D
 
-
-
-
 Tabla 17. Excesos de reactividad para la configuración de núcleo N38E
-
-
-
 
 Tabla 18. Excesos de reactividad para la configuración de núcleo N38F
 
+61
 
-
-
-                                                                        61
 5.2. Resultados con las barras en posición LINEAL
-
-
 5.2.1. Tiempos de doblaje de flujo
-
 
 La tabla 5.14 nos muestra las mediciones del tiempo de doblaje del flujo neutrónico, se
 consideró tres lecturas en esta investigación y se utilizó el promedio ya que es el mejor
@@ -1627,15 +1371,11 @@ barra extraída, se realizó este procedimiento con la secuencia de extracción 
 como se muestra en la tabla 5.1, donde se ha tratado de mantener un periodo de 50
 segundos, teniendo las dos barras de control en la posición LINEAL.
 
+Tabla 19. Tiempos de doblaje con las barras de control en posición lineal
 
+62
 
-
-       Tabla 19. Tiempos de doblaje con las barras de control en posición lineal
-
-
-                                                                                        62
 5.2.2. Reactividades de las barras de control
-
 
 La tabla 5.15 nos muestra el peso de las barras de control, el cual nos indica que la barra
 de control BC1 tiene mayor reactividad ya que posee 2245 pcm de reactividad mientras
@@ -1644,36 +1384,25 @@ nos brinda los valores de reactividad acumulada de ambas barras de control la cu
 utilizó para construir las curvas de reactividad de la barra de control BC1 y la barra de
 control BC2.
 
-
-
-
-               Tabla 20. Reactividades de las barras de control BC1 y BC2
-
+Tabla 20. Reactividades de las barras de control BC1 y BC2
 5.2.3. Curvas de reactividad acumulada
-
 
 Con las reactividades acumuladas se procedió a construir las curvas de reactividad de la
 barra de control BC1 y la barra de control BC2, el cual nos muestra un mínimo error en
 su determinación como se puede apreciar en cada intervalo de las incertidumbres, ya
 que se utilizó la interpolación SPLINE para determinar los valores medios en lugar de
-                                                                                        63
+63
+
 encontrar el polinomio que más se ajusta a la curva como se puede observar en las
 figuras 5.3 y 5.4. Dichas curvas se utilizaron para calcular los excesos de reactividad del
 núcleo.
 
+Figura 34. Curva integral de reactividad de la BC1, en posición Lineal
 
+Figura 35. Curva integral de reactividad de la BC2, en posición Lineal
+64
 
-
-          Figura 34. Curva integral de reactividad de la BC1, en posición Lineal
-
-
-
-
-          Figura 35. Curva integral de reactividad de la BC2, en posición Lineal
-
-                                                                                        64
 5.2.4. Posiciones a crítico
-
 
 Las siguientes tablas nos muestran los valores de las posiciones de las barras de control
 BC2 que nos permitió llegar al estado de criticidad del núcleo, cuando se posicionó la
@@ -1682,75 +1411,40 @@ de las barras de control BC1 que nos permitió llegar al estado de criticidad de
 cuando se posicionó la barra de control BC2 al 0% y 46%, para cada uno de los núcleos
 propuestos: N38B, N38C, N38D, N38E y N38F.
 
+Tabla 21. Posición de crítico, para la configuración de núcleo N38B
 
+Tabla 22. Posición de crítico, para la configuración de núcleo N38C
 
+Tabla 23. Posición de crítico, para la configuración de núcleo N38D
 
-         Tabla 21. Posición de crítico, para la configuración de núcleo N38B
+65
 
+Tabla 24. Posición de crítico, para la configuración de núcleo N38E
 
-
-
-         Tabla 22. Posición de crítico, para la configuración de núcleo N38C
-
-
-
-
-         Tabla 23. Posición de crítico, para la configuración de núcleo N38D
-
-
-
-
-                                                                                      65
-            Tabla 24. Posición de crítico, para la configuración de núcleo N38E
-
-
-
-
-            Tabla 25. Posición de crítico, para la configuración de núcleo N38F
-
-
+Tabla 25. Posición de crítico, para la configuración de núcleo N38F
 
 5.2.5. Excesos de reactividad
-
 
 Las siguientes tablas nos muestran los excesos de reactividad para cada una de las
 posiciones que llevan al reactor al estado crítico para cada uno de los núcleos
 propuestos 38B, 38C, 38D, 38F y 38E, valores que no superan el 1.1 % de error
 relativo.
 
+Tabla 26. Excesos de reactividad para la configuración de núcleo N38B
 
+66
 
-
-        Tabla 26. Excesos de reactividad para la configuración de núcleo N38B
-
-
-
-
-                                                                                  66
 Tabla 27. Excesos de reactividad para la configuración de núcleo N38C.
-
-
-
 
 Tabla 28. Excesos de reactividad para la configuración de núcleo N38D
 
-
-
-
 Tabla 29. Excesos de reactividad para la configuración de núcleo N38E
-
-
-
 
 Tabla 30. Excesos de reactividad para la configuración de núcleo N38F
 
+67
 
-
-
-                                                                         67
 5.3. Discusión de resultados
-
-
 La figura 5.5 nos revela que los valores de exceso de reactividad presentan alto grado de
 dispersión cuando son vistos independientemente, teniendo las barras de control en la
 configuración diagonal, registrando valores de dispersión de 97 pcm para el núcleo
@@ -1766,19 +1460,13 @@ registrado, así mismo el núcleo N38F presenta un exceso de reactividad de 2820
 cual fue el mínimo valor registrado, de acuerdo a el grafico 5.6 los núcleos N38D,
 N38E y N38B tienen excesos de reactividad que están más próximos al promedio.
 
-
-
-
 Figura 36. Excesos de reactividad para cada configuración de núcleo con las barras de
-                         control en posición DIAGONAL
+control en posición DIAGONAL
 
+68
 
-
-
-                                                                                      68
 Figura 37. Análisis estadístico de los excesos de reactividad para todos los núcleos con
-                    las barras de control en posición DIAGONAL
-
+las barras de control en posición DIAGONAL
 La figura 5.7 nos revela que los valores de exceso de reactividad presentan menos grado
 de dispersión cuando son vistos independientemente teniendo las barras de control en la
 configuración lineal, registrando valores de dispersión de 10 pcm para el núcleo N38B,
@@ -1794,104 +1482,68 @@ bajos de exceso de reactividad con un mínimo valor de 3543 pcm, también podemo
 apreciar que la desviación estándar de todos los datos registrados es de 300 pcm lo cual
 representa el 10% del exceso de reactividad promedio.
 
+69
 
-
-
-                                                                                     69
 Figura 38. Excesos de reactividad para cada configuración de núcleo con las barras de
-                            control en posición LINEAL
-
-
-
+control en posición LINEAL
 
 Figura 39. Análisis estadístico de los excesos de reactividad para todos los núcleos con
-                      las barras de control en posición LINEAL
-
-
+las barras de control en posición LINEAL
 
 Las siguientes figuras nos muestran el comportamiento y el grado de relación que existe
 entre la barra introducida dentro del núcleo (eje x) y el exceso de reactividad calculado
 (eje y), teniendo las barras de control BC1 y BC2 en posición diagonal, las figuras 5.7,
 5.8, 5.9 y 5.10 nos revelan estimaciones de los parámetros a, b de la recta Y = a + bX
+70
 
-                                                                                      70
 por el método de mínimos cuadrados notando que presentan un coeficiente de
 correlación muy cercanos al valor 1 lo cual indica un comportamiento lineal en
 extremo.
 
+Figura 40. BC2 introducida vs exceso de reactividad con BC1:0%Barra
 
+Figura 41. Barra introducida BC1 vs exceso de reactividad con BC2:0%
+71
 
+Figura 42. Barra introducida BC2 vs exceso de reactividad con BC1:35%
 
-       Figura 40. BC2 introducida vs exceso de reactividad con BC1:0%Barra
-
-
-
-
-      Figura 41. Barra introducida BC1 vs exceso de reactividad con BC2:0%
-
-                                                                             71
-      Figura 42. Barra introducida BC2 vs exceso de reactividad con BC1:35%
-
-
-
-
-      Figura 43. Barra introducida BC1 vs exceso de reactividad con BC2:46%
-
-
+Figura 43. Barra introducida BC1 vs exceso de reactividad con BC2:46%
 
 Las siguientes figuras nos muestran el comportamiento y el grado de relación que existe
 entre la barra introducida dentro del núcleo (eje x) y el exceso de reactividad calculado
 (eje y), teniendo las barras de control BC1 y BC2 en posición lineal, las figuras 5.11 y
 5.12, nos revelan estimaciones de los parámetros a, b de la recta Y = a + bX por el
+72
 
-
-                                                                                      72
 método de mínimos cuadrados notando que presentan un coeficiente de correlación muy
 cercanos al valor 1 lo cual indica un comportamiento lineal, por otro lado las figuras
 5.13 y 5.14 presentan una ligera disminución en el coeficiente de correlación lo cual
 induciría un error considerable al momento de calcular un exceso de reactividad por
 medio de dichas rectas.
 
+Figura 44. Barra introducida BC2 vs exceso de reactividad con BC1:0%
 
+Figura 45. Barra introducida BC1 vs exceso de reactividad con BC2:0%
 
+73
 
-       Figura 44. Barra introducida BC2 vs exceso de reactividad con BC1:0%
+Figura 46. Barra introducida BC2 vs exceso de reactividad con BC1:35%
 
-
-
-
-       Figura 45. Barra introducida BC1 vs exceso de reactividad con BC2:0%
-
-
-
-
-                                                                                   73
-       Figura 46. Barra introducida BC2 vs exceso de reactividad con BC1:35%
-
-
-
-
-       Figura 47. Barra introducida BC1 vs exceso de reactividad con BC2:46%
-
-
+Figura 47. Barra introducida BC1 vs exceso de reactividad con BC2:46%
 
 La figura 5.15 revela que al obtener el exceso de reactividad teniendo la barra de control
 BC1 o BC2 parcialmente introducida presenta un exceso de reactividad uniforme
 mientras que calculando el exceso de reactividad teniendo una de las barras
 completamente introducida nos muestra valores de exceso de reactividad diferentes a
-                                                                                       74
+74
+
 los calculados con las barras de control parcialmente introducidas, también podemos
 observar que en los núcleos N38B, N38C, N38D y N38F presentan un exceso de
 reactividad uniforme teniendo las barras parcialmente introducidas y teniendo la barra
 de control BC1 completamente introducida.
 
-
-
-
 Figura 48. Exceso de reactividad vs configuración de núcleo vs posición a crítico con
-                  las barras de control en posición DIAGONAL
-
-
+las barras de control en posición DIAGONAL
 
 La figura 5.16 nos muestra valores de exceso de reactividad más uniformes que
 presentan poca diferencia uno respecto del otro, esto sucede para cada configuración de
@@ -1901,14 +1553,10 @@ núcleo, el único resultado en el cual se puede notar una diferencia considerab
 se determinó en el núcleo N38C, el cual fue hallado teniendo la barra de control BC1
 35% fuera del núcleo, esto se debió a un error por parte de los operadores.
 
+75
 
-
-
-                                                                                       75
 Figura 49. Exceso de reactividad vs configuración de núcleo vs posición a crítico con
-                    las barras de control en posición LINEAL
-
-
+las barras de control en posición LINEAL
 
 La figura 5.17. nos muestra la comparación de los resultados experimentales del exceso
 de reactividad con los resultados obtenidos mediante los códigos de cálculo neutrónico
@@ -1925,167 +1573,130 @@ realizada por medio del código Citvap presenta un comportamiento similar a la c
 realizada en forma experimental, mientras que la curva realizada por medio del código
 Wimscit presenta un comportamiento distinto a partir del núcleo N38D como podemos
 
+76
 
-                                                                                   76
 observar en la figura la curva del código Wimscit tiene una tendencia a subir mientras
 que la curva experimental tiene una tendencia a bajar.
 
+Figura 50. Comparación de los resultados experimentales con los códigos Wimscit y
+Citvap para la configuración de Núcleo de barras DIAGONAL
 
+77
 
-
- Figura 50. Comparación de los resultados experimentales con los códigos Wimscit y
-           Citvap para la configuración de Núcleo de barras DIAGONAL
-
-
-
-
-                                                                                   77
 Capítulo 6
-
 Conclusiones y recomendaciones
-
-
 6.1. Conclusiones
+
 
+El cambio de posición de los elementos combustibles de diferente grado de
+quemado influyen en el valor calculado mediante el método de periodo positivo,
+estos valores calculados presentan una variación de hasta 300 pcm que
+representa el 10% del valor promedio, esto sucede porque los elementos
+combustibles a la hora de ser intercambiados forman una nube de neutrones los
+cuales son rápidamente registrados por los detectores.
 
-      El cambio de posición de los elementos combustibles de diferente grado de
-       quemado influyen en el valor calculado mediante el método de periodo positivo,
-       estos valores calculados presentan una variación de hasta 300 pcm que
-       representa el 10% del valor promedio, esto sucede porque los elementos
-       combustibles a la hora de ser intercambiados forman una nube de neutrones los
-       cuales son rápidamente registrados por los detectores.
+
 
+Los valores en promedio del exceso de reactividad calculados teniendo las
+barras de control en posición diagonal presentan una diferencia de 100 pcm de
+los valores calculados teniendo las barras de control en posición lineal, esta
+diferencia claramente nos indica una variación y por ende nos sugiere una
+elección definitiva de la posición de las barras de control para la operación del
+reactor.
 
-      Los valores en promedio del exceso de reactividad calculados teniendo las
-       barras de control en posición diagonal presentan una diferencia de 100 pcm de
-       los valores calculados teniendo las barras de control en posición lineal, esta
-       diferencia claramente nos indica una variación y por ende nos sugiere una
-       elección definitiva de la posición de las barras de control para la operación del
-       reactor.
+
 
+Los valores de exceso de reactividad calculados con las barras de control parcial
+y totalmente introducidos en el núcleo presentan uniformidad cuando las barras
+de control están en la posición lineal por consiguiente es la posición que será
+adoptada para la operación de producción del reactor.
 
+78
 
-      Los valores de exceso de reactividad calculados con las barras de control parcial
-       y totalmente introducidos en el núcleo presentan uniformidad cuando las barras
-       de control están en la posición lineal por consiguiente es la posición que será
-       adoptada para la operación de producción del reactor.
+
 
-
-
-                                                                                     78
-     El código de prueba Citvap es el código que presenta similitud de
-      comportamiento con los valores obtenidos experimentalmente y por tanto será
-      validado para realizar los cálculos de diferentes parámetros nucleares que brinda
-      este código determinístico.
-
-
-
+El código de prueba Citvap es el código que presenta similitud de
+comportamiento con los valores obtenidos experimentalmente y por tanto será
+validado para realizar los cálculos de diferentes parámetros nucleares que brinda
+este código determinístico.
 
 6.2. Recomendaciones
+
 
+Cuando se cambie los elementos combustibles de alto grado de quemado por
+elementos combustibles frescos y se proceda a dar inicio a un nuevo núcleo, es
+recomendable esperar un lapso de tiempo de 12 horas para que la nube de
+neutrones se disperse al interior del núcleo y poder realizar el cálculo
+experimental del exceso de reactividad del núcleo.
 
-     Cuando se cambie los elementos combustibles de alto grado de quemado por
-      elementos combustibles frescos y se proceda a dar inicio a un nuevo núcleo, es
-      recomendable esperar un lapso de tiempo de 12 horas para que la nube de
-      neutrones se disperse al interior del núcleo y poder realizar el cálculo
-      experimental del exceso de reactividad del núcleo.
+
 
+Realizar el cálculo experimental del exceso de reactividad teniendo las barras de
+control en la posición lineal.
 
-     Realizar el cálculo experimental del exceso de reactividad teniendo las barras de
-      control en la posición lineal.
+
 
+Utilizar el código de cálculo neutrónico Citvap para calcular los diferentes
+parámetros nucleares al momento de cambiar algunos elementos combustibles
+de alto grado de quemado del reactor.
 
+
 
-     Utilizar el código de cálculo neutrónico Citvap para calcular los diferentes
-      parámetros nucleares al momento de cambiar algunos elementos combustibles
-      de alto grado de quemado del reactor.
+Realizar el cálculo experimental del exceso de reactividad mediante el método
+del periodo positivo con las barras de control parcialmente introducidas en el
+núcleo del reactor.
 
+79
 
-     Realizar el cálculo experimental del exceso de reactividad mediante el método
-      del periodo positivo con las barras de control parcialmente introducidas en el
-      núcleo del reactor.
-
-
-
-
-                                                                                    79
 Bibliografía
-
 [1] Louis J. Hamilton James J. Duderstadt. Nuclear Reactor Analysis. John Wiley &
-   Sons, Inc, 1976.
-
+Sons, Inc, 1976.
 [2] Keepin G. R. Physics of nuclear kinetics. Addison Wesley Publishing Company,
-   Inc, 1965.
-
+Inc, 1965.
 [3] Alexander Sesonske Samuel Glasstone. Nuclear Reactor Engineering. P. Van
-   Nostrand Company Inc, 1975.
-
+Nostrand Company Inc, 1975.
 [4] Kaplan I. Física Nuclear. Addison Wesley Publishing Company, Inc, 1962.
-
 [5] John R. Lamarsh. Introduction to Nuclear Reactor Theory. AddisonWesley
-    Publishing Company, Inc, 1965.
-
+Publishing Company, Inc, 1965.
 [6] Caro Rafael. Física de Reactores Nucleares. J E N, 1976.
-
 [7] Argonne National Laboratory. Reactor Physics Constants. McGraw - Hill, 1958.
-
 [8] R. L. Murray. Nuclear Reactor Physics. Prentice Hall Inc, 1957.
-
 [9] United States Atomic Energy Commission. Reactor Physics Constants ANL - 5800.
-    1963.
-
+1963.
 [10] H. S. Isbin. Introductory Nuclear Reactor Theory. Reinhold Publishing
-    Corporation, 1963.
-
+Corporation, 1963.
 [11] R. V. Meghreblian and D. K. Holmes. Reactor Analysis. McGraw - Hill, 1960.
-
 [12] A. M. Weimberg and E. P. Wigner. The Phisical Theory of Neutron Chain
-    Reactors.University of Chicago Press, 1958.
-
+Reactors.University of Chicago Press, 1958.
 [13] R.E. Coté and L.M. Bollinger. Review of Nuclear Physics Experiments at the CP-5
-    Reactor. IAEA Symposium, Vienna, October 1962.
-
+Reactor. IAEA Symposium, Vienna, October 1962.
 [14] B. Davison. Neutrón Transport Theory. Oxfort al the Clarendon Press, 1957.
-
 [15] Emilio Minguez Torres. Evaluación de los parámetros cinéticos y reactividad
-    absoluta de un sistema multiplicativo neutrónico. Master's thesis, Escuela técnica
-    superior de ingenieros industriales, 1981.
-
+absoluta de un sistema multiplicativo neutrónico. Master's thesis, Escuela técnica
+superior de ingenieros industriales, 1981.
 [16] Burcham W. E. Física Nuclear. Longman Group Limeted, London, 1974.
-
 [17] Agustin Zúñiga Gamarra. Parámetros para calibración de barras de control en un
-     reactor experimental. Informe Científico IPEN, 1993.
-
+reactor experimental. Informe Científico IPEN, 1993.
 [18] Knoll G. F. Radiation Detection and Measumerent. Jhon Wiley & Son, Inc, 1999.
 
+80
 
-
-                                                                                         80
 [19] Zúñiga G.A. Métodos experimentales de medición de reactividad. Informe
-     Nuclear, 1984.
-
+Nuclear, 1984.
 [20] Benjamin Garnas. The inverse kinetics method and pid compensation of the
-     annular core research reactor. Master's thesis, The University of New Mexico,
-     2007.
-
+annular core research reactor. Master's thesis, The University of New Mexico,
+2007.
 [21] L. Wentzeis A. Gomez, L. Pecos. Curso de cinética de reactores. Instituto De
-     Tecnología Nuclear Dan Beninson UNSAM, 2007.
-
+Tecnología Nuclear Dan Beninson UNSAM, 2007.
 [22] Santiago Luna. Obtención de un método para estimar el perfil de flujo neutrónico
-     de un reactor nuclear. CNEA, I:21, 2012.
-
+de un reactor nuclear. CNEA, I:21, 2012.
 [23] Zúñiga G.A. Parámetros para medir reactividad por periodo positivo. Informe
-     Científico IPEN, 2013.
+Científico IPEN, 2013.
 
+81
 
-
-
-                                                                                     81
 Apéndice A
-
 A.1 Código WIMS
-
-
 Es un código que comenzó a desarrollarse en 1964 y a lo largo de los años y en todo el
 mundo ha sido validado y usado en rectores PWR, BWR, VVER, CANDU, SGHWR,
 HTGCR, MTR, RBMK y AGR (Advanced Gas Cooled Reactor). Ha sido usado
@@ -2095,307 +1706,316 @@ consecuentes variaciones de inventario, ritmos de reacción y lo que más se usa
 código de celda, espectros energéticos y secciones eficaces condensadas en hasta 69
 grupos.
 
-
-
 A.2 Código CITATION
-
-
 Citation es un código de análisis neutrónico del núcleo basado en la teoría de la difusión
 de neutrones. Realiza cálculos hasta en el espacio de tres dimensiones con grupos
 dispersos arbitrarios, esto implementa aproximaciones explícitas de diferencias finitas
 en espacio y tiempo, mientras el problema de flujo es resuelto por iteración directa para
 determinar el factor de multiplicación efectiva keff requerido por un sistema crítico.
 
-
-
 A.3 Código WIMSCIT
-
-
 El WIMCIT fue desarrollado en los laboratorios del departamento de Cálculo, Análisis
 y Seguridad (CASE) del IPEN, para el cual se dispuso de una PC Pentium II de 300
 MHz.
 
-
-
-
 A.3.1. Requerimientos de software
-
 
 El programa hace uso de las siguientes herramientas:
 
+82
 
-                                                                                         82
 Sistemas operativos: Windows95, Windows98, Windows2000, DOS.
-
 A.3.1.1. Softwares:
+
 
-      Delphi 5.0 Trial: Lenguaje Pascal orientado a objetos.
+Delphi 5.0 Trial: Lenguaje Pascal orientado a objetos.
 
-      TeeChart 5.0 Trial: Paquete de componentes gráficos para Delphi 5.0.
+
 
-
+TeeChart 5.0 Trial: Paquete de componentes gráficos para Delphi 5.0.
 
 A.3.1.2 Códigos de cálculo:
+
 
-      WIMS: Código de cálculo de celdas.
+WIMS: Código de cálculo de celdas.
 
-      CITATION: Código de cálculo Neutrónico.
+
 
+CITATION: Código de cálculo Neutrónico.
 
 A.4 Código CITVAP
-
-
 El código fue desarrollado para ampliar y mejorar el código CITATION. Además, las
-modificaciones   programadas     fueron   realizadas   para     su   implementación   en
-computadoras personales.
+modificaciones
 
+programadas
+
+fueron
+
+realizadas
+
+para
+
+su
+
+implementación
+
+en
+
+computadoras personales.
 El código resuelve ecuaciones de difusión de multigrupos para 1, 2 o 3 dimensiones
 para geometrías rectangulares o cilíndricas. La discretización espacial puede ser hecha
 de mallas triangulares o hexagonales.
-
 Los datos nucleares pueden ser dados como microscópicas o macroscópicas librerías de
 secciones eficaces (CITATION o HXS 4.0 formats).
-
 Conservando todas las opciones originales de CITACIÓN, las características más
 pertinentes implementadas en CITVAP son:
+
 
-      Los cálculos de de quemado pueden ser hechos con secciones transversales
-       macroscópicas (MXS).
+Los cálculos de de quemado pueden ser hechos con secciones transversales
+macroscópicas (MXS).
 
-      La administración del elemento combustible, también con MXS.
+
 
-      Cambios de la posición de las barras de control durante los cálculos con MXS.
-       La gran versatilidad en la entrada de datos debido a la inclusión de un módulo
-       preprocesador. Ahora, la entrada de datos en la computadora tiene un formato
-       gratis y completamente compatible con el código CITATION estándar. Esta
+La administración del elemento combustible, también con MXS.
 
-                                                                                      83
-       característica mejora descripciones de problemas en 3 dimensiones y también es
-       más fácil describir la administración del combustible y movimientos del
-       elemento combustible con discretización axial.
+
 
-      El MXS depende ahora de seis parámetros:
+Cambios de la posición de las barras de control durante los cálculos con MXS.
+La gran versatilidad en la entrada de datos debido a la inclusión de un módulo
+preprocesador. Ahora, la entrada de datos en la computadora tiene un formato
+gratis y completamente compatible con el código CITATION estándar. Esta
+83
 
+característica mejora descripciones de problemas en 3 dimensiones y también es
+más fácil describir la administración del combustible y movimientos del
+elemento combustible con discretización axial.
+
 
+El MXS depende ahora de seis parámetros:
 
-    1. Quemado del combustible
-    2. Densidad de flujo
-    3. Quemado del combustible cuando los absorvedores son introducidos en el
-       elemento combustible
-    4. Temperatura del combustible
-    5. Temperatura del refrigerante
-    6. Densidad del refrigerante
+1. Quemado del combustible
+2. Densidad de flujo
+3. Quemado del combustible cuando los absorvedores son introducidos en el
+elemento combustible
+4. Temperatura del combustible
+5. Temperatura del refrigerante
+6. Densidad del refrigerante
 
+84
 
-
-
-                                                                                  84
 Apéndice B
-
 B.1. Demostración de la ecuación de Inhour
-
-
 Para hacer esta demostración trataremos de solucionar las ecuaciones de la cinética
 puntual, para esto consideremos el caso donde todos los neutrones retardados son
 representados por un grupo retardado caracterizado por la fracción de neutrones
 retardados.
-
-                                              ∑
-
+∑
 
 Y un promedio de las constantes de decaimiento
+[ ∑
 
-
-                                           [ ∑      ]
-
+]
 
 En este caso las ecuaciones de la cinética puntual se simplifican como:
+( ( )
+[
 
-                              ( ( )      )
-                             [            ] ( )         ( )   (       )
+[ ]
 
+( )
 
+)
+] ( )
 
+( )
 
-                          [ ]      ( )       ( )                  (       )
+( )
 
+(
 
+)
 
+(
+
+)
 
 Para t = 0 el reactor está en un estado estable con una densidad de neutrones n0, así
 descubrimos que para t < 0, tenemos lo siguiente:
+(
 
-
-                                                              (       )
-
-
-
+)
 
 La ecuación (B.0.3) resulta una condición inicial para las ecuaciones (B.0.1) y (B.0.2)
+( )
 
-                                   ( )        ( )
+( )
 
 Este problema de valor inicial puede ser solucionado buscando soluciones
 exponenciales de la forma:
+( )
 
-                             ( )                    ( )
+( )
 
-                                                                                          85
-Donde n, C y         serán determinados.
+85
 
+Donde n, C y
 
+serán determinados.
 
 Si sustituimos las condiciones iniciales en las ecuaciones (B.0.1) y (B.0.2), llegamos a
 las siguientes ecuaciones:
+(
 
-
-                                               (            )
-
-
-
+)
 
 Estas ecuaciones tienen una solución si y solo si:
+[
 
-                                   [       (               )] (        )
+(
 
+)] (
 
+(
 
+)
 
-                           (               )                                    (       )
+)
 
-La ecuación (B.0.3) es la ecuación característica para el parámetro                     . Usando nuestra
-definición de    :
+(
 
-                                                   (         ( ))
+)
+
+La ecuación (B.0.3) es la ecuación característica para el parámetro
+definición de
+
+. Usando nuestra
+
+:
+(
+
+( ))
 
 Nosotros podemos escribir la ecuación (B.0.4) como:
+(
 
-                                                       (          )         (       )
+)
 
-Usando la ecuación (B.0.5) podemos determinar las constantes de decaimiento                          para
-la reactividad       .
+(
+
+)
+
+Usando la ecuación (B.0.5) podemos determinar las constantes de decaimiento
+la reactividad
+
+para
+
+.
 
 Ahora generalizamos la ecuación (B.0.5) para los seis grupos de los neutrones
 retardados.
+∑(
 
+)
 
-                                       ∑(                   )         ( )           (       )
+( )
 
+(
+
+)
 
 En la teoría de reactores la ecuación (B.0.6) es conocida como la ecuación de INHOUR.
-Las raíces de esta ecuación son las siete constantes de decaimiento                     , esto describe el
+Las raíces de esta ecuación son las siete constantes de decaimiento
+
+, esto describe el
+
 comportamiento de la densidad de neutrones como:
+( )
 
-  ( )                                                                                            (      )
+(
 
+)
 
-                                                                                                       86
+86
+
 Apéndice C
-
 C.1. Ecuación de INHOUR utilizado en el RP-10 para hallar reactividad
-
-
 Dada la ecuación de INHOUR
+∑(
 
+Utilizando la relación del periodo con el parámetro
 
-                                             ∑(           )       ( )
+)
 
+( )
 
-Utilizando la relación del periodo con el parámetro   .
-
-
-
+.
 
 De la misma forma utilizaremos la relación de la reactividad
 
-
-
-
 Reemplazando estas dos relaciones en la ecuación (C.0.8)
+∑(
 
+∑(
 
-                                                 ∑(               )
+)
 
-
-
-                                                ∑(            )
-
+)
 
 Dividimos ambos lados de la ecuación entre β.
 
+(
 
-                                                ∑(                )
-                               (      )
+)
 
+∑(
+
+)
 
 Como la producción relativa de neutrones retardados viene dada por la siguiente
 relación
 
-
-
-
 Por tanto obtenemos la ecuación utilizada en el RP-10 para determinar la reactividad.
 
+(
 
-                                                ∑(                )
-                                (     )
+)
 
+∑(
 
+)
 
+87
 
-                                                                                        87
 Apéndice D
-
 D.1. Fotos
 
+Figura 51. Reactor nuclear RP – 10
 
+Figura 52. Vista interior del reactor
+88
 
-
-             Figura 51. Reactor nuclear RP – 10
-
-
-
-
-             Figura 52. Vista interior del reactor
-
-                                                     88
 Figura 53. Núcleo del reactor
 
-
-
-
 Figura 54. Núcleo del reactor
+89
 
-                                89
-      Figura 55. Construcción de núcleos propuestos
-
-
-
+Figura 55. Construcción de núcleos propuestos
 
 Figura 56. Cambio de configuración de las barras de control
+90
 
-                                                              90
 Figura 57. Verificación del mecanismo de las barras de control
 
+Figura 58. Monitoreo del núcleo N38D
+91
 
-
-
-           Figura 58. Monitoreo del núcleo N38D
-
-
-                                                                 91
 Figura 59. Registrando datos del sistema de adquisición de datos SAD
 
+Figura 60. Registrando datos de la consola del reactor
+92
 
-
-
-       Figura 60. Registrando datos de la consola del reactor
-
-                                                                       92
 Figura 61. Presentación de resultados experimentales
 
+93
 
-
-
-                                                       93
 

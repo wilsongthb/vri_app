@@ -1,2168 +1,2090 @@
-       UNIVERSIDAD NACIONAL DEL ALTIPLANO
-
- FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
-
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
 ESCUELA PROFESIONAL DE MEDICINA VETERINARIA Y ZOOTECNIA
 
-
-
-
 “EFECTO DE LA CONGELACION EN LA SOBREVIVENCIA Y
-      VIABILIDAD DE EMBRIONES DE ALPACA”
+VIABILIDAD DE EMBRIONES DE ALPACA”
 
+TESIS
+PRESENTADO POR:
 
+Bach. ALDO FREDERIC PAREDES CCASO
+PARA OPTAR EL TÍTULO PROFESIONAL DE:
 
-                    TESIS
-                  PRESENTADO POR:
+MÉDICO VETERINARIO Y ZOOTECNISTA
 
-      Bach. ALDO FREDERIC PAREDES CCASO
+PUNO – PERÚ
 
-        PARA OPTAR EL TÍTULO PROFESIONAL DE:
+2014
+1
 
-
-   MÉDICO VETERINARIO Y ZOOTECNISTA
-
-
-                      PUNO – PERÚ
-
-
-                         2014
-
-                                                          1
 ÁREA : Reproducción animal
 TEMA : Conservación de gametos
 C
-                                 2
-                                         ÍNDICE
-                                                            Pág.
-I.     INTRODUCCIÓN.                                          3
-II.    REVISIÓN BIBLIOGRAFICA.                                5
-       2.1.   Desarrollo folicular y ovulación                5
-       2.2.   Embriología del Camélido                        6
-              2.2.1 Desarrollo embrionario                    6
-              2.2.2 Recolección de embriones                  7
-              2.2.3 Evaluación de embriones                   7
-       2.3.   Criopreservación de embriones                   9
-       2.4.   Crioprotectores                                 9
-              2.4.1. Crioprotectores permeables               10
-              2.4.2. Crioprotectores no permeables            11
-       2.5.   Congelación estándar                            11
-       2.6.   Congelación de embriones de Camélidos           13
-       2.7.   Descongelación de embriones                     14
-       2.8.   Evaluación post descongelación de embriones     15
-       2.9    Transferencia de embriones                      16
-       2.10   Diagnóstico de gestación                        16
 
+2
 
-III.   MATERIALES Y MÉTODOS.                                 17
-       3.1.   Lugar                                          17
-       3.2.   Animales.                                      17
-       3.3.   Cópula                                         18
-       3.4.   Manejo de donadoras y receptoras               18
-       3.5    Ecografía                                      18
-       3.6    Medio de Lavado                                18
-       3.7    Recolección de embriones                       19
-              3.7.1 Búsqueda de embriones                    19
-              3.7.2 Evaluación de Embriones                  20
-              3.7.3 Embriones                                20
-       3.8    Crioprotectores                                21
-       3.9    Medio de rehidratación                         21
+ÍNDICE
+Pág.
+I.
 
+INTRODUCCIÓN.
 
-                                                                   3
-      3.10   Congelación de embriones                                      21
-             3.10.1     Empajillado                                        21
-             3.10.2     Congelación de embriones                           22
-      3.11   Descongelación de embriones                                   22
-             3.11.1      Evaluación de los embriones post-descongelación   22
-      3.12   Inducción de ovulación a receptoras                           23
-      3.13   Transferencia de embriones a las receptores                   23
-      3.14   Diagnóstico de gestación                                      23
-      3.15   Análisis estadístico                                          24
-IV.   RESULTADO Y DISCUSIÓN                                                25
-V     CONCLUSIONES.                                                        32
-VI.   RECOMENDACIONES.                                                     33
-VII. BIBLIOGRAFÍA.                                                         34
- ANEXOS.                                                                   42
+3
 
+II.
 
+REVISIÓN BIBLIOGRAFICA.
 
+5
 
-                                                                                4
-                        ABREVIATURAS
+2.1.
 
-CIP.    Centro de Investigación y Producción
-CSA.    Camélido sudamericano
-DMSO.   DimetilSulfoxido
-EITS.   Sociedad Internacional de Transferencia de Embriones
-EG.     Etilenglicol
-G.      Glicerol
-Hr.     Hora
-LH.     Hormona luteinizante
-M.      Molar
-MHz.    Megahercio
-MIN.    Minuto
-ML.     Mililitro
-MSNM.   Metros sobre el nivel del mar
-PBS.    Buffer Phosfate Saline
-S.      Segundo
-SFB.    Suero fetal bovino
-UNA.    Universidad Nacional del Altiplano
-°C.     Grado Centígrado
+Desarrollo folicular y ovulación
 
+5
 
+2.2.
 
+Embriología del Camélido
 
-                                                               5
+6
+
+2.2.1 Desarrollo embrionario
+
+6
+
+2.2.2 Recolección de embriones
+
+7
+
+2.2.3 Evaluación de embriones
+
+7
+
+2.3.
+
+Criopreservación de embriones
+
+9
+
+2.4.
+
+Crioprotectores
+
+9
+
+2.4.1. Crioprotectores permeables
+
+10
+
+2.4.2. Crioprotectores no permeables
+
+11
+
+2.5.
+
+Congelación estándar
+
+11
+
+2.6.
+
+Congelación de embriones de Camélidos
+
+13
+
+2.7.
+
+Descongelación de embriones
+
+14
+
+2.8.
+
+Evaluación post descongelación de embriones
+
+15
+
+2.9
+
+Transferencia de embriones
+
+16
+
+2.10
+
+Diagnóstico de gestación
+
+16
+
+III.
+
+MATERIALES Y MÉTODOS.
+
+17
+
+3.1.
+
+Lugar
+
+17
+
+3.2.
+
+Animales.
+
+17
+
+3.3.
+
+Cópula
+
+18
+
+3.4.
+
+Manejo de donadoras y receptoras
+
+18
+
+3.5
+
+Ecografía
+
+18
+
+3.6
+
+Medio de Lavado
+
+18
+
+3.7
+
+Recolección de embriones
+
+19
+
+3.7.1 Búsqueda de embriones
+
+19
+
+3.7.2 Evaluación de Embriones
+
+20
+
+3.7.3 Embriones
+
+20
+
+3.8
+
+Crioprotectores
+
+21
+
+3.9
+
+Medio de rehidratación
+
+21
+3
+
+3.10
+
+3.11
+
+Congelación de embriones
+
+21
+
+3.10.1
+
+Empajillado
+
+21
+
+3.10.2
+
+Congelación de embriones
+
+22
+
+Descongelación de embriones
+
+22
+
+3.11.1
+
+22
+
+Evaluación de los embriones post-descongelación
+
+3.12
+
+Inducción de ovulación a receptoras
+
+23
+
+3.13
+
+Transferencia de embriones a las receptores
+
+23
+
+3.14
+
+Diagnóstico de gestación
+
+23
+
+3.15
+
+Análisis estadístico
+
+24
+
+IV.
+
+RESULTADO Y DISCUSIÓN
+
+25
+
+V
+
+CONCLUSIONES.
+
+32
+
+VI.
+
+RECOMENDACIONES.
+
+33
+
+VII. BIBLIOGRAFÍA.
+ANEXOS.
+
+34
+42
+
+4
+
+ABREVIATURAS
+CIP.
+CSA.
+DMSO.
+EITS.
+EG.
+G.
+Hr.
+LH.
+M.
+MHz.
+MIN.
+ML.
+MSNM.
+PBS.
+S.
+SFB.
+UNA.
+°C.
+
+Centro de Investigación y Producción
+Camélido sudamericano
+DimetilSulfoxido
+Sociedad Internacional de Transferencia de Embriones
+Etilenglicol
+Glicerol
+Hora
+Hormona luteinizante
+Molar
+Megahercio
+Minuto
+Mililitro
+Metros sobre el nivel del mar
+Buffer Phosfate Saline
+Segundo
+Suero fetal bovino
+Universidad Nacional del Altiplano
+Grado Centígrado
+
+5
+
 “Vencerse a uno mismo, tiene más valor que vencer al resto”
-
-                                                                               DEDICATORIA
-
+DEDICATORIA
 A mi Madre Felícitas, porque me dio lo más valioso para
 todo ser humano Vida, Amor, Educación y Valores, gracias
 a tus ejemplos de superación y perseverancia puedo ver alcanzada esta meta.
 
-
-
-
-                                           A mis hermanos Ronal Mijail, Yanet y Juana, porque
-                                             siempre estuvieron cuando los necesité y porque son
-                                                         el motivo de todo mi alegría y felicidad.
-
-
-
+A mis hermanos Ronal Mijail, Yanet y Juana, porque
+siempre estuvieron cuando los necesité y porque son
+el motivo de todo mi alegría y felicidad.
 
 A mis amigos, José Enrique Zea Velasquez y
 Jhonny Vera Flores, por todo su apoyo incondicional
 ”Dicen que un amigo es el hermano que Dios olvido darnos”
 estoy convencido de que es así.
-
-
-                                                 A la mujer que sin saberlo, siempre fue el motor
-                     de mis esfuerzos y mis ganas de superación Sandra Evelin Córdova Vargas.
-
-
+A la mujer que sin saberlo, siempre fue el motor
+de mis esfuerzos y mis ganas de superación Sandra Evelin Córdova Vargas.
 En memoria a Yodis Edwar Quispe Collantes, quienes tuvimos
 la oportunidad de conocerlo sabemos que fue un tipazo, siempre optimista,
 con buen humor, colaborador, emprendedor. Tuve la dicha de conocerte y
 el honor de contar con tu apoyo, gracias Yodis.
 
+Mil palabras no bastarían para agradecerles su apoyo, comprensión y consejos.
+A todos, espero no defraudarlos y quiero contar siempre con su valioso apoyo, sincero e
+incondicional.
 
+6
 
-
-                 Mil palabras no bastarían para agradecerles su apoyo, comprensión y consejos.
-          A todos, espero no defraudarlos y quiero contar siempre con su valioso apoyo, sincero e
-                                                                                  incondicional.
-
-
-
-
-                                                                                                6
-                                   AGRADECIMIENTOS
-
-
+AGRADECIMIENTOS
  A mi maestro y director de Tesis Dr. Guido Manuel Perez Durand, por sus sabios consejos,
-   comprensión y guía incondicional.
-
-
+comprensión y guía incondicional.
  A Mg. Sc. Hugo W. Deza Calsin, mi maestro y asesor, por sus enseñanzas, por su apoyo
-   constanteen mi etapa estudiantil y en la ejecución de esta Tesis. Por haberme dado la
-   oportunidad de desarrollarme profesionalmente.
-
-
+constanteen mi etapa estudiantil y en la ejecución de esta Tesis. Por haberme dado la
+oportunidad de desarrollarme profesionalmente.
  A Mg. Sc. Harold Perez Guerra, por su apoyo y amistad.
-
-
  A Mg. Joel Pacheco Curie, mi maestro y amigo, por su confianza y buenos deseos.
-
  A los miembros del jurado revisor Dr. Ceferino Uberto Olarte Daza, Dr. Luis Vicente
-   Olivera Marocho, Mg. Jesús Martin Urviola Sanchez y Mg. Sc. Faustino Quispe Condori,
-   por sus aportes y correcciones realizadas a este trabajo de investigación.
-
+Olivera Marocho, Mg. Jesús Martin Urviola Sanchez y Mg. Sc. Faustino Quispe Condori,
+por sus aportes y correcciones realizadas a este trabajo de investigación.
  Y a todos mis amigos, que siempre estuvieron al pendiente de la culminación de ésta Tesis.
 
+7
 
-
-
-                                                                                               7
-                                        RESUMEN
-
-    El trabajo de investigación se realizó en el Centro de Investigación y Producción
-
+RESUMEN
+El trabajo de investigación se realizó en el Centro de Investigación y Producción
 Chuquibambilla de la Universidad Nacional del Altiplano Puno, se utilizó 32 hembras
-
 donadoras y 24 receptoras, con experiencia de último parto, de buena condición
-
 corporal, clínicamente sanas, y de buena amplitud de isquiones. Los objetivos fueron,
-
 evaluar la sobrevivencia de los embriones a la congelación y descongelación por el
-
 método estándar con etilenglicol y Dimetilsulfóxido como crioprotectores y determinar
-
 su viabilidad en las receptoras. Se aparearon a las donadoras con machos fértiles y a las
-
 receptoras con machos vasectomizados, al 8° día post cópula, se realizó la ecografía y la
-
 recolección de embriones, utilizando Suero Fisiológico + 10% de suero fetal bovino.
-
 Los embriones clasificados como de grado I y II, fueron los seleccionados para ser
-
 congelados. En número de 12 embriones con Etilenglicol 1.5M y 12 con
-
 Dimetilsulfóxido1.0M, fueron expuestos por 10 min como máximo a sustancia
-
 crioprotectora, luego fueron aspirados en pajuelas de 0.25 ml. El congelador manual se
-
 calibró a -6°C, se cargaron las pajuelas cuando este marcaba -7°C se mantuvo por lapso
-
 de 1min para luego realizar el sembrado de núcleos de congelación, con una pinza
-
 metálica previamente enfriada en nitrógeno líquido, luego de 10min inició el descenso
-
 de temperatura a una velocidad de 0.5-1.0 °C/min hasta -33 ó -35 °C y se sumergió en
-
 nitrógeno líquido. Para la descongelación la pajuela se mantuvo 8 segundos a
-
 temperatura ambiente y luego se sumergió en baño María a 32 °C por 2 min. Se vació el
-
 contenido en placa Petri para su rehidratación en medio de mantenimiento + sucrosa
-
 0.2M por 5 min. Se obtuvieron (12/12) 100% de embriones sobrevivientes a la
-
 congelación con etilenglicol, frente a (8/12) 66.7% logrado con Dimetilsulfóxido,
-
 (p≥0.05). Hecha la transferencia a las receptoras, el diagnóstico de gestación se realizó
-
 entre los días 50-60 post transferencia por ecografía de los cuales se obtuvieron (7/12)
 
+1
 
-                                                                                       1
 58.3% de embriones viables para los congelados con etilenglicol y (3/8) 37.5% para los
-
 congelados usando Dimetilsulfóxido, no encontrándose diferencia significativa
-
 (p≥0.05). Concluyendo, que los embriones de alpaca congelados con Etilenglicol por el
-
 método estándar no son estadísticamente diferentes tanto en sobrevivencia como en
-
 viabilidad a los congelados con Dimetilsulfóxido.
 
+2
 
+I. INTRODUCCIÓN
 
-
-                                                                                    2
-                                  I. INTRODUCCIÓN
-
-
-
-    Los camélidos sudamericanos son animales muy importantes en la economía
-
+Los camélidos sudamericanos son animales muy importantes en la economía
 andina; son fuente de carne, fibra y trabajo para la gente, especialmente aquella que
-
 habita las regiones más elevadas de los andes. Estos animales utilizan extensas regiones
-
 que debido a factores asociados a la altitud, no podrían ser aprovechadas de manera
-
 efectiva por otros animales domésticos. Burfening P. citado por (Novoa y Florez,
-
 1991). La población de alpacas en la región Puno es de 1´459.903, representando este el
-
 39.6% de la población nacional (IV CENAGRO, 2012). Es necesario además saber que
-
 superamos en número de animales, largamente a nuestros países vecinos Bolivia, Chile,
-
 Argentina (Brack, 2003).
 
-
-
-    Existen en el mundo dos sistemas de producción de camélidos sudamericanos
-
+Existen en el mundo dos sistemas de producción de camélidos sudamericanos
 (CSA). La primera es el pastoreo estratégico tradicional de los Andes, con una escasa
-
 pastura en el seco altiplano andino llamado Puna, con un pastizal de altura entre 3800
-
 y4800 msnm. presión atmosférica baja, ambiente seco y a menudo con viento. El
-
 segundo sistema opera en condiciones más favorables, a poca altura (no más de 800
-
 msnm.), en ambos sistemas, la selección de calidad de la fibra ha sido el principal
-
 objetivo de investigación y programas de desarrollo. Muchos proyectos han ido
-
 centrándose en el mejoramiento del hato a través de la selección y la introducción de
-
 machos superiores con excelente calidad de fibra (médula y color) (Miragaya et al.,
-
 2005). La explotación de camélidos sudamericanos es de gran importancia social, para
-
 la población nativa de los altos andes, la fisiología reproductiva de estas especies
+representa un
 
-representa un    desafío en el desarrollo de técnicas de crianza más avanzadas.
+desafío en el desarrollo de técnicas de crianza más avanzadas.
 
 Actualmente en la criopreservación de embriones no se han desarrollado muchas
-
 investigaciones que tengan buenos resultados (Aller y Rebuffi 2002).
+3
 
-                                                                                      3
-    Durante los últimos 6 años, la mejora y simplificación de las técnicas de
-
+Durante los últimos 6 años, la mejora y simplificación de las técnicas de
 criopreservación de embriones ha permitido el almacenamiento congelado de
-
 embriones, de un gran número de especies, convirtiéndose en rutina en los programas
-
 comerciales de transferencia de embriones. En la mayoría de los casos, los protocolos
-
 convencionales de congelación lenta se siguen utilizando y las tasas de preñez de
-
 embriones en bovino y equino alcanzan un 50-60% (Niemann, 1991; Lascombes y
-
 Pashen, 2000).
-
-
-    La transferencia de embriones frescos o congelados es usada hace varios años de
-
+La transferencia de embriones frescos o congelados es usada hace varios años de
 manera muy eficiente en ovinos, bovinos, teniendo como consecuencia la mejora
-
 genética de estas especies incrementando sus parámetros productivos. En las alpacas
-
 también es factible el uso de esta biotecnología.
+Este
 
-Este   trabajo   de   investigación    se   propuso   congelar/descongelar    embriones,
+trabajo
+
+de
+
+investigación
+
+se
+
+propuso
+
+congelar/descongelar
+
+embriones,
 
 contribuyendo a las investigaciones en este tema y lograr en un futuro la difusión de
-
 animales con elevado valor genético.
-
-    Este trabajo se plateo como objetivos: Evaluar la sobrevivencia de embriones,
-
+Este trabajo se plateo como objetivos: Evaluar la sobrevivencia de embriones,
 posterior a la congelación/descongelación, con dos crioprotectores y Determinar la
-
 viabilidad de embriones post congelación/descongelación, en las receptoras.
 
+4
 
+II. REVISION BIBLIOGRAFICA
 
+2.1. Desarrollo folicular y ovulación
 
-                                                                                      4
-                             II. REVISION BIBLIOGRAFICA
-
-
-    2.1. Desarrollo folicular y ovulación
-
-
-    Las hembras de las especies domésticas nacen con un número determinado de
-
+Las hembras de las especies domésticas nacen con un número determinado de
 ovocitos y folículos ováricos, gran parte de los cuales sufrirán atresia y nunca serán
-
 ovulados. A lo largo de la vida de la hembra, los folículos primordiales permanecen en
-
 un estado de reposo y cada cierto tiempo algunos son seleccionados para desarrollarse.
-
 El desarrollo folicular es un proceso continuo que culmina con la ovulación del folículo
-
 madurado o con la regresión del mismo (Galina y Valencia, 2008).
-
-    La dinámica folicular de la llama sigue el patrón clásico de ondas descrito en la
-
+La dinámica folicular de la llama sigue el patrón clásico de ondas descrito en la
 hembra bovina. En cada onda folicular, emerge un grupo de folículos, uno de los cuales
-
 (el folículo dominante) continuará su crecimiento hasta alcanzar el diámetro máximo de
-
 9-16 mm. La acción inhibitoria del folículo dominante lleva al resto de los folículos de
-
 la misma cohorte (subordinados) a detener su crecimiento y atresiarse. Entre 1 y 4 días
-
 de comenzada la regresión del folículo dominante emerge la onda (Adams et al., 1990;
-
 Bravo et al., 1990).
-
-
-    En el crecimiento folicular intervienen la proliferación y la diferenciación inducidas
-
+En el crecimiento folicular intervienen la proliferación y la diferenciación inducidas
 por hormonas de células de la teca y de la granulosa, lo que finalmente causa un
-
 incremento en la capacidad de los folículos de producir estradiol y de reaccionar a las
-
 gonadotropinas. La producción de estradiol determina cuál folículo adquirirá los
-
 receptores de LH necesarios para la ovulación y luteinización. Las perturbaciones en la
-
 respuesta de la granulosa y teca a las señales gonadotropínicas interrumpen el
-
 crecimiento folicular e inician la atresia (Hafez, 2000).
 
+5
 
-
-
-                                                                                        5
-      En camélidos el estímulo para la descarga de la hormona luteinizante y la
-
-  subsiguiente ovulación es la introducción del pene, el estímulo de la monta sola sin la
-
-  introducción del pene, resulta en una baja tasa de ovulación (Fernández-Baca et al.,
-
-  1970). Periodos de monta por un tiempo de 5 minutos como mínimo es suficiente para
-
-  la inducción de la ovulación en alpacas, esto en presencia de un folículo preovulatorio,
-
-  así mismo se reporta un 5% de ovulaciones espontáneas cuando la hembra es aislada del
-
-  macho y luego se la presenta ante este (Bravo, 2002; Sumar, 2000).
-
-
+En camélidos el estímulo para la descarga de la hormona luteinizante y la
+subsiguiente ovulación es la introducción del pene, el estímulo de la monta sola sin la
+introducción del pene, resulta en una baja tasa de ovulación (Fernández-Baca et al.,
+1970). Periodos de monta por un tiempo de 5 minutos como mínimo es suficiente para
+la inducción de la ovulación en alpacas, esto en presencia de un folículo preovulatorio,
+así mismo se reporta un 5% de ovulaciones espontáneas cuando la hembra es aislada del
+macho y luego se la presenta ante este (Bravo, 2002; Sumar, 2000).
 
 2.2Embriología del camélido
+2.2.1. Desarrollo embrionario
+Las divisiones a partir del cigoto comienzan durante el transporte del embrión a
+través del oviducto hasta entrar en el útero, pero, el tiempo en el que ocurre este es
+específico a cada especie. Después de algunas divisiones celulares, el embrión toma
+forma de una pelota pequeña de células llamada mórula, luego de ello estas células se
+ordenan de modo tal que forman una cavidad llena de líquido entonces se denomina
+blastocisto (Hyttel et al., 2010).
+Tabla 1. Tiempo de pasaje del embrión desde el oviducto hasta el útero
+y formación del blastocisto en las diferentes especies.
 
-      2.2.1. Desarrollo embrionario
+Especies
 
-      Las divisiones a partir del cigoto comienzan durante el transporte del embrión a
+Pasaje dentro del útero
+Días después de
+Estado de
+la ovulación
+desarrollo
 
-  través del oviducto hasta entrar en el útero, pero, el tiempo en el que ocurre este es
+Tiempo en que se
+forma el
+blastocisto (días
+post ovulación)
 
-  específico a cada especie. Después de algunas divisiones celulares, el embrión toma
+Cerda
 
-  forma de una pelota pequeña de células llamada mórula, luego de ello estas células se
+2
 
-  ordenan de modo tal que forman una cavidad llena de líquido entonces se denomina
+4-8 células
 
-  blastocisto (Hyttel et al., 2010).
+5-6
 
-      Tabla 1. Tiempo de pasaje del embrión desde el oviducto hasta el útero
-      y formación del blastocisto en las diferentes especies.
+Vaca
 
-                                     Pasaje dentro del útero       Tiempo en que se
-           Especies            Días después de       Estado de         forma el
-                                la ovulación         desarrollo    blastocisto (días
-                                                                    post ovulación)
-      Cerda                            2            4-8 células          5-6
+3-3 ½
 
-      Vaca                          3-3 ½           8-16 células         7-8
+8-16 células
 
-      Oveja                            3            8-16 células         6-7
+7-8
 
-      Yegua                          5-6              Mórula              6
+Oveja
 
-      Perra                            8            Blastocisto           8
+3
 
-      (Hyttel et al., 2010).
-                                                                                        6
+8-16 células
+
+6-7
+
+Yegua
+
+5-6
+
+Mórula
+
+6
+
+Perra
+
+8
+
+Blastocisto
+
+8
+
+(Hyttel et al., 2010).
+6
+
 En el desarrollo embrionario de alpacas se tiene a los 6 días post monta mórula. 8 días
-
 blastocisto joven y blastocisto expandido 10 días, vesícula embrionaria (Perez, 1995).
 
-
-
-    2.2.2 Recolección de embriones
-
-    La recolección de embriones en camélidos por lo general se hace del modo no
-
+2.2.2 Recolección de embriones
+La recolección de embriones en camélidos por lo general se hace del modo no
 quirúrgico. Se sujeta a la donante y se administra un sedante, luego se envuelve la cola,
-
 para evitar la molestia de la misma, se limpian las heces del recto y la zona perineal.
-
 Algunas veces se coloca anestesia epidural, se atraviesa la cérvix con una sonda Foley y
-
 por el recto con mano enguantada se ayuda a dicha manipulación. Una vez insertada la
-
 sonda en el cuerno uterino se llena el balón con 30-40 ml. de aire para anclarlo, luego se
-
 introduce medio de lavado temperado y con suaves masajes se ayuda a evacuar el medio
-
 de lavado a través del catéter hacía en filtro colector, lavado que debe repetirse por lo
-
 menos tres veces con un mínimo de 500 ml (Skidmore, 2000; Huanca et al., 2004).
 
+2.2.3. Evaluación de embriones
 
-    2.2.3. Evaluación de embriones
-
-
-    La clasificación de los embriones se realiza en base a su aspecto morfológico. Una
-
+La clasificación de los embriones se realiza en base a su aspecto morfológico. Una
 fina pipeta de vidrio permitirá mover los embriones, para poder observarlos desde
-
 distintos ángulos (Hafez, 2000; Palomino, 2000). Se debe observar la integridad de la
-
 membrana pelúcida y su esfericidad (Palomino, 2000). El embrión debe de tener un
-
 desarrollo acorde con el día de colecta; se tolera un máximo de 48 hr de retraso (Hafez,
-
 2000). En el día 6to o 7mo, se deben descartar los embriones de menos de 32 células,
+las células deben ser claras y de contorno
 
-las células deben ser claras y de contorno      regular, siendo la opacidad signo        de
+regular, siendo la opacidad signo
+
+de
 
 degeneración, este tipo de examen morfológico no constituye un test absoluto de la
-
 viabilidad embrionaria. Sin embargo se presentan diferencias significativas en el
 
+7
 
-
-
-                                                                                         7
-   porcentaje de preñez cuando se transfieren embriones de calidad media respecto a la
-
-   calidad buena o excelente (Hafez, 2000; Palomino, 2000; Witenberg et al.,1987).
-
-
+porcentaje de preñez cuando se transfieren embriones de calidad media respecto a la
+calidad buena o excelente (Hafez, 2000; Palomino, 2000; Witenberg et al.,1987).
 
 (IETS, 1998) La Sociedad Internacional de Transferencia de Embriones, propone una
-
 tabla de calificación.
+Tabla 2. Calificación de embriones propuesta por la IETS.
+CALIDAD
+CARACTERISTICAS
+EXCELENTE
+BUENO
 
-       Tabla 2. Calificación de embriones propuesta por la IETS.
-         CALIDAD                            CARACTERISTICAS
-   EXCELENTE               O Embrión acorde a su recuperación, esférico, simétrico,
-   BUENO                       con células de tamaño, color y textura uniforme. Se
-                               congela con muy buenos resultados
-                               Poca variación, algunos fragmentos celulares en espacio
-   REGULAR                     perivitelino o pequeñas vesículas en los blastómeros
-                               Severos problemas, numerosos blastómeros extraídos,
-   POBRE                       células degeneradas, células de diversos tamaños.
-                               Generalmente los embriones son no transferibles, no
-                               deben ser congelados
-                               Blastómeros desorganizados, las células tienen muchas
-   DEGENERADO                  vesículas y gránulos. Embrión no transferible
+O Embrión acorde a su recuperación, esférico, simétrico,
+con células de tamaño, color y textura uniforme. Se
+congela con muy buenos resultados
+Poca variación, algunos fragmentos celulares en espacio
 
+REGULAR
 
+perivitelino o pequeñas vesículas en los blastómeros
+Severos problemas, numerosos blastómeros extraídos,
 
-   Skidmore et al. (2004), propone una tabla de calificación para embriones de camélidos.
+POBRE
 
+células degeneradas, células de diversos tamaños.
+Generalmente los embriones son no transferibles, no
+deben ser congelados
+Blastómeros desorganizados, las células tienen muchas
 
-       Tabla3. Clasificación de embriones de camellos propuesta por
-       Skidmore.
+DEGENERADO
 
-     GRADO DEL                              CARACTERISTICAS
-     EMBRIÓN
-     GRADO I             Embrión de excelente calidad. Con tamaño acorde al tiempo
-                         de colección. Perfectamente esférico y superficie plana.
-     GRADO II            Embrión bueno, con las características del grado I pero con
-                         algunas irregularidades en el contorno
-     GRADO III           Embrión de calidad media, embrión pequeño con manchas
-                         negras, contorno irregular y algunas células protruidas.
+vesículas y gránulos. Embrión no transferible
 
+Skidmore et al. (2004), propone una tabla de calificación para embriones de camélidos.
 
-                                                                                         8
-  GRADO IV           Embrión colapsado, exponiendo áreas oscuras degeneradas y
-                     muchas células sobresalientes.
-  GRADO V            Embriones muy oscuros, colapsados, fragmentados,              no
-                     transferibles.
+Tabla3. Clasificación de embriones de camellos propuesta por
+Skidmore.
+GRADO DEL
 
+CARACTERISTICAS
 
-    (Skidmore et. al., 2004).
+EMBRIÓN
+GRADO I
 
-    2.3. Criopreservación de embriones
+Embrión de excelente calidad. Con tamaño acorde al tiempo
+de colección. Perfectamente esférico y superficie plana.
 
+GRADO II
 
-    La criopreservación posibilita almacenar embriones de una amplia variedad de
+Embrión bueno, con las características del grado I pero con
+algunas irregularidades en el contorno
 
+GRADO III
+
+Embrión de calidad media, embrión pequeño con manchas
+negras, contorno irregular y algunas células protruidas.
+
+8
+
+GRADO IV
+
+Embrión colapsado, exponiendo áreas oscuras degeneradas y
+muchas células sobresalientes.
+
+GRADO V
+
+Embriones muy oscuros, colapsados, fragmentados,
+
+no
+
+transferibles.
+
+(Skidmore et. al., 2004).
+2.3. Criopreservación de embriones
+
+La criopreservación posibilita almacenar embriones de una amplia variedad de
 especies mamíferas sin que pierdan su capacidad de desarrollar y nacer vivos. En la
-
 actualidad, los embriones son congelados y descongelados de manera rápida. Esto hace
-
 necesario deshidratarlos parcialmente antes de la congelación a fin de evitar la
-
 formación de cristales que lesionan los blastómeros (Mazur, 1977).
 
-
-
-    Al conservar células a temperaturas extremadamente bajas (-196 °C) es posible
-
+Al conservar células a temperaturas extremadamente bajas (-196 °C) es posible
 detener por completo la actividad enzimática, la respiración celular, el metabolismo, el
-
 crecimiento, la multiplicación, etc., es decir, es posible mantener células durante un
-
 largo periodo de tiempo sin afectar su viabilidad, ni causar cambios genéticos
-
 (Schneider y Mazur, 1984; Gordon, 1994; Tanaka et al., 1997; Leibo 1989).
-
-
-    2.4 Crioprotectores
-
-    Los crioprotectores se clasifican, desde el punto de vista farmacológico, como
-
+2.4 Crioprotectores
+Los crioprotectores se clasifican, desde el punto de vista farmacológico, como
 drogas de acción inespecífica que permite a las células sobrevivir a la congelación del
-
 agua a través de diferentes mecanismos, es decir, no consiguen su efecto actuando
-
 directamente sobre receptores, enzimas o genes específicos. Entre los diferentes
-
 crioprotectores, citar los alcoholes, las aminas, los azucares, las sales inorgánicas y las
-
 macromoléculas. A pesar de su variada naturaleza química, todos los crioprotectores
 
+9
 
-                                                                                         9
 son solubles en medios acuosos y tienen capacidad de formar puentes de hidrógeno
-
 (Karrow, 1997).
-
 Los crioprotectores tratan de evitar los daños causados por la congelación, para
-
 conseguir este objetivo, actúan básicamente sobre dos aspectos de la congelación:
-
-   a) Sobre la formación de cristales de hielo, puesto que inicialmente disminuyen la
-
-       temperatura a la cual se forma los núcleos de hielo (de 0 °C a -4/-5 °C), es decir,
-
-       favorecen la formación de agua “superfria” sin que se inicie la formación de
-
-       cristales de hielo.
-
-   b) Sobre la deshidratación de la célula, debido a su elevada osmolaridad. Esta
-
-       deshidratación también previene la formación de cristales de hielo intracelulares
-
-       (Karrow, 1997).
-
-
-    2.4.1. Crioprotectores permeables.
-
-    Estos crioprotectores debido a que tienen un peso molecular bajo, son capaces de
-
+a) Sobre la formación de cristales de hielo, puesto que inicialmente disminuyen la
+temperatura a la cual se forma los núcleos de hielo (de 0 °C a -4/-5 °C), es decir,
+favorecen la formación de agua “superfria” sin que se inicie la formación de
+cristales de hielo.
+b) Sobre la deshidratación de la célula, debido a su elevada osmolaridad. Esta
+deshidratación también previene la formación de cristales de hielo intracelulares
+(Karrow, 1997).
+2.4.1. Crioprotectores permeables.
+Estos crioprotectores debido a que tienen un peso molecular bajo, son capaces de
 atravesar la membrana plasmática de forma activa o pasiva. Entre estos se encuentran
-
 los alcoholes como el glicerol, el etilenglicol, el propilenglicol o el sorbitol (Shaw et al.,
-
 1995; Shaw et al., 2000). Dimetilsulfóxido (DMSO), 1-2propanodiol, polietilenglicol,
-
 etanol entre otros (Miyake et al., 1993). Y las aminas como la acetamida, la betaína, la
-
 formamida, la glutamina, la lisina o la taurina (Karrow, 1997). De todos, el Etilenglicol
-
 es el crioprotector más permeable usado ampliamente para la conservación de
-
 embriones y ovocitos debido a su baja toxicidad celular (Kasai et al., 1992; Ali y
-
 Shelton, 1993; Kasai, 1996). Y a su rápida capacidad de difusión a través de la
-
 membrana plasmática (Emiliani et al., 2000).
 
+10
 
-
-
-                                                                                           10
 2.4.2. Crioprotectores no permeables
+Estos no son capaces de atravesar la membrana plasmática debido a su elevado peso
+molecular y a su compleja estructura. Además, no presentan efecto crioprotector por si
+solos. Su principal función crioprotectora es de elevar la presión osmótica,
+disminuyendo, de esta forma, la cantidad requerida de crioprotector permeable y su
+toxicidad y favoreciendo así la deshidratación de la célula (Shaw et al., 1997). Dentro
+de este grupo se encuentran los azúcares tales como la glucosa, la fructosa, la sacarosa,
+la trealosa, la lactosa y la polivinilpirrolidona. Estas macromoléculas son capaces de
+extraer el agua libre intracelular utilizando la diferencia de presión osmótica pero sin
+penetrar en la célula. Estas moléculas son capaces de encapsular al ovocito o embrión
+en una matriz viscosa previniendo la cristalización intracelular durante la
+descongelación (Kuleshova et al., 1999). Son efectivos para preservar la funcionalidad
+y estructura de las membranas a baja actividad de agua; deshidratan junto con el
+crioprotector las células de los embriones durante el equilibrio (Sommerfeld y Nieman,
+1999). Actúan además como tampón osmótico al reducir el choque osmótico que podría
+resultar de la dilución del crioprotector (Liebermann et al., 2002).
 
-      Estos no son capaces de atravesar la membrana plasmática debido a su elevado peso
+2.5. Congelación estándar
 
-  molecular y a su compleja estructura. Además, no presentan efecto crioprotector por si
+El método de congelación estándar posibilitó a Wilmut y Rowson (1973) obtener
+el primer ternero nacido de la transferencia de un embrión congelado. Al método estándar
+se le han efectuado desde entonces distintas modificaciones tendientes a su
+simplificación (Cabodevila et al., 1991).
 
-  solos. Su principal función crioprotectora es de elevar la presión osmótica,
+En el método de congelación estándarlos embriones alcanzan su equilibrio
+osmótico antes de comenzar el descenso de la temperatura y este se mantiene durante
+el enfriamiento (Cabodevila y Teruel 2001). La exposición de los embriones al medio
+11
 
-  disminuyendo, de esta forma, la cantidad requerida de crioprotector permeable y su
-
-  toxicidad y favoreciendo así la deshidratación de la célula (Shaw et al., 1997). Dentro
-
-  de este grupo se encuentran los azúcares tales como la glucosa, la fructosa, la sacarosa,
-
-  la trealosa, la lactosa y la polivinilpirrolidona. Estas macromoléculas son capaces de
-
-  extraer el agua libre intracelular utilizando la diferencia de presión osmótica pero sin
-
-  penetrar en la célula. Estas moléculas son capaces de encapsular al ovocito o embrión
-
-  en una matriz viscosa previniendo la cristalización intracelular durante la
-
-  descongelación (Kuleshova et al., 1999). Son efectivos para preservar la funcionalidad
-
-  y estructura de las membranas a baja actividad de agua; deshidratan junto con el
-
-  crioprotector las células de los embriones durante el equilibrio (Sommerfeld y Nieman,
-
-  1999). Actúan además como tampón osmótico al reducir el choque osmótico que podría
-
-  resultar de la dilución del crioprotector (Liebermann et al., 2002).
-
-
-      2.5. Congelación estándar
-
-
-      El método de congelación estándar posibilitó a Wilmut y Rowson (1973) obtener
-
-  el primer ternero nacido de la transferencia de un embrión congelado. Al método estándar
-
-  se le han efectuado desde entonces distintas modificaciones tendientes a su
-
-  simplificación (Cabodevila et al., 1991).
-
-
-      En el método de congelación estándarlos embriones alcanzan su equilibrio
-
-  osmótico antes de comenzar el descenso de la temperatura y este se mantiene durante
-
-  el enfriamiento (Cabodevila y Teruel 2001). La exposición de los embriones al medio
-
-                                                                                        11
 de congelación (PBS + G) debe realizarse a temperatura ambiente (20 - 22 °C), en un
-
 solo paso, de 10 a 30 min de duración para iniciar con la equilibración del crioprotector
-
 con el embrión (Chupin y Procureur, 1984; Niemann, 1991). Este período incluye el
-
 envasado de los embriones en pajuelas plásticas. Esto permite realizar más rápidamente
-
 y con mayor precisión la inducción de la cristalización o “seeding” (Maurer, 1978). Las
-
 pajillas deben ser colocadas en un equipo de congelación a -7 °C durante 5 min para
-
 equilibrar la temperatura de las pajillas con la del equipo; el seeding se realiza poniendo
-
 en contacto la superficie de la pajilla con una placa metálica enfriada con nitrógeno
-
 líquido (para inducir a la formación de núcleos de hielo); el agente refrigerante del
-
 equipo puede ser nitrógeno líquido alcohol o etanol enfriado por medio de un
-
 compresor. El no inducir la cristalización conduce a la formación de cristales de hielo
-
 bajo un estado de súper enfriamiento y a una elevación repentina de temperatura (se
-
 genera calor latente de –10º - –15 ºC), resultando un severo trauma físico que puede
-
 dañar las células (Niemann, 1995). Una vez efectuado el “seeding”, se mantiene la
-
 temperatura estable durante 10 min (período de estabilización) que sirve para evitar que
-
 el hielo sembrado se descongele y luego se desciende a una velocidad de entre 0.1 y 0.5
-
 °C hasta -30 ó -35 °C para establecer un adecuado balance entre deshidratación y
-
 formación de hielo intracelular, en este momento las pajillas pueden ser retiradas del
-
 equipo de congelación y sumergidas en nitrógeno líquido (Lehnjensen y Greve, 1982).
-
 La descongelación se realiza de manera rápida, sumergiendo las pajuelas en baño María
-
 a 30 ó 35 °C durante 20–30 s (Chupin, 1986).
 
-
-    Convencionalmente embriones y ovocitos son congelados con procedimientos de
-
+Convencionalmente embriones y ovocitos son congelados con procedimientos de
 congelación lenta, durante estos procedimientos las células son expuestas a una baja
-
 concentración de crioprotectores como, glicerol, etilenglicol, dimetilsulfoxido y otros
-
 por 5-15 min. Y congelados lentamente (generalmente a una tasa de 0.3-0.5 °C/min.)
+12
 
-                                                                                        12
 hasta una temperatura intermedia generalmente hasta -35°C y luego son sumergidas en
-
 nitrógeno líquido para su almacenamiento (Leibo y Songsasen 2002).
 
-
-    Contrariamente a lo que comúnmente se cree, el mayor desafío que las células
-
+Contrariamente a lo que comúnmente se cree, el mayor desafío que las células
 deben soportar durante la crioconservación no es el causado por el almacenamiento a
-
 bajas temperaturas, sino la letalidad de una zona intermedia de temperatura (+15 a -5
-
 °C), intervalo por el cual las células deben pasar dos veces (Mazur, 1963).
 
-
-
-    2.6. Congelación de embriones en camélidos
-
-    Se criopreservaron embriones de llama por el método de congelación lenta con
-
+2.6. Congelación de embriones en camélidos
+Se criopreservaron embriones de llama por el método de congelación lenta con
 (10% etilenglicol + 10% SFB + 50 m/ml de gentamicina) a 26 ºC durante 5 min y
-
 envasados en pajuelas de 0.25 ml. El descenso de temperatura se realizó a una tasa de
-
 0.12 °C/ min en 3 horas, luego a 5 °C hasta -20 °C, y finalmente se sumergieron las
-
 pajuelas en el nitrógeno líquido. Y producto de este proceso se lograron 62% de
-
 sobrevivencia y un 0% de viabilidad en receptoras al día 14 y 24 post transferencia
-
 (Huanca et al., 2011).
-
 Probaron la congelación estándar en embriones de Camellos Bactrianos: 158 embriones
-
 fueron asignados en tres grupos, los cuales fueron expuestos a1,5 M etanediol, por 10
-
 min (n=67), 5 min (n=51) y 1 min (n=40), luego congelados. Posteriormente
-
 descongelados y rehidratados en medio tamponado con HEPES lactato de sodio. La tasa
-
 de supervivencia de los embriones a la descongelación fue alta(91%), estos fueron
-
 calificados según su aspecto morfológico, esta tasa se redujo en gran medida después
-
 de 2 h de cultivo (59%). 92 embriones se transfirieron a camellos receptores resultantes
-
 en 18 fetos viables (Skidmore and Loskutoff, 1999).
-
-    Existe un reporte de embriones de dromedarios crioconservados por el método
-
+Existe un reporte de embriones de dromedarios crioconservados por el método
 convencional con resultados de preñez relativamente bajo 32% (Nowshari and Saleem,
+13
 
-                                                                                     13
 2005). Por otro lado, Skidmore congeló embriones de camellos utilizando el protocolo
-
 de congelación convencional con etanediol a 1.5 M exponiendo a 1, 5 y 10 min de
-
 equilibración, a la descongelación utilizaron 0.2 M de sacarosa para la rehidratación con
-
 tiempos de 5 y 10 min, obteniendo el mejor resultado a la transferencia de embriones el
-
 37% de fetos al diagnóstico de gestación a los 27 y 32 días a la ecografía, en el
-
 tratamiento de 10 min de exposición al crioprotector y a la rehidratación por 5 min
-
 (Skidmore et al., 2004).
-
-    Recientemente estudiaron los diferentes métodos de congelación de embriones de
-
+Recientemente estudiaron los diferentes métodos de congelación de embriones de
 camellos sobre la integridad de citoesqueleto del embrión y como resultado, reportaron,
-
 los embriones de 6 días de edad sometidos a congelación convencional con 1.5 M de
-
 etanediol y rehidratados con 0.2 M de sacarosa por 5 min soportan más al stress de
-
 congelación frente a embriones vitrificados. Logrando, el 10% embriones de categoría
-
 A y el 90% de embriones de categoría B sometidos a congelación lenta frente al 10% de
-
 embriones de categoría A, 10 % de categoría B y 50% de embriones de categoría C
-
 sometidos a vitrificación ( Skidmore et al., 2009).
 
-
-
-    2.7. Descongelación de embriones
-
-    El proceso de descongelación o calentamiento de las pajillas que contienen los
-
+2.7. Descongelación de embriones
+El proceso de descongelación o calentamiento de las pajillas que contienen los
 embriones criopreservados, está afectado por el procedimiento utilizado en el
-
 congelamiento (Palomino, 2000). La descongelación debe efectuarse de manera rápida
-
 para impedir el crecimiento de los cristales de hielo desarrollados durante la
-
 congelación (Lehn-Tensen y Rall, 1983). Asimismo, un descongelamiento lento otorga
-
 el tiempo suficiente como para permitir la descongelación extra e intra citoplásmica lo
-
 que puede conducir a una baja sobrevida post-criopreservación y para evitar ello las
 
+14
 
-
-
-                                                                                      14
 pajuelas son retiradas del Nitrógeno líquido e introducidas en baño María a 30°C
-
 aproximadamente (Rall y Polge, 1984).
-
 Las pajuelas se extraen del tanque de nitrógeno, son mantenidas al ambiente por 10s y
-
 son colocadas a 37 °C por 1 min. Y luego puestas en soluciones de sucrosa al 0.25 M y
-
 0.12 M (Huanca et al., 2011).
-
 La descongelación se efectúa de manera rápida, sumergiendo las pajuelas en un baño
-
 María a 30-35 ºC durante 20-30 S (Cabodevila et al., 1991). Pero se informó, que
-
 exponiendo las pajuelas al aire a 20 °C durante 10 s antes de colocarlas en baño María,
-
 disminuye el número de embriones que sufren ruptura de la zona pelúcida (Rall y
-
 Meyer, 1989).
-
 Rall y Fahy (1985), observaron que los mayores porcentajes de sobrevida embrionaria
-
 se obtuvieron cuando el calentamiento se efectuó de modo rápido (2.500°C/minuto).
-
 La extracción del glicerol puede efectuarse luego de retirar el embrión de la pajuela o
-
 dentro de la misma. En el primer caso, se la lleva a cabo en una sola etapa utilizando
-
 sucrosa o en forma escalonada, empleando concentraciones decrecientes de glicerol o
-
 una mezcla de glicerol y sucrosa en PBS (Heath, 1990). En la elección de una de estas
-
 opciones generalmente prima el criterio personal dado que cada una de ellas tiene
-
 ventajas relativas. El embrión descongelado es evaluado morfológicamente para
-
 eliminar aquellos con daños provocados por los procedimientos utilizados. Con esta
-
 técnica de extracción del glicerol se obtienen porcentajes de preñez que generalmente
-
 superan el 50% (Niemann, 1985).
 
-
-
-    2.8. Evaluación post-descongelación de embriones
-
-    Los embriones después de descongelarse y rehidratarse deben evaluarse, para
-
+2.8. Evaluación post-descongelación de embriones
+Los embriones después de descongelarse y rehidratarse deben evaluarse, para
 descartar aquellos que sufrieron daños que imposibilitarían su viabilidad in vivo o in
 
+15
 
-                                                                                    15
 vitro (Cabodevila et al., 1991; Palomino, 2000). Solo serán transferidos los embriones
-
 de grado I y grado II, por sufrir estos menos lesiones durante el proceso de
-
 congelación/descongelación (Niemann, 1985; IETS, 1998).
 
-
-
-    2.9. Transferencia de embriones
-
-    La transferencia de embriones se hace por el método no quirúrgico (Skidmore,
-
+2.9. Transferencia de embriones
+La transferencia de embriones se hace por el método no quirúrgico (Skidmore,
 2000). Para la transferencia, los embriones se colocan en pajuelas de 0.25 ml y se
-
 depositan en el cuerno uterino ipsilateral al cuerpo lúteo (Huanca et al., 2011). Esta
-
 pajilla es cargada en la pistola de inseminación que se usa para la inseminación artificial
-
 de vacunos (Palomino, 2000).
 
-
-
-    2.10. Diagnóstico de gestación
-
-    El diagnóstico de gestación se realiza por ecografía (trans-rectal) a los 14 - 24 días
-
+2.10. Diagnóstico de gestación
+El diagnóstico de gestación se realiza por ecografía (trans-rectal) a los 14 - 24 días
 después de la transferencia, determinándose la presencia o ausencia de vesícula
-
 embrionaria (Huanca et al.,2011).
 
+16
 
+III. MATERIAL Y METODOS
+3.1 Lugar
+El presente trabajo de investigación se realizó en el Megalaboratorio de
+transferencia de embriones y criopreservación, del Centro de Investigación y
+Producción Chuquibambilla de la Universidad Nacional del Altiplano-Puno; ubicado a
+una altitud de 3974 msnm, cuyas coordenadas son Longitud Oeste 70º 43´ 50”, Latitud
+Sur 14º 43´ 35”. Políticamente ubicado en el Distrito de Umachiri, Provincia de
+Melgar de la Región Puno, a 18 Km. de la ciudad de Ayaviri.
+Con el siguiente registro termo pluviométrico para el mes febrero: una media de la
+temperatura máxima de 15.1°C. El promedio de las temperaturas mínimas fue de
+4.4°C. La oscilación térmica de las temperaturas medias fue de 10.7°C. Las
+precipitaciones registraron un acumulado total mensual de 164.1 lt/m2 (SENAMHI,
+2011).
+El trabajo se realizó entre los meses de Febrero a Abril.
 
+3.2. Animales
+Se utilizaron:
+
 
-                                                                                        16
-                                 III. MATERIAL Y METODOS
+32 alpacas, como donadoras.
 
-    3.1 Lugar
+
 
-     El presente trabajo de investigación se realizó en el Megalaboratorio de
-
- transferencia de embriones y criopreservación, del Centro de Investigación y
-
- Producción Chuquibambilla de la Universidad Nacional del Altiplano-Puno; ubicado a
-
- una altitud de 3974 msnm, cuyas coordenadas son Longitud Oeste 70º 43´ 50”, Latitud
-
- Sur 14º 43´ 35”. Políticamente ubicado en el Distrito de Umachiri, Provincia de
-
- Melgar de la Región Puno, a 18 Km. de la ciudad de Ayaviri.
-
- Con el siguiente registro termo pluviométrico para el mes febrero: una media de la
-
- temperatura máxima de 15.1°C. El promedio de las temperaturas mínimas fue de
-
- 4.4°C. La oscilación térmica de las temperaturas medias fue de 10.7°C. Las
-
- precipitaciones registraron un acumulado total mensual de 164.1 lt/m2 (SENAMHI,
-
- 2011).
-
- El trabajo se realizó entre los meses de Febrero a Abril.
-
-
-
-    3.2. Animales
-
-    Se utilizaron:
-
-              32 alpacas, como donadoras.
-
-              24 alpacas, como receptoras.
-
+24 alpacas, como receptoras.
 
 Fueron escogidas hembras de 4-5 años de edad, clínicamente sanas con experiencia de
-
 parto en el último año, de buena condición corporal, de buena amplitud de isquiones
-
 para la manipulación rectal.
+
 
-             Se utilizó 5 alpacas machos reproductores, para la monta a las donadoras.
+Se utilizó 5 alpacas machos reproductores, para la monta a las donadoras.
 
-             Dos machos vasectomizados para la inducción de ovulación de las receptoras.
+
 
+Dos machos vasectomizados para la inducción de ovulación de las receptoras.
 
+17
 
-                                                                                          17
-      3.3 Cópula
+3.3 Cópula
+
 
-    La cópula se realizó asignando a cada hembra donadora un macho, por un tiempo
-
-     de 15 a 25 min.
+La cópula se realizó asignando a cada hembra donadora un macho, por un tiempo
+de 15 a 25 min.
 
  Cada hembra fue marcada con pintura de color, se anotó número de
-
-    arete (Anexo 1).
-
-
+arete (Anexo 1).
 
 3.4.Manejo de donadoras y receptoras
+
 
-   Al séptimo día de haberse producido la cópula se llevó a donadoras y receptoras al
-
-    Megalaboratorio, para mantenerlas en ayunas aproximadamente 15-17 horas.
-
-
+Al séptimo día de haberse producido la cópula se llevó a donadoras y receptoras al
+Megalaboratorio, para mantenerlas en ayunas aproximadamente 15-17 horas.
 
 3.5.Ecografía:
+La ecografía de las donadoras y receptoras se realizó al octavo día post-copula.
+Procedimiento:
+
 
-    La ecografía de las donadoras y receptoras se realizó al octavo día post-copula.
+Se sujetó con cuerdas en posición cubito ventral, seguido se evacuarón las heces del
+recto y se higienizó la zona perineal.
 
-    Procedimiento:
+
 
-   Se sujetó con cuerdas en posición cubito ventral, seguido se evacuarón las heces del
+Se usó ecógrafo de marca Sonovet 600 con transductor lineal de 7.0 MHz.
 
-    recto y se higienizó la zona perineal.
+
 
-   Se usó ecógrafo de marca Sonovet 600 con transductor lineal de 7.0 MHz.
-
-   Seguido se realizó la ecografía de los ovarios izquierdo y derecho para determinar
-
-    la presencia de cuerpo lúteo en las donadoras e iniciar con el lavado y en las
-
-    receptoras para hacer la transferencia post-descongelación.
-
-
+Seguido se realizó la ecografía de los ovarios izquierdo y derecho para determinar
+la presencia de cuerpo lúteo en las donadoras e iniciar con el lavado y en las
+receptoras para hacer la transferencia post-descongelación.
 
 3.6.Medio de lavado:
+Suero fisiológico a 35-37 °C, adicionado con 10% de suero fetal bovino.
 
-    Suero fisiológico a 35-37 °C, adicionado con 10% de suero fetal bovino.
+18
 
-
-
-
-                                                                                       18
 3.7.Recolección de embriones:
+Los embriones fueron recolectados por el método no-quirúrgico al octavo día postcopula.
+
 
-    Los embriones fueron recolectados por el método no-quirúrgico al octavo día post-
+Se introdujo la mano izquierda enguantada y lubricada por el ano para ubicar la
+cérvix.
 
-    copula.
+
 
-   Se introdujo la mano izquierda enguantada y lubricada por el ano para ubicar la
+Con la ayuda de la guía para inseminación artificial se introdujo la sonda Foley de
+dos vías para atravesar la cérvix y dirigirla hacia el cuerno cuyo ovario tiene el
+cuerpo lúteo.
 
-    cérvix.
+
 
-   Con la ayuda de la guía para inseminación artificial se introdujo la sonda Foley de
+Ubicado el cuerno se ancló la sonda inflando el balón con 10 a 15 Ml de aire, luego
+se retiró la guía.
 
-    dos vías para atravesar la cérvix y dirigirla hacia el cuerno cuyo ovario tiene el
+
 
-    cuerpo lúteo.
+Seguido se inyectó 4 ml de lidocaína al 2% vía epidural. Conectándose luego a la
+Sonda de doble vía en “Y” en un extremo al medio de lavado y por el otro al filtro
+colector de embriones.
 
-   Ubicado el cuerno se ancló la sonda inflando el balón con 10 a 15 Ml de aire, luego
+
 
-    se retiró la guía.
+Se dejó entrar medio de lavado por gravedad, hasta sentir turgencia del cuerno
+uterino, momento en que se cerró el clip; luego se dejó salir el medio de lavado
+hacia el filtro colector, abriendo el respectivo clip, con la ayuda de suaves masajes.
 
-   Seguido se inyectó 4 ml de lidocaína al 2% vía epidural. Conectándose luego a la
+
 
-    Sonda de doble vía en “Y” en un extremo al medio de lavado y por el otro al filtro
+Este procedimiento se repitió por tres a cuatro veces, luego se extrajo el aire del
+balón para retirar la sonda Foley.
 
-    colector de embriones.
-
-   Se dejó entrar medio de lavado por gravedad, hasta sentir turgencia del cuerno
-
-    uterino, momento en que se cerró el clip; luego se dejó salir el medio de lavado
-
-    hacia el filtro colector, abriendo el respectivo clip, con la ayuda de suaves masajes.
-
-   Este procedimiento se repitió por tres a cuatro veces, luego se extrajo el aire del
-
-    balón para retirar la sonda Foley.
-
-
-
-    3.7.1. Búsqueda de embriones:
-
+3.7.1. Búsqueda de embriones:
  Sé dejó aproximadamente 10 mL del contenido total del filtro. Este se vació en una
+placa petri temperada a 25 °C y de base cuadriculada. Es importante enjuagar el
+interior del filtro para evitar la adhesión del embrión en las paredes.
 
-    placa petri temperada a 25 °C y de base cuadriculada. Es importante enjuagar el
+19
 
-    interior del filtro para evitar la adhesión del embrión en las paredes.
+ La búsqueda se hizo con estereoscopio a 20X de aumento, localizados los
+embriones se trasladaron a otra placa la cual contenía gotas de medio de
+mantenimiento, se lavó los embriones hasta por 8 veces.
 
+3.7.2. Evaluación de los embriones
 
+ Se evaluaron, poniendo especial atención en la zona pelúcida, blastómeros y color
+del embrión.
+ Para lo cual tomamos como referencia la clasificación hecha por Skidmore et. al.
+(2004), descrita en tabla 3.
+ Se escogieron solo embriones de Grado I, II. Estos fueron aspirados
+individualmente a una pajuela de 0.25 mL con medio de mantenimiento y se
+mantuvo en platina térmica a 22°C, hasta el momento de su congelación.
 
-
-                                                                                        19
-  La búsqueda se hizo con estereoscopio a 20X de aumento, localizados los
-
-    embriones se trasladaron a otra placa la cual contenía gotas de medio de
-
-    mantenimiento, se lavó los embriones hasta por 8 veces.
-
-
-
-    3.7.2. Evaluación de los embriones
-
-  Se evaluaron, poniendo especial atención en la zona pelúcida, blastómeros y color
-
-    del embrión.
-
-  Para lo cual tomamos como referencia la clasificación hecha por Skidmore et. al.
-
-    (2004), descrita en tabla 3.
-
-  Se escogieron solo embriones de Grado I, II. Estos fueron aspirados
-
-    individualmente a una pajuela de 0.25 mL con medio de mantenimiento y se
-
-    mantuvo en platina térmica a 22°C, hasta el momento de su congelación.
-
-
-
-    3.7.3. Embriones
-
-
-    Se utilizaron 24 embriones de alpacas producto de ovulación única, recuperadas al
-
+3.7.3. Embriones
+Se utilizaron 24 embriones de alpacas producto de ovulación única, recuperadas al
 8vo día post-copula distribuidos de la siguiente forma:
+Tabla 4. Distribución de embriones para la congelación
+Congelación con Etilenglicol
 
-    Tabla 4. Distribución de embriones para la congelación
-            Congelación con Etilenglicol         Congelación con Dimetilsulfóxido
+Congelación con Dimetilsulfóxido
 
+n =12 (embriones)
 
-                   n =12 (embriones)                      n =12 (embriones)
+n =12 (embriones)
 
+Se usaron embriones de grado I y II
+GRADO I
 
-    Se usaron embriones de grado I y II
+Embrión de excelente calidad. Con tamaño acorde al tiempo
+de colección. Perfectamente esférico y superficie plana.
 
-        GRADO I            Embrión de excelente calidad. Con tamaño acorde al tiempo
-                           de colección. Perfectamente esférico y superficie plana.
-        GRADO II           Embrión bueno, con las características del grado I pero con
-                           algunas irregularidades en el contorno
-    (Skidmore et. al., 2004).
+GRADO II
 
-                                                                                      20
-  3.8 Los crioprotectores
+Embrión bueno, con las características del grado I pero con
+algunas irregularidades en el contorno
 
-  Etilenglicol 1.5 M.
+(Skidmore et. al., 2004).
+20
 
+3.8 Los crioprotectores
+Etilenglicol 1.5 M.
  Se mezclaron 0.835 mL de Etilenglicol + 9.165 mL de medio de mantenimiento
+(PBS + 10% de suero fetal bovino). Luego se mantuvo refrigerado a 4°C, hasta su
+uso
 
-  (PBS + 10% de suero fetal bovino). Luego se mantuvo refrigerado a 4°C, hasta su
-
-  uso
-
-
-
-  Dimetilsulfóxido 1.0 M.
-
+Dimetilsulfóxido 1.0 M.
  Se mezclaron 0.84 mL de Dimetilsulfóxido + 9.16 mL de medio de mantenimiento
+(PBS + 10% de suero fetal bovino). Luego se mantuvo refrigerado a 4°C, hasta su
+uso.
 
-  (PBS + 10% de suero fetal bovino). Luego se mantuvo refrigerado a 4°C, hasta su
-
-  uso.
-
-
-
-  3.9. Medio de rehidratación
-
-  Sucrosa 0.2 M
-
+3.9. Medio de rehidratación
+Sucrosa 0.2 M
  Se disolvió 0.342 gr de sucrosa en 10 mL de medio de mantenimiento (PBS + 10%
+de suero fetal bovino) y se refrigero a 4°C, hasta su uso.
 
-  de suero fetal bovino) y se refrigero a 4°C, hasta su uso.
-
-
-
-  3.10. Congelación de embriones
-
-  3.10.1. Empajillado
-
-
-  Los pasos fueron:
-
+3.10. Congelación de embriones
+3.10.1. Empajillado
+Los pasos fueron:
  Los embriones fueron expuestos a 3 mL de crioprotector dentro de una placa Petri,
+por un tiempo máximo de 10 min. Fueron aspirados rápidamente en pajillas de 0.25
+mL en el siguiente orden:
+Esquema N° 1 Armado de la pajilla, para congelación.
+Tapón
+de
+fabrica
 
-  por un tiempo máximo de 10 min. Fueron aspirados rápidamente en pajillas de 0.25
+Medio de
+Mantenim.
 
-  mL en el siguiente orden:
+Aire
 
+Embrión +
+Crioprotector
 
-         Esquema N° 1 Armado de la pajilla, para congelación.
-    Tapón     Medio de    Aire    Embrión +      Aire   Medio de    Aire   Polivinilo
-      de      Mantenim.          Crioprotector          Mantenim.              de
-    fabrica                                                                 Cloruro
+Aire
 
+Medio de
+Mantenim.
 
+Aire
 
-                                                                                        21
+Polivinilo
+de
+Cloruro
+
+21
+
 3.10.2. Congelación de embriones
-
 La congelación fue de la siguiente manera:
+
 
-      El congelador manual previamente fue enfriado en el cuello del termo de nitrógeno
+El congelador manual previamente fue enfriado en el cuello del termo de nitrógeno
+líquido, a -6°C controlado por el termómetro K Thermocouple, (Anexo 6)
 
-       líquido, a -6°C controlado por el termómetro K Thermocouple, (Anexo 6)
+
 
-      Las pajillas conteniendo los embriones, fueron colocadas en el congelador cuando
+Las pajillas conteniendo los embriones, fueron colocadas en el congelador cuando
+este indicaba -7°C por un 1 min. Seguido, se realizó el “Seeding” por 13 s a nivel
+de las columnas de aire, con una pinza metálica previamente sumergida en
+nitrógeno líquido (Anexo 7). Seguido, se mantuvo a -7°C por 10 min.
 
-       este indicaba -7°C por un 1 min. Seguido, se realizó el “Seeding” por 13 s a nivel
+
 
-       de las columnas de aire, con una pinza metálica previamente sumergida en
-
-       nitrógeno líquido (Anexo 7). Seguido, se mantuvo a -7°C por 10 min.
-
-      Luego, se procedió a congelar bajando la temperatura gradualmente de entre 0.5 a
-
-       1.0 °C/min hasta -33 ó -35°C.Finalmente, las pajillas se introdujeron al tanque de
-
-       nitrógeno líquido.
-
+Luego, se procedió a congelar bajando la temperatura gradualmente de entre 0.5 a
+1.0 °C/min hasta -33 ó -35°C.Finalmente, las pajillas se introdujeron al tanque de
+nitrógeno líquido.
 
 3.11. Descongelación de los embriones
+
 
-      Se extrajeron las pajillas del tanque de nitrógeno y se mantuvieron por 8s a
+Se extrajeron las pajillas del tanque de nitrógeno y se mantuvieron por 8s a
+temperatura ambiente. Seguido, se sumergieron en baño maría a 32°C por 2 min.
 
-       temperatura ambiente. Seguido, se sumergieron en baño maría a 32°C por 2 min.
+
 
-      Luego se vació el embrión dentro de una placa Petri, que contenía medio de
+Luego se vació el embrión dentro de una placa Petri, que contenía medio de
+mantenimiento más 0.2 M de sucrosa por 5 min.
 
-       mantenimiento más 0.2 M de sucrosa por 5 min.
+
 
-      Se llevó al embrión a otra placa Petri que contenía únicamente medio de
+Se llevó al embrión a otra placa Petri que contenía únicamente medio de
+mantenimiento, para su evaluación (Anexo 8).
+3.11.1. Evaluación de los embriones post-descongelación
 
-       mantenimiento, para su evaluación (Anexo 8).
+Se realizó con la ayuda del estereoscopio sobre platina térmica, se observaron todas sus
+estructuras, poniendo especial atención en la zona pelúcida. Tomando como referencia
+de calificación los parámetros establecidos por Skidmore (cuadro N° 2)
 
+22
 
-       3.11.1. Evaluación de los embriones post-descongelación
+3.12. Inducción de ovulación a receptoras
+
 
-  Se realizó con la ayuda del estereoscopio sobre platina térmica, se observaron todas sus
+Las receptoras fueron inducidas a ovulación mediante la cópula por 15 a 20
+minutos con un macho vasectomizado el mismo día en el que las hembras
+donadoras fueron empadradas.
+3.13. Transferencia de embriones a las receptoras
 
-  estructuras, poniendo especial atención en la zona pelúcida. Tomando como referencia
+
 
-  de calificación los parámetros establecidos por Skidmore (cuadro N° 2)
+Los embriones se cargaron dentro de una pajuela en la misma secuencia seguida
+para congelamiento, pero en este caso solo con medio de mantenimiento.
 
+
 
+Las receptoras fueron sujetadas de manera similar a las donadoras, se evacuaron las
+heces del recto se higienizó toda la zona perianal.
 
+
 
-                                                                                       22
-    3.12. Inducción de ovulación a receptoras
-
-   Las receptoras fueron inducidas a ovulación mediante la cópula por 15 a 20
-
-    minutos con un macho vasectomizado el mismo día en el que las hembras
-
-    donadoras fueron empadradas.
-
-
-    3.13. Transferencia de embriones a las receptoras
-
-   Los embriones se cargaron dentro de una pajuela en la misma secuencia seguida
-
-    para congelamiento, pero en este caso solo con medio de mantenimiento.
-
-   Las receptoras fueron sujetadas de manera similar a las donadoras, se evacuaron las
-
-    heces del recto se higienizó toda la zona perianal.
-
-   Luego se introdujo la pistola de inseminación armada con la pajilla que contenía el
-
-    embrión descongelado y con mucho cuidado se depositó el contenido en el cuerno
-
-    izquierdo (Anexo 10).
-
-
-    3.14. Diagnóstico de gestación
+Luego se introdujo la pistola de inseminación armada con la pajilla que contenía el
+embrión descongelado y con mucho cuidado se depositó el contenido en el cuerno
+izquierdo (Anexo 10).
+3.14. Diagnóstico de gestación
 
 El diagnóstico de preñez en las receptoras se realizó por ecografía entre los 50 y 60 días
-
 post-transferencia. Se consideró, embrión viable si en la receptora a la ecografía se
-
 visualizaba vesícula embrionaria con imagen anecoica y en la parte céntrica una imagen
-
 hipercoica.
 
+23
 
-
-
-                                                                                       23
-     3.15. Análisis estadístico
-
-    La sobrevivencia del embrión al proceso de congelación/descongelación y la
-
+3.15. Análisis estadístico
+La sobrevivencia del embrión al proceso de congelación/descongelación y la
 viabilidad del mismo en la receptora, se evaluaron a través de la prueba de Chi cuadrado
-
 con corrección de Yates.
 
+𝐾
+2
 
+𝑋 =∑=
+𝑖=1
 
+(|𝑂𝑖 − 𝑒𝑖 | − 0.5)2
+𝐸𝑖
 
-                                    𝐾
-                              2
-                                          (|𝑂𝑖 − 𝑒𝑖 | − 0.5)2
-                            𝑋 =∑=
-                                                  𝐸𝑖
-                                    𝑖=1
+Dónde:
+𝑂𝑖 = Frecuencia observada.
+e1 = Frecuencia esperada.
 
+24
 
-        Dónde:
-        𝑂𝑖 = Frecuencia observada.
-        e1 = Frecuencia esperada.
+IV. RESULTADOS Y DISCUSION
 
-
-
-
-                                                                                     24
-                            IV. RESULTADOS Y DISCUSION
-
-
-
- 4.1 Sobrevivencia de embriones a la congelación
-
-  Se consideró embriones sobrevivientes a todos aquellos embriones descongelados
-
+4.1 Sobrevivencia de embriones a la congelación
+Se consideró embriones sobrevivientes a todos aquellos embriones descongelados
 que tenían una forma perfectamente esférica y simétrica, con una zona pelúcida intacta
-
 sin daño aparente, con superficie lisa y uniforme, de color continuo y sin manchas
-
 oscuras en su superficie (Skidmore et. al., 2004; IETS, 1998).
 
-
-
-       Tabla 5 Porcentaje de sobrevivencia embrionaria al proceso
-
+Tabla 5 Porcentaje de sobrevivencia embrionaria al proceso
 decongelación/descongelación
+CRIOPROTECTORES
+EMBRIONES
 
-                                         CRIOPROTECTORES
-                EMBRIONES             Etilenglicol          DMSO
-               Frescos                     12                    12
-               Descongelados               12                    08
-               Sobrevivencia (%)         100%                66.7%
+Etilenglicol
 
+DMSO
+
+Frescos
+
+12
+
+12
+
+Descongelados
+
+12
+
+08
+
+100%
+
+66.7%
+
+Sobrevivencia (%)
 
 La tabla 5. muestra los resultados de sobrevivencia embrionaria al proceso de
-
 congelación-descongelación, donde los embriones congelados con Etilenglicol
-
 sobrevivieron al 100% y los congelados con Dimetilsulfóxido sobrevivieron en un
-
 66.7%, estos resultados sometidos al análisis estadístico de Chi Cuadrado con
-
 corrección de Yates indican que, no existe diferencia estadística (p≥0.05).
 
+Asimismo, se pudo observar que algunos de los embriones de
 
-
-       Asimismo, se pudo observar que algunos de los embriones de             Grado I y II,
+Grado I y II,
 
 congelados con Etilenglicol, se descongelaron y se categorizaron en embriones de
-
 Grado III y IV. Similar a lo sucedido con embriones congelados con DMSO (Anexo
-
 12).
 
+25
 
-
-                                                                                        25
 El bajo porcentaje de sobrevivencia de los embriones congelados con Dimetilsulfóxido,
-
 se debería a la ligera toxicidad que este crioprotector produce en la zona pelúcida
-
 (Bouysson y Chupin 1982), debido a su mayor peso molecular 78.13 g/mol, con
-
 respecto al Etilenglicol 62.07 g/mol, (Sigma Chemical), lo que explica el bajo índice de
-
 permeabilidad celular que tiene con respecto al Etilenglicol, por tanto la incapacidad de
-
 salir del interior del embrión con rapidez y así evitar daños post-descongelación. Es por
-
 ello destacar que el Etilenglicol se convirtió en un crioprotector de primera elección
-
 para la criopreservación de embriones (Skidmore and Loskutoff, 1999). Por otro lado,
-
 es importante indicar que no se consideró medir el tamaño de los embriones. Ya que,
-
 Hay una tasa de enfriamiento óptima para cada tipo de célula, esta depende del tamaño
-
 de la célula, su relación superficie/volumen, su permeabilidad al agua y el coeficiente de
-
 permeabilidad del crioprotector a determinadas temperaturas (Leibo, 1989; Schnaider y
-
 Mazur, 1984).
 
-
-
-    Los resultados del presente trabajo, con respecto al porcentaje (100%) de
-
+Los resultados del presente trabajo, con respecto al porcentaje (100%) de
 sobrevivencia de embriones de alpaca post-descongelación con etilenglicol 1.5 M, son
-
 superiores a los encontrados por Huanca et al, (2011) en embriones de llama, quien
-
 reporta 62% de sobrevivencia post-descongelación con 10% de etilenglicol, esta
-
 diferencia se debe a que usó una tasa de congelación muy lenta 0.12 °C/min/ 3 h,
-
 seguido, 5 °C hasta -20 °C, para finalmente sumergir las pajuelas en nitrógeno líquido,
-
 esto ocasionó una entrada muy lenta de los crioprotectores permeables a la célula
-
 consiguientemente se logró una deshidratación muy lenta, lo que produjo formación de
-
 hielo intracelular (Fair et al., 2001).La membrana celular es muy sensible a
-
 refrigeración y ésta a menudo es dañada durante la criopreservación (Zeron et al.
-
 2002).
 
+26
 
-                                                                                       26
-    Respecto a la calidad de los embriones Huanca et al, (2011) con 10% Etilenglicol,
+Respecto a la calidad de los embriones Huanca et al, (2011) con 10% Etilenglicol,
+congelaron embriones 10/Grado I y 01/de Grado II, a la descongelación
 
-congelaron embriones 10/Grado I y 01/de Grado II, a la descongelación           reporta,
+reporta,
 
 4/Grado I y 7/Grado II, es decir disminuyeron su calidad en una relación de 6/11,
-
 similar a lo encontrado en el presente trabajo, para EG 3/12 y para DMSO 7/12.
-
-Skidmore (2009), observo un descenso en la calidad embrionaria post congelación-
-
-descongelación por el método lento con 10% de Etilenglicol, esta fue en una relación de
-
+Skidmore (2009), observo un descenso en la calidad embrionaria post congelacióndescongelación por el método lento con 10% de Etilenglicol, esta fue en una relación de
 11/12. Este cambio de morfología, estaría dada porque, uno de los componentes
-
 celulares que a menudo se dañan durante la criopreservación es el citosqueleto
-
 (Dobrinsky et al.2000).
 
-
-
-   La sobrevivencia embrionaria, como la categorización post descongelación están
-
+La sobrevivencia embrionaria, como la categorización post descongelación están
 directamente relacionadas a la formación de cristales de hielo intra y extracelular, que
-
 puede producirse a consecuencia de las tasas de descenso térmico muy altas, donde el
-
 agua intracelular no tiene el tiempo suficiente para alcanzar el medio extracelular, se
-
 sobre enfría, alcanza temperatura de nucleación y finalmente se cristaliza dentro del
-
 citoplasma. Por otro lado si la tasa de ascenso térmico durante la descongelación no es
-
 lo suficientemente rápida, es posible que se produzca hielo intracelular como
-
 consecuencia de un nuevo pasaje a través de la temperatura de nucleación o crecimiento
-
 de pequeños cristales que pueden haberse generado durante el enfriamiento, esto puede
-
 producirse además, por un desequilibrio entre la concentración del crioprotector y la
-
 tasa de descenso térmico (Kasai et al., 2002; Mazur, 1963), sobre todo cuando no se
-
 ajustan adecuadamente la tasa de ascenso y descenso de temperatura (Mucci et al.,
-
 2006). Los daños no solo se producen en organelas intracelulares, Considerando que el
-
 colesterol está presente en la membrana plasmática, donde su nivel y la proporción con
 
+27
 
-
-
-                                                                                     27
 los fosfolípidos determinan en gran medida su fluidez y así su sensibilidad a la
-
 refrigeración (Horvath y Seidel 2006).
-
-    Otro factor a considerar en la obtención de estos resultados es el hecho de que se
-
+Otro factor a considerar en la obtención de estos resultados es el hecho de que se
 usó un congelador manual.
 
+28
 
-
-
-                                                                                   28
-    4.2 Viabilidad de los embriones post descongelación
-
-    Se consideró embriones viables a todos aquellos embriones que luego de 50-60 días
-
+4.2 Viabilidad de los embriones post descongelación
+Se consideró embriones viables a todos aquellos embriones que luego de 50-60 días
 post-transferencia, muestra a la ecografía una vesícula embrionaria con imagen anecoica
-
 y en la parte céntrica una imagen hipercoica (Huanca et al, 2011).
 
+Tabla 6. Embriones transferidos a receptoras y recetoras preñadas
+OBSERVACIONES
 
+Embriones descongelados
 
-    Tabla 6. Embriones transferidos a receptoras y recetoras preñadas
-             OBSERVACIONES                          CRIOPROTECTOR
-                                                Etilenglicol         DMSO
-     Embriones descongelados                         12                 8
-     transferidos a las receptoras.
-     Receptoras preñadas                              7                 3
+CRIOPROTECTOR
+Etilenglicol
 
+DMSO
 
-     Viabilidad                                    58.3%             37.5%
-     Tasa de preñez (%)
+12
 
+8
 
-    La tabla 6 muestra los resultados de la viabilidad de los embriones descongelados
+7
 
+3
+
+58.3%
+
+37.5%
+
+transferidos a las receptoras.
+Receptoras preñadas
+
+Viabilidad
+Tasa de preñez (%)
+
+La tabla 6 muestra los resultados de la viabilidad de los embriones descongelados
 transferidos a las receptoras. Donde los embriones congelados con Etilenglicol tuvieron
-
 una viabilidad del58.3% y los embriones congelados con Dimetilsulfoxido tuvieron un
-
 37.5% de viabilidad, estos resultados sometidos a análisis de Chi Cuadrado con
-
 Corrección de Yates indican que, no existe diferencia estadística (p≥0.05).
 
-
-
-    Skidmore et al. (2004) reporta un 32% de viabilidad post-descongelación de
-
+Skidmore et al. (2004) reporta un 32% de viabilidad post-descongelación de
 embriones de Camellos Dromedarios expuestos de 1 a 10 min. a 1.5M de Etilenglicol.
-
 Estos resultados son inferiores a los encontrados en el presente trabajo, porque el
-
 tiempo de exposición al Etilenglicol es muy prolongado, este excesivo tiempo de
-
 contacto hace que el crioprotector altere el equilibrio osmótico y la membrana celular
-
 del embrión (Bouysson y Chupin 1982).De manera similar, Nowshari et al. (2005)
-
 reporta un 8% de viabilidad embrionaria con 7.0 M Etilenglicol. Las razones por las
+29
 
-                                                                                    29
 cuales estos resultados difieren con los encontrados en el presente trabajo son, porque
-
 durante la criopreservación, las células son expuestas a mucho estrés, mecánico,
-
 térmico, y químico (Meryman, 1971), que comprometen las funciones celulares y la
-
 muerte de esta (Mazur et al., 1972). Un hecho crucial para la viabilidad de los
-
 embriones, es que, las interrupciones más críticas a las funciones del núcleo celular se
-
 producen durante la deshidratación y congelación (Van Blerkom, 1989). Los daños
-
 celulares por congelación se influencian principalmente por la formación de cristales de
-
 hielo intracelular y el efecto solución, donde el primero es el principal responsable de la
-
 muerte celular por congelación, lo que se debe a la deshidratación inadecuada, y el
-
 segundo se produce por la separación de los cristales del agua pura del resto de la
-
 solución (Celestinos y Gatica, 2003).
 
-
-
 Huanca et al, (2011), reporta un 69% de preñez a la evaluación ecográfica a los 30 días
-
 post-transferencia de embriones frescos. Asimismo, Palomino et al., (1996a; 1996b)
-
 obtuvo un 65% (13/20) de preñez por transferencia de embriones frescos en alpacas,
-
 por la vía transcervical, y por transferencia vía laparoscópica obtuvo un 100% (10/10)
-
 de preñez, respectivamente. Gatica et al., (1994), reportó un 100% de preñez (1/1) en
-
 transferencia de embriones frescos en llamas, Palomino (2000). Asimismo Aller y
-
 Rebuffi (2002), realizó la transferencia de embriones frescos de llamas producto de
-
 superovulación encontrando una tasa de preñez de 33%. Estos resultados son superiores
-
 a los que se obtuvo en el presente trabajo para embriones congelados (58.3%) para EG,
-
 (37.5%) para DMSO.
-
 Las razones exactas por las cuales se reduce la viabilidad de los embriones no están bien
-
 definidas pero es probable que se relacione al efecto osmótico directo o indirecto a la
-
 exposición de los agentes crioprotectores, al respecto estudios han determinado que la
 
+30
 
-                                                                                        30
 exposición a algunos agentes crioprotectores, seguido de criopreservación reduce la
-
 sobrevivencia embrionaria mediante la interrupción irreversible de elementos del
-
 citoesqueleto como microfilamentos y microtubulos (Roche et al., 1993) en embriones
-
 de vacunos, y en embriones de equinos (Tharasanit et al., 2005).
 
-
-
 Los datos obtenidos en el presente trabajo de investigación, nos demuestran que son
-
 viables los embriones transferidos post-descongelación, pero estos datos son muy
-
 variables lo que nos hace sugerir que la pérdida embrionaria se debe a factores ajenos a
-
 la transferencia. Ligadas al manejo adecuado de donantes y receptoras (Skidmore et. al.,
-
 2004). Las hembras receptoras no tuvieron un trato especial ni diferenciado estas
-
 estuvieron sometidas a un manejo común a hembras de majada general, haciendo largos
-
 recorridos antes y después de la transferencia de embriones, fueron desparasitadas con
-
 antiparasitarios orales y pasaron por la campaña de baños, estos pudieron ser
-
 determinantes en la obtención de los resultados que se obtuvieron. Un aspecto a
-
 considerar también, son las lesiones que se producen por efecto de los crioprotectores
-
 como el Dimetilsulfoxido y las temperaturas de congelación, los cuales causan lesiones
-
 en membrana, citoesqueleto y organelas celulares (Skidmore et al,. 2009). Los cuales no
-
 fueron motivo de estudio en este trabajo.
-
 Estos aspectos de manejo indirectamente determinan el desarrollo embrionario en la
-
 receptora y por ende su viabilidad y se reflejan en los resultados obtenidos.
 
+31
 
-
-
-                                                                                     31
-                                    V. CONCLUSIONES
-
+V. CONCLUSIONES
  Aplicando la congelación en embriones de alpaca se obtuvo la sobrevivencia del 100%
-
-  de los embriones congelados con Etilenglicol, no existiendo diferencia estadística
-
-  frente a los embriones congelados con Dimetilsulfóxido 66.7%, (p≥0.05).
-
+de los embriones congelados con Etilenglicol, no existiendo diferencia estadística
+frente a los embriones congelados con Dimetilsulfóxido 66.7%, (p≥0.05).
  La viabilidad embrionaria post transferencia de embriones congelados con Etilenglicol
+fue 58.3% no existiendo diferencia estadística frente a los embriones congelados con
+Dimetilsulfóxido37.5%. (p≥0.05).
 
- fue 58.3% no existiendo diferencia estadística frente a los embriones congelados con
+32
 
- Dimetilsulfóxido37.5%. (p≥0.05).
+VI. RECOMENDACIONES
+
 
+Congelar embriones de alpaca con el método estándar utilizando como
+crioprotector el Etilenglicol.
 
+
 
+Realizar un manejo adecuado de receptoras y donadoras.
 
-                                                                                    32
-                             VI. RECOMENDACIONES
+33
 
-   Congelar embriones de alpaca con el método estándar utilizando como
-
-    crioprotector el Etilenglicol.
-
-   Realizar un manejo adecuado de receptoras y donadoras.
-
-
-
-
-                                                                    33
-                                 VII. BIBLIOGRAFIA
-
+VII. BIBLIOGRAFIA
 
 Adams G., J. Sumar y O. Ginther. 1990. Effects of lactational and reproductive status on
-        ovarian follicular waves in llamas (lama glama). J. Reprod. Fert. 90, 353-545.
-
+ovarian follicular waves in llamas (lama glama). J. Reprod. Fert. 90, 353-545.
 
 Aller J. yG. Rebuffi. 2002.Successful transfer of vitrified llama (Lama glama)embryos.
-       Anim Reprod Sc 73: 121-127.
-
+Anim Reprod Sc 73: 121-127.
 
 Ali J. y J. Shelton. 1993. Vitrification of preimplantation stages of mouse embryos. J.
-        Reprod. Fert. 98(2):459-465
-
+Reprod. Fert. 98(2):459-465
 
 Bouysson J., D. Chupin, 1982. Two step freezing of cattle blastocyst with dimethyl
-        sulfoxide (dmso) or glycerol. Theriogenology 17: 159-166.
-
+sulfoxide (dmso) or glycerol. Theriogenology 17: 159-166.
 
 Brack, A., 2003. Los camélidos sudamericanos. [Consulta: octubre, 2012].
-         http://ertic.inictel.net/biblioteca/texto/000020.pdf.
-
+http://ertic.inictel.net/biblioteca/texto/000020.pdf.
 
 Bravo W., E. Fowler, H. Stabenfeldt, B. Lasley. 1990. Endocrine responses in the llama to
-        copulation. Theriogenology 33:4, 891- 899.
-
+copulation. Theriogenology 33:4, 891- 899.
 
 Bravo W. 2002 the reproductive process of south American camelids. Printed on acid-free
-        paper in the united stated of America.
-
-
+paper in the united stated of America.
 
 Cabodevila J., R. Alberio, G. Palma, B. Iovannitti, y S. Torquati. 1991. Desarrollo "in
-        vitro" e "in vivo" de embriones bovinos congelados utilizando un método estándar
-        simplificado. Rev. Arg. Prod. Anim.
-
+vitro" e "in vivo" de embriones bovinos congelados utilizando un método estándar
+simplificado. Rev. Arg. Prod. Anim.
 
 Cabodevila J. y M. Teruel. 2001. Criopreservacíon de embriones bovinos. En: Palma a.
-        biotecnología de la reproducción. Instituto nacional de tecnología agropecuaria,
-        argentina, pp 149-174.
+biotecnología de la reproducción. Instituto nacional de tecnología agropecuaria,
+argentina, pp 149-174.
 
+34
 
-
-
-                                                                                         34
 Chupin D. and R. Procureur. 1984. Glicerol equilibration for deep freezing of cattle
-        blastocysts: effect of number of steps an of total duration. Theriogenology 21:
-        230.
-
+blastocysts: effect of number of steps an of total duration. Theriogenology 21:
+230.
 Chupin D. 1986. Quick freezing of bovine blastocysts. Theriogenology 25: 219.
-
 Celestinos M. y R. Gatica. 2003. Vitrificación como técnica de crioconservación de
-        embriones bovinos. Arch. Med. Vet. xxxiv, nº 2
-
+embriones bovinos. Arch. Med. Vet. xxxiv, nº 2
 CENAGRO IV, 2012. Censo Nacional Agropecuario. Boletín02, MINAGRI
-
 Dobrinsky J., G. Pursel, C. Long and A. Johnson. 2000. Birth of piglets after transfer of
-        embryos cryopreserved by cytoskeletal stabilization and vitrification. Biology of
-        Reproduction 62 564–570.
-
+embryos cryopreserved by cytoskeletal stabilization and vitrification. Biology of
+Reproduction 62 564–570.
 Emiliani S., V. Bergh, A. Vannin, J. Biramane, Y. Englert. 2000. Comparison of ethylene
-        glycol, 1,2-propanediol and glycerol for cryopreservation of slow-cooled mouse
-        zygotes, 4 cell embryos and blastocysts. Hum Reprod 15(4):905-910.
-
+glycol, 1,2-propanediol and glycerol for cryopreservation of slow-cooled mouse
+zygotes, 4 cell embryos and blastocysts. Hum Reprod 15(4):905-910.
 
 Fair T, Lonergan P, Dinnyes A, Cottell DC, Hyttel P, Ward FA, Boland MP. 2001,
-       Ultrastructure of bovine blastocysts following cryopreservation: effect of method of
-       blastocyst production. Mol ReprodDev. 58(2):186-95.
-
+Ultrastructure of bovine blastocysts following cryopreservation: effect of method of
+blastocyst production. Mol ReprodDev. 58(2):186-95.
 
 Fernandez - Baca S., W.Hansel, C. Novoa.1970. Corpus luteum function in the alpaca.
-       Biol Reprod. 3(2):252-61
-
+Biol Reprod. 3(2):252-61
 
 Galina C. y J. Valencia. 2008. Reproducción de animales domésticos. Tercera edición.
-        Editorial Limusa. México.
-
+Editorial Limusa. México.
 
 Gatica, R., M. Ratto, C. Schueler, M.A. Ortiz, J. Oltra y J. Correa. 1994. Cría obtenida en
-       una llama (Lama glama) por transferencia de embriones, Agric. Tec. 1: 66-71.
-
+una llama (Lama glama) por transferencia de embriones, Agric. Tec. 1: 66-71.
 
 Gordon I. 1994. Laboratory productión of cattle embryos. Ed. Cab International. UK.
 
+35
 
-
-
-                                                                                        35
 Hafez E. 2000. Reproducción e inseminación artificial en animales. Séptima edición.
-        Editorial Mc Graw Hill interamericana. México.
-
+Editorial Mc Graw Hill interamericana. México.
 
 Heath T. 1990. The identification and selection of embryos. Proc. 7th seminar of the dairy
-        cattle society of the new zeland, pp.43-60.
-
+cattle society of the new zeland, pp.43-60.
 
 Hyttel P., F. Sinowatz, M. Vejlsted. 2010. Essentials of domestic animal embryology.
-        Sunders Elsevier Limited. cap. 6, pag. 68-70
-
+Sunders Elsevier Limited. cap. 6, pag. 68-70
 
 Horvath G. and J. Seidel. 2006. Vitrification of bovine oocytes after treatment with
-        cholesterol-loaded methyl-beta-cyclodextrin. Theriogenology 66 1026–1033.
-
+cholesterol-loaded methyl-beta-cyclodextrin. Theriogenology 66 1026–1033.
 
 Huanca W., T. Huanca, M. Ratto, A. Cordero, O. Cardenas, N. Apaza. 2004. Transferencia
-        de embriones. Rev Estación Exp Illpa, Puno 3(8): 2-5.
-
+de embriones. Rev Estación Exp Illpa, Puno 3(8): 2-5.
 
 Huanca W., M. Vásquez, M. Cervantes, A. Cordero, O. Cárdenas y T. Huanca. 2007
-        vitrificación de embriones de alpacas: Estudio Preliminar. APPA-ALPA Cusco,
-        Perú.
-
+vitrificación de embriones de alpacas: Estudio Preliminar. APPA-ALPA Cusco,
+Perú.
 
 Huanca W.,M. Vásquez, M. Cueva, A. Cordero y M. Lino. 2011. Evaluación de dos
-        métodos de criopreservación de embriones de llamas sobre las tasas de
-        supervivencia “in vivo” e “in vitro”. Rev Inv Vet Perú; 22 (3):190-198
-
+métodos de criopreservación de embriones de llamas sobre las tasas de
+supervivencia “in vivo” e “in vitro”. Rev Inv Vet Perú; 22 (3):190-198
 
 IETS, International Embryo Transfer Society. 1998. Manual of the International et Society.
-        3rd ed. savoy il. iets: usa. 170 p.
-
+3rd ed. savoy il. iets: usa. 170 p.
 
 Karrow A. 1997. Pharmacological interventions in vitro. In: karrow am, critserjk, editors.
-        Reproductive tissue banking. San Diego: academic press. pp 167-227.
-
+Reproductive tissue banking. San Diego: academic press. pp 167-227.
 
 Kasai M., Y. Hamaguchi, S. Zhu, T. Miyake and T. Machida. 1992. High survival of rabbit
-        morulae after vitrification in an ethylene-glycol-based solution by a simple
-        method. Biol Reprod 46(6):1042-1046
+morulae after vitrification in an ethylene-glycol-based solution by a simple
+method. Biol Reprod 46(6):1042-1046
 Kasai M. 1996. Simple and efficient methods for vittrification of mammalian embryos.
-        Anim ReprodSc 42:67-75
+Anim ReprodSc 42:67-75
+36
 
-                                                                                       36
 Kuleshova LL., D. Macfarlane, A. Trouson and J. Shaw. 1999. Sugars exert a major
-        influence on the vitrification propieties of ethylene glycol-based solutions and
-        have low toxicity to embryos and oocytes. Cryobiology 38:119-130
-
+influence on the vitrification propieties of ethylene glycol-based solutions and
+have low toxicity to embryos and oocytes. Cryobiology 38:119-130
 
 Lascombes FA, and R. Pashen, 2000: Results from embryo freezing and post ovulation
-         breeding in a commercial embryo transfer programme. Proceedings 5th
-         International symposium on Equine Embryo Transfer, Havemeyer
-         Foundation Monograph series 3,Saari, Finland, pp 95-96.
-
+breeding in a commercial embryo transfer programme. Proceedings 5th
+International symposium on Equine Embryo Transfer, Havemeyer
+Foundation Monograph series 3,Saari, Finland, pp 95-96.
 Lehn-Lensen H. and T. Greve. 1982. The survival of cow blastocysts frozen in 1,4m
-        glicerol after plunging between -15 and -60 and rapid thawing. Theriogenology
-        17: 95
-
+glicerol after plunging between -15 and -60 and rapid thawing. Theriogenology
+17: 95
 Lehn-tensen H., W. Rall. 1983. Cryomicroscopic observations of cattle embryos during
-        freezing and thawing. Theriogenology 19:263-277.
-
+freezing and thawing. Theriogenology 19:263-277.
 
 Leibo S. 1989. Equilibrium and non equilibrium cryopreservation of
-         embryos Theriogenology31, 86-95.
-
+embryos Theriogenology31, 86-95.
 Leibo S., N. Songsasen. 2002. Cryopreservation of gametes and embryos of non-domestic
-        species. Theriogenology; 57:303-26
-
+species. Theriogenology; 57:303-26
 Liebermann J., F. Nawroth, V. Isachenko, E. Isachenko, G. Rahimi and M. Tucker. 2002.
-        Potential importance of vitrification in reproductive medicine. Biol Reprod
-        67(6):1671-1680.
-
+Potential importance of vitrification in reproductive medicine. Biol Reprod
+67(6):1671-1680.
 
 Mazur P. 1963. Estudies on rapidly frozen suspensions of yeast cells by differential termal
-        analysis and conductometry. Biophys J 3:323-353
-
+analysis and conductometry. Biophys J 3:323-353
 
 Mazur P., S. Leibo and E. Chu.1972. A. two-factor hypothesis of freezing injury–evidence
-        from chinese hamster tissue cells. Experimental Cell Research 71, 345–355.
-
+from chinese hamster tissue cells. Experimental Cell Research 71, 345–355.
 
 Mazur P. 1977. Slow-freezing injury in mammalian cells. en: the freezing of mammalian
-        embryos, Elsevier, excerpta medica, Amsterdan, pp. 19-48.
+embryos, Elsevier, excerpta medica, Amsterdan, pp. 19-48.
 
+37
 
-
-                                                                                        37
 Maurer, R. 1978. Freezin of mammalian embryos: A review of the techniques.
-        Theriogenology 9: 45-68.
-
+Theriogenology 9: 45-68.
 
 Meryman H. 1971. Cryoprotectiveagents. Cryobiology 8, 173–183.
 
-
 Miragaya M., M. Chaves, A. Aguero. 2005. Reproductive biotechnology in south
-        American camelids. Small Ruminant Research.
-
+American camelids. Small Ruminant Research.
 Miyake T., M. Kasai, T. Zhu, T. Sakurai and T. Machida. 1993. Vitrification of mouse
-        oocytes and embryos at various stages of development in an ethylenglicol based
-        solution by a simple method. Theriogenology 40: 121-134.
-
+oocytes and embryos at various stages of development in an ethylenglicol based
+solution by a simple method. Theriogenology 40: 121-134.
 Mucci N., J. Aller, J. Cabodevilla, G. Kaiser, F. Hozbor and R. Alberio. 2006.
-        Criopreseración de embriones bovinos. Sitio Argentino de Reproducción animal
-        7: 20-35
-
+Criopreseración de embriones bovinos. Sitio Argentino de Reproducción animal
+7: 20-35
 Niemann H. 1985. Cryoperservation of ova and embryos from livestock: current status and
-        research needs. Theriogenology, 35: 109-123.
-
+research needs. Theriogenology, 35: 109-123.
 
 Niemann, H. 1991. Cryopreservation of ova and embryos from livestock: Current status
-        and research needs. Theriogenology 35: 109-124
-
+and research needs. Theriogenology 35: 109-124
 Niemann H. 1995. Advances in cryopreservation of bovine oocytes and embryos derived
-        “in vitro” and “in vivo”. In: Reproduction and Animal Breeding, Advences and
-        Strategy. Elsevier, Amsterdam. pp. 117-128.
-
+“in vitro” and “in vivo”. In: Reproduction and Animal Breeding, Advences and
+Strategy. Elsevier, Amsterdam. pp. 117-128.
 Novoa C. y A. Florez. (Ed) 1991. Producción de Rumiantes Menores, Impresores
-        RERUMEN, Lima-Perú.
-
+RERUMEN, Lima-Perú.
 
 Nowshari M.,S. Ali and S. Saleem. 2005. Offspring resulting from transfer of
-        cryopreserved embryos in camel (camelus dromedarius). Theriogenology 63:
-        2512-2522.
-
+cryopreserved embryos in camel (camelus dromedarius). Theriogenology 63:
+2512-2522.
 Palomino H. 2000. Biotecnología del trasplante y micro-manipulación de embriones de
-        bovinos y camélidos de los andes. A.F.P. Editores Importadores S.A. Cap 11 pg.
-        272-273
-                                                                                    38
+bovinos y camélidos de los andes. A.F.P. Editores Importadores S.A. Cap 11 pg.
+272-273
+38
+
 Palomino H., E. Medina, O. Li, E. Sumari, N. Calvo, M. Alvarez, F Chang Say y Pandol,.
-        1996. Transplante de embriones de Alpaca. 1er Congreso Mundial sobre
-        Camélidos. Cajamarca-Perú. 26
-
+1996. Transplante de embriones de Alpaca. 1er Congreso Mundial sobre
+Camélidos. Cajamarca-Perú. 26
 Palomino H., E. Medina, O. Li, E. Sumari, N. Calvo, A. Aguilar, A. Díaz, L. Quispe y O.
-        Angeles. 1996. Recolección y Transplante de embriones por Laparoscopía en
-        Alpacas. 1er Congreso Mundial sobre Camélidos. Cajamarca-Perú. 27
-
+Angeles. 1996. Recolección y Transplante de embriones por Laparoscopía en
+Alpacas. 1er Congreso Mundial sobre Camélidos. Cajamarca-Perú. 27
 Pérez G. 1995. Efecto de la GnRH, sobre el desarrollo folicular, métodos de inducción de
-        ovulación y embriones en alpacas. Tesis para optar el grado de magister en
-        Ganadería Andina.
-
+ovulación y embriones en alpacas. Tesis para optar el grado de magister en
+Ganadería Andina.
 Rall W. and C. Polge. 1984. Effect of warming rate on mouse embryos frozen and thawed
-        in gycerol. J. Reprod. Fert. 70:285-292.
-
+in gycerol. J. Reprod. Fert. 70:285-292.
 Rall W. and M. fahy. 1985. Ice-free cryopreservation of mouse embryos at -196ºc by
-        vitrificatión. Nature 313: 573- 575.
-
+vitrificatión. Nature 313: 573- 575.
 Rall W. and T. Mayer. 1989. Zone fracture damage and its avoidance during the
-        cryopreservation of mammalian embryos. Theriogenology. 31: 683-692.
-
+cryopreservation of mammalian embryos. Theriogenology. 31: 683-692.
 
 Roche M., P. Boland, R. Mantovani, R.T. Duby, E.W. Overstrom, J.R. Dobrinsky, W.J.
-       Enright, H. Walsh.1993.The effects of once or twice daily injections of pFSH on
-       superovulatory response in heifers Theriogenology, Volume 40, Issue 2, August,
-       Pages313-321
-
+Enright, H. Walsh.1993.The effects of once or twice daily injections of pFSH on
+superovulatory response in heifers Theriogenology, Volume 40, Issue 2, August,
+Pages313-321
 
 Schneider U. and P. Mazur. 1984. Osmotic consecuences of cryoprotectant permeability
-       and its relation to the survirval of frozen – tawed embryos. Theriogenology 21: 68-
-       79.
-
+and its relation to the survirval of frozen – tawed embryos. Theriogenology 21: 6879.
 
 SENAMHI, Servicio Nacional de Meteorología e Hidrología, 2011. Reportes Enero-Abril
-       Shaw J., A. Oranratnachai and A. Trounson. 2000.Fundamental cryobiology of
-        mammalian oocytes and ovarian tissue. Theriogenology 53(1): 59-72
+Shaw J., A. Oranratnachai and A. Trounson. 2000.Fundamental cryobiology of
+mammalian oocytes and ovarian tissue. Theriogenology 53(1): 59-72
 
+39
 
-
-
-                                                                                       39
 Shaw J., C. Wart and A. Trounson. 1995. Evaluation of propanediol, ethylene glycol,
-        sucrose and antifreeze proteins on the survival of slow-cooled mouse pronuclear
-        and 4-cell embryos. HumReprod 10(2): 396-402
-
+sucrose and antifreeze proteins on the survival of slow-cooled mouse pronuclear
+and 4-cell embryos. HumReprod 10(2): 396-402
 
 Shaw J.,LL. Kuleshoval, D. Macfarlane, A. Trounson. 1997. Vitrification properties of
-        solutions of ethylene glycol in saline containing pvp, ficoll, or dextran.
-        Cryobiology 35(3):219-229
-
+solutions of ethylene glycol in saline containing pvp, ficoll, or dextran.
+Cryobiology 35(3):219-229
 Skidmore J., N. Loskutoff. 1999. Developmental competence in vitro and in vivo of
-        cryopreserved expanding blastocysts from the dromedary camel (Camelus
-        Dromedaries). Theriogenology 51, 293 abstract.
-
+cryopreserved expanding blastocysts from the dromedary camel (Camelus
+Dromedaries). Theriogenology 51, 293 abstract.
 Skidmore J. 2000. Embryo transfer in the dromedary camel (CamelusDromaderius)
-        International Veterinary Information Service.
-
+International Veterinary Information Service.
 Skidmore J., M. Billah and N. Loskutoff. 2004. Developmental competence in vitro and in
-        vivo of cryopreserved hatched blastocysts from the dromedary camel (Camelus
-        Dromedaries). Reprod. Fertil. Dev. 16: 605-609.
-
+vivo of cryopreserved hatched blastocysts from the dromedary camel (Camelus
+Dromedaries). Reprod. Fertil. Dev. 16: 605-609.
 Skidmore J., E. Schoevers and T. Stout. 2009. Effect of different methods of
-        cryopreservation on the cytoskeletal integrity of dromedary camel (Camelus
-        Dromedaries) Embryos. Anim. Reprod. Sci. 113: 196-204.
-
+cryopreservation on the cytoskeletal integrity of dromedary camel (Camelus
+Dromedaries) Embryos. Anim. Reprod. Sci. 113: 196-204.
 
 Sommerfeld V. and H. Niemann. 1999. Cryopreservation of bovine in vitro produced
-        embryos     using   ethylenglicol    in   controlled   freezing   or   vitrification.
-        Cryobiology38: 95-105.
+embryos
 
+using
+
+ethylenglicol
+
+in
+
+controlled
+
+freezing
+
+or
+
+vitrification.
+
+Cryobiology38: 95-105.
 
 Sumar J. 2000. LLamas y alpacas. Hafez. Capítulo 15. Reproducción e inseminación
-        artificial en animales México: editorial interamericana – Mc Graw Hill.
-
-
+artificial en animales México: editorial interamericana – Mc Graw Hill.
 
 Tanaka H., P.Ballarales, J.Masaki and H. Kanagawa. 1997. Teoría y práctica de la
-        fecundación “in vitro”. Capítulo V. Jica. Chile
+fecundación “in vitro”. Capítulo V. Jica. Chile
 
+40
 
-
-
-                                                                                          40
 Tharasanit T., B. Colenbrander and T. Stout. 2005. Effect of cryopreservation on the
-        cellular integrity of equine embryos. Reproduction 129, 789–798.
-
+cellular integrity of equine embryos. Reproduction 129, 789–798.
 
 Van Blerkom J. 1989. Maturation at high frequency of germinal vesicle-stage mouse
-        oocytes after cryopreservation: alternations in cytoplasmic, nuclear, nucleolar and
-        chromosomal structure and organization associated with vitrification. Human
-        Reproduction 4, 883–898.
-
+oocytes after cryopreservation: alternations in cytoplasmic, nuclear, nucleolar and
+chromosomal structure and organization associated with vitrification. Human
+Reproduction 4, 883–898.
 
 Wilmut, I.and L. Rowson. 1973. Experiments on the low temperature preservation of cow
-        embryos. Vet. Rec. 92: 686-690.
-
-
+embryos. Vet. Rec. 92: 686-690.
 
 Withenberg T. C. Sevell. 1987. Atleas du development ambrionnaire precocechez le ovins.
-        inra station de physiologie animal ejouy en josas. Publ. Versailespp 51.
+inra station de physiologie animal ejouy en josas. Publ. Versailespp 51.
 
+Zeron Y.,M. Tomczak, J. Crowe and A. Arav.
 
-Zeron Y.,M. Tomczak, J. Crowe and A. Arav.            2002. The effect of liposomes on
-        thermotropic membrane phase transitions of bovine spermatozoa and oocytes:
-        implications for reducing chilling sensitivity. Cryobiology 45 143–152.
+2002. The effect of liposomes on
 
+thermotropic membrane phase transitions of bovine spermatozoa and oocytes:
+implications for reducing chilling sensitivity. Cryobiology 45 143–152.
 
+41
 
-
-                                                                                        41
 ANEXOS
 
+42
 
-
-         42
 Anexo 1.
 Las fotografías muestran la cópula de las hembras donadoras debidamente
 enumeradas, con machos.
 
+43
 
-
-
-                                                                          43
 Anexo 2.
 Se observa la evacuación de heces e higienización de la zona perineal de donadora
 
-
-
-
 Ecografía de Donadora, ubicando la posición del cuerpo lúteo.
 
+44
 
-
-
-                                                                                    44
 Anexo 3.
 Inserción de sonda Foley por manipulación recto-vaginal, para realizar el lavado de
 embriones.
 
+Filtro colector de embriones recepcionando medio de lavado, proveniente de cuerno
+uterino.
 
+45
 
-
-   Filtro colector de embriones recepcionando medio de lavado, proveniente de cuerno
-                                         uterino.
-
-
-
-
-                                                                                       45
 Filtro colector conteniendo medio de lavado listo para ser vaciado en placa petri.
-
-
-
 
 Enjuagado de filtro colector con medio de lavado para evitar adherencia de embrión a
 paredes y base
 
+46
 
-
-
-                                                                                       46
 Anexo 4.
 Búsqueda de embriones en placa petri de base cuadriculada, bajo el lente del estereoscopio
 a un aumento de 20X.
 
-
-
-
 Embrión (Blastocisto) de Grado I, zona pelúcida sin irregularidades en su contorno y
 superficie sin manchas.
 
+47
 
-
-
-                                                                                        47
 Anexo 5.
 Pajilla conteniendo embrión en medio de congelación separadas por columnas de aire del
 medio de mantenimiento.
 
-
-
-
 Anexo 6.
 Calibración del congelador, en el cuello de termo con nitrógeno líquido.
 
+48
 
-
-
-                                                                                     48
 Anexo 7.
 “Seeding” con pinza metálica enfriada en nitrógeno líquido.
-
-
-
 
 Anexo 8.
 Descongelación de embriones en baño María a 37 °C
 
+49
 
-
-
-                                                              49
 Anexo 9.
 Embriones en proceso de rehidratación, zona pelúcida arrugada sin interrupciones en su
 contorno
 
-
-
-
 Embrión deshidratado por efecto del crioprotector, zona pelúcida intacta sin daño aparente.
 
+50
 
-
-
-                                                                                         50
 Embrión de Grado IV, zona pelúcida rota, recomiendan no transferir embriones con este
 tipo de daños.
-
-
-
 
 Embrión descongelado y rehidratado, categorizado en Grado I, completamente esférico,
 zona pelúcida sin daño, color uniforme de la superficie sin manchas.
 
+51
 
-
-
-                                                                                        51
 Anexo 10.
 Transferencia de embrión descongelado a receptora. (Con pistola de inseminación usada
 para vacunos).
 
-
-
-
 Anexo 11.
-
 Imágenes que muestran ecografía de cuerno uterino de hembra receptora, se visualiza
-
 vesícula embrionaria.
 
+52
 
-
-
-                                                                                        52
 Anexo 12.
 Categorización de embriones antes y después de congelación/descongelación
 
+Embriones
+Frescos
+Congelados
 
+Descongelados
 
-                            Etilenglicol   Grado    DimetilSulfóxido        Grado
-             Embriones
-              Frescos            12                         12
-             Congelados           8           I              9                I
-                                 4           II             3                II
-                                 6            I             4                 I
-                                 3           II             1                II
-            Descongelados        2           III            3                III
-                                 1           IV             4                Se
-                                                                        destruyeron
+Etilenglicol
 
+Grado
 
+DimetilSulfóxido
 
+Grado
 
-                                                                                      53
+12
+8
+
+I
+
+12
+9
+
+I
+
+4
+
+II
+
+3
+
+II
+
+6
+
+I
+
+4
+
+I
+
+3
+
+II
+
+1
+
+II
+
+2
+
+III
+
+3
+
+III
+
+1
+
+IV
+
+4
+
+Se
+destruyeron
+
+53
+
 Anexo 13. Registro de Donadoras.
- N°     N° ARETE       OVARIO        OVARIO               EMBRIONES
-                      DERECHO      IZQUIERDO
-01     $ 232.3F                    C/L         Mórula
-02     8$ 285 F                    C/L         Blastocito congelable
-03     A145.7                      C/L         Nada
-04     6$ 166 E                    C/L         Blastocito congelable
-05     4$H 67 E                    C/L         Blastocito congelable
-06     S/A (2)                     C/L         Nada
-07     4$ 18 D       C/L                       Blastocito congelable
-08     4$ H 54 E     Folículos     Folículos
-09     6$ 157 E      C/L                       Blastocito congelable
-10     5$ 157 E                    C/L         Blastocito congelable
-11     6$ 050 D                    C/L         Blastocito congelable
-12     6$ 071 D      C/L                       Blastocito congelable
-13     05$ 4123E     C/L                       Blastocito congelable
-14     S/A (3)       C/L                       Blastocito congelable
-15     4$$ 64 F                    C/L         Nada
-16     9$ 214 E      C/L                       Blastocito congelable
-17     9$ 290 F                    C/L         Blastocito congelable
-18     9$ 94 E       C/L                       Blastocito congelable
-19     X 01.9        C/L                       Blastocito congelable
-20     8$ 166 E      Folículos     Folículos   Nada
-21     9$ 69 E                     C/L         Blastocito congelable
-23     6 $H 67 E                   C/L         Blastocito congelable
-24     6 $ 129 E     C/L                       Blastocito congelable
-25     8 $ 243 E                   C/L         Blastocito congelable
-26     16 $ 91 E     C/L                       Blastocito congelable
-27     S/A           C/L                       Nada
-28     4$H 235 F                   C/L         Blastocito congelable
-29     7 $ 0019 E                  C/L         Blastocito congelable
-30     S/A           C/L                       Blastocito congelable
-31     01 $ 103 F                  C/L         Blastocito congelable
-32     $ 223.3 E                   C/L         Blastocito congelable
+N°
 
+N° ARETE
 
+OVARIO
 
+OVARIO
 
-                                                                       54
+DERECHO
+
+IZQUIERDO
+
+EMBRIONES
+
+01
+
+$ 232.3F
+
+C/L
+
+Mórula
+
+02
+
+8$ 285 F
+
+C/L
+
+Blastocito congelable
+
+03
+
+A145.7
+
+C/L
+
+Nada
+
+04
+
+6$ 166 E
+
+C/L
+
+Blastocito congelable
+
+05
+
+4$H 67 E
+
+C/L
+
+Blastocito congelable
+
+06
+
+S/A (2)
+
+C/L
+
+Nada
+
+07
+
+4$ 18 D
+
+C/L
+
+08
+
+4$ H 54 E
+
+Folículos
+
+09
+
+6$ 157 E
+
+C/L
+
+10
+
+5$ 157 E
+
+C/L
+
+Blastocito congelable
+
+11
+
+6$ 050 D
+
+C/L
+
+Blastocito congelable
+
+12
+
+6$ 071 D
+
+C/L
+
+Blastocito congelable
+
+13
+
+05$ 4123E
+
+C/L
+
+Blastocito congelable
+
+14
+
+S/A (3)
+
+C/L
+
+Blastocito congelable
+
+15
+
+4$$ 64 F
+
+16
+
+9$ 214 E
+
+17
+
+9$ 290 F
+
+18
+
+9$ 94 E
+
+C/L
+
+Blastocito congelable
+
+19
+
+X 01.9
+
+C/L
+
+Blastocito congelable
+
+20
+
+8$ 166 E
+
+Folículos
+
+21
+
+Blastocito congelable
+Folículos
+Blastocito congelable
+
+C/L
+C/L
+
+Nada
+Blastocito congelable
+
+C/L
+
+Blastocito congelable
+
+Folículos
+
+Nada
+
+9$ 69 E
+
+C/L
+
+Blastocito congelable
+
+23
+
+6 $H 67 E
+
+C/L
+
+Blastocito congelable
+
+24
+
+6 $ 129 E
+
+25
+
+8 $ 243 E
+
+26
+
+16 $ 91 E
+
+C/L
+
+Blastocito congelable
+
+27
+
+S/A
+
+C/L
+
+Nada
+
+28
+
+4$H 235 F
+
+C/L
+
+Blastocito congelable
+
+29
+
+7 $ 0019 E
+
+C/L
+
+Blastocito congelable
+
+30
+
+S/A
+
+31
+
+01 $ 103 F
+
+C/L
+
+Blastocito congelable
+
+32
+
+$ 223.3 E
+
+C/L
+
+Blastocito congelable
+
+C/L
+
+Blastocito congelable
+C/L
+
+C/L
+
+Blastocito congelable
+
+Blastocito congelable
+
+54
+
 

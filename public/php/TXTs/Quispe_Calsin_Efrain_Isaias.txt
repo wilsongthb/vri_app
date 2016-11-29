@@ -1,3029 +1,2474 @@
-            Universidad Nacional del Altiplano
+Universidad Nacional del Altiplano
+FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA,
+ELECTRÓNICA Y SISTEMAS
+ESCUELA PROFESIONAL DE INGENIERÍA ELECTRÓNICA
 
-   FACULTAD DE INGENIERÍA MECÁNICA ELÉCTRICA,
-            ELECTRÓNICA Y SISTEMAS
-
- ESCUELA PROFESIONAL DE INGENIERÍA ELECTRÓNICA
-
-
-
-
-                         TESIS
-
-   “DISEÑO E IMPLEMENTACIÓN DE UN ELECTRO
+TESIS
+“DISEÑO E IMPLEMENTACIÓN DE UN ELECTRO
 ESTIMULADOR PARA TRATAMIENTO DE PROBLEMAS
-  NEUROLÓGICOS EN CANES DOMÉSTICOS DE LA
-                CIUDAD DE PUNO”
+NEUROLÓGICOS EN CANES DOMÉSTICOS DE LA
+CIUDAD DE PUNO”
+PRESENTADO POR:
 
+EFRAIN ISAIAS QUISPE CALSÍN
+PARA OBTENER ELTÍTULO PROFESIONAL DE:
 
-                    PRESENTADO POR:
+INGENIERO ELECTRÓNICO
+PUNO – PERÚ
+2014
 
-         EFRAIN ISAIAS QUISPE CALSÍN
-
-         PARA OBTENER ELTÍTULO PROFESIONAL DE:
-
-            INGENIERO ELECTRÓNICO
-
-                      PUNO – PERÚ
-                           2014
 ÁREA: Automatización e instrumentación
-
 TEMA: Aplicaciones biomédicas
-DEDICATORIA
 
+DEDICATORIA
 Primordialmente a mí madre Martina Calsín
 Condori, a mis hermanos por su esfuerzo en
 salir adelante, al recuerdo de mi padre y a
 un gran amigo mío que ya no está a mi lado,
 Beethoven mí perro.
-AGRADECIMIENTOS
 
-Agradezco    a   los   amigos   que   me
+AGRADECIMIENTOS
+Agradezco
+
+a
+
+los
+
+amigos
+
+que
+
+me
 
 acompañaron en la aventura esta, a los
-
 docentes que me formaron en la carrera
-
 profesional, al esfuerzo incansable de mí
-
 madre y mis hermanos y a la compañía
-
 de mí compañera de espacio.
-                                             ÍNDICE
 
+ÍNDICE
 RESUMEN...................................................................................................... 10
-
 ABSTRAC ...................................................................................................... 10
-
 INTRODUCIÓN ............................................................................................ 13
-
 CAPÍTULO I: PROBLEMA, ANTECEDENTES Y OBJETIVOS DE LA
-
 INVESTIGACIÓN ......................................................................................... 15
-
 1.1.PROBLEMA .............................................................................................. 16
+1.1.1.
 
-      1.1.1.       Planteamiento del Problema ...................................................... 16
-      1.1.2.       Formulación de Problema .......................................................... 16
-   1.2.      ANTECEDENTES DE LA INVESTIGACIÓN ............................... 17
-   1.3.      OBJETIVOS DE LA INVESTIGACIÓN ......................................... 19
-      1.3.1.       OBJETIVO GENERAL ............................................................. 19
-      1.3.2.       OBJETIVOS ESPECÍFICOS .................................................... 19
+Planteamiento del Problema ...................................................... 16
+
+1.1.2.
+
+Formulación de Problema .......................................................... 16
+
+1.2.
+
+ANTECEDENTES DE LA INVESTIGACIÓN ............................... 17
+
+1.3.
+
+OBJETIVOS DE LA INVESTIGACIÓN ......................................... 19
+
+1.3.1.
+
+OBJETIVO GENERAL ............................................................. 19
+
+1.3.2.
+
+OBJETIVOS ESPECÍFICOS .................................................... 19
+
 CAPÍTULO II: MARCO TEÓRICO, MARCO CONCEPTUAL E
-
 HIPÓTESIS DE LA INVESTIGACIÓN ..................................................... 20
+2.1.
 
-   2.1.      MARCO TEÓRICO .......................................................................... 21
-      2.1.1.       Fisiología del Sistema Nervioso ................................................ 21
-      2.1.2.       Sistema Muscular Anatomía del Perro ...................................... 22
-      2.1.2.1. Músculos Superficiales del Perro............................................... 24
-      2.1.3.       Miastenia Gravis Adquirida en Canes Domésticos ................... 25
-      2.1.4.       Fisioterapia Canina .................................................................... 25
-      2.1.4.1. Electro Estimulación el Canes Domésticos ............................... 28
-      2.1.5.       La Onda Eléctrica ...................................................................... 30
-      2.1.5.1. Elementos de Una Onda............................................................. 30
-      2.1.6.       Tipos de Onda ............................................................................ 32
-      2.1.6.1. Onda Cuadrada........................................................................... 32
-      2.1.6.2. Onda Triangular ......................................................................... 33
-      2.1.6.3. Onda Sinusoidal ......................................................................... 34
- 2.2.    MARCO CONCEPTUAL ................................................................. 35
-   2.2.1.      Electro Terapia ........................................................................... 35
-   2.2.2.      Electroanalgesia ......................................................................... 35
-   2.2.3.      Histología ................................................................................... 36
-   2.2.4.      Corriente Farádica ...................................................................... 36
-   2.2.5.      Cronaxia ..................................................................................... 37
-   2.2.6.      Elongación (Física) .................................................................... 38
-   2.2.7.      Oscilación .................................................................................. 38
-   2.2.8.      SlewRate .................................................................................... 39
-   2.2.9.      Simuladores de Circuitos Electrónicos ...................................... 39
-   2.2.10. Configuración Astable ............................................................... 40
-   2.2.11. Transformador............................................................................ 40
- 2.3.    HIPÓTESIS DE LA INVESTIGACIÓN .......................................... 42
-   2.3.1.      FORMULACIÓN DE LA HIPÓTESIS..................................... 42
-   2.3.1.1. HIPOTESIS ESPECIFICAS ...................................................... 42
-   2.3.1.2. VARIABLES DE ESTUDIO E INDICADORES ..................... 43
+MARCO TEÓRICO .......................................................................... 21
+
+2.1.1.
+
+Fisiología del Sistema Nervioso ................................................ 21
+
+2.1.2.
+
+Sistema Muscular Anatomía del Perro ...................................... 22
+
+2.1.2.1. Músculos Superficiales del Perro............................................... 24
+2.1.3.
+
+Miastenia Gravis Adquirida en Canes Domésticos ................... 25
+
+2.1.4.
+
+Fisioterapia Canina .................................................................... 25
+
+2.1.4.1. Electro Estimulación el Canes Domésticos ............................... 28
+2.1.5.
+
+La Onda Eléctrica ...................................................................... 30
+
+2.1.5.1. Elementos de Una Onda............................................................. 30
+2.1.6.
+
+Tipos de Onda ............................................................................ 32
+
+2.1.6.1. Onda Cuadrada........................................................................... 32
+2.1.6.2. Onda Triangular ......................................................................... 33
+2.1.6.3. Onda Sinusoidal ......................................................................... 34
+
+2.2.
+
+MARCO CONCEPTUAL ................................................................. 35
+
+2.2.1.
+
+Electro Terapia ........................................................................... 35
+
+2.2.2.
+
+Electroanalgesia ......................................................................... 35
+
+2.2.3.
+
+Histología ................................................................................... 36
+
+2.2.4.
+
+Corriente Farádica ...................................................................... 36
+
+2.2.5.
+
+Cronaxia ..................................................................................... 37
+
+2.2.6.
+
+Elongación (Física) .................................................................... 38
+
+2.2.7.
+
+Oscilación .................................................................................. 38
+
+2.2.8.
+
+SlewRate .................................................................................... 39
+
+2.2.9.
+
+Simuladores de Circuitos Electrónicos ...................................... 39
+
+2.2.10. Configuración Astable ............................................................... 40
+2.2.11. Transformador............................................................................ 40
+2.3.
+
+HIPÓTESIS DE LA INVESTIGACIÓN .......................................... 42
+
+2.3.1.
+
+FORMULACIÓN DE LA HIPÓTESIS..................................... 42
+
+2.3.1.1. HIPOTESIS ESPECIFICAS ...................................................... 42
+2.3.1.2. VARIABLES DE ESTUDIO E INDICADORES ..................... 43
 CAPÍTULO III: METODOLOGÍA Y DISEÑO DE INGENIERÍA ........ 44
+3.1.
 
- 3.1.    METODOLOGÍA DE LA INVESTIGACIÓN................................. 45
-   3.1.1.      TIPO DE INVESTIGACIÓN .................................................... 45
-   3.1.2.      TÉCNICAS: ............................................................................... 45
-   3.1.3.      INSTRUMENTOS:.................................................................... 45
- 3.2.    DISEÑO DE INGENIERÍA .............................................................. 46
-   3.2.1 ECUACIONES OBTENERFRECUENCIAS MAXIMA Y
-   MINIMA PARA EL DISEÑO DEL CIRCUITO DEL DISPOSITIVO .. 46
-   3.2.1.1. DISEÑO DEL GENERADOR DE PULSOS ............................ 47
-   3.2.2. OPCIONES DE CONFIGURACIONES DE CIRCUITOS
-   APLIFICADORES PARA CUMPLIR CON LOS REQUERIMIENTOS
-   DEL DISEÑO ........................................................................................... 48
-   3.2.2.1. DISEÑO DEL CIRCUITO AMPLIFICADOR ......................... 49
-   3.2.3. OPCIONES PARA LA AMPLIFICACION DE LA SEÑAL
-   SEGÚN LOS REQUERIMIENTOS DE DISEÑO .................................. 51
-   3.2.3.1. AMPLIFICACIÓN DE LA SEÑAL DE SALIDA .................... 52
-   3.2.4.      ELECTRODOS.......................................................................... 52
-   3.2.4.1. ELECTRODOS SUPERFICIALES........................................... 53
-      3.2.5.        OPCIONES DE DISEÑO DE FUENTES DE ALIMENTACIÓN
-                    54
-      3.2.5.1. DISEÑO DE LA FUENTE ALIMENTACIÓN SIMÉTRICA .. 54
-CAPÍTULO                 IV:         CARACTERIZACIÓN                              DEL           ÁREA             DE
+METODOLOGÍA DE LA INVESTIGACIÓN................................. 45
+
+3.1.1.
+
+TIPO DE INVESTIGACIÓN .................................................... 45
+
+3.1.2.
+
+TÉCNICAS: ............................................................................... 45
+
+3.1.3.
+
+INSTRUMENTOS:.................................................................... 45
+
+3.2.
+
+DISEÑO DE INGENIERÍA .............................................................. 46
+
+3.2.1
+ECUACIONES OBTENERFRECUENCIAS MAXIMA Y
+MINIMA PARA EL DISEÑO DEL CIRCUITO DEL DISPOSITIVO .. 46
+3.2.1.1. DISEÑO DEL GENERADOR DE PULSOS ............................ 47
+3.2.2. OPCIONES DE CONFIGURACIONES DE CIRCUITOS
+APLIFICADORES PARA CUMPLIR CON LOS REQUERIMIENTOS
+DEL DISEÑO ........................................................................................... 48
+3.2.2.1. DISEÑO DEL CIRCUITO AMPLIFICADOR ......................... 49
+3.2.3. OPCIONES PARA LA AMPLIFICACION DE LA SEÑAL
+SEGÚN LOS REQUERIMIENTOS DE DISEÑO .................................. 51
+3.2.3.1. AMPLIFICACIÓN DE LA SEÑAL DE SALIDA .................... 52
+3.2.4.
+
+ELECTRODOS.......................................................................... 52
+
+3.2.4.1. ELECTRODOS SUPERFICIALES........................................... 53
+
+3.2.5.
+
+OPCIONES DE DISEÑO DE FUENTES DE ALIMENTACIÓN
+54
+
+3.2.5.1. DISEÑO DE LA FUENTE ALIMENTACIÓN SIMÉTRICA .. 54
+CAPÍTULO
+
+IV:
+
+CARACTERIZACIÓN
+
+DEL
+
+ÁREA
+
+DE
 
 INVESTIGACIÓN ......................................................................................... 57
+4.1.
 
-   4.1.      ÁREA DE ESTUDIO........................................................................ 58
+ÁREA DE ESTUDIO........................................................................ 58
+
 CAPÍTULO V: EXPOSICIÓN Y ANÁLISIS DE LOS RESULTADOS
-
 DE INVESTIGACIÓN .................................................................................. 60
-
-   5.1.      CONTRASTACIÓN DE LA HIPÓTESIS ....................................... 61
-      5.1.1. PRUEBAS DEL DISEÑO POR ETAPAS DEL DISPOSITIVO
-      DE ELECTRO ESTIMULACIÓN ........................................................... 61
-      5.1.2. DISPOSITIVO          DE             ELECTRO                   ESTIMULACIÓN
-      IMPLEMENTADO .................................................................................. 63
-   5.2. PRUEBAS DEL DISPOSITIVO Y EXPERIMENTOS CON
-   PACIENTES CON ATROFIA NEUROMUSCULAR ............................... 65
-      5.2.1.        Experimento N°1: Prueba del Dispositivo en laboratorio ......... 65
-      5.2.2. Experimento N°2: Prueba con el Cadáver de un Can Doméstico
-      (Perro) en los Laboratorios de la Facultad de Medicina Veterinaria y
-      Zootecnia .................................................................................................. 66
-      5.2.3. Experimento N°3: Probar que el Can Doméstico (Perro) Tolere
-      los Pulsos del Electro Estimulador ........................................................... 67
-      5.2.4. Experimento N°4: Se Aplicó el Dispositivo de Electro
-      Estimulación a un Felino Doméstico (Gato) ............................................ 69
-      5.2.5. Experimento N°5: Se Aplicó el Dispositivo de Electro
-      Estimulación a un Paciente con Atrofia Muscular por Causa de Accidente
-      Vehicular .................................................................................................. 70
-      5.2.6. Experimento N°6:Se Aplicó el Dispositivo de Electro
-      Estimulación a un Paciente con Parálisis Completa de sus miembros
-      Inferiores ................................................................................................... 74
-CONCLUSIONES.......................................................................................... 75
-
-RECOMENDACIONES ............................................................................... 77
-
-BIBLIOGRAFÍA............................................................................................ 78
-
-ANEXOS ......................................................................................................... 80
-                          ÍNDICE DE FIGURAS
-
-Figura N°1: Diferentes tipos estructurales de neuronas ................................... 22
-
-Figura N°2: Músculos Superficiales del Perro ................................................ 24
-
-Figura N°3: Onda Cuadrada Par ...................................................................... 32
-
-Figura N°4: Onda Triangular ........................................................................... 33
-
-Figura N°5: Onda Sinusoidal ........................................................................... 34
-
-Figura N°6: Circuito Esquemático del Generador de Pulsos y
-
-Amplificador Acoplados. ............................................................................... 51
-
-Figura N°7: Pulso Cuadrada de Entrada al Transformador y Pulso
-
-Farádico a la salida del mismo. ..................................................................... 52
-
-Figura N°8: Par de Electrodos Superficiales ............................................... 53
-
-Figura N°9: Circuito Esquemático de la Fuente Simétrica ........................ 56
-
-Figura N°10: Universidad Nacional del Altiplano Puno ................................. 58
-
-Figura N°11: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial
-
-plaza Jr. Tacna cuadra 1 ................................................................................... 59
-
-Figura N°12: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial
-
-plazaJr. Tacna cuadra 1 .................................................................................... 59
-
-Figura N°13: Pulsos generados por el 555, preestablecido ............................. 62
-
-Figura N°14: Pulsos generados por el 555, preestablecido ............................. 62
-
-Figura N°15: Onda farádica, generada por la amplificación del transformador,
-
-trabajando a 69Hz. ........................................................................................... 63
-
-Figura N°16: Instrumentos del Laboratorio de la Escuela Profesional de
-
-Ingeniería Electrónica ...................................................................................... 64
-
-Figura N°17: Dispositivo de Electro Estimulación implementado .................. 64
-Figura N°18: Pruebas realizadas para verificar que el dispositivo no cause
-
-molestia. ........................................................................................................... 65
-
-Figura N°19: Paciente de prueba 01, con frecuencia de electro estimulación de
-
-64Hz. ................................................................................................................ 68
-
-Figura N°20: Paciente de prueba 01, con frecuencia de electro estimulación de
-
-84Hz a 104Hz. ................................................................................................. 68
-
-Figura N°21: Paciente de prueba 01, con frecuencia de electro estimulación de
-
-114Hz. .............................................................................................................. 69
-
-Figura N°22: Paciente con atrofia muscular, presenta perdida de un 30% de
-
-fuerza muscular en la extremidad inferior derecha .......................................... 71
-
-FiguraN°23: Zonas donde se situaran los electrodos rasurados para un mejor
-
-contacto ............................................................................................................ 72
-
-Figura N°24: Paciente preparado para la terapia de Electro Estimulación ...... 72
-
-Figura N°25: Paciente recibiendo la terapia de Electro Estimulación en el
-
-musculo atrofiado............................................................................................. 73
-                      ÍNDICE DE TABLAS
-
-Tabla N°1: Rangos y Tiempos de Aplicación del Electro Estimulador .......... 29
-
-Tabla N°2: Variables Independientes y Dependientes..................................... 43
-
-Tabla N°3: Ficha de registro de datos y observaciones N°1............................ 66
-
-Tabla N°4: Ficha de registro de datos y observaciones N°2............................ 67
-
-Tabla N°5: Ficha de registro de datos y observaciones N°3............................ 70
-
-Tabla N°6: Ficha de registro de datos y observaciones N°4............................ 73
-
-Tabla N°7: Ficha de registro de datos y observaciones N°5............................ 74
-                            RESUMEN
-El presente proyecto se basa en el diseño y la implementación de un Electro
-
-Estimulador, dispositivo biomédico de asistencia desarrollado para tratar
-
-músculos atrofiados en canes domésticos, provocados por accidentes
-
-generalmente o por trastorno neurológico. El        proyecto es un trabajo
-
-multidisciplinario que compete a la Facultad de Medicina Veterinaria y
-
-Zootecnia y a la Escuela Profesional de Ingeniería Electrónica. Tomando
-
-previos antecedentes como guía 2010 Pontificia Universidad Católica del
-
-Perú, 2008 Instituto Tecnológico de Mérida (Yucatán – México) y 2008
-
-Universidades Politécnica Salesiana (Cuenca – Ecuador).
-
-
-El dispositivo final implementado consta de tres etapas, primera etapa un
-
-generador de pulsos, segunda etapa un sistema de amplificación y tercera
-
-etapa una fuente simétrica. El dispositivo genera un impulso en corriente o
-
-voltaje adecuado, usamos pulsos bifásicos rectangulares modulando la
-
-frecuencia de dichos pulsos para que pueda contraer y relajar el musculo
-
-atrofiado.Las fórmulas y conceptos que se usaron dentro de este proyecto
-
-fueron para calcular valores de los materiales para trabajar con el LM555N y
-
-obtener frecuencias mínima 64Hz y máxima 114Hz deseadas, para la etapa de
-
-amplificación usamos transistores BD139 y BD140, para la alimentación una
-
-fuente simétrica de ±10v.
-
-
-Con el dispositivo implementado se hizo pruebas en la facultad de Veterinaria
-
-y la clínica veterinaria Sebisvet comprobando que el dispositivo no genere
-
-daño o dolor alguno en futuros pacientes con tratamiento de electro
-
-
-
-                                                                          10
-estimulación, con resultados favorables en canes y felinos domésticos,
-
-logrando el objetivo de diseñar e implementar un Electro Estimulador
-
-económico, portátil y de fácil manejo.
-
-
-Palabras clave:Biomédico, atrofiados, multidisciplinario, impulso, bifásico.
-
-
-
-
-                                                                               11
-                              ABSTRAC
-This project is based on the design and implementation of an Electro
-
-Stimulator biomedical assistive device developed to treat atrophied muscles in
-
-domestic dogs, usually caused by injury or neurological disorder. The project
-
-is a multidisciplinary task that falls to the Faculty of Veterinary Medicine and
-
-the Professional School of Electronic Engineering. Taking previous history
-
-guide 2010 Pontifical Catholic University of Peru, 2008 Technological
-
-Institute of Mérida (Yucatán - Mexico) and 2008 Salesian Polytechnic
-
-University (Cuenca - Ecuador).
-
-
-The terminal implemented in three stages, the first stage of a pulse generator, a
-
-system of second stage and third stage amplification symmetric source. The
-
-device generates a pulse appropriate voltage or current, use rectangular
-
-biphasic pulses modulating the frequency of those pulses that can contract and
-
-relax the muscle atrophied. The formulas and concepts used in this project
-
-were to calculate values of materials to work with and get LM555N low
-
-frequencies 64Hz and 114Hz maximum desired, for amplification step BD139
-
-and BD140 transistors used for feeding a symmetric source of ± 10V.
-
-
-With the implemented test device was on the faculty of veterinary medicine
-
-and veterinary clinic Sebisvet checking that the device does not generate any
-
-harm or pain in future treatment of patients with electro stimulation, with
-
-favorable results in dogs and domestic cats, achieving the goal of designing
-
-Electro Stimulation and implement an inexpensive, portable and easy to use.
-
-
-Keywords: Biomedical, atrophied, multidisciplinary, pulse biphasic.
-
-
-
-                                                                              12
-                       INTRODUCCIÓN
-
-El electro estimulador o estimulador eléctrico funcional, es un dispositivo
-
-biomédico de asistencia en el desarrollo de fortalecimiento muscular, firmeza
-
-muscular, fuerza y resistencia, entre otros diferentes fines a los cuales se va
-
-dirigiendo el uso del electro estimulador, como en este caso tomado para
-
-restaurar funciones motoras perdidas aplicando el dispositivo para un
-
-tratamiento de rehabilitación alternativa o en casos especiales como único
-
-medio de tratamiento, dicho dispositivo en el presente trabajo se orienta ya no
-
-a la asistencia a humanos si no a la asistencia de animales menores, en este
-
-caso a los perros, lo cual marca una brecha importante puesto que los humanos
-
-tenemos la conciencia de reconocer que nuestro cuerpo ha sufrido algún tipo
-
-de daño, para lo cual necesitamos rehabilitarnos y por consiguiente decidimos
-
-hacerlo o no, lo cual en nuestras mascotas no se da la pregunta de si necesitan
-
-rehabilitarse o no, y luego como lo harán, puesto que carecen del nivel de
-
-discernimiento del cual contamos los humanos.
-
-
-Actualmente pocos centros veterinarios en el Perú cuentan con dispositivos de
-
-estimulación eléctrica para rehabilitación de deficiencias neurológicas
-
-generadas por enfermedades propias de los canes o por accidentes físicos y
-
-dentro de nuestra Región Puno no se cuenta con tales dispositivos, esto
-
-ocasiona oportunidades poco favorables de obtener una buena rehabilitación
-
-para darles una buena calidad de vida a los canes domésticos que sufran
-
-dichos males.
-
-
-El estimulador genera un estímulo en corriente o voltaje, adecuado y tolerable
-
-para la activación neuromuscular mediante pulsos bifásicos rectangulares con
-
-                                                                            13
-modulación o con patrones de n-pulsos así fijando la frecuencia y la amplitud
-
-de dichos pulsos que contraerán y relajarán los músculos tratados para que
-
-estos puedan recuperar su capacidad motora, fortaleciendo el musculo
-
-afectado.
-
-
-Para poder diseñar el electro estimulador es necesario realizar cálculos
-
-matemáticos para obtener los valores de nuestros componentes electrónicos a
-
-utilizar en la construcción de este, dichos cálculos son para obtener los rangos
-
-de trabajo deseados del generador para así no dañar la integridad del paciente
-
-y pueda recibir pulsos que pueda tolerar su cuerpo.
-
-
-El electro estimulador ya implementado cuenta con tres circuitos para el
-
-funcionamiento de este. Uno, el circuito de una fuente de alimentación
-
-simétrica de 12v o 10v que brinda carga positiva y negativa necesaria para los
-
-pulsos de salida del dispositivo final y con una fuente variable podremos
-
-variar amplitud de carga. Dos, el circuito de un generador de ondas
-
-rectangulares que variaran la frecuencia con las que se mandaran los pulsos.
-
-Tres, un circuito de amplificador con terminal final los electrodos. El
-
-dispositivo de Electro Estimulación ya implementado es portátil, de fácil
-
-manejoy bajo costo.
-
-
-
-
-                                                                             14
-    CAPÍTULO I: PROBLEMA,
-ANTECEDENTES Y OBJETIVOS DE LA
-       INVESTIGACIÓN
-
-
-
-
-                             15
-1.1. PROBLEMA
-
-1.1.1. Planteamiento del Problema
-
-
- La discapacidad del libre movimiento es la incapacidad que tienen algunos
-
- canes domésticos (perros), para poder moverse o correr con soltura, las
-
- cuales son facultades propias de una mascota. Las causas de ésta son
-
- variadas. Las más comunes son por causa de artrosis, displasia o problemas
-
- neurológicos causados por accidentes físicos, las cuales afectan los músculos
-
- o articulaciones en las extremidades de algunos animales menores.
-
-
- Los accidentes físicos causan atrofia muscular, queimpide la función parcial
-
- o total de uno o varios miembros en una mascota, lo cual imposibilitara su
-
- libre movimiento y por consiguiente una buena calidad de vida, para esto
-
- requiere de manera complementaria o en algunos casos como único medio de
-
- tratamiento,la electro terapia, estos traumas por accidentes en la ciudad de
-
- Puno son del 3.58%( frecuencia de presentación de la casuística de la clínica
-
- veterinaria Sebisvet 2009- 2012).
-
-
- Dentro de la ciudad de Puno las clínicas veterinarias no cuentan con
-
- servicios que presten rehabilitación pasivas en las mascotas que presentan
-
- estos daños en su fisiología.
-
-
-1.1.2. Formulación de Problema
-
-
- ¿Cómo podemos realizar el tratamiento de problemas Neurológicos en canes
- Domésticos de la ciudad de Puno?
-
-
-
-
-                                                                           16
-1.2. ANTECEDENTES DE LA INVESTIGACIÓN
-
-   1. En agosto de 2010 se presentó el trabajo de fin de carrera “Diseño de
-
-      un estimulador eléctrico funcional para rehabilitación física en
-
-      miembros distales superiores con disfunción motriz” en la Pontificia
-
-      Universidad Católica del Perú - facultad de ciencias e ingeniería.
-
-      (Manuel Zapata, 2010)
-
-   2. En el 2008 se presentó el trabajo de fin de carrera“Diseño y
-
-      construcción de un electro estimulador clínico para fisioterapia y
-
-      rehabilitación con cuatro módulos de aplicación” en la Universidad
-
-      Politécnica Salesiana – Facultad de Ingenierías Carrera de Ingeniería
-
-      Electrónica –Ecuador.(Freddy Bueno y Cristian Heredia, 2008)
-
-   3. En el 2008 se presentó el trabajo de fin de carrera “Diseño de un
-
-      dispositivo generador de corrientes interferenciales para el tratamiento
-
-      de patologías de origen muscular y circulatorio” en el Instituto
-
-      Tecnológico de Mérida - México.(Álvaro Cortes, 2008)
-
-   4. El 28 de Octubre de 2008 se presentó el artículo titulado “Sistema
-
-      Muscular. Anatomía del Perro” en el website Enciclopedia de los
-
-      Animales.(Miguel Schweiz, 2008)
-
-   5. En el 2000 se presentó el artículo “Miastenia Gravis Adquirida en
-
-      Caninos Domésticos” para el Hospital para Pequeñas Especies.
-
-      Departamento de Medicina y Zootecnia para Pequeñas Especies para
-
-      el Departamento de patología. Facultad de Medicina Veterinaria y
-
-      Zootecnia, Universidad Nacional Autónoma de México, D.F.(Marite
-
-      Gonzáles y Francisco Trigo, 2000)
-
-
-
-
-                                                                           17
-6. Actualmente podemos encontrar el artículo titulado “Terapias
-
-   alternativas en la rehabilitación de nuestras mascotas” en el website de
-
-   Dr. Robert, Hospital Veterinario.(Oscar Robert, 2007)
-
-7. Actualmente      podemos       encontrar     el    artículo     titulado
-
-   “Electroestimulacióneb     Perros,    Electroestimulación     para    la
-
-   Potenciación Muscular” en el websiteOrtocanis. (Disponible en
-
-   internet en: www.ortocanis.com– Fecha de acceso mayo 2014)
-
-
-
-
-                                                                        18
-1.3. OBJETIVOS DE LA INVESTIGACIÓN
-
-1.3.1. OBJETIVO GENERAL
-
-
- Diseñar e implementar un electro estimulador para tratamiento de problemas
-
- Neurológicos en canes domésticos de la ciudad de Puno.
-
-
-1.3.2. OBJETIVOS ESPECÍFICOS
-
-   1. Diseñar un generador de ondas cuadradas con frecuencias variables
-
-       preestablecidas y cuyas duraciones de pulso sean variables en rangos
-
-       preestablecidos.
-
-   2. Diseñar e implementar un circuito de adaptación de señal que le
-
-       transmita de manera segura ésta al paciente las cargas a través de
-
-       electrodos superficiales.
-
-   3. Conseguir la recuperación completa o parcial de pacientes a tratar
-
-       (canino).Con problemas Neurológicos de la ciudad de Puno.
-
-   4. Implementar un Electro Estimulador para canes.
-
-
-
-
-                                                                         19
- CAPÍTULO II: MARCO TEÓRICO,
-
-MARCO CONCEPTUAL E HIPÓTESIS
-
-    DE LA INVESTIGACIÓN
-
-
-
-
-                               20
-2.1. MARCO TEÓRICO
-
-2.1.1. Fisiología del Sistema Nervioso
-
-
- El sistema nervioso del perro dividido en dos por el sistema nervioso central
-
- (SNC) el cual incluye al encéfalo ( Cerebro, cerebelo y el tronco del
-
- encéfalo) y la médula espinal .y por el sistema nervioso periférico, formado
-
- por nervios craneales, espinales y nervios específicos.
-
-
- A nivel anatómico-funcional el sistema nervioso           se divide en sistema
-
- nervioso somático el cuál se encarga de las funciones voluntarias en el
-
- organismo (tacto, olor, movimiento muscular etc.) y en el sistema nervioso
-
- autónomo o vegetativo (Simpático y para simpático), cuya característica es la
-
- de regular las funciones involuntarias del organismo, como lo son el latido
-
- del corazón, funciones viscerales, movimiento intestinal etc. Su unidad
-
- celular es la neurona cuya función principal es la de enviar (Células
-
- motoras)y de recibir (Células sensitivas) estímulos a través de las fibras
-
- nerviosas.
-
-
- Las funciones del SN a nivel fisiológico en el organismo del perro, son tres,
-
- la sensitiva (Función sensitiva) mediante los sentidos del gusto, el olfato, la
-
- audición, el tacto y la vista, de tal manera que las señales recibidas del
-
- exterior son captadas y procesadas (función procesadora) por los receptores
-
- del SNC, el cerebro, el cerebelo y la médula espinal y ser transmitidas
-
- mediante impulsos efectores hacia los músculos esqueléticos (Función
-
- motora).
-
-
- En el sistema nervioso pues, se reúne, transporta, integra y disemina la
-
- información por medio de impulsos nerviosos eléctricos a través de las redes
-
-                                                                             21
- nerviosas central y periférica. Las funciones del SN en el perro son variadas
-
- pero podemos decir en términos prácticos que su responsabilidad es permitir
-
- que el organismo sea capaz de reaccionar adecuadamente a los cambios que
-
- se produzcan en su entorno, adaptarse a él y poder sobrevivir.(Disponible en
-
- internet en: www.crianzacanina.com– Fecha de acceso: mayo2014)
-
-
-
-
-                Figura N°1: Diferentes tipos estructurales de neuronas.
-                       Fuente: El portal del criador doméstico.
-
-
-
-
-2.1.2. Sistema Muscular Anatomía del Perro
-
-
- Los músculos se fijan a los huesos por medio de los tendones que poseen un
-
- color blanco madreperla y son muy resistentes pero nada elásticos. Los
-
- músculos voluntarios se denominan estriados y se da el nombre de
-
- musculatura lisa a los músculos cuyo movimiento no está dirigido por la
-
- voluntad. Esta diferencia se debe a la naturaleza histiológica de esas
-
- estructuras.
-
-                                                                           22
-Los músculos causan la movilidad de las articulaciones óseas al contraerse y
-
-dilatarse, originando de esta manera el movimiento. Pero los músculos tienen
-
-también otras funciones: los que unen las costillas entre sí, por ejemplo,
-
-desarrollan un papel activo en la inspiración, mientras que la expiración, por
-
-el contrario, sucede pasivamente.
-
-
-Otros músculos no actúan sobre los huesos pero sirven para abrir y cerrar los
-
-esfínteres naturales.
-
-
-Por los tanto, todos los movimientos efectuados, voluntarios o no, ponen en
-
-juego cierto número de músculos. Estos son de varios tipos:
-
-
-Los músculos estriados, responsables de los movimientos voluntarios del
-
-esqueleto, de los globos oculares y de la lengua.
-
-
-Los músculos lisos, responsables de los movimientos involuntarios de las
-
-vísceras.
-
-
-El músculo cardíaco, con una estructura semejante a la del músculo estriado
-
-pero con un funcionamiento idéntico al músculo liso.
-
-
-El cuerpo comprende alrededor de 400 músculos estriados, lo que representa
-
-el 40 a 60 % del peso corporal. De manera general, estos músculos se
-
-insertan en las piezas óseas por medio de tendones.(Miguel Schweiz. 2008)
-
-
-
-
-                                                                           23
-2.1.2.1. Músculos Superficiales del Perro
-
-
-
-
-                      Figura N°2: Músculos Superficiales del Perro
-                  Fuente: SCHWEIZ, Miguel. Enciclopedia de Animales.
-
-
-
-
-1. Glándula parótida                           18. M. intercostales externos
-2. Glándula mandibular                         19. M. pectoral ascendente
-3. M. braquiocefálico                          20. M. flexor del carpo
-4. M. esternocefalico                          21. M. extensor del carpo
-5. M. trapecio                                 22. M. extensor de los dedos
-6. M. dorsal ancho                             23. M. extensor del carpo
-7. Músculos abdominales                        24. M. bíceps braquial
-8. M. glúteo                                   25. M. pectorales
-9. Músculos de la cola                         26. M. tríceps braquial
-10. M. tensor de la fascia lata                27. M. deltoides
-11. M. bíceps femoral                          28. M. hioides
-12. M. semitendinoso                           29. M. orbicular de la boca
-13. M. gastrocnemio                            30. M. cigomático
-14. M. flexor de los dedos                     31. M. elevador nasolabial
-15. Tendón calcáneo común                      32. M. masetero
-16. M. extensor largo del dedo                 33. M. orbicular del ojo
-17. M. tibial craneal                          34. M. temporal.
-
-                                                                               24
-2.1.3. Miastenia Gravis Adquirida en Canes Domésticos
-
-
- La Miastenia Gravis es una neuropatía caracterizada por la deficiencia o falla
-
- en la transmisión neuromuscular. Clínicamente se caracteriza por una
-
- debilidad muscular que empeora con el ejercicio y disminuye con el
-
- descanso, o con la administración de fármacos anticolinesterasas. Es común
-
- observar un decremento en la amplitud de los potenciales de acción posterior
-
- a la estimulación nerviosa repetitiva. Esta enfermedad es de atribución
-
- mundial y se ha descrito en perros, muy rara vez en perros y también en los
-
- humanos.(Marite Gonzáles y Francisco Trigo, 2000)
-
-
-2.1.4. Fisioterapia Canina
-
-
- Antes de cualquier tratamiento, se realiza una evaluación y un examen
-
- detallados. Idealmente, se debe aportar un diagnóstico de un veterinario.
-
- Según los resultados de la evaluación, se fiarán objetivos y los métodos
-
- terapéuticos adecuados para cada caso, siempre con el máximo cuidado.
-
-
- Se trata de técnicas que tienen por objetivo recuperar la función de la masa
-
- muscular, el movimiento normal, la fuerza, reducir el dolor, la inflamación y
-
- acelerar el proceso de rehabilitación, podemos mencionar los siguientes
-
- tratamientos:(Ellen Mitschke, 2000)
-
-
-       Masaje descontracturante o de tonificación muscular. A través de
-
-        un masaje suave se consigue aumentar el riego sanguíneo del tejido
-
-        conectivo, reduciendo así la contractura y la hipertensión muscular, lo
-
-        que se traduce en menos dolor. Mientras que mediante un masaje más
-
-        fuerte y vigoroso, lo que se consigue es incrementar el tono muscular
-
-
-
-
-                                                                            25
-    y estimularlos músculos, por ejemplo, después de una parálisis.
-
-    Además, los masajes tienen un efecto calmante sobre perros
-
-    nerviosos, y les ayuda a mejorar su capacidad de auto curación.
-
-   Terapias de frío y calor. Con bolsas o packs calientes se consigue
-
-    reducir el dolor y relajar los músculos. La aplicación de frío sirve
-
-    para reducir la inflamación, y se puede aplicar conjuntamente con
-
-    árnica para un mayor efecto.
-
-   Movimientos pasivos y estiramientos. Mediante técnicas de
-
-    tracción y de movimientos pasivos se consigue recuperar el
-
-    movimiento de una articulación que tiene un tono muscular limitado.
-
-    Se emplea en casos de accidentes, cirugías o enfermedades
-
-    degenerativas, y se consigue recuperar la flexibilidad y la
-
-    coordinación.
-
-   Terapia manual ortopédica. Tiene efectos similares a los
-
-    movimientos pasivos y estiramientos, pero está especialmente
-
-    indicado para las articulaciones, para mejorar su rango de
-
-    movimientos y frenar los procesos degenerativos, ya que ayuda a la
-
-    correcta creación de líquido sinovial.
-
-   Drenaje linfático. A través de una manipulación suave y ondulada se
-
-    activa la circulación linfática, el sistema inmunológico del cuerpo, lo
-
-    que ayuda a reducir edemas (inflamación) de diferentes orígenes, así
-
-    como reducir dolor. Esta técnica es útil para aliviar problemas como
-
-    hipertonía muscular o para el tratamiento de cicatrices.
-
-   Tratamientos neurológicos / parálisis. El principal objetivo es
-
-    fomentar la recuperación de las funciones corporales limitadas,
-
-
-
-                                                                        26
-    ejercitar reflejos y patrones, y mantener o fortalecer los músculos.
-
-    Engloba una amplia gama de técnicas terapéuticas, como el masaje
-
-    estimulante,         ejercicios     de    estabilización,      electroterapia,
-
-    hidroterapia..., que se aplican en caso de hernias, síndrome de cauda-
-
-    equina,      lesiones     neurológicas,     después     de     cirugía   para
-
-    rehabilitación,...
-
-   Vibrosphere. Combina vibración y equilibrio, lo cual ayuda a
-
-    estimular las funciones corporales, y el metabolismo de los músculos,
-
-    vasos sanguíneos y sistema linfático, mejorando la resistencia. Sirve
-
-    para tratamientos neurológicos, rehabilitación después de cirugía, y
-
-    para perros de avanzada edad, ayudándolos a mantener la fuerza
-
-    muscular y la coordinación.
-
-   Láser terapia / Láser acupuntura. Para estimular puntos de
-
-    acupuntura o tratar lesiones de piel tras la cirugía.
-
-   Tratamientos de campo magnético. Sirve para calmar perros
-
-    nerviosos, especialmente durante el primer tratamiento, o para
-
-    estimular a perros débiles, y se usa principalmente para asistir a otro
-
-    métodos
-
-   Electroterapia,                   Ultrasonido,              Electroanalgesia,
-
-    Electroestimulación. Para reducir dolor, inflamación, procesos
-
-    inflamatorios, estimular/activar músculos o nervios, incrementar el
-
-    aporte sanguíneo a la zona lesionada, asistir al tratamiento de tejido
-
-    conectivo.
-
-
-
-
-                                                                               27
-2.1.4.1. Electro Estimulación el Canes Domésticos
-
-
- La electroestimulación es una herramienta muy útil para potenciar la
-
- musculatura de un perro que ha sufrido una lesión o intervención quirúrgica
-
- y como resultado sufra atrofia muscular.
-
-
- Podemos utilizar corriente eléctrica para estimular la musculatura,
-
- potenciarla y hacerla trabajar. Está especialmente indicada en casos de
-
- atrofia muscular, y sobretodo en casos en que el perro no puede hacer trabajo
-
- activo. Si el perro puede hacer trabajo activo la electroterapia será un apoyo,
-
- nunca la principal fuente de trabajo.
-
-
- La forma del impulso que utilizaremos será la Rectangular, bifásica simétrica
-
- como indican los principales autores: ThepautMathieu 1992, Kramer 1984,
-
- Bircan 2002.
-
-
- Los aparatos de electroestimulación humana se pueden adaptar para
-
- electroestimular perros sin demasiados problemas, pero nos debemos
-
- asegurar que podemos variar las frecuencias, y sobretodo las amplitudes del
-
- impulso eléctrico para adaptarse bien a las características propias del perro.
-
-
- No hay buenos estudios de Cronaxia en perros, los valores aproximados son
-
- de 0.3 humana, 0.2 Caballos y en perros por estudios de menos calado
-
- intuyen valores similares;Sawaya - Meallier 2006, Brodart 1998, Coarasa
-
- 1999.
-
-
- La Intensidad según Hultaman 1983, y Ogino 2002 debe ser elevada con
-
- contracción visible, sin llegar al límite del dolor pero si de la molestia. El
-
-
-
-
-                                                                              28
- perro debe soportar de forma confortable la sesión pero la musculatura debe
-
- trabajar de forma intensa.
-
-
- La frecuencia la marcaremos según el objetivo, diversos autores validan esta
-
- opción: Pougheon 1992, Busko 1989, Vanderthommen 2002.
-
-
-Objetivo               Frecuencia      Tiempo tratamiento          Tiempo reposo
-
-
-Relajación:            5 Hz            Continuo                    0
-
-Calentamiento:         5 Hz            Continuo                    0
-
-Endurecimiento:        10-20 Hz        9 min                       2 min
-
-Atrofia:               33 Hz           6 min                       6 min
-
-Fuerza:                50-100 Hz       5 min                       25 min
-
-Fuerza Explosiva:      100-200 Hz      3 min                       30 min
-
-
-            Tabla N°1: Rangos y Tiempos de Aplicación del Electro Estimulador
-       Fuente: Pougheon 1992, Busko 1989, Vanderthommen 2002,www.ortocanis.com.
-
-
-
-
- Los parámetros pueden variar ligeramente atendiendo a las necesidades de
-
- cada caso.El tiempo de reposo se puede ajustar si éste es activo. Es
-
- recomendable el uso de rampas antes de la contracción muscular fuerte.
-
-
- La intensidad siempre debe ser la máxima manteniendo un relativo
-
- confort.Tiempo total entre 10 y 30 minutos dependiendo de la fase de la
-
- lesión. Fatigar la musculatura excesivamente no ayuda a potenciar la
-
- musculatura de forma correcta.
-
-
- Es impórtate tener un aparato que cumpla con todos los requisitos, si este va
-
- a ser utilizado por un centro de rehabilitación canina u hospital veterinario se
-
-
-
-
-                                                                                  29
- recomienda un aparato de sobremesa más profesional y con el podremos usar
-
- programas específicos para cada uno de nuestros pacientes.
-
-
- El uso de electrodos de goma y gel de contacto es igualmente recomendable
-
- en animales con pelo.(Disponible en internet en: www.ortocanis.com –
-
- Fecha de acceso: diciembre mayo 2014)
-
-
-2.1.5. La Onda Eléctrica
-
-
- En física, una onda consiste en la propagación de una perturbación de alguna
-
- propiedad de un medio, por ejemplo, densidad, presión, campo eléctrico o
-
- campo magnético, a través de dicho medio, implicando un transporte de
-
- energía sin transporte de materia. El medio perturbado puede ser de
-
- naturaleza diversa como aire, agua, un trozo de metal e incluso inmaterial
-
- como el vacío.La magnitud física cuya perturbación se propaga en el medio
-
- se expresa como una función tanto de la posición como del tiempo.
-
- Matemáticamente se dice que dicha función es una onda si verifica la
-
- ecuación de ondas:(Disponible en internet en: es.wikipedia.org/wiki/Onda –
-
- Fecha de acceso: mayo 2014)
-
-
-                             →             →     …(1)
-
-
-2.1.5.1. Elementos de Una Onda
-
-      Cresta: La cresta es el punto de máxima elongación o máxima
-
-       amplitud de la onda; es decir, el punto de la onda más separado de su
-
-       posición de reposo.
-
-      Período (T): El periodo es el tiempo que tarda la onda en ir de un
-
-       punto de máxima amplitud al siguiente.
-
-
-
-                                                                          30
-   Amplitud (A): La amplitud es la distancia vertical entre una cresta y el
-
-    punto medio de la onda. Nótese que pueden existir ondas cuya
-
-    amplitud sea variable, es decir, crezca o decrezca con el paso del
-
-    tiempo.
-
-   Frecuencia (f): Número de veces que es repetida dicha vibración por
-
-    unidad de tiempo. En otras palabras, es una simple repetición de
-
-    valores por un período determinado.
-
-                                         …(2)
-   Valle: Es el punto más bajo de una onda.
-
-   Longitud de onda (λ): Es la distancia que hay entre el mismo punto
-
-    de dos ondulaciones consecutivas, o la distancia entre dos crestas
-
-    consecutivas.
-
-   Nodo: es el punto donde la onda cruza la línea de equilibrio.
-
-   Elongación (x): es la distancia que hay, en forma perpendicular, entre
-
-    un punto de la onda y la línea de equilibrio.
-
-   Ciclo: es una oscilación, o viaje completo de ida y vuelta.
-
-   Velocidad de propagación (v): es la velocidad a la que se propaga el
-
-    movimiento ondulatorio. Su valor es el cociente de la longitud de onda
-
-    y su período.
-
-                                         …(3)
-
-
-
-
-                                                                         31
-2.1.6. Tipos de Onda
-
-2.1.6.1. Onda Cuadrada
-
-
- Se conoce por onda cuadrada a la onda de corriente alterna (CA) que alterna
-
- su valor entre dos valores extremos sin pasar por los valores intermedios (al
-
- contrario de lo que sucede con la onda senoidal y la onda triangular, etc.). Se
-
- usa principalmente para la generación de pulsos eléctricos que son usados
-
- como señales (1 y 0) que permiten ser manipuladas fácilmente, un circuito
-
- electrónico que genera ondas cuadradas se conoce como generador de pulsos,
-
- este tipo de circuitos es la base de la electrónica digital. (Disponible en
-
- internet en: es.wikipedia.org/wiki/Onda_cuadrada– Fecha de acceso: mayo
-
- 2014)
-
-
-                                        ( )…(4)
-
-
-
-
-                        Figura N°3: Onda Cuadrada Par
-
-                            Fuente: Archivopersonal
-
-
-
-
-                                                                             32
-2.1.6.2. Onda Triangular
-
-
- La onda triangular es un tipo de señal periódica que presenta unas
-
- velocidades de subida y bajada (SlewRate) constantes. Lo más habitual es
-
- que sea simétrica, es decir que, los tiempos de subida y bajada son iguales.
-
- (Disponible en internet en: es.wikipedia.org/wiki/Onda_triangular- Fecha de
-
- acceso: mayo 2014)
-
-
-
-
-                         Figura N°4: Onda Triangular
-
-                           Fuente: Archivopersonal
-
-
-
-
-                                                                          33
-2.1.6.3. Onda Sinusoidal
-
-
- En matemáticas, se llama sinusoide la curva que representa gráficamente la
-
- función seno y también a dicha función en sí. (Disponible en internet en: -
-
- Fecha de acceso: es.wikipedia.org/wiki/Sinusoidemayo 2014)
-
-
-
-
-                         Figura N°5: Onda Sinusoidal
-
-                           Fuente: Archivopersonal
-
-
-
-
-                                                                         34
-2.2. MARCO CONCEPTUAL
-
-2.2.1. Electro Terapia
-
-
- La electroterapia es una disciplina que se engloba dentro de la medicina
-
- física y rehabilitación y se define como el arte y la ciencia del tratamiento de
-
- lesiones y enfermedades por medio de la electricidad.La Historia de la
-
- Electroterapia es muy antigua y se remonta a la aplicación de las descargas
-
- del pez torpedo en la época griega y romana. Actualmente, la tecnología ha
-
- desarrollado numerosos aparatos (productos sanitarios) para la aplicación de
-
- la electroterapia sin correr riesgos de efectos secundarios.(Inmaculada
-
- Olivares, 2013, Agentes Físicos, Electroterapi. Universidad de Valencia,
-
- España)
-
-
-2.2.2. Electroanalgesia
-
-
-Electroanalgesia es una forma de analgesia o alivio del dolor, que utiliza
-
-electricidad para aliviar el dolor. Eléctricos dispositivos pueden ser interno o
-
-externo, en el sitio del dolor (local) o deslocalizada a lo largo de todo el
-
-cuerpo. Funciona al interferir con las corrientes eléctricas de las señales de
-
-dolor, inhibiendo que lleguen al cerebro e inducir una respuesta; diferente de
-
-los analgésicos tradicionales, como los opiáceos que imitan las endorfinas
-
-naturales y AINE S (medicamentos anti-inflamatorios no esteroideos) que
-
-ayudan a aliviar la inflamación y detener el dolor en la fuente.
-
-Electroanalgesia tiene un menor potencial adictivo y plantea menos riesgos
-
-para la salud a la población en general, pero puede causar problemas de salud
-
-graves, incluso la muerte, en personas con otros dispositivos eléctricos, como
-
-marcapasos o audífonos internos o con problemas del corazón.(Disponible en
-
-
-
-                                                                              35
-internet en: www.wikipedia.org/wiki/Electroanalgesia - Fecha de acceso:
-
-mayo 2014)
-
-
-2.2.3. Histología
-
-
- La histología (del griego ἱστόςhistós "tejido" y λογία logía "tratado, estudio,
-
- ciencia") es la ciencia que estudia todo lo relacionado con los tejidos
-
- orgánicos: su estructura microscópica, su desarrollo y sus funciones. La
-
- histología se identifica a veces con lo que se ha llamado anatomía
-
- microscópica, pues su estudio no se detiene en los tejidos, sino que va más
-
- allá, observando también las células interiormente y otros corpúsculos,
-
- relacionándose con la bioquímica y la citología.(Disponible en internet en:
-
- www.wikipedia.org/wiki/Histologia - Fecha de acceso: mayo 2014)
-
-
-2.2.4. Corriente Farádica
-
-
- La corriente farádica, ya sea en forma de general o localizada, faradismo se
-
- ha utilizado desde finales del siglo XIX. El pulso de la corriente farádica es
-
- bifásica y asimétrica. Desde principios de los años 40 hasta los años 60, la
-
- corriente farádica se consideró más cómoda que la corriente directa. La
-
- mayoría de los terapeutas físicos erróneamente que la relativa comodidad de
-
- pulso farádico pasó a ser una forma de corriente alterna. El conocimiento
-
- actual indica que la verdadera razón de este consuelo es que el pulso farádico
-
- es simplemente más corto que el de corriente continua.
-
-
- La corriente farádica de onda bifásica y asimétrica se convierte en menos de
-
- una corriente bifásica simétrica incluso con muñecas más pequeñas. Aunque
-
- farádica originalmente bifásica ser asimétrica, equipos modernos son capaces
-
-
-
-
-                                                                             36
- de proporcionar tanto simétrica como pulsos monofásicos (neofarádica)
-
- impulsos bifásicos.
-
-
- La corriente farádica es una corriente de excitación de baja frecuencia, 50-
-
- 100 Hz, con anchura de pulso de 0,1 a 1 ms y 20 ms intervalo, que tiene fines
-
- de diagnóstico y terapéuticos.
-
-
- La corriente farádica era originalmente de CA de frecuencia muy
-
- irregular.Este error fue la causa de la modificación rápida tal como se
-
- describe por Faraday previamente. Cadena Así neofarádica, una variación de
-
- la corriente farádica producido en algunos dispositivos. Actualmente es una
-
- corriente estimulante que consiste en pulsos triangulares con una duración de
-
- 1 ms y un intervalo de 19 ms con una frecuencia de 50 Hz. La corriente
-
- farádica original es un corriente alterna, ya neofarádica se convirtió en una
-
- interrupción de corriente continua con una duración de pulso de 1 ms y 19
-
- ms de intervalo.A diferencia de la corriente galvánica, la corriente farádica
-
- original no está polarizado, es decir, no tiene polos positivos y
-
- negativos.(Romero Bustillo, 2010)
-
-
-2.2.5. Cronaxia
-
-
- En la descripción matemática que se hace del sistema nervioso, se denomina
-
- cronaxia (o cronaxy) al intervalo de tiempo que debe aplicarse una corriente
-
- eléctrica para conseguir una respuesta mínima con una intensidad doble de la
-
- reobase (respuesta motora o sensitiva, aunque habitualmente se hace
-
- referencia a la motora). El término "cronaxia" y "reobase" fue acuñado en
-
- 1909 por el fisiólogo francés Louis Lapicque. Es por lo tanto una medición
-
- de la excitabilidad del tejido nervioso o muscular. Se denomina igualmente
-
-
-                                                                           37
- tiempo de utilización al tiempo necesario para que la reobase tenga
-
- efecto.(Disponible en internet en: www.wikipedia.org/wiki/Cronaxia - Fecha
-
- de acceso: mayo 2014)
-
-
-2.2.6. Elongación (Física)
-
-
- La elongación en mecánica es la distancia que, en cada instante, separa a una
-
- partícula sometida a oscilación. Por extensión, en la física se define la
-
- elongación como el cambio del valor de una magnitud física con respecto a
-
- su valor de equilibrio.En física, la elongación se refiere comúnmente a los
-
- sistemas oscilantes, tanto materiales (ejemplo, masa sujeta a un muelle)
-
- como inmateriales (oscilaciones electromagnéticas).(Disponible en internet
-
- en: es.wikipedia.org/wiki/Elongación_(física) - Fecha de acceso 2014)
-
-
-2.2.7. Oscilación
-
-
- Se denomina oscilación a una variación, perturbación o fluctuación en el
-
- tiempo de un medio o sistema. Si el fenómeno se repite, se habla de
-
- oscilación periódica.Oscilación, en física, química e ingeniería es el
-
- movimiento repetido de un lado a otro en torno a una posición central, o
-
- posición de equilibrio. El recorrido que consiste en ir desde una posición
-
- extrema a la otra y volver a la primera, pasando dos veces por la posición
-
- central, se denomina ciclo. El número de ciclos por segundo, o hercios (Hz),
-
- se conoce como frecuencia de la oscilación empleada en el MAS
-
- (Movimiento        Armónico    Simple).(Disponible     en     internet    en:
-
- es.wikipedia.org/wiki/Oscilación -Fecha de acceso 2014)
-
-
-
-
-                                                                           38
-2.2.8. SlewRate
-
-
- En electrónica el SlewRate (SR) es un efecto no lineal en los amplificadores.
-
- Representa la incapacidad de un amplificador para seguir variaciones rápidas
-
- de la señal de entrada. Se le define como la máxima tasa de cambio en el
-
- voltaje de salida cuando el voltaje de entrada cambia. Es decir el slewrate de
-
- un amplificador se define como el rango máximo de cambio de la tensión de
-
- salida para todas las señales de entrada posibles, por lo que limita la
-
- velocidad de funcionamiento, es decir la frecuencia máxima a la que puede
-
- funcionar el amplificador para un nivel dado de señal de salida. (Disponible
-
- en internet en: es.wikipedia.org/wiki/Slew_rate – Fecha de acceso: mayo
-
- 2014)
-
-
-2.2.9. Simuladores de Circuitos Electrónicos
-
-
- Un simulador de circuitos electrónicos es una herramienta de software
-
- utilizada por profesionales en el campo de la electrónica y los estudiantes de
-
- las carreras de tecnologías de información. Ayuda a crear algún circuito que
-
- se desee ensamblar, ayudando a entender mejor el mecanismo, y ubicar las
-
- fallas dentro del mismo de manera más fácil y sencilla. Podemos mencionar
-
- uno de los más usados, el Proteus es una compilación de programas de
-
- diseño y simulación electrónica, desarrollado por LabcenterElectronics que
-
- consta de los dos programas principales: Ares e Isis, y los módulos VSM y
-
- Electra.(Disponible               en                internet               en:
-
- es.wikipedia.org/wiki/Simulador_de_circuitos_electrónicos      –   Fecha   de
-
- acceso: mayo 2014)
-
-
-
-
-                                                                            39
-2.2.10. Configuración Astable
-
-
- En electrónica, un astable es un multivibrador que no tiene ningún estado
-
- estable, lo que significa que posee dos estados "cuasi-estables" entre los que
-
- conmuta, permaneciendo en cada uno de ellos un tiempo determinado. La
-
- frecuencia de conmutación depende, en general, de la carga y descarga de
-
- condensadores.Entre sus múltiples aplicaciones se cuentan la generación de
-
- ondas periódicas (generador de reloj) y de trenes de impulsos. (Disponible en
-
- internet en: es.wikipedia.org/wiki/Astable – Fecha de acceso: abril 2014)
-
-
-2.2.11. Transformador
-
-
- Se denomina transformador a un dispositivo eléctrico que permite aumentar
-
- o disminuir la tensión en un circuito eléctrico de corriente alterna,
-
- manteniendo la potencia. La potencia que ingresa al equipo, en el caso de un
-
- transformador ideal (esto es, sin pérdidas), es igual a la que se obtiene a la
-
- salida. Las máquinas reales presentan un pequeño porcentaje de pérdidas,
-
- dependiendo de su diseño y tamaño, entre otros factores.El transformador es
-
- un dispositivo que convierte la energía eléctrica alterna de un cierto nivel de
-
- tensión, en energía alterna de otro nivel de tensión, basándose en el
-
- fenómeno de la inducción electromagnética. Está constituido por dos bobinas
-
- de material conductor, devanadas sobre un núcleo cerrado de material
-
- ferromagnético, pero aisladas entre sí eléctricamente. La única conexión
-
- entre las bobinas la constituye el flujo magnético común que se establece en
-
- el núcleo. El núcleo, generalmente, es fabricado bien sea de hierro o de
-
- láminas apiladas de acero eléctrico, aleación apropiada para optimizar el
-
- flujo magnético. Las bobinas o devanados se denominan primario y
-
-
-
-                                                                             40
-secundario según correspondan a la entrada o salida del sistema en cuestión,
-
-respectivamente. También existen transformadores con más devanados; en
-
-este caso, puede existir un devanado "terciario", de menor tensión que el
-
-secundario.(Disponible en internet en: es.wikipedia.org/wiki/Transformador
-
-– Fecha de acceso: marzo 2014)
-
-
-
-
-                                                                         41
-2.3. HIPÓTESIS DE LA INVESTIGACIÓN
-
-2.3.1. FORMULACIÓN DE LA HIPÓTESIS
-
-
- Al diseñar e implementar un dispositivo de estimulación eléctrica funcional
-
- daremos una mejor calidad de vida a los canes domésticos con miembros
-
- atacados con artrosis, displacía, entre otros problemas neurológicos.
-
-
-2.3.1.1. HIPOTESIS ESPECIFICAS
-
-   1. Las ondas cuadradas son las más adecuadas puesto que generaremos
-
-       un pulso fijo para generar un pulso de corriente farádica necesario para
-
-       tratamiento terapéutico y con frecuencia de 50hz – 100hz.
-
-   2. El dispositivo de electro estimulación permitirá mandar las cargas
-
-       mediante electrodos a las zonas con atrofia muscular de manera segura.
-
-   3. El dispositivo de electro estimulación funcional final podrá asegurar la
-
-       recuperación completa o parcial de las zonas tratadas del paciente.
-
-   4. Al momento de implementar se comprobara si el diseño necesita
-
-       ajustes para poder alcanzar los resultados deseados.
-
-
-
-
-                                                                             42
-2.3.1.2. VARIABLES DE ESTUDIO E INDICADORES
-
-
-
- VARIABLE               DE VARIABLE                        MEDIDA
-
- ESTUDIO
-
- Independiente                Amplitud      de      Onda, Voltios, amperios
-
-                              voltaje y corriente
-
- Independiente                Frecuencia de onda           Hz
-
- Dependiente                  Pacientes recuperados        5
-
- Dependiente                  Tasa de mortandad de 0
-
-                              canes
-
-
-                 Tabla N°2: Variables Independientes y Dependientes.
-                             Fuente: Archivo personal.
-
-
-
-
-                                                                              43
-CAPÍTULO III: METODOLOGÍA Y
-
-   DISEÑO DE INGENIERÍA
-
-
-
-
-                              44
-3.1. METODOLOGÍA DE LA INVESTIGACIÓN
-
-3.1.1. TIPO DE INVESTIGACIÓN
-
-
- El tipo investigación es experimental puesto que se aplicara conocimientos y
-
- teoría con la finalidad de un buen diseño para seguir con la implementación
-
- del dispositivo en cuestión para poder tratar a los pacientes.
-
-
-3.1.2. TÉCNICAS:
-
-     Análisis Documental.
-
-     Observación Experimental.
-
-3.1.3. INSTRUMENTOS:
-
-     Ficha de Registro de Datos.
-
-     Material y equipos de laboratorio de electrónica básica de la Escuela
-
-      Profesional de Ingeniería Electrónica de la Universidad Nacional del
-
-      Altiplano Puno.
-
-     Software de simulación Águila, Proteus.
-
-     Bibliografía referente a los trastornos Neuromusculares, Electroterapia.
-
-
-
-
-                                                                            45
-3.2. DISEÑO DE INGENIERÍA
-
-3.2.1   ECUACIONES PARA OBTENERFRECUENCIAS MAXIMA Y
-
-        MINIMA        PARA      EL     DISEÑO         DEL       CIRCUITO   DEL
-
-        DISPOSITIVO
-
-
- Para generar pulsos cuadrados de frecuencias variables entre 50 y 100 Hz
-
- con ancho de pulso que oscile entre 200 y 800 µseg y Valores discretos de
-
- amplitud: 0 y 5 voltios, se tiene como mejor opción al C.I. LM555N respecto
-
- al XR-2206, el LM555N puede generar un tren de pulsos de 5 V de 80 Hz
-
- con un tiempo en alta de 200 u segundos. Para este fin se utilizó el
-
- temporizador Timer 555 en configuración Astable.
-
-
-                                                         …(5)
-
-
-                                                   …(6)
-
-
-
-
-  Dónde:
-
-        :Resistencia entre Vcc y pin 7 del C.I. 555
-
-        : Resistencia entre pin 7 y pin 6 del C.I. 555
-
-        : Condensador entre pin 6 y GND
-
-        : Tiempo en alta a la salida del C.I. 555 (pin3)
-
-        : Tiempo en baja a la salida del C.I. 555 (pin3)
-
-        : Frecuencia de oscilación a la salida del C.I. 555 (pin3)
-
-
-
-
-                                                                            46
-3.2.1.1. DISEÑO DEL GENERADOR DE PULSOS
-
-
- Se optó por el temporizador 555 por ser más barato, pequeño y de
-
- configuración más sencilla para cumplir los requerimientos señalados
-
- anteriormente.
-
-
- Con los cálculos ya mencionados en el Cap. III, tenemos las                para
-
- obtener las frecuencias máxima y mínima respectivamente las cuales son
-
- nuestro rango de trabajo y carga tolerable que se le suministrara al paciente.
-
-
- Dados los requisitos de frecuencia y ancho de pulso y tomando como valor
-
-  1    , se obtiene los rangos siguientes:
-
-
-
-
- Por conveniencia (no trabajar valores fuera del rango) se optó por el valor de
-
-         . Se varío las frecuencias hasta valores aceptables (dentro de los
-
- cuáles se acomodaron a valores de resistencia existentes en el mercado)
-
-
- De tal manera que:
-
-
-
-
- De tal manera que existen los siguientes valores:
-
-
-
-
-                                                                              47
- Para        mínimo: (frecuencia máxima)
-
-
-
-
- Para       máximo: (frecuencia mínima)
-
-
-
-
-Componente del generador de pulsos:
-
-
-          1 C.I. LM555N (hoja de especificaciones en Anexos)
-
-          Resistencias 1    , 12
-
-          1 Resistencia variable de 10
-
-          1 Condensador electrolítico de 1
-
-
-
-3.2.2. OPCIONES             DE      CONFIGURACIONES         DE   CIRCUITOS
-
-           APLIFICADORES              PARA        CUMPLIR        CON   LOS
-
-           REQUERIMIENTOS DEL DISEÑO
-
-
- Requerimientos
-
-
-               (Impedancia de entrada) alta
-
-                (Impedancia de salida) pequeña
-
-                     (Ganancia de corriente)
-
-                    (Ganancia de voltaje)
-
-           Alimentación         DC
-
-           Estabilidad en cruce por cero de la señal
-
-
-
-                                                                        48
- Opciones
-
-
-       Amplificador Darlington. Esta configuración utiliza un transistor
-
-        Darlington. Tiene impedancia de entrada alta, impedancia de salida
-
-        baja, una alta ganancia de corriente y una ganancia de voltaje cerca a
-
-        la unitaria. Presenta distorsión en su señal de salida.
-
-       Circuito en contrafase de simetría complementaria.               Esta
-
-        configuración utiliza dos transistores complementarios (pnp y npn).
-
-        Tiene impedancia de entrada alta, impedancia de salida no muy
-
-        pequeña, alta ganancia de corriente acorde al tipo de transistor que
-
-        utiliza y ganancia de voltaje unitaria. Presenta distorsión ante cruce
-
-        por cero de la señal.
-
-       Circuito en contrafase de simetría complementaria usando
-
-        transistores en configuración Darlington. Esta configuración
-
-        Utiliza dos transistores npn y dos transistorespnp en configuración
-
-        Darlington en contrafase. Presenta alta impedancia de entrada, baja
-
-        impedancia de salida, alta ganancia de corriente, ganancia de voltaje
-
-        cercana a la unidad y no presenta ni distorsión de señal ni distorsión
-
-        de señal en cruce por cero.
-
-3.2.2.1. DISEÑO DEL CIRCUITO AMPLIFICADOR
-
-
- Se optó por usar el circuito en contrafase de simetría complementaria usando
-
- transistores en configuración Darlington por cumplir con todos los
-
- requerimientos ya señalados.
-
-
- Esta etapa viene a ser un seguidor de voltaje de la señal. Consiste en un
-
- arreglo de cuatro transistores de potencia en configuración Darlington (2
-
-
-
-                                                                           49
-BD139 npn y 2 BD140pnp) en configuración de contrafase de simetría
-
-complementaria con las respectivas resistencias de polarización. Un fusible
-
-de 1 A para evitar excesos de corriente al paciente.
-
-
-Se eligieron los transistores BD139 y BD140 por cumplir con las siguientes
-
-especificaciones (véase hojas técnicas en anexo):
-
-
-                                             …(8)
-
-
-                                             …(9)
-
-
-Tiempo de respuesta menor a 2
-
-
-Componentes del amplificador
-
-
-      2 transistores BD139 (hoja de especificaciones en Anexos)
-
-      2 transistores BD140(hoja de especificaciones en Anexos)
-
-      2 resistencias de 1     (de 1 waht)
-
-      2 resistencias de 100
-
-      1 bornera de 3 entradas
-
-      1 zócalo
-
-      Un fusible de 1 A
-
-
-
-
-                                                                        50
-        Figura N°6: Circuito Esquemático del Generador de Pulsos y Amplificador
-                                      Acoplados.
-                               Fuente: Archivo Personal.
-
-
-
-3.2.3. OPCIONES PARA LA AMPLIFICACION DE LA SEÑAL
-
-       SEGÚN LOS REQUERIMIENTOS DE DISEÑO
-
-
-Requerimientos del diseño
-
-
-       Amplificación de la señal 20 veces para tener una señal de hasta 100
-
-        V de amplitud.
-
-       Salida del amplificador debe suministrar pulsos cuadrados o
-
-        farádicos.
-
-
-Opciones
-
-
-       Circuito DC-DC. Este circuito brinda una salida amplificada de la
-
-        señal DC en un voltaje DC. Su implementación es compleja. Entrega
-
-        pulsos farádicos a su salida.
-
-
-
-
-                                                                                  51
-        Transformador. Amplifica señales AC. Funciona para pulsos
-
-         cuadrados dando a la salida pulsos farádicos. Sencillo de
-
-         implementar.
-
-3.2.3.1. AMPLIFICACIÓN DE LA SEÑAL DE SALIDA
-
-        Se optó por el transformador por ser más sencillo que el circuito DC-
-
-        DC. Esta etapa consiste de un transformador que amplifica la señal 10
-
-        veces. El voltaje máximo a la entrada del transformador es de 10 V
-
-        DC, por lo tanto, a la salida tendremos 100 V DC pico, la seña de la
-
-        corriente se divide entre 10 y la corriente de salida pico será
-
-        aproximadamente 95mA. La señal en el primario del transformador es
-
-        un pulso cuadrado, pero en el secundario se obtiene un pulso farádico
-
-        derivando la onda cuadrada, el cual es válido para la estimulación
-
-        muscular.
-
-
-
-
-        Figura N°7: Pulso Cuadrada de Entrada al Transformador y Pulso Farádico a
-                                   la salida del mismo.
-                             Fuente: Zapata V. Manuel (2010)
-
-3.2.4. ELECTRODOS
-
-
- Requerimientos
-
-
-        Electrodos de estimulación eléctrica muscular.
-
-        Reutilizables.
-
-
-
-
-                                                                               52
-Opciones
-
-        Electrodos invasivos Estimulación directa al músculo o nervio.
-
-         Posibilidad de causar lesiones e infecciones. Esterilización constante
-
-         para reutilizarse. Precio no muy económico.
-
-        Electrodos superficiales Estimulación a través de la piel. No causa
-
-         lesiones. Reutilizables según datos del fabricante. Precio económico.
-
-3.2.4.1. ELECTRODOS SUPERFICIALES
-
-        Los electrodos superficiales fueron la mejor opción para la
-
-        investigación por ser más económicos y su mayor sencillez en la
-
-        utilización, cabe mencionar que los electrodos invasivos pueden ser
-
-        más recomendados para siguientes estudios del dispositivo electro
-
-        estimulador para tratamientos en zonas más específicas del paciente.
-
-
-
-
-                       Figura N°8: Par de Electrodos Superficiales.
-                               Fuente: Archivo personal.
-
-
-
-
-                                                                               53
-3.2.5. OPCIONES DE DISEÑO DE FUENTES DE ALIMENTACIÓN
-
-
- Requerimientos del diseño
-
-
-       Fuente estable de +5, +10 y -10 V DC con tolerancia ±5%.
-
-       Tamaño pequeño.
-
-       Ligera.
-
-       Larga duración.
-
-
- Opciones
-
-
-       Baterías alcalinas 9 V DC. Portables. Ligeras. Pequeñas. Poca
-
-        duración para los propósitos de este trabajo de tesis.
-
-       Baterías con ácido 12 V DC. Portables. Pesadas. Tamaño mediano.
-
-        No muy larga duración para los propósitos de este trabajo de tesis.
-
-       Fuente de alimentación simétrica de ±10 V DC. Portable. Ligera.
-
-        Tamaño pequeño. Larga duración para los propósitos de este trabajo
-
-        de tesis.
-
-3.2.5.1. DISEÑO DE LA FUENTE ALIMENTACIÓN SIMÉTRICA
-
-
- La fuente simétrica regulada, es un circuito especialmente diseñado para
-
- alimentar circuitos que requieren voltajes estables y sin fluctuaciones. Esta
-
- fuente proporciona 10 voltios DC por sección (-10v y +10v con TAP central
-
- o punto cero), en este caso que usamos los reguladores LM7810 y LM7910,
-
- con un consumo de hasta 2Amp, dependiendo del transformador que le
-
- coloquemos a la entrada AC.
-
-
- Los diodos, se encargan de direccionar todos los semiciclos positivos para
-
- crear al polo positivo y los semiciclos negativos, creando el polo negativo.
-
-
-                                                                              54
-Al medir con el multímetro entre polo negativo y polo positivo, debe dar el
-
-doble de lo que da, si medimos entre polo negativo y tierra, o entre polo
-
-positivo y tierra.
-
-
-En correspondencia a los ciclos positivos y negativos, se instalan dos
-
-condensadores que se encargarán de rectificar el voltaje de los ciclos
-
-positivos y negativos respectivamente, convirtiendo la corriente alterna (AC)
-
-en corriente directa (DC).
-
-
-La corriente directa que entregan los condensadores tiene fluctuaciones
-
-derivadas del fluido eléctrico local. Estas fluctuaciones deben ser corregidas
-
-y reguladas mediante los reguladores LM7810 y LM7910.
-
-
-Para que un regulador funcione correctamente, debe ser alimentado por una
-
-fuente que entregue al menos 3 voltios por encima del voltaje que va a
-
-entregar el regulador, ya que éste consume 2 voltios. En este caso tenemos
-
-dos reguladores que entregan 10 voltios. En el LM7810 el número 78 indica
-
-que el regulador es positivo, y el número 10, indica el voltaje que entrega
-
-(+10 voltios DC). Yen el LM7915 el número 79 indica que es negativo y el
-
-número 10, indica el voltaje que entrega (-10 voltios DC).
-
-
-El transformador debe ser de mismo voltaje AC que el voltaje que entregan
-
-los reguladores en DC, en este caso usamos un transformador de 12 voltios.
-
-
-
-
-                                                                           55
-Componentes de la fuente simétrica
-
-
-      2 condensadores electrolíticos de 4700          de 25v
-
-      2 condensadores cerámicos de 1
-
-      2 condensadores electrolíticos de 1         de 50v
-
-      2 diodos
-
-      1 regulador LM7810 y 1 regulador LM7910(hoja de especificaciones en
-
-       Anexos)
-
-      1 bornera de 2 entradas y 1 bornera de 3 entradas
-
-
-
-
-                  Figura N°9: Circuito Esquemático de la Fuente Simétrica.
-                                 Fuente: Archivo personal.
-
-
-
-
-                                                                             56
-CAPÍTULO IV: CARACTERIZACIÓN
-
- DEL ÁREA DE INVESTIGACIÓN
-
-
-
-
-                               57
-4.1. ÁREA DE ESTUDIO
-
-
- La investigación se realizó dentro de la ciudad de Puno. Las pruebas del
-
- diseño tomando nota de los resultados visualizados en el osciloscopio del
-
- circuito en sí, para posteriormente hacer la prueba en pacientes, se dieron
-
- dentro del laboratorio de Electrónica Básica de la Escuela Profesional de
-
- Ingeniería Electrónica de la Universidad Nacional del Altiplano Puno. Y la
-
- prueba en pacientes se dio en la Clínica Veterinaria Sebisvet, ubicada en el
-
- centro de la ciudad de Puno.Esta locación se encuentra a una latitud de
-
- 15°49’27.10’’ Sur y una longitud de 70°1’4.02’’ Oeste. A continuación se
-
- muestra la ubicación específica de las instalaciones del lugar indicado.
-
-
-
-
-               Figura N°10: Universidad Nacional del Altiplano Puno
-                              Fuente: Google Earth
-
-
-
-
-                                                                            58
-Figura N°11: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial plaza Jr.
-                                  Tacna cuadra 1
-
-                             Fuente: Archivo Personal
-
-
-
-
-Figura N°12: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial plazaJr.
-                                  Tacna cuadra 1
-
-                             Fuente: Archivo personal
-
-
-
-
-                                                                                 59
-  CAPÍTULO V: EXPOSICIÓN Y
-
-ANÁLISIS DE LOS RESULTADOS DE
-
-       INVESTIGACIÓN
-
-
-
-
-                                60
-5.1. CONTRASTACIÓN DE LA HIPÓTESIS
-
-
- En esta parte se prueba el dispositivo de Electro Estimulación ya
-
- implementado al cual hace referencia el proyecto de investigación y se
-
- analizan los resultados obtenidos para poder concluir que si el diseño que
-
- hemos adoptado para su posterior implementación satisface los resultados
-
- deseados y así demostrar que es viable el uso de este para rehabilitación de
-
- los canes con miembros atrofiados.
-
-
-5.1.1. PRUEBAS DEL DISEÑO POR ETAPAS DEL DISPOSITIVO DE
-
-       ELECTRO ESTIMULACIÓN
-
-
- En este punto de la investigación se hizo la recopilación de los datos en cada
-
- etapa de la implementación del dispositivo de Electro Estimulación puesto
-
- que no siempre los cálculos matemáticos o incluso las simulaciones
-
- contrastan con el circuito real, existen ciertas variaciones que solo se
-
- pudieron corregir en el proceso de implementación y la recopilación de datos
-
- se hizo en los laboratorios de la Escuela Profesional de Ingeniería
-
- Electrónica de UNA-Puno.
-
-
- La etapa de la implementación del circuito de generador de pulsos fue
-
- testeada para poder visualizar en el Osciloscopio la frecuencia de los pulsos
-
- que se requerían de 64Hz a 114Hz adecuado para que la estimulación
-
- fortalezca el musculo atrofiado.
-
-
- La etapa de amplificación de la señal y la generación de la onda farádica fue
-
- testeada y visualizada en el osciloscopio y se dieron como se muestra en las
-
- siguientes figuras.
-
-
-
-
-                                                                            61
-                                                           +
-
-
-Figura N°13: Pulsos generados por el 555, preestablecido
-
-               Fuente: Archivo personal
-
-
-
-
-Figura N°14: Pulsos generados por el 555, preestablecido
-
-               Fuente: Archivo personal
-
-
-
-
-                                                               62
-    Figura N°15: Onda farádica, generada por la amplificación del transformador,
-                                trabajando a 69Hz.
-
-                             Fuente: Archivo personal
-
-
-
- Todas las mencionadas Pruebas fueron necesarias para poder asegurar que el
-
- dispositivo de Electro Estimulación funcione con los requerimientos de
-
- señal, frecuencia y carga deseadas para pasar a la experimentación con
-
- pacientes reales, los cuales necesitan tratar sus músculos atrofiados.
-
-
-5.1.2. DISPOSITIVO              DE         ELECTRO             ESTIMULACIÓN
-
-       IMPLEMENTADO
-
-
- Al finalizar con las pruebas en laboratorio con cada etapa del diseño, se pasó
-
- al siguiente paso que fue la implementación de ambos diseños. Uno, el
-
- Circuito del Generador de Pulsos y Amplificador ambos acoplados. Dos, el
-
- Circuito de la Fuente Simétrica de 10v.
-
-
- Posteriormente a la implementación en placa, se adecuo los transformadores
-
- y electrodos, todo adecuado en un soporte o carcasa que vendría a ser el
-
- Dispositivo completamente implementado y listo para pasar a la prueba en
-
- los canes.
-
-
-
-                                                                                   63
-Figura N°16: Instrumentos del Laboratorio de la Escuela Profesional de Ingeniería
-                                 Electrónica
-
-                            Fuente: Archivo personal
-
-
-
-
-         Figura N°17: Dispositivo de Electro Estimulación implementado
-
-                            Fuente: Archivo personal
-
-
-
-
-                                                                                    64
-5.2. PRUEBAS        DEL      DISPOSITIVO           Y    EXPERIMENTOS              CON
-
-    PACIENTES CON ATROFIA NEUROMUSCULAR
-
-5.2.1. Experimento N°1: Prueba del Dispositivo en laboratorio
-
-
- Las primeras pruebas para medir la frecuencia, intensidad y finalmente que
-
- la estimulación pueda ser tolerable, fue hecha por mi persona, así conectando
-
- el par de electrodos en distintos músculos de mi brazo izquierdo, con ello se
-
- recolecto las primeras variantes para poder diseñar un buen circuito que
-
- satisfaga los requerimientos planteados.
-
-
-
-
-  Figura N°18: Pruebas realizadas para verificar que el dispositivo no cause molestia.
-
-                               Fuente: Archivo personal
-
-
-
-
-       Tiempo            Frecuencia       Observación
-
-       1min              64Hz             El estímulo es tolerable, el musculo
-
-                                          estimulado se contrae y relaja lentamente
-
-       1min              84Hz             El estímulo aun es tolerable, la contracción
-
-                                          y relajación del musculo, notamos que ha
-
-                                          cambiado con respecto a la anterior
-
-
-
-
-                                                                                         65
-       1 min             104Hz           Se nota que el musculo trabaja con
-
-                                         contracciones más fuertes y el estímulo
-
-                                         causa ligera molestia.
-
-       1 min             114Hz           Las    contracciones     del   musculo   son
-
-                                         completamente definidas, seguida de su
-
-                                         relajación, el estímulo causa ligera molestia
-
-                                         pero aun es tolerable.
-
-
-
-               Tabla N°3: Ficha de registro de datos y observaciones N°1
-
-                              Fuente: Archivo personal
-
-
+5.1.
+
+CONTRASTACIÓN DE LA HIPÓTESIS ....................................... 61
+
+5.1.1. PRUEBAS DEL DISEÑO POR ETAPAS DEL DISPOSITIVO
+DE ELECTRO ESTIMULACIÓN ........................................................... 61
+5.1.2. DISPOSITIVO
+DE
+ELECTRO
+ESTIMULACIÓN
+IMPLEMENTADO .................................................................................. 63
+5.2. PRUEBAS DEL DISPOSITIVO Y EXPERIMENTOS CON
+PACIENTES CON ATROFIA NEUROMUSCULAR ............................... 65
+5.2.1.
+
+Experimento N°1: Prueba del Dispositivo en laboratorio ......... 65
 
 5.2.2. Experimento N°2: Prueba con el Cadáver de un Can Doméstico
+(Perro) en los Laboratorios de la Facultad de Medicina Veterinaria y
+Zootecnia .................................................................................................. 66
+5.2.3. Experimento N°3: Probar que el Can Doméstico (Perro) Tolere
+los Pulsos del Electro Estimulador ........................................................... 67
+5.2.4. Experimento N°4: Se Aplicó el Dispositivo de Electro
+Estimulación a un Felino Doméstico (Gato) ............................................ 69
+5.2.5. Experimento N°5: Se Aplicó el Dispositivo de Electro
+Estimulación a un Paciente con Atrofia Muscular por Causa de Accidente
+Vehicular .................................................................................................. 70
+5.2.6. Experimento N°6:Se Aplicó el Dispositivo de Electro
+Estimulación a un Paciente con Parálisis Completa de sus miembros
+Inferiores ................................................................................................... 74
+CONCLUSIONES.......................................................................................... 75
+RECOMENDACIONES ............................................................................... 77
+BIBLIOGRAFÍA............................................................................................ 78
+ANEXOS ......................................................................................................... 80
 
-       (Perro) en los Laboratorios de la Facultad de Medicina
+ÍNDICE DE FIGURAS
+Figura N°1: Diferentes tipos estructurales de neuronas ................................... 22
+Figura N°2: Músculos Superficiales del Perro ................................................ 24
+Figura N°3: Onda Cuadrada Par ...................................................................... 32
+Figura N°4: Onda Triangular ........................................................................... 33
+Figura N°5: Onda Sinusoidal ........................................................................... 34
+Figura N°6: Circuito Esquemático del Generador de Pulsos y
+Amplificador Acoplados. ............................................................................... 51
+Figura N°7: Pulso Cuadrada de Entrada al Transformador y Pulso
+Farádico a la salida del mismo. ..................................................................... 52
+Figura N°8: Par de Electrodos Superficiales ............................................... 53
+Figura N°9: Circuito Esquemático de la Fuente Simétrica ........................ 56
+Figura N°10: Universidad Nacional del Altiplano Puno ................................. 58
+Figura N°11: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial
+plaza Jr. Tacna cuadra 1 ................................................................................... 59
+Figura N°12: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial
+plazaJr. Tacna cuadra 1 .................................................................................... 59
+Figura N°13: Pulsos generados por el 555, preestablecido ............................. 62
+Figura N°14: Pulsos generados por el 555, preestablecido ............................. 62
+Figura N°15: Onda farádica, generada por la amplificación del transformador,
+trabajando a 69Hz. ........................................................................................... 63
+Figura N°16: Instrumentos del Laboratorio de la Escuela Profesional de
+Ingeniería Electrónica ...................................................................................... 64
+Figura N°17: Dispositivo de Electro Estimulación implementado .................. 64
 
-       Veterinaria y Zootecnia
+Figura N°18: Pruebas realizadas para verificar que el dispositivo no cause
+molestia. ........................................................................................................... 65
+Figura N°19: Paciente de prueba 01, con frecuencia de electro estimulación de
+64Hz. ................................................................................................................ 68
+Figura N°20: Paciente de prueba 01, con frecuencia de electro estimulación de
+84Hz a 104Hz. ................................................................................................. 68
+Figura N°21: Paciente de prueba 01, con frecuencia de electro estimulación de
+114Hz. .............................................................................................................. 69
+Figura N°22: Paciente con atrofia muscular, presenta perdida de un 30% de
+fuerza muscular en la extremidad inferior derecha .......................................... 71
+FiguraN°23: Zonas donde se situaran los electrodos rasurados para un mejor
+contacto ............................................................................................................ 72
+Figura N°24: Paciente preparado para la terapia de Electro Estimulación ...... 72
+Figura N°25: Paciente recibiendo la terapia de Electro Estimulación en el
+musculo atrofiado............................................................................................. 73
 
+ÍNDICE DE TABLAS
+Tabla N°1: Rangos y Tiempos de Aplicación del Electro Estimulador .......... 29
+Tabla N°2: Variables Independientes y Dependientes..................................... 43
+Tabla N°3: Ficha de registro de datos y observaciones N°1............................ 66
+Tabla N°4: Ficha de registro de datos y observaciones N°2............................ 67
+Tabla N°5: Ficha de registro de datos y observaciones N°3............................ 70
+Tabla N°6: Ficha de registro de datos y observaciones N°4............................ 73
+Tabla N°7: Ficha de registro de datos y observaciones N°5............................ 74
 
- La prueba fue hecha para demostrar que la acción de contracción y relajación
+RESUMEN
+El presente proyecto se basa en el diseño y la implementación de un Electro
+Estimulador, dispositivo biomédico de asistencia desarrollado para tratar
+músculos atrofiados en canes domésticos, provocados por accidentes
+generalmente o por trastorno neurológico. El
 
- de un musculo, en este caso el musculo de un perro ya muerto así
+proyecto es un trabajo
 
- comprobando la acción de cronaxia para la respuesta motora, para pasar a la
+multidisciplinario que compete a la Facultad de Medicina Veterinaria y
+Zootecnia y a la Escuela Profesional de Ingeniería Electrónica. Tomando
+previos antecedentes como guía 2010 Pontificia Universidad Católica del
+Perú, 2008 Instituto Tecnológico de Mérida (Yucatán – México) y 2008
+Universidades Politécnica Salesiana (Cuenca – Ecuador).
+El dispositivo final implementado consta de tres etapas, primera etapa un
+generador de pulsos, segunda etapa un sistema de amplificación y tercera
+etapa una fuente simétrica. El dispositivo genera un impulso en corriente o
+voltaje adecuado, usamos pulsos bifásicos rectangulares modulando la
+frecuencia de dichos pulsos para que pueda contraer y relajar el musculo
+atrofiado.Las fórmulas y conceptos que se usaron dentro de este proyecto
+fueron para calcular valores de los materiales para trabajar con el LM555N y
+obtener frecuencias mínima 64Hz y máxima 114Hz deseadas, para la etapa de
+amplificación usamos transistores BD139 y BD140, para la alimentación una
+fuente simétrica de ±10v.
+Con el dispositivo implementado se hizo pruebas en la facultad de Veterinaria
+y la clínica veterinaria Sebisvet comprobando que el dispositivo no genere
+daño o dolor alguno en futuros pacientes con tratamiento de electro
 
- siguiente etapa que sería la prueba en canes vivos.
+10
 
+estimulación, con resultados favorables en canes y felinos domésticos,
+logrando el objetivo de diseñar e implementar un Electro Estimulador
+económico, portátil y de fácil manejo.
+Palabras clave:Biomédico, atrofiados, multidisciplinario, impulso, bifásico.
 
- Dicha prueba no termino con satisfactorios resultados, por el hecho de que el
+11
 
- cadáver del can había sido suministrado con formol y el musculo estaba
+ABSTRAC
+This project is based on the design and implementation of an Electro
+Stimulator biomedical assistive device developed to treat atrophied muscles in
+domestic dogs, usually caused by injury or neurological disorder. The project
+is a multidisciplinary task that falls to the Faculty of Veterinary Medicine and
+the Professional School of Electronic Engineering. Taking previous history
+guide 2010 Pontifical Catholic University of Peru, 2008 Technological
+Institute of Mérida (Yucatán - Mexico) and 2008 Salesian Polytechnic
+University (Cuenca - Ecuador).
+The terminal implemented in three stages, the first stage of a pulse generator, a
+system of second stage and third stage amplification symmetric source. The
+device generates a pulse appropriate voltage or current, use rectangular
+biphasic pulses modulating the frequency of those pulses that can contract and
+relax the muscle atrophied. The formulas and concepts used in this project
+were to calculate values of materials to work with and get LM555N low
+frequencies 64Hz and 114Hz maximum desired, for amplification step BD139
+and BD140 transistors used for feeding a symmetric source of ± 10V.
+With the implemented test device was on the faculty of veterinary medicine
+and veterinary clinic Sebisvet checking that the device does not generate any
+harm or pain in future treatment of patients with electro stimulation, with
+favorable results in dogs and domestic cats, achieving the goal of designing
+Electro Stimulation and implement an inexpensive, portable and easy to use.
+Keywords: Biomedical, atrophied, multidisciplinary, pulse biphasic.
 
- completamente tieso y no se obtuvo respuesta alguna en ningún nivel de
+12
 
- frecuencia.
+INTRODUCCIÓN
+El electro estimulador o estimulador eléctrico funcional, es un dispositivo
+biomédico de asistencia en el desarrollo de fortalecimiento muscular, firmeza
+muscular, fuerza y resistencia, entre otros diferentes fines a los cuales se va
+dirigiendo el uso del electro estimulador, como en este caso tomado para
+restaurar funciones motoras perdidas aplicando el dispositivo para un
+tratamiento de rehabilitación alternativa o en casos especiales como único
+medio de tratamiento, dicho dispositivo en el presente trabajo se orienta ya no
+a la asistencia a humanos si no a la asistencia de animales menores, en este
+caso a los perros, lo cual marca una brecha importante puesto que los humanos
+tenemos la conciencia de reconocer que nuestro cuerpo ha sufrido algún tipo
+de daño, para lo cual necesitamos rehabilitarnos y por consiguiente decidimos
+hacerlo o no, lo cual en nuestras mascotas no se da la pregunta de si necesitan
+rehabilitarse o no, y luego como lo harán, puesto que carecen del nivel de
+discernimiento del cual contamos los humanos.
+Actualmente pocos centros veterinarios en el Perú cuentan con dispositivos de
+estimulación eléctrica para rehabilitación de deficiencias neurológicas
+generadas por enfermedades propias de los canes o por accidentes físicos y
+dentro de nuestra Región Puno no se cuenta con tales dispositivos, esto
+ocasiona oportunidades poco favorables de obtener una buena rehabilitación
+para darles una buena calidad de vida a los canes domésticos que sufran
+dichos males.
+El estimulador genera un estímulo en corriente o voltaje, adecuado y tolerable
+para la activación neuromuscular mediante pulsos bifásicos rectangulares con
+13
 
+modulación o con patrones de n-pulsos así fijando la frecuencia y la amplitud
+de dichos pulsos que contraerán y relajarán los músculos tratados para que
+estos puedan recuperar su capacidad motora, fortaleciendo el musculo
+afectado.
+Para poder diseñar el electro estimulador es necesario realizar cálculos
+matemáticos para obtener los valores de nuestros componentes electrónicos a
+utilizar en la construcción de este, dichos cálculos son para obtener los rangos
+de trabajo deseados del generador para así no dañar la integridad del paciente
+y pueda recibir pulsos que pueda tolerar su cuerpo.
+El electro estimulador ya implementado cuenta con tres circuitos para el
+funcionamiento de este. Uno, el circuito de una fuente de alimentación
+simétrica de 12v o 10v que brinda carga positiva y negativa necesaria para los
+pulsos de salida del dispositivo final y con una fuente variable podremos
+variar amplitud de carga. Dos, el circuito de un generador de ondas
+rectangulares que variaran la frecuencia con las que se mandaran los pulsos.
+Tres, un circuito de amplificador con terminal final los electrodos. El
+dispositivo de Electro Estimulación ya implementado es portátil, de fácil
+manejoy bajo costo.
 
+14
 
+CAPÍTULO I: PROBLEMA,
+ANTECEDENTES Y OBJETIVOS DE LA
+INVESTIGACIÓN
 
-                                                                                   66
+15
+
+1.1. PROBLEMA
+1.1.1. Planteamiento del Problema
+
+La discapacidad del libre movimiento es la incapacidad que tienen algunos
+canes domésticos (perros), para poder moverse o correr con soltura, las
+cuales son facultades propias de una mascota. Las causas de ésta son
+variadas. Las más comunes son por causa de artrosis, displasia o problemas
+neurológicos causados por accidentes físicos, las cuales afectan los músculos
+o articulaciones en las extremidades de algunos animales menores.
+Los accidentes físicos causan atrofia muscular, queimpide la función parcial
+o total de uno o varios miembros en una mascota, lo cual imposibilitara su
+libre movimiento y por consiguiente una buena calidad de vida, para esto
+requiere de manera complementaria o en algunos casos como único medio de
+tratamiento,la electro terapia, estos traumas por accidentes en la ciudad de
+Puno son del 3.58%( frecuencia de presentación de la casuística de la clínica
+veterinaria Sebisvet 2009- 2012).
+Dentro de la ciudad de Puno las clínicas veterinarias no cuentan con
+servicios que presten rehabilitación pasivas en las mascotas que presentan
+estos daños en su fisiología.
+1.1.2. Formulación de Problema
+
+¿Cómo podemos realizar el tratamiento de problemas Neurológicos en canes
+Domésticos de la ciudad de Puno?
+
+16
+
+1.2. ANTECEDENTES DE LA INVESTIGACIÓN
+1. En agosto de 2010 se presentó el trabajo de fin de carrera “Diseño de
+un estimulador eléctrico funcional para rehabilitación física en
+miembros distales superiores con disfunción motriz” en la Pontificia
+Universidad Católica del Perú - facultad de ciencias e ingeniería.
+(Manuel Zapata, 2010)
+2. En el 2008 se presentó el trabajo de fin de carrera“Diseño y
+construcción de un electro estimulador clínico para fisioterapia y
+rehabilitación con cuatro módulos de aplicación” en la Universidad
+Politécnica Salesiana – Facultad de Ingenierías Carrera de Ingeniería
+Electrónica –Ecuador.(Freddy Bueno y Cristian Heredia, 2008)
+3. En el 2008 se presentó el trabajo de fin de carrera “Diseño de un
+dispositivo generador de corrientes interferenciales para el tratamiento
+de patologías de origen muscular y circulatorio” en el Instituto
+Tecnológico de Mérida - México.(Álvaro Cortes, 2008)
+4. El 28 de Octubre de 2008 se presentó el artículo titulado “Sistema
+Muscular. Anatomía del Perro” en el website Enciclopedia de los
+Animales.(Miguel Schweiz, 2008)
+5. En el 2000 se presentó el artículo “Miastenia Gravis Adquirida en
+Caninos Domésticos” para el Hospital para Pequeñas Especies.
+Departamento de Medicina y Zootecnia para Pequeñas Especies para
+el Departamento de patología. Facultad de Medicina Veterinaria y
+Zootecnia, Universidad Nacional Autónoma de México, D.F.(Marite
+Gonzáles y Francisco Trigo, 2000)
+
+17
+
+6. Actualmente podemos encontrar el artículo titulado “Terapias
+alternativas en la rehabilitación de nuestras mascotas” en el website de
+Dr. Robert, Hospital Veterinario.(Oscar Robert, 2007)
+7. Actualmente
+
+podemos
+
+“Electroestimulacióneb
+
+encontrar
+Perros,
+
+el
+
+artículo
+
+Electroestimulación
+
+titulado
+para
+
+la
+
+Potenciación Muscular” en el websiteOrtocanis. (Disponible en
+internet en: www.ortocanis.com– Fecha de acceso mayo 2014)
+
+18
+
+1.3. OBJETIVOS DE LA INVESTIGACIÓN
+1.3.1. OBJETIVO GENERAL
+Diseñar e implementar un electro estimulador para tratamiento de problemas
+Neurológicos en canes domésticos de la ciudad de Puno.
+1.3.2. OBJETIVOS ESPECÍFICOS
+1. Diseñar un generador de ondas cuadradas con frecuencias variables
+preestablecidas y cuyas duraciones de pulso sean variables en rangos
+preestablecidos.
+2. Diseñar e implementar un circuito de adaptación de señal que le
+transmita de manera segura ésta al paciente las cargas a través de
+electrodos superficiales.
+3. Conseguir la recuperación completa o parcial de pacientes a tratar
+(canino).Con problemas Neurológicos de la ciudad de Puno.
+4. Implementar un Electro Estimulador para canes.
+
+19
+
+CAPÍTULO II: MARCO TEÓRICO,
+MARCO CONCEPTUAL E HIPÓTESIS
+DE LA INVESTIGACIÓN
+
+20
+
+2.1. MARCO TEÓRICO
+2.1.1. Fisiología del Sistema Nervioso
+El sistema nervioso del perro dividido en dos por el sistema nervioso central
+(SNC) el cual incluye al encéfalo ( Cerebro, cerebelo y el tronco del
+encéfalo) y la médula espinal .y por el sistema nervioso periférico, formado
+por nervios craneales, espinales y nervios específicos.
+A nivel anatómico-funcional el sistema nervioso
+
+se divide en sistema
+
+nervioso somático el cuál se encarga de las funciones voluntarias en el
+organismo (tacto, olor, movimiento muscular etc.) y en el sistema nervioso
+autónomo o vegetativo (Simpático y para simpático), cuya característica es la
+de regular las funciones involuntarias del organismo, como lo son el latido
+del corazón, funciones viscerales, movimiento intestinal etc. Su unidad
+celular es la neurona cuya función principal es la de enviar (Células
+motoras)y de recibir (Células sensitivas) estímulos a través de las fibras
+nerviosas.
+Las funciones del SN a nivel fisiológico en el organismo del perro, son tres,
+la sensitiva (Función sensitiva) mediante los sentidos del gusto, el olfato, la
+audición, el tacto y la vista, de tal manera que las señales recibidas del
+exterior son captadas y procesadas (función procesadora) por los receptores
+del SNC, el cerebro, el cerebelo y la médula espinal y ser transmitidas
+mediante impulsos efectores hacia los músculos esqueléticos (Función
+motora).
+En el sistema nervioso pues, se reúne, transporta, integra y disemina la
+información por medio de impulsos nerviosos eléctricos a través de las redes
+21
+
+nerviosas central y periférica. Las funciones del SN en el perro son variadas
+pero podemos decir en términos prácticos que su responsabilidad es permitir
+que el organismo sea capaz de reaccionar adecuadamente a los cambios que
+se produzcan en su entorno, adaptarse a él y poder sobrevivir.(Disponible en
+internet en: www.crianzacanina.com– Fecha de acceso: mayo2014)
+
+Figura N°1: Diferentes tipos estructurales de neuronas.
+Fuente: El portal del criador doméstico.
+
+2.1.2. Sistema Muscular Anatomía del Perro
+Los músculos se fijan a los huesos por medio de los tendones que poseen un
+color blanco madreperla y son muy resistentes pero nada elásticos. Los
+músculos voluntarios se denominan estriados y se da el nombre de
+musculatura lisa a los músculos cuyo movimiento no está dirigido por la
+voluntad. Esta diferencia se debe a la naturaleza histiológica de esas
+estructuras.
+22
+
+Los músculos causan la movilidad de las articulaciones óseas al contraerse y
+dilatarse, originando de esta manera el movimiento. Pero los músculos tienen
+también otras funciones: los que unen las costillas entre sí, por ejemplo,
+desarrollan un papel activo en la inspiración, mientras que la expiración, por
+el contrario, sucede pasivamente.
+Otros músculos no actúan sobre los huesos pero sirven para abrir y cerrar los
+esfínteres naturales.
+Por los tanto, todos los movimientos efectuados, voluntarios o no, ponen en
+juego cierto número de músculos. Estos son de varios tipos:
+Los músculos estriados, responsables de los movimientos voluntarios del
+esqueleto, de los globos oculares y de la lengua.
+Los músculos lisos, responsables de los movimientos involuntarios de las
+vísceras.
+El músculo cardíaco, con una estructura semejante a la del músculo estriado
+pero con un funcionamiento idéntico al músculo liso.
+El cuerpo comprende alrededor de 400 músculos estriados, lo que representa
+el 40 a 60 % del peso corporal. De manera general, estos músculos se
+insertan en las piezas óseas por medio de tendones.(Miguel Schweiz. 2008)
+
+23
+
+2.1.2.1. Músculos Superficiales del Perro
+
+Figura N°2: Músculos Superficiales del Perro
+Fuente: SCHWEIZ, Miguel. Enciclopedia de Animales.
+
+1. Glándula parótida
+2. Glándula mandibular
+3. M. braquiocefálico
+4. M. esternocefalico
+5. M. trapecio
+6. M. dorsal ancho
+7. Músculos abdominales
+8. M. glúteo
+9. Músculos de la cola
+10. M. tensor de la fascia lata
+11. M. bíceps femoral
+12. M. semitendinoso
+13. M. gastrocnemio
+14. M. flexor de los dedos
+15. Tendón calcáneo común
+16. M. extensor largo del dedo
+17. M. tibial craneal
+
+18. M. intercostales externos
+19. M. pectoral ascendente
+20. M. flexor del carpo
+21. M. extensor del carpo
+22. M. extensor de los dedos
+23. M. extensor del carpo
+24. M. bíceps braquial
+25. M. pectorales
+26. M. tríceps braquial
+27. M. deltoides
+28. M. hioides
+29. M. orbicular de la boca
+30. M. cigomático
+31. M. elevador nasolabial
+32. M. masetero
+33. M. orbicular del ojo
+34. M. temporal.
+24
+
+2.1.3. Miastenia Gravis Adquirida en Canes Domésticos
+La Miastenia Gravis es una neuropatía caracterizada por la deficiencia o falla
+en la transmisión neuromuscular. Clínicamente se caracteriza por una
+debilidad muscular que empeora con el ejercicio y disminuye con el
+descanso, o con la administración de fármacos anticolinesterasas. Es común
+observar un decremento en la amplitud de los potenciales de acción posterior
+a la estimulación nerviosa repetitiva. Esta enfermedad es de atribución
+mundial y se ha descrito en perros, muy rara vez en perros y también en los
+humanos.(Marite Gonzáles y Francisco Trigo, 2000)
+2.1.4. Fisioterapia Canina
+Antes de cualquier tratamiento, se realiza una evaluación y un examen
+detallados. Idealmente, se debe aportar un diagnóstico de un veterinario.
+Según los resultados de la evaluación, se fiarán objetivos y los métodos
+terapéuticos adecuados para cada caso, siempre con el máximo cuidado.
+Se trata de técnicas que tienen por objetivo recuperar la función de la masa
+muscular, el movimiento normal, la fuerza, reducir el dolor, la inflamación y
+acelerar el proceso de rehabilitación, podemos mencionar los siguientes
+tratamientos:(Ellen Mitschke, 2000)
+
+
+Masaje descontracturante o de tonificación muscular. A través de
+un masaje suave se consigue aumentar el riego sanguíneo del tejido
+conectivo, reduciendo así la contractura y la hipertensión muscular, lo
+que se traduce en menos dolor. Mientras que mediante un masaje más
+fuerte y vigoroso, lo que se consigue es incrementar el tono muscular
+
+25
+
+y estimularlos músculos, por ejemplo, después de una parálisis.
+Además, los masajes tienen un efecto calmante sobre perros
+nerviosos, y les ayuda a mejorar su capacidad de auto curación.
+
+
+Terapias de frío y calor. Con bolsas o packs calientes se consigue
+reducir el dolor y relajar los músculos. La aplicación de frío sirve
+para reducir la inflamación, y se puede aplicar conjuntamente con
+árnica para un mayor efecto.
+
+
+
+Movimientos pasivos y estiramientos. Mediante técnicas de
+tracción y de movimientos pasivos se consigue recuperar el
+movimiento de una articulación que tiene un tono muscular limitado.
+Se emplea en casos de accidentes, cirugías o enfermedades
+degenerativas, y se consigue recuperar la flexibilidad y la
+coordinación.
+
+
+
+Terapia manual ortopédica. Tiene efectos similares a los
+movimientos pasivos y estiramientos, pero está especialmente
+indicado para las articulaciones, para mejorar su rango de
+movimientos y frenar los procesos degenerativos, ya que ayuda a la
+correcta creación de líquido sinovial.
+
+
+
+Drenaje linfático. A través de una manipulación suave y ondulada se
+activa la circulación linfática, el sistema inmunológico del cuerpo, lo
+que ayuda a reducir edemas (inflamación) de diferentes orígenes, así
+como reducir dolor. Esta técnica es útil para aliviar problemas como
+hipertonía muscular o para el tratamiento de cicatrices.
+
+
+
+Tratamientos neurológicos / parálisis. El principal objetivo es
+fomentar la recuperación de las funciones corporales limitadas,
+
+26
+
+ejercitar reflejos y patrones, y mantener o fortalecer los músculos.
+Engloba una amplia gama de técnicas terapéuticas, como el masaje
+estimulante,
+
+ejercicios
+
+de
+
+estabilización,
+
+electroterapia,
+
+hidroterapia..., que se aplican en caso de hernias, síndrome de caudaequina,
+
+lesiones
+
+neurológicas,
+
+después
+
+de
+
+cirugía
+
+para
+
+rehabilitación,...
+
+
+Vibrosphere. Combina vibración y equilibrio, lo cual ayuda a
+estimular las funciones corporales, y el metabolismo de los músculos,
+vasos sanguíneos y sistema linfático, mejorando la resistencia. Sirve
+para tratamientos neurológicos, rehabilitación después de cirugía, y
+para perros de avanzada edad, ayudándolos a mantener la fuerza
+muscular y la coordinación.
+
+
+
+Láser terapia / Láser acupuntura. Para estimular puntos de
+acupuntura o tratar lesiones de piel tras la cirugía.
+
+
+
+Tratamientos de campo magnético. Sirve para calmar perros
+nerviosos, especialmente durante el primer tratamiento, o para
+estimular a perros débiles, y se usa principalmente para asistir a otro
+métodos
+
+
+
+Electroterapia,
+
+Ultrasonido,
+
+Electroanalgesia,
+
+Electroestimulación. Para reducir dolor, inflamación, procesos
+inflamatorios, estimular/activar músculos o nervios, incrementar el
+aporte sanguíneo a la zona lesionada, asistir al tratamiento de tejido
+conectivo.
+
+27
+
+2.1.4.1. Electro Estimulación el Canes Domésticos
+La electroestimulación es una herramienta muy útil para potenciar la
+musculatura de un perro que ha sufrido una lesión o intervención quirúrgica
+y como resultado sufra atrofia muscular.
+Podemos utilizar corriente eléctrica para estimular la musculatura,
+potenciarla y hacerla trabajar. Está especialmente indicada en casos de
+atrofia muscular, y sobretodo en casos en que el perro no puede hacer trabajo
+activo. Si el perro puede hacer trabajo activo la electroterapia será un apoyo,
+nunca la principal fuente de trabajo.
+La forma del impulso que utilizaremos será la Rectangular, bifásica simétrica
+como indican los principales autores: ThepautMathieu 1992, Kramer 1984,
+Bircan 2002.
+Los aparatos de electroestimulación humana se pueden adaptar para
+electroestimular perros sin demasiados problemas, pero nos debemos
+asegurar que podemos variar las frecuencias, y sobretodo las amplitudes del
+impulso eléctrico para adaptarse bien a las características propias del perro.
+No hay buenos estudios de Cronaxia en perros, los valores aproximados son
+de 0.3 humana, 0.2 Caballos y en perros por estudios de menos calado
+intuyen valores similares;Sawaya - Meallier 2006, Brodart 1998, Coarasa
+1999.
+La Intensidad según Hultaman 1983, y Ogino 2002 debe ser elevada con
+contracción visible, sin llegar al límite del dolor pero si de la molestia. El
+
+28
+
+perro debe soportar de forma confortable la sesión pero la musculatura debe
+trabajar de forma intensa.
+La frecuencia la marcaremos según el objetivo, diversos autores validan esta
+opción: Pougheon 1992, Busko 1989, Vanderthommen 2002.
+Objetivo
+
+Frecuencia
+
+Tiempo tratamiento
+
+Tiempo reposo
+
+Relajación:
+
+5 Hz
+
+Continuo
+
+0
+
+Calentamiento:
+
+5 Hz
+
+Continuo
+
+0
+
+Endurecimiento:
+
+10-20 Hz
+
+9 min
+
+2 min
+
+Atrofia:
+
+33 Hz
+
+6 min
+
+6 min
+
+Fuerza:
+
+50-100 Hz
+
+5 min
+
+25 min
+
+Fuerza Explosiva:
+
+100-200 Hz
+
+3 min
+
+30 min
+
+Tabla N°1: Rangos y Tiempos de Aplicación del Electro Estimulador
+Fuente: Pougheon 1992, Busko 1989, Vanderthommen 2002,www.ortocanis.com.
+
+Los parámetros pueden variar ligeramente atendiendo a las necesidades de
+cada caso.El tiempo de reposo se puede ajustar si éste es activo. Es
+recomendable el uso de rampas antes de la contracción muscular fuerte.
+La intensidad siempre debe ser la máxima manteniendo un relativo
+confort.Tiempo total entre 10 y 30 minutos dependiendo de la fase de la
+lesión. Fatigar la musculatura excesivamente no ayuda a potenciar la
+musculatura de forma correcta.
+Es impórtate tener un aparato que cumpla con todos los requisitos, si este va
+a ser utilizado por un centro de rehabilitación canina u hospital veterinario se
+
+29
+
+recomienda un aparato de sobremesa más profesional y con el podremos usar
+programas específicos para cada uno de nuestros pacientes.
+El uso de electrodos de goma y gel de contacto es igualmente recomendable
+en animales con pelo.(Disponible en internet en: www.ortocanis.com –
+Fecha de acceso: diciembre mayo 2014)
+2.1.5. La Onda Eléctrica
+En física, una onda consiste en la propagación de una perturbación de alguna
+propiedad de un medio, por ejemplo, densidad, presión, campo eléctrico o
+campo magnético, a través de dicho medio, implicando un transporte de
+energía sin transporte de materia. El medio perturbado puede ser de
+naturaleza diversa como aire, agua, un trozo de metal e incluso inmaterial
+como el vacío.La magnitud física cuya perturbación se propaga en el medio
+se expresa como una función tanto de la posición como del tiempo.
+Matemáticamente se dice que dicha función es una onda si verifica la
+ecuación de ondas:(Disponible en internet en: es.wikipedia.org/wiki/Onda –
+Fecha de acceso: mayo 2014)
+→
+
+→
+
+…(1)
+
+2.1.5.1. Elementos de Una Onda
+
+
+Cresta: La cresta es el punto de máxima elongación o máxima
+amplitud de la onda; es decir, el punto de la onda más separado de su
+posición de reposo.
+
+
+
+Período (T): El periodo es el tiempo que tarda la onda en ir de un
+punto de máxima amplitud al siguiente.
+
+30
+
+
+
+Amplitud (A): La amplitud es la distancia vertical entre una cresta y el
+punto medio de la onda. Nótese que pueden existir ondas cuya
+amplitud sea variable, es decir, crezca o decrezca con el paso del
+tiempo.
+
+
+
+Frecuencia (f): Número de veces que es repetida dicha vibración por
+unidad de tiempo. En otras palabras, es una simple repetición de
+valores por un período determinado.
+…(2)
+
+
+
+Valle: Es el punto más bajo de una onda.
+
+
+
+Longitud de onda (λ): Es la distancia que hay entre el mismo punto
+de dos ondulaciones consecutivas, o la distancia entre dos crestas
+consecutivas.
+
+
+
+Nodo: es el punto donde la onda cruza la línea de equilibrio.
+
+
+
+Elongación (x): es la distancia que hay, en forma perpendicular, entre
+un punto de la onda y la línea de equilibrio.
+
+
+
+Ciclo: es una oscilación, o viaje completo de ida y vuelta.
+
+
+
+Velocidad de propagación (v): es la velocidad a la que se propaga el
+movimiento ondulatorio. Su valor es el cociente de la longitud de onda
+y su período.
+…(3)
+
+31
+
+2.1.6. Tipos de Onda
+2.1.6.1. Onda Cuadrada
+Se conoce por onda cuadrada a la onda de corriente alterna (CA) que alterna
+su valor entre dos valores extremos sin pasar por los valores intermedios (al
+contrario de lo que sucede con la onda senoidal y la onda triangular, etc.). Se
+usa principalmente para la generación de pulsos eléctricos que son usados
+como señales (1 y 0) que permiten ser manipuladas fácilmente, un circuito
+electrónico que genera ondas cuadradas se conoce como generador de pulsos,
+este tipo de circuitos es la base de la electrónica digital. (Disponible en
+internet en: es.wikipedia.org/wiki/Onda_cuadrada– Fecha de acceso: mayo
+2014)
+( )…(4)
+
+Figura N°3: Onda Cuadrada Par
+Fuente: Archivopersonal
+
+32
+
+2.1.6.2. Onda Triangular
+La onda triangular es un tipo de señal periódica que presenta unas
+velocidades de subida y bajada (SlewRate) constantes. Lo más habitual es
+que sea simétrica, es decir que, los tiempos de subida y bajada son iguales.
+(Disponible en internet en: es.wikipedia.org/wiki/Onda_triangular- Fecha de
+acceso: mayo 2014)
+
+Figura N°4: Onda Triangular
+Fuente: Archivopersonal
+
+33
+
+2.1.6.3. Onda Sinusoidal
+En matemáticas, se llama sinusoide la curva que representa gráficamente la
+función seno y también a dicha función en sí. (Disponible en internet en: Fecha de acceso: es.wikipedia.org/wiki/Sinusoidemayo 2014)
+
+Figura N°5: Onda Sinusoidal
+Fuente: Archivopersonal
+
+34
+
+2.2. MARCO CONCEPTUAL
+2.2.1. Electro Terapia
+La electroterapia es una disciplina que se engloba dentro de la medicina
+física y rehabilitación y se define como el arte y la ciencia del tratamiento de
+lesiones y enfermedades por medio de la electricidad.La Historia de la
+Electroterapia es muy antigua y se remonta a la aplicación de las descargas
+del pez torpedo en la época griega y romana. Actualmente, la tecnología ha
+desarrollado numerosos aparatos (productos sanitarios) para la aplicación de
+la electroterapia sin correr riesgos de efectos secundarios.(Inmaculada
+Olivares, 2013, Agentes Físicos, Electroterapi. Universidad de Valencia,
+España)
+2.2.2. Electroanalgesia
+Electroanalgesia es una forma de analgesia o alivio del dolor, que utiliza
+electricidad para aliviar el dolor. Eléctricos dispositivos pueden ser interno o
+externo, en el sitio del dolor (local) o deslocalizada a lo largo de todo el
+cuerpo. Funciona al interferir con las corrientes eléctricas de las señales de
+dolor, inhibiendo que lleguen al cerebro e inducir una respuesta; diferente de
+los analgésicos tradicionales, como los opiáceos que imitan las endorfinas
+naturales y AINE S (medicamentos anti-inflamatorios no esteroideos) que
+ayudan a aliviar la inflamación y detener el dolor en la fuente.
+Electroanalgesia tiene un menor potencial adictivo y plantea menos riesgos
+para la salud a la población en general, pero puede causar problemas de salud
+graves, incluso la muerte, en personas con otros dispositivos eléctricos, como
+marcapasos o audífonos internos o con problemas del corazón.(Disponible en
+
+35
+
+internet en: www.wikipedia.org/wiki/Electroanalgesia - Fecha de acceso:
+mayo 2014)
+2.2.3. Histología
+La histología (del griego ἱστόςhistós "tejido" y λογία logía "tratado, estudio,
+ciencia") es la ciencia que estudia todo lo relacionado con los tejidos
+orgánicos: su estructura microscópica, su desarrollo y sus funciones. La
+histología se identifica a veces con lo que se ha llamado anatomía
+microscópica, pues su estudio no se detiene en los tejidos, sino que va más
+allá, observando también las células interiormente y otros corpúsculos,
+relacionándose con la bioquímica y la citología.(Disponible en internet en:
+www.wikipedia.org/wiki/Histologia - Fecha de acceso: mayo 2014)
+2.2.4. Corriente Farádica
+La corriente farádica, ya sea en forma de general o localizada, faradismo se
+ha utilizado desde finales del siglo XIX. El pulso de la corriente farádica es
+bifásica y asimétrica. Desde principios de los años 40 hasta los años 60, la
+corriente farádica se consideró más cómoda que la corriente directa. La
+mayoría de los terapeutas físicos erróneamente que la relativa comodidad de
+pulso farádico pasó a ser una forma de corriente alterna. El conocimiento
+actual indica que la verdadera razón de este consuelo es que el pulso farádico
+es simplemente más corto que el de corriente continua.
+La corriente farádica de onda bifásica y asimétrica se convierte en menos de
+una corriente bifásica simétrica incluso con muñecas más pequeñas. Aunque
+farádica originalmente bifásica ser asimétrica, equipos modernos son capaces
+
+36
+
+de proporcionar tanto simétrica como pulsos monofásicos (neofarádica)
+impulsos bifásicos.
+La corriente farádica es una corriente de excitación de baja frecuencia, 50100 Hz, con anchura de pulso de 0,1 a 1 ms y 20 ms intervalo, que tiene fines
+de diagnóstico y terapéuticos.
+La corriente farádica era originalmente de CA de frecuencia muy
+irregular.Este error fue la causa de la modificación rápida tal como se
+describe por Faraday previamente. Cadena Así neofarádica, una variación de
+la corriente farádica producido en algunos dispositivos. Actualmente es una
+corriente estimulante que consiste en pulsos triangulares con una duración de
+1 ms y un intervalo de 19 ms con una frecuencia de 50 Hz. La corriente
+farádica original es un corriente alterna, ya neofarádica se convirtió en una
+interrupción de corriente continua con una duración de pulso de 1 ms y 19
+ms de intervalo.A diferencia de la corriente galvánica, la corriente farádica
+original no está polarizado, es decir, no tiene polos positivos y
+negativos.(Romero Bustillo, 2010)
+2.2.5. Cronaxia
+En la descripción matemática que se hace del sistema nervioso, se denomina
+cronaxia (o cronaxy) al intervalo de tiempo que debe aplicarse una corriente
+eléctrica para conseguir una respuesta mínima con una intensidad doble de la
+reobase (respuesta motora o sensitiva, aunque habitualmente se hace
+referencia a la motora). El término "cronaxia" y "reobase" fue acuñado en
+1909 por el fisiólogo francés Louis Lapicque. Es por lo tanto una medición
+de la excitabilidad del tejido nervioso o muscular. Se denomina igualmente
+
+37
+
+tiempo de utilización al tiempo necesario para que la reobase tenga
+efecto.(Disponible en internet en: www.wikipedia.org/wiki/Cronaxia - Fecha
+de acceso: mayo 2014)
+2.2.6. Elongación (Física)
+La elongación en mecánica es la distancia que, en cada instante, separa a una
+partícula sometida a oscilación. Por extensión, en la física se define la
+elongación como el cambio del valor de una magnitud física con respecto a
+su valor de equilibrio.En física, la elongación se refiere comúnmente a los
+sistemas oscilantes, tanto materiales (ejemplo, masa sujeta a un muelle)
+como inmateriales (oscilaciones electromagnéticas).(Disponible en internet
+en: es.wikipedia.org/wiki/Elongación_(física) - Fecha de acceso 2014)
+2.2.7. Oscilación
+Se denomina oscilación a una variación, perturbación o fluctuación en el
+tiempo de un medio o sistema. Si el fenómeno se repite, se habla de
+oscilación periódica.Oscilación, en física, química e ingeniería es el
+movimiento repetido de un lado a otro en torno a una posición central, o
+posición de equilibrio. El recorrido que consiste en ir desde una posición
+extrema a la otra y volver a la primera, pasando dos veces por la posición
+central, se denomina ciclo. El número de ciclos por segundo, o hercios (Hz),
+se conoce como frecuencia de la oscilación empleada en el MAS
+(Movimiento
+
+Armónico
+
+Simple).(Disponible
+
+en
+
+internet
+
+en:
+
+es.wikipedia.org/wiki/Oscilación -Fecha de acceso 2014)
+
+38
+
+2.2.8. SlewRate
+En electrónica el SlewRate (SR) es un efecto no lineal en los amplificadores.
+Representa la incapacidad de un amplificador para seguir variaciones rápidas
+de la señal de entrada. Se le define como la máxima tasa de cambio en el
+voltaje de salida cuando el voltaje de entrada cambia. Es decir el slewrate de
+un amplificador se define como el rango máximo de cambio de la tensión de
+salida para todas las señales de entrada posibles, por lo que limita la
+velocidad de funcionamiento, es decir la frecuencia máxima a la que puede
+funcionar el amplificador para un nivel dado de señal de salida. (Disponible
+en internet en: es.wikipedia.org/wiki/Slew_rate – Fecha de acceso: mayo
+2014)
+2.2.9. Simuladores de Circuitos Electrónicos
+Un simulador de circuitos electrónicos es una herramienta de software
+utilizada por profesionales en el campo de la electrónica y los estudiantes de
+las carreras de tecnologías de información. Ayuda a crear algún circuito que
+se desee ensamblar, ayudando a entender mejor el mecanismo, y ubicar las
+fallas dentro del mismo de manera más fácil y sencilla. Podemos mencionar
+uno de los más usados, el Proteus es una compilación de programas de
+diseño y simulación electrónica, desarrollado por LabcenterElectronics que
+consta de los dos programas principales: Ares e Isis, y los módulos VSM y
+Electra.(Disponible
+
+en
+
+internet
+
+es.wikipedia.org/wiki/Simulador_de_circuitos_electrónicos
+
+en:
+–
+
+Fecha
+
+de
+
+acceso: mayo 2014)
+
+39
+
+2.2.10. Configuración Astable
+En electrónica, un astable es un multivibrador que no tiene ningún estado
+estable, lo que significa que posee dos estados "cuasi-estables" entre los que
+conmuta, permaneciendo en cada uno de ellos un tiempo determinado. La
+frecuencia de conmutación depende, en general, de la carga y descarga de
+condensadores.Entre sus múltiples aplicaciones se cuentan la generación de
+ondas periódicas (generador de reloj) y de trenes de impulsos. (Disponible en
+internet en: es.wikipedia.org/wiki/Astable – Fecha de acceso: abril 2014)
+2.2.11. Transformador
+Se denomina transformador a un dispositivo eléctrico que permite aumentar
+o disminuir la tensión en un circuito eléctrico de corriente alterna,
+manteniendo la potencia. La potencia que ingresa al equipo, en el caso de un
+transformador ideal (esto es, sin pérdidas), es igual a la que se obtiene a la
+salida. Las máquinas reales presentan un pequeño porcentaje de pérdidas,
+dependiendo de su diseño y tamaño, entre otros factores.El transformador es
+un dispositivo que convierte la energía eléctrica alterna de un cierto nivel de
+tensión, en energía alterna de otro nivel de tensión, basándose en el
+fenómeno de la inducción electromagnética. Está constituido por dos bobinas
+de material conductor, devanadas sobre un núcleo cerrado de material
+ferromagnético, pero aisladas entre sí eléctricamente. La única conexión
+entre las bobinas la constituye el flujo magnético común que se establece en
+el núcleo. El núcleo, generalmente, es fabricado bien sea de hierro o de
+láminas apiladas de acero eléctrico, aleación apropiada para optimizar el
+flujo magnético. Las bobinas o devanados se denominan primario y
+
+40
+
+secundario según correspondan a la entrada o salida del sistema en cuestión,
+respectivamente. También existen transformadores con más devanados; en
+este caso, puede existir un devanado "terciario", de menor tensión que el
+secundario.(Disponible en internet en: es.wikipedia.org/wiki/Transformador
+– Fecha de acceso: marzo 2014)
+
+41
+
+2.3. HIPÓTESIS DE LA INVESTIGACIÓN
+2.3.1. FORMULACIÓN DE LA HIPÓTESIS
+Al diseñar e implementar un dispositivo de estimulación eléctrica funcional
+daremos una mejor calidad de vida a los canes domésticos con miembros
+atacados con artrosis, displacía, entre otros problemas neurológicos.
+2.3.1.1. HIPOTESIS ESPECIFICAS
+1. Las ondas cuadradas son las más adecuadas puesto que generaremos
+un pulso fijo para generar un pulso de corriente farádica necesario para
+tratamiento terapéutico y con frecuencia de 50hz – 100hz.
+2. El dispositivo de electro estimulación permitirá mandar las cargas
+mediante electrodos a las zonas con atrofia muscular de manera segura.
+3. El dispositivo de electro estimulación funcional final podrá asegurar la
+recuperación completa o parcial de las zonas tratadas del paciente.
+4. Al momento de implementar se comprobara si el diseño necesita
+ajustes para poder alcanzar los resultados deseados.
+
+42
+
+2.3.1.2. VARIABLES DE ESTUDIO E INDICADORES
+
+VARIABLE
+
+DE VARIABLE
+
+MEDIDA
+
+ESTUDIO
+Independiente
+
+Amplitud
+
+de
+
+Onda, Voltios, amperios
+
+voltaje y corriente
+Independiente
+
+Frecuencia de onda
+
+Hz
+
+Dependiente
+
+Pacientes recuperados
+
+5
+
+Dependiente
+
+Tasa de mortandad de 0
+canes
+
+Tabla N°2: Variables Independientes y Dependientes.
+Fuente: Archivo personal.
+
+43
+
+CAPÍTULO III: METODOLOGÍA Y
+DISEÑO DE INGENIERÍA
+
+44
+
+3.1. METODOLOGÍA DE LA INVESTIGACIÓN
+3.1.1. TIPO DE INVESTIGACIÓN
+El tipo investigación es experimental puesto que se aplicara conocimientos y
+teoría con la finalidad de un buen diseño para seguir con la implementación
+del dispositivo en cuestión para poder tratar a los pacientes.
+3.1.2. TÉCNICAS:
+
+
+Análisis Documental.
+
+
+
+Observación Experimental.
+
+3.1.3. INSTRUMENTOS:
+
+
+Ficha de Registro de Datos.
+
+
+
+Material y equipos de laboratorio de electrónica básica de la Escuela
+Profesional de Ingeniería Electrónica de la Universidad Nacional del
+Altiplano Puno.
+
+
+
+Software de simulación Águila, Proteus.
+
+
+
+Bibliografía referente a los trastornos Neuromusculares, Electroterapia.
+
+45
+
+3.2. DISEÑO DE INGENIERÍA
+3.2.1
+
+ECUACIONES PARA OBTENERFRECUENCIAS MAXIMA Y
+MINIMA
+
+PARA
+
+EL
+
+DISEÑO
+
+DEL
+
+CIRCUITO
+
+DEL
+
+DISPOSITIVO
+Para generar pulsos cuadrados de frecuencias variables entre 50 y 100 Hz
+con ancho de pulso que oscile entre 200 y 800 µseg y Valores discretos de
+amplitud: 0 y 5 voltios, se tiene como mejor opción al C.I. LM555N respecto
+al XR-2206, el LM555N puede generar un tren de pulsos de 5 V de 80 Hz
+con un tiempo en alta de 200 u segundos. Para este fin se utilizó el
+temporizador Timer 555 en configuración Astable.
+…(5)
+…(6)
+
+Dónde:
+:Resistencia entre Vcc y pin 7 del C.I. 555
+: Resistencia entre pin 7 y pin 6 del C.I. 555
+: Condensador entre pin 6 y GND
+: Tiempo en alta a la salida del C.I. 555 (pin3)
+: Tiempo en baja a la salida del C.I. 555 (pin3)
+: Frecuencia de oscilación a la salida del C.I. 555 (pin3)
+
+46
+
+3.2.1.1. DISEÑO DEL GENERADOR DE PULSOS
+Se optó por el temporizador 555 por ser más barato, pequeño y de
+configuración más sencilla para cumplir los requerimientos señalados
+anteriormente.
+Con los cálculos ya mencionados en el Cap. III, tenemos las
+
+para
+
+obtener las frecuencias máxima y mínima respectivamente las cuales son
+nuestro rango de trabajo y carga tolerable que se le suministrara al paciente.
+Dados los requisitos de frecuencia y ancho de pulso y tomando como valor
+1
+
+, se obtiene los rangos siguientes:
+
+Por conveniencia (no trabajar valores fuera del rango) se optó por el valor de
+. Se varío las frecuencias hasta valores aceptables (dentro de los
+cuáles se acomodaron a valores de resistencia existentes en el mercado)
+De tal manera que:
+
+De tal manera que existen los siguientes valores:
+
+47
+
+Para
+
+mínimo: (frecuencia máxima)
+
+Para
+
+máximo: (frecuencia mínima)
+
+Componente del generador de pulsos:
+
+
+1 C.I. LM555N (hoja de especificaciones en Anexos)
+
+
+
+Resistencias 1
+
+
+
+1 Resistencia variable de 10
+
+
+
+1 Condensador electrolítico de 1
+
+3.2.2. OPCIONES
+
+, 12
+
+DE
+
+CONFIGURACIONES
+
+APLIFICADORES
+
+PARA
+
+CUMPLIR
+
+DE
+
+CIRCUITOS
+CON
+
+LOS
+
+REQUERIMIENTOS DEL DISEÑO
+Requerimientos
+
+
+
+
+
+(Impedancia de entrada) alta
+(Impedancia de salida) pequeña
+(Ganancia de corriente)
+(Ganancia de voltaje)
+
+
+
+Alimentación
+
+
+
+Estabilidad en cruce por cero de la señal
+
+DC
+
+48
+
+Opciones
+
+
+Amplificador Darlington. Esta configuración utiliza un transistor
+Darlington. Tiene impedancia de entrada alta, impedancia de salida
+baja, una alta ganancia de corriente y una ganancia de voltaje cerca a
+la unitaria. Presenta distorsión en su señal de salida.
+
+
+
+Circuito en contrafase de simetría complementaria.
+
+Esta
+
+configuración utiliza dos transistores complementarios (pnp y npn).
+Tiene impedancia de entrada alta, impedancia de salida no muy
+pequeña, alta ganancia de corriente acorde al tipo de transistor que
+utiliza y ganancia de voltaje unitaria. Presenta distorsión ante cruce
+por cero de la señal.
+
+
+Circuito en contrafase de simetría complementaria usando
+transistores en configuración Darlington. Esta configuración
+Utiliza dos transistores npn y dos transistorespnp en configuración
+Darlington en contrafase. Presenta alta impedancia de entrada, baja
+impedancia de salida, alta ganancia de corriente, ganancia de voltaje
+cercana a la unidad y no presenta ni distorsión de señal ni distorsión
+de señal en cruce por cero.
+
+3.2.2.1. DISEÑO DEL CIRCUITO AMPLIFICADOR
+Se optó por usar el circuito en contrafase de simetría complementaria usando
+transistores en configuración Darlington por cumplir con todos los
+requerimientos ya señalados.
+Esta etapa viene a ser un seguidor de voltaje de la señal. Consiste en un
+arreglo de cuatro transistores de potencia en configuración Darlington (2
+
+49
+
+BD139 npn y 2 BD140pnp) en configuración de contrafase de simetría
+complementaria con las respectivas resistencias de polarización. Un fusible
+de 1 A para evitar excesos de corriente al paciente.
+Se eligieron los transistores BD139 y BD140 por cumplir con las siguientes
+especificaciones (véase hojas técnicas en anexo):
+…(8)
+…(9)
+Tiempo de respuesta menor a 2
+Componentes del amplificador
+
+
+2 transistores BD139 (hoja de especificaciones en Anexos)
+
+
+
+2 transistores BD140(hoja de especificaciones en Anexos)
+
+
+
+2 resistencias de 1
+
+
+
+2 resistencias de 100
+
+
+
+1 bornera de 3 entradas
+
+
+
+1 zócalo
+
+
+
+Un fusible de 1 A
+
+(de 1 waht)
+
+50
+
+Figura N°6: Circuito Esquemático del Generador de Pulsos y Amplificador
+Acoplados.
+Fuente: Archivo Personal.
+
+3.2.3. OPCIONES PARA LA AMPLIFICACION DE LA SEÑAL
+SEGÚN LOS REQUERIMIENTOS DE DISEÑO
+Requerimientos del diseño
+
+
+Amplificación de la señal 20 veces para tener una señal de hasta 100
+V de amplitud.
+
+
+
+Salida del amplificador debe suministrar pulsos cuadrados o
+farádicos.
+
+Opciones
+
+
+Circuito DC-DC. Este circuito brinda una salida amplificada de la
+señal DC en un voltaje DC. Su implementación es compleja. Entrega
+pulsos farádicos a su salida.
+
+51
+
+
+
+Transformador. Amplifica señales AC. Funciona para pulsos
+cuadrados dando a la salida pulsos farádicos. Sencillo de
+implementar.
+
+3.2.3.1. AMPLIFICACIÓN DE LA SEÑAL DE SALIDA
+Se optó por el transformador por ser más sencillo que el circuito DCDC. Esta etapa consiste de un transformador que amplifica la señal 10
+veces. El voltaje máximo a la entrada del transformador es de 10 V
+DC, por lo tanto, a la salida tendremos 100 V DC pico, la seña de la
+corriente se divide entre 10 y la corriente de salida pico será
+aproximadamente 95mA. La señal en el primario del transformador es
+un pulso cuadrado, pero en el secundario se obtiene un pulso farádico
+derivando la onda cuadrada, el cual es válido para la estimulación
+muscular.
+
+Figura N°7: Pulso Cuadrada de Entrada al Transformador y Pulso Farádico a
+la salida del mismo.
+Fuente: Zapata V. Manuel (2010)
+
+3.2.4. ELECTRODOS
+Requerimientos
+
+
+Electrodos de estimulación eléctrica muscular.
+
+
+
+Reutilizables.
+
+52
+
+Opciones
+
+
+Electrodos invasivos Estimulación directa al músculo o nervio.
+Posibilidad de causar lesiones e infecciones. Esterilización constante
+para reutilizarse. Precio no muy económico.
+
+
+
+Electrodos superficiales Estimulación a través de la piel. No causa
+lesiones. Reutilizables según datos del fabricante. Precio económico.
+
+3.2.4.1. ELECTRODOS SUPERFICIALES
+Los electrodos superficiales fueron la mejor opción para la
+investigación por ser más económicos y su mayor sencillez en la
+utilización, cabe mencionar que los electrodos invasivos pueden ser
+más recomendados para siguientes estudios del dispositivo electro
+estimulador para tratamientos en zonas más específicas del paciente.
+
+Figura N°8: Par de Electrodos Superficiales.
+Fuente: Archivo personal.
+
+53
+
+3.2.5. OPCIONES DE DISEÑO DE FUENTES DE ALIMENTACIÓN
+Requerimientos del diseño
+
+
+Fuente estable de +5, +10 y -10 V DC con tolerancia ±5%.
+
+
+
+Tamaño pequeño.
+
+
+
+Ligera.
+
+
+
+Larga duración.
+
+Opciones
+
+
+Baterías alcalinas 9 V DC. Portables. Ligeras. Pequeñas. Poca
+duración para los propósitos de este trabajo de tesis.
+
+
+
+Baterías con ácido 12 V DC. Portables. Pesadas. Tamaño mediano.
+No muy larga duración para los propósitos de este trabajo de tesis.
+
+
+
+Fuente de alimentación simétrica de ±10 V DC. Portable. Ligera.
+Tamaño pequeño. Larga duración para los propósitos de este trabajo
+de tesis.
+
+3.2.5.1. DISEÑO DE LA FUENTE ALIMENTACIÓN SIMÉTRICA
+La fuente simétrica regulada, es un circuito especialmente diseñado para
+alimentar circuitos que requieren voltajes estables y sin fluctuaciones. Esta
+fuente proporciona 10 voltios DC por sección (-10v y +10v con TAP central
+o punto cero), en este caso que usamos los reguladores LM7810 y LM7910,
+con un consumo de hasta 2Amp, dependiendo del transformador que le
+coloquemos a la entrada AC.
+Los diodos, se encargan de direccionar todos los semiciclos positivos para
+crear al polo positivo y los semiciclos negativos, creando el polo negativo.
+
+54
+
+Al medir con el multímetro entre polo negativo y polo positivo, debe dar el
+doble de lo que da, si medimos entre polo negativo y tierra, o entre polo
+positivo y tierra.
+En correspondencia a los ciclos positivos y negativos, se instalan dos
+condensadores que se encargarán de rectificar el voltaje de los ciclos
+positivos y negativos respectivamente, convirtiendo la corriente alterna (AC)
+en corriente directa (DC).
+La corriente directa que entregan los condensadores tiene fluctuaciones
+derivadas del fluido eléctrico local. Estas fluctuaciones deben ser corregidas
+y reguladas mediante los reguladores LM7810 y LM7910.
+Para que un regulador funcione correctamente, debe ser alimentado por una
+fuente que entregue al menos 3 voltios por encima del voltaje que va a
+entregar el regulador, ya que éste consume 2 voltios. En este caso tenemos
+dos reguladores que entregan 10 voltios. En el LM7810 el número 78 indica
+que el regulador es positivo, y el número 10, indica el voltaje que entrega
+(+10 voltios DC). Yen el LM7915 el número 79 indica que es negativo y el
+número 10, indica el voltaje que entrega (-10 voltios DC).
+El transformador debe ser de mismo voltaje AC que el voltaje que entregan
+los reguladores en DC, en este caso usamos un transformador de 12 voltios.
+
+55
+
+Componentes de la fuente simétrica
+
+
+2 condensadores electrolíticos de 4700
+
+
+
+2 condensadores cerámicos de 1
+
+
+
+2 condensadores electrolíticos de 1
+
+
+
+2 diodos
+
+
+
+1 regulador LM7810 y 1 regulador LM7910(hoja de especificaciones en
+
+de 25v
+
+de 50v
+
+Anexos)
+
+
+1 bornera de 2 entradas y 1 bornera de 3 entradas
+
+Figura N°9: Circuito Esquemático de la Fuente Simétrica.
+Fuente: Archivo personal.
+
+56
+
+CAPÍTULO IV: CARACTERIZACIÓN
+DEL ÁREA DE INVESTIGACIÓN
+
+57
+
+4.1. ÁREA DE ESTUDIO
+La investigación se realizó dentro de la ciudad de Puno. Las pruebas del
+diseño tomando nota de los resultados visualizados en el osciloscopio del
+circuito en sí, para posteriormente hacer la prueba en pacientes, se dieron
+dentro del laboratorio de Electrónica Básica de la Escuela Profesional de
+Ingeniería Electrónica de la Universidad Nacional del Altiplano Puno. Y la
+prueba en pacientes se dio en la Clínica Veterinaria Sebisvet, ubicada en el
+centro de la ciudad de Puno.Esta locación se encuentra a una latitud de
+15°49’27.10’’ Sur y una longitud de 70°1’4.02’’ Oeste. A continuación se
+muestra la ubicación específica de las instalaciones del lugar indicado.
+
+Figura N°10: Universidad Nacional del Altiplano Puno
+Fuente: Google Earth
+
+58
+
+Figura N°11: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial plaza Jr.
+Tacna cuadra 1
+Fuente: Archivo Personal
+
+Figura N°12: Clínica Veterinaria SEBISVET, Ubicado en el centro comercial plazaJr.
+Tacna cuadra 1
+Fuente: Archivo personal
+
+59
+
+CAPÍTULO V: EXPOSICIÓN Y
+ANÁLISIS DE LOS RESULTADOS DE
+INVESTIGACIÓN
+
+60
+
+5.1. CONTRASTACIÓN DE LA HIPÓTESIS
+En esta parte se prueba el dispositivo de Electro Estimulación ya
+implementado al cual hace referencia el proyecto de investigación y se
+analizan los resultados obtenidos para poder concluir que si el diseño que
+hemos adoptado para su posterior implementación satisface los resultados
+deseados y así demostrar que es viable el uso de este para rehabilitación de
+los canes con miembros atrofiados.
+5.1.1. PRUEBAS DEL DISEÑO POR ETAPAS DEL DISPOSITIVO DE
+ELECTRO ESTIMULACIÓN
+En este punto de la investigación se hizo la recopilación de los datos en cada
+etapa de la implementación del dispositivo de Electro Estimulación puesto
+que no siempre los cálculos matemáticos o incluso las simulaciones
+contrastan con el circuito real, existen ciertas variaciones que solo se
+pudieron corregir en el proceso de implementación y la recopilación de datos
+se hizo en los laboratorios de la Escuela Profesional de Ingeniería
+Electrónica de UNA-Puno.
+La etapa de la implementación del circuito de generador de pulsos fue
+testeada para poder visualizar en el Osciloscopio la frecuencia de los pulsos
+que se requerían de 64Hz a 114Hz adecuado para que la estimulación
+fortalezca el musculo atrofiado.
+La etapa de amplificación de la señal y la generación de la onda farádica fue
+testeada y visualizada en el osciloscopio y se dieron como se muestra en las
+siguientes figuras.
+
+61
+
++
+Figura N°13: Pulsos generados por el 555, preestablecido
+Fuente: Archivo personal
+
+Figura N°14: Pulsos generados por el 555, preestablecido
+Fuente: Archivo personal
+
+62
+
+Figura N°15: Onda farádica, generada por la amplificación del transformador,
+trabajando a 69Hz.
+Fuente: Archivo personal
+
+Todas las mencionadas Pruebas fueron necesarias para poder asegurar que el
+dispositivo de Electro Estimulación funcione con los requerimientos de
+señal, frecuencia y carga deseadas para pasar a la experimentación con
+pacientes reales, los cuales necesitan tratar sus músculos atrofiados.
+5.1.2. DISPOSITIVO
+
+DE
+
+ELECTRO
+
+ESTIMULACIÓN
+
+IMPLEMENTADO
+Al finalizar con las pruebas en laboratorio con cada etapa del diseño, se pasó
+al siguiente paso que fue la implementación de ambos diseños. Uno, el
+Circuito del Generador de Pulsos y Amplificador ambos acoplados. Dos, el
+Circuito de la Fuente Simétrica de 10v.
+Posteriormente a la implementación en placa, se adecuo los transformadores
+y electrodos, todo adecuado en un soporte o carcasa que vendría a ser el
+Dispositivo completamente implementado y listo para pasar a la prueba en
+los canes.
+
+63
+
+Figura N°16: Instrumentos del Laboratorio de la Escuela Profesional de Ingeniería
+Electrónica
+Fuente: Archivo personal
+
+Figura N°17: Dispositivo de Electro Estimulación implementado
+Fuente: Archivo personal
+
+64
+
+5.2. PRUEBAS
+
+DEL
+
+DISPOSITIVO
+
+Y
+
+EXPERIMENTOS
+
+CON
+
+PACIENTES CON ATROFIA NEUROMUSCULAR
+5.2.1. Experimento N°1: Prueba del Dispositivo en laboratorio
+Las primeras pruebas para medir la frecuencia, intensidad y finalmente que
+la estimulación pueda ser tolerable, fue hecha por mi persona, así conectando
+el par de electrodos en distintos músculos de mi brazo izquierdo, con ello se
+recolecto las primeras variantes para poder diseñar un buen circuito que
+satisfaga los requerimientos planteados.
+
+Figura N°18: Pruebas realizadas para verificar que el dispositivo no cause molestia.
+Fuente: Archivo personal
+
+Tiempo
+
+Frecuencia
+
+Observación
+
+1min
+
+64Hz
+
+El estímulo es tolerable, el musculo
+estimulado se contrae y relaja lentamente
+
+1min
+
+84Hz
+
+El estímulo aun es tolerable, la contracción
+y relajación del musculo, notamos que ha
+cambiado con respecto a la anterior
+
+65
+
+1 min
+
+104Hz
+
+Se nota que el musculo trabaja con
+contracciones más fuertes y el estímulo
+causa ligera molestia.
+
+1 min
+
+114Hz
+
+Las
+
+contracciones
+
+del
+
+musculo
+
+son
+
+completamente definidas, seguida de su
+relajación, el estímulo causa ligera molestia
+pero aun es tolerable.
+
+Tabla N°3: Ficha de registro de datos y observaciones N°1
+Fuente: Archivo personal
+
+5.2.2. Experimento N°2: Prueba con el Cadáver de un Can Doméstico
+(Perro) en los Laboratorios de la Facultad de Medicina
+Veterinaria y Zootecnia
+La prueba fue hecha para demostrar que la acción de contracción y relajación
+de un musculo, en este caso el musculo de un perro ya muerto así
+comprobando la acción de cronaxia para la respuesta motora, para pasar a la
+siguiente etapa que sería la prueba en canes vivos.
+Dicha prueba no termino con satisfactorios resultados, por el hecho de que el
+cadáver del can había sido suministrado con formol y el musculo estaba
+completamente tieso y no se obtuvo respuesta alguna en ningún nivel de
+frecuencia.
+
+66
+
 5.2.3. Experimento N°3: Probar que el Can Doméstico (Perro) Tolere los
+Pulsos del Electro Estimulador
+Se pudo apreciar que el paciente de prueba 01no mostro ningún tipo de
+molestia o algo que pueda indicar algún tipo de dolor exagerado cuando se le
+aplico la electro estimulación en su extremidad inferior derecha, localizando
+los músculos“tensor de la fascia lata” y el “bíceps femoral” y se observó que el
+musculo localizado se contraía y relajaba,lo cual demostraba que el
+dispositivo de Electro Estimulación final no solo dio en laboratorio las
+respuestas deseadas, también está apto para darle uso como un instrumento
+de rehabilitación pasiva para los canes domésticos con atrofia muscular o
+neuromuscular.
+Tiempo
 
-       Pulsos del Electro Estimulador
+Frecuencia Observación
 
+1 min
 
- Se pudo apreciar que el paciente de prueba 01no mostro ningún tipo de
+64Hz
 
- molestia o algo que pueda indicar algún tipo de dolor exagerado cuando se le
+El estímulo es tolerable por el can, podemos notar
+que el musculo está trabajando pasivamente.
 
- aplico la electro estimulación en su extremidad inferior derecha, localizando
+1 min
 
- los músculos“tensor de la fascia lata” y el “bíceps femoral” y se observó que el
+84Hz
 
- musculo localizado se contraía y relajaba,lo cual demostraba que el
+El estímulo sigue siendo tolerable, el can no
+indica síntomas de alteración, la contracción y
+relajación del musculo se nota con poca fuerza.
 
- dispositivo de Electro Estimulación final no solo dio en laboratorio las
+1 min
 
- respuestas deseadas, también está apto para darle uso como un instrumento
+104Hz
 
- de rehabilitación pasiva para los canes domésticos con atrofia muscular o
+El can presenta leve molestia por el estímulo
+aplicado, la contracción y relajación se nota de
+manera más visible.
 
- neuromuscular.
+1 min
 
+114Hz
 
-       Tiempo       Frecuencia Observación
+El can presenta leve molestia, pero no advierte
+alteración alguna,
 
-       1 min        64Hz            El estímulo es tolerable por el can, podemos notar
+el musculo trabaja con
 
-                                    que el musculo está trabajando pasivamente.
+contracciones más notorias.
+Tabla N°4: Ficha de registro de datos y observaciones N°2
+Fuente: Archivo personal
 
-       1 min        84Hz            El estímulo sigue siendo tolerable, el can no
+67
 
-                                    indica síntomas de alteración, la contracción y
-
-                                    relajación del musculo se nota con poca fuerza.
-
-       1 min        104Hz           El can presenta leve molestia por el estímulo
-
-                                    aplicado, la contracción y relajación se nota de
-
-                                    manera más visible.
-
-       1 min        114Hz           El can presenta leve molestia, pero no advierte
-
-                                    alteración alguna,    el musculo trabaja con
-
-                                    contracciones más notorias.
-
-               Tabla N°4: Ficha de registro de datos y observaciones N°2
-
-                               Fuente: Archivo personal
-
-
-
-
-                                                                                      67
 Figura N°19: Paciente de prueba 01, con frecuencia de electro estimulación de 64Hz.
-
-                             Fuente: Archivo personal
-
-
-
+Fuente: Archivo personal
 
 Figura N°20: Paciente de prueba 01, con frecuencia de electro estimulación de 84Hz a
-                                      104Hz.
+104Hz.
+Fuente: Archivo personal
 
-                             Fuente: Archivo personal
+68
 
-
-
-
-                                                                                   68
- Figura N°21: Paciente de prueba 01, con frecuencia de electro estimulación de 114Hz.
-
-                              Fuente: Archivo personal
-
-
-
+Figura N°21: Paciente de prueba 01, con frecuencia de electro estimulación de 114Hz.
+Fuente: Archivo personal
 
 5.2.4. Experimento N°4: Se Aplicó el Dispositivo de Electro Estimulación
+a un Felino Doméstico (Gato)
+El experimento en cuestión, se dio para comprobar que el Dispositivo de
+Electro Estimulación puede también ser usado en otros animales menores o
+mascotas domésticas. Se vio que al igual que en el primer experimento el
+paciente no mostro ningún tipo de malestar o queja de parte suya por los
+pulsos suministrados.
+Tiempo
 
-       a un Felino Doméstico (Gato)
+Frecuencia
 
+Observación
 
- El experimento en cuestión, se dio para comprobar que el Dispositivo de
+1 min
 
- Electro Estimulación puede también ser usado en otros animales menores o
+64Hz
 
- mascotas domésticas. Se vio que al igual que en el primer experimento el
+El estímulo es tolerable por el felino,
+podemos
 
- paciente no mostro ningún tipo de malestar o queja de parte suya por los
+notar
 
- pulsos suministrados.
+que
 
+el
 
-       Tiempo            Frecuencia      Observación
+musculo
 
-       1 min             64Hz            El estímulo es tolerable por el felino,
+está
 
-                                         podemos     notar   que   el   musculo   está
+trabajando levemente.
+1 min
 
-                                         trabajando levemente.
+84Hz
 
-       1 min             84Hz            El estímulo sigue siendo tolerable al igual
+El estímulo sigue siendo tolerable al igual
 
+69
 
+que en la prueba con canes, el musculo
+empieza a trabajar de manera más notoria.
+1 min
 
+104Hz
 
-                                                                                    69
-                                         que en la prueba con canes, el musculo
+El felino ya presentaba leve molestia desde
+la frecuencia aproximada 90hz pero aun
+tolera el estímulo y el musculo notamos que
+trabaja más.
 
-                                         empieza a trabajar de manera más notoria.
+1 min
 
-       1 min             104Hz           El felino ya presentaba leve molestia desde
+114Hz
 
-                                         la frecuencia aproximada 90hz pero aun
+El felino presenta molestia con el estímulo
+pero no al punto de aterramiento y el
+musculo se contrae con mayor fuerza.
 
-                                         tolera el estímulo y el musculo notamos que
-
-                                         trabaja más.
-
-       1 min             114Hz           El felino presenta molestia con el estímulo
-
-                                         pero no al punto de aterramiento y el
-
-                                         musculo se contrae con mayor fuerza.
-
-
-
-               Tabla N°5: Ficha de registro de datos y observaciones N°3
-
-                               Fuente: Archivo personal
-
-
-
+Tabla N°5: Ficha de registro de datos y observaciones N°3
+Fuente: Archivo personal
 
 5.2.5. Experimento N°5: Se Aplicó el Dispositivo de Electro Estimulación
+a un Paciente con Atrofia Muscular por Causa de Accidente
+Vehicular
+El paciente al que se le trataría, derivo de una operación, la cual fue hecha
+por sufrir un accidente vehicular que le ocasionó la fractura del hueso fémur
+de la extremidad inferior derecha dicha operación causo que el paciente
+pierda más de una tercera parte de la firmeza de su masa muscular de la
+extremidad afectada, esto se dio por estar con yeso la extremidad afectada y
+posterior a ello por la misma reacción natural del paciente al evadir el dolor
+por mover su extremidad.
+Se le aplico el tratamiento de electro estimulación teniendo en cuenta las
+frecuencias sugeridas para atrofia y fuerza muscular, respetando las variantes
+también sugeridas.
+70
 
-       a un Paciente con Atrofia Muscular por Causa de Accidente
-
-       Vehicular
-
-
- El paciente al que se le trataría, derivo de una operación, la cual fue hecha
-
- por sufrir un accidente vehicular que le ocasionó la fractura del hueso fémur
-
- de la extremidad inferior derecha dicha operación causo que el paciente
-
- pierda más de una tercera parte de la firmeza de su masa muscular de la
-
- extremidad afectada, esto se dio por estar con yeso la extremidad afectada y
-
- posterior a ello por la misma reacción natural del paciente al evadir el dolor
-
- por mover su extremidad.
-
-
- Se le aplico el tratamiento de electro estimulación teniendo en cuenta las
-
- frecuencias sugeridas para atrofia y fuerza muscular, respetando las variantes
-
- también sugeridas.
-
-
-                                                                                 70
 Si no se trataría adecuadamente el musculo atrofiado, queda la posibilidad de
-
 esperar que el paciente recupere por sus propios medios parcialmente y
-
 quede con cojera permanente o que puede conseguir su completa
-
 recuperación, pero tomando más cuidados y mucho más tiempo.
 
+Figura N°22: Paciente con atrofia muscular, presenta perdida de un 30% de fuerza
+muscular en la extremidad inferior derecha
+Fuente: Archivo personal
 
+71
 
-
- Figura N°22: Paciente con atrofia muscular, presenta perdida de un 30% de fuerza
-                    muscular en la extremidad inferior derecha
-
-                             Fuente: Archivo personal
-
-
-
-
-                                                                                    71
 FiguraN°23: Zonas donde se situaran los electrodos rasurados para un mejor contacto
+Fuente: Archivo personal
 
-                              Fuente: Archivo personal
+Figura N°24: Paciente preparado para la terapia de Electro Estimulación
+Fuente: Archivo personal
 
+72
 
-
-
-      Figura N°24: Paciente preparado para la terapia de Electro Estimulación
-
-                              Fuente: Archivo personal
-
-
-
-
-                                                                                 72
 Figura N°25: Paciente recibiendo la terapia de Electro Estimulación en el musculo
-                                    atrofiado
+atrofiado
+Fuente: Archivo personal
 
-                            Fuente: Archivo personal
+Tiempo
 
+Frecuencia Observación
 
+1 min
 
-    Tiempo       Frecuencia Observación
+64Hz
 
-    1 min        64Hz            La paciente presenta presenta leve molestia por
+La paciente presenta presenta leve molestia por
+causa del trabajo inesperado del musculo.
 
-                                 causa del trabajo inesperado del musculo.
+1 min
 
-    1 min        84Hz            La paciente parece haber asimilado el trabajo
+84Hz
 
-                                 involuntario del musculo a causa del estímulo
+La paciente parece haber asimilado el trabajo
+involuntario del musculo a causa del estímulo
+aplicado que le es tolerable, porque no presenta
+reacción adversa.
 
-                                 aplicado que le es tolerable, porque no presenta
+1 min
 
-                                 reacción adversa.
+104Hz
 
-    1 min        104Hz           La paciente presenta molestia a causa del
+La paciente presenta molestia a causa del
+estímulo,
 
-                                 estímulo,     pero    el   musculo     trabaja   más
+pero
 
-                                 firmemente.
+el
 
-    1 min        114Hz           La paciente tiende a incomodarse por lo que se
+musculo
 
-                                 apaga el dispositivo.
+trabaja
 
+más
 
+firmemente.
+1 min
 
-            Tabla N°6: Ficha de registro de datos y observaciones N°4
+114Hz
 
-                            Fuente: Archivo personal
+La paciente tiende a incomodarse por lo que se
+apaga el dispositivo.
 
+Tabla N°6: Ficha de registro de datos y observaciones N°4
+Fuente: Archivo personal
 
+73
 
-
-                                                                                    73
 5.2.6. Experimento N°6:Se Aplicó el Dispositivo de Electro Estimulación
+a un Paciente con Parálisis Completa de sus miembros Inferiores
+El paciente había sufrido un accidente vehicular que ocasionó daños en su
+columna vertebral y por consiguiente la parálisis definitiva de sus miembros
+inferiores, se le coloco el dispositivo y recordando el Experimento N°2, la
+acciónde cronaxia fue comprobada así obteniendo la respuesta de
+contracción y relajación muscular, muy a pesar de que la mascota no volvería
+a caminar.
+Tiempo
 
-      a un Paciente con Parálisis Completa de sus miembros Inferiores
+Frecuencia
 
+Observación
 
- El paciente había sufrido un accidente vehicular que ocasionó daños en su
+1 min
 
- columna vertebral y por consiguiente la parálisis definitiva de sus miembros
+64Hz
 
- inferiores, se le coloco el dispositivo y recordando el Experimento N°2, la
+El paciente no presenta molestia, y el
+musculo empieza trabajar ligeramente.
 
- acciónde cronaxia fue comprobada así obteniendo la respuesta de
+1 min
 
- contracción y relajación muscular, muy a pesar de que la mascota no volvería
+84Hz
 
- a caminar.
+El paciente no presenta molestia, y el
+musculo se contrae con más fuerza.
 
+1 min
 
-      Tiempo            Frecuencia      Observación
+104Hz
 
-      1 min             64Hz            El paciente no presenta molestia, y el
+El paciente no presenta molestia, y el
+musculo se contrae con más fuerza que en
+frecuencias menores.
 
-                                        musculo empieza trabajar ligeramente.
+1 min
 
-      1 min             84Hz            El paciente no presenta molestia, y el
+114Hz
 
-                                        musculo se contrae con más fuerza.
+El paciente no presenta molestia, y el
+musculo se contrae con más fuerza que en
+frecuencias menores.
 
-      1 min             104Hz           El paciente no presenta molestia, y el
+Tabla N°7: Ficha de registro de datos y observaciones N°5
+Fuente: Archivo personal
 
-                                        musculo se contrae con más fuerza que en
+74
 
-                                        frecuencias menores.
-
-      1 min             114Hz           El paciente no presenta molestia, y el
-
-                                        musculo se contrae con más fuerza que en
-
-                                        frecuencias menores.
-
-
-
-
-              Tabla N°7: Ficha de registro de datos y observaciones N°5
-
-                              Fuente: Archivo personal
-
-
-
-
-                                                                                74
-                       CONCLUSIONES
-
+CONCLUSIONES
 Durante y después de la realización de este Proyecto de Investigación, se llegó
-
 a las siguientes conclusiones:
+PRIMERO
 
-
-PRIMERO        :Para hacer el diseño del dispositivo necesitábamos trabajar con
+:Para hacer el diseño del dispositivo necesitábamos trabajar con
 
 respuestas exactas por lo cual debíamos contar con equipos de laboratorio,
-
 osciloscopio, sondas y fuente simétrica variable porque es indispensable
-
 visualizar lo que anda sucediendo en nuestro diseño y según estas respuestas
-
 podremos asegurar la integridad de los futuros pacientes con un buen diseño.
-
-
 SEGUNDO : Trabajamos con ondas cuadradas bifásicas, usando el timer
-
 555, en modo astable, nuestro rango de trabajo fue de 64Hz a 114Hz
-
 regulable, duración del pulso 730 useg. Concluimos que la onda cuadrada fue
-
 la elección adecuada, tanto para producir la corriente o pulso farádico
-
 necesarios para tratamientos terapéuticos y por la sencillez y bajo costo del
-
 circuito.
-
-
 TERCERO :El dispositivo diseñado y posterior a ello implementado,
-
 generó la señal deseada, y la carga final aplicada al paciente es tolerable, el
-
 dispositivo también cuenta con una etapa de protección o aislamiento que
-
 brinda la seguridad de que el paciente no resulte afectado.
+CUARTO
 
-
-CUARTO         :El dispositivo de electro estimulación ya implementado, se
+:El dispositivo de electro estimulación ya implementado, se
 
 probó satisfactoriamente en canes y un felino domésticos, todos ellos
-
 tolerando el estímulo eléctrico aplicado. Tomamos referencia de la bibliografía
-
 especializada para poder contar con parámetros de referencia, el paciente con
-
 el musculo atrofiado pudo recibir esta terapia y así fortaleciendo de manera
 
+75
 
-
-                                                                            75
 pasiva el musculo en cuestión, lo cual era necesario para recuperar la fuerza
-
 muscular perdida, de esta manera se concluye que el electro estimulador es un
-
 herramienta más para el tratamiento de rehabilitación de nuestras mascotas y
-
 un principio para futuras investigaciones en ambas carreras profesionales para
-
 poder adecuar el dispositivo para tareas más complejas.
+QUINTO
 
-
-QUINTO        :Las simulaciones en PC no fueron completamente fiables al
+:Las simulaciones en PC no fueron completamente fiables al
 
 momento de hacer el diseño porque no siempre pueden abarcar el trabajo de
-
 un instrumento de laboratorio o simular el verdadero comportamiento de un
-
 circuito eléctrico. Para poder realizar los diseños de cada etapa fue de gran
-
 ayuda en ahorrar tiempo, poder tener conocimiento de diseños ya existentes
-
 para poder adecuarlos o en algunos casos mejorarlos para nuestro propósito.
-
 Luego de hacer los cálculos matemáticos para obtener los valores de
-
 componentes a usarse, estos no siempre nos brindan los resultados deseados, y
-
 solo partiendo desde ese punto, implementando el prototipo y haciendo las
-
 pruebas, podemos en si conseguir los objetivos deseados para poder diseñar e
-
 implementar el proyecto.
 
+76
 
+RECOMENDACIONES
+PRIMERO
 
-
-                                                                           76
-                  RECOMENDACIONES
-
-PRIMERO        : Es necesario tener muchos cuidados al momento de manipular
+: Es necesario tener muchos cuidados al momento de manipular
 
 los componentes ya en el circuito para poder comprobar si están
-
 sobrecalentándose, pues los transistores tienden a quemarse o hacer corto con
-
 facilidad, al igual que el integrado LM555N necesita un zócalo para poder
-
 asíasegúranos de que no sé queme por el calor excesivo del cautín puesto que
-
 en la realización de este proyecto se presentaron estos inconvenientes.
-
-
 SEGUNDO :Es necesario e indispensable poder investigar sobre los
-
 patrones de estimulación, frecuencia y tiempo de uso aplicación del
-
 dispositivo en pacientes, esto evitara efectos secundarios adversos o agravar la
-
 integridad del can.
-
-
 TERCERO :Una vez localizado los puntos donde se situaran los electrodos
-
 en el musculo a tratar del paciente, es necesario rasurar dicha zona y para un
-
 mejor contacto se sugiere usar gel conductor.
 
+77
 
+BIBLIOGRAFÍA
+ZAPATA
 
+VÉLEZ,
 
-                                                                             77
-                          BIBLIOGRAFÍA
-ZAPATA         VÉLEZ,      Diseño de un Estimulador Eléctrico Funcional para
+Diseño de un Estimulador Eléctrico Funcional para
 
-Manuel A.                  Rehabilitación    Física       en     Miembros       Distales
+Manuel A.
 
-2010                       Superiores                   con                   Disfunción
+Rehabilitación
 
-                           Motriz.PontificiaUniversidad Católica del Perú.Lima
+2010
 
-                           – Perú.
+Superiores
 
-BUENO                      Diseño y Construcción de un Electro Estimulador
+Física
 
-PALOMEQUE, Freddy          Clínico para Fisioterapia y Rehabilitación con
+en
 
-L.                         Cuatro    Módulos       de     Aplicación.     Universidad
+Miembros
 
-HEREDIA         REAL,      Politécnica Salesiana. Cuenca – Ecuador.
+con
+
+Distales
+Disfunción
+
+Motriz.PontificiaUniversidad Católica del Perú.Lima
+– Perú.
+BUENO
+
+Diseño y Construcción de un Electro Estimulador
+
+PALOMEQUE, Freddy
+
+Clínico para Fisioterapia y Rehabilitación con
+
+L.
+
+Cuatro
+
+HEREDIA
+
+REAL,
+
+Módulos
+
+de
+
+Aplicación.
+
+Universidad
+
+Politécnica Salesiana. Cuenca – Ecuador.
 
 Cristian R.
+2008
+SCHWEIZ, Miguel.
+
+Sistema muscular. Anatomía del perro.Enciclopedia
 
 2008
 
-SCHWEIZ, Miguel.           Sistema muscular. Anatomía del perro.Enciclopedia
+de Animales.
 
-2008                       de Animales.
+RECVET. Vol. II, Nº 07.
 
+La fisioterapia: Un Medio Efectivo en el Tratamiento
 
-RECVET. Vol. II, Nº 07.    La fisioterapia: Un Medio Efectivo en el Tratamiento
+2007
 
-2007                       Conservador de la Osteoartritis de Rodilla del Perro.
+Conservador de la Osteoartritis de Rodilla del Perro.
+RevistaElectrónica de ClínicaVeterinaria RECVET.
 
-                           RevistaElectrónica de ClínicaVeterinaria RECVET.
+CORTES
 
-CORTES        MÁNICA,      Diseño de un Dispositivo Generador de Corrientes
+MÁNICA,
 
-Álvaro.                    Interferenciales para el Tratamiento de Patologías de
+Diseño de un Dispositivo Generador de Corrientes
 
-2008                       Origen       Muscular      y       Circulatorio.     Instituto
+Álvaro.
 
-                           Tecnológico de Mérida. Mérida – Yucatán – México.
+Interferenciales para el Tratamiento de Patologías de
 
-ECHANDI,         Oscar     Terapias alternativas en la rehabilitación de nuestras
+2008
 
-Robert.                    mascotas. Website Dr. Robert, Hospital Veterinario.
+Origen
 
-SCHWEIZ. Miguel.           Sistema muscular. Anatomía del perro. Enciclopedia
+Muscular
 
-2008                       de Animales.
+y
 
+Circulatorio.
 
+Instituto
 
-                                                                                      78
-GONZÁLES L., Marite     Miastenia      Gravis     Adquirida        en    Caninos
+Tecnológico de Mérida. Mérida – Yucatán – México.
+ECHANDI,
 
-TRIGO T., Francisco J   Domésticos.Hospital       para     Pequeñas     Especies.
+Oscar
 
-2000                    Departamento     de     Medicina    y     Zootecnia   para
+Terapias alternativas en la rehabilitación de nuestras
 
-                        Pequeñas, Departamento de patología. Facultad de
+Robert.
 
-                        Medicina Veterinaria y Zootecnia, Universidad
+mascotas. Website Dr. Robert, Hospital Veterinario.
 
-                        Nacional Autónoma de México, D.F.
+SCHWEIZ. Miguel.
 
+Sistema muscular. Anatomía del perro. Enciclopedia
 
-MARTÍN     CORDERO,     Agentes Físicos Terapéuticos. AachenUniversity of
+2008
 
-Jorge Enrique           AppliedSciences.Departamento         de     Publicaciones
+de Animales.
 
-2008                    Electrónicas. Ciudad de La Habana.
+78
 
-ROMEROBUSTILLO          Corriente Farádica, Biologia. UNIR Universidad
+GONZÁLES L., Marite
 
-2010                    Virtual.
+Miastenia
 
+Gravis
 
+TRIGO T., Francisco J
 
+Domésticos.Hospital
 
-                                                                               79
+2000
+
+Departamento
+
+de
+
+Adquirida
+para
+Medicina
+
+en
+
+Caninos
+
+Pequeñas
+
+Especies.
+
+y
+
+Zootecnia
+
+para
+
+Pequeñas, Departamento de patología. Facultad de
+Medicina Veterinaria y Zootecnia, Universidad
+Nacional Autónoma de México, D.F.
+
+MARTÍN
+
+CORDERO,
+
+Agentes Físicos Terapéuticos. AachenUniversity of
+
+Jorge Enrique
+
+AppliedSciences.Departamento
+
+de
+
+Publicaciones
+
+2008
+
+Electrónicas. Ciudad de La Habana.
+
+ROMEROBUSTILLO
+
+Corriente Farádica, Biologia. UNIR Universidad
+
+2010
+
+Virtual.
+
+79
+
 ANEXOS
 
+80
 
-
-
-         80
 ANEXO I. Board y Posición de Componentes del Circuito Generador de
-                 pulsos y Amplificador Acoplados
+pulsos y Amplificador Acoplados
 
+81
 
-
-
-                                                                81
 ANEXO II. Board y Posición de Componentes del Circuito de la Fuente
 Simétrica
 
+82
 
-
-
-                                                                      82
 ANEXO III. Especificaciones del transistor DB140
 
+83
 
-
-
-                                                   83
 84
+
 ANEXO IV. Especificaciones del transistor BD139
 
+85
 
-
-
-                                                  85
 86
+
 ANEXO V. Especificaciones del LM555N
 
+87
 
-
-
-                                       87
 88
+
 89
+
 90
+
 91
+
 92
+
 93
+
 94
+
 95
+
 ANEXO VI. Especificaciones del Regulador LM7810
 
+96
 
-
-
-                                                  96
 97
+
 ANEXO VII. Especificaciones del regulador LM7910
 
+98
 
-
-
-                                                   98
 99
+
 ANEXO VIII: Manual del Dispositivo de Electro Estimulación
 
+
 
+
+
 
+Se recomienda usar gel conductor en el área a situar los electros, para
+un mejor contacto se recomienda también rasurar el área donde se
+situaran los electrodo.
+Tiempo de tratamiento 5min, con intervalos de 25 min de reposo.
+Situar al paciente en una superficie aislada.
 
-      Se recomienda usar gel conductor en el área a situar los electros, para
-       un mejor contacto se recomienda también rasurar el área donde se
-       situaran los electrodo.
-      Tiempo de tratamiento 5min, con intervalos de 25 min de reposo.
-      Situar al paciente en una superficie aislada.
+100
 
-
-
-
-                                                                          100
 

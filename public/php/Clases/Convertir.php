@@ -36,14 +36,18 @@ class Convertir
         }
         return $respuesta;
     }
-    public static function TodoPDFaTXT($ruta, $destino, $devolver=false){
+    public static function TodoPDFaTXT($ruta, $destino, $argumentos = "", $devolver=false){
         /*
+            - requiere de el programa pdftotext del conjunto de herramientas xpdf
+                - version con la que se hizo las pruebas pdftotext version 0.41.0 en Ubuntu 16.04
+                - puede instalarlo con el comando "sudo apt install xpdf" o "sudo apt install pdftotext"
             - esta funcion convierte todos los archivos PDF a TXT de la $ruta
             - esta funcion esta hecha para ser usada en cli porque puede
-              tomar mucho tiempo como espera de un response
+              tomar mucho tiempo procesar los archivos
             - esta funcion esta diseñada para su uso en cli(linea de comandos de linux)
             - para guardar las respuesta mostradas en un string agrege un tercer
               parametro con el valor true
+            - el tercer parametro es un string en donde se inserta los argumentos que se incluiran en la ejecucion de pdftotext ejm "-layout"
         */
         $r = "";
         function encapsulado($cadena){
@@ -64,8 +68,8 @@ class Convertir
 
         foreach ($lista_de_PDFs as $clave => $pdf) {
             $mensaje_de_error = "0";
-            $funcion( $clave+1 . ' de ' . count($lista_de_PDFs) . PHP_EOL );
-            $sentencia = 'pdftotext -layout "' . $pdf['direccion'] . '"';
+            $funcion( $clave+1 . '_' . count($lista_de_PDFs) . PHP_EOL );
+            $sentencia = 'pdftotext '.$argumentos.' "' . $pdf['direccion'] . '"';
             $mensajes_adicionales = "";
             $respuesta = system($sentencia, $mensajes_adicionales);
 
@@ -109,9 +113,9 @@ class Convertir
             'ocurrencias' => $ocurrencias
         ];
     }
-    public static function PDFaTXT($pdf, $destino){
+    public static function PDFaTXT($pdf, $destino, $argumentos = ""){
         echo getcwd()."\n";
-        $comando = 'pdftotext -layout "' . $pdf . '" >>respuesta.txt 2>>error.txt';
+        $comando = 'pdftotext '.$argumentos.' "' . $pdf . '" >>respuesta.txt 2>>error.txt';
         echo "$comando\n";
         exec($comando);
 

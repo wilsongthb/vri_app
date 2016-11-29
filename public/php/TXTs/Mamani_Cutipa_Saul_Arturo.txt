@@ -1,3386 +1,2326 @@
 Universidad Nacional Del Altiplano - Puno
-     FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
+FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA
 ESCUELA PROFESIONAL DE MEDICINA VETERINARIA Y ZOOTECNIA
 
-
-
-
-     “MADURACIÓN OVOCITARIA EN MEDIOS
-
+“MADURACIÓN OVOCITARIA EN MEDIOS
 CONDICIONANTES EN VACUNOS DE ALTURA SOBRE
+DOSIS HORMONAL”
 
-                 DOSIS HORMONAL”
+TESIS
+PRESENTADA POR:
 
+Bach. SAUL ARTURO MAMANI CUTIPA
+PARA OPTAR EL TÍTULO PROFESIONAL DE:
+MEDICO VETERINARIO Y ZOOTECNISTA
 
-                     TESIS
-                    PRESENTADA POR:
-          Bach. SAUL ARTURO MAMANI CUTIPA
+PUNO – PERU
+2015
 
-      PARA OPTAR EL TÍTULO PROFESIONAL DE:
-      MEDICO VETERINARIO Y ZOOTECNISTA
-
-
-                    PUNO – PERU
-                         2015
 ÁREA: Reproducción animal
 TEMA: Conservación de gametos
+ii
 
-                                ii
 DEDICATORIA
 
-
 A nuestro divino creador Jehová
-Dios,    porque    gracias    a   su
+Dios,
+
+porque
+
+gracias
+
+a
+
+su
+
 bendición y su cuidado hoy hice
 realidad uno de mis grandes
 anhelos de ser profesional.
 
+A mis padres: Alfonso Mamani Q.
+y Francisca Cutipa C. Que son los
+seres
 
+más
 
+supieron
 
-                                       A mis padres: Alfonso Mamani Q.
-                                       y Francisca Cutipa C. Que son los
-                                       seres     más     maravillosos    que
-                                       supieron     apoyarme      en     todo
-                                       momento, a ellos con cariño mi
-                                       eterna     gratitud.     Por     verme
-                                       profesional.
+maravillosos
 
+apoyarme
 
+en
 
+que
+todo
+
+momento, a ellos con cariño mi
+eterna
+
+gratitud.
+
+Por
+
+verme
+
+profesional.
 
 A mis hermanos: Silvia, Rene,
-Eva     y Edgar.   Por   el   apoyo
+Eva
+
+y Edgar.
+
+Por
+
+el
+
+apoyo
+
 incondicional, moral y el cariño
 que me brindaron durante mis
 estudios.
 
+A la gloriosa Facultad de Medicina
+Veterinaria y Zootecnia Puno, por
+la
 
+calidad
 
+de
 
-                                       A la gloriosa Facultad de Medicina
-                                       Veterinaria y Zootecnia Puno, por
-                                       la      calidad     de     formación
-                                       profesional.
+formación
 
+profesional.
 
+iii
 
+AGRADECIMIENTO
 
-                                                                           iii
-                              AGRADECIMIENTO
-
-
-
-          A la Facultad de Medicina Veterinaria y Zootecnia de la Universidad
-
+A la Facultad de Medicina Veterinaria y Zootecnia de la Universidad
 Nacional del Altiplano y de manera especial a sus docentes por haberme
-
 impartido sus conocimientos que contribuyeron a mi formación profesional.
+ Al PhD. MVZ. Luis V. Olivera Marocho Director de tesis, mi
+agradecimiento
 
+eterno
 
-           Al PhD. MVZ. Luis V. Olivera Marocho Director de tesis, mi
+quien
 
-agradecimiento    eterno    quien   con   su   capacidad,       sencillez,   y   gran
+con
+
+su
+
+capacidad,
+
+sencillez,
+
+y
+
+gran
 
 profesionalismo dirigió el presente trabajo de investigación.
-
-
-           Al Sr. Hermógenes Jefe del laboratorio Histología y Embriología,
-
+ Al Sr. Hermógenes Jefe del laboratorio Histología y Embriología,
 por su apoyo incondicional y la colaboración de manera entusiasta en la
-
 ejecución y realización del presente trabajo de investigación.
+
 
-
-             De igual modo mi agradecimiento a todos mis compañeros: De la
+De igual modo mi agradecimiento a todos mis compañeros: De la
 
 promoción Bodas de Oro-2012, por la amistad y el apoyo moral brindado
-
 durante la realización del presente estudio.
-
-
-           A mis amigos: Rómulo, Rubén, Ricardo, Yoni, Guido, Edward del
+ A mis amigos: Rómulo, Rubén, Ricardo, Yoni, Guido, Edward del
 
 mismo modo mis amigas: Gleny, Patricia, Florentina Gaby Fiorella y en
-
 especial a Roxana Elizabeth M. quien me impulso día a día a culminar con este
-
 trabajo de investigación.
 
+iv
 
+ÍNDICE
 
+Contenido
+I.
 
-                                                                                   iv
-                                                    ÍNDICE
+Pag.
 
-
-
-Contenido                                                                                                    Pag.
-
-I.   INTRODUCCIÓN ......................................................................................... 1
+INTRODUCCIÓN ......................................................................................... 1
 
 II. REVISIÓN BIBLIOGRÁFICA ....................................................................... 3
-
 2.1. OVOGÉNESIS Y FOLICULOGÉNESIS ...................................................... 3
-
-     2.1.1. La ovogénesis. ................................................................................... 3
-
-     2.1.2. La Foliculogénesis. ............................................................................ 4
-
+2.1.1. La ovogénesis. ................................................................................... 3
+2.1.2. La Foliculogénesis. ............................................................................ 4
 2.2. ACTIVACIÓN FOLICULAR, CRECIMIENTO Y MADURACIÓN DEL
-
 OVOCITO........................................................................................................... 6
-
-     2.2.1. Maduración nuclear ........................................................................... 6
-
-     2.2.2. Maduración citoplasmática ................................................................ 8
-
-     2.2.3. Maduración de la zona pelúcida ...................................................... 11
-
+2.2.1. Maduración nuclear ........................................................................... 6
+2.2.2. Maduración citoplasmática ................................................................ 8
+2.2.3. Maduración de la zona pelúcida ...................................................... 11
 2.3. OBTENCIÓN Y RECOLECCIÓN DE OVOCITOS .................................... 12
-
-     2.3.1. Obtención de los ovocitos ................................................................ 12
-
-     2.3.2. Métodos de obtención de ovocitos .................................................. 13
-
-         2.3.2.1. Método de aspiración ............................................................... 13
-
-         2.3.2.2. Método de disección................................................................. 13
-
+2.3.1. Obtención de los ovocitos ................................................................ 12
+2.3.2. Métodos de obtención de ovocitos .................................................. 13
+2.3.2.1. Método de aspiración ............................................................... 13
+2.3.2.2. Método de disección................................................................. 13
 2.4. SELECCIÓN Y CLASIFICACIÓN DE LOS OVOCITOS ............................ 14
-
-     2.4.1. Selección de ovocitos ...................................................................... 14
-
-         2.4.1.1. Selección según la valoración morfológica de los ovocitos ...... 14
-
-         2.4.1.2. Selección según la morfología del ovario ................................. 14
-
-         2.4.1.3. Selección según el diámetro folicular ....................................... 15
-
-     2.4.2. Clasificación de los ovocitos ............................................................ 16
-
+2.4.1. Selección de ovocitos ...................................................................... 14
+2.4.1.1. Selección según la valoración morfológica de los ovocitos ...... 14
+2.4.1.2. Selección según la morfología del ovario ................................. 14
+2.4.1.3. Selección según el diámetro folicular ....................................... 15
+2.4.2. Clasificación de los ovocitos ............................................................ 16
 2.5. MADURACIÓN IN VITRO DEL OVOCITO ................................................ 17
 
+v
 
-
-                                                                                                                  v
-     2.5.1. Medios de cultivo ............................................................................. 17
-
-     2.5.2. Suplementación del medio de cultivo............................................... 18
-
-         2.5.2.1. Macromoléculas ....................................................................... 18
-
-         2.5.2.2. Hormonas ................................................................................. 18
-
-         a) Gonadotropinas ................................................................................. 18
-
-         i) Hormona luteinizante (LH).................................................................. 18
-
-         ii) Hormona folículo estimulante (FSH) .................................................. 19
-
-     2.5.3. Condiciones medioambientales para la maduración In vitro de los
-
-     ovocitos...................................................................................................... 20
-
-         a) Temperatura ...................................................................................... 20
-
-         b) Presión osmótica ............................................................................... 20
-
-         c) pH ...................................................................................................... 21
-
-         d) Atmósfera en la incubadora .............................................................. 21
-
-         e) Tiempo .............................................................................................. 21
-
+2.5.1. Medios de cultivo ............................................................................. 17
+2.5.2. Suplementación del medio de cultivo............................................... 18
+2.5.2.1. Macromoléculas ....................................................................... 18
+2.5.2.2. Hormonas ................................................................................. 18
+a) Gonadotropinas ................................................................................. 18
+i) Hormona luteinizante (LH).................................................................. 18
+ii) Hormona folículo estimulante (FSH) .................................................. 19
+2.5.3. Condiciones medioambientales para la maduración In vitro de los
+ovocitos...................................................................................................... 20
+a) Temperatura ...................................................................................... 20
+b) Presión osmótica ............................................................................... 20
+c) pH ...................................................................................................... 21
+d) Atmósfera en la incubadora .............................................................. 21
+e) Tiempo .............................................................................................. 21
 2.6. CRITERIOS EMPLEADOS PARA DETERMINAR LA MADURACIÓN ..... 22
-
-     2.6.1. Maduración Meiótica ........................................................................ 22
-
-     2.6.2. Adquisición de Competencia Meiótica ............................................. 23
-
-     2.6.3. Rompimiento Nuclear (Vesícula Germinal) ...................................... 24
-
-     2.6.4. Condensación Cromosómica ........................................................... 25
-
-     2.6.5. Formación del Huso ......................................................................... 26
-
-     2.6.6. Emisión del Cuerpo Polar ................................................................ 27
-
+2.6.1. Maduración Meiótica ........................................................................ 22
+2.6.2. Adquisición de Competencia Meiótica ............................................. 23
+2.6.3. Rompimiento Nuclear (Vesícula Germinal) ...................................... 24
+2.6.4. Condensación Cromosómica ........................................................... 25
+2.6.5. Formación del Huso ......................................................................... 26
+2.6.6. Emisión del Cuerpo Polar ................................................................ 27
 III. MATERIAL Y MÉTODOS .......................................................................... 30
-
 3.1. LUGAR DE ESTUDIO ............................................................................... 30
-
 3.2. UNIDAD DE ESTUDIO.............................................................................. 30
+3.2.1. Material biológico ............................................................................. 30
 
-     3.2.1. Material biológico ............................................................................. 30
+vi
 
-
-                                                                                                                     vi
-     3.2.2. Obtención de ovocitos ..................................................................... 30
-
-     3.2.3. Selección de los ovocitos ................................................................. 31
-
-     3.2.4. Clasificación de los ovocitos ............................................................ 31
-
-     3.2.5. Formación de grupos experimentales. ............................................. 31
-
+3.2.2. Obtención de ovocitos ..................................................................... 30
+3.2.3. Selección de los ovocitos ................................................................. 31
+3.2.4. Clasificación de los ovocitos ............................................................ 31
+3.2.5. Formación de grupos experimentales. ............................................. 31
 3.3. PREPARACIÓN DE LOS MEDIOS ........................................................... 32
-
-     3.3.1. Medio de transporte y de lavado ...................................................... 32
-
-        a) Solución Salina Fisiológica Amortiguada con fosfato (PBS). ............ 32
-
-     3.3.2. Medios de maduración..................................................................... 32
-
-        a) Sales De Hank`s ............................................................................... 32
-
-        b) TCM -199 .......................................................................................... 32
-
-        c) Suero Fetal Bovino (SFB).................................................................. 32
-
-        d) Hormonas (LH - FSH) ....................................................................... 33
-
-     3.3.3. Preparación de tripsina 0.05%. ....................................................... 33
-
-        a) Tripsina (1 ; 250 GIBCO BRL) ........................................................... 33
-
-     3.3.4. Preparación del fijador ..................................................................... 34
-
-        a) Ácido Acético - Etanol (1:3) 100 mL .................................................. 34
-
-     3.3.5. Preparación del colorante ................................................................ 34
-
-        a) Orceína Acética 1% 25 ml ................................................................. 34
-
+3.3.1. Medio de transporte y de lavado ...................................................... 32
+a) Solución Salina Fisiológica Amortiguada con fosfato (PBS). ............ 32
+3.3.2. Medios de maduración..................................................................... 32
+a) Sales De Hank`s ............................................................................... 32
+b) TCM -199 .......................................................................................... 32
+c) Suero Fetal Bovino (SFB).................................................................. 32
+d) Hormonas (LH - FSH) ....................................................................... 33
+3.3.3. Preparación de tripsina 0.05%. ....................................................... 33
+a) Tripsina (1 ; 250 GIBCO BRL) ........................................................... 33
+3.3.4. Preparación del fijador ..................................................................... 34
+a) Ácido Acético - Etanol (1:3) 100 mL .................................................. 34
+3.3.5. Preparación del colorante ................................................................ 34
+a) Orceína Acética 1% 25 ml ................................................................. 34
 3.4. PROCESO DE MADURACIÓN IN VITRO ................................................ 34
-
-     3.4.1. Maduración in vitro de los ovocitos .................................................. 34
-
-     3.4.2. Evaluación de la Progresión meiótica .............................................. 35
-
+3.4.1. Maduración in vitro de los ovocitos .................................................. 34
+3.4.2. Evaluación de la Progresión meiótica .............................................. 35
 3.5. ANÁLISIS ESTADÍSTICO. ........................................................................ 36
-
 IV. RESULTADOS Y DISCUSIÓN .................................................................. 37
-
 4.1. OVOCITO DENUDADO. ........................................................................... 38
-
 4.2. VESÍCULA GERMINAL. ............................................................................ 40
 
+vii
 
-                                                                                                             vii
 4.3. METAFASE I. ............................................................................................ 41
-
 4.4. ANAFASE I. .............................................................................................. 43
-
 4.5. TELOFASE I. ............................................................................................ 44
-
 4.6. METAFASE II. ........................................................................................... 46
-
 4.7. PORCENTAJES DE MADURACIÓN IN VITRO SEGÚN TRATAMIENTOS.
-
 ......................................................................................................................... 49
-
 V. CONCLUSIONES ...................................................................................... 52
-
 VI. RECOMENDACIONES .............................................................................. 53
-
 VII. REFERENCIA BIBLIOGRÁFICA ............................................................... 54
-
 VIII. ANEXOS ................................................................................................... 65
 
+viii
 
-
-
-                                                                                                                       viii
-                                 RESUMEN
-
-
+RESUMEN
 El estudio tuvo como objetivo determinar la dosis hormonal sobre la
-
 maduración in vitro de ovocitos en vacunos. Se obtuvieron 30 ovarios a partir
-
 de vacas beneficiadas, inmersos en PBS a 30 0C. Se aspiraron 240 folículos
-
 con tamaño entre 3 – 5 mm de diámetro. Del total aspirados se seleccionaron
-
 100 ovocitos que presentaron más capas compactas de células del cumulus de
-
 citoplasma homogéneo. Se consideraron 4 grupos de 25 ovocitos que fueron
-
 cultivados en medio de maduración TCM-199, sales de Hank`S, suplementado
-
 con FSH y LH en concentraciones; 1) FSH - LH 5 µg/ml, 2) FSH - LH 2,5 µg/ml,
-
 3) FSH 2,5 µg/ml y 4) LH 2,5 µg/ml. Todos los grupos se incubaron a una
-
 temperatura de 39 0C, 5% de CO2 y 96 % de humedad, durante 36 h.
-
 Posteriormente fueron fijados y evaluados mediante tinción con orceína
-
 acética. Se observaron las configuraciones meióticas para determinar la
-
 maduración. Los resultados indican que el grupo suplementado con FSH - LH 5
-
 µg/ml, obtuvo el mayor porcentaje (84%) de ovocitos en Metafase II mas
-
 corpúsculo polar, seguido por el grupo suplementado con FSH - LH 2,5 µg/ml
-
 (80%), el grupo suplementado con FSH 2,5 µg/ml (48%) y el grupo
-
 suplementado con LH 2,5 µg/ml (44%). Estos resultados sometidos a la prueba
-
 de Ji-Cuadrada mostraron una diferencia altamente significativa entre ovocitos
-
 maduros e inmaduros (P<0,01). De acuerdo a los resultados obtenidos se
-
 concluye que las mejores dosis hormonales son FSH - LH 5 µg/ml y FSH - LH
-
 2,5 µg/ml.
 
-
-
-
 Palabras Clave: Maduración in vitro, ovocitos, hormonas FSH - LH.
-                               I.         INTRODUCCIÓN
 
+I.
 
-
+INTRODUCCIÓN
 
 En nuestra región Puno el ganado vacuno constituye una estrategia de
-
 sobrevivencia importante en la economía campesina, que cuenta con una
-
 población de 87,940 hembras en ordeño, con una producción de 351 a 1,237
-
 Kg./vaca/campaña y una productividad de 1.3 litro/vaca/día. La baja
-
 rentabilidad agropecuaria es el problema principal de las familias de bajo nivel
-
 de ingresos debido a una pérdida del material genético y descapitalización de
-
 la actividad. También, en el sector encontramos productores empresariales que
-
 superan los 5,500 kg/vaca/año (en condiciones de semi-estabulación) y 8,000
-
 kg/vaca/año (en condiciones de estabulación). El aumento en la productividad
-
 se obtiene principalmente a través de mejoras en la alimentación y el
-
 mejoramiento genético.
-
-
 El uso de la biotecnología reproductiva de bovinos comprende una serie de
-
 biotécnicas que están permitiendo aumentar la productividad y la tasa de
-
 mejoramiento genético de los animales ampliando la eficiencia reproductiva y
-
 una calidad superior de sus productos. Los ovarios de animales beneficiados
+(vacas,
 
-(vacas,    ovejas, cerdos etc.) contienen numerosos ovocitos que pueden
+ovejas, cerdos etc.) contienen numerosos ovocitos que pueden
 
 reanudar la meiosis cuando estos son colocados en sistemas de cultivo in vitro.
-
 Esta es una de las biotecnologías que ayudan a la capacidad de fecundación y
-
 desarrollo embrionario, todo en base a la maduración nuclear y citoplasmática
-
 de los ovocitos (Critser et al., 1986).
-
-
 La maduración de ovocitos In vitro constituye una etapa decisiva en el
-
 rendimiento del proceso de producción de embriones In vitro. Sin embargo, se
+1
 
-                                                                              1
 le ha prestado una escasa atención, ya que si revisamos la bibliografía
-
 existente se comprueba que en muchos laboratorios se continúa empleando el
-
 procedimiento consistente en cultivar durante 24 horas los ovocitos inmaduros
-
 en TCM-199, suplementado con un 10% de suero fetal bovino, gonadotropinas
-
 (FSH y LH), a una temperatura de 38.5 ºC en una atmosfera con un 5% de CO2
-
 en aire (Fukui and Ono, 1989).
-
-
 La eficiencia de la técnica utilizada para producir embriones bovinos in vitro es
-
 todavía reducida, lo que dificulta su utilización a gran escala. Así, el porcentaje
-
 de ovocitos inmaduros, que una vez madurados y fecundados son capaces de
-
 evolucionar hasta embriones transferibles se encuentra estancado entre el 30 y
-
 40% (Luvoni et al., 2005).
 
-
-
 Actualmente en la Región de Puno existe la necesidad de aplicar nuevas
-
 biotecnologías en procura de una nueva mejora genética en las diferentes
-
 especies por lo que el presente trabajo tuvo como objetivo comparar la dosis
-
 hormonal sobre la maduración ovocitaria in vitro en medios condicionantes para
-
 la producción de embriones en vacunos de altura.
 
+2
 
+II.
 
-
-                                                                                 2
-                        II.   REVISIÓN BIBLIOGRÁFICA
-
+REVISIÓN BIBLIOGRÁFICA
 
 2.1. OVOGÉNESIS Y FOLICULOGÉNESIS
-
-
 2.1.1. La ovogénesis.
-
 Es el proceso de desarrollo y formación del ovocito. En la mayoría de
-
 mamíferos, los gametos (ovocitos y espermatozoides) se originan mediante el
-
 proceso conocido como gametogénesis. Durante la vida embrionaria las
-
 gónadas se desarrollan como dos eminencias o protuberancias a lo largo de la
-
 porción ventral del mesonefro, denominados pliegues o crestas genitales o
-
 gonadales. Las células primordiales, que se originan en la pared del saco
-
 vitelino cerca del alantoides, emigran por movimientos ameboides siguiendo el
-
 mesenterio dorsal del intestino posterior alcanzando la gónada indiferenciada.
-
 En la gónada genéticamente femenina, estas células penetran en el
+mesénquima
 
-mesénquima     subyacente,    rodeadas    de   cúmulos      celulares   aislados
+subyacente,
+
+rodeadas
+
+de
+
+cúmulos
+
+celulares
+
+aislados
 
 diferenciándose en ovogonias (Van Der Hurk et al., 1997).
-
-
 En los mamíferos las células germinales primordiales, al igual que las
-
 ovogonias, entran en un periodo de actividad mitótica que se completa
-
 generalmente durante la vida fetal en los rumiantes. El número de divisiones
-
 mitóticas que ocurre durante el desarrollo embrionario es especie-específico.
-
 Las ovogonias se diferencian en ovocitos primarios cuando comienzan la
-
 meiosis. En el bovino se observan figuras meióticas a partir del día 82 de
-
 gestación. La meiosis se detendrá en dos momentos específicos: alrededor del
-
 nacimiento y en la ovulación y solo se completara totalmente al producirse la
-
 fecundación del ovocito. El proceso meiótico consta de dos divisiones
 
+3
 
-
-                                                                              3
 denominadas meiosis I y meiosis II, divididas cada una a su vez en 4 fases:
-
 Profase, Metafase, Anafase y Telofase (Van Der Hurk et al., 1997).
-
-
 Las células pre-granulosas, derivadas del epitelio ovárico se diferencian en
-
 células granulosas, rodeando a los ovocitos primarios quedando así formados
-
 los folículos primordiales. Estos se caracterizan histológicamente por el ovocito
-
 primario detenido en la profase de su primera división meiótica (diploteno)
-
 rodeado por una capa plana de células de la granulosa. Estos folículos forman
-
 la reserva gametogénica o “población de folículos de reserva” que una hembra
-
 va a utilizar en toda su historia reproductiva; localizados en una posición más
-
 cortical dentro del ovario. Es a partir de esta población “estática y durmiente”
-
 que se origina toda la población de folículos en crecimiento. En el bovino se ha
-
 estimado la presencia de 42.00- 325.000 folículos primordiales. La mayoría se
-
 atresian antes de adquirir las condiciones de folículo pre-ovulatorio. El folículo
-
 es la unidad estructural y funcional de los ovarios (Van Der Hurk et al., 1997).
-
-
 2.1.2. La Foliculogénesis.
-
 Se define como el proceso de formación, crecimiento y diferenciación folicular.
-
-Abarca desde el estadio de folículo primordial hasta el de folículo pre-
-
-ovulatorio. Las células planas de la granulosa antes de comenzar a dividirse
-
+Abarca desde el estadio de folículo primordial hasta el de folículo preovulatorio. Las células planas de la granulosa antes de comenzar a dividirse
 por mitosis se diferencian en una capa de células de forma cúbica que rodea al
-
 ovocito primario. Cuando esto sucede los folículos se clasifican en folículos
-
 primarios. En esta etapa el ovocito comienza a rodearse de una capa celular
-
 amorfa de glicoproteínas denominada zona pelúcida. Las células de la teca
-
 interna comienzan a rodear por fuera a las células de la granulosa. Las células
-
 de la granulosa aumentan de tamaño y número y se denomina folículo
 
+4
 
-                                                                                   4
 secundario al ovocito primario rodeado por varias capas de células de la
-
 granulosa. Las células tecales se diferencian en una capa externa y otra interna
-
 rodeando por fuera a las células de la granulosa. Hasta este estadio los
-
 folículos se clasifican en preantrales debido a que aún no se ha formado la
-
 cavidad antral.
-
-
 Los folículos terciarios o folículos antrales se caracterizan histológicamente por
-
 la presencia de la cavidad antral y por estar rodeados de varias capas cúbicas
-
 de células de la granulosa que comienzan a secretar un trasudado que se
-
 denomina líquido folicular, que al acumularse produce un reordenamiento de
-
 las mismas en células del cúmulo y murales. Este trasudado comienza en el
-
 equino en folículos de 0,2 a 0,4 mm. En este estadio las características
-
 histológicas son la presencia de la teca interna constituida por tejido conectivo
-
 y la teca externa formada por una capa de colágeno atravesada por capilares
-
 con miofibroblastos diferenciados de los fibroblastos del estroma. A nivel
-
 molecular se caracterizan por una mayor expresión de receptores para FSH en
-
 las células de la granulosa. Los folículos terciarios se clasifican en dominantes
-
 y subordinados. Los folículos dominantes, a diferencia de los subordinados,
-
 expresan en las células de la granulosa además de los receptores para FSH,
-
 receptores para LH.
-
-
 Los folículos pre-ovulatorios o folículos De Graaf, en honor a quien fuese el
-
 primer científico en examinar ovarios humanos en 1672, tienen la capacidad de
-
 responder al estímulo de la LH produciendo cambios morfológicos y
-
 bioquímicos que finalizarán reiniciando la meiosis y desencadenando la
-
 ovulación. Todos estos cambios se desarrollarán más adelante al describir los
 
+5
 
-
-                                                                                5
 mecanismos implicados en la ovulación. En la yegua el folículo pre-ovulatorio
-
 es mayor a 35 mm (Ginther, 1992) en la vaca entre 10 a 20 mm (Watson et al.,
-
 2004).
-
-
 2.2. ACTIVACIÓN FOLICULAR, CRECIMIENTO Y MADURACIÓN DEL
-
 OVOCITO
-
 La activación folicular se divide en dos etapas diferentes. La primera se
-
 denomina activación inicial y la segunda activación de folículos antrales. La
-
 inicial abarca la diferenciación de folículos primordiales hasta folículos
-
 terciarios. Esta segunda fase de activación tiene características muy diferentes
-
 a la primera ya que requiere niveles elevados de FSH. Con el inicio del
-
 desarrollo folicular, se producen en el ovocito una serie de cambios fisiológicos
-
 que lo capacitan para la fecundación y posterior desarrollo embrionario
-
 (Leibfried-Rutledge et al., 1987). Este proceso puede dividirse en dos fases:
-
 crecimiento y maduración del ovocito.La maduración del ovocito comprende un
-
 periodo inicial de crecimiento y, un periodo final de preparación nuclear y
-
 citoplásmica. Normalmente se reinicia la meiosis antes de la oleada
-
 preovulatoria de gonadotropinas, lo cual suprime la producción del factor
-
 inhibidor de la meiosis de las células de la granulosa. El reinicio de la meiosis
-
 (maduración nuclear) es sólo un aspecto de la maduración del ovocito; y como
-
 segundo aspecto también debe ocurrir la maduración citoplasmática (Hafez and
-
 Hafez, 2000).
-
-
 2.2.1. Maduración nuclear
-
 En el ovocito, la maduración del núcleo es un proceso necesario que le permite
-
 reducir la carga cromosómica de la especie exactamente a la mitad,
+6
 
-
-                                                                               6
 convirtiéndose en una célula haploide, así, cuando los dos gametos (ovocito
-
 maduro y espermatozoide) se fusionan en la fecundación, se restablece el
-
 número diploide de cromosomas en el embrión.
-
-
 Al inicio de la fase de maduración, el núcleo del ovocito primario (inmaduro), se
-
 encuentra bloqueado en la profase (dictiotene) de la primera división meiótica,
-
 estadio de la vesícula germinal (VG). Tras alcanzar la madurez sexual y en
-
 respuesta a la elevación pre ovulatoria de la hormona luteinizante (pico LH), el
-
 ovocito primario del folículo dominante reinicia el proceso de división meiótica.
-
 Durante el proceso de maduración, la cromatina contenida en el núcleo del
-
 ovocito inmaduro o vesícula germinativa está dispersa, y usualmente se
-
 encuentra acompañada de un nucléolo (Gordon, 1994). El colapso de la
-
 vesícula germinal involucra la condensación de la cromatina en pares, con
-
 pérdida de nucléolos y membrana nuclear, ocurriendo la díacinésis 16 horas
-
 después de haber iniciado el cultivo de ovocitos porcinos, de 5 a 6 horas en
-
 bovinos y de 3 horas en conejas (Thibault, 1977). Sato et al., (1982) observaron
-
 la metafase I en ovocitos de cerdo entre 20 y 24 horas y 12 horas en bovinos
-
 después de haber iniciado el cultivo In vitro, completándose la maduración
-
 nuclear cuando se alcanza la metafase II y la expulsión del primer cuerpo polar
-
 se lleva a cabo. En general, el 80% de los ovocitos alcanzan la maduración 24
-
 h después de iniciar el cultivo In vitro (Gordon, 1994). Los cambios que ocurren
-
 dentro del citoplasma y en la zona pelúcida (ZP), concurrentemente con
-
 cambios nucleares, son necesarios para continuar con el desarrollo.
-
-
 La maduración In vivo no tiene lugar en sincronía precisa, cuando son ovocitos
-
 provenientes del folículo de diferentes tamaños (Brackett, 1988). Las fases
 
+7
 
-
-                                                                               7
 finales de la ovogénesis, ocurren antes de la ovulación y consisten en la
-
 pérdida de la membrana nuclear, desaparición de los nucléolos, condensación
-
 de los cromosomas, formación del huso de la primera división meiótica y
-
 expulsión del primer cuerpo polar, ocurriendo todo esto bajo la influencia de las
-
 gonadotropinas hipofisiarias y dentro de la protección de la corona radiada.
-
 Motlik and Fulka, (1986), afirman que la habilidad para que los ovocitos
-
 reanuden la meiosis depende significativamente del estado de desarrollo
-
 folicular, siendo los ovocitos provenientes de los folículos pre-ovulatorios los
-
 más competentes para completar la maduración nuclear en cultivo.
-
-
 La maduración ovocitaria es indispensable para el inicio y desarrollo
-
 embrionario. Esta se define como el reinicio de la meiosis completándose la
-
 primera división meiótica, con la expulsión del primer cuerpo polar y la
+progresión
 
-progresión   de   MII,   permaneciendo      así   hasta   el   contacto   con   los
+de
+
+MII,
+
+permaneciendo
+
+así
+
+hasta
+
+el
+
+contacto
+
+con
+
+los
 
 espermatozoides (Rodríguez et al., 2004).
-
-
 2.2.2. Maduración citoplasmática
-
 La maduración del ovocito implica además de los cambios nucleares, otra serie
-
 de cambios a nivel del citoplasma y de sus membranas, que aunque no son tan
-
 evidentes, poseen una gran influencia sobre la fecundación y futura capacidad
-
 de desarrollo de los ovocitos.
-
-
 La maduración citoplasmática puede definirse como una serie de cambios a
-
 nivel citoplasmático que le confieren al ovocito maduro la habilidad para que se
-
 produzca la correcta condensación de la cromatina del espermatozoide y la
-
 posterior formación de los pro-núcleos tras la penetración espermática, así
-
 como también la adquisición de competencia citoplasmática para soportar el
+8
 
-                                                                                 8
 desarrollo embrionario temprano (Mermillod et al., 1999). La inducción de la
-
 maduración citoplasmática requiere de esteroides, síntesis de proteínas
-
 intrafoliculares y posiblemente de AMPc, como mediador de la acción de las
-
 gonadotropinas.
-
-
 Esto ocurre de 6 a 8 horas, después de haber iniciado la actividad biosintética
-
 (Lambert et al., 1986). Gordon and Lu, (1990) afirman que la maduración
-
 citoplasmática, involucra la migración de los gránulos corticales de su sitio de
-
 formación en el aparato de Golgi, hacia la periferia del citoplasma.
-
 Aparentemente la maduración de los gránulos representa una importante
-
 característica de la maduración funcional. Durante el estado final de
-
 maduración del ovocito bovino, la región cortical llega a convertirse en un
-
 organelo relativamente libre, con la excepción de los gránulos corticales
-
 subyacentes a la zona pelúcida y los agregados al retículo endoplásmico liso
-
 (Gordon and Lu, 1990). Shioya et al., (1988) encontraron que la fertilización y el
-
 desarrollo normal del ovocito es posible, si este al menos, ha alcanzado el
-
 estadio de tétrada en la primera división meiótica In vivo y que este potencialde
-
 desarrollo se incrementa significativamente si los ovocitos alcanzan la segunda
-
 metafase meiótica In vivo.
-
-
 La maduración citoplasmática del ovocito está formada por dos fases (Gordon,
-
 1994):
+a) Una fase inicial inductiva, que dura hasta la ruptura de vesícula
+germinal (germinal vesicle break down, GVBD), durante la cual parece
+producirse una reorganización de los elementos somáticos del folículo
 
+9
 
-         a) Una fase inicial inductiva, que dura hasta la ruptura de vesícula
-
-         germinal (germinal vesicle break down, GVBD), durante la cual parece
-
-         producirse una reorganización de los elementos somáticos del folículo
-
-
-
-
-                                                                                9
-       (células del cúmulus, etc.), y en la cual los cambios estructurales y
-
-       sintéticos son muy pocos.
-
-
-       b) Una fase de síntesis, que ocurre posterior a la fase inductiva, donde la
-
-       mayoría de los componentes del ovocito se organizan.
-
-
+(células del cúmulus, etc.), y en la cual los cambios estructurales y
+sintéticos son muy pocos.
+b) Una fase de síntesis, que ocurre posterior a la fase inductiva, donde la
+mayoría de los componentes del ovocito se organizan.
 Durante la maduración citoplasmática del ovocito se producen una serie de
-
 cambios importantes a nivel estructural y molecular que se han estudiado
-
 detalladamente en bovinos (Kruip et al., 1983) y en ovinos (Moor and Gandolfi,
-
 1987). Cuando el ovocito se encuentra en el estadio de VG, posee un
-
 citoplasma ocupado por vesículas y elementos del retículo endoplásmico
-
 rugoso (RER) y mitocondrias ubicadas en la periferie. Durante la GVBD el RER
-
 desaparece y se forman agregados de mitocondrias, gotas de lípidos y
-
 cisternas de retículo endoplásmico liso (REL) denominadas “unidades
-
 metabólicas”. Al final de la maduración, estos agregados se distribuyen
-
 homogéneamente por el citoplasma y la mayoría de los organelos toman una
-
 posición en el centro del ovocito, excepto los gránulos corticales (GC) que
-
 migran y se sitúan inmediatamente debajo de la membrana plasmática del
-
 ovocito. La localización periférica de estos orgánulos y la correcta exocitosis de
-
 su contenido hacia el espacio perivitelino es un evento fundamental durante la
-
 fecundación, para evitar la penetración poliespérmica en los ovocitos
-
 mamíferos (Moor and Gandolfi, 1987). Otros cambios observados durante la
-
 maduración, es la formación y el ensanchamiento del espacio perivitelino y la
-
 reordenación de las unidades metabólicas en ovocitos bovinos ovulados (Hyttel
-
 et al., 1986a).
 
+10
 
-
-
-                                                                               10
 Durante la maduración citoplasmática se producen también cambios en la
-
 actividad metabólica del ovocito, de hecho aumenta el metabolismo oxidativo a
-
 lo largo del proceso (Rieger and Loskutoff, 1994). Asimismo, ocurren cambios
-
 en la síntesis de proteínas y modificaciones transcripcionales de las mismas
-
 (Moor and Gandolfi, 1987).
-
-
 La reprogramación de la síntesis proteica tras la GVBD es esencial para
-
 alcanzar la maduración meiótica, adquirir la capacidad de decondensar el
-
 núcleo del espermatozoide que lo ha fecundado y el posterior desarrollo del
-
 pro-núcleo. La formación de los pro-núcleos tras la fecundación requiere la
-
 prolongación de la síntesis de proteínas por lo menos hasta el estadio
-
 temprano de metafase II, así como también, para el desarrollo de un embrión
-
 normal, puesto que existen evidencias que demuestran que algunas proteínas
-
 sintetizadas durante la maduración, permanecen en los primeros estadios de
-
 desarrollo embrionario (Moor and Gandolfi, 1987).
-
-
 2.2.3. Maduración de la zona pelúcida
-
 La zona pelúcida (ZP) es una glicoproteína secretada por el ovocito durante su
-
 crecimiento, y está compuesta por 70% de proteínas, cuyas mejor conocidas
-
 son ZP1, ZP2 y ZP3, 20% de bexosa, 3% de ácido siálico y 2% de sulfato (Dale
-
 y Eider, 1997). La integridad de esta zona durante la maduración es importante
-
 porque facilita la disponibilidad de nutrientes para este proceso, aportando
-
 principalmente piruvato y oxalacetato. El rompimiento prematuro de esta capa
-
 resulta en la muerte del ovocito, ocurriendo esto en los destinados a la atresia.
-
 Durante la fase de maduración, previo a la ovulación, se inicia también una
-
 transformación en las células que rodean al ovocito, desarrollándose complejos
 
+11
 
-                                                                              11
 de unión focales entre el ovocito y las células foliculares, así como también
-
 uniones entre estas últimas; estos complejos de unión se siguen manteniendo,
-
 mientras que el área de contacto entre las células va disminuyendo hasta
-
 establecerse finalmente la zona pelúcida. Más tarde con la descarga del pico
-
 de LH, la prolongaciones de las células de la corona (capa más interna del
-
 cumulus oophorus) se alargan, lo que resulta en la dispersión de las células del
-
 cumulus y la zona pelúcida alcanza su madurez (Szöllösi, 1993).
-
-
 Brackett, (1985) menciona que el rompimiento normal de los poros de unión o
-
 "Gap junctions", de la ZP y las células foliculares que la rodean pueden ser
-
 necesarias para la migración y el alineamiento de los gránulos corticales a
-
 través de la membrana celular del ovocito, despolarizada por el incremento en
-
 la permeabilidad a los iones de potasio. Después del colapso de la vesícula
-
 germinativa y el reinicio de la meiosis, el transporte de aminoácidos se
-
 incrementa rápidamente.
-
-
 2.3. OBTENCIÓN Y RECOLECCIÓN DE OVOCITOS
-
-
 2.3.1. Obtención de los ovocitos
-
 Los ovocitos inmaduros utilizados para la maduración In vitro pueden ser
-
 obtenidos a partir de:
+ Ovarios de hembras vivas, mediante punción de los folículos
+por aspiración transvaginal.
+ Ovarios a partir de hembras sacrificadas en el matadero.
+ Ovarios de hembras ovarioectomizadas.
 
+12
 
-              Ovarios de hembras vivas, mediante punción de los folículos
-
-                por aspiración transvaginal.
-
-              Ovarios a partir de hembras sacrificadas en el matadero.
-
-              Ovarios de hembras ovarioectomizadas.
-
-
-
-
-                                                                             12
 Los ovarios recogidos son colocados en un termo de transporte que contiene
-
 solución salina (0.9% NaCl), o solución fosfato-tamponada salina (PBS). Estas
-
 soluciones contienen generalmente, como antibióticos 25 mg/l de kanamicina, o
-
 100 UI/l de penicilina y 100 mg/l de gentamicina (Fry et al., 1997). El tiempo
-
 que media entre la obtención de los ovarios, el transporte al laboratorio a 30 ºC
-
 y la obtención de los ovocitos puede variar entre 2 y 7 horas. De este modo, el
-
 tiempo en que los ovocitos son aspirados, tiene efectos positivos en la
-
 maduración In vitro de los ovocitos bovinos. Así ha podido establecerse, que la
-
 utilización de 4 horas de intervalo es considerada óptima para alcanzar
-
 elevados índices de maduración In vitro (Blondin et al., 1997).
-
-
 2.3.2. Métodos de obtención de ovocitos
-
-
 2.3.2.1. Método de aspiración
-
 Consiste en la succión de los folículos situados en la superficie del ovario por
-
 medio de una aguja. El diámetro de la aguja utilizada es considerado
-
 importante a efectos de no dañar los ovocitos recogidos (Fry et al., 1997). La
-
 aspiración de los ovocitos, se realiza mediante la succión de los folículos con
-
 agujas 18 – 22 g unidas a jeringas estériles de 3 - 20 ml (Kuwayama, 1993).
-
 Otros autores, utilizan agujas 16 - 19 g y presiones de succión entre 75 - 100
-
 mmHg mediante una bomba de vacío (Fry et al., 1997).
-
-
 2.3.2.2. Método de disección
-
 Consiste en el corte de la superficie del ovario con una hoja de bisturí estéril o
-
 un dispositivo que consiste en 4 a 10 hojas de acero estériles, dispuestas en
-
 paralelo a una distancia de 2 mm. entre hojas (Carolan et al., 1994). El número
-
 total de ovocitos obtenidos por ovario, varía de acuerdo al método de
+13
 
-                                                                               13
 recolección utilizado. Estudios comparativos realizados entre el método de
-
 corte y el método de aspiración obtienen un mayor número de ovocitos en
-
 promedio por el método de corte en comparación al método de aspiración
-
 (Carolan et al., 1994).
-
-
 2.4. SELECCIÓN Y CLASIFICACIÓN DE LOS OVOCITOS
-
-
 2.4.1. Selección de ovocitos
-
-
 2.4.1.1. Selección según la valoración morfológica de los ovocitos
-
 La selección se efectúa siguiendo dos criterios:
-
-
 Aspecto citoplasmático del ovocito, que según Tsafriri and Channing, (1975) y
-
-    Leibfried and First, (1979); deben poseer un citoplasma granulado fino y
-
-    uniforme, sin mostrar espacio perivitelino ni vacuolizaciones.
-
-
+Leibfried and First, (1979); deben poseer un citoplasma granulado fino y
+uniforme, sin mostrar espacio perivitelino ni vacuolizaciones.
 Aspecto y morfología del cumulo celular que le rodee sin encontrarse
-
-    expandido ni disperso sino compacto y sin aglutinaciones (De Loos et al.,
-
-    1992). Por otro lado (Laurincknig, 1992) señala que se produce una mayor
-
-    tasa de maduración In vitro cuando se seleccionan ovocitos que presentan
-
-    las células se las corona radiada claramente diferenciadas del resto del
-
-    cumulo celular que rodea al ovocito.
-
-
+expandido ni disperso sino compacto y sin aglutinaciones (De Loos et al.,
+1992). Por otro lado (Laurincknig, 1992) señala que se produce una mayor
+tasa de maduración In vitro cuando se seleccionan ovocitos que presentan
+las células se las corona radiada claramente diferenciadas del resto del
+cumulo celular que rodea al ovocito.
 2.4.1.2. Selección según la morfología del ovario
-
 Gandolfi et al., (1997) informan que la morfología de los ovarios, puede ser
-
 utilizada como método efectivo de preselección de los ovocitos. Este estudio
-
 clasifica a los ovarios en tres categorías de acuerdo a la cantidad y tamaño de
-
 los folículos. Así tenemos:
 
+14
 
-                                                                            14
-      Categoría 1.- Ovarios con un folículo mayor a 10 mm de diámetro
-
-
-      Categoría 2.- Ovarios con presencia de 10 folículos de 2 a 5 mm de
-
-      diámetro y ausencia de un folículo de 10 mm de diámetro.
-
-
-      Categoría 3.- Ovarios con presencia de menos de 10 folículos de 2 a 5
-
-      mm de diámetro y ausencia de un folículo de 10 mm de diámetro.
-
-
+Categoría 1.- Ovarios con un folículo mayor a 10 mm de diámetro
+Categoría 2.- Ovarios con presencia de 10 folículos de 2 a 5 mm de
+diámetro y ausencia de un folículo de 10 mm de diámetro.
+Categoría 3.- Ovarios con presencia de menos de 10 folículos de 2 a 5
+mm de diámetro y ausencia de un folículo de 10 mm de diámetro.
 Los resultados indican que los ovarios de las categorías 1 y 2 contienen
-
 ovocitos que forman mayor proporción de blastocistos, después de ser
-
 madurados y fertilizados In vitro.
-
-
 2.4.1.3. Selección según el diámetro folicular
-
 Según Motlik and Fulka, (1986), los folículos menores de 2 mm de diámetro
-
 contienen un alto porcentaje de ovocitos incompetentes o bien atrésicos,
-
 mientras que los mayores de 10 mm presentan un mayor número de ovocitos
-
 degenerados (Fukui and Sakuma, 1980). Por ello la mayoría de los autores
-
 seleccionan folículos antrales, de diámetros comprendidos entre 2 y 8 mm
-
 (Pavlov et al., 1992). Por otro lado, (Lonnergan et al., 1992) señalan que los
-
 folículos con un diámetro de entre 2 y 6 mm, permiten una tasa de
-
 recuperación de ovocitos (número de ovocitos obtenidos /número de folículos
-
 aspirados) aptos para el cultivo mayor que en los folículos de mayor tamaño.
-
 Wurth and Kruip (1992) señalan que los ovocitos, procedentes de folículos
-
 ligeramente atrésicos tienen una capacidad normal para madurar In vitro,
-
 siempre que el cumulo y el citoplasma no presenten signos claros de
-
 degeneración. Sato et al (1990) han observado ovocitos con diámetros sobre
-
 91µm; la eliminación del primer corpúsculo polar con diámetros sobre 101µm y
 
+15
 
-                                                                           15
 los porcentajes mayores de maduraciones incompletas en ovocitos con
-
 diámetros menores a 120µm. En la especie bovina, los ovocitos adquieren la
-
 capacidad para iniciar la maduración nuclear cuando su diámetro es superior a
-
 110 μm y se encuentran alojados en un folículo cuyo diámetro supera los 3 mm
-
 (Fair et al., 1995).
-
-
 Por otro lado (Sirard and First, 1988) indican que la remoción de todas las
-
 células de la corona y del cúmulo previo a la incubación, se relaciona a una
-
 posterior disminución del reinicio meiótico; esto se debe a que los ovocitos
-
 denudados de las células del cúmulo son incapaces de responder a la LH y
-
 FSH, ya que estas células son las mediadoras del efecto de las gonadotrofinas.
-
-
 2.4.2. Clasificación de los ovocitos
-
 En el año 1979, Leibfried and First proponen el siguiente esquema de
-
 clasificación de acuerdo a la apariencia de las células del cumulus y del
-
 citoplasma.
-
-
 De acuerdo a la apariencia de las células del cumulus, los ovocitos se pueden
-
 clasificar en cuatro categorías:
+Categoría 1.- Presentan tres capas compactas de células del cumulus
+que los rodean en toda su superficie.
+Categoría 2.- Se presentan rodeados parcialmente por tres capas
+compactas de células del cumulus.
+Categoría 3.- Se encuentran rodeados por células del cumulus
+expandidas.
+Categoría 4.- Ovocitos denudados.
 
+16
 
-       Categoría 1.- Presentan tres capas compactas de células del cumulus
-
-       que los rodean en toda su superficie.
-
-       Categoría 2.- Se presentan rodeados parcialmente por tres capas
-
-       compactas de células del cumulus.
-
-       Categoría 3.- Se encuentran rodeados por células del cumulus
-
-       expandidas.
-
-       Categoría 4.- Ovocitos denudados.
-
-
-                                                                            16
 De acuerdo a la apariencia del citoplasma, los ovocitos se pueden clasificar en
-
 tres categorías:
-
-
-      Categoría 1.- Presentan citoplasma granulado, homogéneo y que llena
-
-      completamente el espacio delimitado por la zona pelúcida.
-
-      Categoría 2.- Presenta citoplasma granulado no homogéneo, (periferia
-
-      clara y centro oscuro) y que llena completamente el espacio delimitado
-
-      por la zona pelúcida.
-
-      Categoría 3.- Presentan citoplasma vacuolado, fragmentado y que no
-
-      llena completamente el espacio delimitado por la zona pelúcida.
-
+Categoría 1.- Presentan citoplasma granulado, homogéneo y que llena
+completamente el espacio delimitado por la zona pelúcida.
+Categoría 2.- Presenta citoplasma granulado no homogéneo, (periferia
+clara y centro oscuro) y que llena completamente el espacio delimitado
+por la zona pelúcida.
+Categoría 3.- Presentan citoplasma vacuolado, fragmentado y que no
+llena completamente el espacio delimitado por la zona pelúcida.
 Mochizuki et al, (1991) demuestran que los ovocitos completamente rodeados
-
 por células del cumulus presentan mejores índices de fertilización en
-
 comparación a los denudados. También señalan que en los ovocitos
-
 denudados, existe un endurecimiento de la zona pelúcida, además de una
-
 incompleta maduración citoplasmática, debido a la desconexión existente entre
-
 el citoplasma y estas células. Ball et al, (1984) informan que la maduración final
-
 del citoplasma debe ocurrir simultáneamente con la maduración nuclear del
-
 ovocito.
-
-
 2.5. MADURACIÓN IN VITRO DEL OVOCITO
-
-
 2.5.1. Medios de cultivo
-
 Para la maduración In vitro de los ovocitos se utilizan diferentes medios de
-
-cultivo (Ham's F-10 y Ham's F-12, Krebs Ringer Bicarbonato modificado, TCM-
-
-199, MEM, Tyrodes y Waymouth MB752/1). Todos ellos presentan en su
-
+cultivo (Ham's F-10 y Ham's F-12, Krebs Ringer Bicarbonato modificado, TCM199, MEM, Tyrodes y Waymouth MB752/1). Todos ellos presentan en su
 composición una mezcla de sales inorgánicas, vitaminas, aminoácidos,
-
 glucosa, piruvato de sodio, hipoxantina, timidina y rojo fenol como indicador. En
+17
 
-                                                                               17
 dichos medios, los componentes varían en diferentes proporciones de sus
-
 componentes. El más utilizado es el TCM - 199 (Tissue Culture Medium 199)
-
 (Gliedt et al., 1996 a y b).
-
-
 2.5.2. Suplementación del medio de cultivo
-
-
 2.5.2.1. Macromoléculas
-
 Los suplementos de macromoléculas que son frecuentemente empleados en la
-
 producción In vitro de embriones son la albumina sérica bovina (BSA) y el
-
 suero fetal bovino (SFB). Estos suplementos son partículas coloides que
-
 facilitan el transporte de fluidos a través de membranas biológicas (Webster,
-
 1982) y mejoran la maduración y el desarrollo embrionario (Carolan et al.,
-
 1995). BSA y SFB actúan como quelantes de iones de metales pesados,
-
 barrera de pH, como surfactantes y reaccionan con especies oxígeno
-
 dependientes (Stein, 2007).
-
-
 2.5.2.2. Hormonas
-
-
 a) Gonadotropinas
-
 La adición de gonadotropinas aumenta las tasas de maduración In vitro ya que
-
 mejora la maduración nuclear y la expansión del cumulo en diversas especies
-
 animales: Hamster (Gwatkin and Andersen, 1976), coneja (Thibault and
-
 Gerard, 1973), oveja (Moor and Trounson, 1977), cerda (Yoshida et al., 1992) y
-
 vaca (Zuelke et al., 1989).
-
-
 i) Hormona luteinizante (LH)
+In vivo la hormona LH promueve la reanudación de la meiosis de los
+ovocitos (Moor et al., 1981). El pico plasmático de la LH durante la fase
+18
 
-       In vivo la hormona LH promueve la reanudación de la meiosis de los
-
-       ovocitos (Moor et al., 1981). El pico plasmático de la LH durante la fase
-                                                                             18
-      folicular suficientes para estimular la maduración en vacas es de 6-10
-
-      ηg/ml (Hatler et al., 2008).
-
-
-      In vitro ha demostrado tener efectos positivos en los sistemas de
-
-      maduración. Shalgui et al., (1979) indican que la LH mejora la
-
-      maduración citoplásmica del ovocito; Zuelke and Brackett, (1990)
-
-      señalan que la proteína de LH, en el medio de cultivo In vitro, provoca
-
-      una mayor oxidación mitocondrial de la glucosa, en los ovocitos bovinos,
-
-      lo cual favorece la maduración de los mismos. Uno de los mecanismos
-
-      por los cuales la adición de la hormona LH a los medios de cultivo,
-
-      favorece la tasa de ovocitos madurados In vitro, es el incremento de la
-
-      energía disponible para el ovocito en el medio ambiente de cultivo
-
-      (Brackett amd Zuelke, 1993).
-
-
+folicular suficientes para estimular la maduración en vacas es de 6-10
+ηg/ml (Hatler et al., 2008).
+In vitro ha demostrado tener efectos positivos en los sistemas de
+maduración. Shalgui et al., (1979) indican que la LH mejora la
+maduración citoplásmica del ovocito; Zuelke and Brackett, (1990)
+señalan que la proteína de LH, en el medio de cultivo In vitro, provoca
+una mayor oxidación mitocondrial de la glucosa, en los ovocitos bovinos,
+lo cual favorece la maduración de los mismos. Uno de los mecanismos
+por los cuales la adición de la hormona LH a los medios de cultivo,
+favorece la tasa de ovocitos madurados In vitro, es el incremento de la
+energía disponible para el ovocito en el medio ambiente de cultivo
+(Brackett amd Zuelke, 1993).
 ii) Hormona folículo estimulante (FSH)
+In vivo la hormona FSH es responsable de la inducción de la maduración
+de los folículos (Moor et al., 1981). El pico de FSH plasmático en vacas
+es de 6 ηg/ml dicho pico se presenta aproximadamente de 12-24 horas,
+teniendo en cuenta que en rumiantes se presentan múltiples ondas
+foliculares (Ginther et al., 2001).
+También ha demostrado inducir la maduración en ovocitos de rata
+(Tsafriri, 1978), coneja (Thibault and Gerard, 1973) y vaca (Süss et al.,
+1988). Sin embargo, muchos autores indican que la FSH no es
+imprescindible para la maduración nuclear del ovocito pero tiene
+influencia en la expansión del cumulo celular (Leibfried and First, 1979;
+Fukui et al., 1982) la combinación de FSH y LH también puede estimular
+19
 
-      In vivo la hormona FSH es responsable de la inducción de la maduración
-
-      de los folículos (Moor et al., 1981). El pico de FSH plasmático en vacas
-
-      es de 6 ηg/ml dicho pico se presenta aproximadamente de 12-24 horas,
-
-      teniendo en cuenta que en rumiantes se presentan múltiples ondas
-
-      foliculares (Ginther et al., 2001).
-
-
-      También ha demostrado inducir la maduración en ovocitos de rata
-
-      (Tsafriri, 1978), coneja (Thibault and Gerard, 1973) y vaca (Süss et al.,
-
-      1988). Sin embargo, muchos autores indican que la FSH no es
-
-      imprescindible para la maduración nuclear del ovocito pero tiene
-
-      influencia en la expansión del cumulo celular (Leibfried and First, 1979;
-
-      Fukui et al., 1982) la combinación de FSH y LH también puede estimular
-
-                                                                            19
-     la expansión del cumulo celular y maduración en ovocitos bovinos (Süss
-
-     et al., 1988). Sin embargo, Armstrong et al. (1991), señalan que la
-
-     adición de una, otra o ambas gonadotropinas, a los medios llevan a cabo
-
-     un efecto distinto, dependiendo del estado de maduración de las células
-
-     del cumulo, ya que, según este estado las células presentan un número
-
-     mayor o menor de receptores para la LH o para la FSH y, por lo tanto,
-
-     responden de distinta manera según la hormona empleada en los
-
-     medios.
-
-
+la expansión del cumulo celular y maduración en ovocitos bovinos (Süss
+et al., 1988). Sin embargo, Armstrong et al. (1991), señalan que la
+adición de una, otra o ambas gonadotropinas, a los medios llevan a cabo
+un efecto distinto, dependiendo del estado de maduración de las células
+del cumulo, ya que, según este estado las células presentan un número
+mayor o menor de receptores para la LH o para la FSH y, por lo tanto,
+responden de distinta manera según la hormona empleada en los
+medios.
 2.5.3. Condiciones medioambientales para la maduración In vitro de los
-
 ovocitos
-
-
 a) Temperatura
-
-     La temperatura más adecuada para el cultivo In vitro de los ovocitos
-
-     bovinos es de 39ºC (Azambuja et al., 1998). No obstante, Thompson
-
-     (1996) encontró que la producción y el desarrollo de embriones In vitro,
-
-     puede llevarse a cabo entre los 36 a 40 °C, aunque los mejores
-
-     resultados en este aspecto, los obtuvieron con temperaturas de 39 °C.
-
-     Del mismo modo, un estudio realizado por Shi et al. (1998) donde la
-
-     temperatura de cultivo In vitro de ovocitos es modificada entre valores de
-
-     37°C y 38.5 °C, estos autores observan que los cambios térmicos no
-
-     producen efectos adversos durante la maduración In vitro de los ovocitos
-
-     y el posterior desarrollo embrionario.
-
-
+La temperatura más adecuada para el cultivo In vitro de los ovocitos
+bovinos es de 39ºC (Azambuja et al., 1998). No obstante, Thompson
+(1996) encontró que la producción y el desarrollo de embriones In vitro,
+puede llevarse a cabo entre los 36 a 40 °C, aunque los mejores
+resultados en este aspecto, los obtuvieron con temperaturas de 39 °C.
+Del mismo modo, un estudio realizado por Shi et al. (1998) donde la
+temperatura de cultivo In vitro de ovocitos es modificada entre valores de
+37°C y 38.5 °C, estos autores observan que los cambios térmicos no
+producen efectos adversos durante la maduración In vitro de los ovocitos
+y el posterior desarrollo embrionario.
 b) Presión osmótica
+La presión osmótica que deben tener los medios de maduración de
+ovocitos, oscila idealmente entre 265 y 325 mOsM. Los medios
+20
 
-     La presión osmótica que deben tener los medios de maduración de
-
-     ovocitos, oscila idealmente entre 265 y 325 mOsM. Los medios
-
-                                                                            20
-        generalmente utilizados tienen osmolaridades cuyos valores oscilan
-
-        entre 285 y 295 mOsM (Del Campo, 1993).
-
-
+generalmente utilizados tienen osmolaridades cuyos valores oscilan
+entre 285 y 295 mOsM (Del Campo, 1993).
 c) pH
-
-        Diversos autores han establecido que el pH óptimo en el medio de
-
-        maduración debe mantenerse entre 7.2 y 7.4 (Brackett, 1981). El control
-
-        del pH en el medio de maduración se realiza gracias a la concentración
-
-        de CO2 en la atmósfera del incubador, bicarbonato de sodio en el medio,
-
-        u otro tipo de sustancias tampón adicionadas al medio de cultivo como
-
-        las sales de Hepes (Lu et al., 1987).
-
-
+Diversos autores han establecido que el pH óptimo en el medio de
+maduración debe mantenerse entre 7.2 y 7.4 (Brackett, 1981). El control
+del pH en el medio de maduración se realiza gracias a la concentración
+de CO2 en la atmósfera del incubador, bicarbonato de sodio en el medio,
+u otro tipo de sustancias tampón adicionadas al medio de cultivo como
+las sales de Hepes (Lu et al., 1987).
 d) Atmósfera en la incubadora
-
-        La composición de la atmósfera gaseosa para una maduración óptima,
-
-        está muy relacionada con la composición del medio de cultivo empleado
-
-        y se considera importante, en el control del pH intra y extracelular y por
-
-        ende las funciones metabólicas de las células en cultivo (Bavister, 1987).
-
-        Las condiciones atmosféricas óptimas para la MIV y FIV de ovocitos
-
-        bovinos son un 5% de CO2 en aire (Pinyopummintr and Bavister, 1995).
-
-
+La composición de la atmósfera gaseosa para una maduración óptima,
+está muy relacionada con la composición del medio de cultivo empleado
+y se considera importante, en el control del pH intra y extracelular y por
+ende las funciones metabólicas de las células en cultivo (Bavister, 1987).
+Las condiciones atmosféricas óptimas para la MIV y FIV de ovocitos
+bovinos son un 5% de CO2 en aire (Pinyopummintr and Bavister, 1995).
 e) Tiempo
+El tiempo del cultivo requerido para la maduración In vitro de los ovocitos
+hasta alcanzar el estadio de metafase II en bovinos, es variable y según
+los diferentes autores; 20 - 21 horas (Fulka, 1980), 20 - 24 horas (Súss y
+Wuthrich, 1985), 24 - 28 horas (Xu et al., 1986) o incluso 31 horas
+(Edwards, 1965).
 
-        El tiempo del cultivo requerido para la maduración In vitro de los ovocitos
+21
 
-        hasta alcanzar el estadio de metafase II en bovinos, es variable y según
-
-        los diferentes autores; 20 - 21 horas (Fulka, 1980), 20 - 24 horas (Súss y
-
-        Wuthrich, 1985), 24 - 28 horas (Xu et al., 1986) o incluso 31 horas
-
-        (Edwards, 1965).
-
-
-
-
-                                                                                21
-      Durante este tiempo, los ovocitos bovinos experimentan una serie de
-
-      cambios dentro de los cuales podemos citar la desaparición de la
-
-      membrana nuclear, la extrusión del primer corpúsculo polar y la llegada
-
-      al estadio de metafase II. El cumulus oóforo, compacto en el inicio,
-
-      comienza a expandirse por la presencia de ácido hialurónico en la matriz
-
-      intercelular y se observa el efecto de mucificación del cumulus (Hyttel et
-
-      al., 1986b).
-
-
+Durante este tiempo, los ovocitos bovinos experimentan una serie de
+cambios dentro de los cuales podemos citar la desaparición de la
+membrana nuclear, la extrusión del primer corpúsculo polar y la llegada
+al estadio de metafase II. El cumulus oóforo, compacto en el inicio,
+comienza a expandirse por la presencia de ácido hialurónico en la matriz
+intercelular y se observa el efecto de mucificación del cumulus (Hyttel et
+al., 1986b).
 2.6. CRITERIOS EMPLEADOS PARA DETERMINAR LA MADURACIÓN
-
-
 2.6.1. Maduración Meiótica
-
 La maduración meiótica específicamente se refiere a la conversión de ovocitos
-
 completamente crecidos (presentes en folículos antrales) a ovocitos no
-
 fertilizados justo antes de la ovulación, siguiendo el surgimiento preovulatorio
-
 de gonadotropinas (Hormona Folículo Estimulante [FSH] y la Hormona
-
 Luteinizante [LH]). En particular, la maduración meiótica involucra la progresión
-
 nuclear, desde el inicio de la primera profase meiótica (G2 tardía) a la metafase
-
 1 (Primera reducción meiótica), así como los cambios metabólicos necesarios
-
 para la activación de la fertilización del ovocito. Ovocitos aislados,
-
 completamente desarrollados sufren maduración meiótica espontáneamente
-
 durante el cultivo in Vitro, en ausencia de hormonas, dando de esta manera un
-
 sistema experimental ventajoso para estudios estructurales y bioquímicos. El
-
 momento de los eventos citológicos (rompimiento de membrana, formación de
-
 huso) observado cuando se maduran ovocitos in Vitro, asemeja el observado in
-
 vivo. Solo los ovocitos que han sido exitosamente sujetos a maduración
-
 meiótica son capaces de ser fertilizados y desarrollarse normalmente. Los
 
+22
 
-                                                                              22
 ovocitos mamíferos maduros y fertilizados in Vitro exhiben desarrollo
-
 preimplantación normal in Vitro y se desarrollan en fetos viables después del
-
 transplante al útero de madres sustitutas.
-
-
 2.6.2. Adquisición de Competencia Meiótica
-
 La etapa de competencia meiótica se define como la habilidad del ovocitos
-
 para soportar reducción meiótica durante el crecimiento del ovocito. Esto se
-
 aplica para los ovocitos in vivo así como para aquellos que crecen en
-
 condiciones in Vitro. La adquisición de competencia meiótica aparentemente
-
 ocurre en dos pasos: los ovocitos en crecimiento primero adquieren la habilidad
-
 de pasar por rompimiento del sobre nuclear (GV) con progreso hacia le
-
 metafase 1, seguido por la adquisición de la habilidad de progresar de la
-
 metafase I a la metafase II. Cierta evidencia sugiere que la adquisición de
-
 competencia meiótica es dependiente del tiempo pero independiente de la
-
 presencia de células foliculares, contactos celulares heterólogos y crecimiento
-
 celular.
-
-
 En este contexto es evidente que la transición de G2 a la fase de un ciclo
-
 celular de un ovocito se regula por un factor citoplasmático, llamado factor de
-
 promoción de la maduración (MPF). La actividad de MPF aparece durante la
-
 maduración meiótica de los ovocitos alcanzado los niveles más altos a la
-
 metafase de meiosis I y II y disminuyendo la anafase – telofase de meiosis I o
-
 después de completar la meiosis. Aunque no se ha completado un análisis
-
 profundo de la regulación de la actividad de MPF durante la maduración
-
 meiótica en ovocitos mamíferos, se han asociado eventos estructurales
-
 esenciales con la transición del ciclo celular de G2 - a – M en su tipo celular
 
+23
 
-                                                                            23
 meiótico. Durante el curso de la adquisión de la competencia meiótica, ocurren
-
 diversas e importantes modificaciones en la estructura nuclear y citoplasmática
-
 que indican una transición del ciclo celular de G2 a M. Estos cambios incluyen
-
 la apariencia de una concha perinuclear de heterocromatina, la pérdida de un
-
 arreglo de interfase de los microtúbulos citoplasmáticos y la apariencia de
-
 centrosomas fosforilados. Ya que estos cambios coinciden, con la formación
-
 del antro folicular, un proceso iniciado por la FSH, se cree que la FSH juega un
-
 papel importante en la adquisición de competencia meiótica (Kleinsmith and
-
 Kish, 1988).
-
-
 2.6.3. Rompimiento Nuclear (Vesícula Germinal)
-
 En pocas horas de realizado un cultivo in Vitro, los ovocitos completamente
-
 crecidos sufren el estadio de vesícula germinal rota (GVBD). Este proceso
-
 empieza con una ligera ondulación de la cubierta nuclear pocos minutos
-
 después de que los ovocitos sean colocados en el cultivo, lo que continúa con
-
 el aumento de la intensidad durante las siguientes 1 – 2 horas. Estas
-
 ondulaciones pueden estar relacionadas con la condensación cromosómica
-
 que se inicia durante este periodo. Los pares nucleares desaparecen en 1 hora
-
 más o menos en el cultivo; los rompimientos en la cubierta nuclear son visibles
-
 después de cerca de 2 horas, en promedio. Después de 3 horas de cultivo, en
-
 promedio, la cubierta nuclear se encuentra completamente dispersada en
-
 dobleces de membrana que aparentemente se unen al retículo, posiblemente
-
 para cumplir un papel subsecuente en la formación de la cubierta nuclear y
-
 pronuclear.
 
+24
 
-
-
-                                                                             24
 El tiempo promedio para completar el rompimiento de la cubierta nuclear,
-
 medido desde el primer signo de desintegración de la membrana a la
-
 desaparición del nucleolo, es 11 minutos. La desaparición del nucleolo ocurre
-
 cortamente después de contactar el citoplasma que invade. En contraste, la
-
 lámina nuclear, un grupo fibroso que se compone de las láminas A, B y C que
-
 se aliena en la membrana nuclear interna, persiste a través del rompimiento de
-
 la vesícula germinal y parece desintegrarse justo antes de la metafase de la
-
 meiosis. También debería notarse que los cambios significativos en el número
-
 y distribución de los gránulos corticales también ocurren durante la maduración
-
 meiótica.
-
-
 2.6.4. Condensación Cromosómica
-
 Durante la maduración meiótica, los cromosomas de los ovocitos (bivalentes)
-
 pasan por una metafase I, anafase I y telofase I quedándose quietos en la
-
 metafase II sin que intervenga una profase II. Los cromosomas en la etapa de
-
 dictiado difusa sufren una condensación significativa a lo largo del margen
-
 interno de la envoltura nuclear, de forma concomitante con el comportamiento
-
 ondulatorio de la cubierta. Durante este periodo, el quiasma se mueve hacia los
-
 extremos de los cromosomas. La cromatina se vuelve heterocromática y
-
 contiene gránulos densos que incrementan en número con aumento de la
-
 condensación cromosómica. La condensación cromosómica ocurre en el
-
 vestigio agranular del núcleo a los 20 minutos de la disolución nucleolar,
-
 después de 2 o 3 horas de cultivo, en promedio, cuando la condensación
-
 cromosómica está casi completa, los bivalentes tienen forma de V y son
-
 telocéntricos y se asocian usualmente con fragmentos de la cubierta nuclear.
+Poco
 
-Poco   después,   los cromosomas altamente        condensados se      arreglan
+después,
 
-                                                                            25
+los cromosomas altamente
+
+condensados se
+
+arreglan
+25
+
 circularmente en el centro del ovocito, pierden sus contactos con los
-
 fragmentos de cubierta nuclear y luego (después de 6-9 horas de cultivo), se
-
 alinean en el Ecuador del huso de la metafase I (Kleinsmith and Kish, 1988).
-
-
 2.6.5. Formación del Huso
-
 Durante el periodo del rompimiento de la cubierta nuclear (GVBD) y la
+condensación
 
-condensación      cromosómica,   aparecen    kinetochores     con   microtúbulos
+cromosómica,
+
+aparecen
+
+kinetochores
+
+con
+
+microtúbulos
 
 asociados, así como otros centros de organización en microtúbulos; los
-
 microtúbulos se extienden desde estos centros, hasta rompimientos en la
-
 cubierta nuclear, en el nuclecloplasma. Aparentemente, hay un kinetochore
-
 asociado con cada cromátide de cada homólogo cromosomal. Cerca de las 6
-
 horas de cultivo, aparece un huso meiótico pequeño pero morfológicamente
-
 identificable y se reconoce claramente a las 9 horas. A diferencia de la
-
 situación de la mayoría de las células, los polos del huso del ovocito carecen
-
 de centríolos y se componen solo de bandas que se llaman material
-
 pericentriolar.
-
-
 El material pericentriolar se asocia con los polos del huso en formación durante
-
 la prometafase y se vuelve altamente fosforilado y condensado en la metafase;
-
 este desaparece de los polos del huso durante la telofase. De forma paralela
-
 con estos cambios progresivos en la organización del material pericentriolar en
-
 los polos del huso, los centrosomas citoplasmáticos, que también contienen
-
 este material y microtúbulos nucleados, sufren alteraciones en número y
-
 localización durante la maduración meiótica. Estas estructuras son más
-
 numerosas en la prometafase y anafase de la meiosis y se localizan en la
-
 corteza del ovocito, excepto en el lugar de unión del huso.
 
+26
 
-                                                                               26
 El tamaño del huso aumenta progresivamente, con la presencia de un huso
-
 completamente formado, en forma de barril en la metafase I a las 9 o 10 horas
-
 de cultivo. La distancia de polo a polo del huso es de más o menos 40 μm y de
-
 ancho es cerca de 25 μm. Uno de los polos del huso se localiza cerca de la
-
 corteza de la célula; el huso se encuentra rodeado por un área densa
-
 compuesta de mitocondrias, vacuolas y gránulos. Los gránulos corticales se
-
 excluyen de este sitio de unión del huso donde se localiza una banda ancha
-
 semimembranosa de actina. Ya que la meiosis precede la anafase, los
-
 bivalentes se mueven hacia los extremos opuestos del huso y el huso rota 90°.
-
 Estos movimientos aparentemente involucran microfilamentos. Es importante
-
 notar que los ovocitos en maduración gastan cerca de 6 h en prometafase I
-
 (periodo desde la condensación cromosómica inicial hasta el alineamiento de
-
 los bivalentes en la metafase I) y cerca de 4 horas en metafase I. Este periodo
-
 largo probablemente refleja el tiempo necesario para sintetizar y ensamblar el
-
 aparato en huso.
-
-
 2.6.6. Emisión del Cuerpo Polar
-
 Las figuras de anafase y telofase predominan a las 10 y 13 h de cultivo in Vitro,
-
 y es durante este periodo que aparece un bombeo destinado a convertirse en
-
 el primer cuerpo polar. Durante la telofase se forma el cuerpo medio (un anillo
-
 membranoso y vacuolar basofílico alrededor de la región central del huso en
-
 telofase) y se inicia el retiro del cuerpo polar. La separación de los cromosomas
-
 homólogos toma lugar, junto con un hundimiento asimétrico del citoplasma del
-
 ovocito que contiene un cuarto del complemento cromosómico original (telofase
-
 tardía).
 
+27
 
-
-                                                                              27
 Adicionalmente a los cromosomas, el primer cuerpo polar contiene una
-
 variedad de organelos, incluyendo mitocondrias, ribosomas y gránulos
-
 corticales, así como en el cuerpo medio. Aunque el huso se encuentra
-
 ocasionalmente en el primer cuerpo polar, raramente se ve una estructura bien
-
 definida y los cromosomas del cuerpo polar empiezan a degenerarse en la
-
 telofase I tardía. Un área deficiente en organelos como gránulos corticales,
-
 pero rica en microfilamentos submembranosos de actina, se sobrepone al huso
-
 en metafase II de ovocitos no fertilizados. Además, la membrana plasmática
-
 sobre el huso es relativamente suave, mientras que el restante de la superficie
-
 del huso es altamente microvelloso (Kleinsmith and Kish, 1988).
-
-
 Los centros de organización de los microtúbulos, que no se asocian con el
-
 huso, se encuentran en el citoplasma cerca de la corteza celular. La progresión
-
 más allá de la metafase II, con separación de las cromátidas y emisión de un
-
 segundo cuerpo polar, espera la fertilización o la activación partenogénica del
-
 huevo (Knobil and Jimmy, 1994).
-
 Se consideran maduros a aquellos ovocitos que presentan cúmulus mucificado
-
 y expandido, presencia del primer corpúsculo polar en el espacio perivitelino y
-
 metafase II. A pesar de ello, la capacidad de los ovocitos para ser fertilizados in
-
 vitro y continuar el desarrollo normal de los embriones, es probablemente el
-
 criterio más adecuado (Younis et al., 1989; De Loos et al., 1992).
-
 Tras la fijación y tinción de los ovocitos se evalúan las siguientes
-
 configuraciones meióticas, según los criterios de (Xu et al., 1986; Sirard et al.,
-
 1989).
 
+28
 
-
-
-                                                                                28
 Vesícula germinal (GV). El núcleo del ovocito está intacto. La
-
 membrana nuclear es visible y la cromatina está solamente dispuesta
-
 alrededor del nucleolo, que habitualmente también está presente.
-
-
 Diacinesis (DIAC). Desaparecen la membrana nuclear y el nucleolo, lo
-
 que constituye la degradación y desaparición de la vesícula germinal
-
 (GVBD). A veces, se observa la membrana nuclear de forma difusa, y
-
 los cromosomas bivalentes comienzan a contraerse e individualizarse.
-
-
 Metafase 1 (M-I). Los cromosomas se encuentran condensados e
-
 individualizados, al máximo, y generalmente agrupados en masa y
-
 aglutinados en la zona ecuatorial del ovocito.
-
-
 Anafase 1 (A-I). Ocurre cuando los cromosomas, que se encuentran
-
 bajo división o segregación, se disponen a lo largo del huso acromático.
-
-
 Telofase 1 (T-I). La posición de los cromosomas es terminal, en ambos
-
 polos del huso acromático. A veces se puede observar la membrana del
-
 primer corpúsculo polar, aunque el huso acromático esté todavía
-
 presente.
-
-
 Metafase II (M-II). En este estadio los cromosomas están contraídos y
-
 situados en el ecuador del segundo huso acromático. Además, también
-
 se visualizan los cromosomas correspondientes al primer corpúsculo
-
 polar.
 
+29
 
-
-
-                                                                       29
-                          III. MATERIAL Y MÉTODOS
-
-
+III. MATERIAL Y MÉTODOS
 3.1. LUGAR DE ESTUDIO
-
 El trabajo de investigación se realizó en el Laboratorio de Histología y
-
 Embriología - Cultivos Celulares de la Facultad de Medicina Veterinaria y
-
 Zootecnia de la Universidad Nacional del Altiplano - Puno, ubicada en la
-
 Ciudad Universitaria, a una Altitud de 3820 m.s.n.m. en la Meseta del Collao
-
 y geográficamente a Latitud Sur 15° 49' 34.5" y una Longitud Oeste de 70°
-
 00' 43.5" (SENAMHI, 2013).
-
-
 3.2. UNIDAD DE ESTUDIO
-
-
 3.2.1. Material biológico
-
 Fueron 30 ovarios de vacas adultas (2 dientes a mas) procedentes del camal
-
 Municipal de Juliaca, inmersos en un termo con medio de transporte PBS más
-
 antibiótico a 30 0C
-
-
 3.2.2. Obtención de ovocitos
-
 Una vez en el laboratorio los ovarios fueron lavados 3 veces con PBS más
-
 antibiótico eliminando sangre y adherencias. Todo este proceso se realizó a
-
 temperatura ambiental controlada 16 0C del laboratorio. Se aspiraron folículos
-
 cuyo diámetro estuvo comprendido entre 3 - 5 mm en base a una regla vernier,
-
 utilizando agujas hipodérmicas de 18G X 1” conectadas a jeringas de 20 ml. El
-
 líquido folicular fue depositado en placas Petri con PBS más antibiótico
-
 penicilina 100 UI/ ml, estreptomicina 100 μg/ml, previamente temperadas a 39
-0C   en la placa calorífica. De cada ovario se obtuvieron en promedio 8 ovocitos
+0C
+
+en la placa calorífica. De cada ovario se obtuvieron en promedio 8 ovocitos
 
 (Anexo 01).
+30
 
-                                                                             30
 3.2.3. Selección de los ovocitos
-
 Los ovocitos se localizaron y fueron seleccionados utilizando una lupa
-
 estereoscópica (SPENCER 133X), y micropipeta con capacidad de 10 - 100 µl
-
 (BOECO) y tips de capacidad 10 - 100 µl. Los ovocitos seleccionados se
-
 colocaron en placas Petri con medio de lavado (PBS más antibiótico) a
-
 temperatura contralada 39 0C. Todo este proceso se realizó hasta 3 veces para
-
 eliminar restos de células foliculares y detritos.
-
-
 3.2.4. Clasificación de los ovocitos
-
 Fueron clasificados de acuerdo al número de capas de células del cumulus y la
-
 apariencia del citoplasma, solo se consideró para el estudio los de categoría I,
-
 que corresponden a ovocitos con células del cumulus compactas con número
-
 de capas múltiples mayor a 3, con citoplasma homogéneo y transparente sin
-
 espacio perivitelino con la zona pelúcida.
-
-
 3.2.5. Formación de grupos experimentales.
-
 Después de clasificado los ovocitos fueron colocados a los siguientes
-
 tratamientos:
-
-
 Tratamiento 1 = 25 Ovocitos + FSH - LH 5 µg/ml + TCM-199 + Sales.
-
 Tratamiento 2 = 25 Ovocitos + FSH - LH 2.5 µg/ml + TCM-199 + Sales.
-
 Tratamiento 3 = 25 Ovocitos + FSH 2.5 µg/ml + TCM-199 + Sales.
-
 Tratamiento 4 = 25 Ovocitos + LH 2.5 µg/ml + TCM-199 + Sales.
 
+31
 
-
-
-                                                                             31
 3.3. PREPARACIÓN DE LOS MEDIOS
-
-
 3.3.1. Medio de transporte y de lavado
-
-
 a) Solución Salina Fisiológica Amortiguada con fosfato (PBS).
+Se preparó la solución con los medios según al (Anexo 02), utilizándose
+agua bidestilada desionizada, homogenizándose durante 15 min en un
+vortex de temperatura controlada a 30
 
-      Se preparó la solución con los medios según al (Anexo 02), utilizándose
+0C
 
-      agua bidestilada desionizada, homogenizándose durante 15 min en un
+y almacenadas en
 
-      vortex de temperatura controlada a 30             0C   y almacenadas en
-
-      refrigeración a 4 0C hasta su utilización.
-
-
+refrigeración a 4 0C hasta su utilización.
 3.3.2. Medios de maduración
-
-
 a) Sales De Hank`s
 
+Se preparó la solución en base al (Anexo 03) mezcladas en agua
+bidestilada desionizada, se homogenizo la solución durante 10 min a 30
+0C
 
-      Se preparó la solución en base al (Anexo 03) mezcladas en agua
-
-      bidestilada desionizada, se homogenizo la solución durante 10 min a 30
-      0C   y almacenado en refrigeración a 4 0C hasta su uso.
-
+y almacenado en refrigeración a 4 0C hasta su uso.
 
 b) TCM -199
+Se
 
-      Se     reconstituyo   el   medio   de   cultivo   TCM     –   199   (NISSUI
+reconstituyo
 
-      PHARMACEUTICAL CO., LTD Cod: 05909), en agua bidestilada
+el
 
-      desionizada (9.8 g/L) en la solución de sales de Hank`S, homogenizado
+medio
 
-      durante 10 min a 30 0C, seguidamente se midió el pH del medio de
+de
 
-      cultivo con el pHmetro (827 pH lab Metrohm) en un rango de 7.2 – 7.4 y
+cultivo
 
-      finalmente el medio fue mantenido en refrigeración a 4 0C.
+TCM
 
+–
 
+199
+
+(NISSUI
+
+PHARMACEUTICAL CO., LTD Cod: 05909), en agua bidestilada
+desionizada (9.8 g/L) en la solución de sales de Hank`S, homogenizado
+durante 10 min a 30 0C, seguidamente se midió el pH del medio de
+cultivo con el pHmetro (827 pH lab Metrohm) en un rango de 7.2 – 7.4 y
+finalmente el medio fue mantenido en refrigeración a 4 0C.
 c) Suero Fetal Bovino (SFB)
+Se obtuvo colectando sangre de terneras hembras hasta 5 meses de
+edad, con jeringa de 10 ml y aguja de 20 G X 1” se aspiró la sangre de la
+32
 
-      Se obtuvo colectando sangre de terneras hembras hasta 5 meses de
-
-      edad, con jeringa de 10 ml y aguja de 20 G X 1” se aspiró la sangre de la
-
-                                                                               32
-      vena yugular depositándolo en tubos de ensayo las que fueron tapados
-
-      herméticamente, las cuales fueron transportados al laboratorio dejándolo
-
-      en reposo durante 24 h. Pasado las 24 h en cabina de flujo laminar el
-
-      suero fue aspirado, y con ayuda de una pipeta Pasteur fue depositado
-
-      en otro tubo de ensayo, seguidamente fue inactivado en baño María a
-
-      60 0C por 30 min, enfriado el suero inactivo, fueron depositados en
-
-      viales de 1.5 ml e identificados para luego ser almacenados a
-
-      congelación hasta su uso.
-
-
+vena yugular depositándolo en tubos de ensayo las que fueron tapados
+herméticamente, las cuales fueron transportados al laboratorio dejándolo
+en reposo durante 24 h. Pasado las 24 h en cabina de flujo laminar el
+suero fue aspirado, y con ayuda de una pipeta Pasteur fue depositado
+en otro tubo de ensayo, seguidamente fue inactivado en baño María a
+60 0C por 30 min, enfriado el suero inactivo, fueron depositados en
+viales de 1.5 ml e identificados para luego ser almacenados a
+congelación hasta su uso.
 d) Hormonas (LH - FSH)
-
-      Se realizó la dilución a las hormonas LH (LUTROPIN® - V 1.25 mg/ml) y
-
-      FSH (FOLLTROPIN® - V 20 mg/ml) con agua tridestilada desionizada en
-
-      viales de 0.5 ml a una concentración hormonal de 5 µg/ml y 2.5 µg/ml
-
-      para la maduración in vitro de ovocitos respectivamente, y se almaceno
-
-      en refrigeración a 4 0C hasta su uso.
-
-
-      Tratamiento 1 = FOLLTROPIN® 5 µg/ml + LUTROPIN® 5 µg/ml.
-
-      Tratamiento 2 = FOLLTROPIN® 2. 5 µg/ml + LUTROPIN® 2.5 µg/ml.
-
-      Tratamiento 3 = FOLLTROPIN® 2.5 µg/ml.
-
-      Tratamiento 4 = LUTROPIN® 2.5 µg/ml.
-
-
+Se realizó la dilución a las hormonas LH (LUTROPIN® - V 1.25 mg/ml) y
+FSH (FOLLTROPIN® - V 20 mg/ml) con agua tridestilada desionizada en
+viales de 0.5 ml a una concentración hormonal de 5 µg/ml y 2.5 µg/ml
+para la maduración in vitro de ovocitos respectivamente, y se almaceno
+en refrigeración a 4 0C hasta su uso.
+Tratamiento 1 = FOLLTROPIN® 5 µg/ml + LUTROPIN® 5 µg/ml.
+Tratamiento 2 = FOLLTROPIN® 2. 5 µg/ml + LUTROPIN® 2.5 µg/ml.
+Tratamiento 3 = FOLLTROPIN® 2.5 µg/ml.
+Tratamiento 4 = LUTROPIN® 2.5 µg/ml.
 3.3.3. Preparación de tripsina 0.05%.
-
-
 a) Tripsina (1 ; 250 GIBCO BRL)
+Se pesó 0.25 g de tripsina con 50 ml de PBS mas antibiótico penicilina
+100 UI/ ml, estreptomicina 100 μg/ml, homogenizándose las soluciones
+por 15 min a 30 0C, luego fue conservado en refrigeración a 4 0C.
+33
 
-      Se pesó 0.25 g de tripsina con 50 ml de PBS mas antibiótico penicilina
-
-      100 UI/ ml, estreptomicina 100 μg/ml, homogenizándose las soluciones
-
-      por 15 min a 30 0C, luego fue conservado en refrigeración a 4 0C.
-
-
-                                                                           33
 3.3.4. Preparación del fijador
-
-
 a) Ácido Acético - Etanol (1:3) 100 mL
-
-      Se midió 75 ml de etanol y 25 ml de ácido acético, la solución preparada
-
-      fue vertida a un frasco ámbar, homogenizándose por 10 min a 30 0C, y
-
-      almacenada en refrigeración a 4 0C.
-
-
+Se midió 75 ml de etanol y 25 ml de ácido acético, la solución preparada
+fue vertida a un frasco ámbar, homogenizándose por 10 min a 30 0C, y
+almacenada en refrigeración a 4 0C.
 3.3.5. Preparación del colorante
-
-
 a) Orceína Acética 1% 25 ml
+Se pesó 0.25 g de Orceína con 12.5 ml de ácido acético, calentado a 60
+0C,
 
-      Se pesó 0.25 g de Orceína con 12.5 ml de ácido acético, calentado a 60
-      0C,   y homogenizándose por 30 min, enfriado la solución se le añadió
+y homogenizándose por 30 min, enfriado la solución se le añadió
 
-      12.5 mL de agua bidestilada desionizada, luego se realizó la filtración
-
-      (membranas Millipore de 0.22 µm de diámetro estériles), y la solución
-
-      fue vertida a un frasco ámbar y conservada en refrigeración a 4 0C.
-
-
+12.5 mL de agua bidestilada desionizada, luego se realizó la filtración
+(membranas Millipore de 0.22 µm de diámetro estériles), y la solución
+fue vertida a un frasco ámbar y conservada en refrigeración a 4 0C.
 3.4. PROCESO DE MADURACIÓN IN VITRO
-
-
 3.4.1. Maduración in vitro de los ovocitos
-
 El cultivo in vitro de los 100 ovocitos clasificados como aptos para el cultivo
-
 celular, se colocaron en placa de cultivo ELISA con 250 μl de medio de
-
 maduración constituido por: TCM-199 (NISSUI PHARMACEUTICAL CO., LTD
-
 Cod: 05909), en agua bidestilada desionizada (9.8 g/L), enriquecidos con sales
-
 de Hank`s (Anexo 3) Suero Fetal Bovino 10%, penicilina 100 UI/ml,
+estreptomicina 100 μg/ml y hormonas LH y FSH,
 
-estreptomicina 100 μg/ml y hormonas LH y FSH,          según los tratamientos
+según los tratamientos
 
 indicados; 1) FSH - LH 5 µg/ml, 2) FSH - LH 2.5 µg/ml, 3) FSH 2.5 µg/ml y 4)
-
 LH 2.5 µg/ml. La placa de cultivo celular de ELISA fue esterilizada en cabina de
-
 flujo laminar (NUAIRE UN-425-300G) con rayos UV por un lapso de 2 h. Luego
-                                                                             34
-los ovocitos en solución de maduración se colocaron dentro de la placa de
+34
 
+los ovocitos en solución de maduración se colocaron dentro de la placa de
 cultivo previo calentamiento en la placa calorífica (OVAN MCH-400 SE) a 39
-0C.   En cada Wells (posillos de la placa de ELISA) se colocaron con la
+0C.
+
+En cada Wells (posillos de la placa de ELISA) se colocaron con la
 
 micropipeta de 100 - 1000 µl (BOECO) y tips de capacidad 100 - 1000 µl 25
-
 ovocitos de categoría I, seguidamente la placa de cultivo se colocó en
-
 incubadora (MMM-Group 600M), a una temperatura de 39 0C, 5% de CO2 y 96
-
 % de humedad, durante 36 h.
-
-
 3.4.2. Evaluación de la Progresión meiótica
-
 Transcurrido el tiempo de maduración in vitro (36 h), la placa de cultivo celular
-
 fue retirada de la incubadora (MMM-Group 600M), y se colocó en la placa
-
 calorífica (OVAN MCH-400 SE) previamente temperada a 37 0C, luego se
-
 absorbieron los ovocitos madurados con la ayuda de la micropipeta con
+capacidad
 
-capacidad    de 10 - 100 µl (BOECO) y tips de capacidad 10 - 100 µl
+de 10 - 100 µl (BOECO) y tips de capacidad 10 - 100 µl
 
 respectivamente, para ser denudados las células del cumulus. En tubo de
-
 ensayo de capacidad de 5 ml se introdujo 1 ml de tripsina (1 ; 250 GIBCO BRL)
+al 0.05%
 
-al 0.05%    previamente calentado a 37 0C, los ovocitos absorbidos fueron
+previamente calentado a 37 0C, los ovocitos absorbidos fueron
 
 introducidos al tubo de ensayo y llevados al vortex (OVAN MCH-350 SE) a 500
-
 rpm para su remoción de las células del cumulus por un lapso de tiempo de 5
-
 min. Pasado el tiempo se inactivo la acción de la tripsina con 1ml de SBF al 10
-
 % durante 10 min. Seguidamente los ovocitos denudados nuevamente fueron
-
 absorbidos con la ayuda de la micropipeta y tips para ser colocados en una
-
 lámina porta objetos y ser fijados con 20 μl de solución de ácido acético/etanol
-
 1; 3 durante 24 h a 4 0C. Pasado el tiempo de fijación se realizó la tinción con
-
 100 μl de solución de orceína acética al 1% durante 15 min, luego se realizaron
-
 3 lavados con PBS para eliminar restos celulares del cumulus.
+35
 
-                                                                              35
 Posteriormente se observó el grado de maduración in vitro de los ovocitos con
-
 el microscopio de contraste de fase (LEICA ICC 50 HD) a 40X y microscopio
-
 compuesto (NIKON ECLIPSE E400) a 60X según criterios:
-
-
-      a) Configuraciones meióticas según (Xu et al., 1986; Sirard et al., 1989).
-
-      b) Presencia del primer corpúsculo polar.
-
-
-
+a) Configuraciones meióticas según (Xu et al., 1986; Sirard et al., 1989).
+b) Presencia del primer corpúsculo polar.
 
 3.5. ANÁLISIS ESTADÍSTICO.
-
 Los datos obtenidos en el presente estudio de maduración in vitro de ovocitos,
-
 fueron evaluados con la prueba estadística de Ji – cuadrada, cuya ecuación es:
 
+𝐤
 
+𝟐
+(
+)
+𝐎
+−
+𝐄
+𝐢
+𝐢
+𝐱𝟐 = ∑
+𝐄𝐢
+𝐢=𝟏
 
+Dónde:
+
 
-                                        𝐤
-                                (           )𝟐
-                                  𝐎𝐢 −  𝐄 𝐢
-                         𝐱𝟐 = ∑
-                                     𝐄𝐢
-                                      𝐢=𝟏
+𝐱𝟐
 
-      Dónde:
+= valor de ji calculada
 
-            𝐱𝟐      = valor de ji calculada
+
 
-            𝐎𝐢      = ovocitos inmaduros
+𝐎𝐢
 
-            𝐄𝐢      = ovocitos maduros
+= ovocitos inmaduros
 
-            ∑𝐤𝐢=𝟏     = sumatoria de los ovocitos
+
 
-            (𝐎𝐢 − 𝐄𝐢 )𝟐 = diferencia entre ovocitos inmaduros y maduros
+𝐄𝐢
 
-            𝛂 = 0.05 y 0.01
+= ovocitos maduros
 
+
 
+∑𝐤𝐢=𝟏
 
+
 
-                                                                              36
-                        IV.     RESULTADOS Y DISCUSION
+(𝐎𝐢 − 𝐄𝐢 )𝟐 = diferencia entre ovocitos inmaduros y maduros
+
+
+
+𝛂 = 0.05 y 0.01
+
+= sumatoria de los ovocitos
+
+36
+
+IV.
+
+RESULTADOS Y DISCUSION
 
 La morfología observada de los ovocitos antes de ser sometidos a la
-
 maduración in vitro presentaron un citoplasma transparente de aspecto
-
 granulado y uniforme sin mostrar el espacio perivitelino entre la zona pelúcida y
-
 el citoplasma, el cual estuvieron cubierto con células de la granulosa mayores a
-
 3 capas compactas y uniformes entre sí alrededor de la zona pelúcida (Figura
-
 A). Otros autores (De Loos et al., 1992) seleccionaron ovocitos desde el
-
 aspecto morfológico del cumulo celular el cual mencionan que debe estar
-
 rodeado sin encontrarse expandido ni disperso sino compacto y sin
-
 aglutinaciones rodeando al gameto, los cuales mencionan que representan los
-
 mayores porcentajes de maduración.
 
-
-
-
-      Figura A. Ovocito antes de la maduración, se muestran detalles de células de la
-                       granulosa, zona pelúcida y citoplasma a 60X.
-
-
+Figura A. Ovocito antes de la maduración, se muestran detalles de células de la
+granulosa, zona pelúcida y citoplasma a 60X.
 
 Por otro lado (Laurincknig, 1992) señala que se produce una mayor tasa de
-
 maduración In vitro cuando se seleccionan ovocitos que presentan las células
 
+37
 
-                                                                                        37
 de la corona radiada claramente diferenciadas del resto del cumulo celular que
-
 rodea al ovocito. Tsafriri and Channing (1975); Leibfried and First, (1979)
-
 seleccionaron ovocitos desde el aspecto citoplasmático del ovocito, que según
-
 estos autores deben poseer un citoplasma granulado fino y uniforme, sin
-
 mostrar espacio perivitelino ni vacuolizaciones.
-
-
 4.1. OVOCITO DENUDADO.
-
 Se denudaron las capas de las células de la granulosa del ovocito,
-
 comprendido de 3 – 5 mm para determinar el diámetro del citoplasma y zona
-
 pelúcida del ovocito, el cual observando (Figura B) el citoplasma (2) se mostró
-
 homogéneo, sin espacio perivitelino, vacuolizaciones y gránulos en la zona
-
 pelúcida y con un diámetro de 125.41 µm, mientras la zona pelúcida (1) con un
-
 diámetro de 12.77 µm. En la especie bovina, los ovocitos adquieren la
-
 capacidad para iniciar la maduración nuclear cuando su diámetro es superior a
-
 110 μm y se encuentran alojados en un folículo cuyo diámetro supera los 3 mm
-
 (Fair et al., 1995). Mientras tanto Sato et al. (1990) han observado ovocitos con
-
 diámetros sobre 91µm; la eliminación del primer corpúsculo polar con
-
 diámetros sobre 101µm y los porcentajes mayores de maduraciones
-
 incompletas en ovocitos con diámetros menores a 120µm. Esto nos indica que
-
 el diámetro obtenido en nuestro estudio está en el rango sugerido por los
-
 autores para iniciar la maduración in vitro. Por otro lado (Sirard and First, 1988)
-
 indican que la remoción de todas las células de la corona y del cúmulo previo a
-
 la incubación, se relaciona a una posterior disminución del reinicio meiótico;
-
 esto se debe a que los ovocitos denudados de las células del cúmulo son
-
 incapaces de responder a la LH y FSH, ya que estas células son las
-
 mediadoras del efecto de las gonadotrofinas
+38
 
-                                                                                38
-         Figura B. Ovocito denudado antes del inicio de la maduración in vitro con
-                 medida de zona pelúcida (1) y del citoplasma (2) a 60X.
-
-
+Figura B. Ovocito denudado antes del inicio de la maduración in vitro con
+medida de zona pelúcida (1) y del citoplasma (2) a 60X.
 
 Con respecto a la selección de los folículos, se absorbieron aquellos que
-
 estuvieron comprendidos entre 3 – 5 mm de diámetro, porque dentro de este
-
 rango no se encuentran folículos atrésicos ni degenerados tal como
-
 observamos en las imágenes (Figuras A y B) las cuales son ovocitos de
-
 folículos de esas dimensiones. Según Motlik and Fulka, (1986), los folículos
-
 menores de 2 mm de diámetro contienen un alto porcentaje de ovocitos
-
 incompetentes o bien atrésicos, mientras que los mayores de 10 mm presentan
-
 un mayor número de ovocitos degenerados (Fukui and Sakuma, 1980). Por ello
-
 la mayoría de los autores seleccionan folículos antrales, de diámetros
-
 comprendidos entre 2 y 8 mm (Pavlov et al., 1992). Por otro lado, Lonnergan et
-
 al., (1992) señalan que los folículos con un diámetro de entre 2 y 6 mm,
-
 permiten una tasa de recuperación de ovocitos (número de ovocitos obtenidos
-
 /número de folículos aspirados) aptos para el cultivo mayor que en los folículos
-
 de mayor tamaño. Wurth and Kruip, (1992) señalan que los ovocitos,
-
 procedentes de folículos ligeramente atrésicos tienen una capacidad normal
+39
 
-                                                                                     39
 para madurar In vitro, siempre que el cumulo y el citoplasma no presenten
-
 signos claros de degeneración.
-
-
 4.2. VESÍCULA GERMINAL.
-
 En la observación (Figura C) del ovocito la vesícula germinativa (VG) estuvo
-
 intacta de forma irregular, presentándose la cromatina condensada, con
-
 envoltura nuclear intacta y visible en la zona ecuatorial, momento de inicio de
-
 la maduración in vitro (0 h). Gordon (1994), informa que durante el proceso de
-
 maduración la cromatina contenida en la vesícula germinativa está dispersa, y
-
 usualmente se encuentra acompañada de un nucléolo. Thibault (1997),
-
 sostiene que el colapso de la vesícula germinal involucra la condensación de la
-
 cromatina en pares, con pérdida de nucléolos y membrana nuclear, ocurriendo
-
 la diacinesis 5 – 6 h después de haber iniciado el cultivo de ovocitos.
 
+Figura C. Ovocito en estado de vesícula germinal se observa la cromatina
+condensada a 60X
 
+40
 
-
-         Figura C. Ovocito en estado de vesícula germinal se observa la cromatina
-                                   condensada a 60X
-
-                                                                                    40
 4.3. METAFASE I.
-
 Observando las imágenes (Figuras “D” en estado de fluorescencia y Figura
-
 “E” en tinción orceína acética), la cromatina estuvo presente en la placa
-
 metafásica, agrupada en masa y aglutinada sin evidencias del primer
-
 corpúsculo polar, colocadas ordenadamente en la zona ecuatorial formando el
-
 huso acromático notoriamente, similares a lo que mencionan (Xu et al., 1986;
-
 Sirard et al., 1989) que los cromosomas se encuentran condensados e
-
 individualizados, al máximo, y generalmente agrupados en masa y aglutinados
-
 en la zona ecuatorial del ovocito. También en esta fase se forma el huso
-
 mitótico, los centrómeros de los cromosomas homólogos se unen a las fibras
-
 del huso, que se originan en los polos opuestos de la célula y se alinean en la
-
 placa ecuatorial (Kleinsmith and Kish, 1988). Sato et al. (1982) observaron la
-
 metafase I en ovocitos de cerdo entre 20 y 24 h y 12 h en bovinos después de
-
 haber iniciado el cultivo In vitro.
 
+Figura D. Ovocito en estado de metafase I observado en
+fluorescencia a 60X
 
+41
 
-
-            Figura D. Ovocito en estado de metafase I observado en
-                              fluorescencia a 60X
-
-                                                                            41
 También en la imagen podemos observar los bivalentes condensados en forma
-
 de V en posición de la zona ecuatorial bien pronunciado, similares a lo que
-
 menciona (Kleinsmith and Kish, 1988) que la condensación cromosómica de la
-
 metafase I ocurre en el vestigio agranular del núcleo a los 20 min de la
-
 disolución nucleolar, después de 2 o 3 h de cultivo, en promedio, cuando la
-
 condensación cromosómica está casi completa, los bivalentes tienen forma de
-
 V y son telocéntricos y se asocian usualmente con fragmentos de la cubierta
-
 nuclear. Poco después, los cromosomas altamente condensados se arreglan
-
 circularmente en el centro del ovocito, pierden sus contactos con los
-
 fragmentos de cubierta nuclear y luego (después de 6-9 h de cultivo), se
-
 alinean en el Ecuador del huso de la metafase I.
 
+Figura E. Ovocito en metafase I se observa a los cromosomas en
+la zona ecuatorial a 60X
 
+42
 
-
-       Figura E. Ovocito en metafase I se observa a los cromosomas en
-                           la zona ecuatorial a 60X
-
-
-                                                                        42
 4.4. ANAFASE I.
-
 En las imágenes (Figuras “F” en fluorescencia y figura “G” tinción orceína
-
 acética) de esta fase, hay presencia de división de la cromatina hacia los polos
-
 del huso acromático, evidenciándose notoriamente la separación de los
-
 bivalentes. Kleinsmith and Kish, (1988) mencionan que los cromosomas
-
 homólogos (pero no cromáticas hermanas) de cada tétrada se separan y se
-
 mueven hacia uno de los polos del huso, (Xu et al., 1986; Sirard et al., 1989).
-
 Observaron que cuando los cromosomas se encuentran bajo división o
-
 segregación, se disponen a lo largo del huso acromático teniendo una duración
-
 de 10 – 13 h después de iniciado la maduración, concomitante a la telofase I.
 
+Figura F. Ovocito en estado de anafase I observado en fluorescencia a 60X.
 
+43
 
-
-         Figura F. Ovocito en estado de anafase I observado en fluorescencia a 60X.
-
-
-
-
-                                                                                      43
-          Figura G. Ovocito en estado de anafase I se observa división de los
-                                 cromosomas a 60X.
-
-
-
+Figura G. Ovocito en estado de anafase I se observa división de los
+cromosomas a 60X.
 
 4.5. TELOFASE I.
 
-
 En esta fase se observa (Figuras “H” en fluorescencia, y Figura “I” tinción
-
 orceína acética) la separación definitiva de los cromosomas en el huso
-
 acromático en dos bandas paralelas en la línea ecuatorial. Esta etapa lleva a la
-
 finalización de la primera división meiótica y culminara con la expulsión del
-
 primer corpúsculo polar. Durante esta fase se forma el cuerpo medio (un anillo
-
 membranoso y vacuolar basofílico alrededor de la región central del huso en
-
 telofase) y se inicia el retiro del cuerpo polar. (Kleinsmith and Kish, 1988). La
-
 posición de los cromosomas es terminal en ambos polos del huso acromático.
-
 A veces se puede observar la membrana del primer corpúsculo polar, aunque
-
 el huso acromático está todavía presente (Xu et al., 1986; Sirard et al., 1989).
 
+44
 
-
-
-                                                                                   44
-       Figura H. Ovocito en estado de telofase I observado en fluorescencia a 60X .
-
-
-
+Figura H. Ovocito en estado de telofase I observado en fluorescencia a 60X .
 
 Figura I. Ovocito en estado de telofase I se observa la posición paralela de los cromosomas
-                                  en ambos polos a 60X.
+en ambos polos a 60X.
 
-                                                                                         45
+45
+
 4.6. METAFASE II.
-
 En las imágenes observadas en esta etapa los ovocitos presentaron la placa
-
 metafásica II notoriamente con los cromosomas condensados en el segundo
-
 huso acromático y la presencia del primer corpúsculo polar, tales como se
-
 muestran en las imágenes (figura “J” tinción orceína acética con fijación y
-
 figura “K” tinción orceína acética sin fijación) correspondientes, por otro lado
-
 la imagen observada (figura “L” en negativo) muestra detalles de las medidas
-
 de la placa metafásica del ovocito maduro (1) con un diámetro de 28.28 µm, y
-
 el citoplasma (2) con un diámetro de 235.06 µm, y la imagen observada (figura
-
 “M” sin fijación, ni tinción) muestra un espacio perivitelino entre la zona
-
 pelúcida y el citoplasma, encontrándose en ese espacio el primer cuerpo polar
-
 de forma transparente, estos comparados con (Xu et al., 1986; Sirard et al.,
-
 1989) en donde describen que los cromosomas están contraídos y situados en
-
 el ecuador del segundo huso acromático, además se visualizan los
-
 cromosomas correspondientes al primer corpúsculo polar, por su parte
-
 (Kleinsmith and Kish, 1988) describen que las cromátidas están en pares y se
-
 asocian con los microtúbulos del huso y migran a la región ecuatorial del
-
 mismo. Por lo indicado, en la mayoría de los mamíferos, el ovocito entra en la
-
 segunda etapa de detención de la meiosis y la ovulación suele producirse en
-
 esta fase. Por otra parte (De Loos et al., 1992) consideran maduros a aquellos
-
 ovocitos que presentan cúmulus mucificado y expandido, presencia del primer
-
 corpúsculo polar en el espacio perivitelino y metafase II. A pesar de ello, la
-
 capacidad de los ovocitos para ser fertilizados in vitro y continuar el desarrollo
-
 normal de los embriones, es probablemente el criterio más adecuado.
 
+46
 
-
-
-                                                                               46
- Figura J. Ovocito en metafase II, se observa detalles del corpúsculo polar y placa metafásica
-                                             60X.
-
-
-
+Figura J. Ovocito en metafase II, se observa detalles del corpúsculo polar y placa metafásica
+60X.
 
 Figura K. Ovocito en estado de metafase II, se observa detalles del corpúsculo polar, 40X.
 
-                                                                                             47
+47
+
 Figura L. Ovocito en estado metafase II observado en negativo, medida del citoplasma (1) y
-                               placa metafásica (2), 60X.
-
-
-
+placa metafásica (2), 60X.
 
 Figura M. Ovocito 36 horas de maduración denudada, con presencia del corpúsculo polar a
-                                         40X.
+40X.
 
-                                                                                         48
+48
+
 4.7. PORCENTAJES DE MADURACIÓN IN VITRO SEGÚN TRATAMIENTOS.
-
 En la Tabla 1 muestra los resultados de la maduración In Vitro de ovocitos en
-
 vacunos de altura, donde el tratamiento I (FSH - LH 5 µg/ml) representa el 84%
-
 (21/25) de ovocitos llegados a metafase II (15) y telofase I (6) el cual se
+consideran como madurados
 
-consideran como madurados              de un total de 25 ovocitos, seguido del
+de un total de 25 ovocitos, seguido del
 
 tratamiento II (FSH - LH 2.5 µg/ml) que representa un 80% (20/25) llegando a
-
 metafase II (13) y telofase I (7) y para el tratamiento III (FSH 2.5 µg/ml) con
-
 48% (12/25) llegando a metafase II (8) y telofase I (4) y por último el
-
 tratamiento IV (LH 2.5 µg/ml) con 44% (11/25) llegando a metafase II (6) y
-
 telofase I (5) respectivamente, estos resultados al ser sometidos al análisis
-
 estadístico de Ji-cuadrada mostraron una diferencia altamente significativa (P <
-
 0.01) entre tratamientos.
-
-
 Tabla 1: Maduración in vitro de ovocitos en vacunos de altura expuestos a diferentes
-                    concentraciones de FSH-LH
-Tratamientos    Nº de    Ovocitos Madurados       Ovocitos Inmaduros         Degenerados
-               Ovocitos Met II + Tel I          Ana I          Tel I
-                          Total            % Total       %    Total    %     Total        %
-     I           25       15 + 6 (21/25)   84 2 (2/25)   8     -         -   1 (1/25)     4
-     II          25       13 + 7 (20/25)   80 1 (1/25)   4     1 (1/25) 4    2 (1/25)     8
-    III          25       8 + 4 (12/25)    48 8 (8/25)   32    3 (3/25) 12   2 (1/25)     8
-    IV           25        6 + 5 (11/25)   44 6 (6/25)   24    5 (5/25) 20   3 (1/25)     12
-                                                                             (P ˂ 0,01)
+concentraciones de FSH-LH
+Tratamientos
 
+Nº de
+Ovocitos Madurados
+Ovocitos Met II + Tel I
 
+Ovocitos Inmaduros
+Ana I
+Tel I
 
+Total
+
+% Total
+
+%
+
+Total
+
+Degenerados
+%
+
+Total
+
+%
+
+I
+
+25
+
+15 + 6 (21/25)
+
+84 2 (2/25)
+
+8
+
+-
+
+-
+
+1 (1/25)
+
+4
+
+II
+
+25
+
+13 + 7 (20/25)
+
+80 1 (1/25)
+
+4
+
+1 (1/25) 4
+
+2 (1/25)
+
+8
+
+III
+
+25
+
+8 + 4 (12/25)
+
+48 8 (8/25)
+
+32
+
+3 (3/25) 12
+
+2 (1/25)
+
+8
+
+IV
+
+25
+
+6 + 5 (11/25)
+
+44 6 (6/25)
+
+24
+
+5 (5/25) 20
+
+3 (1/25)
+
+12
+
+(P ˂ 0,01)
 
 Los resultados obtenidos en el estudio comparados con otros autores que
-
 probaron con similares tratamientos como (Fernández Reyes et al., 2007) que
-
 seleccionaron ovocitos que presentaron 3 ó más capas compactas de células
-
 del cúmulo y cultivados en medio de maduración TCM 199 suplementado con
-
 FSH y LH en concentraciones: 1) 5 µg/ml de FSH y 5 µg/ml de LH (22
 
+49
 
-                                                                                          49
 ovocitos), 2) 2.5 µg/ml de FSH y 2.5 µg/ml de LH (16 ovocitos), 3) 5 µg/ml de
-
 FSH (36 ovocitos), 4) 2.5 µg/ml de FSH (33 ovocitos). Sus resultados de
-
 maduración indican que el grupo suplementado con 2.5 µg/ml FSH, obtuvo el
-
 mayor porcentaje (45.4%) de ovocitos en Metafase II, seguido por el grupo
-
 suplementado con 5 µg/ml FSH (27.7%), el grupo suplementado con 2.5 µg/ml
-
 FSH + 2.5 µg/mL LH (25%) y el grupo suplementado con 5 µg/ml FSH + 5
-
 µg/mL LH (22.7%). Estos resultados comparados con el presente trabajo son
-
 menores en todos los tratamientos llegados a Metafase II y Telofase I esto
-
 podría ser por consecuencia de tipo de especie ya que ellos probaron en la
-
 especie ovina y con el presente trabajo en la especie bovina, el cual demuestra
-
 una diferencia en el tipo de reacción.
-
-
 Salgado et al. (2010) obtuvieron 92.71% (89/96), 87.5% (84/96) y 88.54%
-
 (85/96), de ovocitos maduros, los cuales seleccionaron ovocitos de categoría I
-
 respectivamente, el cual comparados con los resultados del presente estudio
-
 son superiores. Estos autores utilizaron un protocolo de maduración in vitro de
-
 ovocitos las que fueron sometidas a TCM-199, 10% SFB, 75 µg/ml de
-
 Gentamicina, 38.8 0C, 5% de CO2 y 96% de humedad, durante un periodo de
-
 24 h. Suplementadas con FSH 50 µg/ml y LH 150 µg/ml, FSH 100 µg/ml y LH
-
 100 µg/ml y FSH 150 µg/ml y LH 50 µg/ml respectivamente, las
-
 concentraciones de dosis hormonal que utilizaron son mucho mayores a
-
 nuestro experimento. De igual manera (Báez et al., 2008) maduraron ovocitos
-
 in vitro logrando un 61.36% (54/88) utilizando ovocitos con células del cumulus
-
 mayor a 3 capas para su maduración, estos autores utilizaron un protocolo
-
 donde los ovocitos fueron sometidos a TCM-199 (M-7528 Sigma), 50 mg/L
-
 Gentamicina, 10 µg/ml de Folltropin V® y 10% SFB. A una temperatura de 38.5
+50
 
-                                                                            50
-0C,   5% de CO2 en aire saturado de humedad, durante un periodo de 27 h, este
+0C,
+
+5% de CO2 en aire saturado de humedad, durante un periodo de 27 h, este
 
 resultado comparado con el presente trabajo es también mayor al que
-
 obtuvimos con el tratamiento III (FSH 2.5 µg/ml) 48% (12/25), ya que nuestro
-
 protocolo de estudio tiene una dosis hormonal menor utilizado por este autor.
-
 Por otra parte (De los Reyes et al., 1999) utilizando en su protocolo de
-
 maduración con TCM-199 (Gibco ®), suplementado al momento de usarlo con
-
 10% de suero fetal bovino (Gibco ®), 5 mg/ml de FSH-p (Sigma®), 1 mg/ml de
-
 gentamicina (Sigma®), a 39 0C en una atmosfera de 5% CO2 con 98% de
-
 humedad por un periodo de 24 h, en sus resultados alcanzaron 75.3% llegando
-
 al estado de metafase II, de la población de ovocitos estudiados, los
-
 correspondientes a la categoría I fueron (287). Del mismo modo con la
-
 categoría I el cual con el presente estudio también seleccionamos la misma
-
 categoría y nuestro resultado fue menor, esto se debería a la menor
-
 concentración de FSH utilizado en el protocolo.
 
+51
 
+V.
 
-
-                                                                          51
-                         V.     CONCLUSIONES
-
+CONCLUSIONES
 
  La selección de folículos de 3 – 5 mm de diámetro de vacas adultas
-
-   (2 dientes a más) beneficiadas en camal poseen ovocitos con medida
-
-   del citoplasma con diámetro de 125.41 µm, mientras la zona pelúcida
-
-   con diámetro de 12.77 µm. aptos y viables para la maduración in vitro
-
-   en altura a 36 h post maduración.
-
+(2 dientes a más) beneficiadas en camal poseen ovocitos con medida
+del citoplasma con diámetro de 125.41 µm, mientras la zona pelúcida
+con diámetro de 12.77 µm. aptos y viables para la maduración in vitro
+en altura a 36 h post maduración.
  Las concentraciones hormonales de los tratamientos I y II (FSH 5
+µg/ml + LH 5 µg/ml y FSH 2.5 µg/ml + LH 2.5 µg/ml) en medios
+condicionantes son las más adecuadas y alcanzan los mayores
+índices de maduración in vitro en altura con 84% y 80%
+respectivamente, obteniéndose la
 
-   µg/ml + LH 5 µg/ml y FSH 2.5 µg/ml + LH 2.5 µg/ml) en medios
+presentación de Telofase I,
 
-   condicionantes son las más adecuadas y alcanzan los mayores
+Metafase II y presencia del primer corpúsculo polar en el ovocito.
 
-   índices de maduración in vitro en altura con 84% y 80%
+52
 
-   respectivamente, obteniéndose la       presentación de Telofase I,
+VI.
 
-   Metafase II y presencia del primer corpúsculo polar en el ovocito.
-
-
-
-
-                                                                        52
-                          VI.    RECOMENDACIONES
+RECOMENDACIONES
 
  Realizar maduración in vitro de ovocitos bovinos en altura a 36 h porque
-
-   alcanza buen porcentaje de maduración. P robar la maduración in vitro
-
-   en vacunos en 24, 28, 32 h.
-
+alcanza buen porcentaje de maduración. P robar la maduración in vitro
+en vacunos en 24, 28, 32 h.
  Probar la obtención de los ovocitos para la maduración in vitro por el
-
-   método de disección.
-
+método de disección.
 
  Madurar ovocitos in vitro con Piruvato de sodio y L-Glutamina.
 
-
  Comparar concentraciones hormonales mayores al presente estudio.
 
+53
 
+VII.
 
-
-                                                                           53
-                        VII.   REFERENCIA BIBLIOGRAFICA
+REFERENCIA BIBLIOGRAFICA
 
 Armstrong, D.T., X. Zhang, B.C. Vanderhyden and F. Khamsi. 1991. Hormonal
-
-   actions during oocyte maduration influence fertilization and early embryonic
-
-   development. Ann. New York. Acad. Sci. Vol. 626: 137-158.
-
+actions during oocyte maduration influence fertilization and early embryonic
+development. Ann. New York. Acad. Sci. Vol. 626: 137-158.
 Azambuja, R.M., D. C. Kraemer and M. E. Westhusin. 1998. Effect of low
-
-   temperatures on In vitro matured bovine oocytes. Theriogenology. Vol. 49:
-
-   1155-1164.
-
+temperatures on In vitro matured bovine oocytes. Theriogenology. Vol. 49:
+1155-1164.
 Báez, F.J., L. Hernández and P.C. Villamediana. 2008. Estudio estructural del
-
-   huso meiótico de ovocitos bovinos vitrificados. Revista Científica, FCV-LUZ/
-
-   Vol XVIII, N° 3, 253-261
-
+huso meiótico de ovocitos bovinos vitrificados. Revista Científica, FCV-LUZ/
+Vol XVIII, N° 3, 253-261
 Ball, G.D., M. L. Leibfried, R. L. Ax and N. L. First. 1984. Maturation and
-
-   fertilization of bovine oocytes In vitro. Journal of Dairy Science. Vol. 67:
-
-   2775-2785.
-
+fertilization of bovine oocytes In vitro. Journal of Dairy Science. Vol. 67:
+2775-2785.
 Barnes, F.L. and Eyestone, W.H. 1990. Early cleavage and maternal zygotic
-
-   transition in bovine embryos. Theriogenology. Vol. 33: 141-152.
-
+transition in bovine embryos. Theriogenology. Vol. 33: 141-152.
 Bavister, B. D. 1987. Studies on the developmental blocks in cultured hamster
-
-   embryos. En: The Mammalian Preimplantation Embryo: Regulation of
-
-   Growth and Differentiation In vitro. New York. Plenum Press: 219-249.
-
+embryos. En: The Mammalian Preimplantation Embryo: Regulation of
+Growth and Differentiation In vitro. New York. Plenum Press: 219-249.
 Blondin, O., K. Coenen, L. A. Guilbault and M. A. Sirard. 1997. In vitro
-
-   production of bovine embryos: developmental competence is acquired
-
-   before maturation. Theriogenology. Vol. 47: 1061-1075.
-
+production of bovine embryos: developmental competence is acquired
+before maturation. Theriogenology. Vol. 47: 1061-1075.
 Brackett, B.G. 1981. Fertilization and early development of cow ova. Biol.
-
-   Reprod. 23: 189-205.
-
+Reprod. 23: 189-205.
 Brackett B.G. 1985. In vitro oocytes maturation and fertilization. Journal of
+animal Science. 61 (Suppl. 3): 14.
 
-   animal Science. 61 (Suppl. 3): 14.
+54
 
-
-                                                                            54
 Brackett, B.G. 1988. Aplicaciones de la fertilización In vitro. Avances en
-
-    Zootecnia. Zaragoza, España. Editorial Acribia: 159.
-
+Zootecnia. Zaragoza, España. Editorial Acribia: 159.
 Brackett, B.G. and K. A. Zuelke. 1993. Analysis of factors involved in the In vitro
-
-    production of bovine embryos. Theriogenology. Vol. 39: 43-64.
-
+production of bovine embryos. Theriogenology. Vol. 39: 43-64.
 Carolan, C., P. Monaghan, M. Gallager and I. Gordon, 1994. Effect of recovery
+method on yield of bovine oocytes per ovary and their developmental
+competence
 
-    method on yield of bovine oocytes per ovary and their developmental
+after
 
-    competence     after   maturation,     fertilization   and   culture   In   vitro.
+maturation,
 
-    Theriogenology. Vol. 41: 1061-1068.
+fertilization
 
+and
+
+culture
+
+In
+
+vitro.
+
+Theriogenology. Vol. 41: 1061-1068.
 Carolan, C., P. Lonergan, A. Van Langenonckt and P. Mermillod. 1995. Factors
-
-    affecting bovine embryo development in syntethic oviduct fluid following
-
-    oocyte maturation and fertilization In vitro. Theriogenology. Vol. 43: 1115-
-
-    1128.
-
+affecting bovine embryo development in syntethic oviduct fluid following
+oocyte maturation and fertilization In vitro. Theriogenology. Vol. 43: 11151128.
 Critser, E.S., M. L. Leibfried-Rutledge, W. H. Eyestone, D. L. Northey and N. L.
-
-    First. 1986. Acquisition of developmental competence during maturation in
-
-    vitro. Theriogenology; 25: 150 abst.
-
+First. 1986. Acquisition of developmental competence during maturation in
+vitro. Theriogenology; 25: 150 abst.
 Dale, B. and K. Eider. 1997. In vitro fertilization. Cambridge. University Press:
-
-    187.
-
+187.
 Del Campo, M. 1993. Fertilización In vitro. Instituto de Reproducción Animal.
-
-    Córdoba - Argentina (IRAC). Vol.1: 1-20.
-
+Córdoba - Argentina (IRAC). Vol.1: 1-20.
 De Loos, F., P. Maurik, T. Van Beneden and T. Kruip. 1992. Structural aspects
-
-    of bovine oocyte maturation In vitro. Mol. Reprod. Devel. Vol. 31: 208-214.
-
+of bovine oocyte maturation In vitro. Mol. Reprod. Devel. Vol. 31: 208-214.
 De Los Reyes M., J.P. Aguayo, H. Del Campo y C. Barros. 1999. Evaluación de
+ovocitos de vaca para maduración en cultivo. Universidad de Chile. Vol. 14
 
-    ovocitos de vaca para maduración en cultivo. Universidad de Chile. Vol. 14
+55
 
-
-
-
-                                                                                   55
 Fair, T., P. Hyttel and T. Greve. 1995. Bovine oocyte diameter in relation to
-
-   maturational competence and transcriptional activity. Mol Reprod Dev. 42:
-
-   437–42.
-
+maturational competence and transcriptional activity. Mol Reprod Dev. 42:
+437–42.
 Edwards, R.G. 1965. Maturation in vitro of mouse, sheep, cow, pig, rhesus
-
-   monkey and human ovarian oocytes. Nature, 208: 349-351.
-
+monkey and human ovarian oocytes. Nature, 208: 349-351.
 Fernández Reyes, J.E., A. I. Hernández y C. Pichardo. 2007 Maduración in
-
-   vitro de ovocitos de ovino usando concentraciones de FSH+LH Y FSH en
-
-   medio de cultivo. Rev. Salud Anim. Vol. 29 No. 2. 105-110
-
+vitro de ovocitos de ovino usando concentraciones de FSH+LH Y FSH en
+medio de cultivo. Rev. Salud Anim. Vol. 29 No. 2. 105-110
 Fry, R. C., E. M. Niall, T. L. Simpson, T. J. Squires and J. Reynolds. 1997. The
-
-    collection of oocytes from bovine ovaries. Theriogenology. Vol. 47: 977-
-
-    987.
-
+collection of oocytes from bovine ovaries. Theriogenology. Vol. 47: 977987.
 Fukui, Y. and H. Sakuma. 1980. Maturation of bovine oocytes cultured In vitro:
-
-    relation to ovarian activity, follicular size and the presence or absence of
-
-    cumulus cells. Biology of Reproduction. Vol. 22: 669-673.
-
+relation to ovarian activity, follicular size and the presence or absence of
+cumulus cells. Biology of Reproduction. Vol. 22: 669-673.
 Fukui, Y., M. Fukushima, Y. Terawaki and H. Ono. 1982. Effect of gonadotropin,
-
-   steroids and culture media on bovine oocyte maturation. Theriogenology 18:
-
-   161-175.
-
+steroids and culture media on bovine oocyte maturation. Theriogenology 18:
+161-175.
 Fukui, Y. 1990. Effect of follicle cells on the acrosome reaction, fertilization, and
-
-    developmental competence of bovine oocytes matured In vitro. Mol. Rep.
-
-    Dev. Vol. 26: 40-46.
-
+developmental competence of bovine oocytes matured In vitro. Mol. Rep.
+Dev. Vol. 26: 40-46.
 Fukui, Y. and H. Ono. 1989. Effects of serum, hormones and granulosa cells
+added to culture medium for In vitro maturation, fertilization, cleavage and
+development ofbovine oocytes. Journal of Reproduction and Fertility. Vol. 86:
+501-506.
 
-  added to culture medium for In vitro maturation, fertilization, cleavage and
+56
 
-  development ofbovine oocytes. Journal of Reproduction and Fertility. Vol. 86:
-
-  501-506.
-
-
-
-
-                                                                                  56
 Fulka, J. 1980. In-vitro maturation. Proc. 9th mt. Cong. Aním. Reprod. y A.I.
-
-   Madrid 11: 55-62.
-
+Madrid 11: 55-62.
 Gandolfi, F., A. M.Luciano, S. Modina, A. Ponzini, O. Pocar, D. T. Armstrong
-
-    and A. Lauria. 1997. The In vitro developmental competence of bovine
-
-    oocytes can be related to the morphology of the ovary. Theriogenology. Vol.
-
-    48: 1153-1160.
-
+and A. Lauria. 1997. The In vitro developmental competence of bovine
+oocytes can be related to the morphology of the ovary. Theriogenology. Vol.
+48: 1153-1160.
 Ginther, O.J. (Ed.). 1992. Reproductive biology of the mare: basic and applied
-
-    aspects. Cross Plains. Wisconsin. Equiservices Publishing.
-
+aspects. Cross Plains. Wisconsin. Equiservices Publishing.
 Ginther, O.J., M. A. Beg, D. R. Bergfelt, F. X. Donadeu and K. Kot. 2001.
-
-   Follicle Selection in Monovular Species. Biol Reprod; 65:638-47.
-
+Follicle Selection in Monovular Species. Biol Reprod; 65:638-47.
 Gliedt, D.W., C. F. Jr. Rosenkrans, R. W. Rorie, A. L. Munyon, J. N. Pierson, G.
-
-    F. Miller and J. M. Rakes. 1996a. Effects of media, serum, oviductal cells,
-
-    and hormones during maturation on bovine embryo development In vitro.
-
-    Journal of Dairy Science. Vol. 79 (4): 536-542.
-
+F. Miller and J. M. Rakes. 1996a. Effects of media, serum, oviductal cells,
+and hormones during maturation on bovine embryo development In vitro.
+Journal of Dairy Science. Vol. 79 (4): 536-542.
 Gliedt, D.W., C. F. Jr. Rosenkrans, R. W. Rorie, and J. M. Rakes. 1996b.
-
-    Effects of oocyte maturation length, sperm capacitation time, and heparin
-
-    on bovine embryo development. Journal of Dairy Science. Vol. 79 (4): 532-
-
-    535.
-
+Effects of oocyte maturation length, sperm capacitation time, and heparin
+on bovine embryo development. Journal of Dairy Science. Vol. 79 (4): 532535.
 Gordon, I. and K. H. Lu. 1990. Production of embryos In vitro and its impact on
-
-    livestock production. Theriogenology. Vol. 33: 77.
-
+livestock production. Theriogenology. Vol. 33: 77.
 Gordon, I. 1994. Laboratory Production of Cattle Embryos. CAB International.
-
-    Cambridge. University Press: 639.
-
+Cambridge. University Press: 639.
 Gwatkin, R.B.L. and O. F. Andersen. 1976. Hamster oocyte maturation In vitro
+inhibition by follicular components life. Science. Vol. 19: 527-536.
 
-    inhibition by follicular components life. Science. Vol. 19: 527-536.
+57
 
-
-
-
-                                                                             57
 Hafez, E.S.E. y B. Hafez. 2000. Reproducción e inseminación artificial en
-
-    animales (7ª edición). México. Editorial McGraw-Hill Interamericana: 36-39.
-
+animales (7ª edición). México. Editorial McGraw-Hill Interamericana: 36-39.
 Hatler, T. B., S. H. Hayes, D. L. Ray, P. S. Reames and W. J. Silvia. 2008.
-
-   Effect of subluteal concentrations of progesterone on luteinizing hormone
-
-   and ovulation in lactating dairy cows. Vet J; 177: 360-8.
-
+Effect of subluteal concentrations of progesterone on luteinizing hormone
+and ovulation in lactating dairy cows. Vet J; 177: 360-8.
 Hyttel, P., H. Callesen and T. Greve. 1986a. Ultraestructural features of
-
-    preovulatory oocytes maturation in superovulated cattle. Journal of
-
-    Reproduction and Fertility. Vol. 76: 645-656.
-
+preovulatory oocytes maturation in superovulated cattle. Journal of
+Reproduction and Fertility. Vol. 76: 645-656.
 Hyttel, P., K. P. Xu, S. Smith and T. Greve. 1986b. Ultrastructure of In vitro
-
-    oocyte maturation in cattle. Journal of Reproduction and Fertility. Vol. 78:
-
-    615-625.
-
+oocyte maturation in cattle. Journal of Reproduction and Fertility. Vol. 78:
+615-625.
 Kleinsmith, L. J. and V. M. Kish. 1988. Principles of cell biology: pp 813. Harper
-
-   and Row, New York.
-
+and Row, New York.
 Knobil, E. and D. N. Jimmy. 1994. The physiology of reproduction. Two volume
-
-   publisher: Raven press New York publication date: Binding: Red gilt lettered
-
-   cloth book condition: No Dj Edition, First printing Stated.
-
+publisher: Raven press New York publication date: Binding: Red gilt lettered
+cloth book condition: No Dj Edition, First printing Stated.
 Krisher, R.L., M. Lane and B. D. Bavister. 1999. Developmental competence
-
-    and metabolism of bovine embryos cultured in semi-defined and defined
-
-    culture media. Biology of Reproduction. Vol. 60: 1345-1352.
-
+and metabolism of bovine embryos cultured in semi-defined and defined
+culture media. Biology of Reproduction. Vol. 60: 1345-1352.
 Kruip, T.A.M., M. C. Pieterse, T. H. Van Beneden and S. J. Dieleman. 1983.
-
-    Structural changes in bovine during final maturation In vivo. Gamete Res. 8:
-
-    29-47.
-
+Structural changes in bovine during final maturation In vivo. Gamete Res. 8:
+29-47.
 Kuwayama M. 1993. In vitro fertilization and development of bovine oocytes
+recovered from the ovaries of individual donors: theriogenology 39.
 
-    recovered from the ovaries of individual donors: theriogenology 39.
+58
 
-
-
-
-                                                                                58
 Lambert, R.D., M.A. Sirard, C.Bernard, R. Bely, J.E. Rioux, P. Leclerc, D.P.
-
-    Menard and M. Beyoda. 1986. In vitro Fertilization of bovine oocytes In
-
-    matured In vivo and collected at laparoscopy. Theriogenology. Vol. 25: 117.
-
+Menard and M. Beyoda. 1986. In vitro Fertilization of bovine oocytes In
+matured In vivo and collected at laparoscopy. Theriogenology. Vol. 25: 117.
 Laurincknig, J. 1992. Compactness of corona cell layer. Workshops of the 12 th
-
-    International Congress on Animal Reproduction.
-
+International Congress on Animal Reproduction.
 Leibfried, L. and N. L. First. 1979. Characterization of bovine follicular oocytes
-
-    and their ability to mature In vitro. Journal of Reproduction and Fertility. Vol.
-
-    48: 76-86.
-
+and their ability to mature In vitro. Journal of Reproduction and Fertility. Vol.
+48: 76-86.
 Leibfried, L. and N. L. First. 1980. Effect of bovine and porcine follicular fluid
-
-    and granulose cells on maturation of oocytes In vitro. Biology of
-
-    Reproduction. Vol. 23: 699-704.
-
+and granulose cells on maturation of oocytes In vitro. Biology of
+Reproduction. Vol. 23: 699-704.
 Leibfried-Rutledge, M. L., E. S. Critser, W. H. Eyestone, D. L. Northey and N. L.
-
-    First. 1987. Development potential of bovine oocytes matured In vitro or In
-
-    vivo. Biology of Reproduction. 36 (2): 376-383.
-
+First. 1987. Development potential of bovine oocytes matured In vitro or In
+vivo. Biology of Reproduction. 36 (2): 376-383.
 Lonnergan, P., H. Sharif, P. Monaghan, H. Wahid, M. Gallagher and I. Gordon.
-
-    1992. Effect of follicle size on bovine oocyte morphology and embryo yield
-
-    following maturation, fertilization and culture In vitro. Theriogenology. Vol.
-
-    37: 248.
-
+1992. Effect of follicle size on bovine oocyte morphology and embryo yield
+following maturation, fertilization and culture In vitro. Theriogenology. Vol.
+37: 248.
 Lu, K. H., I. Gordon, M. Gallager and H. McGovern. 1987. Pregnancy
-
-    established in cattle by transfer of embryos derived from In vitro fertilization
-
-    of oocytes matured In vitro. Vet. Rec. Vol. 121: 259-260.
-
+established in cattle by transfer of embryos derived from In vitro fertilization
+of oocytes matured In vitro. Vet. Rec. Vol. 121: 259-260.
 Luvoni, G.C., S. CHigioni, E. Allieve and D. Macis. 2005. Factors involved in
+vivo and in vitro maturation of canine oocytes. Theriogenol. 63:41-59.
 
-   vivo and in vitro maturation of canine oocytes. Theriogenol. 63:41-59.
+59
 
-
-
-
-                                                                                  59
 Mochizuki, H., Y. Fukui and H. Ono. 1991. Effect of the number of granulose
-
-   cells added to culture medium for In vitro maturation, fertilization and
-
-   development of bovine oocytes. Theriogenology. Vol. 36: 973-986.
-
+cells added to culture medium for In vitro maturation, fertilization and
+development of bovine oocytes. Theriogenology. Vol. 36: 973-986.
 Moor, R.M. and A. O. Trounson. 1977. Hormonal and follicular factors affecting
-
-   maturation of sheep oocytes In vitro and their subsequent development
-
-   capacity. Journal of Reproduction and Fertility. Vol. 49: 101-109.
-
+maturation of sheep oocytes In vitro and their subsequent development
+capacity. Journal of Reproduction and Fertility. Vol. 49: 101-109.
 Moor, R.M. and F. Gandolfi. 1987. Molecular and celular changes asociated
-
-   with maturation and early development of sheep eggs. Journal of
-
-   Reproduction and Fertility. Supplement, 40: 197-210.
-
+with maturation and early development of sheep eggs. Journal of
+Reproduction and Fertility. Supplement, 40: 197-210.
 Moor, R.M., I.C. Osborn and I.M. Crosby. 1981. Cell interactions and oocyte
-
-   regulations in mammals. En: Follicular maturation and ovulation, editado por
-
-   R. Rolland, E.V. Hall, SG. Hillier, K.P. McNatty, 1. Shoemaker, p. 249-264.
-
+regulations in mammals. En: Follicular maturation and ovulation, editado por
+R. Rolland, E.V. Hall, SG. Hillier, K.P. McNatty, 1. Shoemaker, p. 249-264.
 Motlik, J. and J. Fulka. 1986. Factors affecting meiotic competence in pig
-
-   oocytes. Theriogenology. Vol. 25: 87-96.
-
+oocytes. Theriogenology. Vol. 25: 87-96.
 Pavlov, A., A. Lucas-Hann and H. Niemann. 1992. Fertilization and
-
-   developmental competence of bovine oocytes derived from different
-
-   categories of antral follicles. Mol. Reprod. Dev. 31: 63-67.
-
+developmental competence of bovine oocytes derived from different
+categories of antral follicles. Mol. Reprod. Dev. 31: 63-67.
 Pinyopummintr, T. and B. D. Bavister. 1995. Optimum gas atmosphere for In
-
-   vitro maturation and in vitro fertilization of bovine oocytes. Theriogenology.
-
-   Vol. 44 (4): 471-477.
-
+vitro maturation and in vitro fertilization of bovine oocytes. Theriogenology.
+Vol. 44 (4): 471-477.
 Rieger, D. and N. M. Loskutoff. 1994. Changes in the metabolism of glucose,
+pyruvate, glutamine and glycine during maturation of cattle oocytes In vitro.
+Journal of reproduction and Fertility. 100 (1): 257-262.
 
-   pyruvate, glutamine and glycine during maturation of cattle oocytes In vitro.
+60
 
-   Journal of reproduction and Fertility. 100 (1): 257-262.
-
-
-
-
-                                                                              60
 Rodríguez, L.L., A. González, O. Hayes, B. Ramos, A. Aguilar and F. O. Castro.
-
-    2004. Clonación en animales mediante transferencia nuclear somática.
-
-    Efecto de los factores biológicos. Biotecnología aplicada. Vol. 21: 137-146.
-
+2004. Clonación en animales mediante transferencia nuclear somática.
+Efecto de los factores biológicos. Biotecnología aplicada. Vol. 21: 137-146.
 Salgado, R., O. Vergara y L. Ramírez. 2010. Efecto de gonadotropinas sobre la
-
-    maduración y desarrollo embrionario de ovocitos bovinos cultivados in vitro.
-
-    Rev. MVZ 15(1): 1954-1960.
-
+maduración y desarrollo embrionario de ovocitos bovinos cultivados in vitro.
+Rev. MVZ 15(1): 1954-1960.
 Sato, E., M. Matsuo, y H. Miyamoto. 1990 Meiotic maturation of bovine oocytes
-
-    in vitro: improvement of meiotic competence by dibutyryl cyclic adenosine
-
-    3’, 5’- monophosphate. J. Anim. Sci. 68: 1872-1887.
-
+in vitro: improvement of meiotic competence by dibutyryl cyclic adenosine
+3’, 5’- monophosphate. J. Anim. Sci. 68: 1872-1887.
 Sato, E.A., A. Iritani and Y. Nishikawa. 1982. Analysis of the hours required for
-
-    germinal vesicle breakdown in pig y cattle oocytes. J. Fert. SteriL 27: 112.
-
+germinal vesicle breakdown in pig y cattle oocytes. J. Fert. SteriL 27: 112.
 SENAMHI. 2013. Servicio nacional de meteorología e hidrología, UNA-PUNO.
-
 Shalgui, R., N. Dekel and P. F. Kraicer. 1979. The effect of LH on the
-
-    fertilizability and developmental capacity of rat oocytes matured In vitro. J
-
-    ournal of Reproduction and Fertility. Vol. 55: 429-435.
-
+fertilizability and developmental capacity of rat oocytes matured In vitro. J
+ournal of Reproduction and Fertility. Vol. 55: 429-435.
 Shi, D. S., B. Avery and T. Greve. 1998. Effects of temperature gradients on In
-
-    vitro maturation of bovine oocytes. Theriogenology. Vol. 50: 667-674.
-
+vitro maturation of bovine oocytes. Theriogenology. Vol. 50: 667-674.
 Shioya, Y., M. Kuwayama, M. Fukushima, S. Iwasaki and E. Hanada. 1988. In
-
-    vitro fertilization and cleavage capability of bovine follicular oocytes
-
-    classified by cumulus cells and matured In vitro. Theriogenology. Vol. 30:
-
-    489.
-
+vitro fertilization and cleavage capability of bovine follicular oocytes
+classified by cumulus cells and matured In vitro. Theriogenology. Vol. 30:
+489.
 Sirard, M.A., K. Coenen and S. Bilodeau. 1992. Effect of fresh or cultured
+follicular fractions on meiotic resumption in bovine oocytes. ‘theriogenology
+37: 39-57.
 
-    follicular fractions on meiotic resumption in bovine oocytes. ‘theriogenology
+61
 
-    37: 39-57.
-
-
-
-
-                                                                               61
 Sirard, M.A., and N.l. First. 1988. In vitro inhibitiorn of oocyte nuclear maturation
-
-    in the bovine. Biol. Reprod. 39: 229-234.
-
+in the bovine. Biol. Reprod. 39: 229-234.
 Sirard, M. A. and N. L. First. 1988. In vitro inhibition of oocyte nuclear
-
-    maturation in the bovine. Biology of Reproduction. Vol. 39: 229-234.
-
+maturation in the bovine. Biology of Reproduction. Vol. 39: 229-234.
 Sirard, M. A., J. J. Parrish, C. B. Ware, M. L. Leibfried-Rutledge and N. L. First.
-
-    1989. The culture of bovine oocytes to obtain developmentally competent
-
-    embryos. Biology of Reproduction. Vol. 39: 546-552.
-
+1989. The culture of bovine oocytes to obtain developmentally competent
+embryos. Biology of Reproduction. Vol. 39: 546-552.
 Stein, A. 2007. Decreasing variability in your cell culture. Biotechniques . Vol.
-
-    43: 228-229.
-
+43: 228-229.
 Suss, U. and K. Wuthrich. 1985. Stages of the first meiotic division observed la
-
-   bovine oocytes matured in vitro. Theriogenology 23: 231.
-
+bovine oocytes matured in vitro. Theriogenology 23: 231.
 Süss, U., K. Wuthrich and G. Stranzinger. 1988. Chromosome configurations
-
-    and time sequence of the first meiotic division in bovine oocytes matured In
-
-    vitro. Biology of Reproduction. Vol. 38: 871-880.
-
+and time sequence of the first meiotic division in bovine oocytes matured In
+vitro. Biology of Reproduction. Vol. 38: 871-880.
 Szöllösi, D. 1993. Oocyte Maturation. In: Thibault, C., Levasseur, M.C., Hunter,
-
-    R.H (eds.). Reproduction in Mammals and Man. Paris. Ellipses: 307-325.
-
+R.H (eds.). Reproduction in Mammals and Man. Paris. Ellipses: 307-325.
 Thibault, C. and M. Gerard. 1973. Cytoplasmic and nuclear maturation of rabbit
-
-    oocytes In vitro. Ann. Biol. Anim. Bioch. Biophys. Vol. 13: 145-156.
-
+oocytes In vitro. Ann. Biol. Anim. Bioch. Biophys. Vol. 13: 145-156.
 Thibault, C. 1977. Are follicular maturation and oocyte maturation independent
-
-    processes: Journal of Reproduction and Fertility. Vol. 51: 1.
-
+processes: Journal of Reproduction and Fertility. Vol. 51: 1.
 Thompson, G.J. 1996. Defining the requirements for bovine embryo culture.
-
-    Theriogenology. Vol. 45: 27.
-
+Theriogenology. Vol. 45: 27.
 Tomesi, M.B., D. Salamone and J. Archer.1995. In vitro maturation of bovine
+oocytes in serum- free medium. Theriogenology. 43: 339-339.
 
-   oocytes in serum- free medium. Theriogenology. 43: 339-339.
+62
 
-
-
-
-                                                                                  62
 Tsafriri, A. and C. P. Channing. 1975. Inhibitory influence of granulose cells and
-
-    follicular fluid upon porcine oocyte meiosis In vitro. Endocrinology. Vol. 96:
-
-    922-927
-
+follicular fluid upon porcine oocyte meiosis In vitro. Endocrinology. Vol. 96:
+922-927
 Tsafriri, A. 1978. Oocyte maturation in mammals. En: The vertebrate ovary,
-
-    editado por Jones, R.E. New York. Plenum Press: 409-433.
-
+editado por Jones, R.E. New York. Plenum Press: 409-433.
 Van Den Hurk, R., J. F. Beckers and M. M. Bevers. 1997. In vivo and In vitro
-
-    development of preantral follicles. Theriogenology. Vol. 47 (1): 73-82.
-
+development of preantral follicles. Theriogenology. Vol. 47 (1): 73-82.
 Watson, E.D., S. E. Bae, R. Thomassen, S. R. Thomson, K. Woad and D. G.
-
-    Armstrong. 2004. Insulin-like growth factors-1 and –2 and Insulin- like
-
-    growth factor-binding protein-2 in dominant equine follicles during spring
-
-    transition and the ovulatory season. Reproduction. Vol. 128 (3): 321-9.
-
+Armstrong. 2004. Insulin-like growth factors-1 and –2 and Insulin- like
+growth factor-binding protein-2 in dominant equine follicles during spring
+transition and the ovulatory season. Reproduction. Vol. 128 (3): 321-9.
 Webster, H.L. 1982. Colloid osmotic pressure: theoretical aspects and
+background. Clim. Perinatol. Vol. 9: 505-521.
+Wurth, Y.A. and Th. A. M.
 
-    background. Clim. Perinatol. Vol. 9: 505-521.
+Kruip. 1992. Bovine embryo production In vitro
 
-Wurth, Y.A. and Th. A. M.      Kruip. 1992. Bovine embryo production In vitro
-
-    selection of the follicles and oocytes. 12th Internacional Congress on
-
-    Animal Reproduction: 387-389.
-
+selection of the follicles and oocytes. 12th Internacional Congress on
+Animal Reproduction: 387-389.
 Xu, K.P., T. Greve, S. Smith and P. Hyttel. 1986 Chronological changes of
-
-    bovine follicular oocyte maturation in vitro. Acta Vet. Scand. 27: 505-519.
-
+bovine follicular oocyte maturation in vitro. Acta Vet. Scand. 27: 505-519.
 Yoshida, M., K. Ishigaku and V. G. Pursell. 1992. Effect of maturation media on
-
-    male pronucleus formation in pig oocytes matured In vitro. Mol. Reprod.
-
-    Rev. Vol. 31: 68- 71.
-
+male pronucleus formation in pig oocytes matured In vitro. Mol. Reprod.
+Rev. Vol. 31: 68- 71.
 Younis, A.I., R.G. Brackett and R.A. Payrer-Hosken. 1989. Influence of serum
+and bormone on bovine oocyte maturation and fertilization in vitro. Gamete.
+Res. 23: 189-201.
 
-   and bormone on bovine oocyte maturation and fertilization in vitro. Gamete.
+63
 
-   Res. 23: 189-201.
-
-
-
-
-                                                                                  63
 Zuelke, K.A., A.I. Younis and B.G. Brackett. 1989. Enhanced oocyte maturation
-
-   of bovine oocyte with and without protein supplementation. Symposium on
-
-   Fertilization in Mammals 47, Boston.
-
+of bovine oocyte with and without protein supplementation. Symposium on
+Fertilization in Mammals 47, Boston.
 Zuelke, R.A. and B. G. Brackett. 1990. Luteinizing hormone-enhanced In vitro
+maturation in bovine oocytes with and without protein supplementation.
+Biology of Reproduction. Vol. 43: 784-787.
 
-   maturation in bovine oocytes with and without protein supplementation.
+64
 
-   Biology of Reproduction. Vol. 43: 784-787.
-
-
-
-
-                                                                          64
 ANEXOS
 
+65
 
-
-
-         65
 Anexo 01: Cuadro de ovocitos aspirados para la maduración in vitro
-     Numero de Ovarios Recolectados     Ovocitos Aspirados
-                     1                           12
-                     2                           13
-                     3                            4
-                     4                           11
-                     5                            9
-                     6                            5
-                     7                            7
-                     8                           14
-                     9                            4
-                     10                           8
-                     11                          12
-                     12                          15
-                     13                          11
-                     14                           9
-                     15                           8
-                     16                           5
-                     17                           6
-                     18                           3
-                     19                           9
-                     20                           5
-                     21                           4
-                     22                           8
-                     23                          11
-                     24                           7
-                     25                           8
-                     26                           4
-                     27                          10
-                     28                           6
-                     29                           8
-                     30                           4
-     Total                                       240
-     Promedio                                     8
+Numero de Ovarios Recolectados
 
+Total
+Promedio
 
+Ovocitos Aspirados
 
+1
 
-                                                                     66
-                         Anexo 02
+12
 
+2
+
+13
+
+3
+
+4
+
+4
+
+11
+
+5
+
+9
+
+6
+
+5
+
+7
+
+7
+
+8
+
+14
+
+9
+
+4
+
+10
+
+8
+
+11
+
+12
+
+12
+
+15
+
+13
+
+11
+
+14
+
+9
+
+15
+
+8
+
+16
+
+5
+
+17
+
+6
+
+18
+
+3
+
+19
+
+9
+
+20
+
+5
+
+21
+
+4
+
+22
+
+8
+
+23
+
+11
+
+24
+
+7
+
+25
+
+8
+
+26
+
+4
+
+27
+
+10
+
+28
+
+6
+
+29
+
+8
+
+30
+
+4
+240
+8
+
+66
+
+Anexo 02
 
 Solución salina fisiológica amortiguada con fosfato
-               (PBS) de DULBECCO
+(PBS) de DULBECCO
 
+Composición para 1L.
+CaCl22H2O..................................0.132 g.
+MgSO47H2O................................0.121 g.
+NaCl.............................................8.0 g.
+KCl...............................................0.2 g.
+Na2HPO4......................................1.15 g.
+KH2PO4........................................0.2 g.
+Glucosa........................................1.0 g.
+Sulfato de Estreptomicina………0.1 g.
+Piruvato de sodio……………...…0.036 g.
+Penicilina G Sódica……………...100, 000 UI.
 
-             Composición para 1L.
-             CaCl22H2O..................................0.132 g.
-             MgSO47H2O................................0.121 g.
-             NaCl.............................................8.0 g.
-             KCl...............................................0.2 g.
-             Na2HPO4......................................1.15 g.
-             KH2PO4........................................0.2 g.
-             Glucosa........................................1.0 g.
-             Sulfato de Estreptomicina………0.1 g.
-             Piruvato de sodio……………...…0.036 g.
-             Penicilina G Sódica……………...100, 000 UI.
+Anexo 03
 
+Sales de Hank`S
 
+Composición para 1 L.
+NaCl...........................................8.0 g.
+KCl.............................................0.4 g.
+MgSO47H2O..................... ........0.2 g.
+CaCl22H2O................................0.185 g.
+Na2HPO4...................................0.046 g.
+KH2PO4.....................................0.06 g.
+Glucosa.....................................1.0 g.
+NaHCO3....................................0.35 g.
 
+67
 
-                         Anexo 03
+Anexo 04
 
+N° Total de ovocitos maduros e inmaduros
+Tratamientos Oj
+Ej
+(Oj - Ej)2
+Ej
+T1
+4
+21
+4.340277778
+T2
+5
+20
+2.777777778
+T3
+13
+12
+2.777777778
+T4
+14
+11
+4.340277778
+14.23611111
+X2 (0.01) = 11.345
+X2 (0.05) = 7.815
 
-                   Sales de Hank`S
-
-
-             Composición para 1 L.
-             NaCl...........................................8.0 g.
-             KCl.............................................0.4 g.
-             MgSO47H2O..................... ........0.2 g.
-             CaCl22H2O................................0.185 g.
-             Na2HPO4...................................0.046 g.
-             KH2PO4.....................................0.06 g.
-             Glucosa.....................................1.0 g.
-             NaHCO3....................................0.35 g.
-
-
-
-
-                                                                        67
-                                           Anexo 04
-
-
-                   N° Total de ovocitos maduros e inmaduros
-                   Tratamientos Oj        Ej        (Oj - Ej)2
-                                                        Ej
-                        T1          4     21     4.340277778
-                        T2          5     20     2.777777778
-                        T3         13     12     2.777777778
-                        T4         14     11     4.340277778
-                                                 14.23611111
-
-                                                      X2 (0.01) = 11.345
-                                                      X2 (0.05) = 7.815
-
-
-
-
-                                           Anexo 05
-
+Anexo 05
 
 Tabla 1: Maduración in vitro de ovocitos en vacunos de altura expuestos a diferentes
-                    concentraciones de FSH-LH
-Tratamientos    Nº de    Ovocitos Madurados        Ovocitos Inmaduros          Degenerados
-               Ovocitos Met II + Tel I           Ana I          Tel I
-                          Total             % Total       %    Total       %   Total        %
-     1           25       15 + 6 (21/25)    84 2 (2/25)   8      -         -   1 (1/25)     4
-     2           25       13 + 7 (20/25)    80 1 (1/25)   4     1 (1/25) 4     2 (1/25)     8
-     3           25       8 + 4 (12/25)     48 8 (8/25)   32    3 (3/25) 12    2 (1/25)     8
-     4           25       11 + 5 (11/25)    44 6 (6/25)   24    5 (5/25) 20    3 (1/25)     12
-                                                                               (P ≤ 0,01)
+concentraciones de FSH-LH
+Tratamientos
 
+Nº de
+Ovocitos Madurados
+Ovocitos Met II + Tel I
 
+Ovocitos Inmaduros
+Ana I
+Tel I
 
+Total
 
-                                                                                            68
+% Total
+
+%
+
+Total
+
+8
+
+-
+
+Degenerados
+%
+
+Total
+
+%
+
+-
+
+1 (1/25)
+
+4
+
+1
+
+25
+
+15 + 6 (21/25)
+
+84 2 (2/25)
+
+2
+
+25
+
+13 + 7 (20/25)
+
+80 1 (1/25)
+
+4
+
+1 (1/25) 4
+
+2 (1/25)
+
+8
+
+3
+
+25
+
+8 + 4 (12/25)
+
+48 8 (8/25)
+
+32
+
+3 (3/25) 12
+
+2 (1/25)
+
+8
+
+4
+
+25
+
+11 + 5 (11/25)
+
+44 6 (6/25)
+
+24
+
+5 (5/25) 20
+
+3 (1/25)
+
+12
+
+(P ≤ 0,01)
+
+68
+
 

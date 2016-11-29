@@ -1,301 +1,437 @@
 UNIVERSIDAD NACIONAL DEL ALTIPLANO
 FACULTAD DE INGENIERÍA GEOLÓGICA Y METALÚRGICA
- ESCUELA PROFESIONAL DE INGENIERÍA GEOLÓGICA
+ESCUELA PROFESIONAL DE INGENIERÍA GEOLÓGICA
 
+“COCIENTES METÁLICOS Y CALCULO DE RESERVAS
+MINERALES DE LA VETA CINTHIA -PROYECTO MINERO
+CARACOL S.A.C.-BARRANCA-LIMA”
 
+TESIS
+PRESENTADO POR BACHILLER:
 
+PASCUAL BAYLON MORALES CATATA
+PARA OPTAR EL TÍTULO PROFESIONAL DE:
 
-  “COCIENTES METÁLICOS Y CALCULO DE RESERVAS
- MINERALES DE LA VETA CINTHIA -PROYECTO MINERO
+INGENIERO GEÓLOGO
 
-         CARACOL S.A.C.-BARRANCA-LIMA”
+Puno – PERÚ
+2014
 
-
-                    TESIS
-          PRESENTADO POR BACHILLER:
-
-   PASCUAL BAYLON MORALES CATATA
-       PARA OPTAR EL TÍTULO PROFESIONAL DE:
-
-            INGENIERO GEÓLOGO
-
-
-                    Puno – PERÚ
-
-                       2014
 AREA: Recursos naturales y medio ambiente
-
 TEMA: Prospección y evaluación de los yacimientos polimetálicos
-             DEDICATORIA
 
+DEDICATORIA
 A la memoria de mi entrañable madre.
-
 Para ti mamita que descansas en paz,
 con este trabajo quiero ofrecerte todo
 mi cariño de hijo; muy agradecido por
 tus muchos desvelos y sacrificios, en el
 logro de mis ansiados ideales.
-                 AGRADECIMIENTOS
 
-
+AGRADECIMIENTOS
 
 A la Universidad Nacional del Altiplano, Facultad de
 Ingeniería Geológica e Ingeniería Metalúrgica. A la
 Escuela Profesional de Ingeniería Geológica por su
 formación académica.
-
 A la empresa Minera Caracol S.A.C. quien es la
 empresa que me permitió realizar la investigación en
 su unidad Caracolito.
-
 A mi asesor de tesis el Ing. Luis Ortiz Gallegos y a mi
 director de tesis el Ing. Roberto Zegarra Ponce, por su
 minuciosa revisión y sugerencias finales, en la
 culminación de mi proyecto de tesis.
-                            ÍNDICE
 
+ÍNDICE
 DEDICATORIA
 AGRADECIMIENTO
 RESUMEN
 
+CAPITULO I
+GENERALIDADES
 
+1.1
 
-                            CAPITULO I
+INTRODUCCIÓN……………………………………………………………………………………………………1
 
-                         GENERALIDADES
+1.2
 
+Planteamiento del problema…………………………………………………….. 2
 
+1.3
 
- 1.1      INTRODUCCIÓN……………………………………………………………………………………………………1
+Antecedentes del problema……………………………………………………… 2
 
- 1.2      Planteamiento del problema…………………………………………………….. 2
+1.4
 
- 1.3      Antecedentes del problema……………………………………………………… 2
+Justificación…………………………………………………………………………3
 
- 1.4      Justificación…………………………………………………………………………3
+1.5
 
- 1.5      Hipótesis…………………………………………………………………………….. 4
+Hipótesis…………………………………………………………………………….. 4
 
- 1.6      Objetivos……………………………………………………………………………..4
+1.6
 
-   1.6.1     Objetivos generales………………………………………………………….. 4
+Objetivos……………………………………………………………………………..4
 
-   1.6.2     Objetivos específicos………………………………………………………...4
+1.6.1
 
-   1.7.    Metodología de estudio………………………………………………………... 5
+Objetivos generales………………………………………………………….. 4
 
+1.6.2
 
+Objetivos específicos………………………………………………………...4
+Metodología de estudio………………………………………………………... 5
 
-                            CAPITULO II
+1.7.
 
-                    MARCO TEÓRICO Y CONCEPTUAL
+CAPITULO II
+MARCO TEÓRICO Y CONCEPTUAL
 
+2.1
 
+Geomorfología………………………………………………………………………7
 
- 2.1      Geomorfología………………………………………………………………………7
+2.2
 
- 2.2      Geomorfología Regional…………………………………………………………. 7
+Geomorfología Regional…………………………………………………………. 7
 
-   2.2.1     Unidades geomorfológicas………………………………………………….7
+2.2.1
 
-   2.2.1.1    Dominio costero…………………………………………………………… 8
+Unidades geomorfológicas………………………………………………….7
 
-   2.2.1.2    Dominio andino……………………………………………………………..8
+2.2.1.1
 
-   2.2.1.3    Valles interandinos………………………………………………………... 9
+Dominio costero…………………………………………………………… 8
 
+2.2.1.2
 
-                                                            1
-  2.2.1.4    Altas cumbres…………………………………………………………….. 10
+Dominio andino……………………………………………………………..8
 
-2.3    Geología Regional………………………………………………………………...10
+2.2.1.3
 
-  2.3.1     Grupo Casma (Ki-c)………………………………………………………… 11
+Valles interandinos………………………………………………………... 9
 
-  2.3.2     Grupo Calipuy (KTi-vc)…………………………………………………….. 11
+1
 
-  2.3.3     Súper unidad la mina (KTi-g-lm)…………………………………………. 11
+2.2.1.4
+2.3
 
-  2.3.4     Cuaternario (Q-al)…………………………………………………………… 12
+Altas cumbres…………………………………………………………….. 10
 
-  2.3.5     Batolito de la costa…………………………………………………………. 12
+Geología Regional………………………………………………………………...10
 
-2.4    Geología Estructural Regional………………………………………………….15
+2.3.1
 
-2.5    Geología Económica…………………………………………………………….. 16
+Grupo Casma (Ki-c)………………………………………………………… 11
 
-2.6    Alteración Hidrotermal…………………………………………………………...16
+2.3.2
 
-2.7    Paragénesis……………………………………………………………………….. 16
+Grupo Calipuy (KTi-vc)…………………………………………………….. 11
 
-2.8    Zoneamiento………………………………………………………………………. 17
+2.3.3
 
-2.9    Procesos relacionados al Magmatismo……………………………………… 18
+Súper unidad la mina (KTi-g-lm)…………………………………………. 11
 
-2.10   Actividad Magmática…………………………………………………………….. 18
+2.3.4
 
-2.11   Fluidos Hidrotermales…………………………………………………………… 18
+Cuaternario (Q-al)…………………………………………………………… 12
 
-2.12   Fluidos Mineralizantes…………………………………………………………... 19
+2.3.5
 
-2.13   Mineralización Metálica…………………………………………………………. 19
+Batolito de la costa…………………………………………………………. 12
 
-2.14   Estructuras Filoneanas…………………………………………………………. 20
+2.4
 
-2.15   Cocientes metálicos……………………………………………………………... 22
+Geología Estructural Regional………………………………………………….15
 
-2.16   Cubicación de Recursos y Reservas…………………………………………. 23
+2.5
 
-  2.16.1    Recurso Mineral……………………………………………………………...25
+Geología Económica…………………………………………………………….. 16
 
-  2.16.2    Reserva de Minerales………………………………………………………. 25
+2.6
 
-2.17   Calculo de reserva.………………………………………………………………. 26
+Alteración Hidrotermal…………………………………………………………...16
 
-2.18   Método de Cubicación…………………………………………………………... 27
+2.7
 
-2.19   Bloques de explotación…………………………………………………………. 28
+Paragénesis……………………………………………………………………….. 16
 
-2.20   Método de explotación………………………………………………………….. 29
+2.8
 
-  2.20.1    Circado de veta……………………………………………………………… 30
+Zoneamiento………………………………………………………………………. 17
 
-  2.20.2    Corte relleno ascendente………………………………………………….. 30
+2.9
 
-                                                              2
-                              CAPITULO III
+Procesos relacionados al Magmatismo……………………………………… 18
 
-              CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN
+2.10
 
+Actividad Magmática…………………………………………………………….. 18
 
+2.11
 
-3.1    Ubicación y accesos………………………………………………………..                32
+Fluidos Hidrotermales…………………………………………………………… 18
 
-3.2    Flora y fauna………………………………………………………………………. 34
+2.12
+
+Fluidos Mineralizantes…………………………………………………………... 19
+
+2.13
+
+Mineralización Metálica…………………………………………………………. 19
+
+2.14
+
+Estructuras Filoneanas…………………………………………………………. 20
+
+2.15
+
+Cocientes metálicos……………………………………………………………... 22
+
+2.16
+
+Cubicación de Recursos y Reservas…………………………………………. 23
+
+2.16.1
+
+Recurso Mineral……………………………………………………………...25
+
+2.16.2
+
+Reserva de Minerales………………………………………………………. 25
+
+2.17
+
+Calculo de reserva.………………………………………………………………. 26
+
+2.18
+
+Método de Cubicación…………………………………………………………... 27
+
+2.19
+
+Bloques de explotación…………………………………………………………. 28
+
+2.20
+
+Método de explotación………………………………………………………….. 29
+
+2.20.1
+
+Circado de veta……………………………………………………………… 30
+
+2.20.2
+
+Corte relleno ascendente………………………………………………….. 30
+2
+
+CAPITULO III
+CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN
+
+32
+
+3.1
+
+Ubicación y accesos………………………………………………………..
+
+3.2
+
+Flora y fauna………………………………………………………………………. 34
 
 3.3. Geomorfología local…………………………………………………………………35
-
 3.4. Geología local………………………………………………………………………...36
+3.4.1.
 
-  3.4.1.     Grupo Calipuy……………………………………………………………….. 36
+Grupo Calipuy……………………………………………………………….. 36
 
-  3.4.2.     Grupo Casma…………………………………………………………………37
+3.4.2.
 
-  3.4.3.     Súper Unidad la Mina………………………………………………………. 38
+Grupo Casma…………………………………………………………………37
 
-  3.4.4.     Cuaternario……………………………………………………………………38
+3.4.3.
 
-  3.4.5.     Batolito de la costa…………………………………………………………. 38
+Súper Unidad la Mina………………………………………………………. 38
 
-  3.4.6.     Evolución magmática………………………………………………………. 42
+3.4.4.
 
-  3.4.7.     Petrología…………………………………………………………………….. 42
+Cuaternario……………………………………………………………………38
 
-  3.4.8      Geología estructural local…………………………………………………. 43
+3.4.5.
 
-  3.4.9      Alteraciones hidrotermales……………………………………………….. 45
+Batolito de la costa…………………………………………………………. 38
 
-  3.4.9.1.    Alteraciones supérgenas……………………………………………….. 45
+3.4.6.
 
-  3.4.9.2.    Alteraciones hipógenas………………………………………………….45
+Evolución magmática………………………………………………………. 42
 
-  3.4.9.3.    Piritización………………………………………………………………….45
+3.4.7.
 
-  3.4.9.4.    Caolinización……………………………………………………………… 46
+Petrología…………………………………………………………………….. 42
 
-  3.4.9.5.    Silicificación………………………………………………………………. 46
+3.4.8
 
-  3.4.9.6.    Cloritización………………………………………………………………. 46
+Geología estructural local…………………………………………………. 43
 
-3.5.   Geología Económica…………………………………………………………….. 46
+3.4.9
+
+Alteraciones hidrotermales……………………………………………….. 45
+
+3.4.9.1.
+
+Alteraciones supérgenas……………………………………………….. 45
+
+3.4.9.2.
+
+Alteraciones hipógenas………………………………………………….45
+
+3.4.9.3.
+
+Piritización………………………………………………………………….45
+
+3.4.9.4.
+
+Caolinización……………………………………………………………… 46
+
+3.4.9.5.
+
+Silicificación………………………………………………………………. 46
+
+3.4.9.6.
+
+Cloritización………………………………………………………………. 46
+
+3.5.
+
+Geología Económica…………………………………………………………….. 46
 
 3.6. Estudios petrograficos …..………….……………………………………….……….50
+3.7.
 
-3.7.       Descripción de los depósitos……………………………………………….. 55
+Descripción de los depósitos……………………………………………….. 55
 
-3.8.       Geometría de clavos mineralizados …………………….…………………....56
+3.8.
 
-3.9.       Mineralogía……………………………………………………………………… 56
+Geometría de clavos mineralizados …………………….…………………....56
 
-                                                                  3
-3.10.        Secuencia Paragenética…………………………………………………… 57
+3.9.
 
-3.11.        Zoneamiento…………………………………………………………………. 59
+Mineralogía……………………………………………………………………… 56
+3
 
-  3.11.1 Zona de oxidación…………………………………………………………….. 59
+3.10.
 
-  3.11.2. Zona de minerales primarios……………………………………………….. 59
+Secuencia Paragenética…………………………………………………… 57
 
-3.12.      Controles de la mineralización……………………………………………… 59
+3.11.
 
-  3.12.1.      Control fisiográfico………………………………………………………. 59
+Zoneamiento…………………………………………………………………. 59
 
-  3.12.2.      Control mineralógico……………………………………………………..60
+3.11.1 Zona de oxidación…………………………………………………………….. 59
+3.11.2. Zona de minerales primarios……………………………………………….. 59
+Controles de la mineralización……………………………………………… 59
 
-  3.12.3.      Control litológico…………………………………………………………. 60
+3.12.
 
-  3.12.4.      Control Estructural………………………………………………………. 61
+3.12.1.
 
+Control fisiográfico………………………………………………………. 59
 
+3.12.2.
 
-                                  CAPITULO IV
+Control mineralógico……………………………………………………..60
 
-                   EXPOSICIÓN Y ANÁLISIS DE RESULTADOS
+3.12.3.
 
+Control litológico…………………………………………………………. 60
 
+3.12.4.
 
-4.1.     Mineralización…………………………………………………………………….. 62
+Control Estructural………………………………………………………. 61
 
-  4.1.1 Minerales de mena……………………………………………………………… 62
+CAPITULO IV
+EXPOSICIÓN Y ANÁLISIS DE RESULTADOS
 
-  4.1.2 Minerales de ganga…………………………………………………………….. 63
+4.1.
 
-4.2      Interpretación de Cocientes metálicos de la veta Cinthia…………………64
+Mineralización…………………………………………………………………….. 62
 
-4.3      Método……………………………………………………………………………… 66
+4.1.1 Minerales de mena……………………………………………………………… 62
+4.1.2 Minerales de ganga…………………………………………………………….. 63
+4.2
 
-4.4      Cocientes metálicos Au/Ag…………………………………………………….. 66
+Interpretación de Cocientes metálicos de la veta Cinthia…………………64
 
-4.5      Cocientes metálicos Ag/Pb…………………………………………………….. 66
+4.3
 
-4.6     Interpretación y estimación de reservas minerales de la veta Cinthia…...67
+Método……………………………………………………………………………… 66
 
-  4.6.1      Muestreo y valores erráticos………………………………………………67
+4.4
 
-  4.6.2      Determinación de la ley promedio……………………………………….. 68
+Cocientes metálicos Au/Ag…………………………………………………….. 66
 
-  4.6.3      Determinación de ancho promedio……………………………………… 68
+4.5
 
-  4.6.4      Cálculo de área……………………………………………………………… 69
+Cocientes metálicos Ag/Pb…………………………………………………….. 66
 
-  4.6.5      Cálculo de volumen………………………………………………………… 69
+4.6
 
-  4.6.6      Código de block……………………………………………………………...70
+Interpretación y estimación de reservas minerales de la veta Cinthia…...67
 
-4.7      Tipo de yacimiento y distribución de la mineralización…………………... 70
+4.6.1
 
-                                                                                4
-  4.8      Principales estructuras mineralizadas……………………………………….. 71
+Muestreo y valores erráticos………………………………………………67
 
-  4.9      Método de explotación………………………………………………………….. 71
+4.6.2
 
-    4.9.1     Corte relleno ascendente………………………………………………….. 71
+Determinación de la ley promedio……………………………………….. 68
 
-    4.9.2     Circado de veta……………………………………………………………… 73
+4.6.3
 
-    4.9.3 Ancho minado…………………………………………………………………... 73
+Determinación de ancho promedio……………………………………… 68
 
-  4.10     Reservas minerales……………………………………………………………… 79
+4.6.4
+
+Cálculo de área……………………………………………………………… 69
+
+4.6.5
+
+Cálculo de volumen………………………………………………………… 69
+
+4.6.6
+
+Código de block……………………………………………………………...70
+
+4.7
+
+Tipo de yacimiento y distribución de la mineralización…………………... 70
+4
+
+4.8
+
+Principales estructuras mineralizadas……………………………………….. 71
+
+4.9
+
+Método de explotación………………………………………………………….. 71
+
+4.9.1
+
+Corte relleno ascendente………………………………………………….. 71
+
+4.9.2
+
+Circado de veta……………………………………………………………… 73
+
+4.9.3 Ancho minado…………………………………………………………………... 73
+4.10
+
+Reservas minerales……………………………………………………………… 79
 
 CONCLUSIONES
-
 RECOMENDACIONES
-
 BIBLIOGRAFÍA
-
 ANEXOS
-
-
 
 LISTA DE FOTOGRAFÍAS
 
@@ -313,37 +449,24 @@ Fotografía Nº 6, Se observa una deformación (falla).
 Fotografía Nº 7: Se observa la composición mineral de la veta Cinthia (galena,
 pirita, cuarzo, óxidos).
 
+5
 
-
-
-                                                                             5
 LISTA DE CUADROS
-
 Cuadro Nº 1: Límites de concesión.
-
 Cuadro Nº 2: Accesos a la mina caracol S.A.C.
-
 Cuadro Nº3: Modelo de una secuencia paragenética.
-
 Cuadro Nº 4: Ejemplo de cálculo de reservas.
-
-
-
 
 LISTA DE FIGURAS
 
-
 Figura Nº 1: Esquema general del evento de colisión de terrenos.
 Figura Nº 2: Modelo generalizado de los estilos estructurales.
-
 Figura Nº 3: Esquema de bloques de explotación.
 Figura Nº 4: Esquema tentativo de método de explotación corte relleno
 ascendente.
 Figura Nº 5: Ejemplo de distribución de una masa mineral en una voladura.
 
-
 LISTA DE LÁMINAS
-
 
 Lámina 1.- Mapa geomorfológico regional.
 Lamina 2.- Mapa geologico regional.
@@ -359,28 +482,21 @@ Lamina 11.-Plano de cocientes metálicos Au/Ag.
 Lamina 12.-Plano de cocientes metálicos Ag/Pb.
 Lamina 13.-Plano de cálculo de reservas.
 
+6
 
-
-
-                                                                            6
-                                      RESUMEN
-
-
+RESUMEN
 El presente trabajo trata del estudio de cocientes metálicos y cálculo de
 reservas de la veta Cinthia de la minera caracol S.A.C.
-
 El yacimiento se ubica en el distrito de Ámbar, provincia de Huaura,
 departamento de Lima. Es accesible de la ciudad de Lima mediante la carrete
 asfaltada (Panamericana norte), su altitud está sobre 1700m.s.n.m., su clima es
 templado, pertenece a la zona quechua y presenta dos estaciones bien
 definidas. El área está atravesada por diferentes quebradas que forman una
 topografía dendrítica, siendo la quebrada del rio Pativilca el principal colector.
-
 La veta Cinthia tiene una potencia de 0.05 a 0.60m. Con un rumbo promedio de
 N 4⁰ W y un buzamiento de 84⁰ SW; su mineralización se produjo por
 procesos hidrotermales de relleno de fisuras en más de un periodo de
 mineralización.
-
 La geología estructural en la zona es muy compleja, como consecuencia del
 tectonismo que se produjo en la zona, la andesita sufrió un fuerte
 fracturamiento presentándose muchas veces en forma paralela, en cuanto al
@@ -391,17 +507,15 @@ potencia de 0.10 a 0.50m. Con un rumbo de N 4⁰ W, con buzamiento de 86⁰
 SW. Su origen en la primera fase fue pos-mineral pero, se encuentra en dicha
 falla mineral bandeado, lo que nos hace suponer, que ha habido una nueva
 inyección en esta estructura.
-
 En el presente trabajo se ha considerado como estructura más importante a la
 que ha servido para la formación de la veta Cinthia por ser la fuente de mayor
 producción de mineral. Presentando como minerales principales: la galena, la
 bornita, calcopirita, minerales con contenido metálico de Pb, Zn, Cu y como
 minerales de ganga se observa al cuarzo, pirita, calcita, limonita.
-
 La roca encajonante de este depósito mineral presenta diferentes tipos de
 alteración, como: piritización, caolinización, silicificación, cloritización.
+7
 
-                                                                                     7
 En cuanto a los cocientes metálicos de Au/Ag se observa hasta 4 núcleos
 principales: uno ubicado al SE con un máximo valor de 0.239; el segundo en la
 parte central con un valor máximo de 0.349 y, un tercero ubicado al NW con
@@ -412,7 +526,6 @@ las curvas de valores altos se encuentran al SW de la estructura, en la parte
 central y hacia el NW. Superponiéndose con los cocientes Au/Ag presenta
 cierta similitud. Los flujos mineralizantes siguieron una dirección SW hacia
 superficie.
-
 En el cálculo de reservas se ha tomado al mineral medido, aquel que se
 encuentra por encima de cut off y se le ha dividido en dos clases: mineral
 probado que nos da un tonelaje de 44,079.80 T.M.S. y mineral probable un
@@ -421,99 +534,91 @@ con leyes promedios 1.134onz de Au, 5,94onz. de Ag, 0.518% de Pb, de
 reserva de mineral probado. En cuanto al mineral inferido considerado como
 zona pobre se ha tomado al mineral posible en la cual el tonelaje y ley es una
 presunción razonable.
-
 La característica del yacimiento en lo que respecta a su geología hace presumir
 la existencia de una cantidad de mineral muy por encima de las reservas
 anotadas.
 
-
-
-
 Palabras Claves: Calculo de reservas, Cocientes metálicos
 
+8
 
-
-
-                                                                             8
-                                     CAPITULO I
-
-                                GENERALIDADES
-
+CAPITULO I
+GENERALIDADES
 
 1.1 INTRODUCCIÓN
-
 El presente trabajo de investigación denominado “Cocientes Metálicos y
 Cálculo de Reservas Minerales de la Veta Cinthia -Proyecto Minero Caracol
 S.A.C.-Barranca-Lima“, está estructurado en 4 capítulos y se detalla de la
 siguiente manera.
-
 Capítulo I, en este capítulo se presenta las generalidades dentro de ello se
 puede detallar el planteamiento del problema, antecedentes, justificación,
 objetivos, hipótesis, y metodología de la investigación.
-
 Capitulo II, se detalla el marco teórico conceptual, geomorfología regional,
 geología regional, geología estructural, geología económica, alteraciones,
 cocientes metálicos, método de cubicación.
-
 
 Capitulo III, se describe las características del área de investigación, como la
 ubicación y accesos, geomorfología local, geología local, estratigrafía, geología
 estructural, mineralogía, mineralización, alteraciones, estudios mineragráficos.
 
-
 Capitulo IV, se tiene el análisis de los resultados de la investigación como
 paragénesis, zoneamiento, muestreo, cocientes metálicos de Au/Ag y Ag/Pb, y
 la cubicación de reservas.
 
+1
 
+1.2
 
+Planteamiento del problema
 
-                                                                                   1
-1.2    Planteamiento del problema
 En el Proyecto Minero Caracol S.A.C. se realizaron piques, galerías de
 exploración que nos han mostrado la importancia económica de veta Cinthia en
 una longitud de 200m. Donde se incrementa los valores de cobre en
 profundidad y disminuye el plomo, pero mostrando cierta irregularidad de
 potencia de veta Cinthia.
-
 Estos hechos han motivado realizar un trabajo de investigación minera en
 forma sistemática y selectiva con aplicación de criterios geológicos en la zona
 de estudio, tal como lo constituye el estudio de cocientes metálicos en base a
 las leyes obtenidas de los muestreos sistemáticos de diferentes niveles y
 labores; lo cual nos ayuda a realizar la estimación de reservas minerales.
-
 Por lo tanto es imprescindible definir el comportamiento de la mineralización a
 profundidad de la veta Cinthia y tener una idea de los clavos mineralizados y su
 distribución isovalórica.
-
 De acuerdo al planteamiento del problema nos lleva a la formulación de las
 siguientes interrogantes.
+
 
-             ¿Con los estudios de cocientes metálicos podemos establecer el
-              comportamiento de la estructura mineralizada Cinthia en los
-              niveles inferiores?
-             ¿Cuál sería la estimación de recursos y reservas de la veta
-              Cinthia y su distribución en el yacimiento minero?
+¿Con los estudios de cocientes metálicos podemos establecer el
+comportamiento de la estructura mineralizada Cinthia en los
+niveles inferiores?
+
+
+
+¿Cuál sería la estimación de recursos y reservas de la veta
+Cinthia y su distribución en el yacimiento minero?
 
 Dar respuesta a estas interrogantes a través del presente estudio ha sido el
 objetivo fundamental de la presente investigación y que más adelante lo
 detallaremos.
+1.3
 
-1.3    Antecedentes del problema
+Antecedentes del problema
+
 Existen evidencias que la zona fue trabajada desde hace tres mil años antes de
 Cristo, la cultura Caral realizo trabajos con herramientas preparadas a base de
 rocas oscuras y duras como (dioritas, gabros) y de cuarzo, los carales
 aparentemente solo trabajaron en zonas de óxido que contenía oro libre. En el
 presente siglo los cateadores hallaron estos vestigios y empezaron a trabajar
 
+2
 
-                                                                               2
 artesanalmente y a intervalos por la falta de accesos y agua. Actualmente la
 Empresa Minera Caracol S.A.C. trabaja desde hace ocho años en la zona.
 
+1.4
 
+Justificación
 
-1.4     Justificación
 En el Proyecto Minero Caracol, las estructuras mineralizadas en la zona de
 óxidos presentan pirita, galena, oro y venillas de argentita, en la zona de
 sulfuros tenemos galena, calcopirita, arsenopirita, bornita, blenda y oro
@@ -521,148 +626,175 @@ diseminado, esto nos conlleva a pensar en los eventos de la mineralización
 que han podido ser más de uno formando clavos de más de 100m. de longitud
 con un rumbo de N4oW y un buzamiento 84-86 SW esto es el
 comportamiento de la veta Cinthia.
-
 La mineralización de cobre-plomo conjuntamente con la presencia de pirita y
 cuarzo han llevado a explorar la concesión minera Caracolito -2006 , en donde
 es notorio el incremento de valores de cobre en profundidad de 1-2% y una
 disminución de los valores de plomo 1-0.5%.
-
 Frente al cambio de la mineralización y distribución de los minerales de mena
 tales como es el oro, que se encuentra englobado en la pirita y galena, cuyos
 valores probablemente disminuya en profundidad, es necesario determinar el
 comportamiento de la mineralización; teniendo en cuenta los estudios
 mineragráficos para entender las bondades del yacimiento.
 
+a).- Justificación teórica
 
+Cualquier tema de investigación está proclive a discusión académica,
+quiere decir que este tema por más que tenga tal objetivo estará sometida
+a tal hecho.
+La investigación tiene por esencia buscar las soluciones a problemas
+científicos, es en este caso nos haremos la siguiente pregunta: ¿se podrá
+conocer el comportamiento de los flujos mineralizantes con respecto a los
+cocientes metálicos de la zona de interés económico? es muy importante
+estar seguros que las zona de estudio nos ayuden a entender con mayores
+detalles el comportamiento de este tipo de yacimiento.
+3
 
-      a).- Justificación teórica
+b).- Justificación práctica.
 
+Tenemos por conocimiento que la justificación práctica propone métodos y
+técnicas para resolver problemas para lo cual nos hacemos las siguientes
+preguntas.
+¿Ayudará este estudio a resolver algunos problemas prácticos?
+¿Tiene implicaciones para una amplia gama de problemas prácticos?
+Se puede responder dicha pregunta aplicando el conocimiento teórico a la
+práctica para hacer la evaluación geológica geología de la zona de estudios
+(cartografiado geológico de la zona mediante levantamientos topográficos,
+muestreos y mapeos, cocientes metálicos y cálculos de reservas)se estará
+resolviendo un problema del conocimiento científico el yacimiento minero
+caracol S.A.C., que a la vez esta aplicación tecnológica de dicha
+investigación geológica puede generar resolver problemas prácticos dentro
+de campo de ciencia de la tierra.
 
-      Cualquier tema de investigación está proclive a discusión académica,
-      quiere decir que este tema por más que tenga tal objetivo estará sometida
-      a tal hecho.
-      La investigación tiene por esencia buscar las soluciones a problemas
-      científicos, es en este caso nos haremos la siguiente pregunta: ¿se podrá
-      conocer el comportamiento de los flujos mineralizantes con respecto a los
-      cocientes metálicos de la zona de interés económico? es muy importante
-      estar seguros que las zona de estudio nos ayuden a entender con mayores
-      detalles el comportamiento de este tipo de yacimiento.
+1.5
 
-                                                                              3
-      b).- Justificación práctica.
+Hipótesis
 
-
-          Tenemos por conocimiento que la justificación práctica propone métodos y
-      técnicas para resolver problemas para lo cual nos hacemos las siguientes
-      preguntas.
-      ¿Ayudará este estudio a resolver algunos problemas prácticos?
-      ¿Tiene implicaciones para una amplia gama de problemas prácticos?
-      Se puede responder dicha pregunta aplicando el conocimiento teórico a la
-      práctica para hacer la evaluación geológica geología de la zona de estudios
-      (cartografiado geológico de la zona mediante levantamientos topográficos,
-      muestreos y mapeos, cocientes metálicos y cálculos de reservas)se estará
-      resolviendo un problema del conocimiento científico el yacimiento minero
-      caracol S.A.C., que a la vez esta aplicación tecnológica de dicha
-      investigación geológica puede generar resolver problemas prácticos dentro
-      de campo de ciencia de la tierra.
-
-
-1.5        Hipótesis
 El estudio de cocientes metálicos Au/Ag y Ag/Pb va a contribuir a la
 localización, distribución e interpretación de los clavos mineralizados en la veta
 Cinthia y cálculo de recursos y reservas minerales que influirán en el
 incremento de la operación y beneficios económicos en la minera caracol
 S.A.C.
+1.6
 
-1.6        Objetivos
-
+Objetivos
 
 1.6.1 Objetivos generales
 Determinar las condiciones geológicas, evaluar los cocientes metálicos Au/Ag y
 Ag/Pb y cubicar los recursos y reservas en base a las labores de exploración y
 leyes obtenidas del muestreo.
 
-
 1.6.2 Objetivos específicos
-           Determinar la distribución de la mineralización en base al estudio de
-            cocientes metálicos.
+
 
+Determinar la distribución de la mineralización en base al estudio de
+cocientes metálicos.
 
+4
 
-                                                                                 4
-      Calcular las reservas minerales en base a los labores de exploración de
-       la veta Cinthia utilizando el método de bloques de explotación.
+
 
-
+Calcular las reservas minerales en base a los labores de exploración de
+la veta Cinthia utilizando el método de bloques de explotación.
 
 1.7. Metodología de estudio
 La metodología que se aplico es descriptiva y explicativa, para dar a conocer el
 trabajo con un carácter de investigación del depósito mineral.
+a) Características del estudio.
+El presente proyecto de investigación tendrá un alcance de carácter
+descriptivo, mediante la recopilación de datos e informes de forma
+cualitativa y cuantitativa, pasando a la fase analítica y finalmente la fase de
+interpretación y diseño de proyecto de Investigación.
 
- a) Características del estudio.
-    El presente proyecto de investigación tendrá un alcance de carácter
-    descriptivo, mediante la recopilación de datos e informes de forma
-    cualitativa y cuantitativa, pasando a la fase analítica y finalmente la fase de
-    interpretación y diseño de proyecto de Investigación.
+b) Recopilación y revisión de fuentes de información.
+En esta etapa se compiló toda la bibliografía e informes concernientes a la
+zona de estudio, luego fue revisada y analizada para el uso en el presente
+proyecto de investigación.
 
+c) Etapas de trabajo de campo
+El trabajo de campo que se realizó, consistió en el estudio y mapeo
+detallado de las labores, exploración, las cuales se realizaron a cotas más
+profundas
 
- b) Recopilación y revisión de fuentes de información.
-    En esta etapa se compiló toda la bibliografía e informes concernientes a la
-    zona de estudio, luego fue revisada y analizada para el uso en el presente
-    proyecto de investigación.
+a
 
+1800m.s.n.m.
 
- c) Etapas de trabajo de campo
-    El trabajo de campo que se realizó, consistió en el estudio y mapeo
-    detallado de las labores, exploración, las cuales se realizaron a cotas más
-    profundas    a   1800m.s.n.m.        diferenciando   la   litología,   alteración,
-    mineralización, minerales guías que ayudaron a determinar la zona en que
-    se encuentra el yacimiento, se realizó muestreos de las labores de
-    exploración ejecutadas, principalmente de la galería 674NW. Que está
-    sobre falla y presenta alteración.
-    La supervisión y seguimiento de la veta en las labores es diario, para tener
-    control de las muestras que se reportan. También se realiza el contorneo
-    de las estructuras mineralizadas para muestreo, siguiendo parámetros de
+diferenciando
 
+la
 
-    Qa/Qc Para luego ser enviados a los laboratorios de análisis tales como
-    Chemical S.A.C. y Laytarumas, Química Germana.
+litología,
 
+alteración,
 
+mineralización, minerales guías que ayudaron a determinar la zona en que
+se encuentra el yacimiento, se realizó muestreos de las labores de
+exploración ejecutadas, principalmente de la galería 674NW. Que está
+sobre falla y presenta alteración.
+La supervisión y seguimiento de la veta en las labores es diario, para tener
+control de las muestras que se reportan. También se realiza el contorneo
+de las estructuras mineralizadas para muestreo, siguiendo parámetros de
 
+Qa/Qc Para luego ser enviados a los laboratorios de análisis tales como
+Chemical S.A.C. y Laytarumas, Química Germana.
 
-                                                                                    5
-   Equipos empleados:
+5
 
-         Brújula tipo brunton                Bolsas de muestreo
-         Flexómetro                          Protactor
-         Lupa                                Cámara fotográfica
-         picsa                               Punta y comba
-         rayador                             pintura
-         Estación total                      EPPS
+Equipos empleados:
+
 
+Brújula tipo brunton
+
+Bolsas de muestreo
+
+
+
+Flexómetro
+
+Protactor
+
+
+
+Lupa
+
+Cámara fotográfica
+
+
+
+picsa
+
+Punta y comba
+
+
+
+rayador
+
+pintura
+
+
+
+Estación total
+
+EPPS
 
 d) Etapa de gabinete.
-   Análisis e interpretación de los resultados obtenidos mediante las labores
-   de exploración       como verticales y horizontales en las diferentes
-   profundidades del yacimiento, elaboración e interpretación de secciones
-   longitudinales, vista en planta a diferentes cotas y secciones transversales
-   a la estructura para determinar la posición y el trayecto del flujo
-   mineralizantes.
+Análisis e interpretación de los resultados obtenidos mediante las labores
+de exploración
 
+como verticales y horizontales en las diferentes
+
+profundidades del yacimiento, elaboración e interpretación de secciones
+longitudinales, vista en planta a diferentes cotas y secciones transversales
+a la estructura para determinar la posición y el trayecto del flujo
+mineralizantes.
 
 e) Redacción de informe final
-   Con todos los trabajos realizados se redactó el informe final.
+Con todos los trabajos realizados se redactó el informe final.
 
+6
 
-
-
-                                                                              6
-                                 CAPITULO II
-
-                    MARCO TEÓRICO Y CONCEPTUAL
-
-
+CAPITULO II
+MARCO TEÓRICO Y CONCEPTUAL
 
 2.1 Geomorfología
 Es la ciencia que estudia la descripción y explicación del relieve terrestre
@@ -671,8 +803,10 @@ rocas y los diferentes esfuerzos endógenos de modo que entren como factores
 conductores del relieve terrestre. Orientado especialmente hacia el estudio de
 uno de los componentes la naturaleza.
 
+2.2
 
-2.2   Geomorfología Regional
+Geomorfología Regional
+
 El área al ubicarse dentro de las estribaciones de la Cordillera Occidental
 presenta superficies disectadas y quebradas. Las superficies disectadas se
 ubican al lado norte del cerro Colorado, muy vinculados a las rocas volcánicas
@@ -682,7 +816,6 @@ y eólicos; tenemos depósitos torrenciales esporádicos, flujos de lodo cuando
 llueve, canchales con fragmentos angulosos, gravas, arenas, limos y arcillas,
 mal clasificados.
 
-
 2.2.1 Unidades geomorfológicas
 Hasta los 30-60Km. Al Oeste de la divisora continental, se presenta picos altos
 con cimas concordantes, pero más hacia el Oeste estos picos van perdiendo
@@ -690,16 +823,17 @@ rápidamente altitudes hasta llegar al mar. En las partes más bajas de las
 quebradas, existen amplias extensiones de depósitos aluviales que son
 importantes para la agricultura. Los conos aluviales de las quebradas
 
+7
 
-                                                                              7
 adyacentes están generalmente separados por barreras de rocas in situ, pero
 como abonos están muy a menudo cubierto por potentes depósitos eólicos, la
 faja costanera en su totalidad tiende a presentar un aspecto más o menos
 uniforme.
 (Ver anexo: Lamina 1.- Mapa geomorfológico regional)
+2.2.1.1
 
+Dominio costero
 
-2.2.1.1      Dominio costero
 Cordillera de la costa.
 Constituye parte de la unidad morfológica de extensión regional adyacente al
 litoral peruano, reconocida como cordillera de la costa.
@@ -713,8 +847,10 @@ las (capas rojas), forman una extensa planicie de alturas uniformes. En estas
 planicies la cual generalmente se denomina altiplano y dentro del área
 estudiada, corresponde casi completamente al afloramiento cuaternario.
 
+2.2.1.2
 
-2.2.1.2      Dominio andino
+Dominio andino
+
 Estribaciones andinas.
 Con esta denominación se describe la unidad morfológica comprendida entre
 las depresiones de Ámbar-Barranca y las altiplanicies andinos de la cordillera
@@ -728,8 +864,8 @@ parcialmente por volcánicos terciarios, dicha unidad fue levantada durante las
 últimas fases de la orogenia andina y profundamente erosionada durante el
 Terciario superior y Cuaternario por los ríos y quebradas que bajan del macizo
 andino.
+8
 
-                                                                              8
 Morfológicamente se caracteriza de una topografía irregular, de relieve
 moderado a abrupto, con un sistema de drenaje subparalelo a dendrítico,
 convergente y perpendicular a la línea de la costa. los valles y quebradas
@@ -737,7 +873,6 @@ transversales que cortan el frente andino, son numerosos y tienen secciones
 típicas en V, de paredes estrechas y encañonadas en las vertientes altas más o
 menos amplias y de fondo plano en sus desembocaduras, donde se registran
 gruesas acumulaciones fluviales y coluviales.
-
 
 Altiplanicies andinas
 En el área de estudio se encuentra muy bien representado en el cuadrángulo
@@ -748,8 +883,10 @@ Esta unidad presenta una leve inclinación hacia el occidente encontrándose
 comúnmente recubiertos por volcánicos de grupo Calipuy y está caracterizada
 por un sistema de drenaje sensiblemente paralelo.
 
+2.2.1.3
 
-2.2.1.3      Valles interandinos
+Valles interandinos
+
 Se describe con este nombre la parte alta de la cuenca hidrográfica de la
 quebrada Zapallar y Venado muerto que discurren en esta región del este –
 oeste.
@@ -761,22 +898,42 @@ oeste de cuadrángulo de Ámbar, la formación de estos valles al igual que sus
 similares de la región andina empezó en el Terciario y continuo hasta el
 Reciente.
 
+9
 
+2.2.1.4
 
+Altas cumbres
 
-                                                                               9
-2.2.1.4       Altas cumbres
 Se utiliza este término para referirse a la morfología abrupta, colinas y
 montañas que destacan sobre la unidad del altiplanicie y que ha sido
 reconocida en el borde oriental del cuadrángulo de Ámbar.
 Corresponde a paisajes de rocas volcánicas cuaternarias que yacen
-emergiendo     con   carácter   de     estrato   –volcánico   o   conos   volcánicos
+emergiendo
+
+con
+
+carácter
+
+de
+
+estrato
+
+–volcánico
+
+o
+
+conos
+
+volcánicos
+
 parcialmente desmantelando por la erosión glaciar, presenta un relieve abrupto
 y empinado que alcanza altitudes de hasta 3800m.s.n.m. en los flancos de
 estas elevaciones se observan algunos valles cortos.
 
+2.3
 
-2.3    Geología Regional
+Geología Regional
+
 El yacimiento se encuentra circunscrito al Batolito Costanero conformado por
 rocas intrusivas que conforman una cadena montañosa que se extiende desde
 el Norte de Lima hacia el límite sur hasta las proximidades entre Arequipa
@@ -784,7 +941,6 @@ Tacna, con una longitud de 1200 kms., aproximadamente y un ancho que varía
 de 40 a 50 Kms. el Batolito Costanero es un complejo de diferentes rocas
 intrusivas, cuya composición de gabros a granitos potásicos, granodioritas,
 tonalitas, dioritas y monzodioritas.
-
 
 Las unidades litológicas que forman este batolito, constituyen a las tonalitas
 que están dispuestas en rumbos paralelos debido a fracturamientos paralelos
@@ -795,15 +951,12 @@ indicar que la roca intrusiva tonalita, intruye a las rocas metamórficas del
 Complejo Basal de la línea de costa y hacia el norte intruye a los volcánicos
 Casma y Calipuy.
 
-
 La roca intrusiva tonalita es de color gris verdosa clara de granos medios,
 masiva, bien compacta, de textura porfirítica, con xenolitos y fenocristales
 alargados dentro de sus estructuras según los planos de exfoliación.
 
+10
 
-
-
-                                                                                  10
 ESTRATIGRAFÍA.
 2.3.1 Grupo Casma (Ki-c)
 El Grupo Casma al este del Batolito de la Costa consiste de lavas andesíticas y
@@ -817,7 +970,6 @@ del Grupo Casma están atravesados por rocas más antiguas del Batolito de la
 Costa que tienen 100 Ma. (Cossio 1964).Las rocas del Grupo Casma llegan
 hasta el Albiano Superior.
 
-
 2.3.2 Grupo Calipuy (KTi-vc)
 Consiste de aproximadamente dos mil metros de lavas ácidas a intermedias y
 piroclásticas, en la base y hacia arriba hay lavas andesíticas y piroclásticos de
@@ -829,27 +981,40 @@ parte inferior del Grupo Calipuy, en el área de Tapacocha da una edad de 52.5
 Ma. (k-Ar, Webb 1976), la formación superior llegaría al Mioceno Medio (14.6
 Ma).
 
-
-
 2.3.3 Súper unidad la mina (KTi-g-lm)
 Los miembros de este complejo se presentan como intrusivos individuales
-ampliamente     separada     y   generalmente    en    forma   de       stocks.   Están
+ampliamente
+
+separada
+
+y
+
+generalmente
+
+en
+
+forma
+
+de
+
+stocks.
+
+Están
+
 caracterizados por una litología definida que permite considerar en dos grupos
 de intrusivos bastante alejados el uno del otro. Uno está localizado entre el rio
 Pativilca y el rio Supe y el otro está en el lado sur del rio Huaura.
 El Grupo del Norte está ampliamente esparcido y en términos generales tiene
 la forma semejante a un cuadrado. Un pequeño stock de la tonalita Ámbar está
 
+11
 
-
-                                                                                     11
 ubicado en el área geográficamente denominado por este complejo, pero como
 tiene una litología diferente se le tratara en forma separada.
 A corta distancia, hacia el sur, hasta otro pequeño stock de la misma tonalita
 justo al norte del rio Supe y se halla emplazada dentro de diorita biotitica y
 rocas volcánicas de la formación Casma, siendo también cortada por la
 Adamelita de San Jerónimo.
-
 
 2.3.4 Cuaternario (Q-al)
 Son pequeños depósitos aluviales, coluviales y otros asociados con la
@@ -862,7 +1027,6 @@ rocas volcánicas, al norte del cerro Colorado, originan depósitos coluviales d
 pie de monte, arenas finas, limos y arcillas de poco espesor, los pequeños
 aluviones contienen elementos de los mismos.
 
-
 2.3.5 Batolito de la costa
 Las rocas del Batolito de la Costa afloran desde la línea de costa hasta un
 aproximado de 200 km. hacia la cordillera de los Andes, las intrusiones varían
@@ -873,107 +1037,144 @@ Contienen un gran número de plutones, aproximadamente mil cuerpos. El
 Segmento Lima, se divide en el Complejo plutónico de Huaura, Complejo
 plutónico de Fortaleza y Complejo plutónico de Casma. La unidad minera se
 ubica en el Complejo plutónico de Huaura, parte norte del Complejo Paros, en
-la Súper Unidad La Mina.      El Batolito de la Costa en la parte inferior da una
+la Súper Unidad La Mina.
+
+El Batolito de la Costa en la parte inferior da una
+
 edad de 102 Ma. para gabros y dioritas de la Súper Unidad Patap y para la
 parte superior tiene una edad entre 34-51 Ma. para aplitas y monzogranitos de
 la Súper Unidad Pativilca. La Súper Unidad La Mina tiene 62 Ma (Cossio 1964),
 está constituida por granodioritas y tonalitas. La granodiorita/tonalita presenta
 grano medio, 10% a 15% de biotita más hornblenda acicular en igual
+12
 
-                                                                              12
 proporción, también presenta xenolitos, de tamaños variados, la plagioclasa y
 los minerales máficos son euhedrales, el cuarzo y la pertita son intersticiales,
 invaden a los cristales de formación primaria. Los afloramientos de La Mina
 cortan a monzogranitos de San Jerónimo y a su vez son cortados por
 monzogranitos de Pativilca.
-
 (Ver anexo: Lámina 2.- Mapa geologico regional)
 
+13
 
+COLUMNA CRONOESTRATIGRAFICA
+ERA
 
+SISTEMA
 
-                                                                             13
-                                  COLUMNA CRONOESTRATIGRAFICA
-                                                                                  DESCRIPCION
-    ERA           SISTEMA          FORMACION GEOLOGICA                                                       SIMBOLOGIA
-                                                                                  LITOLOGICA
-                                                                       Arena de grano fino a
-                                        Depòsito eolicos                                                          Q-e
-                                                                       medio no consolidado
-                                                                       Arenas, gravas, guijarros
-                                                                       y rodados: no
-                                      Depositos fluviales                                                         Q-f
-                                                                       consolidados y sin
-                                                                       estratificacion
-                                                                       Arcilla, limos, arenas,
-                    CUATERNARIO                                        gravas, fracmentos de
-                                        Depositos fluvio-              rocas angulares y
-                                                                                                                 Q-fal
-                                            aluviale                   subangulares
-          CENOZOICO                         s                          semiconsolidales y sin
-                                                                       estratificacion definida
-                                                                       Arenas gravas arcillas,
-                                                                       limo conclomerados
-                                      Depositos aluviales              semiconsolidados                          Q-al
-                                                                       depositados
-                                                                       subhorizontalmente.
+FORMACION GEOLOGICA
+Depòsito eolicos
 
-                                                               Volcánicos consistentes
-                TERCIARIO                                      en derrames andesiticos,                          Kti-vca
-                                                               tufos daciticos, rioliticos,
-                                                               aglomerados y
-                   CRETACIO         Volacánicos Calipuy
-                                                               piroclastos de colores
-                   SUPERIOR
-                                                               variados                     Rocas plutonicas
-                                                                                            conformadas por
-                                                                                            granodioritas,
-                                                                                             granitos,
-                                                      Super unidad la Mina                  gabros, etc,
-                                                                                             intrusiones,
-                                                                                            tonalitas, dioritas,
-                                                                                            menores aplitas,
-                                                                                            pegmatitas,etc.              KT-lm
+Depositos fluviales
 
+CUATERNARIO
+Depositos fluvioaluviale
+s
 
+CENOZOICO
 
-          MESOZOICO
-                                                                Derrames volcanicos de
-                                                                 composicion andesitica
-                                    Formación Casma             de color gris a gris
-                                                                verdusco, aglomerados
-                  CRETACIO
-                  INFERIOR                                      de color gris a marron,
-                                                                delgados paquetes de
-                                                                cuarcitas blancas, lutitas                     Ki-c
-                                                                de color pardo y marron
-                                                                negruzco.
+Depositos aluviales
 
-       COLUMNA ESTRATIGRAFICA GENERALIZADA
-                                                             UNIVERSIDAD NACIONEL DEL ALTIPLANO
-          FUENTE INGEMMET-LIMA                          FACULTAD DE INGENIERIA GEOLOGICA E INGENIERIA METALURGICA
+TERCIARIO
+CRETACIO
+SUPERIOR
 
-    MODIFICADO POR: MORALES CATATA PASCUAL B.
-                                                                            GMETALURGICA
-                                                                ESCUELA PROFECIONAL DE INGENIERIA GEOLOGICA           3
+DESCRIPCION
+LITOLOGICA
+Arena de grano fino a
+medio no consolidado
+Arenas, gravas, guijarros
+y rodados: no
+consolidados y sin
+estratificacion
+Arcilla, limos, arenas,
+gravas, fracmentos de
+rocas angulares y
+subangulares
+semiconsolidales y sin
+estratificacion definida
+Arenas gravas arcillas,
+limo conclomerados
+semiconsolidados
+depositados
+subhorizontalmente.
 
+SIMBOLOGIA
+Q-e
+
+Q-f
+
+Q-fal
+
+Q-al
+
+Volcánicos consistentes
+Kti-vca
+en derrames andesiticos,
+tufos daciticos, rioliticos,
+aglomerados y
+Volacánicos Calipuy
+piroclastos de colores
+Rocas plutonicas
+variados
+conformadas por
+granodioritas,
+granitos,
+Super unidad la Mina
+gabros, etc,
+intrusiones,
+tonalitas, dioritas,
+menores aplitas,
+KT-lm
+pegmatitas,etc.
+
+MESOZOICO
+
+Formación Casma
+CRETACIO
+INFERIOR
+
+Derrames volcanicos de
+composicion andesitica
+de color gris a gris
+verdusco, aglomerados
+de color gris a marron,
+delgados paquetes de
+cuarcitas blancas, lutitas
+de color pardo y marron
+negruzco.
+
+Ki-c
+
+COLUMNA ESTRATIGRAFICA GENERALIZADA
+
+UNIVERSIDAD NACIONEL DEL ALTIPLANO
+
+FUENTE INGEMMET-LIMA
+
+FACULTAD DE INGENIERIA GEOLOGICA E INGENIERIA METALURGICA
+
+MODIFICADO POR: MORALES CATATA PASCUAL B.
+
+GMETALURGICA
+ESCUELA PROFECIONAL
+DE INGENIERIA GEOLOGICA
+
+3
 
 Columna Estratigráfica
 
+14
 
-
-
-                                                                                                                      14
 2.4 Geología Estructural Regional
-
 Es la ciencia que se dedica al estudio de la corteza terrestre y la relación de
 las rocas que la forman, interpreta y entiende la diversas deformaciones que
 tiene la tierra como la orogenia, las distintas fallas (normales, inversa y
 destrales). Diaclasamientos, pliegues (anticlinales, sinclinales) etc. debido a las
 fuerzas externas como, tracción, compresión, desplazamiento, que dan como
-resultado la forma de la corteza (MC Kinstry, H.     (1970).
+resultado la forma de la corteza (MC Kinstry, H.
 
-
+(1970).
 
 La Cordillera Occidental del Perú, parte norte, consiste en su mayoría de rocas
 Mesozoicas, suprayacen y están delimitadas al este y oeste por rocas más
@@ -984,7 +1185,6 @@ rocas volcánicas en la parte oeste. Un sistema de fallamiento en bloques afecto
 la sedimentación durante el Paleozoico Superior, el Triásico y el Cretáceo.
 Durante la Orogenia Andina, Paleógeno-Neógeno (Terciario) se formaron las
 grandes fallas, fracturas y junturas.
-
 El área de trabajo se ubica en la Cuenca Peruana Occidental, Cuenca
 Huarmey. Los volcánicos Albianos plegados están cortados e intruídos por
 intrusivos del Batolito de la Costa, constituidos por gabros, tonalitas,
@@ -1000,17 +1200,16 @@ hace 30 Ma. al Grupo Calipuy (parte inferior, más antiguas, rocas volcánicas
 continentales), granitos-tonalitas de la Súper Unidad La Mina, San Jerónimo,
 Puscao y a los granitos de Sayán. La cuarta fase Quechua 2 plegó y deformó
 hace 10 Ma. granitos Pativilca, al Grupo Calipuy (parte superior, más recientes,
+15
 
-
-                                                                                15
 rocas volcánicas continentales), stocks de la parte este y al stock Acos (río
 Chancay, rocas granodioríticas), posteriormente emerge la Cordillera Blanca
 (granodioritas, monzogranitos) y por último las ignimbritas, flujos de cenizas, de
 las Formaciones Fortaleza, Yungay y Bosque de Piedras de Huayllay.
 
+2.5
 
-
-2.5   Geología Económica
+Geología Económica
 
 Es la ciencia que estudia los recursos naturales metálicos y no metálicos, con
 el fin de encontrar depósitos minerales que puede ser explotada con un
@@ -1020,12 +1219,14 @@ Y es la parte de la geología que estudia los yacimientos metálicos y los no
 metálicos en la corteza terrestre, para lo cual se complemente con otras ramas
 como, geoquímica, geología estructural, geofísica, petrología y otro. Las cuales
 nos permiten reconocer los yacimientos con más facilidad e interpretar de una
-mejor manera el potencial mineralógico Orche Garcia, E.       (1999).
+mejor manera el potencial mineralógico Orche Garcia, E.
 
+2.6
 
+(1999).
 
+Alteración Hidrotermal
 
-2.6   Alteración Hidrotermal
 Cambio químico en rocas y minerales producidos por la acción de soluciones
 hidrotermales (de aguas calientes) ricas en volátiles que ascienden desde un
 cuerpo magmático que se enfría. La temperatura y el pH del mismo son los
@@ -1036,19 +1237,22 @@ abundantes que se presentan en las rocas como son: silicificación (cuarzo),
 cloritización (clorita), caolinización (arcillas), piritización, y se forma una guía
 empírica fácilmente visible hacia la actividad hidrotermal y de esta manera
 atrae la exploración geológica como consecuencia de la posibilidad de los
-minerales asociados Gagliuffi, P. M.    (1997).
+minerales asociados Gagliuffi, P. M.
 
+2.7
 
-2.7   Paragénesis
+(1997).
+
+Paragénesis
+
 La paragénesis es la secuencia deposicional en el tiempo. A este orden de
 deposición de los minerales se les denomina secuencia paragenética.
+16
 
-                                                                                 16
 El estudio de la paragénesis se realiza por medio de las texturas y estructuras.
 Diferentes estudios han llevado a confirmar una secuencia general de
 deposición en los depósitos minerales, basada en el rango de estabilidad de los
 minerales, que es un constante para la mayoría de los depósitos minerales.
-
 
 Las soluciones mineralizaste durante su recorrido cambian de composición
 gradualmente, formando diferentes minerales. A lo largo de una zona de
@@ -1056,13 +1260,11 @@ deposición de las soluciones hidrotermales. Un mineral puede depositarse bajo
 ciertas condiciones en un determinado lugar, y otro ocurre en otro lugar en
 diferentes soluciones acuosas.
 
-
 La secuencia paragenética rara vez es simple, algunas fisuras pueden
 reabrirse varias veces por la actividad tectónica, permitiendo que la
 mineralización ocurra en la fisura, con soluciones hidrotermales de composición
 cambiante en el tiempo, estas soluciones dan lugar a la precipitación de una
 mineralogía variable.
-
 
 Los depósitos hidrotermales presentan una paragénesis generalizada. La
 solución hidrotermal depositan primero los óxidos, posterior los sulfuros y
@@ -1070,8 +1272,10 @@ arsenopirita, cobalto y molibdeno los sulfuros de zinc, plomo, plata, cobre,
 tardíamente ocurren los metales masivos y los teluros finalmente se depositan
 los sulfuros antimonio y mercurio.
 
+2.8
 
-2.8   Zoneamiento.
+Zoneamiento.
+
 Patrón regular de distribución de minerales o de los modelos de fábrica en
 zona, en la corteza terrestre, pudiendo tratar de un yacimiento mineral
 especifico. Los depósitos minerales hidrotermales, generalmente se encuentran
@@ -1080,10 +1284,8 @@ minerales de alta temperatura (hipotermales) se han formado cerca de la roca
 ígnea y los de baja temperatura (epitermales) alejados de la masa ígnea, los
 mesotermales dentro de la maza ígnea.
 
+17
 
-
-
-                                                                             17
 El zoneamiento mineral de un cristal es el resultado de una distribución no
 uniforme de los cationes de la estructura atómica. En mayor de los casos el
 arreglo ocurre concéntricamente alrededor de un punto. En el estudio de la
@@ -1092,14 +1294,15 @@ mineralógico a profundidad y que las leyes se incrementan conforme avanza la
 solución mineralizante, la ley decrece hasta un valor menor que es
 económicamente explotable.
 
+2.9
 
-2.9    Procesos relacionados al Magmatismo
+Procesos relacionados al Magmatismo
+
 La evaluación magmática está relacionada a la actividad tectónica las mismas
 que se forman por la fusión de los silicatos en estado de fusión. La
 diferenciación magmática es el desarrollo de series continuas y discontinuas en
 la formación de cuerpos ígneos los mismos que están relacionados la
 formación de yacimientos minerales.
-
 
 2.10 Actividad Magmática.
 La fase magmática esta asociado a la generación de depósito mineral de Au,
@@ -1110,46 +1313,61 @@ como plagioclasas, olivino, piroxeno, nefelina y lucita a partir de magmas
 relativamente secos y a temperaturas sobre 800o C, dando lugar a la
 consolidación magmática.
 
-
 Durante esta etapa también cristalizan algunos minerales metálicos como
 magnetita ilmenita, cromita, y otros minerales hidrotermales.
-
 
 Durante la cristalización fraccionada acompañada de una mineralización
 metálica ocurre principalmente con los magmas toleíticos (en menor proporción
 con los magmas alcalinas), concentrados y acumulaciones minerales de cromo
 titanio y hierro.
 
-
 2.11 Fluidos Hidrotermales
 
+18
 
-                                                                             18
 Una gran parte de los fluidos emplazados en las franjas metalogenéticas del
 Perú, fueron mineralizados por fluidos hidrotermales conocido también como
 aguas juveniles, magmáticas e hipogenéticas se forman el final de la
 consolidación magmática, el mismo que tiene de 1-5% de agua, en el Perú el
 magma corresponde a rocas ígneas de composición félsica a intermedia.
 
-
 Según Tumialán P. H. compendio de yacimientos minerales INGEMMET-2011
 no indica que la profundidad se tiene mayor presión y temperatura cerca de
 superficie la presión y temperatura disminuye. En esta última condición decrece
-la    solubilidad   de   los   iones   complejos   de   los   fluidos   hidrotermales
-produciéndose las precipitaciones para formar estructuras mineralizadas.
+la
 
+solubilidad
+
+de
+
+los
+
+iones
+
+complejos
+
+de
+
+los
+
+fluidos
+
+hidrotermales
+
+produciéndose las precipitaciones para formar estructuras mineralizadas.
 
 El flujo hidrotermal en profundidad es ligeramente ácido al reaccionar dicho
 flujo con la roca encajonante durante se ascenso la acidez baja y se produce
 las precipitaciones de los minerales.
 
+2.12
 
-     2.12      Fluidos Mineralizantes
+Fluidos Mineralizantes
+
 Son los agentes que han producido la mineralización en los yacimientos
 peruanos y en orden de importancia son los siguientes: fluidos hidrotermales, el
 agua del mar, las aguas meteóricas, las aguas de origen metamórfico y el
 magma.
-
 
 2.13 Mineralización Metálica
 Están constituidas por minerales de valor económico emplazados en rocas
@@ -1163,8 +1381,8 @@ condiciones fisicoquímicos y geoquímicas, por la disolución de los cristales 
 el fondo de la cámara magmática o por concentración a partir de las
 precipitados de las soluciones hidrotermales.
 
+19
 
-                                                                                   19
 2.14 Estructuras Filoneanas
 En los depósitos de oro filoniano ha sido recurrente la consideración de que el
 sistema estructural, dado por fracturas, diaclasas y fisuras, son los factores
@@ -1172,13 +1390,11 @@ más importantes en el control de la mineralización, y el relleno de espacios e
 el elemento que permite la cristalización de las soluciones hidrotermales,
 independiente de la fuente de los fluidos (Groves et al. 1998).
 
-
 Durante varias décadas el estudio del origen de los depósitos minerales ha
 ocupado un campo de las investigaciones geológicas y mineras, en especial las
 mineralizaciones auríferas correspondientes a los denominados depósitos de
 oro mesotermal, también conocidos como venas de cuarzo y oro, “Mother
 Lode”, Filones de oro arcaico (Alldrick, 1996).
-
 
 En el ambiente estructural de los depósitos de oro mesotermal las fluctuaciones
 cíclicas en la presión del fluido deben acompañar un fracturamiento
@@ -1188,27 +1404,34 @@ fallamiento sísmico y este efecto sobre el régimen del fluido. El desarrollo d
 los filones de oro y cuarzo parecen pertenecer la última fase de reactivación de
 la actividad magmática dentro de un cinturón orogénico (Sibson et al., 1988).
 
-
-
-
 La migración de fluidos a lo largo de estructuras profundas es inherente a las
 orogenias, y cuando la temperatura de la corteza asciende de media a alta (400
 - 500ºC). En estas condiciones son diseminados sulfuros liberados en el fluido
-hidrotermal   por   reacciones    de    desulfidización   prògrada    durante    el
+hidrotermal
+
+por
+
+reacciones
+
+de
+
+desulfidización
+
+prògrada
+
+durante
+
+el
+
 calentamiento de la corteza (Goldfarb et al., 2001).
 
+20
 
-
-
-                                                                                 20
 Figura N1: Esquema general del evento de colisión de terrenos
-
 Esquema general del evento de colisión de terrenos, la desarticulación de una zona de
 subducción y la creación del sistema de fallas profundas que alcanzan a provocar la fusión
 parcial en la base del arco, el ascenso de volátiles y la precipitación de metales en depósitos
 vetíticos de oro (Adaptada de Canet, 2005).
-
-
 
 Si tales fluidos con sulfuros migran a través de fracturas, cuando éstas se
 ponen en contacto con zonas de fallas mayores son capaces de transportar oro
@@ -1216,22 +1439,16 @@ lixiviado, que es depositado en fallas secundarias a niveles corticales del
 orógeno levantado. Si las temperaturas exceden los 700ºC en las áreas fluidas
 los líquidos y fundidos migrarán simultáneamente (Goldfarb et al., 2001).
 
+21
 
-
-
-                                                                                            21
-                    Figura N2: Modelo generalizado de los estilos estructurales
+Figura N2: Modelo generalizado de los estilos estructurales
 Modelo generalizado de los estilos estructurales de precipitación de metales en depósitos
 vetíticos de oro. Estilo de mineralización vetítica acorde con la profundidad y la temperatura de
 formación. Estas particularidades propician las condiciones físico-químicas de precipitación,
 sucediendo varios tipos de figuras estructurales. La zona dúctil frágil está muy relacionada con
 los depósitos de oro. Colvine et al., 1988.
 
-
-
-
-2.15 Cocientes metálicos.-
-Aunque los mapas de contornos son apropiados para definir la dirección de
+2.15 Cocientes metálicos.Aunque los mapas de contornos son apropiados para definir la dirección de
 descarga u origen de los fluidos hidrotermales, por sí mismos no son
 concluyentes, ya que dependen tanto de controles físico-químicos como
 estructurales. De la misma manera sucede con los cambios mineralógicos,
@@ -1239,29 +1456,44 @@ cuyos resultados son una aproximación cualitativa. Sin embargo, el uso de
 cocientes metálicos puede dar lugar a una caracterización cuantitativa de la
 zona.
 
+22
 
-
-
-                                                                                              22
 Los cocientes metálicos de los elementos mayoritarios son independientes de
 los accidentes estructurales e indican cambios en el carácter químico del
 material por el que circulan los fluidos mineralizadores, siempre que se
 cumplan las hipótesis de partida, que implican una génesis común y un solo
 episodio mineralizador (Goodell et al., 1974). Las variaciones en los cocientes
 metálicos son producto de cambios mineralógicos y en la proporción de fases
-presentes, debidas a controles litológicos locales o a variaciones físico-
-químicas sufridas por los fluidos al circular a través de la roca. El mayor
+presentes, debidas a controles litológicos locales o a variaciones físicoquímicas sufridas por los fluidos al circular a través de la roca. El mayor
 problema de la utilización de cocientes metálicos es la interpretación cuando
 existen diferentes periodos deposicionales, aunque en algunos casos es
 posible resolver dicho problema. En los mapas de cocientes metálicos se
 representan los contornos de las variaciones espaciales. Las formas cóncavas
-indican la fuente de las soluciones        mineralizadoras (Goodell et al., 1974).
-Estos      resultados,   posteriormente,   se   deben   corroborar   a   partir   de
+indican la fuente de las soluciones
+
+mineralizadoras (Goodell et al., 1974).
+
+Estos
+
+se
+
+resultados,
+
+posteriormente,
+
+deben
+
+corroborar
+
+a
+
+partir
+
+de
+
 consideraciones paragenéticas, al zoneamiento geológico general y al
 resultado de las isotermas obtenidas mediante microtermometría de inclusiones
 fluidas.
-
-
 
 2.16 Cubicación de Recursos y Reservas
 La cubicación es el cálculo de cantidad de mineral útil medido en la mina, por
@@ -1271,28 +1503,23 @@ yacimiento consiste en establecer de forma numérica los principales
 parámetros de la explotación tonelaje o volumen del material explotable, ley
 media y ley de corte, así como el valor económico total de estas reservas.
 
-
 En la cubicación de un yacimiento se considera tres conceptos:
 
+a. Mineral probado, o sea aquel que en su masa sea mensurable desde
+tres lados.
+b. Mineral probable, cuando se puede considerar dos lados.
+c. Mineral inferido, si se observa de un solo lado.
 
-   a. Mineral probado, o sea aquel que en su masa sea mensurable desde
-        tres lados.
-   b. Mineral probable, cuando se puede considerar dos lados.
-   c. Mineral inferido, si se observa de un solo lado.
+23
 
-
-
-                                                                                  23
 Ley media: es la concentración que presenta el elemento químico de interés
 minero en el yacimiento. Se expresa como tantos por ciento, o como gramos
 por tonelada (g/T) (equivalentes a partes por millón ppm), u onzas por tonelada
 (onz/T).
 
-
 Ley de corte o cut-off: es la concentración mínima que debe tener un
 elemento en un yacimiento para ser explotable, es decir la concentración que
 hace posible pagar los costos de su extracción y comercialización.
-
 
 Es un factor que depende a su vez de otros factores, que puede no tener nada
 que ver con la naturaleza del yacimiento, como por ejemplo puede ser su
@@ -1301,41 +1528,36 @@ extracción.
 Recuperación de los metales porcentajes de metales comerciales que se
 obtienen del volumen total de toneladas procesadas.
 
-
 VME = {costos / método minado / recuperaciones metalúrgicas / cotización de
 metales}
 Las primeras variables son endógenas a la empresa y eventualmente
 controlables; la última es exógena a ella, por lo tanto está fuera de control.
-
-
 Elementos que intervienen en el cut – off
-   1- Costos
-   2- Métodos de minado.
-   3- Recuperaciones metalúrgicas.
-   4- Cotización de metales.
-
+1- Costos
+2- Métodos de minado.
+3- Recuperaciones metalúrgicas.
+4- Cotización de metales.
 
 Fórmulas de cálculo.
-
-
 Cut – off: es la suma de los costos incurridos en la producción de cierto tonelaje
 de mineral hasta su concentración en la unidad de producción. La fórmula
 vigente en uso por Contabilidad Metalúrgica.
 
+VME = M + (K1 + K2 + K3)
 
-                VME = M + (K1 + K2 + K3)      Deducciones fijas.
+Deducciones fijas.
+24
 
-                                                                                 24
 Donde:
 VME: Valor mínimo explotable, cut-off, en $ / ton.
-M    : costo total de extracción minera, variable dependiente del método de
+M
+
+: costo total de extracción minera, variable dependiente del método de
+
 minado, en $ / ton.
 K1: Costo total de concentración, en $ / ton.
 K2: Provisión anula por indemnización, en $ / ton.
 K3: Gastos fijos de administración.
-
-
-
 
 2.16.1 Recurso Mineral.
 Un “recursos mineral” es una concentración u ocurrencia de material de interés
@@ -1349,7 +1571,6 @@ interés económico intrínseco los cuales han sido identificados y estimados a
 través de actividades de exploración, reconocimiento y muestreo. De acuerdo
 al grado de confiabilidad existente.
 
-
 2.16.2 Reserva de Minerales
 Una reserva de minerales” es la parte económicamente explotable de un
 recurso mineral medido o indicado incluye dilución de materiales y tolerancia de
@@ -1358,101 +1579,119 @@ realizado las evaluaciones apropiadas. Que pueden incluir estudios de
 factibilidad y se consideran factores de modificación tales como: criterios
 mineros, tecnológicos, legales, económicos, medioambientales, sociales y
 gubernamentales. Estas evaluaciones demuestran en la fecha en que se
-reporta que podría justificarse razonablemente la extracción-
-Las reservas de mena se subdividen en orden creciente de confianza en
+reporta que podría justificarse razonablemente la extracciónLas reservas de mena se subdividen en orden creciente de confianza en
 reservas probables y reservas probadas.
 
+25
 
-                                                                             25
 La ley general de minería del Perú de 1992 define como Reservas de mineral
 de una mina a la suma de mineral probado y probable existente en ella. Que
 sea económicamente explotable.
 
+a. Las reservas probables
+Una “Reserva Probable” es la parte económicamente explotable de un
+recurso mineral indicado y en algunas circunstancias recursos minerales
+medido. Incluye los materiales de dilución y tolerancias por perdidas que
+puedan producirse cuando se explota el material. Se han realizado
+evaluaciones apropiadas, que pueden incluir estudios de factibilidad, e
+incluyen la consideración y modificación por factores razonablemente
+asumido de minería, metalúrgicos, económicos de mercadeo, legales,
+medioambientales, sociales y gubernamentales. Estas evaluaciones
+demuestran a la fecha en que se presenta el informe, que la extracción
+podría justificar razonablemente.
+Una reserva probable de mineral tiene un nivel más bajo de confianza
+que una reserva probada mineral.
 
-   a. Las reservas probables
-      Una “Reserva Probable” es la parte económicamente explotable de un
-      recurso mineral indicado y en algunas circunstancias recursos minerales
-      medido. Incluye los materiales de dilución y tolerancias por perdidas que
-      puedan producirse cuando se explota el material. Se han realizado
-      evaluaciones apropiadas, que pueden incluir estudios de factibilidad, e
-      incluyen la consideración y modificación por factores razonablemente
-      asumido de minería, metalúrgicos, económicos de mercadeo, legales,
-      medioambientales, sociales y gubernamentales. Estas evaluaciones
-      demuestran a la fecha en que se presenta el informe, que la extracción
-      podría justificar razonablemente.
-      Una reserva probable de mineral tiene un nivel más bajo de confianza
-      que una reserva probada mineral.
-
-
-   b. Las reservas probadas:
-      Una “Reserva Probada” es la parte económicamente explotable de un
-      recurso mineral medido incluyen los materiales de dilución y tolerancias
-      por perdidas que se pueden producir cuando se explota el material. Se
-      han realizado evaluaciones apropiadas que pueden incluir estudios de
-      factibilidad, e incluyen consideración y modificación por factores
-      fehacientemente asumidos de minería, metalúrgicos, económicos, de
-      mercados, legales, ambientales sociales, gubernamentales. Están
-      evaluaciones demuestran, a la fecha en que se publica el informe, que la
-      extracción podría justificarse razonablemente.
-
+b. Las reservas probadas:
+Una “Reserva Probada” es la parte económicamente explotable de un
+recurso mineral medido incluyen los materiales de dilución y tolerancias
+por perdidas que se pueden producir cuando se explota el material. Se
+han realizado evaluaciones apropiadas que pueden incluir estudios de
+factibilidad, e incluyen consideración y modificación por factores
+fehacientemente asumidos de minería, metalúrgicos, económicos, de
+mercados, legales, ambientales sociales, gubernamentales. Están
+evaluaciones demuestran, a la fecha en que se publica el informe, que la
+extracción podría justificarse razonablemente.
 
 2.17 Calculo de reserva:
 La cubicación de reservas consiste en el cálculo de la cantidad de mineral
 contenido en un yacimiento, y de la calidad asociada; debe iniciar la posición
 dentro del criadero de las distintas clases de menas.
 
+26
 
-                                                                            26
 Todos los métodos de cálculo de reserva tienen un mismo fin: la transformación
 de una zona mineral en un cuerpo geométrico de forma más sencilla pero
 conservando el volumen. Existen muchos métodos pero pocos se utilizan
 normalmente.
 
-
 El grado de precisión depende en gran medida del nivel de exactitud con que
 se haya investigado el criadero, del cuidado con que se efectúen los cálculos,
 método seleccionado y que este sea apropiado al yacimiento.
-
 
 La selección del método de cubicación esta muy influenciada por el método de
 investigación empleada y por el sistema de explotación que se tiene previsto
 utilizar. Los métodos de cubicación pueden dividirse en dos grandes categoría:
 
-
 Método clásico.
-      Media aritmética.
-      Bloques geológicos.
-      Bloques de explotación.
-      Perfiles.
-      Polígonos.
-      Triángulos.
-      Isolineas.
-Métodos modernos.
-      Bloques.
-      Capas.
-      Sólido tridimensional.
-      Geoestadística.
+
 
+Media aritmética.
+
+
+
+Bloques geológicos.
+
+
+
+Bloques de explotación.
+
+
+
+Perfiles.
+
+
+
+Polígonos.
+
+
+
+Triángulos.
+
+
+
+Isolineas.
+
+Métodos modernos.
+
+
+Bloques.
+
+
+
+Capas.
+
+
+
+Sólido tridimensional.
+
+
+
+Geoestadística.
 
 2.18 Método de Cubicación
-
 
 Método de los bloques de explotación.
 Se utiliza en filones de reducida potencia y en capas complejas que fueron
 investigados por trabajos mineros que dividen al criadero en bloques, los
 cuales han de servir posteriormente de base para su ulterior explotación. Estos
+27
 
-
-                                                                             27
 bloques son partes de criaderos limitadas por dos, tres o cuatro lados
 reconocidos. La reservase calcula bloque a bloque y el total se determina
 sumando las de todos los bloques.
 
-
-
 2.19 Bloques de explotación
-
-
 Se trabaja sobre un plano en el que se representa la proyección del criadero.
 Este plano puede ser vertical, horizontal o inclinado, dependiendo de la
 pendiente o de las características geométricas del yacimiento. A dicho plano se
@@ -1461,43 +1700,33 @@ investigación que delimitan los bloques, así como la posición de la muestra
 tomada en la periferia de estos, los resultados de los análisis químicos y las
 medidas de la potencia.
 
+136
 
+0.53
+6.7
 
+137
 
-                                                                        0.53
-                                                                  136
-                                                                         6.7
+0.83
+3.2
 
+Figura N3: esquema de bloques de explotación(Febrel 1971).
 
-                                                                        0.83
-                                                                  137
-                                                                         3.2
+28
 
+A) Proyección de bloque en superficie de filón.
+B) Esquema de bloque con contorno irregular.
+C) Representación esquemática del bloque.
+D) Demuestre efectuado en un lado del bloque 136 y 137 son los
+números de muestra; el numerador de quebrado indica la
+potencia media; el denominador, y la ley en gramos por tonelada.
 
-              Figura N3: esquema de bloques de explotación(Febrel 1971).
-
-
-
-
-                                                                               28
-           A) Proyección de bloque en superficie de filón.
-           B) Esquema de bloque con contorno irregular.
-           C) Representación esquemática del bloque.
-           D) Demuestre efectuado en un lado del bloque 136 y 137 son los
-               números de muestra; el numerador de quebrado indica la
-               potencia media; el denominador, y la ley en gramos por tonelada.
-
-
-
-       La superficie de cada bloque se calcula según formulas geométricas
-       sencillas si tiene formula regular o con planímetro o digitalizador si es
-       irregular. La superficie medida, es la proyección sobre el plano de la
-       superficie real.
-
+La superficie de cada bloque se calcula según formulas geométricas
+sencillas si tiene formula regular o con planímetro o digitalizador si es
+irregular. La superficie medida, es la proyección sobre el plano de la
+superficie real.
 
 2.20 Método de explotación
-
-
 Corte y Relleno Ascendente, Método del “circado” con relleno detrítico,
 producto de los descajes, en caso necesario, considerando el ancho de minado
 de un metro, existe un exceso de desmonte para rellenar, dado las
@@ -1514,17 +1743,11 @@ proveniente de los descajes de las rocas encajonantes del tajeo; los mismos
 que sirven de soporte de las cajas y piso para continuar con la perforación del
 siguiente ciclo.
 
+29
 
+CORTE Y RELLENO
 
-
-                                                                                  29
-                             CORTE Y RELLENO
-
-
-
-
-     Figura N4: Esquema tentativo de método de explotación corte relleno ascendente.
-
+Figura N4: Esquema tentativo de método de explotación corte relleno ascendente.
 
 2.20.1 Circado de veta.
 Consiste en destajar primero la roca estéril dejando la estructura mineralizada
@@ -1532,7 +1755,6 @@ en una de las cajas favorables y más consistentes para que al menos se
 acumule de 1- 5 disparos sobre estéril, para luego disparar solo sobre mineral
 para así disminuir la dilución del mineral, luego de este proceso se emplea el
 relleno de la siguiente rebanada en ascenso.
-
 
 2.20.2 Corte relleno ascendente
 Este método se denomina también “over cut and fill”. El minado en corte relleno
@@ -1544,121 +1766,157 @@ para el soporte de las cajas, proporcionando una plataforma mientras la
 próxima rebanada sea minada, el material de relleno puede ser de roca estéril
 proveniente de la labores de desarrollo en la mina y es distribuida
 mecánicamente sobre el área tajeada : así mismo en el minado moderno de
+30
 
+corte y relleno es práctica común en el uso del método hidráulico, este material
+procede del material de relave de la planta concentradora a la mina a través
+de tuberías ; cuando el agua del relleno es drenado entonces queda un relleno
+competente con una superficie uniforme, en algunos casos el material es
+mesclado con cemento que proporciona una superficie más dura, que mejora
+las características del soporte.
 
-                                                                                        30
- corte y relleno es práctica común en el uso del método hidráulico, este material
- procede del material de relave de la planta concentradora a la mina a través
- de tuberías ; cuando el agua del relleno es drenado entonces queda un relleno
- competente con una superficie uniforme, en algunos casos el material es
- mesclado con cemento que proporciona una superficie más dura, que mejora
- las características del soporte.
+Condiciones de diseño
+Se puede aplicar en yacimientos.
 
+2.21
 
- Condiciones de diseño
- Se puede aplicar en yacimientos.
-        -   Con buzamiento pronunciado >50°.
-        -   En cualquier depósito y terreno.
-        -   Con cajas medianamente competentes.
-        -   Las cajas del yacimiento pueden ser irregulares y no competentes.
-        -   El mineral debe tener buena ley.
-        -   Disponibilidad del material de relleno.
+-
 
+Con buzamiento pronunciado >50°.
 
-2.21   La dilución en la minería metálica
+-
 
+En cualquier depósito y terreno.
 
- Se define comúnmente como dilución a la mezcla de mineral con estéril,
- mediante la cual se lleva bien a procesar un material que no tiene el valor
- económico previsto, o bien se arroja a la escombrera mineral, con la
- consiguiente pérdida de aprovechamiento de las reservas.
+-
 
+Con cajas medianamente competentes.
 
+-
 
+Las cajas del yacimiento pueden ser irregulares y no competentes.
 
- Figura N5. Ejemplo de distribución de una masa mineral en una voladura
- (Floyd, 2007)
+-
 
+El mineral debe tener buena ley.
 
+-
 
-                                                                                31
-                                CAPITULO III
+Disponibilidad del material de relleno.
 
-            CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN
+La dilución en la minería metálica
 
+Se define comúnmente como dilución a la mezcla de mineral con estéril,
+mediante la cual se lleva bien a procesar un material que no tiene el valor
+económico previsto, o bien se arroja a la escombrera mineral, con la
+consiguiente pérdida de aprovechamiento de las reservas.
+
+Figura N5. Ejemplo de distribución de una masa mineral en una voladura
+(Floyd, 2007)
+
+31
+
+CAPITULO III
+CARACTERÍSTICAS DEL ÁREA DE INVESTIGACIÓN
 
 3.1 Ubicación y Accesos
-
 Ubicación
-
 El Yacimiento Minero “Caracol” el cual comprende las concesiones caracolito I
 y II; está ubicado en el sector de Cerro Colorado del caserío de Chunchos
 distrito de Ámbar, provincia de Huaura, departamento de Lima, Perú. Cuyas
 coordenadas UTM correspondientes a la Zona 18 son las siguientes:
 
-
 Coordenadas UTM Caracolito I
+Cuadro Nº 1 Límites de concesión
 
+VERTICES
+01
+02
+03
+04
 
-                           Cuadro Nº 1 Límites de concesión
+NORTE
+8 810,000
+8 809,000
+8 809,000
+8 810,000
 
-               VERTICES        NORTE                    ESTE
-               01         8 810,000               237,000
-               02         8 809,000               237,000
-               03         8 809,000               236,000
-               04         8 810,000               236,000
+ESTE
+237,000
+237,000
+236,000
+236,000
 
 Coordenadas UTM Caracolito II
 
+VERTICES
+01
+02
+03
+04
 
+NORTE
+8 809,000
+8 808,000
+8 808,000
+8 809,000
 
-               VERTICES       NORTE                        ESTE
-                  01         8 809,000                    237,000
-                  02         8 808,000                    237,000
-                  03         8 808,000                    236,000
-                  04         8 809,000                    236,000
+ESTE
+237,000
+237,000
+236,000
+236,000
 
 EXTENSIÓN: Con un total de 200.00 Hectáreas
 
+32
 
-
-                                                                           32
 Accesibilidad
+El acceso desde la ciudad de Lima es como sigue:
+Cuadro Nº 2 accesos a la mina caracol S.A.C.
+Lima – Supe
 
- El acceso desde la ciudad de Lima es como sigue:
+190.00 Km.
 
-                       Cuadro Nº 2 accesos a la mina caracol S.A.C.
+Asfaltado
 
-   Lima – Supe                        190.00 Km.                         Asfaltado              3.0 Hr.
+3.0 Hr.
 
- Supe – Caral                          23.00 Km                           Asfaltado             0.5 Hr.
+Supe – Caral
 
- Caral - Chunchos                     33.50 Km.                         Trocha                  1.5 Hr.
+23.00 Km
 
+Asfaltado
+
+0.5 Hr.
+
+Caral - Chunchos
+
+33.50 Km.
+
+Trocha
+
+1.5 Hr.
 
 (Ver anexo: Lámina 4.- Mapa de Ubicación)
-
-
 Clima
 La región presenta un clima cálido templado, pertenece a la zona costera,
 encima de 1800m.s.n.m., existiendo dos estaciones bien definidas de la
 siguiente forma:
-
 Época de lluvia que corresponde a los meses de diciembre-marzo,
 produciéndose precipitaciones pluviales moderadas.
-
 Época de sequía, comprende los meses de abril-noviembre donde las
 temperaturas aumentan sustancialmente que llegan hasta 25ºC promedio
 normal.
 
-
-
-
 Fotografía N 1: vista de E-W, nos muestra contacto entre los volcánicos Calipuy con rocas batoliticas. FUENTE
 PROPIA
 
-                                                                                                           33
-3.2   Flora y fauna
+33
+
+3.2
+
+Flora y fauna
 
 La vegetación en la zona es escasa y consta principalmente de arbustos y
 cactus de diversas variedades, sin embargo en la quebrada Zapallar y Venado
@@ -1668,30 +1926,20 @@ La fauna en la zona es escasa pueden apreciarse esporádicamente algunos
 animales como vizcachas, zorros, ratones, reptiles, insectos, murciélagos,
 burros, venados, cóndor y otros.
 
+Fotografía N 2: Se observa arbustos temporales y cactusFUENTE PROPIA
 
+34
 
-
-                    Fotografía N 2: Se observa arbustos temporales y cactusFUENTE PROPIA
-
-
-
-
-                                                                                            34
 3.3. Geomorfología local
-
 La topografía local presenta pendientes moderado a suaves, valles simétricos
 en forma de V. las quebradas secas drenan paralelos a las estructuras
 mineralizadas hacia la quebrada Zapallar al sur y Venado muerto hacia el norte
 por lo general está compuesto de material aluvial, coluvial.
 
-
 3.3.1 Unidades geomorfológicas
 
-
 Colinas altas:
-
-
-  Fotografía N3: Nos muestra la fauna en la zona de estudio (tarántula, cóndor)FUENTE PROPIA
+Fotografía N3: Nos muestra la fauna en la zona de estudio (tarántula, cóndor)FUENTE PROPIA
 
 Estas colinas en cuanto a su composición superficial constituyen estructuras
 que se forman por la acumulación de material ígneo que ascienden desde las
@@ -1699,65 +1947,49 @@ profundidades hasta la superficie a través de una debilidad estructural como
 una falla. Donde se presenta como un afloramiento de lava. Solidificándose en
 rocas proximales de las rocas de la superficie y desarrollando una forma de
 
-
-
-
 colina con características particulares.
-
 
 Terraza:
 Son elevaciones intermedias y relieve suave, también se han desarrollado
 sobre rocas volcánicas e intrusivas.
 
-
 Laderas:
 
+35
 
-
-
-                                                                                                35
- Son elevaciones menores y pendientes moderadas, ubicadas mayormente en
- zonas de afloramientos de cuerpos intrusivos comprendiendo una cota de
- 1649-1710 m.s.n.m.
-
- Colinas bajas:
- Son las pendientes llanas, en las cuales se observa que estas son zonas de
- deposición de sedimentos por la acción del agua fluvial encontrándose en ello
- los cantos angulosos producto de la erosión.
-
- Valles “V”:
-
- Ver anexo: Lámina5.-Mapa Geomorfológico local
- Los valles fluviales coluviales son producto de la acumulación de materiales
- transportado como consecuencia de procesos geomorfológicos y climáticos
- cuando el agua es el medio de transporte de los detritos, cuando la velocidad
- de sedimentación es mayor puede dar lugar a llanuras de inundación, terrazas
- o depósitos marginales resultado de la sedimentación de aguas estancadas
- pero se encuentran encajonadas por vertientes de fuertes pendientes a veces
- de paredes casi verticales.
-
-
+Son elevaciones menores y pendientes moderadas, ubicadas mayormente en
+zonas de afloramientos de cuerpos intrusivos comprendiendo una cota de
+1649-1710 m.s.n.m.
+Colinas bajas:
+Son las pendientes llanas, en las cuales se observa que estas son zonas de
+deposición de sedimentos por la acción del agua fluvial encontrándose en ello
+los cantos angulosos producto de la erosión.
+Valles “V”:
+Ver anexo: Lámina5.-Mapa Geomorfológico local
+Los valles fluviales coluviales son producto de la acumulación de materiales
+transportado como consecuencia de procesos geomorfológicos y climáticos
+cuando el agua es el medio de transporte de los detritos, cuando la velocidad
+de sedimentación es mayor puede dar lugar a llanuras de inundación, terrazas
+o depósitos marginales resultado de la sedimentación de aguas estancadas
+pero se encuentran encajonadas por vertientes de fuertes pendientes a veces
+de paredes casi verticales.
 
 3.4. Geología local
+La región presenta rocas del Mesozoico y del Cenozoico; desde el Cretáceo
+hasta el Cuaternario; principalmente rocas volcánicas del Grupo Casma, rocas
+intrusivas del Batolito de la Costa, rocas volcánicas del Grupo Calipuy y
+depósitos recientes.
+Las rocas más antiguas están representadas por el Complejo Basal de la
+Costa seguida por los Volcánicos de la formación Casma y Grupo Calipuy que
+fueron intruídos por cuerpos subvolcanicos andesiticos y rioliticos.
 
+3.4.1. Grupo Calipuy (Kti-ca)
+Este nombre fue dado por Cossío (1964) a una amplia extensión de volcánicos
+en el Norte del Perú los que indudablemente se prolongan hasta el área
+descrita aquí, razón por lo que conserva dicho nombre.
 
- La región presenta rocas del Mesozoico y del Cenozoico; desde el Cretáceo
- hasta el Cuaternario; principalmente rocas volcánicas del Grupo Casma, rocas
- intrusivas del Batolito de la Costa, rocas volcánicas del Grupo Calipuy y
- depósitos recientes.
-       Las rocas más antiguas están representadas por el Complejo Basal de la
- Costa seguida por los Volcánicos de la formación Casma y Grupo Calipuy que
- fueron intruídos por cuerpos subvolcanicos andesiticos y rioliticos.
+36
 
-
- 3.4.1. Grupo Calipuy (Kti-ca)
- Este nombre fue dado por Cossío (1964) a una amplia extensión de volcánicos
- en el Norte del Perú los que indudablemente se prolongan hasta el área
- descrita aquí, razón por lo que conserva dicho nombre.
-
-
-
-                                                                            36
 Litológicamente la secuencia es extremadamente variada, consistiendo
 principalmente de lavas andesiticas purpuras, piroclasticos gruesos, tufos
 finamente estratificadas, basaltos, rioliticos y dacitas, todos los cuales
@@ -1769,9 +2001,6 @@ El volcánico Calipuy cubre discordantemente los sedimentos cretáceo
 plegados. Máshacia el oriente, restos de este volcánico sobreyacen a la capa
 roja de la Formación Casapalca del Altiplano.
 
-
-
-
 Lamentablemente en los sedimentos de esta unidad no se han encontrado
 fósiles, sabiéndose únicamente que ha sido cortada por las rocas batolíticas
 que en la región han dado edades radiométricas que varían de 60-90 Ma.
@@ -1780,7 +2009,6 @@ la Formación Casapalca (Terciario inferior de acuerdo a un contenido fosilífer
 no muy determinado).
 Siendo probable que el volcánico Calipuy pueda correlacionarse en parte con el
 Grupo Toquepala del sur del Perú.
-
 
 3.4.2. Grupo Casma
 Formación Casma (Ki-c)
@@ -1795,16 +2023,32 @@ fino y con más o menos 3-5 metros de espesor. Este tipo de litología se apreci
 muy bien a lo largo de la carretera que une a los ríos Huaura y Supe.
 En la quebrada venado muerto, lavas andesiticas y masivas y estratificadas
 sobreyacen a una secuencia de sedimentos y tufos finamente estratificados. La
+37
 
-                                                                             37
 búsqueda de fósiles en este punto no ha conducido a ningún resultado positivo
 hasta la fecha, algunos horizontes pueden ser fosilíferos, los estratos de esta
 secuencia están bien plegados.
 
-
 3.4.3. Súper Unidad la Mina (KT-lm)
 Los miembros de este complejo se presentan como intrusiones individuales
-ampliamente    separadas      y   generalmente   en   forma   de   stock.   Están
+ampliamente
+
+separadas
+
+y
+
+generalmente
+
+en
+
+forma
+
+de
+
+stock.
+
+Están
+
 caracterizadas por una litología definida que permite considerarlos en dos
 grupos de intrusiones bastante alejados el uno del otro. Unos están localizados
 entre el rio Pativilca y el rio Supe y el otro está en el lado sur del rio Huaura
@@ -1813,7 +2057,6 @@ A corta distancia, hacia el sur, hay otro pequeño stock de la misma tonalita
 justo al norte del rio Supe y se halla emplazado dentro de la diorita, diorita
 biotitica y rocas volcánicas de la Formación Casma, siendo también cortado por
 la adamelita de San Gerónimo.
-
 
 3.4.4. Cuaternario (Q)
 Son pequeños depósitos aluviales, coluviales y otros asociados con la
@@ -1825,17 +2068,15 @@ una mezcla muy heterogénea de bloques, gravas, arenas, limos y arcillas. Las
 rocas volcánicas, al norte del cerro Colorado, originan depósitos coluviales de
 pie de monte, arenas finas, limos y arcillas de poco espesor, los pequeños
 aluviones contienen elementos de los mismos.
-
 3.4.5. Batolito de la costa
-
 
 Las rocas del Batolito de la Costa afloran desde la línea de costa hasta un
 aproximado de 200 km. las intrusiones varían del Cretáceo Medio al Neógeno.
 A nivel del Perú, estructuralmente, el batolito recorre toda la costa, ha sido
 dividido en cuatro segmentos. El segmento Piura, el segmento Trujillo, el
 segmento Centro (Lima) y el segmento Sur (Arequipa). Contienen un gran
+38
 
-                                                                               38
 número de plutones, aproximadamente mil cuerpos. El Segmento Lima, se
 divide en el Complejo Plutónico de Huaura, Complejo Plutónico de Fortaleza y
 Complejo Plutónico de Casma. La unidad minera se ubica en el Complejo
@@ -1847,50 +2088,34 @@ Pativilca. La Súper Unidad La Mina tiene 62 Ma (Cossio 1964), está constituida
 por granodioritas y tonalitas. La granodiorita/tonalita presenta grano medio,
 10% a 15% de biotita más hornblenda acicular en igual proporción, también
 presenta xenolitos, de tamaños variados, la plagioclasa cálcicas y los minerales
-
 máficos son euhedrales, el cuarzo y la pertita son intersticiales, invaden a los
 cristales de formación primaria. Los afloramientos de La Mina cortan a
 monzogranitos de San Jerónimo y a su vez son cortados por monzogranito de
 Pativilca.
-
 (Ver anexo: Lámina6.- Mapa Geológico local
 
+39
 
+KTi-t-lm
 
-
-                                                                              39
-           KTi-t-lm
-
-
-
-
-                                                       KTi-vca
-
-
-
+KTi-vca
 
 Fotografía N4: Vista desde este a oeste mostrando las unidades litoestratigráficas de la zona
 observándose contacto volcánicos Calipuy (KTi-Vca) y batolito costanero (KTi-lm).FUENTE PROPIA
 
+40
 
-
-
-                                                                                           40
 7
 
+Columna Estratigráfica local
 
-    Columna Estratigráfica local
+41
 
-
-
-
-                         41
 3.4.6. Evolución magmática
 El yacimiento aurífero filoniano de la mina Caracol, está ubicado en la franja
 aurífera del norte del Perú, asociado al segmento Norte del batolito de la costa.
 La evolución magmática en la región fue evidenciada por el emplazamiento de
 las Súper Unidad la Mina con una edad de 101-96Ma.
-
 
 Vetas. Depósitos de esta naturaleza se encuentran en todo el área y
 generalmente están asociadas con rocas intrusivas. Actualmente a lo largo del
@@ -1905,46 +2130,33 @@ fisuras generalmente con calcopirita, galena y esfalerita, aunque también se ha
 encontrado molibdenita, oro y hierro. Particularmente en localidades próximos
 al batolito.
 
-
 3.4.7. Petrología
-
 
 En el área de estudio y los alrededores afloran mayormente las rocas intrusivas
 ígneas (granodioritas y tonalitas), y ígneas volcánicas (andesitas verdosa,
 diques rioliticos, brechas volcánicas.
-
 
 También tenemos un afloramiento prominente de las rocas pertenecientes al
 batolito de la costa, conformado por granodiorita y tonalitas que se observa al
 S-SE de la mina Caracol. También se presenta diques rioliticos perpendicular a
 las estructuras mineralizadas en algunos caso paralelo.
 
-
 En la parte norte de la concesión se encuentra las rocas andesíticas de color
 gris verdoso en algunos casos con diques riolíticos.
 
+42
 
-
-                                                                              42
 Finalmente existen diques andesiticos que generalmente están asociado a la
 veta Cinthia de color gris verdoso en algunos casos con otras tonalidades y con
 diseminación de pirita o calcopirita que varían entre 0.50-1.00m.
 
-
-
-
 Fotografía N 5: se observa caja techo compuesta por granodiorita con xenolitos.
 
-
-
-
 3.4.8 Geología estructural local
-
 
 Por ser conveniente para la descripción de las estructuras se ha agrupado a las
 rocas según su Edad, que al tener características propias en cada caso, hacen
 factible la interpretación de los acontecimientos Tectónicos.
-
 
 Rasgos estructurales en las rocas intrusivas
 Las rocas intrusivas muestran signos muy débiles de deformación, lo que
@@ -1952,9 +2164,8 @@ podrían indicar que las rocas encajonante fueron probablemente plegadas y
 deformadas antes de la intrusión.
 Por lo general las rocas plutónicas del área tienen un fracturamiento muy
 pronunciado con una dirección NE-SW que coincide con el alineamiento de la
-mayoría de las fallas y diques, otro fracturamiento menos pronunciado al NE-
+mayoría de las fallas y diques, otro fracturamiento menos pronunciado al NE43
 
-                                                                                   43
 SW, La falla normal cercana a la del campamento minero de Minera Caracol
 S.A.C. se presenta en los Volcánicos Calipuy con rumbo N 89º E, con
 buzamiento 60 SE.
@@ -1964,19 +2175,16 @@ van de Este a Oeste que causan desplazamientos cortos de 20cm que puede
 decir que estas fallas han sido pos mineralizantes y producto de plegamientos.
 (Ver anexo: Lámina 8.- Mapa Estructural)
 
-
-
-
 Fotografía N 6, se observa una deformación (falla).FUENTE PROPIA
 
+44
 
-
-
-                                                                             44
 3.4.9 Alteraciones hidrotermales
 
+3.4.9.1.
 
-3.4.9.1.   Alteraciones supérgenas
+Alteraciones supérgenas
+
 En la zona de estudio las alteraciones causados mayormente por agentes
 meteóricos ya que presenta una coloración notable en los afloramientos de la
 veta. Los minerales que mayormente abundan son los óxidos de hierro
@@ -1984,12 +2192,13 @@ veta. Los minerales que mayormente abundan son los óxidos de hierro
 primarios como la Calcopirita, galena, arsenopirita, pirita. También existe la
 presencia de arcillas entre la estructura y la roca encajonante.
 
+3.4.9.2.
 
-3.4.9.2.   Alteraciones hipógenas.
+Alteraciones hipógenas.
+
 En la estructura se puede observar una fuerte alteración, de silicificación,
 piritización, cloritización y en algunos puntos argilización en rocas muy
 fracturadas.
-
 
 En la mina Caracol existe alteraciones horizontales, donde los sulfuros se
 oxidan cerca a la superficie esto es notorio en el sector norte mientras que al
@@ -2002,8 +2211,10 @@ También se ha determinado un zoneamiento vertical desde la parte superficial
 hacia los niveles inferiores se puede observar que la zona de óxidos llega hasta
 el nivel 667 y luego ya es sulfuros con silicificación.
 
+3.4.9.3.
 
-3.4.9.3.   Piritización
+Piritización
+
 En este yacimiento es común el predominio de la pirita que se formó posterior
 a la mineralización primaria, del mismo modo es notorio en la roca
 encajonante, observándose en forma masiva y diseminado a veces presenta
@@ -2011,16 +2222,21 @@ un aspecto tetraedral de grano medio 2mm.
 Estas piritas por lo general se presenta diseminado en la roca caja y su
 presencia aumenta hacia las profundidades convirtiéndose en venillas de pirita
 y calcopirita y las mismas en parches que se encuentran en las fracturas.
+45
 
-                                                                             45
-3.4.9.4.   Caolinización
+3.4.9.4.
+
+Caolinización
+
 La presencia de caolín de un aspecto terroso, color blanco a blanco grisáceo,
 que se formó de las micas y se encuentra junto a la mineralización económica,
 nos induce a pensar a que el desarrollo de la arcilla se efectuó mediante un
 proceso de un metasomatismo hidrotermal de los feldespatos, y elementos
 oscuros de la roca.
+3.4.9.5.
 
-3.4.9.5.   Silicificación
+Silicificación
+
 La alteración más importante que sirve como control mineralógico.
 Es la introducción y redistribución de cuarzo secundario en las cajas de la
 estructura y está ligado a la deposición de sulfuros en las vetas teniendo a que
@@ -2029,8 +2245,10 @@ La silicificación y la piritización son indicadores de encontrar clavos
 económicos cuando estos están presentes en la veta. También es muy notorio
 la clorita y una variable silicificación de las rocas encajonantes.
 
+3.4.9.6.
 
-3.4.9.6.   Cloritización.
+Cloritización.
+
 Es uno de los tipos más comunes de alteración. Puede desarrollarse por la
 alteración de silicatos fémicos, con la introducción de agua y la remoción de
 algo de sílice. En otros casos Mg, Fe, Al y algo de SiO2 son aportados hacia la
@@ -2042,30 +2260,28 @@ sulfuros, así el contenido en Fe es generalmente mayor en las proximidades
 de la mineralización. Los sulfuros asociados son pirita y pirrotina. Esta
 alteración está relacionada con la propilitización.
 
+3.5.
 
-3.5.   Geología Económica
+Geología Económica
+
 El proyecto minero caracol con área de 200Has contiene una diversidad de
 estructuras muy interesantes económicamente, como son las vetas Cinthia,
 Caracolito, Juana, Marilyn, Karal.
 Se ubica en la Provincia Metalogenética Occidental, ligada a la subducción de
 la Placa de Nazca, bajo el continente americano, a partir del Cretáceo Superior
+46
 
-                                                                             46
 (Ponzoni, 1980). La provincia Metalogenética Occidental y sus mineralizaciones
 de Cu, Zn, Pb, Ag, W, y otros están asociados al Ciclo Andino (N. Chacón,
 1995, inicios del Paleógeno al Neógeno ¨Terciarios¨). Según Soler et al (1986)
 el área está en el Segmento Central, parte Oeste y en la parte baja de la
-vertiente Pacífica, aquí existen yacimientos y prospectos de cobre zinc y plata-
-oro con baritina asociados al Volcánico Casma; presencia de cobre, plata-oro,
+vertiente Pacífica, aquí existen yacimientos y prospectos de cobre zinc y plataoro con baritina asociados al Volcánico Casma; presencia de cobre, plata-oro,
 wolframio, molibdeno, baritina y otros asociados al Batolito de la Costa.
 Mayormente estructuras vetiformes.
-
 
 En la actualidad minera caracol S.A.C. Viene trabajando solo la veta Cinthia
 que contiene clavos mineralizados que están separados de 100-150m de norte
 a sur.
-
-
 
 3.5.1 Veta Caracolito.-Se ubica en la Concesión Caracolito I 2005, Cerro
 Colorado Zona sur. Aflora en una longitud de 800 m. casi continuos, en la parte
@@ -2084,11 +2300,11 @@ presentan las cajas son: en la zona de óxidos la limonitización con abundantes
 ocres y hematita. En la zona de sulfuros argilitización, arcillas asociadas a las
 fallas; piritización mediana asociada a las diaclasas y silicificación. Los valores
 de plata-oro están asociados al cuarzo, galena y pirita.
-
 3.5.2 Veta Cinthia.- Se ubica en la Concesión Caracolito II 2006. Cerró
 Colorado zona norte, en rocas intrusivas y en rocas volcánicas. Aflora en una
 longitud de 400 m. continuos, en la quebrada Caracol se realizó minado en una
-                                                                                47
+47
+
 longitud de 300 m. en seis niveles (511, 545, 583, 625, 667, 695 y 473). La veta
 está controlado por rocas intrusivas granodioritas-tonalitas y continúa en rocas
 volcánicas hacia el norte, con rumbo N-S a N 10o W, buzamiento vertical a 85o
@@ -2106,23 +2322,21 @@ asociadas a las fallas; piritización mediana asociada a las diaclasas y
 silicificación. Los valores de plata-oro están asociados al cuarzo, galena y
 pirita.
 
+48
 
-
-
-                                                                              48
 Fotografía N 7: se observa la composición mineral de la veta Cinthia (argirosa, galena, pirita, cuarzo,
 óxidos).FUENTE PROPIA
 
-                                     ga
-
-
+ga
 
 3.5.3 Veta Juana.- Se ubica en la Concesión Caracolito II 2006. Cerró
 Colorado zona norte. Aflora en una longitud de 600 m. casi continuos, en la
 parte norte se realizó minado en una longitud de 250 m. en el nivel 609. La veta
 está controlado por rocas intrusivas granodioritas-tonalitas, la veta tiene rumbo
-                                               py
-N-S a N 12oE, buzamiento vertical a 85o E-SE, potencia variable entre seis
+py
+N-S a N 12oE, buzamiento vertical a 85o E-SE, potencia
+variable entre seis
+
 centímetros a cuarenta centímetros, estructura sigmoidal y en rosario. Los
 minerales que se observan en la zona de óxidos son en su mayoría óxidos de
 hierro (limonita, hematita), de manganeso (pirolusita), poco óxido de cobre
@@ -2132,13 +2346,12 @@ blanquecino o lechoso, en estructura tipo cebra, en oquedades, cavernoso, sus
 granos varían de tamaño, desde pequeños hasta grandes. Las alteraciones
 que presentan las cajas son: en la zona de óxidos la limonitización con
 abundantes ocres y hematita. En la zona de sulfuros argilitización, arcillas
+49
 
-                                                                                                           49
 asociadas a las fallas; piritización mediana asociada a las diaclasas y
 silicificación. Los valores de plata-oro están asociados al cuarzo, galena y
 pirita. Las reservas corresponderían a Mineral Probable, parte inferior del Nivel
 609.
-
 3.5.4 Veta Marilyn.- Se ubica en la Concesión Caracolito II 2005. Cerró
 Colorado zona norte, en rocas intrusivas y en rocas volcánicas. Aflora en una
 longitud de 600 m. casi continuos; en la quebrada Caracol se realizó cateos,
@@ -2154,11 +2367,9 @@ se observan en la zona de sulfuros son la pirita en cristales finos, y medianos,
 arsenopirita, galena, calcopirita. La veta presenta abundante cuarzo, cristalino,
 blanquecino o lechoso, en estructura tipo cebra, en oquedades, cavernoso, sus
 granos varían de tamaño, desde pequeños hasta medianos. Las alteraciones
-
 que presentan las cajas son: en la zona de óxidos la limonitización con
 abundantes ocres y hematita. Los valores de plata-oro están asociados al
 cuarzo, galena y pirita. Las reservas corresponderían a mineral probable.
-
 3.5.5. Otras estructuras.- Como la veta karal, divino y murciélago son
 paralelas con buzamientos similares que varíen 80 o-86, con rumbos N-S, es
 estas vetas se observan también la mineralización similar a la de veta Cinthia.
@@ -2169,52 +2380,42 @@ oquedades, cavernoso, sus granos varían de tamaño, desde pequeños hasta
 medianos. Las alteraciones que presentan las cajas son: en la Zona de óxidos
 la limonitización con abundantes ocres y hematita. Los valores de plata-oro
 
+50
 
-
-                                                                              50
 están asociados al cuarzo, galena y pirita. Las reservas corresponderían a
 mineral probable.
 (Ver anexo Lamina 9.- Sección Transversaly Lamina 10.- Mapa Económico)
 
+3.6.
 
+Estudio Petrográfico
 
-
-3.6.   Estudio Petrográfico
 En el yacimiento se han realizado estudios petrográficos de microscopia de
 barrido, en lo siguiente figuras se puede observar la distribución mineralógica
 de la muestra que se ha analizado.
 
+51
 
-
-
-                                                                            51
 Fuente: química germana S.A.C.
 
+52
 
-
-
-                                 52
 Fuente: química germana S.A.C.
-
-
-
 
 Fuente: química germana S.A.C.
 
+53
 
-
-
-                           53
 Fuente: química germana S.A.C.
 
+54
 
+Fuente: química germana S.A.C.
 
+3.7.
 
-                           54
-                                                    Fuente: química germana S.A.C.
+Descripción de los depósitos
 
-
-3.7.   Descripción de los depósitos
 La veta Cinthia presenta clavos con buena ley y potencia moderada, pero
 también existe buena ley y potencia angosta estas potencias van desde 0.05
 hasta 0.80m, y cuando se estrangula solo existe una fractura es el típico
@@ -2224,17 +2425,22 @@ La veta Cinthia es discontinuo en su afloramiento y alcanza longitudes entre
 por ejemplo cuando la veta atraviesa un dique riolitico presenta una serie de
 irregularidades por diferentes razones, algunos de los cuales aún no
 determinados, pero las que han sido reconocidas son las siguientes.
+55
 
-
-                                                                               55
 Cuando la veta atraviesa los diques, presenta un estrangulamiento con
 presencia de calcopirita y pirita en las fracturas originando un cambio de rumbo
 y buzamiento.
 Cuando pasa un zona de estrangulamiento y silicificación fuerte las estructuras
 presentan lazos sigmoides de distancias cortas a distancia considerables que
-son de 5m hasta los 70m de longitud        los cuales presentan mineralización
+son de 5m hasta los 70m de longitud
+
+los cuales presentan mineralización
+
 buena en uno de los ramales y bajo en otro , cuando se une los lazos se forma
-una zona    alterada y fracturas favoreciendo el ensanchamiento de la veta,
+una zona
+
+alterada y fracturas favoreciendo el ensanchamiento de la veta,
+
 formando lentes de 3-5m de longitud, esto se puede observar en el nivel 583 y
 667, presentando las mismas características verticalmente y horizontalmente
 de los lazos sigmoides.
@@ -2242,8 +2448,10 @@ En resumen la veta esta rellenada en una falla de rumbo formando los “S” a
 cada cierto tramo, el mayor indicativo es la silicificación, cloritización y hasta
 agilización suave.
 
+3.8.
 
-3.8.   Geometría de los clavos mineralizados
+Geometría de los clavos mineralizados
+
 Los clavos de la veta Cinthia presentan diferentes formas y dimensiones, desde
 algunos metros hasta desenas de metros de longitud, profundidades
 reconocidas hasta los 240m por el momento siendo estos muy irregulares
@@ -2252,8 +2460,10 @@ Estas estructuras se presentan en forma de lazos sigmoides y/o ramales con
 mineralización íntimamente ligadas al aspecto estructural y litológico, los
 sigmoides están mineralizados indistintamente. (Ver plano nº 11y 12).
 
+3.9.
 
-3.9.   Mineralogía
+Mineralogía
+
 La morfología de nuestro depósito es vetiforme (filoniana) formando clavos
 inclinados (plunge) con lentes mineralizados tipo rosario.
 Esta presencia se puede observar tanto verticalmente y horizontalmente
@@ -2263,31 +2473,78 @@ Presentamos un resumen de los minerales existentes en la veta “Cinthia”, est
 es en base a estudios petrográficos y la descripción macroscópica de
 diferentes muestras analizadas en el laboratorio
 
+56
 
-                                                                               56
-MINERALES                 COMPOSICIÓN                OBSERVACION
-Oro                       Au                         hipógeno y Supergenico
-Argentita                 AgS                        Hipógeno             y
-                                                     Supergenico
-Argirosa                  Ag2S                       Hipógeno             y
-                                                     Supergenico
-Pirita                    FeS₂                       Hipógeno
-Calcopirita               CuFeS₂                     Hipógeno
-Bornita                   CuFeS₄                     Hipógeno
-Esfalerita                ZnS                        Hipógeno
-Cuarzo                    SiO₂                       Hipogeno-supergenico
-Limonita                  FeO₃nH₂O                   Zona de oxidación
-Malaquita                 Cu₂(CO₃)(OH)₂              Zona de oxidación
-Pirolusita                MnO₂                       Zona de oxidación
-Calcita                   CaCO₃                      Hipógeno
-Arsenopirita              FeAsS                      Hipógeno
-Galena                    PbS                        Hipógeno             y
-                                                     Supergenico
-Alúmina                   Al₂O                       Hipógeno
-Molibdenita               MoS                        Hipogeno-supergenico
+MINERALES
+Oro
+Argentita
 
+COMPOSICIÓN
+Au
+AgS
 
-3.10.   Secuencia Paragenética.
+Argirosa
+
+Ag2S
+
+Pirita
+Calcopirita
+Bornita
+Esfalerita
+Cuarzo
+Limonita
+Malaquita
+Pirolusita
+Calcita
+Arsenopirita
+Galena
+
+FeS₂
+CuFeS₂
+CuFeS₄
+ZnS
+SiO₂
+FeO₃nH₂O
+Cu₂(CO₃)(OH)₂
+MnO₂
+CaCO₃
+FeAsS
+PbS
+
+Alúmina
+Molibdenita
+
+Al₂O
+MoS
+
+3.10.
+
+OBSERVACION
+hipógeno y Supergenico
+Hipógeno
+y
+Supergenico
+Hipógeno
+y
+Supergenico
+Hipógeno
+Hipógeno
+Hipógeno
+Hipógeno
+Hipogeno-supergenico
+Zona de oxidación
+Zona de oxidación
+Zona de oxidación
+Hipógeno
+Hipógeno
+Hipógeno
+y
+Supergenico
+Hipógeno
+Hipogeno-supergenico
+
+Secuencia Paragenética.
+
 Por las observaciones hechas al microscopio en laboratorio K W. química
 Germana S.A.C. de las muestras tomadas de la mina caracol S.A.C. Se
 concluye que es un depósito de origen mesotermal por lleno de fracturas
@@ -2300,8 +2557,8 @@ calcopirita que se encuentra en parches, patinas y cristalizada, el oro se
 presenta en charpas en la zona de óxido, diseminados en la zona de sulfuros y
 , englobados en la pirita, y asociado al cuarzo gris, cuarzo hialino, óxidos de
 
+57
 
-                                                                              57
 fierro o en rocas silicificadas. Las muestras presentan una secuencia
 paragenética probable.
 De acuerdo a esta secuencia paragenética, el ensamble mineralógico y la
@@ -2321,18 +2578,17 @@ alteración de la roca andesítica, en cuarzo está presente en formas amorfas y
 cristalizadas desde cuarzo gris, cuarzo lechoso, cuarzo hialino y como
 alteración.
 
+Cuadro Nº 3: modelo de una secuencia paragenética
+ROCA ORIGINAL
 
+RELLENO HIDROTERMAL
 
-
-                  Cuadro Nº 3: modelo de una secuencia paragenética
-
-ROCA ORIGINAL         RELLENO HIDROTERMAL             ZONA DE OXIDOS
+ZONA DE OXIDOS
 
 PLAGIOCLASAS
 FELDESPATP POTACICO
 CUARZO
 BIOTITA
-
 CUARZO
 CLORITA
 PIRITA
@@ -2340,24 +2596,29 @@ CALCOPIRITA
 GALENA
 ESFALERITA
 ARGIROSA
-
 HEMATITA
 COVELITA
 BORNITA
 LIMONITA
 ORO
-                      FASE I                FASE II              FACEIII
+FASE I
+
+FASE II
+
+FACEIII
+
 .
 
-                                                                             58
-3.11.     Zoneamiento
+58
+
+3.11.
+
+Zoneamiento
+
 De acuerdo a los resultados obtenidos de los diferentes análisis de campo y
 con las secciones longitudinales realizadas en los clavos mineralizados
 observamos que el Zoneamiento es tanto vertical como horizontal con ligeros
 cambios mineralógicos en los diferentes niveles del yacimiento.
-
-
-
 
 3.11.1 Zona de oxidación.
 Zoneamiento supérgeno que baja hasta 30-40m. De profundidad desde la
@@ -2365,9 +2626,6 @@ superficie hacia abajo en donde sus valores son variables debido a que ingresa
 aguas meteóricas y existe una circulación de agua, estas aguas vienen
 cargadas de oxígeno y CO2 lo que hace que exista oxidación y precipitación de
 los elementos como el oro.
-
-
-
 
 3.11.2. Zona de minerales primarios
 Los minerales hipógeno que de acuerdo a las labores mineras realizadas hasta
@@ -2378,19 +2636,23 @@ Asimismo es notable un Zoneamiento horizontal en el sentido en que las vetas
 contiene mayor concentración de Au y Ag en la parte central del clavo y
 disminuyendo a los márgenes esto sucede desde el Nv-695 hasta el Nv-473 .
 
+3.12.
 
-3.12.     Controles de la mineralización
+Controles de la mineralización
+
 En la zona de estudios se tiene los siguientes controles de mineralización.
 
+3.12.1.
 
-3.12.1.        Control fisiográfico
+Control fisiográfico
+
 Está dado por la erosión del techo del batolito, presentando el afloramiento de
 la veta Cinthia en el intrusivo.
 En la veta Cinthia se puede observar, a lo largo de todo el afloramiento y en los
 diferentes niveles tanto en la zona alta, intermedio, baja, presenta el mismo tipo
 
+59
 
-                                                                               59
 de mineralización formada principalmente por oro libre, cuarzo, galena, pirita,
 esfalerita, calcita rellenando microfracturas.
 En interior mina, en los diferentes niveles tanto en los superiores e inferiores, la
@@ -2399,23 +2661,21 @@ embargo por análisis químico se tiene unas disminución de sulfuros de plomo,
 y un aumento de sulfuros de cobre y por lo tanto existiría el aumento de otros
 minerales que no son alcanzados a observar a simple vista.
 
+3.12.2.
 
+Control mineralógico
 
-
-3.12.2.       Control mineralógico
 Las muestras tomadas a mano de los diferentes niveles de la veta Cinthia
 analizadas en el laboratorio no definen que la pirita, galena, cuarzo, calcopirita
 son los principales guías de mineralización, y en forma eventual la bornita y
 esfalerita (trazas), hacia el sur mientes que al norte tenemos la presencia de
 óxidos.
 
-
 Muestras de textura granular fina masiva, microfracturada de color oscura con
 cavidades rellenadas de limonitas de aspecto terroso que viene a ser la mejor
 guía de exploración, por momentos nos da la impresión de una brecha, con
 presencia de cuarzo lechoso nos da la impresión de una brecha, con presencia
 de cuarzo lechoso.
-
 
 Muestras que contiene la pirita cristalizada deleznable, sin presencia de
 cavidades y de colores claros de aspecto verdoso reportan valores bajos de
@@ -2424,59 +2684,55 @@ mismo. Observamos cuarzo lechoso, cuarzo gris acompañando a la clorita que
 contienen valoras altos de oro, en superficie el oro libre se encuentra asociado
 a cuarzo lechoso, limonitas y óxidos.
 
+3.12.3.
 
-3.12.3.       Control litológico
+Control litológico
+
 La mayor parte de las estructuras mineralizada se encuentran emplazadas en
 el batolito de la costa, representada por granodioritas y tonalitas, al norte está
 el volcánico compuesto por andesitas con buzamientos hacia el oeste y
 
+60
 
-                                                                                 60
 orientación N-S además están asociados a diques de naturaleza riolítica de
 textura porfirítica de color rosado.
 
+3.12.4.
 
-3.12.4.       Control Estructural.
+Control Estructural.
+
 Los rumbos Noreste, estructura Juana tiene un rumbo N15E, con un
 buzamiento de 76-84 SE, esta es una de las estructuras donde se emplaza la
 mineralización, la potencia de estas estructuras es 0.3-0.40m con una ley de
 0.45oz/t.
-
 
 Los rumbos próximos a Norte-Sur, esta es la estructura Cinthia con un
 buzamiento de 84-88SW donde se emplaza la mineralización, que tiene una
 potencia de 0.3-0.80m. con leyes promedio que van desde 0.23 oz/t hasta
 1.6oz/t, este tipo de comportamiento se observa a lo largo de toda la estructura,
 cuya roca encajonante es granodiorita-tonalita.
-Los rumbos NW-SE, veta caracolito rumbo N10W con un buzamiento de 84-
-88SW, con potencias que varían desde 0.3 hasta 25cm con leyes de 0.432 a
+Los rumbos NW-SE, veta caracolito rumbo N10W con un buzamiento de 8488SW, con potencias que varían desde 0.3 hasta 25cm con leyes de 0.432 a
 2.10 oz/t.
 
+61
 
+CAPITULO IV
+EXPOSICIÓN Y ANÁLISIS DE RESULTADOS
 
+4.1.
 
-                                                                              61
-                                CAPITULO IV
-
-              EXPOSICIÓN Y ANÁLISIS DE RESULTADOS
-
-
-4.1.     Mineralización
+Mineralización
 
 La mineralización ha sido distribuida en un solo sistema de fracturas
 (paralelas), siendo estos de regular extensión. Las vetas exploradas y
 explotadas en la mina Caracol S.A.C son la veta Cinthia y veta Caracolito
 presentan una gran similitud en estructura y textura.
-
 De la veta Cinthia se ha realizado un muestreo de diferentes puntos de la
 estructura, para realizar un estudio petromineralógico.
-
 Genéticamente el deposito presenta mineralización económica de Au –Ag –Pb
 –Cu –Zn, que se han emplazado en condiciones moderadas de presión y
 temperatura, se clasifica el deposito mineral originado de un proceso
 mesotermal.
-
-
 
 4.1.1 Minerales de mena:
 Galena.- (Pb S) mena de plomo bastante cristalizada y terrosa, presentándose
@@ -2485,15 +2741,13 @@ muy frágil por que tiende a desmenuzarse rápidamente, dureza 2.5, fractura
 subconcoidea, peso específico 7.6, en algunas niveles como 625 se puede
 aprecia más contenido de galena y por consiguiente aumenta las leyes de
 plata.
-
 Esfalerita.- (Zn S) mena de zinc, se presenta en cristales y en masas
 deleznables y raras veces compacta brillo resinoso, dureza 3.5-4, fractura
 concoidea, peso específico 4.1, raya amarillo, parda amarillo claro se presenta
+62
 
-                                                                            62
 en la zona de sulfuros y son puntuales no muy abundante cerca de la zona de
 óxidos, esto nos da una conclusión de que la esfalerita no afloro a superficie.
-
 Calcopirita.- (Cu Fe S2) se observa en forma cristalizada, en patinas y
 diseminación, por consiguiente definimos que ocurre en dos etapas de
 deposición una primera etapa que se ha cristalizado y en segunda etapa que
@@ -2502,15 +2756,12 @@ brillo metálico con patina de colores rojos, verde, violeta, poco quebradiza,
 dureza 3.5-4, peso específico 4.1-4.4, fracturas irregulares, raya verdosa a
 negra.
 
-
-
 Argirosa.-(Ag2S) Es un mineral terroso que perteneciente a la familia de los
 sulfuros, de color gris azulado, rara vez en cristales este mineral se encuentra
 al sur de la estructura Cinthia y es puntual cuando aparece este mineral las
 leyes de oro aumentan lo mismo sucede con la plata, y constituyente de una
 mena importante de la plata: la argirosa cristaliza en el sistema cúbico por
 encima de los 179C.
-
 Bornita.- (Cu5 Fe S4) Está asociada a la malaquita y esfalerita, Su color es rojo,
 variando de cobre a pardo. Raramente en cristales dodecaedros. Se presenta
 compacta o diseminada. Es blanda. Aparece al norte de la veta Cinthia, es
@@ -2518,7 +2769,6 @@ común y esporádicamente en rocas intrusivas básicas, es común en
 yacimientos mesotermales y poco frecuentes en yacimientos epitermales. Se
 halla asociada a la malaquita en zona de oxidación. También se la encuentra
 en depósitos pirometasomaticos y metamórficos.
-
 4.1.2 Minerales de ganga
 Cuarzo (SiO2) El cuarzo se encuentra en forma masiva de color blanco,
 lechoso en la veta Cinthia y esta se encuentra desde amorfas hasta
@@ -2526,14 +2776,11 @@ cristalizadas en tipos como cuarzo gris, cuarzo lechos, cuarzo hialino, todos lo
 tipos de cuarzo en el yacimiento Caracol presenta fina diseminación de pirita
 acompañado de calcopirita, la galena en finas vetillas y como parches.
 
+63
 
-
-
-                                                                                  63
 Hematita (Fe2O3). Se encuentra en la zona de óxidos como cristales
 romboédricos, laminares, tabulares de color rojizo mayormente de material
 terroso. Conjuntamente con la limonita de color amarillo.
-
 
 Arsenopirita (FeAsS)- También llamada mispiquel (denominación de los
 mineros Alemanes), mayormente se encuentra cristalizada al norte de la
@@ -2542,21 +2789,24 @@ aparece las leyes de oro aumentan sustancialmente y baja las leyes de plata,
 es un mineral de fórmula química FeAsS. Contiene el 46% de arsénico, 34,3%
 de hierro y un 19,7% de azufre, junto a otros minerales.
 
-
-
 Calcita.-(CaCO3 )Conocido también como carbonato de calcio, es uno de los
 minerales más abundantes en la naturaleza. La calcita se conoce fácilmente;
 se distingue de los minerales semejantes de su serie por la gran riqueza en
 facetas que presentan sus cristales, la rareza del romboedro fundamental como
-forma independiente, las       maclas    laminares      polisintéticas y la fuerte
-efervescencia al ser tratada por los ácidos diluidos.
+forma independiente, las
 
+maclas
+
+laminares
+
+polisintéticas y la fuerte
+
+efervescencia al ser tratada por los ácidos diluidos.
 
 En el yacimiento Caracol la calcita es puntual y se encuentra cristalizada,
 rellena en fracturas paralelas a la estructura y en algunas parte cortantes, este
 mineral también es un indicador de minerales de plata, cuando aparece la
 calcita aumenta los valores de plata.
-
 
 Pirita (FeS2) Se encuentra en parches, cristales finos y hasta de 2 cm esta
 cristalización es puntual mayormente hay presencia de cristales finas
@@ -2564,18 +2814,36 @@ deleznables asociados a clastos de cuarzo y galena, en las estructuras de
 mayor potencia normalmente es abundante y con contenido de oro, estas
 piritas son de color blanco latón.
 
+4.2
 
-4.2     Interpretación de Cocientes metálicos de la veta Cinthia
+Interpretación de Cocientes metálicos de la veta Cinthia
 
 Aunque los mapas de contornos son apropiados para definir la dirección de
 descarga u origen de los fluidos hidrotermales, por sí mismos no son
 concluyentes, ya que dependen tanto de controles físico-químicos como
+64
 
-                                                                                64
 estructurales. De la misma manera sucede con los cambios mineralógicos,
 cuyos resultados son una aproximación cualitativa. Sin embargo, el uso de
 cocientes metálicos puede dar lugar a una caracterización cuantitativa de la
-zona.   Los   cocientes   metálicos     de    los   elementos   mayoritarios       son
+zona.
+
+Los
+
+cocientes
+
+metálicos
+
+de
+
+los
+
+elementos
+
+mayoritarios
+
+son
+
 independientes de los accidentes estructurales e indican cambios en el carácter
 químico del material por el que circulan los fluidos mineralizadores, siempre
 que se cumplan las hipótesis de partida, que implican una génesis común y un
@@ -2587,51 +2855,72 @@ problema de la utilización de cocientes metálicos es la interpretación cuando
 existen diferentes periodos deposicionales, aunque en algunos casos es
 posible resolver dicho problema. En los mapas de cocientes metálicos se
 representan los contornos de las variaciones espaciales. Las formas cóncavas
-indican la fuente de las soluciones      mineralizadoras (Goodell et al., 1974).
-Estos   resultados,   posteriormente,    se    deben    corroborar    a   partir   de
+indican la fuente de las soluciones
+
+mineralizadoras (Goodell et al., 1974).
+
+Estos
+
+se
+
+resultados,
+
+posteriormente,
+
+deben
+
+corroborar
+
+a
+
+partir
+
+de
+
 consideraciones paragenética, al zoneamiento geológico general y al resultado
 de las isotermas obtenidas mediante microtermometría de inclusiones fluidas.
-
 
 Para la realización de las secciones longitudinales se ha trabajado con las
 leyes obtenidas por la sección de Control de Calidad del Departamento de
 Geología para realizar las cubicaciones de reservas.
-
 
 El primer paso consiste en confirmar la posibilidad de la aplicación de esta
 técnica, como ya se ha visto, la correlación es baja y aumenta al trabajar con
 logaritmos neperianos, por lo que para la realización de los gráficos de
 cocientes metálicos se va a trabajar con el logaritmo de las leyes.
 
-
 En dichos gráficos se puede estimar que, en función del valor real, el cual mide
 cuanto se acercan los valores a la recta de regresión, las mejores correlaciones
 se tienen para Au/Ag y Ag/Pb. Por otro lado, los coeficientes de correlación de
 Pearson, que miden la relación lineal entre los valores de dos familias, indican
 que las mejores relaciones se dan para Au/Ag y Ag/Pb. Debido a que ambos
+65
 
-                                                                                    65
 métodos de correlación son coherentes, la representación de cocientes
 metálicos se va a realizar con los logaritmos neperianos de Au y Ag, plata y
 plomo. El resultado del plomo con el cobre se utilizará para comprobarla
 relación.
 
+4.3
 
-4.3      Método
+Método
+
 Para realizar el estudio de los cocientes metálicos en la veta Cinthia se siguió
 el siguiente procedimiento.
-      a- Bloqueo del mineral.
-      b- Punto medio de cada block.
-      c- Las leyes media de cada block.
-      d- Relación de Au/Ag de la siguiente manera: para cada block como
-         ejemplo.
-               28 gr de Au / 132.11 gr de plata = 0.212.
-      e- Se unen las curvas isocalóricas de acuerdo al punto medio de cada
-         block.
-      f- Interpretación.
+a- Bloqueo del mineral.
+b- Punto medio de cada block.
+c- Las leyes media de cada block.
+d- Relación de Au/Ag de la siguiente manera: para cada block como
+ejemplo.
+28 gr de Au / 132.11 gr de plata = 0.212.
+e- Se unen las curvas isocalóricas de acuerdo al punto medio de cada
+block.
+f- Interpretación.
 
+4.4
 
-4.4      Cocientes metálicos Au/Ag.
+Cocientes metálicos Au/Ag.
+
 En esta sección se observa claramente la existencia hasta de tres núcleos
 principales: uno ubicado hacia el SE entre los niveles NV-583 y Nv-695 con un
 máximo valor de 0.239, el segundo núcleo ubicado en la parte central de la
@@ -2639,31 +2928,25 @@ sección entre los niveles 511 y 546 con un valor de 0.349i va disminuyendo
 hasta 0.079, el tercero ubicado al NW de la sección con un máximo valor de
 0.251, presentan una inclinación de 45 hacia el NW.
 
-
-
 (Ver anexo: Lamina 11.-Plano de cocientes metálicos Au/Ag
 
+4.5
 
-
-4.5      Cocientes metálicos Ag/Pb.
-
+Cocientes metálicos Ag/Pb.
 
 Se puede observar en esta sección que las curvas de menor valor se encuentra
 ubicadas entre las coordenadas236300E, 8809100N y están en los niveles
+66
 
-
-                                                                             66
 inferiores; mientras las curvas de valores altos se encuentran al SE de la
 estructura, en la parte central y hacia el NW. Superponiéndose con los
 cocientes Au/Ag presenta cierta similitud. Los flujos mineralizantes siguieron
 una dirección SE hacia superficie.
-
 (Ver anexo: Lamina 12.-Plano de cocientes metálicos Ag/Pb).
 
+4.6
 
-
-
-4.6   Interpretación y estimación de reservas minerales de la veta Cinthia
+Interpretación y estimación de reservas minerales de la veta Cinthia
 
 En la mina Caracol como ya se mencionó anteriormente existen varias
 estructuras importantes como son Cinthia, Caracolito, Juana, Marilyn, karal, la
@@ -2675,10 +2958,7 @@ estructuras.
 Con este estudio solo nos enfocaremos en la veta Cinthia realizando cocientes
 metálicos y cálculo de reservas de la veta Cinthia que tiene una longitud de
 515m y una profundidad de 250m con potencia no uniforme.
-
-
 4.6.1 Muestreo y valores erráticos
-
 El cálculo de tonelaje se basa en un muestreo, el que figura a un plano a
 escala 1:500 que sirve para el efecto de bloqueo. Estos planos de muestreo se
 harán de galerías, chimeneas, subniveles y tajos. El muestreo es sistemático
@@ -2691,38 +2971,27 @@ erráticos, es por esta razón que no se aplica castigo. El muestreo al efectuar
 sobre una veta más o menos uniforme en dureza y en ley determina que los
 ensayos tengan poca variación, esto es comprobado por el muestreo de la
 
+67
 
-
-                                                                              67
 zona, realizadas diariamente y por los compósitos mensuales de la planta de
 beneficios.
 
-
-
-
 4.6.2 Determinación de la ley promedio
-
 
 La ley de cada block está dado por la suma de finos entre la suma de ancho,
 ósea:
 
-
-                           Ley promedio=
-
+Ley promedio=
 
 Entonces la ley de cada block, se calcula a partir de las leyes medias de los
 frentes expuestos que lo limitan considerando igualmente que la ley promedio
 del block está en función a la longitud de sus lados, ósea:
 
+Ley promedio=
 
-                                                   .
-                          Ley promedio=
-
-
-
+.
 
 4.6.3 Determinación de ancho promedio
-
 
 En la mina Caracol S.A.C, el ancho de la veta Cinthia no es uniforme, esto
 varia de 3-60cm de potencia para poder determinar el ancho promedio se suma
@@ -2736,19 +3005,13 @@ los limitan multiplicadas cada una por las longitudes consideradas (L), la
 sumatoria de estos productos se divide entre la sumatoria de las longitudes del
 periodo del block ósea:
 
+68
 
-
-
-                                                                              68
-                             Potencia media =
-
-
-
+Potencia media =
 
 4.6.4 Cálculo de área
 El área de los blocks se han determinado por procedimientos geométricos y
 resulta de multiplicar el largo por el alto de cada block.
-
 
 4.6.5 Cálculo de volumen
 Los volúmenes fueron determinados multiplicando el área obtenida de los
@@ -2757,68 +3020,130 @@ buzamiento, los blocks deben dibujarse sobre el plano de la veta. Los blocks
 regulares se multiplican lado por lado para obtener el área; en los irregulares se
 aplica el planímetro sobre una sección longitudinal a escala.
 
-
 Entonces el volumen del blocks se halla de la siguiente manera:
 
-
-                       Volumen =área * potencia media.
-
+Volumen =área * potencia media.
 
 Conociendo el peso específico del mineral, que ha sido obtenido por medios
 puramente geológicos, que para minera Caracol es de 2.65 se puede
 fácilmente calcular el tonelaje del block, entonces.
 
-
-                     Tonelaje = volumen *peso específico
-
+Tonelaje = volumen *peso específico
 
 Las reservas del mineral se deben calcular sobre la base de toneladas métricas
 secas (T.M.S).
 
-
 Ejemplo:
 
+69
 
+block a-21
 
+L. (gr) Au
+L. (oz) Ag
+L. (%) Pb
+Potencia
+L.*p (Au)
+L.*p (Ag)
+L.*p (Pb)
+(∑L.*p)/∑p Au (∑L.*p)/∑p Ag (∑L.*p)/∑p Pb
+55,27
+9,84
+0
+0,4
+22,108
+3,936
+0
+0,66
+11,38
+0,09
+0,2
+0,132
+4,552
+0,036
+41,28
+11,02
+0,17
+0,2
+8,256
+4,408
+0,068
+11,32
+2,19
+0,12
+0,1
+1,132
+0,657
+0,036
+11,97
+6,3
+0,41
+0,1
+1,197
+0,63
+0,041
+43,3
+4,58
+0,19
+0,2
+8,66
+1,374
+0,057
+7,32
+0,37
+0,04
+0,2
+1,464
+0,074
+0,008
+suma de ley
+171,12
+45,68
+1,02
+1,4
+42,949
+15,631
+0,246
+30,67785714
+11,165 0,175714286
+promedio de ley 24,4457143 6,52571429 0,14571429
+0,2 6,13557143
+2,233 0,03514286
+1
+2
+3
+4
+5
+6
+7
 
-                                                                               69
-block a-21     L. (gr) Au     L. (oz) Ag     L. (%) Pb     Potencia     L.*p (Au)    L.*p (Ag)    L.*p (Pb)    (∑L.*p)/∑p Au (∑L.*p)/∑p Ag (∑L.*p)/∑p Pb
-              1         55,27          9,84              0          0,4       22,108        3,936            0
-              2          0,66         11,38           0,09          0,2        0,132        4,552        0,036
-              3         41,28         11,02           0,17          0,2        8,256        4,408        0,068
-              4         11,32          2,19           0,12          0,1        1,132        0,657        0,036
-              5         11,97            6,3          0,41          0,1        1,197         0,63        0,041
-              6          43,3          4,58           0,19          0,2         8,66        1,374        0,057
-              7          7,32          0,37           0,04          0,2        1,464        0,074        0,008
-suma de ley           171,12          45,68           1,02          1,4       42,949       15,631        0,246     30,67785714       11,165 0,175714286
-promedio de ley 24,4457143 6,52571429 0,14571429                    0,2 6,13557143          2,233 0,03514286
+Area
+L. Au
+L. Ag
+L. Pb
+P promedio
 
-                             Area              2698,07
-                             L. Au               30,67
-                             L. Ag               11,16
-                             L. Pb                0,17
-                             P promedio            0,2
-
+2698,07
+30,67
+11,16
+0,17
+0,2
 
 Cuadro Nº 4 ejemplo de cálculo de reservas
 
-
-
-
 4.6.6 Código de block
 
-
 Se describe le código de blocks de la siguiente manera:
-
-
 Mineral probado .- letra “A” y Nº 1, 2, 3,……. Color rojo.
 Mineral probable.- letra “B” y Nº 1, 2, 3,….... Color amarillo.
-Mineral prospectivo.- letra                          “C” y Nº 1, 2, 3,.….Color verde.
+Mineral prospectivo.- letra
 
+4.7
 
+“C” y Nº 1, 2, 3,.….Color verde.
 
+Tipo de yacimiento y distribución de la mineralización
 
-4.7          Tipo de yacimiento y distribución de la mineralización
 La mineralización ocurrió a profundidades intermedias y a temperaturas de
 moderado a alto, correspondiendo a la fase mesotermal. En cuanto a la
 profundidad de la estructura mineralizada, solo se tiene información de la veta
@@ -2826,17 +3151,14 @@ Cinthia y algo de Caracolito, esto por falta de laboreo, la veta Cinthia está
 suficientemente confirmado la presencia de mineral hasta el nivel 473,
 debiendo profundizar más.
 
-
 El yacimiento es un depósito de minerales epigenéticos, del tipo de relleno de
 fracturas, formadas a partir de soluciones mesotermales auríferas y
 argentíferas. Las vetas están controladas por un patrón de fracturamiento
 regional y muestran zonas de brecha, menas bandeada y diseminados que
 indican varios episodios de movimientos y relleno de fisuras.
 
+70
 
-
-
-                                                                                                                                                  70
 En las diferentes vetas como (Cinthia, Caracolito, Juana) la mineralización
 hipógena sufrió posteriores acciones de intemperizaciones que dieron lugar a
 productos supérgenos como (carbonatos, óxidos), propios de la zona de
@@ -2845,41 +3167,37 @@ oxidación, que es la más superficial y probablemente profundice unos 30 a
 son el atractivo para los informales cuyas labores son cortas y casi siempre
 ubicadas sobre los clavos.
 
-
 Debajo de la zona de enriquecimiento supérgeno, que esta de 30 a 50m de
 profundidad está la zona primaria o de sulfuros, con oro, plata, plomo y cobre,
 en lo cual se observa la disminución de leyes de oro y plata aumentando el
 cobre, el plomo también disminuye.
-
 
 Un estudio de la distribución de la mineralización en profundidad de la veta
 Cinthia será importante para definir las diferentes vetas que tengan las mismas
 características y probablemente este modelo puede ser trasladado a las otras
 estructuras aun no exploradas.
 
+4.8
 
-
-
-4.8   Principales estructuras mineralizadas
-
+Principales estructuras mineralizadas
 
 Las principales vetas ubicadas en la concesión Caracolito I y II son; Cinthia,
 Caracolito, Juana, Marilyn, Murciélago, Caral, La Arca, de todas estas
 estructuras lo única veta que trabaja minera Caracol S.A.C. Es la veta Cinthia y
 en menor % la veta Caracolito.
 
+4.9
 
-4.9   Método de explotación
+Método de explotación
+
 4.9.1 Corte relleno ascendente
-
-
 Este método se denomina también “Over Cut and Fill”. El minado en corte
 relleno es en forma de tajadas horizontales comenzando del fondo del tajo
 avanzando hacia arriba.
 El mineral roto es cargado y extraído completamente del tajo, cuando todo la
 tajada ha sido disparado, el volumen extraído es rellenado con material estéril
+71
 
-                                                                             71
 para el soporte de las cajas, proporcionando una plataforma mientras la
 próxima rebanada sea minada, el material de relleno puede ser de roca estéril
 proveniente de la labores de desarrollo en la mina y es distribuida
@@ -2907,21 +3225,34 @@ proveniente de los descajes de las rocas encajonantes del tajeo; los mismos
 que sirven de soporte de las cajas y piso para continuar con la perforación del
 siguiente ciclo.
 
-
 Condiciones de diseño
 Se puede aplicar en yacimientos:
-         -   Con buzamiento pronunciado >50°.
-         -   En cualquier depósito y terreno.
-         -   Con cajas medianamente competentes.
-         -   Las cajas del yacimiento pueden ser irregulares y no competentes.
-         -   El mineral debe tener buena ley.
+-
 
-                                                                                 72
-      -    Disponibilidad del material de relleno.
+Con buzamiento pronunciado >50°.
 
+-
+
+En cualquier depósito y terreno.
+
+-
+
+Con cajas medianamente competentes.
+
+-
+
+Las cajas del yacimiento pueden ser irregulares y no competentes.
+
+-
+
+El mineral debe tener buena ley.
+72
+
+-
+
+Disponibilidad del material de relleno.
 
 4.9.2 Sircado de veta.
-
 
 Consiste en destajar primero la roca estéril dejando la estructura mineralizada
 en una de las cajas favorables y más consistentes para que al menos se
@@ -2930,16 +3261,11 @@ luego disparar solo sobre mineral para así disminuir la dilución del mineral,
 luego de este proceso se emplea el relleno de la siguiente rebanada en
 ascenso.
 
-
-
-
 4.9.3 Ancho minado
-
 
 4.9.2.1 Cruceros: Esta labores son sub-horizontales con una pendiente de 5%
 que sirve para acarrar mineral, ventilación, servicios con un ancho minado de
 2.40 X 2.40m, y además no sirve como labores de exploración
-
 
 4.9.2.2 Galerías: A diferencia de los cruceros, las galerías se avanza siguiendo
 sobre veta, dejando en uno de los hastiales (izquierda). Se considera labores
@@ -2947,7 +3273,14 @@ subterránea sub-horizontales, de 2.40 X 2.40m, que sirve para exploraciones,
 vía de acceso para extracción, acceso de cubicación de las Reservas
 encontradas. La gradiente es con un promedio de 5 x 1000, cuneta de drenaje
 en el hastial izquierdo ingresando con una dimensión de 30 x 30 centímetros.
-4.9.2.3 Sub niveles:        Labores         subterráneas      sub-horizontales,
+4.9.2.3 Sub niveles:
+
+Labores
+
+subterráneas
+
+sub-horizontales,
+
 desarrolladas por encima de la galería, dejando un pilar de 3 metros. Labor
 ejecutada siguiendo la estructura/veta, “circando” el mineral, para su aporte en
 la producción de mineral.
@@ -2957,489 +3290,2234 @@ hacia arriba, con secciones de 1.50 x 1.50 metros de simple compartimiento, y
 cuales sirven para: Ventilación, servicios y accesos para personal, echaderos
 de mineral/desmonte. Cada chimenea de doble compartimiento se ejecutan a
 60 metros, a partir de la galería, establecidos dentro un determinado nivel,
+73
 
-                                                                               73
-   primeramente para ventilación, luego también nos servirá para delimitar los
-   blocks de las Reservas de mineral según su categoría: probados, probables. El
-   ciclo de minado consiste en: ventilación-limpieza-sostenimiento-perforación-
-   voladura.
+primeramente para ventilación, luego también nos servirá para delimitar los
+blocks de las Reservas de mineral según su categoría: probados, probables. El
+ciclo de minado consiste en: ventilación-limpieza-sostenimiento-perforaciónvoladura.
 
+INVENTARIO DE LEYES Y CÁLCULO DE RESERVAS
+NIVEL
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+695
+667
+667
+667
+667
+667
+667
+667
+667
+667
 
-   INVENTARIO DE LEYES Y CÁLCULO DE RESERVAS
-                     L. Au   L. Ag  L. Pb
-NIVEL   PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA    L*P Au     L*P (Ag)   L*P (Pb)
- 695      0+07.5    55,27    9,84     0     0,40       22,108     3,936         0
- 695      0+08.5     0,66    11,38   0,09   0,40       0,264      4,552      0,036
- 695      0+09.5    41,28    11,02   0,17   0,40       16,512     4,408      0,068
- 695      0+10.5    11,32    2,19    0,12   0,30       3,396      0,657      0,036
- 695      0+11.5    11,97     6,3    0,41   0,10       1,197       0,63      0,041
- 695      0+12.5     43,3    4,58    0,19   0,30       12,99      1,374      0,057
- 695      0+13.5     7,32    0,37    0,04   0,20       1,464      0,074      0,008
- 695      0+14.5     23,3    0,87    0,01   0,15       3,495      0,1305     0,0015
- 695      0+15.5     9,31    0,84     0     0,15       1,3965     0,126         0
- 695      0+16.5    14,64    3,43    0,27   0,15       2,196      0,5145     0,0405
- 695      0+17.5    22,63    12,33   1,03   0,10       2,263      1,233      0,103
- 695      0+18.5     0,26     5,1    0,14   0,10       0,026       0,51      0,014
- 695      0+19.5    40,63    3,59    0,12   0,15       6,0945     0,5385     0,018
- 695      0+20.5    46,14    6,33    0,13   0,80       36,912     5,064      0,104
- 695      0+21.5    20,64    4,57    0,17   0,15       3,096      0,6855     0,0255
- 695      0+22.5     9,98    1,66    0,01   0,10       0,998      0,166      0,001
- 695      0+23.5    30,62    1,28    0,05   0,50       15,31       0,64      0,025
- 695      0+24.5     5,33    7,85    0,41   0,50       2,665      3,925      0,205
- 695      0+25.5    62,91    7,17    0,3    0,20       12,582     1,434       0,06
- 695      0+26.5     33,3    1,82    0,07   0,35       11,655     0,637      0,0245
- 695      0+27.5    25,94    5,64    0,23   0,15       3,891      0,846      0,0345
- 695      0+28.5    10,65    6,06    0,52   0,15       1,5975     0,909      0,078
- 695      0+29.5    39,25     6,1    0,1    0,15       5,8875     0,915      0,015
- 695      0+30.5    76,57    3,09    0,24   0,15      11,4855     0,4635     0,036
- 695      0+31.5     7,98    2,75    0,02   0,31       2,4738     0,8525     0,0062
- 695      0+32.0    17,98    0,27    0,01   0,10       1,798      0,027      0,001
- 667       0+06     49,24    8,09    0,69   0,20       9,848      1,618      0,138
- 667      0+06.5    33,94    6,41    0,67   0,20       6,788      1,282      0,134
- 667       0+07     37,97    4,67    0,59   0,35      13,2895     1,6345     0,2065
- 667      0+07.5     8,65    7,08    0,67   0,10       0,865      0,708      0,067
- 667       0+08     26,36    4,96    0,59   0,10       2,636      0,496      0,059
- 667      0+08.5     8,27    12,51   1,08   0,20       1,654      2,502      0,216
- 667       0+09     12,64    7,42    0,92   0,15       1,896      1,113      0,138
- 667      0+09.5    38,58    19,09   1,45   0,10       3,858      1,909      0,145
- 667       0+10     11,81    6,89    0,72   0,20       2,362      1,378      0,144
+L. Au
+L. Ag
+L. Pb
+PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA
+0+07.5
+55,27
+9,84
+0
+0,40
+0+08.5
+0,66
+11,38
+0,09
+0,40
+0+09.5
+41,28
+11,02
+0,17
+0,40
+0+10.5
+11,32
+2,19
+0,12
+0,30
+0+11.5
+11,97
+6,3
+0,41
+0,10
+0+12.5
+43,3
+4,58
+0,19
+0,30
+0+13.5
+7,32
+0,37
+0,04
+0,20
+0+14.5
+23,3
+0,87
+0,01
+0,15
+0+15.5
+9,31
+0,84
+0
+0,15
+0+16.5
+14,64
+3,43
+0,27
+0,15
+0+17.5
+22,63
+12,33
+1,03
+0,10
+0+18.5
+0,26
+5,1
+0,14
+0,10
+0+19.5
+40,63
+3,59
+0,12
+0,15
+0+20.5
+46,14
+6,33
+0,13
+0,80
+0+21.5
+20,64
+4,57
+0,17
+0,15
+0+22.5
+9,98
+1,66
+0,01
+0,10
+0+23.5
+30,62
+1,28
+0,05
+0,50
+0+24.5
+5,33
+7,85
+0,41
+0,50
+0+25.5
+62,91
+7,17
+0,3
+0,20
+0+26.5
+33,3
+1,82
+0,07
+0,35
+0+27.5
+25,94
+5,64
+0,23
+0,15
+0+28.5
+10,65
+6,06
+0,52
+0,15
+0+29.5
+39,25
+6,1
+0,1
+0,15
+0+30.5
+76,57
+3,09
+0,24
+0,15
+0+31.5
+7,98
+2,75
+0,02
+0,31
+0+32.0
+17,98
+0,27
+0,01
+0,10
+0+06
+49,24
+8,09
+0,69
+0,20
+0+06.5
+33,94
+6,41
+0,67
+0,20
+0+07
+37,97
+4,67
+0,59
+0,35
+0+07.5
+8,65
+7,08
+0,67
+0,10
+0+08
+26,36
+4,96
+0,59
+0,10
+0+08.5
+8,27
+12,51
+1,08
+0,20
+0+09
+12,64
+7,42
+0,92
+0,15
+0+09.5
+38,58
+19,09
+1,45
+0,10
+0+10
+11,81
+6,89
+0,72
+0,20
 
-                                                                              74
-  667     0+10.5    0,66    2,16    0,21   0,15      0,099     0,324      0,0315
-  667     0+11.5   44,59    12,73   1,31   0,15      6,6885    1,9095     0,1965
-  667     0+12.5   45,92    8,12    0,77   0,10      4,592     0,812      0,077
-  667     0+13.5   17,31    13,04   1,06   0,20      3,462     2,608      0,212
-  667     0+14.5   37,95    6,32    0,72   0,20       7,59     1,264      0,144
-                    L. Au   L. Ag  L. Pb
- NIVEL PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA    L*P Au    L*P (Ag)   L*P (Pb)
-  667    0+15.5    88,46    11,9    0,95   0,20      17,692      2,38       0,19
-  667    0+15.7    43,99    12,22   1,2    0,20       8,798     2,444       0,24
-  667     0+16     14,99    0,59    0,09   0,10       1,499     0,059      0,009
-  667    0+16.5    70,56    11,59   1,11   0,10       7,056     1,159      0,111
-  667    0+16.7     31,3    3,55    0,54   0,10       3,13      0,355      0,054
-  625    0+01.5    17,301   13,18   0,95   0,50      8,6505      6,59      0,475
-  625     0+02     83,57    7,26    0,72   0,50      41,785      3,63       0,36
-  625     0+03     226,21   10,86   0,98   0,30      67,863     3,258      0,294
-  625    0+03.5    23,291   13,73   0,98   0,40      9,3164     5,492      0,392
-  625     0+04      9,32    15,98   1,07   0,30       2,796     4,794      0,321
-  625    0+04.5    17,998   10,47   1,16   0,45      8,0991     4,7115     0,522
-  625     0+05     143,72   12,94   1,06   0,30      43,116     3,882      0,318
-  625    0+05.5    4,661    7,41    1,15   0,35     1,63135     2,5935     0,4025
-  625     0+06     77,209   10,36   0,92   0,25     19,30225     2,59       0,23
-  625    0+06.5    0,073    8,47    1,2    0,20      0,0146     1,694       0,24
-  625     0+07     31,262   5,15    0,58   0,35     10,9417     1,8025     0,203
-  625    0+07.5    54,564   6,06    0,78   0,20     10,9128     1,212      0,156
-  625     0+08     197,3    10,58   1,2    0,20       39,46     2,116       0,24
-  625    0+08.5    76,564   7,73    0,84   0,40     30,6256     3,092      0,336
-  625    0+09.5    17,319   2,28    0,34   0,20      3,4638     0,456      0,068
-  625    0+10.5    11,309   1,05    0,24   0,23     2,60107     0,2415     0,0552
-  625    0+11.6    15,321   14,81   1,09   0,20      3,0642     2,962      0,218
-  625     0+12     22,326   7,39    0,93   0,10      2,2326     0,739      0,093
-  625    0+12.7    307,51   6,61    0,47   0,10      30,751     0,661      0,047
-  625     0+08     20,31    5,34    0,45   0,50      10,155      2,67      0,225
-  625     0+09     39,97    6,22    0,35   0,30      11,991     1,866      0,105
-TAJO 625  0+40     40,66    10,55   0,58   0,30      12,198     3,165      0,174
-SUBN625   0+08      7,33    5,02    0,53   0,35      2,5655     1,757      0,1855
- TAJO-
-  625     0+08     126,98   17,25   0,71   0,40      50,792      6,9      0,284
-  583     0+01     17,98    3,73    0,71   0,75      13,485    2,7975     0,5325
-  583    0+01.5    65,26    3,34    0,68   0,30      19,578    1,002      0,204
-  583     0+02     77,91    7,84    0,53   0,40      31,164    3,136      0,212
-  583    0+02.5    74,85    11,58   0,64   0,20      14,97     2,316      0,128
-  583     0+03     10,65    6,09    0,28   0,30      3,195     1,827      0,084
-  583    0+03.5    74,52    6,34    0,93   0,25      18,63     1,585      0,2325
-  583     0+04      0,39    4,33    0,74   0,30      0,117     1,299      0,222
-  583    0+04.5    10,66     4,8    0,63   0,25      2,665       1,2      0,1575
-  583     0+05     35,96    3,37    0,87   0,30      10,788    1,011      0,261
+L*P Au
+22,108
+0,264
+16,512
+3,396
+1,197
+12,99
+1,464
+3,495
+1,3965
+2,196
+2,263
+0,026
+6,0945
+36,912
+3,096
+0,998
+15,31
+2,665
+12,582
+11,655
+3,891
+1,5975
+5,8875
+11,4855
+2,4738
+1,798
+9,848
+6,788
+13,2895
+0,865
+2,636
+1,654
+1,896
+3,858
+2,362
 
-                                                                            75
-583       0+05.5    63,57    8,43    0,69   0,30     19,071    2,529      0,207
-583        0+06     24,62    4,77    0,02   0,50     12,31     2,385       0,01
-583       0+06.5    19,97    3,14    0,39   0,25     4,9925    0,785      0,0975
-583        0+07     45,94    3,89    0,36   0,25     11,485    0,9725      0,09
-583       0+07.5    49,26    9,12    0,23   0,20     9,852     1,824      0,046
-                     L. Au   L. Ag  L. Pb
-NIVEL   PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA   L*P Au    L*P (Ag)   L*P (Pb)
- 583       0+08     101,14   9,51    0,43   0,10      10,114    0,951      0,043
- 583      0+08.5     7,99    4,66    0,81   0,20      1,598     0,932      0,162
- 583       0+09     12,66    9,56    0,92   0,19      2,4054    1,8164     0,1748
- 583      0+09.5    21,31    0,32    0,59   0,15      3,1965    0,048      0,0885
- 583       0+10      9,32    6,16    0,51   0,15      1,398     0,924      0,0765
- 583      0+10.5     0,19    8,21    0,38   0,15      0,0285    1,2315     0,057
- 583       0+11     14,65    10,04   0,46   0,20       2,93     2,008      0,092
- 583      0+11.3     3,33    1,03    0,49   0,25      0,8325    0,2575     0,1225
- 583      0+11.5      0,2    1,04    0,47   0,10       0,02     0,104      0,047
- 583       0+12     14,65    6,07    0,52   0,20       2,93     1,214      0,104
- 583      0+12.5     0,19    9,44    0,62   0,20      0,038     1,888      0,124
- 583       0+13     55,88    9,69    0,54   0,10      5,588     0,969      0,054
- 583      0+13.5     0,05    1,41    0,53   0,35      0,0175    0,4935     0,1855
- 546       0+01      7,89    4,99    1,12   0,15      1,1835    0,7485     0,168
- 546       0+02      7,98    0,09    0,09   0,50       3,99     0,045      0,045
- 546       0+03     32,61    3,25    0,74   0,20      6,522      0,65      0,148
- 546       0+04      61,9    4,88    0,91   0,30      18,57     1,464      0,273
- 546       0+05     33,92    2,56    0,57   0,30      10,176    0,768      0,171
- 546       0+06     27,29    10,35   1,13   0,10      2,729     1,035      0,113
- 546       0+07      34,6     5,2    1,09   0,10       3,46      0,52      0,109
- 546       0+08      9,32    4,58    1,02   0,10      0,932     0,458      0,102
- 546       0+09       20     1,91    0,02   0,30         6      0,573      0,006
- 546       0+10     57,57    5,93    0,44   0,25     14,3925    1,4825      0,11
- 546       0+11     62,58    3,63    0,36   0,10      6,258     0,363      0,036
- 546       0+12     27,98    4,16    0,53   0,25      6,995      1,04      0,1325
- 546       0+13     31,29    8,52    0,93   0,30      9,387     2,556      0,279
- 546       0+14     36,61    19,6    1,26   0,20      7,322      3,92      0,252
- 546       0+15      0,66     3,3    0,46   0,15      0,099     0,495      0,069
- 546       0+16     107,96   5,18    0,23   0,20      21,592    1,036      0,046
- 546       0+17      0,06    0,43    0,42   0,25      0,015     0,1075     0,105
- 546       0+18       20     10,27   1,1    0,15         3      1,5405     0,165
- 546       0+19     12,97    2,45    0,58   0,24      3,1128    0,588      0,1392
- 546       0+20     68,84    8,73    0,78   0,20      13,768    1,746      0,156
- 546       0+21     26,39    4,93    0,12   0,10      2,639     0,493      0,012
- 546       0+22      0,05    1,01    0,14   0,40       0,02     0,404      0,056
- 546      0+173     23,97    2,53    0,19   0,30      7,191     0,759      0,057
- 511       0+09      3,32    3,02    0,21   0,30      0,996     0,906      0,063
- 511       0+08      3,33    2,88    0,34   0,30      0,999     0,864      0,102
+L*P (Ag)
+3,936
+4,552
+4,408
+0,657
+0,63
+1,374
+0,074
+0,1305
+0,126
+0,5145
+1,233
+0,51
+0,5385
+5,064
+0,6855
+0,166
+0,64
+3,925
+1,434
+0,637
+0,846
+0,909
+0,915
+0,4635
+0,8525
+0,027
+1,618
+1,282
+1,6345
+0,708
+0,496
+2,502
+1,113
+1,909
+1,378
 
+L*P (Pb)
+0
+0,036
+0,068
+0,036
+0,041
+0,057
+0,008
+0,0015
+0
+0,0405
+0,103
+0,014
+0,018
+0,104
+0,0255
+0,001
+0,025
+0,205
+0,06
+0,0245
+0,0345
+0,078
+0,015
+0,036
+0,0062
+0,001
+0,138
+0,134
+0,2065
+0,067
+0,059
+0,216
+0,138
+0,145
+0,144
+74
 
-                                                                            76
-511        0+02     21,96    1,44    0,94   0,60     13,176     0,864      0,564
-511        0+03     22,64    0,27    0,32   0,60     13,584     0,162      0,192
-511        0+04     70,56    5,35    0,38   0,30     21,168     1,605      0,114
-511        0+05     38,97    5,22    0,32   0,50     19,485     2,61        0,16
-511        0+06     47,94    8,14    0,38   0,25     11,985     2,035      0,095
-                     L. Au   L. Ag  L. Pb
-NIVEL   PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA   L*P Au    L*P (Ag)   L*P (Pb)
- 511       0+07       20     0,53    0,28   0,20         4      0,106      0,056
- 511      0+03.5      20     3,07    0,62   0,20         4      0,614      0,124
- 511      0+117     16,66     2,5    0,82   0,25      4,165     0,625      0,205
- 511       0+10      0,03    0,39    0,57   0,25      0,0075    0,0975     0,1425
- 511       0+11     25,97    5,45    0,53   0,15      3,8955    0,8175     0,0795
- 511       0+12      0,04    3,35    0,71   0,50       0,02     1,675      0,355
- 511       0+13      8,66    4,28    0,38   0,50       4,33      2,14       0,19
- 473       0+01     12,44    5,23    0,94   0,20      2,488     1,046      0,188
- 473       0+02      8,08     5,3    0,33   0,22      1,7776    1,166      0,0726
- 473       0+03     13,37     7,3    0,46   0,15      2,0055    1,095      0,069
- 473       0+04     17,41     4,2    0,61   0,10      1,741      0,42      0,061
- 473       0+05     38,87     3,5    0,12   0,13      5,0531    0,455      0,0156
- 473       0+06     41,05    5,432   1,01   0,12      4,926    0,65184     0,1212
- 473       0+07      69,4    5,432   1,02   0,12      8,328    0,65184     0,1224
- 473       0+08     37,32    5,66    0,51   0,17      6,3444    0,9622     0,0867
- 473       0+09     43,54     5,2    0,12   0,12      5,2248    0,624      0,0144
- 473       0+10     52,56     3,4    0,23   0,15      7,884      0,51      0,0345
- 473       0+11     34,83    3,26    0,24   0,20      6,966     0,652      0,048
- 473       0+12     35,14    4,63    0,34   0,20      7,028     0,926      0,068
- 473       0+13     31,41    4,98    0,32   0,10      3,141     0,498      0,032
- 473       0+14     32,03     5,3    0,09   0,14      4,4842    0,742      0,0126
- 473       0+15     28,612   2,67    0,53   0,20      5,7224    0,534      0,106
- 473       0+16      9,33    10,56   0,72   0,16      1,4928    1,6896     0,1152
- 473       0+17      7,77    5,67    0,83   0,12      0,9324    0,6804     0,0996
- 473       0+18     15,55    4,56    0,47   0,15      2,3325    0,684      0,0705
- 473       0+19     22,703   7,34    0,92   0,22     4,99466    1,6148     0,2024
- 473       0+20     19,59    7,54    0,76   0,50      9,795      3,77       0,38
- 473       0+21     12,13     9,6    0,67   0,30      3,639      2,88      0,201
- 473       0+22     16,12    3,45    0,10   0,15      2,418     0,5175     0,015
- 473       0+23     26,45    5,22    0,21   0,11      2,9095    0,5742     0,0231
- 473       0+24     28,92    5,23    0,50   0,40      11,568    2,092        0,2
- 473       0+25     34,83     4,7    0,31   0,16      5,5728    0,752      0,0496
- 473       0+26     31,72    4,57    0,24   0,15      4,758     0,6855     0,036
- 473       0+27     37,32      5     0,12   0,23      8,5836     1,15      0,0276
- 473       0+28     61,57    5,22    0,37   0,35     21,5495    1,827      0,1295
- 473       0+29     91,74    5,12    0,45   0,27     24,7698    1,3824     0,1215
- 473       0+30     60,02    15,7    0,47   0,40      24,008     6,28      0,188
- 473       0+31     30,17    6,12    0,36   0,25      7,5425     1,53       0,09
+667
+667
+667
+667
+667
 
+0+10.5
+0+11.5
+0+12.5
+0+13.5
+0+14.5
 
-                                                                            77
-473        0+32     27,68    9,33    0,39    0,80    22,144        7,464      0,312
-473        0+33     29,23     1,3    0,27    0,35   10,2305        0,455      0,0945
-473        0+34     40,43    3,34    0,28    0,57   23,0451        1,9038     0,1596
-473        0+35     65,31     4,6    0,19    0,30    19,593         1,38      0,057
-473        0+36     47,58    7,52    0,97    0,18    8,5644        1,3536     0,1746
-                     L. Au   L. Ag  L. Pb
-NIVEL   PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA   L*P Au       L*P (Ag)    L*P (Pb)
- 473       0+37     69,35    3,56    0,24    0,32    22,192        1,1392      0,0768
- 473       0+38     41,67    3,98    0,35    0,25   10,4175         0,995      0,0875
- 473       0+39     99,52    5,23    0,18    0,30    29,856         1,569      0,054
- 473       0+40     41,05    5,32    0,61    0,20     8,21          1,064      0,122
- 473       0+41     41,36    8,65    0,24    0,45    18,612        3,8925      0,108
- 473       0+42     59,71    3,67    0,28    0,25   14,9275        0,9175       0,07
- 473       0+43     22,39    5,44    0,31    0,42    9,4038        2,2848      0,1302
- 473       0+44     27,05    3,45    0,37    0,40     10,82         1,38       0,148
- 473       0+45     31,72    5,10    0,29    0,29    9,1988         1,479      0,0841
- 473       0+46     36,07    3,24    0,32    0,16    5,7712        0,5184      0,0512
- 473       0+47     49,44    4,12    0,39    0,20     9,888         0,824      0,078
- 473       0+48     60,64    3,56    0,69    0,50     30,32         1,78       0,345
- 473       0+49     42,91    6,32    0,92    0,13    5,5783        0,8216      0,1196
- 473       0+50      6,84    3,24    1,11    0,15     1,026         0,486      0,1665
- 473       0+51      7,46    3,40    0,73    0,15     1,119         0,51       0,1095
- 473       TOPE      5,28    5,10    0,87    0,20     1,056         1,02       0,174
-                                            46,73  1648,40163     277,77758      24,225
+0,66
+2,16
+0,21
+0,15
+44,59
+12,73
+1,31
+0,15
+45,92
+8,12
+0,77
+0,10
+17,31
+13,04
+1,06
+0,20
+37,95
+6,32
+0,72
+0,20
+L. Au
+L. Ag
+L. Pb
+NIVEL PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA
+667
+0+15.5
+88,46
+11,9
+0,95
+0,20
+667
+0+15.7
+43,99
+12,22
+1,2
+0,20
+667
+0+16
+14,99
+0,59
+0,09
+0,10
+667
+0+16.5
+70,56
+11,59
+1,11
+0,10
+667
+0+16.7
+31,3
+3,55
+0,54
+0,10
+625
+0+01.5
+17,301
+13,18
+0,95
+0,50
+625
+0+02
+83,57
+7,26
+0,72
+0,50
+625
+0+03
+226,21
+10,86
+0,98
+0,30
+625
+0+03.5
+23,291
+13,73
+0,98
+0,40
+625
+0+04
+9,32
+15,98
+1,07
+0,30
+625
+0+04.5
+17,998
+10,47
+1,16
+0,45
+625
+0+05
+143,72
+12,94
+1,06
+0,30
+625
+0+05.5
+4,661
+7,41
+1,15
+0,35
+625
+0+06
+77,209
+10,36
+0,92
+0,25
+625
+0+06.5
+0,073
+8,47
+1,2
+0,20
+625
+0+07
+31,262
+5,15
+0,58
+0,35
+625
+0+07.5
+54,564
+6,06
+0,78
+0,20
+625
+0+08
+197,3
+10,58
+1,2
+0,20
+625
+0+08.5
+76,564
+7,73
+0,84
+0,40
+625
+0+09.5
+17,319
+2,28
+0,34
+0,20
+625
+0+10.5
+11,309
+1,05
+0,24
+0,23
+625
+0+11.6
+15,321
+14,81
+1,09
+0,20
+625
+0+12
+22,326
+7,39
+0,93
+0,10
+625
+0+12.7
+307,51
+6,61
+0,47
+0,10
+625
+0+08
+20,31
+5,34
+0,45
+0,50
+625
+0+09
+39,97
+6,22
+0,35
+0,30
+TAJO 625
+0+40
+40,66
+10,55
+0,58
+0,30
+SUBN625
+0+08
+7,33
+5,02
+0,53
+0,35
+TAJO625
+0+08
+126,98
+17,25
+0,71
+0,40
+583
+0+01
+17,98
+3,73
+0,71
+0,75
+583
+0+01.5
+65,26
+3,34
+0,68
+0,30
+583
+0+02
+77,91
+7,84
+0,53
+0,40
+583
+0+02.5
+74,85
+11,58
+0,64
+0,20
+583
+0+03
+10,65
+6,09
+0,28
+0,30
+583
+0+03.5
+74,52
+6,34
+0,93
+0,25
+583
+0+04
+0,39
+4,33
+0,74
+0,30
+583
+0+04.5
+10,66
+4,8
+0,63
+0,25
+583
+0+05
+35,96
+3,37
+0,87
+0,30
 
-                 LEY
-        PROMEDIO=
-         (∑(L*P)/∑P)                        =        35,2750188 5,94430944 0,5184036
+0,099
+6,6885
+4,592
+3,462
+7,59
 
-                                          Oz de Au   1,13424498
+0,324
+1,9095
+0,812
+2,608
+1,264
 
+0,0315
+0,1965
+0,077
+0,212
+0,144
 
+L*P Au
+17,692
+8,798
+1,499
+7,056
+3,13
+8,6505
+41,785
+67,863
+9,3164
+2,796
+8,0991
+43,116
+1,63135
+19,30225
+0,0146
+10,9417
+10,9128
+39,46
+30,6256
+3,4638
+2,60107
+3,0642
+2,2326
+30,751
+10,155
+11,991
+12,198
+2,5655
 
+L*P (Ag)
+2,38
+2,444
+0,059
+1,159
+0,355
+6,59
+3,63
+3,258
+5,492
+4,794
+4,7115
+3,882
+2,5935
+2,59
+1,694
+1,8025
+1,212
+2,116
+3,092
+0,456
+0,2415
+2,962
+0,739
+0,661
+2,67
+1,866
+3,165
+1,757
 
-                                                                                78
-       4.10 Reservas minerales
+L*P (Pb)
+0,19
+0,24
+0,009
+0,111
+0,054
+0,475
+0,36
+0,294
+0,392
+0,321
+0,522
+0,318
+0,4025
+0,23
+0,24
+0,203
+0,156
+0,24
+0,336
+0,068
+0,0552
+0,218
+0,093
+0,047
+0,225
+0,105
+0,174
+0,1855
 
-NIVEL    CODIGO BLOCK   AREA m2 POT. MEDIA VOLUMEN P. ESPECIFICO T. M. S.     Onz. Au.       Onz. Ag      % Pb
-     473 BLOCK A-1       3615.05       0.32   1156.816       2.65 3065.5624             30.7         4.73      0.467
-     473 BLOCK A-2       3617.76        0.3   1085.328       2.65 2876.1192               30       4.248       0.477
-     473 BLOCK A-3       3712.21      0.314 1165.63394       2.65 3088.92994            55.3          5.8      0.385
-     473 BLOCK A-4       3594.73        0.3   1078.419       2.65 2857.81035           37.69         6.55      0.358
-     473 BLOCK A-5       6217.75       0.18   1119.195       2.65 2965.86675           15.99       4.022       0.557
-     473 BLOCK A-6       6344.49       0.16 1015.1184        2.65 2690.06376           35.49       6.901       0.293
-     473 BLOCK A-7      12596.51       0.19 2393.3369        2.65 6342.34279           34.64         5.82      0.474
-     546 BLOCK A-8       1214.19        0.3    364.257       2.65 965.28105            39.55       6.695       0.595
-     546 BLOCK A-9       1318.42       0.29   382.3418       2.65 1013.20577           39.06       4.824       0.358
-     546 BLOCK A-10      3134.56       0.29   909.0224       2.65 2408.90936           30.68         3.79      0.404
-     583 BLOCK A-11      7029.62       0.21 1476.2202        2.65 3911.98353           23.99       4.783       0.546
-     583 BLOCK A-12      6136.04       0.23 1411.2892        2.65 3739.91638           40.73         5.13      0.582
-     583 BLOCK A-13       5523.5       0.24    1325.64       2.65    3512.946          24.99       6.501       0.308
-     625 BLOCK A-14       754.62       0.26   196.2012       2.65 519.93318            54.72       5.108       0.536
-     625 BLOCK A-15       817.41       0.19   155.3079       2.65 411.565935            61.3         8.09      0.384
-     625 BLOCK A-16       743.51       0.22   163.5722       2.65 433.46633            42.53       7.005       0.481
-     667 BLOCK A-17      1279.81       0.25   319.9525       2.65 847.874125           26.06          5.8      0.662
-     667 BLOCK A-18      1274.95        0.2     254.99       2.65    675.7235          35.01         6.59      0.588
-     667 BLOCK A-19       604.83       0.17   102.8211       2.65 272.475915           21.82       9.499       0.909
-     667 BLOCK A-20      1280.95       0.12    153.714       2.65    407.3421          27.96       7.032        0.88
-     695 BLOCK A-21      2698.07       0.15   404.7105       2.65 1072.48283            30.7         5.03       0.65
-         TOTAL          73508.98      4.884 16633.8872            44079.8012     35.18619048         5.90 0.5187619
+50,792
+13,485
+19,578
+31,164
+14,97
+3,195
+18,63
+0,117
+2,665
+10,788
 
-                                                       TOTAL RESERVA PROBADA       44079.8012
+6,9
+2,7975
+1,002
+3,136
+2,316
+1,827
+1,585
+1,299
+1,2
+1,011
 
+0,284
+0,5325
+0,204
+0,212
+0,128
+0,084
+0,2325
+0,222
+0,1575
+0,261
+75
 
+583
+583
+583
+583
+583
+NIVEL
+583
+583
+583
+583
+583
+583
+583
+583
+583
+583
+583
+583
+583
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+546
+511
+511
 
+0+05.5
+0+06
+0+06.5
+0+07
+0+07.5
 
-   NIVEL         CÓDIGO BLOCK ÁREA(m2)      POTENCIA      P. ESPECIFICO T. M. S.
-           473   BLOCK B-1         26261.55          0.22             2.65  15310.4837
-           473   BLOCK B-2          1916.59          0.22             2.65  1117.37197
-           473   BLOCK B-3           464.18          0.22             2.65    270.61694
-           473   BLOCK B-4          1040.65          0.22             2.65    606.69895
-           473   BLOCK B-5         11501.59          0.22             2.65  6705.42697
-           473 BLOCK B-6                     4763.83                  0.22               2.65        2777.31289
-                TOTAL              45948.39                           0.22               2.65        26787.9114
-           TOTAL RESERVAS PROBABLE                                                                   26787.9114
+63,57
+8,43
+0,69
+0,30
+24,62
+4,77
+0,02
+0,50
+19,97
+3,14
+0,39
+0,25
+45,94
+3,89
+0,36
+0,25
+49,26
+9,12
+0,23
+0,20
+L. Au
+L. Ag
+L. Pb
+PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA
+0+08
+101,14
+9,51
+0,43
+0,10
+0+08.5
+7,99
+4,66
+0,81
+0,20
+0+09
+12,66
+9,56
+0,92
+0,19
+0+09.5
+21,31
+0,32
+0,59
+0,15
+0+10
+9,32
+6,16
+0,51
+0,15
+0+10.5
+0,19
+8,21
+0,38
+0,15
+0+11
+14,65
+10,04
+0,46
+0,20
+0+11.3
+3,33
+1,03
+0,49
+0,25
+0+11.5
+0,2
+1,04
+0,47
+0,10
+0+12
+14,65
+6,07
+0,52
+0,20
+0+12.5
+0,19
+9,44
+0,62
+0,20
+0+13
+55,88
+9,69
+0,54
+0,10
+0+13.5
+0,05
+1,41
+0,53
+0,35
+0+01
+7,89
+4,99
+1,12
+0,15
+0+02
+7,98
+0,09
+0,09
+0,50
+0+03
+32,61
+3,25
+0,74
+0,20
+0+04
+61,9
+4,88
+0,91
+0,30
+0+05
+33,92
+2,56
+0,57
+0,30
+0+06
+27,29
+10,35
+1,13
+0,10
+0+07
+34,6
+5,2
+1,09
+0,10
+0+08
+9,32
+4,58
+1,02
+0,10
+0+09
+20
+1,91
+0,02
+0,30
+0+10
+57,57
+5,93
+0,44
+0,25
+0+11
+62,58
+3,63
+0,36
+0,10
+0+12
+27,98
+4,16
+0,53
+0,25
+0+13
+31,29
+8,52
+0,93
+0,30
+0+14
+36,61
+19,6
+1,26
+0,20
+0+15
+0,66
+3,3
+0,46
+0,15
+0+16
+107,96
+5,18
+0,23
+0,20
+0+17
+0,06
+0,43
+0,42
+0,25
+0+18
+20
+10,27
+1,1
+0,15
+0+19
+12,97
+2,45
+0,58
+0,24
+0+20
+68,84
+8,73
+0,78
+0,20
+0+21
+26,39
+4,93
+0,12
+0,10
+0+22
+0,05
+1,01
+0,14
+0,40
+0+173
+23,97
+2,53
+0,19
+0,30
+0+09
+3,32
+3,02
+0,21
+0,30
+0+08
+3,33
+2,88
+0,34
+0,30
 
+19,071
+12,31
+4,9925
+11,485
+9,852
 
+2,529
+2,385
+0,785
+0,9725
+1,824
 
-   NIVEL       CÓDIGO BLOCK ÁREA (m2)      POTENCIA      P. ESPECIFICO T.M.S.
-           473 BLOCK C-1          34996.06          0.23            2.65   21330.0986
-           473 BLOCK C-2           4474.26          0.23            2.65   2727.06147
-           437 BLOCK C-3          13903.15          0.23            2.65   8473.96993
-           474 BLOCK C-4              4368          0.23            2.65      2662.296
-           TOTAL MINERAL INFERIDO                                           35193.426
+0,207
+0,01
+0,0975
+0,09
+0,046
 
+L*P Au
+10,114
+1,598
+2,4054
+3,1965
+1,398
+0,0285
+2,93
+0,8325
+0,02
+2,93
+0,038
+5,588
+0,0175
+1,1835
+3,99
+6,522
+18,57
+10,176
+2,729
+3,46
+0,932
+6
+14,3925
+6,258
+6,995
+9,387
+7,322
+0,099
+21,592
+0,015
+3
+3,1128
+13,768
+2,639
+0,02
+7,191
+0,996
+0,999
 
-   (Ver anexo: Lamina 13.-Plano de cálculo de reservas)
+L*P (Ag)
+0,951
+0,932
+1,8164
+0,048
+0,924
+1,2315
+2,008
+0,2575
+0,104
+1,214
+1,888
+0,969
+0,4935
+0,7485
+0,045
+0,65
+1,464
+0,768
+1,035
+0,52
+0,458
+0,573
+1,4825
+0,363
+1,04
+2,556
+3,92
+0,495
+1,036
+0,1075
+1,5405
+0,588
+1,746
+0,493
+0,404
+0,759
+0,906
+0,864
 
-                                                                                                          79
-                         CONCLUSIONES
+L*P (Pb)
+0,043
+0,162
+0,1748
+0,0885
+0,0765
+0,057
+0,092
+0,1225
+0,047
+0,104
+0,124
+0,054
+0,1855
+0,168
+0,045
+0,148
+0,273
+0,171
+0,113
+0,109
+0,102
+0,006
+0,11
+0,036
+0,1325
+0,279
+0,252
+0,069
+0,046
+0,105
+0,165
+0,1392
+0,156
+0,012
+0,056
+0,057
+0,063
+0,102
+76
 
+511
+511
+511
+511
+511
+NIVEL
+511
+511
+511
+511
+511
+511
+511
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+
+0+02
+0+03
+0+04
+0+05
+0+06
+
+21,96
+1,44
+0,94
+0,60
+22,64
+0,27
+0,32
+0,60
+70,56
+5,35
+0,38
+0,30
+38,97
+5,22
+0,32
+0,50
+47,94
+8,14
+0,38
+0,25
+L. Au
+L. Ag
+L. Pb
+PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA
+0+07
+20
+0,53
+0,28
+0,20
+0+03.5
+20
+3,07
+0,62
+0,20
+0+117
+16,66
+2,5
+0,82
+0,25
+0+10
+0,03
+0,39
+0,57
+0,25
+0+11
+25,97
+5,45
+0,53
+0,15
+0+12
+0,04
+3,35
+0,71
+0,50
+0+13
+8,66
+4,28
+0,38
+0,50
+12,44
+0+01
+5,23
+0,94
+0,20
+8,08
+0+02
+5,3
+0,33
+0,22
+13,37
+0+03
+7,3
+0,46
+0,15
+17,41
+0+04
+4,2
+0,61
+0,10
+38,87
+0+05
+3,5
+0,12
+0,13
+41,05
+0+06
+5,432
+1,01
+0,12
+69,4
+0+07
+5,432
+1,02
+0,12
+37,32
+0+08
+5,66
+0,51
+0,17
+43,54
+0+09
+5,2
+0,12
+0,12
+52,56
+0+10
+3,4
+0,23
+0,15
+34,83
+0+11
+3,26
+0,24
+0,20
+35,14
+0+12
+4,63
+0,34
+0,20
+31,41
+0+13
+4,98
+0,32
+0,10
+32,03
+0+14
+5,3
+0,09
+0,14
+28,612
+0+15
+2,67
+0,53
+0,20
+9,33
+0+16
+10,56
+0,72
+0,16
+7,77
+0+17
+5,67
+0,83
+0,12
+15,55
+0+18
+4,56
+0,47
+0,15
+22,703
+0+19
+7,34
+0,92
+0,22
+19,59
+0+20
+7,54
+0,76
+0,50
+12,13
+0+21
+9,6
+0,67
+0,30
+16,12
+0+22
+3,45
+0,10
+0,15
+26,45
+0+23
+5,22
+0,21
+0,11
+28,92
+0+24
+5,23
+0,50
+0,40
+34,83
+0+25
+4,7
+0,31
+0,16
+31,72
+0+26
+4,57
+0,24
+0,15
+37,32
+0+27
+5
+0,12
+0,23
+61,57
+0+28
+5,22
+0,37
+0,35
+91,74
+0+29
+5,12
+0,45
+0,27
+60,02
+0+30
+15,7
+0,47
+0,40
+30,17
+0+31
+6,12
+0,36
+0,25
+
+13,176
+13,584
+21,168
+19,485
+11,985
+
+0,864
+0,162
+1,605
+2,61
+2,035
+
+0,564
+0,192
+0,114
+0,16
+0,095
+
+L*P Au
+4
+4
+4,165
+0,0075
+3,8955
+0,02
+4,33
+2,488
+1,7776
+2,0055
+1,741
+5,0531
+4,926
+8,328
+6,3444
+5,2248
+7,884
+6,966
+7,028
+3,141
+4,4842
+5,7224
+1,4928
+0,9324
+2,3325
+4,99466
+9,795
+3,639
+2,418
+2,9095
+11,568
+5,5728
+4,758
+8,5836
+21,5495
+24,7698
+24,008
+7,5425
+
+L*P (Ag)
+0,106
+0,614
+0,625
+0,0975
+0,8175
+1,675
+2,14
+1,046
+1,166
+1,095
+0,42
+0,455
+0,65184
+0,65184
+0,9622
+0,624
+0,51
+0,652
+0,926
+0,498
+0,742
+0,534
+1,6896
+0,6804
+0,684
+1,6148
+3,77
+2,88
+0,5175
+0,5742
+2,092
+0,752
+0,6855
+1,15
+1,827
+1,3824
+6,28
+1,53
+
+L*P (Pb)
+0,056
+0,124
+0,205
+0,1425
+0,0795
+0,355
+0,19
+0,188
+0,0726
+0,069
+0,061
+0,0156
+0,1212
+0,1224
+0,0867
+0,0144
+0,0345
+0,048
+0,068
+0,032
+0,0126
+0,106
+0,1152
+0,0996
+0,0705
+0,2024
+0,38
+0,201
+0,015
+0,0231
+0,2
+0,0496
+0,036
+0,0276
+0,1295
+0,1215
+0,188
+0,09
+77
+
+473
+473
+473
+473
+473
+NIVEL
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+473
+
+27,68
+9,33
+0,39
+0,80
+22,144
+29,23
+1,3
+0,27
+0,35
+10,2305
+40,43
+3,34
+0,28
+0,57
+23,0451
+65,31
+4,6
+0,19
+0,30
+19,593
+47,58
+7,52
+0,97
+0,18
+8,5644
+L. Au
+L. Ag
+L. Pb
+PROGRESIVA (gr/TM) (onz/TM (%)/TM POTENCIA
+L*P Au
+69,35
+0+37
+3,56
+0,24
+0,32
+22,192
+41,67
+0+38
+3,98
+0,35
+0,25
+10,4175
+99,52
+0+39
+5,23
+0,18
+0,30
+29,856
+41,05
+0+40
+5,32
+0,61
+0,20
+8,21
+41,36
+0+41
+8,65
+0,24
+0,45
+18,612
+59,71
+0+42
+3,67
+0,28
+0,25
+14,9275
+22,39
+0+43
+5,44
+0,31
+0,42
+9,4038
+27,05
+0+44
+3,45
+0,37
+0,40
+10,82
+31,72
+0+45
+5,10
+0,29
+0,29
+9,1988
+36,07
+0+46
+3,24
+0,32
+0,16
+5,7712
+49,44
+0+47
+4,12
+0,39
+0,20
+9,888
+60,64
+0+48
+3,56
+0,69
+0,50
+30,32
+42,91
+0+49
+6,32
+0,92
+0,13
+5,5783
+6,84
+0+50
+3,24
+1,11
+0,15
+1,026
+7,46
+0+51
+3,40
+0,73
+0,15
+1,119
+5,28
+TOPE
+5,10
+0,87
+0,20
+1,056
+46,73
+1648,40163
+0+32
+0+33
+0+34
+0+35
+0+36
+
+LEY
+PROMEDIO=
+(∑(L*P)/∑P)
+
+=
+Oz de Au
+
+7,464
+0,455
+1,9038
+1,38
+1,3536
+
+0,312
+0,0945
+0,1596
+0,057
+0,1746
+
+L*P (Ag)
+1,1392
+0,995
+1,569
+1,064
+3,8925
+0,9175
+2,2848
+1,38
+1,479
+0,5184
+0,824
+1,78
+0,8216
+0,486
+0,51
+1,02
+277,77758
+
+L*P (Pb)
+0,0768
+0,0875
+0,054
+0,122
+0,108
+0,07
+0,1302
+0,148
+0,0841
+0,0512
+0,078
+0,345
+0,1196
+0,1665
+0,1095
+0,174
+24,225
+
+35,2750188 5,94430944 0,5184036
+1,13424498
+
+78
+
+4.10 Reservas minerales
+NIVEL
+CODIGO BLOCK
+473 BLOCK A-1
+473 BLOCK A-2
+473 BLOCK A-3
+473 BLOCK A-4
+473 BLOCK A-5
+473 BLOCK A-6
+473 BLOCK A-7
+546 BLOCK A-8
+546 BLOCK A-9
+546 BLOCK A-10
+583 BLOCK A-11
+583 BLOCK A-12
+583 BLOCK A-13
+625 BLOCK A-14
+625 BLOCK A-15
+625 BLOCK A-16
+667 BLOCK A-17
+667 BLOCK A-18
+667 BLOCK A-19
+667 BLOCK A-20
+695 BLOCK A-21
+TOTAL
+
+AREA m2 POT. MEDIA VOLUMEN P. ESPECIFICO T. M. S.
+Onz. Au.
+Onz. Ag
+% Pb
+3615.05
+0.32
+1156.816
+2.65 3065.5624
+30.7
+4.73
+0.467
+3617.76
+0.3
+1085.328
+2.65 2876.1192
+30
+4.248
+0.477
+3712.21
+0.314 1165.63394
+2.65 3088.92994
+55.3
+5.8
+0.385
+3594.73
+0.3
+1078.419
+2.65 2857.81035
+37.69
+6.55
+0.358
+6217.75
+0.18
+1119.195
+2.65 2965.86675
+15.99
+4.022
+0.557
+6344.49
+0.16 1015.1184
+2.65 2690.06376
+35.49
+6.901
+0.293
+12596.51
+0.19 2393.3369
+2.65 6342.34279
+34.64
+5.82
+0.474
+1214.19
+0.3
+364.257
+2.65 965.28105
+39.55
+6.695
+0.595
+1318.42
+0.29
+382.3418
+2.65 1013.20577
+39.06
+4.824
+0.358
+3134.56
+0.29
+909.0224
+2.65 2408.90936
+30.68
+3.79
+0.404
+7029.62
+0.21 1476.2202
+2.65 3911.98353
+23.99
+4.783
+0.546
+6136.04
+0.23 1411.2892
+2.65 3739.91638
+40.73
+5.13
+0.582
+5523.5
+0.24
+1325.64
+2.65
+3512.946
+24.99
+6.501
+0.308
+754.62
+0.26
+196.2012
+2.65 519.93318
+54.72
+5.108
+0.536
+817.41
+0.19
+155.3079
+2.65 411.565935
+61.3
+8.09
+0.384
+743.51
+0.22
+163.5722
+2.65 433.46633
+42.53
+7.005
+0.481
+1279.81
+0.25
+319.9525
+2.65 847.874125
+26.06
+5.8
+0.662
+1274.95
+0.2
+254.99
+2.65
+675.7235
+35.01
+6.59
+0.588
+604.83
+0.17
+102.8211
+2.65 272.475915
+21.82
+9.499
+0.909
+1280.95
+0.12
+153.714
+2.65
+407.3421
+27.96
+7.032
+0.88
+2698.07
+0.15
+404.7105
+2.65 1072.48283
+30.7
+5.03
+0.65
+73508.98
+4.884 16633.8872
+44079.8012
+35.18619048
+5.90 0.5187619
+TOTAL RESERVA PROBADA
+
+NIVEL
+473
+473
+473
+473
+473
+
+CÓDIGO BLOCK ÁREA(m2)
+POTENCIA
+P. ESPECIFICO T. M. S.
+BLOCK B-1
+26261.55
+0.22
+2.65
+15310.4837
+BLOCK B-2
+1916.59
+0.22
+2.65
+1117.37197
+BLOCK B-3
+464.18
+0.22
+2.65
+270.61694
+BLOCK B-4
+1040.65
+0.22
+2.65
+606.69895
+BLOCK B-5
+11501.59
+0.22
+2.65
+6705.42697
+
+473 BLOCK B-6
+
+NIVEL
+
+44079.8012
+
+4763.83
+
+0.22
+
+2.65
+
+2777.31289
+
+TOTAL
+45948.39
+TOTAL RESERVAS PROBABLE
+
+0.22
+
+2.65
+
+26787.9114
+26787.9114
+
+CÓDIGO BLOCK ÁREA (m2)
+POTENCIA
+P. ESPECIFICO T.M.S.
+473 BLOCK C-1
+34996.06
+0.23
+2.65
+21330.0986
+473 BLOCK C-2
+4474.26
+0.23
+2.65
+2727.06147
+437 BLOCK C-3
+13903.15
+0.23
+2.65
+8473.96993
+474 BLOCK C-4
+4368
+0.23
+2.65
+2662.296
+TOTAL MINERAL INFERIDO
+35193.426
+
+(Ver anexo: Lamina 13.-Plano de cálculo de reservas)
+79
+
+CONCLUSIONES
 
  El yacimiento de minera Caracol S.A.C. por su geología, mineralogía,
-  mineralización, paragénesis es un yacimiento hidrotermal-mesotermal.
-
+mineralización, paragénesis es un yacimiento hidrotermal-mesotermal.
  Dado que la veta Cinthia mineralógicamente se encuentra constituida
-  por Au Y Ag y algo de Pb la relación Au/Ag y Ag/Pb son de mucha
-  utilidad para poder determinar el sentido de los flujos mineralizantes.
-
+por Au Y Ag y algo de Pb la relación Au/Ag y Ag/Pb son de mucha
+utilidad para poder determinar el sentido de los flujos mineralizantes.
  Dada la existencia clara de tres anomalías en las curvas de cocientes
-  metálicos: una ubicada al SE, la segunda en la parte central y la tercera
-  en NW, se deduce que estos fueron los conductos mineralizantes
-  formadores de estas estructuras que los flujos siguen una dirección SE
-  hacia superficie.
-
+metálicos: una ubicada al SE, la segunda en la parte central y la tercera
+en NW, se deduce que estos fueron los conductos mineralizantes
+formadores de estas estructuras que los flujos siguen una dirección SE
+hacia superficie.
  Las veta trabajada por la empresa es Cinthia que ha sido rellenando con
-  minerales de Au, Ag y Pb las fallas y fracturas en rocas plutónicas de
-  composición intermedia (tonalitas y monzonitas).
-
+minerales de Au, Ag y Pb las fallas y fracturas en rocas plutónicas de
+composición intermedia (tonalitas y monzonitas).
 
  El presente cálculo de reservas comprende en forma detallada a la veta
-  Cinthia, las reservas de mineral probado son 44079.8012 T.M.S., el
-  mineral probable 26787.9114 T.M.S. y el mineral prospectivo es de
-  35193.426 T.M.S. con unas leyes de 35,275gr de Au, 5,944 oz de Ag y
-  0.518% de Pb.
+Cinthia, las reservas de mineral probado son 44079.8012 T.M.S., el
+mineral probable 26787.9114 T.M.S. y el mineral prospectivo es de
+35193.426 T.M.S. con unas leyes de 35,275gr de Au, 5,944 oz de Ag y
+0.518% de Pb.
 
+80
 
-
-
-                                                                        80
-                        RECOMENDACIONES
-
-
+RECOMENDACIONES
 
  Se recomienda desarrollar en el nivel 473 de la veta Cinthia hacia el NW
-  y hacia el SE con prioridad hacia el NW para poder evaluar el
-  comportamiento de la veta por debajo de las rocas andesiticas y
-  delimitar la estructura para poder evaluar las vetas Caral, Marilyn y
-  Juana.
-
+y hacia el SE con prioridad hacia el NW para poder evaluar el
+comportamiento de la veta por debajo de las rocas andesiticas y
+delimitar la estructura para poder evaluar las vetas Caral, Marilyn y
+Juana.
 
  Realizar un estudio de comparación de rentabilidad entre prolongar el
-  nivel 473 y profundizar la veta Cinthia en vertical sobre los clavos
-  mineralizados y posteriormente evaluar una cortada hacia las vetas
-  Juana y Marilyn.
-
+nivel 473 y profundizar la veta Cinthia en vertical sobre los clavos
+mineralizados y posteriormente evaluar una cortada hacia las vetas
+Juana y Marilyn.
 
  El yacimiento de minera caracol está rodeado de una serie de
-  afloramientos que no se conocen en profundidad; se debe hacer
-  reconocimiento por medio de perforaciones diamantinas para evaluar las
-  estructuras e incrementar aun las reservas.
-
+afloramientos que no se conocen en profundidad; se debe hacer
+reconocimiento por medio de perforaciones diamantinas para evaluar las
+estructuras e incrementar aun las reservas.
  En base a los resultados favorables en el nivel 473desarrollar el nivel
-  440 con galerías y chimeneas para incrementar las reservas en la mina
-  Caracol.
-
+440 con galerías y chimeneas para incrementar las reservas en la mina
+Caracol.
  Hay que tener en cuenta los controles de mineralización como
-  estructural, litológico, y alteraciones ya que son importantes en la
-  búsqueda de nuevos clavos mineralizados y también con los lazos
-  sigmoides que se presentan en el yacimiento.
+estructural, litológico, y alteraciones ya que son importantes en la
+búsqueda de nuevos clavos mineralizados y también con los lazos
+sigmoides que se presentan en el yacimiento.
 
+81
 
-
-
-                                                                       81
-                                  BIBLIOGRAFÍA
-
-
+BIBLIOGRAFÍA
 
 1.- BATEMAN, A. (1956) “Yacimientos minerales de rendimiento económico”
 Ed. Omega S.A.
 2.- BENAVIDES, V. (1956) “Cretácicos system in northern Perú”, vol. 108.
 Art.4, p
-3.-BELOUSOV, V.        (1974) Geología estructural” editorial MIR
+3.-BELOUSOV, V.
+
+(1974) Geología estructural” editorial MIR
 
 4.- BELLIDO, E. (1969). “Sinopsis de la geología del Perú” bol. 22 del
-
 Servicio de geología y minería
-
 5.- BILLINGS, M. P. (1972). “Geología estructural” EUDEBA
-
 6.- BETEJTIN, A. (1975). “Curso de mineralogía” segunda edición. Editorial
-
 MIR- Moscú
-
 7.- BOTT, B. (1926). “Algunos datos sobre la geología de Áncash”. Bol. Soc.
 Geol. Perú l.2.p. 45-74
-
 8.- CHACÓN, N. (1995). Inicios del paleógeno al neógeno ¨terciarios
 
+9.- COBBING, J.
+Oyón,
 
-9.- COBBING, J.       (1973). “Geología del cuadrángulo de Barranca, Ámbar,
-Oyón,      Huacho, Huaral y carta bol. Serv. Geol. Min. Met. Perú.
+(1973). “Geología del cuadrángulo de Barranca, Ámbar,
+
+Huacho, Huaral y carta bol. Serv. Geol. Min. Met. Perú.
+
 10.- COSSIO, A. (1964) Geología de los cuadrángulos de Santiago de Chuco y
 Santa Rosa. Com. Carta Geo. Nac. Bol. Nº 8
-
 11.- DANA, H. (1960) “Manual de mineralogía” ed. Reverte S.A.
-
 12.- DANA, E. (1976). “Tratado de mineralogía”. Editorial continental S.A.
-13.- DAVILA BURGA, J.           (1999).Diccionario geológico”. Primera edición.
-Impreso en INGEMMET lima.
+13.- DAVILA BURGA, J.
 
+(1999).Diccionario geológico”. Primera edición.
+
+Impreso en INGEMMET lima.
 14.- FLOYD, J. ( 2007)Efficient blasting techniques: special blasting
 techniques proceedings reno, nv 2007 pp. 60-80.
 
+82
 
-
-
-                                                                                  82
 15.- GAGLIUFFI, P. M.(1997).Alteraciones hidrotermales. Sociedad geológica
 USA.
-
 16.- GOODELL, ET AL. ( 1974)Interpretación de cocientes metálicos.
-
 17.- GORSHKOV-YAKUSHAVA (1970)Geología general. Editorial MIR.
+18.- HEINRICH, E.
 
-18.- HEINRICH, E.      (1970).Petrología microscópica. Editorial omega.
+(1970).Petrología microscópica. Editorial omega.
 
 19.- HUANG, W. T. (1968).“PETROLOGÍA” UTEHA
-
 20.- MC KINSTRY, H. (1970).“Geología de minas” ed. Omega
+21.- MEGARD, F.
 
-21.- MEGARD, F.       (1979).Estudio geológico de los andes del Perú central
+(1979).Estudio geológico de los andes del Perú central
+
 (Boletín nº 8 serie D INGEMMET
-
 22.- ORCHE GARCIA, E. (1999).Manual de evaluación de yacimientos
 minerales.
-
 23.- PALACIOS, O., CALDAS J., VELA CH. (1992).“Geología de los
 cuadrángulos de lima, Lurín, chancay, Chosica”, bol. Inst. Geol. Min. Metal.
 Perú No 43
-
 24.- PALACIOS MONCAYO, O. (1995).Geología del Perú. Boletín nº 55 serie
 a. Primera edición. Fimart S. A. Editores e impresores lima
-
 25.- PERALES, C. F. (1994).“glosario y tablas de correlación de las unidades
 estratigráficas del Perú”
-
 26.- PÉREZ-PUIG OBIETA, C.( TESIS)“investigación de los controles
 geológicos de la mineralización en veta esperanza Huachocolpa, Perú)”
+27.- PONZONI, N.
 
-27.- PONZONI, N.        (1980),Provincia metalogenética occidental y sus
+(1980),Provincia metalogenética occidental y sus
+
 mineralizaciones de Cu, Zn, Pb, Ag, W
+28.- SANCHES, A.
 
-28.- SANCHES, A.            (1994)Eventos magmáticos a través de tiempos
+(1994)Eventos magmáticos a través de tiempos
+
 geológicos
-
 29.- SANTOS, C. J. (2009) TESIS“Controles geológicos – estructurales de la
-mineralización aurífera en el sistema de vetas de la mina orión chala-
-Arequipa”
+mineralización aurífera en el sistema de vetas de la mina orión chalaArequipa”
+83
 
-                                                                               83
 30.-STEINMÜLLER, K.(1999)“Depósitos metálicos en el Perú su Metalogenia,
 sus modelos, su exploración y el medio ambiente”
 
-
 31.- TUMIALAN, P. H. (2003)Compendio de yacimientos minerales del Perú.
 INGEMMET, boletín nº 10, serie b
-
 32.- TUMIALAN, P. H. (1983)Fondo mineralógico, ley máxima y frente final de
 deposición de soluciones hidrotermales en yacimientos peruanos. V. Congreso
 peruano de geología
 
-
-
 REFERENCIAS EN EL INTERNET
  http://pt.wikipedia.org/w/index.php?oldid=16801300
+
 
-   concepto y origen de los yacimientos minerales, en
-    http://www.uclm.es/users/higueras/yymm/
+concepto y origen de los yacimientos minerales, en
+http://www.uclm.es/users/higueras/yymm/
 
-   KELLER GUIERRA, R. R. dispersión secundaria y determinación de
-    asociaciones geoquímicas en yacimientos polimetálicos emplazados en los
-    grupos goyllarisquisga y Calipuy región Ancash, en
-    http://ingemmet.gop.pe/publicaciones/
+
 
-   Yacimientos de tipo mesotermal,
-    http://es.calameo.com/books/0008201298b62884dd812
+KELLER GUIERRA, R. R. dispersión secundaria y determinación de
+asociaciones geoquímicas en yacimientos polimetálicos emplazados en los
+grupos goyllarisquisga y Calipuy región Ancash, en
+http://ingemmet.gop.pe/publicaciones/
 
-   Clasificación de los yacimientos minerales,
-    http://html.rincondelvago.com/yacimientos-hidrotermales.html
+
 
+Yacimientos de tipo mesotermal,
+http://es.calameo.com/books/0008201298b62884dd812
 
+
 
-   Yacimientos de tipo hidrotermal,
-    http://es.scribd.com/doc/63761641/Yacimientos-Hidrotermales.
+Clasificación de los yacimientos minerales,
+http://html.rincondelvago.com/yacimientos-hidrotermales.html
 
-   Características de los yacimientos hidrotermales,
-    https://www.google.com.pe/#q=yacimientos+de+tipo+hidrotermal.
+
 
-   Filones y minerales filonianos, depósitos hipotermales, mesotermales, y
-    epitermales.,
-    http://www.unalmed.edu.co/rrodriguez/LECTURAS/hidrotermalismo.htm
+Yacimientos de tipo hidrotermal,
+http://es.scribd.com/doc/63761641/Yacimientos-Hidrotermales.
 
+
 
+Características de los yacimientos hidrotermales,
+https://www.google.com.pe/#q=yacimientos+de+tipo+hidrotermal.
 
-                                                                              84
+
+
+Filones y minerales filonianos, depósitos hipotermales, mesotermales, y
+epitermales.,
+http://www.unalmed.edu.co/rrodriguez/LECTURAS/hidrotermalismo.htm
+
+84
+
 ANEXOS
 
+85
 
-
-
-         85
 

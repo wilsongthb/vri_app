@@ -1,34 +1,28 @@
-  UNIVERSIDAD NACIONAL DEL ALTIPLANO
-       FACULTAD DE INGENIERÍA ECONÓMICA
-  ESCUELA PROFESIONAL DE INGENIERÍA ECONÓMICA
-
-
-
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+FACULTAD DE INGENIERÍA ECONÓMICA
+ESCUELA PROFESIONAL DE INGENIERÍA ECONÓMICA
 
 “ANÁLISIS DE LA CALIDAD DE CARTERA CREDITICIA
-  DEL SCOTIABANK PERU S.A. – AGENCIA PUNO”
+DEL SCOTIABANK PERU S.A. – AGENCIA PUNO”
+TESIS
+PRESENTADO POR:
+Bach. NORIS SONIA QUISPE OHUA
 
-                      TESIS
+PARA OPTAR EL TITULO PROFESIONAL DE
 
+INGENIERO ECONOMISTA
+PROMOCION: 2012-I
+PUNO – PERÚ
+2013
 
-                 PRESENTADO POR:
-           Bach. NORIS SONIA QUISPE OHUA
-
-
-        PARA OPTAR EL TITULO PROFESIONAL DE
-
-           INGENIERO ECONOMISTA
-                 PROMOCION: 2012-I
-
-                   PUNO – PERÚ
-
-                       2013
 Area: Economía de la empresa y mercados
 Tema: Finanzas
-    DEDICATORIA
-      A mis queridos padres Nemesio Quispe
+
+DEDICATORIA
+A mis queridos padres Nemesio Quispe
 Salamanca y Filomena Ohua Torres por su sacrificio
-y apoyo incondicional     por que me dieron la
+y apoyo incondicional
+por que me dieron la
 oportunidad de estudiar y ser profesional. Al mismo
 tiempo quiero dedicar el presente, a mis queridos
 hermanos (as) Nancy Nora, Cesar, Bertha, Iván y a
@@ -36,4581 +30,4563 @@ mi compañero de vida, por el apoyo que me han
 brindado, por su aliento y apoyo moral e
 incondicional.
 
+Noris Sonia Quispe Ohua
 
+AGRADECIMIENTO
+-
 
+A MI PADRE celestial
 
-      Noris Sonia Quispe Ohua
-                              AGRADECIMIENTO
-
--   A MI PADRE celestial      dios por guiarme por el buen camino y por
+dios por guiarme por el buen camino y por
 
 concederme la vida.
+-
 
--   A mis queridos padres Nemesio Quispe Salamanca y Filomena Ohua
+A mis queridos padres Nemesio Quispe Salamanca y Filomena Ohua
 
-Torres   por su sacrificio y apoyo incondicional      por que me dieron la
+Torres
+
+por su sacrificio y apoyo incondicional
+
+por que me dieron la
 
 oportunidad de estudiar y ser profesional.
+-
 
--   A todos los Docentes de esta prestigiosa facultad de Ingeniería
+A todos los Docentes de esta prestigiosa facultad de Ingeniería
 
 Económica por compartir sus conocimientos y experiencia profesional
-
 durante el pregrado hacia mí persona.
+-
 
--   Al director de la presente tesis M.Sc. Nestor Collantes Menis, mi especial
+Al director de la presente tesis M.Sc. Nestor Collantes Menis, mi especial
 
 reconocimiento y gratitud por el asesoramiento y culminación del presente
-
 trabajo de investigación.
-
 - Finalmente a todas las personas quienes me brindaron información para la
-
 elaboración del presente trabajo, así también a todos los compañeros y
-
 amigos de la facultad de Ingeniería Económica.
 
+Noris Sonia Quispe Ohua
 
-
-
-                              Noris Sonia Quispe Ohua
-                         CONTENIDO
-
-
+CONTENIDO
 Lista de tablas
-
-
 Lista de figuras
-
-
 Lista de abreviaturas
-
-
 RESUMEN…………………………………………………………………………….10
-
-
 SUMMARY……………………………………………………………………………13
-
-
 INTRODUCCIÓN……………………………………………………………….……15
-
-
 CAPITULO I…………………………………………………………………………..18
+1.
 
+PLANTEAMIENTO DEL PROBLEMA……….……………………………..18
 
-1.     PLANTEAMIENTO DEL PROBLEMA……….……………………………..18
+1.1.
 
-1.1.   DESCRIPCIÓN DEL PROBLEMA………………………………………….18
+DESCRIPCIÓN DEL PROBLEMA………………………………………….18
 
-1.2.   ANTECEDENTES DE LA INVESTIGACIÓN……………………………...20
+1.2.
 
-1.3.   JUSTIFICACIÓN…………………………………………………..…………21
+ANTECEDENTES DE LA INVESTIGACIÓN……………………………...20
 
+1.3.
 
-1.4.   OBJETIVOS DE LA INVESTIGACIÓN…………………………………….22
+JUSTIFICACIÓN…………………………………………………..…………21
 
+1.4.
+
+OBJETIVOS DE LA INVESTIGACIÓN…………………………………….22
 
 CAPITULO II………………………………………………………………………….23
+2.
 
+MARCO TEÓRICO Y CONCEPTUAL……………………………………23
 
-2.     MARCO TEÓRICO Y CONCEPTUAL……………………………………23
+2.1.
 
+MARCO TEÓRICO…………………………………………………………..23
 
-2.1.   MARCO TEÓRICO…………………………………………………………..23
+2.2.
 
+MARCO CONCEPTUAL…………………………………………………….29
 
-2.2.   MARCO CONCEPTUAL…………………………………………………….29
+2.3.
 
+HIPÓTESIS DE LA INVESTIGACIÓN……………………………………..36
 
-2.3.   HIPÓTESIS DE LA INVESTIGACIÓN……………………………………..36
+2.4.
 
+ASPECTOS GLOBALES DEL SISTEMA FINANCIERO………….……..37
 
-2.4.   ASPECTOS GLOBALES DEL SISTEMA FINANCIERO………….……..37
-2.4.1.    GESTIÓN FINANCIERA Y RENTABILIDAD………….……….….…….37
+2.4.1.
 
+GESTIÓN FINANCIERA Y RENTABILIDAD………….……….….…….37
 
-2.4.2.    COBERTURA DE RIESGO…………..…………………………….……38
+2.4.2.
 
+COBERTURA DE RIESGO…………..…………………………….……38
 
-2.4.3.    CRÉDITOS CASTIGADOS………………..……...……..……………….38
+2.4.3.
 
+CRÉDITOS CASTIGADOS………………..……...……..……………….38
 
-2.4.4.    ÍNDICE DE GASTOS OPERATIVOS………….........……….…………39
+2.4.4.
 
+ÍNDICE DE GASTOS OPERATIVOS………….........……….…………39
 
-2.4.5.     MEDIDAS FINANCIERAS……………….………………………….......40
+2.4.5.
 
+MEDIDAS FINANCIERAS……………….………………………….......40
 
-2.4.6.    CICLO DE VIDA DE UNA EMPRESA………………..…….….…….….42
+2.4.6.
 
+CICLO DE VIDA DE UNA EMPRESA………………..…….….…….….42
 
-2.4.7.    ANÁLISIS DEL ENTORNO DE LA ECONOMÍA MUNDIAL 2011……43
+2.4.7.
 
+ANÁLISIS DEL ENTORNO DE LA ECONOMÍA MUNDIAL 2011……43
 
-2.4.8.    CARACTERÍSTICAS DEL ENTORNO FINANCIERO NAC. 201.…....47
+2.4.8.
 
+CARACTERÍSTICAS DEL ENTORNO FINANCIERO NAC. 201.…....47
 
-2.4.9.    ANÁLISIS DEL ENTORNO ECO. REGIONAL PUNO 2010 – 2011…51
+2.4.9.
 
+ANÁLISIS DEL ENTORNO ECO. REGIONAL PUNO 2010 – 2011…51
 
 CAPITULO III…………………………………………………………………………54
+3.
 
+MÉTODO DE LA INVESTIGACIÓN……..………….……………….……54
 
-3.       MÉTODO DE LA INVESTIGACIÓN……..………….……………….……54
+3.1.
 
+MÉTODO……………………………………………………………….….…54
 
-3.1.     MÉTODO……………………………………………………………….….…54
+3.2.
 
+METODOLOGÍA………………..……………………………………….….55
 
-3.2.     METODOLOGÍA………………..……………………………………….….55
+3.3.
 
-
-3.3.     TÉCNICAS ECONOMÉTRICAS Y ESTADÍSTICAS……………………..59
-
+TÉCNICAS ECONOMÉTRICAS Y ESTADÍSTICAS……………………..59
 
 CAPITULO IV…………………………………………………………………………64
+4.
 
+CARACTERÍSTICAS DE LA INSTITUCIÓN FINANCIERA …..….……..64
 
-4.       CARACTERÍSTICAS DE LA INSTITUCIÓN FINANCIERA …..….……..64
+4.1
 
+PRESENCIA MUNDIAL DE SCOTIABANK……………………….………64
 
-4.1      PRESENCIA MUNDIAL DE SCOTIABANK……………………….………64
+4.2.
 
+PRESENCIA DE SCOTIABANK EN EL PERÚ ……………….………….65
 
-4.2.     PRESENCIA DE SCOTIABANK EN EL PERÚ ……………….………….65
-4.3.     MISIÓN, VISIÓN Y VALORES CORPORATIVOS DE SCOTIABANK...66
+4.3.
 
+MISIÓN, VISIÓN Y VALORES CORPORATIVOS DE SCOTIABANK...66
 
-4.4      RESULTADOS FINANCIEROS DE SCOTIABANK EN EL 2009….…..68
+4.4
 
+RESULTADOS FINANCIEROS DE SCOTIABANK EN EL 2009….…..68
 
-4.5.     UNIDADES DE NEGOCIO DE SCOTIABANK………………………..….70
+4.5.
 
-4.6.     NUESTRA FUERZA LABORAL…………………………………….…..….76
+UNIDADES DE NEGOCIO DE SCOTIABANK………………………..….70
 
-4.7.     IMPORTANCIA DEL SERVICIO AL CLIENTE……………………..….…78
+4.6.
 
-4.8.     FUERZA LABORAL DE SCOTIABANK ……………………….….…..….79
+NUESTRA FUERZA LABORAL…………………………………….…..….76
 
-4.9.     RESEÑA HISTÓRICA DE SCOTIABANK………………………........…..79
+4.7.
 
+IMPORTANCIA DEL SERVICIO AL CLIENTE……………………..….…78
+
+4.8.
+
+FUERZA LABORAL DE SCOTIABANK ……………………….….…..….79
+
+4.9.
+
+RESEÑA HISTÓRICA DE SCOTIABANK………………………........…..79
 
 CAPITULO V………………………………………………………………………….81
+5.
 
+RESULTADOS Y DISCUSIÓN………………………………..…………....81
 
-5.       RESULTADOS Y DISCUSIÓN………………………………..…………....81
+5.1
 
-5.1      ANÁLISIS DEL GRADO DE CONTAMINACIÓN…………………....…...81
+ANÁLISIS DEL GRADO DE CONTAMINACIÓN…………………....…...81
 
-5.1.1    ANÁLISIS DE LOS RESULTADOS DEL MODELO TEÓRICO…….....81
+5.1.1
 
-5.1.2     ANÁLISIS ECONOMÉTRICO Y EST. DEL MODELO DEFINITIVO….83
+ANÁLISIS DE LOS RESULTADOS DEL MODELO TEÓRICO…….....81
 
-5.2.     ANÁLISIS DEL COMPORTAMIENTO DE RENTABILIDAD………....…87
+5.1.2
 
-5.2.A.    ENFOQUE DEL NIVEL DE RENTABILIDAD DE SCOTIABANK…….87
+ANÁLISIS ECONOMÉTRICO Y EST. DEL MODELO DEFINITIVO….83
 
-5.2.B.    ANÁLISIS DE LOS RESULTADOS EST. Y ECONOMÉTRICOS……88
+5.2.
 
+ANÁLISIS DEL COMPORTAMIENTO DE RENTABILIDAD………....…87
 
-5.2.C.    ANÁLISIS ECONOMÉTRICO Y EST. DEL MODELO DEFINITIVO….89
+5.2.A.
 
+ENFOQUE DEL NIVEL DE RENTABILIDAD DE SCOTIABANK…….87
+
+5.2.B.
+
+ANÁLISIS DE LOS RESULTADOS EST. Y ECONOMÉTRICOS……88
+
+5.2.C.
+
+ANÁLISIS ECONOMÉTRICO Y EST. DEL MODELO DEFINITIVO….89
 
 CONCLUSIONES……………………………………………….……………….…..97
-
-
 RECOMENDACIONES………………………………………………………….…..99
-
-
 BIBLIOGRAFÍA……………………………………………………………………..100
-
-
 ANEXOS……………………………………………………………………………..102
-                              LISTA DE TABLAS
 
-
-
+LISTA DE TABLAS
 
 Cuadro Nº 1: Principales Indicadores financieros y operativos…………………68
-
 Cuadro Nº 2: Indicadores económicos de Scotiabank periodo 2008-2009…...69
-
 Cuadro Nº 3: Segmentos atendidos de la cartera de clientes……………….....71
-
 Cuadro Nº4: Cartera de clientes atendidos……………………………………….72
-
 Cuadro Nº 5: Número de clientes atendidos ……………………………………..73
-
 Cuadro Nª6: Fuerza laboral de Scotiabank……………………………………….77
-                              LISTA DE FIGURAS
 
-
-
+LISTA DE FIGURAS
 
 Gráfico Nº 1: Costo total del crédito………………………………………………..39
-
 Gráfico Nº2: Ciclo de vida de una empresa……………………………………….42
-
 Gráfico Nº3: Tendencia de indicadores del sistema bancario peruano………..49
-
 Gráfico Nº4: Nivel de dolarización del crédito y depósitos……….…….……….50
-
 Gráfico Nº5: Diferentes niveles de canales de atención………………….……..74
-
 Grafico Nª6: número de transacciones de línea…………………………….……76
-
 Gráfico Nº 7: Fuerza laboral por género y ubicación geográfica……….….……77
-
 Gráfico Nº8: Wald test morosidad………………………………………………….94
-
 Gráfico Nº9: Wald test Rentabilidad……………………………………………….96
-                               LISTA DE ABREVIATURAS
 
+LISTA DE ABREVIATURAS
 MOR: Morosidad
-
-
 R: Rentabilidad
-
-
 PBI: Producto Bruto Interno
-
-
 TIAS: tasa de interés activa
-
-
 TIPS: tasa de interés pasiva
-
-
 COLS: saldo de colocaciones
-
-
 SD: saldo de depósitos
-
-
 NC: número de clientes
-                                  RESUMEN
 
-
+RESUMEN
 El presente trabajo de investigación de tesis denominado “ANÁLISIS DE LA
-
 CALIDAD DE CARTERA CREDITICIA DEL SCOTIABANK PERU S.S.A. –
-
 AGENCIA PUNO”; es un estudio del comportamiento del nivel y tendencias de la
-
 calidad de cartera expresada a través del grado de contaminación del mismo y su
-
 repercusión en el nivel de rentabilidad financiera de la empresa. La investigación
-
 busca analizar el comportamiento de cada una de las variables explicativas
-
 propuestas en el modelo, los mismos que explican el comportamiento de la
-
 morosidad y sus efectos en la calidad de la cartera de créditos de SCOTIABANK.
+El tema central es el análisis
+SCOTIABANK,
 
+dado
 
-      El tema central es el análisis        de la gestión de calidad de cartera de
+que
 
-SCOTIABANK,      dado   que   hoy     por   hoy   las   instituciones   financieras   de
+hoy
+
+por
+
+de la gestión de calidad de cartera de
+hoy
+
+las
+
+instituciones
+
+financieras
+
+de
 
 intermediación han desarrollado y mantienen una cartera de créditos de muy alta
-
 calidad apoyados en el uso de tecnología crediticia de última generación, es así
-
 que los bancos por lo general son superiores a la hora de mantener una alta
-
 calidad de cartera tanto en colocaciones como recuperaciones. El coeficiente más
-
 utilizado para medir la calidad de la cartera en la empresa es la denominada
-
 cartera en alto riesgo o morosidad.
-
-
-      El presente trabajo de investigación está estructurado en cinco capítulos y
-
+El presente trabajo de investigación está estructurado en cinco capítulos y
 estos son: en el primer capítulo, se desarrolla la identificación y el planteamiento
-
 del problema, así como los antecedentes de la investigación y los objetivos
-
 generales y específicos propuestos para su desarrollo.
-
-
 En el segundo capítulo, se discuten y analizan el marco teórico, conceptual así
-
 como aspectos relacionados a la gestión financiera y rentabilidad. Seguidamente le
 
+10
 
-
-                                                                                 10
 capitulo tres presento el método y la metodología utilizada para el desarrollo de la
-
 presente investigación. El cuarto capítulo presenta las características de la
-
 institución financiera objeto del estudio el, mismo que para su análisis e
-
 interpretación se apoya en aspectos como la presencia mundial de SCOTIABANK,
-
 la presencia de SCOTIABANK en el Perú. Finalmente en el quinto capítulo
-
 presento los resultados y discusión de los resultados finales alcanzados por la
-
 investigación. Con lo que logro demostrar las hipótesis propuestas para la presente
-
 investigación. El presente capítulo contempla dos aspectos centrales:
-
-
-      Análisis del grado de contaminación de la cartera crediticia (morosidad) de
-
+Análisis del grado de contaminación de la cartera crediticia (morosidad) de
 SCOTIABANK – Agencia Puno
-
-
-      De los resultados obtenidos del modelo definitivo de la morosidad que está
-
+De los resultados obtenidos del modelo definitivo de la morosidad que está
 en función de todas las variables como son el Producto bruto Interno (PBI) tasa
-
 de interés activa en soles (TIAS) tasa de interés pasiva en soles (TIPS) saldo de
-
 colocaciones en soles (COLS) saldo de depósitos en soles (SD) número de clientes
-
 (NC); nos da como resultado que en un incremento de 1% del Producto Bruto
-
 Interno (PBI) la tasa de Morosidad disminuirá en 0.6%, al mismo tiempo si la
+Tasa de interés activa (TIAS) aumenta en 1%
 
-Tasa de interés activa (TIAS) aumenta en 1%             la tasa de morosidad se
+la tasa de morosidad se
 
 incrementara en 0.34% actuando esta variable de manera inversa respecto a la
-
 morosidad.
-
-
-      La utilidad práctica de los resultados de la investigación radica en servir
-
+La utilidad práctica de los resultados de la investigación radica en servir
 como insumo para la toma de decisiones en la empresa tales como el diseño de
-
 nuevas políticas de crédito en la gestión de riesgo de crédito, reorientar la gestión
-
 administrativa estructurar nuevas estrategias más eficientes en la cartera activa y
 
+11
 
-
-
-                                                                              11
 pesada que sean conducentes a la mejora de los diversos indicadores financieros
-
 entre otros.
-
-
-      De otro lado se presenta las conclusiones y recomendaciones a los que se
-
+De otro lado se presenta las conclusiones y recomendaciones a los que se
 arribaron luego de un análisis y discusión minuciosa de sus resultados.
-
-
-      Palabras claves: utilidad, resultados, morosidad, interés, variable, cliente,
-
+Palabras claves: utilidad, resultados, morosidad, interés, variable, cliente,
 calidad, crédito, indicadores, finanzas.
 
+12
 
-
-
-                                                                            12
-                                   SUMMARY
-
-
+SUMMARY
 The present research thesis entitled "ANALYSIS OF CREDIT PORTFOLIO
-
 QUALITY OF PERU SSA SCOTIABANK - PUNO AGENCY ", is a study of the
-
 behavior of the level and trends in portfolio quality expressed through the same
-
 degree of pollution and its impact on the level of financial performance of the
-
 company. The research aims to analyze the behavior of each of the explanatory
-
 variables proposed in the model, explaining them the default behavior and its
-
 effects on the quality of the loan portfolio SCOTIABANK.
-
-
-      The central theme is the analysis of quality management SCOTIABANK
-
+The central theme is the analysis of quality management SCOTIABANK
 portfolio, given that today intermediary financial institutions have developed and
-
 maintain a loan portfolio of high quality supported by the use of credit-art
-
 technology, is so banks are usually higher than in maintaining a high quality
-
 portfolio both in loans and recoveries.
-
-
-      The coefficient used to measure the quality of the portfolio in the portfolio
-
+The coefficient used to measure the quality of the portfolio in the portfolio
 company is called high-risk or default The present research work is divided into five
-
 chapters and these are: in the first chapter, is developed to identify and approach
-
 the problem as well as the background of the research and general and specific
-
 objectives proposed for development.
-
-
-      In the second chapter, we discuss and analyze the theoretical, and
-
+In the second chapter, we discuss and analyze the theoretical, and
 conceptual aspects related to financial management and profitability, on the same
-
 topics include vital as financial measures. Third chapter will then present the
-
 method and the methodology used for the development of this research. The fourth
-
 chapter presents the characteristic of the financial institution of the study object,
 
+13
 
-
-                                                                              13
 same as for analysis and interpretation is based on aspects such SCOTIABANK
-
 global presence, the presence of SCOTIABANK in Peru. Finally in the fifth chapter I
-
 present the results and discussion of the final results achieved by research, which
-
 demonstrate achievement hypotheses for this research. This chapter covers two
-
 aspects: Analysis of the degree of contamination of the loan portfolio (past due)
-
 SCOTIABANK Puno Agency
 
-
-
-
-       From the results of the final model of default that is a function of all the
-
+From the results of the final model of default that is a function of all the
 variables such as the Gross Domestic Product (GDP) lending rate in soles (TIAS)
-
 deposit rate in soles (TIPS) placements balance soles (COLS) deposit balance in
-
 soles (SD) number of customers (NC) gives results in an increase of 1% of gross
-
 domestic product (GDP) Delinquency rates will decline by 0.6%, while if the Lending
-
 rate (TIAS) increases by 1% default rate will increase by 0.34% this variable acting
-
 in reverse for late payments.
-
-
-       The practical utility of the results of the research is to serve as input for
-
+The practical utility of the results of the research is to serve as input for
 decision-making in the company such as the design of new credit policies to
-
 manage credit risk, redirecting administrative structure more efficient new strategies
-
 in the active portfolio and heavy that are conducive to the improvement of various
-
 financial indicators among others.
-
-
-       On the other hand it presents the conclusions and recommendations which
-
+On the other hand it presents the conclusions and recommendations which
 arrived after a thorough analysis and discussion of results
-
-
-       Keys words: Useful results, delinquency, interest, variable, customer, quality,
-
+Keys words: Useful results, delinquency, interest, variable, customer, quality,
 credit, indicators, finance.
 
+14
 
+INTRODUCCIÓN
+Las
 
-                                                                               14
-                                INTRODUCCIÓN
+características
 
+del
 
-Las   características   del   sistema   financiero   peruano   desempeñan    un    rol
+sistema
+
+financiero
+
+peruano
+
+desempeñan
+
+un
+
+rol
 
 preponderante en el desarrollo de la economía, por lo que el contar con
-
 instituciones sólidas y solventes permiten que los recursos financieros fluyan
-
 eficientemente de los agentes superavitarios hacia los agentes deficitarios,
-
 permitiendo que se aprovechen las oportunidad de negocios y de consumo.
-
-
-       Por otro lado, el sector financiero se viene desarrollando rápidamente
-
+Por otro lado, el sector financiero se viene desarrollando rápidamente
 gracias a la dinámica cada vez más intensa del mercado, que exige mayor
-
 especialización y profesionalismo en el ramo dado el contexto globalizado,
-
 hipersegmentado e hipercompetitivo que son las características del mercado actual
-
 en el que se desenvuelve SCOTIABANK, a ello se suma un entorno favorable en
-
 varios aspectos que benefician a SCOTIABANK tales como: el crecimiento
-
 económico, disminución de la pobreza, facilidades de acceso al crédito y micro
-
 crédito, la dinámica y la expansión de la economía así como la sostenida demanda
-
 por los servicios financieros entre otros.
-
-
-       El desarrollo dinámico ejercido por el sector bancario y la consecuente
-
+El desarrollo dinámico ejercido por el sector bancario y la consecuente
 mayor confianza depositada en los clientes por parte de las instituciones
-
 financieras de intermediación indirecta, lo que conlleva implícita un riesgo
-
 creciente, por lo que se hace necesario conocer la gestión de la calidad de cartera
-
 de créditos, a partir de sus diferentes indicadores de calidad, lo cual es un campo
-
 crucial del análisis financiero y micro financiero dado que la mayor fuente de riesgo
-
 de SCOTIABANK reside en su cartera de créditos; además, la cartera de créditos
-
 es el mayor activo de la institución.
 
+15
 
-
-
-                                                                              15
-      El presente trabajo de investigación, identifica una problemática central en
-
+El presente trabajo de investigación, identifica una problemática central en
 un contexto competitivo e hipersegmentado, un alto nivel de competencia en el
-
 sector, sobre endeudamiento, competencia desleal, así como una sobre oferta de
-
 créditos por las instituciones micro financieras.
+•
 
+Alta competencia en el sector financiero y micro financiero y el consecuente
 
-  •   Alta competencia en el sector financiero y micro financiero y el consecuente
+deterioro de la calidad de cartera. Alto nivel de sobre endeudamiento de los
+clientes.
+•
 
-  deterioro de la calidad de cartera. Alto nivel de sobre endeudamiento de los
+Alta contaminación de la cartera de alto riesgo
 
-  clientes.
+•
 
-
-  •   Alta contaminación de la cartera de alto riesgo
-
-
-  •   Elevados niveles de índice de riesgo moral que se traduce en la morosidad.
-
+Elevados niveles de índice de riesgo moral que se traduce en la morosidad.
 
 Las razones antes mencionadas son el principal problema no solo de Scotiabank
-
 Perú sino también de todas las entidades financieras que trabajan frente al alto
-
 riesgo de la morosidad y el nivel de endeudamiento de sus clientes. Por estos
-
 motivos es que se decide realizar el presente trabajo de investigación que será de
+gran utilidad no solo para
 
-gran utilidad no solo para     Scotiabank Perú sino también para otras entidades
+Scotiabank Perú sino también para otras entidades
 
 financieras como referencia para hacer frente a la morosidad.
-
-
 Luego de haber desarrollado satisfactoriamente los objetivos específicos del
-
 presente trabajo de investigación, se llegó a conclusiones muy importantes y dentro
-
 de ello se destaca el siguiente:
-
-
-      El modelo definitivo en sus resultados estadísticos y econométricos concluye
-
+El modelo definitivo en sus resultados estadísticos y econométricos concluye
 que se tiene buen ajuste del modelo, expresado en el coeficiente de determinación
-
 R2 que es de 0.97 y una FC de 589.75 así como una probabilidad estadístico de
-
 0.00, lo que significa que las variables exógenas, explican significativamente en
 
+16
 
-
-
-                                                                             16
 conjunto e individualmente a la morosidad que es la variable endógena; así como el
-
 nivel de Fc, concluye que las variables explicativas explican positivamente en forma
-
 conjunta a la morosidad.
-
-
-      El estadística de Durbin Watson (D.W.) concluye que no existe problemas de
-
+El estadística de Durbin Watson (D.W.) concluye que no existe problemas de
 auto correlación ni positiva y negativa ya que cae dentro de la región de
-
 aceptación, con un coeficiente de 1.49.
 
+17
 
-
-
-                                                                             17
-                                 CAPITULO I:
-
+CAPITULO I:
 1. PLANTEAMIENTO DEL PROBLEMA
+1.1.
 
-  1.1.     DESCRIPCIÓN DEL PROBLEMA
+DESCRIPCIÓN DEL PROBLEMA
 
- El sistema financiero juega    un rol fundamental en el financiamiento de la
+El sistema financiero juega
 
- economía, las instituciones financieras sólidas y solventes   permiten que los
+un rol fundamental en el financiamiento de la
 
- recursos financieros fluyan eficientemente desde los agentes superavitarios a
+economía, las instituciones financieras sólidas y solventes
 
- los agentes deficitarios, permitiendo que se aprovechen las oportunidades de
+permiten que los
 
- negocios y consumo, haciendo que los costos financieros sean cada vez
+recursos financieros fluyan eficientemente desde los agentes superavitarios a
+los agentes deficitarios, permitiendo que se aprovechen las oportunidades de
+negocios y consumo, haciendo que los costos financieros sean cada vez
+menos.
+Es así que, en la presente década se ha incrementado el interés de las
+micro y pequeñas empresas
+herramienta de lucha
 
- menos.
+principalmente por incorporar al
 
-     Es así que, en la presente década se ha incrementado el interés de las
+contra la pobreza
 
- micro y pequeñas empresas       principalmente por incorporar al   crédito como
+crédito como
 
- herramienta de lucha     contra la pobreza     a través del financiamiento    de
+a través del financiamiento
 
- pequeños negocios que generen ingresos y nuevas fuentes de empleo y de
+de
 
- esta forma dinamizar     estos segmentos de la micro y pequeña empresas
+pequeños negocios que generen ingresos y nuevas fuentes de empleo y de
+esta forma dinamizar
 
- productivas y de servicios locales y regionales.
+estos segmentos de la micro y pequeña empresas
 
- En este marco, SCOTIABANK PERU , utiliza en sus operaciones financieras un
+productivas y de servicios locales y regionales.
+En este marco, SCOTIABANK PERU , utiliza en sus operaciones financieras un
+enfoque estratégico en la pequeña y micro empresa , es así que a diciembre del
 
- enfoque estratégico en la pequeña y micro empresa , es así que a diciembre del
+18
 
-
-
-                                                                          18
 año 2010 el 42% de su portafolio está concentrado en la banca minorista, cabe
-
 señalar que en la opinión de Apoyo & Asociados, las inversiones realizadas en
-
 el año 2008 contribuyeron positivamente al desarrollo del grupo, muy a pesar de
-
 la alta competencia en el sector de la pequeña y micro empresa, por lo que su
-
 enfoque es de reforzar la segmentación en la banca minorista para atender a
-
 través del Banco al segmento PREMIUM y a través de Crediscotia, a clientes
-
 aun no bancarizados.
 
-
-
-    Por un lado las crisis financieras en que se han visto sumidos los países en
-
+Por un lado las crisis financieras en que se han visto sumidos los países en
 desarrollo y la economía mundial durante los 12 últimos meses han puesto de
-
 manifiesto varias deficiencias que, por separado y en conjunto, han contribuido a
-
 la crisis. Destacan entre ellas la fragilidad de los sistemas financieros nacionales,
-
 las lagunas de las políticas macroeconómicas, las imperfecciones de los
-
 mercados de capitales internacionales y la incapacidad de la arquitectura
-
 financiera internacional para prevenir y resolver las crisis. Sin embargo
-
 Scotibank Perú se mantuvo solido en el Perú gracias a sus políticas de trabajo.
 
-
-
-    La desaceleración de la economía del Perú de los primeros meses de este
-
+La desaceleración de la economía del Perú de los primeros meses de este
 año será revertida por un mayor impulso de la demanda interna y una
-
 recuperación del contexto internacional, que permitirá un crecimiento de más del
-
 6% del Producto Bruto Interno (PBI), según las entidades bancarias del país.
 
-
-
-    Según los Estudios Económicos del Banco de Crédito (BCP), en el presente
-
+Según los Estudios Económicos del Banco de Crédito (BCP), en el presente
 año la economía nacional crecería 6,3%, gracias a una expansión del 7,8% de
 
+19
 
-                                                                              19
-     la demanda interna. Indicaron que el sector Construcción lideraría el crecimiento
+la demanda interna. Indicaron que el sector Construcción lideraría el crecimiento
+del año, al registrar una tasa de expansión de 9,8%. Le seguirían los sectores
+Comercio (6,7%), Servicios (6,5%), Electricidad (6,3%) y Minería (6%).
 
-     del año, al registrar una tasa de expansión de 9,8%. Le seguirían los sectores
+En Puno el mercado de créditos se ha ido incrementando de manera
+progresiva, el saldo de colocaciones a diciembre del 2012 alcanzo s/. 2 945 879
+en ScotiabankPeru en la Ciudad de Puno a comparación de Diciembre del 2011
+con s/. 2 515484. Los datos nos muestran que Scotiabank conjuntamente con
+sus clientes está creciendo y logrando un mejor posicionamiento en el mercado
+regional.
 
-     Comercio (6,7%), Servicios (6,5%), Electricidad (6,3%) y Minería (6%).
+1.2.
 
+ANTECEDENTES DE LA INVESTIGACIÓN
 
+A partir del análisis exhaustivo de ámbito objeto de estudio he identificados
+problemas no resueltos o insuficientemente resueltos en el proceso de gestión
+de riesgo de la calidad de cartera
 
-          En Puno el mercado de créditos se ha ido incrementando de manera
+de SOTIABANK PERU, los mismos que
 
-     progresiva, el saldo de colocaciones a diciembre del 2012 alcanzo s/. 2 945 879
+pueden resumirse de la siguiente manera:
 
-     en ScotiabankPeru en la Ciudad de Puno a comparación de Diciembre del 2011
+-
 
-     con s/. 2 515484. Los datos nos muestran que Scotiabank conjuntamente con
+Alta competencia en el sector financiero y micro financiero y el consecuente
+deterioro de la calidad de cartera. Alto nivel de sobre endeudamiento de los
+clientes.
 
-     sus clientes está creciendo y logrando un mejor posicionamiento en el mercado
+-
 
-     regional.
+Alta contaminación de la cartera de alto riesgo
 
+-
 
+Elevados niveles de índice de riesgo moral que se traduce en la morosidad.
 
-1.2.     ANTECEDENTES DE LA INVESTIGACIÓN
+20
 
-     A partir del análisis exhaustivo de ámbito objeto de estudio he identificados
+Con los problemas señalados, la investigación se plantea las siguientes
+interrogantes con el fin de alcanzar el objetivo general y específicos de esta
+manera:
+¿Cuál es el nivel del indicador de la calidad de cartera en SCOTIABANK PERU
+S.A.A. Agencia Puno en el periodo 2010-2011?
 
-     problemas no resueltos o insuficientemente resueltos en el proceso de gestión
+De la interrogante planteada
 
-     de riesgo de la calidad de cartera     de SOTIABANK PERU, los mismos que
+por el problema central, se desprenden
 
-     pueden resumirse de la siguiente manera:
+las
 
-
-
- -     Alta competencia en el sector financiero y micro financiero y el consecuente
-
-       deterioro de la calidad de cartera. Alto nivel de sobre endeudamiento de los
-
-       clientes.
-
- -     Alta contaminación de la cartera de alto riesgo
-
- -     Elevados niveles de índice de riesgo moral que se traduce en la morosidad.
-
-
-
-
-                                                                               20
- Con los problemas señalados, la investigación se plantea las siguientes
-
- interrogantes con el fin de alcanzar el objetivo general y específicos de esta
-
- manera:
-
- ¿Cuál es el nivel del indicador de la calidad de cartera en SCOTIABANK PERU
-
- S.A.A. Agencia Puno en el periodo 2010-2011?
-
-
-
- De la interrogante planteada     por el problema central, se desprenden          las
-
- siguientes interrogantes específicas:
-
- ¿Cuáles son las variables que intervienen en la contaminación de la cartera de
-
- créditos microempresa en SCOTIABANK PERU?
-
- ¿En qué medida la magnitud de la cartera de alto riesgo afecta al nivel de
-
- rentabilidad de SCOTIABANK PERU Agencia Puno?
-
-
+siguientes interrogantes específicas:
+¿Cuáles son las variables que intervienen en la contaminación de la cartera de
+créditos microempresa en SCOTIABANK PERU?
+¿En qué medida la magnitud de la cartera de alto riesgo afecta al nivel de
+rentabilidad de SCOTIABANK PERU Agencia Puno?
 
 1.3. JUSTIFICACIÓN
+La presente
 
- La presente     investigación, es importante ya que permitirá analizar y explicar
+investigación, es importante ya que permitirá analizar y explicar
 
- las causas y efectos del proceso de contaminación de la cartera crediticia a
+las causas y efectos del proceso de contaminación de la cartera crediticia a
+SCOTIABANK Perú S.S.A.
 
- SCOTIABANK Perú S.S.A.         Con la constante pérdida de la calidad de cartera
+Con la constante pérdida de la calidad de cartera
 
- repercutiendo ello en la baja del nivel de rentabilidad económica- financiero de
+repercutiendo ello en la baja del nivel de rentabilidad económica- financiero de
+la empresa.
+Por lo señalado debo enfatizar que la solución a los problemas identificados
+permitirá a la empresa revisar y replantear las políticas y estrategias del proceso
+de evaluación, seguimiento y supervisión de los créditos a trazados, en busca de
+mejorar su situación actual.
 
- la empresa.
+21
 
- Por lo señalado debo enfatizar que la solución a los problemas identificados
+1.4.
 
- permitirá a la empresa revisar y replantear las políticas y estrategias del proceso
-
- de evaluación, seguimiento y supervisión de los créditos a trazados, en busca de
-
- mejorar su situación actual.
-
-
-
-
-                                                                             21
-1.4.    OBJETIVOS DE LA INVESTIGACIÓN
+OBJETIVOS DE LA INVESTIGACIÓN
 
 OBJETIVO GENERAL
-
-     Determinar y analizar la calidad de cartera crediticia tomando en consideración
-
-     la contaminación de la cartera de alto riesgo, de SCOTIABANK PERU. Agencia
-
-     Puno periodo 2010-2011
-
-
+Determinar y analizar la calidad de cartera crediticia tomando en consideración
+la contaminación de la cartera de alto riesgo, de SCOTIABANK PERU. Agencia
+Puno periodo 2010-2011
 
 OBJETIVOS ESPECÍFICOS:
+1.
 
-1.      Determinar y explicar el grado de contaminación de la cartera crediticia de
+Determinar y explicar el grado de contaminación de la cartera crediticia de
+SCOTIABANK Perú S.S.A. Agencia Puno
 
-        SCOTIABANK Perú S.S.A. Agencia Puno
+2.
 
-2.      Analizar y explicar el comportamiento de la cartera de alto riesgo y su
+Analizar y explicar el comportamiento de la cartera de alto riesgo y su
+incidencia en la rentabilidad de SCOTIABANK PERU. Agencia Puno periodo
+2010-2011
 
-        incidencia en la rentabilidad de SCOTIABANK PERU. Agencia Puno periodo
+22
 
-        2010-2011
-
-
-
-
-                                                                              22
-                                  CAPITULO II:
-
+CAPITULO II:
 2. MARCO TEÓRICO Y CONCEPTUAL
+2.1. MARCO TEÓRICO
+Las teorías sobre los determinantes de la cartera morosa y pesada de las
+instituciones micro financieras se ha desarrollado considerablemente desde las
+noveles discusiones de los años cincuenta hasta los aportes teóricos existentes
+hoy, desde el desafío particular que presenta el establecer una cartera eficiente
+de activos de alta calidad de activos.
+Siguiendo a Guillen
 
-  2.1. MARCO TEÓRICO
+Uyen, la morosidad crediticia presenta
 
-  Las teorías sobre los determinantes de la cartera morosa y pesada de las
+uno de os
 
-  instituciones micro financieras se ha desarrollado considerablemente desde las
+principales factores que explican las crisis financieras. Una institución que
+empieza
 
-  noveles discusiones de los años cincuenta hasta los aportes teóricos existentes
+a sufrir un deterioro de su portafolio de créditos ve perjudicad su
 
-  hoy, desde el desafío particular que presenta el establecer una cartera eficiente
+rentabilidad al aumentar la proporción de créditos con intereses no pagados,
+además de generarse una ruptura en la rotación de los fondos. Guillen, J.(2002)
+El problema en la rentabilidad se profundiza al incrementar sus provisiones por
+los créditos impagados, lo que repercute inmediatamente en las utilidades de la
+empresa. De esta manera un incremento importante en la morosidad hace que el
+problema de incumplimiento se traduzca en uno de rentabilidad y liquidez y
 
-  de activos de alta calidad de activos.
+23
 
-      Siguiendo a Guillen     Uyen, la morosidad crediticia presenta    uno de os
-
-  principales factores que explican las crisis financieras. Una institución que
-
-  empieza    a sufrir un deterioro de su portafolio de créditos ve perjudicad su
-
-  rentabilidad al aumentar la proporción de créditos con intereses no pagados,
-
-  además de generarse una ruptura en la rotación de los fondos. Guillen, J.(2002)
-
-  El problema en la rentabilidad se profundiza al incrementar sus provisiones por
-
-  los créditos impagados, lo que repercute inmediatamente en las utilidades de la
-
-  empresa. De esta manera un incremento importante en la morosidad hace que el
-
-  problema de incumplimiento se traduzca en uno de rentabilidad y liquidez y
-
-
-
-                                                                             23
 finalmente en un problema de solvencia si la institución empieza a generar
-
 perdida y déficit de provisiones.
-
-    El análisis de los factores que afectan la calidad crediticia no ha sido un
-
+El análisis de los factores que afectan la calidad crediticia no ha sido un
 tema tratado profundamente por la literatura. La mayor parte de las
-
 investigaciones han estado orientadas a entender la morosidad de créditos
-
 individuales a través de las características de los deudores o a través de datos
+históricos de incumplimiento, surgiendo así los modelos de crédito scoring
 
-históricos de incumplimiento, surgiendo así los modelos de crédito scoring       y
+y
 
 riesgo crediticio. Sin embargo, es válido pensar que la morosidad depende no
-
 solo de la administración del portafolio d créditos del banco, sino también de
-
 factores externos ligados a la economía en general.
-
-    De esta manera existe un grupo de factores que afectan a todas las
-
+De esta manera existe un grupo de factores que afectan a todas las
 instituciones, independientemente de si el portafolio de crédito está bien
-
 diversificado o existe una buen a política de gestión de riesgo. Estos factores
+están asociados
 
-están asociados     al desempeño macroeconómico, al ciclo crediticio, a las
+al desempeño macroeconómico, al ciclo crediticio, a las
 
 guerras, etc. Por otro lado, existe un grupo de factores que son internas al
+banco, los cuales están
 
-banco, los cuales están      en función de la gestión de riesgos, de la política
+en función de la gestión de riesgos, de la política
 
-crediticia, de la eficiencia de la selección   de deudores, etc. Estos últimos son
+crediticia, de la eficiencia de la selección
+
+de deudores, etc. Estos últimos son
 
 los que explican la diferencia en morosidad entre una y otra institución en un
+momento
 
-momento      del tiempo    que los primeros factores son los que       explican la
+del tiempo
+
+que los primeros factores son los que
+
+explican la
 
 evolución de la morosidad crediticia de todo el sistema financiero.Aguillar (2004)
 
+24
 
-
-
-                                                                            24
 TEORÍA DE LA MOROSIDAD VARIABLES MACROECONÓMICAS
-
 La morosidad es la manifestación ex post del riesgo del crédito. A nivel teórico
-
 existen muy pocos trabajos que analicen las causas de la morosidad bancaria
-
 y, con frecuencia, lo que se moderniza es el ratio de quiebras empresariales
-
 que es un concepto más restrictivo que el de la morosidad bancaria.Wadhwani
-
 (1986)
 
-
-
 A nivel empírico hay más referencias aunque no es un campo de trabajo
-
 excesivamente analizado. La dificultad para conseguir la información o las
-
 diferencias en las definiciones entre países explican esta relativa escasez de
-
 literatura. En cambio, si son más frecuente s estudios sobre los determinantes
-
 de las crisis bancarias. Delgado, Saurina (2004)
 
-
-
 Davis. (1995) modeliza los ratios de quiebras empresariales y personales en seis
-
 países, encontrando, en general, una estrecha relación con la evolución del PBI
-
 y de los tipos de interés y. dependiendo de los países, con el nivel de
-
 endeudamiento". Estiman una relación positiva entre la tasa de paro y carga
-
 financiera de la deuda y morosidad de los créditos hipotecarios en el Reino
-
 Unido Freixas (1994) encuentra una relación negativa entre la actividad
-
 económica y la morosidad en España y un impacto positivo del incremento del
-
 endeudamiento encuentran también un impacto significativo y negativo del
-
 crecimiento del PBI en la morosidad de las entidades españolas. Ausencia de
-
 impacto de los tipos de interés y resultados ambiguos respecto al
-
 endeudamiento.Saurina (1998)
 
+25
 
-
-
-                                                                          25
 La evidencia empírica sobre el rápido crecimiento del crédito y Su impacto en la
-
 morosidad es abundante, aparece en estudios de datos de panel , Murto (1994),
-
 Salas y Saurina (2002), Saurina (1998).
 
-
-
 Freixas (1994) ha analizado el comportamiento de la morosidad bancaria en
-
 España poniendo especial énfasis en los determinantes macroeconómicos,
-
 teniendo como antecedente los modelos de Wadhwani y Davis, incluyeron en
-
 sus estimaciones indicadores de la demanda agregada, las expectativas sobre el
-
 comportamiento de la economía, nivel de endeudamiento de las empresas y
-
 crecimiento de los salarios.
-
 Resumiendo, de los diferentes trabajos empíricos existentes, tanto los que solo
-
 analizan determinantes macroeconómicos como los que también. Incluyen
-
 variables microeconómicas, cabe esperar un aumento del PBI se traduzca en
-
 una disminución del ratio de morosidad, un aumento de los tipos de interés y,
-
 probablemente, del crédito se traduzca, quizás, en mayores ratios de morosidad
-
 en el futuro.
 
-
-
 Otro aspecto relacionado con los determinantes macroeconómicos de la
-
 morosidad es la restricción de liquidez que enfrentan los agentes sean estos
-
 empresas o familias y que puede generar problemas en su capacidad de pago.
-
 Cuanta menos liquidez posean estos agentes, mayor es la posibilidad de retraso
-
 en el pago de sus deudas.
 
+26
 
-
-
-                                                                          26
 Las empresas ven reducidas su liquidez cuanto tienen que enfrentar mayores
-
 tasas de interés por sus créditos o incremento de los salarios de sus
-
 trabajadores. Por su parte, las familias enfrentan restricciones de liquidez
-
 cuando disminuye su ingreso disponible (por ejemplo, debido a una reducción de
-
 salarios reales), se elevan las tasas de interés activas de los créditos o se
-
 incrementa en nivel de desempleo. Davis (1995).
 
-
-
 Finalmente, los determinantes macroeconómicos de la morosidad se pueden
-
 clasificar en cuatro grandes grupos: variables relacionados con el ciclo de la
-
 actividad económica, las que afectan en grado de liquidez de los agentes,
-
 aquellas variables que miden el nivel de endeudamiento ele los mismos y
-
 aquellas relacionadas con la competencia en el mercado crediticio. La forma en
-
 que cada uno de estos grupos de variables contribuye a determinar el
-
 comportamiento de la morosidad en los créditos bancarios genera hipótesis de
-
 comportamiento que deben ser evaluadas empíricamente. De esta manera, se
-
 esperan relaciones negativas entre el ciclo económico, la liquidez de los agentes
-
 y la morosidad crediticia, mientras que se espera una relación positiva o
-
 indeterminada entre endeudamiento de las familias y empresas con la
-
 morosidad. Delgado (2004).
 
-
-
 TEORÍA DE LA MOROSIDAD Y VARIABLES MICROECONÓMICAS
-
 Un cieno número de trabajos, todos ellos empíricos, defienden la necesidad de
-
 analizar el comportamiento de cada entidad financiera para explicar su nivel de
-
 morosidad. El crecimiento del crédito, el tipo de negocio y los incentivos a
 
+27
 
-
-
-                                                                          27
 adoptar políticas más arriesgadas, son los tres grupos de variables más
-
 utilizados. Saurina (1998).
 
-
-
 La expansión crediticia demasiado rápida se considera uno de los elementos
-
 más importantes a la hora de explicar elevados niveles de morosidad. Una
-
 entidad financiera que esté interesada en aumentar rápidamente su cuota de
-
 mercado puede hacerlo rebajando el nivel de exigencia de sus colocaciones.
-
 Además, esta entidad se verá negativamente afectada por la selección adversa.
-
 La relación que un banco mantiene con sus prestatarios le aporta información
-
 relevante y exclusiva sobre su calidad de forma que si otra entidad intenta
-
 arrebatarle cuota de mercado, el banco probablemente solo dejará marchar a
-
 sus peores clientes. Si la expansión del crédito se hace en un área geográfica o
-
 en un segmento del mercado nuevo, los problemas ele selección adversa se
-
 multiplican puesto que los primeros clientes que acudirán a la nueva entidad
-
 serán los de peor calidad, aquellos a los que el resto de las entidades
-
 financieras no quieren prestarles. Castañeda (2008).
 
-
-
 Existe un conjunto de factores que afectan el comportamiento de la morosidad
-
 de la cartera de créditos de una institución bancaria que están relacionados con
-
 las políticas de manejo y estrategias de participación en el mercado de cada
-
 entidad,, es decir, son factores atribuibles a cada entidad. Por ejemplo, la política
-
 de colocaciones que se sigue, el tipo de negocio que se desarrolla y el manejo
-
 del riesgo son algunas de las variables más analizadas.
 
+28
 
-
-
-                                                                              28
 El tipo de política crediticia seguida por la institución reviste gran importancia en
-
 la determinación de la calidad de su cartera de créditos. Por ejemplo, una
-
 política crediticia expansiva puede ir acompañada de un relajamiento en los
-
 niveles de exigencia a los solicitantes, lo que eleva la probabilidad de enfrentar
-
 problemas de selección adversa y con ello, el consiguiente incremento de los
-
 niveles de morosidad no obstante, si la expansión de los créditos se lleva a cabo
-
 de manera cuidadosa esta no implica necesariamente mayores niveles de mora
-
 para la institución
 
-
-
 EL ÍNDICE DE MOROSIDAD (IMOR)
-
 Es la cartera de crédito vencida como proporción de la cartera total. Es uno de
-
 los indicadores más utilizados como medida de riesgo de una cartera crediticia.
 
-
-
-
 2.2. MARCO CONCEPTUAL
-
 Calidad de Cartera crediticia
-
 En las instituciones micro financieras los préstamos no están generalmente
-
 respaldados por una garantía realizable, de modo que la calidad de cartera es el
-
 indicador más importante, para la sostenibilidad a largo plazo, porque la mayor
-
 fuente de riesgo está en sus carteras de créditos. La cartera de créditos es el
-
 mayor activo de las empresas microfinancieras, y la calidad y el riesgo que
-
 representa pueden resultar muy difíciles de medir. Las mejores instituciones
 
+29
 
-
-                                                                              29
 microfinancieras mantienen una más alta calidad de cartera que los bancos
-
 comerciales de muchos países. El coeficiente más ampliamente utilizado para
-
 medir la calidad de la cartera en el sector de las microfinanzas es la Cartera en
-
 Riesgo, que mide la porción de la cartera de créditos “contaminada” por deudas
-
 atrasadas y en riesgo de no ser pagada como porcentaje de la cartera total.
 
+-
 
-
--   Morosidad
+Morosidad
 
 Es cuando el vencimiento del crédito no es amortizado en su totalidad, entonces
-
 estará en mora, generando directamente un interés moratorio independiente del
-
 interés compensatorio que genere el saldo insoluto. Un préstamo esta en mora,
-
 cuando cada pago hasta donde alcance debe aplicarse para cancelar la deuda
-
 en el siguiente orden: interés moratorio. Interés compensatorio y principal
-
 vencida.
 
+-
 
-
--   Ratios Financieros
+Ratios Financieros
 
 Los Ratios financieros (también llamados razones financieras o indicadores
-
 financieros), son coeficientes o razones que proporcionan unidades contables y
-
 financieras de medida y comparación, a través de las cuales, la relación (por
-
 división) entre sí de dos datos financieros directos, permiten analizar el estado
-
 actual o pasado de una organización, en función a niveles óptimos definidos
-
 para ella.
 
-
-
 En relación a la comparación de los datos, ésta debe cumplir ciertas
-
 condiciones:
 
+30
 
-
-
-                                                                          30
 Los datos financieros que se relacionan, deben corresponder a un mismo
-
 momento o período en el tiempo.
-
 Debe existir relación económica, financiera y administrativa entre las cantidades
-
 a comparar.
-
 Las unidades de medida en las cuales están expresadas las cantidades de
-
 ambos datos a relacionar, deben ser consistentes una con otra.
 
+-
 
-
--   Crédito
+Crédito
 
 El crédito es una operación por medio de la cual un acreedor presta cierta
-
 cantidad de dinero a un deudor por la garantía o confianza, en la posibilidad,
-
 voluntad y solvencia de que cumpla a un plazo determinado con el reembolso
-
 total de la deuda contraída más sus intereses, previo estudio hecho por quien
-
 presta el dinero respecto a la seguridad, liquidez y conveniencia representa o
-
 que ofrece el deudor. La palabra crédito es una derivación del latín credo "yo
-
 creo" significa poner confianza.
 
+-
 
-
--   Colocaciones
+Colocaciones
 
 Prestaciones realizadas por una institución financiera a un agente económico.
 
+-
 
-
--   Desembolsos
+Desembolsos
 
 Se llama desembolso al hecho en que el solicitante recibe físicamente el dinero
-
 en efectivo o cheque, bienes, artículos o servicios.
 
+31
 
+-
 
-
-                                                                          31
--   Garantía
+Garantía
 
 Es todo activo que el usuario beneficiario del crédito compromete a favor de la
-
 organización prestataria para el caso de incumplimiento de los pagos por parte
-
 del usuario. (ARTHUR SELDON: diccionario de economía 1975).
 
+-
 
-
--   Tasa de morosidad de la agencia
+Tasa de morosidad de la agencia
 
 La morosidad está medida como el porcentaje de cartera atrasada al total de
-
 colocaciones directas. Durante los meses iniciales de funcionamiento las
-
 agencias muestran niveles muy bajos (o iguales a cero) debido a que las
-
 colocaciones recién empiezan y a que los plazos (aun los más cortos) aún no
-
 vencen. Esto representará un problema en la estrategia empírica a utilizar. Un
-
 indicador alternativo de morosidad es la cartera en alto riesgo (atrasada más
-
 refinanciada), pero para estas agencias la diferencia es mínima.
 
+-
 
-
--   El riesgo bancario
+El riesgo bancario
 
 Se refiere a la posibilidad de obtención de pérdidas de un banco a consecuencia
-
 del deterioro de sus variables fundamentales, tales como el capital, calidad de
-
 activos, eficiencia, utilidades, y liquidez. Si estas pérdidas resultan siendo
-
 inmanejables, podrían ocasionar la quiebra o liquidación de un banco y como
-
 consecuencia ele ello los abortistas estarían más expuestos a perder sus
-
 depósitos.
 
+32
 
+-
 
-
-                                                                         32
--   El capital
+El capital
 
 Se define contablemente como el derecho de los propietarios en los activos de la
-
 empresa y es considerada una variable fundamental en el análisis del
-
 funcionamiento de los bancos. Llevar un seguimiento de los indicadores del
-
 capital permite medir la solidez de una institución bancada y su posible
-
 capacidad para enfrentar choques externos y para soportar pérdidas futuras no'
-
 anticipadas. Bancos capitalizados tienen mayor capacidad de hacer frente a
-
 perturbaciones que afecten sus balances, por ejemplo, de poder responder con
-
 fondos propios a los depositantes en caso de retiros masivos.
 
+-
 
-
--   Los activos
+Los activos
 
 Constituyen los recursos económicos con los cuales cuenta una empresa
-
 bancaria se espera beneficien las operaciones futuras. Por consiguiente, la
+evaluación
 
-evaluación       su composición y calidad se convierten en determinantes
+su composición y calidad se convierten en determinantes
 
 fundamentales capta cualquier anomalía de una institución bancaria.
-
 Un deterioro en la calidad de los activos constituye un serio-problema para una
-
 entidad bancaria porque con lleva inicialmente a un problema de iliquidez que en
-
 el largo plazo, si es recurrente y si no posee línea de crédito de contingencia
-
 puede determinar la liquidación de dicha entidad.
 
+-
 
-
--   Las utilidades
+Las utilidades
 
 Reflejan la eficiencia de las instituciones bancarias y proporcionaron recursos
-
 para aumentar el capital y así permitir su continuo crecimiento. Por el contrario,
-
 las pérdidas, utilidades insuficientes, o las ganancias excesivas generadas por
 
+33
 
-
-
-                                                                           33
 fuentes inestables, constituyen una muestra de ineficiencia de una institución
-
 bancada.
 
+-
 
-
--   Costos financieros
+Costos financieros
 
 Los costos financieros son las retribuciones que se deben pagar como
-
 consecuencia de la necesidad de contar con fondos para mantener en el tiempo,
-
 activos que permitan el funcionamiento operativo ele la compañía.
+-
 
--   Crédito
+Crédito
 
 En toda operación económica en la que exista una promesa de pago a cambio
-
 de algún bien, servicio o dinero, en el futuro. El crédito al confiar en un
-
 comportamiento futuro del deudor significa un riesgo y adopta formas diversas
-
 de garantías.
 
+-
 
-
--   Créditos atrasados
+Créditos atrasados
 
 Créditos vencidos más créditos en cobranza judicial.
 
+-
 
-
--   Créditos directos
+Créditos directos
 
 Créditos vigentes más créditos refinanciados y reestructurados más créditos
-
 atrasados.
 
+-
 
-
--   Créditos en cobranza judicial
+Créditos en cobranza judicial
 
 Créditos cuya recuperación se encuentra en proceso judicial.
 
+34
 
+-
 
-
-                                                                        34
--   Créditos refinanciados
+Créditos refinanciados
 
 Créditos directos que han sufrido variaciones de plazo y/o monto respecto al
-
 contrato original, las cuales obedecen a dificultades en la capacidad de pago del
-
 deudor.
+-
 
--   Créditos vencidos
+Créditos vencidos
 
 En el caso de los créditos comerciales, corresponde al saldo total de los créditos
-
 con atraso mayor a 15 días. En el caso de los créditos a rnicroempresas,
-
 corresponde al saldo total de los créditos con atraso mayor a 30 días. En el caso
-
 de créditos de consumo, hipotecarios para vivienda y el arrendamiento
-
 financiero, corresponde a las cuotas impagas si el atraso es mayor a 30 días y
-
 menor a 90 días y al saldo total del crédito sí el atraco supera los 90 días.
 
+-
 
-
--   Garantía
+Garantía
 
 Las garantías son todos los medios que respaldan o aseguran el pago o
-
 reembolso de los créditos otorgados. El requerimiento cié garantías para
-
 respaldar los créditos que se otorgan, no está basado en previsión de ter sr que
-
 recurrir a un procedimiento judicial para obtener el reembolso.
 
+-
 
-
--   Cartera pesada
+Cartera pesada
 
 Incluye, además de la cartera vencida y en litigio, documentos en cartera y
-
 créditos incobrables o de difícil recuperación.
 
+35
 
+-
 
-
-                                                                                35
--   Cartera refinanciada
+Cartera refinanciada
 
 Comprende aquellos créditos directos, cualquiera sea su modalidad, cuyos plazo
-
 y/o montos de contrato original han sido modificados, debido principalmente a
-
 dificultades en la capacidad de pago del deudor
 
-
-
 2.3. HIPÓTESIS DE LA INVESTIGACIÓN
-
 Hipótesis general:
+Si la
 
-Si la    calidad de cartera crediticia   de SCOTIABANK Perú S.S.A.          Esta
+calidad de cartera crediticia
 
-“contaminada”    entonces el coeficiente de la cartera de alto riesgo es alto,
+“contaminada”
+
+de SCOTIABANK Perú S.S.A.
+
+Esta
+
+entonces el coeficiente de la cartera de alto riesgo es alto,
 
 repercutiendo negativamente en el nivel de rentabilidad financiera del banco.
 
-
-
 Hipótesis específicas:
+Si la cartera crediticia
 
-Si la cartera crediticia   del SCOTIABANK Perú S.S.A. , está contaminada
+del SCOTIABANK Perú S.S.A. , está contaminada
 
 entonces la calidad de este activo sufre un deterioro afectando negativamente a
-
 la calidad de cartera.
-
 Si el comportamiento de la cartera de alto riesgo sube entonces, ello afectara
-
 negativamente en el nivel de rendimiento financiero de SCOTIABANK Perú
-
 S.S.A.
 
+36
 
-
-
-                                                                           36
 2.4. ASPECTOS GLOBALES DEL SISTEMA FINANCIERO
+2.4.1.
 
-2.4.1.       GESTIÓN FINANCIERA Y RENTABILIDAD
+GESTIÓN FINANCIERA Y RENTABILIDAD
 
 a) La Gestión Financiera,
-
 Asegura que exista la liquidez suficiente como para que la IF cumpla sus
-
 obligaciones de desembolso de crédito a los prestatarios. Los errores en la
-
 administración de la liquidez pueden poner en riesgo a una institución.
 
-
-
 La gestión financiera también puede tener un impacto decisivo en la rentabilidad
-
 según la habilidad con la que se inviertan los fondos liquidados.
 
-
-
 b) La Rentabilidad
-
 En la rentabilidad se verán reflejados, si la calidad de la cartera deficiente o la
+eficiencia
 
-eficiencia   es baja. El hecho de que una institución financiera tenga un alto
+es baja. El hecho de que una institución financiera tenga un alto
 
 índice de retorno sobre su patrimonio poco explica el porqué. Estos indicadores
-
 tienden a tener un uso limitado si se les considera en forma aislada, el análisis
-
 también tiene que tener en cuenta otros indicadores que aclaren el rendimiento
-
 operativo de la institución, tales como la eficiencia operativa y la calidad de la
-
 cartera.
 
-
-
 En la existencia de competencia muchas instituciones micro financieras se ven
-
 limitadas. En ausencia de competencia la Institución Financiera muy ineficientes
-
 pueden ser rentables elevando sus tasas de interés. Y en un mercado
-
 competitivo como el de Bolivia, las Institución Financiera muy eficiente tienen
-
 dificultad para lograr un alto rendimiento en sus carteras.
 
+37
 
+2.4.2.
 
-
-                                                                            37
-2.4.2.    COBERTURA DE RIESGO.
-
-
+COBERTURA DE RIESGO.
 
 Se calcula dividiendo las provisiones para créditos morosos por el saldo de
-
 capital de créditos atrasados más de 30 días más el saldo de capital de todos los
-
 créditos refinanciados.
 
-
-
 Es decir cuál es el porcentaje de la cartera en riesgo que está cubierto por
-
 provisiones para créditos morosos. Proporciona indicios cuan preparada están
-
 para enfrentar las peores situaciones
 
-
-
 Se debe analizar la cobertura de riesgo con relación a la cartera en riesgo y los
-
 créditos castigados puesto que los tres aspectos son interdependientes.
 
+2.4.3.
 
-
-2.4.3.    CRÉDITOS CASTIGADOS
-
-
+CRÉDITOS CASTIGADOS
 
 Calculamos dividiendo el saldo de capital de créditos castigados en el período
-
 por la cartera bruta promedio del período.
 
-
-
 Son los créditos que la institución ha eliminado de sus libros contables, por la
-
 duda de ser recuperados. La anulación de crédito castigado afecta por igual a la
-
 cartera de créditos bruta y a las provisiones para créditos morosos. En realidad
-
 su propósito principal es de servir como indicador de control que permita
-
 entender mejor la cartera en riesgo.
 
+38
 
+2.4.4.
 
-
-                                                                           38
-2.4.4.       ÍNDICE DE GASTOS OPERATIVOS.
+ÍNDICE DE GASTOS OPERATIVOS.
 
 Se calcula dividiendo todos los gastos relacionados con la operación de la
-
 institución (Gastos administrativos, salariales, depreciaciones y honorarios de
-
 directores), por la cartera bruta promedio del periodo. Es el mejor indicador de la
-
 eficiencia global de una institución crediticia, se le llama también índice de
-
 eficiencia. Los costos operativos se encuentran firmemente vinculados a los
-
 niveles salariales. Las organizaciones que ofrecen microcréditos al igual que
-
 otros servicios pueden asignar costos en forma tal que sus operaciones de
-
 crédito parezcan más eficientes de lo que en realidad son.
 
-
-
 Políticas de Crédito Óptima.
-
 La curva del costo total del crédito; la relación de intercambio entre otorgar
-
 crédito y no hacerlo no es difícil de identificar, pero es difícil de cuantificar con
-
 exactitud.
+Gráfico Nº 01
+Costo Total del Crédito
+Costo en
+unidades
+Cantidad
+óptima de
+crédito
 
-                                     Gráfico Nº 01
-                                 Costo Total del Crédito
-                          Costo en
-                          unidades
-                                                                          Costo de
-                                       Cantidad
-                                                   Costo                  mantener
-                                       óptima de
-                                                    total
-                                       crédito
+Costo de
+mantener
 
+Costo
+total
 
+Costo de
+oportunidad
 
+Nivel de
+crédito
+Concedido
 
-                                                             Costo de      Nivel de
-                                                            oportunidad    crédito
+Fuente
 
-                                                                           Concedido
+: SCOTIABANK
+Elaboración : Unidad de Operaciones
 
+39
 
-Fuente              : SCOTIABANK
-             Elaboración : Unidad de Operaciones
-
-
-
-
-                                                                                       39
 Como consecuencia sólo nos es posible describir una política de crédito óptima.
-
 Los costos de mantener cuentas por cobrar son los flujos de efectivo en los que
-
 se tiene que incurrir cuando se concede crédito. Están relacionados en forma
-
 directamente proporcional con el monto de crédito concedido.
 
-
-
 Los costos de oportunidad son las ventas perdidas al negar crédito. Estos costos
-
 disminuyen cuando se concede crédito.
 
-
-
 A la suma de los costos de mantener el crédito y los costos de oportunidad de
-
 una política de crédito en particular se le denomina curva de costo total de
-
 crédito. Como se muestra la figura, existe un punto donde se minimiza el costo
-
 total de crédito. Este punto corresponde al monto óptimo de crédito o, de forma
-
 equivalente, a la inversión óptima en cuentas por cobrar.
 
-
-
 Si la empresa otorga más crédito que este mínimo, el flujo de efectivo neto
-
 adicional derivado de los nuevos clientes no cubrirá los costos de mantener la
-
 inversión en las cuentas por cobrar. Si el nivel de cuentas por cobrar es inferior
-
 a este monto, la empresa está renunciando a valiosas oportunidades de
-
 ganancias.
 
+2.4.5.
 
-
-2.4.5.    MEDIDAS FINANCIERAS
+MEDIDAS FINANCIERAS
 
 a) Medidas de solvencia a corto plazo
-
 Razón circulante es uno de los ratios más conocidos y de más amplio saber y se
-
 define como:
 
+40
 
+Razón circulante = Activo circulante
+Pasivo circulante
 
+b)
 
-                                                                           40
-     Razón circulante = Activo circulante
-
-                Pasivo circulante
-
-
-
-b)       Medidas de solvencia a largo plazo
+Medidas de solvencia a largo plazo
 
 Razón de la deuda total, toma en cuenta todas las deudas, para todos los
-
 vencimientos y con todos los acreedores, se define de la siguiente manera:
-
 Razón de la deuda total = Total de activo – Capital total
+Total de activo
 
-                                Total de activo
+c)
 
-
-
-c)       Medidas de rentabilidad
+Medidas de rentabilidad
 
 Es la más importante y la más utilizada dentro de todas las razones financieras. Su
-
 propósito es medir con que eficacia la empresa utiliza sus activos y con qué nivel
-
 de eficacia maneja sus operaciones.
+-
 
--        Margen de utilidad.- Las empresas presentan gran atención a su margen de
+Margen de utilidad.- Las empresas presentan gran atención a su margen de
 
 utilidad.
-
 Margen de utilidad = Utilidad neta
+Ventas
 
-                      Ventas
+-
 
-
-
--        Rendimiento sobre los activos.- Es una medida de la utilidad por unidad
+Rendimiento sobre los activos.- Es una medida de la utilidad por unidad
 
 monetaria de activos y se define de la siguiente manera:
-
 Rendimientos sobre los activos = Utilidad neta
+Total de activos
 
-                               Total de activos
+41
 
-
-
-
-                                                                             41
 2.4.6. CICLO DE VIDA DE UNA EMPRESA
 
+Gráfico Nº 02
+Ciclo de vida de la empresa
 
+Fuente
 
-
-                                   Gráfico Nº 02
-
-                            Ciclo de vida de la empresa
-
-
-
-
-Fuente              : SCOTIABANK
+: SCOTIABANK
 
 Elaboración : Propia
 
-
-
 Periodo de introducción. Es un periodo de crecimiento lento en las ventas, mientras
-
 se introduce el producto financiero en el mercado, en esta etapa no existe
-
 utilidades, por lo grandes gastos de introducción.
 
-
-
 Periodo de crecimiento. Es un periodo de rápida aceptación del mercado y
-
 aumento substancial de las utilidades.
 
-
-
 Periodo de madurez. Es el periodo en el cual las ventas y el crecimiento se hacen
-
 lentos debido a que el producto a logrado la aceptación de la mayoría de los
-
 compradores potenciales. Las utilidades se estabilizan o declinan por el aumento
-
 de los gastos de mercadotécnica para defender al producto de la competencia.
 
+42
 
-
-
-                                                                             42
 Periodo de declinación. Es aquel en el cual las ventas muestran un fuerte descenso
-
 y las utilidades desaparecen.
 
-
-
-
 2.4.7. ANÁLISIS DEL ENTORNO DE LA ECONOMÍA MUNDIAL 2011
-
 Durante el 2011, la economía mundial creció 3.8%, crecimiento inferior al 5.2%
-
 registrado el 2010. Esta desaceleración de la economía mundial fue producto de
-
 algunos eventos: la crisis fiscal europea, la cual dificultó a los gobiernos europeos
-
 el acceso al financiamiento; la desaceleración de la economía norteamericana, que
-
 se debió al aumento del precio del petróleo a nivel internacional (producto de la
-
 inestabilidad geopolítica en Egipto y Libia), lo que redujo el poder adquisitivo de los
-
 consumidores norteamericanos; el terremoto en Japón, que perjudicó la producción
-
 automotriz americana al no suministrar autopartes; y, finalmente, la desaceleración
-
 abrupta de la economía china. Sin embargo, las economías emergentes y en vías
-
 de desarrollo fueron las que contrarrestaron la desaceleración mundial al crecer a
-
 una tasa de 6.2%.
 
-
-
 Economías emergentes como la peruana destacaron en el 2011, pues el Perú logró
-
 el mayor crecimiento del PBI en Latinoamérica (6.9%); no obstante, este fue inferior
-
 al registrado en el 2010 (8.8%). Este crecimiento alcanzado se sustenta en el fuerte
-
 dinamismo de la demanda interna, producto del consumo interno (a razón del
-
 incremento en el empleo y las remuneraciones, y mejoras en las expectativas de
-
 los consumidores), y de la inversión privada a pesar de la incertidumbre nacional
-
 (proceso electoral) e internacional (crisis fiscal europea).
 
+43
 
-
-
-                                                                                43
 Con respecto de las variables económicas, durante el 2011, la inflación alcanzó el
-
 4.74%, porcentaje muy superior al nivel meta de inflación que el Banco Central de
-
 Reserva del Perú (BCRP) fijó para ese año (2% ± 1%). Esta cifra también superó el
-
 nivel registrado el año previo (2.08%). El incremento de la inflación se explica
-
 principalmente por el crecimiento de la demanda interna, el alza en los precios
-
 domésticos producto del incremento en las cotizaciones de algunos commodities
-
 (cereales y granos) y del precio del petróleo, y, finalmente, por problemas de
+abastecimiento
 
-abastecimiento   de algunos alimentos perecibles          o   sensibles a    cambios
+de algunos alimentos perecibles
+
+o
+
+sensibles a
+
+cambios
 
 climatológicos (como las hortalizas).
 
-
-
 El tipo de cambio nominal cerró en S/. 2.696 por dólar, lo que significó una
-
 apreciación de la moneda nacional del 4% con respecto del cierre del año 2010 (S/.
-
 2.809). Durante la mayor parte del año, se observó una tendencia hacia la baja
-
 como consecuencia del fuerte influjo de capitales (inversión extranjera directa) y del
-
 incremento de la demanda interna. Esta tendencia al fortalecimiento se vio
-
 revertida en el segundo trimestre por el contexto de incertidumbre electoral; y, en el
-
 tercer trimestre, por el temor a la moratoria de pago en países de Zona Euro. Sin
-
 embargo, la tendencia a la baja se reforzó para el cuarto trimestre.
 
-
-
-Durante el 2011, los índices bursátiles registraron pérdidas de -16.69% (IGBVL) y -
-
-14.71% (ISBVL), respectivamente, a raíz de la incertidumbre presente en el
-
+Durante el 2011, los índices bursátiles registraron pérdidas de -16.69% (IGBVL) y 14.71% (ISBVL), respectivamente, a raíz de la incertidumbre presente en el
 mercado local en el primer semestre del año por el contexto electoral y de la
-
 incertidumbre internacional durante el segundo semestre asociados a problemas de
-
 deuda en Europa. A pesar de ello, el volumen negociado en la Bolsa de Valores
 
+44
 
-
-
-                                                                               44
 aumentó 15.83%, pues inició con US$ 6.749 millones el 31 de diciembre de 2010 y
-
 llegó a US$ 7 817 el 31 de diciembre de 2011. Uno de los sectores que se vio más
-
 afectado fue el de la minería: cobre (-21.30%), plata (-10.74%), zinc (-25.24%).
-
 Otros de los perjudicados fueron los sectores de las telecomunicaciones (-24.16%)
-
 y el industrial (-21.86%), contrario al desempeño registrado por el oro (+10.06%) y
-
 el petróleo (8.15%). Asimismo, el 30 de mayo, la Bolsa de Valores de Lima se
-
 integró a las bolsas de Colombia y Chile, con lo cual formaron el Mercado Integrado
-
 Latinoamericano (MILA).
 
-
-
 La balanza en cuenta corriente registró un déficit de US$ -2 267 millones en el
-
 2011 (-1.3% del PBI), ocasionado por los déficits en servicios (US$ -2,132 millones)
-
 y en la renta de factores (US$ -12,636 millones). Esta situación no pudo ser
-
 contrarrestada por los superávits alcanzados en la balanza comercial (US$ 9,302
-
 millones) ni las transferencias de remesas (US$ 3,200 millones). El déficit en
-
 servicios se origina, principalmente, por los mayores pagos por fletes; y el de renta
-
 de factores, por el incremento de las utilidades generadas por empresas del
-
 exterior. Por otro lado, el superávit de la balanza comercial (37.82%), el mayor
-
 desde 2006, fue producto del crecimiento en las exportaciones no tradicionales
-
 (textiles, agropecuarias, químicos), principalmente por el mayor incremento en los
-
 términos de intercambio que en volumen.
 
-
-
 Las operaciones del sector público no financiero alcanzaron un superávit fiscal de
-
 S/. 7,986 millones en el 2011, este monto se mantuvo distante del déficit registrado
-
 en el 2010, que fue de S/. -2,208 millones. Los ingresos corrientes sumaron S/.101,
 
+45
 
-
-
-                                                                              45
 382 millones, lo cual se explica por los ingresos tributarios (S/.77,186 millones) y
-
 los ingresos no tributarios (S/. 24,196 millones). Esto permitió cubrir los gastos no
-
 financieros (S/. 88,058 millones), que fueron destinados a remuneraciones de
-
 bienes y servicios, transferencias y formación bruta de capital. Con estas cifras, se
-
 alcanzó un resultado primario de S/.13,703 millones, del cual se descuenta los
-
 intereses generados por la deuda externa e interna (S/.5,717 millones), a partir de
-
 lo cual se obtiene un resultado económico de S/. 7,986 millones.
 
-
-
 El nivel de las reservas internacionales netas (RIN) creció 10.68% durante el 2011,
-
 con lo que se ubicó en US$ 48 816 millones al finalizar el año. Dicho incremento se
-
 debió, principalmente, a las compras de dólares por parte de la Mesa de Dinero del
-
 Banco Central de Reserva para atenuar la fortaleza del nuevo sol (US$ 3 537
-
 millones), a los recursos provenientes de las colocaciones de bonos soberanos y
-
 globales en los mercados internacionales dada la mejor clasificación de riesgo de la
-
 deuda soberana por parte de Standard &Poor’s (al pasar en agosto 2011 de BBB- a
-
 BBB), y al superávit de la balanza comercial.
 
-
-
 El crédito del sistema financiero al sector privado creció 22.03% durante el 2011,
-
 resultado superior al 19.6% del 2010. Con esto, se alcanzó un saldo total de S/.
-
 145 964 millones. Además, el nivel de morosidad del sistema financiero mejoró al
-
 pasar de 2.00% (2010) a 1.89% (2011). El de las financieras, también, mostró
-
 mejoría al pasar de 5.12% (2010) a 5.04% (2011). Del mismo modo, el nivel de
-
 morosidad de las cajas rurales se redujo de 4.59% (2010) a 4.31% (2011) y el de
-
 las cajas municipales de 5.09% (2010) a 4.90% (2011).
 
+46
 
-
-
-                                                                              46
 2.4.8. CARACTERÍSTICAS DEL ENTORNO FINANCIERO NACIONAL 2010
-
 Los activos totales del Sistema Financiero ascendieron a S/. 221,642.7 millones al
-
 2010. Los cuales ascendieron en 22.5%. Los créditos directos totalizaron
-
 S/.129,082 millones, con un incremento de 19.5%, asimismo las , captaciones
-
 ascendieron a S/.145,028 millones con un incremento en el año del 15.6%.
 
-
-
 El Sistema Bancario tiene activos totales por S/.179,637.7-millones, el cual se
-
 incrementó en 24.6% durante el 2010. Las colocaciones del Sistema Bancario
-
 según información de la SBS al 2010 totalizaron S/.109,721.5 millones, los cuales
-
 se incrementaron en 18.7% durante el último año, asimismo las captaciones fueron
-
 del orden de S/.116.754 millones, mostrando un incremento del 15.1 %.
 
-
-
 En lo que respecta al sistema de Cajas Municipales, los activos ascienden a
-
 S/.10,901 millones, el cual tuvieron incremento del 25.2%, durante el 2010,
-
 asimismo tanto las colocaciones y captaciones totalizaron S/ 8,470 y S/8,175
-
 millones, los cuales ascendieron al 22.0% y 34.2% respectivamente.
 
-
-
 Cabe destacar que la dolarización del Sistema financiero se ha reducido en 34.15%
-
 desde diciembre 2004 a diciembre de 2010, siendo un indicador de la mejor
-
 perspectiva del nuevo sol como moneda fuerte –durante los últimos años.
 
-
-
 A partir del 1 julio de 2010 ha entrado en vigencia el nuevo reglamento para la
-
 evaluación y clasificación del Deudor y la exigencia de Provisiones, según
 
+47
 
-
-
-                                                                             47
 resolución SBS N’ 11356-2008, la cual cambia la clasificación de los tipos de
-
 créditos de 4 a 8, asimismo ha cambiado la categoría de clasificación del deudor.
 
+48
 
+49
 
+Fuente: ASBANC
 
-                                                                             48
-                                                  GRÁFICO Nº 03
-                      TENDENCIAS DE INDICADORES DEL SISTEMA BANCARIO PERUANO 1997-2012
+TENDENCIAS DE INDICADORES DEL SISTEMA BANCARIO PERUANO 1997-2012
 
+GRÁFICO Nº 03
 
+50
 
+Fuente: SBS
 
-     Fuente: ASBANC
+NIVEL DE DOLARIZACIÓN DEL CRÉDITO Y DEPÓSITOS EN EL SISTEMA BANCARIO PERUANO - 2009
 
+GRÁFICO Nº 04
 
-
-
-49
-                                                      GRÁFICO Nº 04
-                   NIVEL DE DOLARIZACIÓN DEL CRÉDITO Y DEPÓSITOS EN EL SISTEMA BANCARIO PERUANO - 2009
-
-
-
-
-     Fuente: SBS
-
-
-
-
-50
 2.4.9. Análisis del entorno económico regional Puno 2010 – 2011
 
-
-
-       Producción Agropecuaria
-
+Producción Agropecuaria
 La producción de papaya en diciembre del 2010, registró 340 toneladas y creció en
-
 25.9%, respecto a diciembre del 2009, explicado por una mayor cantidad de
-
 superficie sembrada en las zonas altas del departamento.
 
-
-
 Igualmente, aumentó la producción de granadilla en 11.8%, papa 10.9%, pina 1.5%
-
 y alfalfa en 1.1%. Por otra parte, registraron variaciones negativas la producción de
-
 haba grano seco en 37.8%- y plátano en 31.8%.
 
-
-
 En el subsector pecuario, la producción de vacuno alcanzó 2 mil 163 toneladas de
-
 peso vivo y se incrementó en 2.7% en relación a diciembre del 2009, ante mayor
-
 demanda. Por otro lado, registraron incrementos la producción de leche fresca en
-
 4.6%, porcino 3.8%, llama 1.5%, huevo 1.0%y ave en 0.5%, entre otros .
 
-
-
 Flujo Turístico
-
 Durante el año 2010, el flujo de turistas al departamento de Puno aumentó en
-
 5.24%, mientras que el flujo de turistas extranjeros se redujo en 2.79%, habiéndose
-
 incrementado tos turistas nacionales en 9.71%.
 
-
-
 Nivel de Inflación
-
 La inflación en el departamento de Puno al mes de diciembre totalizó un siendo el
-
 anual para el 2010 de 3.60%.
 
+51
 
+2.4.10.
 
-                                                                              51
-2.4.10.      Análisis de la coyuntura financiera regional
+Análisis de la coyuntura financiera regional
 
-      Depósitos en el Sistema Financiero Regional
-
+Depósitos en el Sistema Financiero Regional
 En la región Puno, las captaciones sumaron S/.541.3 millones a diciembre de 2010,
-
 y représenlo un incremento del 23.65% respecto al año anterior. El mayor
-
 crecimiento se concentró en las cajas municipales (64.37%), que registró un saldo
-
 de S/.109.8 millones, con una cuota de participación del 20.29%; por su parte los
-
 bancos registraron un crecimiento de 15.40% con un saldo de S/.371.4 millones, I
-
 legando a captar el 68.70% de la liquidez total del mercado frente al 73.51% del
-
 año 2009.
 
-
-
 Asimismo las cajas rurales registraron una variación positiva del 31.33% con un
-
 saldo en captaciones de S/. 53.3 millones y una cuota de participación del 9.85%,
-
 en consecuencia se consolida la preferencia de los agentes por entidades
-
 bancarias.
 
-
-
 Créditos en el Sistema Financiero Regional
-
 Los saldos de créditos del sistema financiero de la región Puno totalizaron S/. 1,443
-
 millones a diciembre de 2010, con lo cual se produjo un incremento del 29.35%
-
 respecto al año 2009. Estos resultados responden a las buenas condiciones pasa
-
 las finanzas en la plaza, así la oferta financiera creció en las Empresas Financieras
-
 en 54."30%, empresas financieras en 44.54%, cajas municipales en 23.15% y
-
 bancos en 21.1%; cabe destacar que la oferta crediticia en Scotiabank creció más
-
 del 100% durante este año.
 
+52
 
-
-
-                                                                              52
 Scotiabank muestra un crecimiento de su oferta crediticia en 33.8% para el año
-
 2010 de S/.64.9 millones en el 2009 a S/.86.9millones en el 2010. Este resultado
-
 significó una cuota de mercado del 6.03% en el 2010, manteniéndose constante
-
 frente al año 2009
 
+53
 
-
-
-                                                                          53
-                                   CAPITULO III:
-
+CAPITULO III:
 3. MÉTODO DE LA INVESTIGACIÓN
-
 3.1. MÉTODO
-
 Por las características de la presente investigación y para el proceso ordenado que
-
 se debe seguir y establecer lo significativo de los hechos o fenómenos a fin de
-
 alcanzar los objetivos puntualizados se utilizara el método deductivo y analítico
-
 sintético.
 
-
-
-       El método deductivo, consiste en estudiar el todo concreto y abstracto,
-
+El método deductivo, consiste en estudiar el todo concreto y abstracto,
 partiendo de los datos generales para llegar a sus aspectos particulares, que nos
-
 permita conocer sus características y componentes en forma sistemática.
 
+Llamamos analítica
 
-
-       Llamamos analítica    aquel método de investigación que consiste en la
+aquel método de investigación que consiste en la
 
 desmembración de un todo concreto en sus componentes o que trata de describir
-
 las causas, a naturaleza de los efectos de un fenómeno descomponiéndolos en
-
 sus elementos, el fin es conocer con exactitud y en todo sus detalles y
+características el objeto que se somete a estudio, finalmente el método es analíticosintético con enfoque económico.
 
-características el objeto que se somete a estudio, finalmente el método es analítico-
+54
 
-sintético con enfoque económico.
+Corroborando
 
-
-                                                                              54
-Corroborando     a lo anterior, la investigación analítica sintética a analizarse debe
+a lo anterior, la investigación analítica sintética a analizarse debe
 
 ser conducida sistemáticamente a través de varias etapas de escala descendente,
-
 esto para el mejor desarrollo de nuestro trabajo de investigación. Así mismo,
-
 empozarnos con la observación y sistematización de un hecho o fenómeno que ha
-
 motivado nuestro interés.
 
-
-
-      Como contrapartida del método analítico aparece la síntesis, como modo de
-
+Como contrapartida del método analítico aparece la síntesis, como modo de
 ver su fenómeno en conjunto, la labor de volver a reunir las partes divididas por el
-
 análisis será precisamente la función sintética de la investigación. Ello significa que
-
 con este procedimiento habremos demostrado el fenómeno desde el punto de
-
 vista global. En las ciencias económicas, la aplicación del método sintético es un
+elemento
 
-elemento    inseparable     de todo trabajo de investigación y sistematización, en
+inseparable
+
+de todo trabajo de investigación y sistematización, en
 
 realidad tanto el análisis como la síntesis no son fenómenos excluyentes sino más
-
 bien complementarios, la síntesis, será la meta final del análisis.
 
-
-
 3.2. METODOLOGÍA
-
 El desarrollo de la presente investigación requiere de una serie de pasos sucesivos
-
 y secuenciales (procesos), el que se inicia con la recopilación de datos mediante el
-
 trabajo de laboratorio, como también la compilación y toma de información de
-
 diversos documentos oficiales y/o confiables del SCOTIABANK PERU y otros que
-
 permitió elaborar una estructura de análisis de datos con la ayuda de técnicas,
-
 métodos, instrumentos de análisis y conceptos teóricos referente al tema, para
-
 desarrollar los objetivos planteados.
 
+55
 
-
-                                                                                55
 El método analítico se usara en el proceso de análisis e interpretación cuantitativa y
-
 cualitativa de la información obtenida y desarrollada, así como en la interpretación
+de
 
-de   resultados,   la     síntesis   servirá   para   sintetizar   las   conclusiones   y
+resultados,
+
+la
+
+síntesis
+
+servirá
+
+para
+
+sintetizar
+
+las
+
+conclusiones
+
+y
 
 recomendaciones.
 
-
-
 Trabajo de gabinete: En aras del desarrollo y lograr el primer objetivo específico y
-
 demostrar la hipótesis propuesta de la investigación se realizara la recopilación,
-
 sistematización, regresión, análisis, interpretación econométrica de la información y
-
 resultados obtenidos de la base de datos. Para lo cual se analizó la situación actual
-
 y tendencias de la calidad de cartera.
 
-
-
 Técnicas de recolección de datos: la información obtenida y utilizada para la
-
 sistematización de la presente investigación son 100% veraces y objetivas, ya que
-
 son de fuentes fidedignas (clientes y funcionarios) por son siguiente son altamente
+confiables para efectuar el análisis
+explicación
 
-confiables para efectuar el análisis       con veracidad y certeza; por lo tanto, la
+y las conclusiones
 
-explicación    y las conclusiones      a los que se arriban son reales y entre los
+con veracidad y certeza; por lo tanto, la
+
+a los que se arriban son reales y entre los
 
 instrumentos se utilizaran para tal efecto son los econométricos, estadísticos y
-
 financieros.
 
-
-
 De los indicadores: En el proceso de la presente investigación ha considerado los
-
 siguientes indicadores:
 
+-
 
+Crecimiento de la cartera activa
 
--     Crecimiento de la cartera activa
+56
 
+-
 
+Crecimiento de los desembolsos
 
-                                                                                  56
--      Crecimiento de los desembolsos
+-
 
--      Calidad de cartera
+Calidad de cartera
 
--      Tasa de crecimiento de la cartera vencida
+-
 
--      Tasa de crecimiento de la cartera refinanciada
+Tasa de crecimiento de la cartera vencida
 
--      Tasa de crecimiento de la morosidad
+-
 
--      Tasa de crecimiento de los cativos
+Tasa de crecimiento de la cartera refinanciada
 
--      Calidad de activos
+-
 
--      Cartera de alto riesgo
+Tasa de crecimiento de la morosidad
 
--      Cartera presada
+-
 
+Tasa de crecimiento de los cativos
 
+-
+
+Calidad de activos
+
+-
+
+Cartera de alto riesgo
+
+-
+
+Cartera presada
 
 El presente trabajo de investigación se trabajó con información de series históricas
-
 mas no con información de corte transversal, los datos utilizados para la regresión
-
 son de los periodos 2010 al 2012 del Scotiabank PERU Agencia Puno. (Ver anexo
-
 N°4)
 
-
-
 Diseño de investigación:
-
 El logro de los objetivos propuestos para la siguiente investigación sugiere como
-
 técnicas el uso de la econométrica que a través del modelamiento de la realidad el
-
 objeto de investigación, que explique y represente a la realidad el SCOTIABANK
-
 PERU Agencia Puno, recogiendo principalmente las características internas del
-
 banco, y que el modelo econométrico se a el que mejor se adapte a explicar el
-
 comportamiento de la calidad de la cartera como variable endógena del modelo.
 
+57
 
-
-
-                                                                             57
 Representación teórica del modelo:
-
 Mor = f(Sc, Sr, Nc, Cv, Cr, Car.)
-
 Dónde:
-
-       MOR: morosidad
-
-       COLS: saldo de colocaciones
-
-       Nc: número de clientes
-
-       Cv: cartera vencida
-
-       Cr: cartera refinanciada
-
-       Car: cartera de alto riesgo
-
-
+MOR: morosidad
+COLS: saldo de colocaciones
+Nc: número de clientes
+Cv: cartera vencida
+Cr: cartera refinanciada
+Car: cartera de alto riesgo
 
 Especificación del modelo teórico lineal:
-
 Mr= β0+β1Sc+β2Sr+β3Nc+β4Cv+β5Cr+β6Car+μi
 
-
-
 Dónde:
-
 β0= es la constante
-
 β1= son los parámetros estimados
-
 µi= es el termino de perturbación.
 
-
-
-
 DETERMINACIÓN DE VARIABLES
-
-
 Dónde:
-
-
 Variables dependientes:
+-
 
+MOR: Morosidad
 
-   -   MOR: Morosidad
+58
 
+-
 
-                                            58
-       -   R: Rentabilidad
+R: Rentabilidad
 
-    Variables independientes:
+Variables independientes:
+-
 
+PBI:
 
-       -   PBI:     Producto Bruto Interno
+Producto Bruto Interno
 
-       -   TIAS:    tasa de interés activa
+-
 
-       -   TIPS:    tasa de interés pasiva
+TIAS:
 
-       -   COLS:    saldo de colocaciones
+tasa de interés activa
 
-       -   SD:      saldo de depósitos
+-
 
-       -   NC:     número de clientes
+TIPS:
 
+tasa de interés pasiva
 
+-
 
+COLS:
 
-    3.3. TÉCNICAS ECONOMÉTRICAS Y ESTADÍSTICAS UTILIZADAS EN EL
+saldo de colocaciones
 
-    PROCESAMIENTO DE LA INFORMACIÓN (LA DATA)
+-
 
+SD:
 
+saldo de depósitos
 
--   Método de Estimación de Mínimos Cuadrados Ordinarios
+-
 
-    El objetivo principal de la etapa de estimación es encontrar los valores de los
+NC:
 
-    parámetros muéstrales. El método de estimación más popular recibe el nombre de
+número de clientes
 
-    mínimos cuadrados ordinarios (MCO). El criterio de este método consiste en
+3.3. TÉCNICAS ECONOMÉTRICAS Y ESTADÍSTICAS UTILIZADAS EN EL
+PROCESAMIENTO DE LA INFORMACIÓN (LA DATA)
 
-    proporcionar estimadores de los parámetros que minimicen la suma de los
+-
 
-    cuadrados de los errores. Operativamente el proceso es construir una función
+Método de Estimación de Mínimos Cuadrados Ordinarios
+El objetivo principal de la etapa de estimación es encontrar los valores de los
+parámetros muéstrales. El método de estimación más popular recibe el nombre de
+mínimos cuadrados ordinarios (MCO). El criterio de este método consiste en
+proporcionar estimadores de los parámetros que minimicen la suma de los
+cuadrados de los errores. Operativamente el proceso es construir una función
+objetivo en términos de la suma de los cuadrados de los errores y mediante
+optimización (condiciones de primer orden - C.P.O., y condiciones de segundo
+orden - C.S.O.) obtener las fórmulas de cálculo de los estimadores. Debido a que la
+función de regresión poblacional no se puede observar directamente, los
+estimadores de mínimos cuadrados ordinarios se obtienen a partir de la función de
+regresión muestral (FRM). La FRM es:
+59
 
-    objetivo en términos de la suma de los cuadrados de los errores y mediante
+La suma del cuadrado de los errores puede expresarse como sigue:
 
-    optimización (condiciones de primer orden - C.P.O., y condiciones de segundo
+De acuerdo con el principio de mínimos cuadrados ordinarios:
 
-    orden - C.S.O.) obtener las fórmulas de cálculo de los estimadores. Debido a que la
+Derivando la anterior expresión con respecto a
 
-    función de regresión poblacional no se puede observar directamente, los
+e igualando a cero,
 
-    estimadores de mínimos cuadrados ordinarios se obtienen a partir de la función de
+respectivamente, y resolviendo las ecuaciones normales, se encuentran los
+estimadores de los parámetros de la regresión:
 
-    regresión muestral (FRM). La FRM es:
+Auto Correlación con MCO:
+Mahía, Ramón, 2010, Menciona que, como:
 
+-
 
-                                                                                 59
-    La suma del cuadrado de los errores puede expresarse como sigue:
+Primer efecto (defecto) las varianzas de los parámetros estimados por Mínimos
+Cuadrados Ordinarios no pueden estimarse con la expresión utilizada en presencia
+de auto correlación. Dicho de otro modo, la expresión de la varianza de los
 
+60
 
+estimadores MCO es un estimador sesgado de la verdadera varianza de los
+parámetros. La naturaleza (tamaño y signo) del sesgo en la estimación de la
+varianza depende de la forma específica de auto correlación en la perturbación
+pero, generalmente, el sesgo en el cálculo incorrectamente realizado tiende a ser
+negativo en muchas aplicaciones, es decir, subestima el verdadero tamaño de la
+varianza de los parámetros
 
+-
 
-    De acuerdo con el principio de mínimos cuadrados ordinarios:
+Una segunda consecuencia de la presencia de auto correlación sobre el estimador
+MCO es que este pierde su eficiencia, deja de ser el “más preciso” entre los
+insesgados. En presencia de auto correlación, el estimador eficiente es el
+estimador de MCG, el mismo presentado cuando se introdujo la cuestión de la
+heterocedasticidad:
 
+Intuitivamente, la razón de que exista un estimador sin sesgo más preciso reside en
+que, si conocemos los patrones de evolución de los residuos, podemos utilizar
+estos patrones para dar más o menos importancia a las observaciones asociadas a
+residuos más separados de la línea de regresión (de media residual nula) en lugar
+de ponderar todas las observaciones por igual (como hace MCO).
 
+Heterocedasticidad
 
+61
 
-    Derivando la anterior expresión con respecto a                 e igualando a cero,
-
-    respectivamente, y resolviendo las ecuaciones normales, se encuentran los
-
-    estimadores de los parámetros de la regresión:
-
-
-
-
-    Auto Correlación con MCO:
-
-    Mahía, Ramón, 2010, Menciona que, como:
-
-
-
--   Primer efecto (defecto) las varianzas de los parámetros estimados por Mínimos
-
-    Cuadrados Ordinarios no pueden estimarse con la expresión utilizada en presencia
-
-    de auto correlación. Dicho de otro modo, la expresión de la varianza de los
-
-
-
-                                                                                60
-    estimadores MCO es un estimador sesgado de la verdadera varianza de los
-
-    parámetros. La naturaleza (tamaño y signo) del sesgo en la estimación de la
-
-    varianza depende de la forma específica de auto correlación en la perturbación
-
-    pero, generalmente, el sesgo en el cálculo incorrectamente realizado tiende a ser
-
-    negativo en muchas aplicaciones, es decir, subestima el verdadero tamaño de la
-
-    varianza de los parámetros
-
-
-
--   Una segunda consecuencia de la presencia de auto correlación sobre el estimador
-
-    MCO es que este pierde su eficiencia, deja de ser el “más preciso” entre los
-
-    insesgados. En presencia de auto correlación, el estimador eficiente es el
-
-    estimador de MCG, el mismo presentado cuando se introdujo la cuestión de la
-
-    heterocedasticidad:
-
-
-
-
-    Intuitivamente, la razón de que exista un estimador sin sesgo más preciso reside en
-
-    que, si conocemos los patrones de evolución de los residuos, podemos utilizar
-
-    estos patrones para dar más o menos importancia a las observaciones asociadas a
-
-    residuos más separados de la línea de regresión (de media residual nula) en lugar
-
-    de ponderar todas las observaciones por igual (como hace MCO).
-
-
-
-
-    Heterocedasticidad
-
-
-
-
-                                                                                61
 De Arce, 2001, Menciona que La heterocedasticidad es la existencia de una
-
 varianza no constante en las perturbaciones aleatorias de un modelo econométrico.
-
 En ese caso, la matriz de varianzas-covarianzas de las perturbaciones Sobre un
-
 experimento controlado de generación de la varianza heterocedástica se llegaba a
-
 las siguientes conclusiones:
 
-
-
 La mayor varianza por empleo de MCO en vez de MCG en presencia de
-
 heterocedasticidad puede producir un incremento de más de 10 veces en la
-
 varianza estimada del parámetro constante y valores hasta 4 veces mayores en las
-
 varianzas de los parámetros que acompañan a variables explicativas.
 
-
-
 Calcular la varianza de los estimadores ignorando la heterocedasticidad según la
-
 expresión que correspondería a una matriz de varianzas-covarianzas escalar,
-
 produce un sesgo por infravaloración de la real del orden del doble.
 
-
-
 Multicolinealidad:
-
 La paternidad del término multicolinealidad se le adjudica a RagnarFrisch. Este
-
 concepto se asoció originariamente con aquellos casos en los que se incumple la
-
 condición de rango comentado con anterioridad y, por tanto, el rango de la matrix X
-
 es inferior a k, lo que supone que también el rango de X’ X es inferior a k. Por
-
 consiguiente, el determinante de esta matrix es igual a 0, no existiendo la inversa
-
 de esta matriz. Esto supone que no existe una única solución del sistema mínimo
-
 cuadrático ordinario X’ Xβ = X’ Y, por lo que el vector de estimadores mínimo
-
 cuadrático ordinario no es único.
 
+62
 
-
-                                                                             62
 Sin embargo, ni esta es una situación que aparezca frecuentemente en la
-
 modelización econométrica, ni tampoco es un problema especialmente grave,
-
 sobre todo si lo comparamos con los problemas que se producen en aquellos
-
 casos en los que el rango de la matriz X’ X está próximo a 0, aunque es distinto a
-
 esta cantidad. Por tanto, el concepto de multicolinealidad debe asociarse con
-
 aquellas situaciones en las que las variables explicativas están linealmente
-
 relacionadas entre sí.
 
+63
 
-
-
-                                                                            63
-                                 CAPITULO IV
-
+CAPITULO IV
 4. CARACTERÍSTICAS DE LA INSTITUCIÓN FINANCIERA
-
 4.1 PRESENCIA MUNDIAL DE SCOTIABANK
-
 The Bank of Nova Scotia (BNS) o Scotiabank, con sede en Toronto (Canadá), es
-
 una de las instituciones financieras más importantes de Norteamérica y el banco
-
 canadiense con mayor presencia y proyección internacional que opera en casi 50
-
 países.
 
-
-
 Su objetivo es ser la mejor empresa canadiense de servicios financieros
-
 internacionales. Cuenta a nivel mundial con más de 68 mil colaboradores, que
-
 están orientados a trabajar en equipo por un mismo objetivo: satisfacer las
-
 expectativas de sus casi 13 millones de clientes. Scotiabank opera desde hace 178
-
 años; de ellos, 120 años ha trabajado en mercados internacionales. Desde su
-
 fundación, ha aprovechado constantemente nuevas formas de crecimiento para
-
 incrementar el rendimiento a sus accionistas, brindar un mejor servicio a sus
-
 clientes, ofrecer a sus colaboradores una trayectoria gratificante y ayudar a las
-
 comunidades a prosperar.
 
+64
 
-
-
-                                                                           64
 Además de una amplia historia de fortaleza y perseverancia, Scotiabank cuenta
-
 con una gran solidez y estabilidad para hacer frente a los desafíos del entorno.
-
 Gracias a ello, en el primer trimestre del 2009 fue considerado entre los diez
-
 bancos más estables del mundo durante la crisis financiera internacional.
 
-
-
 En resumen, sus prácticas de negocios prudentes, la diversidad en el mercado
-
 global, la dedicación de sus colaboradores y el haberse centrado en crear y
-
 aprovechar al máximo las oportunidades, han hecho que se convierta en una
-
 empresa de éxito, desde todo punto de vista.
 
-
-
 4.2.PRESENCIA DE SCOTIABANK EN EL PERÚ
-
 La presencia de The Bank of Nova Scotia (BNS) en el Perú data de 1997; pero es
-
 desde el 13 de mayo del 2006, como resultado de la integración de los bancos
-
 Wiese Sudameris y Sudamericano, que inicia formalmente sus operaciones como
-
 Scotiabank Perú. A la fecha, se ha consolidado como la tercera entidad financiera
-
 más importante del país.
 
-
-
 Scotiabank Perú, junto con otras empresas relacionadas, conforma uno de los
-
 principales grupos financieros del país. Estas empresas actúan en forma
-
 especializada y autónoma, desarrollando sus actividades en permanente sinergia,
-
 complementando la oferta de valor de sus productos y servicios y manteniendo una
-
 estrategia comercial integrada.
 
+65
 
-
-
-                                                                            65
 Al cierre del ejercicio 2009, el Grupo ScotiabankPerú atiende las necesidades
-
 especializadas de sus clientes a través de:
+
 
-     Scotiabank
+Scotiabank
 
-     Empresa
+
 
-     ScotiabankPerú S.A.A.
+Empresa
 
-     CrediScotia Financiera S.A.
+
 
-     Profuturo AFP S.A.
+ScotiabankPerú S.A.A.
 
-     Scotia Sociedad Agente de Bolsa S.A.
+
 
-     Scotia Fondos Sociedad Administradora de Fondos S.A.
+CrediScotia Financiera S.A.
 
-     Scotia Sociedad Titulizadora S.A.
+
 
-     Depósitos S.A. (DEPSA)
+Profuturo AFP S.A.
 
-     Servicios, Cobranzas e Inversiones S.A.C. (SCI)
+
 
+Scotia Sociedad Agente de Bolsa S.A.
 
+
+
+Scotia Fondos Sociedad Administradora de Fondos S.A.
+
+
+
+Scotia Sociedad Titulizadora S.A.
+
+
+
+Depósitos S.A. (DEPSA)
+
+
+
+Servicios, Cobranzas e Inversiones S.A.C. (SCI)
 
 4.3. MISIÓN, VISIÓN Y VALORES CORPORATIVOS DE SCOTIABANK
-
 Como nuestros clientes son lo primero, compartimos sus deseos de crecer y nos
-
 preocupamos por estar cada vez más cerca de ellos. Por eso, en Scotiabank
+consideramos
 
-consideramos    clave   fortalecer   los   vínculos   tanto   con   nuestros   clientes,
+clave
+
+fortalecer
+
+los
+
+vínculos
+
+tanto
+
+con
+
+nuestros
+
+clientes,
 
 colaboradores y accionistas como con nuestra comunidad en su conjunto.
 
-
-
 Por ello, cuando un cliente escoge Scotiabank sabe que recibirá lo mejor en
-
 servicio al cliente, productos y asesoría financiera; pero, más que eso, opta por
-
 establecer una relación con un banco que está comprometido con él y su
-
 comunidad.
 
+66
 
-
-
-                                                                                 66
 Nuestra visión
-
 Llegar a ser el mejor banco del Perú en ayudar a sus clientes a alcanzar sus
-
 objetivos.
-
 Nuestra misión
-
 Atender a nuestros clientes con una cultura de servicio total, enfocada en la
-
 persona, utilizando nuestra experiencia y conocimientos para ofrecerles soluciones
-
 financieras que los ayuden a alcanzar sus metas.
-
 Nuestros valores corporativos
+-
 
-   -   Integridad: Tratamos a los demás en forma ética y honorable.
+Integridad: Tratamos a los demás en forma ética y honorable.
 
-   -   Respeto: Nos identificamos con los demás y tomamos en cuenta sus
+-
 
-       diferentes necesidades.
+Respeto: Nos identificamos con los demás y tomamos en cuenta sus
+diferentes necesidades.
 
-   -   Dedicación: Al éxito de nuestros clientes, de nuestros equipos y de nosotros
+-
 
-       mismos.
+Dedicación: Al éxito de nuestros clientes, de nuestros equipos y de nosotros
+mismos.
 
-   -   Perspicacia: Y alto nivel de conocimiento para ofrecer de manera proactiva
+-
 
-       las soluciones más adecuadas.
+Perspicacia: Y alto nivel de conocimiento para ofrecer de manera proactiva
+las soluciones más adecuadas.
 
-   -   Optimismo: Enriquecemos nuestro ambiente de trabajo con espíritu de
+-
 
-       equipo, entusiasmo contagioso y actitud emprendedora.
+Optimismo: Enriquecemos nuestro ambiente de trabajo con espíritu de
+equipo, entusiasmo contagioso y actitud emprendedora.
 
+67
 
-
-
-                                                                             67
 4.4 RESULTADOS FINANCIEROS DE SCOTIABANK EN EL 2009
-
-                              CUADRO Nº 01
-         PRINCIPALES INDICADORES FINANCIEROS Y OPERATIVOS - 2009
-
-Principales Indicadores Financieros                         2008          2009
-Cifras de Balance (en millones de US$)                      7,818.8       7,947.9
-Total activos netos                                         5,470.2       5,919.0
-Patrimonio neto                                             789.9         1,024.4
-Colocaciones brutas                                         4,744.7       4,909.4
-Colocaciones netas                                   1      4,494.1       4,597.0
+CUADRO Nº 01
+PRINCIPALES INDICADORES FINANCIEROS Y OPERATIVOS - 2009
+Principales Indicadores Financieros
+Cifras de Balance (en millones de US$)
+Total activos netos
+Patrimonio neto
+Colocaciones brutas
+Colocaciones netas
 EFICIENCIA OPERATIVA
-Margen financiero bruto sobre patrimonio (%)                54.5          47.3
-Rentabilidad sobre activos (%)                              2.4           2.8
-Rentabilidad sobre patrimonio (%)                           24.1          21.5
+Margen financiero bruto sobre patrimonio (%)
+Rentabilidad sobre activos (%)
+Rentabilidad sobre patrimonio (%)
 PARTICIPACIÓN DE MERCADO
-Colocaciones (%)                                     2      16.4          15.1
-Depósitos (%)                                        2      16.4          16.2
+Colocaciones (%)
+Depósitos (%)
 NUESTRO IMPACTO ECONÓMICO
 Valor económico directo (en millones de US$)
-Ingresos                                             3      825.0 826.6
+Ingresos
 Valor económico distribuido (en millones de US$)
-Costoso operativos (pago a proveedores)              4      101.0         103.0
-Retribución a colaboradores                                 94.1          96.5
-Dividendos (pago a accionistas)                             57.2          66.1
-Beneficios sociales                                         16.0          15.8
-Gastos financieros                                          205.2         163.4
-Impuestos a la renta                                        73.6          68.5
-Total valor económico distribuido                           547.1         513.3
-Tipo de cambio                                              3.14          2.89
-       Fuente          : Riesgos para la economía peruana SCOTIABANK
-       Elaboración     : SCOTIABANK
+Costoso operativos (pago a proveedores)
+Retribución a colaboradores
+Dividendos (pago a accionistas)
+Beneficios sociales
+Gastos financieros
+Impuestos a la renta
+Total valor económico distribuido
+Tipo de cambio
 
+Fuente
+Elaboración
+
+2008
+7,818.8
+5,470.2
+789.9
+4,744.7
+4,494.1
+
+2009
+7,947.9
+5,919.0
+1,024.4
+4,909.4
+4,597.0
+
+54.5
+2.4
+24.1
+
+47.3
+2.8
+21.5
+
+2
+2
+
+16.4
+16.4
+
+15.1
+16.2
+
+3
+
+825.0 826.6
+
+4
+
+101.0
+94.1
+57.2
+16.0
+205.2
+73.6
+547.1
+3.14
+
+1
+
+103.0
+96.5
+66.1
+15.8
+163.4
+68.5
+513.3
+2.89
+
+: Riesgos para la economía peruana SCOTIABANK
+: SCOTIABANK
 
 Nuestros indicadores de desempeño económico, social y medioambiental según el
 Global ReportingInitiative (GRI)
 
+68
 
+CUADRO Nº 02
+INDICADORES ECONÓMICOS DE SCOTIABANK PERIODO 2008 - 2009
+Código
+EC1
 
+LA1
 
-                                                                                    68
-                              CUADRO Nº 02
-          INDICADORES ECONÓMICOS DE SCOTIABANK PERIODO 2008 - 2009
+LA2
 
-Código   Indicadores económicos                                       2008               2009
-EC1      Valor económico directo generado (ingresos)                  $ 825.0 millones   $ 826..6 millones
-         Valor económico distribuido (proveedores, empleados,         $ 547.1 millones   $ 513.3 millones
-         accionistas, beneficios sociales, impuestos, entre otros)
-         Indicadores prácticas laborales y ética de trabajo
-         ASPECTO : EMPLEO
-LA1      Desglose de empleados por género y por región
-         Por género
-         Femenino                                                     50%                51%
-         Masculino                                                    50%                49%
-         Por distribución geográfica
-         Lima                                                         82%                83%
-         Provincias                                                   18%                17%
-LA2      Número total de empleados                                    4,090              3,663
-         Rotación media de empleados (1)                              13.4%              12.1%
-         Edad promedio                                                36 años            35 años
-         ASPECTO : SALUD Y SEGURIDAD EN EL TRABAJO
-LA6      Porcentaje del colectivo de trabajadores representado en     6.41%              6.41%
-         comités de salud yseguridad conjuntos de empresa-empleado,
-         establecidos para ayudar a controlar yasesorar sobre
-         programa de salud y seguridad en el trabajo
-LA7      Tasa de absentismo, enfermedades profesionales, días         0%                 0%
-         perdidos y número de víctimas mortales relacionadas con el
-         trabajo por región
-LA8      Total horas en programas de educación, formación,            100                200
-         asesoramiento, prevención y control de riesgos que se
-         apliquen a los trabajadores, a sus familias o a los miembros de
-         la comunidad en relación con enfermedades graves
-         ASPECTO: FORMACIÓN Y EDUCACIÓN
-LA10     Total horas de formación de empleados                        192.2 mil          131.1 mil
-LA12     Porcentaje de empleados que reciben evaluaciones regulares100%                  100%
-         de desempeño y de desarrollo profesional
-Código   Indicadores económicos                                       2008               2009
-         ASPECTO : CORRUPCIÓN
-SO2      Número de casos analizados con respecto a riesgos            7.2 mil            6.9 mil
-         relacionados con la corrupción
-SO3      Porcentaje de empleados formados en las políticas y          98%                99%
-         procedimientos anticorrupción de la organización
-         Indicadores medioambientales
-         ASPECTO : MATERIALES
-EN1      Peso de los materiales utilizados (incluye sólo papel)                          210 Ton.
-         ASPECTO : ENERGÍA
-EN4      Consumo indirecto de energía                                                    16,943 MW
-         ASPECTO : AGUA
-EN8      Captación total de agua                                                         95,860 m3
-             (1) En el año 2009, se trasladaron 450 colaboradores de Scotiabank a CrediScotia
-             Financiera.
-            Fuente        : SCOTIABANK
-            Elaboración : Unidad Estadística SCOTIABANK
+LA6
 
+LA7
 
+LA8
 
+LA10
+LA12
+Código
+SO2
+SO3
 
-                                                                                                    69
-4.5.   UNIDADES DE NEGOCIO DE SCOTIABANK
+EN1
+EN4
+EN8
 
-       Para orientar adecuadamente la atención de nuestros clientes a través de
+Indicadores económicos
+2008
+Valor económico directo generado (ingresos)
+$ 825.0 millones
+Valor económico distribuido (proveedores, empleados,
+$ 547.1 millones
+accionistas, beneficios sociales, impuestos, entre otros)
+Indicadores prácticas laborales y ética de trabajo
+ASPECTO : EMPLEO
+Desglose de empleados por género y por región
+Por género
+Femenino
+50%
+Masculino
+50%
+Por distribución geográfica
+Lima
+82%
+Provincias
+18%
+Número total de empleados
+4,090
+Rotación media de empleados (1)
+13.4%
+Edad promedio
+36 años
+ASPECTO : SALUD Y SEGURIDAD EN EL TRABAJO
+Porcentaje del colectivo de trabajadores representado en
+6.41%
+comités de salud yseguridad conjuntos de empresa-empleado,
+establecidos para ayudar a controlar yasesorar sobre
+programa de salud y seguridad en el trabajo
+Tasa de absentismo, enfermedades profesionales, días
+0%
+perdidos y número de víctimas mortales relacionadas con el
+trabajo por región
+Total horas en programas de educación, formación,
+100
+asesoramiento, prevención y control de riesgos que se
+apliquen a los trabajadores, a sus familias o a los miembros de
+la comunidad en relación con enfermedades graves
+ASPECTO: FORMACIÓN Y EDUCACIÓN
+Total horas de formación de empleados
+192.2 mil
+Porcentaje de empleados que reciben evaluaciones regulares100%
+de desempeño y de desarrollo profesional
+Indicadores económicos
+2008
+ASPECTO : CORRUPCIÓN
+Número de casos analizados con respecto a riesgos
+7.2 mil
+relacionados con la corrupción
+Porcentaje de empleados formados en las políticas y
+98%
+procedimientos anticorrupción de la organización
+Indicadores medioambientales
+ASPECTO : MATERIALES
+Peso de los materiales utilizados (incluye sólo papel)
+ASPECTO : ENERGÍA
+Consumo indirecto de energía
+ASPECTO : AGUA
+Captación total de agua
 
-       los canales más adecuados, la estructura comercial de nuestra institución
+2009
+$ 826..6 millones
+$ 513.3 millones
 
-       está dividida en tres grandes segmentos: Corporativo y Mercado de
+51%
+49%
+83%
+17%
+3,663
+12.1%
+35 años
+6.41%
 
-       Capitales, Empresa y Retail.
+0%
 
+200
 
+131.1 mil
+100%
+2009
+6.9 mil
+99%
 
-       Segmento Corporativo y Mercado de Capitales Su enfoque está en el
+210 Ton.
+16,943 MW
+95,860 m3
 
-       desarrollo y la consolidación de vínculos comerciales de largo plazo con las
+(1) En el año 2009, se trasladaron 450 colaboradores de Scotiabank a CrediScotia
+Financiera.
+Fuente
+: SCOTIABANK
+Elaboración : Unidad Estadística SCOTIABANK
 
-       mejores contrapartes del segmento mayorista. A diciembre del2009,
+69
 
-       administra un portafolio de US$2,629 millones en colocaciones directa se
+4.5.
 
-       indirectas, que representan el 46%de las colocaciones totales del Banco.
+UNIDADES DE NEGOCIO DE SCOTIABANK
+Para orientar adecuadamente la atención de nuestros clientes a través de
+los canales más adecuados, la estructura comercial de nuestra institución
+está dividida en tres grandes segmentos: Corporativo y Mercado de
+Capitales, Empresa y Retail.
 
+Segmento Corporativo y Mercado de Capitales Su enfoque está en el
+desarrollo y la consolidación de vínculos comerciales de largo plazo con las
+mejores contrapartes del segmento mayorista. A diciembre del2009,
+administra un portafolio de US$2,629 millones en colocaciones directa se
+indirectas, que representan el 46%de las colocaciones totales del Banco.
 
+Cuenta con un equipo profesional de amplia experiencia y con un alto grado
+de especialización por sector económico.
 
-       Cuenta con un equipo profesional de amplia experiencia y con un alto grado
+Debido a la fuerte presencia de operaciones de nuestros clientes en
+provincias, contribuimos al desarrollo local de sus zonas de influencia
+mediante el financiamiento de sus inversiones.
 
-       de especialización por sector económico.
+70
 
-
-
-       Debido a la fuerte presencia de operaciones de nuestros clientes en
-
-       provincias, contribuimos al desarrollo local de sus zonas de influencia
-
-       mediante el financiamiento de sus inversiones.
-
-
-
-
-                                                                             70
-                           CUADRO Nº 03
-       SEGMENTOS ATENDIDOS DE LA CARTERA DE CLIENTES EN EL 2009
-
+CUADRO Nº 03
+SEGMENTOS ATENDIDOS DE LA CARTERA DE CLIENTES EN EL 2009
 Unidad de Negocio
-                Segmento atendido                                                     Número     de
-                                                                                      clientes
-Corporativo       Personas jurídicas con ventas mayores a US$ 30 millones             1,200
+Segmento atendido
+
+Número
+clientes
+1,200
+
+Corporativo
+Personas jurídicas con ventas mayores a US$ 30 millones
 Sector Primario y Sectores extractivos: Minería, Petróleo-Gas y Pesca
 Multinacionales
 Sector No PrimarioOtros sectores económicos como Electricidad, Telecomunicaciones,
-                  Comercio, Textil, Industria Alimentaria, Construcción, Agroindustria y
-                  otros
-Finanzas          Presta servicios a clientes corporativos e institucionales como unidad
-Corporativas      especializada enactividades de banca de inversión, financiamientos de
-                  mediano plazo, estructuración de emisiones primarias, asesorías
-                  financieras y productos fiduciarios
-Soluciones de     Unidad especializada en el manejo del riesgo crediticio de los clientes
-Crédito           del
-                    - Segmento Corporativo
+Comercio, Textil, Industria Alimentaria, Construcción, Agroindustria y
+otros
+Finanzas
+Presta servicios a clientes corporativos e institucionales como unidad
+Corporativas
+especializada enactividades de banca de inversión, financiamientos de
+mediano plazo, estructuración de emisiones primarias, asesorías
+financieras y productos fiduciarios
+Soluciones de
+Unidad especializada en el manejo del riesgo crediticio de los clientes
+Crédito
+del
+- Segmento Corporativo
 Corporaciones
-Global            Unidad de Banca Transaccional que agrupa las áreas de productos de
+Global
+Unidad de Banca Transaccional que agrupa las áreas de productos de
 TransactionBankingCash Management,Comercio Exterior, Leasing y Banca Corresponsal
-Mercado           de
-                  Su estructura está constituida por las unidades de Tesorería, Scotia
-Capitales         Bolsa (Subsidiaria), Scotia Fondos (Subsidiaria) y unidades de staff
-                  como Estudios Económicos y Finanzas de Mercado de Capitales
-      Fuente          : SCOTIABANK
-      Elaboración     : Unidad de Negocio
+Mercado
+de
+Su estructura está constituida por las unidades de Tesorería, Scotia
+Capitales
+Bolsa (Subsidiaria), Scotia Fondos (Subsidiaria) y unidades de staff
+como Estudios Económicos y Finanzas de Mercado de Capitales
 
-      Segmento Empresa
+Fuente
+Elaboración
 
-      Atiende una amplia cartera de empresas establecidas a nivel nacional con
+: SCOTIABANK
+: Unidad de Negocio
 
-      facturación anual entre US$ 2 y US$ 30 millones. A diciembre del 2009,
+Segmento Empresa
+Atiende una amplia cartera de empresas establecidas a nivel nacional con
+facturación anual entre US$ 2 y US$ 30 millones. A diciembre del 2009,
+administra un portafolio de US$ 886 millones en colocaciones directas e
+indirectas y mantiene una participación de 15% en las colocaciones totales
+del Banco. Su estructura comprende las unidades de Grandes Empresas,
+Mediana Empresa y Empresas Provincias. Para los próximos años se
+proyecta un crecimiento significativo, sobre todo en lo referente a las
+operaciones en el interior del país.
 
-      administra un portafolio de US$ 886 millones en colocaciones directas e
+71
 
-      indirectas y mantiene una participación de 15% en las colocaciones totales
+de
 
-      del Banco. Su estructura comprende las unidades de Grandes Empresas,
+CUADRO Nº 04
+CARTERA DE CLIENTES ATENDIDOS EN EL 2009
+Unidad de Negocio
+Empresa
+Grandes Empresas
+Mediana Empresa
+Empresas Provincias
 
-      Mediana Empresa y Empresas Provincias. Para los próximos años se
+Fuente
+Elaboración
 
-      proyecta un crecimiento significativo, sobre todo en lo referente a las
+Segmento atendido
 
-      operaciones en el interior del país.
+Número de
+clientes
+3,700
 
+Clientes con ventas entre US$ 15 y US$ 30 millones
+Clientes con ventas entre US$ 2 y US$ 15 millones
+Clientes con ventas entre US$ 2 y US$ 30 millones
 
+: SCOTIABANK
+: Unidad de Negocio
 
+Segmento Retail
+Incluye las unidades de negocio relacionadas directamente con la clientela
+minorista. A diciembre del 2009, administra un portafolio de US$ 2.4 billones
+en colocaciones directas e indirectas y de US$ 3.5 billones en depósitos y
+fondos mutuos. Su estructura agrupa las unidades de los segmentos
+Preferente, Personal Estándar, de Negocios, Emprendedores, Canales de
+Venta Minorista, Canales Especializados y Ventas y Servicios.
 
-                                                                                            71
-                         CUADRO Nº 04
-           CARTERA DE CLIENTES ATENDIDOS EN EL 2009
+72
 
-Unidad de Negocio                      Segmento atendido                   Número de
-                                                                               clientes
-Empresa                                                                    3,700
-Grandes Empresas      Clientes con ventas entre US$ 15 y US$ 30 millones
-Mediana Empresa       Clientes con ventas entre US$ 2 y US$ 15 millones
-Empresas Provincias   Clientes con ventas entre US$ 2 y US$ 30 millones
- Fuente         : SCOTIABANK
- Elaboración    : Unidad de Negocio
+CUADRO Nº 05
+NÚMERO DE CLIENTES ATENDIDOS EN EL 2009
+Unidad de Negocio
+Retail
+Preferente
 
- Segmento Retail
+Personal y
+Estándar
+Segmento
+de Negocios
+Emprendedores
+Canales
+Minorista
 
- Incluye las unidades de negocio relacionadas directamente con la clientela
+de
 
- minorista. A diciembre del 2009, administra un portafolio de US$ 2.4 billones
+Número de
+clientes
+1.3 millones
+Personas naturales de alto valor, determinado por sus ingresos
+106,000
+personales, mantenimiento de saldos y frecuente uso de los
+productos del Banco.
+Personas naturales, definidas como clientes transaccionales y con
+1.1 millones
+frecuencia limitada en el uso de nuestros productos. Se constituyen
+en la base para la generación de clientes de alto valor.
+Personas jurídicas con ventas anuales entre US$ 300 mil y US$38,000
+2
+millones.
+Personas jurídicas y personas naturales con actividad económica
+105,000
+con ventas anuales hasta US$ 300 mil.
+Venta
+Compuestos por la red de sucursales y agencias y las áreas de
+Negocios de Consumo* y Comercialización y Ventas Dirigidas.
 
- en colocaciones directas e indirectas y de US$ 3.5 billones en depósitos y
+Canales
+Especializados
+Ventas y Servicios
 
- fondos mutuos. Su estructura agrupa las unidades de los segmentos
+Fuente
+Elaboración
 
- Preferente, Personal Estándar, de Negocios, Emprendedores, Canales de
+Segmento atendido
 
- Venta Minorista, Canales Especializados y Ventas y Servicios.
+Agrupan las bancas Patrimonial, Institucional y de Negocios
+Inmobiliarios.
+Focalizado en desarrollar soluciones estratégicas para incrementar
+la calidad del servicio a nuestros clientes.
 
+: SCOTIABANK
+: Unidad de Negocio
 
+* Negocios de Consumo: En abril del año 2009, Scotiabank Perú transfirió
+una cartera de colocaciones a CrediScotia Financiera,básicamente de
+Negocios de Consumo y, en menor cuantía, de Microempresa, lo que ha
+permitido consolidar, en esta subsidiaria, la atención de productos y servicios
+especializados en microfinanzas.
 
+En el Segmento de Negocios, el producto Arrendamiento Financiero
+(leasing), principalmente en los sectores Comercio y Manufactura, nos ha
+permitido impulsar la formalización de pequeños negocios.
+Optimizamos, de esta manera, el manejo tributario y financiero de las
+empresas beneficiadas. Durante el 2009, se registraron colocaciones del
+orden de US$ 98 millones.
+Canales de Atención
 
-                                                                                72
-                           CUADRO Nº 05
-              NÚMERO DE CLIENTES ATENDIDOS EN EL 2009
+73
 
-Unidad de Negocio      Segmento atendido                                             Número de
-                                                                                     clientes
-Retail                                                                               1.3 millones
-Preferente          Personas naturales de alto valor, determinado por sus ingresos   106,000
-                    personales, mantenimiento de saldos y frecuente uso de los
-                    productos del Banco.
-Personal y          Personas naturales, definidas como clientes transaccionales y con1.1 millones
-Estándar            frecuencia limitada en el uso de nuestros productos. Se constituyen
-                    en la base para la generación de clientes de alto valor.
-Segmento            Personas jurídicas con ventas anuales entre US$ 300 mil y US$38,000
-                                                                                      2
-de Negocios         millones.
-Emprendedores       Personas jurídicas y personas naturales con actividad económica  105,000
-                    con ventas anuales hasta US$ 300 mil.
-Canales      de   Venta
-                    Compuestos por la red de sucursales y agencias y las áreas de
-Minorista           Negocios de Consumo* y Comercialización y Ventas Dirigidas.
-
-Canales                Agrupan las bancas Patrimonial, Institucional y de Negocios
-Especializados         Inmobiliarios.
-Ventas y Servicios     Focalizado en desarrollar soluciones estratégicas para incrementar
-                       la calidad del servicio a nuestros clientes.
-  Fuente             : SCOTIABANK
-  Elaboración        : Unidad de Negocio
-
-  * Negocios de Consumo: En abril del año 2009, Scotiabank Perú transfirió
-
-  una cartera de colocaciones a CrediScotia Financiera,básicamente de
-
-  Negocios de Consumo y, en menor cuantía, de Microempresa, lo que ha
-
-  permitido consolidar, en esta subsidiaria, la atención de productos y servicios
-
-  especializados en microfinanzas.
-
-
-
-  En el Segmento de Negocios, el producto Arrendamiento Financiero
-
-  (leasing), principalmente en los sectores Comercio y Manufactura, nos ha
-
-  permitido impulsar la formalización de pequeños negocios.
-
-  Optimizamos, de esta manera, el manejo tributario y financiero de las
-
-  empresas beneficiadas. Durante el 2009, se registraron colocaciones del
-
-  orden de US$ 98 millones.
-
-  Canales de Atención
-
-
-
-                                                                                            73
 Durante el año 2009, ampliamos la cobertura de nuestros principales
-
 canales de atención, consolidando nuestro modelo de negocios a nivel
-
 nacional y acercándonos cada vez más a nuestros clientes en los distintos
-
 segmentos que atendemos.
 
-
-
 Nuestros canales de atención comprenden la red de sucursales y agencias,
-
 cajeros express, cajeros automáticos, terminales de pagos y consultas,
-
 servicios bancarios por internet (Scotia en Línea) y nuestra banca telefónica.
 
+Gráfico Nº 05
+Diferentes niveles de canales de atención
 
-
-                                Gráfico Nº 05
-
-                  Diferentes niveles de canales de atención
-
-
-
-
-             (*) La Red de Sucursales y Agencias incluye las dos agencias de
-             Banca Patrimonial, laagencia temporal de Asia y la sucursal de
-             Scotiabank Perú en Panamá.
-             Fuente       : SCOTIABANK
-             Elaboración : Unidad de Negocio
+(*) La Red de Sucursales y Agencias incluye las dos agencias de
+Banca Patrimonial, laagencia temporal de Asia y la sucursal de
+Scotiabank Perú en Panamá.
+Fuente
+: SCOTIABANK
+Elaboración : Unidad de Negocio
 
 Red de Sucursales y Agencias
-
 Buscamos la simplificación de los procesos operativos para agilizar la
-
 atención en ventanilla; por ello, venimos reasignando las actividades
-
 administrativo-operativas de nuestros funcionarios en los segmentos en los
 
+74
 
-
-
-                                                                        74
 que trabajamos. De esta manera, creamos las condiciones necesarias para
-
 que ellos focalicen su trabajo en el asesoramiento de nuestros clientes.
 
-
-
 Cajeros Express
-
 Fuimos el primer banco que puso en funcionamiento los cajeros
-
 corresponsales (Cajeros Express) para beneficio de nuestros clientes con
-
 más puntos de atención para el pago de servicios, colocaciones y retiro de
-
 ahorros. Nuestros Cajeros Express están ubicados, a nivel nacional, en los
-
 locales de nuestros aliados comerciales: La Curacao, Maestro Home Center,
-
 Mavila, Cassinelli, Topitop, Bata, grifos Pecsa, boticas BTL, Centro
-
 Odontológico Americano, locales de SCI, entre otros. Aprovechamos su
-
 ubicación y flexibilidad de horarios de atención.
 
-
-
 Los Cajeros Express han demostrado ser un potente canal bancarizador que
-
 nos permite dar servicios financieros en lugares geográficos de difícil
-
 acceso, con lo que impulsamos el crecimiento de los negocios de nuestros
-
 clientes y su calificación para acceder a las diversas modalidades de crédito.
 
-
-
 Scotia en Línea
-
 Incentivamos a nuestros clientes a utilizar, cada vez más, medios
-
 electrónicos para realizar sus transacciones, con el objetivo de lograr una
-
 mayor eficiencia operativa en la atención en ventanilla y sobre todo facilitar
-
 la comodidad para realizar sus transacciones en el lugar y horario más
-
 conveniente. Se ha logrado que, de las 10 millones de transacciones
 
+75
 
-
-                                                                        75
 mensuales que se realizan en el Banco, solo el 27% sea en ventanilla, y un
-
 incremento del 8% en el número de transacciones por este canal.
 
-
-
 En el 2010, seguiremos implementando mecanismos de seguridad
-
 adicionales para proteger las transacciones de nuestros clientes en los
-
 medios electrónicos del Banco.
 
+Gráfico Nº 06
+Número de transacciones en línea en el 2009
 
+Fuente
+Elaboración
 
-                                  Gráfico Nº 06
-                 Número de transacciones en línea en el 2009
+4.6.
 
+: SCOTIABANK
+: Unida de Negocio
 
-
-
-             Fuente        : SCOTIABANK
-             Elaboración   : Unida de Negocio
-
-      4.6.   NUESTRA FUERZA LABORAL
+NUESTRA FUERZA LABORAL
 
 En Scotiabank sabemos que nuestro éxito como organización depende del
-
 éxito de nuestros colaboradores. Nos esforzamos por ser un banco donde
+las
 
-las   personas talentosas desean trabajar         y tienen     oportunidad de
+personas talentosas desean trabajar
+
+y tienen
+
+oportunidad de
 
 desarrollarse profesionalmente.
 
+76
 
-
-
-                                                                       76
-                                CUADRO Nº 06
-              FUERZA LABORAL DE SCOTIABANK (2008 - 2009)
-Nuestra fuerza laboral                       2008          2009
-Número de colaboradores                      4,090         3,663
+CUADRO Nº 06
+FUERZA LABORAL DE SCOTIABANK (2008 - 2009)
+Nuestra fuerza laboral
+2008
+2009
+Número de colaboradores
+4,090
+3,663
 Por género
-Masculino                                    50%           49%
-Femenino                                     50%           51%
+Masculino
+50%
+49%
+Femenino
+50%
+51%
 Por ubicación geográfica
-Lima                                         82%           83%
-Provincias                                   18%           17%
-Edad promedio                                36 años       35 años
-Rotación de colaboradores *                  13.4%         12.1%
+Lima
+82%
+83%
+Provincias
+18%
+17%
+Edad promedio
+36 años
+35 años
+Rotación de colaboradores *
+13.4%
+12.1%
 * En el año 2009, se trasladaron 450colaboradores de Scotiabank a CrediScotia
 Financiera.
-Fuente        : SCOTIABANK
+Fuente
+: SCOTIABANK
 Elaboración : Unida de Negocio
+Gráfico Nº 07
+Fuerza laboral por género y ubicación geográfica (2008 – 2009)
 
-                                    Gráfico Nº 07
-         Fuerza laboral por género y ubicación geográfica (2008 – 2009)
+Fuente
+Elaboración
 
+: SCOTIABANK
+: Unidad de Negocio
 
+77
 
+4.7.
 
-Fuente        : SCOTIABANK
-Elaboración   : Unidad de Negocio
-
-
-
-
-                                                                          77
-     4.7.   IMPORTANCIA DEL SERVICIO AL CLIENTE
-
-
+IMPORTANCIA DEL SERVICIO AL CLIENTE
 
 Brindan asesoramiento permanente con información útil a nuestros clientes,
-
 a través de cursos de capacitación en temas de interés como Administración
-
 del Flujo de Caja (Cash Management),Comercio Exterior, Recursos
-
 Humanos, Contabilidad, Márketing, entre otros, con el apoyo de reconocidas
-
 instituciones educativas, tanto en Lima como en provincias.
 
+Asimismo,
 
+organizan
 
-Asimismo,    organizan     desayunos      ejecutivos   con   especialistas    de
+desayunos
+
+ejecutivos
+
+con
+
+especialistas
+
+de
 
 comprobada trayectoria para generar una plataforma de discusión sobre la
-
 problemática económica actual, lo que permite a nuestros clientes disponer
-
 de información estratégica para el desarrollo de sus negocios.
 
-
-
 Comunicación clara y precisa al momento de hacer negocios prestamos
-
 especial atención a una comunicación adecuada con nuestro entorno. Por
-
 esta razón, el material de comunicación de Scotiabank es continuamente
-
 revisado por las diversas áreas del Banco, que velan por un lenguaje
-
 sencillo, claro y de fácil comprensión.
 
-
-
 Consolidación de la relación cliente-Banco mediante el auspicio de eventos
-
 culturales y artísticos(obras musicales y de teatro), así como ferias de
-
 educación para nuestros clientes y sus familias.
 
+78
 
+4.8.
 
-
-                                                                         78
-      4.8.   FUERZA LABORAL DE SCOTIABANK
+FUERZA LABORAL DE SCOTIABANK
 
 Nuestra fuerza laboral
-
 En Scotiabank sabemos que nuestro éxito como organización depende del
-
 éxito de nuestros colaboradores. Nos esforzamos por ser un banco donde
+las
 
-las   personas talentosas desean trabajar y       tienen   oportunidad de
+personas talentosas desean trabajar y
+
+tienen
+
+oportunidad de
 
 desarrollarse profesionalmente.
 
+4.9.
 
-
-      4.9.   RESEÑA HISTÓRICA DE SCOTIABANK
+RESEÑA HISTÓRICA DE SCOTIABANK
 
 Scotiabank Perú forma parte de The Bank of Nova Scotia (BNS) o Grupo
-
 Scotiabank, una de las instituciones financieras más importantes de
-
 Norteamérica y el banco canadiense con mayor presencia y proyección
-
 internacional.
 
-
-
 Con sede en Toronto (Canadá) y con 180 años de experiencia en el mundo,
-
 el Grupo Scotiabank mantiene activos consolidados por US$ 580 mil
-
 millones (al 31 de octubre de 2011).
 
-
-
 Con su equipo de más de 70 mil empleados, ofrece una amplia gama de
-
 productos y servicios en los sectores de banca personal, comercial,
-
 corporativa y de inversión a más de 18.6 millones de clientes, en unos 50
-
 países alrededor del mundo.
 
-
-
 La diversificación geográfica y comercial del Grupo Scotiabank continúa
-
 siendo la esencia de su estrategia y potencia su crecimiento en cada una de
 
+79
 
-
-                                                                     79
 sus cuatro unidades de negocio: Banca Canadiense, Banca Internacional,
-
 Banca Patrimonial y Banca y Mercados Globales.
 
-
-
 Solo a través de Banca Internacional opera en más de 45 países fuera de
-
 Canadá. Más de 48,000 empleados ofrecen servicios financieros a más de
-
 11 millones de clientes en El Caribe, América Central, México, Latinoamérica
-
 y Asia; a través de una red de aproximadamente 2,100 agencias y oficinas;
-
 3,700 ABM’s, banca telefónica y por Internet, cajeros corresponsales y
-
 especializadas fuerzas de venta.
 
-
-
 Al cierre del ejercicio 2010, la Banca Internacional contribuyó con el 30% de
-
 los resultados globales del Grupo, de los cuales el 41% de los ingresos
-
 internacionales provino de operaciones en América Latina, Asia y Otros; el
-
 23% provino de México y el 36% del Caribe y América Central.
 
+80
 
-
-
-                                                                       80
-                                  CAPITULO V
-
+CAPITULO V
 5.RESULTADOS Y DISCUSIÓN
-
 5.1 ANÁLISIS DEL GRADO DE CONTAMINACIÓN DE LA CARTERA CREDITICIA
+(MOROSIDAD) DE SCOTIABANK – AGENCIA PUNO
+5.1.1 Análisis De Los Resultados Del Modelo Teórico Propuesto
 
-  (MOROSIDAD) DE SCOTIABANK – AGENCIA PUNO
+MOR = C(1) + C(2)*PBI + C(3)*TIAS + C(4)*COLS + C(5)*NC
 
- 5.1.1 Análisis De Los Resultados Del Modelo Teórico Propuesto
+En el modelo econométrico inicialmente planteado se han considerado como
+variables explicativas de la morosidad (mor), el Producto Bruto Interno (PBI), la
+tasa de interés activa (TIAS), el saldo de las colocaciones (COLS) y el número de
+clientes (NC). Los resultados obtenidos por el método de mínimos cuadrados
+ordinarios fue el siguiente:
 
+MOR = -5.85 - 0.006*PBI + 0.31*TIAS + 3.81*COLS + 0.005*NC
 
+81
 
- MOR = C(1) + C(2)*PBI + C(3)*TIAS + C(4)*COLS + C(5)*NC
+(
 
-
-
-
- En el modelo econométrico inicialmente planteado se han considerado como
-
- variables explicativas de la morosidad (mor), el Producto Bruto Interno (PBI), la
-
- tasa de interés activa (TIAS), el saldo de las colocaciones (COLS) y el número de
-
- clientes (NC). Los resultados obtenidos por el método de mínimos cuadrados
-
- ordinarios fue el siguiente:
-
-
-
- MOR = -5.85 - 0.006*PBI + 0.31*TIAS + 3.81*COLS + 0.005*NC
-
-
-
-
-                                                                            81
-                                    (             )
-
-
-
+)
 
 Se aprecia que las variables COLS y NC, individualmente no son estadísticamente
-
 significativos, lo que indica que se tendría que omitir o excluir del modelo. Por lo
-
 tanto, es necesario replantear el modelo inicial, aunque la prueba conjunta señala
+que
 
-que   todas   las   variables   explicativas      consideradas   en     el   modelo        son
+todas
+
+las
+
+variables
+
+explicativas
+
+consideradas
+
+en
+
+el
+
+modelo
+
+son
 
 estadísticamente significativas, esto de acuerdo al F-statistic.
 
-
-
 El mejor modelo excluye a variables explicativas COLS y NC que no eran
-
 significativos en términos estadísticos para explicar el comportamiento de la
-
 variable dependiente.
 
-
-
-
-                           MOR = C(1) + C(2)*PBI + C(3)*TIAS
-
-
+MOR = C(1) + C(2)*PBI + C(3)*TIAS
 
 Los resultados obtenidos por mínimos cuadrados ordinarios del nuevo modelo
-
 econométrico tienen las siguientes características:
 
+-6.76 - 0.006*PBI + 0.34*TIAS
+(
 
+)(
 
+)(
 
-                                        -6.76 - 0.006*PBI + 0.34*TIAS
+)
 
-                                (          )(     )(     )
+82
 
-
-
-
-                                                                                      82
 5.1.2 ANÁLISIS ECONOMÉTRICO Y ESTADÍSTICO DEL MODELO DEFINITIVO
 
-
-
 Análisis del test t-statistic.
-
 Según este criterio, se observa que las dos variables explicativas consideradas en
-
 el modelo econométrico, son de manera individual estadísticamente significativas
-
 para explicar el comportamiento de la variable endógena que es la morosidad
-
 crediticia; a un nivel de significancia del 5% y hasta a un nivel de significancia del
-
 1%, por lo tanto, no se rechaza la hipótesis nula de que los coeficientes son iguales
-
 a cero.
 
-
-
 Análisis de la bondad de ajuste del coeficiente de determinación (R2)
-
 R-squared. Se aprecia un valor de 97.27% para el coeficiente de determinación, lo
-
 cual nos indica que las variaciones de las variables independientes PBI y TIAS del
-
 modelo explican en más del 97% las variaciones de la variable MOR. Tal
-
 porcentaje se considera como un grado de buen ajuste.
 
+Medidas de bondad de ajuste
 
-
-Medidas de bondad de ajuste                      nos mide la bondad del ajuste del
+nos mide la bondad del ajuste del
 
 modelo, en un 97%.La interpretación sería que las variaciones en la tasa de
-
 morosidad están siendo explicadas por las variables independientes en un 97%.
+, este indicador es de mucha importancia en regresiones multivariables.
 
-   , este indicador es de mucha importancia en regresiones multivariables.
+83
 
-
-
-
-                                                                               83
 Análisis de la Prueba de Significancia F-statistic.
 
-
-
 F-statistic. Dado que su valor es muy superior a 2, se asume que todas las
-
 variables explicativas son altamente significativas en conjunto.
 
-
-
 Se ha trabajado a un nivel de significancia de 5%, se obtuvo el valor de Fc=589.75
-
 con una probabilidad de 0.00000, por lo tanto se rechaza la hipótesis nula siendo
-
 significativo la prueba en conjunto de los parámetros. Esto representaría que las 2
+variables independientes el PBI,
 
-variables independientes el PBI,        TIAS ambas    son altamente significativas y
+TIAS ambas
+
+son altamente significativas y
 
 relevantes que explican a la morosidad.
 
-
-
 Análisis de la Prueba de Hipótesis del EsdadísticoDurbin –Watson.
-
 Auto correlación
-
 Durbin-Watson stat, se encuentra muy cercano a 2, se puede decir que tiene una
-
 auto correlación positiva de orden 1.
 
-
-
 Como se puede ver se tiene estadístico Durbin – Watson es de 1.494869,
-
 verificando las tablas se tiene, 2 variables explicativas, n=36, con un nivel de
-
 significancia del 5 % obtenemos los límites inferior y superior como se muestra,
+
+
 
-                       
+84
 
-                       
+Auto correlación Positiva
 
+Auto correlación Negativa
 
+No autocorrelación
+0
 
+zona indecisión
 
-                                                                              84
-Auto correlación Positiva                      Auto correlación Negativa
-
-
-
-                       No autocorrelación
-
-                   0         zona indecisión
-
-
-
-
-               .
-
-
-                               D.W= 1.494869
-
-
-
+.
+D.W= 1.494869
 
 Identificación y Explicación de los Determinantes de la Morosidad.
-
 Según el modelo definitivo, se puede apreciar que el Producto Bruto Interno (PBI)
-
 y la tasa de interés activa (TIAS) son las principales variables que determinan la
-
 morosidad (MOR) en el SCOTIABANK PERU Agencia Puno.
 
-
-
 Coeficientes
-
-                    . es una variable autónoma, indica que en promedio existió un nivel
-
+. es una variable autónoma, indica que en promedio existió un nivel
 de morosidad de S/. 676 366 entre 2010 y 2012.
 
-
-
-                    . Iindica la existencia de una relación negativa entre la variable
-
+. Iindica la existencia de una relación negativa entre la variable
 morosidad del SCOTIABANK y el PBI. Así, un incremento del PBI en10 mil soles
-
 ocasiona la disminución del promedio de la morosidad en S/.6162.
+. Existeuna relación positiva entre la tasa de interés activa
 
-                   . Existeuna relación positiva entre la tasa de interés activa    y la
+y la
 
-morosidad. Un incremento de 1% en la tasa de interésactiva, ocasiona                    un
-
+morosidad. Un incremento de 1% en la tasa de interésactiva, ocasiona
 incremento de S/. 34,322 en la morosidad del SCOTIABANK.
 
+85
 
+un
 
-                                                                                   85
 Todas las variables explicativas del modelo tienen el signo esperado y son
-
 significativas.
 
-
-
 Por lo tanto el determinante microeconómico, TIAS en la gestión crediticia pasadas
-
 afectan de forma muy significativa al nivel de morosidad.
 
-
-
 Y con respecto a la variable macroeconómica, PBI, se ha visto que el PBI afecta
-
 negativamente a la morosidad, por lo que las fluctuaciones económicas se
-
 transmiten con mucha rapidez a la morosidad.
-
-
 
 Probabilidades de los parámetros:
 
-
-
 Parámetro PBI: Nivel de significancia 0.0000nivel de confianza 99.99%.
-
 Parámetro TIAS: Nivel de significancia 0.0000 nivel de confianza100.00%.
-
 Parámetro C: Nivel de significancia 0.0000 nivel de confianza 99.99%
 
+86
 
+5.2.
 
-
-                                                                            86
-5.2.    ANÁLISIS DEL COMPORTAMIENTO DEL NIVEL DE RENTABILIDAD CON
+ANÁLISIS DEL COMPORTAMIENTO DEL NIVEL DE RENTABILIDAD CON
 
 PRESENCIA DE LA CARTERA DE ALTO RIESGO (MOROSIDAD)
 
-
-
 5.2.A. Enfoque del nivel de rentabilidad de SCOTIABANK
-
 Análisis de los resultados del modelo teórico
+El
 
-El     modelo   matemático   planteado         inicialmente,       considera   como   variable
+modelo
+
+matemático
+
+planteado
+
+inicialmente,
+
+considera
+
+como
+
+variable
 
 independiente a la rentabilidad (r), medida como la diferencia entre la tasa de
-
 interés activa (tias) y la tasa de interés pasiva (tips); y variables explicativas a la
-
 tasa de interés pasiva (tips), el saldo de colocaciones (cols), el número de clientes
-
 (nc) y el saldo de depósitos (sd). Cabe señalar que las variables como la
-
 rentabilidad y la tasa de interés pasiva, están expresadas en porcentajes.
+(
 
-                                      (                        )
+)
 
 Modelo matemático:
-
 R = C(1) + C(2)*TIPS + C(3)*COLS + C(4)*NC + C(5)*SD
-
 Modelo econométrico 01:
-
 R = C(1) + C(2)*TIPS + C(3)*COLS + C(4)*NC + C(5)*SD + µ
-
 Los resultados obtenidos por el método de mínimos cuadrados ordinarios fueron
-
 las siguientes:
-
 R = 22.9 - 0.98*TIPS + 1.152*COLS + 0.079*NC + 5.026*SD
+(
 
-                       (     )(           )(    )(       )         (   )
+)(
 
+)(
 
+(
 
-                                  (                  )
+)(
 
+)
 
+(
 
+)
 
-                                                                                       87
+)
+
+87
+
 De acuerdo a los resultados, se aprecia que las variables explicativas son de
-
 manera individual estadísticamente significativas, además presente un Rcuadrado
-
 de 0.8424 que nos indica un buen ajuste del modelo. Por otro lado, el indicador de
-
 Durbin Watson es de DW=1.2748 que nos da indicios de existencia de
-
 autocorrelación.
 
-
-
 5.2.B. Análisis de los resultados estadísticos y econométricos del modelo definitivo
-
 Para evitar la presencia de autocorrelación, se han suavizado las series tomando
-
 logaritmos sobre todo en las variables explicativas como COLS, ND y SD, pero no
-
 se ha tomado logaritmos en las variables R, MOR1 y TIPS ya que, éstas, además
-
 están expresadas en porcentajes.
-
-
 
 R = C(1) + C(2)*TIPS + C(3)*LCOLS + C(4)*LNC + C(5)*LSD+C(6)*MOR1+ µ
 
-
-
 Los resultados de la estimación por mínimos cuadrados ordinarios tienen las
-
 siguientes características:
 
-
-
 R = -55.19– 0.975*TIPS + 2.87*LCOLS + 1.67*LNC + 2.71*LSD-1.35*MOR1
+(
 
-                   (      )(        )(   )(   )(   )     (      )
+)(
 
+)(
 
+(
 
+)(
 
-                                (             )
+)(
 
+)
 
+(
 
+)
 
-                                                                              88
+)
+
+88
+
 5.2.C. Análisis econométrico y estadístico del modelo definitivo
-
 Análisis del test t-statistic
-
 Según este criterio, se observa que las cinco variables explicativas consideradas
-
 en el modelo econométrico, son de manera individual estadísticamente
-
 significativas para explicar el comportamiento de la variable endógena que es la
-
 morosidad crediticia; a un nivel de significancia del 5% y hasta a un nivel de
-
 significancia del 1%, por lo tanto, no se rechaza la hipótesis nula de que los
-
 coeficientes son iguales a cero.
-
 Análisis de la bondad de ajuste del coeficiente de determinación (R2)
 
-
-
 R-squared. Se aprecia un valor de 90.51% para el coeficiente de determinación, lo
-
 cual nos indica que las variaciones de las variables independientes TIPS, COLS,
-
 NC, SD, MOR1 del modelo explican en más del 90% las variaciones de la variable
-
 R. Tal porcentaje se considera como un grado de buen ajuste.
 
+Medidas de bondad de ajuste
 
-
-Medidas de bondad de ajuste                       nos mide la bondad del ajuste del
+nos mide la bondad del ajuste del
 
 modelo, en un 90%.La interpretación sería que las variaciones en la tasa de
-
 morosidad están siendo explicadas por las variables independientes en un 90%.
-
-  , este indicador es de mucha importancia en regresiones multivariables.
-
+, este indicador es de mucha importancia en regresiones multivariables.
 Análisis de la Prueba de Significancia F-statistic.
 
-
-
 F-statistic. Dado que su valor es muy superior a 5, se asume que todas las
-
 variables explicativas son altamente significativas en conjunto.
 
+89
 
-
-
-                                                                             89
 Se ha trabajado a un nivel de significancia de 5%, se obtuvo el valor de
-
 Fc=57.26539 con una probabilidad de 0.00000, por lo tanto se rechaza la hipótesis
-
 nula siendo significativo la prueba en conjunto de los parámetros. Esto
-
 representaría que las 5 variables independientes la TIPS, COLS, NC, SD Y MOR1
-
 todas son altamente significativas y relevantes que explican a la rentabilidad.
 
-
-
 Análisis de la Prueba de Hipótesis del EstadísticoDurbin –Watson.
-
 Auto correlación
 
-
-
 Durbin-Watson stat, se encuentra muy cercano a 2, se puede decir que tiene una
-
 auto correlación positiva de orden 1.
 
+Como
 
+se
 
-Como      se     puede      ver   se   tiene   estadístico   Durbin   –    Watson   es    de
+puede
+
+ver
+
+se
+
+tiene
+
+estadístico
+
+Durbin
+
+–
+
+Watson
+
+es
+
+de
 
 1.688437;verificando las tablas se tiene, 5 variables explicativas, n=36, con un nivel
-
 de significancia del 5 % obtenemos los límites inferior y superior como se muestra,
-
 •
-
 •
+Auto correlación Positiva
 
-Auto correlación Positiva                      Auto correlación Negativa
-
-
+Auto correlación Negativa
 
 No autocorrelación
+0
 
-    0     zona indecisión
-
-
-
+zona indecisión
 
 .
+D.W= 1.688437
 
-                                                  D.W= 1.688437
+90
 
-
-
-
-                                                                                     90
 Identificación y Explicación de los Determinantes de la Rentabilidad de
-
 SCOTIABANK – Agencia Puno
-
 Según el modelo definitivo, se puede apreciar que la tasa de interés pasiva (TIPS)
-
 el saldo de colocaciones (COLS), el número de clientes (NC), el saldo de depósitos
-
 (SD) y el promedio de morosidad (MOR1) son variables que determinan la
-
 rentabilidad (R) en el SCOTIABANK PERU Agencia Puno.
 
-
-
 Coeficientes
-
-               . Es una variable autónoma, indica que en promedio existió un nivel
-
+. Es una variable autónoma, indica que en promedio existió un nivel
 de rentabilidad de S/. 5518692 entre 2010 y 2012.
 
+. Iindica la existencia de una relación negativa entre la variable
+rentabilidad del SCOTIABANK y el TIPS. Así, un incremento del
 
-
-                . Iindica la existencia de una relación negativa entre la variable
-
-rentabilidad del SCOTIABANK y el TIPS. Así, un incremento del          TIPS en 1%
+TIPS en 1%
 
 ocasiona la disminución del promedio de la rentabilidad en S/.975261
 
-
-
-               . Existeuna relación positiva entre el saldo de colocaciones y la
-
+. Existeuna relación positiva entre el saldo de colocaciones y la
 rentabilidad. Un incremento de 1 % en el saldo de colocaciones, ocasiona un
-
 incremento de 2.87 % en la rentabilidad del SCOTIABANK.
 
+. Existeuna relación positiva entre el número de clientes
 
-
-               . Existeuna relación positiva entre el número de clientes     y la
+y la
 
 rentabilidad. Un incremento de 1 % en NC, ocasiona un incremento de 1.67 % en
-
 la rentabilidad del SCOTIABANK.
 
+91
 
+. Existeuna relación positiva entre el saldo de depósitos
 
+y la
 
-                                                                            91
-                  . Existeuna relación positiva entre el saldo de depósitos    y la
+rentabilidad. Un incremento de 1 % en el saldo de depósitos, ocasiona
 
-rentabilidad. Un incremento de 1 % en el saldo de depósitos, ocasiona              un
+un
 
 incremento de 2.71 % en la rentabilidad del banco.
 
+−1.351089.
+(MOR1)
 
+Existeuna relación negativa entre el promedio de morosidad
 
-     −1.351089.       Existeuna relación negativa entre el promedio de morosidad
-
-(MOR1)     y la rentabilidad. Un incremento de 1 % en la morosidad, ocasiona una
+y la rentabilidad. Un incremento de 1 % en la morosidad, ocasiona una
 
 disminución de S/. 1 351 089 en la rentabilidad.
 
-
-
 Todas las variables explicativas del modelo tienen el signo esperado y son
-
 significativas.
 
-
-
 Probabilidades de los parámetros:
-
 Parámetro C: Nivel de significancia 0.0000, nivel de confianza 100.00%.
-
 Parámetro TIPS:Nivel de significancia 0.0000 nivel de confianza100.00%.
-
 Parámetro COLS: Nivel de significancia 0.0000 nivel de confianza 100.00%
-
 Parámetro NC: Nivel de significancia 0.0088 nivel de confianza 99.99%.
-
 Parámetro SD:Nivel de significancia 0.0000 nivel de confianza100.00%.
-
 Parámetro MOR1: Nivel de significancia 0.0062 nivel de confianza 99.98%.
 
+92
 
-
-
-                                                                              92
-                      PRUEBA DE HIPÓTESIS MOROSIDAD:
-
-                                 HIPOTESIS NULA
-
+PRUEBA DE HIPÓTESIS MOROSIDAD:
+HIPOTESIS NULA
 Las variables explicativas PBI y TIAS son estadísticamente iguales a cero.
 
-
-
 Al nivel de significancia del 5%, los estimadores son estadísticamente distintos de
-
 cero, lo que implica que las variables consideradas son significativas.
 
-
-
 Por la probabilidad del F-statistic, que es menor al 5% concluimos que los
-
 estimadores son distintos de cero.
 
+Wald Test:
+Equation: MEJORMODELO
+Test Statistic Value
+F-statistic
+Chi-square
 
+df
 
-               Wald Test:
-               Equation: MEJORMODELO
+589.7537 (2, 33)
+1179.507 2
 
-               Test Statistic Value       df           Probability
+Probability
+0.0000
+0.0000
 
-               F-statistic     589.7537 (2, 33)        0.0000
-               Chi-square      1179.507 2              0.0000
+NullHypothesisSummary:
+NormalizedRestriction (= 0)Value
+C(2)
+C(3)
 
+Std. Err.
 
-               NullHypothesisSummary:
-
-               NormalizedRestriction (= 0)Value        Std. Err.
-
-               C(2)                       -0.006162 0.000854
-               C(3)                       0.343221 0.016967
-
-
+-0.006162 0.000854
+0.343221 0.016967
 
 Por lo tanto rechazamos la hipótesis nula.
-
 Además de ello, los estimadores al 95% del nivel de confianza, caen dentro de la
-
 zona de aceptación.
 
+93
 
+Grafico N° 8
+Wald test - Morosidad
+-.004
 
+C(2)
 
-                                                                             93
-                                          Grafico N° 8
-                                   Wald test - Morosidad
+-.005
+-.006
+-.007
+-.008
 
-                      -.004
+.38
 
+C(3)
 
-                      -.005
+.36
+.34
+.32
+.30
+-8
 
+-7
+C(1)
 
-                      -.006
-            C(2)
+-6
 
-
-
-
-                      -.007
-
-
-                      -.008
-
-
-
-                       .38
-
-
-                       .36
-               C(3)
-
-
-
-
-                       .34
-
-
-                       .32
-
-
-                       .30
-
-                              -8   -7     -6      -.008 -.007 -.006 -.005 -.004
-
-                                   C(1)                      C(2)
-
-
-
+-.008 -.007 -.006 -.005 -.004
+C(2)
 
 Si el comportamiento de la cartera de alto riesgo sube entonces, ello afectara
-
 negativamente en el nivel de rendimiento financiero de SCOTIABANK Perú S.S.A.
 
+94
 
-
-
-                                                                                  94
-                   PRUEBA DE HIPOTESIS DE RENTABILIDAD
-
-
+PRUEBA DE HIPOTESIS DE RENTABILIDAD
 
 HIPÓTESIS NULA
-
 Los estimadores de las variables TIPS COLS NC y SD son iguales a cero
 
-
-
 HIPÓTESIS ALTERNATIVA
-
 Los estimadores de las variables TIPS COLS NC y SD son distintos a cero. Por la
-
 probabilidad de la F que es menor al 5%, rechazamos la hipótesis nula de que los
-
 estimadores son iguales a cero ya que el test indica que son distintos a cero. Con
-
 ello concluimos que las variables consideradas explican bien el comportamiento de
-
 la variable endógena. Es decir son significativas.
 
+Wald Test:
+Equation: RENTABILIDADMEJORMODELO
+Test Statistic Value
+F-statistic
+Chi-square
 
+df
 
-               Wald Test:
-               Equation: RENTABILIDADMEJORMODELO
+55.64416 (4, 31)
+222.5767 4
 
-               Test Statistic Value        df             Probability
+Probability
+0.0000
+0.0000
 
-               F-statistic     55.64416 (4, 31)           0.0000
-               Chi-square      222.5767 4                 0.0000
+NullHypothesisSummary:
+NormalizedRestriction (= 0)Value
 
+Std. Err.
 
-               NullHypothesisSummary:
+C(2)
+C(3)
+C(4)
+C(5)
 
-               NormalizedRestriction (= 0)Value           Std. Err.
+0.097736
+0.633065
+0.632217
+0.616414
 
-               C(2)                        -1.010397      0.097736
-               C(3)                        2.997188       0.633065
-               C(4)                        2.224745       0.632217
-               C(5)                        3.166673       0.616414
+-1.010397
+2.997188
+2.224745
+3.166673
 
-               Restrictions are linear in coefficients.
+Restrictions are linear in coefficients.
 
+95
 
-
-
-                                                                            95
 Al 95% del nivel de confianza, los estimadores caen dentro de la zona de
-
 aceptación. Tal cual se aprecia en la figura.
 
+Grafico N°9
+Walt Test - Rentabilidad
 
+-0.8
 
-                                                                       Grafico N°9
+-1.0
+-1.1
+-1.2
 
-                                                        Walt Test - Rentabilidad
+C(3)
 
+4
 
-                -0.8
+3
 
-                -0.9
-      C(2)
+2
 
+C(4)
 
+3
 
+2
 
-                -1.0
+1
 
-                -1.1
+4
 
-                -1.2
+3
 
+C(1)
 
+C(2)
 
+-0
+.8
 
-                    4
-             C(3)
+-0
+.9
 
+-1
+.0
 
+-1
+.1
 
+-1
+.2
 
-                    3
+-4
+0
 
+-5
+0
 
+-6
+0
 
-                    2
+-7
+0
 
+2
 
+-8
+0
 
+C(5)
 
-                    3
-             C(4)
+C(2)
 
+-0.9
 
+2
 
+3
+C(3)
 
-                    2
+4
 
+1
 
+2
 
-                    1
+3
 
+C(4)
 
+96
 
+CONCLUSIONES
+1.
 
-                    4
-             C(5)
-
-
-
-
-                    3
-
-
-
-                    2
-
-
-
-                                                                                          2    3     4   1   2      3
-                                                         .2
-
-                                                                .1
-
-                                                                       .0
-
-                                                                              .9
-
-                                                                                     .8
-                          0
-
-                                0
-
-                                      0
-
-                                             0
-
-                                                   0
-                        -8
-
-                              -7
-
-                                    -6
-
-                                           -5
-
-                                                 -4
-
-
-
-
-                                                       -1
-
-                                                              -1
-
-                                                                     -1
-
-                                                                            -0
-
-                                                                                   -0
-
-
-
-
-                                                                                              C(3)           C(4)
-                                    C(1)                             C(2)
-
-
-
-
-                                                                                                                        96
-                              CONCLUSIONES
-
-
-1.    Los determinantes más importantes de la tasa de morosidad del
+Los determinantes más importantes de la tasa de morosidad del
 
 SCOTIABANK son el producto Bruto Interno y la tasa de interés activas
-
 respectivamente, por el nivel de significancia de sus parámetros; y donde según los
-
 resultados, el PBI tiene una relación inversa con la morosidad, ya que aún
-
 incremento del PBI, menor será la tasa de morosidad, además la tasa de interés
-
 activa mantiene su relación positiva, ya que cuando mayor sea la tasa de interés
-
 activa mayor será la tasa de morosidad en el SCOTIABANK.
 
+2.
 
-
-2.    El modelo definitivo en sus resultados estadísticos y econométricos concluye
+El modelo definitivo en sus resultados estadísticos y econométricos concluye
 
 que se tiene buen ajuste del modelo, expresado en el coeficiente de determinación
-
 R2 que es de 0.97 y una FC de 589.75 así como una probabilidad estadístico de
-
 0.00, lo que significa que las variables exógenas, explican significativamente en
-
 conjunto e individualmente a la morosidad que es la variable endógena; así como el
-
 nivel de Fc, concluye que las variables explicativas explican positivamente en forma
-
 conjunta a la morosidad.
 
+3.
 
-
-3.    El estadística de Durbin Watson (D.W.) concluye que no existe problemas de
+El estadística de Durbin Watson (D.W.) concluye que no existe problemas de
 
 auto correlación ni positiva y negativa ya que cae dentro de la región de
-
 aceptación, con un coeficiente de 1.49.
 
+97
 
+4.
 
-
-                                                                             97
-4.    Dado el nivel de significancia de las variables explicativas como: TIPS,
+Dado el nivel de significancia de las variables explicativas como: TIPS,
 
 COLS, NC, SD, MOR; donde el valor de estos parámetros en forma individual son
-
 significativas, entonces determinan y explican en forma conjunta el nivel de
-
 rentabilidad deScotiabank.
 
+98
 
+RECOMENDACIONES
+1.
 
-
-                                                                        98
-                              RECOMENDACIONES
-
-
-1.     Se recomienda que el SCOTIABANK debe buscar desarrollar un plan de
+Se recomienda que el SCOTIABANK debe buscar desarrollar un plan de
 
 capacitación al personal que tiene la labor principal de promoción, evaluación de
-
 créditos entre los funcionarios que tienen contacto con el cliente, con la finalidad de
-
 fidelizar y bancarizar mejor el mercado.
 
+2.
 
-
-2.     Establecer como política del banco el cumplimiento satisfactorio con el
+Establecer como política del banco el cumplimiento satisfactorio con el
 
 principio de transparencia de la información financiera, ya que ello es una función
-
 de responsabilidad para el banco, acorde a la ley Nº 28587 y el Reglamento de
-
 Transparencia de Información y Disposiciones Aplicables la Contratación de
-
 Usuarios del Sistema Financiero.
 
+3.
 
-
-3.     Mejorar las políticas que busquen acrecentar en el cumplimiento de algunas
+Mejorar las políticas que busquen acrecentar en el cumplimiento de algunas
 
 cláusulas de los contratos, pólizas, condiciones y acuerdos orientadas a mejorar la
-
 calidad del servicio financiero al cliente.
 
+4.
 
-
-4.     El equipo jerárquico debe realizar evaluaciones permanentes de las
+El equipo jerárquico debe realizar evaluaciones permanentes de las
 
 utilidades que genera la institución financiera (SCOTIABANK), y traer consigo el
-
 planteamiento de estrategias para mejorar el nivel de rentabilidad tanto en las
-
 utilidades netas anualizadas sobre el patrimonio y activos de SCOTIABANK.
 
+99
 
-
-
-                                                                                99
-                               BIBLIOGRAFÍA
-
-
+BIBLIOGRAFÍA
 Aguilar. Giovanna, Camargo Gonzalo. (2003) “Evolución de la cartera de las cajas y
-
-      Edpymes” Lima. www.consorcio.org.
-
+Edpymes” Lima. www.consorcio.org.
 Buchenau Juan (2002) “Productores en Proceso de Comercialización del micro y
-
-      pequeño crédito rural” consultor FrontierFinance International, FFI, con sede
-
-      en los EEUU e InternationaProjektConsult, IPC, con sede en Alemania
-
+pequeño crédito rural” consultor FrontierFinance International, FFI, con sede
+en los EEUU e InternationaProjektConsult, IPC, con sede en Alemania
 Cruz Méndez Olivier. Durán V. Rodolfo. Muñoz S. Evelyn (2001) “Sensibilidad de la
-
-      razón de Morosidad y Liquidez del Sistema Bancario Nacional ante cambios
-
-      en el entorno: un enfoque utilizando datos de panel”. BANCO CENTRAL DE
-
-      COSTA RICA. www.consorcio.org/CIES.
-
+razón de Morosidad y Liquidez del Sistema Bancario Nacional ante cambios
+en el entorno: un enfoque utilizando datos de panel”. BANCO CENTRAL DE
+COSTA RICA. www.consorcio.org/CIES.
 EDPYME RAIZ S.A., “Memorial Annual 2010 – 2011”.
-
 EDPYME RAIZ S.A., “Plan Estratégico 2010 – 2011”.
-
 EDPYME RAIZ S.A.,”Manual de Crédito 2010 – 2011”.
-
 Fisher R.A. (1936), “The use of multiple measurement en Tacsomic problems”, 289
+pag. En Journal of financial ISSVES.
+Hand. D.J., Henley, W.E. (1997), Statistical classification
 
-      pag. En Journal of financial ISSVES.
+methods in costumer
 
-Hand. D.J., Henley, W.E. (1997), Statistical classification   methods in costumer
-
-      credit scoring.
-
+credit scoring.
 Meza Gabriel (2004) “Evaluación de créditos y medición de riesgo crediticio”. Lima,
-
-      Perú.
-
+Perú.
 Murrugarra Edmundo, Alfredo Ebentreich (1999) “Determinantes de morosidad en
-
-      entidades de microfinanzas: evidencia de las edpymes”. Lima.
-
+entidades de microfinanzas: evidencia de las edpymes”. Lima.
 Muñoz, Jorge. 1999 “Calidad de la cartera del Sistema Bancario y el ciclo
+económico: Una aproximación econométrica para el caso peruano”. Estudios
+Económicos. Banco Central de Reserva del Perú. Julio, 1999.
 
-      económico: Una aproximación econométrica para el caso peruano”. Estudios
+100
 
-      Económicos. Banco Central de Reserva del Perú. Julio, 1999.
-
-
-                                                                           100
 PLEITEZ Chávez Rafael Antonio (1999)”El desarrollo de las Microfinanzas Rurales
-
-      en el Salvador: La tecnología de crédito de la financiera Calpiá. Universidad
-
-      Centroamericana” José Simeón Cañas, (uca). El Salvador.
-
+en el Salvador: La tecnología de crédito de la financiera Calpiá. Universidad
+Centroamericana” José Simeón Cañas, (uca). El Salvador.
 Portocarrero, Felipe. 1999 “Microfinanzas en el Perú: experiencias y perspectivas”.
-
-      Lima: Centro de Investigación de la Universidad del Pacífico y PROPYME.
-
+Lima: Centro de Investigación de la Universidad del Pacífico y PROPYME.
 Saurina, Jesús et al. 2000 “. Madrid: Banco de España. BoletínEconómico,
-
-      noviembredel 2000”.
-
-      Vigano, Louis (1995), “A credit scoring model for development, Bank: an
-
-      African case study, saving and development.
-
+noviembredel 2000”.
+Vigano, Louis (1995), “A credit scoring model for development, Bank: an
+African case study, saving and development.
 www.sbs.com.pe
-
 www.conasev.com.pe
-
 www.bcrp.com.pe
 
+101
 
-
-
-                                                                           101
 ANEXOS
 
+102
 
+ANEXO 01
 
+RESULTADOS DEL MODELO TEÓRICO- MOROSIDAD
+•
 
-         102
-                               ANEXO 01
-   RESULTADOS DEL MODELO TEÓRICO- MOROSIDAD
+Dependent Variable: MOR
+Method: Least Squares
+Date: 01/25/13 Time: 00:08
+Sample: 2010M01 2012M12
+Included observations: 36
+Variable
 
-                                         •
-           Dependent Variable: MOR
-            Method: Least Squares
-          Date: 01/25/13 Time: 00:08
-          Sample: 2010M01 2012M12
-           Included observations: 36
+Coefficient
 
-       Variable         Coefficient   Std. Error   t-Statistic     Prob.
+Std. Error
 
-          C             -5.849962     1.217495     -4.804915      0.0000
-         PBI            -0.006240     0.000873     -7.145958      0.0000
-        TIAS            0.305656      0.045035     6.787119       0.0000
-        COLS             3.81E-08     9.80E-08     0.388513       0.7003
-         NC             0.005360      0.007296     0.734624       0.4681
+t-Statistic
 
-      R-squared         0.973500       Mean dependentvar         2.623611
-  Adjusted R-squared    0.970081       S.D. dependentvar         0.509875
-   S.E. of regression   0.088194        Akaikeinfocriterion      -1.890310
-   Sum squaredresid     0.241124         Schwarzcriterion        -1.670377
-     Log likelihood     39.02558       Hannan-Quinncriter.       -1.813547
-       F-statistic      284.7038       Durbin-Watson stat        1.509475
-    Prob(F-statistic)   0.000000
+Prob.
 
+C
+PBI
+TIAS
+COLS
+NC
 
+-5.849962
+-0.006240
+0.305656
+3.81E-08
+0.005360
 
+1.217495
+0.000873
+0.045035
+9.80E-08
+0.007296
+
+-4.804915
+-7.145958
+6.787119
+0.388513
+0.734624
+
+0.0000
+0.0000
+0.0000
+0.7003
+0.4681
+
+R-squared
+Adjusted R-squared
+S.E. of regression
+Sum squaredresid
+Log likelihood
+F-statistic
+Prob(F-statistic)
+
+0.973500
+0.970081
+0.088194
+0.241124
+39.02558
+284.7038
+0.000000
+
+Mean dependentvar
+S.D. dependentvar
+Akaikeinfocriterion
+Schwarzcriterion
+Hannan-Quinncriter.
+Durbin-Watson stat
+
+2.623611
+0.509875
+-1.890310
+-1.670377
+-1.813547
+1.509475
 
 RESULTADOS DEL MODELO DEFINITIVO DE LA MOROSIDAD
+Dependent Variable: MOR
+Method: LeastSquares
+Date: 01/24/13 Time: 23:33
+Sample: 2010M01 2012M12
+Includedobservations: 36
+Variable
 
-           Dependent Variable: MOR
-            Method: LeastSquares
-          Date: 01/24/13 Time: 23:33
-          Sample: 2010M01 2012M12
-           Includedobservations: 36
+Coefficient
 
-       Variable         Coefficient   Std. Error   t-Statistic     Prob.
+Std. Error
 
-           C            -6.763664     0.670040     -10.09442      0.0000
-          PBI           -0.006162     0.000854     -7.219064      0.0000
-         TIAS           0.343221      0.016967     20.22862       0.0000
+t-Statistic
 
-      R-squared         0.972784       Mean dependentvar         2.623611
-  Adjusted R-squared    0.971134       S.D. dependentvar         0.509875
-   S.E. of regression   0.086627        Akaikeinfocriterion      -1.974746
-   Sum squaredresid     0.247642         Schwarzcriterion        -1.842786
-     Log likelihood     38.54542       Hannan-Quinncriter.       -1.928688
-       F-statistic      589.7537       Durbin-Watson stat        1.494869
-    Prob(F-statistic)   0.000000
+Prob.
 
+C
+PBI
+TIAS
 
+-6.763664
+-0.006162
+0.343221
 
+0.670040
+0.000854
+0.016967
 
-                                                                             103
-                               ANEXO 02
- RESULTADOS DEL MODELO TEÓRICO- RENTABILIDAD
+-10.09442
+-7.219064
+20.22862
 
+0.0000
+0.0000
+0.0000
 
-            Dependent Variable: R
-            Method: LeastSquares
-          Date: 01/25/13 Time: 07:31
-          Sample: 2010M01 2012M12
-           Includedobservations: 36
+R-squared
+Adjusted R-squared
+S.E. of regression
+Sum squaredresid
+Log likelihood
+F-statistic
+Prob(F-statistic)
 
-       Variable         Coefficient   Std. Error      t-Statistic    Prob.
+0.972784
+0.971134
+0.086627
+0.247642
+38.54542
+589.7537
+0.000000
 
-          C             22.94514      0.531094       43.20354        0.0000
-        TIPS            -0.958580     0.110923       -8.641877       0.0000
-        COLS             1.15E-06     2.92E-07       3.949437        0.0004
-         NC             0.075964      0.022958       3.308890        0.0024
-         SD              5.03E-06     1.31E-06       3.845289        0.0006
+Mean dependentvar
+S.D. dependentvar
+Akaikeinfocriterion
+Schwarzcriterion
+Hannan-Quinncriter.
+Durbin-Watson stat
 
-      R-squared         0.842493         Mean dependentvar          28.75000
-  Adjusted R-squared    0.822169         S.D. dependentvar          0.728925
-   S.E. of regression   0.307388          Akaikeinfocriterion       0.606832
-   Sum squaredresid     2.929103           Schwarzcriterion         0.826765
-     Log likelihood     -5.922980        Hannan-Quinncriter.        0.683595
-       F-statistic      41.45402         Durbin-Watson stat         1.274808
-    Prob(F-statistic)   0.000000
+2.623611
+0.509875
+-1.974746
+-1.842786
+-1.928688
+1.494869
 
+103
 
+ANEXO 02
+
+RESULTADOS DEL MODELO TEÓRICO- RENTABILIDAD
+Dependent Variable: R
+Method: LeastSquares
+Date: 01/25/13 Time: 07:31
+Sample: 2010M01 2012M12
+Includedobservations: 36
+Variable
+
+Coefficient
+
+Std. Error
+
+t-Statistic
+
+Prob.
+
+C
+TIPS
+COLS
+NC
+SD
+
+22.94514
+-0.958580
+1.15E-06
+0.075964
+5.03E-06
+
+0.531094
+0.110923
+2.92E-07
+0.022958
+1.31E-06
+
+43.20354
+-8.641877
+3.949437
+3.308890
+3.845289
+
+0.0000
+0.0000
+0.0004
+0.0024
+0.0006
+
+R-squared
+Adjusted R-squared
+S.E. of regression
+Sum squaredresid
+Log likelihood
+F-statistic
+Prob(F-statistic)
+
+0.842493
+0.822169
+0.307388
+2.929103
+-5.922980
+41.45402
+0.000000
+
+Mean dependentvar
+S.D. dependentvar
+Akaikeinfocriterion
+Schwarzcriterion
+Hannan-Quinncriter.
+Durbin-Watson stat
+
+28.75000
+0.728925
+0.606832
+0.826765
+0.683595
+1.274808
 
 RESULTADOS DEL MODELO DEFINITIVO DE RENTABILIDAD
+Dependent Variable: R
+Method: LeastSquares
+Date: 01/25/13 Time: 12:06
+Sample: 2010M01 2012M12
+Includedobservations: 36
+Variable
 
-             Dependent Variable: R
-             Method: LeastSquares
-           Date: 01/25/13 Time: 12:06
-           Sample: 2010M01 2012M12
-            Includedobservations: 36
+Coefficient
 
-       Variable         Coefficient     Std. Error    t-Statistic    Prob.
+Std. Error
 
-           C             55.18692       9.769135      -5.649111      0.0000
-         TIPS           -0.975216       0.088318      -11.04210      0.0000
-        LCOLS            2.874279       0.568341       5.057316      0.0000
-         LNC             1.670641       0.596504       2.800720      0.0088
-         LSD             2.715885       0.572736       4.741947      0.0000
-        MOR1            -1.351089       0.458820      -2.944704      0.0062
+t-Statistic
 
-      R-squared          0.905161         Mean dependentvar         28.75000
-  Adjusted R-squared     0.889355         S.D. dependentvar         0.728925
-   S.E. of regression    0.242465          Akaikeinfocriterion      0.155091
-   Sum squaredresid      1.763675           Schwarzcriterion        0.419011
-     Log likelihood      3.208356         Hannan-Quinncriter.       0.247206
-       F-statistic       57.26539         Durbin-Watson stat        1.688437
-    Prob(F-statistic)    0.000000
+Prob.
 
+C
+TIPS
+LCOLS
+LNC
+LSD
+MOR1
 
+55.18692
+-0.975216
+2.874279
+1.670641
+2.715885
+-1.351089
 
+9.769135
+0.088318
+0.568341
+0.596504
+0.572736
+0.458820
 
-                                                                               104
-               ANEXO 03
+-5.649111
+-11.04210
+5.057316
+2.800720
+4.741947
+-2.944704
+
+0.0000
+0.0000
+0.0000
+0.0088
+0.0000
+0.0062
+
+R-squared
+Adjusted R-squared
+S.E. of regression
+Sum squaredresid
+Log likelihood
+F-statistic
+Prob(F-statistic)
+
+0.905161
+0.889355
+0.242465
+1.763675
+3.208356
+57.26539
+0.000000
+
+Mean dependentvar
+S.D. dependentvar
+Akaikeinfocriterion
+Schwarzcriterion
+Hannan-Quinncriter.
+Durbin-Watson stat
+
+28.75000
+0.728925
+0.155091
+0.419011
+0.247206
+1.688437
+
+104
+
+ANEXO 03
+
 Gráfico de Variables Residual del Modelo Lineal
 
+105
 
+ANEXO 04
 
+DATOS DE LAS REGRESIONES
+Indicadores financieros Scotiabank –Agencia Puno – periodo 2010-2012
 
-                                                  105
-                                                     ANEXO 04
-                                         DATOS DE LAS REGRESIONES
+PERIODO
 
-                Indicadores financieros Scotiabank –Agencia Puno – periodo 2010-2012
+Colocaciones
+S/.
 
-                                                           PBI                                      Tasa         tasa
-              Colocaciones   Morosidad                   Regional    Rentabilidad    Saldo         interés     interés
-PERIODO            S/.          %         Núm.Clientes     s/.            %       Depósitos s/.   activa %    pasiva %
-    ene-10        1685782          1.61            23        238.6          26.83       495653         28.3        1.47
-    feb-10        1762441          1.68            21        237.4          27.47       498722         28.9        1.43
-    mar-10        1988247          1.76            25        237.3          28.41       498732         29.7        1.29
-    abr-10        1989466           1.8            29        237.2          28.51       501548         29.9        1.39
-   may-10         1890932          2.15            28        237.1          28.14       505028         29.9        1.76
-    jun-10        1991655          2.15            29        236.4          27.95       525145         30.1        2.15
-     jul-10       1992877          2.18            30        235.6          28.53       528479         30.1        1.57
-    ago-10        1893379          2.18            25        234.1           28.9       536577         30.2         1.3
-    sep-10        1994691          2.24            31        231.5          29.05       461386         30.2        1.15
-    oct-10        2194093          2.25            32        230.1          28.98       476598         30.2        1.22
-    nov-10        2394944          2.31            29        229.9          27.74       477538         30.5        2.76
-    dic-10        2395014          2.35            28        228.3           28.9       482652         30.6         1.7
-    ene-11        2395473          2.42            30        227.3          28.22       485682         30.9        2.68
-    feb-11        2496809          2.43            35        227.1          28.77       487512           31        2.23
-    mar-11        2496809          2.54            32        226.9          28.92       492541         31.2        2.28
-    abr-11        2597391          2.57            36        226.2          28.64       494267         31.5        2.86
-   may-11         2596763           2.6            35        225.1          28.26       538436         31.5        3.24
-    jun-11        2697512          2.65            37        224.5          28.82       543598         31.5        2.68
-     jul-11       2543252          2.69            37        224.5          28.96       545226         31.8        2.84
-    ago-11        2841223          2.77            38        224.1           28.7       545736         31.8         3.1
-    sep-11        2987421          2.81            40        223.4          28.29       552833         31.9        3.61
-    oct-11        2788552          2.84            41        222.2          29.21       558694         31.9        2.69
-    nov-11        2698141          2.86            39        222.1          28.67       563641         31.9        3.23
-    dic-11        2515484          2.88            38        215.9          28.59       570823         31.9        3.31
-    ene-12        2658982          2.91            37        215.9          28.65       596323         31.9        3.25
-    feb-12        2515856          2.91            37        213.4          28.75       597830           32        3.25
-    mar-12        2487852          2.93            38        211.7          28.75       598314           32        3.25
-    abr-12        2987972          2.98            41        211.3          28.35       613945         32.1        3.75
-   may-12         2587489          2.98            42        210.4          28.48       618486         32.1        3.62
-    jun-12        2548763          3.01            40        209.1          29.12       621195         32.5        3.38
-     jul-12       2847786          3.09            38        204.8          29.12       621294         32.5        3.38
-    ago-12        2521545          3.12            39        201.3          29.39       632949         32.6        3.21
-    sep-12        2984752          3.17            37        201.1          30.14       636529         32.6        2.46
-    oct-12        2988742          3.24            38        197.1          30.12       639834         32.6        2.48
-    nov-12        2987465          3.56            41        196.1          30.36       657173         32.9        2.54
-    dic-12        2945879          3.83            42        105.3          30.31       660269         32.9        2.59
+Morosidad
+%
 
+Núm.Clientes
 
+PBI
+Regional
+s/.
 
-                                                                                                      106
-                                   ANEXO 5
+Rentabilidad
+Saldo
+%
+Depósitos s/.
+
+Tasa
+interés
+activa %
+
+tasa
+interés
+pasiva %
+
+ene-10
+
+1685782
+
+1.61
+
+23
+
+238.6
+
+26.83
+
+495653
+
+28.3
+
+1.47
+
+feb-10
+
+1762441
+
+1.68
+
+21
+
+237.4
+
+27.47
+
+498722
+
+28.9
+
+1.43
+
+mar-10
+
+1988247
+
+1.76
+
+25
+
+237.3
+
+28.41
+
+498732
+
+29.7
+
+1.29
+
+abr-10
+
+1989466
+
+1.8
+
+29
+
+237.2
+
+28.51
+
+501548
+
+29.9
+
+1.39
+
+may-10
+
+1890932
+
+2.15
+
+28
+
+237.1
+
+28.14
+
+505028
+
+29.9
+
+1.76
+
+jun-10
+
+1991655
+
+2.15
+
+29
+
+236.4
+
+27.95
+
+525145
+
+30.1
+
+2.15
+
+jul-10
+
+1992877
+
+2.18
+
+30
+
+235.6
+
+28.53
+
+528479
+
+30.1
+
+1.57
+
+ago-10
+
+1893379
+
+2.18
+
+25
+
+234.1
+
+28.9
+
+536577
+
+30.2
+
+1.3
+
+sep-10
+
+1994691
+
+2.24
+
+31
+
+231.5
+
+29.05
+
+461386
+
+30.2
+
+1.15
+
+oct-10
+
+2194093
+
+2.25
+
+32
+
+230.1
+
+28.98
+
+476598
+
+30.2
+
+1.22
+
+nov-10
+
+2394944
+
+2.31
+
+29
+
+229.9
+
+27.74
+
+477538
+
+30.5
+
+2.76
+
+dic-10
+
+2395014
+
+2.35
+
+28
+
+228.3
+
+28.9
+
+482652
+
+30.6
+
+1.7
+
+ene-11
+
+2395473
+
+2.42
+
+30
+
+227.3
+
+28.22
+
+485682
+
+30.9
+
+2.68
+
+feb-11
+
+2496809
+
+2.43
+
+35
+
+227.1
+
+28.77
+
+487512
+
+31
+
+2.23
+
+mar-11
+
+2496809
+
+2.54
+
+32
+
+226.9
+
+28.92
+
+492541
+
+31.2
+
+2.28
+
+abr-11
+
+2597391
+
+2.57
+
+36
+
+226.2
+
+28.64
+
+494267
+
+31.5
+
+2.86
+
+may-11
+
+2596763
+
+2.6
+
+35
+
+225.1
+
+28.26
+
+538436
+
+31.5
+
+3.24
+
+jun-11
+
+2697512
+
+2.65
+
+37
+
+224.5
+
+28.82
+
+543598
+
+31.5
+
+2.68
+
+jul-11
+
+2543252
+
+2.69
+
+37
+
+224.5
+
+28.96
+
+545226
+
+31.8
+
+2.84
+
+ago-11
+
+2841223
+
+2.77
+
+38
+
+224.1
+
+28.7
+
+545736
+
+31.8
+
+3.1
+
+sep-11
+
+2987421
+
+2.81
+
+40
+
+223.4
+
+28.29
+
+552833
+
+31.9
+
+3.61
+
+oct-11
+
+2788552
+
+2.84
+
+41
+
+222.2
+
+29.21
+
+558694
+
+31.9
+
+2.69
+
+nov-11
+
+2698141
+
+2.86
+
+39
+
+222.1
+
+28.67
+
+563641
+
+31.9
+
+3.23
+
+dic-11
+
+2515484
+
+2.88
+
+38
+
+215.9
+
+28.59
+
+570823
+
+31.9
+
+3.31
+
+ene-12
+
+2658982
+
+2.91
+
+37
+
+215.9
+
+28.65
+
+596323
+
+31.9
+
+3.25
+
+feb-12
+
+2515856
+
+2.91
+
+37
+
+213.4
+
+28.75
+
+597830
+
+32
+
+3.25
+
+mar-12
+
+2487852
+
+2.93
+
+38
+
+211.7
+
+28.75
+
+598314
+
+32
+
+3.25
+
+abr-12
+
+2987972
+
+2.98
+
+41
+
+211.3
+
+28.35
+
+613945
+
+32.1
+
+3.75
+
+may-12
+
+2587489
+
+2.98
+
+42
+
+210.4
+
+28.48
+
+618486
+
+32.1
+
+3.62
+
+jun-12
+
+2548763
+
+3.01
+
+40
+
+209.1
+
+29.12
+
+621195
+
+32.5
+
+3.38
+
+jul-12
+
+2847786
+
+3.09
+
+38
+
+204.8
+
+29.12
+
+621294
+
+32.5
+
+3.38
+
+ago-12
+
+2521545
+
+3.12
+
+39
+
+201.3
+
+29.39
+
+632949
+
+32.6
+
+3.21
+
+sep-12
+
+2984752
+
+3.17
+
+37
+
+201.1
+
+30.14
+
+636529
+
+32.6
+
+2.46
+
+oct-12
+
+2988742
+
+3.24
+
+38
+
+197.1
+
+30.12
+
+639834
+
+32.6
+
+2.48
+
+nov-12
+
+2987465
+
+3.56
+
+41
+
+196.1
+
+30.36
+
+657173
+
+32.9
+
+2.54
+
+dic-12
+
+2945879
+
+3.83
+
+42
+
+105.3
+
+30.31
+
+660269
+
+32.9
+
+2.59
+
+106
+
+ANEXO 5
 
 MOROSIDAD SEGÚN FUNCIONARIO DE LA AGENCIA PUNO (2010 – 2012)
 
-                                                         Mor.
-                         funcionario 1   funcionario 2   Promedio
-              ene-10            2.87            2.81                2.84
-               feb-10           2.12            2.24                2.18
-              mar-10            2.25            2.58                2.42
-               abr-10           2.97            3.41                3.19
-              may-10            3.12            3.11                3.12
-               jun-10            3.1             2.1                2.60
-                jul-10          2.14            2.55                2.35
-              ago-10             1.8             1.8                1.80
-              sep-10            1.32            1.89                1.61
-               oct-10           1.39             2.9                2.15
-              nov-10            2.38             2.1                2.24
-               dic-10           2.51            1.98                2.25
-              ene-11            2.48            1.81                2.15
-               feb-11           3.68            3.98                3.83
-              mar-11             2.8            2.82                2.81
-               abr-11           1.25             2.1                1.68
-              may-11             1.7            1.82                1.76
-               jun-11            2.9            3.05                2.98
-                jul-11          2.98            2.32                2.65
-              ago-11            2.87            2.27                2.57
-              sep-11             2.5            3.32                2.91
-               oct-11            2.8            2.95                2.88
-              nov-11            2.54            2.54                2.54
-               dic-11           2.14            2.22                2.18
-              ene-12            2.29            2.33                2.31
-               feb-12           2.98            2.87                2.93
-              mar-12             2.7            2.68                2.69
-               abr-12           3.12            3.36                3.24
-              may-12            3.01            3.17                3.09
-               jun-12            2.9            2.92                2.91
-                jul-12          3.02            3.22                3.12
-              ago-12            3.51            2.82                3.17
-              sep-12             2.9            3.06                2.98
-               oct-12            3.5            3.62                3.56
-              nov-12             2.3            2.56                2.43
-               dic-12           2.56            2.98                2.77
+funcionario 1
 
+ene-10
+feb-10
+mar-10
+abr-10
+may-10
+jun-10
+jul-10
+ago-10
+sep-10
+oct-10
+nov-10
+dic-10
+ene-11
+feb-11
+mar-11
+abr-11
+may-11
+jun-11
+jul-11
+ago-11
+sep-11
+oct-11
+nov-11
+dic-11
+ene-12
+feb-12
+mar-12
+abr-12
+may-12
+jun-12
+jul-12
+ago-12
+sep-12
+oct-12
+nov-12
+dic-12
 
+2.87
+2.12
+2.25
+2.97
+3.12
+3.1
+2.14
+1.8
+1.32
+1.39
+2.38
+2.51
+2.48
+3.68
+2.8
+1.25
+1.7
+2.9
+2.98
+2.87
+2.5
+2.8
+2.54
+2.14
+2.29
+2.98
+2.7
+3.12
+3.01
+2.9
+3.02
+3.51
+2.9
+3.5
+2.3
+2.56
 
+funcionario 2
 
-                                                                           107
+2.81
+2.24
+2.58
+3.41
+3.11
+2.1
+2.55
+1.8
+1.89
+2.9
+2.1
+1.98
+1.81
+3.98
+2.82
+2.1
+1.82
+3.05
+2.32
+2.27
+3.32
+2.95
+2.54
+2.22
+2.33
+2.87
+2.68
+3.36
+3.17
+2.92
+3.22
+2.82
+3.06
+3.62
+2.56
+2.98
+
+Mor.
+Promedio
+2.84
+2.18
+2.42
+3.19
+3.12
+2.60
+2.35
+1.80
+1.61
+2.15
+2.24
+2.25
+2.15
+3.83
+2.81
+1.68
+1.76
+2.98
+2.65
+2.57
+2.91
+2.88
+2.54
+2.18
+2.31
+2.93
+2.69
+3.24
+3.09
+2.91
+3.12
+3.17
+2.98
+3.56
+2.43
+2.77
+
+107
+
 

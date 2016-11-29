@@ -1,154 +1,240 @@
-      UNIVERSIDAD NACIONAL DEL ALTIPLANO
-         FACULTAD DE CIENCIAS BIOLÓGICAS
-         ESCUELA PROFESIONAL DE BIOLOGÍA
+UNIVERSIDAD NACIONAL DEL ALTIPLANO
+FACULTAD DE CIENCIAS BIOLÓGICAS
+ESCUELA PROFESIONAL DE BIOLOGÍA
 
-
-
-
- EFECTO TOXICOLÓGICO DEL JINCHO JINCHO (Heracium neoherrerae),
+EFECTO TOXICOLÓGICO DEL JINCHO JINCHO (Heracium neoherrerae),
 ALTAMISA (Ambrosia arborescens), DIENTE DE LEÓN (Taraxacum officinale),
 HUIRA HUIRA (Pseudogmaphalium spicatum) Y MISHICO (Bidens andicola) EN
-                            RATAS (Wistar)
+RATAS (Wistar)
 
+TESIS
+PRESENTADA POR:
 
-                                 TESIS
-                         PRESENTADA POR:
+Br. FIORELA MACHACCA CONDORI
 
+PARA OPTAR EL TÍTULO PROFESIONAL DE
+LICENCIADO EN BIOLOGÍA
 
-                 Br. FIORELA MACHACCA CONDORI
+PUNO
 
+PERÚ
+2014
 
-
-
-          PARA OPTAR EL TÍTULO PROFESIONAL DE
-
-
-                     LICENCIADO EN BIOLOGÍA
-
-
-
-
-                          PUNO           PERÚ
-                                 2014
 AREA: Microbiologia y laboratorio clinico
 TEMA: Toxicologia
+
 DEDICATORIA
 
+Dedicada a Dios, ya que gracias a él he
+logrado concluir mi carrera; a mis padres
+porque ellos siempre estuvieron a mi lado
+brindándome su apoyo y sus consejos para
+ser una mejor persona; a mis hermanos por
+sus palabras y compañía; a mis maestros
+que me brindaron la formación profesional;
+y mis amigos que están conmigo.
 
-
-
-              Dedicada a Dios, ya que gracias a él he
-              logrado concluir mi carrera; a mis padres
-              porque ellos siempre estuvieron a mi lado
-              brindándome su apoyo y sus consejos para
-              ser una mejor persona; a mis hermanos por
-              sus palabras y compañía; a mis maestros
-              que me brindaron la formación profesional;
-              y mis amigos que están conmigo.
 AGRADECIMIENTO
 
+Gracias Dios mío por haberme acompañado durante mi vida, se que
+estuviste conmigo en todo momento.
 
+Gracias a todos aquellos que se tomaron el tiempo de acompañarme
+en esta vida. Agradezco a mis padres Samuel y Juana a mis
+hermanitos Susan, Ruth y Jhoel agradecerlos por brindarme su
+confianza necesaria durante esta etapa de mi vida; agradezco a mis
+maestros que me brindaron sus conocimientos a mi director y
+asesores por haberme apoyado en el proceso de esta tesis.
 
-
-            Gracias Dios mío por haberme acompañado durante mi vida, se que
-
-                            estuviste conmigo en todo momento.
-
-
-
-            Gracias a todos aquellos que se tomaron el tiempo de acompañarme
-
-                 en esta vida. Agradezco a mis padres Samuel y Juana a mis
-
-               hermanitos Susan, Ruth y Jhoel agradecerlos por brindarme su
-
-            confianza necesaria durante esta etapa de mi vida; agradezco a mis
-
-               maestros que me brindaron sus conocimientos a mi director y
-
-                 asesores por haberme apoyado en el proceso de esta tesis.
-
-
-
-              Finalmente agradezco a mis amigos que me acompañaron en las
-
-                                     buenas y en las malas
-
-                                         Génesis 1:12
-
+Finalmente agradezco a mis amigos que me acompañaron en las
+buenas y en las malas
+Génesis 1:12
 Y la tierra produjo la HIERBA… cuya semilla estaba en sí misma, de acuerdo con su
 especie, y Dios vio que era buena.
-                                  ÍNDICE
 
+ÍNDICE
 RESUMEN ………………………………………………………………………….
-CAPÍTULO I. INTRODUCCIÓN …………………………………………………..                           1
-CAPÍTULO II. REVISIÓN BIBLIOGRÁFICA ……………………………………                       3
-2.1. Antecedentes …………………………...….……………………………………..                        3
-2.2. Marco Teórico ……………………………………………………………………                            7
-2.3. Marco Conceptual …..……………………………………………………………                         24
-CAPÍTULO III. MATERIALES Y MÉTODOS …………………….………………                       26
-3.1. Ámbito de estudio ………………………………………………………………..                        26
-3.2. Tipo de investigación ……………………….……………………………………                      26
-3.3. Materiales y equipos ……………….…….……………………………………….                     26
-3.4. Metodología …………..………………….……………………………………….                          29
-3.5. Método estadístico ……………………………………………….……………….                       34
-CAPÍTULO IV. RESULTADOS Y DISCUSIÓN ………………………….……….                      36
-4.1. Identificación de los metabolitos secundarios ……………………………………        36
-   de las plantas medicinales en hojas y tallos……………………………………….          36
-4.2. Determinación de las manifestaciones ………………………….………………..            37
-   toxicológicas a través de las concentraciones ……………………….……………         37
-   de dosis fijas únicas de las plantas en estudio…………………………………….        37
-4.3. Determinación de la toxicidad ocasionada ………………………………………            41
-   por la aplicación de las dosis fijas únicas mediante ………………….…………..   41
-   las pruebas hematológicas (hematocrito, hemoglobina ……………….………….      41
-   y leucograma), de las ratas …………………..……………………………………                   41
-CONCLUSIONES …………………………..………………………………………..                               53
-RECOMENDACIONES ……….…………………………………………………….                                54
-REFERENCIAS BIBLIOGRÁFICAS ……………………………….……………...                         55
-ANEXOS ……………………………………….…………………………………….                                   61
-                                  LISTA DE GRÁFICOS
-Gráfico 1. Tipos de extractos ………………………………………………………..                             30
-Gráfico 2. Métodos para la extracción de extractos ………………………..……….                31
-Gráfico 3. Método de Screening Fitoquímico …………………………….…………                       31
-Grafico 4. Empleo de las dosis a las ratas …………………………………………...                    33
+CAPÍTULO I. INTRODUCCIÓN …………………………………………………..
 
-                                    LISTA DE TABLAS
-Tabla 1. Valores referenciales para ratas …………………………………………….                      23
-Tabla 2. Criterios para la evaluación del grado de toxicidad ………………………..          33
+1
 
-                                   LISTA DE CUADROS
-Cuadro 1. Ensayos fitoquímicos …………………………………..…………………                             37
-Cuadro 2. Trastornos fisiológicos al administrarles los extractos ...………..………..   38
-Cuadro 3. Determinación del peso corporal (extracto acuoso) ……..……………….           41
-Cuadro 4. Determinación del peso corporal (extracto metanólico) ….………………          42
-Cuadro 5. Valores de hematocrito ……………………………………….…………..                           43
-Cuadro 6. Valores de hematocrito contrastando con DUNNETT …….….…….……              44
-Cuadro 7. Valores de hemoglobina ……………………………………..….……..….                         44
-Cuadro 8. Valores de hemoglobina contrastando con DUNNETT …………………..               45
-Cuadro 9. Análisis factorial para leucocitos diferenciales ……………….…………..          46
-Cuadro 10. Valores de leucocitos diferenciales ………………………….…………..                  47
-Cuadro 11. Análisis de varianza para leucocitos diferenciales ………………………           47
-Cuadro 12. Prueba de DUNNETT para linfocitos y segmentados ………….……….              48
-Cuadro 13. Recuento de neutrófilos …………………………………………………                            49
-Cuadro 14. Recuento de monocitos ………………………………………………….                             50
-Cuadro 15. Recuento de eosinófilos …………………………………………………                            51
-Cuadro 16. Recuento de basófilos ……………………………………………………                             52
-Cuadro 17. Resumen de las pruebas hematológicas análisis de varianza …………….       53
+CAPÍTULO II. REVISIÓN BIBLIOGRÁFICA ……………………………………
 
-                                  LISTA DE FIGURAS
-Figura 1. Frecuencia de observación de los trastornos fisiológicos ………….………       37
-Figura 2. Observación del peso corporal (extracto acuoso) …………………………..            41
-Figura 3. Observación del peso corporal (extracto metanólico) ………………………           42
-Figura 4. Valores de hematocrito …………………………………………….……….                           43
-Figura 5. Valores de hemoglobina …………………………………………………….                            45
-Figura 6. Valores de leucocitos ……………………………………………….………                            46
-Figura 7. Valores de linfocitos …………………………………………..….………...                        48
-Figura 8. Valores de neutrófilos ………………………………………..……..………                         49
-Figura 9. Valores de monocitos ………………………………………..…….……….                           50
-Figura 10. Valores de eosinófilos ……………………………………………..………                          51
-Figura 11. Valores de basófilos ……………………………………………..……….                           53
-                                            RESUMEN
+3
 
+2.1. Antecedentes …………………………...….……………………………………..
+
+3
+
+2.2. Marco Teórico ……………………………………………………………………
+
+7
+
+2.3. Marco Conceptual …..……………………………………………………………
+
+24
+
+CAPÍTULO III. MATERIALES Y MÉTODOS …………………….………………
+
+26
+
+3.1. Ámbito de estudio ………………………………………………………………..
+
+26
+
+3.2. Tipo de investigación ……………………….……………………………………
+
+26
+
+3.3. Materiales y equipos ……………….…….……………………………………….
+
+26
+
+3.4. Metodología …………..………………….……………………………………….
+
+29
+
+3.5. Método estadístico ……………………………………………….……………….
+
+34
+
+CAPÍTULO IV. RESULTADOS Y DISCUSIÓN ………………………….……….
+
+36
+
+4.1. Identificación de los metabolitos secundarios ……………………………………
+
+36
+
+de las plantas medicinales en hojas y tallos……………………………………….
+
+36
+
+4.2. Determinación de las manifestaciones ………………………….………………..
+
+37
+
+toxicológicas a través de las concentraciones ……………………….……………
+
+37
+
+de dosis fijas únicas de las plantas en estudio…………………………………….
+
+37
+
+4.3. Determinación de la toxicidad ocasionada ………………………………………
+
+41
+
+por la aplicación de las dosis fijas únicas mediante ………………….…………..
+
+41
+
+las pruebas hematológicas (hematocrito, hemoglobina ……………….………….
+
+41
+
+y leucograma), de las ratas …………………..……………………………………
+
+41
+
+CONCLUSIONES …………………………..………………………………………..
+
+53
+
+RECOMENDACIONES ……….…………………………………………………….
+
+54
+
+REFERENCIAS BIBLIOGRÁFICAS ……………………………….……………...
+
+55
+
+ANEXOS ……………………………………….…………………………………….
+
+61
+
+LISTA DE GRÁFICOS
+Gráfico 1. Tipos de extractos ………………………………………………………..
+Gráfico 2. Métodos para la extracción de extractos ………………………..……….
+Gráfico 3. Método de Screening Fitoquímico …………………………….…………
+Grafico 4. Empleo de las dosis a las ratas …………………………………………...
+
+30
+31
+31
+33
+
+LISTA DE TABLAS
+Tabla 1. Valores referenciales para ratas …………………………………………….
+Tabla 2. Criterios para la evaluación del grado de toxicidad ………………………..
+
+23
+33
+
+LISTA DE CUADROS
+Cuadro 1. Ensayos fitoquímicos …………………………………..…………………
+Cuadro 2. Trastornos fisiológicos al administrarles los extractos ...………..………..
+Cuadro 3. Determinación del peso corporal (extracto acuoso) ……..……………….
+Cuadro 4. Determinación del peso corporal (extracto metanólico) ….………………
+Cuadro 5. Valores de hematocrito ……………………………………….…………..
+Cuadro 6. Valores de hematocrito contrastando con DUNNETT …….….…….……
+Cuadro 7. Valores de hemoglobina ……………………………………..….……..….
+Cuadro 8. Valores de hemoglobina contrastando con DUNNETT …………………..
+Cuadro 9. Análisis factorial para leucocitos diferenciales ……………….…………..
+Cuadro 10. Valores de leucocitos diferenciales ………………………….…………..
+Cuadro 11. Análisis de varianza para leucocitos diferenciales ………………………
+Cuadro 12. Prueba de DUNNETT para linfocitos y segmentados ………….……….
+Cuadro 13. Recuento de neutrófilos …………………………………………………
+Cuadro 14. Recuento de monocitos ………………………………………………….
+Cuadro 15. Recuento de eosinófilos …………………………………………………
+Cuadro 16. Recuento de basófilos ……………………………………………………
+Cuadro 17. Resumen de las pruebas hematológicas análisis de varianza …………….
+
+37
+38
+41
+42
+43
+44
+44
+45
+46
+47
+47
+48
+49
+50
+51
+52
+53
+
+LISTA DE FIGURAS
+Figura 1. Frecuencia de observación de los trastornos fisiológicos ………….………
+Figura 2. Observación del peso corporal (extracto acuoso) …………………………..
+Figura 3. Observación del peso corporal (extracto metanólico) ………………………
+Figura 4. Valores de hematocrito …………………………………………….……….
+Figura 5. Valores de hemoglobina …………………………………………………….
+Figura 6. Valores de leucocitos ……………………………………………….………
+Figura 7. Valores de linfocitos …………………………………………..….………...
+Figura 8. Valores de neutrófilos ………………………………………..……..………
+Figura 9. Valores de monocitos ………………………………………..…….……….
+Figura 10. Valores de eosinófilos ……………………………………………..………
+Figura 11. Valores de basófilos ……………………………………………..……….
+
+37
+41
+42
+43
+45
+46
+48
+49
+50
+51
+53
+
+RESUMEN
 La investigación del efecto toxicológico de “mishico” (Bidens andicola), “diente de león”
 (Taraxacum officinale), “huira huira” (Pseduogmaphalium spicatum), “jincho jincho” (Hieracium
 neoherrerae) y “altamisa” (Ambrosia arborescens) de la familia Asterácea en ratas wistar, se realizó
@@ -178,9 +264,11 @@ afectado. En los parámetros hematológicos las lecturas del leucograma, como re
 diferencia significativa, en la hemoglobina que fue menor en las ratas tratadas con “altamisa”
 (Ambrosia arborescens). Conclusión: la administración oral de los tres meses por los extractos de las
 plantas medicinales produjo toxicidad solo por la planta “altamisa” (Ambrosia arborescens)
-calificándose                                                                                   tóxica.
-                             CAPÍTULO I. INTRODUCCIÓN
+calificándose
 
+tóxica.
+
+CAPÍTULO I. INTRODUCCIÓN
 El uso de plantas medicinales se ha dado desde tiempos prehistóricos hasta los tiempos
 actuales; el hombre utilizó los elementos que la naturaleza le brindaba para curar sus
 enfermedades y las de sus animales, este conocimiento se transmitió de generación en
@@ -196,7 +284,6 @@ embargo, estas sustancias pueden tener también efectos tóxicos, por la cual es
 realizar investigaciones con el objeto de determinar su actividad farmacológica y su
 toxicidad. Por eso resulta atractivo estudiar las plantas tóxicas como fuente de intoxicación
 hacia los consumidores.
-
 Las plantas medicinales se usan como una opción o alternativa en la medicina natural, por
 ello no se tiene mucha información científica en cuanto a sus desventajas el hecho de que
 sea naturales no significa que sea totalmente beneficioso o apto para el consumo con toda la
@@ -204,18 +291,16 @@ información recopilada se pudo saber que hay factores como los metabolitos secu
 modo de preparación, las dosis empleadas y otros que contribuyen a que las plantas
 medicinales sean algunas de ellas no sean beneficiosas para el hombre y por consecuencia
 produzcan efectos toxicológicos a futuro.
-
 La organización de la salud estima que en muchos países desarrollados el 70 – 80 % de la
 población ha usado de alguna forma la medicina tradicional; además, en algunos países
 asiáticos y africanos el 80 % de la población depende de la medicina tradicional para la
 atención primaria de la salud (OMS, 2008; Calderón, 2011).
-
 El estudio de las sustancias de origen natural poseen una virtud medicinal se conoce como
 farmacognosia, y el efecto que ocasionan esas sustancias en el organismo se estudia en
 farmacología. La fitoquímica permite detectar y posteriormente identificar los principios
 activos responsables de las propiedades atribuidas a las plantas (Torres et al., 2008).
+1
 
-                                                                                            1
 Por lo tanto se propuso estos objetivos: 1. Identificar los metabolitos secundarios de: ¨jincho
 jincho¨ (Heracium neoherrerae), ¨altamisa¨ (Ambrosia arborescens), ¨diente de león¨
 (Taraxacum officinale), ¨huira huira¨ (Pseudogmaphalium spicatum) y ¨mishico¨ (Bidens
@@ -225,14 +310,10 @@ función del tiempo. 3. Determinar la toxicidad ocasionada por la aplicación de
 mediante pruebas hematológicas (hematocrito, hemoglobina y leucograma), en ratas de
 laboratorio.
 
+2
 
-
-
-                                                                                             2
-                     CAPÍTULO II. REVISIÓN BIBLIOGRÁFICA
-
+CAPÍTULO II. REVISIÓN BIBLIOGRÁFICA
 2.1. Antecedentes
-
 Lagarto et al. (1999), evaluaron la toxicidad de las plantas, en el centro de investigación y
 desarrollo de medicamentos, realizado en Cuba. La toxicidad aguda oral de extractos
 hidroalcohólicos de plantas medicinales, usaron las plantas de la flora Cubana se encuentra
@@ -242,7 +323,6 @@ dosis del extracto fluido y del vehículo hidroalcohólico, determinando que la 
 DL50. Se encontró dañino a Mentha citrata (220 – 2000 mg/kg) y el resto de los extractos
 como no tóxicos (valores mayor de 2000 mg/kg). En la autopsia realizada no se encontraron
 evidencias de alteraciones patológicas en los órganos analizados.
-
 Lagarto & Guerra (2000), determinaron la toxicidad en el departamento de investigaciones
 biológicas y desarrollo de medicamentos hecho en Cuba, el estudio de la toxicidad aguda
 oral de 3 formas farmacéuticas a partir de Cassia grandis L., popularmente conocida como
@@ -252,7 +332,6 @@ humanos. La evaluación se llevó a cabo en un ensayo de prueba límite a una do
 mg/kg de peso corporal en ratas Wistar de ambos sexos por vía oral. El estudio agudo
 realizado demostró que las 3 formulaciones ensayadas pueden clasificar como no tóxicas ya
 que no se evidencio toxicidad alguna a las dosis administradas.
-
 Bonilla & Pareja (2001), investigaron sobre “pinco pinco” planta obtenida de la provincia
 Calca, Cusco Perú. Habiéndose desarrollado en la Facultad de Biología de la Universidad
 Nacional Mayor de San Marcos. Titulado: Determinación de flavonoides de Ephedra
@@ -264,12 +343,10 @@ en capa fina. Estos flavonoides de conocida actividad antioxidante, denominado:
 Hesperidinas; Crisina; en extracto etanólico se determinó actividad inmuno estimulante,
 efecto antioxidante, acción tóxica sobre Artemia salina, acción antiulcerosa, acción sobre la
 
+3
 
-
-                                                                                            3
 motilidad intestinal, actividad antiinflamatoria, su toxicidad (in – vivo) y actividad
 antimicrobiana.
-
 Chávez, (2005), investigó la Propagación y Micro propagación de Agave marmorata Roezl.
 (Agavaceae), la determinación de sus metabolitos secundarios y su uso planta medicinal. En
 la universidad Autónoma Metropolitana de México. Se advirtió que presenta en los extractos
@@ -281,7 +358,6 @@ etanol-agua presenta un efecto inductor de la proliferación de células de méd
 concentración de 2,5 µg/ml. Por último, el extracto diclorometano-etanol también evidencia
 un efecto solo a baja concentración (2,5 µg/ml) sobre células de médula ósea y a una
 concentración alta (100 µg/ml) sobre células de bazo.
-
 Bermúdez et al. (2007), manifiestan que sus estudio lo hicieron en la Unidad de toxicología
 Experimental del Instituto Superior de Ciencias Médicas de Villa Clara en Cuba, en su
 estudio experimental que la administración de una dosis límite de 2000 mg/kg de masa
@@ -292,7 +368,6 @@ animales. Solo advertencia de no exceder su uso por más de 30 días consecutivo
 estudios anatomatopalógicos macroscópicos no mostraron ninguna alteración en los órganos
 estudiados. La DL50 de los extractos de estudio se encuentra por encima de 2000 mg/kg de
 masa corporal calificándose como no tóxica.
-
 Arteta (2008), investigó plantas con propiedades tóxicas en el centro poblado de Llachón –
 Capachica en la provincia de Puno, habiéndose investigándose en la Universidad San
 Agustín, Facultad de Ciencias Biológicas y Agropecuarias. Encontrándose plantas
@@ -301,10 +376,8 @@ propiedades tóxicas especies que llegan a causar daño al ganado, provocándole
 fuertes y en muchos casos la muerte. Estas plantas no tienen efectos sobre el hombre, en esta
 categoría la especie que produce más daño es (Astragalus gasrbancillo) garbanzo.
 
+4
 
-
-
-                                                                                           4
 Osorio (2009), realizó el tamizaje farmacológico y toxicológico, con una técnica
 observacional, cualitativo y semi cualitativo, en la cual se utilizan los resultados verificados
 como patrón de actividad, uso ratones o ratas, donde se observan los animales que reciben la
@@ -313,7 +386,6 @@ la oral y la intraperitoneal. Se observó el estado consciente y la disposición
 la incoordinación del sistema motor. Se corrobora o identifica la acción farmacológica
 principal de la planta bajo estudio se determinan las acciones principales y los efectos
 secundarios que pueden ser deseables o indeseables.
-
 Pereida et al. (2009), elaboraron el tamizaje fitoquímico en la Universidad de Granma de
 Cuba, con el objetivo de determinar la presencia de determinados metabolitos secundarios,
 en dependencia de sus características estructurales y solubilidad de cada uno de ellos, que
@@ -323,7 +395,6 @@ alcaloides, cumarinas, saponinas, flavonoides, azúcares reductores, triterpenos
 antacianidinas y quinonas. Se confirmó la presencia de alcaloides que es el principio activo
 al cual se le atribuye la propiedad como repelente para diferentes ácaros probados en
 estudios realizados para evaluar dicha actividad.
-
 Pérez et al. (2009), con el fin de validar los hallazgos obtenidos previamente en estudios
 etnofarmacológicos, evaluaron los efectos en el hemograma de ratas hembras Wistar de los
 extractos acuoso y metanólico de las hojas de Phenax rugosus (Poir.). Estudio realizado en
@@ -334,20 +405,18 @@ eosinófilos disminuyo a niveles con significancia estadística (p = 0,03) cuand
 el grupo que recibió el extracto acuoso con el grupo control. La administración de los
 extractos, no indujo cambios en los diferentes parámetros del hemograma que tuviera
 significancia estadística.
-
 Rojas & Díaz (2009), hicieron la evaluación de la toxicidad del extracto metanólico de hojas
 de Passiflora edulis Sims (maracuyá), en ratas. Trabajo realizado en la Universidad
 Nacional Mayor de San Marcos de Lima. Durante el periodo de exposición de 28 días, no se
 observó síntomas tóxicos a la dosis administrada, tanto a nivel físico general como del
 comportamiento; tampoco se presentó mortalidad de los animales ni disminución del peso
+5
 
-                                                                                              5
 corporal. No se observó alteraciones en la formula leucocitaria, observándose en todo
 momento células maduras acorde con su desarrollo, correspondiente con un comportamiento
 normal. Los valores obtenidos en los indicadores hematológicos no mostraron alteraciones
 importantes; las variaciones encontradas se encuentran dentro del rango establecido por el
 grupo control y por la literatura especializada.
-
 Rodón et al. (2010), experimentaron el estudio fitoquímico en la Universidad de Granma de
 Cuba, en extractos alcohólicos, etéreos y acuosos de hojas y flores de la Turnera ulmifolia
 L., conocida como Marilope con la intención de contribuir a un mayor conocimiento, con
@@ -358,14 +427,10 @@ comprobó los metabolitos secundarios presentes en Turnera ulmifolia L., entre e
 alcaloides, coumarinas, saponinas, azúcares reductores, triterpenos y esteroides, lo que
 fundamenta su empleo en la cura de diversas afecciones.
 
+6
 
-
-
-                                                                                         6
 2.2. Marco Teórico:
-
 2.2.1. Plantas medicinales:
-
 Una planta medicinal se define como cualquier especie vegetal que contiene sustancias que
 pueden ser empleadas para propósitos terapéuticos o cuyos principios activos puedan servir
 de precursores para la hemisíntesis de nuevos fármacos (OMS, 2008). Plantas medicinales,
@@ -373,9 +438,7 @@ son aquellos vegetales que elaboran unos metabolitos secundarios, llamados “pr
 activos”, sustancias que ejercen una acción farmacológica, beneficiosa o perjudicial, sobre el
 organismo vivo. Su utilidad primordial, a veces específicos, es servir como droga o
 medicamento que alivie las enfermedades o restablezca la salud pérdida.
-
 2.2.2. Familia Asterácea según del Vitto & Petenatti, (2009)
-
 Las Asteráceas incluyen gran cantidad de especies útiles (medicinales, agrícolas,
 industriales, etc.). Algunas han sido domesticadas y cultivadas desde la antigüedad y otras
 conforman extensiones de vegetación natural, determinando la fisonomía de número de
@@ -387,7 +450,6 @@ hombre y el ganado, algunas causan alergia y otras resultan ornamentales. En ter
 son usados gran número de metabolitos secundarios sintetizados por Asteráceas. Se ofrece
 una síntesis de las asteráceas útiles y dañinas, taxonómicamente actualizadas, considerando
 usos etnobotánicos y propiedades fitoquímicas y farmacológicas.
-
 La composición química y su importancia en el aprovechamiento: El conocimiento
 bioquímico del grupo ha aportado datos relevantes a la taxonomía y ha explicado o facilitado
 el empleo de las mismas en las actividades económicas. En general, el grupo está
@@ -398,33 +460,39 @@ mientras que carece de taninos verdaderos y de iridoides. La acumulación de cie
 metabolitos primarios y secundarios determina la utilidad o aplicación de las plantas. La
 síntesis de glucósidos en último término conduce a la formación de fructanos del tipo inulina
 acumulados en órganos subterráneos y semillas; son la principal reserva hidrocarbonada, de
+7
 
-                                                                                              7
 gran digestibilidad y reemplazan el almidón. La síntesis de ciclitoles también caracteriza a
 las Asteráceas, especialmente L-inositol y su isómero esciloinositol.
-
 Los metabolitos secundarios aislados de Asteráceas son muy variados. Algunos flavonoides
 y aceites volátiles (con diterpenos y triterpenos) son comunes a casi todas las especies y 2
 grupos de sustancias son “marcadores quimiotaxonómicas”. En general estas plantas carecen
 de alcaloides, salvo los de núcleo pirrozidínico. Finalmente, es llamativa la ausencia de
 iridoides, aminoácidos no proteicos y taninos verdaderos.
-
 2.2.3. Información de las plantas medicinales en estudio según Mostacero et al. (2011):
-
 Posición taxonómica del “jincho jincho”:
-Dominio:                        Eucariota
- Reino:                         Plantae
-  División:                     Magnoliophyta
-    Clase:                      Magnoliopsida
-      Sub Clase:                Asteridae
-        Orden:                  Asterales
-         Familia:               Asterácea
-           Sub Familia;         Cichorioideae
-            Género:             Hieracium
-               Especie:         neoherrerae
-                 Nombre Binomial: Hieracium neoherrerae Zahn.
-                  Nombre común:“jincho jincho”, “taruca ninri”
-
+Dominio:
+Eucariota
+Reino:
+Plantae
+División:
+Magnoliophyta
+Clase:
+Magnoliopsida
+Sub Clase:
+Asteridae
+Orden:
+Asterales
+Familia:
+Asterácea
+Sub Familia;
+Cichorioideae
+Género:
+Hieracium
+Especie:
+neoherrerae
+Nombre Binomial: Hieracium neoherrerae Zahn.
+Nombre común:“jincho jincho”, “taruca ninri”
 Descripción del “jincho jincho”: Hierbas perennes con savia lechosa; tallos erectos, con
 tricomas glandulares largos. Hojas basales o caulinares, elípticos – lanceoladas,
 oblanceoladas u oblongas, enteras o dentadas. Capitulescencia cimosa o tirosoides; capitulo
@@ -433,69 +501,82 @@ las internas subiguales; receptáculo planos; flósculo perfectos, corolas 5 –
 amarillas, a veces blancas, anaranjadas o rojas; aquenios columnares adelgazados en la base,
 en general atenuados hacia el ápice, casi siempre 10 – acostillados, café – rojizo a negros;
 vilano de numerosas cerdas pajizas en una serie.
-
 Principios activos: contiene umbeliferona, flavonoides, inulina de las raíces (Guerrero et
 al., 2006).
 
-
 Posición taxonómica del “altamisa”:
-Dominio:                             Eucariota
- Reino:                              Plantae
-  División:                          Magnoliophyta
+Dominio:
+Reino:
+División:
 
-                                                                                          8
-     Clase:                     Magnoliopsida
-      Sub Clase:                Asteridae
-        Orden:                  Asterales
-          Familia:              Asterácea
-            Sub Familia;        Cichorioideae
-             Género:            Ambrosia
-               Especie:         arborescens
-                 Nombre Binomial: Ambrosia arborescens Miller.
-                   Nombre común:“altamisa”, “marco”, “hierba de san juan”
+Eucariota
+Plantae
+Magnoliophyta
+8
 
+Clase:
+Magnoliopsida
+Sub Clase:
+Asteridae
+Orden:
+Asterales
+Familia:
+Asterácea
+Sub Familia;
+Cichorioideae
+Género:
+Ambrosia
+Especie:
+arborescens
+Nombre Binomial: Ambrosia arborescens Miller.
+Nombre común:“altamisa”, “marco”, “hierba de san juan”
 Descripción de la “altamisa”: usos: abortivos, no recomendable la ingestión en gestantes,
 puede producir casos de abortos, es recomendado en el momento del parto ya que facilita el
 proceso expulsivo del feto. Biocida: el cocimiento de toda la planta, se debe realizar
 fumigaciones cuando la planta recién está brotando. Medicinal: en casos de cefáleas, es
 usado como antidiarreico. Los baños de vapor son realizados en caso de resfríos y dolores
 reumáticos, de preferencia por las noches (Arteta, 2008).
-
 En la dosificación debe de usarse en dosis muy bajas puesto que puede causar síntomas de
 envenenamiento. Contiene alcaloides, encontrado principalmente en las flores femeninas
 (Cruz, 2009).
-
 Principios activos: contiene sus principales componentes son las tuyonas alfa y beta y un
 aceite vegetal. Es rica en cineol y pinenos, flavonoides, quercetinas, luteolina, lactonas,
 sesquiterpenos, artemisinina, ácido artemisinico, alcaloides, felandreno, codinenos, etc. En
 las esencia se encuentra el principio amargo la absintina de color pardusco amarillo,
 insoluble en agua y soluble en alcohol. Sus hojas tienen sabor amargo y toda la planta es
 ligeramente aromática (Quert, 1985).
-
 Posición taxonómica del “diente de león”:
-Dominio:                        Eucariota
- Reino:                         Plantae
-  División:                     Magnoliophyta
-    Clase:                      Magnoliopsida
-      Sub Clase:                Asteridae
-        Orden:                  Asterales
-         Familia:               Asterácea
-           Sub Familia;         Cichorioideae
-            Género:             Taraxacum
-               Especie:         officinale
-                 Nombre Binomial: Taraxacum officinale Wiggers
-                  Nombre común:“diente de león”, “amargón” y “kanacho”
+Dominio:
+Eucariota
+Reino:
+Plantae
+División:
+Magnoliophyta
+Clase:
+Magnoliopsida
+Sub Clase:
+Asteridae
+Orden:
+Asterales
+Familia:
+Asterácea
+Sub Familia;
+Cichorioideae
+Género:
+Taraxacum
+Especie:
+officinale
+Nombre Binomial: Taraxacum officinale Wiggers
+Nombre común:“diente de león”, “amargón” y “kanacho”
 
+9
 
-
-                                                                                          9
 Descripción del diente de león: el extracto de las hojas es usado condicionalmente para
 aliviar enfermedades hepáticas y renales, además de los malestares producidos por la
 segregación excesiva de la vesícula biliar (colerina), para lo cual debe de beberse en ayunas,
 esta misma preparación es usada en el tratamiento contra la tuberculosis. La infusión de las
 hojas, es usado en infecciones o fiebre puerperales (sobreparto), para regular la
 menstruación (emenagogo) (Arteta, 2008).
-
 Principios activos: las hojas contienen alcohol cíclico llamado Inosita, así como asparagina,
 azúcar reducido (levulosa), un principio amargo saponina, tirosinasa, la composición
 química de la raíz es compleja, como producto de reserva acumula inulina 40 %. Contiene
@@ -503,21 +584,29 @@ también el alcaloide taraxina. Otros investigadores han encontrado en la raíz 
 oxifenilacetico, así como el 3,4 – oxicinamico (glucósido), una resina la asparagina, diversos
 hidratos de carbono que dan la galactosa y arabinosa. El látex, muy blanco y de sabor
 amargo contiene caucho, lactuceral alfa y beta, inosita, azúcares reductores (Quert, 1985).
-
 Posición taxonómica del “huira huira”:
-Dominio:                        Eucariota
- Reino:                         Plantae
-  División:                     Magnoliophyta
-    Clase:                      Magnoliopsida
-      Sub Clase:                Asteridae
-        Orden:                  Asterales
-         Familia:               Asterácea
-           Sub Familia;         Cichorioideae
-            Género:             Pseudogmaphalium
-               Especie:         spicatum
-                 Nombre Binomial: Pseudogmaphalim spicatum
-                  Nombre común:“huira huira”, “cketo cketo”, “mula kketo kketo”
-
+Dominio:
+Eucariota
+Reino:
+Plantae
+División:
+Magnoliophyta
+Clase:
+Magnoliopsida
+Sub Clase:
+Asteridae
+Orden:
+Asterales
+Familia:
+Asterácea
+Sub Familia;
+Cichorioideae
+Género:
+Pseudogmaphalium
+Especie:
+spicatum
+Nombre Binomial: Pseudogmaphalim spicatum
+Nombre común:“huira huira”, “cketo cketo”, “mula kketo kketo”
 Descripción del “huira huira”: En la actualidad la población aimara que habita en la pre
 cordillera y altiplano utiliza las flores de psedogmaphalium. Tiene resultados en el
 tratamiento de problemas bronquiales. Popularmente, a las flores de esta planta se le
@@ -525,26 +614,33 @@ atribuyen propiedades expectorales, sudoríficas y febrífugas; se emplean en in
 tratamiento de diversas afecciones respiratorias: asma, tos, bronquitis. También como mate
 para la tos; se menciona que el extracto acuoso de Pseudogmaphalium sp. Se administra en
 el tratamiento de enfermedades urinarias.
-
 Principios activos: contiene epigenina, quercetina, de sus flores se obtiene flavonoides
 (Guerrero et al., 2006).
+10
 
-                                                                                              10
 Posición taxonómica del “mishico”:
-
-Dominio:                        Eucariota
- Reino:                         Plantae
-  División:                     Magnoliophyta
-    Clase:                      Magnoliopsida
-      Sub Clase:                Asteridae
-        Orden:                  Asterales
-         Familia:               Asterácea
-           Sub Familia;         Cichorioideae
-            Género:             Bidens
-               Especie:         andicola
-                 Nombre Binomial: Bidens andicola Humbolt, Bompland y Kunth
-                  Nombre común:“mishico”. “pirca” y “amor seco”
-
+Dominio:
+Eucariota
+Reino:
+Plantae
+División:
+Magnoliophyta
+Clase:
+Magnoliopsida
+Sub Clase:
+Asteridae
+Orden:
+Asterales
+Familia:
+Asterácea
+Sub Familia;
+Cichorioideae
+Género:
+Bidens
+Especie:
+andicola
+Nombre Binomial: Bidens andicola Humbolt, Bompland y Kunth
+Nombre común:“mishico”. “pirca” y “amor seco”
 Descripción del “mishico”: usos abortivo, no es recomendable la ingestión en gestantes,
 por lo que puede producir en muchos casos abortos, sin embargo es recomendado en el
 momento del parto ya que facilita el proceso expulsivo del feto. Colorante, las flores son
@@ -557,33 +653,24 @@ tomar tres veces al día hasta que el malestar cese. Los baños con el cocimient
 especie, son usadas como febrífugo de preferencia por las noches. En caso de conjuntivitis,
 se realizan lavados con la infusión de las hojas, de preferencia en la mañana y noches
 (Arteta, 2008).
-
 Principios activos: contiene flavonoides, compuestos poliacetilinico y chalconas, ácido
 tánico, ácido nicotínico, fitosterina, ácido p – cumarico y glucósido de aurona, ácido silícico,
 ácido ascórbico, taninos, limonenos, timol felandreno, sales de potasio, calcio y fósforo. Las
 semilla contienen glucósidos amorfos, aceite, sacarosa y nitratos (Guerrero et al., 2006).
-
 2.3. Fitoquímica de las plantas medicinales:
-
 Reconocimiento de Metabolitos:
-
 El metabolismo es el conjunto de reacciones químicas que realizan las células de los seres
 vivos para sintetizar sustancias complejas a partir de otras más simples, o para degradar las
 complejas y obtener las simples. Las plantas, organismos autótrofos, además del
+11
 
-
-                                                                                             11
 metabolismo primario presente en todos los seres vivos, poseen un metabolismo secundario
 que les permite producir y acumular compuestos de naturaleza química diversa. Estos
 compuestos derivados del metabolismo secundario se denominan metabolitos secundarios
 (Avalos, 2009).
 
-
-
-
-  Elementos básicos del metabolismo primario y en relación con el metabolismo secundario de plantas (Martínez et al.,
-                                                        2008).
-
+Elementos básicos del metabolismo primario y en relación con el metabolismo secundario de plantas (Martínez et al.,
+2008).
 
 El reconocimiento de metabolitos secundarios se realiza por medio de pruebas fitoquímicas
 preliminares, las cuales son una prueba química de caracterización consistente en una
@@ -593,20 +680,17 @@ formación de un aducto o un complejo, lo cual da por resultado una manifestaci�
 como el cambio de un color, la formación de un precipitado o el desprendimiento de un gas,
 dándonos indicios de la presencia o ausencia de un metabolito secundario en particular
 (Martínez et al., 2008).
-
 Muchos son los metabolitos secundarios de los cuales por lo menos 12,000 han sido
 aislados, un número estimado menor en un 10 % del total. En numerosos casos estas
 sustancias sirven como mecanismos de defensa de las plantas contra la predación por
 microorganismos, insectos y herbívoros. Muchos componentes son así mismo responsables
+12
 
-
-                                                                                                                        12
 del sabor de las plantas (el terpenoide capsaicinaen del ají), y algunas de las hierbas y
 especies usados por los humanos para sazonar los alimentos producen compuestos
 medicinales útiles (Tapia, 2011).
 Las sustancias tóxicas que puedan tener las plantas medicinales son los metabolitos
 secundarios, están presentes en ciertas cantidades mayores y menores estas son:
-
 Reconocimiento de Alcaloides:
 Los alcaloides son sustancias básicas que contienen nitrógeno en un anillo heterocíclico, son
 derivados de aminoácidos, presentan distribución taxonómica limitada y se encuentran en
@@ -617,29 +701,30 @@ minerales diluidos.
 Se ha descrito que tiene actividad microbicida (por ejemplo, sobre Giardia y Entamoeba),
 pero se cree que su acción antidiarreica probablemente se deba a sus efectos sobre el tiempo
 de transito del bolo alimenticio en el intestino delgado (Mora et al., 2012).
-
 Reconocimiento de Taninos:
 Los taninos son productos de excreción de muchas plantas, involucradas en mecanismo de
 defensas de las mismas, contra organismos parásitos. Se encuentran más comúnmente en
 hojas, ramas y debajo de la corteza. Químicamente los taninos son polímeros de polifenoles,
 sustancias con alto peso molecular (comprendiendo entre 500 a 3000), se clasifican en:
+-
 
-   -   Taninos Hidrosolubles o Pirogalicos: Son ésteres fácilmente hidrolizables formados
-       por una molécula de azúcar (en general una glucosa) unida a un número variable de
-       moléculas de ácido fenólicos (ácido gálico o su dímero, el ácido elágico). Son
-       comunes de observar en plantas Dicotiledóneas.
+Taninos Hidrosolubles o Pirogalicos: Son ésteres fácilmente hidrolizables formados
+por una molécula de azúcar (en general una glucosa) unida a un número variable de
+moléculas de ácido fenólicos (ácido gálico o su dímero, el ácido elágico). Son
+comunes de observar en plantas Dicotiledóneas.
 
+-
 
-   -   Taninos no Hidrosolubles o Condensado: Tienen una estructura química similar a la
-       de los flavonoides. Por hidrolisis dan azúcar y ácido elágico, algunos taninos
-       condensados son conocidos como pro – anticianidinas porque por hidrolisis ácida
-       producen antocinidas y leucoanticinidinas (Mora et al. 2012).
+Taninos no Hidrosolubles o Condensado: Tienen una estructura química similar a la
+de los flavonoides. Por hidrolisis dan azúcar y ácido elágico, algunos taninos
+condensados son conocidos como pro – anticianidinas porque por hidrolisis ácida
+producen antocinidas y leucoanticinidinas (Mora et al. 2012).
 
 Reconocimiento de Fenoles:
 Los compuestos fenólicos de las plantas son un grupo heterogéneo de productos con más de
 10,000 compuestos. Algunos son solubles en solventes orgánicos, otros son glucósidos o
+13
 
-                                                                                          13
 ácidos carboxílicos y por lo tanto solubles en agua, y otros son polímeros muy grandes e
 insolubles. Este grupo también juega una variedad muy heterogénea de roles en las plantas,
 roles que son atribuidos en general a los productos secundarios de las plantas; muchos son
@@ -647,13 +732,11 @@ productos de defensa ante herbívoros y patógenos, otros proveen soporte mecán
 planta, otros atraen polinizadores o dispersores de frutos, algunos de ellos absorben la
 radiación ultravioleta, o actúan como agentes alelopáticos (por ejemplo reducen el
 crecimiento de plantas competidoras que estén cerca) (Calatayud, 2010).
-
 Reconocimiento de Fenolftaleínas:
 Son colorantes, es decir como sintéticos, aunque no se emplea como tintura, la fenolftaleína
 es el representante más importante de este grupo. Se usa como indicador de reacciones de
 ácido – base; usando terapéuticamente se utiliza como laxante catártico y tiene un efecto
 estimulante del peristaltismo intestinal (Grateron, 2006).
-
 Reconocimiento de Carbohidratos:
 Son las reservas energéticas de los vegetales formadas a partir de las reacciones
 fotosintéticas que se acumulan en forma de almidón que luego, al ser ingeridas por los
@@ -667,160 +750,171 @@ monómero como la glucosa y la fructosa denominados monosacáridos, por dos como
 lactosa y la sacarosa llamados disacáridos o grandes cadenas polimerizadas en los que están
 comprendidos el almidón, la celulosa y otros compuestos conocidos como polisacáridos.
 (Martínez et al., 2012).
-
 2.4. Toxicidad de las plantas medicinales según Osorio (2009):
-
 La posibilidad de una intoxicación con plantas medicinales es prácticamente inexistente si se
 respetan las indicaciones del fabricante o si se evitan aquellas hierbas tóxicas en pequeñas
 cantidades. Los síntomas de una intoxicación consisten en irritación de la garganta, náuseas
 y vómito, convulsiones, dolor de cabeza, visión borrosa, dificultad en los movimientos.
 
+14
 
-
-
-                                                                                          14
 Estudios de la toxicidad, según Osorio (2009), los estudios toxicológicos ofrecen a los
 investigadores información sobre la dosis a partir de las cuales los efectos tóxicos
 comienzan a aparecer. Es imprescindible establecer los efectos de las drogas y sus principios
 activos y para ello realizan estudio de toxicidad aguda, sub aguda y crónica.
-   -   Toxicidad aguda: Son ensayos que se realizan a corto plazo de forma prácticamente
-       inmediata, generalmente por la administración de unas dosis animales de
-       experimentación. Se puede determinar el parámetro de dosis letal 50 (DL50) cantidad
-       necesaria para producir la muerte de la mitad de los animales en experimentación,
-       sirve como orientación para los cálculos de las dosis efectivas 50 (DE50).
+-
 
-   -   Toxicidad sub aguda o sub crónica: Son ensayos que se realizan a medio plazo
-       generalmente a 30 días (un mes) a 90 días, se administran dosis terapéuticas y
-       transcurrido el periodo de tiempo se evalúa los posibles casos de intoxicación.
+Toxicidad aguda: Son ensayos que se realizan a corto plazo de forma prácticamente
+inmediata, generalmente por la administración de unas dosis animales de
+experimentación. Se puede determinar el parámetro de dosis letal 50 (DL50) cantidad
+necesaria para producir la muerte de la mitad de los animales en experimentación,
+sirve como orientación para los cálculos de las dosis efectivas 50 (DE50).
 
-   -   Toxicidad crónica: Son ensayos que se realizan a largo plazo desde varios meses
-       hasta de 1 a 2 años, para evaluar posibles efectos teratógenos, efectos carcinógenos.
+-
+
+Toxicidad sub aguda o sub crónica: Son ensayos que se realizan a medio plazo
+generalmente a 30 días (un mes) a 90 días, se administran dosis terapéuticas y
+transcurrido el periodo de tiempo se evalúa los posibles casos de intoxicación.
+
+-
+
+Toxicidad crónica: Son ensayos que se realizan a largo plazo desde varios meses
+hasta de 1 a 2 años, para evaluar posibles efectos teratógenos, efectos carcinógenos.
 
 2.4.1. Factores que contribuyen a la aparición de efectos según Umaña (2003):
-
 1. Sobre dosificación: Droga vegetal o principios activos no son tóxicos en dosis
-    adecuadas.
+adecuadas.
 2. Presencia de sustancias tóxicas: En baja concentración o por inhibición de otras
-    sustancias no causan efectos tóxicos. Concentración y purificación de ciertas
-    presentaciones puede llevar a la aparición de efectos que estaban ocultos. Confusión de
-    la especie vegetal.
+sustancias no causan efectos tóxicos. Concentración y purificación de ciertas
+presentaciones puede llevar a la aparición de efectos que estaban ocultos. Confusión de
+la especie vegetal.
 3. Contaminación de preparado fitoterápico: Medicamento sintético, metales pesados,
-    microorganismos, pesticidas, etc.
+microorganismos, pesticidas, etc.
 4. Interacciones con medicamentos.
 5. Componentes galénicos: Solvente no adecuado para el consumo humano.
 6. Edad, estado fisiológico y etnia del paciente: Toxicidad se presenta la edad y salud de
-    las personas. Ejemplo: neurotoxicidad y hepatoxicidad en niños por consumo elevado
-    de aceite esenciales de clavo (Eugenia caryophyta) o de menta poleo (Mentha
-    pulegium).
+las personas. Ejemplo: neurotoxicidad y hepatoxicidad en niños por consumo elevado
+de aceite esenciales de clavo (Eugenia caryophyta) o de menta poleo (Mentha
+pulegium).
 7. Uso no tradicional de plantas tradicionales: Pueden causar efectos adversos
-    previamente desapercibidos. En Taiwan la ingesta de Sauropus androgymus planta que
+previamente desapercibidos. En Taiwan la ingesta de Sauropus androgymus planta que
 
+15
 
-                                                                                           15
-   se cocina y come como verdura, se asocia con el brote de bronquiolitis, al tomar el jugo
-   de la hoja cruda como método para adelgazar.
-
+se cocina y come como verdura, se asocia con el brote de bronquiolitis, al tomar el jugo
+de la hoja cruda como método para adelgazar.
 2.4.2. Efectos tóxicos causados por las plantas según Umaña (2003):
+1. Acción emenagoga y estimulación uterina: Muchas plantas pueden inducir el
+aborto son citotóxicas y teratógenos (daños al sistema nervioso del feto).
+Mecanismo
 
-   1. Acción emenagoga y estimulación uterina: Muchas plantas pueden inducir el
-      aborto son citotóxicas y teratógenos (daños al sistema nervioso del feto).
-      Mecanismo      de   acción   endocrino,   nervioso   periférico,   cardiovascular   o
-      gastrointestinal. Se conoce la acción de algunos principios activos. La pulegona del
-      aceite esencial poleo – menta (Mentha polegium) estimula las concentraciones
-      uterinas. Estimulantes uterinos de acción indirecta (por estimulación de receptores
-      histamínicos) son el fruto y la flor de catarmo (Carthamus tinctorius) y la hoja de
-      agripalma (Leonorus cardiaca).
+de
 
-   2. Estimulación del sistema nervioso: Principios que potencian actividad de algunos
-      centro neuronales, aumentando la capacidad de concentración y el estado de vigilia.
-      Los alcaloides de la sumidad de efedra (Ephedra sinica) y la cafeína. La toxicidad
-      de la cafeína es muy baja, sin embargo el consumo regular de bebidas con esta (café,
-      té, hierbas y mates) puede elevar la concentración sérica de hemocisteinas (factor
-      etiogénico de enfermedades cardiovascular).
-   3. Fotosensibilización: Sustancias que reaccionan ante la exposición de la luz
-      ultravioleta y causan hiperpigmentación, aumento de la sudoración, irritación
-      cutánea. Puede ocurrir fototoxicidad por exposición de furanocumarinas o
-      psoralenos a quemaduras de segundo grado. Fototoxicidad causada por la raíz de
-      angélica o don quai (Angelica arcangelica), la semilla del ápio (Apium graveolans),
-      el pericarpio de la naranja amarga (Citrus auriantium), la sumidad florida del
-      hipérico (Hypericum perforatum) y las hojas y sumidades de la ruda (Ruta
-      graveolans).
+acción
 
-   4. Hepatoxicidad: Se han presentado casos últimamente por el uso de plantas
-      medicinales chinas responsables de la hepatitis aguda y del rizoma kava kava (Piper
-      methysticum). Tenemos la hepatitis fulminante, casos como la kava kava chaparral
-      (Larrea tridentada) y encinilla o cascarilla (Teurcrium chamaedrys), y la
-      insuficiencia hepática grave, por uso de kava kava sen, celidonia, menta poleo y el
-      aceite esencial de clavo. En muchos casos, el paciente se recupera al discontinuar el
-      uso.
+endocrino,
 
-                                                                                          16
-    5. Shock anafiláctico: Reacciones alérgicas a nivel tópico o interno. La mayoría de
-        reacciones alérgicas son efectos secundarios. El shock anafiláctico se considera un
-        efecto tóxico.
+nervioso
 
-    6. Insuficiencia     renal: Por efecto directo tóxico (ejemplo ramdomiolisis).
-        Nefrotoxicidad directa puede ser irreversible causando carcinoma urotelial o fibrosis
-        renal intersticial. Uso de plantas del ácido aristolóquico es el causante. La especie
-        Aristolochia atia es grave y severa con enfermedad renal terminal.
+periférico,
 
-    7. Rabdomiólisis: Síndrome causado por daño directo causado por músculo
-        esquelético, causando la liberación del contenido de las células musculares al
-        plasma sanguíneo. Se presenta sensibilidad muscular al plasma sanguíneo,
-        calambres, rigidez, debilidad, perdida de la función, edema muscular duro y orina
-        oscuro. El uso prolongado de medicamentos y toronja o grape fruit (Citrus por ácido
-        glicirrico y gliciretinico de las raíces de Paradisi) medicamento y los polifenoles del
-        zumo de toronja causan de la 11 meta – hidroxiesteroide – deshidrogenasa tipo 2,
-        ocasionando un exceso de mineralocorticoides.
+cardiovascular
 
+o
+
+gastrointestinal. Se conoce la acción de algunos principios activos. La pulegona del
+aceite esencial poleo – menta (Mentha polegium) estimula las concentraciones
+uterinas. Estimulantes uterinos de acción indirecta (por estimulación de receptores
+histamínicos) son el fruto y la flor de catarmo (Carthamus tinctorius) y la hoja de
+agripalma (Leonorus cardiaca).
+2. Estimulación del sistema nervioso: Principios que potencian actividad de algunos
+centro neuronales, aumentando la capacidad de concentración y el estado de vigilia.
+Los alcaloides de la sumidad de efedra (Ephedra sinica) y la cafeína. La toxicidad
+de la cafeína es muy baja, sin embargo el consumo regular de bebidas con esta (café,
+té, hierbas y mates) puede elevar la concentración sérica de hemocisteinas (factor
+etiogénico de enfermedades cardiovascular).
+3. Fotosensibilización: Sustancias que reaccionan ante la exposición de la luz
+ultravioleta y causan hiperpigmentación, aumento de la sudoración, irritación
+cutánea. Puede ocurrir fototoxicidad por exposición de furanocumarinas o
+psoralenos a quemaduras de segundo grado. Fototoxicidad causada por la raíz de
+angélica o don quai (Angelica arcangelica), la semilla del ápio (Apium graveolans),
+el pericarpio de la naranja amarga (Citrus auriantium), la sumidad florida del
+hipérico (Hypericum perforatum) y las hojas y sumidades de la ruda (Ruta
+graveolans).
+4. Hepatoxicidad: Se han presentado casos últimamente por el uso de plantas
+medicinales chinas responsables de la hepatitis aguda y del rizoma kava kava (Piper
+methysticum). Tenemos la hepatitis fulminante, casos como la kava kava chaparral
+(Larrea tridentada) y encinilla o cascarilla (Teurcrium chamaedrys), y la
+insuficiencia hepática grave, por uso de kava kava sen, celidonia, menta poleo y el
+aceite esencial de clavo. En muchos casos, el paciente se recupera al discontinuar el
+uso.
+16
+
+5. Shock anafiláctico: Reacciones alérgicas a nivel tópico o interno. La mayoría de
+reacciones alérgicas son efectos secundarios. El shock anafiláctico se considera un
+efecto tóxico.
+6. Insuficiencia
+
+renal: Por efecto directo tóxico (ejemplo ramdomiolisis).
+
+Nefrotoxicidad directa puede ser irreversible causando carcinoma urotelial o fibrosis
+renal intersticial. Uso de plantas del ácido aristolóquico es el causante. La especie
+Aristolochia atia es grave y severa con enfermedad renal terminal.
+7. Rabdomiólisis: Síndrome causado por daño directo causado por músculo
+esquelético, causando la liberación del contenido de las células musculares al
+plasma sanguíneo. Se presenta sensibilidad muscular al plasma sanguíneo,
+calambres, rigidez, debilidad, perdida de la función, edema muscular duro y orina
+oscuro. El uso prolongado de medicamentos y toronja o grape fruit (Citrus por ácido
+glicirrico y gliciretinico de las raíces de Paradisi) medicamento y los polifenoles del
+zumo de toronja causan de la 11 meta – hidroxiesteroide – deshidrogenasa tipo 2,
+ocasionando un exceso de mineralocorticoides.
 3. Animal de laboratorio con fines experimentales según Carrillo (2011):
-
 3.1. Clasificación taxonómica del animal de laboratorio:
-
-Dominio:                       Eucariota
- Reino:                        Animalie
-  Filo:                        Chordata
-    Clase:                     Mamalia
-        Orden:                 Rodentia
-         Familia:              Muricidade
-            Género:            Rattus
-               Especie:        novergicus
-                Nombre Binomial: Rattus novergicus
-                  Nombre común: Rata de laboratorio Wistar.
-
+Dominio:
+Eucariota
+Reino:
+Animalie
+Filo:
+Chordata
+Clase:
+Mamalia
+Orden:
+Rodentia
+Familia:
+Muricidade
+Género:
+Rattus
+Especie:
+novergicus
+Nombre Binomial: Rattus novergicus
+Nombre común: Rata de laboratorio Wistar.
 3.2. Rata de laboratorio:
-
 Las ratas de laboratorio pertenecen a las especie Rattus novergicus a la variedad Wistar. Esta
 variedad fue desarrollada en el mismo instituto Wistar en 1906 para su uso en la
 investigación biológica y médica, y es la primera cepa de ratas desarrolladas para servir
 como un organismo modelo en un momento en que los laboratorios utilizaban
 principalmente Mus musculus, o el ratón común de las casas. Las ratas Wistar es
+17
 
-                                                                                            17
 actualmente una de las cepas más populares utilizadas para la investigación de laboratorio,
 con una buena taza de crecimiento, con una vida media larga que hace especialmente útil en
 estudio de supervivencia dócil y fácil de manipular. Se caracteriza por su cabeza ancha,
 oreja largas y con una longitud de la cola que es siempre inferior a la longitud del cuerpo.
-
 3.3. Manipulación de las ratas:
-
 Existen diferentes formas de sujetar a la rata:
-
 1. Tomar al animal por la cola, teniendo cuidado. Apoyar la palma de la mano sobre el
-    lomo del animal, colocar los dedos índices y medio a ambos lados de la mandíbula de
-    forma que la cabeza de la rata quede entre dichos dedos impidiendo su movimiento, con
-    la otra mano tome parte posterior del cuerpo. Así puede levantarla sujetándola
-    firmemente.
+lomo del animal, colocar los dedos índices y medio a ambos lados de la mandíbula de
+forma que la cabeza de la rata quede entre dichos dedos impidiendo su movimiento, con
+la otra mano tome parte posterior del cuerpo. Así puede levantarla sujetándola
+firmemente.
 2. Tomar la rata apoyando la mano alrededor del tórax, quedando una de las patas entre
-    sus dedos índice y medio y la otra sobre su dedo pulgar (con el dedo índice realice una
-    presión leve sobre la mandíbula de la rata, para prevenir mordeduras). Con la otra mano,
-    tome la parte posterior del cuerpo y levántela, sujetándola firmemente.
+sus dedos índice y medio y la otra sobre su dedo pulgar (con el dedo índice realice una
+presión leve sobre la mandíbula de la rata, para prevenir mordeduras). Con la otra mano,
+tome la parte posterior del cuerpo y levántela, sujetándola firmemente.
 3. Tomar el animal por la piel del cuello con el dedo pulgar e índice pro detrás de las
-    orejas y con los otros dedos de la mano sujetar la piel de todo el lomo de la rata.
-    Levántela, sujetando firmemente.
-
+orejas y con los otros dedos de la mano sujetar la piel de todo el lomo de la rata.
+Levántela, sujetando firmemente.
 3.4. Vías de administración para el experimento:
-
 Vía oral
 Por esta vía se administra soluciones de una sonda de pequeño calibre (una sonda adecuada
 debe tener un diámetro de 15 a 16 g y de 10 a 12 cm de largo) que permite la introducción
@@ -830,28 +924,24 @@ sujeta firmemente por la piel del cuello y espalda asegurándose que la cabeza y
 queden extendidos formando una línea con la espalda. Se introduce la sonda por el espacio
 interdental y rotándola lentamente se llega al esófago y el estómago si es necesario. Esta
 técnica se aplica en ratas, ratones y conejos.
-
 Vía intravenosa
 Para esta vía de administración se utiliza las venas laterales de las cola previamente dilatada
 con calor, en los animales jóvenes son más fáciles de visualizar que en los adultos. Se
+18
 
-                                                                                               18
 utiliza agujas de calibre < 23 g el volumen máximo, es de 0,5 ml y debe realizarse
 lentamente.
-
 Vía intraperitoneal
 Tomando en cuenta la rápida absorción por esta vía y el fácil acceso a esta a la misma, es
 una de las vías más utilizadas en el laboratorio. Se toma al animal por el dorso, se vuelve
 hacia atrás presentándola la región abdominal, se sujeta firmemente de las patas posteriores
 y se inyecta en la parte alta del cuadrante inferior izquierdo del área abdominal. La guja es
 de 27 x 6 mm de volumen de administración está entre 5 a 10 ml.
-
 Vía intramuscular
 Esta vía se presenta en el dorso del animal y el fármaco se deposita con aguja de 27 x 13
 mm en la parte posterior de los cuartos traseros. El lugar de elección son los cuádriceps y
 tríceps. La inoculación debe realizarse en pequeños volúmenes de 0,3 ml.
 3.5. Vías de extracción de sangre en animales de experimento:
-
 Seno orbital:
 Esta técnica muy usada, pero no recomendada y requiere una particular justificación dado lo
 agresivo de la misma. Implica pichar el seno orbital del globo del ojo. En manos expertas
@@ -859,7 +949,6 @@ puede ser útil para obtener volúmenes mayores de los que se puede obtener de l
 cola. Es una técnica que puede tener severas consecuencias en el animal por lo que no se
 recomienda el uso del sangrado del seno orbital con recuperación del animal más que en
 circunstancias excepcionales cuando no haya ningún otro método disponible.
-
 Venas y arterias caudales:
 La vena de la cola es la más usada, la vena debe localizarse claramente y la punción debe ser
 llevada a cabo decididamente mejor el corte dela misma es algo inaceptable como método de
@@ -868,26 +957,22 @@ formación de una masa de tejidos en la extremidad de la cola, como también pue
 la capacidad natural del animal para controlar su equilibrio y temperatura.
 Se usa la cola ya que no posee pelo sujeción y punción debido a que los vasos sanguíneos
 recorren toda la longitud de la cola.
-
 Vía intracardiaca:
 Mediante esta técnica se puede obtener grandes volúmenes de sangre debe estar anestesiado
 y se recomienda utilizar esta técnica únicamente como procedimiento terminal.
+19
 
-                                                                                          19
 Se coloca la rata bien apoyada sobre el dorso, se ubica la apófisis xifoides y se inserta la
 aguja perpendicular a la columna vertebral. Con una leve presión digital se localiza el
 ventrículo, al punzar el corazón se siente el choque cardiaco. El volumen extraído de sangre
 dependerá del peso de la rata. Las agujas son de 20 a 25 g.
-
 4. Pruebas hematológicas según Encarta & Del Carpio, 2008:
-
 Hematocrito:
 La determinación del hematocrito es uno de los métodos más sencillos, más exactos y
 valiosos en la hemoglobina. Es mucho más útil y de confianza que el recuento de
 eritrocitos. Así mismo, por medio de él, la medición de la hemoglobina y el recuento de
 eritrocitos adecuados, pueden calcularse las constantes corpusculares. Denominación de
 hematocrito: volumen de glóbulos centrifugados VGC.
-
 Hemoglobina:
 Pigmento especial que predomina en la sangre cuya función es el transporte de oxígeno.
 Está presente en todos los animales, excepto en algunos grupos de animales inferiores.
@@ -897,34 +982,40 @@ Después de liberar esta molécula en los tejidos orgánicos, invierte su funci�
 principal producto de la respiración celular o dióxido de carbono. La hemoglobina
 transporta esta molécula hasta los pulmones para su respiración, y en esta se denomina
 carboxihemoglobina.
-
 4.1. Leucograma:
-
 Leucocitos: (glóbulos blancos), valores superiores pueden indicar leucocitosis (>
 10,000/mm3). Valores inferiores pueden indicar leucopenia (< 5000) elementos sanguíneos
 implicados en la fagocitosis de elementos patógenos y en las respuestas inmunológicas e
 inflamatorias. Las células o glóbulos blancos de la sangre son de dos tipos los granulados,
 con núcleos multilobulados y los no granulados, que tienen un núcleo redondeado.
 Los leucocitos se clasifican en dos grupos principales, tomando como base la presencia o
-ausencia de gránulos        citoplasmáticos específicos. Los que contienen            gránulos
+ausencia de gránulos
+
+citoplasmáticos específicos. Los que contienen
+
+gránulos
+
 citoplasmáticos son los granulocitos y lo que carecen de ellos son los agranulocitos.
 
+20
 
-
-
-                                                                                            20
 4.2. Granulocitos:
-
 Los tres tipos de granulocitos se designan de acuerdo con la reacción tintorial de sus
 gránulos específicos:
-   -   los eosinófilos tienen gránulos acidófilos claros (se tiñen de rojo con la eosina).
-   -   Los basófilos poseen gránulos basófilos (púrpuras) marcados.
-   -   Los neutrófilos tienen gránulos que no son ni acidófilos ni basófilos.
+-
 
+los eosinófilos tienen gránulos acidófilos claros (se tiñen de rojo con la eosina).
+
+-
+
+Los basófilos poseen gránulos basófilos (púrpuras) marcados.
+
+-
+
+Los neutrófilos tienen gránulos que no son ni acidófilos ni basófilos.
 
 Frecuentemente, los neutrófilos, reciben el nombre de leucocitos polimorfonucleares (PMN),
 como consecuencia de la variada configuración de los núcleos.
-
 
 Neutrófilos:
 El neutrófilo maduro es de aproximadamente 10 – 12 µm de diámetro, tiene granulaciones
@@ -940,7 +1031,6 @@ anormal de neutrófilos con hiperpigmentación nuclear se conoce como desviació
 derecha y puede ser signo de pronóstico desfavorable o un síntoma de infección crónica. La
 función de los neutrófilos es fagocitar y destruir bacterias mediante el contenido de sus
 diversos gránulos.
-
 Eosinófilos:
 Los eosinófilos tienen un tamaño similar al de los neutrófilos (12 µm) y se encuentran en
 menor cantidad. El citoplasma es ligeramente basófilos, pero en general no podemos
@@ -950,17 +1040,14 @@ regulan las reacciones alérgicas. Los eosinófilos interaccionan con otras cél
 expresión de múltiples receptores en su superficie. Los eosinófilos son células fagocitarias
 que demuestran especial afinidad por los complejos antígeno – anticuerpo, por lo que la
 
+21
 
-
-                                                                                             21
 mayoría de los eosinófilos son atraídos por quimiotaxis. También los eosinófilos pueden ser
 atraídos por sustancias liberadas de los basófilos como la histamina.
-
 Los eosinófilos pueden regular la respuesta alérgica y las reacciones de hipersensibilidad
 mediante la neutralización de la histamina por la histaminasa y a su vez producir un factor
 inhibidor derivado de los eosinófilos para inhibir la degranulación de las células cebadas o
 de los basófilos que contienen sustancias vasoactivas.
-
 Basófilos:
 El último tipo de leucocitos polimorfonuclear es el basófilos, es el menos abundante. Son
 algo más pequeños que los anteriores, con un diámetro de 8 – 10 µm. su citoplasma es
@@ -970,9 +1057,7 @@ gránulos de heparina e histamina. Estas sustancias son mediadoras químicas que
 inflamación. Tienen función en estado alérgicos en la hipersensibilidad retardada. La
 liberación masiva del contenido de estos gránulos puede causar shock anafiláctico que puede
 llegar a la muerte del animal si no es controlado.
-
 4.3. A granulocitos:
-
 Linfocitos:
 Son leucocitos agranulocitos que juegan un rol fundamental en la respuesta inmune. Los
 linfocitos son células de alta jerarquía en el sistema inmune, principalmente encargadas de la
@@ -982,21 +1067,19 @@ reconocer y responder al que se les presente. Por último, los linfocitos se enc
 producción de anticuerpos y de la destrucción de células anormales. Estas respuestas ocurren
 en el interior de los órganos linfoides, los cuales, para tal propósito, deben suministrar un
 entorno que permitía la interacción eficiente entre linfocitos, macrófagos y antígeno extraño.
-
 Los linfocitos pequeños son los que se encuentran más comúnmente y su diámetro es
 aproximadamente igual o ligeramente mayor al de un hematíe. El núcleo es redondo,
 basófilo, puede presentar agregados de cromatina y una pequeña escotadura en su contorno.
 El citoplasma se limita a una estrecha franja que rodea al núcleo de color azul – celeste; en
 general no se observa granulaciones en él. Aunque estructuralmente iguales, mediante
 marcadores citoquímicos es posible distinguir 3 tipos de linfocitos: linfocitos B, T y nulos.
+22
 
-                                                                                                22
 Según la variedad de linfocitos de que se trate su vida media celular pueden variar entre
 unos pocos días hasta meses y años. Cumple un rol fundamental en la respuesta inmune.
 Relaciones complejas entre linfocitos B, linfocitos T y células presentadoras de antígeno
 generan las respuestas de defensa inmune humoral y celular. A su vez, los linfocitos nulos
 participan en los mecanismos de defensa dando origen a células asesinas.
-
 Monocitos:
 El monocito es el mayor de todos los leucocitos de 12 – 20 µm de diámetro. Hay dificultad
 considerable en la identificación de algunos monocitos, porque son formas de transición
@@ -1008,153 +1091,213 @@ pulverulentos. El núcleo puede ser oval, en forma de riñón o de herradura, la
 nuclear se tiñe más débilmente que en el linfocito. Existe uno o más nucleótidos, pero no
 son visibles en las extensiones teñidas. El citoplasma, de color azul gris, es abundante y
 tiene generalmente vacuolas agrupadas pero no son frecuentes los gránulos azurófilos.
-
 Cualquier acumulo de monocitos en el interior de los tejidos refleja condiciones de
 cronicidad. Los monocitos son células con gran capacidad bactericida. Ante estímulos
 fagocitosis aumenta de tamaño y puede fijarse a los tejidos del bazo, hígado, pulmón dando
 lugar a los macrófagos tisulares que forman el sistema retículo endotelial encargado de
 remover el material extraño que circula en la sangre.
+Valores normales del leucograma en ratas:
+PARÁMETROS
 
-                              Valores normales del leucograma en ratas:
+www.sertlab.com
 
-PARÁMETROS                    www.sertlab.com   Rojas & Díaz (2009)   Gonzales et al. 2003   Lagarto et al. 2005
+Hematocrito (%)
+Hemoglobina (g/dl)
+3
 
-Hematocrito (%)                     35 – 45              -                  34,1 – 38,7         37,28 – 46,60
-Hemoglobina (g/dl)                 10 – 20               -                  13,4 – 14,3          6,97 – 9,81
-                 3                 10 – 14           3, 4 – 5,6              2,8 – 5,6       3559,49 – 9661,35
 Leucocitos (10 células/µl)
-                 3                 55 – 95          70,5 – 75,8             70,8 – 75,8         69,83 – 87,22
+3
+
 Linfocitos (10 células/µl)
-                     3              0–1             22,8 – 28,3             21,1 – 28,3         12,97 – 25,03
+3
+
 Neutrófilos (10 células/µl)
-                 3                  1–4                0–4                       0                     0
+3
+
 Monocitos (10 células/µl)
-                     3              0–4                0–4                       0                     0
+3
+
 Eosinófilos (10 células/µl)
-             3                       0                 0–1                       0                     0
+3
+
 Basófilos (10 células/µl)
-                                Tabla 1. Valores referenciales para las ratas.
 
+35 – 45
 
+Rojas & Díaz (2009)
 
-                                                                                                               23
+Gonzales et al. 2003
+
+Lagarto et al. 2005
+
+-
+
+34,1 – 38,7
+
+37,28 – 46,60
+
+10 – 20
+
+-
+
+13,4 – 14,3
+
+6,97 – 9,81
+
+10 – 14
+
+3, 4 – 5,6
+
+2,8 – 5,6
+
+3559,49 – 9661,35
+
+55 – 95
+
+70,5 – 75,8
+
+70,8 – 75,8
+
+69,83 – 87,22
+
+0–1
+
+22,8 – 28,3
+
+21,1 – 28,3
+
+12,97 – 25,03
+
+1–4
+
+0–4
+
+0
+
+0
+
+0–4
+
+0–4
+
+0
+
+0
+
+0
+
+0–1
+
+0
+
+0
+
+Tabla 1. Valores referenciales para las ratas.
+
+23
+
 4.4. Marco Conceptual:
-
 Alcaloides: Son compuestos que contienen nitrógeno gusto amargo. Grupo de productos
 naturales de mayor interés en la farmacognosia. Dentro de este grupo se encuentran
 sustancias tóxicas incluso a bajas dosis.
-
 Animal de laboratorio: Es aquel que manteniendo bajo determinadas condiciones
 controladas es utilizado como instrumento de medida en experimentación científica,
 desarrollo tecnológico como instrumento de medida en experimentación científica,
 desarrollo tecnológico e innovación.
-
 Bioensayos: Procedimientos para evaluar la actividad biológica, la presencia o la cantidad
 de una sustancia (tóxico, toxina, hormona, antibiótico, etc.) mediante la medida de sus
 efectos sobre un organismo o cultivo celular en comparación con una preparación estándar
 apropiada.
-
 Dosis: Cantidad de sustancia administrada o absorbida por un individuo en proporcion a su
 peso o volumen corporal, ordinariamente en 24 horas. Se suele expresa en mg/kg.
-
 Dosis letal: Dosis precisa para producir la muerte tras una sola absorción, es decir, originar
 una intoxicación aguda letal. Se calcula por experimentación con animales. DL mínima: que
 mata a un solo individuo. DL – 50: media letal para el 50 % que cause la muerte de la
 población. DL – 100: que mata a todos los individuos al 100 %.
-
 Dosis tóxicas: Proporción de una sustancia que produce intoxicación sin que llegue a ser
 letal.
-
 Extracto acuoso: Preparación en agua de la sustancia de una planta o un animal que
 contiene la porción biológicamente activa sin el residuo celular.
-
 Extracto metanólico: Son mezclas heterogéneas de alérgenos y material no alergénicos. Se
 pueden presentar en solución o liofilizados, es decir, en polvo para reconstituir antes de su
 administración.
-
 Farmacognosia: Ciencia que se ocupa de las drogas y las sustancias medicamentosas de
 origen natural, vegetal microbiano (hongos y bacterias) y animal. Con propiedades tóxicas,
 excipientes u otras de interés farmacéutico.
 
+24
 
-
-                                                                                           24
 Liofilización: Proceso por el cual una sustancia para por una extrema evaporización solo
 extrayéndole el agua, sin dañar la sustancia que se está procesando.
-
 Metabolitos secundarios: Son subproductos de rutas metabólicas normales que ocurren en
 ciertas especies, siendo particulares dentro de un grupo taxonómico, estado de vida o tejido
 presentando una distribución restringido dentro del reino vegetal dando origen a la
 quimiotaxonomía.
-
 Planta medicinal: Son aquellos vegetales que elaboran unos metabolitos secundarios,
 llamados “principios activos”, sustancia que ejercen una acción farmacológica, beneficiosa
 o perjudicial, sobre el organismo vivo.
-
 Propiedades medicinales: Son todas aquellas que se determinan para curar enfermedades
 que padece el hombre.
-
 Sintomatología: Descripción general de los signos y síntomas que experimenta un
 enfermo.
-
 Taninos: Son substancias complejas que no es posible clasificar dentro de una estructura
 química única. Son sustancias polifenólicas hidrosolubles no nitrogenadas, de origen
 vegetal. Son de tipos hidrolizables y condensados.
-
 Tamizaje fitoquímico: Es una de las etapas intermedias de la investigación fitoquímica,
 que permite cualitativamente los principales grupos químicos presentes en una planta, para
 la extracción de extractos de mayor interés.
-
 Toxicología: Es la ciencia que estudia los tóxicos y las intoxicaciones, comprende origen y
 propiedades, mecanismos de acción, consecuencia de sus efectos lesivos, métodos
 analíticos, cualitativos y cuantitativos, prevención, medidas profilácticas y tratamiento
 general.
-
 Toxicidad: La intoxicación puede producir aumento de la tensión, además, debilidad
 muscular, calambres, poliuria con hipercaliuria e hipocalcemia.
-
 Toxicidad subcrónica: Efectos adversos ocasionados por administración o exposición
 repetida de una sustancia un coroto periodo de tiempo, usualmente el 10 % de la vida (al
 menos 90 días en animales experimentales).
 
+25
 
-
-                                                                                         25
-                     CAPÍTULO III. MATERIALES Y MÉTODOS
-
+CAPÍTULO III. MATERIALES Y MÉTODOS
 3.1. Ámbito de estudio:
-
 Ubicación:
--   Para la recolección de plantas se seleccionó el lugar Ilave, por tener más consumo de
-    estas plantas. Ubicada a 3820 msnm a 20 km de la ciudad de Puno y algunas de las
-    plantas fueron colectadas de la misma ciudad de Puno.
--   Para la preparación del extracto acuoso y metanólico, se realizó en la Facultad de
-    Biología, en el Laboratorio de Microbiología.
--   Para las pruebas toxicológicas se realizó en el Bioterio de la Facultad de Medicina
-    Veterinaria y Zootécnia.
--   Para las pruebas de las lecturas de los hemogramas se realizó en el laboratorio de
-    Microbiología de la Facultad de Biología.
+-
+
+Para la recolección de plantas se seleccionó el lugar Ilave, por tener más consumo de
+estas plantas. Ubicada a 3820 msnm a 20 km de la ciudad de Puno y algunas de las
+plantas fueron colectadas de la misma ciudad de Puno.
+
+-
+
+Para la preparación del extracto acuoso y metanólico, se realizó en la Facultad de
+Biología, en el Laboratorio de Microbiología.
+
+-
+
+Para las pruebas toxicológicas se realizó en el Bioterio de la Facultad de Medicina
+Veterinaria y Zootécnia.
+
+-
+
+Para las pruebas de las lecturas de los hemogramas se realizó en el laboratorio de
+Microbiología de la Facultad de Biología.
 
 3.2. Tipo de Investigación:
 El estudio fue experimental, para evidenciar la toxicidad de las plantas en estudios en
 animales vivos, y analíticas para el tamizaje fitoquímico.
-
 3.3. Materiales y equipos:
-
 Material Vegetal:
 Se colectó las plantas de mayor uso y consumo, que sean del Altiplano de Puno de la zona
 de Ilave; a través de encuestas a los pobladores y comerciantes de plantas medicinales,
 tomando en cuenta que lo usan para aliviar sus enfermedades que padecen como
 infecciones respiratorias, enfermedades digestivas, etc. Estas plantas son:
-
 1. “jincho jincho” (Hieracium neoherrerae)
 2. “altamisa” (Ambrosia arborescen)
+26
 
-                                                                                      26
 3. “diente de león” (Taraxacum officinale)
 4. “huira huira” (Pseudogmaphalium spicatum)
 5. “mishico” (Bidens andicola)
-
 Material Biológico:
 Se seleccionó a ratas Wistar de laboratorio. Se usó 24 ratas de laboratorio de ambos sexos,
 seleccionados aleatoriamente. Peso de 200 g en promedio y de 8 a 12 semanas de edad.
@@ -1162,7 +1305,6 @@ Serán divididos aleatoriamente en 1 grupo control y 5 grupos tratados, estarán
 temperatura de 20° C con luminosidad de 12 horas diarias y 12 horas de oscuridad, se le
 administró por sonda esofágica los extractos y para el grupo control agua destilada (Isaza et
 al., 2005).
-
 Se distribuyó de la siguiente manera:
 1. Grupo control: 4 ratas
 2. “jincho jincho” (Hieracium neoherrerae): 4 ratas
@@ -1170,248 +1312,352 @@ Se distribuyó de la siguiente manera:
 4. “diente de león” (Taraxacum officinale): 4 ratas
 5. “huira huira” (Pseudogmaphalium spicatum): 4 ratas
 6. “mishico” (Bidens andicola): 4 ratas
-
 Equipos y materiales:
--   Bolsa recolectora.
--   Cámara fotográfica.
--   Marcador.
--   Agua destilada para el lavado.
--   Para el sacado estufa (marca Binder) por 72 horas.
--   Para la trituración morteros de diferentes tamaños.
--   Poner en botellas de vidrio (Pírex) los 250g de cada planta triturada con agua destilada.
--   Rotavapor para solo obtener materia seca final.
--   Balanza analítica electrónica (marca Satorius).
--   Tubos pírex (50 tubos).
--   Marcador.
--   Gradillas (3 gradillas).
--   Agua destilada para el lavado.
--   Pipetas (pírex).
+-
 
-                                                                                            27
--   Pisetas.
--   Baño María.
--   Mechero.
--   Cuaderno de apuntes.
--   Cánula gástrica en punta de oliva.
--   Vaselina sólida.
--   Mascarillas, guantes y mandil.
--   Baguetas para los estímulos.
--   Jeringas (5 ml) para emplear las dosis.
--   Lancetas.
--   Tubos con heparina (minicolet).
--   Porta objetos.
--   Tubos para hematocrito.
--   Centrífuga (Haematokrit 24).
--   Reactivo Wright.
--   Reactivo de Turk.
--   Microscopio.
--   Cámara de New Beubauer.
--   Contador manual de hemograma.
--   Aceite de inmersión.
--   Algodón.
--   Alimento para su dieta (semilla de girasol, comida de gato, zanahoria, arrocillo).
+Bolsa recolectora.
+
+-
+
+Cámara fotográfica.
+
+-
+
+Marcador.
+
+-
+
+Agua destilada para el lavado.
+
+-
+
+Para el sacado estufa (marca Binder) por 72 horas.
+
+-
+
+Para la trituración morteros de diferentes tamaños.
+
+-
+
+Poner en botellas de vidrio (Pírex) los 250g de cada planta triturada con agua destilada.
+
+-
+
+Rotavapor para solo obtener materia seca final.
+
+-
+
+Balanza analítica electrónica (marca Satorius).
+
+-
+
+Tubos pírex (50 tubos).
+
+-
+
+Marcador.
+
+-
+
+Gradillas (3 gradillas).
+
+-
+
+Agua destilada para el lavado.
+
+-
+
+Pipetas (pírex).
+27
+
+-
+
+Pisetas.
+
+-
+
+Baño María.
+
+-
+
+Mechero.
+
+-
+
+Cuaderno de apuntes.
+
+-
+
+Cánula gástrica en punta de oliva.
+
+-
+
+Vaselina sólida.
+
+-
+
+Mascarillas, guantes y mandil.
+
+-
+
+Baguetas para los estímulos.
+
+-
+
+Jeringas (5 ml) para emplear las dosis.
+
+-
+
+Lancetas.
+
+-
+
+Tubos con heparina (minicolet).
+
+-
+
+Porta objetos.
+
+-
+
+Tubos para hematocrito.
+
+-
+
+Centrífuga (Haematokrit 24).
+
+-
+
+Reactivo Wright.
+
+-
+
+Reactivo de Turk.
+
+-
+
+Microscopio.
+
+-
+
+Cámara de New Beubauer.
+
+-
+
+Contador manual de hemograma.
+
+-
+
+Aceite de inmersión.
+
+-
+
+Algodón.
+
+-
+
+Alimento para su dieta (semilla de girasol, comida de gato, zanahoria, arrocillo).
 
 Reactivos:
 Preparación de los reactivos para las pruebas fitoquímicas:
--   Reactivo de Dragendorff: Solución a. disolver 1,7 g de nitrato básico de bismuto en 20 g
-    de ácido tartárico en 80 ml de agua. Solución b. disolver 16 g de yoduro de potasio en
-    40 ml de agua. Solución de reserva, mezclar volúmenes iguales de las soluciones a y b.
-    conservar en refrigeración.
--   Reactivo de Mayer: Solución a. 13,5 g de cloruro de mercurio (II) y 49,8 de yoduro de
-    potasio, se disuelve cada uno en 20 ml de agua, se mezcla y se completa a 100 ml
-    agregar a la mezcla 15 ml de ácido clorhídrico en solución acuosa al 17 %. Solución b.
-    5 g de cloruro de zinc (II en 80 ml de ácido clorhídrico 37 %). Solución c. solución
-    amoniacal al 15 %.
+-
 
-                                                                                         28
--   Reactivo de Wagner: Disolver 1 g de yodo y 10 g de yoduro de potasio en 50 ml de
-    agua, acidificar con 2 ml de ácido glacial, completar con agua a 100 ml.
--   Reactivo de cloruro férrico: 1,25 g cloruro férrico en 25 ml de agua y aforar a 50 ml con
-    alcohol metílico.
--   Reactivo de ácido ftálico: 2 ml de ácido ftálico más hidróxido de sodio al 5 % en 100 ml
-    de agua.
--   Reactivo de Fehling: Solución a. 35 g CuSO45H2O en 500 ml de agua. Solución b. 175
-    g de sal de Rochelle más 50 g de NaOH en 500 ml de agua. Reserva será la mezcla de la
-    solución a y b.
+Reactivo de Dragendorff: Solución a. disolver 1,7 g de nitrato básico de bismuto en 20 g
+de ácido tartárico en 80 ml de agua. Solución b. disolver 16 g de yoduro de potasio en
+40 ml de agua. Solución de reserva, mezclar volúmenes iguales de las soluciones a y b.
+conservar en refrigeración.
 
+-
+
+Reactivo de Mayer: Solución a. 13,5 g de cloruro de mercurio (II) y 49,8 de yoduro de
+potasio, se disuelve cada uno en 20 ml de agua, se mezcla y se completa a 100 ml
+agregar a la mezcla 15 ml de ácido clorhídrico en solución acuosa al 17 %. Solución b.
+5 g de cloruro de zinc (II en 80 ml de ácido clorhídrico 37 %). Solución c. solución
+amoniacal al 15 %.
+28
+
+-
+
+Reactivo de Wagner: Disolver 1 g de yodo y 10 g de yoduro de potasio en 50 ml de
+agua, acidificar con 2 ml de ácido glacial, completar con agua a 100 ml.
+
+-
+
+Reactivo de cloruro férrico: 1,25 g cloruro férrico en 25 ml de agua y aforar a 50 ml con
+alcohol metílico.
+
+-
+
+Reactivo de ácido ftálico: 2 ml de ácido ftálico más hidróxido de sodio al 5 % en 100 ml
+de agua.
+
+-
+
+Reactivo de Fehling: Solución a. 35 g CuSO45H2O en 500 ml de agua. Solución b. 175
+g de sal de Rochelle más 50 g de NaOH en 500 ml de agua. Reserva será la mezcla de la
+solución a y b.
 
 3.4. Metodología:
-
 Preparación de la muestra
+-
 
+Para el extracto y metanólico la que se menciona en el procedimiento fitoquímico.
 
--   Para el extracto y metanólico la que se menciona en el procedimiento fitoquímico.
+-
 
+El material vegetal (tallos y hojas) se secó a 60° C durante 72 horas en una estufa
+(Binder) luego fueron pesadas y pulverizadas; el polvo fue dejado con agua destilada
+por 24 horas para obtener el extracto acuoso, el cual fue filtrado y liofilizado. Y para el
+extracto metanólico se obtuvieron por maceración hidroalcohólica (30 – 70 %) de 5
+días, luego se filtró y se repitió la extracción dos veces más en esos días. Los filtrados
+reunidos se concentraron en rotavapor y se liofilizaron.
 
+-
 
+El proceso de extracción se realizó en el laboratorio de Microbiología de la Facultad de
+Ciencias Biológicas. Cada extracto liofilizado se disolvió en agua destilada a
+temperatura ambiente (García et al., 2007).
+29
 
--   El material vegetal (tallos y hojas) se secó a 60° C durante 72 horas en una estufa
-    (Binder) luego fueron pesadas y pulverizadas; el polvo fue dejado con agua destilada
-    por 24 horas para obtener el extracto acuoso, el cual fue filtrado y liofilizado. Y para el
-    extracto metanólico se obtuvieron por maceración hidroalcohólica (30 – 70 %) de 5
-    días, luego se filtró y se repitió la extracción dos veces más en esos días. Los filtrados
-    reunidos se concentraron en rotavapor y se liofilizaron.
+BREVE RESUMEN DEL MÉTODO EMPLEADO
 
+Se limpió la planta, para eliminar los diferentes microorganismos que cohabitan con ella.
 
--   El proceso de extracción se realizó en el laboratorio de Microbiología de la Facultad de
-    Ciencias Biológicas. Cada extracto liofilizado se disolvió en agua destilada a
-    temperatura ambiente (García et al., 2007).
+se lavaron con abundante agua destilada.
 
-                                                                                            29
-                                      BREVE RESUMEN DEL MÉTODO EMPLEADO
+Se secó a una temperatura de 40° C en la estufa durante 72 horas. Se obtuvo por lo menos
+250 g de muestra seca y molida.
 
+se almacenó a - 4°C hasta el momento de su empleo
 
+Las muestras vegetales son sometidas a un proceso de maceración en frio con metanol 24 horas, y otro con agua destilada 5
+días donde se repite mas de 2 veces luego fueron liofilizados (García et al., 2007).
 
+Se conservó en seco a - 4°C. Para luego seguir los
+procedimientos
 
-                    Se limpió la planta, para eliminar los diferentes microorganismos que cohabitan con ella.
+Grafica 2. Método para la extracción de los extractos.
 
+-
 
+La proporción fue de 250 g materia seca por 1 litro de agua destilada para el extracto
+acuoso. Y para el extracto metanólico de la misma forma 250 g de materia seca con 700
+ml de agua y 300 ml de metanol. Para finalmente obtener mediante las filtraciones y
+ponerlas en rotavapor para obtener una materia seca de 5 g por cada extracto según el
+método descrito a continuación:
+Método de Screening Fitoquímico según Espitia (2011):
+Materia vegetal
+seco y triturado
+(250 g)
+Maceración agua destilada 1
+L. por 2 dias / metanol (30 70%) por 2 dias.
 
+Filtrado (I)
 
-                                               se lavaron con abundante agua destilada.
+Evaporación del
+solvente a presion
+reducida
+Tamizaje
+preliminar
+fitoquímico
 
+Maceración y
+filtración (I)
 
+Filtrado (II)
 
+Macerado y
+filtrado (II)
 
-                    Se secó a una temperatura de 40° C en la estufa durante 72 horas. Se obtuvo por lo menos
-                                                250 g de muestra seca y molida.
+Filtrado (IIII)
 
-
-
-                                          se almacenó a - 4°C hasta el momento de su empleo
-
-
-
-    Las muestras vegetales son sometidas a un proceso de maceración en frio con metanol 24 horas, y otro con agua destilada 5
-                       días donde se repite mas de 2 veces luego fueron liofilizados (García et al., 2007).
-
-
-
-                                          Se conservó en seco a - 4°C. Para luego seguir los
-                                                           procedimientos
-
-
-                                 Grafica 2. Método para la extracción de los extractos.
-
-
--   La proporción fue de 250 g materia seca por 1 litro de agua destilada para el extracto
-    acuoso. Y para el extracto metanólico de la misma forma 250 g de materia seca con 700
-    ml de agua y 300 ml de metanol. Para finalmente obtener mediante las filtraciones y
-    ponerlas en rotavapor para obtener una materia seca de 5 g por cada extracto según el
-    método descrito a continuación:
-
-                       Método de Screening Fitoquímico según Espitia (2011):
-                                                              Materia vegetal
-                                                              seco y triturado
-                                                                  (250 g)
-
-
-                                                        Maceración agua destilada 1
-                                                        L. por 2 dias / metanol (30 -
-                                                              70%) por 2 dias.
-
-
-                                                                                        Maceración y
-                                                    Filtrado (I)
-                                                                                        filtración (I)
-
-
-                                    Evaporación del
-                                                                                                     Macerado y
-                                   solvente a presion                      Filtrado (II)
-                                                                                                     filtrado (II)
-                                        reducida
-
-
-                              Tamizaje
-                                                                                                                 Macerado y
-                             preliminar                                                 Filtrado (IIII)
-                                                                                                                filtrado (IIII)
-                            fitoquímico
-
-
+Macerado y
+filtrado (IIII)
 
 Gráfica 3. Esquema para la obtención del extracto acuoso y metanólico de las plantas medicinales en estudio
-                                           (Espitia et al,. 2011)
+(Espitia et al,. 2011)
 
+30
 
-
-                                                                                                                                  30
 3.4.1. Preparación para las pruebas fitoquímicas:
-
 Identificación de los metabolitos secundarios (cualitativamente) de las plantas
 medicinales en estudio en hojas y tallo según Medina (1997):
-
 1. Identificación de alcaloides:
--   Reactivo de Dragendorff: En un tubo se colocó 5 mg del extracto a investigar al que se
-    le agrego 2 ml del reactivo de Dragendorff, se homogenizó y se procedió a la lectura,
-    debe formar un precipitado café rojizo.
--   Reactivo de Mayer: En un tubo se colocó 5 mg del extracto a investigar al que se le
-    agrego 2 ml del reactivo de Mayer, se homogenizó y se procedió a la lectura, debe
-    formar un precipitado amarillo pálido.
--   Reactivo de Wagner: En un tubo se colocó 5 mg del extracto a investigar al que se le
-    agrego 2 ml del reactivo de Wagner, se homogenizó y se procedió a la lectura, debe
-    formar un precipitado naranja oscuro.
+-
+
+Reactivo de Dragendorff: En un tubo se colocó 5 mg del extracto a investigar al que se
+le agrego 2 ml del reactivo de Dragendorff, se homogenizó y se procedió a la lectura,
+debe formar un precipitado café rojizo.
+
+-
+
+Reactivo de Mayer: En un tubo se colocó 5 mg del extracto a investigar al que se le
+agrego 2 ml del reactivo de Mayer, se homogenizó y se procedió a la lectura, debe
+formar un precipitado amarillo pálido.
+
+-
+
+Reactivo de Wagner: En un tubo se colocó 5 mg del extracto a investigar al que se le
+agrego 2 ml del reactivo de Wagner, se homogenizó y se procedió a la lectura, debe
+formar un precipitado naranja oscuro.
 
 2. Identificación de fenoles:
--   Reactivo con cloruro férrico: En un tubo se colocó 2 ml de cloruro férrico al 5 % y 5
-    mg del extracto a investigar, se homogenizó y se procedió a la lectura, debe formar un
-    precipitado verde oscuro.
+-
+
+Reactivo con cloruro férrico: En un tubo se colocó 2 ml de cloruro férrico al 5 % y 5
+mg del extracto a investigar, se homogenizó y se procedió a la lectura, debe formar un
+precipitado verde oscuro.
 
 3. Identificación de fenolftaleínas:
 En un tubo se colocó 2 ml del ácido ftálico concentrado e hidróxido de sodio al 5 % y 5 mg
 del extracto a investigar, se homogenizó y se procedió a la lectura, debe formar un
 precipitado marrón.
-
 4. Identificación de taninos:
--   Reactivo de gelatina sal: A una solución se agregó 5 mg del extracto a investigar al
-    que se le agregó 2 ml del reactivo de Dragendorff, se homogenizó y se procedió a la
-    lectura.
--   Reactivo con FeCl3: Al estrato inicial se agregó una solución de FeCl3 al 5 %, luego se
-    homogenizó y se lee. Debe formar un precipitado verde para ver azúcares reductores.
+-
+
+Reactivo de gelatina sal: A una solución se agregó 5 mg del extracto a investigar al
+que se le agregó 2 ml del reactivo de Dragendorff, se homogenizó y se procedió a la
+lectura.
+
+-
+
+Reactivo con FeCl3: Al estrato inicial se agregó una solución de FeCl3 al 5 %, luego se
+homogenizó y se lee. Debe formar un precipitado verde para ver azúcares reductores.
 
 5. Identificación de carbohidratos:
 
+31
 
+-
 
-                                                                                          31
--   Reactivo de Fehling: En un tubo se agregó unas gotas del reactivo de Fehling y 5 mg
-    del extracto a investigar al que se le llevara a baño María por 5 minutos y se procedió a
-    la lectura, debe formar un precipitado rojo.
+Reactivo de Fehling: En un tubo se agregó unas gotas del reactivo de Fehling y 5 mg
+del extracto a investigar al que se le llevara a baño María por 5 minutos y se procedió a
+la lectura, debe formar un precipitado rojo.
+
 3.4.2. Pruebas toxicológicas
-
 Determinación de las manifestaciones toxicológicas y muerte en ratas de laboratorio, a
 través de las concentraciones de dosis fijas únicas de las plantas en estudio, en función
 del tiempo.
+PRUEBAS TOXICOLÓGICAS FASE
+EXPERIMENTAL SEGÚN DÍAZ (2010):
 
-                                  PRUEBAS TOXICOLÓGICAS FASE
-                                 EXPERIMENTAL SEGÚN DÍAZ (2010):
+Rata
 
+Bioterio de la Facultad de Medicina Veterinaria y
+Zootecnia Universidad Nacional del Altiplano Puno
 
-                                                     Rata
+Fase adaptativa aproximadamente 7 días
 
+Con la alimentación normal para grupo control 4,06 gr/día Para grupo
+tratado 3,62 gr/día De la dosis del extracto (5mg) con 0,5 ml de agua por
+vía oral (Ocacaña, 2009 ) Lo ideal es mediante sonda
 
-                              Bioterio de la Facultad de Medicina Veterinaria y
-                             Zootecnia Universidad Nacional del Altiplano Puno
+Duración 3 meses para la dosis
+máxima letal
+Evaluación de los
+resultados
 
-
-                                   Fase adaptativa aproximadamente 7 días
-
-
-                     Con la alimentación normal para grupo control 4,06 gr/día Para grupo
-                   tratado 3,62 gr/día De la dosis del extracto (5mg) con 0,5 ml de agua por
-                             vía oral (Ocacaña, 2009 ) Lo ideal es mediante sonda
-
-
-                                       Duración 3 meses para la dosis
-                                               máxima letal
-
-
-                                              Evaluación de los
-                                                 resultados
-
-
-                                Gráfica 4. Empleo de las dosis a las ratas
+Gráfica 4. Empleo de las dosis a las ratas
 
 Al iniciar con las dosis, las ratas estuvieron que estar sin alimento durante 12 horas antes de
 la administración, y después de ello esperar por lo menos 1 a 2 horas para ver sus efectos.
@@ -1420,44 +1666,59 @@ metanólico de las plantas seleccionadas, para darles en dosis por vía oral. Ad
 del tratamiento: 0,05 ml de agua / 5 mg / kg del extracto acuoso (para 2 ratas) y metanólico
 (para 2 ratas).
 
+32
 
-
-
-                                                                                               32
-                     Tabla 2. Criterios para la evaluación del grado de toxicidad.
-
-
+Tabla 2. Criterios para la evaluación del grado de toxicidad.
 
 Método de evaluación de la toxicidad:
 Se le hace después de la aplicación de las dosis fijas de 5 mg/kg, durante 1 o 2 horas.
 Observaciones clínicas:
--   Estado de vigilia.
--   Cambios en la piel.
--   Si habrá irritación en las membranas mucosas.
--   Comportamientos extraños.
--   El peso como indicador de anemia, etc.
+-
 
+Estado de vigilia.
+
+-
+
+Cambios en la piel.
+
+-
+
+Si habrá irritación en las membranas mucosas.
+
+-
+
+Comportamientos extraños.
+
+-
+
+El peso como indicador de anemia, etc.
 
 3.4.3. Pruebas hematológicas
-
 Determinación de la toxicidad ocasionada por la aplicación de las dosis fijas únicas
 mediante las pruebas hematológicas (hematocrito, hemoglobina y leucograma), en
 ratas de laboratorio.
-
 Procedimiento:
 Se realizaron exámenes hematológicos tomando en cuenta lo siguiente:
--   Hematocrito.
--   Hemoglobina.
--   Lectura de leucograma: conteo de leucocitos, linfocitos, neutrófilos, monocitos,
-    eosinófilos y basófilos.
+-
+
+Hematocrito.
+
+-
+
+Hemoglobina.
+
+-
+
+Lectura de leucograma: conteo de leucocitos, linfocitos, neutrófilos, monocitos,
+eosinófilos y basófilos.
 
 Procedimiento para la toma de muestra:
 Para iniciar la toma de muestra de sangre se inicio con previo ayuno de 12 horas. Y para la
 toma de muestra durante los tres meses se realizó cada 30 días desde el día 0, día 30, días 60
 y día 90.
 Obtención de la sangre de la cola de la rata:
+33
 
-                                                                                           33
 Se realizó los procedimientos recomendados por Carrillo (2011) las cuales se detallan a
 continuación: se sujetó firmemente la cola para su desinfección y se incoó el extremo de la
 misma presionando hasta que se forme una gota para el hematocrito y otra para el frotis. Se
@@ -1473,39 +1734,57 @@ Para el recuento de leucocitos, se usó el diluyente de Turk 0,95 ml en un tubo 
 sangre mezclar bien durante 5 minutos y se puso 2 gotas a la cámara de New Beubauer y se
 procederá a la lectura; se lee los 4 cuadrantes de los extremos se suma y se multiplica x 50 y
 se da el resultado.
-
 Para hacer el frotis del leucograma:
--   Se realizó el frotis y se dejó secar al aire sobre una rejilla.
--   Se cubrió completamente con coloración Wright gota a gota por 5 a 8 minutos para fijar
-    los glóbulos sanguíneos.
--   Se lavó con agua a chorro cuidadosamente.
--   Secar al aire y observar con el microscopio agregando aceite de inmersión.
--   Se observaron: linfocitos, células con núcleo grande; neutrófilos, con 2 a 3 núcleos;
-    monocitos, células grandes con núcleos arriñonados; eosinófilos, células rosadas,
-    agranuladas y basófilos, células color purpura con granulaciones.
+-
+
+Se realizó el frotis y se dejó secar al aire sobre una rejilla.
+
+-
+
+Se cubrió completamente con coloración Wright gota a gota por 5 a 8 minutos para fijar
+los glóbulos sanguíneos.
+
+-
+
+Se lavó con agua a chorro cuidadosamente.
+
+-
+
+Secar al aire y observar con el microscopio agregando aceite de inmersión.
+
+-
+
+Se observaron: linfocitos, células con núcleo grande; neutrófilos, con 2 a 3 núcleos;
+monocitos, células grandes con núcleos arriñonados; eosinófilos, células rosadas,
+agranuladas y basófilos, células color purpura con granulaciones.
 
 4. Tipo de análisis estadístico usado
+-
 
--   Para las pruebas fitoquímicas para cada planta se usó cuadros de doble entrada, para
-    mostrar resultados en forma cualitativa. Donde se da la relación de dos variables:
-                                          ( + )=          +
--   Para las pruebas de los efectos toxicológicos se usó histogramas donde se muestra los
-    síntomas más evidentes a causa de las dosis administradas.
--   Un histograma, consiste en un conjunto de rectángulos que tienen:
+Para las pruebas fitoquímicas para cada planta se usó cuadros de doble entrada, para
+mostrar resultados en forma cualitativa. Donde se da la relación de dos variables:
 
+-
 
+( + )=
 
-                                                                                           34
++
+
+Para las pruebas de los efectos toxicológicos se usó histogramas donde se muestra los
+síntomas más evidentes a causa de las dosis administradas.
+
+-
+
+Un histograma, consiste en un conjunto de rectángulos que tienen:
+
+34
+
 a) Sus bases en el eje X horizontal, sus centros en la marca de clase y longitudes iguales a
-    los tamaños de los intervalos de clase.
+los tamaños de los intervalos de clase.
 b) Áreas proporcionales a las frecuencias de clase.
-
 Método de evaluación para la toxicidad:
 La toxicidad subcrónica a dosis únicas se evaluó el método alternativo de Procedimiento de
 Dosis Fijas, internacionalmente validados y aceptado (Bermúdez et al., 2007)
-
-
-
 
 Análisis estadístico para las pruebas hematológicas:
 Los resultados fueron procesados usando los programas Microsoft Excel 2007 (Windows
@@ -1515,48 +1794,278 @@ valores promedios ± desviación estándar.
 Mas la aplicación de las pruebas estadísticas de Análisis factorial y para el contraste la
 prueba de DUNNET.
 
+35
 
-
-
-                                                                                         35
-                                CAPÍTULO IV. RESULTADOS Y DISCUSIÓN
-
+CAPÍTULO IV. RESULTADOS Y DISCUSIÓN
 4.1. Identificación de los metabolitos secundarios (cualitativamente) de las plantas en
 estudio en hojas y tallos:
-
 Mediante la fitoquímica se muestra los resultados de los metabolitos secundarios en cada
 extracto de las plantas en estudio, se presenta en el cuadro 1.
-
-             Cuadro 1. Donde se muestras los resultados obtenidos en los ensayos de las plantas en estudio.
-                                                              FITOQUÍMICAS
+Cuadro 1. Donde se muestras los resultados obtenidos en los ensayos de las plantas en estudio.
+FITOQUÍMICAS
 METABOLITO
-    S                     ALCALOIDES                     FENOLES       FENOLFTALEÍNA                     TANINOS                     CARBOHIDRATOS
-                                                                             S
- Extracto          E.A.                E.M.         E.A.      E.M.     E.A.      E.M.            E.A.                  E.M.          E.A.    E.M.
- Reactivo     R.    R.     R.   R.     R.     R.W    R.      R. C.F.     A.        A.      R.ClNa        R.    R.ClNa          R.    R. F.   R. F.
-              D.    M.     W.   D.     M.       .   C.F.               ftálico   ftálico     5%         FeCl     5%           FeCl
+S
+
+ALCALOIDES
+
+Extracto
+
+E.A.
+
+FENOLES
+E.M.
+
+E.M.
+
+E.A.
+
+E.M.
+
+R.
+C.F.
+
+R. C.F.
+
+A.
+ftálico
+
+A.
+ftálico
+
+-
+
+-
+
++
+
+++
+
+++
+
+-
+
+-
+
++
+
+-
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+-
+
++
+
+-
+
++
+
+++
+
+-
+
+-
+
++
++
+
+++
++
+
++
+
+-
+
++
+
++
+
+R.
+D.
+
+R.
+M.
+
+R.
+W.
+
+R.
+D.
+
+R.
+M.
+
+R.W
+.
+
 “mishico”
-              +     +      -    +      +       -     -         +        ++        ++         -           -         -           +      +        +
-“diente       +     +      -    +      +       -     +         -         +         +         +           +       +             +      -        +
+
++
+
++
+
+-
+
++
+
++
+
+“diente
 de león”
-                                +      +
- “huira       +     -      +    +      -      +      +         +         +         +         -           -       +             +     ++      +++
- huira”
-                           +    +
-“jincho        -    -      -    +      +       -     +        ++         -         -         -           -         -           +      +       ++
+
++
+
++
+
+-
+
+“huira
+huira”
+
++
+
+-
+
++
++
+-
+
+“jincho
 jincho”
 
+-
+
+-
+
++
++
+-
+
++
++
++
++
++
+
 “altamisa
-    ”
-              +     +      +    -      +      ++     +         -         +         +        ++          ++      ++            ++      +        +
-                           +           +       +
-                           +
+”
 
-                          +++ = abundante ++ = moderado + = leve - = no detectado
-   E.A. = extracto acuso. E.M. = extracto metanólico. R.D. = reactivo de Dragendorff. R.M. = reactivo de Mayer. R.W. = reactivo de
-  Wagner. R.C.F. = reactivo Cloruro férrico. A. FTÁLICO = Acido ftálico. R.ClNa.5% = reactivo. Cloruro de sodio al 5%. R. FeCl. =
-                                          reactivo Cloruro férrico. R. F. = reactivo de Fheling
++
 
++
+
+-
+
+CARBOHIDRATOS
+
+TANINOS
+
+E.A.
+
+Reactivo
+
++
++
++
+
+FENOLFTALEÍNA
+S
+
+E.A.
+
+E.A.
+
+E.M.
+
+R.ClNa
+5%
+
+R.
+FeCl
+
+R. F.
+
+R. F.
+
+-
+
+-
+
++
+
++
+
++
+
++
+
++
+
++
+
+-
+
++
+
+-
+
++
+
++
+
+++
+
++++
+
+-
+
+-
+
+-
+
++
+
++
+
+++
+
+++
+
+++
+
+++
+
+++
+
++
+
++
+
+R.ClNa
+5%
+
+E.M.
+R.
+FeCl
+
++++ = abundante ++ = moderado + = leve - = no detectado
+E.A. = extracto acuso. E.M. = extracto metanólico. R.D. = reactivo de Dragendorff. R.M. = reactivo de Mayer. R.W. = reactivo de
+Wagner. R.C.F. = reactivo Cloruro férrico. A. FTÁLICO = Acido ftálico. R.ClNa.5% = reactivo. Cloruro de sodio al 5%. R. FeCl. =
+reactivo Cloruro férrico. R. F. = reactivo de Fheling
 
 En el cuadro 1, la determinación de las pruebas fitoquímicas, evidenció la presencia de los
 metabolitos en las plantas en estudio, donde los alcaloides estan presentes en todas las
@@ -1566,75 +2075,315 @@ las plantas pero no en “jincho jincho”. Los taninos presente en “diente de
 pero en menor proporción está en “jincho jincho”, ¨huira huira¨ y ¨mishico¨. Y los
 carbohidratos presente en todas las plantas excepto en “diente de león” que está en menor
 proporción.
-
 Los alcaloides demuestran su presencia en “altamisa” como también en el “diente de león”,
 los carbohidratos están presentes en “diente de león”, para los taninos también se demostró
 que están presentes en “mishico”, como lo afirma Guerrero et al. (2006), lo cual coinciden
 con los metabolitos secundarios detectado en este trabajo experimental para dichas especies.
 
+36
 
-
-
-                                                                                                                                       36
 La presencia de alcaloides tienen efectos tóxicos, por ser así lo usan como repelentes para
 distintos ectoparásitos como los ácaros (Pereida et al., 2009) y también como microbicida
 (Mora et al., 2012). Estos alcaloides se concentran en determinadas partes de la planta y
 forman parte de su mecanismo de defensa ya que por su sabor amargo y su acción tóxica
 sobre el organismo evitan la acción depredadora de los herbívoros (Arteta, 2008)
-
 Sin embargo Rodón et al. (2010), apoya a que los metabolitos secundarios entre ellos los
 alcaloides, azúcares reductores, taninos y otros, fundamenta su empleo para diversas
 afecciones. Como ya se menciona con los resultados de la sintomatología que muestran las
 ratas en el experimento. Versión que confirma Macías (2009) en sentido que la toxicidad de
 las plantas es causada por los metabolitos secundarios.
-
 4.2. Determinación de las manifestaciones toxicológicas y muerte en ratas de
 laboratorio, a través de las concentraciones de dosis fijas únicas de las plantas en
 estudio, en función del tiempo.
-
 La administración de una dosis fija única de 5 mg/kg de masa corporal, no provocó la
 muerte de los animales, solo en grupo de “altamisa”, que se tuvo que sacrificar por el
 prolapso uterino que sufrió. Manifestaron síntomas de somnolencia, irritación de las
 membranas mucosas, edemas y otros.
+Cuadro 2. Trastornos fisiológicos observados más frecuentes en las ratas luego de administrarle el extracto
+acuoso y metanólico de las plantas medicinales.
+“mishico”
 
- Cuadro 2. Trastornos fisiológicos observados más frecuentes en las ratas luego de administrarle el extracto
-                              acuoso y metanólico de las plantas medicinales.
+Efectos
+colaterales
 
-     Efectos                    “mishico”          “diente de león”     “huira huira”     “jincho jincho”   “altamisa”
-                 Abreviatura
-   colaterales                 E.A.      E.M.      E.A.       E.M.      E.A.     E.M.     E.A.      E.M.    E.A.   E.M.
-     Vigilia        VIG         1          0         -         -          -        -        -         -      -      -
-  Somnolencia       SOM        24          1         1         1          4        4        1        6       -      -
-   Irritación
-                    INA         4          1         -         -          -        -        -         -      -      -
-     nasal
-    Lagañas         LAG         2          1         2         1          1        1        2        2       0      4
-  Edema bucal       EDE         1          0         -         -          -        -        -         -      -      -
-   Irritación
-                    IOC         -          -         1         0          8        3        0        1       -      -
-     ocular
-  Erizamiento
-                    ERIZ        -          -         -         -          1        0        -         -      2      1
-   de la piel
-    Absceso
-                  HACER         -          -         -         -          -        -        1        0       -      -
-    cervical
-   Prolapso
-                   PROL         -          -         -         -          -        -        -         -      1      0
-    cervical
-    Orquitis        ORQ         -          -         -         -          -        -        -         -      0      4
+Abreviatura
 
+Vigilia
 
-                                    E.A. = Extracto Acuoso. E.M. = Extracto Metanólico.
+“diente de león”
 
+“huira huira”
 
+“jincho jincho”
 
+“altamisa”
 
-                                                                                                                         37
+E.A.
+
+E.M.
+
+E.A.
+
+E.M.
+
+E.A.
+
+E.M.
+
+E.A.
+
+E.M.
+
+E.A.
+
+E.M.
+
+VIG
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Somnolencia
+
+SOM
+
+24
+
+1
+
+1
+
+1
+
+4
+
+4
+
+1
+
+6
+
+-
+
+-
+
+Irritación
+nasal
+
+INA
+
+4
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Lagañas
+
+LAG
+
+2
+
+1
+
+2
+
+1
+
+1
+
+1
+
+2
+
+2
+
+0
+
+4
+
+Edema bucal
+
+EDE
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+IOC
+
+-
+
+-
+
+1
+
+0
+
+8
+
+3
+
+0
+
+1
+
+-
+
+-
+
+ERIZ
+
+-
+
+-
+
+-
+
+-
+
+1
+
+0
+
+-
+
+-
+
+2
+
+1
+
+HACER
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+0
+
+-
+
+-
+
+PROL
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+0
+
+ORQ
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0
+
+4
+
+Irritación
+ocular
+Erizamiento
+de la piel
+Absceso
+cervical
+Prolapso
+cervical
+Orquitis
+
+E.A. = Extracto Acuoso. E.M. = Extracto Metanólico.
+
+37
+
 Figura 1. Frecuencia de observación de trastornos fisiológicos observados en las ratas luego de administrarles
-  los extractos acuosos y alcohólicos de las plantas medicinales. Los significados de las abreviaturas de los
-                                   trastornos se encuentran en el cuadro 2.
-
+los extractos acuosos y alcohólicos de las plantas medicinales. Los significados de las abreviaturas de los
+trastornos se encuentran en el cuadro 2.
 
 En la figura 1 se da con más frecuencia en las ratas son: la somnolencia ocasionada por el
 “mishico” y más en el extracto acuoso también se muestra la irritación ocular del ojo
@@ -1645,23 +2394,21 @@ león”; en cuanto a los problemas del aparato reproductor femenino que son oca
 “altamisa” en ratas donde hay prolapso cervical y orquitis, como también lo corrobora
 Umaña (2003) que algunas plantas si hacen estimulaciones uterinas serveras, evidencias que
 son síntomas clínicos encontrados durante el experimento.
-
 La “altamisa”, usada como planta abortiva y como biocida versión que confirma Arteta
 (2008), durante la fase de experimentación se mostró que una de las ratas tuvo prolapso
 cervical, son evidencia de abortos, como también se menciona a “mishico” con propiedades
 abortivas pero no se mostró este resultado con esta planta durante el experimento.
-
 Bonilla & Pareja (2001), mencionan que mediante ensayos de solubilidad se observó que los
 metabolitos secundarios, tienen actividad inmunoestimulante, esto sobre todo en el extracto
 etanolico, lo demuestra sus estudios. En nuestro estudio sería el caso del extracto acuoso,
 donde se muestra más sintomatología que en el extracto metanólico.
-                                                                                                           38
+38
+
 La actividad inmunoestimulante va de la mano con el sistema inmune debe de considerarse
 como órgano sensorial encargado de la captación de estímulo no cognoscitivo, el sistema
 inmune convierte dicho estimulo en información química, en forma de hormonas peptídicas,
 neurotransmisores y citoquinas que se dirigen al sistema neuroendocrino provocando
 cambios fisiológicos y psicológicos ocasionado por los metabolitos (López, 2000).
-
 
 Mencionado a los metabolitos los alcaloides estos producen agitación, cianosis,
 contracciones musculares por la planta “Clarín”, los taninos producen deshidratación
@@ -1670,13 +2417,10 @@ producida por la planta “Curbana”, según los estudios de Macías (2009) y p
 Justicia pectoralis por Bermúdez et al. (2007); se tiene mucha relación con los resultado
 encontrados en los síntomas de las ratas demostrando que algunas de estas plantas si
 producen estos síntomas.
-
 Larraine & Dreisbach (2003) en sus estudios, nos indican la presencia de estos síntomas, la
 irritación de las membranas mucosas, causado por el lirio de agua, y la irritación nasal
 causada por el yutex. Estos son evidencia de síntomas tóxicos.
-
-         Síntomas encontrados durante el experimento y las plantas causantes:
-
+Síntomas encontrados durante el experimento y las plantas causantes:
 La vigilia, causada por «mishico».
 Somnolencia, causada por «mishico».
 Irritación nasal, causada por «mishico».
@@ -1686,81 +2430,212 @@ Orzuelo, irritación del ojo, causada por «huira huira».
 Erizamiento de la piel o piloerección, causada por «altamisa».
 Prolapso genital, causada por «altamisa».
 Orquitis, causada por «altamisa».
-
 Peso, esta noción menciona a la cantidad de masa que alberga el cuerpo de una persona. A
 partir de esta cifra, es posible estimar ciertas características acerca de las condiciones de
 salud de un individuo, aunque el peso corporal no es un dato concluyente.
 
+39
 
-
-
-                                                                                          39
 Cuadro 3. Determinación del peso corporal durante los 90 días de experimentación: Para evidenciar si el
-                   organismo de las ratas sufrieron algún tipo de anemia o anomalía:
+organismo de las ratas sufrieron algún tipo de anemia o anomalía:
+Acuoso
 
-     Tiempo de                                                       Acuoso
-     tratamiento   Control (g)   “misico ‘ (g)   “diente de león ‘ (g)   “huira huira ‘ (g)   “jincho jincho ‘ (g)   “altamisa ‘ (g)
-       Inicio         117,55        187,25             166,05                 151,95               166,80               155,35
-      30 días         142,35        214,40             166,40                 168,15               165,20               146,65
-      60 días         150,50        241,50             190,20                 200,40               148,80               116,50
-      90 días         193,50        228,85             215,65                 223,65               156,90               166,50
-     Promedio         150,97        218,00             184,57                 186,03               159,42               146,25
+Tiempo de
+tratamiento
 
+Control (g)
 
+“misico ‘ (g)
 
+“diente de león ‘ (g)
 
-                         Figura 2. Peso corporal de las ratas aplicando el extracto acuoso.
+“huira huira ‘ (g)
+
+“jincho jincho ‘ (g)
+
+“altamisa ‘ (g)
+
+Inicio
+30 días
+60 días
+90 días
+Promedio
+
+117,55
+142,35
+150,50
+193,50
+150,97
+
+187,25
+214,40
+241,50
+228,85
+218,00
+
+166,05
+166,40
+190,20
+215,65
+184,57
+
+151,95
+168,15
+200,40
+223,65
+186,03
+
+166,80
+165,20
+148,80
+156,90
+159,42
+
+155,35
+146,65
+116,50
+166,50
+146,25
+
+Figura 2. Peso corporal de las ratas aplicando el extracto acuoso.
 
 En la figura 2, el peso corporal en las ratas administrado el consumo del extracto acuoso de
 las plantas en estudio comparando con el grupo control hubo incremento de peso en las ratas
 tratadas con “mishico” (Bidens andicola), seguido por “huira huira” (Psedogmaphalium
 spicatum), “diente de león” (Taraxacum officinalis), “jincho jincho” (Hieracium
 neoherrerae) y una deficiencia en ratas tratadas con “altamisa” (Ambrosia arborescens).
+Cuadro 4. Determinación del peso corporal durante los 90 días de experimentación:
+Alcohólico
 
-           Cuadro 4. Determinación del peso corporal durante los 90 días de experimentación:
+Tiempo de
+tratamiento
 
-    Tiempo de                                                      Alcohólico
-    tratamiento    Control (g)   “mishico” (g)   “diente de león” (g)    “huira huira” (g)    “jincho jincho” (g)     “altamisa” (g)
-      Inicio         129,30         111,65              157,60                178,90                 135,45               185,90
-     30 días         139,75         154,00              177,05                147,75                 152,65               212,65
-     60 días         148,95         203,20              212,45                201,25                 163,70               241,10
-     90 días         171,00         230,95              241,10                225,10                 188,50               267,50
-    Promedio         147,25         174,95              197,05                188,25                 160,07               226,78
+Control (g)
 
+“mishico” (g)
 
+“diente de león” (g)
 
-                                                                                                                                       40
-                   Figura 3. Peso corporal de las ratas aplicando el extracto metanólico.
+“huira huira” (g)
+
+“jincho jincho” (g)
+
+“altamisa” (g)
+
+Inicio
+30 días
+60 días
+90 días
+Promedio
+
+129,30
+139,75
+148,95
+171,00
+147,25
+
+111,65
+154,00
+203,20
+230,95
+174,95
+
+157,60
+177,05
+212,45
+241,10
+197,05
+
+178,90
+147,75
+201,25
+225,10
+188,25
+
+135,45
+152,65
+163,70
+188,50
+160,07
+
+185,90
+212,65
+241,10
+267,50
+226,78
+
+40
+
+Figura 3. Peso corporal de las ratas aplicando el extracto metanólico.
 
 En la figura 3, en el extracto metanólico comparando con el grupo control hubo incremento
 del peso en las ratas tratados con “altamisa” (Ambrosia arborescens), seguida por “diente de
-león”     (Taraxacum       officinales),     “mishico”        (Bidens        andicola),     “huira      huira”
+león”
+
+(Taraxacum
+
+officinales),
+
+“mishico”
+
+(Bidens
+
+andicola),
+
+“huira
+
+huira”
+
 (Pseudognaphalium spicatum), y deficiencia en el peso con las ratas tratadas con “jincho
 jincho” (Hieracium neoherrerae).
-
 
 4.3. Determinación de la toxicidad ocasionada por la aplicación de las dosis fijas únicas
 mediante las pruebas hematológicas (hematocrito, hemoglobina y leucograma), en
 ratas de laboratorio.
-
 Para los exámenes hematológicos se tuvieron que obtener sangre por cada 30 días, para la
 evaluación y observación en la lámina porta objeto.
 
+Cuadro 5. Análisis factorial para la determinación de los valores de hematocrito (%) según cada planta
+medicinal y tipo de extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+Fuente
+EFECTOS PRINCIPALES
+A: Plantas
+B: Extractos
+RESIDUOS
+TOTAL (CORREGIDO)
 
-   Cuadro 5. Análisis factorial para la determinación de los valores de hematocrito (%) según cada planta
-        medicinal y tipo de extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+Suma de Cuadrados
 
-                    Fuente         Suma de Cuadrados     Gl    Cuadrado Medio     Razón-F     Valor-P
-         EFECTOS PRINCIPALES
-        A: Plantas                        371,9          4          92,975          3,38      0,0155
-        B: Extractos                     284,033         2         142,017          5,17      0,0089
-        RESIDUOS                         1457,05         53        27,4915
-           TOTAL (CORREGIDO)             2112,98         59
+Gl
 
+Cuadrado Medio
 
+Razón-F
 
+Valor-P
 
-                                                                                                            41
+371,9
+284,033
+1457,05
+2112,98
+
+4
+2
+53
+59
+
+92,975
+142,017
+27,4915
+
+3,38
+5,17
+
+0,0155
+0,0089
+
+41
+
 En el cuadro 5, el análisis de varianza indica que para el factor en estudio plantas
 medicinales, se encontró diferencia estadística significativa (P < 0,05) para los valores de
 hematocrito, lo que determina que la administración de las plantas medicinales a ratas
@@ -1769,11 +2644,8 @@ Wistar, presentan un efecto diferente en los valores de hematocrito. Para el tip
 valores de hematocrito no presentan variaciones atribuibles al efecto del tipo de extracto
 administrado a las ratas.
 
-
-
-
- Figura 4. Valores de Hematocrito (%) según planta medicinal y tipo de extracto administrado vía oral por 90
-                                      días a ratas Wistar, Puno 2013.
+Figura 4. Valores de Hematocrito (%) según planta medicinal y tipo de extracto administrado vía oral por 90
+días a ratas Wistar, Puno 2013.
 
 En la figura 4, se muestra en comparación del grupo control, las ratas tratadas con “mishico”
 (Bidens andicola) y “huira huira” (Pseudognaphalium spicatum ) el hematocrito se halla por
@@ -1783,41 +2655,96 @@ legeramente bajo, y tanto como “jincho jincho” (Hieracium neoherrerae) y “
 (Ambrosia arboresens) se encuentran por debajo de los valores del grupo control indicando
 una deficiencia del hematocrito causado por algún tipo de anomalía mencionado
 anteriormente; así como prolapso cervical y la orquitis.
-
 En cuanto a los tipos de extractos se muestra que en el extracto acuoso hay deficiencia del
 hematocrito en comparación del grupo control.
 
+42
 
-                                                                                                          42
-  Cuadro 6. Prueba de Dunnett para valores de Hematocrito (%) según planta medicinal y tipo de extracto
-                      administrado vía oral por 90 días a ratas Wistar, Puno 2013
+Cuadro 6. Prueba de Dunnett para valores de Hematocrito (%) según planta medicinal y tipo de extracto
+administrado vía oral por 90 días a ratas Wistar, Puno 2013
+Diferencia entre
 
-                                                  Diferencia entre             Significancia
-                    Comparaciones
-                                                      promedios                   0,05
-                  “mishico” – Control                   2,750                      N.S
-                 “huira huira” – Control                1,000                      N.S
-               “diente de león” – Control              -1,750                      N.S
-                “jincho jincho” – Control              -3,750                      N.S
-                  “altamisa” – Control                 -7,583                       *
+Significancia
 
-              * Diferencia significativa
+promedios
 
+  0,05
+
+“mishico” – Control
+
+2,750
+
+N.S
+
+“huira huira” – Control
+
+1,000
+
+N.S
+
+“diente de león” – Control
+
+-1,750
+
+N.S
+
+“jincho jincho” – Control
+
+-3,750
+
+N.S
+
+“altamisa” – Control
+
+-7,583
+
+*
+
+Comparaciones
+
+* Diferencia significativa
 En el cuadro 6, la prueba de Dunnett comparó las plantas medicinales con el control,
 respecto a los valores de hematocrito, se encontró diferencia estadística significativa (P <
 0.05) para el contraste de la “altamisa” y el control, lo que señala que la administración oral
 de extracto de esta planta medicinal, disminuye los valores de hematocrito.
+Cuadro 7. Análisis factorial para la determinación de los valores de hemoglobina (mg/dl) según planta
+medicinal y tipo de extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+Fuente
+EFECTOS PRINCIPALES
+A: Plantas
+B: Extractos
+RESIDUOS
+TOTAL (CORREGIDO)
 
-   Cuadro 7. Análisis factorial para la determinación de los valores de hemoglobina (mg/dl) según planta
-        medicinal y tipo de extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+Suma de Cuadrados
 
-                  Fuente             Suma de Cuadrados      Gl    Cuadrado Medio     Razón-F    Valor-P
-       EFECTOS PRINCIPALES
-      A: Plantas                            40,5667         4        10,1417             3,48   0,0135
-      B: Extractos                            34,3          2         17,15              5,88   0,0049
-      RESIDUOS                              154,533         53       2,91572
-         TOTAL (CORREGIDO)                   229,4          59
+Gl
 
+Cuadrado Medio
+
+Razón-F
+
+Valor-P
+
+40,5667
+34,3
+154,533
+229,4
+
+4
+2
+53
+59
+
+10,1417
+17,15
+2,91572
+
+3,48
+5,88
+
+0,0135
+0,0049
 
 En el cuadro 7, el análisis de varianza indica que para el factor en estudio de las plantas
 medicinales, se encontró diferencia estadística significativa (P < 0,05) para los valores de
@@ -1827,13 +2754,11 @@ Wistar, presentan un efecto diferente en los valores de hematocrito. Para el tip
 determina que los valores de hemoglobina no presentan variaciones atribuibles al efecto del
 tipo de extractos administrado a las ratas.
 
+- 4343
+-
 
-
-
-                                                                                                          - 4343
-                                                                                                               -
- Figura 5. Valores de Hemoglobina (g/dl) según planta medicinal y tipo de extracto administrado vía oral por
-                                    90 días a ratas Wistar, Puno 2013
+Figura 5. Valores de Hemoglobina (g/dl) según planta medicinal y tipo de extracto administrado vía oral por
+90 días a ratas Wistar, Puno 2013
 
 En la figura 5, se muestra en comparación del grupo control, las ratas tratadas con “mishico”
 y “huira huira” la hemoglobina está ligeramente por encima de los valores del grupo control;
@@ -1842,42 +2767,82 @@ ligeramente por debajo de los valores del grupo control, en cuanto “jincho jin
 “altamisa” está por muy debajo de los valores del grupo control indicando un deficiencia de
 la hemoglobina causado por algún tipo de anomalía mencionado anteriormente en los
 síntomas encontrados como prolapso cervical y la orquitis.
-
 En cuanto a los tipos de extractos administradas a las ratas, se muestra que en el extracto
 acuoso hay más deficiencia para la lectura de la hemoglobina, mientras en el extracto
 metanólico esta de acorde con el grupo control.
-
 Cuadro 8. Prueba de Dunnett para valores de Hemoglobina (mg/dl) según planta medicinal y tipo de extracto
-                      administrado vía oral por 90 días a ratas Wistar, Puno 2013
+administrado vía oral por 90 días a ratas Wistar, Puno 2013
+Comparaciones
 
-                                                                            Significancia
-                      Comparaciones            Diferencia entre promedios
-                                                                               0,05
-                     “mishico” – Control                1.1500                  N.S
-                   “huira huira” – Control              0.3500                  N.S
-                  “diente de león” – Control            -1.0750                 N.S
-                  “jincho jincho” – Control             -1.1750                 N.S
-                     “altamisa” – Control               -2.4917                  *
-               * Diferencia significativa
+Diferencia entre promedios
 
+“mishico” – Control
+“huira huira” – Control
+“diente de león” – Control
+“jincho jincho” – Control
+“altamisa” – Control
+
+1.1500
+0.3500
+-1.0750
+-1.1750
+-2.4917
+
+Significancia
+
+  0,05
+N.S
+N.S
+N.S
+N.S
+*
+
+* Diferencia significativa
 En el cuadro 8, la prueba de Dunnett comparó las plantas medicinales con el control,
 respecto a los valores de hemoglobina, se encontró diferencia estadística significativa (P <
+44
 
-                                                                                                          44
 0.05) para el contraste de la “altamisa” (Ambrosia arborescen) y el control, lo que señala
 que la administración oral de extracto de esta planta medicinal, disminuye los valores de
 hemoglobina.
+Cuadro 9. Análisis factorial para leucocitos (103 células/µl) según planta medicinal y tipo de extracto
+administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+Fuente
+EFECTOS PRINCIPALES
+A: Plantas
+B: Extractos
+RESIDUOS
+TOTAL (CORREGIDO)
 
-    Cuadro 9. Análisis factorial para leucocitos (103 células/µl) según planta medicinal y tipo de extracto
-                        administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+Suma de Cuadrados
 
-                   Fuente            Suma de Cuadrados     Gl    Cuadrado Medio     Razón-F    Valor-P
-        EFECTOS PRINCIPALES
-       A: Plantas                        6,92772E6         4       1,73193E6          1,20      0,3225
-       B: Extractos                      8,60406E6         2       4,30203E6          2,98      0,0596
-       RESIDUOS                          7,66151E7         53      1,44557E6
-          TOTAL (CORREGIDO)              9,21469E7         59
+Gl
 
+Cuadrado Medio
+
+Razón-F
+
+Valor-P
+
+6,92772E6
+8,60406E6
+7,66151E7
+9,21469E7
+
+4
+2
+53
+59
+
+1,73193E6
+4,30203E6
+1,44557E6
+
+1,20
+2,98
+
+0,3225
+0,0596
 
 En el cuadro 9, el análisis de varianza indica que para el factor en estudio de plantas
 medicinales, no se encontró diferencia estadística significativa (P < 0,05) para los valores de
@@ -1887,139 +2852,395 @@ metanólico) se encontró diferencia significativa (P > 0,05), lo que determina 
 de leucocitos no presentan variaciones atribuibles al efecto del tipo de extracto administrado
 a las ratas.
 
-
-
-
 Figura 6. Valores de Leucocitos (No/mm3) según planta medicinal y tipo de extracto administrado vía oral por
-                                    90 días a ratas Wistar, Puno 2013
+90 días a ratas Wistar, Puno 2013
 
 En la figura 6, se muestra el recuento de leucocitos indica que si hay aumento baja la
 probabilidad de que el organismo este sufriendo algún tipo de infección mientras la
 deficiencia es leucopenia causada por algún tipo de respuesta inmunológica e inflamación.
 En el cuadro se muestra que las ratas tratadas con, “diente de león” (Taraxacum officinalis)
+45
 
-                                                                                                              45
 y “huira huira” (Pseudogmaphalium spicatum) se encuentra conforme al grupo control,
 mientras las ratas en los grupos tratados con “mishico” (Bidens andicola), “jincho jincho”
 (Hieracium neoherrerae) y “altamisa” (Ambrosia arborescens) hay deficiencia de leucocitos
 indicando una leucopenia debido a los síntomas tóxicos se encontró una respuesta
 inflamatoria. En comparación al tipo de extracto se mostró que el extracto metanólico
 mostro un ligero aumento que el extracto acuoso donde hay una deficiencia.
+Cuadro 10. Valores de leucograma (%) según cada planta medicinal y tipo de extracto administrado vía oral
+por 90 días a ratas Wistar, Puno 2013.
+Planta
+Extr
+LIN
+SEG
+ABA
+MON
+EOS
+BAS
 
- Cuadro 10. Valores de leucograma (%) según cada planta medicinal y tipo de extracto administrado vía oral
-                                 por 90 días a ratas Wistar, Puno 2013.
-Planta            Control             “mishico”              “diente de león”        “huira huira”         “jincho jincho”              “altamisa”
- Extr        AC             ME      AC        ME             AC           ME        AC          ME         AC          ME          AC            ME
- LIN      49,5±0,71    52,5±0,71   52±1,41     54.5±0,71   49,5±0,71   48±0,00     55±1,41   57,5±2,12   49±1,41      48±0,00     54±0,00    56,5±2,12
- SEG       47±1,41     41,5±3,54   44±1,41     39±1,41     43,5±0,71   45±7,07     40±0,00   36±2,83     45±1,41     46,5±3,54    39±0,00    39,5±0,71
-ABA        0,5±0,71     0±0,00     0±0,00       1±1,41     1,5±0,71     1±1,41     0±0,00    0,5±0,71    1,5±0,71    0,5±0,71     1±0,00      1±1,41
-MON        0,5±0,71     3±1,41     1±0,00       3±1,41     0,5±0,71     2±2,83     3±1,41    3,5±0,71    1±0,00      1,5±0,71     1±0,00      1±1,41
- EOS       2±0,00       2±0,00     2±0,00       1±1,41      4±0,00     2,5±2,12   1,5±0,71   2,5±0,71    3±4,24      3,5±3,54     1±0,00      1±1,41
-BAS        0,5±0,71     1±1,41     1±0,00      1,5±0,71     1±0,00     1,5±0,71   0,5±0,71    0±0,00     0,5±0,71     0±0,00      1±0,00      1±0,00
+Control
 
+“mishico”
+AC
+ME
 
-    Extr: extracto. LIN: linfocitos. SEG: segmentados. ABA: abastonados. MON: monocitos. EOS: eosinófilos. BAS:
-                                  basófilos. AC: extracto acuoso. ME: extracto metanólico
+“diente de león”
+AC
+ME
 
- Cuadro 11. Análisis factorial para valores de leucocitos diferenciales (%) según planta medicinal y tipo de
-                  extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
-  FUENTE DE VARIACIÓN              G.L.        Linfocitos      Segmentados        Abastonados      Monocitos        Eosinófilos      Basófilos
-  PLANTAS MEDICINALES                5       0,01272921**      0,01590191*         0,02121955      0,05846112       0,04691234      0,02579123
-     TIPO DE EXTRACTO                1        0,00247327        0,01133671         0,00178421      0,17224671       0,00372859      0,00042206
-   ERROR EXPERIMENTAL               16        0,00068663        0,00392278         0,02020814      0,02946532        0,050347       0,01026571
+“huira huira”
+AC
+ME
+
+“jincho jincho”
+AC
+ME
+
+AC
+
+“altamisa”
+ME
+
+AC
+
+ME
+
+49,5±0,71
+
+52,5±0,71
+
+52±1,41
+
+54.5±0,71
+
+49,5±0,71
+
+48±0,00
+
+55±1,41
+
+57,5±2,12
+
+49±1,41
+
+48±0,00
+
+54±0,00
+
+56,5±2,12
+
+47±1,41
+
+41,5±3,54
+
+44±1,41
+
+39±1,41
+
+43,5±0,71
+
+45±7,07
+
+40±0,00
+
+36±2,83
+
+45±1,41
+
+46,5±3,54
+
+39±0,00
+
+39,5±0,71
+
+0,5±0,71
+
+0±0,00
+
+0±0,00
+
+1±1,41
+
+1,5±0,71
+
+1±1,41
+
+0±0,00
+
+0,5±0,71
+
+1,5±0,71
+
+0,5±0,71
+
+1±0,00
+
+1±1,41
+
+0,5±0,71
+
+3±1,41
+
+1±0,00
+
+3±1,41
+
+0,5±0,71
+
+2±2,83
+
+3±1,41
+
+3,5±0,71
+
+1±0,00
+
+1,5±0,71
+
+1±0,00
+
+1±1,41
+
+2±0,00
+
+2±0,00
+
+2±0,00
+
+1±1,41
+
+4±0,00
+
+2,5±2,12
+
+1,5±0,71
+
+2,5±0,71
+
+3±4,24
+
+3,5±3,54
+
+1±0,00
+
+1±1,41
+
+0,5±0,71
+
+1±1,41
+
+1±0,00
+
+1,5±0,71
+
+1±0,00
+
+1,5±0,71
+
+0,5±0,71
+
+0±0,00
+
+0,5±0,71
+
+0±0,00
+
+1±0,00
+
+1±0,00
+
+Extr: extracto. LIN: linfocitos. SEG: segmentados. ABA: abastonados. MON: monocitos. EOS: eosinófilos. BAS:
+basófilos. AC: extracto acuoso. ME: extracto metanólico
+
+Cuadro 11. Análisis factorial para valores de leucocitos diferenciales (%) según planta medicinal y tipo de
+extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+FUENTE DE VARIACIÓN
+PLANTAS MEDICINALES
+TIPO DE EXTRACTO
+ERROR EXPERIMENTAL
+
+G.L.
+5
+1
+16
+
+Linfocitos
+0,01272921**
+0,00247327
+0,00068663
+
+Segmentados
+0,01590191*
+0,01133671
+0,00392278
+
+Abastonados
+0,02121955
+0,00178421
+0,02020814
+
+Monocitos
+0,05846112
+0,17224671
+0,02946532
+
+Eosinófilos
+0,04691234
+0,00372859
+0,050347
+
+Basófilos
+0,02579123
+0,00042206
+0,01026571
+
 *Diferencia significativa
-
 En el cuadro 11, los análisis de varianza indica que para el factor en estudio de plantas
 medicinales, se encontró diferencia estadística significativa para linfocitos y segmentados (P
 < 0,05), para el estudio de leucocitos diferenciales no se encontró diferencia estadística.
-
 Cuadro 12. Prueba de Dunnett para valores de linfocitos y segmentados (%) según planta medicinal y tipo de
-                  extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
+extracto administrado vía oral por 90 días a ratas Wistar, Puno 2013.
 
-                                                        Linfocitos                                         Leucocitos
-         Comparaciones                      Diferencia entre    Significancia                Diferencia entre      Significancia
-                                               promedios           α = 0,05                     promedios             α = 0,05
-    “mishico” – control                          0,03947             N.S                         - 0,05676              N.S
-  “huira huira” – control                        0,08959              *                          - 0,13501               *
- “diente de león” – control                     - 0,04073            N.S                         - 0,00028              N.S
- “jincho jincho” – control                      - 0,04540            N.S                          0,03158               N.S
-    “altamisa” – control                         0,08005              *                          - 0,10285              N.S
+Comparaciones
+“mishico” – control
+“huira huira” – control
+“diente de león” – control
+“jincho jincho” – control
+“altamisa” – control
+
+Linfocitos
+Diferencia entre
+Significancia
+promedios
+α = 0,05
+0,03947
+N.S
+0,08959
+*
+- 0,04073
+N.S
+- 0,04540
+N.S
+0,08005
+*
+
+Leucocitos
+Diferencia entre
+Significancia
+promedios
+α = 0,05
+- 0,05676
+N.S
+- 0,13501
+*
+- 0,00028
+N.S
+0,03158
+N.S
+- 0,10285
+N.S
 
 En el cuadro 12, la prueba de Dunnett para linfocitos, indica la existencia de diferencia
 estadística significativa (P < 0,005), para las plantas medicinales “huira huira” y “altamisa”,
 la administración oral por 90 días de extracto de estas plantas provoca el incremento de estos
 leucocitos en ratas Wistar.
+46
 
-                                                                                                                                                 46
 Para segmentados, la prueba de Dunnett indica la existencia de diferencia estadística
 significativa para “huira huira” (P < 0,05), los valores de segmentados disminuyen con la
 administración oral de dicha planta (figura 7).
 
+61
 
-                                     61
+59
 
+57
+Linfocitos %
 
-                                     59
+56,25
+55.67
+55
+53,25
 
+53
 
-                                     57
-                                                                                56,25
-                                                                                                   55.67
-                      Linfocitos %
+51
 
+51
 
+49
 
+47
 
-                                     55
+48,75
 
+Control
 
-                                     53                   53,25
+48,5
 
+Misico Diente leon Huira
 
-                                     51         51
+Jincho
 
+Altamisa
 
-                                     49                            48,75                 48,5
-
-                                     47
-                                          Control    Misico Diente leon Huira       Jincho   Altamisa
-
-
-
-
- Figura 7. Valores de Linfocitos (%) según planta medicinal administrada vía oral por 90 días a ratas Wistar.
+Figura 7. Valores de Linfocitos (%) según planta medicinal administrada vía oral por 90 días a ratas Wistar.
 
 En la figura 7, se muestra el conteo de linfocito, donde hay un aumento de linfocitos en las
 ratas tratadas con “mishico”, “huira huira” y aún más en “altamisa”, evidencia que es por el
 proceso de infección que se estuvo iniciando en su organismo. Para las ratas tratadas con
 ¨diente de león¨ y ¨jincho jincho¨ hay una deficiencia, indicando que podrían estar
 recuperándose de una infección.
-
 Cuadro 13. Análisis factorial para recuento de neutrófilos analizando según el tipo de planta y tipo de extracto.
+Fuente
+EFECTOS PRINCIPALES
+A: Plantas
+B: Extractos
+RESIDUOS
+TOTAL (CORREGIDO)
 
-                   Fuente                     Suma de Cuadrados       Gl    Cuadrado Medio          Razón-F    Valor-P
-        EFECTOS PRINCIPALES
-       A: Plantas                                    156,333          4            39,0833              1,36   0,2605
-       B: Extractos                                  35,2333          2            17,6167              0,61   0,5457
-       RESIDUOS                                      1523,77          53           28,7503
-          TOTAL (CORREGIDO)                          1715,33          59
+Suma de Cuadrados
+
+Gl
+
+Cuadrado Medio
+
+Razón-F
+
+Valor-P
+
+156,333
+35,2333
+1523,77
+1715,33
+
+4
+2
+53
+59
+
+39,0833
+17,6167
+28,7503
+
+1,36
+0,61
+
+0,2605
+0,5457
 
 En el cuadro 13, el análisis de varianza indica que para el factor en estudio de las plantas
 medicinales, no se encontró diferencias significativas (P > 0,05) para los valores de
 neutrófilos, lo que determina que la administración de las plantas medicinales a ratas
 Wistar, presenta un efecto diferente en los valores de neutrófilos. Para el tipo de extracto
 (acuoso y metanólico) no se encontró diferencia estadística (P > 0,05), lo que determina que
+47
 
-
-                                                                                                                         47
 los valores de neutrófilos no presentan variaciones atribuibles al efecto del tipo de extracto
 administrado a las ratas.
 
-
-
-
- Figura 8. Valores de Neutrófilos % según planta medicinal y tipo de extracto administrado vía oral por 90
-                                     días a ratas Wistar, Puno 2013
+Figura 8. Valores de Neutrófilos % según planta medicinal y tipo de extracto administrado vía oral por 90
+días a ratas Wistar, Puno 2013
 
 En la figura 8 muestra el recuento de neutrófilos indica que si hay aumento es porque el
 organismo se está recuperando de una enfermedad o algún tipo de daño causado. En el
@@ -2030,32 +3251,47 @@ que el grupo tratado con “altamisa” (Ambrosia arborescens) hay una deficienc
 neutrófilos indicando una infección, debido a los síntomas encontrados durante el
 experimento. En comparación al tipo de extracto se mostró que el extracto metanólico
 mostro un ligero aumento, mientras en el extracto acuoso hay una deficiencia.
+Cuadro 14. Análisis factorial para el recuento de monocitos según el tipo de planta y tipo de extracto.
+Fuente
+Suma de Cuadrados
+EFECTOS PRINCIPALES
+A: Plantas
+1,56667
+B: Extractos
+5,23333
+RESIDUOS
+42,1833
+TOTAL (CORREGIDO)
+48,9833
 
-    Cuadro 14. Análisis factorial para el recuento de monocitos según el tipo de planta y tipo de extracto.
+Gl Cuadrado Medio Razón-F Valor-P
+4
+2
+53
+59
 
-                        Fuente    Suma de Cuadrados         Gl Cuadrado Medio Razón-F Valor-P
-              EFECTOS PRINCIPALES
-              A: Plantas               1,56667              4     0,391667       0,49    0,7415
-              B: Extractos             5,23333              2     2,61667        3,29    0,0451
-              RESIDUOS                 42,1833              53    0,795912
-               TOTAL (CORREGIDO)       48,9833              59
+0,391667
+2,61667
+0,795912
+
+0,49
+3,29
+
+0,7415
+0,0451
 
 En el cuadro 14, el análisis de varianza indica que para el factor en estudio de plantas
 medicinales, no se encontró diferencia estadística significativa (P < 0,05), para los valores
 de monocitos, lo que determina que la administración de las plantas medicinales a ratas
+48
 
-
-                                                                                                              48
 Wistar, presenta un efecto diferente en los valores de monocitos. Para el tipo de extracto
 (acuoso y metanólico) se encontró diferencia estadística significativa (P < 0,05), lo que
 determina que los valores de monocitos no presentan variaciones atribuibles al efecto del
 tipo de extracto administrado a las ratas.
 
-
-
-
-  Figura 9. Valores de Monocitos % según planta medicinal y tipo de extracto administrado vía oral por 90 días a ratas
-                                                Wistar, Puno 2013
+Figura 9. Valores de Monocitos % según planta medicinal y tipo de extracto administrado vía oral por 90 días a ratas
+Wistar, Puno 2013
 
 En la figura 9. Para el recuento de monocito nos indica que si hay aumento es porque hay
 una infección bacteriana, son como los fagocitos del organismo que nos defiende que
@@ -2063,30 +3299,56 @@ cualquier microorganismo extraño que nos invada, encontramos que en el grupo tr
 “huira huira”, “altamisa” y “mishico” hay presencia con un ligero aumento de estos
 monocitos, y los grupos tratados con “diente de león” y “jincho jincho” están coinciden con
 los valores del grupo control.
+Cuadro 15. Análisis factorial para recuento de eosinófilos según el tipo de planta y el tipo de extracto.
+Fuente
+EFECTOS PRINCIPALES
+A: Plantas
+B: Extractos
+RESIDUOS
+TOTAL (CORREGIDO)
 
-   Cuadro 15. Análisis factorial para recuento de eosinófilos según el tipo de planta y el tipo de extracto.
-                   Fuente               Suma de Cuadrados       Gl    Cuadrado Medio       Razón-F     Valor-P
-        EFECTOS PRINCIPALES
-       A: Plantas                             0,147779          4        0,0369447           0,48       0,7478
-       B: Extractos                           0,442555          2         0,221278           2,90       0,0641
-       RESIDUOS                                4,05062          53       0,0764267
-          TOTAL (CORREGIDO)                    4,64095          59
+Suma de Cuadrados
+
+Gl
+
+Cuadrado Medio
+
+Razón-F
+
+Valor-P
+
+0,147779
+0,442555
+4,05062
+4,64095
+
+4
+2
+53
+59
+
+0,0369447
+0,221278
+0,0764267
+
+0,48
+2,90
+
+0,7478
+0,0641
 
 En el cuadro 15, el análisis de varianza indica que para el factor en estudio de plantas
 medicinales, no se encontró diferencia estadística significativa (P < 0,05), para los valores
 de eosinófilos, lo que determina que la administración de las plantas medicinales a ratas
 Wistar, presenta un efecto diferente en los valores de eosinófilos. Para el tipo de extracto
 (acuoso y metanólico) se encontró diferencia significativa (P < 0,05), lo que determina que
+49
 
-                                                                                                                         49
 los valores de eosinófilos no presentan variaciones atribuibles al efecto del tipo de extracto
 administrado a las ratas.
 
-
-
-
- Figura 10. Valores de Eosinófilos % según planta medicinal y tipo de extracto administrado vía oral por 90 días a ratas
-                                                 Wistar, Puno 2013.
+Figura 10. Valores de Eosinófilos % según planta medicinal y tipo de extracto administrado vía oral por 90 días a ratas
+Wistar, Puno 2013.
 
 En la figura 10, el recuento de eosinófilos nos indica que si hay aumento es porque hay una
 reacción alérgica, son como los fagocitos del organismo que nos defiende que cualquier
@@ -2096,24 +3358,50 @@ encontramos que en el grupo tratado con “huira huira”, “altamisa”, “co
 un ligero aumento. Todo debido a los síntomas que se encontraron durante el experimento.
 Para los tipos de extractos; la coincidencia con el extracto metanólico es por la presencia del
 alcohol, que produce una respuesta alergénica.
-
 Para el extracto acuoso de esta planta podría tener otra interpretación posible de este
 resultado es que algunos de estos metabolitos tienen un efecto selectivo sobre la médula ósea
 para la generación y maduración de eosinófilos sobre todo una respuesta del sistema
 inmunológico (Pérez, 2009).
+Cuadro 16. Análisis factorial para el recuento de basófilos según el tipo de planta y tipo de extracto.
+Fuente
+EFECTOS PRINCIPALES
+A:Plantas
+B:Extractos
+RESIDUOS
+TOTAL (CORREGIDO)
 
-    Cuadro 16. Análisis factorial para el recuento de basófilos según el tipo de planta y tipo de extracto.
-                   Fuente               Suma de Cuadrados       Gl     Cuadrado Medio       Razón-F     Valor-P
-        EFECTOS PRINCIPALES
-       A:Plantas                             0,0919164          4         0,0229791           0,31       0,8677
-       B:Extractos                           0,0930864          2         0,0465432           0,63       0,5340
-       RESIDUOS                               3,88522           53        0,0733061
-         TOTAL (CORREGIDO)                    4,07023           59
+Suma de Cuadrados
 
+Gl
 
+Cuadrado Medio
 
+Razón-F
 
-                                                                                                                       50
+Valor-P
+
+0,0919164
+0,0930864
+3,88522
+4,07023
+
+4
+2
+53
+59
+
+0,0229791
+0,0465432
+0,0733061
+
+0,31
+0,63
+
+0,8677
+0,5340
+
+50
+
 En el cuadro 16, el análisis de varianza indica que para el factor en estudio de las plantas
 medicinales, no se encontró diferencia significativa (P < 0,05) para los valores de basófilos,
 lo que determina que la administración de las plantas medicinales a ratas Wistar, presentan
@@ -2122,11 +3410,8 @@ no se encontró diferencia estadística significativa (P < 0,05), lo que determi
 valores de basófilos no presentan variaciones atribuibles al efecto del tipo de extracto
 administrado a las ratas.
 
-
-
-
 Figura 11. Valores de Basófilos % según planta medicinal y tipo de extracto administrado vía oral por 90 días
-                                        a ratas Wistar, Puno 2013
+a ratas Wistar, Puno 2013
 
 En la figura 11, la presencia de basófilo en el organismo no tiene mucha significancia
 clínica, solo se presentan cuando hay un shock anafiláctico, pero otros autores manifiestan
@@ -2136,34 +3421,50 @@ león¨ y ¨mishico¨, mientras que ¨huira huira¨ y ¨altamisa¨ estas coincid
 control Todo debido a los síntomas que se encontraron durante el experimento. Para los
 tipos de extractos esta de acorde con el grupo control.
 
+51
 
+CUADRO 17. Resumen de las pruebas hematológicas según Análisis factorial.
+PARÁMETROS
+Hematocrito
+Hemoglobina
+Leucocitos
+Linfocitos
+Neutrófilos
+Monocitos
+Eosinófilos
+Basófilos
 
+PLANTAS
+*
+*
+N.S.
+N.S.
+N.S.
+N.S.
+N.S.
+N.S.
 
-                                                                                                          51
-     CUADRO 17. Resumen de las pruebas hematológicas según Análisis factorial.
-              PARÁMETROS                   PLANTAS         EXTRACTOS
-                Hematocrito                   *                **
-               Hemoglobina                    *                **
-                Leucocitos                   N.S.               *
-                 Linfocitos                  N.S.               *
-                Neutrófilos                  N.S.             N.S.
-                 Monocitos                   N.S.               *
-                Eosinófilos                  N.S.               *
-                 Basófilos                   N.S.             N.S.
+EXTRACTOS
+**
+**
+*
+*
+N.S.
+*
+*
+N.S.
 
 En el cuadro 17 describimos todos los parámetros hematológicos analizados y evidenciamos
 que para el factor planta en resumen no hay mucha significancia clínica excepto en los
 análisis de hematocrito y hemoglobina, mientras que para el factor extractos si la presenta,
 sobre todo en el análisis de hematocrito, hemoglobina, recuento de leucocitos, linfocitos,
 monocitos y eosinófilos, lo que indica que si hubo alteración en el proceso de estos análisis.
-
 La toxicidad subcrónica, evidencio síntomas con planta “altamisa” (Ambrosia arborescens),
 donde también nos indica Cruz (2009) que en la dosificación debe de usarse en dosis muy
 bajas puesto que puede causar síntomas de envenenamiento y confirma nuestra hipótesis,
 donde también menciona que contiene alcaloides encontrándose principalmente en las
 plantas femeninas y esto demostró la diferencia significativa para el examen hematológico
 para las ratas tratadas con esta planta.
-
 La disminución de la hemoglobina, coincide con la disminución del peso que probablemente
 se deba a efectos anorexígenos del extracto, Arango et al. (2005), nos confirma que si hay
 deficiencia de la hemoglobina coincide con los resultados del proyecto. Rojas & Díaz
@@ -2173,491 +3474,919 @@ con su desarrollo. Lo propio Pérez et al. (2009) obtuvo en su estudio con Phena
 con los extractos acuosos y metanólico, no mostro alteración en la forma leucocitaria. Al
 finalizar el ensayo, se sacrificaron todos los animales por dislocación cervical.
 
+52
 
+CONCLUSIONES
+-
 
+La determinación de las pruebas fitoquímicas, evidenció la presencia de los metabolitos
+secundarios. Donde los alcaloides con más presencia ¨altamisa¨, con menos proporción en
+¨jincho jincho¨. En cuanto a los fenoles están presente en todas las plantas excepto en
+¨mishico¨. De las ftaleínas presentes en todas las plantas pero no en ¨jincho jincho¨. Para los
+taninos presente en ¨diente de león¨, ¨altamisa¨, pero en menos proporción ¨jincho jincho¨,
+¨huira huira¨ y ¨mishico¨. En los carbohidratos presente en todas las plantas excepto en
+¨diente de león¨ que está en menor proporción.
 
-                                                                                            52
-                                         CONCLUSIONES
+-
 
--   La determinación de las pruebas fitoquímicas, evidenció la presencia de los metabolitos
-    secundarios. Donde los alcaloides con más presencia ¨altamisa¨, con menos proporción en
-    ¨jincho jincho¨. En cuanto a los fenoles están presente en todas las plantas excepto en
-    ¨mishico¨. De las ftaleínas presentes en todas las plantas pero no en ¨jincho jincho¨. Para los
-    taninos presente en ¨diente de león¨, ¨altamisa¨, pero en menos proporción ¨jincho jincho¨,
-    ¨huira huira¨ y ¨mishico¨. En los carbohidratos presente en todas las plantas excepto en
-    ¨diente de león¨ que está en menor proporción.
+La dosis usada que dieron las manifestaciones tóxicas ocasionado por las plantas fue de 5
+mg/kg de peso en la cual que se obtuvo durante la experimentación durante 90 días se da con
+más frecuencia la somnolencia ocasionada por el ¨mishico¨ y más en el extracto acuoso,
+también se muestra la irritación ocular del ojo ocasionado por el ¨huira huira¨ del extracto
+acuoso; las legañas ocasionados por casi todas las plantas, edema zona del cuello en el
+¨jincho jincho¨, erizamiento de la piel en ¨huira huira¨ y ¨altamisa¨, la irritación ocular en
+¨diente de león¨; en cuanto a los problemas de prolapso cervical y orquitis en ratas y tratadas
+con ¨altamisa¨.
 
--   La dosis usada que dieron las manifestaciones tóxicas ocasionado por las plantas fue de 5
-    mg/kg de peso en la cual que se obtuvo durante la experimentación durante 90 días se da con
-    más frecuencia la somnolencia ocasionada por el ¨mishico¨ y más en el extracto acuoso,
-    también se muestra la irritación ocular del ojo ocasionado por el ¨huira huira¨ del extracto
-    acuoso; las legañas ocasionados por casi todas las plantas, edema zona del cuello en el
-    ¨jincho jincho¨, erizamiento de la piel en ¨huira huira¨ y ¨altamisa¨, la irritación ocular en
-    ¨diente de león¨; en cuanto a los problemas de prolapso cervical y orquitis en ratas y tratadas
-    con ¨altamisa¨.
+-
 
--   El las pruebas hematológicas se mostró que el resultado en cuanto al hematocrito y la
-    hemoglobina estuvo muy deficiente con la planta tratada de ¨altamisa¨, para el recuento de
-    leucocitos resulto deficientes para el grupo de ¨altamisa¨ y ¨jincho jincho¨, para el recuento
-    de linfocitos estuvo deficiente para el grupo de ¨jincho jincho¨, para el recuento de
-    monocitos estuvo deficiente par el grupo ¨altamisa¨, para el recuento de monocitos y para
-    eosinófilos y basófilos no hubo alteración estuvo de acorde con el grupo control.
+El las pruebas hematológicas se mostró que el resultado en cuanto al hematocrito y la
+hemoglobina estuvo muy deficiente con la planta tratada de ¨altamisa¨, para el recuento de
+leucocitos resulto deficientes para el grupo de ¨altamisa¨ y ¨jincho jincho¨, para el recuento
+de linfocitos estuvo deficiente para el grupo de ¨jincho jincho¨, para el recuento de
+monocitos estuvo deficiente par el grupo ¨altamisa¨, para el recuento de monocitos y para
+eosinófilos y basófilos no hubo alteración estuvo de acorde con el grupo control.
 
+53
 
+RECOMENDACIONES
+-
 
+Se recomienda hacer más estudios a las plantas medicinales del Altiplano, tomando en
+cuenta su farmacología, farmacodinamia, farmacognosia, toxicología y otros campos de
+interés.
 
-                                                                                                53
-                                     RECOMENDACIONES
+-
 
--   Se recomienda hacer más estudios a las plantas medicinales del Altiplano, tomando en
-    cuenta su farmacología, farmacodinamia, farmacognosia, toxicología y otros campos de
-    interés.
+En cuanto a las pruebas fitoquímicas realizar las pruebas cuantitativamente para ser efectivo
+los estudios a futuro.
 
--   En cuanto a las pruebas fitoquímicas realizar las pruebas cuantitativamente para ser efectivo
-    los estudios a futuro.
+-
 
--   Hacer estudios experimentales con otros animales de laboratorio para tener más información
-    certera y para posteriores estudios en humanos.
+Hacer estudios experimentales con otros animales de laboratorio para tener más información
+certera y para posteriores estudios en humanos.
 
--   Los estudiantes de la Facultad de Biología deben realizar estudios en plantas medicinales del
-    Altiplano con o a través de animales de experimento como ratones, ratas, cobayos y conejos.
-    Para fines científicos.
+-
 
+Los estudiantes de la Facultad de Biología deben realizar estudios en plantas medicinales del
+Altiplano con o a través de animales de experimento como ratones, ratas, cobayos y conejos.
+Para fines científicos.
 
+54
 
-
-                                                                                              54
-                              REFERENCIA BIBLIOGRÁFICA
-
+REFERENCIA BIBLIOGRÁFICA
 Arango M.; G. Isaza; A. Bohórquez; R. López; L. Chica. 2005. Determinación de la toxicidad
-      subaguda de Zebrina pendula en ratas. Universidad de Caldas Colombia. Biosalud Revista
-      Ciencias Básicas. 14: 56 – 66.
-
+subaguda de Zebrina pendula en ratas. Universidad de Caldas Colombia. Biosalud Revista
+Ciencias Básicas. 14: 56 – 66.
 Arteta B. M. 2008. Etnobotánica de Plantas vasculares en el centro poblado Llachon, distrito
-      Capachica, Departamento Puno. Tesis para optar el título profesional de Biólogo. Arequipa –
-      Perú.
-
+Capachica, Departamento Puno. Tesis para optar el título profesional de Biólogo. Arequipa –
+Perú.
 Anzora V. A. & C. Fuentes. 2008. Obtención de un colorante a parir de Musa parasidiaca (plátano
-      verde) con aplicación en la industria textil. Trabajo de graduación para optar el grado de
-      Licenciatura en Química y Farmacia. San Salvador.
-
+verde) con aplicación en la industria textil. Trabajo de graduación para optar el grado de
+Licenciatura en Química y Farmacia. San Salvador.
 Avalos A. 2009. Metabolismo Secundario de Plantas. Revista Reduca Biología, serie biología
-      vegetal. Pg., 119 – 145. Madrid – España.
-
+vegetal. Pg., 119 – 145. Madrid – España.
 Bada B., A.; J. Santana; B. Gonzales; T. Gonzales; T. Yana; P. Arteaga; R. Gómez & A. Mancebo.
-      2012. Toxicidad crónica de polvo de taninos obtenidos de corteza de Pinus cribaea Morelet
-      por vía oral en ratas. Editorial Ciencias Médicas. Ciudad la Habana.
-
+2012. Toxicidad crónica de polvo de taninos obtenidos de corteza de Pinus cribaea Morelet
+por vía oral en ratas. Editorial Ciencias Médicas. Ciudad la Habana.
 Bermúdez D,; E. Monteagudo; M. Boffill; L. Díaz; A. Roca; Betancourt & S. Prado. 2007.
-      Evaluación de la toxicidad aguda de los extractos de plantas medicinales por un método
-      alternativo. Revista electrónica de Veterinaria Vol. VIII Numero 3.
-
+Evaluación de la toxicidad aguda de los extractos de plantas medicinales por un método
+alternativo. Revista electrónica de Veterinaria Vol. VIII Numero 3.
 Bonilla P. & B. Pareja. 2001. Flavonoides de Ephedra americana (pinco pinco), acción biológica
-      sobre el sistema inmunológico (Ig E). Universidad Nacional Mayor de San Marcos. Rev.
-      Ciencia e Investigación. Volumen IV.
-
+sobre el sistema inmunológico (Ig E). Universidad Nacional Mayor de San Marcos. Rev.
+Ciencia e Investigación. Volumen IV.
 Calatayud J. 2011. Compuestos fenólicos y flavonoides como marcadores bioquímicos de la
-      respuesta a estrés abiótico en plantas tolerantes. Universidad Politécnica de Valencia.
-
+respuesta a estrés abiótico en plantas tolerantes. Universidad Politécnica de Valencia.
 Calderón J. 2011. Caracterización fitoquimica, actividad antibacteriana y antioxidante de extractos
-      de plantas medicinales utilizadas en Pereida y Santa Rosa de Cabal (Risaralda). Tesis para
-      optar el título de Tecnóloga Química.
-
+de plantas medicinales utilizadas en Pereida y Santa Rosa de Cabal (Risaralda). Tesis para
+optar el título de Tecnóloga Química.
 Carrillo P. 2011. Comprobación del efecto Hipoglucemiante del Zumo del fruto de Noni (Mortinda
-      cirfolia) en ratas (Rattus novergicus) con hiperglucemia inducida. Tesis para optar el título de
-      Bioquímico Farmacéutico. Ecuador/
+cirfolia) en ratas (Rattus novergicus) con hiperglucemia inducida. Tesis para optar el título de
+Bioquímico Farmacéutico. Ecuador/
 
+55
 
-
-
-                                                                                                   55
 Cruz F. 2009. Elaboración y control de calidad del gel antimicótico de manzanilla (Matricaria
-      chamomilla), matico (Aristiguietia glutinosa) y marco (Ambrosia arborescens) para neo –
-      fármaco. Tesis para optar el título de Bioquímico Farmacéutico. Ecuador.
-
+chamomilla), matico (Aristiguietia glutinosa) y marco (Ambrosia arborescens) para neo –
+fármaco. Tesis para optar el título de Bioquímico Farmacéutico. Ecuador.
 Cruz G. 2012. Estudio folklórico de algunas plantas medicamentosas y toxicas de la región norte del
-      Perú. Instituto Nacional de Salud. Apartado postal 471.
-
+Perú. Instituto Nacional de Salud. Apartado postal 471.
 Chávez S. 2005. Propagación y micropropagacion de Agave marmorata Roezl. (Agavácea), la
-      determinación de sus metabolitos secundarios y su uso como planta medicinal. Universidad
-      Autónoma Metropolitana. Unidad Iztapalapa – México.
-
+determinación de sus metabolitos secundarios y su uso como planta medicinal. Universidad
+Autónoma Metropolitana. Unidad Iztapalapa – México.
 Del Carpio Y. 2008. Manual de consulta para la cátedra universitaria. Hematología. Facultad de
-      Biología de la Universidad Nacional del Altiplano – Puno.
-
+Biología de la Universidad Nacional del Altiplano – Puno.
 Del Vitto A. & M. Petenatti. 2009. Asteráceas de importancia económica y ambiental. Primera parte.
-      Sinopsis Morfológica y taxonómica, importancia ecológica y plantas de interés industrial
-      herbario y jardín botánico. Universidad Nacional San Luis. Argentina.
-
+Sinopsis Morfológica y taxonómica, importancia ecológica y plantas de interés industrial
+herbario y jardín botánico. Universidad Nacional San Luis. Argentina.
 Díaz L. 2010. Efecto de la infusión de Azorella compacta (llareta) sobre el nivel de glucemia basal
-      en ratas experimentales normales. Tesis para optar el título de Nutrición Humana. Puno.
-
+en ratas experimentales normales. Tesis para optar el título de Nutrición Humana. Puno.
 Espititia E.; H. Duran; F. Fandiño; F. Díaz; H. Gómez. 2011. Química y biología del extracto
-      etanolico del epicarpio de Crescentia cujete L. (totumo) Revista Cubana de Plantas
-      Medicinales de Colombia 16(4): 337 – 346.
-
+etanolico del epicarpio de Crescentia cujete L. (totumo) Revista Cubana de Plantas
+Medicinales de Colombia 16(4): 337 – 346.
 Fuentes P. Flores de M., R. Mendoza; A. Rosales & R. Cisneros. 2008. Centro Nacional de
-      Productos Biológicos. Instituto Nacional de Salud, Lima.
-
+Productos Biológicos. Instituto Nacional de Salud, Lima.
 García M.; C. Díaz & R. Villalobos. 2008. Estudio toxicológico y farmacológico de los extractos
-      hidroalcoholicos de algunas especies de Smilax de Centroamérica. Revista de Fitoterapia.
-      Costa Rica. 8: 49 – 57.
-
+hidroalcoholicos de algunas especies de Smilax de Centroamérica. Revista de Fitoterapia.
+Costa Rica. 8: 49 – 57.
 Gonzales Y., I. Scull; A. Bada; B. Gonzales; D. Fuentes; M. Arteaga; E. Santana & O. Hernández.
-      2003. Ensayos de toxicidad a dosis repetida del extracto acuoso de Morinda royoc L. en ratas
-      Cenp: SPRD. Rev. Cubana Plantas Medicinales. La Habana.
-
+2003. Ensayos de toxicidad a dosis repetida del extracto acuoso de Morinda royoc L. en ratas
+Cenp: SPRD. Rev. Cubana Plantas Medicinales. La Habana.
 Gonzales J., V. Benavides; R. Rojas & J. Pino. 2007. Efecto embriotoxico y teratógeno de Ruta
-      chalepensis L. “ruda”, en ratón (Mus musculus) Rev. Biológica. Avances de las Ciencias
-      Biológicas. Lima – Perú.
+chalepensis L. “ruda”, en ratón (Mus musculus) Rev. Biológica. Avances de las Ciencias
+Biológicas. Lima – Perú.
 
+56
 
-
-
-                                                                                                56
 Grateron C. 2006. Biotranformación de colorantes orgánicos en procesos catalizados con peroxidasas
-      de palma Real (Roistonea regia). Tesis para optar el título de Químico. Universidad Industrial
-      Santander. Colombia.
-
+de palma Real (Roistonea regia). Tesis para optar el título de Químico. Universidad Industrial
+Santander. Colombia.
 Hoogesteger C. 1994. Uso de plantas medicinales. Árbol Editorial, S.A. México. 173 pg.
+Isaza G,. M. Arango;
 
-Isaza G,. M. Arango;      P. Butirica & H. Marulanda H. 2005. Determinación de la toxicidad
-      subcronica de la Zebrina péndula en ratones. Universidad Caldas Colombia. Revista Blosalus.
-      14: 67 – 77.
+P. Butirica & H. Marulanda H. 2005. Determinación de la toxicidad
 
+subcronica de la Zebrina péndula en ratones. Universidad Caldas Colombia. Revista Blosalus.
+14: 67 – 77.
 Kulinski, C. 2000. Farmacognosia. Estudio de la drogas y sustancias medicamentosas de origen
-      natural. Ediciones Omega S.A. Barcelona.
-
+natural. Ediciones Omega S.A. Barcelona.
 Lagarto A.; J. Tillan; R. Vega & Y. Cabrera 1999. Toxicidad aguda oral de extractos
-      hidroalcohólicos. Revista Cubana Plantas Medicinales. Centro de Investigación y Desarrollo
-      de Medicamentos. 1(4): 8 – 26.
-
+hidroalcohólicos. Revista Cubana Plantas Medicinales. Centro de Investigación y Desarrollo
+de Medicamentos. 1(4): 8 – 26.
 Lagarto A. & M. Guerra. 2000. Toxicidad aguda oral de 3 formas farmacéuticas a partir de Cassia
-      grandis L. Centro de Investigación de Desarrollo de Medicamentos. Departamento de
-      Investigaciones Biológicos. Revista Cubana Plantas Medicinales.
-
+grandis L. Centro de Investigación de Desarrollo de Medicamentos. Departamento de
+Investigaciones Biológicos. Revista Cubana Plantas Medicinales.
 Lagarto A., J. Tilla; V. Bueno; I. Chávez; I. Guerra; Y. Vega; O. Valdés; T. Gabilondo. 2005.
-      Toxicidad aguda oral y subcronica en ratas de una extracto acuoso liofilizado de Ocimum
-      tenuiflorum L. Revista de toxicología. 22: 175 – 179. España.
-
+Toxicidad aguda oral y subcronica en ratas de una extracto acuoso liofilizado de Ocimum
+tenuiflorum L. Revista de toxicología. 22: 175 – 179. España.
 Larraine B. & R. Dreisbach. 2003. Manual de toxicología clínica de Dreisbach: prevención,
-      diagnóstico y tratamiento. 7ma edición. Editorial El manual moderno México.
-
+diagnóstico y tratamiento. 7ma edición. Editorial El manual moderno México.
 López N. 2000. Efecto hematológico por radiaciones ultravioleta en ratas de laboratorio (Rattus
-      novergicus). Tesis para optar el título de Licenciado en Biología. Universidad Nacional del
-      Altiplano – Puno.
-
+novergicus). Tesis para optar el título de Licenciado en Biología. Universidad Nacional del
+Altiplano – Puno.
 Macías B. 2009. Intoxicaciones por plantas toxicas atendidas desde un servicio de información
-      toxicológica. Centro Toxicológico y Biomedicina (TOXIMED). Cuba Editorial Ciencias
-      Médicas.
-
+toxicológica. Centro Toxicológico y Biomedicina (TOXIMED). Cuba Editorial Ciencias
+Médicas.
 Martínez M., J. Betancour; A. Ramírez; H. Barcelo; R. Meneses & A. Latinez. 2000. Evaluación
-      toxicológica aguda de los extractos fluidos al 30 y 80 % de Cymbopogon citratus (D.C.) stapf
-      (caña santa). Instituto Superior de Ciencias Médicas la Habana.
-
+toxicológica aguda de los extractos fluidos al 30 y 80 % de Cymbopogon citratus (D.C.) stapf
+(caña santa). Instituto Superior de Ciencias Médicas la Habana.
 Martínez A., G. Valencia; N. Jiménez & M. Galeano. 2008. Manual de prácticas de laboratorio de
-      farmacognosia y fitoquimica. Departamento de farmacia. Universidad de Antioquia.
+farmacognosia y fitoquimica. Departamento de farmacia. Universidad de Antioquia.
+57
 
-                                                                                                 57
 Martínez Y., F. Soto; M. Almeida; R. Hermosilla & O. Martínez. 2012. Metabolitos secundarios y
-      actividad antibacteriana in vitro de extractos de hojas de Anacardium occidentale L.
-      (marañón). Rev. Cubana plantas medicinales. Vol. 17.
-
+actividad antibacteriana in vitro de extractos de hojas de Anacardium occidentale L.
+(marañón). Rev. Cubana plantas medicinales. Vol. 17.
 Medina M. 1997. Estudio fitoquímico de Ephedra americana H. & B. Tesis para optar el título
-      Biólogo. Universidad Nacional de San Agustín Arequipa – Perú. Pg. 54.
-
+Biólogo. Universidad Nacional de San Agustín Arequipa – Perú. Pg. 54.
 Mostacero J., L. Castillo; F. Mejía; J. Charcape; R. Ramírez & O. Gamarra. 2011. Plantas
-      medicinales del Perú: taxonomía, ecogeografia, fenología y etnobotánica. Editorial Concytec.
-      Trujillo – Perú. 1332 pgs.
-
+medicinales del Perú: taxonomía, ecogeografia, fenología y etnobotánica. Editorial Concytec.
+Trujillo – Perú. 1332 pgs.
 Mora L., E. Galeano & E. Durango. 2012. Manual de prácticas de laboratorio de farmacognosia I.
-      Universidad de Antioquia. Medellín.
-
+Universidad de Antioquia. Medellín.
 Ocacaña B. 2009. Estudio de la toxicidad subcronia de Nano plata en ratas Wistar. Tesis para optar
-      el título de Bioquímico Farmacéutico. Escuela superior Politécnico de Chimborazo – Ecuador.
-
+el título de Bioquímico Farmacéutico. Escuela superior Politécnico de Chimborazo – Ecuador.
 OMS. 2008. Organización Mundial de la Salud. Incluye información valiosa en salud y plantas
-      medicinales.
-
+medicinales.
 Osorio E. J. 2009. Aspectos básicos de Farmacognosia. Universidad de Antioquia – Medellín.
-
 Pastor J. 2004. Ministerio de Sanidad y consumo publicación en el Boletín Oficial del Estado.
-      Madrid.
-
+Madrid.
 Pereida S., D. Vega; M. Almeida & G. Morales. 2009. Tamizaje fitoquimico de los extractos
-      alcohólicos, etéreos y acuosos de las hojas de la Trichilia hirta L. Universidad de Grana
-      Bayanos, Cuba Cp. 85100. ISSN 1666 – 7948. Revista Química Viva Núm. 3.
-
+alcohólicos, etéreos y acuosos de las hojas de la Trichilia hirta L. Universidad de Grana
+Bayanos, Cuba Cp. 85100. ISSN 1666 – 7948. Revista Química Viva Núm. 3.
 Pérez J.; G. Isaza; S. Acosta & J. Sepúlveda. 2009. Ensayos preliminares sobre los efectos en el
-      hemograma de los extractos acuoso y metanólico de Phenax rugosus (Poir) Wedd y Tabebua
-      crysantha G. de la Universidad Caldas de Colombia. Revista Biosalud. 8: 17 – 28.
-
+hemograma de los extractos acuoso y metanólico de Phenax rugosus (Poir) Wedd y Tabebua
+crysantha G. de la Universidad Caldas de Colombia. Revista Biosalud. 8: 17 – 28.
 Pérez M.; M. Sueiro; C. Boffill; de los Ángeles; C. Morón & C. Marrero. 2001. Validación de un
-      método in vivo para evaluar la actividad diurética. Universidad de Ciencias Médicas de Villa
-      Clara, Cuba.
-
+método in vivo para evaluar la actividad diurética. Universidad de Ciencias Médicas de Villa
+Clara, Cuba.
 Quert, Front. P. 1985. Plantas medicinales. El Dioscórides Renovado. Editorial Labor S.A.
-      Barcelona. España. 1033 pg.
+Barcelona. España. 1033 pg.
 
+58
 
-
-
-                                                                                               58
 Ramos S. 2004. Salud y fitoterapia, uso de las plantas medicinales en problemas de salud. Tesis para
-      optar el titulo modalidad examen insuficiencia de Licenciado en Biología. Universidad
-      Nacional del Altiplano – Puno.
-
+optar el titulo modalidad examen insuficiencia de Licenciado en Biología. Universidad
+Nacional del Altiplano – Puno.
 Ramírez H.; M. Palacios & O. Gutiérrez. 2006. Efectos diuréticos de la especie Salvia scutellarioides
-      en ratas. Biomédicas.
-
+en ratas. Biomédicas.
 Rico A. G.; M. Victoria; M. Wagner & A. Gurni. 2002. Taninos condensados de Ephedra chilensis
-      K. PRESL – Ephedraceae Cátedra de Farmacobotanica. Buenos Aires – Argentina.
-
+K. PRESL – Ephedraceae Cátedra de Farmacobotanica. Buenos Aires – Argentina.
 Rodón L.; J. Frías; M. Saavedra & L. Cardidad de la Paz. 2010. Tamizaje fitoquimico de los
-      extractos alcohólicos, etéreos y acuoso de hojas y flores de la Turnera ulmifolia L. ATD
-      Universidad de Granma. Cuba.
-
+extractos alcohólicos, etéreos y acuoso de hojas y flores de la Turnera ulmifolia L. ATD
+Universidad de Granma. Cuba.
 Rojas J. & D. Díaz. 2009. Evaluación de la toxicidad del extracto metanólico de hojas de Passiflora
-      edulis Sims (maracuyá), en ratas. Facultad de Medicina, Universidad Nacional Mayor de San
-      Marcos. Lima – Perú.
-
+edulis Sims (maracuyá), en ratas. Facultad de Medicina, Universidad Nacional Mayor de San
+Marcos. Lima – Perú.
 Soukp SDB, J. 1972. Vocabulario de los nombres vulgares de la flora Peruana y catálogo de los
-      géneros. Editorial Salesiana. Lima – Perú, págs. 382.
-
+géneros. Editorial Salesiana. Lima – Perú, págs. 382.
 Tapia J. 2012. Determinación de la actividad antimicrobiana de los extractos etanolico y subextracto
-      clorofórmico y etéreo de Senna multijuga, Tagetes zipaquirensis y Coursetia dubia. Tesis de
-      grado previa obtención título de Bioquímico Farmacéutico Riobamba – Ecuador.
-
+clorofórmico y etéreo de Senna multijuga, Tagetes zipaquirensis y Coursetia dubia. Tesis de
+grado previa obtención título de Bioquímico Farmacéutico Riobamba – Ecuador.
 Torres G.; M. Martínez & M. Días de Salas. 2008. Estudio fitoquimico de plantas medicinales
-      propias del estado de Queretaro. Universidad Atutonoma de Zacatecas. México.
-
+propias del estado de Queretaro. Universidad Atutonoma de Zacatecas. México.
 Umaña M. 2003. Toxicidad de las plantas medicinales. Revista de plantas medicinales. Costa Rica.
-
 Vega D.; S. Pereida; C. Almeida & C. Morales. 2009. Tamizaje fitoquimico preliminar de los
-      extractos alcohólico, etéreo y acuoso de las hojas, tallos y flores de la Ixora coccinea L.
-      Universidad de Granma – Cuba. Revista Química Viva, núm. 3.
+extractos alcohólico, etéreo y acuoso de las hojas, tallos y flores de la Ixora coccinea L.
+Universidad de Granma – Cuba. Revista Química Viva, núm. 3.
 
+59
 
-
-
-                                                                                                  59
-                                         WEB – GRAFÍA
-
+WEB – GRAFÍA
 
 Lastras, P. Articulo enviado por Pablo Lastras el 13 de Octubre, 2008. Plantas medicinales.
-      http://saludbio.com/articulo/extractos-de-plantas-medicinales-principios-activos-para-tu-salud
-
+http://saludbio.com/articulo/extractos-de-plantas-medicinales-principios-activos-para-tu-salud
 Palacios Palacios M. Introducción a la Farmacognosia, publica el 30 de noviembre, 2008.
-      http://farmacognosia-farmacialuladech.blogspot.com/
-
+http://farmacognosia-farmacialuladech.blogspot.com/
 Valdivia I. & Melinda M. Plantas toxicas. Internista – Toxicología Hospital Arzobispo Loayza M.
-      Valdivia I. – Toxicología.
-      http://www.bvsde.paho.org/bvstox/e/cursos/peru_julio07/dia06/05_valdivia.pdf
-
+Valdivia I. – Toxicología.
+http://www.bvsde.paho.org/bvstox/e/cursos/peru_julio07/dia06/05_valdivia.pdf
 Valores referenciales de hemograma de animales.
-      http://www.servetlab.com/valoresref.htm
-
+http://www.servetlab.com/valoresref.htm
 Toxicología, normas toxicológicas.
-      http://webcache.googleusercontent.com/search?q=cahe:zh1D8FE9RtYJ:ristq.org/wp-
-      content/uploads/cdtoxamb/Documentos/06%2520Moreno%2520FINAL.pps+&cd=2&h1=es&
-      ct=clnk&gl=pe
-
+http://webcache.googleusercontent.com/search?q=cahe:zh1D8FE9RtYJ:ristq.org/wpcontent/uploads/cdtoxamb/Documentos/06%2520Moreno%2520FINAL.pps+&cd=2&h1=es&
+ct=clnk&gl=pe
 Hematología:
-      Microsoft ® Encarta ® 2007. © 1993 – 2006. Microsoft Corporation. Reservados todos los
-      derechos.
+Microsoft ® Encarta ® 2007. © 1993 – 2006. Microsoft Corporation. Reservados todos los
+derechos.
 
+60
 
-
-
-                                                                                                  60
 ANEXOS
 
+61
 
+MUESTRAS COLECTADAS
 
-
-         61
-                MUESTRAS COLECTADAS
-
-
-
-
-                                                    1
+1
 
 Fotografía 1. “huira huira” Pseudogmaphalium spicatum Lamark.
 
+2
 
+Fotografía 2. “altamisa” Ambrosia arborescens Miller.
 
+62
 
-                                                   2
-
-     Fotografía 2. “altamisa” Ambrosia arborescens Miller.
-
-
-
-
-                                                                62
-                                                  3
+3
 
 Fotografía 3. “misico” Bidens andicola Humbolt, Bompland y Kunth.
 
+4
 
+Fotografía 4. “diente de león” Taraxacum officinale Wiggers.
 
+63
 
-                                                  4
-
-   Fotografía 4. “diente de león” Taraxacum officinale Wiggers.
-
-
-
-
-                                                                    63
-                                               5
+5
 
 Fotografía 5. “jincho jincho” Hieracium neoherrerae Zahn.
 
+64
 
+PREPARACIÓN DE LOS EXTRACTOS
 
+6
 
-                                                            64
-                     PREPARACIÓN DE LOS EXTRACTOS
+8
 
-
-
-
-                                        6                                                          8
-                                                                           7
+7
 
 Fotografía 6,7 y 8. Preparación de los extractos acuoso y metanólico. Se pesa 5 mg para las pruebas
-                                     fitoquímicas y las dosis empleadas.
+fitoquímicas y las dosis empleadas.
 
+PRUEBAS FITOQUÍMICAS
 
+9
 
+11
 
-                                     PRUEBAS FITOQUÍMICAS
-
-
-
-
-                                 9                                 10                           11
+10
 
 Fotografía 9, 10 y 11. Con las coloración se determina si presenta o no los metabolitos. Parte central
-                                 alcaloides y la derecha carbohidratos.
+alcaloides y la derecha carbohidratos.
 
+PARA LAS PRUEBAS TOXICOLÓGICAS, EN EL BIOTERIO DE LA
+FACULTAD MEDICINA VETERINARIA Y ZOOTECNIA.
 
+12
 
+13
 
-      PARA LAS PRUEBAS TOXICOLÓGICAS, EN EL BIOTERIO DE LA
-             FACULTAD MEDICINA VETERINARIA Y ZOOTECNIA.
-
-
-
-
-                            12                                     13                         14
+14
 
 Fotografía 12, 13 y 14. En la izquierda, las jaulas, en el centro las dosis empleadas y la derechas la
-                                            administración vía oral.
+administración vía oral.
 
+65
 
+PRUEBAS TOXICOLÓGICAS
 
+16
 
-                                                                                                       65
-                              PRUEBAS TOXICOLÓGICAS
+15
 
-
-
-
-                                                                                     16
-                                      15
 Fotografía 15 y 16. Observación de todos los síntomas que puedan presentar y pensándolos cada 30
-                                              días.
+días.
 
+17
 
+18
 
+Fotografía 17 y 18. Se muestra el prolapso cervical ocasionado por “altamisa”.
 
-                                                      17                            18
+19
 
-          Fotografía 17 y 18. Se muestra el prolapso cervical ocasionado por “altamisa”.
+20
 
+Fotografía 19 y 20. Se produce un edema ocasionado por “jincho jincho”
 
+66
 
+21
 
-                                        19                                 20
-
-            Fotografía 19 y 20. Se produce un edema ocasionado por “jincho jincho”
-
-
-
-
-                                                                                               66
-                                                    21                     22
+22
 
 Fotografía 21 y 22. En la izquierda se muestra la irritación ocular ocasionada por “huira huira” y en la
-                             derecha orquitis ocasionada por “altamisa”.
+derecha orquitis ocasionada por “altamisa”.
 
+23
+Fotografía 23. Colecta de muestras sanguíneas obtención de la cola.
 
+67
 
+Cuadro 18. Se muestra el resultado de todos los parámetros hematológicos aplicando
+en programa SPSS 15.0 de Microsoft.
 
-                                                                23
+Planta
 
-                 Fotografía 23. Colecta de muestras sanguíneas obtención de la cola.
-
-
-
-
-                                                                                                      67
-           Cuadro 18. Se muestra el resultado de todos los parámetros hematológicos aplicando
-           en programa SPSS 15.0 de Microsoft.
-
-
-                                                 Control                      Extracto acuoso                 Extracto metanólico
-  Planta          Parámetro                   Día       Día    Día             Día       Día     Día             Día       Día       Día
-                                    Inicio                           Inicio                            Inicio
-                                              30        60     90              30        60      90              30        60        90
-               Hematocrito (%)       56       54        54     54     51       56        56      56      59      58        57        58
-              Hemoglobina (g/dl)     19       18        18     18     17       19        19      19      20      19        19        19
-             Leucocitos (No./mm3)   7078     7082      8241   6266   5672     5085      6752    5841   7226     6292      7165      6370
-                Linfocitos (%)       59       52        59     51     57       50        58      52      53      55        58        55
 “mishico”
-                Neutrófilos (%)      36       45        36     45     38       45        40      44      41      42        37        40
-                Monocitos (%)         3        1         2      2      3        1         1       1      4        3         4         3
-                Eosinófilos (%)       2        2         3      2      3        4         2       2      2        0         1         1
-                 Basófilos (%)        1        0         1      1      0        1         0       1      1        1         1         2
-               Hematocrito (%)       56       54        54     54     50       56        55      51      59      56        55        51
-              Hemoglobina (g/dl)     19       18        18     18     17       19        18      17      20      19        18        17
-             Leucocitos (No./mm3)   7078     7082      8241   6266   5100     9091      7947    7482   8127     7446      7233      5525
-“diente de      Linfocitos (%)       59       52        59     51     56       62        57      50      62      61        56        48
-  león”         Neutrófilos (%)      36       45        36     45     42       33        37      45      34      37        39        46
-                Monocitos (%)         3        1         2      2      1        2         3       1      2        1         3         2
-                Eosinófilos (%)       2        2         3      2      2        3         3       4      2        2         2         3
-                 Basófilos (%)        1        0         1      1      0        0         1       1      1        1         0         2
-               Hematocrito (%)       56       54        54     54     54       55        55      54      56      59        54        57
-              Hemoglobina (g/dl)     19       18        18     18     18       18        18      18      19      20        18        19
-             Leucocitos (No./mm3)   7078     7082      8241   6266   7889     7877      6331    6254   7386     7155      5762      9047
-  “huira        Linfocitos (%)       59       52        59     51     59       55        51      55      55      58        53        58
-  huira”        Neutrófilos (%)      36       45        36     45     38       42        43      40      40      40        43        37
-                Monocitos (%)         3        1         2      2      2        2         3       3      2        2         2         4
-                Eosinófilos (%)       2        2         3      2      1        2         3       2      2        1         2         3
-                 Basófilos (%)        1        0         1      1      1        0         1       1      1        0         1         0
-               Hematocrito (%)       56       54        54     54     52       52        54      51      56      53        58        50
-              Hemoglobina (g/dl)     19       18        18     18     17       17        18      17      19      18        19        17
-             Leucocitos (No./mm3)   7078     7082      8241   6266   8943     6954      4691    5124   9421     7783      7560      4917
- “jincho        Linfocitos (%)       59       52        59     51     61       52        56      49      60      58        55        48
- jincho”        Neutrófilos (%)      36       45        36     45     34       47        41      47      35      41        38        47
-                Monocitos (%)         3        1         2      2      3        1         2       1      3        1         4         2
-                Eosinófilos (%)       2        2         3      2      2        2         2       3      3        1         3         4
-                 Basófilos (%)        1        0         1      1      2        0         0       1      1        0         1         0
-               Hematocrito (%)       56       54        54     54     55       48        26      23      55      59        54        47
-              Hemoglobina (g/dl)     19       18        18     18     18       16         9       8      18      20        18        16
-             Leucocitos (No./mm3)   7078     7082      8241   6266   6126     6876      3326    3453   8072     7557      5965      6374
-                Linfocitos (%)       59       52        59     51     55       62        26      27      60      53        55        57
+
+“diente de
+león”
+
+“huira
+huira”
+
+“jincho
+jincho”
+
 “altamisa”
-                Neutrófilos (%)      36       45        36     45     42       34        21      20      36      44        39        41
-                Monocitos (%)         3        1         2      2      2        3         2       2      2        3         4         1
-                Eosinófilos (%)       2        2         3      2      2        1         1       1      2        0         2         1
-                 Basófilos (%)        1        0         1      1      1        1         0       1      1        1         1         1
 
+Parámetro
+Hematocrito (%)
+Hemoglobina (g/dl)
+Leucocitos (No./mm3)
+Linfocitos (%)
+Neutrófilos (%)
+Monocitos (%)
+Eosinófilos (%)
+Basófilos (%)
+Hematocrito (%)
+Hemoglobina (g/dl)
+Leucocitos (No./mm3)
+Linfocitos (%)
+Neutrófilos (%)
+Monocitos (%)
+Eosinófilos (%)
+Basófilos (%)
+Hematocrito (%)
+Hemoglobina (g/dl)
+Leucocitos (No./mm3)
+Linfocitos (%)
+Neutrófilos (%)
+Monocitos (%)
+Eosinófilos (%)
+Basófilos (%)
+Hematocrito (%)
+Hemoglobina (g/dl)
+Leucocitos (No./mm3)
+Linfocitos (%)
+Neutrófilos (%)
+Monocitos (%)
+Eosinófilos (%)
+Basófilos (%)
+Hematocrito (%)
+Hemoglobina (g/dl)
+Leucocitos (No./mm3)
+Linfocitos (%)
+Neutrófilos (%)
+Monocitos (%)
+Eosinófilos (%)
+Basófilos (%)
 
+Inicio
+56
+19
+7078
+59
+36
+3
+2
+1
+56
+19
+7078
+59
+36
+3
+2
+1
+56
+19
+7078
+59
+36
+3
+2
+1
+56
+19
+7078
+59
+36
+3
+2
+1
+56
+19
+7078
+59
+36
+3
+2
+1
 
+Control
+Día
+Día
+30
+60
+54
+54
+18
+18
+7082
+8241
+52
+59
+45
+36
+1
+2
+2
+3
+0
+1
+54
+54
+18
+18
+7082
+8241
+52
+59
+45
+36
+1
+2
+2
+3
+0
+1
+54
+54
+18
+18
+7082
+8241
+52
+59
+45
+36
+1
+2
+2
+3
+0
+1
+54
+54
+18
+18
+7082
+8241
+52
+59
+45
+36
+1
+2
+2
+3
+0
+1
+54
+54
+18
+18
+7082
+8241
+52
+59
+45
+36
+1
+2
+2
+3
+0
+1
 
-                                                                                                                                    68
+Día
+90
+54
+18
+6266
+51
+45
+2
+2
+1
+54
+18
+6266
+51
+45
+2
+2
+1
+54
+18
+6266
+51
+45
+2
+2
+1
+54
+18
+6266
+51
+45
+2
+2
+1
+54
+18
+6266
+51
+45
+2
+2
+1
+
+Inicio
+51
+17
+5672
+57
+38
+3
+3
+0
+50
+17
+5100
+56
+42
+1
+2
+0
+54
+18
+7889
+59
+38
+2
+1
+1
+52
+17
+8943
+61
+34
+3
+2
+2
+55
+18
+6126
+55
+42
+2
+2
+1
+
+Extracto acuoso
+Día
+Día
+30
+60
+56
+56
+19
+19
+5085
+6752
+50
+58
+45
+40
+1
+1
+4
+2
+1
+0
+56
+55
+19
+18
+9091
+7947
+62
+57
+33
+37
+2
+3
+3
+3
+0
+1
+55
+55
+18
+18
+7877
+6331
+55
+51
+42
+43
+2
+3
+2
+3
+0
+1
+52
+54
+17
+18
+6954
+4691
+52
+56
+47
+41
+1
+2
+2
+2
+0
+0
+48
+26
+16
+9
+6876
+3326
+62
+26
+34
+21
+3
+2
+1
+1
+1
+0
+
+Día
+90
+56
+19
+5841
+52
+44
+1
+2
+1
+51
+17
+7482
+50
+45
+1
+4
+1
+54
+18
+6254
+55
+40
+3
+2
+1
+51
+17
+5124
+49
+47
+1
+3
+1
+23
+8
+3453
+27
+20
+2
+1
+1
+
+Extracto metanólico
+Día
+Día
+Inicio
+30
+60
+59
+58
+57
+20
+19
+19
+7226
+6292
+7165
+53
+55
+58
+41
+42
+37
+4
+3
+4
+2
+0
+1
+1
+1
+1
+59
+56
+55
+20
+19
+18
+8127
+7446
+7233
+62
+61
+56
+34
+37
+39
+2
+1
+3
+2
+2
+2
+1
+1
+0
+56
+59
+54
+19
+20
+18
+7386
+7155
+5762
+55
+58
+53
+40
+40
+43
+2
+2
+2
+2
+1
+2
+1
+0
+1
+56
+53
+58
+19
+18
+19
+9421
+7783
+7560
+60
+58
+55
+35
+41
+38
+3
+1
+4
+3
+1
+3
+1
+0
+1
+55
+59
+54
+18
+20
+18
+8072
+7557
+5965
+60
+53
+55
+36
+44
+39
+2
+3
+4
+2
+0
+2
+1
+1
+1
+
+Día
+90
+58
+19
+6370
+55
+40
+3
+1
+2
+51
+17
+5525
+48
+46
+2
+3
+2
+57
+19
+9047
+58
+37
+4
+3
+0
+50
+17
+4917
+48
+47
+2
+4
+0
+47
+16
+6374
+57
+41
+1
+1
+1
+
+68
+
 

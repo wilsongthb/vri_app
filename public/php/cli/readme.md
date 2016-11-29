@@ -28,13 +28,18 @@ El primer argumento de este script es la ruta de un archivo de texto que se anal
 con todos los txt de la carpeta referida del segundo argumento "ruta"
 al final muestra un array con una lista de los indices con mayor semejansa al archivo txt
 
-    php cli_comparacion.php "ruta1" "ruta2" [... argumentos adicionales ...]
+    php cli_comparacion.php "ruta1" "ruta2" int_tolerancia [... argumentos adicionales ...]
+
+int_tolerancia : es la longitud minima de la porcion que sera considerada como copia para ser registrado en los resultados ejm: si pones como valor 1, se guardaran como minimo frases de longitud 1 como letras individuales
 
 Este script permite compara dos archivos de texto caracter por caracter para encontrar la cadena plagiada
 tiene agumentos adicionales como:
  - sanear : eliminar caracteres especiales de los textos antes de ser comparados
  - similartext : incluye la comparacion con similartext implementado en el estandar de php, para obtener el porcentaje de parecido
  - sc : (sincomodines) elimina espacios, saltos de linea y tabulaciones de los textos antes de ser comparados
+ - no-contenido : no devuelve el contenido de los strings evaluados con comparar()
+ - utf-8 : codificar los textos en utf-8, nota: al finalizar predeterminadamente codifica los textos para poder convertirlos a formato json
+
 los cambios hechos antes de comparar no se guardan en los archivos de texto, pero si se incluyen en la respuesta del script
 
 los resultados se guardan en prueba.json

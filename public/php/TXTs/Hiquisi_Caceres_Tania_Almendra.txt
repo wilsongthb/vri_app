@@ -1,3398 +1,2747 @@
 UNIVERSIDAD NACIONAL DEL ALTIPLANO-PUNO
-
-  FACULTAD DE CIENCIAS JURÍDICAS Y POLÍTICAS
-
-       ESCUELA PROFESIONAL DE DERECHO
-
-
-
+FACULTAD DE CIENCIAS JURÍDICAS Y POLÍTICAS
+ESCUELA PROFESIONAL DE DERECHO
 
 ANÁLISIS DE LAS DEFICIENCIAS EN LA EJECUCIÓN DE SENTENCIAS
 CONTENCIOSAS ADMINISTRATIVAS SOBRE REINCORPORACIÓN DE
- TRABAJADORES EN EL PRIMER JUZGADO MIXTO DE PUNO - 2012
+TRABAJADORES EN EL PRIMER JUZGADO MIXTO DE PUNO - 2012
 
+TESIS
+PRESENTADA POR LA BACHILLER:
+TANIA ALMENDRA HIQUISI CÁCERES
+PARA OPTAR EL TITULO PROFESIONAL
 
+ABOGADO
+PUNO - PERÚ
+2014
 
-                         TESIS
-
-              PRESENTADA POR LA BACHILLER:
-
-             TANIA ALMENDRA HIQUISI CÁCERES
-
-            PARA OPTAR EL TITULO PROFESIONAL
-
-                       ABOGADO
-
-                       PUNO - PERÚ
-
-                           2014
 ÁREA: Derecho contencioso administrativo
 TEMA: Ejecución de sentencias
-      
+
+
 Quienes me acompañan
- en los momentos más
+en los momentos más
 difíciles, mis padres y
-      mi hermano;
-  Armando, Maruja y
-         Alex.
+mi hermano;
+Armando, Maruja y
+Alex.
 
-      
-                                 AGRADECIMIENTO
+
 
-       La experiencia adquirida a través de la práctica del Derecho y el gran apoyo
+AGRADECIMIENTO
+
+La experiencia adquirida a través de la práctica del Derecho y el gran apoyo
 brindado por mi maestro Dr. Rafael Vallenas Gaona en las largas horas de
 conversación brindadas, constituyeron el principal impulso para iniciar la
 investigación en el Proceso Contencioso Administrativo, facilitándome, de esta
 manera, la elección de mi tema de tesis vinculado a la ejecución de las sentencias en
 dicho proceso.
-       Asimismo difícilmente habría culminado la investigación sin el valioso e
+Asimismo difícilmente habría culminado la investigación sin el valioso e
 imprescindible apoyo de mi director y asesor el Dr. José Pineda Gonzáles, cuyos sabios
 consejos me han servido de guía para avanzar, sin desfallecer, por el siempre inagotable
 camino de la investigación.
 
+Puno, junio de 2014.
 
-
-
-                                                                  Puno, junio de 2014.
-                                                         INDICE
-
+INDICE
 CAPITULO I ................................................................................................................ 12
 PROBLEMA DE INVESTIGACIÓN ............................................................................. 12
-   1.1.      PLANTEAMIENTO DEL PROBLEMA. .......................................................... 12
-      1.1.1        Descripción del problema. ..................................................................... 12
-      1.1.2        Enunciado del problema. ....................................................................... 14
-          Problema general: ............................................................................................ 14
-          Problemas específicos: .................................................................................... 14
-   1.2.      JUSTIFICACIÓN:.......................................................................................... 15
-   1.3.      HIPOTESIS: ................................................................................................. 16
-      1.3.1.       Hipótesis General: ................................................................................. 16
-      1.3.2.       Hipótesis Específicas............................................................................. 16
-   1.4.      OBJETIVOS: ................................................................................................ 16
-      1.4.1.       Objetivo general: ................................................................................... 16
-      1.4.2.       Objetivos Específicos: ........................................................................... 16
+1.1.
+
+PLANTEAMIENTO DEL PROBLEMA. .......................................................... 12
+
+1.1.1
+
+Descripción del problema. ..................................................................... 12
+
+1.1.2
+
+Enunciado del problema. ....................................................................... 14
+
+Problema general: ............................................................................................ 14
+Problemas específicos: .................................................................................... 14
+1.2.
+
+JUSTIFICACIÓN:.......................................................................................... 15
+
+1.3.
+
+HIPOTESIS: ................................................................................................. 16
+
+1.3.1.
+
+Hipótesis General: ................................................................................. 16
+
+1.3.2.
+
+Hipótesis Específicas............................................................................. 16
+
+1.4.
+
+OBJETIVOS: ................................................................................................ 16
+
+1.4.1.
+
+Objetivo general: ................................................................................... 16
+
+1.4.2.
+
+Objetivos Específicos: ........................................................................... 16
+
 CAPITULO II ............................................................................................................... 18
 MARCO TEÓRICO ..................................................................................................... 18
-   2.1.      ANTECEDENTES DE LA INVESTIGACIÓN: ................................................ 18
-   2.2.      CONCEPTOS BÁSICOS: ............................................................................. 20
-      2.2.1.       DERECHO ADMINISTRATIVO:............................................................. 20
-      2.2.2.       CONTENCIOSO ADMINISTRATIVO: .................................................... 21
-      2.2.3.       EJECUCIÓN DE SENTENCIA: .............................................................. 22
-   2.3.      BASES TEÓRICAS: ..................................................................................... 23
-      2.3.1.       TUTELA JURISDICCIONAL EFECTIVA: ............................................... 23
-      2.3.2. El PROCESO CONTENCIOSO ADMINISTRATIVO EN LA
-      CONSTITUCIÓN: ................................................................................................ 26
-          EFECTOS: ....................................................................................................... 27
-          OBJETIVOS: .................................................................................................... 28
-      2.3.3.       PRINCIPIOS DEL PROCESO CONTENCIOSO ADMINISTRATIVO ..... 34
-          PRINCIPIO DE INTEGRACIÓN: ...................................................................... 34
-          PRINCIPIO DE IGUALDAD PROCESAL: ......................................................... 35
-          PRINCIPIO DE FAVORECIMIENTO DEL PROCESO: ..................................... 36
-          PRINCIPIO DE SUPLENCIA DE OFICIO: ........................................................ 36
-      2.3.4. SOBRE LA PRETENSIÓN DE REINCORPORACIÓN DEL
-      TRABAJADOR..................................................................................................... 37
-      2.3.5.       LA SENTENCIA EN EL PROCESO CONTENCIOSO ADMINISTRATIVO .
-                   .............................................................................................................. 39
-          LA SENTENCIA: .............................................................................................. 39
-          LA SENTENCIA ESTIMATORIA EN EL PROCESO CONTENCIOSO
-          ADMINISTRATIVO ........................................................................................... 39
-          ESPECIFICIDAD DEL MANDATO JUDICIAL................................................... 41
+2.1.
+
+ANTECEDENTES DE LA INVESTIGACIÓN: ................................................ 18
+
+2.2.
+
+CONCEPTOS BÁSICOS: ............................................................................. 20
+
+2.2.1.
+
+DERECHO ADMINISTRATIVO:............................................................. 20
+
+2.2.2.
+
+CONTENCIOSO ADMINISTRATIVO: .................................................... 21
+
+2.2.3.
+
+EJECUCIÓN DE SENTENCIA: .............................................................. 22
+
+2.3.
+
+BASES TEÓRICAS: ..................................................................................... 23
+
+2.3.1.
+
+TUTELA JURISDICCIONAL EFECTIVA: ............................................... 23
+
+2.3.2. El PROCESO CONTENCIOSO ADMINISTRATIVO EN LA
+CONSTITUCIÓN: ................................................................................................ 26
+EFECTOS: ....................................................................................................... 27
+OBJETIVOS: .................................................................................................... 28
+2.3.3.
+
+PRINCIPIOS DEL PROCESO CONTENCIOSO ADMINISTRATIVO ..... 34
+
+PRINCIPIO DE INTEGRACIÓN: ...................................................................... 34
+PRINCIPIO DE IGUALDAD PROCESAL: ......................................................... 35
+PRINCIPIO DE FAVORECIMIENTO DEL PROCESO: ..................................... 36
+PRINCIPIO DE SUPLENCIA DE OFICIO: ........................................................ 36
+2.3.4. SOBRE LA PRETENSIÓN DE REINCORPORACIÓN DEL
+TRABAJADOR..................................................................................................... 37
+
+2.3.5.
+
+LA SENTENCIA EN EL PROCESO CONTENCIOSO ADMINISTRATIVO .
+.............................................................................................................. 39
+
+LA SENTENCIA: .............................................................................................. 39
+LA SENTENCIA ESTIMATORIA EN EL PROCESO CONTENCIOSO
+ADMINISTRATIVO ........................................................................................... 39
+ESPECIFICIDAD DEL MANDATO JUDICIAL................................................... 41
 CAPITULO III .............................................................................................................. 44
 DISEÑO METODOLÓGICO........................................................................................ 44
-   3.1.      Diseño y tipo de investigación. ..................................................................... 44
-   3.2.      Ámbito o lugar de estudio. ............................................................................ 44
-   3.3.      Universo y muestra de la investigación ......................................................... 45
-   3.4.      Descripción de métodos por objetivos específicos: ....................................... 45
-   3.5.      Operacionalización de variables: .................................................................. 46
+3.1.
+
+Diseño y tipo de investigación. ..................................................................... 44
+
+3.2.
+
+Ámbito o lugar de estudio. ............................................................................ 44
+
+3.3.
+
+Universo y muestra de la investigación ......................................................... 45
+
+3.4.
+
+Descripción de métodos por objetivos específicos: ....................................... 45
+
+3.5.
+
+Operacionalización de variables: .................................................................. 46
+
 CAPITULO IV ............................................................................................................. 48
 ANALISIS E INTERPRETACIÓN DE RESULTADOS ................................................. 48
-   4.1. NORMAS APLICABLES EN LA EJECUCIÓN DE SENTENCIAS
-   CONTENCIOSO ADMINISTRATIVO....................................................................... 48
-      4.1.1.       CUMPLIMENTO DE LA SENTENCIA ESTIMATORIA: .......................... 49
-      4.1.2.       LA EFICACIA DE LA SENTENCIA Y SU EJECUCIÓN.......................... 51
-   4.2.      LA INSUFICIENCIA DE LA NORMA ............................................................. 51
-      4.2.1.       Falta de un plazo específico para ejecutar la sentencia ......................... 53
-      4.2.2.       Falta de medidas coercitivas más drásticas ........................................... 54
-   4.3. ACTUACIONES JUDICIALES DILATORIAS QUE PRESENTA LA ENTIDAD
-   DEMANDA .............................................................................................................. 54
-   4.4.      ACTUACIONES REALIZADAS POR EL JUZGADO ..................................... 57
-   4.5. EJECUCIÓN DE LA SENTENCIA CONTENCIOSA ADMINISTRATIVA
-   SOBRE REINCORPORACIÓN DE TRABAJADORES ............................................ 64
-      4.5.1.       CANTIDAD DE TRABAJADORES REINCORPORADOS ...................... 64
-      4.5.2.       PLAZO EN LA QUE SE EJECUTA LA SENTENCIA.............................. 66
+4.1. NORMAS APLICABLES EN LA EJECUCIÓN DE SENTENCIAS
+CONTENCIOSO ADMINISTRATIVO....................................................................... 48
+4.1.1.
+
+CUMPLIMENTO DE LA SENTENCIA ESTIMATORIA: .......................... 49
+
+4.1.2.
+
+LA EFICACIA DE LA SENTENCIA Y SU EJECUCIÓN.......................... 51
+
+4.2.
+
+LA INSUFICIENCIA DE LA NORMA ............................................................. 51
+
+4.2.1.
+
+Falta de un plazo específico para ejecutar la sentencia ......................... 53
+
+4.2.2.
+
+Falta de medidas coercitivas más drásticas ........................................... 54
+
+4.3. ACTUACIONES JUDICIALES DILATORIAS QUE PRESENTA LA ENTIDAD
+DEMANDA .............................................................................................................. 54
+4.4.
+
+ACTUACIONES REALIZADAS POR EL JUZGADO ..................................... 57
+
+4.5. EJECUCIÓN DE LA SENTENCIA CONTENCIOSA ADMINISTRATIVA
+SOBRE REINCORPORACIÓN DE TRABAJADORES ............................................ 64
+4.5.1.
+
+CANTIDAD DE TRABAJADORES REINCORPORADOS ...................... 64
+
+4.5.2.
+
+PLAZO EN LA QUE SE EJECUTA LA SENTENCIA.............................. 66
+
 CONCLUSIONES ....................................................................................................... 69
 SUGERENCIAS.......................................................................................................... 71
 BIBLIOGRAFÍA ........................................................................................................... 72
-                                   RESUMEN
 
-
+RESUMEN
 La mayoría de demandas Contenciosas Administrativas tiene por objeto la
-
 reincorporación del trabajador a su centro de labores, es así que cuando la
+sentencia
 
-sentencia   queda    consentida    o   ejecutoriada   el   Juez   Mixto   ordena    su
+queda
+
+consentida
+
+o
+
+ejecutoriada
+
+el
+
+Juez
+
+Mixto
+
+ordena
+
+su
 
 reincorporación en el mismo cargo o en otro similar al que venía desempeñando,
-
 siendo en este tramo en donde encuentra mayores dificultades; ya sea, por la
-
 lentitud del órgano judicial al emitir el oficio a la entidad demanda apercibiendo a la
-
 parte demandada a ejecutar la sentencia, o de establecer un plazo razonable para
-
 ejecutarla; o la negativa de la entidad de cumplirla o dilatarla el mayor tiempo
+posible; afectando
 
-posible; afectando    así el Principio de Celeridad Procesal; Es por esto que el
+así el Principio de Celeridad Procesal; Es por esto que el
 
 objetivo del presente trabajo de investigación es analizar el proceso de ejecución
-
 de la sentencia contenciosa administrativa sobre reincorporación de trabajadores
-
 en el Distrito Judicial de Puno para el año 2012. Los métodos a utilizar para el
-
 presente estudio son la observación y el análisis documental de las sentencias y la
-
 normatividad, el cual se consignará en la ficha documental para cada caso.
-
 Finalmente los resultados que se pretenden esperar es encontrar los puntos
-
 críticos mediante los cuales no se cumple la sentencia, para dar alternativas de
-
 solución los cuales estarán enmarcados en la normativa peruana.
 
-
-
-
 PALABRAS CLAVE: Derecho Administrativo, Contencioso administrativo,
-
 reincorporación, ejecución de sentencia.
 
+7
 
-
-
-                                                                                     7
-                                     ABSTRACT
-
+ABSTRACT
 Most Contentious Administrative demands seeks reinstatement to the employee's
-
 work center, so that when the statement is accepted or enforceable, the Joint
-
 Judge orders reinstatement in the same or a similar position that he occupied , but
-
 it is in this section where he finds more difficult ; either by the slowness of the
-
 judiciary to issue the job to demand ordering entity warnings to execute the
-
 judgment , or to establish a reasonable term to run ; or refusal to comply entity or
-
 dilate as long as possible ; thus affecting the Principle of Procedural Haste ; That is
-
 why the objective of this research is to analyze the implementation process of the
-
 contentious administrative judgment on reinstatement of workers in the Judicial
-
 District of Puno for 2012 . Methods used for the present study are observation and
-
 documentary analysis of judgments and regulations, which shall be recorded in the
-
 documentary record for each case. Finally the results anticipated wait is to find the
-
 critical points by which the decision is not to give alternative solutions which will be
-
 framed in Peruvian legislation.
+KEYWORDS:
 
-KEYWORDS:        Administrative   Law,    Administrative    Litigation,   reinstatement,
+Administrative
+
+Law,
+
+Administrative
+
+Litigation,
+
+reinstatement,
 
 execution of sentence.
 
+8
 
-
-
-                                                                                      8
-                                   INTRODUCCIÓN
-
-       La ejecución de los procesos contencioso administrativos, especialmente en el
-
+INTRODUCCIÓN
+La ejecución de los procesos contencioso administrativos, especialmente en el
 caso de reincorporación de trabajadores, presentan dificultades al momento de
-
 ejecutar la sentencia que ordena la reincorporación del trabajador en un cargo igual o
-
 de similar categoría remunerativa al que venía desempeñando afectándose al derecho
-
 de la efectividad de las resoluciones judiciales contenido dentro de la Tutela
-
 Jurisdiccional efectiva contemplado en el Artículo 139° inciso 3 de la Constitución y por
-
 el que se garantiza que lo ordenado en una sentencia de cumpla en el tiempo
-
 oportuno no debiendo existir dilaciones indebidas y que el órgano jurisdiccional realice
-
 todas las medidas necesarias para facilitar su cumplimiento.
-
-
-       Es por ello que la presente investigación tiene por objetivo analizar las
-
+Es por ello que la presente investigación tiene por objetivo analizar las
 deficiencias existentes en el cumplimiento de las sentencias, para lo cual se
-
 determinará las normas aplicables y procedimientos que realiza el Primer Juzgado
-
 Mixto de Puno para ejecutar las sentencias, para este cometido se ha trabajado con
+cuatro variables: 1.
 
-cuatro variables: 1.   Insuficiencia normativa,      2.   Las actuaciones judiciales
+Insuficiencia normativa,
+
+2.
+
+Las actuaciones judiciales
 
 dilatorias que presenta la entidad demanda, 3. Las actuaciones que realiza el
-
 juzgado y 4. Ejecución de la sentencia contenciosa administrativa sobre
-
 Reincorporación de trabajadores.
-
-
-       Respecto de la insuficiencia normativa se ha analizado el TUO de la Ley N°
-
+Respecto de la insuficiencia normativa se ha analizado el TUO de la Ley N°
 27584 “Ley del Proceso Contencioso Administrativo”, en el que en su Artículo 46° que
-
 hace referencia al deber personal del cumplimiento, se ha observado la ausencia de
-
 un plazo específico que señale el tiempo en el que se deba cumplir la sentencia,
-
 asimismo es facultativo la remisión de un informe comunicando el cumplimiento de la
-
 sentencia, el cual es de suma importancia para hacer un seguimiento a la ejecución,
-
 por otro lado la aplicación de la Ley Orgánica del Poder Judicial al que hace referencia
-
 el mismo Artículo 46 inciso 1 del TUO de la Ley del Proceso Contencioso
-
 Administrativo y el Artículo 53 inciso 1 del Código Procesal Civil que señalan medidas
+9
 
-                                                                                       9
 coercitivas en caso de incumplimiento y persuaden a la entidad demandada a cumplir
-
 con reincorporar al trabajador.
-
-
-       Los escritos presentados por la Institución Pública demandada son
-
+Los escritos presentados por la Institución Pública demandada son
 principalmente referidos a la falta de presupuesto y a la inexistencia del cargo en el
-
 Cuadro de Asignación de Personal que representa el 68% de expedientes analizados,
-
 por el que alega la imposibilidad de ejecutar la sentencia no existiendo voluntad de dar
-
 alguna medida alternativa para efectivizar la reincorporación del trabajador y
-
 obedeciendo a una estrategia de la defensa de parte para dilatar su ejecución puesto
-
 que se podrían dar soluciones alternativas como ejecuciones provisionales, también se
-
 evidencia esta intención de dilación debido a que en el 20% de los expedientes no
-
 comunica el cumplimiento ni acciones que realiza para su ejecución, siendo escasos
-
 los escritos en donde se comunica con el cumplimiento de la sentencia.
-
-
-       Por otro lado, las Actuaciones que realiza el Órgano Jurisdiccional, a fin de
-
+Por otro lado, las Actuaciones que realiza el Órgano Jurisdiccional, a fin de
 materializar lo ordenado en la sentencia, son el 80% a petición de parte a pesar que la
-
 responsabilidad también recae en éste; esto se ve reflejado en los decretos que
-
 dispone el oficiar a la entidad demanda, ya sea señalando un plazo para su
-
 cumplimiento, apercibiendo e imponiendo medidas coercitivas que en su mayoría son
-
 la remisión de copias certificadas al Ministerio Público que constituyen el 10% y la
-
 imposición de multas acumulativas y progresivas que son 4%, siendo que en la
-
 mayoría de los expedientes no se ha impuesto ninguna medida coercitiva.
-
-
-       Es importante señalar también que el plazo en que se ejecuta las sentencias
-
+Es importante señalar también que el plazo en que se ejecuta las sentencias
 contenciosas administrativas sobre reincorporación de trabajadores oscila de seis
-
 meses a dos años que constituye un 76% , siendo pocos los casos que se ha
-
 ejecutado en un plazo corto es decir de un a cinco meses 24%, es la dilación de la
-
 ejecución de la sentencia, lo que afecta gravemente los ingresos económicos del
-
 trabajador y el de su familia, pues como lo ha señalado el Tribunal Constitucional las
 
+10
 
-
-                                                                                     10
 remuneraciones tienen carácter alimentario, viéndose obligado a abandonar el proceso
-
 para buscar algún trabajo con el cual sustentarse, no debiendo archivarse el proceso
-
 aunque en la práctica se produzca ello.
-
-
-       Finalmente cabe señalar que esta investigación busca analizar las deficiencias
-
+Finalmente cabe señalar que esta investigación busca analizar las deficiencias
 de la ejecución de las sentencias contencioso administrativas sobre la reincorporación
-
 de los trabajadores, para dar las mejores soluciones a la dilatación de la ejecución del
-
 mandato judicial y así contribuir para que los justiciables se vena satisfechos.
-
 Asimismo se busca provocar interés y motivación para que otros estudiantes y/o
-
 profesionales puedan realizar investigaciones o aportes que coadyuven a la eficacia
-
 de la ejecución de las sentencias judiciales.
 
+11
 
+CAPITULO I
+PROBLEMA DE INVESTIGACIÓN
+1.1.
 
+PLANTEAMIENTO DEL PROBLEMA.
+1.1.1 Descripción del problema.
+La mayor parte de carga procesal en los Juzgados Mixtos de Puno, lo
+constituyen los Procesos Contenciosos Administrativos, de los cuales la
+parte demandante, es el trabajador y la demandada, la Institución
+Pública, con la finalidad de que el demandante al entablar un proceso
+sea reincorporado a su centro laborales.
+La Institución Pública en muchas ocasiones contrata al trabajador por
+tiempo determinado e inclusive a través de un contrato civil, a pesar de
+que debería contratarse por regla general a un trabajador por tiempo
+indeterminado;
 
-                                                                                     11
-                                CAPITULO I
+desarrollando
 
-                  PROBLEMA DE INVESTIGACIÓN
+funciones
 
-1.1.   PLANTEAMIENTO DEL PROBLEMA.
+de
 
-       1.1.1 Descripción del problema.
+carácter
 
-            La mayor parte de carga procesal en los Juzgados Mixtos de Puno, lo
+permanente
 
-            constituyen los Procesos Contenciosos Administrativos, de los cuales la
+desnaturalizándose el contrato de trabajo, además por la naturaleza del
+cargo se debió contratar a tiempo indeterminado, es en estas
+circunstancias que el trabajador es despedido, por el empleador, a
+pesar de haber laborado más de un año de servicios y a sabiendas de
+que el empleador conoce la Ley Nro. 21041 el cual señala en su Artículo
 
-            parte demandante, es el trabajador y la demandada, la Institución
+12
 
-            Pública, con la finalidad de que el demandante al entablar un proceso
-
-            sea reincorporado a su centro laborales.
-
-            La Institución Pública en muchas ocasiones contrata al trabajador por
-
-            tiempo determinado e inclusive a través de un contrato civil, a pesar de
-
-            que debería contratarse por regla general a un trabajador por tiempo
-
-            indeterminado;   desarrollando   funciones   de   carácter   permanente
-
-            desnaturalizándose el contrato de trabajo, además por la naturaleza del
-
-            cargo se debió contratar a tiempo indeterminado, es en estas
-
-            circunstancias que el trabajador es despedido, por el empleador, a
-
-            pesar de haber laborado más de un año de servicios y a sabiendas de
-
-            que el empleador conoce la Ley Nro. 21041 el cual señala en su Artículo
-
-
-                                                                                 12
 1 que los servidores públicos que laboran más de un año
-
 ininterrumpidos de servicios, no pueden ser cesados ni destituidos sino
-
 por causa previstas por el Decreto Legislativo Nro. 276 (previo proceso
-
 administrativo disciplinario).
-
 El proceso contencioso administrativo se encuentra regulado por la Ley
-
 Nro. 27584, que en su Artículo 4 señala, cuales son los actos
-
 impugnables y en el Artículo 5 las pretensiones que pueden ser
-
 dilucidadas en sede jurisdiccional las cuales son: 1) La declaración de
-
 nulidad, total parcial o ineficacia de los actos administrativos; 2) El
-
 reconocimiento o restablecimiento del derecho o interés jurídicamente
-
 tutelado; 3) La adopción de las medidas o actos necesarios para tales
-
 fines; la declaración contraria a derecho y el cese de una actuación
-
 material que no se sustente en acto administrativo; y que 4) Se ordene a
-
 la administración pública la realización de una determinada actuación a
-
 la que se encuentre obligada por mandato de la ley o en virtud de acto
-
 administrativo firme.
-
 Estas peticiones adecuadas al caso determinado son invocadas en la
-
 demanda por el trabajador (demandante) teniendo como fin la
-
 reincorporación del empleado a su centro de labores, previo
-
 agotamiento de la vía administrativa; es en este proceso judicial donde
-
 el servidor público tiene que demostrar que ha venido laborando por
-
 más de un año, para lo cual adjunta a la demanda las planillas de
-
 remuneraciones o las boletas de pago, además de sus contratos de
-
 trabajo, que en algunas ocasiones son a plazo determinado o de una
-
 naturaleza no correspondiente al régimen público o administrativo sino
-
 al laboral, es en estas circunstancias donde prima el principio de
 
+13
 
-
-
-                                                                     13
-     primacía de la realidad a favor del empleado para demostrar que se ha
-
-     desnaturalizado el contrato; puesto que es él la parte más vulnerable.
-
-     Una vez que el Juez Mixto haya apreciado los medios probatorios
-
-     presentados por ambas partes en el proceso expide la sentencia de
-
-     mérito; pudiendo ser apelada por aquella parte a la que perjudique dicha
-
-     sentencia, la que es elevada a la Sala Civil de Puno para que los
-
-     vocales se pronuncien en la sentencia de vista, la cual si contiene
-
-     errores en la interpretación de una norma legal podrá subir en casación
-
-     a la Corte Suprema de Justicia.
-
-     Después de todo este procedimiento, la sentencia firme es ejecutada
-
-     por el juzgado primigenio (Juzgado Mixto), que en el caso de
-
-     reincorporación del trabajador, se ordenará que éste sea repuesto al
-
-     cargo anterior del despido o en otro de similar categoría remunerativa;
-
-     sin embargo, es en este tramo en donde encuentra mayores trabas; ya
-
-     sea, por la lentitud del órgano judicial al emitir el oficio a la entidad
-
-     demanda invocando apercibimientos para ejecutar la sentencia o de
-
-     establecer un plazo razonable para ejecutarla; o de la negativa de la
-
-     entidad de cumplirla o dilatarla el mayor tiempo posible; afectando así
-
-     el Principio de Celeridad Procesal.
+primacía de la realidad a favor del empleado para demostrar que se ha
+desnaturalizado el contrato; puesto que es él la parte más vulnerable.
+Una vez que el Juez Mixto haya apreciado los medios probatorios
+presentados por ambas partes en el proceso expide la sentencia de
+mérito; pudiendo ser apelada por aquella parte a la que perjudique dicha
+sentencia, la que es elevada a la Sala Civil de Puno para que los
+vocales se pronuncien en la sentencia de vista, la cual si contiene
+errores en la interpretación de una norma legal podrá subir en casación
+a la Corte Suprema de Justicia.
+Después de todo este procedimiento, la sentencia firme es ejecutada
+por el juzgado primigenio (Juzgado Mixto), que en el caso de
+reincorporación del trabajador, se ordenará que éste sea repuesto al
+cargo anterior del despido o en otro de similar categoría remunerativa;
+sin embargo, es en este tramo en donde encuentra mayores trabas; ya
+sea, por la lentitud del órgano judicial al emitir el oficio a la entidad
+demanda invocando apercibimientos para ejecutar la sentencia o de
+establecer un plazo razonable para ejecutarla; o de la negativa de la
+entidad de cumplirla o dilatarla el mayor tiempo posible; afectando así
+el Principio de Celeridad Procesal.
 
 1.1.2 Enunciado del problema.
+Problema general:
+
 
-     Problema general:
+¿Cuáles son las deficiencias que existen en la ejecución de la
+sentencia contenciosa administrativa sobre reincorporación de
+trabajadores en el Primer Juzgado Mixto durante el año 2012?
 
+Problemas específicos:
 
-         ¿Cuáles son las deficiencias que existen en la ejecución de la
+14
 
-          sentencia contenciosa administrativa sobre reincorporación de
+
 
-          trabajadores en el Primer Juzgado Mixto durante el año 2012?
+¿Cuáles son las normas aplicables en la ejecución de sentencias
+contenciosas administrativas sobre reincorporación de trabajadores?
 
-     Problemas específicos:
+
 
+¿Qué procedimientos se realiza en el Primer Juzgado Mixto de Puno
+para ejecutar la sentencia contencioso administrativa
 
+sobre
 
-                                                                              14
-                  ¿Cuáles son las normas aplicables en la ejecución de sentencias
+reincorporación de trabajadores?
 
-                   contenciosas administrativas sobre reincorporación de trabajadores?
+1.2.
 
-                  ¿Qué procedimientos se realiza en el Primer Juzgado Mixto de Puno
+JUSTIFICACIÓN:
+La presente investigación logrará determinar cuáles son las deficiencias de la
+ejecución
 
-                   para ejecutar la sentencia contencioso administrativa           sobre
+de
 
-                   reincorporación de trabajadores?
+las
 
-1.2.   JUSTIFICACIÓN:
+sentencias
 
-       La presente investigación logrará determinar cuáles son las deficiencias de la
+contencioso
 
-       ejecución    de    las   sentencias   contencioso    administrativas   sobre     la
+administrativas
 
-       reincorporación de los trabajadores en los Juzgados Mixtos de Puno en el año
+sobre
 
-       2012, para dar las mejores soluciones a la tardía ejecución del mandato
+la
 
-       judicial.
+reincorporación de los trabajadores en los Juzgados Mixtos de Puno en el año
+2012, para dar las mejores soluciones a la tardía ejecución del mandato
+judicial.
+Es el trabajador y su familia quien es afectado económica y socialmente al
+dilatarse la ejecución de la sentencia que declara fundada su demanda
+ordenándose su reincorporación. Por lo tanto con la presente investigación
+pretende identificar la existencia de las deficiencias que existen en la ejecución
+de la sentencia.
+En el proceso contencioso administrativo no existe el plazo de ejecución
+específico, tal como ocurre en el proceso constitucional de amparo, en el cual
+se establece dos días para su ejecución, por tanto la presente investigación
+busca dar sugerencias para que se ejecute la sentencia en el plazo más breve
+posible.
+Por tanto, la presente investigación es de suma importancia para los
+trabajadores demandantes que tienen su proceso en ejecución, así como
+también al órgano jurisdiccional que es el encargado de ejecutar la sentencia.
 
-       Es el trabajador y su familia quien es afectado económica y socialmente al
+15
 
-       dilatarse la ejecución de la sentencia que declara fundada su demanda
+1.3.
 
-       ordenándose su reincorporación. Por lo tanto con la presente investigación
+HIPOTESIS:
+1.3.1. Hipótesis General:
+
 
-       pretende identificar la existencia de las deficiencias que existen en la ejecución
+Las principales deficiencias que existen en la ejecución de
+sentencias contenciosas administrativas sobre reincorporación de
+trabajadores son: la insuficiencia de la norma, las actuaciones
+judiciales dilatorias que presentan la entidad demanda, y la falta de
+impulso de oficio y medidas coercitivas por parte del juez.
 
-       de la sentencia.
+1.3.2. Hipótesis Específicas.
+
 
-       En el proceso contencioso administrativo no existe el plazo de ejecución
+La principal norma aplicable es el Decreto Supremo Nro. 013-2008PCM, “Texto único Ordenado de la Ley que regula el Procedimiento
+Contencioso Administrativo”.
 
-       específico, tal como ocurre en el proceso constitucional de amparo, en el cual
+
 
-       se establece dos días para su ejecución, por tanto la presente investigación
+Los Procedimientos que se realizan principalmente para ejecutar las
+sentencias contenciosas administrativas sobre reincorporación de
+trabajadores son la de oficiar a la entidad demandada, proveer
+escritos y aplicar medidas coercitivas.
 
-       busca dar sugerencias para que se ejecute la sentencia en el plazo más breve
+1.4.
 
-       posible.
+OBJETIVOS:
+1.4.1. Objetivo general:
+
 
-       Por tanto, la presente investigación es de suma importancia para los
+Analizar las deficiencias existentes en la ejecución de la sentencia
+contenciosa administrativa sobre reincorporación de trabajadores
+en el Primer Juzgado Mixto durante el año 2012
 
-       trabajadores demandantes que tienen su proceso en ejecución, así como
+1.4.2. Objetivos Específicos:
+
+
+Determinar las normas aplicables en la ejecución de sentencias
+contenciosas administrativas sobre reincorporación de trabajadores.
+
+16
+
+
+
+Determinar procedimientos que se realizan en el Primer Juzgado
+Mixto de Puno para ejecutar la sentencia contencioso administrativa
+sobre reincorporación de trabajadores.
+
+17
+
+CAPITULO II
+MARCO TEÓRICO
+2.1.
+
+ANTECEDENTES DE LA INVESTIGACIÓN:
+Entre los antecedentes al presente trabajo de investigación se ha encontrado
+un informe de la defensoría del pueblo titulado “Incumplimiento de Sentencias
+por parte de la Administración Estatal”, el cual señala lo siguiente:
+La Defensoría del Pueblo ha presentado un informe sobre la reincorporación de
+trabajadores el cual indica que; en cuanto a las pretensiones de
+reincorporación, en 12 quejas se aprecia que las entidades estatales
+cumplieron con reincorporar a los trabajadores a través de un acto
+administrativo, pero inmediatamente se expidió una segunda resolución que
+volvió a cesar a dichos servidores públicos, desconociendo así el mandato
+judicial. De esta manera, entidades tales como el Instituto Nacional
+Penitenciario (INPE) con 6 quejas, el Ministerio de Relaciones Exteriores con 2
+quejas, el Ministerio del Interior con 3 quejas y la Municipalidad de Nazca con 1
+queja han utilizado esta modalidad.
+De otro lado, en dos casos contra el Ministerio del Interior, esta entidad
+respondió que estaba pendiente la firma, por parte del Presidente la República,
+
+18
 
-       también al órgano jurisdiccional que es el encargado de ejecutar la sentencia.
-
-
-
-
-                                                                                      15
-1.3.   HIPOTESIS:
-
-       1.3.1. Hipótesis General:
-
-                Las principales deficiencias que existen en la ejecución de
-
-                 sentencias contenciosas administrativas sobre reincorporación de
-
-                 trabajadores son: la insuficiencia de la norma, las actuaciones
-
-                 judiciales dilatorias que presentan la entidad demanda, y la falta de
-
-                 impulso de oficio y medidas coercitivas por parte del juez.
-
-       1.3.2. Hipótesis Específicas.
-
-                La principal norma aplicable es el Decreto Supremo Nro. 013-2008-
-
-                 PCM, “Texto único Ordenado de la Ley que regula el Procedimiento
-
-                 Contencioso Administrativo”.
-
-                Los Procedimientos que se realizan principalmente para ejecutar las
-
-                 sentencias contenciosas administrativas sobre reincorporación de
-
-                 trabajadores son la de oficiar a la entidad demandada, proveer
-
-                 escritos y aplicar medidas coercitivas.
-
-1.4.   OBJETIVOS:
-
-       1.4.1. Objetivo general:
-
-                Analizar las deficiencias existentes en la ejecución de la sentencia
-
-                 contenciosa administrativa sobre reincorporación de trabajadores
-
-                 en el Primer Juzgado Mixto durante el año 2012
-
-       1.4.2. Objetivos Específicos:
-
-                Determinar las normas aplicables en la ejecución de sentencias
-
-                 contenciosas administrativas sobre reincorporación de trabajadores.
-
-
-                                                                                   16
-   Determinar procedimientos que se realizan en el Primer Juzgado
-
-    Mixto de Puno para ejecutar la sentencia contencioso administrativa
-
-    sobre reincorporación de trabajadores.
-
-
-
-
-                                                                    17
-                                    CAPITULO II
-
-                                MARCO TEÓRICO
-
-2.1.   ANTECEDENTES DE LA INVESTIGACIÓN:
-
-       Entre los antecedentes al presente trabajo de investigación se ha encontrado
-
-       un informe de la defensoría del pueblo titulado “Incumplimiento de Sentencias
-
-       por parte de la Administración Estatal”, el cual señala lo siguiente:
-
-       La Defensoría del Pueblo ha presentado un informe sobre la reincorporación de
-
-       trabajadores el cual indica que; en cuanto a las pretensiones de
-
-       reincorporación, en 12 quejas se aprecia que las entidades estatales
-
-       cumplieron con reincorporar a los trabajadores a través de un acto
-
-       administrativo, pero inmediatamente se expidió una segunda resolución que
-
-       volvió a cesar a dichos servidores públicos, desconociendo así el mandato
-
-       judicial. De esta manera, entidades tales como el Instituto Nacional
-
-       Penitenciario (INPE) con 6 quejas, el Ministerio de Relaciones Exteriores con 2
-
-       quejas, el Ministerio del Interior con 3 quejas y la Municipalidad de Nazca con 1
-
-       queja han utilizado esta modalidad.
-
-       De otro lado, en dos casos contra el Ministerio del Interior, esta entidad
-
-       respondió que estaba pendiente la firma, por parte del Presidente la República,
-
-
-
-                                                                                     18
 de las resoluciones supremas que disponían la reincorporación de dos
-
 miembros de la Policía Nacional, en cumplimiento de los respectivos mandatos
-
 judiciales. Sucede que en uno de los casos, habiéndose presentado la queja el
-
 6 de febrero de 1997, el proyecto de resolución suprema se encontraba en el
-
 despacho presidencial desde febrero de 1996, es decir, desde hace un año
-
 atrás. A la fecha de elaboración del presente informe se estaba a la espera de
-
 información en torno a la expedición de dichas resoluciones. Este tipo de
-
 conductas por parte de los entes estatales, constituyen dilaciones no
-
 razonables en la ejecución de los mandatos judiciales, puesto que no
-
 comprometen mayores costos administrativos para su cumplimiento.
-
 Existen, además, quejas presentadas por una renuencia reiterada al
-
 cumplimiento de las sentencias, como por ejemplo en el caso de la
-
 reincorporación de un considerable grupo de trabajadores despedidos de la
-
 Municipalidad de Lima. La entidad municipal ha regulado el proceso de
-
 reincorporación a través de la Ordenanza N° 117 de 4 de julio de 1997,
-
 mediante la cual se ha establecido que, de no existir una plaza vacante ni
-
 disponibilidad presupuestal, el trabajador deberá solicitar se tramite la
-
 autorización de creación de plaza y la disponibilidad presupuestal respectiva,
-
 manteniéndose entre tanto en la condición de “disponibilidad”.
-
 Frente a estas disposiciones, la Defensoría del Pueblo recordó a la
-
 Municipalidad de Lima que las mismas debían armonizar con el artículo 139°
-
 inciso 2) de la Constitución, que señala que ninguna autoridad puede retardar
-
 la ejecución de resoluciones que han pasado en autoridad de cosa juzgada;
-
 recomendando estudiar otras medidas destinadas a cumplir efectivamente con
-
 los mandatos judiciales.
-
 Otras Municipalidades también se mostraron renuentes a cumplir con ordenar
-
 la reincorporación de trabajadores, como por ejemplo, la Municipalidad del
+19
 
+Rímac, quien no cumplió con una sentencia firme que ordenaba la
+reincorporación de 276 trabajadores; o la Municipalidad de Santiago (Cusco).
 
-                                                                           19
-       Rímac, quien no cumplió con una sentencia firme que ordenaba la
+2.2.
 
-       reincorporación de 276 trabajadores; o la Municipalidad de Santiago (Cusco).
+CONCEPTOS BÁSICOS:
+2.2.1. DERECHO ADMINISTRATIVO:
+En el Contexto universal el Derecho Administrativo, muestra su
+aparición notoria con la Revolución Francesa: 1789, esto no niega que
+la función administrativa es la primera en cualquier organización social,
+de forma tal, que precede a todas las demás funciones entre ellas las
+legislativas y jurisdiccionales. Por ello, el Derecho Administrativo,
+reiteramos, tiene su raíz en el Derecho Constitucional, y allí se ajusta la
+pirámide normativa del ordenamiento jurídico administrativo, que
+garantiza la sumisión del obrar de la Administración Pública al principio
+de
 
-2.2.   CONCEPTOS BÁSICOS:
+legalidad
 
-       2.2.1. DERECHO ADMINISTRATIVO:
+democrática
 
-              En el Contexto universal el Derecho Administrativo, muestra su
+para
 
-              aparición notoria con la Revolución Francesa: 1789, esto no niega que
+el
 
-              la función administrativa es la primera en cualquier organización social,
+Estado
 
-              de forma tal, que precede a todas las demás funciones entre ellas las
+Social
 
-              legislativas y jurisdiccionales. Por ello, el Derecho Administrativo,
+de
 
-              reiteramos, tiene su raíz en el Derecho Constitucional, y allí se ajusta la
+Derecho
 
-              pirámide normativa del ordenamiento jurídico administrativo, que
+(FERNÁNDEZ, 1973).
+El Derecho Administrativo regula un sector de la Actividad estatal y de
+los entes no estatales, se lo ubica como una Rama del Derecho Público
+que proyecta en el plano existencial los principios axiológicos del
+derecho político y los principios normativos y primarios del derecho
+constitucional.
+En conclusión es: El Conjunto de normas positivas y principios de
+derecho público interno para el funcionamiento de los servicios públicos,
+bajo un contralor jurisdiccional (CABRERA & QUINTANA, 2011).
+Es un derecho de organización, porque las leyes administrativas
+determinan la regulación de los órganos administrativos, de acuerdo a
+los lineamientos; es un derecho de relación con los órganos
+administrativos, porque teniendo en cuenta el principio de jerarquía de
+20
 
-              garantiza la sumisión del obrar de la Administración Pública al principio
-
-              de   legalidad    democrática   para   el   Estado   Social   de   Derecho
-
-              (FERNÁNDEZ, 1973).
-
-              El Derecho Administrativo regula un sector de la Actividad estatal y de
-
-              los entes no estatales, se lo ubica como una Rama del Derecho Público
-
-              que proyecta en el plano existencial los principios axiológicos del
-
-              derecho político y los principios normativos y primarios del derecho
-
-              constitucional.
-
-              En conclusión es: El Conjunto de normas positivas y principios de
-
-              derecho público interno para el funcionamiento de los servicios públicos,
-
-              bajo un contralor jurisdiccional (CABRERA & QUINTANA, 2011).
-
-              Es un derecho de organización, porque las leyes administrativas
-
-              determinan la regulación de los órganos administrativos, de acuerdo a
-
-              los lineamientos; es un derecho de relación con los órganos
-
-              administrativos, porque teniendo en cuenta el principio de jerarquía de
-
-
-                                                                                      20
-     normas, hacen posible la regulación, organización y funcionamiento d
-
-     tales órganos; es un derecho de relación con los administrados,
-
-     satisfaciendo de esta manera las exigencias de la colectividad
-
-     (CERVANTES, 2011).
+normas, hacen posible la regulación, organización y funcionamiento d
+tales órganos; es un derecho de relación con los administrados,
+satisfaciendo de esta manera las exigencias de la colectividad
+(CERVANTES, 2011).
 
 2.2.2. CONTENCIOSO ADMINISTRATIVO:
+Etimológicamente contencioso es “contendere”, “cum”, que significa
+“con” y “tendere”, luchar, resistir, lidiar, disputar, cuestionar.
+La doctrina ha formulado severas críticas a esta denominación, diciendo
+que “contencioso” deriva de “contendere” e implica litigio conflicto de
+intereses, en que dos partes acuden a un tercero imparcial para que
+solucione sus diferencias.
+El empleo de la expresión “contencioso administrativo” es errónea, si de
+lo que se pretende hablar es de jurisdicción o de proceso. Ambos
+vocablos indican ya de por sí que se trata de una actividad de
+naturaleza jurisdiccional. Sería también superfluo interponer la palabra
+contencioso entre las de jurisdicción administrativa o proceso
+administrativo. Es así porque a nadie se le ocurriría decir jurisdicción
+contencioso penal. Tampoco cabe hablar, en consecuencia de
+jurisdicción contencioso – administrativa o proceso contencioso
+administrativo.
+La expresión lingüística correcta es proceso administrativo. Pero no
+olvidemos
 
-     Etimológicamente contencioso es “contendere”, “cum”, que significa
+que
 
-     “con” y “tendere”, luchar, resistir, lidiar, disputar, cuestionar.
+la
 
-     La doctrina ha formulado severas críticas a esta denominación, diciendo
+expresión
 
-     que “contencioso” deriva de “contendere” e implica litigio conflicto de
+contencioso-administrativa,
 
-     intereses, en que dos partes acuden a un tercero imparcial para que
+está
 
-     solucione sus diferencias.
+incorporada a nuestra tradición jurídica. No obstante, siempre nos
+referimos al proceso administrativo como el medio por el cual se
+controla jurisdiccionalmente a la administración. (CERVANTES, 2011).
 
-     El empleo de la expresión “contencioso administrativo” es errónea, si de
+21
 
-     lo que se pretende hablar es de jurisdicción o de proceso. Ambos
-
-     vocablos indican ya de por sí que se trata de una actividad de
-
-     naturaleza jurisdiccional. Sería también superfluo interponer la palabra
-
-     contencioso entre las de jurisdicción administrativa o proceso
-
-     administrativo. Es así porque a nadie se le ocurriría decir jurisdicción
-
-     contencioso penal. Tampoco cabe hablar, en consecuencia de
-
-     jurisdicción contencioso – administrativa o proceso contencioso
-
-     administrativo.
-
-     La expresión lingüística correcta es proceso administrativo. Pero no
-
-     olvidemos     que     la   expresión      contencioso-administrativa,   está
-
-     incorporada a nuestra tradición jurídica. No obstante, siempre nos
-
-     referimos al proceso administrativo como el medio por el cual se
-
-     controla jurisdiccionalmente a la administración. (CERVANTES, 2011).
-
-
-
-
-                                                                              21
-     Para Santa María de Paredes, la acción contencioso-administrativa no
-
-     viene a ser sino el reclamo o acción judicial que se interpone agotada la
-
-     vía administrativa, para poner fin a la negación o limitación del derecho
-
-     establecido en favor del demandante por una ley o por una posición
-
-     administrativa.
-
-     Hauriou, en términos más genéricos, la entiende como un conjunto de
-
-     reglas relativas a los litigios que se derivan de la actividad de los
-
-     organismos públicos.
-
-     La Facultad que tiene el ciudadano para reclamar ante el abuso o el
-
-     exceso del poder administrativo, procedimiento especial previsto
-
-     legalmente para trasladar un reclamo administrativo a la vía judicial
-
-     ciñéndose a determinados requisitos y condiciones se denomina
-
-     “contencioso administrativo”. (PATRÓN FAURA & PATRÓN BEDOYA,
-
-     2005).
-
-     Es el reclamo o acción judicial que se interpone agotada la vía
-
-     administrativa, para poner fin a la negociación o limitación del derecho
-
-     establecido en favor del demandante por una ley o por una disposición
-
-     administrativa. En el derecho administrativo no existe cosa juzgada; sino
-
-     cosa decidida o acabada, en tal sentido el contencioso administrativo es
-
-     la facultad que tiene el ciudadano para reclamar ante el abuso o el
-
-     exceso del poder administrativo. (CABRERA & QUINTANA, 2011).
+Para Santa María de Paredes, la acción contencioso-administrativa no
+viene a ser sino el reclamo o acción judicial que se interpone agotada la
+vía administrativa, para poner fin a la negación o limitación del derecho
+establecido en favor del demandante por una ley o por una posición
+administrativa.
+Hauriou, en términos más genéricos, la entiende como un conjunto de
+reglas relativas a los litigios que se derivan de la actividad de los
+organismos públicos.
+La Facultad que tiene el ciudadano para reclamar ante el abuso o el
+exceso del poder administrativo, procedimiento especial previsto
+legalmente para trasladar un reclamo administrativo a la vía judicial
+ciñéndose a determinados requisitos y condiciones se denomina
+“contencioso administrativo”. (PATRÓN FAURA & PATRÓN BEDOYA,
+2005).
+Es el reclamo o acción judicial que se interpone agotada la vía
+administrativa, para poner fin a la negociación o limitación del derecho
+establecido en favor del demandante por una ley o por una disposición
+administrativa. En el derecho administrativo no existe cosa juzgada; sino
+cosa decidida o acabada, en tal sentido el contencioso administrativo es
+la facultad que tiene el ciudadano para reclamar ante el abuso o el
+exceso del poder administrativo. (CABRERA & QUINTANA, 2011).
 
 2.2.3. EJECUCIÓN DE SENTENCIA:
+La ejecución es una expresión del derecho a la tutela jurisdiccional
+efectiva, para lo cual el propio Estado garantiza a los ciudadanos el
+recurso del ius imperium con el propósito de ejecutar las sentencias
+judiciales.
 
-     La ejecución es una expresión del derecho a la tutela jurisdiccional
+22
 
-     efectiva, para lo cual el propio Estado garantiza a los ciudadanos el
+En el caso peruano, el marco constitucional que rodea a la ejecución de
+las sentencias está dado por el inciso 3 del Artículo 139, de la
+Constitución que establece como principio de la función jurisdiccional el
+derecho a la tutela jurisdiccional, pero además por lo dispuesto en el
+inciso 2 del Artículo 139 de la Constitución, norma que establece que
+ninguna autoridad puede modificar las sentencias ni retardar su
+ejecución. Con lo expuesto queda absolutamente evidenciado que el
+derecho a la tutela jurisdiccional efectiva de los ciudadanos se extiende
+a la ejecución de la misma. (PRIORI, 2009)
 
-     recurso del ius imperium con el propósito de ejecutar las sentencias
+2.3.
 
-     judiciales.
+BASES TEÓRICAS:
+2.3.1. TUTELA JURISDICCIONAL EFECTIVA:
+El derecho fundamental a la tutela jurisdiccional efectiva es un derecho
+público y subjetivo por el que toda persona, por el sólo hecho de serlo,
+en tanto sujeto de derechos, está facultada de exigirle al Estado tutela
+jurisdiccional plena, y cuyo contenido básico comprende un “complejo
+de derechos”: derecho de acceso a la justicia, derecho al debido
+proceso, derecho a una resolución fundada en derecho y el derecho a la
+efectividad de las resoluciones judiciales. (OBANDO BLANCO, Victor
+Roberto , 2011)
+El Profesor español Francisco CHAMORRO señala que se infringirá la
+tutela jurisdiccional efectiva en los siguientes casos: a) Se niega u
+obstaculiza gravemente a la persona el acceso a la jurisdicción o al
+proceso en el que pueda plantear su pretensión ante los jueces y
+tribunales; b) se le produce indefensión en el proceso donde se ventila
+esa pretensión; c) no obtiene una razonable y fundada en derecho; d) la
+resolución obtenida no es efectiva puede producirse de múltiples formas
+pero siempre deberá afectar a alguno de los cuatro puntos señalados.
+23
 
-
-                                                                           22
-            En el caso peruano, el marco constitucional que rodea a la ejecución de
-
-            las sentencias está dado por el inciso 3 del Artículo 139, de la
-
-            Constitución que establece como principio de la función jurisdiccional el
-
-            derecho a la tutela jurisdiccional, pero además por lo dispuesto en el
-
-            inciso 2 del Artículo 139 de la Constitución, norma que establece que
-
-            ninguna autoridad puede modificar las sentencias ni retardar su
-
-            ejecución. Con lo expuesto queda absolutamente evidenciado que el
-
-            derecho a la tutela jurisdiccional efectiva de los ciudadanos se extiende
-
-            a la ejecución de la misma. (PRIORI, 2009)
-
-2.3.   BASES TEÓRICAS:
-
-       2.3.1. TUTELA JURISDICCIONAL EFECTIVA:
-
-            El derecho fundamental a la tutela jurisdiccional efectiva es un derecho
-
-            público y subjetivo por el que toda persona, por el sólo hecho de serlo,
-
-            en tanto sujeto de derechos, está facultada de exigirle al Estado tutela
-
-            jurisdiccional plena, y cuyo contenido básico comprende un “complejo
-
-            de derechos”: derecho de acceso a la justicia, derecho al debido
-
-            proceso, derecho a una resolución fundada en derecho y el derecho a la
-
-            efectividad de las resoluciones judiciales. (OBANDO BLANCO, Victor
-
-            Roberto , 2011)
-
-            El Profesor español Francisco CHAMORRO señala que se infringirá la
-
-            tutela jurisdiccional efectiva en los siguientes casos: a) Se niega u
-
-            obstaculiza gravemente a la persona el acceso a la jurisdicción o al
-
-            proceso en el que pueda plantear su pretensión ante los jueces y
-
-            tribunales; b) se le produce indefensión en el proceso donde se ventila
-
-            esa pretensión; c) no obtiene una razonable y fundada en derecho; d) la
-
-            resolución obtenida no es efectiva puede producirse de múltiples formas
-
-            pero siempre deberá afectar a alguno de los cuatro puntos señalados.
-
-                                                                                  23
 Todas las demás infracciones o serán incumplimientos de legalidad
-
 ordinaria o, en su caso serán incumplimientos de otras concretas
-
 garantías procesales, pero no derivadas del derecho a la tutela judicial
-
 efectiva. (CHAMORRO, 1994)
-
 Cómo se ha señalado el derecho a la tutela jurisdiccional efectiva
-
 comprende el derecho a la efectividad de las resoluciones judiciales, el
-
 que busca garantizar que lo decidido por la autoridad jurisdiccional
-
 tenga un alcance práctico y se cumpla, de manera que no se convierta
-
 en una simple declaración de intenciones
-
 El Tribunal Constitucional se ha pronunciado más de una vez en sus
-
 sentencias respeto del derecho a la efectividad de resoluciones
-
 judiciales:
-
 “…El derecho a la efectividad de las resoluciones judiciales garantiza
-
 que los decidido en una sentencia se cumpla, y que la parte que obtuvo
-
 un pronunciamiento de tutela, a través de la sentencia favorable, sea
-
 respuesta en su derecho y compensada, si hubiera lugar a ello, por el
-
 daño sufrido” (STC 0015-2001-AI, y acumulados, Fundamento Jurídico
-
 11). En otra sentencia ha precisado que “El derecho a la ejecución de la
-
 decisión de fondo contenida en una sentencia firme, también supone su
-
 cumplimiento en tiempo oportuno…El plazo razonable no sólo debe
-
 entenderse referido al plazo que existe entre la presentación de una
-
 demanda y la decisión sobre el fondo, sino que resulta indispensable
-
 que dicho concepto se entienda también como una exigencia para
-
 lograr la efectividad del pronunciamiento judicial en un plazo que no
-
 debe exceder lo que la naturaleza del caso y sus naturales
-
 complicaciones de cumplimiento ameriten, sin que en ningún caso su
-
 ejecución se difiera por dilaciones indebidas” (Derecho a la efectividad
+24
 
-
-                                                                     24
 de las resoluciones judiciales y cumplimiento oportuno de los ordenado
-
 en ella , STC 4080-2004-AC, Fundamento Jurídico 19.
-
 “En relación a la tutela jurisdiccional efectiva, debe recordarse: a) que
-
 este derecho comprende, entre otras cosas, el derecho a la efectividad
-
 de las resoluciones judiciales, es decir, que el fallo judicial se cumpla y
-
 que al justiciable vencedor en juicio justo y debido se le restituya su
-
 derecho y se le compense, si hubiere lugar a ello, por el daño sufrido, y
-
 b) que el derecho a la efectividad de las resoluciones judiciales y la
-
 garantía constitucional de que se respete la cosa juzgada exigen no
-
 sólo que quienes hayan resultado vencidos en juicio cumplan todos los
-
 términos señalados en la sentencia firme, sino también impone deberes
-
 al juez y, en particular, a aquellos que están llamados a ejecutar lo
-
 resuelto en una sentencia con calidad de cosa juzgada. En particular, la
-
 responsabilidad de ejecutarlas, para lo cual tienen la obligación de
-
 adoptar todas las medidas necesarias y oportunas destinadas a dar
-
 estricto cumplimiento de la sentencia, las que deberán tomarse sin
-
 alterar su contenido o su sentido”. (Cfr. STC Nº 01334-2002-AA/TC,
-
 fundamento 2).
-
 “Dentro de los derechos que forman parte del genérico derecho a la
-
 tutela procesal efectiva se encuentra el derecho a la ejecución de las
-
 resoluciones judiciales firmes a las que les alcanza además la garantía
-
 político-jurídica de la cosa juzgada. Así una cosa es el derecho a la
-
 ejecución de las sentencias y otra distinta la garantía de la cosa juzgada
-
 que tiene, entre sus consecuencias prácticas: a) la inmutabilidad de las
-
 decisiones judiciales firmes; b) la imposibilidad de revivir procesos ya
-
 decididos por los órganos judiciales; c) la exigencia de cumplimiento de
-
 lo resuelto en forma definitiva; d) la prohibición de que las autoridades
 
+25
 
-                                                                        25
-    judiciales o cualquier poder externo al Poder Judicial pueda interferir o
+judiciales o cualquier poder externo al Poder Judicial pueda interferir o
+retardar la ejecución de lo resuelto de manera definitiva por el poder
+jurisdiccional de los jueces. En tal sentido, el segundo párrafo del inciso
+2) del referido artículo hace referencia también a tal derecho al
+establecer como ya ha quedado precisado, la prohibición de que los
+poderes públicos puedan, “(…) dejar sin efecto resoluciones que han
+pasado en autoridad de cosa juzgada (...) ni retardar su ejecución.”
+Por su parte el Código Procesal Constitucional también consagra el
+derecho
 
-    retardar la ejecución de lo resuelto de manera definitiva por el poder
+a
 
-    jurisdiccional de los jueces. En tal sentido, el segundo párrafo del inciso
+la
 
-    2) del referido artículo hace referencia también a tal derecho al
+ejecución
 
-    establecer como ya ha quedado precisado, la prohibición de que los
+de
 
-    poderes públicos puedan, “(…) dejar sin efecto resoluciones que han
+las
 
-    pasado en autoridad de cosa juzgada (...) ni retardar su ejecución.”
+resoluciones
 
-    Por su parte el Código Procesal Constitucional también consagra el
+judiciales
 
-    derecho    a   la   ejecución   de   las     resoluciones   judiciales   como
+como
 
-    manifestación del derecho a la tutela procesal efectiva cuando en el
+manifestación del derecho a la tutela procesal efectiva cuando en el
+tercer párrafo de su artículo 4° prescribe que “se entiende por tutela
+procesal efectiva aquella situación jurídica de una persona en la que se
+respeten, de modo enunciativo sus derechos a la actuación adecuada y
+temporalmente
 
-    tercer párrafo de su artículo 4° prescribe que “se entiende por tutela
+oportuna
 
-    procesal efectiva aquella situación jurídica de una persona en la que se
+de
 
-    respeten, de modo enunciativo sus derechos a la actuación adecuada y
+las
 
-    temporalmente       oportuna    de   las     resoluciones   judiciales   (...)”.
+resoluciones
 
-    Fundamento 15 de la STC N° 579-2008-PA/TC.
+judiciales
+
+(...)”.
+
+Fundamento 15 de la STC N° 579-2008-PA/TC.
 
 2.3.2. El PROCESO CONTENCIOSO ADMINISTRATIVO EN LA
+CONSTITUCIÓN:
+En el Derecho comparado existen dos grandes sistemas para el control
+jurisdiccional de la administración pública: El primer sistema considera
+necesaria la creación de un ente especializado distinto al Poder Judicial
+y el segundo, un sistema que cree una jurisdicción especializada
+dedicada al control jurisdiccional de la administración, la cual forme
+parte de la estructura del Poder Judicial.
+Nuestro ordenamiento jurídico ha optado por el segundo sistema, por
+cuanto el artículo 148 de la Constitución Política del Perú consagra el
+proceso contencioso administrativo dentro del capítulo dedicado al
+Poder Judicial, creándose juzgados y salas especializadas en lo
+26
 
-    CONSTITUCIÓN:
-
-    En el Derecho comparado existen dos grandes sistemas para el control
-
-    jurisdiccional de la administración pública: El primer sistema considera
-
-    necesaria la creación de un ente especializado distinto al Poder Judicial
-
-    y el segundo, un sistema que cree una jurisdicción especializada
-
-    dedicada al control jurisdiccional de la administración, la cual forme
-
-    parte de la estructura del Poder Judicial.
-
-    Nuestro ordenamiento jurídico ha optado por el segundo sistema, por
-
-    cuanto el artículo 148 de la Constitución Política del Perú consagra el
-
-    proceso contencioso administrativo dentro del capítulo dedicado al
-
-    Poder Judicial, creándose juzgados y salas especializadas en lo
-
-                                                                                26
 contencioso administrativo. Las reglas-normas y los principios-normas
-
 propios del derecho administrativo y del derecho público en general, son
-
 diferentes a las normas del Derecho Privado, lo cual no es una tarea
-
 fácil de acertar en su interpretación y aplicación por parte de los
-
 involucrados en el sistema judicial quienes carecen de especialización
-
 en las mencionadas ramas del derecho.
 
 EFECTOS:
-
-
 Para Jorge Danos Ordoñez la consagración constitucional del proceso
-
 contencioso administrativo tiene dos efectos:
+
 
-      El proceso contencioso administrativo no está concebido
+El proceso contencioso administrativo no está concebido
+exclusivamente como un "proceso al acto", que restringe las
+potestades de los jueces a solo determinar la validez o no del
+acto impugnado, como si se tratase de una segunda instancia
+simplemente revisora del procedimiento tramitado en sede
+administrativa, porque en concordancia con el derecho a la tutela
+jurisdiccional consagrado por el numeral 3) del artículo 139 de la
+Constitución y los tratados internacionales de los que el Perú es
+parte, lo correcto es que el contencioso administrativo se
+configure como un proceso que tiene por objeto no solo la
+declaración
 
-       exclusivamente como un "proceso al acto", que restringe las
+judicial
 
-       potestades de los jueces a solo determinar la validez o no del
+de
 
-       acto impugnado, como si se tratase de una segunda instancia
+invalidez
 
-       simplemente revisora del procedimiento tramitado en sede
+de
 
-       administrativa, porque en concordancia con el derecho a la tutela
+las
 
-       jurisdiccional consagrado por el numeral 3) del artículo 139 de la
+actuaciones
 
-       Constitución y los tratados internacionales de los que el Perú es
+administrativas contrarias al ordenamiento jurídico, sino también
+el restablecimiento para el particular de las situaciones
+ilegítimamente perturbadas por la administración pública, por lo
+que el verdadero objeto del proceso es lo que el demandante
+pretende ante los tribunales ("la pretensión''), y el papel del acto
+administrativo impugnable (las denominadas "resoluciones'') se
 
-       parte, lo correcto es que el contencioso administrativo se
+27
 
-       configure como un proceso que tiene por objeto no solo la
+reduce a un mero presupuesto de procedibilidad, no pudiendo
+condicionar este último el alcance de las potestades judiciales.
+
 
-       declaración    judicial   de   invalidez   de    las   actuaciones
-
-       administrativas contrarias al ordenamiento jurídico, sino también
-
-       el restablecimiento para el particular de las situaciones
-
-       ilegítimamente perturbadas por la administración pública, por lo
-
-       que el verdadero objeto del proceso es lo que el demandante
-
-       pretende ante los tribunales ("la pretensión''), y el papel del acto
-
-       administrativo impugnable (las denominadas "resoluciones'') se
-
-
-
-                                                                        27
-       reduce a un mero presupuesto de procedibilidad, no pudiendo
-
-       condicionar este último el alcance de las potestades judiciales.
-
-      El control a través del proceso contencioso administrativo debe
-
-       implicar la plena justiciabilidad del universo de las actuaciones
-
-       de la administración pública, y no solo de los actos
-
-       administrativos expresos, por lo cual debe incluir a la inercia o el
-
-       comportamiento omisivo de la administración cuando constituya
-
-       violación de un deber legal, y las meras actuaciones materiales o
-
-       actividades de ejecución de las entidades administrativas sin
-
-       estar precedidas de un acto administrativo que le sirva de
-
-       cobertura.
+El control a través del proceso contencioso administrativo debe
+implicar la plena justiciabilidad del universo de las actuaciones
+de la administración pública, y no solo de los actos
+administrativos expresos, por lo cual debe incluir a la inercia o el
+comportamiento omisivo de la administración cuando constituya
+violación de un deber legal, y las meras actuaciones materiales o
+actividades de ejecución de las entidades administrativas sin
+estar precedidas de un acto administrativo que le sirva de
+cobertura.
 
 OBJETIVOS:
+La consagración a nivel constitucional del
 
-
-La consagración a nivel constitucional del              proceso contencioso
+proceso contencioso
 
 administrativo cumple los siguientes objetivos:
+
 
-      Garantiza el equilibrio entre los poderes del Estado, porque
+Garantiza el equilibrio entre los poderes del Estado, porque
+lo decidido por las entidades y órganos que conforman la
+administración pública, o que ejercen funciones administrativas,
+pueda ser revisado a pedido de los interesados por otro poder
+distinto y autónomo como lo es el Poder Judicial;
 
-       lo decidido por las entidades y órganos que conforman la
+
 
-       administración pública, o que ejercen funciones administrativas,
+Refuerza el principio de legalidad, que fundamenta a la
+administración pública; porque, permite que el Poder Judicial
+verifique
 
-       pueda ser revisado a pedido de los interesados por otro poder
+la
 
-       distinto y autónomo como lo es el Poder Judicial;
+legalidad
 
-      Refuerza el principio de legalidad, que fundamenta a la
+de
 
-       administración pública; porque, permite que el Poder Judicial
+las
 
-       verifique    la   legalidad   de    las   actuaciones   administrativas
+actuaciones
 
-       impugnadas.
+administrativas
 
-      Consagra el derecho sujetivo de los particulares, porque al
+impugnadas.
+
 
-       poder   cuestionar     ante    el   Poder    Judicial   las   decisiones
+Consagra el derecho sujetivo de los particulares, porque al
+poder
 
+cuestionar
 
+ante
 
+el
 
-                                                                            28
-       administrativas, se constituye un verdadero derecho a la tutela
+Poder
 
-       judicial efectiva.
+Judicial
 
-      Proclama la universalidad de control, porque al consagrarse el
+las
 
-       proceso contencioso administrativo se impide que el legislador
+decisiones
 
-       pueda aprobar normas que excluyan determinadas actuaciones
+28
 
-       administrativas, declarándolas exentas o inmunes a un eventual
+administrativas, se constituye un verdadero derecho a la tutela
+judicial efectiva.
+
 
-       control jurisdiccional.
+Proclama la universalidad de control, porque al consagrarse el
+proceso contencioso administrativo se impide que el legislador
+pueda aprobar normas que excluyan determinadas actuaciones
+administrativas, declarándolas exentas o inmunes a un eventual
+control jurisdiccional.
 
 La Constitución Política en su artículo 148 señala que: “Las
-
 resoluciones administrativas que causan estado son susceptibles de
-
 impugnación mediante la acción contencioso-administrativa”.
-
 De acuerdo con éste artículo los actos administrativos para ser
-
 cuestionados ante el Poder Judicial deben causar estado, es decir,
-
 agotar la vía administrativa, que no exista la posibilidad de interponer
-
 ningún recurso administrativo, debiendo entenderse que ello ocurre
-
 cuando el funcionario de más alto nivel jerárquico ha decidido de
-
 manera definitiva sobre el acto impugnado, por lo que únicamente
-
 queda recurrir su pronunciamiento ante el Poder Judicial.
-
 La Ley Contencioso administrativo en concordancia con el artículo 148
-
 de la Constitución, diseña al proceso contencioso administrativo de
-
 plena jurisdicción, o como la doctrina administrativa le denomina "de
-
 carácter subjetivo", de modo que el juez no se puede limitar a efectuar
-
 un mero control de la validez de los actos administrativos, sino que tiene
-
 encomendada la protección y la satisfacción de los derechos e intereses
-
 de los demandantes afectados por actuaciones administrativas.
-
 Conforme los artículos 5 y 38 de la ley del Proceso Contencioso
-
 Administrativo las pretensiones que pueden formular los demandantes
 
+29
 
-
-                                                                       29
 en el proceso puede ser: que se declare la nulidad, total o parcial, o la
-
 ineficacia del acto administrativo cuestionado, el reconocimiento o
-
 restablecimiento del derecho o interés jurídicamente tutelado y la
-
 adopción de las medidas o actos necesarios para tales fines. La
-
 declaración de contrario a derecho y el cese de toda actuación material
-
 que no se sustente en un acto administrativo y que se ordene a la
-
 administración pública la realización de una determinada actuación a la
-
 que se encuentre obligada por mandato de la ley o en virtud de acto
-
 administrativo
-
 La citada ley a la vez que proclama la universalidad del control
+jurisdiccional
 
-jurisdiccional   de   toda actuación   administrativa   en   ejercicio   de
+de
+
+toda actuación
+
+administrativa
+
+en
+
+ejercicio
+
+de
 
 potestades reguladas por el derecho administrativo en virtud de lo
-
 establecido por el artículo 148 de la Constitución establece con fines
-
 meramente ilustrativos una relación de actuaciones impugnables que
-
 comprende obviamente en primer lugar a los actos administrativos, al
-
 silencio, la inercia o cualquier otra omisión formal de la administración
-
 pública, a la simple actuación material de la administración sin cobertura
-
 formal, a las actividades de ejecución de actos administrativos que
-
 transgredan el marco legal, a las actuaciones sobre el personal
-
 dependiente de la administración pública ya sea bajo el régimen de la
-
 carrera administrativa o el régimen laboral privado y a las controversias
-
 sobre la ejecución de los contratos suscritos por la administración
-
 pública cuando no sea obligatorio el sometimiento a la vía arbitral, como
-
 es el caso de casi todos los contratos administrativos suscritos al
-
 amparo de la Ley de Contrataciones y Adquisiciones (DANOS, 2005).
-
 En cuanto a los órganos jurisdiccionales encargados de resolver el
-
 proceso contencioso administrativo, la ley consagra la creación de
 
+30
 
-                                                                         30
 jueces de primera instancia y de salas de la Corte Superior
-
 especializados en lo contencioso administrativo, lo cual garantizará
-
 mayor efectividad en las técnicas de control jurisdiccional de la
-
 administración pública. Se establece que el proceso deberá iniciarse en
-
 la mayor parte de casos ante el juez especializado en la materia y sus
-
 resoluciones pueden apelarse ante la respectiva sala especializada de
-
 la Corte Superior. La Corte Suprema cumple un rol exclusivamente
-
 casatorio Mediante la Ley N° 27709 se ha modificado el texto del
-
 artículo 9 para establecer que respecto de actuaciones realizadas por
+algunos
 
-algunos   tribunales   administrativos   y   determinados     organismos
+tribunales
+
+administrativos
+
+y
+
+determinados
+
+organismos
 
 constitucionales el proceso se inicia por excepción ante la sala
-
 especializada de la respectiva Corte Superior, cuya resolución puede
-
 apelarse ante la Corte Suprema, la cual curiosamente resuelve también
-
 en vías de casación.
-
 Asimismo se establece que el contencioso administrativo es el cauce
-
 procesal para aquellos supuestos excepcionales en que las leyes
-
 administrativas facultan a la administración pública para demandar ante
-
 el Poder Judicial la declaración de nulidad de sus propios actos
-
 administrativos declarativos de derechos a favor de un particular,
-
 cuando se ha vencido el plazo para declarar su nulidad de oficio en
-
 sede administrativa.
-
 La ley exige que la administración pública, para hacer uso de la citada
-
 facultad de interponer demanda contenciosa administrativa contra sus
-
 propios actos, emita previamente una resolución motivada en la que se
-
 identifique el vicio de legalidad en que incurre el acto administrativo en
-
 cuestión y el agravio que produce al interés público En tal caso tendrá la
-
 calidad de demandado el particular que podría ser perjudicado por la
 
+31
 
-                                                                       31
 eventual declaración judicial de nulidad del acto administrativo que le
-
 reconoce derechos.
-
 La ley establece el plazo de tres meses como regla general para
-
 interponer la demanda. En los procedimientos administrativos en que
-
 media silencio administrativo u otras formas de inactividad formal de la
-
 administración pública, el plazo que tiene el interesado para formular la
-
 demanda es de seis meses, contados a partir de la fecha en que vence
-
 el plazo establecido para que la administración se pronuncie
-
 Respecto del requisito del agotamiento de la vía administrativa impuesto
-
 por la Constitución para la procedencia del proceso contencioso
-
 administrativo, su cumplimiento debe atenerse a lo preceptuado por el
-
 artículo 218 de la Ley del Procedimiento Administrativo General N°
-
 27444, pero en caso de duda razonable sobre la procedencia de la
-
 demanda o falta de precisión del marco legal respecto del agotamiento
-
 de la vía, los respectivos órganos jurisdiccionales deben guiarse por el
-
 principio de favorecimiento del proceso.
-
 En cuanto al cauce procesal, la regla general es que el proceso
-
 contencioso administrativo se trámite por la vía del proceso abreviado y
-
 que sea de aplicación supletoria el Código Procesal Civil (artículo 25 y
-
 Primera Disposición Final).Únicamente cuando se formule como
-
 pretensión que el juez ordene a la administración pública el cese de
-
 cualquier actuación material que no se sustente en un acto
-
 administrativo previo o que enmiende su inercia cuando está obligada
-
 realizar una actuación, se tramita por la vía del proceso sumarísimo.
-
 Aunque pareciera que la ley, a contracorriente de las modernas
-
 tendencias en la materia, restringe la actividad probatoria en el
-
 contencioso administrativo exclusivamente a las actuaciones realizadas
+32
 
-                                                                        32
 en el procedimiento administrativo, por la vía de prohibir la incorporación
-
 al proceso la probanza de hechos nuevos o no alegados en la etapa
-
 prejudicial, los demás dispositivos que regulan el régimen de los medios
-
 probatorios en la ley no responden a dicha óptica, porque han sido
-
 reproducidos textualmente del proyecto original que se basaba en una
-
 premisa diametralmente distinta que proclamaba el carácter amplio y
-
 abierto de la actividad probatoria en el proceso contencioso
-
 administrativo.
-
 La ley establece de manera expresa que en los casos en que la
-
 actuación administrativa impugnada sea una sanción administrativa, en
-
 virtud del principio constitucional de presunción de inocencia, la carga
-
 de probar los hechos que configuran la infracción corresponde a la
-
 entidad administrativa demandada.
-
 En consonancia con los principios constitucionales del debido proceso y
-
 la tutela jurisdiccional, las medidas cautelares son admitidas con
-
 amplitud en la Ley del Proceso Contencioso Administrativo, pueden
-
 solicitarse antes de iniciado o dentro del proceso, de conformidad con
-
 las normas del Código Procesal Civil. Se establece que son
-
 especialmente procedentes las medidas de innovar y de no innovar.
-
 Aparte de los requisitos típicos que se requiere para su otorgamiento
-
 (peligro en la demora y verosimilitud del derecho) se exige
-
 adicionalmente que exista adecuación entre la medida cautelar
-
 solicitada con la pretensión que está llamada a asegurar.
-
 La Ley del Proceso Contencioso Administrativo fortalece las potestades
-
 de los jueces para velar porque los funcionarios de la administración
-
 pública cumplan las sentencias recaídas en los procesos contenciosos
-
 administrativos.
+33
 
+Sin embargo, en cuanto a la ejecución de sentencias que condenen al
+Estado a pagar sumas de dinero, mediante la Ley N° 27684 se ha
+sustituido el texto del artículo 42 de la Ley del Proceso Contencioso
+Administrativo introduciendo reglas que relajan el cumplimiento o
+ejecución de las citadas sentencias por parte de la administración
+pública, mediante el establecimiento de topes presupuestales, de plazos
+dilatados para cumplir y estableciendo otras normas que como lo ha
+señalado el Tribunal Constitucional hasta en tres sentencias son
+incompatibles con los derechos a la tutela judicial efectiva y a la
+igualdad.
 
-                                                                        33
-     Sin embargo, en cuanto a la ejecución de sentencias que condenen al
+2.3.3. PRINCIPIOS
 
-     Estado a pagar sumas de dinero, mediante la Ley N° 27684 se ha
+DEL
 
-     sustituido el texto del artículo 42 de la Ley del Proceso Contencioso
+PROCESO
 
-     Administrativo introduciendo reglas que relajan el cumplimiento o
+CONTENCIOSO
 
-     ejecución de las citadas sentencias por parte de la administración
+ADMINISTRATIVO
+El Artículo 2 de la Ley N° 27584, Ley que regula el Proceso Contencioso
+Administrativo; señala:
+El proceso contencioso administrativo se rige por los principios que se
+enumeran a continuación y por los del derecho procesal, sin perjuicio de
+la aplicación supletoria de los principios del derecho procesal civil en los
+casos en que sea compatible:
 
-     pública, mediante el establecimiento de topes presupuestales, de plazos
+PRINCIPIO DE INTEGRACIÓN:
+Los jueces no deben dejar de resolver el conflicto de intereses o la
+incertidumbre con relevancia jurídica por defecto o deficiencia de la ley.
+En tales casos deberán aplicar los principios del derecho administrativo.
+Es un desarrollo del principio contenido en el artículo 139°, inciso 8 de la
+Constitución, según el cual es un principio y derecho de la función
+jurisdiccional el no dejar de administrar justicia por vacío o deficiencia
 
-     dilatados para cumplir y estableciendo otras normas que como lo ha
+34
 
-     señalado el Tribunal Constitucional hasta en tres sentencias son
-
-     incompatibles con los derechos a la tutela judicial efectiva y a la
-
-     igualdad.
-
-2.3.3. PRINCIPIOS          DEL          PROCESO              CONTENCIOSO
-
-     ADMINISTRATIVO
-
-     El Artículo 2 de la Ley N° 27584, Ley que regula el Proceso Contencioso
-
-     Administrativo; señala:
-
-     El proceso contencioso administrativo se rige por los principios que se
-
-     enumeran a continuación y por los del derecho procesal, sin perjuicio de
-
-     la aplicación supletoria de los principios del derecho procesal civil en los
-
-     casos en que sea compatible:
-
-     PRINCIPIO DE INTEGRACIÓN:
-
-
-     Los jueces no deben dejar de resolver el conflicto de intereses o la
-
-     incertidumbre con relevancia jurídica por defecto o deficiencia de la ley.
-
-     En tales casos deberán aplicar los principios del derecho administrativo.
-
-     Es un desarrollo del principio contenido en el artículo 139°, inciso 8 de la
-
-     Constitución, según el cual es un principio y derecho de la función
-
-     jurisdiccional el no dejar de administrar justicia por vacío o deficiencia
-
-
-
-                                                                              34
 de la ley. En tal caso, deben aplicarse los principios generales del
-
 derecho y el derecho consuetudinario (CABRERA & QUINTANA, 2011).
-
 Es una derivación de la obligación que tiene el órgano jurisdiccional de
-
 pronunciarse sobre el fondo de la controversia aún en aquellos casos en
-
 los cuales no exista norma jurídica aplicable al conflicto de intereses
-
 propuesto ante el órgano jurisdiccional (PRIORI, 2009)
-
 Y como es de suponerse en los conflictos de naturaleza administrativa ,
-
 ante ausencia de normas se deberá recurrir a los principios del derecho
-
 administrativo, que se encuentran establecidos en el Artículo IV del T.P.
-
 de la Ley del Procedimiento Administrativo General los cuales son:
+Legalidad,
 
-Legalidad,    del   debido    procedimiento,    impulso    de   oficio,   de
+del
+
+debido
+
+procedimiento,
+
+impulso
+
+de
+
+oficio,
+
+de
 
 razonabilidad, de imparcialidad, de informalismo, de presunción de
-
 veracidad, de conducta procedimental, de celeridad, de eficacia, de
-
 verdad material, de participación, de simplicidad de uniformidad, de
-
 predictibilidad, de privilegio de controles posteriores.
 
 PRINCIPIO DE IGUALDAD PROCESAL:
-
-
 Las partes en el proceso contencioso administrativo deberán ser
-
 tratadas con igualdad, independientemente de su condición de entidad
-
 pública o administrativo.
-
 El proceso debe ser el instrumento que equipare a las partes, un
-
 instrumento “igualador”; y ello no se logra concibiendo a las dos partes
-
 del mismo como exactamente iguales, sino procurando en el proceso
-
 que las partes que en realidad no son iguales, lo sean. Es por ello que
-
 las normas que regulan el proceso contencioso administrativo son
-
 normas que deben ser interpretadas siempre de maneras más favorable
-
 al administrado, pues con dicho criterio interpretativo se logra de alguna
 
+35
 
-                                                                          35
 manera equiparar a las partes debido a la real situación en la que se
-
 encuentran en la situación de conflicto (PRIORI, 2009).
-
 En por ello que éste principio es importante; ya que, la desigualdad
-
 inicial entre las partes, debe ser cambiada en el proceso judicial, por lo
-
 que debe favorecerse al administrado y de ésta manera poner fin a los
-
 privilegios procesales establecidos en la Séptima Disposición Final del
-
 Código Procesal Civil.
 
 PRINCIPIO DE FAVORECIMIENTO DEL PROCESO:
-
-
 El juez no podría rechazar liminarmente la demanda en aquellos casos
-
 en los que por la falta de precisión del marco legal exista incertidumbre
-
 respecto del agotamiento de la vía previa.
-
 Asimismo, en caso de que el Juez tenga cualquier otra duda razonable
-
 sobre la procedencia o no de la demanda, deberá preferir darle trámite a
-
 la misma.
-
 Por este principio se busca privilegiar el derecho constitucional de
-
 acceso a la justicia el cual es una manifestación del derecho a la tutela
-
 jurisdiccional efectiva.
-
 Cuando el juez realiza le juicio de procedencia inicial de la demanda,
-
 debe, siempre que tenga duda entre darle trámite o no a la demanda,
-
 optar por darle trámite; lo que se manifiesta especialmente en aquellos
-
 casos en los que no se pueda establecer con precisión desde el inicio
-
 del proceso el cumplimiento de algunos requisitos de procedencia,
-
 como el agotamiento de la vía administrativa (PRIORI, 2009).
 
 PRINCIPIO DE SUPLENCIA DE OFICIO:
 
+36
 
-
-
-                                                                       36
-    El juez deberá suplir las deficiencias formales en las que se incurran las
-
-    partes, sin perjuicio de disponer la subsanación de las mismas en un
-
-    plazo razonable en los casos en que no sea posible la suplencia de
-
-    oficio
-
-    El juez deberá suplir las deficiencias formales en las que incurran las
-
-    partes, sin perjuicio de disponer la subsanación, en plazo razonable. La
-
-    ley ha señalado “un plazo razonable”, que sugerimos que sea un plazo
-
-    no mayor de cinco días (CABRERA & QUINTANA, 2011).
-
-    El principio de la suplencia de oficio permite que el Juez pueda, de
-
-    oficio, corregir, en la medida que éste a su alcance, cualquier defecto
-
-    procesal que advierta en el proceso, sin tener que esperar que lo haga
-
-    de parte. Dicho principio tiene dos fundamentos: el primero es la
-
-    concepción del juez como director del proceso y el segundo el derecho
-
-    a la tutela jurisdiccional efectiva. De esta forma, con la finalidad de
-
-    evitar que el proceso concluya o se dilate por una deficiencia formal se
-
-    establece como deber del juez que supla cualquier deficiencia en la que
-
-    puedan haber incurrido las partes, con lo cual el juez debe asumir un rol
-
-    mucho más activo dentro del proceso, y en particular, un compromiso
-
-    para velar que el proceso cumpla con su finalidad procurando que éste
-
-    no se vea entorpecido por cualquier deficiencia de tipo formal. Es por
-
-    ello que el juez deberá suplir las deficiencias salvo, claro está que dicha
-
-    deficiencia sea subsanable, se deberá conceder un plazo a las partes
-
-    para la subsanación (PRIORI, 2009).
+El juez deberá suplir las deficiencias formales en las que se incurran las
+partes, sin perjuicio de disponer la subsanación de las mismas en un
+plazo razonable en los casos en que no sea posible la suplencia de
+oficio
+El juez deberá suplir las deficiencias formales en las que incurran las
+partes, sin perjuicio de disponer la subsanación, en plazo razonable. La
+ley ha señalado “un plazo razonable”, que sugerimos que sea un plazo
+no mayor de cinco días (CABRERA & QUINTANA, 2011).
+El principio de la suplencia de oficio permite que el Juez pueda, de
+oficio, corregir, en la medida que éste a su alcance, cualquier defecto
+procesal que advierta en el proceso, sin tener que esperar que lo haga
+de parte. Dicho principio tiene dos fundamentos: el primero es la
+concepción del juez como director del proceso y el segundo el derecho
+a la tutela jurisdiccional efectiva. De esta forma, con la finalidad de
+evitar que el proceso concluya o se dilate por una deficiencia formal se
+establece como deber del juez que supla cualquier deficiencia en la que
+puedan haber incurrido las partes, con lo cual el juez debe asumir un rol
+mucho más activo dentro del proceso, y en particular, un compromiso
+para velar que el proceso cumpla con su finalidad procurando que éste
+no se vea entorpecido por cualquier deficiencia de tipo formal. Es por
+ello que el juez deberá suplir las deficiencias salvo, claro está que dicha
+deficiencia sea subsanable, se deberá conceder un plazo a las partes
+para la subsanación (PRIORI, 2009).
 
 2.3.4. SOBRE LA PRETENSIÓN DE REINCORPORACIÓN DEL
+TRABAJADOR
+Existen dos clases de proceso contencioso administrativo, el trámite
+especial y el trámite urgente, es en vía de proceso contencioso
+37
 
-    TRABAJADOR
-
-    Existen dos clases de proceso contencioso administrativo, el trámite
-
-    especial y el trámite urgente, es en vía de proceso contencioso
-
-                                                                            37
 administrativo especial donde mayormente se tramita la reincorporación
-
 de trabajadores sujetos a la legislación laboral pública, nulidades de
-
 resoluciones administrativas, mientras que en la vía de proceso
-
 contencioso administrativo urgente se tramita los cumplimientos de
-
 resoluciones administrativas firmes y de normas legales.
-
 Lo que nos interesa en esta oportunidad es la reincoporación del
-
 trabajador en las Instituciones Públicas el mismo que debe estar regido
-
 por el Decreto Legislativo 276, “Ley de Bases de la carrera y de las
-
 Remuneraciones del Sector Público” y su reglamento Decreto Supremo
-
 Nº 005-90-PCM.
-
 El mismo que se encuentra amparado en el Artículo 27 de la
-
 Constitución “La Ley otorga al trabajador adecuada protección frente al
-
 despido arbitrario”, es decir que por un lado la adecuada protección
-
 puede ser de manera preventiva del despido o reparadora en cuanto a
-
 la indemnización o restitución del mismo.
-
 Los trabajadores que son repuestos a su cargo u otro de similar
-
 ategoría remunerativa por mandato judicial, a pesar de haber seguido
-
 un proceso judicial de por lo menos dos o tres años, se ven gravemente
-
 afectados por la tardía ejecución de la sentencia, debido a que, en la
-
 mayoría de los casos dicha labor que venían desempeñando en la
-
 institución pública era el único sustento económico para él y su familia;
-
-pues la Jurisprudencia Constitucional recaída en la STC. Nº 3218-2004-
-
-AA (Caso Rivas Jara) ha considerado el carácter alimentario de las
-
+pues la Jurisprudencia Constitucional recaída en la STC. Nº 3218-2004AA (Caso Rivas Jara) ha considerado el carácter alimentario de las
 remuneraciones, en su fundamento 4 “Como se observa, el criterio del
-
 tribunal está orientado hacia la protección de los derechos del
-
 trabajador, incluida su remuneración, en tanto éstos se sustentan en la
-
 defensa de la persona humana y el respeto de su dignidad que
+38
 
+constituyen los pilares básicos sobre los cuales se estructura la
+sociedad y el Estado.
 
-                                                                      38
-      constituyen los pilares básicos sobre los cuales se estructura la
+2.3.5. LA
 
-      sociedad y el Estado.
+SENTENCIA
 
-2.3.5. LA   SENTENCIA         EN     EL     PROCESO         CONTENCIOSO
+EN
 
-      ADMINISTRATIVO
+EL
 
-      LA SENTENCIA:
+PROCESO
 
+CONTENCIOSO
 
-      Es aquella Resolución que pone fin al proceso,       por la que el Juez
+Es aquella Resolución que pone fin al proceso,
 
-      plasma una decisión en mérito de su análisis razonado de la
+por la que el Juez
 
-      controversia y/o incertidumbre jurídica; así como, de los fundamentos
+ADMINISTRATIVO
+LA SENTENCIA:
 
-      jurídicos, logrando administrar justicia. Dicha Resolución debidamente
+plasma una decisión en mérito de su análisis razonado de la
+controversia y/o incertidumbre jurídica; así como, de los fundamentos
+jurídicos, logrando administrar justicia. Dicha Resolución debidamente
+fundamentada constituye un mandato, el que tiene fuerza impositiva;
+puesto que es de obligatorio cumplimiento para las partes.
+El Proceso Contencioso Administrativo establece dos tipos de
+procedimientos los cuales son: El Proceso Urgente y el Proceso
+Especial; en el primero la sentencia se expide en el lapso de cinco días
+de vencido el plazo de tres días para absolver el traslado de la demanda
+y el segundo la sentencia se expedirá en el plazo de quince días,
+contados desde la vista de la causa, debiéndose destacar que si no se
+hubiere solicitado informe oral ante el Juez de la causa, dicho plazo se
+computará desde la notificación a las partes del dictamen fiscal o de la
+devolución del expediente por el Ministro Público.
 
-      fundamentada constituye un mandato, el que tiene fuerza impositiva;
+LA
 
-      puesto que es de obligatorio cumplimiento para las partes.
+SENTENCIA
 
-      El Proceso Contencioso Administrativo establece dos tipos de
+ESTIMATORIA
 
-      procedimientos los cuales son: El Proceso Urgente y el Proceso
+EN
 
-      Especial; en el primero la sentencia se expide en el lapso de cinco días
+EL
 
-      de vencido el plazo de tres días para absolver el traslado de la demanda
+PROCESO
 
-      y el segundo la sentencia se expedirá en el plazo de quince días,
+CONTENCIOSO ADMINISTRATIVO
+La sentencia estimatoria, es aquella que admite al menos parcialmente,
+la petición del demandante o la reconvención del demandado. Además,
 
-      contados desde la vista de la causa, debiéndose destacar que si no se
+39
 
-      hubiere solicitado informe oral ante el Juez de la causa, dicho plazo se
-
-      computará desde la notificación a las partes del dictamen fiscal o de la
-
-      devolución del expediente por el Ministro Público.
-
-      LA     SENTENCIA         ESTIMATORIA          EN     EL      PROCESO
-
-      CONTENCIOSO ADMINISTRATIVO
-
-
-      La sentencia estimatoria, es aquella que admite al menos parcialmente,
-
-      la petición del demandante o la reconvención del demandado. Además,
-
-
-
-
-                                                                           39
 según la acción, la sentencia puede ser: condenatoria, constitutiva o
-
 declarativa.
-
 La misma que se encuentra establecida el Artículo 41 del Decreto
-
 Supremo Nro. 013-2008-JUS, que señala la congruencia que debe
-
 existir entre lo pretendido y lo resuelto en la Sentencia:
-
 Artículo 41. Sentencias Estimatorias:
+La
 
-La      sentencia que declare fundada la demanda (contenciosa
+sentencia que declare fundada la demanda (contenciosa
 
 administrativa) podrá decidir en función de la pretensión planteada lo
-
 siguiente:
-
 1. La nulidad, total o parcial, o ineficacia del acto administrativo
-
-     impugnado, de acuerdo a lo demandado. Debiendo de precisar de
-
-     ser parcial en que extremo el acto administrativo es nulo.
-
+impugnado, de acuerdo a lo demandado. Debiendo de precisar de
+ser parcial en que extremo el acto administrativo es nulo.
 2. El restablecimiento o reconocimiento de una situación jurídica
+individualizada y la adopción de cuantas medidas sean necesarias
+para el restablecimiento o reconocimiento de la situación jurídica
+lesionada, aun cuando no hayan sido pretendidas en la demanda.
+En casos de trabajadores públicos cuando se establece mediante
+sentencia,
 
-     individualizada y la adopción de cuantas medidas sean necesarias
+la
 
-     para el restablecimiento o reconocimiento de la situación jurídica
+relación
 
-     lesionada, aun cuando no hayan sido pretendidas en la demanda.
+de
 
-     En casos de trabajadores públicos cuando se establece mediante
+subordinación,
 
-     sentencia,   la   relación   de    subordinación,       dependencia   y
+dependencia
 
-     permanencia, que revelan la existencia de una relación laboral
+y
 
-     pública y además que fueron despedidos sin mediar procedimiento;
+permanencia, que revelan la existencia de una relación laboral
+pública y además que fueron despedidos sin mediar procedimiento;
+no será tuitivo, el sólo reconocimiento de la “Situación Jurídica
+irregular”, sino que en estos casos, también se hace necesaria la
+adopción de una medida para restablecer la situación jurídica
+lesionada como ordenar su reincorporación en caso que lo hayan
+solicitado (Monzón, 2011).
 
-     no será tuitivo, el sólo reconocimiento de la “Situación Jurídica
+40
 
-     irregular”, sino que en estos casos, también se hace necesaria la
-
-     adopción de una medida para restablecer la situación jurídica
-
-     lesionada como ordenar su reincorporación en caso que lo hayan
-
-     solicitado (Monzón, 2011).
-
-
-
-
-                                                                           40
 3. La cesión de la actuación material que no se sustente en acto
-
-   administrativo y la adopción de cuanta medida sea necesaria para
-
-   obtener la efectividad de la sentencia, sin perjuicio de poner en
-
-   conocimiento del Ministerio Público el incumplimiento para el inicio
-
-   del proceso penal correspondiente y la determinación de los daños y
-
-   perjuicios que resulten de dicho incumplimiento.
-
-   Conforme el Artículo 26 del Decreto Supremo Nro. 013-2008-JUS, la
-
-   actuación material se tramita en el proceso urgente, siendo estos
-
-   hechos administrativos verificables, que en caso de ser estimatorio
-
-   dicha pretensión además de disponer la cesación deberá disponer
-
-   las medidas necesarias para que se haga efectivo.
-
+administrativo y la adopción de cuanta medida sea necesaria para
+obtener la efectividad de la sentencia, sin perjuicio de poner en
+conocimiento del Ministerio Público el incumplimiento para el inicio
+del proceso penal correspondiente y la determinación de los daños y
+perjuicios que resulten de dicho incumplimiento.
+Conforme el Artículo 26 del Decreto Supremo Nro. 013-2008-JUS, la
+actuación material se tramita en el proceso urgente, siendo estos
+hechos administrativos verificables, que en caso de ser estimatorio
+dicha pretensión además de disponer la cesación deberá disponer
+las medidas necesarias para que se haga efectivo.
 4. El plazo en el que la administración debe cumplir con realizar una
-
-   determinada actuación a la que está obligada, sin perjuicio de poner
-
-   en conocimiento del Ministerio Público el incumplimiento para el
-
-   inicio del proceso penal correspondiente y la determinación de los
-
-   daños y perjuicios que resulten de dicho incumplimiento .
-
-   Por este inciso se faculta al Juez para que pueda remitir copias
-
-   certificadas al Ministerio Público para Aperturar Investigación
-
-   Preliminar o Formalizar Investigación Preparatoria, siempre que
-
-   existan suficientes elementos de convicción respecto del Delito de
-
-   Resistencia y Desobediencia a la Autoridad establecido en el
-
-   Artículo 368 del Código Penal, sin perjuicio de efectuar el
-
-   procedimiento realizado en el Artículo 46 del Decreto Supremo Nro.
-
-   013-2008-JUS.
-
+determinada actuación a la que está obligada, sin perjuicio de poner
+en conocimiento del Ministerio Público el incumplimiento para el
+inicio del proceso penal correspondiente y la determinación de los
+daños y perjuicios que resulten de dicho incumplimiento .
+Por este inciso se faculta al Juez para que pueda remitir copias
+certificadas al Ministerio Público para Aperturar Investigación
+Preliminar o Formalizar Investigación Preparatoria, siempre que
+existan suficientes elementos de convicción respecto del Delito de
+Resistencia y Desobediencia a la Autoridad establecido en el
+Artículo 368 del Código Penal, sin perjuicio de efectuar el
+procedimiento realizado en el Artículo 46 del Decreto Supremo Nro.
+013-2008-JUS.
 5. El monto de la indemnización por los daños y perjuicios ocasiones.
 
 ESPECIFICIDAD DEL MANDATO JUDICIAL
 
+41
 
-                                                                    41
 El Artículo 44 del Decreto Supremo Nro. 013-2008-JUS señala que: “Sin
-
 perjuicio de lo establecido en el Artículo 122 del Código Procesal Civil,
-
 la sentencia que declara fundada la demanda deberá establecer el tipo
-
 de obligación a cargo del demandado, el titular de la obligación, el
-
 funcionario a cargo de cumplirla y el plazo para la ejecución”
-
 El artículo 122 del Código Procesal Civil, trata cerca del contenido y
-
 suscripción de las resoluciones judiciales y prescribe lo siguiente:
-
 “Las resoluciones contienen:
-
 1. La indicación del lugar y fecha que se expide;
-
 2. El número de orden que les corresponde dentro del expediente o del
-
-   cuaderno en que se expiden;
-
+cuaderno en que se expiden;
 3. La mención sucesiva de los puntos sobre los que versa la resolución
-
-   con las consideraciones , en orden numérico correlativo, de los
-
-   fundamentos de hecho que sustentan la decisión, y los respectivos
-
-   de derecho con la cita de la norma o normas aplicables en cada
-
-   punto, según el mérito de los actuado
-
+con las consideraciones , en orden numérico correlativo, de los
+fundamentos de hecho que sustentan la decisión, y los respectivos
+de derecho con la cita de la norma o normas aplicables en cada
+punto, según el mérito de los actuado
 4. La expresión clara y precisa de lo que se decide u ordena, respecto
-
-   de todos los puntos controvertidos. Si el Juez denegase una petición
-
-   por falta de algún requisito o por una cita errónea de la norma
-
-   aplicable a su criterio, deberá en forma expresa indicar el requisito
-
-   faltante y la norma correspondiente;
-
+de todos los puntos controvertidos. Si el Juez denegase una petición
+por falta de algún requisito o por una cita errónea de la norma
+aplicable a su criterio, deberá en forma expresa indicar el requisito
+faltante y la norma correspondiente;
 5. El plazo para su cumplimento, si fuera el caso;
-
 6. La condena en costas y costos y; si procediera, de multas, o la
-
-   exoneración de su pago; y
-
+exoneración de su pago; y
 7. La suscripción del Juez y del Auxiliar Jurisdiccional respectivo.
 
+42
 
-
-                                                                       42
 La resolución que no cumpla con los requisitos antes señalados será
-
 nula, salvo los decretos que no requieres cumplir con lo establecido en
-
 los incisos 3, 4, 5 y 6 y los autos del expresado en el inciso 6.
-
 La sentencia exigirá en su redacción la separación de sus partes
-
 expositiva, considerativa y resolutiva.
-
 En primera y segunda instancias, así como en la Corte Suprema, los
-
 autos llevan meda firma y en las sentencias firma completa del Juez o
-
 Jueces, si es órgano colegiado.
-
 Cuando los órganos jurisdiccionales colegiados expidan autos, sólo será
-
 necesaria la conformidad y la firma del número de miembros que haga
-
 mayoría.”
+Estas
 
-Estas   precisiones,    a   pesar    de   ser   algo    redundantes,   son
+precisiones,
+
+a
+
+pesar
+
+de
+
+ser
+
+algo
+
+redundantes,
+
+son
 
 trascendentales porque, cuando el mandato es genérico o vago, la
-
 ejecución del proceso se dilata, de tal forma que genera incertidumbre
-
 respecto de cuándo el órgano jurisdiccional empezará a adoptar las
-
 medidas de ejecución forzada, por ello, entendemos que este
-
 dispositivo legal está relacionado con el derecho a gozar de la
-
 efectividad de la sentencia, lo cual a su vez es parte del principio de
-
 tutela jurisdiccional efectiva; de dicho análisis, surgen las reflexiones
-
 sobre la tutela de la ejecución de sentencia,, las cuales cobran una
-
 importancia especial, sobre todo en un país que reclama no sólo
-
 decisiones justas sino ejecutables plena y oportunamente.
 
+43
 
+CAPITULO III
+DISEÑO METODOLÓGICO
+3.1.
 
+Diseño y tipo de investigación.
+El Diseño de investigación es mixto; puesto que, implica un proceso de
+recolección, análisis y vinculación de datos cuantitativos y cualitativos para
+analizar cuáles son los problemas y procedimientos que se realizan en el
+Primer Juzgado Mixto.
+Ello debido a que la variable “insuficiencia normativa”, es cualitativa ya que se
+analizará la norma aplicable a la ejecución de las sentencias contenciosas
+administrativas y en las demás variables se analizará expedientes judiciales en
+análisis estadísticos.
+El tipo de investigación jurídica corresponde al jurídico social; ya que, se busca
+dar la viabilidad a la problemática del trabajador.
+El diseño de investigación es el transversal, dado que se recolectan datos en
+un momento y tiempo determinados, con el propósito de analizar las variables
+de estudio.
 
-                                                                        43
-                                   CAPITULO III
+3.2.
 
-                          DISEÑO METODOLÓGICO
+Ámbito o lugar de estudio.
 
-3.1.   Diseño y tipo de investigación.
+44
 
-       El Diseño de investigación es mixto; puesto que, implica un proceso de
+El ámbito o lugar de estudio de la presente investigación se delimita al Primer
+Juzgado Mixto del distrito Judicial de Puno.
 
-       recolección, análisis y vinculación de datos cuantitativos y cualitativos para
+3.3.
 
-       analizar cuáles son los problemas y procedimientos que se realizan en el
+Universo y muestra de la investigación
+El universo de estudio son los casos Contenciosos Administrativos que se
+encuentran en etapa de ejecución en el Primer Juzgado Mixto de Puno sobre
+reincorporación de trabajadores en el año 2012.
+La muestra de estudio para el presente trabajo de investigación son los
+procesos contenciosos administrativos sobre reincorporación de trabajadores
+que se encuentran en etapa de ejecución, ubicados dentro del despacho como
+en el Archivo del Primer Juzgado Mixto de Puno.
 
-       Primer Juzgado Mixto.
+3.4.
 
-       Ello debido a que la variable “insuficiencia normativa”, es cualitativa ya que se
+Descripción de métodos por objetivos específicos:
+Primer objetivo: Analizar las deficiencias existentes en la ejecución de la
+sentencia contenciosa administrativa sobre reincorporación de trabajadores
+en el Primer Juzgado Mixto durante el año 2012
+
 
-       analizará la norma aplicable a la ejecución de las sentencias contenciosas
+Método: Observación
 
-       administrativas y en las demás variables se analizará expedientes judiciales en
+
 
-       análisis estadísticos.
+Técnica: Observación sistemática.
 
-       El tipo de investigación jurídica corresponde al jurídico social; ya que, se busca
+
 
-       dar la viabilidad a la problemática del trabajador.
+Instrumento: Ficha documental.
 
-       El diseño de investigación es el transversal, dado que se recolectan datos en
+Segundo Objetivo: Determinar las normas aplicables en la ejecución de
+sentencias
 
-       un momento y tiempo determinados, con el propósito de analizar las variables
+contenciosas
 
-       de estudio.
+administrativas
 
-3.2.   Ámbito o lugar de estudio.
+sobre
 
+reincorporación
 
+de
 
-                                                                                      44
-       El ámbito o lugar de estudio de la presente investigación se delimita al Primer
+trabajadores.
+
 
-       Juzgado Mixto del distrito Judicial de Puno.
+Método: Observación.
 
-3.3.   Universo y muestra de la investigación
+
 
-       El universo de estudio son los casos Contenciosos Administrativos que se
+Técnica: Análisis e interpretación.
 
-       encuentran en etapa de ejecución en el Primer Juzgado Mixto de Puno sobre
+
 
-       reincorporación de trabajadores en el año 2012.
+Instrumento: Ficha de Análisis de Contenido.
 
-       La muestra de estudio para el presente trabajo de investigación son los
+45
 
-       procesos contenciosos administrativos sobre reincorporación de trabajadores
+Tercer Objetivo: Determinar procedimientos que se realizan en el Primer
+Juzgado Mixto de Puno para ejecutar la sentencia contencioso administrativa
+sobre reincorporación de trabajadores.
 
-       que se encuentran en etapa de ejecución, ubicados dentro del despacho como
+3.5.
 
-       en el Archivo del Primer Juzgado Mixto de Puno.
+
 
-3.4.   Descripción de métodos por objetivos específicos:
+Método: Observación.
 
-        Primer objetivo: Analizar las deficiencias existentes en la ejecución de la
+
 
-        sentencia contenciosa administrativa sobre reincorporación de trabajadores
+Técnica: Análisis e interpretación.
 
-        en el Primer Juzgado Mixto durante el año 2012
+
 
-           Método: Observación
+Instrumento: Ficha documental
 
-           Técnica: Observación sistemática.
+Operacionalización de variables:
+Variable
 
-           Instrumento: Ficha documental.
+Indicador
+1.1.
 
-        Segundo Objetivo: Determinar las normas aplicables en la ejecución de
+Método
 
-        sentencias      contenciosas   administrativas   sobre   reincorporación   de
+Técnica
 
-        trabajadores.
+Instrumento
 
-           Método: Observación.
+Falta de un
 
-           Técnica: Análisis e interpretación.
+plazo específico
+para ejecutar la
+Independientes:
 
-           Instrumento: Ficha de Análisis de Contenido.
+Ficha
+sentencia.
 
+Observación
 
+Análisis
 
+1. La insuficiencia
 
-                                                                                   45
-           Tercer Objetivo: Determinar procedimientos que se realizan en el Primer
+documental
+1.2.
 
-           Juzgado Mixto de Puno para ejecutar la sentencia contencioso administrativa
+Falta de
 
-           sobre reincorporación de trabajadores.
+de la norma
+medidas
+coercitivas más
+drásticas.
+2.
 
-                Método: Observación.
-                Técnica: Análisis e interpretación.
+Las
 
-                Instrumento: Ficha documental
+2.1.
 
-3.5.     Operacionalización de variables:
+Escritos
 
-        Variable                  Indicador            Método     Técnica    Instrumento
+actuaciones
 
-                           1.1.    Falta de un
+indicando la falta
 
-                               plazo específico
+judiciales
 
-                               para ejecutar la
- Independientes:                                                             Ficha
-                               sentencia.           Observación   Análisis
- 1. La insuficiencia                                                         documental
-                           1.2.    Falta de
-       de la norma
-                               medidas
+de presupuesto.
+Ficha
 
-                               coercitivas más
+dilatorias que
 
-                               drásticas.
+2.2.
 
- 2.            Las         2.1.    Escritos
+Escritos
 
-       actuaciones             indicando la falta
+Observación
 
-       judiciales              de presupuesto.
-                                                                             Ficha
-       dilatorias que      2.2.    Escritos         Observación   Análisis
-                                                                             documental
-       presentan la            indicando la no
+Análisis
+documental
 
-       entidad                 existencia del
+3.
 
-       demanda                 cargo.
+presentan la
 
- 3.            Las         3.1.    La existencia
-                                                                             Ficha
-       actuaciones             de impulso de        Observación   Análisis
-                                                                             documental
-       que realiza el          oficio
+indicando la no
 
+entidad
 
+existencia del
 
+demanda
 
-                                                                                      46
-     órgano              3.2.   Medidas
+cargo.
 
-     jurisdiccional         coercitivas
+Las
 
-                            ordenadas por el
+3.1.
 
-                            juez.
+La existencia
+Ficha
 
-                         4.1.   Cantidad de
+actuaciones
 
-Dependiente:                trabajadores
+de impulso de
 
-4.           Ejecución      repuestos.
+que realiza el
 
-     de la sentencia     4.2.   Institución a
+oficio
 
-     contenciosa            la que
-                                                                         Ficha
-     administrativa         pertenece.          Observación   Análisis
-                                                                         documental
-     sobre               4.3.   Plazo en que
+Observación
 
-     Reincorporació         se ejecuta la
+Análisis
+documental
 
-     n de                   sentencia.
+46
 
-     trabajadores.       4.4.   Actuaciones
+órgano
+jurisdiccional
 
-                            judiciales.
+3.2.
 
+Medidas
 
+coercitivas
+ordenadas por el
+juez.
+4.1.
 
+Cantidad de
 
-                                                                                  47
-                                 CAPITULO IV
+Dependiente:
 
-         ANALISIS E INTERPRETACIÓN DE RESULTADOS
+trabajadores
 
-4.1.   NORMAS APLICABLES EN LA EJECUCIÓN DE SENTENCIAS
+4.
 
-       CONTENCIOSO ADMINISTRATIVO
+repuestos.
 
-       En aplicación al Artículo 11 del Decreto Supremo Nro. 013-2008-JUS, son
+Ejecución
+de la sentencia
 
-       competentes para conocer el proceso contencioso administrativo el juez
+4.2.
 
-       especializado y la Sala Especializado en lo Contencioso Administrativo, en
+Institución a
 
-       primer y segundo grado, respectivamente; y en los lugares donde no exista
+contenciosa
 
-       Juez o Sala Especializada en lo Contencioso Administrativo, es competente el
+la que
 
-       Juez en lo Civil o el Juez Mixto en su caso, o la Sala civil correspondiente.
+administrativa
 
-       Como se puede apreciar, en el primer grado o en primera instancia conocen
+pertenece.
 
-       del Proceso Contencioso Administrativo o en su defecto, de la Sala Civil
+Ficha
+Observación
 
-       respectiva restringe al conocimiento del proceso contencioso administrativo en
+Análisis
+documental
 
-       segundo grado o en segunda instancia.
+sobre
 
-       “El texto del Artículo 11 del Decreto Supremo Nro. 013-2008-JUS y el texto del
+4.3.
 
-       primer párrafo del Artículo 45 del Citado Decreto Supremo se contraponen,
+Plazo en que
 
-       pues el último precepto legal faculta para hacer ejecutar las sentencias a la,
+Reincorporació
 
-       Sala que conoció del proceso en primera instancia. Como ello no puede ser
+se ejecuta la
 
-       posible en virtud de lo normado en el Artículo 11 del Decreto Supremo Nro.
+n de
 
+sentencia.
 
-                                                                                  48
+trabajadores.
+
+4.4.
+
+Actuaciones
+
+judiciales.
+
+47
+
+CAPITULO IV
+ANALISIS E INTERPRETACIÓN DE RESULTADOS
+4.1.
+
+NORMAS APLICABLES EN LA EJECUCIÓN DE SENTENCIAS
+CONTENCIOSO ADMINISTRATIVO
+En aplicación al Artículo 11 del Decreto Supremo Nro. 013-2008-JUS, son
+competentes para conocer el proceso contencioso administrativo el juez
+especializado y la Sala Especializado en lo Contencioso Administrativo, en
+primer y segundo grado, respectivamente; y en los lugares donde no exista
+Juez o Sala Especializada en lo Contencioso Administrativo, es competente el
+Juez en lo Civil o el Juez Mixto en su caso, o la Sala civil correspondiente.
+Como se puede apreciar, en el primer grado o en primera instancia conocen
+del Proceso Contencioso Administrativo o en su defecto, de la Sala Civil
+respectiva restringe al conocimiento del proceso contencioso administrativo en
+segundo grado o en segunda instancia.
+“El texto del Artículo 11 del Decreto Supremo Nro. 013-2008-JUS y el texto del
+primer párrafo del Artículo 45 del Citado Decreto Supremo se contraponen,
+pues el último precepto legal faculta para hacer ejecutar las sentencias a la,
+Sala que conoció del proceso en primera instancia. Como ello no puede ser
+posible en virtud de lo normado en el Artículo 11 del Decreto Supremo Nro.
+
+48
+
 013-2008-JUS, cabe indicar que, haciendo una interpretación sistemática del
-
 referido Decreto Supremo, el primer párrafo del Artículo 45 del Decreto
-
 Supremo Nro. 013-2008-JUS debe entenderse de esta manera: la potestad de
-
 hacer las sentencias y demás resoluciones judiciales de hacer ejecutar las
-
 sentencias y demás resoluciones judiciales (expedidas en el proceso
-
 contencioso administrativo) corresponde exclusivamente al Juzgado que
-
 conoció del proceso (contencioso administrativo) en primera instancia”
-
 (HINOSTROZA, 2010).
+Como lo señala el último párrafo del Artículo 45 del Decreto Supremo Nro. 0132008-JUS: Los conflictos derivados de actuaciones administrativas expedidas
+en
 
-Como lo señala el último párrafo del Artículo 45 del Decreto Supremo Nro. 013-
+ejecución
 
-2008-JUS: Los conflictos derivados de actuaciones administrativas expedidas
+de
 
-en   ejecución   de   la   sentencia   (emitida   en   un   proceso   contencioso
+la
+
+sentencia
+
+(emitida
+
+en
+
+un
+
+proceso
+
+contencioso
 
 administrativo) serán resueltos en el propio proceso de ejecución de la misma.
 
 4.1.1. CUMPLIMENTO DE LA SENTENCIA ESTIMATORIA:
+Conforme a lo dispuesto en el inciso 2) del Artículo 139° de la
+Constitución Política y el Artículo 4° de la Ley Orgánica del Poder
+Judicial, las resoluciones judiciales deben ser cumplidas por el personal
+al servicio de la administración pública, sin que éstos puedan calificar su
+contenido o sus fundamentos, restringir sus efectos o interpretar sus
+alcances, bajo responsabilidad civil, penal o administrativa; estando
+obligados a realizar todos los actos para la completa ejecución de la
+resolución judicial.
+El Artículo 4° de la Ley Orgánica del Poder Judicial, señala: “Carácter
+vinculante de las decisiones judiciales. Principios de la administración
+de justicia. Toda persona y autoridad está obligada a acatar y dar
+cumplimiento a las decisiones judiciales o de índole administrativa,
+emanadas de autoridad judicial competente, en sus propios términos,
+sin poder calificar su contenido o sus fundamentos, restringir sus
+49
 
-       Conforme a lo dispuesto en el inciso 2) del Artículo 139° de la
-
-       Constitución Política y el Artículo 4° de la Ley Orgánica del Poder
-
-       Judicial, las resoluciones judiciales deben ser cumplidas por el personal
-
-       al servicio de la administración pública, sin que éstos puedan calificar su
-
-       contenido o sus fundamentos, restringir sus efectos o interpretar sus
-
-       alcances, bajo responsabilidad civil, penal o administrativa; estando
-
-       obligados a realizar todos los actos para la completa ejecución de la
-
-       resolución judicial.
-
-       El Artículo 4° de la Ley Orgánica del Poder Judicial, señala: “Carácter
-
-       vinculante de las decisiones judiciales. Principios de la administración
-
-       de justicia. Toda persona y autoridad está obligada a acatar y dar
-
-       cumplimiento a las decisiones judiciales o de índole administrativa,
-
-       emanadas de autoridad judicial competente, en sus propios términos,
-
-       sin poder calificar su contenido o sus fundamentos, restringir sus
-
-                                                                               49
 efectos o interpretar sus alcances, bajo la responsabilidad civil, penal o
-
 administrativa que la ley señala. Ninguna autoridad, cualquiera sea su
-
 rango o denominación, fuera de la organización jerárquica del Poder
-
 Judicial, puede avocarse al conocimiento de causas pendientes ante el
-
 órgano jurisdiccional. No se puede dejar sin efecto resoluciones
-
 judiciales con autoridad de cosa juzgada, ni modificar su contenido, ni
-
 retardar su ejecución, ni cortar procedimientos en trámite, bajo la
-
 responsabilidad política, administrativa, civil y penal que la ley determine
-
 en cada caso. Esta disposición no afecta el derecho de gracia.”
-
 El Artículo 139 inciso 2 de la Constitución Política del Perú señala:
-
 “Ninguna autoridad puede avocarse a causas pendientes ante el órgano
-
 jurisdiccional ni interferir en el ejercicio de sus funciones. Tampoco
-
 puede dejar sin efecto resoluciones que han pasado en autoridad de
-
 cosa juzgada, ni cortar procedimientos en trámite, ni modificar
-
 sentencias ni retardar su ejecución. Estas disposiciones no afectan el
-
 derecho de gracia ni la facultad de investigación del Congreso, cuyo
-
 ejercicio no debe, sin embargo, interferir en el procedimiento
-
 jurisdiccional ni surte efecto jurisdiccional alguno.”
-
 El responsable del cumplimiento del mandato judicial será la autoridad
-
 de más alta jerarquía de la entidad (administrativa), el que podrá
-
 comunicar por escrito al Juez que funcionario encargado en forma
-
 específica de la misma, el que asumirá las responsabilidades.
-
 Sin perjuicio de lo anteriormente mencionado el juez podrá identificar al
-
 órgano responsable dentro de la entidad administrativa y otorgarle un
-
 plazo razonable para la ejecución de la sentencia.
 
+50
 
-
-
-                                                                         50
-     En la ejecución de la sentencia los funcionarios encargados de
-
-     exteriorizar la voluntad de las entidades mediante actuaciones
-
-     solidariamente responsables con éstas.
-
-     La renuncia, el vencimiento del periodo de la función o cualquier otra
-
-     forma de suspensión o conclusión del vínculo contractual o laboral con
-
-     la administración pública no eximirá al personal al servicio de ésta de
-
-     las responsabilidades en las que ha incurrido por el incumplimiento del
-
-     mandato judicial, si ello se produce después de haber sido notificado
-
-     con la sentencia
-
-     En cuanto a la nulidad de actos contrarios a sentencia estimatoria
-
-     dictada en el proceso contencioso administrativos, Son nulos de pleno
-
-     derecho los actos y disposiciones contrarios a los pronunciamientos de
-
-     las sentencias (estimatorias expedidas en el proceso contencioso
-
-     administrativo) que se dicten con la finalidad de eludir el cumplimiento
-
-     de éstas. Así lo determina el Artículo 49 del Decreto Supremo Nro. 013-
-
-     2008-JUS.
+En la ejecución de la sentencia los funcionarios encargados de
+exteriorizar la voluntad de las entidades mediante actuaciones
+solidariamente responsables con éstas.
+La renuncia, el vencimiento del periodo de la función o cualquier otra
+forma de suspensión o conclusión del vínculo contractual o laboral con
+la administración pública no eximirá al personal al servicio de ésta de
+las responsabilidades en las que ha incurrido por el incumplimiento del
+mandato judicial, si ello se produce después de haber sido notificado
+con la sentencia
+En cuanto a la nulidad de actos contrarios a sentencia estimatoria
+dictada en el proceso contencioso administrativos, Son nulos de pleno
+derecho los actos y disposiciones contrarios a los pronunciamientos de
+las sentencias (estimatorias expedidas en el proceso contencioso
+administrativo) que se dicten con la finalidad de eludir el cumplimiento
+de éstas. Así lo determina el Artículo 49 del Decreto Supremo Nro. 0132008-JUS.
 
 4.1.2. LA EFICACIA DE LA SENTENCIA Y SU EJECUCIÓN
+En la investigación realizada se empleó la técnica de Análisis de
+documentos sobre la cual Priori (2009, p. 283) señala:
+Una de las características fundamentales de una sentencia que
+adquiere la calidad de cosa juzgada es su efectividad, es decir, la
+aptitud que tienen las sentencias para producir un cambio en la realidad
+jurídica y fáctica. De este modo, esa efectividad determina que las
+sentencias judiciales con autoridad de cosa juzgada, tiene efectos
+obligatorios, y su grado de implicancia en el ámbito de la realidad,
+dependerá del tipo de sentencia de que estemos hablando.
 
-     En la investigación realizada se empleó la técnica de Análisis de
+51
 
-     documentos sobre la cual Priori (2009, p. 283) señala:
+Así, es necesario recordar que las sentencias pueden ser declarativas,
+constitutivas y de condena. Las declarativas solo reconocen una
+determinada situación o relación o situación jurídica; en cambio, las de
+condena disponen el cumplimiento de una determinada conducta a la
+parte demandada. En este caso, la efectividad de las sentencias, se
+miden en función de su ejecución, en la medida que son las únicas
+ejecutables. Las demás sentencias, producen su eficacia obligatoria, sin
+necesidad de llevar a cabo esta labor de ejecución.
+En ese sentido, la ejecución una expresión del derecho a la tutela
+jurisdiccional efectiva, para lo cual el propio Estado garantiza a los
+ciudadanos el recurso a su ius imperium con el propósito de ejecutar las
+sentencias judiciales.
+Gonzáles (2001, p. 425) señala: “La prestación de la justicia no sería
+efectiva si el mandato de la sentencia no fuera cumplido. El derecho a la
+tutela
 
-     Una de las características fundamentales de una sentencia que
+jurisdiccional
 
-     adquiere la calidad de cosa juzgada es su efectividad, es decir, la
+efectiva
 
-     aptitud que tienen las sentencias para producir un cambio en la realidad
+que
 
-     jurídica y fáctica. De este modo, esa efectividad determina que las
+suelen
 
-     sentencias judiciales con autoridad de cosa juzgada, tiene efectos
+reconocer
 
-     obligatorios, y su grado de implicancia en el ámbito de la realidad,
+todas
 
-     dependerá del tipo de sentencia de que estemos hablando.
+las
 
+Constituciones comprende también que lo resuelto sea llevado con sin o
+contra la voluntad del obligado”.
 
-                                                                          51
-              Así, es necesario recordar que las sentencias pueden ser declarativas,
+4.2.
 
-              constitutivas y de condena. Las declarativas solo reconocen una
+LA INSUFICIENCIA DE LA NORMA
+De la Investigación realizada a la normatividad peruana vigente se aprecia que
+en el TUO de la Ley del Procedimiento Contencioso administrativo, Decreto
+Supremo Nro. 013-2008-JUS, tanto en el Artículo 45, que regula cual es el
+juzgado encargado de conocer la ejecución de la sentencia, como en el
+Artículo 46 que señala que autoridad es el responsable del cumplimiento del
+Mandato Judicial; no se regula con profundidad cuál es el procedimiento que se
+debe seguir para ejecutar la sentencia en el caso de reincorporación de
+trabajadores haciéndolo sólo de una manera genérica, a diferencia de la
 
-              determinada situación o relación o situación jurídica; en cambio, las de
+52
 
-              condena disponen el cumplimiento de una determinada conducta a la
-
-              parte demandada. En este caso, la efectividad de las sentencias, se
-
-              miden en función de su ejecución, en la medida que son las únicas
-
-              ejecutables. Las demás sentencias, producen su eficacia obligatoria, sin
-
-              necesidad de llevar a cabo esta labor de ejecución.
-
-              En ese sentido, la ejecución una expresión del derecho a la tutela
-
-              jurisdiccional efectiva, para lo cual el propio Estado garantiza a los
-
-              ciudadanos el recurso a su ius imperium con el propósito de ejecutar las
-
-              sentencias judiciales.
-
-              Gonzáles (2001, p. 425) señala: “La prestación de la justicia no sería
-
-              efectiva si el mandato de la sentencia no fuera cumplido. El derecho a la
-
-              tutela   jurisdiccional   efectiva   que   suelen   reconocer   todas   las
-
-              Constituciones comprende también que lo resuelto sea llevado con sin o
-
-              contra la voluntad del obligado”.
-
-4.2.   LA INSUFICIENCIA DE LA NORMA
-
-       De la Investigación realizada a la normatividad peruana vigente se aprecia que
-
-       en el TUO de la Ley del Procedimiento Contencioso administrativo, Decreto
-
-       Supremo Nro. 013-2008-JUS, tanto en el Artículo 45, que regula cual es el
-
-       juzgado encargado de conocer la ejecución de la sentencia, como en el
-
-       Artículo 46 que señala que autoridad es el responsable del cumplimiento del
-
-       Mandato Judicial; no se regula con profundidad cuál es el procedimiento que se
-
-       debe seguir para ejecutar la sentencia en el caso de reincorporación de
-
-       trabajadores haciéndolo sólo de una manera genérica, a diferencia de la
-
-
-
-                                                                                      52
 ejecución de las sentencia de dar suma de dinero (Artículo 47 del mismo
-
 cuerpo normativo).
-
 Es por ello que existe una deficiencia en la regulación de lineamientos y
-
 procedimientos, que permitan hacer posible una ejecución eficaz de la
-
 sentencia de reincorporación trabajadores; ya que, cómo se observa se hace
-
 referencia a que el responsable del cumplimiento dentro de la institución es el
-
 funcionario de más alta jerarquía quien podrá informar de su cumplimiento al
-
 juez, siendo que informar del cumplimento no es un deber sino una opción que
-
 tiene dicho funcionario, quién como se ha visto del análisis de expedientes
-
 efectuado no informa de ello ni siquiera de las acciones que realizar para
-
 efectivizar la sentencia.
 
 4.2.1. Falta de un plazo específico para ejecutar la sentencia
+El Artículo 46 inciso 2 segundo párrafo del TUO de la Ley del Proceso
+Contencioso
 
-       El Artículo 46 inciso 2 segundo párrafo del TUO de la Ley del Proceso
+administrativo
 
-       Contencioso     administrativo   señala   que:   “Sin   perjuicio   de   lo
+señala
 
-       anteriormente señalado, el juez podrá identificar al órgano responsable
+que:
 
-       dentro de la entidad y otorgarle dentro de la entidad un plazo razonable
+“Sin
 
-       para la ejecución de la sentencia”.
+perjuicio
 
-       Como se observa en el párrafo precedente solamente se establece
+de
 
-       como plazo para la ejecución, “un plazo razonable”, lo cual ha sido
+lo
 
-       desnaturalizado dentro del proceso contencioso administrativo, ya que
+anteriormente señalado, el juez podrá identificar al órgano responsable
+dentro de la entidad y otorgarle dentro de la entidad un plazo razonable
+para la ejecución de la sentencia”.
+Como se observa en el párrafo precedente solamente se establece
+como plazo para la ejecución, “un plazo razonable”, lo cual ha sido
+desnaturalizado dentro del proceso contencioso administrativo, ya que
+cómo se verifico de la revisión de expedientes las sentencias se ejecuta
+en por lo menos un año promedio, dilatándose de manera excesiva su
+ejecución, a diferencia de los procesos Constitucionales como el de
+Amparo que contempla en su Artículo 59 el plazo de dos días para su
+ejecución, siendo que por esta vía en algunos casos también se ejecuta
+reincorporación de trabajadores.
 
-       cómo se verifico de la revisión de expedientes las sentencias se ejecuta
+53
 
-       en por lo menos un año promedio, dilatándose de manera excesiva su
+4.2.2. Falta de medidas coercitivas más drásticas
+El Artículo 46 inciso 1 del TUO de la Ley del Proceso Contencioso
+administrativo señala que : “Conforme a lo dispuesto en el inciso 2) del
+Artículo 139 de la Constitución Política y el Artículo 4 de la Ley Orgánica
+del Poder Judicial, las resoluciones judiciales deben ser cumplidas por
+el personal al servicio de la administración pública, sin que éstos
+puedan calificar su contenido a sus fundamentos, restringir sus efectos
+o
 
-       ejecución, a diferencia de los procesos Constitucionales como el de
+interpretar
 
-       Amparo que contempla en su Artículo 59 el plazo de dos días para su
+sus
 
-       ejecución, siendo que por esta vía en algunos casos también se ejecuta
+alcances
 
-       reincorporación de trabajadores.
+bajo
 
+responsabilidad
 
+civil,
 
-                                                                                53
-       4.2.2. Falta de medidas coercitivas más drásticas
+penal
 
-              El Artículo 46 inciso 1 del TUO de la Ley del Proceso Contencioso
+administrativa; estando obligados a realizar todos los actos para la
+completa ejecución de la resolución judicial”.
+Éste artículo nos remite a la Constitución y a la Ley Orgánica del Poder
+Judicial; en las cuales si bien señalan que las consecuencias
 
-              administrativo señala que : “Conforme a lo dispuesto en el inciso 2) del
+de
 
-              Artículo 139 de la Constitución Política y el Artículo 4 de la Ley Orgánica
+incumplimiento de una resolución es incurrir en responsabilidad civil y
+penal, no persuaden al funcionario público para que realice por lo
+menos el mayor esfuerzo posible para que se cumpla dicha sentencia a
+diferencia de la imposición de multas o un posible procedimiento
+administrativo que se le pudiera seguir, es por ello que ante la ausencia
+que medidas coercitivas drásticas se viene incumpliendo las sentencias
+judiciales de reincorporación de trabajadores.
 
-              del Poder Judicial, las resoluciones judiciales deben ser cumplidas por
+4.3.
 
-              el personal al servicio de la administración pública, sin que éstos
+ACTUACIONES JUDICIALES DILATORIAS QUE PRESENTA LA
+ENTIDAD DEMANDA
+Con el propósito de determinar los escritos que presentan la entidad
+demandada se analizó los expedientes que se han ejecutado y archivado en el
+año 2012, el mismo que arrojó los siguientes resultados.
 
-              puedan calificar su contenido a sus fundamentos, restringir sus efectos
+54
 
-              o   interpretar   sus   alcances   bajo   responsabilidad    civil,   penal
+CUADRO N° 01
+Escritos Presentados por la Entidad Demandad
+Escritos Presentados
 
-              administrativa; estando obligados a realizar todos los actos para la
+N° de Expedientes Porcentaje
 
-              completa ejecución de la resolución judicial”.
-
-              Éste artículo nos remite a la Constitución y a la Ley Orgánica del Poder
-
-              Judicial; en las cuales si bien señalan que las consecuencias           de
-
-              incumplimiento de una resolución es incurrir en responsabilidad civil y
-
-              penal, no persuaden al funcionario público para que realice por lo
-
-              menos el mayor esfuerzo posible para que se cumpla dicha sentencia a
-
-              diferencia de la imposición de multas o un posible procedimiento
-
-              administrativo que se le pudiera seguir, es por ello que ante la ausencia
-
-              que medidas coercitivas drásticas se viene incumpliendo las sentencias
-
-              judiciales de reincorporación de trabajadores.
-
-4.3.   ACTUACIONES JUDICIALES DILATORIAS QUE PRESENTA LA
-
-       ENTIDAD DEMANDA
-
-       Con el propósito de determinar los escritos que presentan la entidad
-
-       demandada se analizó los expedientes que se han ejecutado y archivado en el
-
-       año 2012, el mismo que arrojó los siguientes resultados.
-
-
-
-
-                                                                                      54
-                            CUADRO N° 01
-          Escritos Presentados por la Entidad Demandad
-
-       Escritos Presentados            N° de Expedientes Porcentaje
-Falta de Presupuesto                          14               28%
-Inexistencia del cargo                        20               40%
-Ausencia de escrito                           10               20%
+Falta de Presupuesto
+Inexistencia del cargo
+Ausencia de escrito
 Comunica cumplimiento de la
-sentencia                                     06               12%
+sentencia
 Fuente: Ficha de Análisis documental
 Elaboración: Ejecutora de la investigación.
-                            GRÁFICO N° 01
 
+14
+20
+10
 
+28%
+40%
+20%
 
+06
+
+12%
+
+GRÁFICO N° 01
 
 Fuente: Cuadro N° 01
 En el Cuadro y Gráfico Número 01; referido a los Escritos presentados por la
-
 entidad demanda, se aprecia en 20 expedientes, que representa el 40%, la
-
 entidad demanda comunica la “inexistencia del cargo” en el cual se debe
-
 reincorporar al trabajador; en 14 expedientes, que representa el 28%, se indica
-
 la falta de presupuesto, en 10 expedientes que representa el 20% no presenta
-
 ningún escrito la entidad demanda y en 06 expedientes que representa el 12%
-
 se comunica el cumplimiento de la sentencia, es decir la reincorporación del
-
 trabajador en su mismo cargo u otro similar al que se venía desempeñando.
 
+55
 
-
-
-                                                                            55
 Los escritos que con mayor frecuencia presenta la entidad demandada son
-
 como se señala en el párrafo anterior son la inexistencia del cargo que venía
-
 desempeñando y la falta de presupuesto, para crear una plaza presupuestada
-
 o para pagar las remuneraciones del trabajador; ello responde a una estrategia
-
 del abogado de la institución demandada para dilatar la ejecución de la
-
 sentencia, ya que es de su conocimiento que se le puede reincorporar en otro
-
 cargo con igual categoría remunerativa, sin embargo se sigue argumentando la
-
 inexistencia del cargo a pesar de que existe otra plaza con similares
-
 características e igual categoría remunerativa.
-
 De igual manera, la falta de presupuesto ya sea para la creación de una plaza
-
 presupuestada no es impedimento para que de manera provisional no se le
-
 reincorpore al trabajador a fin de solucionar el problema inmediato del
-
 trabajador que es no contar con un puesto de trabajo con que sustentar a él y
-
 su familia, pudiendo contratarse a éste de manera en otro régimen laboral
-
 como el Contrato Administrativo de Servicio o modalidad (suplencia) mientras
-
 se crea una plaza presupuestada.
-
 Asimismo, en la ejecución de sentencias también se presenta casos en los que
-
 la parte demandada no presenta ningún escrito a pesar que el juzgado lo
-
 apercibió en varias ocasiones, lo que también corresponde a una estrategia
-
 para dilatar la ejecución sentencia, puesto que, no es obligatorio presentar un
-
 informe con el cumplimiento de la sentencia o por lo menos un escrito donde se
-
 indique si se está haciendo lo necesario para reincorporar al trabajador, lo que
-
 demuestra por otro lado una falta de preocupación de la entidad demandada en
-
 cumplir con lo ordenado por el juez.
-
 Son pocos los casos en que la entidad pública demandante asume que ha
-
 perdido el proceso y de manera consiente cumple con hacer lo necesario para
-
 reincorporar al trabajador e informar del cumplimiento de la sentencia a la
-
-
-                                                                             56
-       entidad demandada, dado que se tiene muy arraigado la cultura del litigio ,
-
-       situación que debemos de cambiar e implementar los mecanismos necesarios
-
-       dentro de la normatividad a fin de que no haya omisiones dentro de la norma
-
-       que sean utilizadas para dilatar la ejecución de un proceso.
-
-4.4.   ACTUACIONES REALIZADAS POR EL JUZGADO
-
-       Siendo el juez director del proceso y responsable de la ejecución de las
-
-       sentencias que conoce en primera instancia, tiene el deber de realizar
-
-       actuaciones de oficio, por lo que en la Cuadro Nro. 02 se observa si las
-
-       actuaciones que realiza el juez son a petición de parte o de oficio, asimismo en
-
-       la Cuadro Nro. 03 si existe imposición de medidas coercitivas por parte del
-
-       juzgado a la entidad demanda por incumplimiento de ejecución de sentencia.
-
-                                   CUADRO N° 02
-
-                 ACTUACIONES REALIZADAS POR EL JUZGADO
-
-         Actuaciones realizadas por el
-                                              N° de Expedientes       Porcentaje
-                    juzgado
-       De oficio                                      10                 20%
-       A pedido de parte                              40                 80%
-       Fuente: Ficha de Análisis documental
-       Elaboración: Ejecutora de la investigación.
-                                   GRÁFICO N° 02
-
-
-
-
-       Fuente: Cuadro N° 02
-
-                                                                                    57
-En el Cuadro y Gráfico Número 02; referido a las actuaciones realizadas por el
-
-juzgado, se observa en 40 expedientes, que representa el 80%; que las
-
-actuaciones realizadas por el juzgado para que se cumpla con la sentencia que
-
-ordena la reincorporación al trabajador son como consecuencia de un pedido
-
-de parte del trabajador, mientras que solo en 10 expedientes que representa el
-
-20%, el juzgado actúo de oficio para el cumplimiento de la sentencia.
-
-Las actuaciones que realiza el órgano jurisdiccional para la ejecución de la
-
-sentencia empieza con la notificación de la sentencia a las partes, seguido de
-
-oficiar a la entidad demanda, a fin de ordenar el cumplimiento de la sentencia
-
-anexando para ello la copia certificada de ésta, constituyendo éstas las únicas
-
-actuaciones que realiza de oficio el juzgado para que se cumpla con lo
-
-ordenado en la sentencia, por otro lado también se genera omisiones como no
-
-señalar un plazo específico para que se le reincorpore al trabajador o el no
-
-individualizar al funcionario que tiene la responsabilidad directamente de hacer
-
-cumplir la sentencia a pesar que la ley le faculta para ello, omisiones que son
-
-aprovechados por el abogado de la parte demandada a fin de dilatar el
-
-proceso.
-
-En consecuencia, la mayoría de las actuaciones que realiza el juzgado es a
-
-solicitud del   trabajador demandante, que van desde solicitar que se
-
-especifique el plazo para la ejecución de la sentencia, se señale
-
-apercibimientos en caso de incumplimiento, la imposición de medidas
-
-coercitivas, hasta que se ordene a la entidad pública expida la resolución de
-
-reincorporación dado que existe plaza presupuestada, de ahí que el órgano
-
-jurisdiccional expide decretos, remite oficios señalando apercibimientos e
-
-impone medidas coercitivas.
-
-Por otro lado, debemos tener en cuenta que en el Distrito Judicial de Puno no
-
-se cuenta con jueces especializados, sino con jueces mixtos que conocen
-
-
-                                                                             58
-    procesos civiles y que tienen arraigado la naturaleza del mismo, que es distinto
-
-    al del proceso contencioso administrativo ya que no hay dos parte iguales;
-
-    porque, el Estado como tal cuenta con mayor ventaja al del trabajador, siendo
-
-    el deber del juez eliminar esta desventaja del trabajador y más aún en la
-
-    ejecución donde depende de la voluntad de la institución pública la
-
-    reincorporación del trabajador.
-
-                                CUADRO N° 03
-            Apercibimientos dictados conforme la normatividad
-                                                  N° de
-         Normatividad Aplicada                                    Porcentaje
-                                               Expedientes
-Artículo 4° de la L.OP.J.                          15                 30%
-Artículo 53° inciso 1 del C.P.C.                   09                 18%
-Artículo 46° del TUO de la L.P.C.A.                10                 20%
-Artículo 4° de la L.OP.J. y Artículo 53 inciso
-                                                      12              24%
-1 del C.P.C.
-Ninguno                                               4               8%
-            Fuente: Ficha de Análisis documental
-            Elaboración: Ejecutora de la investigación.
-                                GRÁFICO N° 03
-
-
-
-
-           Fuente: Cuadro N° 03
-    En el Cuadro y Gráfico Número 03; en el que se aprecia la normatividad
-
-    utilizada como fundamento para dictar apercibimientos son el Artículo 4 de la
-
-
-                                                                                 59
-Ley Orgánica del Poder Judicial que se aplicó en 15 expedientes, que
-
-representa el 30%; el Artículo 53 inciso 1 del Código Procesal Civil aplicado en
-
-09 expedientes, que representa el 18% ; asimismo en 12 expedientes donde se
-
-aplicó tanto el Artículo 4 de la Ley Orgánica del Poder Judicial como el inciso 1
-
-del Artículo 53 del Código Procesal Civil, también el Artículo 46 del TUO de la
-
-Ley del Proceso Contencioso Administrativo, y en 4 expedientes no se dictó
-
-ningún apercibimiento.
-
-El Artículo 4 de la “Ley Orgánica del Poder Judicial”, referido al carácter
-
-vinculante de las decisiones judiciales y los principios de la administración de
-
-justicia y señala que, toda persona y autoridad está obligada a acatar las
-
-decisiones judiciales, bajo responsabilidad civil, penal o administrativa; además
-
-que ninguna autoridad cualquiera fuera su cargo puede retardar la ejecución de
-
-la sentencia, bajo la responsabilidad política, administrativa, civil y penal que la
-
-ley determine en cada caso, esta norma es la más aplicada por el órgano
-
-jurisdiccional al sustentar jurídicamente la orden de la ejecución de sentencia,
-
-en vista de que la redacción del artículo es más claro en cuanto a las medidas
-
-coercitivas que se le impondrá en caso de no cumplir o dilatar la ejecución de
-
-la sentencia, es así que dicho artículo es invocado al momento de oficiar a la
-
-entidad demanda incluso con mayor frecuencia que el Artículo 46 del TUO de
-
-la Ley del Proceso Contencioso Administrativo que es la norma especializada
-
-en la materia, la que señala el mismo apercibimiento en caso de
-
-incumplimiento y que hace referencia al Artículo 4 de la Ley Orgánica del Poder
-
-Judicial y al Artículo 139 inciso 2 de la Constitución; de manera que la
-
-institución pública demandada encuentra más persuasiva la aplicación de la
-
-Ley Orgánica del Poder Judicial.
-
-Por otro lado, la aplicación supletoria del Artículo 53 inciso 1 del Código
-
-Procesal Civil, en el proceso contencioso administrativo, indica que en el caso
-
-
-                                                                                 60
-       de incumplimiento de la sentencia se impondrá multas acumulativas y
-
-       progresivas, el mismo que es invocado por el abogado de la parte demandante
-
-       para apercibir a la entidad demandada y genera una mayor persuasión que la
-
-       señalada en el Artículo 4 de la Ley Orgánica del Poder Judicial al referirse a la
-
-       responsabilidad política, penal, civil y administrativa; puesto que se refiere
-
-       expresamente a una sanción pecuniaria que genera un mayor impacto a la
-
-       parte demandada.
-
-       Estos dos dispositivos aplicados ya sea en forma separa o conjunta dentro de
-
-       un expediente hace posible inducir a la entidad demanda al cumplimiento de la
-
-       sentencia, siendo más frecuente que la aplicación del Artículo 46 del TUO de la
-
-       Ley del Proceso Contencioso Administrativo, que hace referencia al deber
-
-       personal del cumplimiento de la sentencia, y al Artículo 4 de la Ley Orgánica
-
-       del Poder Judicial y Artículo 139 inciso 2 de la Constitución, que en cuanto a
-
-       medidas coercitivas no aporta nada nuevo, siendo incluso su inciso 1 un
-
-       resumen del Artículo 4 de la Ley Orgánica del Poder Judicial.
-
-       Finalmente en algunos expedientes se observa que el juzgado no dicta ningún
-
-       apercibimiento, limitándose a comunicar con lo ordenado en la sentencia, de
-
-       ello se desprende una doble lectura; ya que bien la entidad demandada ha
-
-       cumplido diligentemente con reincorporar al trabajador o simplemente el
-
-       trabajador cansado por la duración del proceso ha decidido abandonar el
-
-       proceso.
-
-                                   CUADRO N° 04
-                   Medidas Coercitivas Impuestas por el Juzgado
-                                                            Cantidad de
-                  Medidas coercitivas                                         Porcentaje
-                                                            Expedientes
-Remisión de Copias Certificadas al Ministerio Público            5                10%
-Imposición de multas acumulativas y progresivas                  2                4%
-Ninguna                                                         43                86%
+56
+
+entidad demandada, dado que se tiene muy arraigado la cultura del litigio ,
+situación que debemos de cambiar e implementar los mecanismos necesarios
+dentro de la normatividad a fin de que no haya omisiones dentro de la norma
+que sean utilizadas para dilatar la ejecución de un proceso.
+
+4.4.
+
+ACTUACIONES REALIZADAS POR EL JUZGADO
+Siendo el juez director del proceso y responsable de la ejecución de las
+sentencias que conoce en primera instancia, tiene el deber de realizar
+actuaciones de oficio, por lo que en la Cuadro Nro. 02 se observa si las
+actuaciones que realiza el juez son a petición de parte o de oficio, asimismo en
+la Cuadro Nro. 03 si existe imposición de medidas coercitivas por parte del
+juzgado a la entidad demanda por incumplimiento de ejecución de sentencia.
+CUADRO N° 02
+ACTUACIONES REALIZADAS POR EL JUZGADO
+Actuaciones realizadas por el
+N° de Expedientes
+juzgado
+10
+De oficio
+40
+A pedido de parte
 Fuente: Ficha de Análisis documental
 Elaboración: Ejecutora de la investigación.
 
+Porcentaje
+20%
+80%
 
-                                                                                     61
-                            GRÁFICO N° 04
+GRÁFICO N° 02
 
+Fuente: Cuadro N° 02
+57
 
+En el Cuadro y Gráfico Número 02; referido a las actuaciones realizadas por el
+juzgado, se observa en 40 expedientes, que representa el 80%; que las
+actuaciones realizadas por el juzgado para que se cumpla con la sentencia que
+ordena la reincorporación al trabajador son como consecuencia de un pedido
+de parte del trabajador, mientras que solo en 10 expedientes que representa el
+20%, el juzgado actúo de oficio para el cumplimiento de la sentencia.
+Las actuaciones que realiza el órgano jurisdiccional para la ejecución de la
+sentencia empieza con la notificación de la sentencia a las partes, seguido de
+oficiar a la entidad demanda, a fin de ordenar el cumplimiento de la sentencia
+anexando para ello la copia certificada de ésta, constituyendo éstas las únicas
+actuaciones que realiza de oficio el juzgado para que se cumpla con lo
+ordenado en la sentencia, por otro lado también se genera omisiones como no
+señalar un plazo específico para que se le reincorpore al trabajador o el no
+individualizar al funcionario que tiene la responsabilidad directamente de hacer
+cumplir la sentencia a pesar que la ley le faculta para ello, omisiones que son
+aprovechados por el abogado de la parte demandada a fin de dilatar el
+proceso.
+En consecuencia, la mayoría de las actuaciones que realiza el juzgado es a
+solicitud del
 
+trabajador demandante, que van desde solicitar que se
+
+especifique el plazo para la ejecución de la sentencia, se señale
+apercibimientos en caso de incumplimiento, la imposición de medidas
+coercitivas, hasta que se ordene a la entidad pública expida la resolución de
+reincorporación dado que existe plaza presupuestada, de ahí que el órgano
+jurisdiccional expide decretos, remite oficios señalando apercibimientos e
+impone medidas coercitivas.
+Por otro lado, debemos tener en cuenta que en el Distrito Judicial de Puno no
+se cuenta con jueces especializados, sino con jueces mixtos que conocen
+58
+
+procesos civiles y que tienen arraigado la naturaleza del mismo, que es distinto
+al del proceso contencioso administrativo ya que no hay dos parte iguales;
+porque, el Estado como tal cuenta con mayor ventaja al del trabajador, siendo
+el deber del juez eliminar esta desventaja del trabajador y más aún en la
+ejecución donde depende de la voluntad de la institución pública la
+reincorporación del trabajador.
+CUADRO N° 03
+Apercibimientos dictados conforme la normatividad
+Normatividad Aplicada
+
+N° de
+Expedientes
+15
+09
+10
+
+Artículo 4° de la L.OP.J.
+Artículo 53° inciso 1 del C.P.C.
+Artículo 46° del TUO de la L.P.C.A.
+Artículo 4° de la L.OP.J. y Artículo 53 inciso
+12
+1 del C.P.C.
+4
+Ninguno
+Fuente: Ficha de Análisis documental
+Elaboración: Ejecutora de la investigación.
+
+Porcentaje
+30%
+18%
+20%
+24%
+8%
+
+GRÁFICO N° 03
+
+Fuente: Cuadro N° 03
+En el Cuadro y Gráfico Número 03; en el que se aprecia la normatividad
+utilizada como fundamento para dictar apercibimientos son el Artículo 4 de la
+
+59
+
+Ley Orgánica del Poder Judicial que se aplicó en 15 expedientes, que
+representa el 30%; el Artículo 53 inciso 1 del Código Procesal Civil aplicado en
+09 expedientes, que representa el 18% ; asimismo en 12 expedientes donde se
+aplicó tanto el Artículo 4 de la Ley Orgánica del Poder Judicial como el inciso 1
+del Artículo 53 del Código Procesal Civil, también el Artículo 46 del TUO de la
+Ley del Proceso Contencioso Administrativo, y en 4 expedientes no se dictó
+ningún apercibimiento.
+El Artículo 4 de la “Ley Orgánica del Poder Judicial”, referido al carácter
+vinculante de las decisiones judiciales y los principios de la administración de
+justicia y señala que, toda persona y autoridad está obligada a acatar las
+decisiones judiciales, bajo responsabilidad civil, penal o administrativa; además
+que ninguna autoridad cualquiera fuera su cargo puede retardar la ejecución de
+la sentencia, bajo la responsabilidad política, administrativa, civil y penal que la
+ley determine en cada caso, esta norma es la más aplicada por el órgano
+jurisdiccional al sustentar jurídicamente la orden de la ejecución de sentencia,
+en vista de que la redacción del artículo es más claro en cuanto a las medidas
+coercitivas que se le impondrá en caso de no cumplir o dilatar la ejecución de
+la sentencia, es así que dicho artículo es invocado al momento de oficiar a la
+entidad demanda incluso con mayor frecuencia que el Artículo 46 del TUO de
+la Ley del Proceso Contencioso Administrativo que es la norma especializada
+en la materia, la que señala el mismo apercibimiento en caso de
+incumplimiento y que hace referencia al Artículo 4 de la Ley Orgánica del Poder
+Judicial y al Artículo 139 inciso 2 de la Constitución; de manera que la
+institución pública demandada encuentra más persuasiva la aplicación de la
+Ley Orgánica del Poder Judicial.
+Por otro lado, la aplicación supletoria del Artículo 53 inciso 1 del Código
+Procesal Civil, en el proceso contencioso administrativo, indica que en el caso
+
+60
+
+de incumplimiento de la sentencia se impondrá multas acumulativas y
+progresivas, el mismo que es invocado por el abogado de la parte demandante
+para apercibir a la entidad demandada y genera una mayor persuasión que la
+señalada en el Artículo 4 de la Ley Orgánica del Poder Judicial al referirse a la
+responsabilidad política, penal, civil y administrativa; puesto que se refiere
+expresamente a una sanción pecuniaria que genera un mayor impacto a la
+parte demandada.
+Estos dos dispositivos aplicados ya sea en forma separa o conjunta dentro de
+un expediente hace posible inducir a la entidad demanda al cumplimiento de la
+sentencia, siendo más frecuente que la aplicación del Artículo 46 del TUO de la
+Ley del Proceso Contencioso Administrativo, que hace referencia al deber
+personal del cumplimiento de la sentencia, y al Artículo 4 de la Ley Orgánica
+del Poder Judicial y Artículo 139 inciso 2 de la Constitución, que en cuanto a
+medidas coercitivas no aporta nada nuevo, siendo incluso su inciso 1 un
+resumen del Artículo 4 de la Ley Orgánica del Poder Judicial.
+Finalmente en algunos expedientes se observa que el juzgado no dicta ningún
+apercibimiento, limitándose a comunicar con lo ordenado en la sentencia, de
+ello se desprende una doble lectura; ya que bien la entidad demandada ha
+cumplido diligentemente con reincorporar al trabajador o simplemente el
+trabajador cansado por la duración del proceso ha decidido abandonar el
+proceso.
+CUADRO N° 04
+Medidas Coercitivas Impuestas por el Juzgado
+Medidas coercitivas
+Remisión de Copias Certificadas al Ministerio Público
+Imposición de multas acumulativas y progresivas
+Ninguna
+Fuente: Ficha de Análisis documental
+Elaboración: Ejecutora de la investigación.
+
+Cantidad de
+Expedientes
+5
+2
+43
+
+Porcentaje
+10%
+4%
+86%
+
+61
+
+GRÁFICO N° 04
 
 Fuente: Cuadro N° 04
 En el Cuadro y Gráfico Número 04; perteneciente a las Medidas coercitivas
-
 impuestas por el juzgado, se aprecia en 43 expedientes, que representa el
-
 86%, en el cual no se ha impuesto medida coercitiva alguna; por otro lado en
-
 05 expedientes, que representa el 10% se remitió copias certificadas al
-
 Ministerio Público y solo en 02 expedientes que representa el 4% se impuso
-
 multa debido al incumplimiento de la sentencia.
-
 La medida coercitiva más impuesta por el juzgado es la remisión de copias
-
 certificadas al Ministerio Público por el delito de Desobediencia y resistencia a
-
 la autoridad contemplado en el Artículo 368 del Código Penal, de ello podemos
-
 deducir que es la más conocida y la que se cree que mayor persuasión tiene
-
 sobre la entidad demandada; puesto que, se sanciona con pena privativa de
-
 libertad, sin embargo ésta medida coercitiva que puede ser eficaz en el caso
-
 del pago de pensión de alimentos no lo es en el caso de reincorporación de
-
 trabajadores; ya que el máximo de la pena de dicho delito es de dos años, por
-
 lo que es aplicable un principio de oportunidad o en el caso que se judicialice la
+62
 
-
-                                                                               62
 pena a imponerse podría ser debajo del mínimo legal, en caso que hubiera
-
 atenuantes o suspendida, también cabe el supuesto que se archive o sobresea
-
 antes de la acusación.
-
 Cabe señalar que, el trabajador no busca que se prive de la libertad al
-
 funcionario público o el pago de una reparación civil, sino la reincorporación a
-
 su centro de trabajo, por lo que no es una medida eficaz; ya que mientras dure
-
 el proceso penal se seguirá dilatando la ejecución de la sentencia.
-
 Por otra parte la imposición de multas acumulativas y progresivas que se
-
 contempla en el Artículo 53 inciso 1 del Código Procesal Civil, podría ser una
-
 medida más eficaz que la remisión de copias certificadas al Ministerio Público;
-
 puesto que, al tener carácter pecuniario persuade o presiona al funcionario a
-
 encontrar mecanismos para efectuar el cumplimiento de la sentencia.
-
 Asimismo, en el 86% de expedientes no se ha impuesto medida coercitiva
-
 alguna, lo que podría interpretarse que la reincorporación del trabajador se ha
-
 realizado de manera oportuna; sin embargo las sentencias en su mayoría se
-
 ejecutan de seis meses a dos años como se observa de en el Cuadro y la
-
 Figura Nro. 07
-
 Finalmente, existen medidas coercitivas que no son aplicadas por el juzgado tal
-
 es el caso del Artículo 53 del inciso 2 que contempla la detención hasta por
-
 veinticuatro horas de quien resiste su mandato sin justificación, produciendo
-
 agravio a la parte o la majestad del servicio e justicia, así como la sanción
-
 administrativa que regula el Artículo 46 del TUO de la Ley que regula el
-
 Proceso Contencioso Administrativo, ello responde a que el juez tiene temor de
-
 ser quejado o denunciado por abuso de la autoridad, lo que imposibilita que se
-
 imponga medidas más drásticas.
 
+63
 
+4.5.
 
-
-                                                                             63
-4.5.   EJECUCIÓN DE LA SENTENCIA CONTENCIOSA ADMINISTRATIVA
-
-       SOBRE REINCORPORACIÓN DE TRABAJADORES
-
-       4.5.1. CANTIDAD DE TRABAJADORES REINCORPORADOS
-
-            Se ha analizado cincuenta expedientes los mismos que se encuentra en
-
-            ejecución, es decir que aún se encuentra en el Primer Juzgado Mixto y
-
-            expedientes que han sido enviados al Archivo de la Corte Superior de
-
-            Justicia de Puno.
-
-                                      CUADRO NRO. O5
-
-                   CANTIDAD DE TRABAJADORES REINCORPORADOS
-
-                                             N° de
-            Estado del Expediente                              Porcentaje
-                                          Expedientes
-             En ejecución                       8                 16%
-             Archivado (Ejecutado)             42                 84%
-            Fuente: Ficha de Análisis documental
-            Elaboración: Ejecutora de la investigación.
-                                      GRÁFICO NRO. 05
-
-
-
-
-            Fuente: Cuadro Nro. 05
-            Del Cuadro y Gráfico Número 05; perteneciente al número de
-
-            trabajadores reincorporados a su centro de labores, se aprecia 42
-
-            expedientes, que representa el 84%, se encuentran archivadas y; en 08
-
-            expedientes que representa el 16% están en proceso de ejecución.
-
-
-
-                                                                               64
-Los expedientes que se encuentran en proceso de ejecución son los
-
-que aún no han cumplido con reincorporar al trabajador los mismos que
-
-se encuentran en el Juzgado y que han empezado su ejecución en el
-
-año 2012, mientras que los expedientes que se encuentran archivados
-
-son aquellos que han sido ejecutados; es decir, que el trabajador ha
-
-sido reincorporado en su mismo cargo o en otro de igual categoría
-
-remunerativa; también aquellos expedientes que han sido declarados en
-
-abandono por inactividad procesal a pesar que conforme el Inciso 1 del
-
-Artículo 350 del Código Procesal Civil, es improcedente declarar el
-
-abandono cuando se encuentra el proceso en ejecución.
-
-                            CUADRO N° 06
-                         CAUSA DEL ARCHIVO
-
-      Causa del Archivo           N° de Expedientes     Porcentaje
- Reincorporación del trabajador             31             74%
- Abandono del Proceso                       11             26%
+EJECUCIÓN DE LA SENTENCIA CONTENCIOSA ADMINISTRATIVA
+SOBRE REINCORPORACIÓN DE TRABAJADORES
+4.5.1. CANTIDAD DE TRABAJADORES REINCORPORADOS
+Se ha analizado cincuenta expedientes los mismos que se encuentra en
+ejecución, es decir que aún se encuentra en el Primer Juzgado Mixto y
+expedientes que han sido enviados al Archivo de la Corte Superior de
+Justicia de Puno.
+CUADRO NRO. O5
+CANTIDAD DE TRABAJADORES REINCORPORADOS
+N° de
+Expedientes
+En ejecución
+8
+Archivado (Ejecutado)
+42
 Fuente: Ficha de Análisis documental
 Elaboración: Ejecutora de la investigación.
-                            GRÁFICO N° 06
+Estado del Expediente
 
+Porcentaje
+16%
+84%
 
+GRÁFICO NRO. 05
 
+Fuente: Cuadro Nro. 05
+Del Cuadro y Gráfico Número 05; perteneciente al número de
+trabajadores reincorporados a su centro de labores, se aprecia 42
+expedientes, que representa el 84%, se encuentran archivadas y; en 08
+expedientes que representa el 16% están en proceso de ejecución.
+
+64
+
+Los expedientes que se encuentran en proceso de ejecución son los
+que aún no han cumplido con reincorporar al trabajador los mismos que
+se encuentran en el Juzgado y que han empezado su ejecución en el
+año 2012, mientras que los expedientes que se encuentran archivados
+son aquellos que han sido ejecutados; es decir, que el trabajador ha
+sido reincorporado en su mismo cargo o en otro de igual categoría
+remunerativa; también aquellos expedientes que han sido declarados en
+abandono por inactividad procesal a pesar que conforme el Inciso 1 del
+Artículo 350 del Código Procesal Civil, es improcedente declarar el
+abandono cuando se encuentra el proceso en ejecución.
+CUADRO N° 06
+CAUSA DEL ARCHIVO
+Causa del Archivo
+
+N° de Expedientes
+
+Reincorporación del trabajador
+31
+Abandono del Proceso
+11
+Fuente: Ficha de Análisis documental
+Elaboración: Ejecutora de la investigación.
+
+Porcentaje
+74%
+26%
+
+GRÁFICO N° 06
 
 Fuente: Cuadro Nro. 06
 Del cuadro y la gráfico Número 06; perteneciente al número de
-
 trabajadores reincorporados a su centro de labores, se aprecia que en
+65
 
-                                                                     65
-     31 expedientes, que representa el 74%, se comunicó al juzgado con la
-
-     reincorporación del trabajador y en 11 expedientes que representa el
-
-     28%se archivó por abandono del proceso.
-
-     Como se puede apreciar, la mayoría de las sentencias que se
-
-     encuentran archivadas existe la certeza que el trabajador ha sido
-
-     reincorporado a la Institución Pública donde laboró, por otro lado existe
-
-     un grupo minoritario pero significativo en el que se le ha archivado a
-
-     consecuencia del abandono del proceso por parte del demandante;
-
-     puesto que, en cuatro meses el trabajador ha dejado de presentar
-
-     escritos para que aperciba o imponga alguna medida coercitivas no
-
-     existiendo actividad procesal por ninguna de la partes; de lo que se
-
-     deduciría que si no ha presentado escrito alguno es porque se ha
-
-     reincorporado, sin embargo no se puede deducir de esta manera; ya
-
-     que, sería una conducta negligente por parte del abogado del
-
-     denunciado no comunicar con el cumplimiento para que sea archivado
-
-     correctamente el proceso; por lo que es más probable que el trabajador
-
-     por el largo tiempo transcurrido en el proceso haya decidido
-
-     abandonarlo para buscar un trabajo o ya sea que haya encontrado un
-
-     trabajo eventual, es por ello que en algunos casos se ha solicitado el
-
-     desarchivamiento del proceso; por lo que sería necesario que en dichos
-
-     casos el Juez pida periódicamente un informe a la entidad pública a
-
-     efectos de determinar si se ha reincorporado al trabajador.
-
+31 expedientes, que representa el 74%, se comunicó al juzgado con la
+reincorporación del trabajador y en 11 expedientes que representa el
+28%se archivó por abandono del proceso.
+Como se puede apreciar, la mayoría de las sentencias que se
+encuentran archivadas existe la certeza que el trabajador ha sido
+reincorporado a la Institución Pública donde laboró, por otro lado existe
+un grupo minoritario pero significativo en el que se le ha archivado a
+consecuencia del abandono del proceso por parte del demandante;
+puesto que, en cuatro meses el trabajador ha dejado de presentar
+escritos para que aperciba o imponga alguna medida coercitivas no
+existiendo actividad procesal por ninguna de la partes; de lo que se
+deduciría que si no ha presentado escrito alguno es porque se ha
+reincorporado, sin embargo no se puede deducir de esta manera; ya
+que, sería una conducta negligente por parte del abogado del
+denunciado no comunicar con el cumplimiento para que sea archivado
+correctamente el proceso; por lo que es más probable que el trabajador
+por el largo tiempo transcurrido en el proceso haya decidido
+abandonarlo para buscar un trabajo o ya sea que haya encontrado un
+trabajo eventual, es por ello que en algunos casos se ha solicitado el
+desarchivamiento del proceso; por lo que sería necesario que en dichos
+casos el Juez pida periódicamente un informe a la entidad pública a
+efectos de determinar si se ha reincorporado al trabajador.
 4.5.2. PLAZO EN LA QUE SE EJECUTA LA SENTENCIA
+A efectos de determinar si se ejecuta en un plazo razonable, se verifico
+en qué plazo se ejecuta con la sentencia y se cumple con
+reincorporación del trabajador.
 
-     A efectos de determinar si se ejecuta en un plazo razonable, se verifico
+66
 
-     en qué plazo se ejecuta con la sentencia y se cumple con
-
-     reincorporación del trabajador.
-
-
-
-
-                                                                           66
-                       CUADRO N° 07
-        PLAZO DE EJECUCIÓN DE LA SENTENCIA
-                                 N° de
-  Plazo de Ejecución                                Porcentaje
-                              Expedientes
-De 1 mes a 5 meses                 10                  24%
-De 6 meses a 11 meses              24                  57%
-De 1 año a dos años                 8                  19%
+CUADRO N° 07
+PLAZO DE EJECUCIÓN DE LA SENTENCIA
+N° de
+Expedientes
+De 1 mes a 5 meses
+10
+De 6 meses a 11 meses
+24
+De 1 año a dos años
+8
 Fuente: Ficha de Análisis documental
 Elaboración: Ejecutora de la investigación.
-                       GRÁFICO N° 07
+Plazo de Ejecución
 
+Porcentaje
+24%
+57%
+19%
 
-
+GRÁFICO N° 07
 
 Fuente: Cuadro N° 07
 Del Cuadro y Gráfico Número 07; perteneciente al Plazo en que se
-
 ejecutó la sentencia y por consiguiente se reincorporó al trabajador, se
-
 aprecia en 24 expedientes, que representa el 57%, se ejecutaron en el
-
 plazo de 6 a 11 meses; en 10 expedientes que representa el 24% se
-
 ejecutaron en el plazo de 1 a 4 meses y en 08 expediente que
-
 representa el 19% se ejecutaron entre 1 y 2 años.
-
 Como se puede apreciar son pocos los expedientes en que se ejecuta
-
 rápidamente y ello responde a que interpusieron medidas cautelares y
-
 la voluntad que tiene la entidad demandada; sin embargo, más del
-
 cincuenta por ciento de los expedientes se han ejecutado en más de
+67
 
-
-                                                                     67
 seis meses, debido a las actuaciones dilatorias que realiza para retardar
-
 su ejecución, viéndose perjudicado él y su familia; ya que, durante éste
-
 lapso de tiempo se encuentra desempleado al no percibir ninguna
-
 remuneración.
 
+68
 
-
-
-                                                                      68
-                               CONCLUSIONES
+CONCLUSIONES
 Primera: Las deficiencias que existen en la ejecución de sentencias contenciosas
-
 administrativas son: la insuficiencia del Artículo 46 del TUO de la Ley Nro. 27584,
-
 “Ley del Proceso Contencioso Administrativo”, al no obligar; puesto que, no
-
 contempla un plazo específico para su ejecución, además que no exige informar al
-
 juzgado la persona encargada directamente de su ejecución y se omite informar si
-
 se ha cumplido con la sentencia o si realiza acciones para reincorporar al
-
 trabajador, por otro lado no existe una directiva o resolución de consejo ejecutivo o
-
 administrativo que especifique el procedimiento que debe seguir el órgano
-
 jurisdiccional.
-
 Segunda: Por otro lado las medidas coercitivas reguladas en el Artículo 46 del
-
 TUO de la Ley Nro. 27584,”Ley del Proceso Contencioso Administrativo”, carecen
-
 de precisión y no persuaden a la institución pública obligada a cumplir con
+reincorporar
 
-reincorporar      al   trabajador,   prefiriendo   el   demandante   invocar   otros
+al
+
+trabajador,
+
+prefiriendo
+
+el
+
+demandante
+
+invocar
+
+otros
 
 apercibimientos, como el contemplado en el Artículo 53 inciso 1 del Código
-
 Procesal Civil, imposición de multas acumulativas y progresivas.
-
 Tercera: Asimismo, una de las principales causas para que se dilate la ejecución
-
 de la sentencia son la presentación escritos por parte de la entidad demandada
-
 indicando la inexistencia del cargo y la falta de presupuesto para crear uno, no
-
 resolviéndose ni el problema inmediato de las remuneraciones, del mismo modo
-
 se aprecia una conducta de desinterés al no presentar escrito alguno, que genera
-
 que la ejecución de la sentencia se dilate, puesto que, el plazo promedio en que se
-
 ejecuta la sentencia es de seis meses a un año existiendo casos en que incluso
-
 puede durar dos años.
-
 Cuarto: La normatividad que contempla la ejecución de sentencias en el Proceso
-
 Contencioso Administrativo de reincorporación de trabajadores es deficiente e
-
 insuficiente, el único instrumento legal es el Artículo 46 TUO de la Ley Nro. 27584,
+69
 
-                                                                                  69
 “Ley del Proceso Contencioso Administrativo”; aplicándose supletoriamente el
-
 Artículo 4 de la Ley Orgánica del Poder Judicial y el Artículo 139 inciso 2 de la
-
 Constitución que contempla la tutela juridicial efectiva.
-
 Quinto: Los procedimientos que realiza el Primer Jugado Mixto, para que se
-
 reincorpore al trabajador, la mayoría es a petición de parte, desnaturalizándose el
-
 proceso contencioso administrativo puesto que es el juez el director del proceso;
-
 dichas actuaciones van desde solicitar que se especifique el plazo para la
-
 ejecución de la sentencia se señale apercibimientos en caso de incumplimiento, la
-
 imposición de medidas coercitivas hasta que se ordene a la entidad pública expida
-
 la resolución reincorporación cuando existe plaza presupuestada, por lo que el
-
 órgano jurisdiccional expide oficios y decretos a fin de reincorporar al trabajador.
 
+70
 
-
-
-                                                                                       70
-                             SUGERENCIAS
+SUGERENCIAS
 Primera: Se sugiere la modificación del Artículo 46 del TUO de la Ley Nro. 27584,
-
 Ley del Proceso Contencioso Administrativo; puesto que, no obliga al juez exigir
-
 que la entidad demanda cumpla con informar el nombre del funcionario encargado
-
 en forma específica de cumplir la sentencia, ni informar con la ejecución de las
-
 sentencia o las acciones que realiza para su ejecución dado que es facultativo,
-
 asimismo dicha norma debería contemplar un plazo específico para su ejecución.
-
 Segunda: Del mismo modo se sugiere la incorporación de un artículo en el TUO
-
 de la Ley Nro. 27584, Ley del Proceso Contencioso Administrativo, que señale los
-
 lineamientos, procedimientos que deben realizar los Órganos Jurisdiccionales para
-
 ejecutar las sentencias en la que se reincorpora a trabajadores.
-
 Tercera: Se recomienda a las Instituciones Públicas la creación de una base de
-
 datos en donde se precise a los trabajadores que se encuentran pendientes de ser
-
 reincorporados, para que cuando exista una plaza presupuestada libre se le
-
 reincorpore en ella no sometiéndose a concurso dicha plaza, asimismo que de
-
 manera provisional se le contrate a dichos trabajadores en otro régimen laboral
-
 mientras se les asigne un plaza.
 
+71
 
+BIBLIOGRAFÍA
+
 
+MONZON VALENCIA DE ECHEVARRÍA, Lissett Loretta. Comentario Exegético
+a la Ley que Regula el Proceso Contencioso Administrativo. Primera Edición,
+Ediciones Legales E.I.R.L. Perú, Pág. 510 – 522.
 
-                                                                              71
-                               BIBLIOGRAFÍA
+
 
-   MONZON VALENCIA DE ECHEVARRÍA, Lissett Loretta. Comentario Exegético
+HINOSTROZA MINGUEZ Alberto, “Proceso Contencioso Administrativo”;
+Edición 2010; Editorial Grijley; Pág. 523 - 526
 
-    a la Ley que Regula el Proceso Contencioso Administrativo. Primera Edición,
+
 
-    Ediciones Legales E.I.R.L. Perú, Pág. 510 – 522.
+CERVANTES ANAYA Dante A.; “Derecho Administrativo”; Sexta Edición 2011;
+Editorial RODHAS S.A.C.; Arequipa, Perú; Páginas 11-45 y 319-335.
 
-   HINOSTROZA MINGUEZ Alberto, “Proceso Contencioso Administrativo”;
+
 
-    Edición 2010; Editorial Grijley; Pág. 523 - 526
+PRIORI POSADA Giovanni E; “Comentarios a la Ley del Proceso Contencioso
+Administrativo”; Cuarta Edición 2009; Editorial ARA E.IR.L; Lima-Perú; Pág.
+269 – 297
 
-   CERVANTES ANAYA Dante A.; “Derecho Administrativo”; Sexta Edición 2011;
+
 
-    Editorial RODHAS S.A.C.; Arequipa, Perú; Páginas 11-45 y 319-335.
+CHANAMÉ ORBE, Raúl, “La Constitución Comentada”; Tomo II; Sexta Edición;
+2011, Editorial ADRUS S.R.L. Pág. 201-211.
 
-   PRIORI POSADA Giovanni E; “Comentarios a la Ley del Proceso Contencioso
+
 
-    Administrativo”; Cuarta Edición 2009; Editorial ARA E.IR.L; Lima-Perú; Pág.
+MONROY GÁLVEZ, Juan; “La Constitución comentada Artículo por Artículo”;
+Tomo II; Primer Edición 2005; Gaceta Jurídica S.A. Pág. 489-499.
 
-    269 – 297
+
 
-   CHANAMÉ ORBE, Raúl, “La Constitución Comentada”; Tomo II; Sexta Edición;
+MORON URBINA Juan Carlos; “Comentarios a la Ley del Procedimiento
+Administrativo General”; Novena Edición 2011, Gaceta Jurídica S.A, Pág.
 
-    2011, Editorial ADRUS S.R.L. Pág. 201-211.
+
 
-   MONROY GÁLVEZ, Juan; “La Constitución comentada Artículo por Artículo”;
+HUAYAPA TAPIA, Ramón A. Tratado del Proceso Contencioso Administrativo.
+1era. Edición. Jurista Editores, E.I.R.L., Lima, Perú.
 
-    Tomo II; Primer Edición 2005; Gaceta Jurídica S.A. Pág. 489-499.
+
 
-   MORON URBINA Juan Carlos; “Comentarios a la Ley del Procedimiento
+BACACORZO, Gustavo. Nueva Ley del Procedimiento Administrativo General,
+14ª.Edición. Gaceta Jurídica S.A. Lima, Perú.
 
-    Administrativo General”; Novena Edición 2011, Gaceta Jurídica S.A, Pág.
+
 
-   HUAYAPA TAPIA, Ramón A. Tratado del Proceso Contencioso Administrativo.
+Obra Colectiva, Coordinadores: Collantes Gonzáles Jorge Luis, Junceda
+Moreno Javier. Temas Actuales de Derecho Administrativo. Normas Legales
+S.A.C. Trujillo, Perú.
 
-    1era. Edición. Jurista Editores, E.I.R.L., Lima, Perú.
+72
 
-   BACACORZO, Gustavo. Nueva Ley del Procedimiento Administrativo General,
+
 
-    14ª.Edición. Gaceta Jurídica S.A. Lima, Perú.
+CABRERA
 
-   Obra Colectiva, Coordinadores: Collantes Gonzáles Jorge Luis, Junceda
+VÁSQUEZ,.
 
-    Moreno Javier. Temas Actuales de Derecho Administrativo. Normas Legales
+Marco
 
-    S.A.C. Trujillo, Perú.
+Antonio;
 
+&
 
+QUINTANA
 
+VIVANCO.
 
-                                                                              72
-   CABRERA       VÁSQUEZ,.         Marco    Antonio;       &   QUINTANA     VIVANCO.
+Rosa;.Derecho Adiministrativo y Derecho Procesal Administrativo; Editorial San
+Marcos; Tercer Edición, Febrero 2011, Lima – Perú, Pág. 963 - 736.
+
 
-    Rosa;.Derecho Adiministrativo y Derecho Procesal Administrativo; Editorial San
+OBANDO BLANCO, Victor Roberto; “Proceso y Constitución”. (G. F. Posada,
+Ed.); ARA Editores E.I.R.L. 2011; Lima – Perú; Pág. 143-188.
 
-    Marcos; Tercer Edición, Febrero 2011, Lima – Perú, Pág. 963 - 736.
+
 
+PATRÓN FAURA, P., & PATRÓN BEDOYA, P. (2005). Derecho Administrativo
+y Administración Pública (Novena Edición ed.). Lima: Grijley.
 
-   OBANDO BLANCO, Victor Roberto; “Proceso y Constitución”. (G. F. Posada,
+
 
-    Ed.); ARA Editores E.I.R.L. 2011; Lima – Perú; Pág. 143-188.
+CHAMORRO, Francisco.”La Tutela Judicial Efectiva”; 1994; Barcelona: Bosch.
 
+
 
-   PATRÓN FAURA, P., & PATRÓN BEDOYA, P. (2005). Derecho Administrativo
+COUTURE, Eduardo; “Fundamentos del Derecho Procesal Civil”; 1993;.
+Buenos Aires: Depalma.
 
-    y Administración Pública (Novena Edición ed.). Lima: Grijley.
+
 
+DANOS ORDOÑEZ, Jorge; “La Constitución Comentada”; Tomo II; 2005; Lima;
+Gaceta Jurídica S.A.
 
-   CHAMORRO, Francisco.”La Tutela Judicial Efectiva”; 1994; Barcelona: Bosch.
+
 
+FRAGA Gabino, “Derecho Administrativo”; Cuarenta Edición; Editorial Porrúa
+S.A.
 
-   COUTURE, Eduardo; “Fundamentos del Derecho Procesal Civil”; 1993;.
+de
 
-    Buenos Aires: Depalma.
+C.V.;
 
+Pág.
 
-   DANOS ORDOÑEZ, Jorge; “La Constitución Comentada”; Tomo II; 2005; Lima;
+91;
 
-    Gaceta Jurídica S.A.
+http://www.inap.org.mx/portal/images/RAP/derecho%20administrativo.pdf
+
 
+INFORME DE LA DEFENSORÍA DEL PUEBLO, Incumplimiento de Sentencias
+por
 
-   FRAGA Gabino, “Derecho Administrativo”; Cuarenta Edición; Editorial Porrúa
+parte
 
-    S.A.                 de                 C.V.;                 Pág.               91;
+de
 
-    http://www.inap.org.mx/portal/images/RAP/derecho%20administrativo.pdf
+la
 
-   INFORME DE LA DEFENSORÍA DEL PUEBLO, Incumplimiento de Sentencias
+Administración
 
-    por          parte         de           la          Administración           Estatal,
+Estatal,
 
-    http://www.google.com.pe/url?sa=t&rct=j&q=INCUMPLIMIENTO+DE+LA+SEN
+http://www.google.com.pe/url?sa=t&rct=j&q=INCUMPLIMIENTO+DE+LA+SEN
+TENCIA+SOBRE+REPOSICI%C3%93N+DE+TRABAJADOR&source=web&cd
+=1&cad=rja&ved=0CEQQFjAA&url=http%3A%2F%2Fwww.lozavalos.com.pe%
+2Falertainformativa%2Fmodulos%2Fdocumentos%2Fdescargar.php%3Fid%3D
+2796&ei=rVo2UNutF5LM9gTSwYDwDg&usg=AFQjCNEK_lesNAIeKe_gyfD4RWBjPH-Aw.
+
 
-    TENCIA+SOBRE+REPOSICI%C3%93N+DE+TRABAJADOR&source=web&cd
+Expediente
 
-    =1&cad=rja&ved=0CEQQFjAA&url=http%3A%2F%2Fwww.lozavalos.com.pe%
+Nro.
 
-    2Falertainformativa%2Fmodulos%2Fdocumentos%2Fdescargar.php%3Fid%3D
+3218-2004-AA
 
-    2796&ei=rVo2UNutF5LM9gTSwYDwDg&usg=AFQjCNEK-
+(Caso
 
-    _lesNAIeKe_gyfD4RWBjPH-Aw.
+Isaac
 
-   Expediente      Nro.      3218-2004-AA          (Caso       Isaac    Rivas    Jara),
+Rivas
 
-    http://www.tc.gob.pe/jurisprudencia/2005/03218-2004-AA.html
+Jara),
 
-                                                                                      73
+http://www.tc.gob.pe/jurisprudencia/2005/03218-2004-AA.html
+73
+
 

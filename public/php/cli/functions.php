@@ -49,24 +49,27 @@ function comparacion($text1, $text2, $minimo = 10){
     $buscado = "";
 
     $longitud_text1 = strlen($text1);
+    echo 'longitud: ' . $longitud_text1 . PHP_EOL;
 
-    for ($i=0; $i < $longitud_text1; $i++) {
+    $i = 0;
+    for ($i ; $i < $longitud_text1; $i++) {
         $buscado .=  $text1[$i];
         $posicion = stripos($text2, $buscado);
         if($posicion !== false){
-            echo "+";
+            //echo "+";
             $ultimo_encontrado = $buscado;
         }else{
-            echo ">";
+            //echo ">";
             if(strlen($ultimo_encontrado) > $minimo){
                 if(!array_search(utf8_encode($ultimo_encontrado), $encontrados)){
                     $encontrados[] = utf8_encode($ultimo_encontrado);
+                    echo $i+1 . '_' . $longitud_text1 . '_' . (int)((($i+1)*100)/$longitud_text1) . '%' . PHP_EOL;
                 }
             }
             $buscado = "";
         }
-        echo $i+1 . ' de ' . $longitud_text1 . PHP_EOL;
     }
+    echo $i+1 . '_' . $longitud_text1 . '_' . (int)((($i+1)*100)/$longitud_text1) . '%' . PHP_EOL;
     $orden = [];
     foreach ($encontrados as $key => $value) {
         $orden[$key] = strlen($value);

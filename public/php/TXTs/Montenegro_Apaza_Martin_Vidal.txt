@@ -1,3737 +1,2280 @@
-  UNIVERSIDAD NACIONAL DEL ALTIPLANO - PUNO
-      FACULTAD DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
-     ESCUELA PROFESIONAL DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
+UNIVERSIDAD NACIONAL DEL ALTIPLANO - PUNO
+FACULTAD DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
+ESCUELA PROFESIONAL DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
 
-
-
-
-   SISTEMA WEB DE BIBLIOTECA PARA EL INSTITUTO DE
+SISTEMA WEB DE BIBLIOTECA PARA EL INSTITUTO DE
 EDUCACIÓN SUPERIOR PEDAGÓGICO PÚBLICO DE JULIACA –
-                        2015
+2015
 
+TESIS
+PRESENTADA POR:
 
-                          TESIS
-                       PRESENTADA POR:
+Bach. MARTÍN VIDAL MONTENEGRO APAZA
 
-       Bach. MARTÍN VIDAL MONTENEGRO APAZA
+PARA OPTAR EL TÍTULO PROFESIONAL DE:
 
+INGENIERO ESTADÍSTICO E INFORMÁTICO
+PUNO - PERÚ
+2015
 
-           PARA OPTAR EL TÍTULO PROFESIONAL DE:
-
-        INGENIERO ESTADÍSTICO E INFORMÁTICO
-
-
-                         PUNO - PERÚ
-
-                              2015
 ÁREA: Informática
 TEMA: Ingeniería web
-                DEDICATORIA
 
-
+DEDICATORIA
 A mis padres Pedro Montenegro Campos,
 Leonicia Apaza Ayamamani y hermanos, quienes
 siempre confían en mí y por brindarme su amor,
 apoyándome e incentivando en todo momento el
 cultivo de los valores.
-
 A Dios, por otorgarme el don de vivir junto a mis
 seres queridos, por cuidar y guiarme iluminando
 cada paso de mi vida y por hacer posible uno de
 mis más grandes anhelos.
 
+i
 
-
-
-                                                i
-                            AGRADECIMIENTOS
-
-
-     A mi alma mater; la Universidad Nacional del Altiplano de Puno, también a la
-
+AGRADECIMIENTOS
+A mi alma mater; la Universidad Nacional del Altiplano de Puno, también a la
 Escuela Profesional de Ingeniería Estadística e Informática, así como a sus
-
 autoridades que la conducen, a los docentes y personal administrativo por darnos
-
 la oportunidad de formarnos profesionales al servicio de nuestro país.
-
-
-     Al director de la presente tesis así como a mi asesor por su acertada
-
+Al director de la presente tesis así como a mi asesor por su acertada
 orientación en muchas oportunidades durante el desarrollo y culminación del
-
 presente trabajo de investigación.
+Martín Vidal Montenegro Apaza
 
+ii
 
-                                                   Martín Vidal Montenegro Apaza
-
-
-
-
-                                                                                ii
-                                                        ÍNDICE
+ÍNDICE
 DEDICATORIA ......................................................................................................... i
-
 AGRADECIMIENTOS ............................................................................................. ii
-
 ÍNDICE ................................................................................................................... iii
-
 RESUMEN ............................................................................................................. vi
-
 ABSTRACT ........................................................................................................... vii
-
 INTRODUCCIÓN ................................................................................................. viii
-
-                                                     CAPÍTULO I
-
+CAPÍTULO I
 EL PLAN DE INVESTIGACIÓN
-
 1.1. FORMULACIÓN Y DEFINICIÓN DEL PROBLEMA ......................................... 1
-
 1.2. DEFINICIÓN DEL PROBLEMA ........................................................................ 2
-
 1.3. JUSTIFICACIÓN .............................................................................................. 2
-
 1.4. OBJETIVOS DE LA INVESTIGACIÓN ............................................................. 3
-
 1.4.1. OBJETIVO GENERAL ..................................................................................3
-
 1.4.2. OBJETIVOS ESPECÍFICOS .........................................................................4
-
 1.5. HIPÓTESIS DE INVESTIGACIÓN ................................................................... 4
-
-                                                    CAPÍTULO II
-
-                                                MARCO TEÓRICO
-
+CAPÍTULO II
+MARCO TEÓRICO
 2.1. ANTECEDENTES DE LA INVESTIGACIÓN .................................................... 5
-
 2.2. SUSTENTO TEÓRICO..................................................................................... 6
-
 2.2.1. WEB ..............................................................................................................6
-
 2.2.2. HTML ............................................................................................................9
-
 2.2.3. PAGINA WEB DINÁMICA ...........................................................................10
-
 2.2.4. LENGUAJE PHP .........................................................................................10
-
 2.2.5. MySQL ........................................................................................................11
 
+iii
 
-                                                                                                                           iii
 2.2.6. SISTEMA DE INFORMACIÓN ....................................................................12
-
 2.2.7. CLASES DE SISTEMAS DE INFORMACIÓN .............................................14
-
 2.2.8. CICLO DE VIDA DE LOS SISTEMAS DE INFORMACIÓN ........................15
-
 2.2.9. PROCESO UNIFICADO DE RATIONAL (RUP) ..........................................15
-
 2.2.10. BIBLIOTECA .............................................................................................20
-
 2.2.11. ANÁLISIS Y DISEÑO ORIENTADO A OBJETOS .....................................23
-
 2.2.12. LENGUAJE UNIFICADO DE MODELADO UML .......................................24
-
 2.2.13. DIAGRAMAS EN UML ..............................................................................24
-
 2.2.14. BASE DE DATOS .....................................................................................26
-
 2.2.15. IMPLANTACIÓN Y EVALUACIÓN DEL SISTEMA ...................................34
-
 2.3. DEFINICIÓN DE TÉRMINOS BÁSICOS ........................................................ 35
-
 2.4. OPERACIONALIZACIÓN DE VARIABLES .................................................... 37
-
-                                                CAPÍTULO III
-
-                                      MATERIALES Y MÉTODOS
-
+CAPÍTULO III
+MATERIALES Y MÉTODOS
 3.1. MATERIALES................................................................................................. 38
-
 3.1.1. TIPO DE INVESTIGACIÓN .........................................................................38
-
 3.1.2. DISEÑO DE INVESTIGACIÓN:...................................................................38
-
 3.1.3. POBLACIÓN ...............................................................................................39
-
 3.1.4. MUESTRA ...................................................................................................39
-
 3.2. MÉTODOS ..................................................................................................... 40
-
 3.2.1. MÉTODOS DE RECOLECCIÓN DE DATOS ..............................................40
-
 3.2.2. MÉTODOS DE TRATAMIENTO DE DATOS ..............................................40
-
 3.2.3. MATERIAL EXPERIMENTAL ......................................................................44
 
+iv
 
-
-
-                                                                                                                  iv
-                                                 CAPÍTULO IV
-
-                                     RESULTADOS Y DISCUSIÓN
-
+CAPÍTULO IV
+RESULTADOS Y DISCUSIÓN
 4.1. TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES EN LA
-
 BIBLIOTECA ANTES DE LA IMPLEMENTACIÓN DEL SISTEMA WEB DE
-
 BIBLIOTECA. ........................................................................................................ 45
-
 4.2. IMPLEMENTACIÓN DEL SISTEMA WEB DE BIBLIOTECA ......................... 47
-
 4.3. TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES EN LA
-
 BIBLIOTECA DESPUÉS DE LA IMPLEMENTACIÓN DEL SISTEMA WEB DE
-
 BIBLIOTECA. ........................................................................................................ 56
-
 4.4. COMPARA LOS TIEMPOS DE CONSULTA DE LOS LIBROS EN LA
-
 BIBLIOTECA DEL INSTITUTO SUPERIOR PÚBLICO PEDAGÓGICO. ............... 59
-
 CONCLUSIONES .................................................................................................63
-
 RECOMENDACIONES Y SUGERENCIAS ..........................................................64
-
 BIBLIOGRAFÍA ....................................................................................................65
-
 ANEXOS ...............................................................................................................68
 
+v
 
-
-
-                                                                                                                      v
-                                    RESUMEN
-
-
+RESUMEN
 La investigación se realizó en el Instituto de Educación Superior Pedagógico
-
 Público de Juliaca – 2015, en el área de biblioteca, notándose la falta de
-
 conocimiento de los libros existentes en dicha biblioteca, por parte de los usuarios
-
 (Bibliotecario, Docentes y Estudiantes), razón por la cual se planteó el objetivo de
-
 implementar un Sistema Web de Biblioteca para mejorar el tiempo de consulta de
-
 los usuarios, para el beneficio de los mismos con el fin de reducir el tiempo de las
-
 consultas, préstamo de libros; para así poder llevar un mejor control de la actividad
-
 en la biblioteca.
-
-
 Se utilizó la metodología RUP, siendo la población todos los Docentes y
-
 Estudiantes de dicha Institución y la muestra fue de 20 consultas antes del sistema
-
 y 20 consultas después de la implementación del Sistema Web de Biblioteca.
-
-
 Los resultados de la investigación realizada es que el tiempo de consulta de los
-
 docentes y estudiantes, con el Sistema Web de Biblioteca incremento de un 35%
-
 siendo este más rápido incrementado de esta manera la concurrencia de los
-
 docentes y estudiante a la biblioteca del Instituto Superior Publico Pedagógico de
-
 Juliaca para realizar préstamo de los libros y consulta de los libros existentes en la
-
 biblioteca.
+PALABRAS
 
+CLAVES:
 
-PALABRAS            CLAVES:   Biblioteca,   consulta,    diagrama,    influencia,   e
+Biblioteca,
+
+consulta,
+
+diagrama,
+
+influencia,
+
+e
 
 implementación.
 
+vi
 
-
-
-                                                                                    vi
-                                    ABSTRACT
-
-
+ABSTRACT
 The research was conducted at the Institute of Higher Education Teaching Public
-
 Juliaca - 2015, in the area of library, noting the lack of knowledge of the books in
-
 that library by users (Librarian, teachers and students), reason why the objective of
-
 implementing a Web Library System to improve query time users, for their benefit in
-
 order to reduce the time of consultations, raised loan book; in order to keep better
-
 track of activity in the library.
-
-
 RUP methodology was used, with the population all teachers and students of that
-
 institution and the sample was 20 consultations prior consultation system and 20
-
 after the implementation of Web Library System.
-
-
 The results of the research is that the query time of teachers and students with the
-
 Web Library System increased 35% and this increased faster so the audience of
-
 teachers and students to the library of the Institute Pedagogical Juliaca for public
-
 lending of books and consulting books in the library.
-
-
 KEYWORDS: Library, see, diagram, influence and implementation.
 
+vii
 
-
-
-                                                                                  vii
-                               INTRODUCCIÓN
-
-
+INTRODUCCIÓN
 La tesis titulada “Sistema Web de Biblioteca para el Instituto de Educación Superior
-
 Pedagógico Publico de Juliaca - 2015”, se desarrolló porque se deseaba contar con
-
 un Sistema web que fue de ayuda a los docentes, estudiantes y personal encargado
-
 de la biblioteca, que mejoro las consultas de los libros existentes en la Biblioteca
-
 de dicha Institución y con la visualización del algunos libros digitalizados mediante
-
 la cual mejoró el desempeño académico en los docentes y estudiantes. En la cual
-
 se tuvo como objetivo implementar una biblioteca virtual para dicha institución. En
-
 tal sentido éste trabajo de investigación está estructurado en seis capítulos
-
 organizados de la siguiente manera:
-
-
 El primer capítulo, está referido al plan de investigación, describiendo las
-
 características actuales en la que se la biblioteca del Instituto Superior de
-
 Educación Público Pedagogico, asi como se encuentra el formulando el problema
-
 y definiendo la misma a través de una interrrolgante, asi mismo se presenta la
-
 justificación del estudio para conocer su importancia y su utilidad, indicando la
-
 limitacion y alcances que brindán los resultados, finalmente se formulan los
-
 objetivos que se persigue en el estudio.
-
-
 En el segundo capítulo, se presenta el marco teórico que comprende los
-
 antecedentes del estudio, las bases teóricas, las definiciones conceptuales que son
-
 el sustento de la tesis; haciendo referencias a los aspectos generales del área de
-
 estudio y a cada una las variables de investigación, desarrolladas en base a la
-
 revisión de bibliografía actualizada y los recursos provenientes de Internet, así
-
 mismo se presentan las hipótesis de investigación con la operacionalización de las
-
 variables respectivamente.
+viii
 
-                                                                                  viii
 En el tercer capítulo, se describe la parte metodológica referida al tipo y diseño de
-
 investigación, población y muestra de estudio, técnicas e instrumentos de
-
 recolección de datos, también los métodos de análisis de datos.
-
-
 En el cuarto capítulo, se encuentra la descripción de los resultados de la
-
 investigación, para el cual se han empleado cuadros estadísticos; que permitieron
-
 clasificar las frecuencias y porcentajes del comportamiento de los datos así como
-
 del nivel de las variables, así mismo se emplearon gráficos estadísticos; que
-
 permitieron apreciar los resultados en forma representativa y visual, todo ello
-
 producto de las técnicas estadísticas aplicadas para las series temporales.
-
-
 Finalizando, se señalan las conclusiones a las que se arribaron en la investigación,
-
 como también se presenta las sugerencias para próximos trabajos de investigación
-
 en áreas relacionadas.
-
-
 También, se hace mención a las referencias bibliográficas consultadas referentes
-
 a metodología de la investigación y al tema objeto de investigación, presentando
-
 también las referencias digitales a través de direcciones de Internet.
 
+ix
 
-
-
-                                                                                   ix
-                               CAPÍTULO I
-
-                     EL PLAN DE INVESTIGACIÓN
-
-
+CAPÍTULO I
+EL PLAN DE INVESTIGACIÓN
 1.1. FORMULACIÓN Y DEFINICIÓN DEL PROBLEMA
+El Instituto de Educación Superior Pedagógico Público de Juliaca, es una
+Institución cuya misión es la formación de futuros profesionales en las
+diferentes áreas como docentes de educación inicial, primaria y secundaria en
+las diferentes especialidades tales como; ciencias sociales, comunicación,
+matemáticas, ciencia tecnología y ambiente. Dicha Institución cuenta con una
+área de biblioteca la cual brinda servicio a los docentes y estudiantes,
+facilitándoles la información que requieran para su mejor desenvolvimiento en
+su formación personal y profesional, la cual se ha observado que se realizaba
+de manera manual, ya que el estudiante se apersona a la biblioteca para
+prestarse un libro en la cual el bibliotecario buscaba el libro si este existe en
+la biblioteca, posteriormente verificaba si está disponible para que pueda ser
+prestado las cuales presentaba varias dificultades en el manejo de la gestión
+de los recursos, tales como pérdida de tiempo a la hora de prestar y recibir los
+libros, ya sea para el usuario o el administrador de la biblioteca debido a que
+no contaba con un sistema automatizado que ayude a tener acceso a la
+información oportuna, esto produce resultados negativos al factor social y
+tecnológico. De ahí parte el deber de nosotros de incentivar, promover y
 
+1
 
-   El Instituto de Educación Superior Pedagógico Público de Juliaca, es una
-
-   Institución cuya misión es la formación de futuros profesionales en las
-
-   diferentes áreas como docentes de educación inicial, primaria y secundaria en
-
-   las diferentes especialidades tales como; ciencias sociales, comunicación,
-
-   matemáticas, ciencia tecnología y ambiente. Dicha Institución cuenta con una
-
-   área de biblioteca la cual brinda servicio a los docentes y estudiantes,
-
-   facilitándoles la información que requieran para su mejor desenvolvimiento en
-
-   su formación personal y profesional, la cual se ha observado que se realizaba
-
-   de manera manual, ya que el estudiante se apersona a la biblioteca para
-
-   prestarse un libro en la cual el bibliotecario buscaba el libro si este existe en
-
-   la biblioteca, posteriormente verificaba si está disponible para que pueda ser
-
-   prestado las cuales presentaba varias dificultades en el manejo de la gestión
-
-   de los recursos, tales como pérdida de tiempo a la hora de prestar y recibir los
-
-   libros, ya sea para el usuario o el administrador de la biblioteca debido a que
-
-   no contaba con un sistema automatizado que ayude a tener acceso a la
-
-   información oportuna, esto produce resultados negativos al factor social y
-
-   tecnológico. De ahí parte el deber de nosotros de incentivar, promover y
-
-
-
-                                                                                  1
-    generar que los docentes y estudiantes utilicen los libros que existen en la
-
-    biblioteca y fomentar al hábito del estudio.
-
-
-    Por lo cual, al crear un Sistema de Información vía Web de la biblioteca del
-
-    Instituto Superior de Educación Público Pedagógico – Juliaca, mediante la
-
-    cual se realza un control bien organizado de todas las actividades
-
-    administrativas tales como codificación de los libros, préstamos, devoluciones,
-
-    disponibilidad de los libros y sus respectivos reportes para resolver algunos
-
-    de los problemas de organización se debe de llevar una buena catalogación
-
-    de los recursos, ya que el sistema cuenta con una interfaz amigable y de fácil
-
-    manipulación para los usuarios, para así poder hacer uso del avance de la
-
-    tecnología e información la cual nos permite automatizar la biblioteca de dicha
-
-    Institución.
-
-
+generar que los docentes y estudiantes utilicen los libros que existen en la
+biblioteca y fomentar al hábito del estudio.
+Por lo cual, al crear un Sistema de Información vía Web de la biblioteca del
+Instituto Superior de Educación Público Pedagógico – Juliaca, mediante la
+cual se realza un control bien organizado de todas las actividades
+administrativas tales como codificación de los libros, préstamos, devoluciones,
+disponibilidad de los libros y sus respectivos reportes para resolver algunos
+de los problemas de organización se debe de llevar una buena catalogación
+de los recursos, ya que el sistema cuenta con una interfaz amigable y de fácil
+manipulación para los usuarios, para así poder hacer uso del avance de la
+tecnología e información la cual nos permite automatizar la biblioteca de dicha
+Institución.
 1.2. DEFINICIÓN DEL PROBLEMA
-
-
-    ¿De qué manera el Sistema Web de Biblioteca mejorará la consulta de los
-
-    docentes y estudiantes del Instituto de Educación Superior Pedagógico
-
-    Público de Juliaca en el año 2015?
-
-
+¿De qué manera el Sistema Web de Biblioteca mejorará la consulta de los
+docentes y estudiantes del Instituto de Educación Superior Pedagógico
+Público de Juliaca en el año 2015?
 1.3. JUSTIFICACIÓN
+La administración de recursos a través de la planeación, la organización y el
+control es una parte fundamental de todas las instituciones, la cual sirve para
+mejorar todas las áreas de las mismas. Es por ello que las instituciones
+necesitan mejorar su infraestructura de información para poder ser más
+competitivos, adaptándose a los cambios tecnológicos, por tanto se considera
+de gran importancia que la transformación del manejo de información de
+2
 
-
-    La administración de recursos a través de la planeación, la organización y el
-
-    control es una parte fundamental de todas las instituciones, la cual sirve para
-
-    mejorar todas las áreas de las mismas. Es por ello que las instituciones
-
-    necesitan mejorar su infraestructura de información para poder ser más
-
-    competitivos, adaptándose a los cambios tecnológicos, por tanto se considera
-
-    de gran importancia que la transformación del manejo de información de
-
-
-                                                                                 2
-   sistema manual a un sistema automatizado ayudaría a controlar y mejorar la
-
-   información que se maneja en la biblioteca del Instituto de Educación
-
-   Pedagógico Público de Juliaca.
-
-
-   La biblioteca por prestar un servicio importante a la comunidad docente y
-
-   estudiantil del Instituto de Educación Pedagógico Público de Juliaca, debe
-
-   contar con un sistema automatizado que ayude a mejorar y minimizar los
-
-   procesos con los que ésta cuenta, tales como préstamos de libros,
-
-   devoluciones, codificación de los mismos, elaboración de reportes, estas
-
-   actividades anteriormente mencionadas hace que se vuelvan dificultosas
-
-   tanto para el administrador de la biblioteca como para los usuarios debido a
-
-   que se hacen manualmente causando pérdida de tiempo para ambos
-
-   (administrador y usuarios), mala organización de los recursos bibliotecarios
-
-   ya que surgen equivocaciones al momento de codificar los libros, extravío de
-
-   algunos ejemplares por tener mal organizada las fichas de préstamos y
-
-   devoluciones, volviéndose tedioso y complicado para el administrador poder
-
-   realizar a cabalidad su trabajo, es por ello que se considera que con un
-
-   sistema de información permitirá mejorar la administración de los recursos
-
-   bibliotecarios del Instituto de Educación Pedagógico Público de Juliaca.
-
-
+sistema manual a un sistema automatizado ayudaría a controlar y mejorar la
+información que se maneja en la biblioteca del Instituto de Educación
+Pedagógico Público de Juliaca.
+La biblioteca por prestar un servicio importante a la comunidad docente y
+estudiantil del Instituto de Educación Pedagógico Público de Juliaca, debe
+contar con un sistema automatizado que ayude a mejorar y minimizar los
+procesos con los que ésta cuenta, tales como préstamos de libros,
+devoluciones, codificación de los mismos, elaboración de reportes, estas
+actividades anteriormente mencionadas hace que se vuelvan dificultosas
+tanto para el administrador de la biblioteca como para los usuarios debido a
+que se hacen manualmente causando pérdida de tiempo para ambos
+(administrador y usuarios), mala organización de los recursos bibliotecarios
+ya que surgen equivocaciones al momento de codificar los libros, extravío de
+algunos ejemplares por tener mal organizada las fichas de préstamos y
+devoluciones, volviéndose tedioso y complicado para el administrador poder
+realizar a cabalidad su trabajo, es por ello que se considera que con un
+sistema de información permitirá mejorar la administración de los recursos
+bibliotecarios del Instituto de Educación Pedagógico Público de Juliaca.
 1.4. OBJETIVOS DE LA INVESTIGACIÓN
+1.4.1.
 
+OBJETIVO GENERAL
 
-   1.4.1.   OBJETIVO GENERAL
+Determinar la influencia del Sistema web de biblioteca sobre el tiempo de
+consulta de libros por parte de los docentes y estudiantes en el instituto de
+educación superior pedagógico público de Juliaca en el año 2015.
 
+3
 
-   Determinar la influencia del Sistema web de biblioteca sobre el tiempo de
-
-   consulta de libros por parte de los docentes y estudiantes en el instituto de
-
-   educación superior pedagógico público de Juliaca en el año 2015.
-
-
-
-                                                                              3
-    1.4.2. OBJETIVOS ESPECÍFICOS
-
-
-     1. Analizar el tiempo de la consulta de los docentes y estudiantes en la
-
-       biblioteca del Instituto Superior Público Pedagógico de Juliaca en el año
-
-       2015, antes del sistema web de biblioteca.
-
-
-     2. Analizar el tiempo de la consulta de los docentes y estudiantes en la
-
-       biblioteca del Instituto Superior Público Pedagógico de Juliaca en el año
-
-       2015, en el sistema web de biblioteca.
-
-
-     3. Comparar los tiempos de consulta de los libros en la biblioteca del Instituto
-
-       Superior Público Pedagógico de Juliaca en el año 2015, antes y después
-
-       del sistema de biblioteca.
-
-
+1.4.2. OBJETIVOS ESPECÍFICOS
+1. Analizar el tiempo de la consulta de los docentes y estudiantes en la
+biblioteca del Instituto Superior Público Pedagógico de Juliaca en el año
+2015, antes del sistema web de biblioteca.
+2. Analizar el tiempo de la consulta de los docentes y estudiantes en la
+biblioteca del Instituto Superior Público Pedagógico de Juliaca en el año
+2015, en el sistema web de biblioteca.
+3. Comparar los tiempos de consulta de los libros en la biblioteca del Instituto
+Superior Público Pedagógico de Juliaca en el año 2015, antes y después
+del sistema de biblioteca.
 1.5. HIPÓTESIS DE INVESTIGACIÓN
+H1: El sistema web de biblioteca influye favorablemente en la consulta de
+libros por parte de los estudiantes y docentes del Instituto de Educación
+Pedagógico Público de Juliaca en el año 2015.
+H0: El sistema web de biblioteca no influye favorablemente en la consulta de
+libros por parte de los estudiantes y docentes del Instituto de Educación
+Pedagógico Público de Juliaca en el año 2015.
 
+4
 
-    H1: El sistema web de biblioteca influye favorablemente en la consulta de
-
-    libros por parte de los estudiantes y docentes del Instituto de Educación
-
-    Pedagógico Público de Juliaca en el año 2015.
-
-
-    H0: El sistema web de biblioteca no influye favorablemente en la consulta de
-
-    libros por parte de los estudiantes y docentes del Instituto de Educación
-
-    Pedagógico Público de Juliaca en el año 2015.
-
-
-
-
-                                                                                   4
-                               CAPÍTULO II
-
-                            MARCO TEÓRICO
-
-
+CAPÍTULO II
+MARCO TEÓRICO
 2.1. ANTECEDENTES DE LA INVESTIGACIÓN
+Entre los estudios anteriores a la investigacion se puede nombrar a: Edgar, A.
+(2009) en su investigacion señala como Objetivo General: Analizar y
+desarrollar un sistema de registro académico para la institución educativa
+TELESUP usando las potencialidades que ofrece la tecnología web , para el
+beneficio del personal administrativo , docente y alumnos , con el fin de reducir
+las tareas consultar y llevar un mejor carga de la actividad académica dentro
+de la institución para ello fue necesario realizar un análisis y modelamiento del
+sistema a desarrollar utilizando diferentes metodologías , así como el uso de
+diagramas y otros ,para el desarrollo de la aplicación se usó la metodología
+RUP y haciendo uso también de los diagramas UML.
+José, D. (2005), en su investigación señala como Objetivo General:
+Desarrollar un estudio sobre las tendencias y expectativas de las bibliotecas
+digitales en el campo de investigación científica; análisis, diseño e
+implementación del sistema en web de biblioteca digital utilizando las
+herramientas que el diseño web y la ingeniería de software. En la cual llego a
+la conclusión la biblioteca digital, desarrollada cubre las necesidades de
+información que puede tener el investigador debido a que permite realizar
+5
 
-
-   Entre los estudios anteriores a la investigacion se puede nombrar a: Edgar, A.
-
-   (2009) en su investigacion señala como Objetivo General: Analizar y
-
-   desarrollar un sistema de registro académico para la institución educativa
-
-   TELESUP usando las potencialidades que ofrece la tecnología web , para el
-
-   beneficio del personal administrativo , docente y alumnos , con el fin de reducir
-
-   las tareas consultar y llevar un mejor carga de la actividad académica dentro
-
-   de la institución para ello fue necesario realizar un análisis y modelamiento del
-
-   sistema a desarrollar utilizando diferentes metodologías , así como el uso de
-
-   diagramas y otros ,para el desarrollo de la aplicación se usó la metodología
-
-   RUP y haciendo uso también de los diagramas UML.
-
-
-   José, D. (2005), en su investigación señala como Objetivo General:
-
-   Desarrollar un estudio sobre las tendencias y expectativas de las bibliotecas
-
-   digitales en el campo de investigación científica; análisis, diseño e
-
-   implementación del sistema en web de biblioteca digital utilizando las
-
-   herramientas que el diseño web y la ingeniería de software. En la cual llego a
-
-   la conclusión la biblioteca digital, desarrollada cubre las necesidades de
-
-   información que puede tener el investigador debido a que permite realizar
-
-                                                                                  5
-   búsquedas y descargas de documentos digitales con información científica.
-
-   La característica de esta biblioteca principal, es ser una aplicación distribuida
-
-   y libre para que toda persona interesada pueda acceder a ella por medio del
-
-   internet, esto ara más simple el crecimiento del acervo y la disponibilidad que
-
-   se espera tener.
-
-
+búsquedas y descargas de documentos digitales con información científica.
+La característica de esta biblioteca principal, es ser una aplicación distribuida
+y libre para que toda persona interesada pueda acceder a ella por medio del
+internet, esto ara más simple el crecimiento del acervo y la disponibilidad que
+se espera tener.
 2.2. SUSTENTO TEÓRICO
+2.2.1. WEB
+La World Wide Web, es un sistema de información distribuido basado en
+hipertexto o hipermedios enlazados y accesibles a través de Internet. Con un
+navegador web, un usuario visualiza sitios web compuestos de páginas web
+que pueden contener texto, imágenes, videos u otros contenidos multimedia,
+y navega a través de ellas usando hiperenlaces.
+La Web fue creada alrededor de 1989 por el inglés Tim Berners-Lee y el belga
+Robert Cailliau mientras trabajaban en el CERN en Ginebra, Suiza, y
+publicada en 1992. Desde entonces, Berners-Lee ha jugado un papel activo
+guiando el desarrollo de estándares Web (como los lenguajes de marcado con
+los que se crean las páginas web), y en los últimos años ha abogado por su
+visión de una Web Semántica.
+FUNCIONAMIENTO DE LA WEB
+El primer paso consiste en traducir la parte nombre del servidor de la URL en
+una dirección IP usando la base de datos distribuida de Internet conocida
+como DNS. Esta dirección IP es necesaria para contactar con el servidor web
+y poder enviarle paquetes de datos.
+6
 
-
-   2.2.1. WEB
-
-
-   La World Wide Web, es un sistema de información distribuido basado en
-
-   hipertexto o hipermedios enlazados y accesibles a través de Internet. Con un
-
-   navegador web, un usuario visualiza sitios web compuestos de páginas web
-
-   que pueden contener texto, imágenes, videos u otros contenidos multimedia,
-
-   y navega a través de ellas usando hiperenlaces.
-
-
-   La Web fue creada alrededor de 1989 por el inglés Tim Berners-Lee y el belga
-
-   Robert Cailliau mientras trabajaban en el CERN en Ginebra, Suiza, y
-
-   publicada en 1992. Desde entonces, Berners-Lee ha jugado un papel activo
-
-   guiando el desarrollo de estándares Web (como los lenguajes de marcado con
-
-   los que se crean las páginas web), y en los últimos años ha abogado por su
-
-   visión de una Web Semántica.
-
-
-   FUNCIONAMIENTO DE LA WEB
-
-
-   El primer paso consiste en traducir la parte nombre del servidor de la URL en
-
-   una dirección IP usando la base de datos distribuida de Internet conocida
-
-   como DNS. Esta dirección IP es necesaria para contactar con el servidor web
-
-   y poder enviarle paquetes de datos.
-
-                                                                                  6
 El siguiente paso es enviar una petición HTTP al servidor Web solicitando el
-
 recurso. En el caso de una página web típica, primero se solicita el texto HTML
-
 y luego es inmediatamente analizado por el navegador, el cual, después, hace
-
 peticiones adicionales para los gráficos y otros ficheros que formen parte de
-
 la página. Las estadísticas de popularidad de un sitio web normalmente están
-
 basadas en el número de páginas vistas o las peticiones de servidor
-
 asociadas, o peticiones de fichero, que tienen lugar.
-
-
 Al recibir los ficheros solicitados desde el servidor web, el navegador rende
-
 riza la página tal y como se describe en el código HTML, el CSS y otros
-
 lenguajes web. Al final se incorporan las imágenes y otros recursos para
-
 producir la página que ve el usuario en su pantalla.
-
-
 La mayoría de las páginas web contienen hiperenlaces a otras páginas
-
 relacionadas y algunas también contienen descargas, documentos fuente,
-
 definiciones y otros recursos web. Esta colección de recursos útiles y
-
 relacionados, interconectados a través de enlaces de hipertexto, es lo que ha
-
 sido denominado como 'red' (web, en inglés) de información. Al trasladar esta
-
 idea a Internet, se creó lo que Tim Bernés-Lee llamó World Wide Web un
-
 término escrito en Camel Case, posteriormente desechado en 1990.
-
-
 Si un usuario accede de nuevo a una página después de un pequeño intervalo,
-
 es probable que no se vuelvan a recuperar los datos del servidor web de la
-
 forma en que se explicó en el apartado anterior. Por defecto, los navegadores
-
 almacenan en una caché del disco duro local todos los recursos web a los que
-
 el usuario va accediendo. El navegador enviará una petición HTTP sólo si la
-
 página ha sido actualizada desde la última carga, en otro caso, la versión
+7
 
-
-                                                                             7
 almacenada se reutilizará en el paso de rende rizado para agilizar la
-
 visualización de la página.
-
-
 Esto nos ayuda a comprender la diferencia entre los verbos HTTP 'GET' y
-
 'POST' - los datos solicitados con GET pueden ser almacenados en la caché,
-
 si se cumplen las otras condiciones, mientras que con los datos obtenidos
-
 después de enviar información al servidor con POST normalmente no se
-
 puede.
-
-
 VENTAJAS DE LA WEB
-
-
 Proveer a clientes la información acerca de sus productos y servicios, y
-
 actualizarla a medida que se van desarrollando nuevos aspectos de ellos.
-
 Esto es mucho más sencillo y económico que hacer llamadas telefónicas,
-
 imprimir nuevos catálogos o hacer publicaciones de prensa cada vez que lo
-
 requiera.
-
-
 Evaluar a sus clientes actuales y desarrollar nuevas oportunidades de
-
 negocio. Mediante encuestas publicadas dentro de su página Web, puede
-
 obtener una respuesta de sus clientes actuales, y así conocer y abordar mejor
-
 sus inquietudes y sugerencias respecto al servicio que están recibiendo de su
-
 empresa. Igualmente, puede mostrar nuevos productos e ideas y conseguir la
-
 opinión de los visitantes de su página, que son a la vez sus clientes
-
 potenciales. De esta manera, puede crear una base de datos de clientes
-
 (actuales y potenciales) para luego enviarle nuevas informaciones a través de
-
 correos electrónicos con costos irrisorios.
 
+8
 
-
-
-                                                                           8
 Otorgar información detallada y específica acerca de sus productos (manuales
-
 de instrucción) y de los procesos de comercialización (adquisición y compra)
-
 de los mismos. Si su público desea saber más sobre la empresa, la página
-
 Web es el mejor vehículo para hacerle llegar esa información. (STOUD, R.
-
 2005).
-
-
 SERVIDOR WEB
-
-
 Un servidor web o servidor HTTP es un programa informático que procesa
-
 una aplicación del lado del servidor realizando conexiones bidireccionales y/o
-
 unidireccionales y asíncronas con el cliente generando o cediendo una
-
 respuesta en cualquier lenguaje o Aplicación del lado del cliente. El código
-
 recibido por el cliente suele ser compilado y ejecutado por un navegador web.
-
 Para la transmisión de todos estos datos suele utilizarse algún protocolo.
-
 Generalmente se utiliza el protocolo HTTP para estas comunicaciones,
-
 perteneciente a la capa de aplicación del modelo OSI. El término también se
-
 emplea para referirse al ordenador que ejecuta el programa. (EVANST, T.
-
 1997).
-
-
 2.2.2. HTML
-
-
 Hyper Text Markup Language («lenguaje de marcado de hipertexto»), es el
-
 lenguaje de marcado predominante para la elaboración de páginas web. Es
-
 usado para describir la estructura y el contenido en forma de texto, así como
-
 para complementar el texto con objetos tales como imágenes. HTML se
-
 escribe en forma de «etiquetas», rodeadas por corchetes angulares (<,>).
-
 HTML también puede describir, hasta un cierto punto, la apariencia de un
-
 documento, y puede incluir un script (por ejemplo JavaScript), el cual puede
+9
 
-                                                                            9
 afectar el comportamiento de navegadores web y otros procesadores de
-
 HTML. HTML también es usado para referirse al contenido del tipo de MIME
-
 text/html o todavía más ampliamente como un término genérico para el HTML,
-
 ya sea en forma descendida del XML o en forma descendida directamente de
-
 SGML. (HAHN, H. 2008).
-
-
 2.2.3. PAGINA WEB DINÁMICA
-
-
 Se conoce con el nombre de página web dinámica a aquélla, cuyo contenido
-
 se genera a partir de lo que un usuario introduce en un web o formulario.
-
 (HEATHER, W. 2005).
-
-
 El contenido de la página no está incluido en un archivo html como en el caso
-
 de las páginas web estáticas.
-
-
 Las aplicaciones más conocidas de las páginas web dinámicas son:
-
-
 • Mostrar el contenido de una base de datos, con base en la información que
-
 solicita un usuario a través de un formulario de web.
-
-
 • Actualizar el contenido de una base de datos.
-
-
 • Generar páginas web de contenido estático.
-
-
 Mejorar la interacción entre el usuario y el sitio web.
-
-
 2.2.4. LENGUAJE PHP
-
-
 PHP es un lenguaje de programación de uso general de código del lado del
-
 servidor originalmente diseñado para el desarrollo web de contenido dinámico.
-
 Fue uno de los primeros lenguajes de programación del lado del servidor que
+10
 
-
-                                                                          10
 se podían incorporar directamente en el documento HTML en lugar de llamar
-
 a un archivo externo que procese los datos. El código es interpretado por un
-
 servidor web con un módulo de procesador de PHP que genera la página Web
-
 resultante. PHP ha evolucionado por lo que ahora incluye también una interfaz
-
 de línea de comandos que puede ser usada en aplicaciones gráficas
-
 independientes. Puede ser usado en la mayoría de los servidores web al igual
-
 que en casi todos los sistemas operativos y plataformas sin ningún costo.
-
 (OROS, C. 2007).
-
-
 2.2.5. MySQL
-
-
 MYSQL es un sistema de administración de base de datos relacional
-
 (RDBMS) se trata de un programa capaza de almacenar una enorme cantidad
-
 de datos de gran variedad y distribuidos para cubrir la necesidad de cualquier
-
 tipo de organización, desde pequeños establecimientos comerciales a
-
 grandes empresas y organismo administrativo. (DUBOIS, P. 2005).
-
-
 MYSQL compite con sistemas RDBMS propietarios conocidos como Oracle,
-
 SQL Server y DB2.
-
-
 MYSQL incluye todos los elementos necesarios para instalar el programa,
-
 preparar diferentes niveles de acceso de usuario, administrar sistema,
-
 proteger y hacer volcados los datos. Puede desarrollar sus propias
-
 aplicaciones de base de datos en mayor parte de los lenguajes de
-
 programación utilizados en la actualidad y ejecutarlos en casi todos los
-
 sistemas operativos, incluyendo algunos de los probablemente no hay oído
-
 hablara nunca.
 
+11
 
+MYSQL utiliza el lenguaje estructurado SQL, que se
 
-                                                                           11
-MYSQL utiliza el lenguaje estructurado SQL, que se        trata del lenguaje
+trata del lenguaje
 
 utilizado por todas las bases de datos relacionales. Este lenguaje permite
-
 crear base de datos, así como agregar, manipular y recuperar datos en función
-
 de criterios específicos.
-
-
 Uso de MySQL es muy popular en aplicaciones web, y es componente de las
-
 plataformas LAMP, MAMP, WAMP, entre otras. MySQL suele combinarse con
-
 el popular lenguaje PHP.
-
-
 CARACTERÍSTICAS DE MYSQL
-
-
 - MySQL está escrito en C y C++.
-
-
 - Emplea el lenguaje SQL para consultas a la base de datos.
-
-
 - MySQL Server está disponible como freeware bajo licencia GPL.
-
-
 2.2.6. SISTEMA DE INFORMACIÓN
-
-
 Es un conjunto de procedimientos, personas y equipos que permiten a una
-
 organización capturar datos, transformarlos en información y presentarlos en
-
 información y presentarla en forma adecuada y oportuna para la toma de
-
 decisiones. (SOLOMON, P. 1998).
-
-
 Un sistema de información es un conjunto de elementos interrelacionados con
-
 el propósito de prestar atención a las demandas de información de una
-
 organización, para elevar el nivel de conocimientos que permitan un mejor
-
 apoyo a la toma de decisiones y desarrollo de acciones.
 
+12
 
-
-
-                                                                          12
 Un sistema de información realiza cuatro actividades básicas: entrada,
-
 almacenamiento, procesamiento y salida de información. Entrada de
-
 Información: Es el proceso mediante el cual el Sistema de Información toma
-
 los datos que requiere para procesar la información. Las entradas pueden ser
-
 manuales o automáticas. Las manuales son aquellas que se proporcionan en
-
 forma directa por el usuario, mientras que las automáticas son datos o
-
 información que provienen o son tomados de otros sistemas o módulos. Esto
+se
 
-se   denomina   interfaz manual.    Almacenamiento     de    información:   El
+denomina
+
+interfaz manual.
+
+Almacenamiento
+
+de
+
+información:
+
+El
 
 almacenamiento es una de las actividades o capacidades más importantes
-
 que tiene una computadora, ya que a través de esta propiedad el sistema
-
 puede recordar la información guardada en la sección o proceso anterior. Esta
+información
 
-información   suele   ser   almacenada    en   estructuras   de   información
+suele
+
+ser
+
+almacenada
+
+en
+
+estructuras
+
+de
+
+información
 
 denominadas archivos. La unidad típica de almacenamiento son los discos
-
 magnéticos o discos duros, los discos flexibles o memoria USB y los discos
-
 compactos (CD-ROM).
-
-
 Procesamiento de Información: Es la capacidad del Sistema de Información
-
 para efectuar cálculos de acuerdo con una secuencia de operaciones
-
 preestablecida. Estos cálculos pueden efectuarse con datos introducidos
-
 recientemente en el sistema o bien con datos que están almacenados. Esta
-
 característica de los sistemas permite la transformación de datos fuente en
-
 información que puede ser utilizada para la toma de decisiones, lo que hace
-
 posible, entre otras cosas, que un tomador de decisiones genere una
-
 proyección financiera a partir de los datos que contiene un estado de
-
 resultados o un balance general de un año base.
 
+13
 
+Salida de Información: La salida es la capacidad de un Sistema de Información
+para sacar la información procesada o bien datos de entrada al exterior. Las
+unidades típicas de salida son las impresoras, terminales, diskettes, cintas
+magnéticas, la voz, los graficado res y los plotters, entre otros. Es importante
+aclarar que la salida de un Sistema de Información puede constituir la entrada
+a otro Sistema de Información o módulo. En este caso, también existe una
+interface automática de salida.
+Otro autor define que “Un sistema de información es el sistema de personas,
+registros de datos y actividades que procesa los datos y la información en
+cierta
 
+organización, incluyendo manuales de procesos o procesos
 
-                                                                            13
-     Salida de Información: La salida es la capacidad de un Sistema de Información
-
-     para sacar la información procesada o bien datos de entrada al exterior. Las
-
-     unidades típicas de salida son las impresoras, terminales, diskettes, cintas
-
-     magnéticas, la voz, los graficado res y los plotters, entre otros. Es importante
-
-     aclarar que la salida de un Sistema de Información puede constituir la entrada
-
-     a otro Sistema de Información o módulo. En este caso, también existe una
-
-     interface automática de salida.
-
-
-     Otro autor define que “Un sistema de información es el sistema de personas,
-
-     registros de datos y actividades que procesa los datos y la información en
-
-     cierta   organización, incluyendo manuales de procesos o procesos
-
-     automatizados.” (JAMES A. 1992).
-
-
+automatizados.” (JAMES A. 1992).
 2.2.7. CLASES DE SISTEMAS DE INFORMACIÓN
+SISTEMA DE PROCESAMIENTO DE DATOS
+Son sistemas de información computarizados que se desarrollan para
+procesar grandes volúmenes de información, generando las funciones
+administrativas, como la nómina o control de servicios.
+SISTEMAS INFORMÁTICOS PARA LA ADMINISTRACIÓN
+Los sistemas de información para la administración (MIS) no sustituyen a los
+sistemas de procesamiento de datos, más bien todos toman en cuenta a las
+funciones de procesamiento de datos. (HASEN, G. 2007).
 
+14
 
-     SISTEMA DE PROCESAMIENTO DE DATOS
-
-
-     Son sistemas de información computarizados que se desarrollan para
-
-     procesar grandes volúmenes de información, generando las funciones
-
-     administrativas, como la nómina o control de servicios.
-
-
-     SISTEMAS INFORMÁTICOS PARA LA ADMINISTRACIÓN
-
-
-     Los sistemas de información para la administración (MIS) no sustituyen a los
-
-     sistemas de procesamiento de datos, más bien todos toman en cuenta a las
-
-     funciones de procesamiento de datos. (HASEN, G. 2007).
-
-
-
-
-                                                                                  14
 SISTEMA DE APOYO PARA LA TOMA DE DECISIONES
-
-
 El sistema de apoyo para la toma de decisiones es similar a los sistemas de
-
 información tradicionales para la administración, ya que ambos dependen de
-
 una base de datos como fuente de información para la administración, al hacer
-
 énfasis en el soporte en cada una de las etapas de la toma de decisiones en
-
 sí, depende de la misma persona responsable de la misma. Los sistemas de
-
 apoyo para la toma de decisiones se diseñan con una orientación hacia la
-
 persona o grupo que los utilizara, y no como los sistemas de información
-
 tradicionales para la administración.
-
-
 2.2.8. CICLO DE VIDA DE LOS SISTEMAS DE INFORMACIÓN
-
-
 El ciclo de vida de un sistema de información es un enfoque por fases del
-
 análisis y diseño que sostiene que los sistemas son desarrollados de mejor
-
 manera mediante el uso de un ciclo especifico de actividades del analista y
-
 del usuario.
-
-
 Según James Senn, existen tres estrategias para el desarrollo de sistemas: el
-
 método clásico del ciclo de vida de desarrollo de sistemas, el método de
-
 desarrollo por análisis estructurado y el método de construcción de prototipos
-
 de sistemas. Cada una de estas estrategias tiene un uso amplio en cada una
-
 de los diversos tipos de empresas que existen, y resultan efectivas si son
-
 aplicadas de manera adecuada.
-
-
 2.2.9. PROCESO UNIFICADO DE RATIONAL (RUP)
-
 Un proceso define quien está haciendo que, y cuando, además dice como
-
 alcanzar un determinado objetivo. En la ingeniería de software el objetivo es
+15
 
-                                                                           15
 construir un producto de software (RUMBAUGH, 1999), vale decir, que todos
-
 los proyectos necesitan de un proceso que guie sus actividades.
-
-
 Según Jacobson en sus libros “El procesos Unificado de desarrollo de
-
 Software”, unos procesos efectivos proporcionan normas para el desarrollo
-
 eficiente de Software de calidad, captura y presenta las mejores prácticas que
-
 la tecnología permite. Por tanto reduce el riesgo y hace el proyecto más
-
 predecible.
-
-
 Entre muchos investigadores de la orientación a objetos hay tres autores que
-
 se han destacado por sus contribuciones al uso del paradigma en todo el
-
 proceso de desarrollo: Ivar Jacobson, Grady Booch y James Rumbaug h.
-
 Luego de muchos años de trabajo individual desarrollado y difundido sus
-
 propios métodos, han unido sus teorías y su experiencia, y se han puesto a la
-
 cabeza de un formidable grupo de investigadores para contribuir dos
-
 herramientas con las cuales buscan estandarizar y por ende facilitar el uso de
-
 los objetos en la programación: El lenguaje Unificado de Modelo (UML Unified
-
 Modeling Language) y el proceso unificado rotacional para el desarrollo de
-
 programas (RUP, Rational Unified Process ) mientras que UML, es ya un
-
 lenguaje maduro que ha logrado la aceptación de amplios sectores de las
-
 industria y la academia, RUP sigue siendo aún una propuesta que deberá
-
 depurarse y templarse al calor de la experiencia de su aplicación en el campo
-
 y los portes de los casos de estudio (ROMERO, G. 2004).
-
-
 RUP y UML están estrechamente relacionados entre sí, pues mientras el
-
 primero establece las actividades y los criterios para conducir un sistema
-
 desde su máximo nivel de abstracción, el segundo ofrece la notación grafica
+16
 
-
-                                                                           16
 necesaria para representar los sucesos, modelos, que se obtienen de procesos
-
 de refinamiento.
-
-
 RUP se define como unos procesos dirigidos por:
-
-
 •Casos de Uso
-
-
 •Centrado en la Arquitectura
-
-
 •Iterativo e Incremental
-
-
 DIRIGIDO POR CASOS DE USO
-
-
 Procesos de desarrollo de software utiliza los casos de uso como una
-
 herramienta para la obtención de requisitos de usuario. Donde los casos de
-
 uso son para definir la funcionalidad del sistema, y guían al desarrollador en la
-
 construcción de la arquitectura del sistema.
-
-
 La descripción obtenida de los requerimientos debe ser comprendida por casos
-
 de uso que nos ayudan a recopilar la información acerca de la interacción que
-
 tiene los usuarios en este caso actores con el sistema. Un caso de uso es una
-
 secuencia, reacciones que el sistema lleva a cabo para ofrecer un resultado
-
 de valor a algún actor, que sirven para realzar pruebas sobre los componentes
-
 desarrollados.
-
-
 CENTRADO EN LA ARQUITECTURA
-
-
 En el caso de software la arquitectura se refiere a un conjunto de decisiones
-
 significativas acerca de la organización de un sistema, la elección de los
-
 elementos acerca de la organización de un sistema software, la selección de
 
+17
 
-
-                                                                              17
 los elementos estructurales a partir de las cuales se componen el sistema con
-
 su respectivo comportamiento y las interacciones entre esos elementos y la
-
 composición de esos elementos estructurales.
-
-
 La necesidad de una arquitectura radica en poder comprender el sistema, es
-
 decir que todos los que están involucrados con su desarrollo deben entender
-
 el problema al cual va enfocado el sistema de software para satisfacer las
-
 demandas individuales y de la organización mediante la utilización de los
-
 diagramas definidos por UML. (SCHMULLER, J. 2000).
-
-
 La organización es un punto muy importante ya que cuanto mayor sea la
-
 organización del proyecto software mayor será la comunicación entre los
-
 desarrolladores para coordinar sus esfuerzos dividiendo el sistema en
-
 subsistemas definiendo las interfaces correctas de diseño.
-
-
 Al conocer el dominio de problema y con qué componentes se piensa en como
-
 conectar esos componentes para cumplir con los requisitos del sistema y
-
 realizar los modelos de casos de uso reutilizando dichos componentes.
-
-
 En la arquitectura de la construcción, antes de construir un edificio, este se
-
 completa desde varios puntos de vista: estructura, condiciones las estrictas,
-
 fontanería, etc.
-
-
 ITERATIVO E INCREMENTAL
-
-
 Jacobson en su libro “El Proceso Unificado de Desarrollo de Software”, explica
-
 que en esta fase proporciona la estrategia para desarrollar un producto de
-
 software en pasos pequeños manejables:
 
+18
 
-
-                                                                           18
 •Planificar un poco
-
-
 •Especificar, diseñar e implementar un poco
-
-
 •Integrar, probar y ejecutar un poco cada iteración.
-
-
 “Un ciclo de vida iterativo se basa en el agrandamiento y perfeccionamiento
-
 secuencial de un sistema a través de múltiples ciclos de desarrollo de análisis,
-
 diseño implementación y pruebas”.
-
-
 El modelo incremental entrega el software en partes pequeñas pero utilizables,
-
 llamadas “incrementos”. En general, cada incremento se construye sobre
-
 aquel que ha sido entregado.
-
-
 Las ventajas de un desarrollo de software con un ciclo de vida iterativo se dan
-
 gracias a la retroalimentación en cada ciclo por lo cual se crea un sistema más
-
 robusto. En cada incremento que y tiene el sistema se va perfeccionando a un
-
 mas, lo cual permite al usuario realizar las modificaciones requeridas en el
-
 transcurso del tiempo (PRESSMAN, R. 1998).
-
-
 Todo sistema informático complejo supone un gran esfuerzo que puede durar
-
 desde varios meses hasta anos, por lo tanto, lo más práctico es decidir en
-
 varias fases. Actualmente se puede hablar de ciclos de vida en los que se
-
 realiza varios recorridos por todas las fases.
-
-
 Las ventajas de un desarrollo de software con un ciclo de vida iterativo se da
-
 gracias a la retroalimentación en cada ciclo por lo cual se crea un sistema más
-
 robusto. En cada incremento que tiene el sistema se va perfeccionando a un
-
 más, lo cual permite al usuario realzar las modificaciones requeridas en el
 
+19
 
-                                                                             19
 transcurso del tiempo.
-
-
 Todos los sistemas informáticos complejos suponen de un gran esfuerzo que
-
 puede durar desde varios meses hasta a nos; por lo tanto, lo más practico es
-
 dividirla en varias fases.
-
-
 Actualmente se puede hablar de ciclos de vida en los que se realizan varios
-
 recorridos por todas las fases. Cada recorrido por las fases se denomina
-
 iterativo del proyecto en la que se realizan varios tipos de trabajo
-
 (denominados flujos). Además cada iteración parte de la anterior incrementado
-
 o revisando la funcionalidad implementada. Se suele denominar proceso.
-
-
 2.2.10. BIBLIOTECA
-
-
 Para comprender el concepto de biblioteca es aconsejable remontarse a los
-
 orígenes. El término biblioteca proviene del griego: theke (caja) y biblion
-
 (libro), por lo que ya en la Antigüedad se establecía que la Biblioteca era el
-
 lugar donde se guardaban los libros.
-
-
 Desde entonces, el concepto de biblioteca ha evolucionado enormemente, y
-
 en la actualidad existen multitud de definiciones de lo que se entiende por
-
 biblioteca hoy por hoy.
-
-
 La UNESCO definió en 1968 biblioteca como la colección organizada de libros
-
 y publicaciones periódicas impresas u otra clase de documentos, gráficos y
-
 audiovisuales, así como los servicios del personal encargado de facilitar el uso
-
 de éstos documentos por los usuarios con fines de información, investigación,
-
 de educación o recreo.
 
+20
 
-
-                                                                             20
 La ALA (American Library Association) define biblioteca como “la colección de
-
 material de información organizada para que accedan a ella un grupo de
-
 usuarios. Tiene personal encargado de los servicios y programas relacionados
-
 con las necesidades de los lectores”.
-
-
 Son principalmente: La Colección, la Organización y la Difusión:
-
-
 • COLECCIÓN
-
-
 El pilar básico de toda biblioteca radica en su colección. Esta debe ser
-
 organizada y difundida convenientemente.
-
-
 Entendemos por colección los fondos bibliográficos o documentales del centro
-
 de documentación o biblioteca (libros, publicaciones periódicas, folletos,
-
 manuscritos, música impresa).
-
-
 La colección no puede ser estática, ya que debe responder en todo momento
-
 a las necesidades de los usuarios, para lo cual se necesita mantener
-
 comunicación continúa con estos.
-
-
 La colección debe estar compuesta de todo tipo de documentos: impresos y
-
 electrónicos.
-
-
 Además del libro, pueden formar la colección otros documentos como folletos,
+hojas
 
-hojas   sueltas,   publicaciones    seriadas,   manuscritos,       documentos
+sueltas,
+
+publicaciones
+
+seriadas,
+
+manuscritos,
+
+documentos
 
 cartográficos, música impresa o reproducida.
-
-
 Para formar la colección se siguen los siguientes pasos:
 
+21
 
-
-
-                                                                           21
 Selección del fondo bibliográfico según las necesidades informativas del
-
 usuario.
-
-
 Adquisición: compra, donativos, canje, Depósito legal.
-
-
 • ORGANIZACIÓN
-
-
 Es la función de la biblioteca que tiene por finalidad que el conocimiento se
-
 haga accesible a las demandas individuales de los usuarios.
-
-
 Se basa en unas técnicas basadas en conocimientos teórico-científicos que
-
 se han ido adaptando a los distintos soportes (como resultado de la
-
 automatización).
-
-
 Cuando el documento es adquirido, antes de formar parte de la colección,
-
 recibe tratamiento técnico en el que las operaciones más importantes son:
-
 clasificación y catalogación, que permiten la formación de los catálogos en las
-
 bibliotecas.
+La
 
+descripción
 
-La    descripción   bibliográfica   o   catalogación     se   ha   normalizado
+bibliográfica
+
+o
+
+catalogación
+
+se
+
+ha
+
+normalizado
 
 internacionalmente mediante las ISBD (Internacional Standard Bibliographical
-
 Description)
-
-
 • DIFUSIÓN
-
-
 Es la principal tarea y objetivo de la biblioteca, que el conocimiento se haga
-
 accesible. Los servicios que ofrece la biblioteca son: lectura de sala, servicio
-
 de préstamo, servicio de información y referencia, extensión bibliotecaria y
-
 cultural, etc.
 
+22
 
-
-
-                                                                             22
 Para la difusión de la información se organizan las siguientes tareas:
-
-
 Informar de las características de la colección, secciones de la biblioteca,
-
 horarios, cómo satisfacer la necesidad de información del usuario.
-
-
 Ayudar a los usuarios a utilizar los recursos informativos.
-
-
 La biblioteca existe para lograr determinados objetivos, que se logran
-
 sometiendo sus elementos a organización. Además se relaciona con su
-
 entorno, retroalimentándose.
-
-
 2.2.11. ANÁLISIS Y DISEÑO ORIENTADO A OBJETOS
-
-
 Análisis y diseño orientado a objetos (ADOO) es un enfoque de la ingeniería
-
 de software que modela un sistema como un grupo de objetos que interactúan
-
 entre sí. Este enfoque representa un dominio en términos de conceptos
-
 compuestos por verbos y sustantivos, clasificados de acuerdo a su
-
 dependencia funcional.
-
-
 En este método de análisis y diseño se crea un conjunto de modelos utilizando
-
 una notación acordada como, por ejemplo, el lenguaje unificado de modelado
-
 (UML). ADOO aplica técnicas de modelado de objetos para analizar los
-
 requerimientos para un contexto - por ejemplo, un sistema de negocio, un
-
 conjunto de módulos de software - y para diseñar una solución para mejorar
-
 los procesos involucrados. No está restringido al diseño de programas de
-
 computadora, sino que cubre sistemas enteros de distinto tipo. Las
-
 metodologías de análisis y diseño más modernas son casos de uso guiados
-
 a través de requerimientos, diseño, implementación, pruebas, y despliegue.
 
+23
 
-
-                                                                          23
 El lenguaje unificado de modelado se ha vuelto el lenguaje de modelado
-
 estándar usado en análisis y diseño orientado a objetos.
-
-
 2.2.12. LENGUAJE UNIFICADO DE MODELADO UML
-
-
 Es un lenguaje gráfico para visualizar, especificar, construir y documentar los
-
 artefactos de un sistema con gran cantidad de software. UML proporciona una
-
 forma estándar de escribir los planos de un sistema, cubriendo tanto las cosas
-
 conceptuales, tales como procesos del negocio y función del sistema, como
-
 las cosas concretas, tales como las clases escritas en un lenguaje de
-
 programación especifico, esquemas de base de datos y componentes
-
 software reutilizables.
-
-
 UML es apropiado para modelar desde sistemas de información en empresas
-
 hasta aplicaciones distribuidas basadas en Web, e incluso para sistema
-
 empotrados de tiempo real muy exigentes. Es un lenguaje muy expresivo, que
-
 cubre todas las vistas necesarias para desarrollas y desplegar tales sistemas.
-
 Aunque sea expresivo, UML no es difícil de aprender ni de utilizar. Aprender
-
 a aplicar UML de modo eficaz comienza por crear un modelo conceptual del
-
 lenguaje, lo cual requiere aprender tres elementos principales: los bloques
-
 básicos de construcción de UML, las reglas que dictan como pueden
-
 combinarse esos bloques y algunos mecanismos comunes que se aplican a
-
 lo largo del lenguaje.
-
-
 2.2.13. DIAGRAMAS EN UML
-
-
 Un diagrama es la representación gráfica de un conjunto de elementos,
-
 visualizado la mayoría de veces como un grafo conexo de nodos (elementos)
+24
 
-
-                                                                            24
 y arcos (relaciones). Los diagramas se dibujan para visualizar un sistema
-
 desde diferentes perspectivas, de forma que un diagrama es una proyección
-
 de un sistema para todos los sistemas, excepto los más triviales.
-
-
 En UML se incluyen nueve de estos diagramas:
-
-
 DIAGRAMA DE CLASES
-
-
 Es la unidad básica que encapsula toda la información de un Objeto (un objeto
-
 es una instancia de una clase). A través de ella podemos modelar el entorno
-
 en estudio (una Casa, un Auto, una Cuenta Corriente, etc.).
-
-
 DIAGRAMA DE OBJETOS
-
-
 Representa un conjunto de objetos y sus relaciones. Se utilizan para describir
-
 estructura de datos, instantáneas de las instancias de los elementos
-
 encontrados en los diagramas de clases.
-
-
 DIAGRAMA DE CASOS DE USO
-
-
 Representa un conjunto de casos de uso y actores y sus relaciones, se utilizan
-
 para describir la vista de casos de uso estática de un sistema.
-
-
 DIAGRAMA DE SECUENCIAS
-
-
 Es un diagrama de iteración que resalta la operación temporal de los
-
 mensajes, presenta un conjunto de objetos y los mensajes enviados y
-
 recibidos por ellos.
 
+25
 
-
-
-                                                                           25
 DIAGRAMA DE COLABORACIÓN
-
-
 Es un diagrama de interacción que resalta la organización estructural de los
-
 objetos que envían y reciben mensajes.
-
-
 DIAGRAMA DE ESTADOS
-
-
 Representa una máquina de estados, constituida por estados, transiciones,
-
 eventos y actividades. Los diagramas de estados se utilizan para describir la
-
 vista dinámica de un sistema.
-
-
 2.2.14. BASE DE DATOS
-
-
 Una Base de Datos, llamado también banco de datos es un conjunto de
-
 información relacionada que se encuentra agrupada o estructurada. Desde el
-
 punto de vista informático, la base de datos está formada por un conjunto de
-
 datos almacenados en medios de almacenamiento y que se permite el acceso
-
 a ellos a través de un conjunto de programas que manipulen ese conjunto de
-
 datos. (NAVATE, E. 1995).
-
-
 Cada base de datos se compone de una o más tablas que guarda un conjunto
-
 de datos. Cada tabla tiene una o más columnas y filas (cada fila de la tabla
-
 conforma un registro).
-
-
 CARACTERÍSTICAS DE LA BASE DE DATOS:
-
-
 o Independencia lógica y física de los datos.
-
-
 o Redundancia mínima.
-
-
 o Acceso concurrente de múltiples usuarios
+26
 
-
-                                                                          26
 o Integridad de los datos.
-
-
 o Consultas complejas optimizadas.
-
-
 o Seguridad de acceso y auditoria.
-
-
 o Respaldo y recuperación.
-
-
 o Acceso a través de lenguajes de programación estándar
-
-
 COMPONENTES DE LA BASE DE DATOS:
-
-
 o Dato: Información que una computadora registra y almacena.
-
-
 o Campo: es cada trozo discreto de información en un registro.
-
-
 o Registro: es la información relacionada con una persona, un producto o
-
-  suceso. En una BD un simple archivo es un conjunto de registros.
-
-
+suceso. En una BD un simple archivo es un conjunto de registros.
 o Archivo: Es una colección de información relacionada. En él la información
-
-  se guarda como si fuera un archivero.
-
-
+se guarda como si fuera un archivero.
 o Consulta: puede ser una búsqueda simple de un registro específico o una
-
-  solicitud para seleccionar todos los registros que satisfagan un conjunto de
-
-  criterios.
-
-
+solicitud para seleccionar todos los registros que satisfagan un conjunto de
+criterios.
 o Reporte o informe: es una lista ordena de los campos y registros
-
-  seleccionados en un formato fácil de leer.
-
-
+seleccionados en un formato fácil de leer.
 TIPOS DE BASE DE DATOS:
-
-
 Según la variabilidad de los datos almacenados
 
+27
 
-
-                                                                           27
 BASES DE DATOS ESTÁTICAS
-
-
 Éstas son bases de datos de sólo lectura, utilizadas primordialmente para
-
 almacenar datos históricos que posteriormente se pueden utilizar para
-
 estudiar el comportamiento de un conjunto de datos a través del tiempo,
-
 realizar proyecciones y tomar decisiones.
-
-
 BASES DE DATOS DINÁMICAS
-
-
 Estas son bases de datos donde la información almacenada se modifica con
-
 el tiempo, permitiendo operaciones como actualización y adición de datos,
-
 además de las operaciones fundamentales de consulta. Un ejemplo de esto
-
 puede ser la base de datos utilizada en un sistema de información de una
-
 tienda de abarrotes, una farmacia, un videoclub, etc.
-
-
 Según el contenido las bases de datos se clasifican en:
-
-
 o Bases de datos bibliográficas
-
-
 o Bases de datos de texto completo
-
-
 o Directorios
-
-
 o Bases de datos o "bibliotecas" de información Biológica
-
-
 o Base de datos de sonidos
-
-
 o Base de datos de videos
 
+28
 
-
-
-                                                                      28
 OBJETIVOS DE LAS BASE DE DATOS:
-
-
 Reducir la redundancia e inconsistencia de datos: Cuando existe
-
 almacenamiento de los mismos datos varias veces puede provocar problemas
-
 como:
-
-
 INCREMENTO DEL TRABAJO
-
-
 Cuando se graben o actualicen los datos, deban hacerse en todos los lugares
-
 a la vez.
-
-
 DESPERDICIO DE ESPACIO DE ALMACENAMIENTO
-
-
 Este problema es más evidente en grandes bases de datos.
-
-
 INCONSISTENCIA DE DATOS
-
-
 Cuando los datos redundantes no son iguales entre sí. Ejemplo, cuando se
-
 actualiza el dato en un lugar, pero el dato duplicado en otro lugar no es
-
 actualizado.
-
-
 DIFICULTAD PARA TENER ACCESO A LOS DATOS
-
-
 Un objetivo importante de un sistema de BD es proporcionar a los usuarios
-
 una visión abstracta de los datos, es decir, el sistema esconde ciertos detalles
-
 de cómo se almacenan y mantienen los datos. Sin embargo para que el
-
 sistema sea manejable, los datos se deben extraer eficientemente.
 
+29
 
-
-
-                                                                             29
 NIVELES DE ABSTRACCIÓN DE UNA BASE DE DATOS
-
-
 NIVEL INTERNO
-
-
 Define cómo se almacenan los datos y los métodos de acceso. Esto significa
-
 que el usuario no puede ver todos los componentes de hardware de la base
-
 de datos.
-
-
 NIVEL CONCEPTUAL
-
-
 Define cómo se organiza la información dentro de la base de datos. Debe
-
 poder modificarse sin alterar el nivel físico. En otras palabras, el administrador
-
 de la base de datos debe poder introducir mejoras sin afectar la experiencia
-
 de los usuarios.
-
-
 NIVEL DE VISIÓN
-
-
 Describe parte de la base de datos que interesa a un grupo de usuarios
-
 determinados y ocultos a ese grupo el resto de la base de datos.
-
-
 En tal sentido la ventaja de las bases de datos son:
-
-
 CONTROLAR EL AISLAMIENTO DE LOS DATOS
-
-
 Debido al factor tiempo y los requerimientos que van surgiendo se puede
-
 llegar a tener un problema al intentar separar un conjunto de datos porque ya
-
 se tiene un enredo en los archivos y se podría dar el caso en que dos usuarios
-
 estén manipulando la misma información pero de distinta manera.
 
+30
 
-
-
-                                                                               30
 CONTROLAR LAS ANOMALÍAS DEL ACCESO CONCURRENTE
-
-
 Garantizar un buen tiempo de respuesta, que todos los usuarios puedan
-
 acceder y/o modificar la información; esto no es fácil porque también hay que
-
 considerar que aunque los datos son los mismos, las aplicaciones no
-
 necesariamente lo son.
-
-
 CONTROLAR LA SEGURIDAD DE ACCESO
-
-
 No toda la información debe estar disponible a todos los usuarios, algunos
-
 usuarios solo tendrán permisos de lectura, esto es relativamente sencillo de
-
 resolver aplicando "roles“, pero el problema aumenta cuando en lugar de
-
 pensar en términos de usuarios pensamos en términos de aplicaciones, ya
-
 que el número de roles y sus combinaciones aumenta, y mantener las
-
 restricciones de seguridad se torna complicado.
-
-
 Mantener la integridad de los datos: Si queremos asociar dos datos, por
-
 ejemplo un alumno con una materia que esté cursando, debemos asegurarnos
-
 que ambas entidades existan, de lo contrario el alumno parecerá cursando un
-
 curso fantasma y viceversa. Para ello se emplean "restricciones de
-
 consistencia" (consisten y constraints)
-
-
 También las bases de datos pueden ofrecer otras ventajas como:
-
-
 RESPECTO A LOS DATOS
-
-
 Independencia de estos respecto de los tratamientos y viceversa.
-
-
 Mejor disponibilidad de los mismos.
 
+31
 
-
-
-                                                                          31
 Mayor eficiencia en la recogida, codificación y entrada
-
-
 RESPECTO A LOS RESULTADOS
-
-
 Mayor coherencia.
-
-
 Mayor valor informativo.
-
-
 Mejor y más normalizada documentación de la información.
-
-
 Acceso más rápido y sencillo de los usuarios finales.
-
-
 Más facilidades para compartir los datos por el conjunto de los usuarios.
-
-
 Mayor flexibilidad para atender a demandas cambiantes.
-
-
 DESVENTAJAS DE LA BASE DE DATOS
-
-
 Algunas de las desventajas de una base de datos son:
-
-
 La implantación.
-
-
 Ausencia de estándares.
-
-
 Larga y difícil puesta en marcha.
-
-
 Rentabilidad a mediano plazo.
-
-
 Desfase entre teoría y práctica.
-
-
 ADMINISTRADOR DE BASES DE DATOS
-
-
 Es la persona responsable y que tiene control total sobre el sistema y de los
-
 aspectos ambientales de una base de datos.
 
+32
 
-                                                                            32
 MODELOS DE BASE DE DATOS
-
-
 Existen muchos modelos de las bases de datos entre las más destacables se
-
 puede mencionar a los siguientes:
-
-
 Bases de datos jerárquicas
-
-
 Base de datos de red
-
-
 Base de datos relacional
-
-
 Bases de datos multidimensionales
-
-
 Bases de datos orientadas a objetos
-
-
 Bases de datos documentales
-
-
 Base de datos deductivos
-
-
 Gestión de bases de datos distribuida
-
-
 DISEÑO DE BASES DE DATOS
-
-
 El proceso de diseño de las bases de datos tiene tres diseños específicos:
-
-
 1. DISEÑO CONCEPTUAL
-
-
 Recibe como entrada la especificación de requerimientos y su resultado es el
-
 esquema conceptual de las base de datos, que es una descripción del alto
-
 nivel de la estructura de la base de datos, independiente del software que se
-
 use para manipularla.
 
+33
 
-
-
-                                                                             33
 2. DISEÑO LÓGICO
-
-
 Recibe como entrada al esquema conceptual y da como resultado un
-
 esquema lógico, que es una descripción de la estructura de la base de datos
-
 que puede procesar el software DBMS.
-
-
 3. DISEÑO FÍSICO
-
-
 Recibe como entrada al esquema conceptual y da como resultado un
-
 esquema físico, que es una descripción de la implementación de una base de
-
 datos en la memoria secundaria, describe las estructuras de almacenamiento
-
 y los métodos usados para tener un acceso efectivo a los datos.
-
-
 2.2.15. IMPLANTACIÓN Y EVALUACIÓN DEL SISTEMA
-
-
 Es la última etapa del desarrollo del sistema, el analista ayuda a implantar el
-
 sistema de información. Esto incluye el adiestramiento que el usuario
-
 requerirá.
-
-
 La evaluación del sistema se plantea como parte integrante de la última etapa
-
 del ciclo del desarrollo de los sistemas, realmente, la evaluación toma parte
-
 en cada una de las etapas. En realidad todas las atapas mantienen una
-
 dinámica espiral, hasta que finalmente se concluye.
 
+34
 
-
-
-                                                                            34
 2.3. DEFINICIÓN DE TÉRMINOS BÁSICOS
+INFORMÁTICA
+Conjunto de conocimientos y herramientas científicas, técnicas y tecnológicas
+que se encarga del tratamiento racional y estructurado de la información por
+medios automáticos electrónicos digitales.
+DATO
+Un dato puede ser como un elemento no tratado; como una señal emitida
+Para que un dato tenga algún tipo de valides tiene que presentarse en un
+texto, Debe ser procesado y analizado para poder inferir una conclusión del
+mismo. En el momento en que un dato es procesado, se le puede considerar
+información. Su importancia está en su capacidad de asociarse dentro de un
+texto para convertirse información.
+Base de datos.- Conjunto de información almacenada y accesible de forma
+sistemática a varios usuarios. Suele admitir la selección de acceso aleatorio y
+múltiples vistas o niveles de abstracción de los datos. Se divide normalmente
+en registros, y estos, a su vez, en campos.
+ALGORITMO
+Conjunto de acciones que determinan la secuencia de los procedimientos a
+seguir para resolver un problema específico.
 
+35
 
-    INFORMÁTICA
-
-
-    Conjunto de conocimientos y herramientas científicas, técnicas y tecnológicas
-
-    que se encarga del tratamiento racional y estructurado de la información por
-
-    medios automáticos electrónicos digitales.
-
-
-    DATO
-
-
-    Un dato puede ser como un elemento no tratado; como una señal emitida
-
-    Para que un dato tenga algún tipo de valides tiene que presentarse en un
-
-    texto, Debe ser procesado y analizado para poder inferir una conclusión del
-
-    mismo. En el momento en que un dato es procesado, se le puede considerar
-
-    información. Su importancia está en su capacidad de asociarse dentro de un
-
-    texto para convertirse información.
-
-
-    Base de datos.- Conjunto de información almacenada y accesible de forma
-
-    sistemática a varios usuarios. Suele admitir la selección de acceso aleatorio y
-
-    múltiples vistas o niveles de abstracción de los datos. Se divide normalmente
-
-    en registros, y estos, a su vez, en campos.
-
-
-    ALGORITMO
-
-
-    Conjunto de acciones que determinan la secuencia de los procedimientos a
-
-    seguir para resolver un problema específico.
-
-
-
-
-                                                                                35
 ARCHIVO
-
-
 Conjunto de bytes relacionados y tratados como una unidad. Puede contener
-
 datos (texto, imágenes, sonido, etc.), programas o ambas cosas.
-
-
 AUTENTICACIÓN
-
-
 Proceso de validación de la conexión del usuario que determina el permiso de
-
 acceso a los recursos del servidor.
-
-
 COMPUTADORA
-
-
 Máquina que procesa información traduciendo valores de entrada finitos (
-
 conjunto finito o discreto de valores usando código ASCII que interpreta letras,
-
 símbolos y números binarios) a valores infinitos ( conjunto infinito de valores
-
 usando señales eléctricas ). Realiza cálculos, es programable y adaptable.
-
-
 COPIA DE SEGURIDAD
-
-
 Copia de todos los datos originales contenidos en redes y PC's que puede ser
-
 utilizada en caso de que éstos se destruyan por diversas causas.
-
-
 DISPOSITIVO
-
-
 En comunicaciones, elemento integral de las redes de comunicación de datos
-
 que se caracteriza por manejar flujos de información y que determina la
-
 frontera o el punto de demarcación entre la red de datos del Usuario y la red
-
 pública de datos.
 
+36
 
-
-
-                                                                             36
-   INFRAESTRUCTURA
-
-
-   Topología de una red inalámbrica que consta de dos elementos básicos:
-
-   estaciones cliente wireless y puntos de acceso.
-
-
-   INTEGRIDAD DE ARCHIVOS
-
-
-   Técnicas utilizadas para conseguir archivos de backup correctos de modo que
-
-   se pueda recurrir a ellos en caso de tener que recuperar datos críticos
-
-   después de que los datos originales se contaminen debido a una acción
-
-   accidental o provocada (por ejemplo, un virus).
-
-
-   LAN
-
-
-   Local Area Network (Red de Área Local). Conjunto de ordenadores
-
-   conectados entre sí y dentro de la misma área física. Facilita poder disponer
-
-   de los recursos de varios ordenadores dentro de un grupo de trabajo.
-
-
+INFRAESTRUCTURA
+Topología de una red inalámbrica que consta de dos elementos básicos:
+estaciones cliente wireless y puntos de acceso.
+INTEGRIDAD DE ARCHIVOS
+Técnicas utilizadas para conseguir archivos de backup correctos de modo que
+se pueda recurrir a ellos en caso de tener que recuperar datos críticos
+después de que los datos originales se contaminen debido a una acción
+accidental o provocada (por ejemplo, un virus).
+LAN
+Local Area Network (Red de Área Local). Conjunto de ordenadores
+conectados entre sí y dentro de la misma área física. Facilita poder disponer
+de los recursos de varios ordenadores dentro de un grupo de trabajo.
 2.4. OPERACIONALIZACIÓN DE VARIABLES
+CUADRO N° 01:
+OPERACIONALIZACIÓN DE LAS VARIABLES DE ESTUDIO
+Variable
 
-                                    CUADRO N° 01:
+Dimensión
 
-          OPERACIONALIZACIÓN DE LAS VARIABLES DE ESTUDIO
+Indicador
 
-         Variable       Dimensión          Indicador            Índice
+Índice
 
-                                                          - Lento 6 minutos
-                        Reduce el
-       Mejora la                        Puesta a prueba     a más
-                        tiempo de
-     atención a los                     del sistema web   - Normal 3 a 5
-                      atención a los
-      docentes y                          delante del       minutos
-                       docentes y
-      estudiantes                            usuario      - Rápido Menos
-                       estudiantes
-                                                            de 2 minutos.
-   Fuente: Elaboración propia de la investigador
+Mejora la
+atención a los
+docentes y
+estudiantes
 
+Reduce el
+tiempo de
+atención a los
+docentes y
+estudiantes
 
+Puesta a prueba
+del sistema web
+delante del
+usuario
 
+- Lento 6 minutos
+a más
+- Normal 3 a 5
+minutos
+- Rápido Menos
+de 2 minutos.
 
-                                                                              37
-                              CAPÍTULO III
+Fuente: Elaboración propia de la investigador
 
-                         MATERIALES Y MÉTODOS
+37
 
-
+CAPÍTULO III
+MATERIALES Y MÉTODOS
 3.1. MATERIALES
+3.1.1.
 
+TIPO DE INVESTIGACIÓN
 
-   3.1.1.   TIPO DE INVESTIGACIÓN
+Corresponde al tipo de investigación aplicada de nivel explicativo, ésta
+investigación se distingue por tener propósitos prácticos inmediatos bien
+definidos, es decir se investiga para actuar, transformar, modificar o producir
+cambios en un determinado lugar como es la biblioteca del Instituto Superior
+Público Pedagógico de Juliaca.
+3.1.2.
 
+DISEÑO DE INVESTIGACIÓN:
 
-   Corresponde al tipo de investigación aplicada de nivel explicativo, ésta
+Corresponde al diseño pre-experimental; ya que estos no cumplen con todas
+las condiciones necesarias para ser considerados experimentos verdaderos.
+Son considerados así, los estudios de caso con una sola medición, en los
+cuales a un grupo se le aplica un estímulo para luego observar los efectos, no
+habiendo grupo de control.
+Este diseño viene representado por:
+GE: O1 - - X - - O2
 
-   investigación se distingue por tener propósitos prácticos inmediatos bien
+38
 
-   definidos, es decir se investiga para actuar, transformar, modificar o producir
-
-   cambios en un determinado lugar como es la biblioteca del Instituto Superior
-
-   Público Pedagógico de Juliaca.
-
-
-   3.1.2.   DISEÑO DE INVESTIGACIÓN:
-
-
-   Corresponde al diseño pre-experimental; ya que estos no cumplen con todas
-
-   las condiciones necesarias para ser considerados experimentos verdaderos.
-
-   Son considerados así, los estudios de caso con una sola medición, en los
-
-   cuales a un grupo se le aplica un estímulo para luego observar los efectos, no
-
-   habiendo grupo de control.
-
-
-   Este diseño viene representado por:
-
-
-   GE: O1 - - X - - O2
-
-
-
-                                                                               38
 Donde:
-
-
 GE grupo experimental
-
-
 O1 medición de la variable dependiente en el pre-test
-
-
 O2 medición de la variable dependiente en el post-test
-
-
 X tratamiento que se aplica al grupo en estudio (Sistema web de biblioteca)
+3.1.3.
 
-
-3.1.3.   POBLACIÓN
-
+POBLACIÓN
 
 Se ha considerado como población a todos los estudiantes del Instituto de
-
 Educación Superior Pedagógico Público de Juliaca que son un total de 250
-
 estudiantes y 25 docentes.
+3.1.4.
 
-
-3.1.4.   MUESTRA
-
+MUESTRA
 
 La muestra de estudio lo conformaron el conjunto de registros de los docentes
-
 y estudiantes en dos diferentes fechas siendo muestras independientes tanto
-
 para el antes (20 primeras consultas sin el sistema web de biblioteca), como
-
 para el después (20 primeras consultas con el sistema web de biblioteca en
-
 el año 2015).
 
+39
 
-
-
-                                                                          39
 3.2. MÉTODOS
+3.2.1.
 
+MÉTODOS DE RECOLECCIÓN DE DATOS
 
-   3.2.1.   MÉTODOS DE RECOLECCIÓN DE DATOS
+a. FUENTE DE INFORMACIÓN:
+La fuente de información en la tesis fue secundaria y no personal, ya que se
+tuvo acceso a los datos mediante los registros en la Biblioteca del Instituto
+Superior Público Pedagógico de Juliaca durante el año 2015.
+b. TÉCNICA E INSTRUMENTO:
+La información para realizar el presente trabajo se realizó a través de una
+encuesta (ver anexo N° 01) en la Biblioteca del Instituto Superior Público
+Pedagógico de Juliaca en el año 2015 en la cual participaron docentes y
+estudiantes.
+3.2.2.
 
+MÉTODOS DE TRATAMIENTO DE DATOS
 
-   a. FUENTE DE INFORMACIÓN:
+a. PREPARACIÓN DE DATOS:
+Se empleó un procedimiento computarizado, ya que se contó con registros de
+consultas de los docentes y estudiantes en la biblioteca del Instituto Superior
+Público Pedagógico de Juliaca, todo ello se consiguió empleando diferente
+software como: MS-Excel, SPSS y Minitab.
+b. TÉCNICA ESTADÍSTICA A USAR:
+De acuerdo a los objetivos se emplearon las técnicas estadísticas como:
+análisis y prueba de hipótesis y así determinar la influencia de la
+implementación de un sistema web de biblioteca sobre el tiempo de consulta
+40
 
-
-   La fuente de información en la tesis fue secundaria y no personal, ya que se
-
-   tuvo acceso a los datos mediante los registros en la Biblioteca del Instituto
-
-   Superior Público Pedagógico de Juliaca durante el año 2015.
-
-
-   b. TÉCNICA E INSTRUMENTO:
-
-
-   La información para realizar el presente trabajo se realizó a través de una
-
-   encuesta (ver anexo N° 01) en la Biblioteca del Instituto Superior Público
-
-   Pedagógico de Juliaca en el año 2015 en la cual participaron docentes y
-
-   estudiantes.
-
-
-   3.2.2.   MÉTODOS DE TRATAMIENTO DE DATOS
-
-
-   a. PREPARACIÓN DE DATOS:
-
-
-   Se empleó un procedimiento computarizado, ya que se contó con registros de
-
-   consultas de los docentes y estudiantes en la biblioteca del Instituto Superior
-
-   Público Pedagógico de Juliaca, todo ello se consiguió empleando diferente
-
-   software como: MS-Excel, SPSS y Minitab.
-
-
-   b. TÉCNICA ESTADÍSTICA A USAR:
-
-
-   De acuerdo a los objetivos se emplearon las técnicas estadísticas como:
-
-   análisis y prueba de hipótesis y así determinar la influencia de la
-
-   implementación de un sistema web de biblioteca sobre el tiempo de consulta
-
-
-                                                                               40
 de los libros por parte de los docentes y estudiantes del Instituto Superior
-
 Público de Juliaca en el año 2015, así mismo se emplearon también medidas
-
 descriptivas y gráficos estadísticos.
-
-
 c. TIPO DE ANÁLISIS:
-
-
 En la presente tesis se ha empleado el análisis cuantitativo que consiste en
-
 explicar e interpretar los datos desde los cuadros y gráficos porque tiene un
-
 sustento estadístico que permite formular juicios valorativos apoyados en el
-
 resultado de la investigación. Además responde en forma ordenada y
-
 secuencial, las interrogantes planteadas en el estudio. Este análisis permite
-
 afirmar o descartar la inferencia, de igual manera el análisis de los resultados,
-
 por lo que es factible identificar las posibles causas del problema y las
-
 soluciones más viables.
-
-
 d. PRESENTACIÓN DE DATOS:
-
-
 La información recabada se presenta organizada en tablas estadísticas y
-
 gráficos de diagramas de dispersión que permiten mostrar la evolución de los
-
 datos en el tiempo.
-
-
 e. DISEÑO DE PRUEBA DE HIPÓTESIS:
-
-
 Para el diseño de la prueba de hipótesis se tomó las pruebas de diferencia de
-
 medias bajo la prueba t de Student.
 
+41
 
-
-
-                                                                              41
 1. FORMULACIÓN DE HIPÓTESIS.
-
-
 HIPÓTESIS NULA (H0)
-
-
 La implementación de un sistema web de biblioteca en el Instituto Superior
-
 Público Pedagógico de Juliaca en el año 2015 no influye en el tiempo de
-
 consulta de libros de parte de los docentes y estudiantes de dicha institución
-
 en el año 2015.
-
-
 HIPÓTESIS ALTERNATIVA (H1)
-
-
 La implementación de un sistema web de biblioteca en el Instituto Superior
-
 Público Pedagógico de Juliaca en el año 2015 influye en el tiempo de consulta
-
 de libros de parte de los docentes y estudiantes de dicha institución en el año
-
 2015.
-
-
 2. DETERMINACIÓN DEL TIPO DE PRUEBA.
-
-
 Según la H1 la prueba aplicada fue bilateral con distribución t de Student con
-
 n-1 grados de libertad.
-
-
 3. ESPECIFICACIÓN DEL NIVEL DE SIGNIFICACIÓN.
-
-
 Tomamos un nivel de significancia de 5% (α=0.05)
-
-
 Los grados de libertad está dado por: gl = n-1= 40–2 = 38
-
-
 Valor crítico (t de tabla) = t(1-α/2,38) = 2,024 y por simetría se obtiene para el
-
 lado opuesto en la distribución t de Student.
 
+42
 
-
-
-                                                                               42
-                                     FIGURA 01
-
-            DISTRIBUCIÓN DE LA PRUEBA “t” DE STUDENT
-
-
-
+FIGURA 01
+DISTRIBUCIÓN DE LA PRUEBA “t” DE STUDENT
 
 4. CÁLCULO DEL ESTADÍSTICO DE LA PRUEBA.
-
-
 La ecuación general de la distribución t de Student para muestras
-
 independientes está dado por:
+FORMULA 01
+FORMULA PRUEBA “t” DE STUDENT
 
+t
 
-                                   FORMULA 01
+x1  x 2
 
-                   FORMULA PRUEBA “t” DE STUDENT
+n1  1S12  n2  1S 22  1
+n1  n2  2
 
-                                      x1  x 2
-                   t
-                        n1  1S12  n2  1S 22  1       1
-                                                                 
-                                                   n     
-                              n1  n2  2           1        n2 
+n
+ 1
+
+
+
+1
+
+n2 
+
 Dónde:
-
-
 n1: Número de datos en el pre-test (que cuenta con promedio y varianza
-
 para el estudio)
-
-
 n2: Número de datos en el post-test (que cuenta con promedio y varianza
-
 para el estudio)
 
+43
 
-
-                                                                          43
 5. TOMA DE DECISIÓN
-
-
 𝑆𝑖: 𝑡𝑐 > 𝑡𝛼,(𝑛−2) ; Entonces se rechaza la H0, es decir que existe diferencia
-           2
-
+2
 
 significativa entre promedios obtenidos antes y después de la implementación
-
 del portal web.
-
-
 3.2.3. MATERIAL EXPERIMENTAL
-
-
 a. EL REGISTRO DE DATOS
-
-
 El registro del tiempo de consulta de los libros por parte de los docentes y
-
 estudiantes elegido responde al conjunto de datos de corte longitudinal que
-
 se adecuó para el análisis y así determinar la influencia del sistema web de
-
 biblioteca en el Instituto Superior Público Pedagógico de Juliaca.
-
-
 b. UBICACIÓN DEL INSTITUTO SUPERIOR PÚBLICO PEDAGÓGICO DE
-
-  JULIACA
-
-
+JULIACA
 El Instituto Superior Público Pedagógico de Juliaca se encuentra ubicada en
-
 el Av. Infancia, del Barrio Pueblo Joven la Revolución del distrito de Juliaca
-
 de la Provincia de San Román del Departamento de Puno.
-
-
 c. METODOLOGÍA DE DESARROLLO PARA EL PORTAL WEB
-
-
 La metodología que se ha empleado para la implementación del portal web
-
 fue la metodología del Proceso Unificado de Rational (RUP); ya que cuenta
-
 con características esenciales: dirigidos por los casos de uso, centrados en la
-
 arquitectura y es iterativo e incremental, utilizando el Lenguaje de Modelado
-
 Unificado (UML) como lenguaje de notación en la Programación orientada a
-
 objetos.
+44
 
-                                                                            44
-                                CAPÍTULO IV
-
-                         RESULTADOS Y DISCUSIÓN
-
-
+CAPÍTULO IV
+RESULTADOS Y DISCUSIÓN
 Los resultados de la investigación realizada se presentan con su respectivo análisis
-
 e interpretación, la misma que está organizado según los objetivos planteados,
-
 como: Analizar el tiempo de la consulta de los docentes y estudiantes en la
-
 biblioteca del Instituto Superior Público Pedagógico de Juliaca, antes de la
-
 implementación del sistema web de biblioteca, Analizar el tiempo de la consulta de
-
 los docentes y estudiantes en la biblioteca del Instituto Superior Público Pedagógico
-
 de Juliaca, después de la implementación del sistema web de biblioteca y Comparar
-
 los tiempos de consulta de los libros en la biblioteca del Instituto Superior Público
-
 Pedagógico de Juliaca en el año 2015, antes y después de la implementación del
-
 sistema de biblioteca.
-
-
 4.1. TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES EN LA
+BIBLIOTECA ANTES DE LA IMPLEMENTACIÓN DEL SISTEMA WEB DE
+BIBLIOTECA.
+El tiempo de consulta de los estudiantes y docentes en la biblioteca del
+Instituto Superior Público Pedagógico sobre un libro para luego realizar el
+préstamo del mismo libro antes de la implementación del sistema web de
+biblioteca en el Instituto Superior Público Pedagógico de Juliaca, presenta los
+siguientes resultados:
+45
 
-     BIBLIOTECA ANTES DE LA IMPLEMENTACIÓN DEL SISTEMA WEB DE
+CUADRO 02
+TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
+Niveles
 
-     BIBLIOTECA.
+Frecuencia
 
+Porcentaje
 
-     El tiempo de consulta de los estudiantes y docentes en la biblioteca del
-
-     Instituto Superior Público Pedagógico sobre un libro para luego realizar el
-
-     préstamo del mismo libro antes de la implementación del sistema web de
-
-     biblioteca en el Instituto Superior Público Pedagógico de Juliaca, presenta los
-
-     siguientes resultados:
-
-                                                                                  45
-                                CUADRO 02
-
-           TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
-
-            Niveles                Frecuencia               Porcentaje
- Rápido                                  3                       15%
- Normal                                  8                       40%
- Lento                                   9                       45%
- Total                                  20                      100%
+3
+15%
+8
+40%
+9
+45%
+20
+100%
 Fuente: Registro de la biblioteca de Instituto Superior Público Pedagógico.
+Rápido
+Normal
+Lento
+Total
 
+GRAFICO 01
 
-                                GRAFICO 01
+TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
+45%
+40%
 
-           TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
+45%
 
+40%
+35%
+30%
+25%
 
-                                                    45%
-     45%                           40%
-     40%
-     35%
-     30%
-     25%
-     20%              15%
-     15%
-     10%
-      5%
-      0%
-                 Rápido         Normal           Lento
+20%
 
+15%
 
-  Fuente: Cuadro 02
+15%
+10%
+5%
 
+0%
+Rápido
+
+Normal
+
+Lento
+
+Fuente: Cuadro 02
 
 INTERPRETACIÓN:
-
-
 El cuadro 02 y grafico 01, muestran las frecuencias y porcentajes sobre el
-
 tiempo de consulta de docentes y estudiantes de un libro de la biblioteca del
-
 Instituto Superior Público Pedagógico de Juliaca, según valoraciones
-
 cualitativas antes de la implementación del sistema web de biblioteca en el
-
 Instituto Superior Público Pedagógico de Juliaca, en la cual se puede observar
-
 lo siguiente:
+46
 
+ El 15% de los docentes y estudiantes que equivalen a 3 docentes o
 
-                                                                              46
-    El 15% de los docentes y estudiantes que equivalen a 3 docentes o
+estudiantes de un total de 20 indican que el tiempo que de consulta de un
+libro es menos de 2 minutos (Rápido).
+ El 40% de los docentes y estudiantes que equivalen a 8 docentes o
 
-      estudiantes de un total de 20 indican que el tiempo que de consulta de un
+estudiantes de un total de 20 indican que el tiempo que de consulta de un
+libro es entre 3 y 5 minutos (Normal).
+ El 45% de los docentes y estudiantes que equivalen a 9 docentes o
 
-      libro es menos de 2 minutos (Rápido).
-
-
-    El 40% de los docentes y estudiantes que equivalen a 8 docentes o
-
-      estudiantes de un total de 20 indican que el tiempo que de consulta de un
-
-      libro es entre 3 y 5 minutos (Normal).
-
-
-    El 45% de los docentes y estudiantes que equivalen a 9 docentes o
-
-      estudiantes de un total de 20 indican que el tiempo que de consulta de un
-
-      libro es más de 6 minutos (Lento).
-
-
+estudiantes de un total de 20 indican que el tiempo que de consulta de un
+libro es más de 6 minutos (Lento).
 4.2. IMPLEMENTACIÓN DEL SISTEMA WEB DE BIBLIOTECA
+DESCRIPCIÓN DE LA INSTITUCIÓN BENEFICIARIA
+INSTITUTO SUPERIOR PÚBLICO PEDAGÓGICO DE JULIACA
+El Instituto Superior Público Pedagógico de Juliaca es una institución sin fines
+de lucro, deviene de la escuela Normal Mixta de Juliaca, que se creó hace
+medio siglo por ley 14859, del 7 de febrero de 1964, y se inauguró el 11 de
+octubre del mismo año, después de la creación de la Provincia de San Román,
+en la ciudad de Juliaca surgía el pedido que se hacía más insistente en los
+décimos del cuarenta y cincuenta sobre todo, en los primeros años del sesenta
+cuando la migración se acrecentaba ostensiblemente. Este anhelo de la
+población Calcetera recién se cristalizaba en 1964, con la creación de la
+escuela normal Mixta de Juliaca y el establecimiento de la filial de la UNSA de
+Arequipa.
 
+47
 
-   DESCRIPCIÓN DE LA INSTITUCIÓN BENEFICIARIA
-
-
-   INSTITUTO SUPERIOR PÚBLICO PEDAGÓGICO DE JULIACA
-
-
-    El Instituto Superior Público Pedagógico de Juliaca es una institución sin fines
-
-   de lucro, deviene de la escuela Normal Mixta de Juliaca, que se creó hace
-
-   medio siglo por ley 14859, del 7 de febrero de 1964, y se inauguró el 11 de
-
-   octubre del mismo año, después de la creación de la Provincia de San Román,
-
-   en la ciudad de Juliaca surgía el pedido que se hacía más insistente en los
-
-   décimos del cuarenta y cincuenta sobre todo, en los primeros años del sesenta
-
-   cuando la migración se acrecentaba ostensiblemente. Este anhelo de la
-
-   población Calcetera recién se cristalizaba en 1964, con la creación de la
-
-   escuela normal Mixta de Juliaca y el establecimiento de la filial de la UNSA de
-
-   Arequipa.
-
-
-
-                                                                                 47
 Ante la petición Juliaqueña y la coyuntura Nacional, que estuvo marcada con
-
 la creación de universidades y escuelas normales en 1961 el diputado Roger
-
 Cáceres Velázquez presento el proyecto de ley N° 444-61 con el propósito
-
 exclusivo de crear una Escuela Normal Mixta en Juliaca; en 1963 se sumaron
-
 a la gestión para que el proyecto se convierta en ley los flamantes diputados
-
 Nestor Cáceres Velázquez y Julio Arce Valencia, el 6 de marzo de 1964 se
-
 encargaba la dirección de la escuela normal mixta de Juliaca de Juliaca al Dr.
-
 Gabino Sumarriva Valenzuela, Director de la Gran Unidad Escolar José
-
 Antonio Encinas (LVJ 11/3/64). La apertura oficial de la naciente Institución de
-
 Educación Superior se llevó a cabo el 11 de marzo, en el antiguo local de la
-
 GUE José Antonio Encinas. Dos meses después, el 25 de mayo se iniciaban
-
 las labores. El 13 de abril se informaban a través de la Voz de Juliaca, que el
-
 Dr. Teófilo Palacios Linares asumía la Dirección de la Escuela Normal Mixta
-
 de Juliaca.
-
-
 El primer centro de educación Superior de la ciudad de Juliaca por una década
-
 dejo de funcionar, por tanto tubo dos periodos de funcionamiento. El primero
-
 abarca desde su creación el 7 de febrero de 1964, hasta los primeros años
-
 del decenio y setenta puesto que por decreto Ley N°19401, del 4 de febrero
-
 de 1969 suscrito por el General juan Velazco Alvarado se suprimían las
-
 Escuelas Normales, por ese año no hubo admisión y los alumnos que estaban
-
 formándose tuvieron que concluir sus estudios Magisteriales en los años
-
 siguientes. El segundo periodo comprende desde su apertura, el 31 de marzo
-
 de 1981, hasta la actualidad.
 
+48
 
-
-
-                                                                             48
 Esta institución no cuenta con un sistema web de biblioteca para realizar una
-
 consulta catalogada de los libros existentes en la biblioteca.
-
-
 MISIÓN DEL I.S.P.P – JULIACA
-
-
 Somos una Institución Educativa Publica de nivel Superior, dependiente del
-
 Ministerio de Educación, que busca formar integralmente a los Jóvenes con
-
 vocación magisterial, capacitar y actualizar a los docentes en servicio como
-
 Profesionales de la Educación en los diversos niveles, modalidades y
-
 especialidades, con calidad y socialmente comprometidos para contribuir a la
-
 solución de los problemas de la comunidad, liderando procesos de
-
 transformación, con creatividad, innovación y eficiencia, utilizando los avances
-
 científico – tecnológicos.
-
-
 VISIÓN DEL I.S.P.P – JULIACA
-
-
 Somos una institución líder en la formación pedagógica de la región del Sur
-
 que se preocupa por la innovación permanente, fortaleciendo, capacitando y
-
 actualizando profesionales competitivos con el desarrollo organizacional e
-
 institucional acordes con las exigencias de la realidad, que a través del
-
 ejemplo sean defensores de la democracia y la libertad buscando
-
 constantemente su desarrollo profesional y personal, realizando acciones de
-
 liderazgo que contribuyan a la solución de problemas de la comunidad, a
-
 través de la investigación, logrando un estatus reconocido, con el concurso
-
 del personal con vocación de servicio, permanentemente actualizado y con
-
 espíritu de superación.
 
+49
 
-
-
-                                                                             49
 OBJETIVOS DE DEL I.S.P.P – JULIACA
+
 
+Desarrollar una formación profesional y personal competitiva, investigativa
+y con capacidad de liderazgo, para contribuir a una educación integral
+orientada al mejoramiento de las condiciones sociales, a través de la
+utilización de estrategias metodológicas actualizadas.
 
-   Desarrollar una formación profesional y personal competitiva, investigativa
+
 
-    y con capacidad de liderazgo, para contribuir a una educación integral
+Actualizar permanentemente al personal de la institución en los avances
+científico – tecnológicos, de su área para mejorar la calidad de los servicios,
+mediante convenios y la facilitación de condiciones para la asistencia a los
+eventos.
 
-    orientada al mejoramiento de las condiciones sociales, a través de la
+
 
-    utilización de estrategias metodológicas actualizadas.
+Promover y desarrollar investigaciones científicas, mediante el análisis
+interdisciplinario e interinstitucional de la problemática educativa , para
+producir y difundir innovaciones pedagógicas.
 
+
 
-   Actualizar permanentemente al personal de la institución en los avances
+Desarrollar actividades científico – culturales para la sensibilización y el
+mejoramiento de las condiciones educativas y calidad de vida de la
+población, dinamizando una serie de actividades de carácter cultural,
+deportivo, social y promoviendo la participación de los miembros de la
+institución.
 
-    científico – tecnológicos, de su área para mejorar la calidad de los servicios,
+
 
-    mediante convenios y la facilitación de condiciones para la asistencia a los
+Promover permanentemente eventos de actualización y capacitación para
+docentes, estudiantes y personas interesadas, buscando un mejor
+desempeño de sus funciones.
 
-    eventos.
+
 
+Promover el uso de los libros de la biblioteca a todos los docentes y
+estudiantes como un hábito de vida y ayudar en la formación profesional de
+los estudiantes del Instituto Superior Público Pedagógico de Juliaca.
+50
 
-   Promover y desarrollar investigaciones científicas, mediante el análisis
-
-    interdisciplinario e interinstitucional de la problemática educativa , para
-
-    producir y difundir innovaciones pedagógicas.
-
-
-   Desarrollar actividades científico – culturales para la sensibilización y el
-
-    mejoramiento de las condiciones educativas y calidad de vida de la
-
-    población, dinamizando una serie de actividades de carácter cultural,
-
-    deportivo, social y promoviendo la participación de los miembros de la
-
-    institución.
-
-
-   Promover permanentemente eventos de actualización y capacitación para
-
-    docentes, estudiantes y personas interesadas, buscando un mejor
-
-    desempeño de sus funciones.
-
-
-   Promover el uso de los libros de la biblioteca a todos los docentes y
-
-    estudiantes como un hábito de vida y ayudar en la formación profesional de
-
-    los estudiantes del Instituto Superior Público Pedagógico de Juliaca.
-
-                                                                                50
 REQUERIMIENTOS DEL SOFTWARE
-
-
 REQUERIMIENTOS
-
-
  Controlar y verificar las visitas al sistema web de biblioteca, mediante un
-
 control de tiempo y la cantidad de usuarios que visitan al sistema web de
-
 biblioteca para realizar las estadísticas de tiempo que demora para realizar
-
 la búsqueda de un libro.
-
  Brindar información de libros existentes en la biblioteca del Instituto
-
-  Superior Público Pedagógico de Juliaca.
-
+Superior Público Pedagógico de Juliaca.
  Brindar información de los autores y ediciones de los libros.
-
  Registrar comentarios y sugerencias de los usuarios en el sistema web de
-
-  la biblioteca del Instituto Superior Público Pedagógico de Juliaca.
-
-
+la biblioteca del Instituto Superior Público Pedagógico de Juliaca.
  Promover el uso de los libros ya sea para tareas y como ayuda en la
+formación profesional de los integrantes del Instituto Superior Público
+Pedagógico de Juliaca.
 
-  formación profesional de los integrantes del Instituto Superior Público
+51
 
-  Pedagógico de Juliaca.
-
-
-
-
-                                                                          51
-                                    DIAGRAMA 01
-
+DIAGRAMA 01
 DIAGRAMA DE CASOS DE USO PARA LA BIBLIOTECA DE INSTITUTO
+SUPERIOR PÚBLICO PEDAGÓGICO DE JULIACA
 
-               SUPERIOR PÚBLICO PEDAGÓGICO DE JULIACA
+Busaca Libros/Tesis
 
+Solicita prestamo de Libro/Tesis
 
+Presta Libro/Tesis
 
-                                        Busaca Libros/Tesis
+Usuario
 
+Devuelve Libro/Tesis
 
+Recibe Libro/Tesis
+Bibliotecario
+Genera Reportes
 
+Actualiza el Sistema Web
+Administrador
+Agrega Libros/Tesis
 
-                                   Solicita prestamo de Libro/Tesis
+CUADRO N° 03
+DESCRIPCIÓN DE CASO DE USO ACTUALIZA EL SISTEMA WEB
 
+Caso
+Uso
 
+de
 
-                                           Presta Libro/Tesis
-          Usuario
+Acceder al sistema web
 
+Actor
 
-                                         Devuelve Libro/Tesis
+Administrador
 
+Tipo
+Descripción
 
-
-                                            Recibe Libro/Tesis
-                                                                      Bibliotecario
-
-
-                                           Genera Reportes
-
-
-
-                                        Actualiza el Sistema Web
-
-       Administrador
-
-
-                                            Agrega Libros/Tesis
-
-
-
-
-                                    CUADRO N° 03
-
-   DESCRIPCIÓN DE CASO DE USO ACTUALIZA EL SISTEMA WEB
-
-
-
-    Caso            de   Acceder al sistema web
-    Uso
-
-    Actor                Administrador
-
-    Tipo                 Primario
-    Descripción          El Administrador es la persona que se encarga de
-
-                         actualizar el sistema web como también dar
-
-                         información a los usuarios.
-
+Primario
+El Administrador es la persona que se encarga de
+actualizar el sistema web como también dar
+información a los usuarios.
 
 Fuente: Elaboración propia.
 
+52
 
+CUADRO N° 04
+DESCRIPCIÓN DE CASO DE USO INGRESAR AL SISTEMA WEB
+Caso de Uso
 
+Ingresar al sistema web
 
-                                                                                      52
-                              CUADRO N° 04
+Actor
 
-    DESCRIPCIÓN DE CASO DE USO INGRESAR AL SISTEMA WEB
+Usuarios (Docentes y Estudiantes)
 
- Caso de Uso    Ingresar al sistema web
+Tipo
 
+Primario
 
- Actor          Usuarios (Docentes y Estudiantes)
+Descripción
 
+El usuario ingresa al sistema para realizar búsqueda
+de los libros de la biblioteca del Instituto Superior
+Público Pedagógico de Juliaca
 
- Tipo           Primario
+Fuente: Elaboración propia.
+CUADRO N° 05
+DESCRIPCIÓN DE CASO DE USO AGREGA LIBROS O TESIS AL
+SISTEMA WEB
+Caso de Uso
 
+Brindar información del sistema web.
 
- Descripción    El usuario ingresa al sistema para realizar búsqueda
+Actor
 
-                de los libros de la biblioteca del Instituto Superior
+Administrador y Bibliotecario
 
-                Público Pedagógico de Juliaca
+Tipo
 
+Secundario
+
+Descripción
+
+El bibliotecario es la persona que se encarga de
+Brindar información y registrar información. Sobre el
+manejo de los libros.
 
 Fuente: Elaboración propia.
 
+53
 
-                              CUADRO N° 05
-
-    DESCRIPCIÓN DE CASO DE USO AGREGA LIBROS O TESIS AL
-
-                              SISTEMA WEB
-
- Caso de Uso    Brindar información del sistema web.
-
-
- Actor          Administrador y Bibliotecario
-
-
- Tipo           Secundario
-
-
- Descripción    El bibliotecario es la persona que se encarga de
-
-                Brindar información y registrar información. Sobre el
-
-                manejo de los libros.
-
-
-Fuente: Elaboración propia.
-
-
-
-
-                                                                        53
-                                DIAGRAMA 02
-
-              DIAGRAMA DE SECUENCIA ACTOR USUARIO
-
-
-
+DIAGRAMA 02
+DIAGRAMA DE SECUENCIA ACTOR USUARIO
 
 DESCRIPCION:
-
-
 VISITA.- la visita lo realiza todos los usuarios que ingresan al sistema web ya
-
 sea para informarse.
-
-
 RESERVA.- La reserva lo realiza un usuario una vez que haya visto los libros
-
 y tesis realiza la reserva o si está dentro del Instituto realiza el préstamo del
-
 libro.
-
-
 SUGUIRE.- la sugerencia la realizan todos los usuarios que visten el sistema
-
 web biblioteca ya sea para su mejoramiento y recomendaciones o las
-
 actualización de algunos libros.
-
-
 COMENTA.- Los comentarios la realizan todos los usuarios ya sea sobre la
-
 información que recibieron al visitar el sistema web de biblioteca o las
-
 recomendaciones para que mejoren el sistema web de biblioteca.
 
+54
 
-
-
-                                                                              54
-                               DIAGRAMA 03
-
-             DIAGRAMA DE SECUENCIA DE ADMINISTRADOR
-
-
-
+DIAGRAMA 03
+DIAGRAMA DE SECUENCIA DE ADMINISTRADOR
 
 DESCRIPCION:
-
-
 GENERA.- El administrador genera reportes sobre los libros o tesis más
-
 leídos que se realizaron en el sistema web de biblioteca.
-
-
 ACTUALIZA.- Actualiza la base de datos de los libros y/o estudiantes del
-
 Instituto Superior Público Pedagógico de Juliaca.
-
-
 IMPLEMENTA.- Implementa medias de seguridad para mayor fiabilidad de
-
 información para así brindar a los usuarios (Docentes, Estudiantes y
-
 bibliotecario).
 
+55
 
+DIAGRAMA 04
+DIAGRAMA DE SECUENCIA DE BIBLIOTECARIO
 
-
-                                                                     55
-                                  DIAGRAMA 04
-
-               DIAGRAMA DE SECUENCIA DE BIBLIOTECARIO
-
-
-
-
-   DESCRIPCION:
-
-
-   REGISTRA.- Registra a los usuarios que realizaron una reserva o préstamo
-
-   de un libro Instituto Superior Público Pedagógico de Juliaca.
-
-
-   GENERA.- Genera reportes de los libros que han sido prestado y/p devueltos
-
-   en la biblioteca del Instituto Superior Público Pedagógico de Juliaca.
-
-
-   BRINDA.- Brinda información a los usuarios del Instituto Superior Público
-
-   Pedagógico de Juliaca.
-
-
+DESCRIPCION:
+REGISTRA.- Registra a los usuarios que realizaron una reserva o préstamo
+de un libro Instituto Superior Público Pedagógico de Juliaca.
+GENERA.- Genera reportes de los libros que han sido prestado y/p devueltos
+en la biblioteca del Instituto Superior Público Pedagógico de Juliaca.
+BRINDA.- Brinda información a los usuarios del Instituto Superior Público
+Pedagógico de Juliaca.
 4.3. TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES EN LA
+BIBLIOTECA DESPUÉS DE LA IMPLEMENTACIÓN DEL SISTEMA WEB DE
+BIBLIOTECA.
+El tiempo de consulta sobre un libro en el Instituto Superior Público
+Pedagógico de Juliaca después de la implementación del sistema web de
+biblioteca, presenta los siguientes resultados:
+56
 
-  BIBLIOTECA DESPUÉS DE LA IMPLEMENTACIÓN DEL SISTEMA WEB DE
-
-  BIBLIOTECA.
-
-
-   El tiempo de consulta sobre un libro en el Instituto Superior Público
-
-   Pedagógico de Juliaca después de la implementación del sistema web de
-
-   biblioteca, presenta los siguientes resultados:
-
-                                                                            56
-                           CUADRO N°06
-
+CUADRO N°06
 TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES EN SISTEMA
+WEB
+Niveles
 
-                               WEB
+Frecuencia
 
+Porcentaje
 
-    Niveles           Frecuencia               Porcentaje
+Rápido
 
-    Rápido                10                      50%
+10
 
-    Normal                 6                      30%
+50%
 
-     Lento                 4                      20%
+Normal
 
-     Total                20                     100%
+6
+
+30%
+
+Lento
+
+4
+
+20%
+
+Total
+
+20
+
+100%
 
 Fuente: Registro de la biblioteca de Instituto Superior Público
 Pedagógico Juliaca
 
+57
 
-
-
-                                                                  57
-                                GRAFICO 02
-
+GRAFICO 02
 TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES EN SISTEMA
+WEB
+50%
+50%
+40%
 
-                                     WEB
+30%
 
+30%
 
-                       50%
-             50%
+20%
 
-             40%
-                                       30%
-             30%
-                                                      20%
-             20%
+20%
+10%
+0%
+Rápido
 
-             10%
+Normal
 
-             0%
-                     Rápido         Normal          Lento
+Lento
 
-
-        Fuente: Cuadro N° 06
-
-
+Fuente: Cuadro N° 06
 INTERPRETACIÓN:
-
-
 El cuadro N°06 y grafico 02, muestran las frecuencias y porcentajes sobre el
-
 tiempo de consulta de docentes y estudiantes de un libro de la biblioteca del
-
 Instituto Superior Público Pedagógico de Juliaca, según valoraciones
-
 cualitativas con la implementación del sistema web de biblioteca en el Instituto
-
 Superior Público Pedagógico de Juliaca, en la cual se puede observar lo
-
 siguiente:
-
-
  El 50% de los docentes y estudiantes que equivalen a 10 docentes o
 
-  estudiantes de un total de 20 indican que el tiempo que de consulta de un
+estudiantes de un total de 20 indican que el tiempo que de consulta de un
+libro es menos de 2 minutos (Rápido).
 
-  libro es menos de 2 minutos (Rápido).
+58
 
+ El 30% de los docentes y estudiantes que equivalen a 6 docentes o
 
-
-
-                                                                             58
-    El 30% de los docentes y estudiantes que equivalen a 6 docentes o
-
-     estudiantes de un total de 20 indican que el tiempo que de consulta de un
-
-     libro es entre 3 y 5 minutos (Normal).
-
-
-    El 20% de los docentes y estudiantes que equivalen a 4 docentes o
-
-     estudiantes de un total de 20 indican que el tiempo que de consulta de un
-
-     libro es más de 6 minutos (Lento).
-
-
+estudiantes de un total de 20 indican que el tiempo que de consulta de un
+libro es entre 3 y 5 minutos (Normal).
+ El 20% de los docentes y estudiantes que equivalen a 4 docentes o
+estudiantes de un total de 20 indican que el tiempo que de consulta de un
+libro es más de 6 minutos (Lento).
 4.4. COMPARA LOS TIEMPOS DE CONSULTA DE LOS LIBROS EN LA
+BIBLIOTECA DEL INSTITUTO SUPERIOR PÚBLICO PEDAGÓGICO.
+Cuadro N°07
+TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
+Antes
+Después
+Niveles Frecuencia Porcentaje Frecuencia
+Porcentaje
+3
+15%
+10
+50%
+Rápido
+8
+40%
+6
+30%
+Normal
+9
+45%
+4
+20%
+Lento
+20
+100%
+20
+100%
+Total
+Fuente: Registro de la biblioteca de Instituto Superior Público Pedagógico
+Juliaca.
 
-  BIBLIOTECA DEL INSTITUTO SUPERIOR PÚBLICO PEDAGÓGICO.
+59
 
+GRAFICO 03
+TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
+50%
+50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
 
-                                  Cuadro N°07
+45%
+40%
+30%
+20%
+15%
 
-              TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
+Rápido
 
-                        Antes                         Después
-    Niveles Frecuencia Porcentaje Frecuencia                 Porcentaje
-    Rápido         3             15%             10              50%
-    Normal         8             40%              6              30%
-    Lento          9             45%              4              20%
-    Total         20            100%             20             100%
-   Fuente: Registro de la biblioteca de Instituto Superior Público Pedagógico
+Normal
 
-   Juliaca.
+Antes
+Despues
 
+Lento
 
-
-
-                                                                                59
-                                    GRAFICO 03
-
-          TIEMPO DE CONSULTA DE DOCENTES Y ESTUDIANTES
-
-                       50%
-        50%                                 45%
-        45%                   40%
-        40%
-        35%                         30%
-        30%                                                   Antes
-        25%                                       20%
-                                                              Despues
-        20%      15%
-        15%
-        10%
-         5%
-         0%
-                 Rápido       Normal        Lento
-
-      Fuente: Cuadro N° 07
-
-
-  INTERPRETACIÓN:
-
-
-  El cuadro N°07 y grafico 03, muestran las frecuencias y porcentajes sobre la
-
-  comparación del tiempo de consulta de docentes y estudiantes sobre la
-
-  consulta un libro en la biblioteca del Instituto Superior Público Pedagógico de
-
-  Juliaca en la cual se puede observar lo siguiente:
-
-
+Fuente: Cuadro N° 07
+INTERPRETACIÓN:
+El cuadro N°07 y grafico 03, muestran las frecuencias y porcentajes sobre la
+comparación del tiempo de consulta de docentes y estudiantes sobre la
+consulta un libro en la biblioteca del Instituto Superior Público Pedagógico de
+Juliaca en la cual se puede observar lo siguiente:
  Los docentes y estudiantes que realizaron la consultas de fue rápida de 15%
 
-  al 50% indicándonos ellos que la implementación del sistema web a
-
-  influenciado en el tiempo de consulta de los docentes y estudiantes en la
-
-  biblioteca Instituto Superior Público Pedagógico de Juliaca.
-
-
+al 50% indicándonos ellos que la implementación del sistema web a
+influenciado en el tiempo de consulta de los docentes y estudiantes en la
+biblioteca Instituto Superior Público Pedagógico de Juliaca.
  En cambio los docentes y estudiantes que realizaron la consultas de fue lenta
 
-  bajo de 45% al 20% indicándonos ellos que la implementación del sistema
+bajo de 45% al 20% indicándonos ellos que la implementación del sistema
+web haya influenciado en el tiempo de consulta de los docentes y estudiantes
+en la biblioteca Instituto Superior Público Pedagógico de Juliaca
 
-  web haya influenciado en el tiempo de consulta de los docentes y estudiantes
+60
 
-  en la biblioteca Instituto Superior Público Pedagógico de Juliaca
-
-
-                                                                              60
 PRUEBA DE HIPÓTESIS
-
-
 HIPÓTESIS NULA (H0)
-
-
 La implementación de un sistema web de biblioteca en el Instituto Superior
-
 Público Pedagógico de Juliaca en el año 2015 no influye en el tiempo de
-
 consulta de libros de parte de los docentes y estudiantes de dicha institución
-
 en el año 2015.
-
-
 HIPÓTESIS ALTERNATIVA (H1)
-
-
 La implementación de un sistema web de biblioteca en el Instituto Superior
-
 Público Pedagógico de Juliaca en el año 2015 influye en el tiempo de consulta
-
 de libros de parte de los docentes y estudiantes de dicha institución en el año
-
 2015.
-
-
 1. DETERMINACIÓN DEL TIPO DE PRUEBA
-
-
 Según la H1 la prueba aplicada fue bilateral con distribución t de Student con
-
 n-1 grados de libertad.
-
-
 2. ESPECIFICACIÓN DEL NIVEL DE SIGNIFICACIÓN
-
-
 Tomamos un nivel de significancia de 5% (α=0.05)
-
-
 Los grados de libertad está dado por: gl = n-2= 40–2 = 38
-
-
 Valor crítico (t de tabla) = t(1-α/2,38) = 2,024 y por simetría se obtiene para el
-
 lado opuesto en la distribución t de Student.
 
+61
 
-
-
-                                                                               61
 3. CÁLCULO DEL ESTADÍSTICO DE LA PRUEBA
+Luego con ayuda de Microsoft Excel se logra calcular el valor para la siguiente
+ecuación:
+𝑥̅1 − 𝑥̅ 2
 
+𝑡=
 
- Luego con ayuda de Microsoft Excel se logra calcular el valor para la siguiente
+(𝑛1 −1)𝑆12 +(𝑛2 −1)𝑆22
 
- ecuación:
+√
 
+𝑛1
 
-                                                            𝑥̅1 − 𝑥̅ 2
-                                       𝑡=
-                                                 (𝑛1 −1)𝑆12 +(𝑛2 −1)𝑆22    1    1
-                                             √                            (𝑛 + 𝑛 )
-                                                       𝑛1 +𝑛2 −2           1    2
+20
 
+𝑖=1
 
+𝑖=1
 
-          𝑛1                           20
-               (∑ 𝑥𝑖 )2           (∑ 𝑥1 )2         (108)2
- 𝑆12 = ∑ 𝑥𝑖2 −          = ∑ 𝑥12 −          = 686 −        = 102.8
-                 𝑛1                 𝑛1               20
-         𝑖=1                           𝑖=1
+𝑛1 +𝑛2 −2
 
+1
 
-          𝑛2                           20
-                      (∑ 𝑥𝑖 )2          (∑ 𝑥2 )2         (63)2
- 𝑆22 =   ∑ 𝑥𝑖2      −               2
-                               = ∑ 𝑥2 −          = 275 −       = 76.55
-                        𝑛2                𝑛2              20
-         𝑖=1                           𝑖=1
+1
 
+(𝑛 + 𝑛 )
+1
 
-         ∑ 𝑥1       108                                          ∑ 𝑥2      63
- 𝑥̅1 =          =         = 5.4                          𝑥̅2 =           = 20 = 3.15
-          𝑛1        20                                             𝑛2
+2
 
+(∑ 𝑥𝑖 )2
+(∑ 𝑥1 )2
+(108)2
+𝑆12 = ∑ 𝑥𝑖2 −
+= ∑ 𝑥12 −
+= 686 −
+= 102.8
+𝑛1
+𝑛1
+20
+𝑛2
 
+𝑆22 =
 
-                    5.4 − 3.15                             2.25
- 𝑡=                                               =                       = 4.752
-         19(102.8)+19(76.55)       1         1        √0.2241875
-      √                           (20 + 20)
-                20+20−2
+𝑥̅1 =
 
+20
 
+∑ 𝑥𝑖2
+𝑖=1
+∑ 𝑥1
+𝑛1
 
- 4. TOMA DE DECISIÓN
+=
 
+(∑ 𝑥𝑖 )2
+(∑ 𝑥2 )2
+(63)2
+2
+−
+= ∑ 𝑥2 −
+= 275 −
+= 76.55
+𝑛2
+𝑛2
+20
+𝑖=1
 
- Se puede observar el valor calculado del estadístico t de Student (t=4.752)
+108
+20
 
- ubicando este valor en la Figura N°01 este se halla en la región de rechazo ya
+= 5.4
 
- que 4.752>2,024 por lo que se rechaza la H0, es decir que la implementación
+𝑥̅2 =
 
- de un sistema web de biblioteca en el Instituto Superior Público Pedagógico
+5.4 − 3.15
 
- de Juliaca en el año 2015 no influye en el tiempo de consulta de libros de parte
+𝑡=
 
- de los docentes y estudiantes de dicha institución en el año 2015.
+19(102.8)+19(76.55)
 
+√
 
+20+20−2
 
+=
+1
 
-                                                                                       62
-                                CONCLUSIONES
+1
 
+(20 + 20)
+
+∑ 𝑥2
+𝑛2
+
+63
+
+= 20 = 3.15
+
+2.25
+√0.2241875
+
+= 4.752
+
+4. TOMA DE DECISIÓN
+Se puede observar el valor calculado del estadístico t de Student (t=4.752)
+ubicando este valor en la Figura N°01 este se halla en la región de rechazo ya
+que 4.752>2,024 por lo que se rechaza la H0, es decir que la implementación
+de un sistema web de biblioteca en el Instituto Superior Público Pedagógico
+de Juliaca en el año 2015 no influye en el tiempo de consulta de libros de parte
+de los docentes y estudiantes de dicha institución en el año 2015.
+
+62
+
+CONCLUSIONES
 1. La investigación permite concluir que, el tiempo de consulta de los docentes y
-
-   estudiantes del Instituto Superior Publico Pedagógico de Juliaca en el año 2015,
-
-   antes de la implementación del sistema web se tardaba más en la consulta y el
-
-   préstamo de un libro.
-
-
+estudiantes del Instituto Superior Publico Pedagógico de Juliaca en el año 2015,
+antes de la implementación del sistema web se tardaba más en la consulta y el
+préstamo de un libro.
 2. Luego de la implementación del sistema web de biblioteca en el Instituto
-
-   Superior Publico Pedagógico de Juliaca, el tiempo de consulta de los docentes
-
-   y estudiantes fue más rápido por la cual los docentes y estudiante concurren
-
-   más a la biblioteca del Instituto Superior Publico Pedagógico de Juliaca para
-
-   realizar préstamo de los libros y consulta de los libros existenete en la biblioteca.
-
-
+Superior Publico Pedagógico de Juliaca, el tiempo de consulta de los docentes
+y estudiantes fue más rápido por la cual los docentes y estudiante concurren
+más a la biblioteca del Instituto Superior Publico Pedagógico de Juliaca para
+realizar préstamo de los libros y consulta de los libros existenete en la biblioteca.
 3. Efectivamente la implementación del sistema web de biblioteca mejoro
+notablemente en la consulta de los libros y tesis de la biblioteca del Instituto
+Superior Publico Pedagógico de Juliaca en el año 2015 y podemos decir que
+influye bastante en el tiempo de consulta y el uso de los mismo libros ya que por
+falta de conocimiento de los mismo los usuarios no hacían el uso de la biblioteca
+de manera permanentemente.
 
-   notablemente en la consulta de los libros y tesis de la biblioteca del Instituto
+63
 
-   Superior Publico Pedagógico de Juliaca en el año 2015 y podemos decir que
-
-   influye bastante en el tiempo de consulta y el uso de los mismo libros ya que por
-
-   falta de conocimiento de los mismo los usuarios no hacían el uso de la biblioteca
-
-   de manera permanentemente.
-
-
-
-
-                                                                                     63
-                RECOMENDACIONES Y SUGERENCIAS
-
+RECOMENDACIONES Y SUGERENCIAS
 Se sugiere a los señores Directores de todas las Instituciones Educativas Públicas
-
 y Privadas, poner más énfasis en el área de biblioteca ya que los libros que existen
-
 son buenos y que los estudiantes como docentes tienen que hacer usos de las
-
 mismas para mejorar su formación profesional y practicar el hábito de estudio.
-
-
 Realizar trabajos similares, en las principales Instituciones Públicas y Privadas así
-
 como también en las bibliotecas de Municipalidades y demás entidades, usando la
-
 metodología de desarrollo Web y empleo de las últimas Tecnologías Informáticas,
-
 así como efectuar trabajos de investigación, empleando este sistema web de
-
 biblioteca como modelo e incluyendo mayor número de Instituciones Públicas y
-
 Privadas.
 
+64
 
-
-
-                                                                                  64
-                                  BIBLIOGRAFÍA
+BIBLIOGRAFÍA
 Cabrera, C. (1998). “Algunos conceptos básicos de programación orientada a
-     objetos”, primera edición.
-
+objetos”, primera edición.
 Dubois, P. (2005). “MySQL”, Editorial Prentice-Hall, Edición Especial.
-
 Evans T. (1997). “Construya su propia Intranet”, Prentice.
-
 HANSEN, G. (2007). “Diseño y administración de base de datos”, Editorial Madrid
-     Prentice-Hall, Edición II.
-
+Prentice-Hall, Edición II.
 James A. (1992). “Análisis y diseño de sistemas de información”, Mc. Graw Hill
-     segunda edición.
-
+segunda edición.
 OROS CABELLO J. (2007). “Diseño de páginas web interactivas con JavaScript y
-     CSS”, Editorial Alfa Omega, Tercera Edición.
-
+CSS”, Editorial Alfa Omega, Tercera Edición.
 Rodríguez G. Denis E. (2009). “Adobe Flash CS4 Animación y publicaciones Web”,
-     Ediciones .Macro E.I.R.L.
-
+Ediciones .Macro E.I.R.L.
 HAHN H. (2008). “Internet: Manual de referencia”, Editorial Madrid: McGraw-Hill,
-     Segunda Edición.
-
+Segunda Edición.
 Heather W. (2005). “XML: Manual de referencia”, Editorial McGraw-Hill, Segunda
-     Edición.
-
+Edición.
 STOUD, R. (2005). “World Wide Web: Manual de referencia”, Editorial Madrid
-     Osborne, Primera Edition.
-
+Osborne, Primera Edition.
 Kendall, J. (2005), “Análisis y diseño de sistemas”, Editorial Pearson, Sexta Edición.
-
 Navate, E. (1995) “Sistema de Base de Datos”, Editorial Iberoamericana, Edición
-     Addison Wesley.
-
+Addison Wesley.
 Pérez, L. A. (2000). “Estadística básica para ciencias sociales y educación”,
-     Editorial San Marcos.
+Editorial San Marcos.
 
+65
 
-
-
-                                                                                   65
 Pressman, R. (2002). “Ingeniería del Software un Enfoque Práctico”, Editorial. Mc
-     Graw-Hill, Quinta Edición.
-
+Graw-Hill, Quinta Edición.
 Romero, G. (2004). “UML con Rational Rose”. Lima, Perú: Grupo Editorial
-     Megabyte.
-
+Megabyte.
 Rumbaugh, J., Jacobson, I. y Booch, G. (1999). “El Lenguaje Unificado de
-     Modelado, Manual de Referencia”, España: Editorial Addison Wesley.
-
+Modelado, Manual de Referencia”, España: Editorial Addison Wesley.
 Schmuller, J. (2000) “Aprendiendo UML en 24 Horas”, Primera Edición Prentice
-     Hall.
-
+Hall.
 Solomon, P. R. (1998). “Guía para redactar informes de investigación”. Editorial
-     Trillas.
-
+Trillas.
 Weitzenfeld, A. (2002). “Ingeniería de software orientado a objetos: Teoría y
-     práctica con UML y Java”, México: Editorial ITAM Departamento Académico
-     de Computación.
+práctica con UML y Java”, México: Editorial ITAM Departamento Académico
+de Computación.
 
+66
 
-
-
-                                                                              66
-                                  WEBGRAFÍA
-
+WEBGRAFÍA
 Diccionario de la Real Academia Española. Diccionario de la Lengua Española. [En
 línea]. Consultado: (12, Junio, 2009). Disponible en: http://www.rae.es.
-
 Diseño de Bases de Datos Relacionales-Una extensión informal de UML. [En línea].
-Consultado: (08, Enero, 2011). Disponible en: es.tldp.org/Tutoriales/doc-modelado-
-sistemas-UML/multiple-html/x332.html.
-
+Consultado: (08, Enero, 2011). Disponible en: es.tldp.org/Tutoriales/doc-modeladosistemas-UML/multiple-html/x332.html.
 Ejemplo completo sobre la utilización del método RUP. [En línea]. Consultado: (12,
-Enero,                   2011).                    Disponible                      en:
+Enero,
+
+2011).
+
+Disponible
+
+en:
+
 www.dsic.upv.es/asignaturas/facultad/lsi/ejemplorup/index.html.
-
 Calero Muñoz, Coral. Métricas de calidad del software. (En línea). Consultado: (04,
-Febrero,           2011).            Disponible           en:              Alarcos.inf-
+Febrero,
+
+2011).
+
+Disponible
+
+en:
+
+Alarcos.inf-
+
 cr.uclm.es/doc/calidadSI/Metodos%20De%20Calidad.ppt.
-
 Computación e Informática
-
 http://www.rodolfoquispe.org/blog/que-es-la-ingenieria-de-software.php; accedido
 08 de Abril del 2011
-
 MANUAL PRÁCTICO DE HTML
-
 http://www-app.etsit.upm.es/~alvaro/manual/manual.html
-
-Modelado de Sistemas de Información http://es.tldp.org/Tutoriales/doc-modelado-
-sistemas-UML/multiple-html; accedido 13 de Noviembre del 2013
-
+Modelado de Sistemas de Información http://es.tldp.org/Tutoriales/doc-modeladosistemas-UML/multiple-html; accedido 13 de Noviembre del 2013
 MySQL [On-Line] www.mysql.com;
-
 Wikipedia La Enciclopedia Libre [On-Line] http://es.wikipedia.org/wiki/Turismo;
 accedido 22 de Octubre del 2013
-
 Wikipedia La Enciclopedia Libre [On-Line]
-
 http://es.wikipedia.org/wiki/An%C3%A1lisis_y_dise%C3%B1o_orientado_a_objeto
 s; accedido 15 enero del 2014.
 
+67
 
-
-                                                                                    67
 ANEXOS
 
+68
 
-
-
-         68
-                   ANEXO 01: CUESTIONARIO ESTRUTURADO
-
+ANEXO 01: CUESTIONARIO ESTRUTURADO
 A) Cuestionario de preguntas dirigida a los estudiantes y docentes del
-
 Instituto de Educación Pedagógico Público de Juliaca
-
-
 Marque con una equis [X] la opción que usted considere la adecuada.
-
 1. ¿Cómo califica el sistema web de biblioteca?
+[ ]
 
-[ ]       Bueno
+Bueno
 
-[ ]      Regular
+[ ]
 
-[ ]      Malo
+Regular
+
+[ ]
+
+Malo
 
 2. ¿El diseño del sistema web de biblioteca es confiable?
+[ ]
 
-[ ]     Es Confiable
+Es Confiable
 
-[ ]    Es Regular
+[ ]
 
-[ ]     Es Desconfiable
+Es Regular
+
+[ ]
+
+Es Desconfiable
 
 3. ¿Cómo califica la seguridad del sistema web de biblioteca?
+[ ]
+[ ]
+[ ]
 
-[ ]       Seguro
-
-[ ]     Regular
-
-[ ]      Inseguro
+Seguro
+Regular
+Inseguro
 
 4. ¿Cómo califica la rapidez del sistema web de biblioteca?
+[ ]
 
-[ ]        Rápido
+Rápido
 
-[ ]     Regular
+[ ]
 
-[ ]     Lento
+Regular
 
+[ ]
 
+Lento
 
+69
 
-                                                                         69
-                             ANEXO 02:
+ANEXO 02:
+CUADRO 08:
+MUESTRA DE INVESTIGACIÓN
+N° Consulta
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
 
-                            CUADRO 08:
+Registro de tiempo de consultas de docentes y
+estudiantes en la biblioteca (en minutos)
+Antes
+4
+9
+6
+9
+7
+9
+3
+4
+8
+7
+7
+4
+4
+5
+5
+2
+6
+2
+2
+5
 
-                   MUESTRA DE INVESTIGACIÓN
-
-                      Registro de tiempo de consultas de docentes y
-    N° Consulta          estudiantes en la biblioteca (en minutos)
-                             Antes                       Después
-         1                     4                            3
-         2                     9                            2
-         3                     6                            1
-         4                     9                            6
-         5                     7                            2
-         6                     9                            7
-         7                     3                            5
-         8                     4                            3
-         9                     8                            2
-         10                    7                            1
-         11                    7                            3
-         12                    4                            2
-         13                    4                            6
-         14                    5                            4
-         15                    5                            2
-         16                    2                            1
-         17                    6                            2
-         18                    2                            7
-         19                    2                            1
-         20                    5                            3
+Después
+3
+2
+1
+6
+2
+7
+5
+3
+2
+1
+3
+2
+6
+4
+2
+1
+2
+7
+1
+3
 
 Fuente: Biblioteca del Instituto Superior Público Pedagógico Juliaca 2015.
 
+70
 
-
-
-                                                                             70
-                           ANEXO 03 CODIGO FUENTE
-
+ANEXO 03 CODIGO FUENTE
 <!doctype html> <html lang="en"> <head> <meta charset="UTF-8"> <title>Instituto
 Superior de Educación Público Pedagógico de Juliaca</title> <link rel="stylesheet"
 type="text/css" href="style/index_style.css"> <link rel="stylesheet" type="text/css"
@@ -3780,15 +2323,14 @@ id="wows1_3"/></li> <li><a href="http://wowslider.com"><img src="data1/images/5.
 alt="slideshow html" title="5" id="wows1_4"/></a></li> <li><img
 src="data1/images/6.jpg" alt="6" title="6" id="wows1_5"/></li> </ul></div> <div
 class="ws_bullets"><div> <a href="#" title="1"><span><img src="data1/tooltips/1.jpg"
+71
 
-                                                                                     71
 alt="1"/>1</span></a> <a href="#" title="2"><span><img src="data1/tooltips/2.jpg"
 alt="2"/>2</span></a> <a href="#" title="3"><span><img src="data1/tooltips/3.jpg"
 alt="3"/>3</span></a> <a href="#" title="4"><span><img src="data1/tooltips/4.jpg"
 alt="4"/>4</span></a> <a href="#" title="5"><span><img src="data1/tooltips/5.jpg"
 alt="5"/>5</span></a> <a href="#" title="6"><span><img src="data1/tooltips/6.jpg"
-alt="6"/>6</span></a> </div></div><div class="ws_script" style="position:absolute;left:-
-99%"><a href="http://wowslider.com/vi">html slider</a> by WOWSlider.com v7.7</div>
+alt="6"/>6</span></a> </div></div><div class="ws_script" style="position:absolute;left:99%"><a href="http://wowslider.com/vi">html slider</a> by WOWSlider.com v7.7</div>
 <div class="ws_shadow"></div> </div> <script type="text/javascript"
 src="engine1/wowslider.js"></script> <script type="text/javascript"
 src="engine1/script.js"></script> <!-- FIN DEL ESLAIDER --> </div> </body> </html>
@@ -3804,60 +2346,42 @@ id="notas" > <img class="icon" src="pictures/icon_notas.png"> <p class="texto">A
 / Modificar</p> </div> </a> <p>&nbsp;</p> <div id="pie_de_pagina"></div> </div>
 </body> </html>
 
+72
 
-
-
-                                                                                     72
-                     ANEXO 04: MANUAL DEL SISTEMA
-
+ANEXO 04: MANUAL DEL SISTEMA
 Ventana inicio del sistema web
 Paso 1.- Ingresar a la página web www.bibliotecaISPPJ.com
-
-
-
 
 Paso 2. - Iniciar sesión
 Para iniciar sesión tienes que hacer clic en la pestaña INICIAR SESION en las
 cuales te pedirá usuario, contraseña y documentos luego clic en ingresar tal como
 se muestra en la siguiente figura.
 
+73
 
-
-
-                                                                              73
 Paso 3.- Ventana de operaciones
 Una vez iniciado sesión te dará la bienvenida y en esta parte podrás modificar tus
 datos y realizar la búsqueda de libros o tesis y también podrás realizar la reserva
 de algún libro o de tesis.
-
-
-
 
 Paso 4.- Ventana buscar libro
 Para buscar un libro debes de hacer clic en la pestaña buscar libro y te mostrar la
 siguiente ventana en la cual deberás de introducir el autor, texto o código del libros,
 una vez introducido la búsqueda hacer clic en el botón buscar.
 
+74
 
-
-
-                                                                                    74
 Paso 5.- Ventana Reservar
 Una vez buscado el libro debes de anotarte el código y el título del libro para poder
 reservarlo, debes de hacer clic en la pestaña reservar en la cual le mostrara la
 siguiente ventana en la cual debes de ingresar el código del libro y título del libro
 luego clic en el botón reservar.
 
-
-
-
 Paso 6.- Ventana Agregar
 Este paso es para el administrador en la cual es para agregar nuevo usuario, en
 esta operación el nuevo usuario debe de presentar sus documentos tales como DNI
 y Ficha de matrícula.
 
+75
 
-
-
-                                                                                  75
 
