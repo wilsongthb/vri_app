@@ -15,7 +15,6 @@
 //pagina de bienvenida
 Route::get('/', function () {
     return view('welcome');
-    //return "<h1>VRI";
 });
 
 //grupo de rutas de desarrollo y practicas
