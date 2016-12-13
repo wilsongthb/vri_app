@@ -81,3 +81,81 @@ function comparacion($text1, $text2, $minimo = 10){
         'mayor coincidencia' => $mayor_coincidencia
     ];
 }
+function comparacion_v1($text1, $text2, $minimo = 10){
+    /*
+        compara dos strings, devuelve una cadena con las partes iguales
+    */
+
+    $ultimo_encontrado = "";
+    $encontrados = [];
+    $buscado = "";
+
+    $longitud_text1 = strlen($text1);
+    echo 'longitud: ' . $longitud_text1 . PHP_EOL;
+
+    $i = 0;
+    for ($i ; $i < $longitud_text1; $i++) {
+        $buscado .=  $text1[$i];
+        $posicion = stripos($text2, $buscado);
+        if($posicion !== false){
+            //echo "+";
+            $ultimo_encontrado = $buscado;
+        }else{
+            //echo ">";
+            if(strlen($ultimo_encontrado) > $minimo){
+                if(!array_search($ultimo_encontrado, $encontrados)){
+                    $encontrados[] = $ultimo_encontrado;
+                    echo $i+1 . '_' . $longitud_text1 . '_' . (int)((($i+1)*100)/$longitud_text1) . '%' . PHP_EOL;
+                }
+            }
+            $buscado = "";
+        }
+    }
+    return $encontrados;
+}
+
+function comparacion_v2($texto1, $texto2, $minimo = 10){
+    /*
+        compara dos strings, devuelve una cadena con las partes iguales
+    */
+    $vars = [
+        'respuesta' => [],
+        'longitud_texto1' => strlen($texto1)
+    ];
+
+    for ($i=0; $i < $vars['longitud_texto1']; $i++) {
+
+        $vars['contador'] = $i;
+        $vars['buscado'] = $texto1[$vars['contador']];
+
+        $vars['posicion_coincidencia'] = stripos($texto2, $vars['buscado']);
+        // $vars['ultimo_encuentro'] = $vars['buscado'];
+        while($vars['posicion_coincidencia']){
+            $vars['ultimo_encuentro'] = $vars['buscado'];
+            $vars['contador']++;
+            if($vars['contador'] < $vars['longitud_texto1']){
+                $vars['buscado'] .= $texto1[$vars['contador']];
+            }else{
+                break;
+            }
+            $vars['posicion_coincidencia'] = stripos($texto2, $vars['buscado']);
+        }
+        
+        # minimo
+        if(isset($vars['ultimo_encuentro'])){
+            if(strlen($vars['ultimo_encuentro'])+1 > $minimo){
+                $longitud_respuesta = count($vars['respuesta']);
+                if($longitud_respuesta > 0){
+                    if(!stripos($vars['respuesta'][$longitud_respuesta-1], $vars['ultimo_encuentro'])){
+                        $vars['respuesta'][] = $vars['ultimo_encuentro'];
+                    }
+                }else{
+                    // la primera vez solo se inserta la primera frase encontrada
+                    $vars['respuesta'][] = $vars['ultimo_encuentro'];
+                }
+            }
+        }
+    }
+
+    return $vars['respuesta'];
+}
