@@ -81,7 +81,7 @@ function comparacion($text1, $text2, $minimo = 10){
         'mayor coincidencia' => $mayor_coincidencia
     ];
 }
-function comparacion_v1($text1, $text2, $minimo = 10){
+function comparacion_v1($text1, $text2, $minimo = 10, $detalles = false){
     /*
         compara dos strings, devuelve una cadena con las partes iguales
     */
@@ -103,9 +103,9 @@ function comparacion_v1($text1, $text2, $minimo = 10){
         }else{
             //echo ">";
             if(strlen($ultimo_encontrado) > $minimo){
-                if(!array_search($ultimo_encontrado, $encontrados)){
+                if(array_search($ultimo_encontrado, $encontrados) === false){
                     $encontrados[] = $ultimo_encontrado;
-                    echo $i+1 . '_' . $longitud_text1 . '_' . (int)((($i+1)*100)/$longitud_text1) . '%' . PHP_EOL;
+                    if($detalles) echo $i+1 . '_' . $longitud_text1 . '_' . (int)((($i+1)*100)/$longitud_text1) . '%' . PHP_EOL;
                 }
             }
             $buscado = "";
@@ -114,9 +114,9 @@ function comparacion_v1($text1, $text2, $minimo = 10){
     return $encontrados;
 }
 
-function comparacion_v2($texto1, $texto2, $minimo = 10){
+function comparacion_v2($texto1, $texto2, $minimo = 10, $detalles = false){
     /*
-        compara dos strings, devuelve una cadena con las partes iguales
+        compara dos strings, devuelve un array con las partes iguales
     */
     $vars = [
         'respuesta' => [],
@@ -124,16 +124,24 @@ function comparacion_v2($texto1, $texto2, $minimo = 10){
     ];
 
     for ($i=0; $i < $vars['longitud_texto1']; $i++) {
-
-        $vars['contador'] = $i;
-        $vars['buscado'] = $texto1[$vars['contador']];
+        $vars['contador'] = $i+$minimo;
+        $vars['buscado'] = substr($texto1, $i, $minimo);
 
         $vars['posicion_coincidencia'] = stripos($texto2, $vars['buscado']);
-        // $vars['ultimo_encuentro'] = $vars['buscado'];
-        while($vars['posicion_coincidencia']){
+
+        if($vars['posicion_coincidencia'] === false){
+            continue;
+        }
+
+        if($detalles){
+            echo $i . "\tde\t" . $vars['longitud_texto1'] . PHP_EOL;  
+        }
+
+        while($vars['posicion_coincidencia'] !== false){
             $vars['ultimo_encuentro'] = $vars['buscado'];
             $vars['contador']++;
             if($vars['contador'] < $vars['longitud_texto1']){
+                // $vars['buscado'] .= substr($texto1, $vars['contador'], $minimo);
                 $vars['buscado'] .= $texto1[$vars['contador']];
             }else{
                 break;
@@ -143,19 +151,63 @@ function comparacion_v2($texto1, $texto2, $minimo = 10){
         
         # minimo
         if(isset($vars['ultimo_encuentro'])){
-            if(strlen($vars['ultimo_encuentro'])+1 > $minimo){
-                $longitud_respuesta = count($vars['respuesta']);
-                if($longitud_respuesta > 0){
-                    if(!stripos($vars['respuesta'][$longitud_respuesta-1], $vars['ultimo_encuentro'])){
+            if(array_search($vars['ultimo_encuentro'], $vars['respuesta']) === false){
+                if(strlen($vars['ultimo_encuentro'])+1 > $minimo){
+                    $longitud_respuesta = count($vars['respuesta']);
+                    if($longitud_respuesta > 0){
+                        if(stripos($vars['respuesta'][$longitud_respuesta-1], $vars['ultimo_encuentro']) === false){
+                            $vars['respuesta'][] = $vars['ultimo_encuentro'];
+                        }
+                    }else{
+                        // la primera vez solo se inserta la primera frase encontrada
                         $vars['respuesta'][] = $vars['ultimo_encuentro'];
                     }
-                }else{
-                    // la primera vez solo se inserta la primera frase encontrada
-                    $vars['respuesta'][] = $vars['ultimo_encuentro'];
                 }
             }
+
         }
     }
 
     return $vars['respuesta'];
+}
+function comparacion_v3($texto1, $texto2, $minimo = 10, $detalles = false, $salto = false){
+    /*
+        compara dos strings, devuelve una cadena con las partes iguales
+    */
+    $resultados = [];
+    $longitud_texto1 = strlen($texto1);
+
+    for ($i=0; $i < $longitud_texto1-$minimo; $i++) {
+
+        $contador = $i+$minimo;
+        $buscado = substr($texto1, $i, $minimo);
+        $posicion_coincidencia = stripos($texto2, $buscado);
+
+        if($posicion_coincidencia === false){
+            continue;
+        }
+
+        if($detalles){
+            echo "$i de $longitud_texto1 // encontrados : ".count($resultados)." //\nbuscado: $buscado // ";var_dump($posicion_coincidencia);
+        }
+
+        while($posicion_coincidencia !== false and $contador < $longitud_texto1){
+            $ultimo_encontrado = $buscado;
+            $buscado .= $texto1[$contador];
+            $posicion_coincidencia = stripos($texto2, $buscado);
+            $contador++;
+        }
+
+        if(isset($ultimo_encontrado)){
+            $longitud_resultados = count($resultados);
+            if($longitud_resultados > 0){
+                if(stripos($resultados[$longitud_resultados-1], $ultimo_encontrado) === false){
+                    $resultados[] = $ultimo_encontrado;
+                }
+            }else
+                $resultados[] = $ultimo_encontrado;
+        }
+        if($salto) $i = $contador;
+    }
+    return $resultados;
 }
