@@ -10,7 +10,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading"><h3 class="text-center">INDEXACION</h3></div>
                 <div class="panel-body">
-                    <div is="vue-archivos"></div>
+                    <vue-archivos url="{{url('/php')}}/"></vue-archivos>
                 </div>
             </div>
         </div>

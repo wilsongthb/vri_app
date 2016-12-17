@@ -8,16 +8,17 @@ $nombre = $last = substr(strrchr($ruta, '/'), 1 );
 $txt = addslashes(Convertir::TXTaSTRING($ruta));
 //$txt = file_get_contents($ruta);
 
-$sql = "INSERT INTO `5_3`.`archivo` (`nombre`, `ruta`, `contenido`, `grupo_id`, `created_at`, `updated_at`) VALUES (
+$sql = "INSERT INTO `homestead`.`archivo` (`nombre`, `ruta`, `contenido`, `grupo_id`, `created_at`, `updated_at`) VALUES (
 	'$nombre', 
 	'$ruta', 
 	'$txt', 
 	1, 
-	'SYSDATE()', 
-	'SYSDATE()');";
+	'2016-12-13 23:03:05', 
+	'2016-12-13 23:03:05');";
 
-$cn = new mysqli('localhost', 'root', '', '5_3');
+$cn = new mysqli('localhost', 'root', 'root', 'homestead');
 $cn->query($sql);
 echo json_encode([
-	'error' => $cn->error
+	'error' => $cn->error,
+	'sql' => utf8_encode($sql)
 ]);
