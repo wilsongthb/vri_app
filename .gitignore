@@ -1,5 +1,5 @@
 /node_modules
-/public/files
+/public/php/files
 /public/php/vendor
 /vendor
 /.idea

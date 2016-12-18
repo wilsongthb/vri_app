@@ -18,6 +18,6 @@ los datos escritos en estos archivos no se sobreescriben, se apilan
 
 */
 
-include('../Clases/Convertir.php');
-include('../Clases/Archivos.php');
-system("php cli_convertir_todo_pdf.php ../PDFs ../TXTs >>respuesta.txt 2>>error.txt &");
+// include('../Clases/Convertir.php');
+// include('../Clases/Archivos.php');
+system("php cli_convertir_todo_pdf.php ../files/pdf ../files/txt >>respuesta.txt 2>>error.txt &");
