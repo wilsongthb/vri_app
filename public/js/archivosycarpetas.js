@@ -1,10 +1,10 @@
 Vue.component('vue-archivosycarpetas', {
-    template: '#vue-archivosycarpetas',
+    template: "#vue-archivosycarpetas",
     data: function(){
         return {
             ver_url: false,
-            url: 'http://localhost/p/dev/laravel-5.3/public/php/',
-            src: 'src',
+            url: '/php/',
+            src: 'files',
             escaner: 'escaner.php',
             lista: {},
             respuesta: false
@@ -16,7 +16,6 @@ Vue.component('vue-archivosycarpetas', {
                 src: this.src,
                 rutas: 'si'
             },function(data){
-                console.log(data);
                 this.lista = data;
             }.bind(this))
         },
@@ -24,8 +23,11 @@ Vue.component('vue-archivosycarpetas', {
     created: function(){
         this.escanear();
     }
-})
+});
 
 new Vue({
-    el: '#app'
-})
+    el: '#app',
+    data: {
+        msg: 'XD'
+    }
+});

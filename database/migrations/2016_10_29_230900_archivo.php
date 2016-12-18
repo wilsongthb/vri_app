@@ -24,7 +24,7 @@ class Archivo extends Migration
             $table->increments('id');
             $table->string('nombre');
             $table->string('ruta')->unique();
-            $table->text('contenido');
+            $table->longtext('contenido');
 
             $table->integer('grupo_id')->unsigned();
             $table->foreign('grupo_id')->references('id')->on('grupo');

@@ -11,9 +11,8 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Styles -->
-    <link href="{{url('/css/app.css')}}" rel="stylesheet">
-    <link href="{{url('/css/w3.css')}}" rel="stylesheet">
-    @yield('link')
+    <link href="{{asset('/css/app.css')}}" rel="stylesheet">
+    @stack('link')
 
     <!-- Scripts -->
     <script>
@@ -84,8 +83,10 @@
         @yield('content')
     </div>
 </body>
+
 @yield('template')
 <!-- Scripts -->
-<script src="{{url('/js/app.js')}}"></script>
-@yield('script')
+<script src="{{asset('/js/app.js')}}"></script>
+@stack('script')
+
 </html>

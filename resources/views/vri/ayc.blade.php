@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
-@section('link')
-<link href="{{url('/css/united/bootstrap.min.css')}}" rel="stylesheet">
-@endsection
+@push('link')
+<link href="{{asset('/static/css/cosmo/bootstrap.min.css')}}" rel="stylesheet">
+@endpush
 
 @section('content')
 <div class="container" id="app">
@@ -14,8 +14,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading"><h3 class="text-center">VER ARCHIVOS Y CARPETAS</h3></div>
                 <div class="panel-body">
-                    <div is="vue-archivosycarpetas"></div>
-                    
+                    <vue-archivosycarpetas></vue-archivosycarpetas>
                 </div>
             </div>
         </div>
@@ -54,6 +53,7 @@
 </template>
 @endsection
 
-@section('script')
-<script src="{{url('js/archivosycarpetas.js')}}"></script>
-@endsection
+@push('script')
+<script src="{{asset('/static/js/vue.js')}}"></script>
+<script src="{{asset('/js/archivosycarpetas.js')}}"></script>
+@endpush

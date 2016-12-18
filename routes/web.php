@@ -10,54 +10,36 @@
 | to using a Closure or controller method. Build something great!
 |
 */
-//use DB;
 
 //pagina de bienvenida
 Route::get('/', function () {
     return view('welcome');
 });
 
-//grupo de rutas de desarrollo y practicas
-Route::group(['prefix' => 'dev'], function(){
-    Route::get('vue', function(){
-        return view('vue.prueba',[
-            //'dev' => 1
-        ]);
-    });
-    Route::get('vue_crud', function(){
-        return view('vue.crud');
-    });
-});
-
-//rutas de modelo, conexion a la base de datos
-Route::group(['prefix' => 'models'], function(){
-    Route::get('estudiantes', function(){
-        $estudiantes = DB::table('estudiante')->orderBy('paterno','asc')->paginate(10);
-        return response()->json($estudiantes);
-    });
-});
-
-//grupo de rutas de la plicacion del VRI
+//grupo de rutas de la aplicacion del VRI
 Route::group(['prefix' => 'vri'], function(){
-    Route::get('comparador');
+    Route::get('indexacion', 'ctrl_vri@indexacion');
+    Route::get('busqueda', 'ctrl_vri@busqueda');
+    Route::get('comparar', 'ctrl_vri@comparar');
+    Route::get('cola', 'ctrl_vri@cola');
+    Route::get('archivosycarpetas', 'ctrl_vri@ayc');
 
-
-    Route::get('', function(){
-        return view('vri.index');
-    });
-    Route::group(['prefix' => 'indexacion'], function(){
-        Route::get('', function(){
-            return view('vri.indexacion.index');
-        });
-    });
-    Route::group(['prefix' => 'busqueda'], function(){
-        Route::get('', function(){
-            return view('vri.busqueda.index');
-        });
-    });
-    Route::get('archivosycarpetas', function(){
-        return view('vri.ayc');
-    });
+    // Route::get('', function(){
+    //     return view('vri.index');
+    // });
+    // Route::group(['prefix' => 'indexacion'], function(){
+    //     Route::get('', function(){
+    //         return view('vri.indexacion.index');
+    //     });
+    // });
+    // Route::group(['prefix' => 'busqueda'], function(){
+    //     Route::get('', function(){
+    //         return view('vri.busqueda.index');
+    //     });
+    // });
+    // Route::get('archivosycarpetas', function(){
+    //     return view('vri.ayc');
+    // });
 });
 
 //otros
