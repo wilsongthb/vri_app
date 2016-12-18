@@ -8,6 +8,13 @@ use App\Http\Requests;
 
 class ctrl_vri extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware('auth');
+    }
+    function index(){
+        return view('vri.index');
+    }
     function comparar(){
         return view('vri.comparar');
     }

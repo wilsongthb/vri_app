@@ -1,9 +1,4 @@
-@extends('layouts.app')
-
-@push('link')
-<link href="{{asset('/static/css/cosmo/bootstrap.min.css')}}" rel="stylesheet">
-@endpush
-
+@extends('vri.default')
 @section('content')
 <div class="container" id="app">
     <div class="row">

@@ -1,5 +1,4 @@
-@extends('layouts.app')
-
+@extends('vri.default')
 @section('content')
 <div class="container" id="app">
     <div class="row">
@@ -8,71 +7,24 @@
         </div>
         <div class="col-md-8">
             <div class="panel panel-default">
-                <div class="panel-heading"><h3 class="text-center">INDEXACION</h3></div>
-                <div class="panel-body">
-                    <div is="vue-archivos"></div>
+                <div class="panel-heading"><h3 class="text-center">BUSQUEDA</h3></div>
+                <div class="panel-body" ng-app="vri" ng-controller="busqueda">
+                    <!-- Angular JS para variar :D -->
+                    <div class="col-md-6">
+                        <label for="">Este campo te permite buscar frases dentro del contenido de los documentos indexados en la base de datos</label>
+                        <textarea cols="30" rows="10" ng-model="search" ng-change="mostrar()" class="form-control"></textarea>
+                    </div>
+                    <div class="col-md-6 list-group">
+                        <button class="list-group-item active">Tesis que coinciden: @{{lista.total}}</button>
+                        <button class="list-group-item" ng-repeat="item in lista.data"><a href="/res/archivo/@{{item.id}}">@{{item.id + ' :: ' + item.nombre}}</a></button>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 @endsection
-
-@section('template')
-<template id="vue-archivos">
-    <div>
-        <h4>Archivos escaneados</h4>
-        <div v-if="respuesta == 'error'" class="alert alert-danger" role="alert">
-            <strong>Error!</strong> , ya esta indexado
-            <button type="button" class="close" v-on:click="respuesta = false" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-        <div v-if="respuesta == 'exito'" class="alert alert-success" role="alert">
-            <strong>Indexado!</strong> , con exito
-            <button type="button" class="close" v-on:click="respuesta = false" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-        <div class="input-group">
-            <span class="input-group-addon">
-                <label for="basic-url">URL</label>
-            </span>
-            <span class="input-group-addon">
-                <input type="checkbox" v-model="c_url">
-            </span>
-            <span v-if="c_url" class="input-group-addon" id="basic-addon3" >@{{url}}</span>
-            <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3" v-model="src">
-        </div>
-        <hr>
-        <table class="table table-bordered">
-            <thead>
-                <tr>
-                    <td>Nombre</td>
-                    <td>Acciones</td>
-                </tr>
-            </thead>
-            <tbody>
-                <tr v-for="f in lista.archivos">
-                    <td v-bind:title="url + f.direccion">@{{f.nombre}}</td>
-                    <td>
-                        <div class="btn-group btn-group-justified" role="group" aria-label="...">
-                            <a v-bind:href="url + f.direccion">
-                                <button type="button" class="btn btn-default" title="Ver"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
-                            </a>
-                            <a><button type="button" class="btn btn-default" v-on:click="indexar(f.direccion)" title="Indexar"><span class="glyphicon glyphicon-link" aria-hidden="true"></span></button></a>
-                        </div>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-        <pre>
-        @{{respuesta}}
-        </pre>
-    </div>
-</template>
-@endsection
-
-@section('script')
-<!--<script src="{{url('js/busqueda.js')}}"></script>-->
-@endsection
+@push('script')
+<script src="{{asset('/static/js/angular.js')}}"></script>
+<script src="{{asset('/js/vri/busqueda.js')}}"></script>
+@endpush

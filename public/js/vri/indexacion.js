@@ -54,7 +54,7 @@ Vue.component('vue-indexar', {
                 if(data.error == ''){
                     alert('Guardado en la base de datos con exito!');
                 }else{
-                    alert(data.error);
+                    alert('Error!: '+data.error);
                 }
                 this.$emit('terminar');
             }.bind(this))
@@ -69,7 +69,7 @@ Vue.component('vue-indexar', {
 new Vue({
     el: '#app',
     data: {
-        msg: 'XD',
+        msg: 'Vue is Works!',
 
     }
 });

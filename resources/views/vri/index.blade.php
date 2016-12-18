@@ -1,5 +1,4 @@
-@extends('layouts.app')
-
+@extends('vri.default')
 @section('content')
 <div class="container" id="app">
     <div class="row">

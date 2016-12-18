@@ -11,13 +11,20 @@
 |
 */
 
-//pagina de bienvenida
+// pagina de bienvenida
 Route::get('/', function () {
     return view('welcome');
 });
 
-//grupo de rutas de la aplicacion del VRI
+// grupo de recursos 'resources'
+Route::group(['prefix' => 'res'], function(){
+     Route::post('lista_archivos', 'res_archivos@lista');
+     Route::get('archivo/{id}', 'res_archivos@contenido');
+});
+
+// grupo de rutas de la aplicacion del VRI
 Route::group(['prefix' => 'vri'], function(){
+    Route::get('', 'ctrl_vri@index');
     Route::get('indexacion', 'ctrl_vri@indexacion');
     Route::get('busqueda', 'ctrl_vri@busqueda');
     Route::get('comparar', 'ctrl_vri@comparar');
