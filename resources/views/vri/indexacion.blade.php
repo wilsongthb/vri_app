@@ -11,7 +11,7 @@
                 <div class="panel-body">
                     <vue-archivosycarpetas 
                         url="/php/" 
-                        srcini="files/pdf" 
+                        srcini="files/txt" 
                         escaner="escaner.php"
                     ></vue-archivosycarpetas>
                 </div>

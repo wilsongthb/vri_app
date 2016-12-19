@@ -20,4 +20,5 @@ los datos escritos en estos archivos no se sobreescriben, se apilan
 
 // include('../Clases/Convertir.php');
 // include('../Clases/Archivos.php');
-system("php cli_convertir_todo_pdf.php ../files/pdf ../files/txt >>respuesta.txt 2>>error.txt &");
+system("php cli_convertir_todo_pdf.php ../files/pdf ../files/txt >>r/convertir.txt 2>>r/convertir.error.txt &");
+echo "Empieza ejecucion!";

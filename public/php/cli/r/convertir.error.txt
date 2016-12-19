@@ -1,0 +1,16 @@
+I/O Error: Couldn't open text file '../files/pdf/Hallasi Hallasi David _ Bustinza Sancho Saul Alfredo.txt'
+mv: cannot stat '../files/pdf/Hallasi Hallasi David _ Bustinza Sancho Saul Alfredo.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Hancco_Larico_Odila_Bertha.txt'
+mv: cannot stat '../files/pdf/Hancco_Larico_Odila_Bertha.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Hanccori_Mamani_Mario.txt'
+mv: cannot stat '../files/pdf/Hanccori_Mamani_Mario.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Heriberto_Chullunquia_Tisnado.txt'
+mv: cannot stat '../files/pdf/Heriberto_Chullunquia_Tisnado.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Herrera_Rivera_Judith_Soledad.txt'
+mv: cannot stat '../files/pdf/Herrera_Rivera_Judith_Soledad.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Hilari_Calderon_Santusa.txt'
+mv: cannot stat '../files/pdf/Hilari_Calderon_Santusa.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Hinojosa_Ruelas_Wilfredo_Aurelio.txt'
+mv: cannot stat '../files/pdf/Hinojosa_Ruelas_Wilfredo_Aurelio.txt': No such file or directory
+I/O Error: Couldn't open text file '../files/pdf/Hiquisi_Caceres_Tania_Almendra.txt'
+mv: cannot stat '../files/pdf/Hiquisi_Caceres_Tania_Almendra.txt': No such file or directory
