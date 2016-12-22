@@ -10,7 +10,7 @@
                 <div class="panel-heading"><h3 class="text-center">INDEXACION</h3></div>
                 <div class="panel-body">
                     <vue-archivosycarpetas 
-                        url="/php/" 
+                        url="{{url('/php')}}/" 
                         srcini="files/txt" 
                         escaner="escaner.php"
                     ></vue-archivosycarpetas>

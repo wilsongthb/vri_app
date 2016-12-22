@@ -1,0 +1,33 @@
+0 de 15 // encontrados : 0 //
+buscado: hol // int(0)
+1 de 15 // encontrados : 1 //
+buscado: ola // int(1)
+11 de 15 // encontrados : 1 //
+buscado: und // int(5)
+Array
+(
+    [0] => hola
+    [1] => und
+)
+0 de 15 // encontrados : 0 //
+buscado: hol // int(0)
+1 de 15 // encontrados : 1 //
+buscado: ola // int(1)
+11 de 15 // encontrados : 1 //
+buscado: und // int(5)
+Array
+(
+    [0] => hola
+    [1] => und
+)
+0 de 15 // encontrados : 0 //
+buscado: hol // int(0)
+1 de 15 // encontrados : 1 //
+buscado: ola // int(1)
+11 de 15 // encontrados : 1 //
+buscado: und // int(5)
+Array
+(
+    [0] => hola
+    [1] => und
+)

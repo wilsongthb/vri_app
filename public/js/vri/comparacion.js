@@ -1,11 +1,11 @@
 Vue.component('vue-archivosycarpetas', {
     template: "#vue-archivosycarpetas",
-    props: ['clave'],
+    props: ['clave', 'url'],
     data: function(){
         return {
             ver_url: false,
-            url: '/php/',
-            src: 'files',
+            // url: '/php/',
+            src: 'files/txt',
             escaner: 'escaner.php',
             lista: {},
             respuesta: false
@@ -47,7 +47,8 @@ Vue.component('vue-comparar', {
                 f1: false,
                 f2: false
             },
-            select: 3
+            select: 3,
+            identificador: 'comparar_'+Date.now()+'.txt'
         }
     },
     methods: {
@@ -59,6 +60,7 @@ Vue.component('vue-comparar', {
             $.post(
                 this.url,
                 {
+                    nombre: this.identificador,
                     ruta1: this.ruta[0],
                     ruta2: this.ruta[1]
                 },

@@ -14,4 +14,3 @@
 // $texto_2 = sanear_string($texto_2);
 
 // print_r(comparacion_v3($texto_1, $texto_2, 100, false, true));
-print_r($_POST);

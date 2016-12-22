@@ -7,8 +7,8 @@
     aun no se ha comprobado casos especiales en las funciones
 */
 
-require('../Clases/Archivos.php');
-require('../Clases/Convertir.php');
+// require('../Clases/Archivos.php');
+// require('../Clases/Convertir.php');
 
 function imprimir($frase){
     echo $frase . PHP_EOL;

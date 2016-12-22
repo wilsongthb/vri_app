@@ -1,7 +1,7 @@
 <?php
 /*
     compara dos archivos de texto
-    guarda el resultado en json
+    guarda el resultado en la base de datos
 */
 //print_r($argv);
 if(isset($argv[1]) AND isset($argv[2])){
@@ -23,7 +23,7 @@ if(isset($argv[1]) AND isset($argv[2])){
         $texto_2 = sanear_string($texto_2);
     }
 
-    print_r(comparacion_v3($texto_1, $texto_2, 100, true, true));
+    print_r(comparacion_v3($texto_1, $texto_2, 20, false, true));
 }else{
     echo "<pre>Este script no da respuesta web!";
 }

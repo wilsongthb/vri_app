@@ -50,3 +50,8 @@ para mas detalles revise `/routes/web.php`
 
 **recomendaciones**
 - puede usar vagrant Laravel homestead, para no estar instalando cada uno de los componentes mencionados, mas info sobre la instalacion en la pagina oficial de laravel
+
+
+
+***NOTA***
+USAR SOCKET IO PARA LAS PETICIONES LASRGAS DE PROCESO DE COLA

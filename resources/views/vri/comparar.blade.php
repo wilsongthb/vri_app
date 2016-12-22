@@ -6,7 +6,6 @@
             <h2>COMPARACION - @{{msg}}</h2>
         </div>
         <vue-comparar></vue-comparar>
-        <div class="col-md-12"></div>
     </div>
 </div>
 @endsection
@@ -42,40 +41,56 @@
 </template>
 <template id="vue-comparar">
     <div class="row">
+        <input type="text" v-model="identificador" class="form-control">
+        <hr>
         <template v-if="select == 1">
-            <vue-archivosycarpetas @terminar="terminar" clave="0"></vue-archivosycarpetas>
+            <vue-archivosycarpetas @terminar="terminar" clave="0" url="{{url('/php')}}/"></vue-archivosycarpetas>
         </template>
         <template v-if="select == 2">
-            <vue-archivosycarpetas @terminar="terminar" clave="1"></vue-archivosycarpetas>
+            <vue-archivosycarpetas @terminar="terminar" clave="1" url="{{url('/php')}}/" ></vue-archivosycarpetas>
         </template>
         <template v-if="select == 3">
+            <form v-bind:action="'{{url('/vri/comparacion/resultado')}}/'+identificador" method="post">
             <div class="col-md-6">
                 <div class="input-group">
+                <label for="">Archivo 1</label>
                     <span class="input-group-addon btn btn-default" @click="select=1">
                         Seleccionar
                     </span>
-                    <input type="text" v-model="ruta[0]" class="form-control">
+                    <input type="text" v-model="ruta[0]" class="form-control" name="ruta0">
                 </div>
-                <label for="">Ver contenido</label>&nbsp;&nbsp;<input type="checkbox" v-model="ver.f1">
+                {{-- <label for="">Ver contenido</label>&nbsp;&nbsp;<input type="checkbox" v-model="ver.f1">
                 <template v-if="ver.f1">
                     <pre>@{{txt1}}</pre>
-                </template>
+                </template> --}}
             </div>
             <div class="col-md-6">
                 <div class="input-group">
+                <label for="">Archivo 2</label>
                     <span class="input-group-addon btn btn-default" @click="select=2">
                         Seleccionar
                     </span>
-                    <input type="text" v-model="ruta[1]" class="form-control">
+                    <input type="text" v-model="ruta[1]" class="form-control" name="ruta1">
                 </div>
-                <label for="">Ver contenido</label>&nbsp;&nbsp;<input type="checkbox" v-model="ver.f2">
+                {{-- <label for="">Ver contenido</label>&nbsp;&nbsp;<input type="checkbox" v-model="ver.f2">
                 <template v-if="ver.f2">
                     <pre>@{{txt2}}</pre>
-                </template>
+                </template> --}}
             </div>
-            <button class="btn btn-default form-control" @click="comparar()">Comparar</button>
+            <hr>
+            <div class="row">
+                <div class="col-md-3">
+                    {{-- <hr>
+                    <button class="btn btn-default form-control" @click="comparar()">Comparar</button>
+                    <a v-bind:href="'{{url('/vri/comparacion/resultados')}}/'+identificador">
+                        <button class="btn btn-warning form-control">Resultados</button>
+                    </a> --}}
+                    {{ csrf_field() }}
+                    <button class="btn btn-warning form-control">Resultados</button>
+                </div>
+            </div>
+            </form>
         </template>
-        <pre>@{{$data}}</pre>
     </div>
 </template>
 @endsection

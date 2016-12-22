@@ -25,28 +25,13 @@ Route::group(['prefix' => 'res'], function(){
 // grupo de rutas de la aplicacion del VRI
 Route::group(['prefix' => 'vri'], function(){
     Route::get('', 'ctrl_vri@index');
-    Route::get('indexacion', 'ctrl_vri@indexacion');
-    Route::get('busqueda', 'ctrl_vri@busqueda');
+    Route::get('indexacion', 'ctrl_vri@indexacion');// hecho!
+    Route::get('busqueda', 'ctrl_vri@busqueda');// hecho!
     Route::get('comparar', 'ctrl_vri@comparar');
+    Route::get('comparacion/resultados', 'ctrl_vri@resultados');
+    Route::post('comparacion/resultado/{id}', 'ctrl_vri@resultado');
     Route::get('cola', 'ctrl_vri@cola');
     Route::get('archivosycarpetas', 'ctrl_vri@ayc');
-
-    // Route::get('', function(){
-    //     return view('vri.index');
-    // });
-    // Route::group(['prefix' => 'indexacion'], function(){
-    //     Route::get('', function(){
-    //         return view('vri.indexacion.index');
-    //     });
-    // });
-    // Route::group(['prefix' => 'busqueda'], function(){
-    //     Route::get('', function(){
-    //         return view('vri.busqueda.index');
-    //     });
-    // });
-    // Route::get('archivosycarpetas', function(){
-    //     return view('vri.ayc');
-    // });
 });
 
 //otros

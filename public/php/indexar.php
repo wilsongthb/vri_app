@@ -8,7 +8,7 @@ if(isset($_POST['direccion']) AND isset($_POST['nombre'])){
 	if(substr($ruta,-3) === "txt"){
 		$txt = file_get_contents($ruta);
 		// $txt = sanear_string($txt);
-		$txt = limpiarString($txt);
+		// $txt = limpiarString($txt);
 		$txt = addslashes($txt);
 		
 		$txt = utf8_encode($txt);
@@ -18,8 +18,7 @@ if(isset($_POST['direccion']) AND isset($_POST['nombre'])){
 		$sql = "INSERT INTO `homestead`.`archivo` (`nombre`, `ruta`, `contenido`, `grupo_id`, `created_at`, `updated_at`)
 				VALUES ('$nombre','$ruta','$txt',1, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);";
 
-		$cn = new mysqli('localhost', 'root', 'root', 'homestead');
-		$cn->set_charset("utf8");
+		require('cn.php');
 		$cn->query($sql);
 		echo json_encode([
 			'params' => $_POST,
