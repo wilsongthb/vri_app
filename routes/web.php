@@ -27,11 +27,11 @@ Route::group(['prefix' => 'vri'], function(){
     Route::get('', 'ctrl_vri@index');
     Route::get('indexacion', 'ctrl_vri@indexacion');// hecho!
     Route::get('busqueda', 'ctrl_vri@busqueda');// hecho!
-    Route::get('comparar', 'ctrl_vri@comparar');
+    Route::get('comparar', 'ctrl_vri@comparar');// hecho v1!
     Route::get('comparacion/resultados', 'ctrl_vri@resultados');
-    Route::post('comparacion/resultado/{id}', 'ctrl_vri@resultado');
+    Route::post('comparacion/resultado/{id}', 'ctrl_vri@resultado');// hecho!
     Route::get('cola', 'ctrl_vri@cola');
-    Route::get('archivosycarpetas', 'ctrl_vri@ayc');
+    Route::get('archivosycarpetas', 'ctrl_vri@ayc');// hecho!
 });
 
 //otros

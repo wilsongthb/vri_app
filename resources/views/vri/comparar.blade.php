@@ -52,42 +52,27 @@
         <template v-if="select == 3">
             <form v-bind:action="'{{url('/vri/comparacion/resultado')}}/'+identificador" method="post">
             <div class="col-md-6">
-                <div class="input-group">
                 <label for="">Archivo 1</label>
+                <div class="input-group">
                     <span class="input-group-addon btn btn-default" @click="select=1">
                         Seleccionar
                     </span>
                     <input type="text" v-model="ruta[0]" class="form-control" name="ruta0">
                 </div>
-                {{-- <label for="">Ver contenido</label>&nbsp;&nbsp;<input type="checkbox" v-model="ver.f1">
-                <template v-if="ver.f1">
-                    <pre>@{{txt1}}</pre>
-                </template> --}}
             </div>
             <div class="col-md-6">
-                <div class="input-group">
                 <label for="">Archivo 2</label>
+                <div class="input-group">
                     <span class="input-group-addon btn btn-default" @click="select=2">
                         Seleccionar
                     </span>
                     <input type="text" v-model="ruta[1]" class="form-control" name="ruta1">
                 </div>
-                {{-- <label for="">Ver contenido</label>&nbsp;&nbsp;<input type="checkbox" v-model="ver.f2">
-                <template v-if="ver.f2">
-                    <pre>@{{txt2}}</pre>
-                </template> --}}
             </div>
-            <hr>
-            <div class="row">
-                <div class="col-md-3">
-                    {{-- <hr>
-                    <button class="btn btn-default form-control" @click="comparar()">Comparar</button>
-                    <a v-bind:href="'{{url('/vri/comparacion/resultados')}}/'+identificador">
-                        <button class="btn btn-warning form-control">Resultados</button>
-                    </a> --}}
-                    {{ csrf_field() }}
-                    <button class="btn btn-warning form-control">Resultados</button>
-                </div>
+            <div class="col-md-3">
+                <hr>
+                {{ csrf_field() }}
+                <button class="btn btn-warning form-control">Resultados</button>
             </div>
             </form>
         </template>

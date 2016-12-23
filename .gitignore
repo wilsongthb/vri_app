@@ -1,6 +1,7 @@
 /node_modules
 /public/php/files
 /public/php/vendor
+/public/log
 /vendor
 /.idea
 Homestead.json

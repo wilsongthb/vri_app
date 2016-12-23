@@ -13,22 +13,11 @@ class Archivo extends Migration
      */
     public function up()
     {
-        Schema::create('grupo', function (Blueprint $table){
-            $table->increments('id');
-            $table->string('nombre');
-            $table->string('ruta');            
-            $table->timestamps();
-        });
-
         Schema::create('archivo', function (Blueprint $table) {
             $table->increments('id');
             $table->string('nombre');
             $table->string('ruta')->unique();
             $table->longtext('contenido');
-
-            $table->integer('grupo_id')->unsigned();
-            $table->foreign('grupo_id')->references('id')->on('grupo');
-
             $table->timestamps();
         });
     }
@@ -41,6 +30,5 @@ class Archivo extends Migration
     public function down()
     {
         Schema::dropIfExists('archivo');
-        Schema::dropIfExists('grupo');
     }
 }
