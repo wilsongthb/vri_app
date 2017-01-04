@@ -2,6 +2,8 @@
     <div class="panel-heading">Entrada de datos</div>
     <div class="panel-body">
         <ul>
+            <li><a href="{{url('/vri/form')}}">Subir</a></li>
+            <li><a href="{{url('/vri/convertir')}}">Convertir</a></li>
             <li><a href="{{url('/vri/indexacion')}}">Indexar</a></li>
         </ul>
     </div>
@@ -21,6 +23,7 @@
     <div class="panel-body">
         <ul>
             <li><a href="{{url('/vri/archivosycarpetas')}}">Ver Archivos y Carpetas</a></li>
+            <li><a href="{{url('/vri/status')}}">Status</a></li>
         </ul>
     </div>
 </div>

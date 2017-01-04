@@ -1,0 +1,1 @@
+mv: no se puede efectuar `stat' sobre '/var/www/laravel_8010/public/php/files/pdf/Heriberto_Chullunquia_Tisnado.txt': No existe el archivo o el directorio

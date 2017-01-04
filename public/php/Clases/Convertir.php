@@ -1,16 +1,12 @@
 <?php
 /*
-GET_CONTENT
+    GET_CONTENT
 
-Devuelve el contenido de un archivo en un response
-NOTA: no se ha verificado su confiabilidad
+    Devuelve el contenido de un archivo en un response
+    NOTA: no se ha verificado su confiabilidad
 
-Seguridad: aun no se ha verificado la seguridad de esta aplicacion
-v: 0.0.1
-*/
-
-/**
-* 
+    Seguridad: aun no se ha verificado la seguridad de esta aplicacion
+    v: 0.0.5
 */
 class Convertir
 {
@@ -27,6 +23,7 @@ class Convertir
         $archivo_txt = fopen($ruta,'r');
         if($archivo_txt){
             while (($bufer = fgets($archivo_txt, 4096)) !== false) {
+                // 4096 representa el bufer de entrada, este esta configurado en el archivo php.ini
                 $respuesta .= utf8_encode($bufer);
             }
             if (!feof($archivo_txt)) {
@@ -113,15 +110,31 @@ class Convertir
             'ocurrencias' => $ocurrencias
         ];
     }
-    public static function PDFaTXT($pdf, $destino, $argumentos = ""){
-        echo getcwd()."\n";
-        $comando = 'pdftotext '.$argumentos.' "' . $pdf . '" >>respuesta.txt 2>>error.txt';
-        echo "$comando\n";
-        exec($comando);
+    public static function PDFaTXT($pdf, $destino = '.', $argumentos = '', $detalle = false){
+        /*
+            Se encarga de transformar un archivo pdf y moverlo a la carpeta destino
+            basta con indicarle la ruta del pdf, el archivo se guardara en la misma carpeta
+            esta funcion no es segura!
+        */
 
+        $convertir = 'pdftotext '.$argumentos.' "' . $pdf . '" >>respuesta.txt 2>>error.txt';
         $ruta_txt = substr($pdf, 0, strrpos($pdf, '.')) . '.txt';
-        $comando = 'mv "' . $ruta_txt . '" "' . $destino . '" >>respuesta.txt 2>>error.txt';
-        echo "$comando\n";
-        system($comando);
+        $mover = 'mv "' . $ruta_txt . '" "' . $destino . '" >>respuesta.txt 2>>error.txt';
+
+        if($detalle){
+            echo "<pre>";
+            echo getcwd()."\n";
+            echo "$convertir\n";
+            echo "$mover\n";
+        }
+
+        system($convertir);
+        if($destino != '.'){
+            // si el destino es la misma carpeta o no se paso el argumento, no lo mueve
+            system($mover);
+        }
+
+        // devuelve la ruta archivo txt
+        return $destino . substr(substr($pdf, 0, strrpos($pdf, '/')), -4) . '.txt';
     }
 }

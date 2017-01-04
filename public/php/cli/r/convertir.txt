@@ -40,3 +40,13 @@ requiere de xpdf
 6_8
 7_8
 8_8
+--- TODO PDF A TXT - CLI ---
+requiere de xpdf
+1_8
+2_8
+3_8
+4_8
+5_8
+6_8
+7_8
+8_8

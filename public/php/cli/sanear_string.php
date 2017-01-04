@@ -48,6 +48,8 @@ function sanear_string($string)
         array('n', 'N', 'c', 'C',),
         $string
     );
+
+
  
     //Esta parte se encarga de eliminar cualquier caracter extraño
     // $string = str_replace(
@@ -64,5 +66,13 @@ function sanear_string($string)
     // );
  
  
+    return $string;
+}
+function mysanity($string){
+    $string = str_replace(
+        array('“', '”'),
+        array('"', '"'),
+        $string
+    );
     return $string;
 }

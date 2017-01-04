@@ -34,6 +34,9 @@ class ctrl_vri extends Controller
     function resultados(){
         return view('vri.resultados');
     }
+    function status(){
+        return view('vri.status');
+    }
     function resultado(Request $request, $id){
         $ruta0 = $request->input('ruta0');
         $ruta1 = $request->input('ruta1');

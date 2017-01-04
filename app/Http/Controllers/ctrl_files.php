@@ -15,4 +15,7 @@ class ctrl_files extends Controller
     function listar(Request $request){
         // print "<pre>".print_r(Storage::files('/files'),true);
     }
+    function convertir_index(){
+        return view('vri.convertir');
+    }
 }

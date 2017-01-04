@@ -7,24 +7,25 @@ if(isset($_POST['direccion']) AND isset($_POST['nombre'])){
 	$nombre = $_POST['nombre'];
 	if(substr($ruta,-3) === "txt"){
 		$txt = file_get_contents($ruta);
-		$txt = addslashes($txt);
+		
 		// $txt = sanear_string($txt);
 		// $txt = sanear_string($txt);
 		// $txt = limpiarString($txt);
-		
-		$txt = utf8_encode($txt);
+		// $txt = mb_convert_encoding($txt, 'UTF-8');
+		$txt = addslashes($txt);
+		// $txt = utf8_encode($txt);
+
+
 		$ruta = utf8_encode('/php/'.$ruta);
 		$nombre = utf8_encode($nombre);
 
-		$sql = "INSERT INTO `homestead`.`archivo` (`nombre`, `ruta`, `contenido`, `created_at`, `updated_at`)
-				VALUES ('$nombre','$ruta','$txt', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);";
+		$sql = "INSERT INTO `homestead`.`archivo` (`nombre`, `ruta`, `contenido`, `created_at`, `updated_at`) VALUES ('$nombre','$ruta','$txt', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);";
 
 		require('cn.php');
 		$cn->query($sql);
 		echo json_encode([
 			'params' => $_POST,
 			'error' => $cn->error,
-			// 'aviso' => $aviso,
 			// 'sql' => utf8_encode($sql)
 		]);
 	}else{
